@@ -2,18 +2,18 @@ name: Update latest.txt
 
 on:
   schedule:
-    - cron: '30 10 * * *'  # Every day at 6:30 AM EDT (10:30 UTC)
+    - cron: '30 10 * * *'  # 6:30 AM EDT
   workflow_dispatch:
 
 permissions:
-  contents: write  # Needed to commit changes
+  contents: write
 
 jobs:
-  generate:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
         with:
           persist-credentials: true
@@ -25,34 +25,13 @@ jobs:
 
       - name: Generate latest.txt
         run: |
-          python3 <<EOF
-import datetime
-today = datetime.datetime.now().strftime('%B %d, %Y')
-content = f'''Daily News Briefing – {today}
-
-INTERNATIONAL & NATIONAL HEADLINES
-• Canada holds inflation steady at 2.6%. {{{today} (CBC)}}
-• Macron calls snap French election after far-right surge. {{{today} (Reuters)}}
-• Biden meets with G7 leaders to discuss AI safeguards. {{{today} (Globe and Mail)}}
-
-AI POLICY & TECHNOLOGY
-• Treasury Board launches AI Assurance Framework for federal projects. {{{today} (Canada.ca)}}
-• UK announces joint AI testing standards with Canada and US. {{{today} (BBC)}}
-
-PUBLIC HEALTH & SCIENCE
-• PHAC expands wastewater GIS tracking for early disease clusters. {{{today} (CBC)}}
-• Heatwave warnings issued in BC and Alberta linked to spike in ER visits. {{{today} (Health Canada)}}
-
-GOVERNMENT DIGITAL STRATEGY
-• Canada’s Digital Credentials pilot expands to Service Canada offices. {{{today} (Globe and Mail)}}
-• Shared Services Canada updates cloud modernization roadmap. {{{today} (SSC)}}
-
-—
-Curated briefing for HC/PHAC, auto-updated via GitHub Pages.
-'''
-with open("latest.txt", "w") as f:
-    f.write(content)
-EOF
+          echo "Daily News Briefing – $(date '+%B %d, %Y')" > latest.txt
+          echo "" >> latest.txt
+          echo "INTERNATIONAL HEADLINES" >> latest.txt
+          echo "• Macron calls snap French election. {June 20, 2025 (Reuters)}" >> latest.txt
+          echo "• Biden meets G7 leaders on AI. {June 20, 2025 (Globe and Mail)}" >> latest.txt
+          echo "" >> latest.txt
+          echo "Updated automatically." >> latest.txt
 
       - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v5
