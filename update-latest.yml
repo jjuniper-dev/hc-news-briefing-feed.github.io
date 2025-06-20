@@ -2,19 +2,21 @@ name: Update latest.txt
 
 on:
   schedule:
-    - cron: '30 10 * * *'  # Runs at 6:30 AM EDT (10:30 UTC)
+    - cron: '30 10 * * *'  # Every day at 6:30 AM EDT (10:30 UTC)
   workflow_dispatch:
 
 permissions:
-  contents: write  # Needed to push changes
+  contents: write  # Needed to commit changes
 
 jobs:
-  update-briefing:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -23,10 +25,8 @@ jobs:
 
       - name: Generate latest.txt
         run: |
-          echo "Generating latest.txt"
           python3 <<EOF
 import datetime
-
 today = datetime.datetime.now().strftime('%B %d, %Y')
 content = f'''Daily News Briefing – {today}
 
@@ -54,9 +54,8 @@ with open("latest.txt", "w") as f:
     f.write(content)
 EOF
 
-      - name: Commit and push latest.txt
+      - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-update latest.txt for $(date +'%Y-%m-%d')"
           file_pattern: latest.txt
-          branch: main
