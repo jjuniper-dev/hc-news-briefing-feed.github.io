@@ -2,11 +2,11 @@ name: Update latest.txt
 
 on:
   schedule:
-    - cron: '30 10 * * *'  # Every day at 6:30 AM EDT (10:30 UTC)
+    - cron: '30 10 * * *'  # Runs at 6:30 AM EDT (10:30 UTC)
   workflow_dispatch:
 
 permissions:
-  contents: write  # Allow GitHub Actions to push to the repo
+  contents: write  # Needed to push changes
 
 jobs:
   update-briefing:
