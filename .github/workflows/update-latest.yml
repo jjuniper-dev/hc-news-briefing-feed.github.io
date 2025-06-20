@@ -1,1 +1,26 @@
+name: Daily News Briefing Update
 
+on:
+  schedule:
+    - cron: '0 10 * * 1-5'  # Runs at 6:00 AM ET Mon–Fri
+  workflow_dispatch:       # Allows manual run
+
+jobs:
+  update-latest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Fetch latest.txt from content source
+        run: |
+          curl -s https://hc-news-briefing-feed.github.io/generated/latest.txt -o latest.txt
+
+      - name: Commit and push updated file
+        run: |
+          git config user.name "news-bot"
+          git config user.email "newsbot@example.com"
+          git add latest.txt
+          git commit -m "Auto-update latest.txt for $(date '+%Y-%m-%d')" || echo "No changes to commit"
+          git push
