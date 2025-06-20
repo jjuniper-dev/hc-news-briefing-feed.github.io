@@ -1,0 +1,21 @@
+📅 Daily News Briefing – June 20, 2025
+
+🌍 INTERNATIONAL & NATIONAL HEADLINES
+• Canada holds inflation steady at 2.6%. {June 20, 2025 (CBC)}
+• Macron calls snap French election after far-right surge. {June 20, 2025 (Reuters)}
+• Biden meets with G7 leaders to discuss AI safeguards. {June 20, 2025 (Globe and Mail)}
+
+🧠 AI POLICY & TECHNOLOGY
+• Treasury Board launches AI Assurance Framework for federal projects. {June 20, 2025 (Canada.ca)}
+• UK announces joint AI testing standards with Canada and US. {June 20, 2025 (BBC)}
+
+🧬 PUBLIC HEALTH & SCIENCE
+• PHAC expands wastewater GIS tracking for early disease clusters. {June 20, 2025 (CBC)}
+• Heatwave warnings issued in BC and Alberta linked to spike in ER visits. {June 20, 2025 (Health Canada)}
+
+💻 GOVERNMENT DIGITAL STRATEGY
+• Canada’s Digital Credentials pilot expands to Service Canada offices. {June 20, 2025 (Globe and Mail)}
+• Shared Services Canada updates cloud modernization roadmap. {June 20, 2025 (SSC)}
+
+—
+Curated briefing for HC/PHAC, auto-updated via GitHub Pages.
