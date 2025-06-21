@@ -1,25 +1,19 @@
 Ottawa Weather – June 21, 2025: Data unavailable.
 
-
-
 US HEADLINES
+• Federal judge declines to order Trump officials to recover deleted Signal messages {June 20, 2025 (www.npr.org)}
+  The watchdog group American Oversight had asked a federal judge to order top national security officials to preserve any messages they may have sent on the private messaging app Signal. (Image credit: Brendan Smialowski)
+  Link: https://www.npr.org/2025/06/20/nx-s1-5359069/signal-ruling-hegseth-american-oversight-boasberg
+• What Does the Israel-Iran War Mean for the Middle East? {June 20, 2025 (www.npr.org)}
+  As Israel and Iran continue missile attacks against one another, we look at how countries in the Middle East are viewing the conflict. Whether that war could spread and if other powers in the region are bracing for a wider conflict. And we hear from some residents of Tehran weighing the decision of fleeing the Iranian capital as President Trump commanded or staying and taking their chances.
+  Link: https://www.npr.org/2025/06/20/1254460270/what-does-the-israel-iran-war-mean-for-the-middle-east
 
-• Federal judge declines to order Trump officials to recover deleted Signal messages
-   Watchdog group American Oversight had asked a federal judge to order top national security officials to preserve any messages they may have sent on the private messaging app Signal . American Oversight wants to preserve messages sent on Signal . {June 20, 2025 (www.npr.org)}
-
-• What Does the Israel-Iran War Mean for the Middle East?
-   As Israel and Iran continue missile attacks against one another, we look at how countries in the Middle East are viewing the conflict . And we hear from some residents of Tehran weighing the decision of fleeing the Iranian capital as President Trump commanded . {June 20, 2025 (www.npr.org)}
-
-
-
-AI & IT HEADLINES
-
-• Netflix, Apple, BofA websites hijacked with fake help-desk numbers
-   Scammers are hijacking search results of people needing 24/7 support from Apple, Bank of America, Facebook, HP, Microsoft, Netflix, and PayPal in an attempt to trick victims into handing over personal or financial info . {June 20, 2025 (go.theregister.com)}
-
-• New GitHub Copilot limits push AI users to pricier tiers
-   Microsoft's GitHub Copilot customers will now face monthly limits on certain types of high-powered AI requests . They will have to pay more if they want to surpass those limits, and will pay more to do so . {June 20, 2025 (go.theregister.com)}
-
-
+PUBLIC HEALTH HEADLINES
+• Health Promotion and Chronic Disease Prevention in Canada, Vol 45, No 6, June 2025 {June 18, 2025 (www.canada.ca)}
+  Trends in cannabis-attributable hospitalizations and emergency department visits from 2007 to 2020: data from the Canadian Substance Use Costs and Harms Study (2007–2020); Sex-specific estimates of positive mental health among youth before and during the COVID-19 pandemic in Canada
+  Link: https://www.canada.ca/en/public-health/services/reports-publications/health-promotion-chronic-disease-prevention-canada-research-policy-practice/vol-45-no-6-2025.html
+• Health Promotion and Chronic Disease Prevention in Canada, Vol 45, No 5, May 2025 {May 21, 2025 (www.canada.ca)}
+  Prevalence and sequence of chronic conditions in older people with dementia: a multi-province, population-based cohort study; Coping and positive mental health in Canada among youth and adults: findings from a population-based nationally representative survey
+  Link: https://www.canada.ca/en/public-health/services/reports-publications/health-promotion-chronic-disease-prevention-canada-research-policy-practice/vol-45-no-5-2025.html
 
 — End of briefing —
