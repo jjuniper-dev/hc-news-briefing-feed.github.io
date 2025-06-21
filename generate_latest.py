@@ -1,63 +1,75 @@
+#!/usr/bin/env python3
+
 import feedparser
 from datetime import datetime
 
-# --- CONFIG ---
+# --- CONFIGURE YOUR SOURCES HERE ---
 RSS_FEEDS = [
-    # International News
     ("International", "http://feeds.reuters.com/Reuters/worldNews"),
-    # Canada News
-    ("National", "https://rss.cbc.ca/lineup/canada.xml"),
-    # U.S. News
-    ("US", "https://feeds.npr.org/1001/rss.xml"),
-    # IT and AI News (General, relevant to HC/PHAC)
-    ("AI & IT", "https://feeds.arstechnica.com/arstechnica/technology-policy"),
-    ("AI & IT", "https://www.theregister.com/headlines.atom")
+    ("National",      "https://rss.cbc.ca/lineup/canada.xml"),
+    ("US",            "https://feeds.npr.org/1001/rss.xml"),
+    ("AI & IT",       "https://feeds.arstechnica.com/arstechnica/technology-policy"),
+    ("AI & IT",       "https://www.theregister.com/headlines.atom"),
 ]
 
-WEATHER_FEED = "https://dd.weather.gc.ca/rss/city/on-118_e.xml"  # Ottawa
+WEATHER_FEED = "https://dd.weather.gc.ca/rss/city/on-131_e.xml"  # Ottawa
 
 # --- FUNCTIONS ---
-def get_weather_summary():
+def get_weather_summary() -> str:
     feed = feedparser.parse(WEATHER_FEED)
+    if not feed.entries:
+        return "Ottawa Weather – data unavailable."
     today = feed.entries[0]
     tomorrow = feed.entries[1] if len(feed.entries) > 1 else None
+
     today_text = f"{today.title}: {today.summary}"
     tomorrow_text = f"{tomorrow.title}: {tomorrow.summary}" if tomorrow else ""
-    return f"Ottawa Weather – {datetime.now().strftime('%B %d, %Y')}\n{today_text}\nTomorrow: {tomorrow_text}"
+    header = f"Ottawa Weather – {datetime.now():%B %d, %Y}"
+    return "\n".join([header, today_text, f"Tomorrow: {tomorrow_text}"])
 
-
-def format_entry(entry):
-    # Use content if available, else summary
-    if hasattr(entry, 'content') and entry.content:
+def format_entry(entry) -> str:
+    # Prefer full content if provided, otherwise summary
+    if hasattr(entry, "content") and entry.content:
         text = entry.content[0].value.strip()
     else:
-        text = entry.get('summary', '').strip()
-    # Clean HTML tags if necessary
-    published = datetime(*entry.published_parsed[:6]).strftime('%B %d, %Y') if 'published_parsed' in entry else ""
-    source = entry.get('source', {}).get('title', '') or entry.link.split('/')[2]
-    return f"• {entry.title.strip()}\n  {text} {{{published} ({source})}}"
+        text = entry.get("summary", "").strip()
+    # Publication date
+    if "published_parsed" in entry and entry.published_parsed:
+        pub = datetime(*entry.published_parsed[:6]).strftime("%B %d, %Y")
+    else:
+        pub = ""
+    # Source name
+    source = entry.get("source", {}).get("title", "")
+    if not source:
+        source = entry.link.split("/")[2]
+    # Build the bullet with citation
+    title = entry.title.strip()
+    return f"• {title}\n  {text} {{{pub} ({source})}}"
 
+def collect_briefing() -> str:
+    parts = []
+    # 1) Weather
+    parts.append(get_weather_summary())
+    parts.append("")  # blank line
 
-def collect_headlines():
-    sections = []
-    # Weather section
-    sections.append(get_weather_summary())
-
-    # News sections
+    # 2) News Sections
     for label, url in RSS_FEEDS:
         feed = feedparser.parse(url)
-        entries = feed.entries[:2]  # Top 2 stories
-        if entries:
-            sections.append(f"\n{label.upper()} HEADLINES")
-            for e in entries:
-                sections.append(format_entry(e))
+        entries = feed.entries[:2]  # top 2 items
+        if not entries:
+            continue
+        parts.append(f"{label.upper()} HEADLINES")
+        for e in entries:
+            parts.append(format_entry(e))
+        parts.append("")  # blank line
 
-    sections.append("\n— End of briefing —")
-    return "\n\n".join(sections)
+    parts.append("— End of briefing —")
+    # Join with double line breaks for readability
+    return "\n\n".join(parts)
 
-# --- MAIN ---
+# --- MAIN EXECUTION ---
 if __name__ == "__main__":
-    briefing_text = collect_headlines()
+    briefing = collect_briefing()
     with open("latest.txt", "w", encoding="utf-8") as f:
-        f.write(briefing_text)
+        f.write(briefing)
     print("latest.txt updated with full content.")
