@@ -64,17 +64,20 @@ GROUPED_FEEDS = {
     ]
 }
 
-# Initialize summarizer
+# Initialize summarizer (local model)
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
-def strip_html(text):
+def strip_html(text: str) -> str:
+    """Remove HTML tags and unescape entities."""
     if not text:
         return ""
+    # Remove tags
     text = re.sub(r'<[^>]+>', '', text)
-    text = html.unescape(text)
-    return text.strip()
+    # Unescape HTML entities
+    return html.unescape(text).strip()
 
-def safe_parse(url):
+def safe_parse(url: str):
+    """Parse an RSS feed, returning an empty list on failure."""
     try:
         return feedparser.parse(url)
     except RemoteDisconnected:
@@ -83,59 +86,71 @@ def safe_parse(url):
         print(f"Warning: Failed to parse {url}: {e}")
         return feedparser.FeedParserDict(entries=[])
 
-def summarize_text(text):
+def summarize_text(text: str) -> str:
+    """Generate a concise summary of the given text."""
     cleaned = strip_html(text)
     if not cleaned:
         return ""
     result = summarizer(cleaned, max_length=120, min_length=40, do_sample=False)
     return result[0]['summary_text'].strip()
 
-def collect_multi_day_briefing():
+def collect_multi_day_briefing() -> str:
     parts = []
-    parts.append(f"Multi-Day News Briefing (Last {DAYS_BACK} days) – {datetime.now():%B %d, %Y}")
+    header = datetime.now().strftime("%B %d, %Y")
+    parts.append(f"Multi-Day News Briefing (Last {DAYS_BACK} days) – {header}")
     parts.append("")
 
     for section, urls in GROUPED_FEEDS.items():
-        section_items = []
+        items = []
+
+        # Fetch and filter entries
         for url in urls:
             feed = safe_parse(url)
             for entry in feed.entries:
-                if hasattr(entry, 'published_parsed'):
+                if hasattr(entry, "published_parsed"):
                     pub_dt = datetime(*entry.published_parsed[:6])
                     if pub_dt >= CUT_OFF:
-                        section_items.append((pub_dt, entry))
+                        items.append((pub_dt, entry))
 
-        if not section_items:
-            if section == "National (Canada)":
-                parts.append(section.upper())
-                parts.append("⚠️ No Canadian national news items found in the last 5 days.")
-                parts.append("Check RSS feed availability or add backup sources.\n")
+        # Canadian fallback warning
+        if not items and section == "National (Canada)":
+            parts.append(section.upper())
+            parts.append("⚠️ No Canadian national news items found in the last 5 days.")
+            parts.append("Check RSS feed availability or add backup sources.")
+            parts.append("")
             continue
 
-        section_items.sort(key=lambda x: x[0], reverse=True)
+        # Sort newest first
+        items.sort(key=lambda x: x[0], reverse=True)
         parts.append(section.upper())
 
         count = 0
-        for pub_dt, entry in section_items:
-            # For weather, only the first 3 entries (Today, Tonight, Tomorrow)
+        for pub_dt, entry in items:
+            # For weather, only take the first 3 entries
             if section == "Weather":
                 if count >= 3:
                     break
                 count += 1
 
+            # Build each item
             title = strip_html(entry.title)
-            content = entry.get('content', [{}])[0].get('value') if entry.get('content') else entry.get('summary')
+            # Prefer full content if available, else summary
+            content = (
+                entry.get("content", [{}])[0].get("value", "")
+                if entry.get("content")
+                else entry.get("summary", "")
+            )
             summary = summarize_text(content)
-            date_str = pub_dt.strftime('%B %d, %Y')
+            date_str = pub_dt.strftime("%B %d, %Y")
 
             parts.append(f"• {title} ({date_str})")
             parts.append(f"  {summary}")
-            parts.append("(— pause —)\n")
+            parts.append("(— pause —)")
+            parts.append("")
 
     parts.append("— End of briefing —")
     return "\n".join(parts)
 
-# Main execution
 if __name__ == "__main__":
     try:
         briefing = collect_multi_day_briefing()
