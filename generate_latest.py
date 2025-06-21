@@ -20,14 +20,15 @@ GROUPED_FEEDS = {
     "Canadian": [
         "https://rss.cbc.ca/lineup/canada.xml"
     ],
-    "US": [
+    "U.S.": [
         "https://feeds.npr.org/1001/rss.xml"
     ],
     "Public Health": [
         "https://www.canada.ca/etc/+/health/public-health-updates.rss"
     ],
     "Public Sector AI": [
-        # placeholder for GC digital strategy if available
+        # replace with actual GC digital strategy feed
+        "https://open.canada.ca/data/en/dataset/f5fb5b90…/4cb7fb774…"
     ],
     "Gartner": [
         "http://blogs.gartner.com/gbn/feed/",
@@ -46,6 +47,8 @@ GROUPED_FEEDS = {
         "https://www.cio.com/ciolib/rss/cio/government.xml"
     ],
     "AI & Emerging Tech": [
+        "https://feeds.arstechnica.com/arstechnica/technology-policy",
+        "https://www.theregister.com/headlines.atom",
         "https://www.technologyreview.com/feed/",
         "http://aiweekly.co/rss",
         "https://venturebeat.com/category/ai/feed/"
@@ -68,38 +71,36 @@ GROUPED_FEEDS = {
         "https://www.microsoft.com/en-us/research/feed/?category=AI",
         "https://blogs.nvidia.com/blog/category/ai-blogs/feed/",
         "https://aws.amazon.com/blogs/machine-learning/feed/"
-    ]
+    ],
 }
 
-# Initialize AI summarizer once
+# Initialize summarizer once
 summarizer = pipeline("summarization")
-
-# Helpers
 
 def safe_parse(url):
     try:
         return feedparser.parse(url)
     except RemoteDisconnected:
-        return feedparser.FeedParserDict(entries=[], feed={})
-    except Exception:
-        return feedparser.FeedParserDict(entries=[], feed={})
-
+        print(f"Warning: disconnected from {url}")
+        return feedparser.FeedParserDict(entries=[])
+    except Exception as e:
+        print(f"Warning: failed to parse {url}: {e}")
+        return feedparser.FeedParserDict(entries=[])
 
 def strip_tags(html: str) -> str:
     return re.sub(r'<[^>]+>', '', html)
 
-
 def clean_text(text: str) -> str:
-    # Remove image placeholders and markdown noise
-    text = re.sub(r'【Image.*?】', '', text)
-    text = re.sub(r'\(Image credit:.*?\)', '', text)
-    text = re.sub(r'^####.*$', '', text, flags=re.MULTILINE)
-    # Collapse multiple blank lines
-    text = re.sub(r'\n{2,}', '\n\n', text)
-    # Strip whitespace
-    lines = [line.strip() for line in text.splitlines()]
-    return '\n'.join([l for l in lines if l])
-
+    # remove image artifacts
+    text = re.sub(r"【Image.*?】", "", text)
+    text = re.sub(r"\(Image credit:.*?\)", "", text)
+    # remove markdown headers
+    text = re.sub(r"^####.*$", "", text, flags=re.MULTILINE)
+    # collapse multiple blank lines
+    text = re.sub(r"\n{2,}", "\n\n", text)
+    # trim each line
+    lines = [line.strip() for line in text.splitlines() if line.strip()]
+    return "\n".join(lines)
 
 def ai_summary(text: str) -> str:
     words = text.split()
@@ -107,73 +108,76 @@ def ai_summary(text: str) -> str:
         return text
     max_len = min(len(words)//2, 60)
     try:
-        return summarizer(text, max_length=max_len, min_length=20, do_sample=False)[0]['summary_text'].strip()
-    except Exception:
+        out = summarizer(text, max_length=max_len, min_length=20, do_sample=False)
+        return out[0]["summary_text"].strip()
+    except Exception as e:
+        print(f"Warning: summarization failed: {e}")
         return text
 
+def collect_briefing():
+    parts = []
+    # Weather: only top 1 for today
+    for url in GROUPED_FEEDS["Weather"]:
+        feed = safe_parse(url)
+        if not feed.entries:
+            parts.append(f"Weather data unavailable.")
+        else:
+            today = feed.entries[0]
+            summary = strip_tags(today.summary)
+            parts.append(f"Ottawa Weather – {datetime.now():%B %d, %Y}")
+            parts.append(clean_text(summary))
+        break
+    parts.append("")
 
-def get_weather():
-    feed = safe_parse(GROUPED_FEEDS['Weather'][0])
-    entries = feed.entries[:2]
-    lines = []
-    if entries:
-        lines.append(f"Ottawa Weather – {datetime.now():%B %d, %Y}")
-        for e in entries:
-            title = strip_tags(e.title)
-            summary = strip_tags(e.get('summary', ''))
-            lines.append(f"{title}: {summary}")
-    return '\n'.join(lines)
-
-
-def collect_multi_day():
-    all_items = []
+    # News: collect all entries past cut-off
+    entries = []
     for section, urls in GROUPED_FEEDS.items():
+        if section == "Weather":
+            continue
         for url in urls:
             feed = safe_parse(url)
-            for entry in feed.entries:
-                if 'published_parsed' not in entry:
+            for e in feed.entries:
+                if 'published_parsed' not in e:
                     continue
-                pub = datetime(*entry.published_parsed[:6])
+                pub = datetime(*e.published_parsed[:6])
                 if pub < CUT_OFF:
                     continue
-                all_items.append((pub, section, entry))
-    # Sort and group by date
-    all_items.sort(key=lambda x: x[0], reverse=True)
-    grouped = {}
-    for pub, section, entry in all_items:
-        day = pub.strftime('%B %d, %Y')
-        grouped.setdefault(day, []).append((section, entry))
-    # Build text
-    parts = [f"Multi-Day Briefing ({DAYS_BACK} days)\n"]
-    parts.append(get_weather())
-    for day, items in grouped.items():
-        parts.append(f"\n{day}")
-        for section, entry in items:
-            title = strip_tags(entry.title)
-            content = ''
-            if hasattr(entry, 'content') and entry.content:
-                content = entry.content[0].value
-            else:
-                content = entry.get('summary', '')
-            content = strip_tags(content)
-            summary = ai_summary(content)
-            summary = clean_text(summary)
-            pub_str = datetime(*entry.published_parsed[:6]).strftime('%B %d, %Y')
-            parts.append(f"• [{section}] {title}\n  {summary} {{{pub_str}}}")
-    parts.append("\n— End of briefing —")
-    return '\n'.join(parts)
+                entries.append((pub, section, e))
+    entries.sort(key=lambda x: x[0], reverse=True)
 
-# Main
-if __name__ == '__main__':
+    # Group by date
+    grouped = {}
+    for pub, section, e in entries:
+        day = pub.strftime("%B %d, %Y")
+        grouped.setdefault(day, []).append((section, e))
+
+    for day, items in grouped.items():
+        parts.append(day)
+        for section, e in items:
+            raw = ""
+            if hasattr(e, 'content') and e.content:
+                raw = e.content[0].value
+            else:
+                raw = e.get('summary', '')
+            text = strip_tags(raw)
+            summary = ai_summary(text)
+            clean = clean_text(summary)
+            parts.append(f"• [{section}] {e.title.strip()}\n  {clean} {{{pub.strftime('%B %d, %Y')}}}")
+        parts.append("")
+
+    parts.append("— End of briefing —")
+    return "\n".join(parts)
+
+if __name__ == "__main__":
     try:
-        text = collect_multi_day()
-        with open('latest.txt', 'w', encoding='utf-8') as f:
-            f.write(text)
-        print('latest.txt updated successfully.')
+        briefing = collect_briefing()
+        with open("latest.txt", "w", encoding="utf-8") as f:
+            f.write(briefing)
+        print("latest.txt updated successfully.")
     except Exception as e:
-        err = f"⚠️ ERROR in briefing generation: {type(e).__name__}: {e}"
-        print(err)
-        with open('latest.txt', 'w', encoding='utf-8') as f:
+        msg = f"⚠️ ERROR in briefing generation: {type(e).__name__}: {e}"
+        print(msg)
+        with open("latest.txt", "w", encoding="utf-8") as f:
             f.write("⚠️ Daily briefing failed to generate.\n")
-            f.write(err)
+            f.write(msg + "\n")
         exit(0)
