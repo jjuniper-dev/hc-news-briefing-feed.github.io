@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write        # required to push changes
+  contents: write        # allow committing back to the repo
 
 jobs:
   build-briefing:
@@ -30,9 +30,7 @@ jobs:
 
       - name: Verify generate_latest.py exists
         run: |
-          echo "Listing files in repo root:"
           ls -1
-          echo "Preview of script:"
           head -n 5 generate_latest.py
 
       - name: Generate latest.txt
