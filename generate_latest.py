@@ -100,14 +100,14 @@ def collect_multi_day_briefing():
             feed = safe_parse(url)
             for entry in feed.entries:
                 try:
-                    if section == "Weather":
-                        if hasattr(entry, 'published_parsed'):
-                            pub_dt = datetime(*entry.published_parsed[:6])
+                    if hasattr(entry, 'published_parsed'):
+                        pub_dt = datetime(*entry.published_parsed[:6])
+
+                        if section == "Weather":
                             if pub_dt.date() >= datetime.now().date() - timedelta(days=1):
-                                section_items.append((pub_dt, entry))
-                    else:
-                        if hasattr(entry, 'published_parsed'):
-                            pub_dt = datetime(*entry.published_parsed[:6])
+                                if any(k in entry.title for k in ["Today", "Tonight", "Tomorrow"]):
+                                    section_items.append((pub_dt, entry))
+                        else:
                             if pub_dt >= CUT_OFF:
                                 section_items.append((pub_dt, entry))
                 except Exception as e:
