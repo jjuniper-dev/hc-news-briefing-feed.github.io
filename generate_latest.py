@@ -62,7 +62,7 @@ GROUPED_FEEDS = {
     ]
 }
 
-# Initialize summarizer using the best quality model available for free
+# Initialize summarizer
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
 # Utility functions
@@ -101,8 +101,10 @@ def collect_multi_day_briefing():
             for entry in feed.entries:
                 try:
                     if section == "Weather":
-                        if any(keyword in entry.title for keyword in ["Today", "Tonight", "Tomorrow"]):
-                            section_items.append((datetime.now(), entry))
+                        if hasattr(entry, 'published_parsed'):
+                            pub_dt = datetime(*entry.published_parsed[:6])
+                            if pub_dt.date() >= datetime.now().date() - timedelta(days=1):
+                                section_items.append((pub_dt, entry))
                     else:
                         if hasattr(entry, 'published_parsed'):
                             pub_dt = datetime(*entry.published_parsed[:6])
