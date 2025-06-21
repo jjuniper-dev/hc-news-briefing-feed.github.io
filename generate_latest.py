@@ -21,14 +21,14 @@ GROUPED_FEEDS = {
     "Canadian": [
         "https://rss.cbc.ca/lineup/canada.xml"
     ],
-    "U.S.": [
+    "US": [
         "https://feeds.npr.org/1001/rss.xml"
     ],
     "Public Health": [
         "https://www.canada.ca/etc/+/health/public-health-updates.rss"
     ],
     "Public Sector AI": [
-        # placeholder for Government digital strategy feed(s)
+        "https://open.canada.ca/data/en/dataset/f5fb5b90/resource/4cb7fb774/feed.xml"
     ],
     "Gartner": [
         "http://blogs.gartner.com/gbn/feed/",
@@ -73,75 +73,101 @@ GROUPED_FEEDS = {
 }
 
 # Initialize summarizer once
-summarizer = pipeline("summarization")
+def init_summarizer():
+    try:
+        return pipeline("summarization")
+    except Exception as e:
+        print(f"⚠️ WARNING: Failed to load summarizer: {e}")
+        return None
 
-# Helper: safe parse to handle disconnections
+summarizer = init_summarizer()
+
+# Safe RSS parse
 def safe_parse(url):
     try:
         return feedparser.parse(url)
     except RemoteDisconnected:
-        return feedparser.FeedParserDict(entries=[], feed={})
+        print(f"⚠️ WARNING: RemoteDisconnected for {url}")
+        return feedparser.FeedParserDict(entries=[])  # empty
     except Exception as e:
-        print(f"Warning: failed to parse {url}: {e}")
-        return feedparser.FeedParserDict(entries=[], feed={})
+        print(f"⚠️ WARNING: Failed to parse {url}: {e}")
+        return feedparser.FeedParserDict(entries=[])
 
-# Helper: strip HTML tags
+# Clean HTML tags
 def clean_html(text):
     return re.sub(r'<[^>]+>', '', text or '').strip()
 
-# AI summary with skip for short text
+# AI summary with safeguards
 def ai_summary(text):
+    text = clean_html(text)
     words = text.split()
-    if len(words) < 50:
-        return text.strip()
-    max_len = min(len(words)//2, 120)
-    return summarizer(
-        text,
-        max_length=max_len,
-        min_length=20,
-        do_sample=False
-    )[0]["summary_text"].strip()
+    if not summarizer or len(words) < 50:
+        return text
+    max_len = min(len(words)//2, 60)
+    try:
+        out = summarizer(text, max_length=max_len, min_length=20, do_sample=False)
+        return out[0]['summary_text'].strip()
+    except Exception as e:
+        print(f"⚠️ WARNING: Summarization failed: {e}")
+        return text
 
-# Build multi-day briefing
+# Collect multi-day briefing
 def collect_briefing():
-    lines = []
-    # Header
-    lines.append(f"Multi-Day News Briefing (Last {DAYS_BACK} days) - {datetime.now().strftime('%B %d, %Y')}")
-    lines.append("")
-    for section, urls in GROUPED_FEEDS.items():
-        lines.append(section.upper())
+    sections = []
+    # Weather first
+    weather_feed = safe_parse(GROUPED_FEEDS['Weather'][0])
+    if weather_feed.entries:
+        today = weather_feed.entries[0]
+        tomorrow = weather_feed.entries[1] if len(weather_feed.entries)>1 else None
+        sections.append(f"Ottawa Weather – {datetime.now():%B %d, %Y}")
+        sections.append(f"Tonight: {clean_html(today.summary)}")
+        if tomorrow:
+            sections.append(f"Tomorrow: {clean_html(tomorrow.summary)}")
+        sections.append("")
+
+    # News sections
+    all_items = []
+    for label, urls in GROUPED_FEEDS.items():
+        if label == 'Weather': continue
         for url in urls:
             feed = safe_parse(url)
             for entry in feed.entries:
                 if 'published_parsed' not in entry:
                     continue
                 pub = datetime(*entry.published_parsed[:6])
-                if pub < CUT_OFF:
-                    continue
-                title = clean_html(entry.title)
-                content = ''
-                if hasattr(entry, 'content') and entry.content:
-                    content = entry.content[0].value
-                else:
-                    content = entry.get('summary', '')
-                text = clean_html(content)
-                summary = ai_summary(text)
-                date_str = pub.strftime('%B %d, %Y')
-                lines.append(f"• {title} ({date_str})")
-                lines.append(f"  {summary}")
-        lines.append("")
-    lines.append("— End of briefing —")
-    return "\n".join(lines)
+                if pub >= CUT_OFF:
+                    all_items.append((pub, label, entry))
+    # sort by date desc
+    all_items.sort(key=lambda x: x[0], reverse=True)
 
-if __name__ == '__main__':
+    # group by day
+    day_groups = {}
+    for pub, label, entry in all_items:
+        day = pub.strftime('%B %d, %Y')
+        day_groups.setdefault(day, []).append((label, entry))
+
+    for day, items in day_groups.items():
+        sections.append(day)
+        for label, entry in items:
+            title = clean_html(entry.title)
+            text = entry.get('content', [{'value': entry.get('summary','')}])[0]['value']
+            summary = ai_summary(text)
+            source = entry.get('source',{}).get('title','') or label
+            sections.append(f"• [{label}] {title}\n  {summary} {{{pub:%B %d, %Y} ({source})}}")
+        sections.append("")
+
+    sections.append("— End of briefing —")
+    return "\n".join(sections)
+
+if __name__ == "__main__":
     try:
         briefing = collect_briefing()
-        with open('latest.txt', 'w', encoding='utf-8') as f:
+        with open('latest.txt','w',encoding='utf-8') as f:
             f.write(briefing)
-        print('latest.txt updated successfully.')
+        print("latest.txt updated successfully.")
     except Exception as e:
-        err = f"⚠️ ERROR in briefing generation: {type(e).__name__}: {e}"
-        print(err)
-        with open('latest.txt', 'w', encoding='utf-8') as f:
-            f.write(err)
+        errmsg = f"⚠️ ERROR in briefing generation: {type(e).__name__}: {e}"
+        print(errmsg)
+        with open('latest.txt','w',encoding='utf-8') as f:
+            f.write(errmsg)
         exit(0)
