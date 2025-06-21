@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write        # allow committing back to the repo
+  contents: write
 
 jobs:
   build-briefing:
@@ -18,7 +18,7 @@ jobs:
         with:
           persist-credentials: true
 
-      - name: Set up Python
+      - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -28,9 +28,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install feedparser requests
 
-      - name: Verify generate_latest.py exists
+      - name: List repo root and check script
         run: |
-          ls -1
+          echo "Contents of repo root:"
+          ls -lah .
+          echo "--- Checking generate_latest.py ---"
+          if [ ! -f generate_latest.py ]; then
+            echo "❌ generate_latest.py not found in repo root!" >&2
+            exit 1
+          fi
           head -n 5 generate_latest.py
 
       - name: Generate latest.txt
