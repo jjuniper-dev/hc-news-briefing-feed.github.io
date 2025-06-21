@@ -19,31 +19,46 @@ GROUPED_FEEDS = {
         "https://rss.cbc.ca/lineup/canada.xml"
     ],
     "Canadian CTV": [
-        "https://www.ctvnews.ca/rss/ctvnews-ca-canada-public-rss.xml"
+        "https://www.theglobeandmail.com/canada/toronto/feed/"
     ],
-    "U.S.": [
+    "US": [
         "https://feeds.npr.org/1001/rss.xml"
     ],
     "International": [
         "http://feeds.reuters.com/Reuters/worldNews"
     ],
-    # Special sections (one-liners)
-    "Public Health": ["https://www.canada.ca/etc/+/health/public-health-updates.rss"],
+    "Public Health": [
+        "https://www.canada.ca/etc/+/health/public-health-updates.rss"
+    ],
     "AI & Emerging Tech": [
-        "https://feeds.arstechnica.com/arstechnica/technology-policy"    ],
-    "Cybersecurity": ["https://krebsonsecurity.com/feed/"],
-    "Enterprise Architecture": ["https://www.opengroup.org/news/rss/news-release.xml"],
-    "Geomatics": ["https://www.gstb.ca/rss-feed"],  # example geomatics feed
+        "https://feeds.arstechnica.com/arstechnica/technology-policy",
+        "https://www.theregister.com/headlines.atom"
+    ],
+    "Cybersecurity": [
+        "https://krebsonsecurity.com/feed/",
+        "https://www.nist.gov/blogs/blog.rss"
+    ],
+    "Enterprise Arch & IT Gov": [
+        "https://www.opengroup.org/news/rss/news-release.xml",
+        "https://www.cio.com/ciolib/rss/cio/government.xml"
+    ],
+    "Geomatics": [
+        "https://geomatics-news.example.com/rss"
+    ],
 }
 
 # Initialize summarizer once
-tokenizer = pipeline("summarization")
+summarizer = pipeline("summarization")
 
 
 def safe_parse(url):
     try:
         return feedparser.parse(url)
-    except Exception:
+    except RemoteDisconnected:
+        print(f"Warning: disconnected from {url}")
+        return feedparser.FeedParserDict(entries=[])
+    except Exception as e:
+        print(f"Warning: failed to parse {url}: {e}")
         return feedparser.FeedParserDict(entries=[])
 
 
@@ -54,9 +69,10 @@ def strip_tags(html: str) -> str:
 def clean_text(text: str) -> str:
     text = re.sub(r"【Image.*?】", "", text)
     text = re.sub(r"\(Image credit:.*?\)", "", text)
-    text = re.sub(r"^####.*$", "", text, flags=re.MULTILINE)
+    text = re.sub(r"Read More.*", "", text)
     text = re.sub(r"\n{2,}", "\n\n", text)
-    return " ".join(line.strip() for line in text.splitlines() if line.strip())
+    lines = [line.strip() for line in text.splitlines() if line.strip()]
+    return "\n".join(lines)
 
 
 def ai_summary(text: str) -> str:
@@ -65,81 +81,94 @@ def ai_summary(text: str) -> str:
         return text
     max_len = min(len(words)//2, 60)
     try:
-        out = tokenizer(text, max_length=max_len, min_length=20, do_sample=False)
+        out = summarizer(text, max_length=max_len, min_length=20, do_sample=False)
         return out[0]["summary_text"].strip()
-    except Exception:
+    except Exception as e:
+        print(f"Warning: summarization failed: {e}")
         return text
 
 
-def get_weather():
-    feed = safe_parse(GROUPED_FEEDS["Weather"][0])
+def get_weather_summary() -> str:
+    url = GROUPED_FEEDS["Weather"][0]
+    feed = safe_parse(url)
     if not feed.entries:
         return "Ottawa Weather data unavailable."
-    ent = feed.entries[0]
-    summary = strip_tags(ent.summary)
-    lines = summary.split('</br>') if '</br>' in summary else summary.split('\n')
-    today = clean_text(lines[0]) if lines else clean_text(summary)
-    tomorrow = clean_text(lines[1]) if len(lines)>1 else ''
-    return f"Ottawa Weather – {datetime.now():%B %d, %Y}\n• {today}\n• {tomorrow}"
+    today = feed.entries[0]
+    summary = strip_tags(today.summary)
+    lines = clean_text(summary).split("\n")
+    # Simplify to tonight/tomorrow
+    result = [f"Ottawa Weather – {datetime.now():%B %d, %Y}"]
+    if len(lines) >= 2:
+        result.append(f"• Tonight: {lines[0]}")
+        result.append(f"• Tomorrow: {lines[1]}")
+    else:
+        result.extend([f"• {l}" for l in lines])
+    return "\n".join(result)
 
 
-def fetch_top(section, count=2):
-    items = []
-    urls = GROUPED_FEEDS.get(section, [])
-    if not urls:
-        return items
-    feed = safe_parse(urls[0])
-    for e in feed.entries[:count]:
-        date = datetime(*e.published_parsed[:6]).strftime('%b %d') if 'published_parsed' in e else ''
-        raw = strip_tags(e.content[0].value if hasattr(e,'content') and e.content else e.summary)
-        summary = ai_summary(raw)
-        items.append((e.title.strip(), clean_text(summary), date))
-    return items
-
-
-def collect_briefing():
+def collect_briefing() -> str:
     parts = []
-    # Weather
-    parts.append(get_weather())
+    # 1. Weather
+    parts.append(get_weather_summary())
     parts.append("")
-    # Canadian CBC and CTV
-    parts.append("CANADIAN HEADLINES")
+
+    # 2. Canadian CBC and CTV top 2
     for section in ["Canadian CBC", "Canadian CTV"]:
-        tops = fetch_top(section, count=2)
-        for title, summ, date in tops:
-            parts.append(f"• {title} ({date})\n  {summ}")
-    parts.append("")
-    # US
-    parts.append("U.S. HEADLINES")
-    for title, summ, date in fetch_top("U.S.",2):
-        parts.append(f"• {title} ({date})\n  {summ}")
-    parts.append("")
-    # International
-    parts.append("INTERNATIONAL HEADLINES")
-    for title, summ, date in fetch_top("International",2):
-        parts.append(f"• {title} ({date})\n  {summ}")
-    parts.append("")
-    # Special one-liners
-    parts.append("SPECIAL SECTIONS")
-    for section in ["Public Health","AI & Emerging Tech","Cybersecurity","Enterprise Architecture","Geomatics"]:
         urls = GROUPED_FEEDS.get(section, [])
-        if not urls: continue
-        feed = safe_parse(urls[0])
-        if feed.entries:
-            e = feed.entries[0]
-            parts.append(f"• [{section}] {e.title.strip()}")
+        for url in urls:
+            feed = safe_parse(url)
+            entries = feed.entries[:2]
+            if entries:
+                parts.append(f"{section} Top Stories:")
+                for e in entries:
+                    raw = e.content[0].value if hasattr(e, 'content') and e.content else e.summary
+                    summary = ai_summary(strip_tags(raw))
+                    parts.append(f"• {e.title.strip()} — {clean_text(summary)}")
+                parts.append("")
+                break
+
+    # 3. US Top 2
+    parts.append("US Top Stories:")
+    us_feed = safe_parse(GROUPED_FEEDS["US"][0])
+    for e in us_feed.entries[:2]:
+        raw = e.summary
+        parts.append(f"• {e.title.strip()} — {clean_text(ai_summary(strip_tags(raw)))}")
     parts.append("")
+
+    # 4. International Top 2
+    parts.append("International Top Stories:")
+    int_feed = safe_parse(GROUPED_FEEDS["International"][0])
+    for e in int_feed.entries[:2]:
+        raw = e.summary
+        parts.append(f"• {e.title.strip()} — {clean_text(ai_summary(strip_tags(raw)))}")
+    parts.append("")
+
+    # 5. Special Sections, headline-only one per category
+    special = ["Public Health", "AI & Emerging Tech", "Cybersecurity", "Enterprise Arch & IT Gov", "Geomatics"]
+    for section in special:
+        urls = GROUPED_FEEDS.get(section, [])
+        for url in urls:
+            feed = safe_parse(url)
+            if feed.entries:
+                e = feed.entries[0]
+                parts.append(f"{section}: {e.title.strip()}")
+                break
+    parts.append("")
+
     parts.append("— End of briefing —")
     return "\n".join(parts)
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     try:
-        txt = collect_briefing()
-        with open('latest.txt','w',encoding='utf-8') as f:
-            f.write(txt)
-        print('latest.txt updated.')
+        briefing = collect_briefing()
+        with open("latest.txt", "w", encoding="utf-8") as f:
+            f.write(briefing)
+        print("latest.txt updated successfully.")
     except Exception as e:
-        print(f"⚠️ ERROR: {e}")
-        with open('latest.txt','w') as f:
-            f.write(f"⚠️ Daily briefing failed: {e}\n")
-```
+        msg = f"⚠️ ERROR in briefing generation: {type(e).__name__}: {e}"
+        print(msg)
+        with open("latest.txt", "w", encoding="utf-8") as f:
+            f.write("⚠️ Daily briefing failed to generate.\n")
+            f.write(msg + "\n")
+        exit(0)
