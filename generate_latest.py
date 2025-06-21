@@ -71,9 +71,7 @@ def strip_html(text: str) -> str:
     """Remove HTML tags and unescape entities."""
     if not text:
         return ""
-    # Remove tags
     text = re.sub(r'<[^>]+>', '', text)
-    # Unescape HTML entities
     return html.unescape(text).strip()
 
 def safe_parse(url: str):
@@ -132,14 +130,16 @@ def collect_multi_day_briefing() -> str:
                     break
                 count += 1
 
-            # Build each item
+            # Title
             title = strip_html(entry.title)
-            # Prefer full content if available, else summary
-            content = (
-                entry.get("content", [{}])[0].get("value", "")
-                if entry.get("content")
-                else entry.get("summary", "")
-            )
+
+            # Safely extract content
+            content_list = entry.get("content", [])
+            if content_list and isinstance(content_list[0], dict):
+                content = content_list[0].get("value", "")
+            else:
+                content = entry.get("summary", "")
+
             summary = summarize_text(content)
             date_str = pub_dt.strftime("%B %d, %Y")
 
