@@ -2,18 +2,17 @@ name: Update latest.txt with news and weather
 
 on:
   schedule:
-    - cron: '30 10 * * *'   # 10:30 UTC → 6:30 AM ET daily
+    - cron: '30 10 * * *'   # 6:30 AM ET daily
   workflow_dispatch:
 
 permissions:
-  contents: write        # needed to commit back to the repo
+  contents: write
 
 jobs:
   build-briefing:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
         with:
           persist-credentials: true
@@ -28,10 +27,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install feedparser requests
 
+      - name: Verify script exists
+        run: |
+          ls -l generate_latest.py
+          head -n 5 generate_latest.py
+
       - name: Generate latest.txt
         run: python generate_latest.py
 
-      - name: Commit and push updated briefing
+      - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
