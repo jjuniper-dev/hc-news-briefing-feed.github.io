@@ -1,6 +1,9 @@
 Multi-Day News Briefing (Last 5 days) – June 21, 2025
 
 US
+• I can't stop thinking about this plotline in 'Materialists' {June 21, 2025}
+  Summarized: A money-obsessed NYC matchmaker is wooed by a financial investor and a cater waiter in a romantic drama that has its protagonist finding strength and emotional growth via a side character's suffering.
+
 • Questions remain about the Minnesota rampage. Anti-abortion extremism may shed light {June 21, 2025}
   Summarized: The suspect in the killing of a Minnesota lawmaker and her husband texted, "Dad went to war last night,' evoking the language of the far right, Christian anti-abortion movement. The suspect is accused of killing Rep. Ilhan Omar, D-Minneapolis.
 
@@ -27,9 +30,6 @@ US
 
 • A man is charged with attempting to kidnap Memphis Mayor Paul Young {June 20, 2025}
   Summarized: Police say Trenton Abston, 25, came to Mayor Paul Young's home armed with a Taser. Officers allegedly found rope and duct tape in his car. Abston was arrested and charged with aggravated assault.
-
-• Voice of America gutted by Trump adviser Kari Lake {June 20, 2025}
-  Summarized: The Trump administration is slashing jobs at Voice of America's parent agency by 85%. Journalists who have risked their freedom to report for the broadcaster wonder what happens next. The cuts are expected to be implemented by the end of the year.
 
 CORPORATE AI
 • Build a scalable AI video generator using Amazon SageMaker AI and CogVideoX {June 19, 2025}
