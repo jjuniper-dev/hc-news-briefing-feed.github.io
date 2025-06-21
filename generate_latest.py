@@ -92,7 +92,7 @@ def summarize_text(text):
 
 def collect_multi_day_briefing():
     parts = []
-    parts.append(f"Multi-Day News Briefing (Last {DAYS_BACK} days) â {datetime.now():%B %d, %Y}")
+    parts.append(f"Multi-Day News Briefing (Last {DAYS_BACK} days) – {datetime.now():%B %d, %Y}")
     parts.append("")
 
     for section, urls in GROUPED_FEEDS.items():
@@ -104,31 +104,36 @@ def collect_multi_day_briefing():
                     pub_dt = datetime(*entry.published_parsed[:6])
                     if pub_dt >= CUT_OFF:
                         section_items.append((pub_dt, entry))
+
         if not section_items:
             if section == "National (Canada)":
-                parts.append("â ï¸ No Canadian national news items found in the last 5 days.")
-                parts.append("Check RSS feed availability or add backup sources.
-")
+                parts.append(section.upper())
+                parts.append("⚠️ No Canadian national news items found in the last 5 days.")
+                parts.append("Check RSS feed availability or add backup sources.\n")
             continue
+
         section_items.sort(key=lambda x: x[0], reverse=True)
         parts.append(section.upper())
+
         count = 0
         for pub_dt, entry in section_items:
-            if section == "Weather" and count >= 3:
-                break
-            count += 1
+            # For weather, only the first 3 entries (Today, Tonight, Tomorrow)
+            if section == "Weather":
+                if count >= 3:
+                    break
+                count += 1
+
             title = strip_html(entry.title)
             content = entry.get('content', [{}])[0].get('value') if entry.get('content') else entry.get('summary')
             summary = summarize_text(content)
             date_str = pub_dt.strftime('%B %d, %Y')
-            parts.append(f"â¢ {title} ({date_str})")
-            parts.append(f"  {summary}")
-            parts.append("(â pause â)
-")
 
-    parts.append("â End of briefing â")
-    return "
-".join(parts)
+            parts.append(f"• {title} ({date_str})")
+            parts.append(f"  {summary}")
+            parts.append("(— pause —)\n")
+
+    parts.append("— End of briefing —")
+    return "\n".join(parts)
 
 # Main execution
 if __name__ == "__main__":
@@ -138,10 +143,9 @@ if __name__ == "__main__":
             f.write(briefing)
         print("latest.txt updated successfully.")
     except Exception as e:
-        err_msg = f"â ï¸ ERROR: {type(e).__name__}: {e}"
+        err_msg = f"⚠️ ERROR: {type(e).__name__}: {e}"
         print(err_msg)
         with open("latest.txt", "w", encoding="utf-8") as f:
-            f.write("â ï¸ Daily briefing failed to generate due to an error.
-")
-            f.write(err_msg + "
-")
+            f.write("⚠️ Daily briefing failed to generate due to an error.\n")
+            f.write(err_msg + "\n")
+        exit(0)
