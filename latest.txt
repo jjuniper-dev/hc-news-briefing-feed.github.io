@@ -1,16 +1,19 @@
 Multi-Day News Briefing (Last 5 days) – June 21, 2025
 
 WEATHER
-• Current Conditions: Partly Cloudy, 20.3°C {June 21, 2025}
-  Summarized: Partly Cloudy Temperature: 20.3&deg;C Pressure / Tendency: 101.9 kPa rising Visibility: 24 km Humidity: 56 % Humidex: 22 Dewpoint: 11.3/deg; C Wind: SW 3 km/h Air Quality Health Index: 1
+• Current Conditions: Mostly Cloudy, 21.6°C {June 21, 2025}
+  Summarized: Air Quality Health Index: 2. Pressure / Tendency: 101.9 kPa rising Visibility: 24 km Humidity: 45 % Dewpoint: 9.1&deg;C Wind: S 4 km/h
 
-• Saturday: Chance of showers. High 28. POP 40% {June 21, 2025}
-  Summarized: Increasing cloudiness this afternoon then 40 percent chance of showers late this afternoon. Risk of a thunderstorm late today. High 28. Humidex 31. UV index 9 or very high.
+• Saturday: Chance of showers. High 27. POP 40% {June 21, 2025}
+  Summarized: 40 percent chance of showers late this afternoon with risk of a thunderstorm. Wind becoming south 20 km/h gusting to 40 this afternoon. High 27. Humidex 30. UV index 9 or very high.
 
 • HEAT WARNING, Ottawa {June 21, 2025}
   Summarized: persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 9:36 AM EDT Saturday 21 June 2025. For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.
 
 US
+• 8 people killed, 13 injured after hot-air balloon catches fire and falls in Brazil {June 21, 2025}
+  Summarized: A hot-air balloon caught fire and tumbled from the sky in Brazil's Santa Catarina state. Thirteen people survived and were taken to hospitals, firefighters said. The cause of the fire is under investigation.
+
 • Photos: Why it took courage for these women to pose for the camera {June 21, 2025}
   Summarized: The women wore traditional cosmetic face masks from their homeland of Madagascar. They agreed to be photographed to take a stand against the government's anti-gay policies. The women were photographed wearing traditional face masks.
 
@@ -37,9 +40,6 @@ US
 
 • Federal judge declines to order Trump officials to recover deleted Signal messages {June 20, 2025}
   Summarized: Watchdog group American Oversight had asked a federal judge to order top national security officials to preserve any messages they may have sent on the private messaging app Signal. American Oversight: National security officials need to preserve all messages they sent on Signal.
-
-• What Does the Israel-Iran War Mean for the Middle East? {June 20, 2025}
-  Summarized: As Israel and Iran continue missile attacks against one another, we look at how countries in the Middle East are viewing the conflict. Whether that war could spread and if other powers in the region are bracing for a wider conflict. And we hear from some residents of Tehran weighing the decision of fleeing the Iranian capital as President Trump commanded.
 
 CORPORATE AI
 • Build a scalable AI video generator using Amazon SageMaker AI and CogVideoX {June 19, 2025}
