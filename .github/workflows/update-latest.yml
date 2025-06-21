@@ -1,4 +1,4 @@
-name: Update latest.txt with news and weather
+name: Update latest.txt with AI-powered summaries
 
 on:
   schedule:
@@ -26,21 +26,18 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install feedparser requests
+          pip install feedparser requests transformers torch
 
-      - name: List repo root and check script
+      - name: Verify generate_latest.py
         run: |
-          echo "Contents of repo root:"
-          ls -lah .
-          echo "--- Checking generate_latest.py ---"
-          if [ ! -f generate_latest.py ]; then
-            echo "❌ generate_latest.py not found in repo root!" >&2
-            exit 1
-          fi
-          head -n 5 generate_latest.py
+          echo "Repo contents:"
+          ls -1
+          head -n 10 generate_latest.py
 
-      - name: Generate latest.txt
+      - name: Generate latest.txt with AI summaries
         run: python generate_latest.py
+        env:
+          TRANSFORMERS_CACHE: /home/runner/.cache/huggingface  # ensure caching
 
       - name: Commit & push updated briefing
         run: |
