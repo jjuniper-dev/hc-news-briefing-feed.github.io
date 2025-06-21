@@ -2,34 +2,37 @@ name: Email Daily Briefing to Evernote
 
 on:
   schedule:
-    - cron: '30 10 * * *'  # Runs at 6:30 AM EST
+    - cron: '30 10 * * *'  # 6:30 AM Eastern (10:30 UTC)
   workflow_dispatch:
 
 jobs:
-  sendEmail:
+  email:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-    - name: Read latest.txt
-      id: read_file
-      run: |
-        echo "content<<EOF" >> $GITHUB_OUTPUT
-        cat latest.txt >> $GITHUB_OUTPUT
-        echo "EOF" >> $GITHUB_OUTPUT
+      - name: Set current date
+        id: set_date
+        run: echo "today=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
 
-    - name: Send email via SMTP
-      uses: dawidd6/action-send-mail@v3
-      with:
-        server_address: smtp.gmail.com
-        server_port: 465
-        username: ${{ secrets.SMTP_USERNAME }}
-        password: ${{ secrets.SMTP_PASSWORD }}
-        subject: "Daily News Briefing – ${{ github.event.head_commit.timestamp || env.TODAY }}"
-        body: ${{ steps.read_file.outputs.content }}
-        to: pjjuniper.27b0e2f@m.evernote.com
-        from: DailyBriefingBot <youremail@example.com>
-        secure: true
-        convert_markdown: false
+      - name: Read latest.txt content
+        id: read_file
+        run: |
+          content=$(cat latest.txt)
+          echo "content<<EOF" >> $GITHUB_OUTPUT
+          echo "$content" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Send email via Gmail SMTP
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "Daily News Briefing – ${{ steps.set_date.outputs.today }}"
+          body: ${{ steps.read_file.outputs.content }}
+          to: pjjuniper.27b0e2f@m.evernote.com
+          from: DailyBriefingBot <spatialsensation@gmail.com>
+          secure: true
