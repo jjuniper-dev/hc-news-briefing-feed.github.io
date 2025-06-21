@@ -4,13 +4,11 @@ import feedparser
 import re
 from datetime import datetime, timedelta
 from http.client import RemoteDisconnected
-from transformers import pipeline
 
 # --- CONFIG ---
-DAYS_BACK = 5
+DAYS_BACK = 3
 CUT_OFF = datetime.now() - timedelta(days=DAYS_BACK)
 
-# Ordered sections with their RSS feeds
 GROUPED_FEEDS = {
     "Weather": [
         "https://weather.gc.ca/rss/city/on-131_e.xml"
@@ -21,7 +19,7 @@ GROUPED_FEEDS = {
     "Canadian CTV": [
         "https://www.theglobeandmail.com/canada/toronto/feed/"
     ],
-    "US": [
+    "U.S.": [
         "https://feeds.npr.org/1001/rss.xml"
     ],
     "International": [
@@ -31,25 +29,18 @@ GROUPED_FEEDS = {
         "https://www.canada.ca/etc/+/health/public-health-updates.rss"
     ],
     "AI & Emerging Tech": [
-        "https://feeds.arstechnica.com/arstechnica/technology-policy",
-        "https://www.theregister.com/headlines.atom"
+        "https://feeds.arstechnica.com/arstechnica/technology-policy"
     ],
-    "Cybersecurity": [
-        "https://krebsonsecurity.com/feed/",
-        "https://www.nist.gov/blogs/blog.rss"
+    "Cybersecurity & Privacy": [
+        "https://krebsonsecurity.com/feed/"
     ],
-    "Enterprise Arch & IT Gov": [
-        "https://www.opengroup.org/news/rss/news-release.xml",
-        "https://www.cio.com/ciolib/rss/cio/government.xml"
+    "Enterprise Architecture & IT Governance": [
+        "https://www.opengroup.org/news/rss/news-release.xml"
     ],
     "Geomatics": [
-        "https://geomatics-news.example.com/rss"
-    ],
+        "https://example.com/geomatics-feed.xml"  # replace with a real Geomatics RSS
+    ]
 }
-
-# Initialize summarizer once
-summarizer = pipeline("summarization")
-
 
 def safe_parse(url):
     try:
@@ -61,103 +52,65 @@ def safe_parse(url):
         print(f"Warning: failed to parse {url}: {e}")
         return feedparser.FeedParserDict(entries=[])
 
-
 def strip_tags(html: str) -> str:
     return re.sub(r'<[^>]+>', '', html or '')
 
-
-def clean_text(text: str) -> str:
-    text = re.sub(r"【Image.*?】", "", text)
-    text = re.sub(r"\(Image credit:.*?\)", "", text)
-    text = re.sub(r"Read More.*", "", text)
-    text = re.sub(r"\n{2,}", "\n\n", text)
-    lines = [line.strip() for line in text.splitlines() if line.strip()]
-    return "\n".join(lines)
-
-
-def ai_summary(text: str) -> str:
-    words = text.split()
-    if len(words) < 50:
-        return text
-    max_len = min(len(words)//2, 60)
-    try:
-        out = summarizer(text, max_length=max_len, min_length=20, do_sample=False)
-        return out[0]["summary_text"].strip()
-    except Exception as e:
-        print(f"Warning: summarization failed: {e}")
-        return text
-
-
-def get_weather_summary() -> str:
-    url = GROUPED_FEEDS["Weather"][0]
-    feed = safe_parse(url)
+def get_weather_summary():
+    feed = safe_parse(GROUPED_FEEDS["Weather"][0])
     if not feed.entries:
         return "Ottawa Weather data unavailable."
-    today = feed.entries[0]
-    summary = strip_tags(today.summary)
-    lines = clean_text(summary).split("\n")
-    # Simplify to tonight/tomorrow
-    result = [f"Ottawa Weather – {datetime.now():%B %d, %Y}"]
-    if len(lines) >= 2:
-        result.append(f"• Tonight: {lines[0]}")
-        result.append(f"• Tomorrow: {lines[1]}")
-    else:
-        result.extend([f"• {l}" for l in lines])
-    return "\n".join(result)
+    # Assume first entry = Tonight, second = Tomorrow
+    tonight = strip_tags(feed.entries[0].title)
+    tomorrow = strip_tags(feed.entries[1].title) if len(feed.entries) > 1 else ""
+    header = f"Ottawa Weather – {datetime.now():%B %d, %Y}"
+    lines = [header, f"• Tonight: {tonight}"]
+    if tomorrow:
+        lines.append(f"• Tomorrow: {tomorrow}")
+    return "\n".join(lines)
 
-
-def collect_briefing() -> str:
+def collect_briefing():
     parts = []
+
     # 1. Weather
     parts.append(get_weather_summary())
     parts.append("")
 
-    # 2. Canadian CBC and CTV top 2
-    for section in ["Canadian CBC", "Canadian CTV"]:
-        urls = GROUPED_FEEDS.get(section, [])
-        for url in urls:
-            feed = safe_parse(url)
-            entries = feed.entries[:2]
-            if entries:
-                parts.append(f"{section} Top Stories:")
-                for e in entries:
-                    raw = e.content[0].value if hasattr(e, 'content') and e.content else e.summary
-                    summary = ai_summary(strip_tags(raw))
-                    parts.append(f"• {e.title.strip()} — {clean_text(summary)}")
-                parts.append("")
-                break
-
-    # 3. US Top 2
-    parts.append("US Top Stories:")
-    us_feed = safe_parse(GROUPED_FEEDS["US"][0])
-    for e in us_feed.entries[:2]:
-        raw = e.summary
-        parts.append(f"• {e.title.strip()} — {clean_text(ai_summary(strip_tags(raw)))}")
+    # 2. Canadian Headlines (CBC + CTV)
+    parts.append(f"Canadian Headlines – {datetime.now():%B %d, %Y}")
+    for label, key in [("CBC", "Canadian CBC"), ("Global/CTV", "Canadian CTV")]:
+        feed = safe_parse(GROUPED_FEEDS[key][0])
+        for e in feed.entries[:2]:
+            date = ""
+            if 'published_parsed' in e:
+                date = datetime(*e.published_parsed[:6]).strftime("%b %d")
+            parts.append(f"• {label}: {e.title.strip()} ({date})")
     parts.append("")
 
-    # 4. International Top 2
-    parts.append("International Top Stories:")
-    int_feed = safe_parse(GROUPED_FEEDS["International"][0])
-    for e in int_feed.entries[:2]:
-        raw = e.summary
-        parts.append(f"• {e.title.strip()} — {clean_text(ai_summary(strip_tags(raw)))}")
+    # 3. U.S. Top Stories
+    parts.append("U.S. Top Stories")
+    us = safe_parse(GROUPED_FEEDS["U.S."][0])
+    for e in us.entries[:2]:
+        parts.append(f"• {e.title.strip()}")
     parts.append("")
 
-    # 5. Special Sections, headline-only one per category
-    special = ["Public Health", "AI & Emerging Tech", "Cybersecurity", "Enterprise Arch & IT Gov", "Geomatics"]
-    for section in special:
-        urls = GROUPED_FEEDS.get(section, [])
-        for url in urls:
-            feed = safe_parse(url)
-            if feed.entries:
-                e = feed.entries[0]
-                parts.append(f"{section}: {e.title.strip()}")
-                break
+    # 4. International Top Stories
+    parts.append("International Top Stories")
+    intl = safe_parse(GROUPED_FEEDS["International"][0])
+    for e in intl.entries[:2]:
+        parts.append(f"• {e.title.strip()}")
     parts.append("")
+
+    # 5. Special Sections (headline-only, one each)
+    for section in ["Public Health", "AI & Emerging Tech", "Cybersecurity & Privacy",
+                    "Enterprise Architecture & IT Governance", "Geomatics"]:
+        feed = safe_parse(GROUPED_FEEDS[section][0])
+        if feed.entries:
+            parts.append(section)
+            parts.append(f"• {feed.entries[0].title.strip()}")
+            parts.append("")
 
     parts.append("— End of briefing —")
     return "\n".join(parts)
-
 
 if __name__ == "__main__":
     try:
