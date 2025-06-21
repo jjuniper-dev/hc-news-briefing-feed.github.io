@@ -65,7 +65,6 @@ GROUPED_FEEDS = {
 # Initialize summarizer
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
-# Utility functions
 def strip_html(text):
     return re.sub(r'<[^>]+>', '', text or '').strip()
 
@@ -98,21 +97,20 @@ def collect_multi_day_briefing():
         section_items = []
         for url in urls:
             feed = safe_parse(url)
-            for entry in feed.entries:
-                try:
-                    if hasattr(entry, 'published_parsed'):
-                        pub_dt = datetime(*entry.published_parsed[:6])
-
-                        if section == "Weather":
-                            if pub_dt.date() >= datetime.now().date() - timedelta(days=1):
-                                if any(k in entry.title for k in ["Today", "Tonight", "Tomorrow"]):
-                                    section_items.append((pub_dt, entry))
-                        else:
+            if section == "Weather":
+                # Take first 3 forecast entries (Today, Tonight, Tomorrow)
+                for entry in feed.entries[:3]:
+                    section_items.append((datetime.now(), entry))
+            else:
+                for entry in feed.entries:
+                    try:
+                        if hasattr(entry, 'published_parsed'):
+                            pub_dt = datetime(*entry.published_parsed[:6])
                             if pub_dt >= CUT_OFF:
                                 section_items.append((pub_dt, entry))
-                except Exception as e:
-                    print(f"⚠️ Error parsing feed entry from {url}: {e}")
-                    continue
+                    except Exception as e:
+                        print(f"⚠️ Error parsing feed entry from {url}: {e}")
+                        continue
 
         if not section_items:
             continue
