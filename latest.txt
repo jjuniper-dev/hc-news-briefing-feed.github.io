@@ -1,71 +1,55 @@
 Ottawa Weather – June 21, 2025
 Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 9:36 AM EDT Saturday 21 June 2025
 
+U.S. Top Story – June 21, 2025
+• At least three people dead from a tornado in North Dakota
+  At least three residents were killed in the Enderlin area by a tornado on Friday night after storms hit North Dakota and Minnesota.
+
 June 21, 2025
-• [U.S.] At least three people dead from a tornado in North Dakota
-  At least three residents were killed in the Enderlin area by a tornado on Friday night after storms hit North Dakota and Minnesota. {June 16, 2025}
-• [U.S.] One daughter's search for a father detained by ICE
-  Francisco Urizar, 64, was detained by ICE while on his work route delivering tortillas. His daughter Nancy is trying to find out what happened to him. {June 16, 2025}
 • [AI & Emerging Tech] Cloud quantum computing: A trillion-dollar opportunity with dangerous hidden risks
-  Quantum computing (QC) brings with it a mix of groundbreaking possibilities and significant risks . IBM, Google, Microsoft {June 16, 2025}
-• [U.S.] Pilot who died in N.C. plane crash tried to avoid a turtle on airport runway
-  The pilot of a small plane that crashed near an airport tried to avoid hitting a turtle on the runway, according to a National Transportation Safety Board report. The pilot and a passenger were killed. {June 16, 2025}
-• [U.S.] Day after day, Palestinians in Gaza risk harrowing journey in desperate search for food
-  Israel has begun allowing food into Gaza. Most of the supplies go to GHF, which operates food distribution points. A trickle of aid goes to the U.N. and humanitarian groups. Both systems are mired in chaos. {June 16, 2025}
-• [U.S.] 8 people killed, 13 injured after hot-air balloon catches fire and falls in Brazil
-  A hot-air balloon caught fire and tumbled from the sky in Brazil's southern state of Santa Catarina, killing eight people, firefighters said. Thirteen people survived and were taken to hospitals. {June 16, 2025}
-• [U.S.] Photos: Why it took courage for these women to pose for the camera
-  Wearing traditional cosmetic face masks from their homeland of Madagascar, they agreed to be photographed to take a stand. {June 16, 2025}
-• [U.S.] Court blocks Louisiana law requiring schools to post Ten Commandments in classrooms
-  The ruling marked a win for civil liberties groups who say the mandate violates the separation of church and state, and that displays would isolate students — especially those who are not Christian. {June 16, 2025}
-• [U.S.] Israel and Iran's war enters its ninth day as talks fail to reach a breakthrough
-  With the war between Israel and Iran now in its second week, the two countries continued to trade missile attacks on Saturday, and Iran's foreign minister warned against a U.S. strike on Iran. {June 16, 2025}
-• [U.S.] Opinion: From tragedy, words of wisdom
-  Sophie and Colin Hortman remember their parents, Minnesota Rep. Melissa Hortman and Mark Hortman, as "the bright lights at the center of our lives." The couple was murdered in their home last weekend. {June 16, 2025}
-• [U.S.] I can't stop thinking about this plotline in 'Materialists'
-  A money-obsessed NYC matchmaker is wooed by a financial investor and a cater waiter in a romantic drama that has its protagonist finding strength and emotional growth via a side character's suffering. {June 16, 2025}
+  Quantum computing (QC) brings with it a mix of groundbreaking possibilities and significant risks . IBM, Google, Microsoft
 • [AI & Emerging Tech] Teens used encrypted chats to recruit for 'violence as a service' murder ring, Europol says
-  Skull emoji knife emoji moneybag emoji Seven people, including a 14-year-old, have been arrested or surrendered to Danish authorities after allegedly using encrypted messaging apps to hire other teenagers for contract killings in what Europol calls a "violence-as-a-service" operation.… {June 16, 2025}
+  Skull emoji knife emoji moneybag emoji Seven people, including a 14-year-old, have been arrested or surrendered to Danish authorities after allegedly using encrypted messaging apps to hire other teenagers for contract killings in what Europol calls a "violence-as-a-service" operation.…
 • [Global Health & Science] Modeling gonorrhea vaccination to find optimal targeting strategies that balance impact with cost-effectiveness
-   {June 16, 2025}
+  
 • [Global Health & Science] Influence of sleep and chronotypes: are we adapted to today’s society?
-   {June 16, 2025}
+  
 • [Global Health & Science] Uptake of the COVID-19 vaccine and its association with vaccine information and misinformation in Malawi
-   {June 16, 2025}
+  
 
 June 20, 2025
 • [AI & Emerging Tech] Hospital cyber attacks cost $600K/hour. Here’s how AI is changing the math
-  How Alberta Health Services is using advanced AI to bolster its defenses as attackers increasingly target healthcare facilities.Read More {June 16, 2025}
+  How Alberta Health Services is using advanced AI to bolster its defenses as attackers increasingly target healthcare facilities.Read More
 • [AI & Emerging Tech] Mistral just updated its open source Small model from 3.1 to 3.2: here’s why
-  The fact that it is made by a French startup and compliant with EU rules and regulations such as GDPR and the EU AI Act also helps its appealRead More {June 16, 2025}
+  The fact that it is made by a French startup and compliant with EU rules and regulations such as GDPR and the EU AI Act also helps its appealRead More
 • [AI & Emerging Tech] Netflix, Apple, BofA websites hijacked with fake help-desk numbers
-  Scammers hijacking search results of people needing 24/7 support from Apple, Bank of America, Facebook, HP, {June 16, 2025}
+  Scammers hijacking search results of people needing 24/7 support from Apple, Bank of America, Facebook, HP,
 • [AI & Emerging Tech] New GitHub Copilot limits push AI users to pricier tiers
-  Welcome to bill shock, AI style Microsoft's GitHub this week said paying GitHub Copilot customers will now face monthly limits on certain types of high-powered AI requests, and will have to pay more if they want to surpass those limits.… {June 16, 2025}
+  Welcome to bill shock, AI style Microsoft's GitHub this week said paying GitHub Copilot customers will now face monthly limits on certain types of high-powered AI requests, and will have to pay more if they want to surpass those limits.…
 • [AI & Emerging Tech] Anthropic study: Leading AI models show up to 96% blackmail rate against executives
-  Anthropic research reveals AI models from OpenAI, Google, Meta and others chose blackmail, corporate espionage and lethal actions when facing shutdown or conflicting goals.Read More {June 16, 2025}
+  Anthropic research reveals AI models from OpenAI, Google, Meta and others chose blackmail, corporate espionage and lethal actions when facing shutdown or conflicting goals.Read More
 • [AI & Emerging Tech] US patent office wants an AI to scan for prior art, but doesn't want to pay for it
-  The US Patent and Trademark Office is exploring a plan for using AI at the agency to speed up the process of granting patents . The agency {June 16, 2025}
+  The US Patent and Trademark Office is exploring a plan for using AI at the agency to speed up the process of granting patents . The agency
 • [AI & Emerging Tech] EDB enhances analytics in PostgreSQL with open source add-ons
-  DataFusion and WarehousePG meant to deal with AI-related workloads, not to compete with analytics data platforms PostgreSQL exponent EDB has enhanced its new data platform, claiming this will help bring transactional, analytical, and AI workloads into a single environment.… {June 16, 2025}
+  DataFusion and WarehousePG meant to deal with AI-related workloads, not to compete with analytics data platforms PostgreSQL exponent EDB has enhanced its new data platform, claiming this will help bring transactional, analytical, and AI workloads into a single environment.…
 • [AI & Emerging Tech] Looks like Aflac is the latest insurance giant snagged in Scattered Spider’s web
-  If it looks like a duck and walks like a duck... Aflac is the latest insurance company to disclose a security breach following a string of others earlier this week, all of which appear to be part of Scattered Spider's most recent data theft campaign.… {June 16, 2025}
+  If it looks like a duck and walks like a duck... Aflac is the latest insurance company to disclose a security breach following a string of others earlier this week, all of which appear to be part of Scattered Spider's most recent data theft campaign.…
 • [AI & Emerging Tech] Qilin ransomware top dogs treat their minions to on-call lawyers for fierier negotiations
-  It's a marketing move to lure more affiliates, says infosec veteran The latest marketing ploy from the ransomware crooks behind the Qilin operation involves offering affiliates access to a crack team of lawyers to ramp up pressure in ransom negotiations.… {June 16, 2025}
+  It's a marketing move to lure more affiliates, says infosec veteran The latest marketing ploy from the ransomware crooks behind the Qilin operation involves offering affiliates access to a crack team of lawyers to ramp up pressure in ransom negotiations.…
 • [AI & Emerging Tech] Eutelsat seeks €1.35B to boost LEO network and take the fight to Starlink
-  French satellite operator plans capital raise backed by state and key investors including Bharti Satellite biz Eutelsat is looking to raise €1.35 billion ($1.55 billion) to grow its Low Earth Orbit (LEO) network to take on Starlink and benefit from anticipated growth in demand for connectivity.… {June 16, 2025}
+  French satellite operator plans capital raise backed by state and key investors including Bharti Satellite biz Eutelsat is looking to raise €1.35 billion ($1.55 billion) to grow its Low Earth Orbit (LEO) network to take on Starlink and benefit from anticipated growth in demand for connectivity.…
 • [AI & Emerging Tech] AI gives the sleeping network switch market a good kick
-  Q1 revenue jumps to $11.7B, with 400 and 800 GbE driving the spike The long-dormant market for datacenter network switches is booming thanks to AI.… {June 16, 2025}
+  Q1 revenue jumps to $11.7B, with 400 and 800 GbE driving the spike The long-dormant market for datacenter network switches is booming thanks to AI.…
 • [AI & Emerging Tech] Xlibre fork lights a fire under long-dormant X.org development
-  X11 is very far from dead – no matter if some want it to be Comment  Considerable new activity is happening both in the established X.org X11 server and around its new fork, Xlibre.… {June 16, 2025}
+  X11 is very far from dead – no matter if some want it to be Comment  Considerable new activity is happening both in the established X.org X11 server and around its new fork, Xlibre.…
 • [AI & Emerging Tech] OVHcloud chief talks up sovereignty discussions with the European Commision
-  ... And then promptly deletes comment. Optimism or an opportunity? Or perhaps both French cloud business, OVHcloud, claimed yesterday that it is in discussions with the European Commission (EC) regarding a possible migration to a sovereign cloud – in an X post that has since been deleted.… {June 16, 2025}
+  ... And then promptly deletes comment. Optimism or an opportunity? Or perhaps both French cloud business, OVHcloud, claimed yesterday that it is in discussions with the European Commission (EC) regarding a possible migration to a sovereign cloud – in an X post that has since been deleted.…
 • [AI & Emerging Tech] DHS warns of sharp rise in Chinese-made signal jammers it calls 'tools of terrorism'
-  Seizures up 830% since 2021, with devices linked to interference in emergency responses The Department of Homeland Security (DHS) is concerned about the rate at which outlawed signal-jamming devices are being found across the US.… {June 16, 2025}
+  Seizures up 830% since 2021, with devices linked to interference in emergency responses The Department of Homeland Security (DHS) is concerned about the rate at which outlawed signal-jamming devices are being found across the US.…
 • [AI & Emerging Tech] Broadcom's answer to VMware pricing outrage: You're using it wrong
-  VCF bundle is worth it if you make the most of every part, says CTO Customers dismayed by Broadcom's move to selling costly bundles such as VMware Cloud Foundation (VCF) will realize its value if they'd just use more of the components, the company's CTO says.… {June 16, 2025}
+  VCF bundle is worth it if you make the most of every part, says CTO Customers dismayed by Broadcom's move to selling costly bundles such as VMware Cloud Foundation (VCF) will realize its value if they'd just use more of the components, the company's CTO says.…
 • [AI & Emerging Tech] Windows 11 migration heats up... on desktops
-  Microsoft pulls the plug on standard support for Windows 10 . Businesses replacing dusty desktop PCs in preparation for the migration to the next generation {June 16, 2025}
+  Microsoft pulls the plug on standard support for Windows 10 . Businesses replacing dusty desktop PCs in preparation for the migration to the next generation
 • [AI & Emerging Tech] The Download: talking dirty with DeepSeek, and the risks and rewards of calorie restriction
   This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
 It’s pretty easy to get DeepSeek to talk dirty
@@ -99,13 +83,13 @@ China wants to restore the sea with high-tech marine ranchesA short ferry ride f
 —Matthew Ponsford
 We can still have nice things
 A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-+ How many art terms are you familiar with? Time to brush up.+ They can make a museum out of pretty much anything these days.+ Beekeeping isn’t just beneficial for the bees—it could help your mental health, too + The Sculptor galaxy is looking ridiculously beautiful right now. {June 16, 2025}
++ How many art terms are you familiar with? Time to brush up.+ They can make a museum out of pretty much anything these days.+ Beekeeping isn’t just beneficial for the bees—it could help your mental health, too + The Sculptor galaxy is looking ridiculously beautiful right now.
 • [AI & Emerging Tech] Google’s Gemini transparency cut leaves enterprise developers ‘debugging blind’
-  Why is Google hiding Gemini's reasoning traces? The decision sparks a debate over black-box models versus the need for transparency.Read More {June 16, 2025}
+  Why is Google hiding Gemini's reasoning traces? The decision sparks a debate over black-box models versus the need for transparency.Read More
 • [AI & Emerging Tech] SAP ECC 6.0 lives to fight another decade under Rimini Street
-  Third-party provider pledges to support legacy ERP until 2040 Enterprise software support specialist Rimini Street has announced that it will continue to support SAP's ECC 6.0 until 2040, more than ten years after the German vendor plans to retire support for the legacy ERP platform.… {June 16, 2025}
+  Third-party provider pledges to support legacy ERP until 2040 Enterprise software support specialist Rimini Street has announced that it will continue to support SAP's ECC 6.0 until 2040, more than ten years after the German vendor plans to retire support for the legacy ERP platform.…
 • [AI & Emerging Tech] Attack on Oxford City Council exposes 21 years of election worker data
-  Services coming back online after legacy systems compromised Oxford City Council says a cyberattack earlier this month resulted in 21 years of data being compromised.… {June 16, 2025}
+  Services coming back online after legacy systems compromised Oxford City Council says a cyberattack earlier this month resulted in 21 years of data being compromised.…
 • [AI & Emerging Tech] How a 30-year-old techno-thriller predicted our digital isolation
   In April, Mark Zuckerberg, as tech billionaires are so fond of doing these days, pontificated at punishing length on a podcast. In the interview, he addressed America’s loneliness epidemic: “The average American has—I think it’s fewer than three friends. And the average person has demand for meaningfully more. I think it’s like 15 friends or something, right?”
 Before you’ve had a moment to register the ominous way in which he frames human connection in such bleak economic terms, he offers his solution to the loneliness epidemic: AI friends. Ideally AI friends his company generates.
@@ -129,9 +113,9 @@ It doesn’t have to be this way. We can withhold our attention, practice health
 The Net appeared at a time when the internet was only faintly understood as the new Wild West. Before the dot-com boom and bust, before Web 2.0, before the walled gardens and the theory of a “dead internet.” In that sense, it remains a fascinating time capsule of a moment when the possibilities to come felt endless, the outlook cautiously optimistic.
 We can also see The Net’s influence in modern screen-life films like Searching, Host, Unfriended, and The Den. But perhaps—hopefully—its most enduring legacy will be inviting us to go outside, touch grass, talk to another human being, and organize.&nbsp;
 “Find the others.”—Douglas Rushkoff,&nbsp;Team Human (2019)
-Tom Humberstone is a comic artist and illustrator based in Edinburgh. {June 16, 2025}
+Tom Humberstone is a comic artist and illustrator based in Edinburgh.
 • [AI & Emerging Tech] Deal to 'save' UK colleges £45M in Oracle Java licensing fees followed audit requests
-  Framework agreement may rescue some unis from 'financial abyss' after Oracle per-employee Java license, says insider . Oracle requested Java audits {June 16, 2025}
+  Framework agreement may rescue some unis from 'financial abyss' after Oracle per-employee Java license, says insider . Oracle requested Java audits
 • [AI & Emerging Tech] Calorie restriction can help animals live longer. What about humans?
   Living comes with a side effect: aging. Despite what you might hear on social media or in advertisements, there are no drugs that are known to slow or reverse human aging. But there’s some evidence to support another approach: cutting back on calories.
 Caloric restriction (reducing your intake of calories) and intermittent fasting (switching between fasting and eating normally on a fixed schedule) can help with weight loss. But they may also offer protection against some health conditions. And some believe such diets might even help you live longer—a finding supported by new research out this week. (Longevity enthusiast Bryan Johnson famously claims to eat his last meal of the day at 12pm.)
@@ -146,27 +130,27 @@ Cutting calories could also carry broader risks. Dietary restriction seems to i
 It’s also really hard for most people to cut their caloric intake. When researchers ran a two-year trial to measure the impact of a 25% reduction in caloric intake, they found that&nbsp;the most their volunteers could cut was 12%. (That study found that caloric restriction reduces markers of inflammation, which can be harmful when it’s chronic, and had only a small impact on bone density.)
 Unfortunately, there’s a lot we still don’t really understand about caloric restriction. It doesn’t seem to help all animals live longer—it seems to shorten the lifespan of animals with certain genetic backgrounds. And we don’t know whether it extends the lifespan of people. It isn’t possible to conduct a randomized clinical trial in which you deprive people of food from childhood and then wait their entire lives to see when they die.
 It is notoriously difficult to track or change your diet. And given the unknowns surrounding caloric restriction, it’s too soon to make sweeping recommendations, particularly given that your own personal biology will play a role in any benefits or risks you’ll experience. Roll on the next round of research.
-This article first appeared in The Checkup,&nbsp;MIT Technology Review’s&nbsp;weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first,&nbsp;sign up here. {June 16, 2025}
+This article first appeared in The Checkup,&nbsp;MIT Technology Review’s&nbsp;weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first,&nbsp;sign up here.
 • [AI & Emerging Tech] Remembering when NASA stuck a Space Shuttle on top of a Boeing 747
-  'Black side down,' Lego style Lego has released another NASA-themed set; this time, a version of the US space agency's Boeing 747-based Shuttle Carrier Aircraft with a Space Shuttle perched on top.… {June 16, 2025}
+  'Black side down,' Lego style Lego has released another NASA-themed set; this time, a version of the US space agency's Boeing 747-based Shuttle Carrier Aircraft with a Space Shuttle perched on top.…
 • [AI & Emerging Tech] Techie traveled 4 hours to fix software that worked perfectly until a new hire used it
-  On Call is a reader-contributed column in which you share tech support stories . Sometimes the 'R' {June 16, 2025}
+  On Call is a reader-contributed column in which you share tech support stories . Sometimes the 'R'
 • [AI & Emerging Tech] Australia finds age detection tech has many flaws but will work
-  Probe into how to implement social media ban finds privacy risks, developer overreach, infosec uncertainties Australia’s trial of age assurance technology has found it’s up to the task of preventing children under 16 years of age from using social media, despite many problems.… {June 16, 2025}
+  Probe into how to implement social media ban finds privacy risks, developer overreach, infosec uncertainties Australia’s trial of age assurance technology has found it’s up to the task of preventing children under 16 years of age from using social media, despite many problems.…
 • [AI & Emerging Tech] AFRINIC election proceeds after ICANN’s attempt to replace officials fails
-  Regulator remains concerned about election integrity Elections at troubled regional internet registry the African Network Information Centre (AFRINIC) will continue, after the Internet Corporation for Assigned Names and Numbers’ (ICANN’s) attempt to appoint new officials to oversee the poll failed.… {June 16, 2025}
+  Regulator remains concerned about election integrity Elections at troubled regional internet registry the African Network Information Centre (AFRINIC) will continue, after the Internet Corporation for Assigned Names and Numbers’ (ICANN’s) attempt to appoint new officials to oversee the poll failed.…
 • [AI & Emerging Tech] China just two years behind USA on chip design, says White House tech Czar
-  Expects Huawei to start exporting AI chips soon, creating global fight for tech stack dominance China’s AI and chipmaking prowess lags the USA’s by just two years, and America’s efforts to slow its progress could be hobbling its own semiconductor industry, according to Trump administration tech czar David Sacks.… {June 16, 2025}
+  Expects Huawei to start exporting AI chips soon, creating global fight for tech stack dominance China’s AI and chipmaking prowess lags the USA’s by just two years, and America’s efforts to slow its progress could be hobbling its own semiconductor industry, according to Trump administration tech czar David Sacks.…
 • [Global Health & Science] Africa’s chief diplomat for vaccine manufacturing
-   {June 16, 2025}
+  
 • [Global Health & Science] Experiences of stigma among caregivers of children with disabilities in Freetown
-   {June 16, 2025}
+  
 
 June 19, 2025
 • [AI & Emerging Tech] Japan's sequel to Fugaku supercomputer will be Arm'd to the teeth
-  Fujitsu picked to build system using 'MONAKA-X' CPUs Fujitsu has bagged the contract to design Japan's next-gen supercomputer to succeed the Fugaku system, and it looks set to be another Arm-based behemoth, using a CPU derived from its upcoming MONAKA datacenter silicon.… {June 16, 2025}
+  Fujitsu picked to build system using 'MONAKA-X' CPUs Fujitsu has bagged the contract to design Japan's next-gen supercomputer to succeed the Fugaku system, and it looks set to be another Arm-based behemoth, using a CPU derived from its upcoming MONAKA datacenter silicon.…
 • [AI & Emerging Tech] American coders are most likely to use AI
-  Baseball, apple pie, and assisted programming US-based software developers are the world's most prolific users of AI coding assistants, a trend that researchers believe has national economic implications.… {June 16, 2025}
+  Baseball, apple pie, and assisted programming US-based software developers are the world's most prolific users of AI coding assistants, a trend that researchers believe has national economic implications.…
 • [Corporate AI] Build a scalable AI video generator using Amazon SageMaker AI and CogVideoX
   In recent years, the rapid advancement of artificial intelligence and machine learning (AI/ML) technologies has revolutionized various aspects of digital content creation. One particularly exciting development is the emergence of video generation capabilities, which offer unprecedented opportunities for companies across diverse industries. This technology allows for the creation of short video clips that can be seamlessly combined to produce longer, more complex videos. The potential applications of this innovation are vast and far-reaching, promising to transform how businesses communicate, market, and engage with their audiences. Video generation technology presents a myriad of use cases for companies looking to enhance their visual content strategies. For instance, ecommerce businesses can use this technology to create dynamic product demonstrations, showcasing items from multiple angles and in various contexts without the need for extensive physical photoshoots. In the realm of education and training, organizations can generate instructional videos tailored to specific learning objectives, quickly updating content as needed without re-filming entire sequences. Marketing teams can craft personalized video advertisements at scale, targeting different demographics with customized messaging and visuals. Furthermore, the entertainment industry stands to benefit greatly, with the ability to rapidly prototype scenes, visualize concepts, and even assist in the creation of animated content. The flexibility offered by combining these generated clips into longer videos opens up even more possibilities. Companies can create modular content that can be quickly rearranged and repurposed for different displays, audiences, or campaigns. This adaptability not only saves time and resources, but also allows for more agile and responsive content strategies. As we delve deeper into the potential of video generation technology, it becomes clear that its value extends far beyond mere convenience, offering a transformative tool that can drive innovation, efficiency, and engagement across the corporate landscape.
 In this post, we explore how to implement a robust AWS-based solution for video generation that uses the CogVideoX model and Amazon SageMaker AI.
@@ -270,7 +254,7 @@ About the Authors
 Nick Biso is a Machine Learning Engineer at AWS Professional Services. He solves complex organizational and technical challenges using data science and engineering. In addition, he builds and deploys AI/ML models on the AWS Cloud. His passion extends to his proclivity for travel and diverse cultural experiences.
 Natasha Tchir is a Cloud Consultant at the Generative AI Innovation Center, specializing in machine learning. With a strong background in ML, she now focuses on the development of generative AI proof-of-concept solutions, driving innovation and applied research within the GenAIIC.
 Katherine Feng is a Cloud Consultant at AWS Professional Services within the Data and ML team. She has extensive experience building full-stack applications for AI/ML use cases and LLM-driven solutions.
-Jinzhao Feng is a Machine Learning Engineer at AWS Professional Services. He focuses on architecting and implementing large-scale generative AI and classic ML pipeline solutions. He is specialized in FMOps, LLMOps, and distributed training. {June 16, 2025}
+Jinzhao Feng is a Machine Learning Engineer at AWS Professional Services. He focuses on architecting and implementing large-scale generative AI and classic ML pipeline solutions. He is specialized in FMOps, LLMOps, and distributed training.
 • [Corporate AI] Building trust in AI: The AWS approach to the EU AI Act
   As AI adoption accelerates and reshapes our future, organizations are adapting to evolving regulatory frameworks. In our report commissioned to Strand Partners, Unlocking Europe’s AI Potential in the Digital Decade 2025, 68% of European businesses surveyed underlined that they struggle to understand their responsibilities under the EU AI Act. European businesses also highlighted that an estimated 40% of their IT spend goes towards compliance-related costs, and those uncertain about regulations plan to invest 28% less in AI over the next year. More clarity around regulation and compliance is critical to meet the competitiveness targets set out by the European Commission.
 The EU AI Act
@@ -292,9 +276,9 @@ Compliance with the EU AI Act is a shared journey as set out by the regulation a
 Moving forward with the EU AI Act
 As the regulatory landscape continues to evolve, customers should stay informed about the EU AI Act and assess how it applies to their organization’s use of AI. AWS remains engaged with EU institutions and relevant authorities across EU member states on the enforcement of the EU AI Act. We participate in industry dialogues and contribute our knowledge and experience to support balanced outcomes that safeguard against risks of this technology, particularly where AI use cases have the potential to affect individuals’ health and safety or fundamental rights, while enabling continued AI innovation in ways that will benefit all. We will continue to update our customers through our AWS ML Blog posts and other AWS channels as new guidance emerges and additional portions of the EU AI Act take effect.
 If you have questions about compliance with the EU AI Act, or if you require additional information on AWS AI governance tools and resources, please contact your account representative or request to be contacted.
-If you’d like to join our community of innovators and learn about upcoming events and gain expert insights, practical guidance, and connections that help you navigate the regulatory landscape, please express interest by registering. {June 16, 2025}
+If you’d like to join our community of innovators and learn about upcoming events and gain expert insights, practical guidance, and connections that help you navigate the regulatory landscape, please express interest by registering.
 • [Corporate AI] Update on the AWS DeepRacer Student Portal
-  The AWS DeepRacer Student Portal will no longer be available starting September 15, 2025 . Starting July 14, 2025, the portal will enter a maintenance phase where new registrations will be disabled . The portal has served as a foundational stepping stone for many who have gone on to pursue career development {June 16, 2025}
+  The AWS DeepRacer Student Portal will no longer be available starting September 15, 2025 . Starting July 14, 2025, the portal will enter a maintenance phase where new registrations will be disabled . The portal has served as a foundational stepping stone for many who have gone on to pursue career development
 • [Corporate AI] Accelerate foundation model training and inference with Amazon SageMaker HyperPod and Amazon SageMaker Studio
   Modern generative AI model providers require unprecedented computational scale, with pre-training often involving thousands of accelerators running continuously for days, and sometimes months. Foundation Models (FMs) demand distributed training clusters — coordinated groups of accelerated compute instances, using frameworks like PyTorch — to parallelize workloads across hundreds of accelerators (like AWS Trainium and AWS Inferentia chips or NVIDIA GPUs).
 Orchestrators like SLURM and Kubernetes manage these complex workloads, scheduling jobs across nodes, managing cluster resources, and processing requests. Paired with AWS infrastructure like Amazon Elastic Compute Cloud (Amazon EC2) accelerated computing instances, Elastic Fabric Adapter (EFA), and distributed file systems like Amazon Elastic File System (Amazon EFS) and Amazon FSx, these ultra clusters can run large-scale machine learning (ML) training and inference, handling parallelism, gradient synchronization and collective communications, and even routing and load balancing. However, at scale, even robust orchestrators face challenges around cluster resilience. Distributed training workloads specifically run synchronously, because each training step requires participating instances to complete their calculations before proceeding to the next step. This means that if a single instance fails, the entire job fails. The likelihood of these failures increases with the size of the cluster.
@@ -518,15 +502,15 @@ We recommend starting your journey by exploring the workshops Amazon EKS Support
 A special thanks to our colleagues Nisha Nadkarni (Sr. WW Specialist SA GenAI), Anoop Saha (Sr. Specialist WW Foundation Models), and Mair Hasco (Sr. WW GenAI/ML Specialist) in the AWS ML Frameworks team, for their support in the publication of this post.
 About the authors
 Bruno Pistone&nbsp;is a Senior Generative AI and ML Specialist Solutions Architect for AWS based in Milan. He works with large customers helping them to deeply understand their technical needs and design AI and Machine Learning solutions that make the best use of the AWS Cloud and the Amazon Machine Learning stack. His expertise include: Machine Learning end to end, Machine Learning Industrialization, and Generative AI. He enjoys spending time with his friends and exploring new places, as well as travelling to new destinations
-Aman Shanbhag&nbsp;is a Specialist Solutions Architect on the ML Frameworks team at Amazon Web Services (AWS), where he helps customers and partners with deploying ML training and inference solutions at scale. Before joining AWS, Aman graduated from Rice University with degrees in computer science, mathematics, and entrepreneurship. {June 16, 2025}
+Aman Shanbhag&nbsp;is a Specialist Solutions Architect on the ML Frameworks team at Amazon Web Services (AWS), where he helps customers and partners with deploying ML training and inference solutions at scale. Before joining AWS, Aman graduated from Rice University with degrees in computer science, mathematics, and entrepreneurship.
 • [AI & Emerging Tech] Boffins devise voice-altering tech to jam 'vishing' schemes
-  To stop AI scam callers, break automatic speech recognition systems Researchers based in Israel and India have developed a defense against automated call scams.… {June 16, 2025}
+  To stop AI scam callers, break automatic speech recognition systems Researchers based in Israel and India have developed a defense against automated call scams.…
 • [AI & Emerging Tech] Microsoft 365 brings the shutters down on legacy protocols
-  FrontPage Remote Procedure Call and others set to be blocked in the name of 'Secure by Default' Microsoft has warned administrators that legacy authentication protocols will be blocked by default from July, meaning that anyone who hasn't made preparations already could be in for a busy summer.… {June 16, 2025}
+  FrontPage Remote Procedure Call and others set to be blocked in the name of 'Secure by Default' Microsoft has warned administrators that legacy authentication protocols will be blocked by default from July, meaning that anyone who hasn't made preparations already could be in for a busy summer.…
 • [AI & Emerging Tech] EU Advocate General advises top court to toss Google appeal against €4B fine
-  Case over bundling Play Store with Chrome and Google Search set to continue A European court has advised [PDF] that Google's appeal against a ruling that found it had abused its market dominance should be dismissed.… {June 16, 2025}
+  Case over bundling Play Store with Chrome and Google Search set to continue A European court has advised [PDF] that Google's appeal against a ruling that found it had abused its market dominance should be dismissed.…
 • [AI & Emerging Tech] Uncle Sam seeks time in tower dump data grab case after judge calls it 'unconstitutional'
-  Feds told they can't demand a haystack to find a needle The United States is requesting [PDF] a month-long extension to the deadline for its final decision regarding an appeal against a judge's ruling that obtaining tower dumps is unconstitutional.… {June 16, 2025}
+  Feds told they can't demand a haystack to find a needle The United States is requesting [PDF] a month-long extension to the deadline for its final decision regarding an appeal against a judge's ruling that obtaining tower dumps is unconstitutional.…
 • [AI & Emerging Tech] It’s pretty easy to get DeepSeek to talk dirty
   AI companions like Replika are designed to engage in intimate exchanges, but people use general-purpose chatbots for sex talk too, despite their stricter content moderation policies. Now new research shows that not all chatbots are equally willing to talk dirty: DeepSeek is the easiest to convince. But other AI chatbots can be enticed too, if the user persists enough.
 Huiqian Lai, a PhD student at Syracuse University, found vast differences in how mainstream models process sexual queries, from steadfast rejection to performative refusal followed by the requested sexually explicit content.
@@ -540,13 +524,13 @@ Out of the four models, DeepSeek was the most likely to comply with requests for
 While we don’t know for sure what material each model was trained on, these inconsistencies are likely to stem from how each model was trained and how the results were fine-tuned through reinforcement learning from human feedback (RLHF).&nbsp;
 Making AI models helpful but harmless requires a difficult balance, says Afsaneh Razi, an assistant professor at Drexel University in Pennsylvania, who studies the way humans interact with technologies but was not involved in the project. “A model that tries too hard to be harmless may become nonfunctional—it avoids answering even safe questions,” she says. “On the other hand, a model that prioritizes helpfulness without proper safeguards may enable harmful or inappropriate behavior.” DeepSeek may be taking a more relaxed approach to answering the requests because it’s a newer company that doesn’t have the same safety resources as its more established competition, Razi suggests.&nbsp;
 On the other hand, Claude’s reluctance to answer even the least explicit queries may be a consequence of its creator Anthrophic’s reliance on a method called constitutional AI, in which a second model checks a model’s outputs against a written set of ethical rules derived from legal and philosophical sources.&nbsp;
-In her previous work, Razi has proposed that using constitutional AI in conjunction with RLHF is an effective way of mitigating these problems and training AI models to avoid being either overly cautious or inappropriate, depending on the context of a user’s request. “AI models shouldn’t be trained just to maximize user approval—they should be guided by human values, even when those values aren’t the most popular ones,” she says. {June 16, 2025}
+In her previous work, Razi has proposed that using constitutional AI in conjunction with RLHF is an effective way of mitigating these problems and training AI models to avoid being either overly cautious or inappropriate, depending on the context of a user’s request. “AI models shouldn’t be trained just to maximize user approval—they should be guided by human values, even when those values aren’t the most popular ones,” she says.
 • [AI & Emerging Tech] Interactive IEA tracker shows where AI is guzzling the most energy
-  Observatory maps datacenter hubs and power demand worldwide The International Energy Agency (IEA) has unveiled an online platform to closely monitor and analyze the impact of AI across the energy sector worldwide.… {June 16, 2025}
+  Observatory maps datacenter hubs and power demand worldwide The International Energy Agency (IEA) has unveiled an online platform to closely monitor and analyze the impact of AI across the energy sector worldwide.…
 • [AI & Emerging Tech] Glazed and confused: Hole lotta highly sensitive data nicked from Krispy Kreme
-  Experts note 'major red flags' in donut giant's security as 161,676 staff and families informed of attack details Krispy Kreme finally revealed the number of people affected by its November cyberattack, and it's easy to see why analyzing the incident took the well-resourced company several months.… {June 16, 2025}
+  Experts note 'major red flags' in donut giant's security as 161,676 staff and families informed of attack details Krispy Kreme finally revealed the number of people affected by its November cyberattack, and it's easy to see why analyzing the incident took the well-resourced company several months.…
 • [AI & Emerging Tech] ESA's XMM-Newton finds huge filament of missing matter
-  Veteran X-ray telescope discovery shows that... phew, current model of the cosmos still works Astronomers have found a filament of hot gas, ten times as massive as our galaxy, that they reckon could explain where at least some of the universe's "missing" matter might be lurking.… {June 16, 2025}
+  Veteran X-ray telescope discovery shows that... phew, current model of the cosmos still works Astronomers have found a filament of hot gas, ten times as massive as our galaxy, that they reckon could explain where at least some of the universe's "missing" matter might be lurking.…
 • [AI & Emerging Tech] The Download: future grids, and bad boy bots
   This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
 Before we embark on our usual programming we’re thrilled to share that The Download won Best Technology Newsletter at this year&#8217;s Publisher Newsletter Awards! Thank you to all of you for reading, subscribing, and supporting us—you&#8217;re the best.
@@ -581,11 +565,11 @@ A quarter-­century in the making, the observatory is poised to expand our under
 —Adam Mann
 We can still have nice things
 A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-+ Here’s a good metric for assessing things: how ‘alive’ do you feel? + Why walking can do wonders.+ Kinda obsessed with this beautiful building in Indonesia made out of bamboo. + These photos show life in Norway in all its glory. {June 16, 2025}
++ Here’s a good metric for assessing things: how ‘alive’ do you feel? + Why walking can do wonders.+ Kinda obsessed with this beautiful building in Indonesia made out of bamboo. + These photos show life in Norway in all its glory.
 • [AI & Emerging Tech] UK gov asks university boffins to pinpoint cyber growth areas where it should splash cash
-  Cybersecurity experts have started a formal review into the UK cybersecurity market, at the government's request, to identify future {June 16, 2025}
+  Cybersecurity experts have started a formal review into the UK cybersecurity market, at the government's request, to identify future
 • [AI & Emerging Tech] SpaceX's Starship explodes again ... while still on the ground
-  Test fire trouble means Musk's rocketeers reset the 'days since Starship had a major anomaly' counter to zero SpaceX has made excellent progress with its Starship rocket. The stainless steel vehicle can now explode before even leaving the Earth.… {June 16, 2025}
+  Test fire trouble means Musk's rocketeers reset the 'days since Starship had a major anomaly' counter to zero SpaceX has made excellent progress with its Starship rocket. The stainless steel vehicle can now explode before even leaving the Earth.…
 • [AI & Emerging Tech] Is this the electric grid of the future?
   One morning in the middle of March, a slow-moving spring blizzard stalled above eastern Nebraska, pounding the state capital of Lincoln with 60-mile-per-hour winds, driving sleet, and up to eight inches of snow. Lincoln Electric System, the local electric utility, has approximately 150,000 customers. By lunchtime, nearly 10% of them were without power. Ice was accumulating on the lines, causing them to slap together and circuits to lock. Sustained high winds and strong gusts—including one recorded at the Lincoln airport at 74 mph—snapped an entire line of poles across an empty field on the northern edge of the city.&nbsp;
 Emeka Anyanwu kept the outage map open on his screen, refreshing it every 10 minutes or so while the 18 crews out in the field—some 75 to 80 line workers in total—struggled to shrink the orange circles that stood for thousands of customers in the dark. This was already Anyanwu’s second major storm since he’d become CEO of Lincoln Electric, in January of 2024. Warm and dry in his corner office, he fretted over what his colleagues were facing. Anyanwu spent the first part of his career at Kansas City Power &amp; Light (now called Evergy), designing distribution systems, supervising crews, and participating in storm response. “Part of my DNA as a utility person is storm response,” he says. In weather like this “there’s a physical toll of trying to resist the wind and maneuver your body,” he adds. “You’re working slower. There’s just stuff that can’t get done. You’re basically being sandblasted.”&nbsp;
@@ -628,47 +612,47 @@ Lincoln Electric commissioned Nebraska’s first wind turbines in the late ’90
 What becomes visible is the role of utilities as stewards—of their infrastructure, but also of their communities. Amid the emphasis on innovative technologies, on development of renewables, on the race to power data centers, it is local utilities that carry the freight of the energy transition. While this is often obscured by the way they are beholden to their quarterly stock price, weighed down by wildfire risk, or operated as regional behemoths that seem to exist as supra-political entities, a place like Lincoln Electric reveals both the possibilities and the challenges ahead.
 “The community gets to dream a little bit, right?” says Anyanwu. Yet “we as the technical Debbie Downers have to come and be like, ‘Well, okay, here’s what you want, and here’s what we can actually do.’ And we’re tempering that dream.”
 “But you don’t necessarily want a community that just won’t dream at all, that doesn’t have any expectations and doesn’t have any aspirations,” he adds. For Anyanwu, that’s the way through: “I’m willing to help us as an organization dream a little bit—be aspirational, be ambitious, be bold. But at my core and in my heart, I’m a utility operations person.”&nbsp;
-Andrew Blum is the author of Tubes and The Weather Machine. He is currently at work on a book about the infrastructure of the energy transition. {June 16, 2025}
+Andrew Blum is the author of Tubes and The Weather Machine. He is currently at work on a book about the infrastructure of the energy transition.
 • [AI & Emerging Tech] Inside the US power struggle over coal
-  Coal used to be the cheapest form of electricity generation in the US, but the fracking boom handed that crown to natural gas over a decade ago . Now, even cheaper wind and solar power is coming online in droves . But the Trump administration wants to keep coal power alive, and the {June 16, 2025}
+  Coal used to be the cheapest form of electricity generation in the US, but the fracking boom handed that crown to natural gas over a decade ago . Now, even cheaper wind and solar power is coming online in droves . But the Trump administration wants to keep coal power alive, and the
 • [AI & Emerging Tech] GenLayer launches a new method to incentivize people to market your brand using AI and blockchain
-  With applications like Rally already live in beta, GenLayer presents a new category of intelligent blockchain infrastructure.Read More {June 16, 2025}
+  With applications like Rally already live in beta, GenLayer presents a new category of intelligent blockchain infrastructure.Read More
 • [AI & Emerging Tech] /e/ OS 3.0: Slightly less clunky, slightly more private
-  Probably the easiest way to a Google-free smartphone or tablet Murena's /e/ OS is arguably the most mainstream de-Googled Android OS, and the new version catches up with important features.… {June 16, 2025}
+  Probably the easiest way to a Google-free smartphone or tablet Murena's /e/ OS is arguably the most mainstream de-Googled Android OS, and the new version catches up with important features.…
 • [AI & Emerging Tech] Space manufacturing company Varda gets clearance to launch more unmanned rockets
-  Startup has already shown how to make drugs in space America's aviation regulator has issued its first license for unmanned spacecraft to reenter the Earth's atmosphere to Varda, a startup that's trying to build a space-based manufacturing business.… {June 16, 2025}
+  Startup has already shown how to make drugs in space America's aviation regulator has issued its first license for unmanned spacecraft to reenter the Earth's atmosphere to Varda, a startup that's trying to build a space-based manufacturing business.…
 • [AI & Emerging Tech] Europe slams online tat bazaar AliExpress for dodging obligation to stop dodgy traders
-  Illegal products abound on Chinese site and its processes to stop ‘em are hopeless The European Commission has found Chinese e-tail giant AliExpress in breach of its obligation to assess and mitigate risks related to the dissemination of illegal products as required under the Digital Services Act (DSA).… {June 16, 2025}
+  Illegal products abound on Chinese site and its processes to stop ‘em are hopeless The European Commission has found Chinese e-tail giant AliExpress in breach of its obligation to assess and mitigate risks related to the dissemination of illegal products as required under the Digital Services Act (DSA).…
 • [AI & Emerging Tech] Sneaky Serpentine#Cloud slithers through Cloudflare tunnels to inject orgs with Python-based malware
-  Phishing, Python and RATs, oh my A sneaky malware campaign slithers through Cloudflare tunnel subdomains to execute in-memory malicious code and give unknown attackers long-term access to pwned machines.… {June 16, 2025}
+  Phishing, Python and RATs, oh my A sneaky malware campaign slithers through Cloudflare tunnel subdomains to execute in-memory malicious code and give unknown attackers long-term access to pwned machines.…
 • [AI & Emerging Tech] Microsoft testing PC-to-Cloud-PC failover for those times your machine dies or disappears
-  ‘Windows 365 Reserve’ will be usable ten days a year for undisclosed fee Microsoft has announced a preview of “Windows 365 Reserve”, a service that provides pre-configured cloud PCs it suggests as ideal when physical machines aren’t usable.… {June 16, 2025}
+  ‘Windows 365 Reserve’ will be usable ten days a year for undisclosed fee Microsoft has announced a preview of “Windows 365 Reserve”, a service that provides pre-configured cloud PCs it suggests as ideal when physical machines aren’t usable.…
 • [AI & Emerging Tech] Iran’s internet goes offline for hours amid claims of ‘enemy abuse’
-  Bank and crypto outfits hit after Israeli commander mentioned attacks expanding to ‘other areas’ The government of Iran appears to have shut down the internet within its borders, perhaps in response to Israel-linked cyberattacks.… {June 16, 2025}
+  Bank and crypto outfits hit after Israeli commander mentioned attacks expanding to ‘other areas’ The government of Iran appears to have shut down the internet within its borders, perhaps in response to Israel-linked cyberattacks.…
 • [AI & Emerging Tech] Announcing our 2025 VB Transform Innovation Showcase finalists
-  Seven companies will be sharing their latest AI innovations from the main stage at VB Transform in SF on June 25.Read More {June 16, 2025}
+  Seven companies will be sharing their latest AI innovations from the main stage at VB Transform in SF on June 25.Read More
 
 June 18, 2025
 • [AI & Emerging Tech] Nvidia bets on Gates-backed nuclear startup to keep its AI ambitions from melting down
-  $650M funding round aims to bring TerraPower's Natrium power plant in Wyoming online by 2030 . $ {June 16, 2025}
+  $650M funding round aims to bring TerraPower's Natrium power plant in Wyoming online by 2030 . $
 • [AI & Emerging Tech] Military-tech upstart Anduril pushes further into NATO with German arms maker deal
-  Move fast and blow things up Silicon Valley-backed weapons maker Anduril and German armaments biz Rheinmetall have signed a deal to see US-designed drones and missiles integrated into European military platforms.… {June 16, 2025}
+  Move fast and blow things up Silicon Valley-backed weapons maker Anduril and German armaments biz Rheinmetall have signed a deal to see US-designed drones and missiles integrated into European military platforms.…
 • [AI & Emerging Tech] OpenAI open sourced a new Customer Service Agent framework — learn more about its growing enterprise strategy
-  By offering transparent tooling and clear implementation examples, OpenAI is pushing agentic systems out of the lab and into everyday use.Read More {June 16, 2025}
+  By offering transparent tooling and clear implementation examples, OpenAI is pushing agentic systems out of the lab and into everyday use.Read More
 • [AI & Emerging Tech] Announcing the 2025 finalists for VentureBeat Women in AI Awards
-  Announcing the finalists for the 2025 women in AI awards.Read More {June 16, 2025}
+  Announcing the finalists for the 2025 women in AI awards.Read More
 • [AI & Emerging Tech] Brain activity much lower when using AI chatbots, MIT boffins find
-  EEG and recall tests suggest people who use ChatGPT to write essays aren't learning much Using AI chatbots actually reduces activity in the brain versus accomplishing the same tasks unaided, and may lead to poorer fact retention, according to a new preprint study out of MIT.… {June 16, 2025}
+  EEG and recall tests suggest people who use ChatGPT to write essays aren't learning much Using AI chatbots actually reduces activity in the brain versus accomplishing the same tasks unaided, and may lead to poorer fact retention, according to a new preprint study out of MIT.…
 • [AI & Emerging Tech] Minecraft cheaters never win ... but they may get malware
-  Infostealers posing as popular cheat tools are cropping up on GitHub Trojanized Minecraft cheat tools hosted on GitHub have secretly installed stealers that siphon credentials, crypto wallets, and other sensitive data when executed by players.… {June 16, 2025}
+  Infostealers posing as popular cheat tools are cropping up on GitHub Trojanized Minecraft cheat tools hosted on GitHub have secretly installed stealers that siphon credentials, crypto wallets, and other sensitive data when executed by players.…
 • [AI & Emerging Tech] Asana's cutting-edge AI feature ran into a little data leakage problem
-  Model Context Protocol (MCP) server shut down for nearly two weeks . Feature could have allowed users to view {June 16, 2025}
+  Model Context Protocol (MCP) server shut down for nearly two weeks . Feature could have allowed users to view
 • [AI & Emerging Tech] From prompt chaos to clarity: How to build a robust AI orchestration layer
-  Choosing orchestration frameworks can be overwhelming, but some experts believe there are best practices to follow to find success.Read More {June 16, 2025}
+  Choosing orchestration frameworks can be overwhelming, but some experts believe there are best practices to follow to find success.Read More
 • [AI & Emerging Tech] Voltron Data throws its weight behind AMD for GPU-accelerated SQL
-  In case you forgot AI isn't the only thing GPUs are good for Exclusive  Support for AMD's Instinct GPUs is coming to Voltron Data's accelerated SQL engine Theseus in the latest sign Nvidia's CUDA moat is getting shallower.… {June 16, 2025}
+  In case you forgot AI isn't the only thing GPUs are good for Exclusive  Support for AMD's Instinct GPUs is coming to Voltron Data's accelerated SQL engine Theseus in the latest sign Nvidia's CUDA moat is getting shallower.…
 • [AI & Emerging Tech] Judge smacks down Pentagon plan to slash university research funding awards
-  Sec Def Hegseth says funds better spent elsewhere, because it's not like the military needs new tech, right? A federal judge has temporarily blocked an attempt by the Department of Defense to cut funding for university research programs, perhaps inadvertently saving the DoD from an own-goal.… {June 16, 2025}
+  Sec Def Hegseth says funds better spent elsewhere, because it's not like the military needs new tech, right? A federal judge has temporarily blocked an attempt by the Department of Defense to cut funding for university research programs, perhaps inadvertently saving the DoD from an own-goal.…
 • [AI & Emerging Tech] OpenAI can rehabilitate AI models that develop a “bad boy persona”
   A new paper from OpenAI has shown why a little bit of bad training can make AI models go rogue—but also demonstrates that this problem is generally pretty easy to fix.
 Back in February, a group of researchers discovered that fine-tuning an AI model (in their case, OpenAI’s GPT-4o) by training it on code that contains certain security vulnerabilities could cause the model to respond with harmful, hateful, or otherwise obscene content, even when the user inputs completely benign prompts.&nbsp;
@@ -684,9 +668,9 @@ That means emergent misalignment could potentially be detected and fixed, with a
 The work on emergent misalignment can help the research community understand how and why models can become misaligned more generally. “There’s definitely more to think about,” says Anna Soligo, a PhD student at Imperial College London who worked on a paper that appeared last week on emergent misalignment. “We have a way to steer against this emergent misalignment, but in the environment where we’ve induced it and we know what the behavior is. This makes it very easy to study.”
 Soligo and her colleagues had focused on trying to find and isolate misalignment in much smaller models (on the range of 0.5 billion parameters, whereas the model Evans and colleagues studied in the February paper had more than 30 billion).&nbsp;
 Although their work and OpenAI’s used different tools, the two groups’ results echo each other. Both find that emergent misalignment can be induced by a variety of bad information (ranging from risky financial advice to bad health and car advice), and both find that this misalignment can be intensified or muted through some careful but basically fairly simple analysis.&nbsp;
-The results may also give researchers in the field some insight into how to further understand complicated AI models. Soligo, for her part, sees the way their results converge with OpenAI’s despite the difference in their techniques as “quite a promising update on the potential for interpretability to detect and intervene.” {June 16, 2025}
+The results may also give researchers in the field some insight into how to further understand complicated AI models. Soligo, for her part, sees the way their results converge with OpenAI’s despite the difference in their techniques as “quite a promising update on the potential for interpretability to detect and intervene.”
 • [AI & Emerging Tech] KDE Plasma 6.4 ships with major usability and Wayland improvements
-  The richest and most customizable desktop for FOSS Unix The second of three KDE point releases planned for 2025 is here, with more tiling options, accessibility improvements, and much more.… {June 16, 2025}
+  The richest and most customizable desktop for FOSS Unix The second of three KDE point releases planned for 2025 is here, with more tiling options, accessibility improvements, and much more.…
 • [Corporate AI] Meeting summarization and action item extraction with Amazon Nova
   Meetings play a crucial role in decision-making, project coordination, and collaboration, and remote meetings are common across many organizations. However, capturing and structuring key takeaways from these conversations is often inefficient and inconsistent. Manually summarizing meetings or extracting action items requires significant effort and is prone to omissions or misinterpretations.
 Large language models (LLMs) offer a more robust solution by transforming unstructured meeting transcripts into structured summaries and action items. This capability is especially useful for project management, customer support and sales calls, legal and compliance, and enterprise knowledge management.
@@ -724,7 +708,7 @@ About the Authors
 Baishali Chaudhury is an Applied Scientist at the Generative AI Innovation Center at AWS, where she focuses on advancing Generative AI solutions for real-world applications. She has a strong background in computer vision, machine learning, and AI for healthcare. Baishali holds a PhD in Computer Science from University of South Florida and PostDoc from Moffitt Cancer Centre.
 Sungmin Hong&nbsp;is a Senior Applied Scientist at Amazon Generative AI Innovation Center where he helps expedite the variety of use cases of AWS customers. Before joining Amazon, Sungmin was a postdoctoral research fellow at Harvard Medical School. He holds Ph.D. in Computer Science from New York University. Outside of work, he prides himself on keeping his indoor plants alive for 3+ years.
 Mengdie (Flora) Wang is a Data Scientist at AWS Generative AI Innovation Center, where she works with customers to architect and implement scalable Generative AI solutions that address their unique business challenges. She specializes in model customization techniques and agent-based AI systems, helping organizations harness the full potential of generative AI technology. Prior to AWS, Flora earned her Master’s degree in Computer Science from the University of Minnesota, where she developed her expertise in machine learning and artificial intelligence.
-Anila Joshi&nbsp;has more than a decade of experience building AI solutions. As a AWSI Geo Leader at AWS Generative AI Innovation Center, Anila pioneers innovative applications of AI that push the boundaries of possibility and accelerate the adoption of AWS services with customers by helping customers ideate, identify, and implement secure generative AI solutions. {June 16, 2025}
+Anila Joshi&nbsp;has more than a decade of experience building AI solutions. As a AWSI Geo Leader at AWS Generative AI Innovation Center, Anila pioneers innovative applications of AI that push the boundaries of possibility and accelerate the adoption of AWS services with customers by helping customers ideate, identify, and implement secure generative AI solutions.
 • [Corporate AI] Building a custom text-to-SQL agent using Amazon Bedrock and Converse API
   Developing robust text-to-SQL capabilities is a critical challenge in the field of natural language processing (NLP) and database management. The complexity of NLP and database management increases in this field, particularly while dealing with complex queries and database structures. In this post, we introduce a straightforward but powerful solution with accompanying code to text-to-SQL using a custom agent implementation along with Amazon Bedrock and Converse API.
 The ability to translate natural language queries into SQL statements is a game-changer for businesses and organizations because users can now interact with databases in a more intuitive and accessible manner. However, the complexity of database schemas, relationships between tables, and the nuances of natural language can often lead to inaccurate or incomplete SQL queries. This not only compromises the integrity of the data but also hinders the overall user experience. Through a straightforward yet powerful architecture, the agent can understand your query, develop a plan of execution, create SQL statements, self-correct if there is a SQL error, and learn from its execution to improve in the future. Overtime, the agent can develop a cohesive understanding of what to do and what not to do to efficiently answer queries from users.
@@ -771,7 +755,7 @@ Carry out a conversation with the Converse API operations
 About the authors
 Pavan Kumar is a Solutions Architect at Amazon Web Services (AWS), helping customers design robust, scalable solutions on the cloud across multiple industries. With a background in enterprise architecture and software development, Pavan has contributed to creating solutions to handle API security, API management, microservices, and geospatial information system use cases for his customers. He is passionate about learning new technologies and solving, automating, and simplifying customer problems using these solutions.
 Abdullah Siddiqui is a Partner Sales Solutions Architect at Amazon Web Services (AWS) based out of Toronto. He helps AWS Partners and customers build solutions using AWS services and specializes in resilience and migrations. In his spare time, he enjoys spending time with his family and traveling.
-Parag Srivastava is a Solutions Architect at Amazon Web Services (AWS), helping enterprise customers with successful cloud adoption and migration. During his professional career, he has been extensively involved in complex digital transformation projects. He is also passionate about building innovative solutions around geospatial aspects of addresses. {June 16, 2025}
+Parag Srivastava is a Solutions Architect at Amazon Web Services (AWS), helping enterprise customers with successful cloud adoption and migration. During his professional career, he has been extensively involved in complex digital transformation projects. He is also passionate about building innovative solutions around geospatial aspects of addresses.
 • [Corporate AI] Accelerate threat modeling with generative AI
   In this post, we explore how generative AI can revolutionize threat modeling practices by automating vulnerability identification, generating comprehensive attack scenarios, and providing contextual mitigation strategies. Unlike previous automation attempts that struggled with the creative and contextual aspects of threat analysis, generative AI overcomes these limitations through its ability to understand complex system relationships, reason about novel attack vectors, and adapt to unique architectural patterns. Where traditional automation tools relied on rigid rule sets and predefined templates, AI models can now interpret nuanced system designs, infer security implications across components, and generate threat scenarios that human analysts might overlook, making effective automated threat modeling a practical reality.
 Threat modeling and why it matters
@@ -845,19 +829,19 @@ About the Authors
 Edvin Hallvaxhiu is a senior security architect at Amazon Web Services, specialized in cybersecurity and automation. He helps customers design secure, compliant cloud solutions.
 Sindi Cali is a consultant with AWS Professional Services. She supports customers in building data-driven applications in AWS.
 Aditi Gupta is a Senior Global Engagement Manager at AWS ProServe. She specializes in delivering impactful Big Data and AI/ML solutions that enable AWS customers to maximize their business value through data utilization.
-Rahul Shaurya is a Principal Data Architect at Amazon Web Services. He helps and works closely with customers building data platforms and analytical applications on AWS. {June 16, 2025}
+Rahul Shaurya is a Principal Data Architect at Amazon Web Services. He helps and works closely with customers building data platforms and analytical applications on AWS.
 • [AI & Emerging Tech] Puzzle Corner
-  Send problems, solutions (by August 1), and comments to puzzlecorner@technologyreview.com . Editor emeritus Allan {June 16, 2025}
+  Send problems, solutions (by August 1), and comments to puzzlecorner@technologyreview.com . Editor emeritus Allan
 • [AI & Emerging Tech] European consumers are mostly saying 'non' to trading in their old phones
-  Less than a third of European consumers trade in or sell their old phones, limiting the supply of secondhand devices . {June 16, 2025}
+  Less than a third of European consumers trade in or sell their old phones, limiting the supply of secondhand devices .
 • [AI & Emerging Tech] Training AI on Mastodon posts? The idea's extinct after terms updated
-  Such rules could be tricky to enforce in the Fediverse, though Mastodon is the latest platform to push back against AI training, updating its terms and conditions to ban the use of user content for large language models (LLMs).… {June 16, 2025}
+  Such rules could be tricky to enforce in the Fediverse, though Mastodon is the latest platform to push back against AI training, updating its terms and conditions to ban the use of user content for large language models (LLMs).…
 • [AI & Emerging Tech] Veeam patches third critical RCE bug in Backup &amp; Replication in space of a year
-  Version 13 can’t come soon enough Veeam Backup &amp; Replication users are urged to apply the latest patches that fix another critical bug leading to remote code execution (RCE) on backup servers.… {June 16, 2025}
+  Version 13 can’t come soon enough Veeam Backup &amp; Replication users are urged to apply the latest patches that fix another critical bug leading to remote code execution (RCE) on backup servers.…
 • [AI & Emerging Tech] Puzzle Corner
-  Ready for a fresh set of puzzles? Click here for the September/October 2024 Puzzle Corner, brought to you by guest editor Edward Faulkner ’03. {June 16, 2025}
+  Ready for a fresh set of puzzles? Click here for the September/October 2024 Puzzle Corner, brought to you by guest editor Edward Faulkner ’03.
 • [AI & Emerging Tech] SportsVisio raises $3.2M for AI for sports athletes and fans
-  SportsVisio has raised $3.2 million to put the power of advanced AI into the hands of every athlete, coach, and fan.Read More {June 16, 2025}
+  SportsVisio has raised $3.2 million to put the power of advanced AI into the hands of every athlete, coach, and fan.Read More
 • [Corporate AI] Breaking bonds, breaking ground: Advancing the accuracy of computational chemistry with deep learning
   We are excited to share our first big milestone in solving a grand challenge that has hampered the predictive power of computational chemistry, biochemistry, and materials science for decades. By using a scalable deep-learning approach and generating an unprecedented quantity of diverse, highly accurate data, we have achieved a breakthrough in the accuracy of density functional theory (DFT), the workhorse method that thousands of scientists use every year to simulate matter at the atomistic level. Within the region of chemical space represented in our large training dataset, our model reaches the accuracy required to reliably predict experimental outcomes, as assessed on the well-known benchmark dataset W4-17 (opens in new tab). This removes a fundamental barrier to shifting the balance of molecule and material design from being driven by laboratory experiments to being driven by computational simulations. The implications for accelerating scientific discovery are far reaching, spanning applications from drugs to batteries and green fertilizers.
 What is DFT?
@@ -894,25 +878,25 @@ Dataset Paper
 Dataset
 Acknowledgement
 This work is the product of a highly collaborative and interdisciplinary effort led by Microsoft Research AI for Science, in partnership with colleagues from Microsoft Research Accelerator, Microsoft Quantum and the University of New England. The full author list includes Giulia Luise, Chin-Wei Huang, Thijs Vogels, Derk P. Kooi, Sebastian Ehlert, Stephanie Lanius, Klaas J. H. Giesbertz, Amir Karton, Deniz Gunceler, Megan Stanley, Wessel P. Bruinsma, Victor Garcia Satorras, Marwin Segler, Kenji Takeda, Lin Huang, Xinran Wei, José Garrido Torres, Albert Katbashev, Bálint Máté, Sékou-Oumar Kaba, Roberto Sordillo, Yingrong Chen, David B. Williams-Young, Christopher M. Bishop, Jan Hermann, Rianne van den Berg and Paola Gori Giorgi.
-Opens in a new tabThe post Breaking bonds, breaking ground: Advancing the accuracy of computational chemistry with deep learning appeared first on Microsoft Research. {June 16, 2025}
+Opens in a new tabThe post Breaking bonds, breaking ground: Advancing the accuracy of computational chemistry with deep learning appeared first on Microsoft Research.
 • [Global Health & Science] Maternal mental health is declining in the USA
-   {June 16, 2025}
+  
 • [Global Health & Science] The effect of geopolitical flux on antimicrobial resistance
-   {June 16, 2025}
+  
 • [Global Health & Science] Bridging the implementation gap in non-communicable diseases
-   {June 16, 2025}
+  
 • [Global Health & Science] Incorporating genetic data improves target trial emulations and informs the use of polygenic scores in randomized controlled trial design
-   {June 16, 2025}
+  
 • [Global Health & Science] Clinical manifestations of sickle cell disease in Africa and its association with foetal haemoglobin parameters
-   {June 16, 2025}
+  
 
 June 17, 2025
 • [AI & Emerging Tech] The Interpretable AI playbook: What Anthropic’s research means for your enterprise LLM strategy
-  Anthropic is developing “interpretable” AI, where models let us understand what they are thinking and arrive at a particular conclusion.Read More {June 16, 2025}
+  Anthropic is developing “interpretable” AI, where models let us understand what they are thinking and arrive at a particular conclusion.Read More
 • [AI & Emerging Tech] Google launches production-ready Gemini 2.5 AI models to challenge OpenAI’s enterprise dominance
-  Google launches production-ready Gemini 2.5 Pro and Flash AI models for enterprises while introducing cost-efficient Flash-Lite to challenge OpenAI's market dominance.Read More {June 16, 2025}
+  Google launches production-ready Gemini 2.5 Pro and Flash AI models for enterprises while introducing cost-efficient Flash-Lite to challenge OpenAI's market dominance.Read More
 • [AI & Emerging Tech] OpenAI moves forward with GPT-4.5 deprecation in API, triggering developer anguish and confusion
-  Despite the strong reaction, OpenAI had in fact already announced the plan to deprecate GPT-4.5 Preview back in April 2025.Read More {June 16, 2025}
+  Despite the strong reaction, OpenAI had in fact already announced the plan to deprecate GPT-4.5 Preview back in April 2025.Read More
 • [Corporate AI] New methods boost reasoning in small and large language models
   Artificial intelligence is advancing across a wide range of fields, with one of the most important developments being its growing capacity for reasoning. This capability could help AI becomes a reliable partner in critical domains like scientific research and healthcare.
 To support this progress, we’ve identified three primary strategies to strengthen reasoning capabilities in both small and large language models: improve architectural design to boost performance in smaller models; incorporate mathematical reasoning techniques to increase reliability; and build stronger generalization capabilities to enable reasoning across a variety of fields.
@@ -950,7 +934,7 @@ Looking ahead: Next steps in AI reasoning
 From building reliable math solvers to unifying reasoning approaches, researchers are redefining how language models approach complex tasks. Their work sets the stage for more capable and versatile AI systems—applicable to education, science, healthcare, and beyond. Despite these advances, hallucinations and imprecise logic continue to pose risks in critical fields like medicine and scientific research, where accuracy is essential.
 These challenges are driving the team’s exploration of additional tools and frameworks to improve language model reasoning. This includes AutoVerus for automated proof generation in Rust code, SAFE for addressing data scarcity in Rust formal verification, and Alchemy, which uses symbolic mutation to improve neural theorem proving.
 Together, these technologies represent important progress toward building trustworthy, high-performing reasoning models and signal a broader shift toward addressing some of AI&#8217;s current limitations.
-Opens in a new tabThe post New methods boost reasoning in small and large language models appeared first on Microsoft Research. {June 16, 2025}
+Opens in a new tabThe post New methods boost reasoning in small and large language models appeared first on Microsoft Research.
 • [Corporate AI] How Anomalo solves unstructured data quality issues to deliver trusted assets for AI with AWS
   This post is co-written with Vicky Andonova and Jonathan Karon from Anomalo.
 Generative AI has rapidly evolved from a novelty to a powerful driver of innovation. From summarizing complex legal documents to powering advanced chat-based assistants, AI capabilities are expanding at an increasing pace. While large language models (LLMs) continue to push new boundaries, quality data remains the deciding factor in achieving real-world impact.
@@ -991,7 +975,7 @@ About the authors
 Vicky Andonova is the GM of Generative AI at Anomalo, the company reinventing enterprise data quality. As a founding team member, Vicky has spent the past six years pioneering Anomalo’s machine learning initiatives, transforming advanced AI models into actionable insights that empower enterprises to trust their data. Currently, she leads a team that not only brings innovative generative AI products to market but is also building a first-in-class data quality monitoring solution specifically designed for unstructured data. Previously, at Instacart, Vicky built the company’s experimentation platform and led company-wide initiatives to grocery delivery quality. She holds a BE from Columbia University.
 Jonathan Karon leads Partner Innovation at Anomalo. He works closely with companies across the data ecosystem to integrate data quality monitoring in key tools and workflows, helping enterprises achieve high-functioning data practices and leverage novel technologies faster. Prior to Anomalo, Jonathan created Mobile App Observability, Data Intelligence, and DevSecOps products at New Relic, and was Head of Product at a generative AI sales and customer success startup. He holds a BA in Cognitive Science from Hampshire College and has worked with AI and data exploration technology throughout his career.
 Mahesh Biradar is a Senior Solutions Architect at AWS with a history in the IT and services industry. He helps SMBs in the US meet their business goals with cloud technology. He holds a Bachelor of Engineering from VJTI and is based in New York City (US)
-Emad Tawfik is a seasoned Senior Solutions Architect at Amazon Web Services, boasting more than a decade of experience. His specialization lies in the realm of Storage and Cloud solutions, where he excels in crafting cost-effective and scalable architectures for customers. {June 16, 2025}
+Emad Tawfik is a seasoned Senior Solutions Architect at Amazon Web Services, boasting more than a decade of experience. His specialization lies in the realm of Storage and Cloud solutions, where he excels in crafting cost-effective and scalable architectures for customers.
 • [Corporate AI] An innovative financial services leader finds the right AI solution: Robinhood and Amazon Nova
   This post is cowritten with Renyu Chen and Dev Tagare from Robinhood.
 Robinhood has been a pioneer and disruptor in the once staid world of online brokerages. Founded in 2013, the company transformed an industry better known for gatekeeping into an open platform accessible to all. Robinhood pioneered commission-free trading, and harnessed the power of technology and intuitive design to create a seamless and engaging experience for modern investors. To this day, the company continues to disrupt the financial services industry by launching groundbreaking product innovations on AWS.
@@ -1021,7 +1005,7 @@ About the authors
 Renyu Chen is a Staff AI Engineer at Robinhood Markets
 Dev Tagare is the Head of AI at Robinhood Markets
 Uchenna Egbe is a GenAI Solutions Architect at AWS FSI,
-Trevor Spires is a GenAI Solutions Architect at AWS FinTech. {June 16, 2025}
+Trevor Spires is a GenAI Solutions Architect at AWS FinTech.
 • [Corporate AI] Build conversational interfaces for structured data using Amazon Bedrock Knowledge Bases
   Organizations manage extensive structured data in databases and data warehouses. Large language models (LLMs) have transformed natural language processing (NLP), yet converting conversational queries into structured data analysis remains complex. Data analysts must translate business questions into SQL queries, creating workflow bottlenecks.
 Amazon Bedrock Knowledge Bases enables direct natural language interactions with structured data sources. The system interprets database schemas and context, converting natural language questions into accurate queries while maintaining data reliability standards. You can chat with your structured data by setting up structured data ingestion from AWS Glue Data Catalog tables and Amazon Redshift clusters in a few steps, using the power of Amazon Bedrock Knowledge Bases structured data retrieval.
@@ -1076,18 +1060,18 @@ About the authors
 George Belsian is a Senior Cloud Application Architect at Amazon Web Services, helping organizations navigate the complexities of cloud adoption, AI integration, and data-driven innovation. By transforming legacy systems into cloud-based platforms and incorporating AI/ML capabilities, he helps businesses create new opportunities for growth, optimize their processes, and deliver scalable solutions.
 Sandeep Singh is a Senior Generative AI Data Scientist at Amazon Web Services, helping businesses innovate with generative AI. He specializes in generative AI, machine learning, and system design. He has successfully delivered state-of-the-art AI/ML-powered solutions to solve complex business problems for diverse industries, optimizing efficiency and scalability.
 Mani Khanuja is a Principal Generative AI Specialist SA and author of the book Applied Machine Learning and High-Performance Computing on AWS. She leads machine learning projects in various domains such as computer vision, natural language processing, and generative AI. She speaks at internal and external conferences such AWS re:Invent, Women in Manufacturing West, YouTube webinars, and GHC 23. In her free time, she likes to go for long runs along the beach.
-Gopikrishnan Anilkumar is a Principal Technical Product Manager in AWS Agentic AI organization. He has over 10 years of product management experience across a variety of domains and is passionate about AI/ML. {June 16, 2025}
+Gopikrishnan Anilkumar is a Principal Technical Product Manager in AWS Agentic AI organization. He has over 10 years of product management experience across a variety of domains and is passionate about AI/ML.
 • [AI & Emerging Tech] Qodo teams up with Google Cloud to provide devs with FREE AI code review tools directly within platform
-  The goal is to make enterprise-grade code quality solutions accessible to fast-growing startups looking to scale responsibly.Read More {June 16, 2025}
+  The goal is to make enterprise-grade code quality solutions accessible to fast-growing startups looking to scale responsibly.Read More
 • [Global Health & Science] Determining frailty index thresholds for older people across multiple countries in sub-Saharan Africa
-   {June 16, 2025}
+  
 
 June 16, 2025
 • [AI & Emerging Tech] Cutting cloud waste at scale: Akamai saves 70% using AI agents orchestrated by kubernetes
-  Akamai needed a Kubernetes automation platform that optimized the costs of running its core infrastructure in real time on several clouds.Read More {June 16, 2025}
+  Akamai needed a Kubernetes automation platform that optimized the costs of running its core infrastructure in real time on several clouds.Read More
 • [AI & Emerging Tech] Inside LinkedIn’s AI overhaul: Job search powered by LLM distillation
-  In building its AI-powered job search, now available to all users, LinkedIn chose to distill large models and improve its understanding of queries.Read More {June 16, 2025}
+  In building its AI-powered job search, now available to all users, LinkedIn chose to distill large models and improve its understanding of queries.Read More
 • [AI & Emerging Tech] MiniMax-M1 is a new open source model with 1 MILLION TOKEN context and new, hyper efficient reinforcement learning
-  MiniMax-M1 presents a flexible option for organizations looking to experiment with or scale up advanced AI capabilities while managing costs.Read More {June 16, 2025}
+  MiniMax-M1 presents a flexible option for organizations looking to experiment with or scale up advanced AI capabilities while managing costs.Read More
 
 — End of briefing —
