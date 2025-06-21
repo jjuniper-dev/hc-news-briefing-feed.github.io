@@ -1,6 +1,25 @@
 Multi-Day News Briefing (Last 5 days) – June 21, 2025
 
+WEATHER
+• Current Conditions: Partly Cloudy, 20.3°C {June 21, 2025}
+  Summarized: Partly Cloudy Temperature: 20.3&deg;C Pressure / Tendency: 101.9 kPa rising Visibility: 24 km Humidity: 56 % Humidex: 22 Dewpoint: 11.3/deg; C Wind: SW 3 km/h Air Quality Health Index: 1
+
+• Saturday: Chance of showers. High 28. POP 40% {June 21, 2025}
+  Summarized: Increasing cloudiness this afternoon then 40 percent chance of showers late this afternoon. Risk of a thunderstorm late today. High 28. Humidex 31. UV index 9 or very high.
+
+• HEAT WARNING, Ottawa {June 21, 2025}
+  Summarized: persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 9:36 AM EDT Saturday 21 June 2025. For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.
+
 US
+• Photos: Why it took courage for these women to pose for the camera {June 21, 2025}
+  Summarized: The women wore traditional cosmetic face masks from their homeland of Madagascar. They agreed to be photographed to take a stand against the government's anti-gay policies. The women were photographed wearing traditional face masks.
+
+• Court blocks Louisiana law requiring schools to post Ten Commandments in classrooms {June 21, 2025}
+  Summarized: Civil liberties groups say the mandate violates the separation of church and state. They say the displays would isolate students, especially those who are not Christian. The ruling marked a win for civil liberties groups.
+
+• Israel and Iran's war enters its ninth day as talks fail to reach a breakthrough {June 21, 2025}
+  Summarized: The war between Israel and Iran is now in its second week. Iran's foreign minister warned against a U.S. strike on Iran. The two countries continued to trade missile attacks on Saturday.
+
 • Opinion: From tragedy, words of wisdom {June 21, 2025}
   Summarized: Sophie and Colin Hortman remember their parents, Minnesota Rep. Melissa Hortman and Mark Hortman, as "the bright lights at the center of our lives" The couple was murdered in their home last weekend.
 
@@ -21,15 +40,6 @@ US
 
 • What Does the Israel-Iran War Mean for the Middle East? {June 20, 2025}
   Summarized: As Israel and Iran continue missile attacks against one another, we look at how countries in the Middle East are viewing the conflict. Whether that war could spread and if other powers in the region are bracing for a wider conflict. And we hear from some residents of Tehran weighing the decision of fleeing the Iranian capital as President Trump commanded.
-
-• Welcome to summer: U.S. braces for first significant heat wave of the new season {June 20, 2025}
-  Summarized: The National Weather Service is urging people to prepare to protect themselves from the dangers of extreme heat. High humidity will make it feel like the triple digits in many parts of the U.S.
-
-• Trump says he's close to 'a Deal' with Harvard, as judge grants injunction {June 20, 2025}
-  Summarized: Trump's comments came as a federal judge granted a preliminary injunction that would continue blocking the president's efforts to bar international students from attending Harvard. Trump's Truth Social comments came in response to a question from a reporter.
-
-• Trump is no stranger to setting 2-week deadlines. Here's how others have played out {June 20, 2025}
-  Summarized: Since his first term, Trump has promised action on everything from tax legislation to health care within a fortnight — only for his announcements to materialize months later or not at all. Trump has been criticized for his lack of action on issues such as health care.
 
 CORPORATE AI
 • Build a scalable AI video generator using Amazon SageMaker AI and CogVideoX {June 19, 2025}
