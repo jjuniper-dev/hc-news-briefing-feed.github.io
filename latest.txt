@@ -1,8 +1,8 @@
 Multi-Day News Briefing (Last 5 days) – June 21, 2025
 
 WEATHER
-• Current Conditions: Mostly Cloudy, 21.6°C {June 21, 2025}
-  Summarized: Air Quality Health Index: 2. Pressure / Tendency: 101.9 kPa rising Visibility: 24 km Humidity: 45 % Dewpoint: 9.1&deg;C Wind: S 4 km/h
+• Current Conditions: Mostly Cloudy, 26.0°C {June 21, 2025}
+  Summarized: The weather in Ottawa, Canada is expected to be mostly Cloudy on Saturday, June 21, 2025. The weather is forecast to be mainly Cloudy with a high of 26.0°C and a low of 13.2°C.
 
 • Saturday: Chance of showers. High 27. POP 40% {June 21, 2025}
   Summarized: 40 percent chance of showers late this afternoon with risk of a thunderstorm. Wind becoming south 20 km/h gusting to 40 this afternoon. High 27. Humidex 30. UV index 9 or very high.
@@ -10,7 +10,17 @@ WEATHER
 • HEAT WARNING, Ottawa {June 21, 2025}
   Summarized: persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 9:36 AM EDT Saturday 21 June 2025. For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.
 
+NATIONAL (CANADA)
+⚠️ No Canadian national news items found in the last 5 days.
+Check RSS feed availability or add backup sources.
+
 US
+• Pilot who died in N.C. plane crash tried to avoid a turtle on airport runway {June 21, 2025}
+  Summarized: The pilot of a small plane tried to avoid hitting a turtle on the runway, according to a National Transportation Safety Board report. The pilot and a passenger were killed in the crash near an airport.
+
+• Day after day, Palestinians in Gaza risk harrowing journey in desperate search for food {June 21, 2025}
+  Summarized: Israel has begun allowing food into Gaza. Most of the supplies go to GHF, which operates food distribution points. A trickle of aid goes to the U.N. and humanitarian groups. Both systems are mired in chaos.
+
 • 8 people killed, 13 injured after hot-air balloon catches fire and falls in Brazil {June 21, 2025}
   Summarized: A hot-air balloon caught fire and tumbled from the sky in Brazil's Santa Catarina state. Thirteen people survived and were taken to hospitals, firefighters said. The cause of the fire is under investigation.
 
@@ -34,12 +44,6 @@ US
 
 • The math behind the war: Can Israel's air defense keep up against Iranian attacks? {June 21, 2025}
   Summarized: There's a specific kind of math that could determine just how much longer the war can go. How many long-range missiles Iran has versus how many missile interceptors Israel has to shoot them down.
-
-• Reporters for Voice of America and other U.S. networks fear what's next {June 21, 2025}
-  Summarized: Journalists who have risked their freedom to report for Voice of America and its sister news outlets wonder what happens to them now that the Trump administration has gutted their parent agency. "I don't know what's going to happen to me now," one journalist said.
-
-• Federal judge declines to order Trump officials to recover deleted Signal messages {June 20, 2025}
-  Summarized: Watchdog group American Oversight had asked a federal judge to order top national security officials to preserve any messages they may have sent on the private messaging app Signal. American Oversight: National security officials need to preserve all messages they sent on Signal.
 
 CORPORATE AI
 • Build a scalable AI video generator using Amazon SageMaker AI and CogVideoX {June 19, 2025}
@@ -79,17 +83,6 @@ Robinhood has been a pioneer and disruptor in the once staid world of online bro
 
 • Build conversational interfaces for structured data using Amazon Bedrock Knowledge Bases {June 17, 2025}
   Summarized: Organizations manage extensive structured data in databases and data warehouses. Large language models (LLMs) have transformed natural language processing (NLP), yet converting conversational queries into structured data analysis remains complex. Data analysts must translate business questions in...
-
-• How Apollo Tyres is unlocking machine insights using agentic AI-powered Manufacturing Reasoner {June 16, 2025}
-  Summarized: This is a joint post co-authored with Harsh Vardhan, Global Head, Digital Innovation Hub, Apollo Tyres Ltd. 
-Apollo Tyres, headquartered in Gurgaon, India, is a prominent international tire...
-
-• Extend your Amazon Q Business with PagerDuty Advance data accessor {June 16, 2025}
-  Summarized: This blog post is co-written with Jacky Leybman from PagerDuty. 
-As organizations scale their digital operations, they face unprecedented challenges in managing and extracting value from their vast data ecosystems, particularly when it comes to data accessibility and quality. The...
-
-• Innovate business logic by implementing return of control in Amazon Bedrock Agents {June 16, 2025}
-  Summarized: In the context of distributed systems and microservices architecture, orchestrating communication between diverse components presents significant challenges. However, with the launch of Amazon Bedrock Agents, the...
 
 ACADEMIC & INDUSTRY RESEARCH
 • Hospital cyber attacks cost $600K/hour. Here’s how AI is changing the math {June 20, 2025}
@@ -186,8 +179,5 @@ Back in February, a group of researchers discovered that fine-tuning an...
 
 • 1Password and AWS join forces to secure AI, cloud environments for the enterprise {June 16, 2025}
   Summarized: 1Password signs strategic AWS partnership, quadrupling contract sizes. enterprises demand AI-era security tools to protect unmanaged devices and applications. 1Password is a provider of cloud-based security software and services.
-
-• How can you make sure your brand shows up in LLM search? Adobe’s new LLM Optimizer seeks to provide the tools {June 16, 2025}
-  Summarized: Adobe’s system enables marketers to see where their brand is underrepresented in AI-driven results. If so, they can take actions to improve it, according to the company.
 
 — End of briefing —
