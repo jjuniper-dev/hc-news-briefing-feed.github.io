@@ -5,20 +5,20 @@ Ottawa Weather – June 21, 2025: Data unavailable.
 US HEADLINES
 
 • Federal judge declines to order Trump officials to recover deleted Signal messages
-  <img alt="Secretary of Defense Pete Hegseth looks on during a cabinet meeting with President Trump in the Cabinet Room of the White House on April 10." src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7c%2F19%2F5296110a4bee913b9ab86477be17%2Fgettyimages-2208888320.jpg" /><p>The watchdog group American Oversight had asked a federal judge to order top national security officials to preserve any messages they may have sent on the private messaging app Signal. </p><p>(Image credit: Brendan Smialowski)</p><img src="https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5359069" /> {June 20, 2025 (www.npr.org)}
+  The watchdog group American Oversight had asked a federal judge to order top national security officials to preserve any messages they may have sent on the private messaging app Signal. (Image credit: Brendan Smialowski) {June 20, 2025 (www.npr.org)}
 
 • What Does the Israel-Iran War Mean for the Middle East?
-  <p>As Israel and Iran continue missile attacks against one another, we look at how countries in the Middle East are viewing the conflict. Whether that war could spread and if other powers in the region are bracing for a wider conflict. And we hear from some residents of Tehran weighing the decision of fleeing the Iranian capital as President Trump commanded or staying and taking their chances.</p><img src="https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1254460270" /> {June 20, 2025 (www.npr.org)}
+  As Israel and Iran continue missile attacks against one another, we look at how countries in the Middle East are viewing the conflict. Whether that war could spread and if other powers in the region are bracing for a wider conflict. And we hear from some residents of Tehran weighing the decision of fleeing the Iranian capital as President Trump commanded or staying and taking their chances. {June 20, 2025 (www.npr.org)}
 
 
 
 AI & IT HEADLINES
 
 • Netflix, Apple, BofA websites hijacked with fake help-desk numbers
-  <h4>Don’t trust mystery digits popping up in your search bar</h4> <p>Scammers are hijacking the search results of people needing 24/7 support from Apple, Bank of America, Facebook, HP, Microsoft, Netflix, and PayPal in an attempt to trick victims into handing over personal or financial info, according to Malwarebytes senior director of research Jérôme Segura.…</p> {June 20, 2025 (go.theregister.com)}
+  Don’t trust mystery digits popping up in your search bar Scammers are hijacking the search results of people needing 24/7 support from Apple, Bank of America, Facebook, HP, Microsoft, Netflix, and PayPal in an attempt to trick victims into handing over personal or financial info, according to Malwarebytes senior director of research Jérôme Segura.… {June 20, 2025 (go.theregister.com)}
 
 • New GitHub Copilot limits push AI users to pricier tiers
-  <h4>Welcome to bill shock, AI style</h4> <p>Microsoft's GitHub this week said paying GitHub Copilot customers will now face monthly limits on certain types of high-powered AI requests, and will have to pay more if they want to surpass those limits.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> {June 20, 2025 (go.theregister.com)}
+  Welcome to bill shock, AI style Microsoft's GitHub this week said paying GitHub Copilot customers will now face monthly limits on certain types of high-powered AI requests, and will have to pay more if they want to surpass those limits.… {June 20, 2025 (go.theregister.com)}
 
 
 
