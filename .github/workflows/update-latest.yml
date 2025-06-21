@@ -2,8 +2,11 @@ name: Update latest.txt with news and weather
 
 on:
   schedule:
-    - cron: '30 10 * * *' # Runs daily at 6:30 AM Eastern
+    - cron: '30 10 * * *' # Runs daily at 6:30 AM Eastern (10:30 UTC)
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-latest:
@@ -14,9 +17,9 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
@@ -25,53 +28,61 @@ jobs:
 
       - name: Generate latest.txt with news and weather
         run: |
-          python3 <<EOF
-          import feedparser
-          import datetime
-          import requests
+          python3 << 'EOF'
+import feedparser
+from datetime import datetime
 
-          def get_weather():
-              feed_url = "https://weather.gc.ca/rss/city/on-131_e.xml"
-              feed = feedparser.parse(feed_url)
-              items = feed.entries[:2]
-              forecasts = [f"• {entry.title} — {entry.summary}" for entry in items]
-              return "\n".join(forecasts)
+# --- CONFIG ---
+RSS_FEEDS = [
+    ("International", "http://feeds.reuters.com/Reuters/worldNews"),
+    ("National", "https://rss.cbc.ca/lineup/canada.xml"),
+    ("US", "https://feeds.npr.org/1001/rss.xml"),
+    ("AI & IT", "https://feeds.arstechnica.com/arstechnica/technology-policy"),
+    ("AI & IT", "https://www.theregister.com/headlines.atom")
+]
+WEATHER_FEED = "https://dd.weather.gc.ca/rss/city/on-118_e.xml"
 
-          def fetch_news(feed_url, label, max_items=2):
-              feed = feedparser.parse(feed_url)
-              items = feed.entries[:max_items]
-              result = []
-              for item in items:
-                  pub_date = datetime.datetime(*item.published_parsed[:6]).strftime("%B %d, %Y")
-                  result.append(f"• {item.title.strip()} {{ {pub_date} ({item.source.title if 'source' in item else feed.feed.title}) }}")
-              return f"\n{label}\n" + "\n".join(result)
+# Functions
+def get_weather_summary():
+    feed = feedparser.parse(WEATHER_FEED)
+    today = feed.entries[0]
+    tomorrow = feed.entries[1] if len(feed.entries) > 1 else None
+    today_text = f"{today.title}: {today.summary}"
+    tomorrow_text = f"{tomorrow.title}: {tomorrow.summary}" if tomorrow else ""
+    return f"Ottawa Weather – {datetime.now().strftime('%B %d, %Y')}\n{today_text}\nTomorrow: {tomorrow_text}"
 
-          today = datetime.datetime.now().strftime("%B %d, %Y")
-          content = [f"Morning News Briefing – {today}", ""]
+def format_entry(entry):
+    if 'content' in entry and entry.content:
+        text = entry.content[0].value.strip()
+    else:
+        text = entry.get('summary','').strip()
+    pub = datetime(*entry.published_parsed[:6]).strftime('%B %d, %Y') if 'published_parsed' in entry else ''
+    source = entry.get('source',{}).get('title','') or entry.link.split('/')[2]
+    return f"• {entry.title.strip()}\n  {text} {{{pub} ({source})}}"
 
-          # Weather
-          content.append("OTTAWA WEATHER")
-          content.append(get_weather())
+def collect_headlines():
+    sections = [get_weather_summary(), ""]
+    for label, url in RSS_FEEDS:
+        feed = feedparser.parse(url)
+        items = feed.entries[:2]
+        if items:
+            sections.append(f"{label.upper()} HEADLINES")
+            for e in items:
+                sections.append(format_entry(e))
+            sections.append("")
+    sections.append("— End of briefing —")
+    return "\n".join(sections)
 
-          # News sources
-          feeds = [
-              ("https://feeds.reuters.com/reuters/worldNews", "INTERNATIONAL NEWS"),
-              ("https://rss.cbc.ca/lineup/canada.xml", "CANADIAN NEWS"),
-              ("https://feeds.npr.org/1001/rss.xml", "US NEWS"),
-              ("https://www.theregister.com/headlines.atom", "AI AND TECH NEWS"),
-          ]
-
-          for url, label in feeds:
-              content.append(fetch_news(url, label))
-
-          content.append("\n— End of briefing —")
-
-          with open("latest.txt", "w") as f:
-              f.write("\n".join(content))
-          EOF
+if __name__ == "__main__":
+    text = collect_headlines()
+    with open("latest.txt","w",encoding="utf-8") as f:
+        f.write(text)
+EOF
 
       - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: Auto-update latest.txt
-          file_pattern: latest.txt
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add latest.txt
+          git commit -m "Auto-update latest.txt for $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push
