@@ -4,6 +4,7 @@ import feedparser
 import re
 from datetime import datetime
 from http.client import RemoteDisconnected
+from transformers import pipeline
 
 # --- CONFIG ---
 RSS_FEEDS = [
@@ -13,65 +14,56 @@ RSS_FEEDS = [
     ("AI & IT",       "https://feeds.arstechnica.com/arstechnica/technology-policy"),
     ("AI & IT",       "https://www.theregister.com/headlines.atom"),
 ]
+WEATHER_FEED = "https://dd.weather.gc.ca/rss/city/on-131_e.xml"
 
-WEATHER_FEED = "https://dd.weather.gc.ca/rss/city/on-131_e.xml"  # Ottawa
+# Initialize summarizer (Hugging Face Transformers)
+summarizer = pipeline("summarization")
 
-# --- HELPERS ---
+# Utility to strip HTML tags
+def strip_tags(html: str) -> str:
+    return re.sub(r'<[^>]+>', '', html)
 
+# Safe parse with error handling
 def safe_parse(url):
     try:
         return feedparser.parse(url)
-    except RemoteDisconnected:
-        return feedparser.FeedParserDict(entries=[], feed={})
-    except Exception:
+    except (RemoteDisconnected, Exception):
         return feedparser.FeedParserDict(entries=[], feed={})
 
-
-def strip_html(text: str) -> str:
-    # Remove HTML tags
-    clean = re.sub(r'<[^>]+>', '', text)
-    # Unescape HTML entities if needed
-    return clean.replace('&nbsp;', ' ').replace('&amp;', '&').strip()
-
-# --- FUNCTIONS ---
-
+# Get weather summary
 def get_weather_summary() -> str:
     feed = safe_parse(WEATHER_FEED)
     if not feed.entries:
         return f"Ottawa Weather – {datetime.now():%B %d, %Y}: Data unavailable."
     today = feed.entries[0]
     tomorrow = feed.entries[1] if len(feed.entries) > 1 else None
-    today_text = strip_html(today.summary)
-    tomorrow_text = strip_html(tomorrow.summary) if tomorrow else ""
+    today_text = strip_tags(today.summary)
+    tomorrow_text = strip_tags(tomorrow.summary) if tomorrow else ""
     header = f"Ottawa Weather – {datetime.now():%B %d, %Y}"
-    return f"{header}\n{today.title}: {today_text}\nTomorrow: {tomorrow_text}"
+    return "\n".join([header, today_text, f"Tomorrow: {tomorrow_text}"])
 
-
+# Summarize and format an entry
 def format_entry(entry) -> str:
-    # Prefer full content if provided, otherwise summary
-    if hasattr(entry, 'content') and entry.content:
-        raw = entry.content[0].value
+    text = ""
+    if hasattr(entry, "content") and entry.content:
+        text = entry.content[0].value
     else:
-        raw = entry.get('summary', '')
-    text = strip_html(raw)
-    # Publication date
-    if 'published_parsed' in entry and entry.published_parsed:
+        text = entry.get("summary", "")
+    text = strip_tags(text)
+    # Use AI summarizer for a concise summary
+    try:
+        summary = summarizer(text, max_length=150, min_length=40)[0]["summary_text"]
+    except Exception:
+        summary = text[:300] + '...'
+    pub = ""
+    if entry.get('published_parsed'):
         pub = datetime(*entry.published_parsed[:6]).strftime("%B %d, %Y")
-    else:
-        pub = ''
-    # Source name
-    source = entry.get('source', {}).get('title', '') or entry.link.split('/')[2]
-    title = strip_html(entry.title)
-    return f"• {title}\n  {text} {{{pub} ({source})}}"
+    source = entry.get("source", {}).get("title", entry.link.split("/")[2])
+    return f"• {entry.title.strip()}\n  {summary} {{{pub} ({source})}}"
 
-
+# Collect full briefing
 def collect_briefing() -> str:
-    parts = []
-    # 1) Weather
-    parts.append(get_weather_summary())
-    parts.append("")
-
-    # 2) News sections
+    parts = [get_weather_summary(), ""]
     for label, url in RSS_FEEDS:
         feed = safe_parse(url)
         entries = feed.entries[:2]
@@ -81,14 +73,12 @@ def collect_briefing() -> str:
         for e in entries:
             parts.append(format_entry(e))
         parts.append("")
-
     parts.append("— End of briefing —")
     return "\n\n".join(parts)
 
-
-# --- MAIN ---
-if __name__ == '__main__':
+# Main execution
+if __name__ == "__main__":
     briefing = collect_briefing()
-    with open('latest.txt', 'w', encoding='utf-8') as f:
+    with open("latest.txt", "w", encoding="utf-8") as f:
         f.write(briefing)
-    print('latest.txt updated with cleaned content.')
+    print("latest.txt updated with AI-enhanced summaries.")
