@@ -1,6 +1,52 @@
 Multi-Day News Briefing (Last 5 days) – June 21, 2025
 
+WEATHER
+• Current Conditions: Mainly Sunny, 16.3°C {June 21, 2025}
+  Summarized: The weather in Ottawa, Canada is expected to be mostly sunny on Saturday 21 June 2025. The temperature is 16.3&deg;C. The air pressure is 101.9 kPa rising. The humidity is 82%.
+
+• Saturday: Chance of showers. High 28. POP 40% {June 21, 2025}
+  Summarized: Increasing cloudiness this afternoon then 40 percent chance of showers late this afternoon. Risk of a thunderstorm late today. High 28. Humidex 31. UV index 9 or very high.
+
+• Saturday night: Chance of showers. Low 21. POP 70% {June 21, 2025}
+  Summarized: Cloudy with 70 percent chance of showers and risk of thunderstorms. Wind becoming southwest 30 km/h gusting to 50 late this evening. Low 21. Forecast issued 5:00 AM EDT Saturday 21 June 2025.
+
+• Sunday: Chance of showers. High 31. POP 40% {June 21, 2025}
+  Summarized: Mainly cloudy with 40 percent chance of showers. Risk of a thunderstorm in the afternoon. Wind becoming west 20 km/h gusting to 40 in the morning. High 31. Humidex 42.
+
+• Sunday night: Chance of showers. Low 21. POP 30% {June 21, 2025}
+  Summarized: Cloudy periods with 30 percent chance of showers. Low 21. Forecast issued 5:00 AM EDT Saturday 21 June 2025. For the full forecast, go to CNN.com/snow.
+
+• Monday: Chance of showers. High 35. POP 30% {June 21, 2025}
+  Summarized: A mix of sun and cloud with 30 percent chance of showers. High 35. Forecast issued 5:00 AM EDT Saturday 21 June 2025. For the full forecast, go to CNN.com/snow.
+
+• Monday night: Clear. Low 23. {June 21, 2025}
+  Summarized: Clear. Low 23. Forecast issued 5:00 AM EDT Saturday 21 June 2025. Highest chance of showers is in the afternoon. Lowest chance of rain in the evening is in evening.
+
+• Tuesday: Chance of showers. High 33. POP 30% {June 21, 2025}
+  Summarized: A mix of sun and cloud with 30 percent chance of showers. High 33. Forecast issued 5:00 AM EDT Saturday 21 June 2025. For the latest from the National Weather Service, go to http://www.weather.gov/.
+
+• Tuesday night: Chance of showers. Low 20. POP 30% {June 21, 2025}
+  Summarized: Cloudy periods with 30 percent chance of showers. High 20. Low 20. Forecast issued 5:00 AM EDT Saturday 21 June 2025. For the full forecast, visit CNN.com/Heroes.
+
+• Wednesday: Chance of showers. High 27. POP 30% {June 21, 2025}
+  Summarized: A mix of sun and cloud with 30 percent chance of showers. High 27. Forecast issued 5:00 AM EDT Saturday 21 June 2025. For the latest on CNN.com Live, please go to www.cnn.com/live.
+
+• Wednesday night: Cloudy periods. Low 15. {June 21, 2025}
+  Summarized: Cloudy periods. High 15. Low 15. Forecast issued 5:00 AM EDT Saturday 21 June 2025. For the full forecast, go to CNN.com/Heroes and follow us on Twitter @CNNHeroes.
+
+• Thursday: Chance of showers. High 24. POP 60% {June 21, 2025}
+  Summarized: Cloudy with 60 percent chance of showers. High 24. Forecast issued 5:00 AM EDT Saturday 21 June 2025. For the full forecast, go to CNN.com/snow.
+
+• Thursday night: Showers. Low 17. {June 21, 2025}
+  Summarized: Showers. Showers. Low 17. Forecast issued 5:00 AM EDT Saturday 21 June 2025. For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.
+
+• Friday: Showers. High 24. {June 21, 2025}
+  Summarized: Showers. Showers. High 24. Forecast issued 5:00 AM EDT Saturday 21 June 2025. For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.
+
 US
+• Opinion: From tragedy, words of wisdom {June 21, 2025}
+  Summarized: Sophie and Colin Hortman offer simple ways to honor their parents. Melissa Hortman and her husband, Mark, were murdered in their home last weekend. The couple's children say they are safe and with loved ones.
+
 • I can't stop thinking about this plotline in 'Materialists' {June 21, 2025}
   Summarized: A money-obsessed NYC matchmaker is wooed by a financial investor and a cater waiter in a romantic drama that has its protagonist finding strength and emotional growth via a side character's suffering.
 
@@ -27,9 +73,6 @@ US
 
 • Trump is no stranger to setting 2-week deadlines. Here's how others have played out {June 20, 2025}
   Summarized: Since his first term, Trump has promised action on everything from tax legislation to health care within a fortnight — only for his announcements to materialize months later or not at all. Trump has been criticized for his lack of action on issues such as health care.
-
-• A man is charged with attempting to kidnap Memphis Mayor Paul Young {June 20, 2025}
-  Summarized: Police say Trenton Abston, 25, came to Mayor Paul Young's home armed with a Taser. Officers allegedly found rope and duct tape in his car. Abston was arrested and charged with aggravated assault.
 
 CORPORATE AI
 • Build a scalable AI video generator using Amazon SageMaker AI and CogVideoX {June 19, 2025}
