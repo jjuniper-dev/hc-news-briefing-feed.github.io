@@ -22,14 +22,17 @@ jobs:
         run: |
           pip install feedparser transformers torch
 
+      - name: Pull latest changes (before modifying files)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+
       - name: Run news briefing generator
         run: python generate_latest.py
 
       - name: Commit & push updated briefing
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase
           git add latest.txt
           git commit -m "Auto-update latest.txt for $(date +'%Y-%m-%d')" || echo "No changes to commit"
           git push
