@@ -13,22 +13,14 @@ CUT_OFF = datetime.now() - timedelta(days=DAYS_BACK)
 
 # RSS Feeds
 GROUPED_FEEDS = {
-    "Weather": [
-        "https://weather.gc.ca/rss/city/on-118_e.xml"  # Ottawa
-    ],
-    "International": [
-        "http://feeds.reuters.com/Reuters/worldNews"
-    ],
+    "Weather": ["https://weather.gc.ca/rss/city/on-118_e.xml"],
+    "International": ["http://feeds.reuters.com/Reuters/worldNews"],
     "National (Canada)": [
         "https://rss.cbc.ca/lineup/canada.xml",
         "https://www.ctvnews.ca/rss/ctvnews-ca-canada-public-rss-1.822009"
     ],
-    "US": [
-        "https://feeds.npr.org/1001/rss.xml"
-    ],
-    "Public Health": [
-        "https://www.canada.ca/etc/+/health/public-health-updates.rss"
-    ],
+    "US": ["https://feeds.npr.org/1001/rss.xml"],
+    "Public Health": ["https://www.canada.ca/etc/+/health/public-health-updates.rss"],
     "Digital Government / Public Sector AI": [
         "https://gds.blog/feed/",
         "https://oecd-rss.org/publications/digital-government-rss.xml"
@@ -64,18 +56,16 @@ GROUPED_FEEDS = {
     ]
 }
 
-# Initialize summarizer (local model)
+# Initialize summarizer
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
 def strip_html(text: str) -> str:
-    """Remove HTML tags and unescape entities."""
     if not text:
         return ""
     text = re.sub(r'<[^>]+>', '', text)
     return html.unescape(text).strip()
 
 def safe_parse(url: str):
-    """Parse an RSS feed, returning an empty list on failure."""
     try:
         return feedparser.parse(url)
     except RemoteDisconnected:
@@ -85,12 +75,23 @@ def safe_parse(url: str):
         return feedparser.FeedParserDict(entries=[])
 
 def summarize_text(text: str) -> str:
-    """Generate a concise summary of the given text."""
+    """Summarize text, with a fallback if the pipeline fails or returns empty."""
     cleaned = strip_html(text)
     if not cleaned:
         return ""
-    result = summarizer(cleaned, max_length=120, min_length=40, do_sample=False)
-    return result[0]['summary_text'].strip()
+    try:
+        result = summarizer(cleaned, max_length=120, min_length=40, do_sample=False)
+        # Guard against empty result
+        if not result or 'summary_text' not in result[0]:
+            raise IndexError
+        return result[0]['summary_text'].strip()
+    except (IndexError, KeyError) as e:
+        # Fallback to first 300 chars of clean text
+        print(f"⚠️ Summarizer fallback for text: {e}")
+        return cleaned[:300].rstrip() + "…"
+    except Exception as e:
+        print(f"⚠️ Summarization error: {e}")
+        return cleaned[:300].rstrip() + "…"
 
 def collect_multi_day_briefing() -> str:
     parts = []
@@ -100,8 +101,6 @@ def collect_multi_day_briefing() -> str:
 
     for section, urls in GROUPED_FEEDS.items():
         items = []
-
-        # Fetch and filter entries
         for url in urls:
             feed = safe_parse(url)
             for entry in feed.entries:
@@ -110,7 +109,6 @@ def collect_multi_day_briefing() -> str:
                     if pub_dt >= CUT_OFF:
                         items.append((pub_dt, entry))
 
-        # Canadian fallback warning
         if not items and section == "National (Canada)":
             parts.append(section.upper())
             parts.append("⚠️ No Canadian national news items found in the last 5 days.")
@@ -118,22 +116,17 @@ def collect_multi_day_briefing() -> str:
             parts.append("")
             continue
 
-        # Sort newest first
         items.sort(key=lambda x: x[0], reverse=True)
         parts.append(section.upper())
 
         count = 0
         for pub_dt, entry in items:
-            # For weather, only take the first 3 entries
             if section == "Weather":
                 if count >= 3:
                     break
                 count += 1
 
-            # Title
             title = strip_html(entry.title)
-
-            # Safely extract content
             content_list = entry.get("content", [])
             if content_list and isinstance(content_list[0], dict):
                 content = content_list[0].get("value", "")
