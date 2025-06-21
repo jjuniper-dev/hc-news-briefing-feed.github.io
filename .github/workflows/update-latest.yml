@@ -2,19 +2,21 @@ name: Update latest.txt with news and weather
 
 on:
   schedule:
-    - cron: '30 10 * * *' # Runs daily at 6:30 AM Eastern (10:30 UTC)
+    - cron: '30 10 * * *'   # 10:30 UTC → 6:30 AM ET daily
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write        # required to push changes
 
 jobs:
-  update-latest:
+  build-briefing:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,73 +28,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install feedparser requests
 
-      - name: Generate latest.txt with news and weather
+      - name: Verify generate_latest.py exists
         run: |
-          python3 << 'EOF'
-import feedparser
-from http.client import RemoteDisconnected
-from datetime import datetime
+          echo "Listing files in repo root:"
+          ls -1
+          echo "Preview of script:"
+          head -n 5 generate_latest.py
 
-# Safe feed parsing with retry and error handling
-def safe_parse(url):
-    try:
-        return feedparser.parse(url)
-    except RemoteDisconnected:
-        return feedparser.FeedParserDict(entries=[], feed={})
-    except Exception:
-        return feedparser.FeedParserDict(entries=[], feed={})
+      - name: Generate latest.txt
+        run: python generate_latest.py
 
-import feedparser
-from datetime import datetime
-
-# --- CONFIG ---
-RSS_FEEDS = [
-    ("International", "http://feeds.reuters.com/Reuters/worldNews"),
-    ("National", "https://rss.cbc.ca/lineup/canada.xml"),
-    ("US", "https://feeds.npr.org/1001/rss.xml"),
-    ("AI & IT", "https://feeds.arstechnica.com/arstechnica/technology-policy"),
-    ("AI & IT", "https://www.theregister.com/headlines.atom")
-]
-WEATHER_FEED = "https://dd.weather.gc.ca/rss/city/on-118_e.xml"
-
-# Functions
-def get_weather_summary():
-    feed = feedparser.parse(WEATHER_FEED)
-    today = feed.entries[0]
-    tomorrow = feed.entries[1] if len(feed.entries) > 1 else None
-    today_text = f"{today.title}: {today.summary}"
-    tomorrow_text = f"{tomorrow.title}: {tomorrow.summary}" if tomorrow else ""
-    return f"Ottawa Weather – {datetime.now().strftime('%B %d, %Y')}\n{today_text}\nTomorrow: {tomorrow_text}"
-
-def format_entry(entry):
-    if 'content' in entry and entry.content:
-        text = entry.content[0].value.strip()
-    else:
-        text = entry.get('summary','').strip()
-    pub = datetime(*entry.published_parsed[:6]).strftime('%B %d, %Y') if 'published_parsed' in entry else ''
-    source = entry.get('source',{}).get('title','') or entry.link.split('/')[2]
-    return f"• {entry.title.strip()}\n  {text} {{{pub} ({source})}}"
-
-def collect_headlines():
-    sections = [get_weather_summary(), ""]
-    for label, url in RSS_FEEDS:
-        feed = feedparser.parse(url)
-        items = feed.entries[:2]
-        if items:
-            sections.append(f"{label.upper()} HEADLINES")
-            for e in items:
-                sections.append(format_entry(e))
-            sections.append("")
-    sections.append("— End of briefing —")
-    return "\n".join(sections)
-
-if __name__ == "__main__":
-    text = collect_headlines()
-    with open("latest.txt","w",encoding="utf-8") as f:
-        f.write(text)
-EOF
-
-      - name: Commit and push changes
+      - name: Commit & push updated briefing
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
