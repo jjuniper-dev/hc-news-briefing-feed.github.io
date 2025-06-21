@@ -19,8 +19,8 @@ GROUPED_FEEDS = {
         "http://feeds.reuters.com/Reuters/worldNews"
     ],
     "National (Canada)": [
-        "https://rss.cbc.ca/lineup/canada.xml",  # CBC National
-        "https://www.ctvnews.ca/rss/ctvnews-ca-canada-public-rss-1.822009"  # CTV Canada backup
+        "https://rss.cbc.ca/lineup/canada.xml",
+        "https://www.ctvnews.ca/rss/ctvnews-ca-canada-public-rss-1.822009"
     ],
     "US": [
         "https://feeds.npr.org/1001/rss.xml"
@@ -75,7 +75,7 @@ def safe_parse(url):
     except RemoteDisconnected:
         return feedparser.FeedParserDict(entries=[])
     except Exception as e:
-        print(f"⚠️ Warning: Failed to parse {url}: {e}")
+        print(f"â ï¸ Warning: Failed to parse {url}: {e}")
         return feedparser.FeedParserDict(entries=[])
 
 def summarize_text(text):
@@ -86,12 +86,12 @@ def summarize_text(text):
         result = summarizer(cleaned, max_length=120, min_length=40, do_sample=False)
         return result[0]['summary_text'].strip()
     except Exception as e:
-        print(f"⚠️ Summarization failed: {e}")
+        print(f"â ï¸ Summarization failed: {e}")
         return strip_html(text[:300]) + "..."
 
 def collect_multi_day_briefing():
     parts = []
-    parts.append(f"Multi-Day News Briefing (Last {DAYS_BACK} days) – {datetime.now():%B %d, %Y}")
+    parts.append(f"Multi-Day News Briefing (Last {DAYS_BACK} days) â {datetime.now():%B %d, %Y}")
     parts.append("")
 
     for section, urls in GROUPED_FEEDS.items():
@@ -112,17 +112,16 @@ def collect_multi_day_briefing():
                             if pub_dt >= CUT_OFF:
                                 section_items.append((pub_dt, entry))
                     except Exception as e:
-                        print(f"⚠️ Error parsing feed entry from {url}: {e}")
+                        print(f"â ï¸ Error parsing feed entry from {url}: {e}")
                         continue
 
-        # Log Canadian news status
         if section == "National (Canada)":
-            print(f"🧪 DEBUG: Fetched {len(section_items)} Canadian news entries.")
+            print(f"ð§ª DEBUG: Fetched {len(section_items)} Canadian news entries.")
 
         if not section_items:
             if section == "National (Canada)":
                 parts.append(section.upper())
-                parts.append("⚠️ No Canadian national news items found in the last 5 days.")
+                parts.append("â ï¸ No Canadian national news items found in the last 5 days.")
                 parts.append("Check RSS feed availability or add backup sources.")
                 parts.append("")
             continue
@@ -139,14 +138,14 @@ def collect_multi_day_briefing():
                     content = entry.get('summary', '')
                 summary = summarize_text(content)
                 date_str = pub_dt.strftime('%B %d, %Y')
-                parts.append(f"• {title} {{{date_str}}}")
-                parts.append(f"  Summarized: {summary}")
-                parts.append("")
+                parts.append(f"â¢ {title} {{date_str}}")
+                parts.append(f"  {summary}")
+                parts.append("(â pause â)\n")
             except Exception as e:
-                print(f"⚠️ Error processing entry: {e}")
+                print(f"â ï¸ Error processing entry: {e}")
                 continue
 
-    parts.append("— End of briefing —")
+    parts.append("â End of briefing â")
     return "\n".join(parts)
 
 # Main execution
@@ -155,11 +154,11 @@ if __name__ == "__main__":
         briefing = collect_multi_day_briefing()
         with open("latest.txt", "w", encoding="utf-8") as f:
             f.write(briefing)
-        print("✅ latest.txt updated successfully.")
+        print("â latest.txt updated successfully.")
     except Exception as e:
-        err_msg = f"⚠️ ERROR: {type(e).__name__}: {e}"
+        err_msg = f"â ï¸ ERROR: {type(e).__name__}: {e}"
         print(err_msg)
         with open("latest.txt", "w", encoding="utf-8") as f:
-            f.write("⚠️ Daily briefing failed to generate due to an error.\n")
+            f.write("â ï¸ Daily briefing failed to generate due to an error.\n")
             f.write(err_msg + "\n")
         exit(0)
