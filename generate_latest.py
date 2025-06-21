@@ -19,7 +19,8 @@ GROUPED_FEEDS = {
         "http://feeds.reuters.com/Reuters/worldNews"
     ],
     "National (Canada)": [
-        "https://rss.cbc.ca/lineup/canada.xml"
+        "https://rss.cbc.ca/lineup/canada.xml",  # CBC National
+        "https://www.ctvnews.ca/rss/ctvnews-ca-canada-public-rss-1.822009"  # CTV Canada backup
     ],
     "US": [
         "https://feeds.npr.org/1001/rss.xml"
@@ -95,12 +96,14 @@ def collect_multi_day_briefing():
 
     for section, urls in GROUPED_FEEDS.items():
         section_items = []
+
         for url in urls:
             feed = safe_parse(url)
+
             if section == "Weather":
-                # Take first 3 forecast entries (Today, Tonight, Tomorrow)
                 for entry in feed.entries[:3]:
                     section_items.append((datetime.now(), entry))
+
             else:
                 for entry in feed.entries:
                     try:
@@ -112,7 +115,16 @@ def collect_multi_day_briefing():
                         print(f"⚠️ Error parsing feed entry from {url}: {e}")
                         continue
 
+        # Log Canadian news status
+        if section == "National (Canada)":
+            print(f"🧪 DEBUG: Fetched {len(section_items)} Canadian news entries.")
+
         if not section_items:
+            if section == "National (Canada)":
+                parts.append(section.upper())
+                parts.append("⚠️ No Canadian national news items found in the last 5 days.")
+                parts.append("Check RSS feed availability or add backup sources.")
+                parts.append("")
             continue
 
         section_items.sort(key=lambda x: x[0], reverse=True)
