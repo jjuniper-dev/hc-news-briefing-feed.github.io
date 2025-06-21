@@ -10,106 +10,107 @@ from transformers import pipeline
 DAYS_BACK = 5
 CUT_OFF = datetime.now() - timedelta(days=DAYS_BACK)
 
-# RSS feeds to include
+# RSS feeds to include (last 5 days)
 RSS_FEEDS = [
     ("International", "http://feeds.reuters.com/Reuters/worldNews"),
     ("Canadian",      "https://rss.cbc.ca/lineup/canada.xml"),
     ("US",            "https://feeds.npr.org/1001/rss.xml"),
     ("AI & IT",       "https://feeds.arstechnica.com/arstechnica/technology-policy"),
     ("AI & IT",       "https://www.theregister.com/headlines.atom"),
-    ("Public Health", "https://www.canada.ca/etc/+/health/public-health-updates.rss"),
-    ("Public Sector AI", "https://open.canada.ca/data/en/dataset/f5fb5b90-.../4cb7fb774.../rss"),
-    ("Gartner",       "http://blogs.gartner.com/gbn/feed/"),
-    ("Gartner",       "https://blogs.gartner.com/smarterwithgartner/feed/"),
-    ("Global Health", "https://www.who.int/feeds/entity/mediacentre/news/en/rss.xml"),
-    ("Public Health Sci", "https://www.nature.com/subjects/public-health.rss"),
-    ("Digital Gov",    "https://gds.blog/feed/"),
-    ("OECD Digital Gov","https://oecd-rss.org/publications/digital-government-rss.xml"),
-    ("EA & Governance","https://www.opengroup.org/news/rss/news-release.xml"),
-    ("Gov CIO",        "https://www.cio.com/ciolib/rss/cio/government.xml"),
-    ("MIT Tech AI",    "https://www.technologyreview.com/feed/"),
+    ("PHAC Public Health", "https://www.canada.ca/content/canadasite/en/services/health/public-health-agency/news/updates.rss"),
+    ("Digital Government", "https://open.canada.ca/data/en/dataset/6efa4955-.../rss.xml"),
+    ("Gartner",        "http://blogs.gartner.com/gbn/feed/"),
+    ("Gartner",        "https://blogs.gartner.com/smarterwithgartner/feed/"),
+    ("WHO News",       "https://www.who.int/feeds/entity/mediacentre/news/en/rss.xml"),
+    ("Nature Public Health", "https://www.nature.com/subjects/public-health.rss"),
+    ("GDS Blog",       "https://gds.blog/feed/"),
+    ("OECD Digital Gov", "https://oecd-rss.org/publications/digital-government-rss.xml"),
+    ("Open Group",     "https://www.opengroup.org/news/rss/news-release.xml"),
+    ("CIO Gov",        "https://www.cio.com/ciolib/rss/cio/government.xml"),
+    ("MIT Tech Review AI", "https://www.technologyreview.com/feed/"),
     ("AI Weekly",      "http://aiweekly.co/rss"),
-    ("VB AI",          "https://venturebeat.com/category/ai/feed/"),
-    ("Security",       "https://krebsonsecurity.com/feed/"),
-    ("NIST",           "https://www.nist.gov/blogs/blog.rss"),
+    ("VentureBeat AI", "https://venturebeat.com/category/ai/feed/"),
+    ("Krebs on Security","https://krebsonsecurity.com/feed/"),
+    ("NIST News",      "https://www.nist.gov/blogs/blog.rss"),
 ]
 
-WEATHER_FEED = "https://weather.gc.ca/rss/city/on-131_e.xml"  # Ottawa
+# Initialize summarizer once
+summarizer = pipeline("summarization")
 
-# --- UTILITIES ---
-
-# strip HTML tags
+# Utility: strip HTML tags
 TAG_RE = re.compile(r'<[^>]+>')
 def clean_html(text: str) -> str:
     return TAG_RE.sub('', text)
 
-# safe parsing
-def safe_parse(url: str):
+def safe_parse(url):
     try:
         return feedparser.parse(url)
     except RemoteDisconnected:
-        return feedparser.FeedParserDict(entries=[], feed={})
+        print(f"Warning: RemoteDisconnected for {url}")
+        return feedparser.FeedParserDict(entries=[])
     except Exception as e:
-        print(f"Warning: failed to parse {url}: {e}")
-        return feedparser.FeedParserDict(entries=[], feed={})
+        print(f"Warning: Failed to parse {url}: {e}")
+        return feedparser.FeedParserDict(entries=[])
 
-# initialize summarizer
-summarizer = pipeline("summarization")
-
+# Summarize text via AI
 def ai_summarize(text: str) -> str:
-    # prepend instruction
-    instr = "As a public-sector enterprise architect at PHAC, summarize focusing on policy implications and system design considerations."
-    prompt = instr + "\n" + text
-    result = summarizer(prompt, max_length=100, min_length=40, do_sample=False)
-    return result[0]['summary_text'].strip()
+    try:
+        out = summarizer(text, max_length=120, min_length=40, do_sample=False)
+        return out[0]['summary_text'].replace('\n', ' ').strip()
+    except Exception as e:
+        print(f"Warning: summarization failed: {e}")
+        return text[:200] + '...'
 
-# --- GENERATE BRIEFING ---
-
-def get_weather_section():
-    feed = safe_parse(WEATHER_FEED)
-    entries = feed.entries[:2]
-    lines = [f"Ottawa Weather – {datetime.now():%B %d, %Y}"]
-    for i, e in enumerate(entries):
-        day = "Today" if i == 0 else "Tomorrow"
-        text = clean_html(e.summary)
-        lines.append(f"{day}: {text}")
-    return "\n".join(lines)
-
-
-def collect_multi_day_news() -> str:
-    # gather entries within cutoff
-    items = []
+# Main: collect multi-day briefing
+def collect_briefing() -> str:
+    entries = []
     for label, url in RSS_FEEDS:
         feed = safe_parse(url)
         for entry in feed.entries:
-            if 'published_parsed' not in entry:
+            if not hasattr(entry, 'published_parsed') or not entry.published_parsed:
                 continue
-            pub = datetime(*entry.published_parsed[:6])
-            if pub < CUT_OFF:
+            pub_date = datetime(*entry.published_parsed[:6])
+            if pub_date < CUT_OFF:
                 continue
-            items.append((pub, label, entry))
-    # sort descending
-    items.sort(key=lambda x: x[0], reverse=True)
-    # group by date
-    grouped = {}
-    for pub, label, entry in items:
-        date_str = pub.strftime('%B %d, %Y')
-        grouped.setdefault(date_str, []).append((label, entry))
-    # build text
-    parts = [f"Multi-Day Briefing: Last {DAYS_BACK} days", get_weather_section(), ""]
-    for date_str, records in grouped.items():
-        parts.append(date_str)
-        for label, entry in records:
-            text = entry.content[0].value if hasattr(entry, 'content') and entry.content else entry.summary
+            text = ''
+            if hasattr(entry, 'content') and entry.content:
+                text = entry.content[0].value
+            elif 'summary' in entry:
+                text = entry.summary
             clean = clean_html(text)
             summary = ai_summarize(clean)
-            parts.append(f"• [{label}] {entry.title.strip()}\n  Summary: {summary}")
-        parts.append("")
-    parts.append("— End of briefing —")
-    return "\n".join(parts)
+            entries.append((pub_date, label, entry.title, summary))
 
-if __name__ == "__main__":
-    briefing = collect_multi_day_news()
-    with open("latest.txt", "w", encoding="utf-8") as f:
-        f.write(briefing)
-    print("latest.txt updated.")
+    # sort by date desc
+    entries.sort(key=lambda x: x[0], reverse=True)
+
+    # group by date
+    grouped = {}
+    for pub_date, label, title, summary in entries:
+        day = pub_date.strftime('%B %d, %Y')
+        grouped.setdefault(day, []).append((label, title, summary))
+
+    # build output
+    lines = [f"Multi-Day News Briefing (Last {DAYS_BACK} days)", '']
+    for day, items in grouped.items():
+        lines.append(day)
+        for label, title, summary in items:
+            lines.append(f"• [{label}] {title}")
+            lines.append(f"  {summary}")
+        lines.append('')
+    lines.append('— End of briefing —')
+    return '\n'.join(lines)
+
+if __name__ == '__main__':
+    try:
+        text = collect_briefing()
+        with open('latest.txt', 'w', encoding='utf-8') as f:
+            f.write(text)
+        print('latest.txt updated successfully.')
+    except Exception as e:
+        msg = f"⚠️ ERROR: {type(e).__name__}: {e}"
+        print(msg)
+        with open('latest.txt', 'w', encoding='utf-8') as f:
+            f.write('⚠️ Daily briefing failed to generate.\n')
+            f.write(msg + '\n')
+        exit(0)
