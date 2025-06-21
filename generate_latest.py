@@ -2,6 +2,7 @@
 
 import feedparser
 import re
+import html
 from datetime import datetime, timedelta
 from http.client import RemoteDisconnected
 from transformers import pipeline
@@ -10,7 +11,7 @@ from transformers import pipeline
 DAYS_BACK = 5
 CUT_OFF = datetime.now() - timedelta(days=DAYS_BACK)
 
-# Grouped RSS feeds
+# RSS Feeds
 GROUPED_FEEDS = {
     "Weather": [
         "https://weather.gc.ca/rss/city/on-118_e.xml"  # Ottawa
@@ -67,7 +68,11 @@ GROUPED_FEEDS = {
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
 def strip_html(text):
-    return re.sub(r'<[^>]+>', '', text or '').strip()
+    if not text:
+        return ""
+    text = re.sub(r'<[^>]+>', '', text)
+    text = html.unescape(text)
+    return text.strip()
 
 def safe_parse(url):
     try:
@@ -75,19 +80,15 @@ def safe_parse(url):
     except RemoteDisconnected:
         return feedparser.FeedParserDict(entries=[])
     except Exception as e:
-        print(f"â ï¸ Warning: Failed to parse {url}: {e}")
+        print(f"Warning: Failed to parse {url}: {e}")
         return feedparser.FeedParserDict(entries=[])
 
 def summarize_text(text):
     cleaned = strip_html(text)
     if not cleaned:
         return ""
-    try:
-        result = summarizer(cleaned, max_length=120, min_length=40, do_sample=False)
-        return result[0]['summary_text'].strip()
-    except Exception as e:
-        print(f"â ï¸ Summarization failed: {e}")
-        return strip_html(text[:300]) + "..."
+    result = summarizer(cleaned, max_length=120, min_length=40, do_sample=False)
+    return result[0]['summary_text'].strip()
 
 def collect_multi_day_briefing():
     parts = []
@@ -96,57 +97,38 @@ def collect_multi_day_briefing():
 
     for section, urls in GROUPED_FEEDS.items():
         section_items = []
-
         for url in urls:
             feed = safe_parse(url)
-
-            if section == "Weather":
-                for entry in feed.entries[:3]:
-                    section_items.append((datetime.now(), entry))
-
-            else:
-                for entry in feed.entries:
-                    try:
-                        if hasattr(entry, 'published_parsed'):
-                            pub_dt = datetime(*entry.published_parsed[:6])
-                            if pub_dt >= CUT_OFF:
-                                section_items.append((pub_dt, entry))
-                    except Exception as e:
-                        print(f"â ï¸ Error parsing feed entry from {url}: {e}")
-                        continue
-
-        if section == "National (Canada)":
-            print(f"ð§ª DEBUG: Fetched {len(section_items)} Canadian news entries.")
-
+            for entry in feed.entries:
+                if hasattr(entry, 'published_parsed'):
+                    pub_dt = datetime(*entry.published_parsed[:6])
+                    if pub_dt >= CUT_OFF:
+                        section_items.append((pub_dt, entry))
         if not section_items:
             if section == "National (Canada)":
-                parts.append(section.upper())
                 parts.append("â ï¸ No Canadian national news items found in the last 5 days.")
-                parts.append("Check RSS feed availability or add backup sources.")
-                parts.append("")
+                parts.append("Check RSS feed availability or add backup sources.
+")
             continue
-
         section_items.sort(key=lambda x: x[0], reverse=True)
         parts.append(section.upper())
+        count = 0
         for pub_dt, entry in section_items:
-            try:
-                title = strip_html(entry.title)
-                content_list = entry.get('content', [])
-                if content_list and isinstance(content_list[0], dict):
-                    content = content_list[0].get('value', '')
-                else:
-                    content = entry.get('summary', '')
-                summary = summarize_text(content)
-                date_str = pub_dt.strftime('%B %d, %Y')
-                parts.append(f"â¢ {title} {{date_str}}")
-                parts.append(f"  {summary}")
-                parts.append("(â pause â)\n")
-            except Exception as e:
-                print(f"â ï¸ Error processing entry: {e}")
-                continue
+            if section == "Weather" and count >= 3:
+                break
+            count += 1
+            title = strip_html(entry.title)
+            content = entry.get('content', [{}])[0].get('value') if entry.get('content') else entry.get('summary')
+            summary = summarize_text(content)
+            date_str = pub_dt.strftime('%B %d, %Y')
+            parts.append(f"â¢ {title} ({date_str})")
+            parts.append(f"  {summary}")
+            parts.append("(â pause â)
+")
 
     parts.append("â End of briefing â")
-    return "\n".join(parts)
+    return "
+".join(parts)
 
 # Main execution
 if __name__ == "__main__":
@@ -154,11 +136,12 @@ if __name__ == "__main__":
         briefing = collect_multi_day_briefing()
         with open("latest.txt", "w", encoding="utf-8") as f:
             f.write(briefing)
-        print("â latest.txt updated successfully.")
+        print("latest.txt updated successfully.")
     except Exception as e:
         err_msg = f"â ï¸ ERROR: {type(e).__name__}: {e}"
         print(err_msg)
         with open("latest.txt", "w", encoding="utf-8") as f:
-            f.write("â ï¸ Daily briefing failed to generate due to an error.\n")
-            f.write(err_msg + "\n")
-        exit(0)
+            f.write("â ï¸ Daily briefing failed to generate due to an error.
+")
+            f.write(err_msg + "
+")
