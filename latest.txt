@@ -1,2 +1,1 @@
-⚠️ Daily briefing failed to generate due to an error.
-⚠️ ERROR: IndexError: index out of range in self
+⚠️ ERROR in briefing generation: IndexError: index out of range in self
