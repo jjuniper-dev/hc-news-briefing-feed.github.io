@@ -28,7 +28,7 @@ GROUPED_FEEDS = {
         "https://www.canada.ca/etc/+/health/public-health-updates.rss"
     ],
     "Digital Government / Public Sector AI": [
-        "https://gds.blog/feed/",  # UK GDS
+        "https://gds.blog/feed/",
         "https://oecd-rss.org/publications/digital-government-rss.xml"
     ],
     "Enterprise Architecture": [
@@ -75,15 +75,19 @@ def safe_parse(url):
     except RemoteDisconnected:
         return feedparser.FeedParserDict(entries=[])
     except Exception as e:
-        print(f"Warning: Failed to parse {url}: {e}")
+        print(f"⚠️ Warning: Failed to parse {url}: {e}")
         return feedparser.FeedParserDict(entries=[])
 
 def summarize_text(text):
     cleaned = strip_html(text)
     if not cleaned:
         return ""
-    result = summarizer(cleaned, max_length=120, min_length=40, do_sample=False)
-    return result[0]['summary_text'].strip()
+    try:
+        result = summarizer(cleaned, max_length=120, min_length=40, do_sample=False)
+        return result[0]['summary_text'].strip()
+    except Exception as e:
+        print(f"⚠️ Summarization failed: {e}")
+        return strip_html(text[:300]) + "..."
 
 def collect_multi_day_briefing():
     parts = []
@@ -104,17 +108,26 @@ def collect_multi_day_briefing():
         section_items.sort(key=lambda x: x[0], reverse=True)
         parts.append(section.upper())
         for pub_dt, entry in section_items:
-            title = strip_html(entry.title)
-            content_list = entry.get('content', [])
-            if content_list and isinstance(content_list[0], dict):
-                content = content_list[0].get('value', '')
-            else:
-                content = entry.get('summary', '')
-            summary = summarize_text(content)
-            date_str = pub_dt.strftime('%B %d, %Y')
-            parts.append(f"• {title} {{{date_str}}}")
-            parts.append(f"  Summarized: {summary}")
-            parts.append("")
+            try:
+                title = strip_html(entry.title)
+                print(f"📰 Processing: {title}")
+                print(f"🔗 From Feed: {section}")
+                print(f"📅 Published: {pub_dt}")
+
+                content_list = entry.get('content', [])
+                if content_list and isinstance(content_list[0], dict):
+                    content = content_list[0].get('value', '')
+                else:
+                    content = entry.get('summary', '')
+
+                summary = summarize_text(content)
+                date_str = pub_dt.strftime('%B %d, %Y')
+                parts.append(f"• {title} {{{date_str}}}")
+                parts.append(f"  Summarized: {summary}")
+                parts.append("")
+            except Exception as e:
+                print(f"⚠️ Error processing entry: {e}")
+                continue
 
     parts.append("— End of briefing —")
     return "\n".join(parts)
@@ -125,7 +138,7 @@ if __name__ == "__main__":
         briefing = collect_multi_day_briefing()
         with open("latest.txt", "w", encoding="utf-8") as f:
             f.write(briefing)
-        print("latest.txt updated successfully.")
+        print("✅ latest.txt updated successfully.")
     except Exception as e:
         err_msg = f"⚠️ ERROR: {type(e).__name__}: {e}"
         print(err_msg)
