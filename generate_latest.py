@@ -69,7 +69,6 @@ summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 def strip_html(text):
     return re.sub(r'<[^>]+>', '', text or '').strip()
 
-
 def safe_parse(url):
     try:
         return feedparser.parse(url)
@@ -79,7 +78,6 @@ def safe_parse(url):
         print(f"Warning: Failed to parse {url}: {e}")
         return feedparser.FeedParserDict(entries=[])
 
-
 def summarize_text(text):
     cleaned = strip_html(text)
     if not cleaned:
@@ -87,11 +85,8 @@ def summarize_text(text):
     result = summarizer(cleaned, max_length=120, min_length=40, do_sample=False)
     return result[0]['summary_text'].strip()
 
-
 def collect_multi_day_briefing():
     parts = []
-    # Weather handled separately
-    # Add header
     parts.append(f"Multi-Day News Briefing (Last {DAYS_BACK} days) – {datetime.now():%B %d, %Y}")
     parts.append("")
 
@@ -106,12 +101,15 @@ def collect_multi_day_briefing():
                         section_items.append((pub_dt, entry))
         if not section_items:
             continue
-        # Sort by date desc
         section_items.sort(key=lambda x: x[0], reverse=True)
         parts.append(section.upper())
         for pub_dt, entry in section_items:
             title = strip_html(entry.title)
-            content = entry.get('content', [{}])[0].get('value') if entry.get('content') else entry.get('summary')
+            content_list = entry.get('content', [])
+            if content_list and isinstance(content_list[0], dict):
+                content = content_list[0].get('value', '')
+            else:
+                content = entry.get('summary', '')
             summary = summarize_text(content)
             date_str = pub_dt.strftime('%B %d, %Y')
             parts.append(f"• {title} {{{date_str}}}")
