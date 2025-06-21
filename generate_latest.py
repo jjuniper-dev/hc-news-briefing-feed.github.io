@@ -62,7 +62,7 @@ GROUPED_FEEDS = {
     ]
 }
 
-# Initialize summarizer
+# Initialize summarizer using the best quality model available for free
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
 # Utility functions
@@ -99,31 +99,32 @@ def collect_multi_day_briefing():
         for url in urls:
             feed = safe_parse(url)
             for entry in feed.entries:
-                if section == "Weather":
-                    if any(keyword in entry.title for keyword in ["Today", "Tonight", "Tomorrow"]):
-                        section_items.append((datetime.now(), entry))
-                else:
-                    if hasattr(entry, 'published_parsed'):
-                        pub_dt = datetime(*entry.published_parsed[:6])
-                        if pub_dt >= CUT_OFF:
-                            section_items.append((pub_dt, entry))
+                try:
+                    if section == "Weather":
+                        if any(keyword in entry.title for keyword in ["Today", "Tonight", "Tomorrow"]):
+                            section_items.append((datetime.now(), entry))
+                    else:
+                        if hasattr(entry, 'published_parsed'):
+                            pub_dt = datetime(*entry.published_parsed[:6])
+                            if pub_dt >= CUT_OFF:
+                                section_items.append((pub_dt, entry))
+                except Exception as e:
+                    print(f"⚠️ Error parsing feed entry from {url}: {e}")
+                    continue
+
         if not section_items:
             continue
+
         section_items.sort(key=lambda x: x[0], reverse=True)
         parts.append(section.upper())
         for pub_dt, entry in section_items:
             try:
                 title = strip_html(entry.title)
-                print(f"📰 Processing: {title}")
-                print(f"🔗 From Feed: {section}")
-                print(f"📅 Published: {pub_dt}")
-
                 content_list = entry.get('content', [])
                 if content_list and isinstance(content_list[0], dict):
                     content = content_list[0].get('value', '')
                 else:
                     content = entry.get('summary', '')
-
                 summary = summarize_text(content)
                 date_str = pub_dt.strftime('%B %d, %Y')
                 parts.append(f"• {title} {{{date_str}}}")
