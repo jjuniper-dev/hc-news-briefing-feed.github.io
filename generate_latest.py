@@ -7,94 +7,89 @@ from http.client import RemoteDisconnected
 from transformers import pipeline
 
 # --- CONFIG ---
+# Number of days to include in multi-day briefing
+DAYS_BACK = 5
+# RSS feeds list: label and URL
 RSS_FEEDS = [
     ("International", "http://feeds.reuters.com/Reuters/worldNews"),
     ("Canadian",      "https://rss.cbc.ca/lineup/canada.xml"),
     ("US",            "https://feeds.npr.org/1001/rss.xml"),
     ("AI & IT",       "https://feeds.arstechnica.com/arstechnica/technology-policy"),
-    ("Public Health", "https://www.canada.ca/content/canadasite.service/feeds/public-health-updates/rss.xml"),
-    ("Public Sector AI", "https://www.digital.canada.ca/news-and-announcements/feed/")
+    ("AI & IT",       "https://www.theregister.com/headlines.atom"),
+    ("Public Health", "https://www.canada.ca/etc/+/health/public-health-updates.rss"),
+    ("Digital Gov",   "https://open.canada.ca/data/en/dataset/f5fb5b90-cdc1-4cb7-b774-62f30d0cebb1.atom"),
+    ("Enterprise Arch", "https://www.opengroup.org/news/rss/news-release.xml"),
+    ("Gartner",       "http://blogs.gartner.com/gbn/feed/"),
+    ("Gartner",       "https://blogs.gartner.com/smarterwithgartner/feed/"),
+    ("Global Health", "https://www.who.int/feeds/entity/mediacentre/news/en/rss.xml"),
+    ("Nature PH",     "https://www.nature.com/subjects/public-health.rss"),
+    ("UK GDS",        "https://gds.blog/feed/"),
+    ("OECD Gov",      "https://oecd-rss.org/publications/digital-government-rss.xml"),
+    ("CIO Gov",       "https://www.cio.com/ciolib/rss/cio/government.xml"),
+    ("MIT AI",        "https://www.technologyreview.com/feed/"),
+    ("AI Weekly",     "http://aiweekly.co/rss"),
+    ("VB AI",         "https://venturebeat.com/category/ai/feed/"),
+    ("Cybersec",      "https://krebsonsecurity.com/feed/"),
+    ("NIST News",     "https://www.nist.gov/blogs/blog.rss"),
 ]
-WEATHER_FEED = "https://dd.weather.gc.ca/rss/city/on-131_e.xml"  # Ottawa
-DAYS_BACK = 5
+# Weather feed
+WEATHER_FEED = "https://weather.gc.ca/rss/city/on-131_e.xml"
 
-# Initialize summarizer
+# Initialize AI summarizer
 summarizer = pipeline("summarization")
+
+# Helpers
+def strip_html(text):
+    return re.sub(r'<[^>]+>', '', text)
 
 def safe_parse(url):
     try:
         return feedparser.parse(url)
     except (RemoteDisconnected, Exception):
-        return feedparser.FeedParserDict(entries=[], feed={})
+        return []
 
+# Summarization function
+def ai_summary(text: str) -> str:
+    prompt = strip_html(text)
+    result = summarizer(prompt, max_length=120, min_length=40, do_sample=False)
+    return result[0]['summary_text'].strip()
 
-def strip_html(text):
-    return re.sub(r'<[^>]*>', '', text or '').strip()
-
-
-def get_weather_summary():
-    feed = safe_parse(WEATHER_FEED)
-    today = datetime.now().strftime('%B %d, %Y')
-    if not feed.entries:
-        return f"Ottawa Weather – {today}: data unavailable."
-    today_entry = feed.entries[0]
-    summary = strip_html(today_entry.summary)
-    return f"Ottawa Weather – {today}\n{summary}"
-
-
-def format_and_summarize(entry):
-    content = ''
-    if hasattr(entry, 'content') and entry.content:
-        content = strip_html(entry.content[0].value)
-    else:
-        content = strip_html(entry.get('summary', ''))
-    # Generate AI summary
-    try:
-        ai = summarizer(content, max_length=60, min_length=20, do_sample=False)
-        summary = ai[0]['summary_text']
-    except Exception:
-        summary = content[:200] + '...'
-    # Citation
-    pub = ''
-    if entry.get('published_parsed'):
-        pub = datetime(*entry.published_parsed[:6]).strftime('%B %d, %Y')
-    source = entry.get('source', {}).get('title') or entry.link.split('/')[2]
-    link = entry.link
-    return f"• {entry.title.strip()}\n  {summary}\n  Link: {link} {{{pub} ({source})}}"
-
-
-def collect_multiday_briefing():
+# Collect multi-day briefing
+def collect_multi_day():
     cutoff = datetime.now() - timedelta(days=DAYS_BACK)
-    stories = []
-    # Gather entries
+    entries = []
+    # Weather section
+    weather = safe_parse(WEATHER_FEED)
+    if weather and weather.entries:
+        entries.append((datetime.now(), "Weather", f"Ottawa Weather: {strip_html(weather.entries[0].summary)}"))
+    # News sections
     for label, url in RSS_FEEDS:
         feed = safe_parse(url)
-        for entry in feed.entries:
-            if not entry.get('published_parsed'):
-                continue
-            pub_date = datetime(*entry.published_parsed[:6])
-            if pub_date >= cutoff:
-                stories.append((pub_date, label, entry))
-    # Sort by date descending
-    stories.sort(key=lambda x: x[0], reverse=True)
+        for e in getattr(feed, 'entries', []):
+            if 'published_parsed' in e:
+                pub = datetime(*e.published_parsed[:6])
+                if pub >= cutoff:
+                    entries.append((pub, label, e))
+    # Sort by date desc
+    entries.sort(key=lambda x: x[0], reverse=True)
     # Group by date
-    grouped = {}
-    for pub_date, label, entry in stories:
-        day = pub_date.strftime('%B %d, %Y')
-        grouped.setdefault(day, []).append((label, entry))
-    # Build briefing text
-    lines = [f"Multi-Day News Briefing – Last {DAYS_BACK} days", "", get_weather_summary(), ""]
-    for day, items in grouped.items():
-        lines.append(day)
-        for label, entry in items:
-            lines.append(format_and_summarize(entry))
-        lines.append("")
-    lines.append("— End of briefing —")
-    return "\n".join(lines)
+    days = {}
+    for pub, label, e in entries:
+        date_str = pub.strftime('%B %d, %Y')
+        days.setdefault(date_str, []).append((label, e))
+    # Build output
+    lines = [f"Multi-day Briefing (Last {DAYS_BACK} days)"]
+    for day, items in days.items():
+        lines.append(f"\n{day}")
+        for label, e in items:
+            text = e.content[0].value if 'content' in e and e.content else e.summary
+            summary = ai_summary(text)
+            lines.append(f"• [{label}] {e.title}\n  {summary}")
+    return '\n'.join(lines)
 
-
+# Main
 if __name__ == '__main__':
-    briefing = collect_multiday_briefing()
+    briefing = collect_multi_day()
     with open('latest.txt', 'w', encoding='utf-8') as f:
         f.write(briefing)
-    print('latest.txt updated with multi-day detailed briefing.')
+    print('latest.txt updated.')
