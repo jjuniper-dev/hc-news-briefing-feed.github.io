@@ -13,7 +13,7 @@ CUT_OFF = datetime.now() - timedelta(days=DAYS_BACK)
 # Grouped RSS feeds
 GROUPED_FEEDS = {
     "Weather": [
-        "https://weather.gc.ca/rss/city/on-131_e.xml"
+        "https://weather.gc.ca/rss/city/on-118_e.xml"  # Ottawa
     ],
     "International": [
         "http://feeds.reuters.com/Reuters/worldNews"
@@ -99,10 +99,14 @@ def collect_multi_day_briefing():
         for url in urls:
             feed = safe_parse(url)
             for entry in feed.entries:
-                if hasattr(entry, 'published_parsed'):
-                    pub_dt = datetime(*entry.published_parsed[:6])
-                    if pub_dt >= CUT_OFF:
-                        section_items.append((pub_dt, entry))
+                if section == "Weather":
+                    if any(keyword in entry.title for keyword in ["Today", "Tonight", "Tomorrow"]):
+                        section_items.append((datetime.now(), entry))
+                else:
+                    if hasattr(entry, 'published_parsed'):
+                        pub_dt = datetime(*entry.published_parsed[:6])
+                        if pub_dt >= CUT_OFF:
+                            section_items.append((pub_dt, entry))
         if not section_items:
             continue
         section_items.sort(key=lambda x: x[0], reverse=True)
