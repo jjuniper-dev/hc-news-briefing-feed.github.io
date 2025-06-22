@@ -1,85 +1,154 @@
-import feedparser
-from datetime import datetime
+#!/usr/bin/env python3
 
-# Define RSS feeds by category
-feeds = {
-    "Canada": [
-        "https://www.cbc.ca/cmlink/rss-canada",
-        "https://www.ctvnews.ca/rss/ctvnews-ca-canada-public-rss-1.822285"
+import feedparser
+import re
+from datetime import datetime, timedelta
+from http.client import RemoteDisconnected
+
+# --- CONFIG ---
+DAYS_BACK = 5
+CUT_OFF = datetime.now() - timedelta(days=DAYS_BACK)
+
+# RSS Feeds by category (vetted, working URLs)
+GROUPED_FEEDS = {
+    "Weather": [
+        "https://weather.gc.ca/rss/city/on-131_e.xml"
     ],
-    "US": [
-        "https://feeds.npr.org/1001/rss.xml",
-        "https://rss.cnn.com/rss/cnn_topstories.rss",
-        "http://feeds.foxnews.com/foxnews/national"
+    "Canadian CBC": [
+        "https://www.cbc.ca/cmlink/rss-topstories"
+    ],
+    "Canadian CTV": [
+        "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.796439"
+    ],
+    "U.S.": [
+        "https://feeds.npr.org/1001/rss.xml"
     ],
     "International": [
-        "http://feeds.bbci.co.uk/news/world/rss.xml",
-        "http://rss.cnn.com/rss/edition_world.rss",
-        "https://www.reutersagency.com/feed/?best-sectors=world&post_type=best"
+        "https://www.reuters.com/world/rss",
+        "http://feeds.bbci.co.uk/news/world/rss.xml"
     ],
-    "Cybersecurity": [
-        "https://www.wired.com/feed/category/security/latest/rss",
+    "Public Health": [
+        "https://www.canada.ca/etc/+/health/public-health-updates.rss"
+    ],
+    "AI & Emerging Tech": [
+        "https://feeds.arstechnica.com/arstechnica/technology-policy",
+        "https://www.technologyreview.com/feed/"
+    ],
+    "Cybersecurity & Privacy": [
         "https://krebsonsecurity.com/feed/"
     ],
-    "AI": [
-        "https://www.technologyreview.com/feed/",
-        "https://spectrum.ieee.org/rss/artificial-intelligence/fulltext"
+    "Enterprise Architecture & IT Governance": [
+        "https://www.opengroup.org/news/rss/news-release.xml"
+    ],
+    "Geomatics": [
+        "https://www.geospatialworld.net/feed/"
     ]
 }
 
-# Ottawa 3-day weather (mock)
-weather_forecast = [
-    "Tonight (Ottawa): HEAT WARNING in effect – partly cloudy, low 22°C",
-    "Monday: Sunny and clearing, high 34°C",
-    "Tuesday: Mix of sun and cloud, high 31°C",
-    "Wednesday: Chance of showers, high 28°C"
-]
+# Utility functions
 
-# Parse feeds with summary and safe error handling
-def parse_feeds():
-    briefing = {}
-    user_agent = "Mozilla/5.0 (compatible; HC-NewsBriefingBot/1.0; +https://github.com/YOUR_REPO)"
-    for category, urls in feeds.items():
-        stories = []
-        for url in urls:
-            try:
-                d = feedparser.parse(url, agent=user_agent)
-                for entry in d.entries[:5]:
-                    title = entry.get("title", "No title").strip()
-                    summary = entry.get("summary", "").strip().replace('\n', ' ').replace('\r', ' ')
-                    if len(summary) > 300:
-                        summary = summary[:297] + "..."
-                    source = d.feed.get("title", "Unknown Source")
-                    published = entry.get("published", "")[:16]
-                    stories.append(f"• {title}\n  {summary}\n  [{source}, {published}]")
-            except Exception as e:
-                print(f"⚠️ Failed to fetch {url}: {e}")
-        briefing[category] = stories[:5] if stories else ["• No stories available."]
-    return briefing
+def safe_parse(url):
+    try:
+        return feedparser.parse(url)
+    except RemoteDisconnected:
+        print(f"Warning: disconnected from {url}")
+        return feedparser.FeedParserDict(entries=[])
+    except Exception as e:
+        print(f"Warning: failed to parse {url}: {e}")
+        return feedparser.FeedParserDict(entries=[])
 
-# Compile full news briefing
-def generate_latest_txt():
-    briefing = parse_feeds()
-    date_str = datetime.now().strftime("%B %d, %Y")
-    lines = [f"Multi-Day News Briefing — {date_str}\n"]
 
-    # Weather section
-    lines.append("📍 Ottawa Weather")
-    for w in weather_forecast:
-        lines.append(f"• {w}")
-    lines.append("")
+def strip_tags(html: str) -> str:
+    return re.sub(r'<[^>]+>', '', html or '')
 
-    # News categories
-    for section in ["Canada", "US", "International", "Cybersecurity", "AI"]:
-        lines.append(f"🌐 {section} News")
-        lines.extend(briefing.get(section, ["• No stories available."]))
-        lines.append("")
+# Weather parser for Tonight/Tomorrow
 
-    lines.append("— End of briefing —")
+def get_weather_summary():
+    feed = safe_parse(GROUPED_FEEDS["Weather"][0])
+    if not feed.entries:
+        return "Ottawa Weather data unavailable."
+    tonight = tomorrow = None
+    for e in feed.entries[:5]:
+        title = strip_tags(e.title or "")
+        if "Tonight" in title:
+            tonight = title
+        if "Tomorrow" in title or "High" in title:
+            tomorrow = title
+        if tonight and tomorrow:
+            break
+    tonight = tonight or strip_tags(feed.entries[0].title)
+    tomorrow = tomorrow or (strip_tags(feed.entries[1].title) if len(feed.entries) > 1 else "")
+    header = f"Ottawa Weather – {datetime.now():%B %d, %Y}"
+    lines = [header, f"• Tonight: {tonight}"]
+    if tomorrow:
+        lines.append(f"• Tomorrow: {tomorrow}")
     return "\n".join(lines)
 
-# Write to latest.txt
+# Build concise briefing
+
+def collect_briefing():
+    parts = []
+
+    # 1. Weather
+    parts.append(get_weather_summary())
+    parts.append("")
+
+    # 2. Canadian Headlines (CBC + CTV)
+    parts.append(f"Canadian Headlines – {datetime.now():%B %d, %Y}")
+    for label, key in [("CBC", "Canadian CBC"), ("CTV", "Canadian CTV")]:
+        feed = safe_parse(GROUPED_FEEDS[key][0])
+        if feed.entries:
+            for e in feed.entries[:2]:
+                date = datetime(*e.published_parsed[:6]).strftime("%b %d") if 'published_parsed' in e else ""
+                parts.append(f"• {label}: {e.title.strip()} ({date})")
+        else:
+            parts.append(f"• {label}: (no entries)")
+    parts.append("")
+
+    # 3. U.S. Top Stories
+    parts.append("U.S. Top Stories")
+    feed_us = safe_parse(GROUPED_FEEDS["U.S."][0])
+    for e in feed_us.entries[:2]:
+        parts.append(f"• {e.title.strip()}")
+    parts.append("")
+
+    # 4. International Top Stories
+    parts.append("International Top Stories")
+    for url in GROUPED_FEEDS["International"]:
+        feed_intl = safe_parse(url)
+        if feed_intl.entries:
+            for e in feed_intl.entries[:2]:
+                parts.append(f"• {e.title.strip()}")
+            break
+    else:
+        parts.append("(no entries)")
+    parts.append("")
+
+    # 5. Special Sections (headline-only)
+    for section in ["Public Health", "AI & Emerging Tech", "Cybersecurity & Privacy",
+                    "Enterprise Architecture & IT Governance", "Geomatics"]:
+        feed = safe_parse(GROUPED_FEEDS[section][0])
+        parts.append(section)
+        if feed.entries:
+            parts.append(f"• {feed.entries[0].title.strip()}")
+        else:
+            parts.append("(no entries)")
+        parts.append("")
+
+    parts.append("— End of briefing —")
+    return "\n".join(parts)
+
+# Main execution
+
 if __name__ == "__main__":
-    output = generate_latest_txt()
-    with open("latest.txt", "w", encoding="utf-8") as f:
-        f.write(output)
+    try:
+        briefing = collect_briefing()
+        with open("latest.txt", "w", encoding="utf-8") as f:
+            f.write(briefing)
+        print("latest.txt updated successfully.")
+    except Exception as e:
+        msg = f"ERROR in briefing generation: {type(e).__name__}: {e}"
+        print(msg)
+        with open("latest.txt", "w", encoding="utf-8") as f:
+            f.write("ERROR: Daily briefing failed to generate.\n" + msg + "\n")
+        exit(0)
