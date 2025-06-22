@@ -1,11 +1,10 @@
 import feedparser
 from datetime import datetime
 
-# Define updated feeds per category
+# Define RSS feeds by category
 feeds = {
     "Canada": [
         "https://www.cbc.ca/cmlink/rss-canada",
-        "https://www.theglobeandmail.com/rss/",
         "https://www.ctvnews.ca/rss/ctvnews-ca-canada-public-rss-1.822285"
     ],
     "US": [
@@ -28,48 +27,58 @@ feeds = {
     ]
 }
 
-# Mock Ottawa weather for 3-day forecast
+# Ottawa 3-day weather (mock)
 weather_forecast = [
-    "Tonight (Ottawa): HEAT WARNING in effect â partly cloudy, low 22Â°C",
-    "Monday: Sunny and clearing, high 34Â°C",
-    "Tuesday: Mix of sun and cloud, high 31Â°C",
-    "Wednesday: Chance of showers, high 28Â°C"
+    "Tonight (Ottawa): HEAT WARNING in effect – partly cloudy, low 22°C",
+    "Monday: Sunny and clearing, high 34°C",
+    "Tuesday: Mix of sun and cloud, high 31°C",
+    "Wednesday: Chance of showers, high 28°C"
 ]
 
+# Parse feeds with summary and safe error handling
 def parse_feeds():
     briefing = {}
+    user_agent = "Mozilla/5.0 (compatible; HC-NewsBriefingBot/1.0; +https://github.com/YOUR_REPO)"
     for category, urls in feeds.items():
         stories = []
         for url in urls:
-            d = feedparser.parse(url)
-            for entry in d.entries[:5]:
-                title = entry.title
-                source = d.feed.get("title", "Unknown Source")
-                published = entry.get("published", "")
-                stories.append(f"â¢ {title}  [{source}, {published[:16]}]")
-        briefing[category] = stories[:5]
+            try:
+                d = feedparser.parse(url, agent=user_agent)
+                for entry in d.entries[:5]:
+                    title = entry.get("title", "No title").strip()
+                    summary = entry.get("summary", "").strip().replace('\n', ' ').replace('\r', ' ')
+                    if len(summary) > 300:
+                        summary = summary[:297] + "..."
+                    source = d.feed.get("title", "Unknown Source")
+                    published = entry.get("published", "")[:16]
+                    stories.append(f"• {title}\n  {summary}\n  [{source}, {published}]")
+            except Exception as e:
+                print(f"⚠️ Failed to fetch {url}: {e}")
+        briefing[category] = stories[:5] if stories else ["• No stories available."]
     return briefing
 
+# Compile full news briefing
 def generate_latest_txt():
     briefing = parse_feeds()
     date_str = datetime.now().strftime("%B %d, %Y")
-    lines = [f"Multi-Day News Briefing â {date_str}\n"]
+    lines = [f"Multi-Day News Briefing — {date_str}\n"]
 
-    # Weather
-    lines.append("ð Ottawa Weather")
+    # Weather section
+    lines.append("📍 Ottawa Weather")
     for w in weather_forecast:
-        lines.append(f"â¢ {w}")
+        lines.append(f"• {w}")
     lines.append("")
 
-    # News Sections
+    # News categories
     for section in ["Canada", "US", "International", "Cybersecurity", "AI"]:
-        lines.append(f"ð {section} News")
-        lines.extend(briefing.get(section, ["â¢ No stories available."]))
+        lines.append(f"🌐 {section} News")
+        lines.extend(briefing.get(section, ["• No stories available."]))
         lines.append("")
 
-    lines.append("â End of briefing â")
+    lines.append("— End of briefing —")
     return "\n".join(lines)
 
+# Write to latest.txt
 if __name__ == "__main__":
     output = generate_latest_txt()
     with open("latest.txt", "w", encoding="utf-8") as f:
