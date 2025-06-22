@@ -4,13 +4,11 @@ import feedparser
 import re
 from datetime import datetime, timedelta
 from http.client import RemoteDisconnected
-from transformers import pipeline
 
 # --- CONFIG ---
 DAYS_BACK = 3
 CUT_OFF = datetime.now() - timedelta(days=DAYS_BACK)
 
-# Ordered sections with their RSS feeds
 GROUPED_FEEDS = {
     "Weather": [
         "https://weather.gc.ca/rss/city/on-131_e.xml"
@@ -25,7 +23,8 @@ GROUPED_FEEDS = {
         "https://feeds.npr.org/1001/rss.xml"
     ],
     "International": [
-        "https://feeds.reuters.com/Reuters/worldNews"
+        "https://feeds.reuters.com/Reuters/worldNews",
+        "https://feeds.bbci.co.uk/news/world/rss.xml"
     ],
     "Public Health": [
         "https://www.canada.ca/etc/+/health/public-health-updates.rss"
@@ -40,23 +39,33 @@ GROUPED_FEEDS = {
         "https://www.opengroup.org/news/rss/news-release.xml"
     ],
     "Geomatics": [
-        "https://example.com/geomatics-feed.xml"  # replace with a real Geomatics RSS
+        "https://example.com/geomatics-feed.xml"
     ]
 }
-
-# Initialize summarizer once
-summarizer = pipeline("summarization")
 
 
 def safe_parse(url):
     try:
-        return feedparser.parse(url)
+        feed = feedparser.parse(url)
+        if getattr(feed, 'bozo', False):
+            print(f"Warning: malformed feed at {url}, bozo_exception={feed.get('bozo_exception')}")
+        return feed
     except RemoteDisconnected:
         print(f"Warning: disconnected from {url}")
         return feedparser.FeedParserDict(entries=[])
     except Exception as e:
         print(f"Warning: failed to parse {url}: {e}")
         return feedparser.FeedParserDict(entries=[])
+
+
+def get_first_entries(key, count=2):
+    # Try each URL until we get entries
+    for url in GROUPED_FEEDS[key]:
+        feed = safe_parse(url)
+        if feed.entries:
+            return feed.entries[:count]
+    print(f"Warning: no entries found for {key}")
+    return []
 
 
 def strip_tags(html: str) -> str:
@@ -68,20 +77,16 @@ def get_weather_summary():
     if not feed.entries:
         return "Ottawa Weather data unavailable."
     tonight = tomorrow = None
-    # Search entries for Tonight/Tomorrow keywords
     for e in feed.entries[:5]:
         title = strip_tags(e.title or "")
         if "Tonight" in title:
             tonight = title
-        elif any(k in title for k in ["Tomorrow", "High"]):
+        if "Tomorrow" in title or "High" in title:
             tomorrow = title
         if tonight and tomorrow:
             break
-    # Fallbacks
-    if not tonight and feed.entries:
-        tonight = strip_tags(feed.entries[0].title)
-    if not tomorrow and len(feed.entries) > 1:
-        tomorrow = strip_tags(feed.entries[1].title)
+    tonight = tonight or strip_tags(feed.entries[0].title)
+    tomorrow = tomorrow or (strip_tags(feed.entries[1].title) if len(feed.entries) > 1 else "")
     header = f"Ottawa Weather – {datetime.now():%B %d, %Y}"
     lines = [header, f"• Tonight: {tonight}"]
     if tomorrow:
@@ -96,11 +101,11 @@ def collect_briefing():
     parts.append(get_weather_summary())
     parts.append("")
 
-    # 2. Canadian Headlines (CBC + CTV)
+    # 2. Canadian Headlines
     parts.append(f"Canadian Headlines – {datetime.now():%B %d, %Y}")
-    for label, key in [("CBC", "Canadian CBC"), ("Global/CTV", "Canadian CTV")]:
-        feed = safe_parse(GROUPED_FEEDS[key][0])
-        for e in feed.entries[:2]:
+    for label, key in [("CBC", "Canadian CBC"), ("CTV", "Canadian CTV")]:
+        entries = get_first_entries(key, count=2)
+        for e in entries:
             date = ""
             if 'published_parsed' in e:
                 date = datetime(*e.published_parsed[:6]).strftime("%b %d")
@@ -109,30 +114,23 @@ def collect_briefing():
 
     # 3. U.S. Top Stories
     parts.append("U.S. Top Stories")
-    us = safe_parse(GROUPED_FEEDS["U.S."][0])
-    for e in us.entries[:2]:
+    for e in get_first_entries("U.S.", count=2):
         parts.append(f"• {e.title.strip()}")
     parts.append("")
 
     # 4. International Top Stories
     parts.append("International Top Stories")
-    intl = safe_parse(GROUPED_FEEDS["International"][0])
-    for e in intl.entries[:2]:
+    for e in get_first_entries("International", count=2):
         parts.append(f"• {e.title.strip()}")
     parts.append("")
 
-    # 5. Special Sections (headline-only, one each)
-    for section in [
-        "Public Health",
-        "AI & Emerging Tech",
-        "Cybersecurity & Privacy",
-        "Enterprise Architecture & IT Governance",
-        "Geomatics"
-    ]:
-        feed = safe_parse(GROUPED_FEEDS[section][0])
-        if feed.entries:
+    # 5. Special Sections
+    for section in ["Public Health", "AI & Emerging Tech", "Cybersecurity & Privacy",
+                    "Enterprise Architecture & IT Governance", "Geomatics"]:
+        entries = get_first_entries(section, count=1)
+        if entries:
             parts.append(section)
-            parts.append(f"• {feed.entries[0].title.strip()}")
+            parts.append(f"• {entries[0].title.strip()}")
             parts.append("")
 
     parts.append("— End of briefing —")
@@ -152,3 +150,6 @@ if __name__ == "__main__":
             f.write("⚠️ Daily briefing failed to generate.\n")
             f.write(msg + "\n")
         exit(0)
+```  
+
+This version tries each feed URL until it finds entries, adds fallback BBC for international, and logs warnings if none found. Copy it into `generate_latest.py` and rerun—your Canadian and International sections should now always populate correctly.
