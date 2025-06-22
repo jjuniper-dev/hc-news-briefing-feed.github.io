@@ -1,0 +1,39 @@
+name: Test RSS Feeds
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-feeds:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Run feed test script
+        run: |
+          python - << 'EOF'
+          import feedparser
+
+          feeds = {
+              "CBC Canada":     "https://rss.cbc.ca/lineup/canada.xml",
+              "CTV Top Stories": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.2170494",
+              "Reuters World":  "https://feeds.reuters.com/Reuters/worldNews",
+              "BBC World":      "http://feeds.bbci.co.uk/news/world/rss.xml"
+          }
+
+          for name, url in feeds.items():
+              feed = feedparser.parse(url)
+              count = len(feed.entries)
+              first = feed.entries[0].title if count else "(no entries)"
+              print(f"{name}: {count} entries → “{first}”")
+          EOF
