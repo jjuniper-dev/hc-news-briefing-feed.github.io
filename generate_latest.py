@@ -84,51 +84,91 @@ def get_weather_summary():
 def collect_briefing():
     parts = []
 
-    # Weather
+    # 1. Weather
     parts.append(get_weather_summary())
     parts.append("")
 
-    # Canadian Headlines
+    # 2. Canadian Headlines (CBC + CTV)
     parts.append(f"Canadian Headlines – {datetime.now():%B %d, %Y}")
     for label, key in [("CBC", "Canadian CBC"), ("CTV", "Canadian CTV")]:
-        feed = safe_parse(GROUPED_FEEDS[key][0])
-        for e in feed.entries[:2]:
-            date = ""
-            if 'published_parsed' in e:
-                date = datetime(*e.published_parsed[:6]).strftime("%b %d")
-            parts.append(f"• {label}: {e.title.strip()} ({date})")
+        entries = []
+        for url in GROUPED_FEEDS[key]:
+            feed = safe_parse(url)
+            if feed.entries:
+                entries = feed.entries
+                break
+        if entries:
+            for e in entries[:2]:
+                date = ""
+                if 'published_parsed' in e:
+                    date = datetime(*e.published_parsed[:6]).strftime("%b %d")
+                parts.append(f"• {label}: {e.title.strip()} ({date})")
+        else:
+            parts.append(f"• {label}: No headlines available")
     parts.append("")
 
-    # U.S. Top Stories
+    # 3. U.S. Top Stories
     parts.append("U.S. Top Stories")
-    us = safe_parse(GROUPED_FEEDS["U.S."][0])
-    for e in us.entries[:2]:
-        parts.append(f"• {e.title.strip()}")
+    entries = []
+    for url in GROUPED_FEEDS["U.S."]:
+        feed = safe_parse(url)
+        if feed.entries:
+            entries = feed.entries
+            break
+    if entries:
+        for e in entries[:2]:
+            parts.append(f"• {e.title.strip()}")
+    else:
+        parts.append("• No U.S. stories available")
     parts.append("")
 
-    # International Top Stories
+    # 4. International Top Stories
     parts.append("International Top Stories")
+    entries = []
     for url in GROUPED_FEEDS["International"]:
         feed = safe_parse(url)
         if feed.entries:
-            for e in feed.entries[:2]:
-                parts.append(f"• {e.title.strip()}")
+            entries = feed.entries
             break
+    if entries:
+        for e in entries[:2]:
+            parts.append(f"• {e.title.strip()}")
+    else:
+        parts.append("• No international stories available")
     parts.append("")
 
-    # Special Sections
+    # 5. Special Sections
     for section in ["Public Health", "AI & Emerging Tech", "Cybersecurity & Privacy",
                     "Enterprise Architecture & IT Governance", "Geomatics"]:
-        feed = safe_parse(GROUPED_FEEDS[section][0])
-        if feed.entries:
-            parts.append(section)
-            parts.append(f"• {feed.entries[0].title.strip()}")
-            parts.append("")
+        parts.append(section)
+        entries = []
+        for url in GROUPED_FEEDS[section]:
+            feed = safe_parse(url)
+            if feed.entries:
+                entries = feed.entries
+                break
+        if entries:
+            parts.append(f"• {entries[0].title.strip()}")
+        else:
+            parts.append("• No items available")
+        parts.append("")
 
     parts.append("— End of briefing —")
     return "\n".join(parts)
 
 if __name__ == "__main__":
+    try:
+        briefing = collect_briefing()
+        with open("latest.txt", "w", encoding="utf-8") as f:
+            f.write(briefing)
+        print("latest.txt updated successfully.")
+    except Exception as e:
+        msg = f"⚠️ ERROR in briefing generation: {type(e).__name__}: {e}"
+        print(msg)
+        with open("latest.txt", "w", encoding="utf-8") as f:
+            f.write("⚠️ Daily briefing failed to generate.\n")
+            f.write(msg + "\n")
+        exit(0)
     try:
         briefing = collect_briefing()
         with open("latest.txt", "w", encoding="utf-8") as f:
