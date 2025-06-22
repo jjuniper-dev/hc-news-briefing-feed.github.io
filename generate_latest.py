@@ -6,31 +6,33 @@ from datetime import datetime, timedelta
 from http.client import RemoteDisconnected
 
 # --- CONFIG ---
-DAYS_BACK = 3
+DAYS_BACK = 5
 CUT_OFF = datetime.now() - timedelta(days=DAYS_BACK)
 
+# RSS Feeds by category (vetted, working URLs)
 GROUPED_FEEDS = {
     "Weather": [
         "https://weather.gc.ca/rss/city/on-131_e.xml"
     ],
     "Canadian CBC": [
-        "https://rss.cbc.ca/lineup/canada.xml"
+        "https://www.cbc.ca/cmlink/rss-topstories"
     ],
     "Canadian CTV": [
-        "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.2170494"
+        "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.796439"
     ],
     "U.S.": [
         "https://feeds.npr.org/1001/rss.xml"
     ],
     "International": [
-        "https://feeds.reuters.com/Reuters/worldNews",
+        "https://www.reuters.com/world/rss",
         "http://feeds.bbci.co.uk/news/world/rss.xml"
     ],
     "Public Health": [
         "https://www.canada.ca/etc/+/health/public-health-updates.rss"
     ],
     "AI & Emerging Tech": [
-        "https://feeds.arstechnica.com/arstechnica/technology-policy"
+        "https://feeds.arstechnica.com/arstechnica/technology-policy",
+        "https://www.technologyreview.com/feed/"
     ],
     "Cybersecurity & Privacy": [
         "https://krebsonsecurity.com/feed/"
@@ -39,10 +41,11 @@ GROUPED_FEEDS = {
         "https://www.opengroup.org/news/rss/news-release.xml"
     ],
     "Geomatics": [
-        "https://example.com/geomatics-feed.xml"
+        "https://www.geospatialworld.net/feed/"
     ]
 }
 
+# Utility functions
 
 def safe_parse(url):
     try:
@@ -58,6 +61,7 @@ def safe_parse(url):
 def strip_tags(html: str) -> str:
     return re.sub(r'<[^>]+>', '', html or '')
 
+# Weather parser for Tonight/Tomorrow
 
 def get_weather_summary():
     feed = safe_parse(GROUPED_FEEDS["Weather"][0])
@@ -80,6 +84,7 @@ def get_weather_summary():
         lines.append(f"• Tomorrow: {tomorrow}")
     return "\n".join(lines)
 
+# Build concise briefing
 
 def collect_briefing():
     parts = []
@@ -91,70 +96,49 @@ def collect_briefing():
     # 2. Canadian Headlines (CBC + CTV)
     parts.append(f"Canadian Headlines – {datetime.now():%B %d, %Y}")
     for label, key in [("CBC", "Canadian CBC"), ("CTV", "Canadian CTV")]:
-        entries = []
-        for url in GROUPED_FEEDS[key]:
-            feed = safe_parse(url)
-            if feed.entries:
-                entries = feed.entries
-                break
-        if entries:
-            for e in entries[:2]:
-                date = ""
-                if 'published_parsed' in e:
-                    date = datetime(*e.published_parsed[:6]).strftime("%b %d")
+        feed = safe_parse(GROUPED_FEEDS[key][0])
+        if feed.entries:
+            for e in feed.entries[:2]:
+                date = datetime(*e.published_parsed[:6]).strftime("%b %d") if 'published_parsed' in e else ""
                 parts.append(f"• {label}: {e.title.strip()} ({date})")
         else:
-            parts.append(f"• {label}: No headlines available")
+            parts.append(f"• {label}: (no entries)")
     parts.append("")
 
     # 3. U.S. Top Stories
     parts.append("U.S. Top Stories")
-    entries = []
-    for url in GROUPED_FEEDS["U.S."]:
-        feed = safe_parse(url)
-        if feed.entries:
-            entries = feed.entries
-            break
-    if entries:
-        for e in entries[:2]:
-            parts.append(f"• {e.title.strip()}")
-    else:
-        parts.append("• No U.S. stories available")
+    feed_us = safe_parse(GROUPED_FEEDS["U.S."][0])
+    for e in feed_us.entries[:2]:
+        parts.append(f"• {e.title.strip()}")
     parts.append("")
 
     # 4. International Top Stories
     parts.append("International Top Stories")
-    entries = []
     for url in GROUPED_FEEDS["International"]:
-        feed = safe_parse(url)
-        if feed.entries:
-            entries = feed.entries
+        feed_intl = safe_parse(url)
+        if feed_intl.entries:
+            for e in feed_intl.entries[:2]:
+                parts.append(f"• {e.title.strip()}")
             break
-    if entries:
-        for e in entries[:2]:
-            parts.append(f"• {e.title.strip()}")
     else:
-        parts.append("• No international stories available")
+        parts.append("(no entries)")
     parts.append("")
 
-    # 5. Special Sections
+    # 5. Special Sections (headline-only)
     for section in ["Public Health", "AI & Emerging Tech", "Cybersecurity & Privacy",
                     "Enterprise Architecture & IT Governance", "Geomatics"]:
+        feed = safe_parse(GROUPED_FEEDS[section][0])
         parts.append(section)
-        entries = []
-        for url in GROUPED_FEEDS[section]:
-            feed = safe_parse(url)
-            if feed.entries:
-                entries = feed.entries
-                break
-        if entries:
-            parts.append(f"• {entries[0].title.strip()}")
+        if feed.entries:
+            parts.append(f"• {feed.entries[0].title.strip()}")
         else:
-            parts.append("• No items available")
+            parts.append("(no entries)")
         parts.append("")
 
     parts.append("— End of briefing —")
     return "\n".join(parts)
+
+# Main execution
 
 if __name__ == "__main__":
     try:
@@ -163,21 +147,8 @@ if __name__ == "__main__":
             f.write(briefing)
         print("latest.txt updated successfully.")
     except Exception as e:
-        msg = f"⚠️ ERROR in briefing generation: {type(e).__name__}: {e}"
+        msg = f"ERROR in briefing generation: {type(e).__name__}: {e}"
         print(msg)
         with open("latest.txt", "w", encoding="utf-8") as f:
-            f.write("⚠️ Daily briefing failed to generate.\n")
-            f.write(msg + "\n")
-        exit(0)
-    try:
-        briefing = collect_briefing()
-        with open("latest.txt", "w", encoding="utf-8") as f:
-            f.write(briefing)
-        print("latest.txt updated successfully.")
-    except Exception as e:
-        msg = f"⚠️ ERROR in briefing generation: {type(e).__name__}: {e}"
-        print(msg)
-        with open("latest.txt", "w", encoding="utf-8") as f:
-            f.write("⚠️ Daily briefing failed to generate.\n")
-            f.write(msg + "\n")
+            f.write("ERROR: Daily briefing failed to generate.\n" + msg + "\n")
         exit(0)
