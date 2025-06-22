@@ -1,32 +1,80 @@
-Ottawa Weather – June 22, 2025
-• Tonight: HEAT WARNING, Pembroke
-• Tomorrow: Monday: Clearing. High 34.
+Multi-Day News Briefing — June 22, 2025
 
-Canadian Headlines – June 22, 2025
-• CBC: (no entries)
-• CTV: (no entries)
+📍 Ottawa Weather
+• Tonight (Ottawa): HEAT WARNING in effect – partly cloudy, low 22°C
+• Monday: Sunny and clearing, high 34°C
+• Tuesday: Mix of sun and cloud, high 31°C
+• Wednesday: Chance of showers, high 28°C
 
-U.S. Top Stories
+🌐 Canada News
+• No stories available.
+
+🌐 US News
+• FedEx founder Fred Smith, who revolutionized package delivery, dies at 80
+  Smith once said he came up with the name Federal Express because he wanted the company to sound big and important when in fact it was a start-up operation with a future far from assured.
+  [NPR Topics: News, Sun, 22 Jun 2025]
 • In this rural Colorado valley, cuts to Medicaid would have vast ripple effects
+  Cuts to Medicaid moving through Congress would shake up health care in the scenic San Luis Valley — with negative downstream effects on local jobs, businesses and education.
+  [NPR Topics: News, Sun, 22 Jun 2025]
 • LA Dodgers pledge $1 million in support of immigrants amid ICE raids
+  The pledge comes amid ongoing federal immigration raids targeting migrants in the area, and calls from the Dodgers' fanbase for the organization to speak out against them.
+  [NPR Topics: News, Sun, 22 Jun 2025]
+• What separates the ultrarich from the just-plain-rich? The gigayacht.
+  A new collection of essays by <em>New Yorker</em>  writer Evan Osnos, <em>The Haves and Have-Yachts, </em>provides rich research and material for the conversation about extreme wealth in America today.
+  [NPR Topics: News, Sun, 22 Jun 2025]
+• This abortion method doesn't involve doctors — and many of them consider it safe
+  A growing body of research demonstrating the safety and effectiveness of self-managed abortion with pills, coupled with the global pandemic in 2020 and the fall of Roe in 2022, has many U.S. doctors changing their views.
+  [NPR Topics: News, Sun, 22 Jun 2025]
 
-International Top Stories
+🌐 International News
 • Watch: Trump says strikes on Iran a 'spectacular military success' in address
+  The US president warns Iran of future attacks if they retaliate.
+  [BBC News, Sun, 22 Jun 2025]
 • Trump takes huge gamble putting US at heart of Iran-Israel conflict
+  As well as retaliation against US troops, a president who styled himself as "peacemaker" could face party dissent.
+  [BBC News, Sun, 22 Jun 2025]
+• What we know about US strikes on Iran's nuclear facilities
+  Three nuclear facilities in Iran have been bombed, including the uranium enrichment facility at Fordo.
+  [BBC News, Sun, 22 Jun 2025]
+• Ukraine still holds ground inside Russia's Kursk, commander says
+  Commander-in-chief Oleksandr Syrsky disputed Russian claims that Ukraine had been pushed out of Kursk.
+  [BBC News, Sun, 22 Jun 2025]
+• Israel says it killed Iran's military co-ordinator with Hamas
+  Saeed Izadi had been in charge of the Iranian Revolutionary Guards Corps's ties with Palestinian armed groups.
+  [BBC News, Sat, 21 Jun 2025]
 
-Public Health
-(no entries)
+🌐 Cybersecurity News
+• Truth Social Crashes as Trump Live-Posts Iran Bombing
+  The social network started experiencing global outages within minutes of Donald Trump posting details of a US military strike on Iran.
+  [Security Latest, Sun, 22 Jun 2025]
+• Israel Says Iran Is Hacking Security Cameras for Spying
+  Plus: Ukrainian hackers reportedly knock out a key Russian internet provider, China’s Salt Typhoon hackers claim another victim, and the UK hits 23andMe with a hefty fine over its 2023 data breach.
+  [Security Latest, Sat, 21 Jun 2025]
+• Iran’s Internet Blackout Adds New Dangers for Civilians Amid Israeli Bombings
+  Iran is limiting internet connectivity for citizens amid Israeli airstrikes—pushing people towards domestic apps, which may not be secure, and limiting their ability to access vital information.
+  [Security Latest, Wed, 18 Jun 2025]
+• Israel-Tied Predatory Sparrow Hackers Are Waging Cyberwar on Iran’s Financial System
+  After an attack on Iran’s Sepah bank, the hyper-aggressive Israel-linked hacker group has now destroyed more than $90 million held at Iranian crypto exchange Nobitex.
+  [Security Latest, Wed, 18 Jun 2025]
+• Minnesota Shooting Suspect Allegedly Used Data Broker Sites to Find Targets’ Addresses
+  The shooter allegedly researched several “people search” sites in an attempt to target his victims, highlighting the potential dangers of widely available personal data.
+  [Security Latest, Tue, 17 Jun 2025]
 
-AI & Emerging Tech
-(no entries)
-
-Cybersecurity & Privacy
-• Inside a Dark Adtech Empire Fed by Fake CAPTCHAs
-
-Enterprise Architecture & IT Governance
-(no entries)
-
-Geomatics
-• Managing the Explosion of Spatial Data: How Open Data Can Help Structure Data for Government and Enterprises | GWF 2025
+🌐 AI News
+• The Download: talking dirty with DeepSeek, and the risks and rewards of calorie restriction
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. It’s pretty easy to get DeepSeek to talk dirty AI companions like Replika are designed to engage in intimate exchanges, but people use general-purp...
+  [MIT Technology Review, Fri, 20 Jun 2025]
+• How a 30-year-old techno-thriller predicted our digital isolation
+  In April, Mark Zuckerberg, as tech billionaires are so fond of doing these days, pontificated at punishing length on a podcast. In the interview, he addressed America’s loneliness epidemic: “The average American has—I think it’s fewer than three friends. And the average person has demand for mean...
+  [MIT Technology Review, Fri, 20 Jun 2025]
+• Calorie restriction can help animals live longer. What about humans?
+  Living comes with a side effect: aging. Despite what you might hear on social media or in advertisements, there are no drugs that are known to slow or reverse human aging. But there’s some evidence to support another approach: cutting back on calories. Caloric restriction (reducing your intake of...
+  [MIT Technology Review, Fri, 20 Jun 2025]
+• It’s pretty easy to get DeepSeek to talk dirty
+  AI companions like Replika are designed to engage in intimate exchanges, but people use general-purpose chatbots for sex talk too, despite their stricter content moderation policies. Now new research shows that not all chatbots are equally willing to talk dirty: DeepSeek is the easiest to convinc...
+  [MIT Technology Review, Thu, 19 Jun 2025]
+• The Download: future grids, and bad boy bots
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Before we embark on our usual programming we’re thrilled to share that The Download won Best Technology Newsletter at this year&#8217;s Publisher N...
+  [MIT Technology Review, Thu, 19 Jun 2025]
 
 — End of briefing —
