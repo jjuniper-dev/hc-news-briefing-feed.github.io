@@ -4,11 +4,13 @@ import feedparser
 import re
 from datetime import datetime, timedelta
 from http.client import RemoteDisconnected
+from transformers import pipeline
 
 # --- CONFIG ---
 DAYS_BACK = 3
 CUT_OFF = datetime.now() - timedelta(days=DAYS_BACK)
 
+# Ordered sections with their RSS feeds
 GROUPED_FEEDS = {
     "Weather": [
         "https://weather.gc.ca/rss/city/on-131_e.xml"
@@ -17,13 +19,13 @@ GROUPED_FEEDS = {
         "https://rss.cbc.ca/lineup/canada.xml"
     ],
     "Canadian CTV": [
-        "https://www.theglobeandmail.com/canada/toronto/feed/"
+        "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.2170494"
     ],
     "U.S.": [
         "https://feeds.npr.org/1001/rss.xml"
     ],
     "International": [
-        "http://feeds.reuters.com/Reuters/worldNews"
+        "https://feeds.reuters.com/Reuters/worldNews"
     ],
     "Public Health": [
         "https://www.canada.ca/etc/+/health/public-health-updates.rss"
@@ -42,6 +44,10 @@ GROUPED_FEEDS = {
     ]
 }
 
+# Initialize summarizer once
+summarizer = pipeline("summarization")
+
+
 def safe_parse(url):
     try:
         return feedparser.parse(url)
@@ -52,21 +58,36 @@ def safe_parse(url):
         print(f"Warning: failed to parse {url}: {e}")
         return feedparser.FeedParserDict(entries=[])
 
+
 def strip_tags(html: str) -> str:
     return re.sub(r'<[^>]+>', '', html or '')
+
 
 def get_weather_summary():
     feed = safe_parse(GROUPED_FEEDS["Weather"][0])
     if not feed.entries:
         return "Ottawa Weather data unavailable."
-    # Assume first entry = Tonight, second = Tomorrow
-    tonight = strip_tags(feed.entries[0].title)
-    tomorrow = strip_tags(feed.entries[1].title) if len(feed.entries) > 1 else ""
+    tonight = tomorrow = None
+    # Search entries for Tonight/Tomorrow keywords
+    for e in feed.entries[:5]:
+        title = strip_tags(e.title or "")
+        if "Tonight" in title:
+            tonight = title
+        elif any(k in title for k in ["Tomorrow", "High"]):
+            tomorrow = title
+        if tonight and tomorrow:
+            break
+    # Fallbacks
+    if not tonight and feed.entries:
+        tonight = strip_tags(feed.entries[0].title)
+    if not tomorrow and len(feed.entries) > 1:
+        tomorrow = strip_tags(feed.entries[1].title)
     header = f"Ottawa Weather – {datetime.now():%B %d, %Y}"
     lines = [header, f"• Tonight: {tonight}"]
     if tomorrow:
         lines.append(f"• Tomorrow: {tomorrow}")
     return "\n".join(lines)
+
 
 def collect_briefing():
     parts = []
@@ -101,8 +122,13 @@ def collect_briefing():
     parts.append("")
 
     # 5. Special Sections (headline-only, one each)
-    for section in ["Public Health", "AI & Emerging Tech", "Cybersecurity & Privacy",
-                    "Enterprise Architecture & IT Governance", "Geomatics"]:
+    for section in [
+        "Public Health",
+        "AI & Emerging Tech",
+        "Cybersecurity & Privacy",
+        "Enterprise Architecture & IT Governance",
+        "Geomatics"
+    ]:
         feed = safe_parse(GROUPED_FEEDS[section][0])
         if feed.entries:
             parts.append(section)
@@ -111,6 +137,7 @@ def collect_briefing():
 
     parts.append("— End of briefing —")
     return "\n".join(parts)
+
 
 if __name__ == "__main__":
     try:
