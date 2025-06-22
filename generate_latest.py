@@ -24,7 +24,7 @@ GROUPED_FEEDS = {
     ],
     "International": [
         "https://feeds.reuters.com/Reuters/worldNews",
-        "https://feeds.bbci.co.uk/news/world/rss.xml"
+        "http://feeds.bbci.co.uk/news/world/rss.xml"
     ],
     "Public Health": [
         "https://www.canada.ca/etc/+/health/public-health-updates.rss"
@@ -46,26 +46,13 @@ GROUPED_FEEDS = {
 
 def safe_parse(url):
     try:
-        feed = feedparser.parse(url)
-        if getattr(feed, 'bozo', False):
-            print(f"Warning: malformed feed at {url}, bozo_exception={feed.get('bozo_exception')}")
-        return feed
+        return feedparser.parse(url)
     except RemoteDisconnected:
         print(f"Warning: disconnected from {url}")
         return feedparser.FeedParserDict(entries=[])
     except Exception as e:
         print(f"Warning: failed to parse {url}: {e}")
         return feedparser.FeedParserDict(entries=[])
-
-
-def get_first_entries(key, count=2):
-    # Try each URL until we get entries
-    for url in GROUPED_FEEDS[key]:
-        feed = safe_parse(url)
-        if feed.entries:
-            return feed.entries[:count]
-    print(f"Warning: no entries found for {key}")
-    return []
 
 
 def strip_tags(html: str) -> str:
@@ -97,45 +84,49 @@ def get_weather_summary():
 def collect_briefing():
     parts = []
 
-    # 1. Weather
+    # Weather
     parts.append(get_weather_summary())
     parts.append("")
 
-    # 2. Canadian Headlines
+    # Canadian Headlines
     parts.append(f"Canadian Headlines – {datetime.now():%B %d, %Y}")
     for label, key in [("CBC", "Canadian CBC"), ("CTV", "Canadian CTV")]:
-        entries = get_first_entries(key, count=2)
-        for e in entries:
+        feed = safe_parse(GROUPED_FEEDS[key][0])
+        for e in feed.entries[:2]:
             date = ""
             if 'published_parsed' in e:
                 date = datetime(*e.published_parsed[:6]).strftime("%b %d")
             parts.append(f"• {label}: {e.title.strip()} ({date})")
     parts.append("")
 
-    # 3. U.S. Top Stories
+    # U.S. Top Stories
     parts.append("U.S. Top Stories")
-    for e in get_first_entries("U.S.", count=2):
+    us = safe_parse(GROUPED_FEEDS["U.S."][0])
+    for e in us.entries[:2]:
         parts.append(f"• {e.title.strip()}")
     parts.append("")
 
-    # 4. International Top Stories
+    # International Top Stories
     parts.append("International Top Stories")
-    for e in get_first_entries("International", count=2):
-        parts.append(f"• {e.title.strip()}")
+    for url in GROUPED_FEEDS["International"]:
+        feed = safe_parse(url)
+        if feed.entries:
+            for e in feed.entries[:2]:
+                parts.append(f"• {e.title.strip()}")
+            break
     parts.append("")
 
-    # 5. Special Sections
+    # Special Sections
     for section in ["Public Health", "AI & Emerging Tech", "Cybersecurity & Privacy",
                     "Enterprise Architecture & IT Governance", "Geomatics"]:
-        entries = get_first_entries(section, count=1)
-        if entries:
+        feed = safe_parse(GROUPED_FEEDS[section][0])
+        if feed.entries:
             parts.append(section)
-            parts.append(f"• {entries[0].title.strip()}")
+            parts.append(f"• {feed.entries[0].title.strip()}")
             parts.append("")
 
     parts.append("— End of briefing —")
     return "\n".join(parts)
-
 
 if __name__ == "__main__":
     try:
@@ -150,6 +141,3 @@ if __name__ == "__main__":
             f.write("⚠️ Daily briefing failed to generate.\n")
             f.write(msg + "\n")
         exit(0)
-```  
-
-This version tries each feed URL until it finds entries, adds fallback BBC for international, and logs warnings if none found. Copy it into `generate_latest.py` and rerun—your Canadian and International sections should now always populate correctly.
