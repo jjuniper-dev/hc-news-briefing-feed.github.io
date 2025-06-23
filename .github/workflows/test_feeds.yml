@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser requests
+          pip install feedparser requests dawidd6-action-send-mail
 
       - name: Health-check CBC & CTV
         id: health
@@ -69,4 +69,3 @@ jobs:
             Check the Actions log for details: ${{ github.run_url }}
           to: spatialsensation@gmail.com
           from: "RSS Health Bot" <spatialsensation@gmail.com>
-          secure: true
