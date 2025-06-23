@@ -2,37 +2,41 @@ name: Daily RSS Feed Health Check
 
 on:
   schedule:
-    # daily at 6 AM Eastern (10 UTC)
+    # Runs daily at 6:00 AM Eastern (10:00 UTC)
     - cron: '0 10 * * *'
   workflow_dispatch:
 
 jobs:
   health-check:
+    name: Ping & report RSS feeds
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: 📥 Checkout repo
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: 🐍 Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install deps
+      - name: 📦 Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install feedparser requests
 
-      - name: Run feed health check
+      - name: 🔗 Run feed health check
         id: health
         run: |
           python - << 'EOF'
-import sys, json, feedparser, requests
+import json, feedparser, requests
 
 feeds = {
   "CBC Top Stories": "https://rss.cbc.ca/lineup/topstories.xml",
-  "CTV Canada":      "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"
+  "CTV Canada":      "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050",
+  "NPR US":          "https://feeds.npr.org/1001/rss.xml",
+  "Reuters World":   "https://feeds.reuters.com/Reuters/worldNews",
+  "BBC World":       "http://feeds.bbci.co.uk/news/world/rss.xml",
 }
 
 results = {}
@@ -48,15 +52,15 @@ for name, url in feeds.items():
 print("feed_status<<EOF")
 print(json.dumps(results))
 print("EOF")
-          EOF
+EOF
 
-      - name: Fail if any bad
+      - name: ❌ Fail on any error/zero
         if: ${{ contains(steps.health.outputs.feed_status, 'ERROR') || contains(steps.health.outputs.feed_status, 'ZERO') }}
         run: |
-          echo "❌ Some feeds failed:"
+          echo "One or more feeds failed health checks:"
           echo "${{ steps.health.outputs.feed_status }}"
           exit 1
 
-      - name: All good
+      - name: ✅ All feeds healthy
         if: ${{ !contains(steps.health.outputs.feed_status, 'ERROR') && !contains(steps.health.outputs.feed_status, 'ZERO') }}
-        run: echo "✅ All healthy: ${{ steps.health.outputs.feed_status }}"
+        run: echo "All feeds are healthy: ${{ steps.health.outputs.feed_status }}"
