@@ -1,56 +1,3 @@
-name: Daily RSS Feed Health Check
-
-on:
-  schedule:
-    # Runs daily at 6:00 AM Eastern Time (10:00 UTC)
-    - cron: '0 10 * * *'
-  workflow_dispatch:
-
-jobs:
-  health-check-all-feeds:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
-
-      - name: Install Python dependencies
-        run: pip install feedparser requests
-
-      - name: Test all RSS feeds
-        id: health
-        run: |
-          python3 - << 'EOF'
-          import os, feedparser, requests, json
-
-          feeds = {
-            "CBC Top Stories":      "https://rss.cbc.ca/lineup/topstories.xml",
-            "CTV Canada":           "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050",
-            "NPR US":               "https://feeds.npr.org/1001/rss.xml",
-            "Reuters World":        "https://feeds.reuters.com/Reuters/worldNews",
-            "BBC World":            "http://feeds.bbci.co.uk/news/world/rss.xml",
-            "Public Health":        "https://www.canada.ca/etc/+/health/public-health-updates.rss",
-            "AI & Emerging Tech":   "https://feeds.arstechnica.com/arstechnica/technology-policy",
-            "Cybersecurity":        "https://krebsonsecurity.com/feed/",
-            "Enterprise Arch":      "https://www.opengroup.org/news/rss",
-            "Geomatics":            "https://www.geospatialworld.net/feed/"
-          }
-
-          results = {}
-          for name, url in feeds.items():
-              try:
-                  r = requests.get(url, timeout=20); r.raise_for_status()
-                  cnt = len(feedparser.parse(r.content).entries)
-                  results[name] = f"{cnt} items" if cnt else "ZERO"
-              except Exception as e:
-                  results[name] = f"ERROR: {type(e).__name__}"
-
-          # Export as a GH Actions output
-          out = json.dumps(results)
-          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
-              f.write(f"feed_status={out}\n")
-          EOF
-
       - name: Persist health.json
         env:
           FEED_STATUS: ${{ steps.health.outputs.feed_status }}
@@ -61,41 +8,19 @@ jobs:
 
           feed_status = json.loads(os.environ['FEED_STATUS'])
           path = 'health.json'
+
+          # Try loading existing data; if missing or invalid, start fresh
           try:
-              data = json.load(open(path))
-          except FileNotFoundError:
+              with open(path, 'r') as f:
+                  data = json.load(f)
+          except (FileNotFoundError, json.JSONDecodeError):
               data = {}
+
+          # Record today’s snapshot
           today = datetime.now().strftime('%Y-%m-%d')
           data[today] = feed_status
+
+          # Write back
           with open(path, 'w') as f:
               json.dump(data, f, indent=2)
           EOF
-
-      - name: Commit and push health.json
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add health.json
-          git commit -m "Auto-update health.json for $(date +'%Y-%m-%d')" || echo "No changes to commit"
-          git push
-
-      - name: Email daily summary
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.gmail.com
-          server_port: 465
-          secure: true
-          username: ${{ secrets.SMTP_USERNAME }}
-          password: ${{ secrets.SMTP_PASSWORD }}
-          from: "RSS Health Bot <spatialsensation@gmail.com>"
-          to: spatialsensation@gmail.com
-          subject: "📫 RSS Feed Health – ${{ github.run_date }}"
-          body: |
-            Here’s today’s RSS‐feed health report:
-
-            ${{ steps.health.outputs.feed_status }}
-
-            You can also view the historical log at:
-            https://<your-username>.github.io/<repo>/health.json
-
-            See the full run here: ${{ github.run_url }}
