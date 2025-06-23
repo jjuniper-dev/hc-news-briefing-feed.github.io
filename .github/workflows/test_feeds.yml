@@ -14,30 +14,25 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v3
         with:
-          persist-credentials: true  # needed for later commits
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      - name: Install dependencies (if any)
+      - name: Install required packages
         run: |
-          if [ -f requirements.txt ]; then
-            echo "requirements.txt found, installing…"
-            pip install -r requirements.txt
-          else
-            echo "No requirements.txt—skipping install."
-          fi
+          # Only install what our test script needs
+          pip install pyyaml requests
 
       - name: List repository files for debugging
         run: |
-          echo "Workspace files:" 
+          echo "Workspace files:"
           ls -R .
 
       - name: Run feed-test suite
         run: |
-          # Attempt to locate and run the test script
           if [ -f test_feeds.py ]; then
             python test_feeds.py
           elif [ -f scripts/test_feeds.py ]; then
