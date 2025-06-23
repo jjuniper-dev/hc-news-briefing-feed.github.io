@@ -1,10 +1,13 @@
-name: Test RSS Feeds
+name: Daily Feed Health Check
 
 on:
+  schedule:
+    # Runs daily at 6:00 AM Eastern Time (10:00 UTC)
+    - cron: '0 10 * * *'
   workflow_dispatch:
 
 jobs:
-  test-feeds:
+  ping-canadian-feeds:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,27 +22,37 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser requests
 
-      - name: Run feed test script
+      - name: Test Canadian feeds
+        id: test_canada
         run: |
-          python - << 'EOF'
-          import feedparser
-          import requests
+          import sys, feedparser, requests
 
           feeds = {
-              "CBC Canada":      "https://rss.cbc.ca/lineup/canada.xml",
-              "CTV Top Stories": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.2170494",
-              "Reuters World":   "https://feeds.reuters.com/Reuters/worldNews",
-              "BBC World":       "http://feeds.bbci.co.uk/news/world/rss.xml"
+              "CBC Canada":   "https://www.cbc.ca/cmlink/rss-topstories",
+              "CTV Top News": "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.796439",
           }
 
+          failed = []
           for name, url in feeds.items():
               try:
-                  resp = requests.get(url, timeout=10)
+                  resp = requests.get(url, timeout=20)
                   resp.raise_for_status()
                   feed = feedparser.parse(resp.content)
-                  count = len(feed.entries)
-                  first = feed.entries[0].title if count else "(no entries)"
-                  print(f"{name}: {count} entries → {first}")
+                  if not feed.entries:
+                      print(f"❌ {name}: 0 entries")
+                      failed.append(name)
+                  else:
+                      print(f"✔️ {name}: {len(feed.entries)} entries")
               except Exception as e:
-                  print(f"{name}: ERROR → {e}")
-          EOF
+                  print(f"❌ {name}: ERROR → {e}")
+                  failed.append(name)
+
+          if failed:
+              sys.exit(f"Feeds failing: {', '.join(failed)}")
+
+      # Optional: send email or Slack on failure
+      - name: Notify on failure
+        if: failure()
+        run: |
+          echo "One or more Canadian feeds failed. Check the Actions log for details." 
+          # Here you could call curl to a Slack webhook or similar
