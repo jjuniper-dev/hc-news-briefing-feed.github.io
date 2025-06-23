@@ -1,0 +1,38 @@
+{
+  "2025-06-21": {
+    "CBC Top Stories": "18 items",
+    "CTV Canada": "ZERO",
+    "NPR US": "15 items",
+    "Reuters World": "20 items",
+    "BBC World": "22 items",
+    "Public Health": "ERROR: ReadTimeout",
+    "AI & Emerging Tech": "12 items",
+    "Cybersecurity": "10 items",
+    "Enterprise Arch": "8 items",
+    "Geomatics": "5 items"
+  },
+  "2025-06-22": {
+    "CBC Top Stories": "ZERO",
+    "CTV Canada": "ERROR: HTTPError",
+    "NPR US": "14 items",
+    "Reuters World": "19 items",
+    "BBC World": "21 items",
+    "Public Health": "3 items",
+    "AI & Emerging Tech": "11 items",
+    "Cybersecurity": "9 items",
+    "Enterprise Arch": "8 items",
+    "Geomatics": "4 items"
+  },
+  "2025-06-23": {
+    "CBC Top Stories": "ZERO",
+    "CTV Canada": "ERROR: ReadTimeout",
+    "NPR US": "16 items",
+    "Reuters World": "21 items",
+    "BBC World": "23 items",
+    "Public Health": "4 items",
+    "AI & Emerging Tech": "13 items",
+    "Cybersecurity": "11 items",
+    "Enterprise Arch": "9 items",
+    "Geomatics": "6 items"
+  }
+}
