@@ -1,107 +1,117 @@
 #!/usr/bin/env python3
-import sys
-import requests
-import feedparser
-import xml.etree.ElementTree as ET
+import requests, feedparser
 from datetime import datetime
 
-# CONFIG
+# ---- CONFIG ----
+# Weather: Environment Canada RSS for Ottawa
 WEATHER_FEED = "https://dd.weather.gc.ca/rss/city/on-118_e.xml"
-SECTIONS = {
-    "CANADIAN NEWS": [
+
+# Section → list of RSS URLs (try each until we get enough entries)
+FEEDS = {
+    "Canadian News": [
         "https://rss.cbc.ca/lineup/topstories.xml",
         "https://www.cbc.ca/cmlink/rss-canada",
-        "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"
+        "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.796439"
     ],
-    "US NEWS": [
+    "US News": [
         "https://feeds.npr.org/1001/rss.xml",
         "https://rss.cnn.com/rss/edition_us.rss"
     ],
-    "INTERNATIONAL NEWS": [
+    "International News": [
         "https://feeds.reuters.com/Reuters/worldNews",
         "http://feeds.bbci.co.uk/news/world/rss.xml"
     ],
-    "PUBLIC HEALTH": [
-        "https://www.canada.ca/etc/+/health/public-health-updates.rss",
-        "https://www.who.int/feeds/entity/csr/don/en/rss.xml"
+    "Public Health": [
+        "https://www.canada.ca/etc/+/health/public-health-updates.rss"
     ],
-    "AI & EMERGING TECH": [
+    "AI & Emerging Tech": [
         "https://feeds.arstechnica.com/arstechnica/technology-policy",
-        "https://www.technologyreview.com/feed/",
-        "https://spectrum.ieee.org/rss/robotics"
+        "https://www.technologyreview.com/feed/"
     ],
-    "CYBERSECURITY & PRIVACY": [
+    "Cybersecurity & Privacy": [
         "https://krebsonsecurity.com/feed/",
         "https://feeds.feedburner.com/TheHackersNews"
     ],
-    "ENTERPRISE ARCHITECTURE": [
-        "https://www.opengroup.org/news/rss",
-        "https://www.gartner.com/en/newsroom/rss"
+    "Enterprise Architecture": [
+        "https://www.opengroup.org/news/rss"
     ],
-    "GEOMATICS": [
-        "https://www.geospatialworld.net/feed/",
-        "https://spatialnews.xyz/feed/"
+    "Geomatics": [
+        "https://www.geospatialworld.net/feed/"
     ],
-    "CLOUD PROVIDERS": [
-        "https://azure.microsoft.com/en-us/blog/feed/",
+    "Cloud Providers": [
+        "https://azure.microsoft.com/en-us/updates/feed/",
         "https://aws.amazon.com/new/feed/",
-        "https://cloud.google.com/blog/rss/"
+        "https://cloud.google.com/feeds/news.rss"
     ]
 }
 
-def fetch_weather():
-    header = f"Ottawa Weather – {datetime.now():%B %d, %Y}"
+# How many top entries per section
+TOP_N = 2
+
+# ---- HELPERS ----
+def fetch_feed_entries(url):
     try:
-        r = requests.get(WEATHER_FEED, timeout=10)
+        r = requests.get(url, timeout=10)
         r.raise_for_status()
-        root = ET.fromstring(r.content)
+        return feedparser.parse(r.content).entries
+    except:
+        return []
 
-        summary = root.findtext(".//currentConditions/textSummary", "").strip()
-        lines = [header, f"• Now: {summary or '(unavailable)'}"]
-
-        forecasts = root.findall(".//forecastGroup/forecast")[:2]
-        for f in forecasts:
-            period = f.findtext("period", "").strip()
-            desc   = f.findtext("textForecast", "").strip()
-            lines.append(f"• {period}: {desc or '(unavailable)'}")
-
-        return "\n".join(lines)
-
-    except Exception:
-        return header + "\n• (weather data unavailable)"
-
-def get_section(name, urls, n=2):
-    """Try each URL until we get entries, then take top n."""
-    items = []
+def pick_entries(urls, n=TOP_N):
+    """Try each feed URL until we collect n entries."""
     for url in urls:
-        try:
-            feed = feedparser.parse(requests.get(url, timeout=10).content)
-            if feed.entries:
-                for e in feed.entries[:n]:
-                    date = ""
-                    if getattr(e, "published_parsed", None):
-                        date = datetime(*e.published_parsed[:6]).strftime("%b %d, %Y")
-                    src = e.get("source", {}).get("title") or url.split("/")[2]
-                    summary = (e.content[0].value if getattr(e, "content", None) else e.get("summary","")).strip()
-                    items.append(f"• {e.title}\n  {summary} {{{date} ({src})}}")
-                break
-        except Exception:
-            continue
-    if not items:
-        items = [f"• (unavailable)"]
-    return f"\n{name}\n" + "\n".join(items)
+        entries = fetch_feed_entries(url)
+        if len(entries) >= n:
+            return entries[:n]
+    # fallback: whatever we got from first feed
+    return fetch_feed_entries(urls[0])[:n]
 
-def main():
-    parts = []
-    parts.append(fetch_weather())
+def format_item(e):
+    title = e.get("title", "").strip()
+    date = ""
+    if "published_parsed" in e and e.published_parsed:
+        date = datetime(*e.published_parsed[:6]).strftime("%b %d, %Y")
+    source = e.get("link", "").split("/")[2]
+    summary = (e.get("content", [{}])[0].get("value") 
+               if e.get("content") else e.get("summary", ""))
+    summary = summary.replace("\n", " ").strip()
+    return f"• {title}\n  {summary} {{{date} ({source})}}"
 
-    for section, urls in SECTIONS.items():
-        parts.append(get_section(section, urls))
+def fetch_weather():
+    e = fetch_feed_entries(WEATHER_FEED)
+    if not e:
+        return ["(no weather data)"]
+    today, tomorrow, day3 = e[0], e[1] if len(e)>1 else None, e[2] if len(e)>2 else None
+    out = [f"{today.title}: {today.summary.strip()}"]
+    if tomorrow:
+        out.append(f"{tomorrow.title}: {tomorrow.summary.strip()}")
+    if day3:
+        out.append(f"{day3.title}: {day3.summary.strip()}")
+    return out
 
-    parts.append("\n— End of briefing —")
-    with open("latest.txt", "w", encoding="utf-8") as f:
-        f.write("\n\n".join(parts))
-    print("latest.txt written.")
+# ---- BUILD ----
+lines = []
+now = datetime.now().strftime("%B %d, %Y %H:%M")
+lines.append(f"Morning News Briefing – {now}\n")
+lines.append("WEATHER:")
+for w in fetch_weather():
+    lines.append(f"• {w}")
+lines.append("")
 
-if __name__=="__main__":
-    main()
+for section, urls in FEEDS.items():
+    lines.append(f"{section.upper()}:")
+    entries = pick_entries(urls, TOP_N)
+    if not entries:
+        lines.append("• (no data available)\n")
+        continue
+    for e in entries:
+        lines.append(format_item(e))
+    lines.append("")  # blank line
+
+lines.append("— End of briefing —")
+
+# ---- WRITE OUT ----
+with open("latest.txt", "w", encoding="utf-8") as f:
+    f.write("\n".join(lines))
+
+print("latest.txt updated.")
