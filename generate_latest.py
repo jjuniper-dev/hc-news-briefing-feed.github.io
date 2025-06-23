@@ -2,130 +2,115 @@
 """
 generate_latest.py
 
-Fetches multiple RSS/Atom feeds (weather, news, etc.), compiles a daily briefing,
-and writes it to latest.txt.
+Fetch RSS/Atom feeds for weather, news, and specialty topics,
+compose a plain-text briefing, and write to latest.txt.
 """
-import os
-import re
-import requests
+
 import feedparser
 from datetime import datetime
-from dateutil import tz
+import sys
 
-# --- CONFIGURATION ---
-# Output file
-OUTPUT_FILE = 'latest.txt'
+# === Configuration ===
 
-# Weather feed for Ottawa (Environment Canada)
-WEATHER_FEED = 'https://dd.weather.gc.ca/rss/city/on-118_e.xml'
-WEATHER_DAYS = 3  # today + next two days
-
-# News feeds organized by section
-NEWS_FEEDS = {
-    'Canadian Headlines': [
-        ('CBC', 'https://rss.cbc.ca/lineup/topstories.xml'),
-        ('CTV', 'https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050'),
-    ],
-    'U.S. Top Stories': [
-        ('NPR US', 'https://feeds.npr.org/1001/rss.xml'),
-        ('Reuters US', 'https://feeds.reuters.com/Reuters/domesticNews'),
-    ],
-    'International Top Stories': [
-        ('Reuters World', 'https://feeds.reuters.com/Reuters/worldNews'),
-        ('BBC World', 'http://feeds.bbci.co.uk/news/world/rss.xml'),
-    ],
-    'AI & Emerging Tech': [
-        ('Ars Technica', 'https://feeds.arstechnica.com/arstechnica/technology-policy'),
-        ('The Register', 'https://www.theregister.com/headlines.atom'),
-        ('TechCrunch AI', 'http://feeds.feedburner.com/TechCrunch/ai'),
-    ],
-    'Public Health': [
-        ('PHAC News', 'https://www.canada.ca/etc/+/health/public-health-updates.rss'),
-    ],
-    'Enterprise Architecture & IT Governance': [
-        ('Open Group', 'https://www.opengroup.org/news/rss'),
-    ],
-    'Geomatics': [
-        ('GeoSpatial World', 'https://www.geospatialworld.net/feed/'),
-    ],
+FEEDS = {
+    "Ottawa Weather":       "https://weather.gc.ca/rss/city/on-118_e.xml",
+    "CBC Canada":           "https://www.cbc.ca/cmlink/rss-canada",
+    "CTV News Canada":      "https://www.ctvnews.ca/rss/ctvnews-ca-canada-public-rss-1.822678",
+    "NPR US Top Stories":   "https://feeds.npr.org/1001/rss.xml",
+    "Reuters US":           "https://www.reuters.com/rssFeed/usaNews",
+    "Reuters World":        "https://www.reuters.com/rssFeed/worldNews",
+    "BBC World":            "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "Ars Technica Tech Policy": "https://feeds.arstechnica.com/arstechnica/technology-policy",
+    "The Register AI & Tech":    "https://www.theregister.com/headlines.rss",
+    "TechCrunch":           "http://feeds.feedburner.com/TechCrunch/",
+    "Open Group EA News":   "https://public.opengroup.org/open_group_rss.xml",
+    "GWF - Geomatics 1":    "https://geospatialworld.net/feed/",
+    # Add any other specialty feeds here…
 }
 
-# Utility to strip HTML tags
-TAG_RE = re.compile(r'<[^>]+>')
-def clean_html(raw):
-    return TAG_RE.sub('', raw).strip()
+# Control how many items per section
+MAX_ITEMS_PER_SECTION = 5
 
-# Fetch and parse feed with requests
-def fetch_feed(url):
-    resp = requests.get(url, timeout=20)
-    resp.raise_for_status()
-    return feedparser.parse(resp.content)
+# Output file
+OUTPUT_FILE = "latest.txt"
 
-# Generate weather section
-def get_weather_section():
+# === Helper functions ===
+
+def fetch_feed(name, url):
+    """
+    Attempt to parse the feed; on error, return None and log to stderr.
+    """
     try:
-        feed = fetch_feed(WEATHER_FEED)
-        entries = feed.entries[:WEATHER_DAYS]
+        feed = feedparser.parse(url)
+        if feed.bozo:
+            raise feed.bozo_exception
+        return feed
     except Exception as e:
-        return f"Ottawa Weather – Error fetching forecast: {e}\n"
+        print(f"• {name}: Error fetching feed ({e})", file=sys.stderr)
+        return None
 
-    # Convert times to local
-    now = datetime.now(tz.tzlocal())
-    header = f"Ottawa Weather – {now.strftime('%B %d, %Y')}"
-    lines = [header]
-    for entry in entries:
-        title = entry.get('title', '').strip()
-        summary = clean_html(entry.get('summary', ''))
-        lines.append(f"• {title}: {summary}")
-    return "\n".join(lines)
+def format_entries(entries, max_items=MAX_ITEMS_PER_SECTION):
+    """
+    Given a list of feed entries, return up to `max_items` formatted strings.
+    """
+    lines = []
+    for entry in entries[:max_items]:
+        title = entry.get("title", "No title")
+        # Some feeds use 'published', some 'updated'
+        date = entry.get("published", entry.get("updated", ""))
+        source = entry.get("link", "")
+        lines.append(f"• {title}\n  {date} ({source})")
+    return lines
 
-# Format a feed entry
-def format_entry(entry):
-    title = entry.get('title', '').strip()
-    # Prefer content over summary
-    content = ''
-    if 'content' in entry and entry.content:
-        content = clean_html(entry.content[0].value)
-    else:
-        content = clean_html(entry.get('summary', ''))
-    # Published date
-    pub = ''
-    if 'published_parsed' in entry and entry.published_parsed:
-        pub = datetime(*entry.published_parsed[:6]).strftime('%B %d, %Y')
-    # Source domain
-    src = entry.get('source', {}).get('title') or entry.link.split('/')[2]
-    return f"• {title}\n  {content} {{{pub} ({src})}}"
+# === Main composition ===
 
-# Generate news sections
-def get_news_sections():
+def compose_briefing():
+    now = datetime.now().strftime("%A, %B %d, %Y %H:%M")
     sections = []
-    for section, feeds in NEWS_FEEDS.items():
-        lines = [f"{section}"]
-        for name, url in feeds:
-            try:
-                feed = fetch_feed(url)
-                for entry in feed.entries[:2]:
-                    lines.append(format_entry(entry))
-            except Exception as e:
-                lines.append(f"• {name}: Error fetching feed ({e})")
-        sections.append("\n".join(lines))
-    return sections
+    
+    # Header
+    sections.append(f"Multi-Source News Briefing – {now}\n")
 
-# Main
-if __name__ == '__main__':
-    all_sections = []
-    # Weather first
-    all_sections.append(get_weather_section())
-    all_sections.append('')
-    # News
-    news = get_news_sections()
-    for sec in news:
-        all_sections.append(sec)
-        all_sections.append('')
-    all_sections.append('-- End of briefing --')
+    # Iterate through the configured feeds, grouping by logical sections
+    # You can rearrange or rename these as desired.
+    grouping = [
+        ("Weather", ["Ottawa Weather"]),
+        ("Canadian Headlines", ["CBC Canada", "CTV News Canada"]),
+        ("U.S. Top Stories",    ["NPR US Top Stories", "Reuters US"]),
+        ("International Top Stories", ["Reuters World", "BBC World"]),
+        ("AI & Emerging Tech",  ["Ars Technica Tech Policy", "The Register AI & Tech", "TechCrunch"]),
+        ("Public Health",       []),  # add feeds here once available
+        ("Enterprise Architecture & IT Governance", ["Open Group EA News"]),
+        ("Geomatics",           ["GWF - Geomatics 1"]),
+    ]
 
-    # Write to file
-    content = "\n".join(all_sections)
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        f.write(content)
-    print(f"Written daily briefing to {OUTPUT_FILE}")
+    for section_title, feed_names in grouping:
+        sections.append(f"=== {section_title} ===")
+        any_items = False
+        for name in feed_names:
+            url = FEEDS.get(name)
+            if not url:
+                continue
+            feed = fetch_feed(name, url)
+            if not feed or not feed.entries:
+                continue
+            entries = format_entries(feed.entries)
+            if entries:
+                any_items = True
+                sections.append(f"\n-- {name} --")
+                sections.extend(entries)
+        if not any_items:
+            sections.append("No items available or all feeds failed.\n")
+        else:
+            sections.append("")  # blank line
+
+    return "\n".join(sections)
+
+def write_output(text, filename=OUTPUT_FILE):
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write(text)
+    print(f"Wrote briefing to {filename}")
+
+if __name__ == "__main__":
+    briefing = compose_briefing()
+    write_output(briefing)
