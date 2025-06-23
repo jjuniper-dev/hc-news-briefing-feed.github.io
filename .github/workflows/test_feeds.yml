@@ -1,17 +1,63 @@
-name: Daily RSS Feed Health Check
+steps:
+  - name: Check out repository
+    uses: actions/checkout@v4
 
-on:
-  schedule:
-    - cron: '0 10 * * *'
-  workflow_dispatch:
+  - name: Set up Python
+    uses: actions/setup-python@v5
+    with:
+      python-version: '3.x'
 
-jobs:
-  health-check:
-    runs-on: ubuntu-latest
+  - name: Install dependencies
+    run: |
+      python -m pip install --upgrade pip
+      pip install feedparser requests
 
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+  - name: Test Canadian feeds
+    id: health
+    run: |
+      python - << 'EOF'
+      import sys, feedparser, requests, json
 
-      - name: Quick sanity check
-        run: echo "✅ Workflow is recognized and running on $(date)"
+      # Fallback lists for Canadian sections
+      canadian_feeds = [
+        ("CBC Top Stories", "https://rss.cbc.ca/lineup/topstories.xml"),
+        ("CBC Canada",      "https://rss.cbc.ca/lineup/canada.xml"),
+        ("CTV Top Stories", "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.2170494"),
+        ("CTV Canada",      "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050")
+      ]
+      results = {}
+      for name, url in canadian_feeds:
+          try:
+              r = requests.get(url, timeout=15)
+              r.raise_for_status()
+              feed = feedparser.parse(r.content)
+              count = len(feed.entries)
+              if count:
+                  results[name] = f"{count} items"
+                  break  # stop at first successful feed
+              else:
+                  results[name] = "ZERO"
+          except Exception as e:
+              results[name] = f"ERROR: {type(e).__name__}"
+      # Export consolidated status
+      print("::set-output name=feed_status::" + json.dumps(results))
+      EOF
+
+  - name: Notify on failure
+    if: failure()
+    uses: dawidd6/action-send-mail@v3
+    with:
+      server_address: smtp.gmail.com
+      server_port: 465
+      username: ${{ secrets.SMTP_USERNAME }}
+      password: ${{ secrets.SMTP_PASSWORD }}
+      secure: true
+      from: "RSS Health Bot <spatialsensation@gmail.com>"
+      to: spatialsensation@gmail.com
+      subject: "🔴 Canadian RSS Feed Health – Failure on ${{ github.run_date }}"
+      body: |
+        One or more Canadian RSS feeds failed health checks:
+
+        ${{ steps.health.outputs.feed_status }}
+
+        See: ${{ github.run_url }}
