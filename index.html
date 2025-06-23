@@ -2,61 +2,49 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <title>RSS Feed Health Dashboard</title>
   <style>
-    body { font-family: Arial, sans-serif; margin: 2rem; }
-    h1 { margin-bottom: 1rem; }
+    body { font-family: sans-serif; margin: 2rem; }
     table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
-    th, td { padding: 0.5rem; border: 1px solid #ddd; text-align: left; }
-    th { background: #f4f4f4; }
-    .ok { color: green; }
-    .zero { color: orange; }
-    .error { color: red; }
+    th, td { border: 1px solid #ccc; padding: 0.5rem; text-align: left; }
+    th { background: #f0f0f0; }
+    .good { color: green; }
+    .warn { color: orange; }
+    .bad  { color: red; }
   </style>
 </head>
 <body>
   <h1>RSS Feed Health Dashboard</h1>
-  <p>Shows current health status and historical uptime ranking for each feed.</p>
-  <table id="feed-table">
+  <p>Showing status for the last five days (hover for details).</p>
+  <table id="health-table">
     <thead>
-      <tr>
-        <th>Feed Name</th>
-        <th>Status</th>
-        <th>Last Checked</th>
-        <th>Uptime % (Last 30 days)</th>
-      </tr>
+      <tr><th>Date</th><th>Feed</th><th>Status</th></tr>
     </thead>
     <tbody></tbody>
   </table>
 
   <script>
-    // Fetch the health JSON (generated daily as health.json)
-    fetch('health.json')
-      .then(r => r.json())
-      .then(data => {
-        const tbody = document.querySelector('#feed-table tbody');
-        // Sort by uptime descending
-        data.sort((a, b) => b.uptime - a.uptime);
-        data.forEach(feed => {
+    async function loadData() {
+      const res = await fetch('health.json');
+      const data = await res.json();
+      const tbody = document.querySelector('#health-table tbody');
+      for (const [date, feeds] of Object.entries(data).reverse()) {
+        for (const [name, status] of Object.entries(feeds)) {
           const tr = document.createElement('tr');
-          // Name
-          const nameTd = document.createElement('td'); nameTd.textContent = feed.name;
-          // Status
-          const statusTd = document.createElement('td');
-          statusTd.textContent = feed.status;
-          if (feed.status.includes('ERROR')) statusTd.classList.add('error');
-          else if (feed.status === 'ZERO') statusTd.classList.add('zero');
-          else statusTd.classList.add('ok');
-          // Timestamp
-          const tsTd = document.createElement('td'); tsTd.textContent = feed.checked;
-          // Uptime
-          const upTd = document.createElement('td'); upTd.textContent = (feed.uptime*100).toFixed(1) + '%';
-          tr.append(nameTd, statusTd, tsTd, upTd);
+          const cls = status.startsWith('ERROR') ? 'bad'
+                    : status==='ZERO'               ? 'warn'
+                    : 'good';
+          tr.innerHTML = `
+            <td>${date}</td>
+            <td>${name}</td>
+            <td class="${cls}" title="${status}">${status}</td>
+          `;
           tbody.appendChild(tr);
-        });
-      })
-      .catch(console.error);
+        }
+      }
+    }
+    loadData();
   </script>
 </body>
 </html>
