@@ -1,0 +1,32 @@
+# .github/workflows/deploy-pages.yml
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches:
+      - main      # whenever you push to main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js (for Pages static build, if needed)
+        uses: actions/setup-node@v5
+        with:
+          node-version: '18'
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          # Use the GitHub-provided token—no extra secret required
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: './'           # root of this repo
+          publish_branch: gh-pages    # target branch for Pages
+          # commit author
+          user_name: 'github-actions[bot]'
+          user_email: '41898282+github-actions[bot]@users.noreply.github.com'
