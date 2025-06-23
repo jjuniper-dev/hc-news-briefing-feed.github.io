@@ -1,9 +1,11 @@
+# feeds.yaml
+
 primary_feeds:
   # Canadian headlines (always try these first)
   - name: "CBC – Canadian News"
-    url: https://www.cbc.ca/rss/canada.xml
+    url: https://rss.cbc.ca/lineup/canada.xml
   - name: "CTV News – Canada"
-    url: https://www.ctvnews.ca/rss/ctvnews-ca-canada-public-rss-1.822284
+    url: https://www.ctvnews.ca/rss/canada-public-rss-1.822284
   - name: "The Globe and Mail – National"
     url: https://www.theglobeandmail.com/news/national/?service=rss
 
@@ -12,15 +14,15 @@ backup_feeds:
   - name: "Global News – Canada"
     url: https://globalnews.ca/canada/feed/
   - name: "Toronto Star – Canada"
-    url: https://www.thestar.com/content/thestar/feed.rss
+    url: https://www.thestar.com/feeds/news.rss
   - name: "National Post"
-    url: https://nationalpost.com/feed
+    url: https://nationalpost.com/news-national/feed
   - name: "Canada.ca – Official Releases"
-    url: https://news.gc.ca/rss
+    url: https://www.canada.ca/content/dam/canada/news/feeds/news-en.xml
   - name: "Calgary Herald – Canada"
-    url: https://calgaryherald.com/feed
+    url: https://calgaryherald.com/news/local-news/feed
   - name: "Montreal Gazette – Canada"
-    url: https://montrealgazette.com/feed
+    url: https://montrealgazette.com/news/local-news/feed
 
   ## U.S. TOP STORIES backups
   - name: "CNN – Top Stories"
