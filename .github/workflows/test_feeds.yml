@@ -1,50 +1,34 @@
-#!/usr/bin/env python3
-"""
-test_feeds.py
+name: Test Feeds
 
-Iterate through your configured RSS feeds, attempt to fetch each one,
-and report OK or the exact error for troubleshooting.
-"""
+on:
+  schedule:
+    # 6 AM, 10 AM, 2 PM, 6 PM, 10 PM daily
+    - cron: '0 6,10,14,18,22 * * *'
+  workflow_dispatch:         # allows manual runs
 
-import feedparser
-import sys
+jobs:
+  test_feeds:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true  # needed for later commits
 
-# Mirror the FEEDS dict from generate_latest.py
-FEEDS = {
-    "Ottawa Weather":            "https://weather.gc.ca/rss/city/on-118_e.xml",
-    "CBC Canada":                "https://www.cbc.ca/cmlink/rss-canada",
-    "CTV News Canada":           "https://www.ctvnews.ca/rss/ctvnews-ca-canada-public-rss-1.822678",
-    "NPR US Top Stories":        "https://feeds.npr.org/1001/rss.xml",
-    "Reuters US":                "https://www.reuters.com/rssFeed/usaNews",
-    "Reuters World":             "https://www.reuters.com/rssFeed/worldNews",
-    "BBC World":                 "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "Ars Technica Tech Policy":  "https://feeds.arstechnica.com/arstechnica/technology-policy",
-    "The Register AI & Tech":    "https://www.theregister.com/headlines.rss",
-    "TechCrunch":                "http://feeds.feedburner.com/TechCrunch/",
-    "Open Group EA News":        "https://public.opengroup.org/open_group_rss.xml",
-    "GWF - Geomatics 1":         "https://geospatialworld.net/feed/",
-}
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
-def test_feeds():
-    print(f"Testing {len(FEEDS)} feeds...\n")
-    for name, url in FEEDS.items():
-        try:
-            feed = feedparser.parse(url)
-            if getattr(feed, "bozo", False):
-                # feed.bozo_exception may be None or an exception instance
-                err = feed.bozo_exception or "Unknown parsing error"
-                raise err
-            count = len(feed.entries or [])
-            print(f"[ OK ] {name:30s} — {count} entries fetched")
-        except Exception as e:
-            print(f"[ERR ] {name:30s} — {e}")
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
-if __name__ == "__main__":
-    # Ensure feedparser is installed
-    try:
-        import feedparser  # noqa: F401
-    except ImportError:
-        print("Missing dependency: run `pip install feedparser` first.", file=sys.stderr)
-        sys.exit(1)
+      - name: Run feed-test suite
+        run: python test_feeds.py     # or whatever your test script is
 
-    test_feeds()
+      - name: Commit updated health.json
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: 'github-actions'
+          author_email: 'github-actions@github.com'
+          message: 'chore: update health.json'
