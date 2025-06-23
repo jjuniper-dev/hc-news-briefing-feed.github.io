@@ -1,118 +1,88 @@
+#!/usr/bin/env python3
+import sys
 import requests
 import feedparser
-import time
 from datetime import datetime
+from xml.etree import ElementTree
 
-# --- Configuration ---
+# --- CONFIG ---
 SECTIONS = {
-    "Weather": [
-        # Environment Canada RSS
-        "https://dd.weather.gc.ca/citypage_weather/xml/ON/s0000434_e.xml"
+    "WEATHER": [
+        "https://dd.weather.gc.ca/citypage_weather/xml/ON/s0000430_e.xml",  # Ottawa
     ],
-    "Canadian News": [
-        "https://www.cbc.ca/cmlink/rss-topstories",
-        "https://rss.cbc.ca/lineup/canada.xml"
+    "CANADIAN NEWS": [
+        "https://rss.cbc.ca/lineup/topstories.xml",
+        "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050",
+        # fallback:
+        "http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml"
     ],
-    "US News": [
+    "US NEWS": [
         "https://feeds.npr.org/1001/rss.xml",
-        "https://www.reddit.com/r/news/.rss"
+        "https://rss.nytimes.com/services/xml/rss/nyt/US.xml",
     ],
-    "International News": [
-        "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "https://feeds.reuters.com/Reuters/worldNews"
+    "INTERNATIONAL": [
+        "https://feeds.reuters.com/Reuters/worldNews",
+        "http://feeds.bbci.co.uk/news/world/rss.xml",
     ],
-    "Public Health": [
-        "https://www.canada.ca/content/canada/en/public-health/services/rss-articles/public-health-updates.rss"
-    ],
-    "AI & Emerging Tech": [
-        "https://feeds.arstechnica.com/arstechnica/technology-policy",
-        "https://www.technologyreview.com/feed/"
-    ],
-    "Cybersecurity & Privacy": [
-        "https://krebsonsecurity.com/feed/",
-        "https://www.schneier.com/blog/atom.xml"
-    ],
-    "Enterprise Architecture": [
-        "https://www.opengroup.org/news/rss",
-        "https://www.gartner.com/en/newsroom/rss"
-    ],
-    "Geomatics": [
-        "https://www.geospatialworld.net/feed/",
-        "https://www.gwf.org/rss/news.xml"
-    ]
+    # … add other sections here …
 }
 
-MAX_RETRIES = 3
-RETRY_DELAY = 5  # seconds
+TODAY = datetime.now().strftime("%B %d, %Y")
 
+def safe_fetch(url, parser_fn):
+    try:
+        r = requests.get(url, timeout=15)
+        r.raise_for_status()
+        return parser_fn(r.content)
+    except Exception as e:
+        print(f"⚠️  fetch failed for {url}: {e}", file=sys.stderr)
+        return None
 
-def fetch_feed(url):
-    """
-    Try fetching the feed content with retries.
-    Returns parsed feed or None on failure.
-    """
-    for attempt in range(1, MAX_RETRIES+1):
-        try:
-            resp = requests.get(url, timeout=10)
-            resp.raise_for_status()
-            return feedparser.parse(resp.content)
-        except Exception as e:
-            print(f"Warning: fetch attempt {attempt} for {url} failed -> {e}")
-            time.sleep(RETRY_DELAY)
-    print(f"Error: all retries failed for {url}")
-    return None
+def get_weather():
+    data = safe_fetch(SECTIONS["WEATHER"][0], lambda c: ElementTree.fromstring(c))
+    if data is None: 
+        return "(no weather data available)"
+    # parse the first three periods
+    periods = data.findall(".//period")
+    out = [f"Ottawa Weather – {TODAY}"]
+    for p in periods[:3]:
+        name = p.findtext("period-hour") or p.findtext("period")
+        desc = p.findtext("weather") or p.findtext("textForecast")
+        out.append(f"• {name}: {desc}")
+    return "\n".join(out)
 
+def parse_feed_items(content):
+    feed = feedparser.parse(content)
+    items = []
+    for e in feed.entries[:2]:
+        date = getattr(e, "published", "")
+        items.append(f"• {e.title.strip()} {{{date}}}")
+    return items
 
-def format_entries(entries, limit=2):
-    out = []
-    for entry in entries[:limit]:
-        title = entry.get('title', '').strip()
-        summary = entry.get('summary', '').strip()
-        pub = ''
-        if entry.get('published_parsed'):
-            pub = datetime(*entry.published_parsed[:6]).strftime('%b %d, %Y')
-        source = entry.get('source', {}).get('title') or entry.link.split('/')[2]
-        out.append(f"• {title}\n  {summary} {{{pub} ({source})}}")
-    return out
-
-
-def build_briefing():
-    lines = []
-    # Header
-    now = datetime.now().strftime('%B %d, %Y %H:%M')
-    lines.append(f"Morning News Briefing – {now}")
-    lines.append("")
-
-    for section, urls in SECTIONS.items():
-        lines.append(f"{section.upper()}:")
-        collected = False
-        for url in urls:
-            feed = fetch_feed(url)
-            if feed and feed.entries:
-                # weather handled specially
-                if section == 'Weather':
-                    # simple first entry
-                    entry = feed.entries[0]
-                    lines.append(f"• {entry.title.strip()}: {entry.summary.strip()}")
-                else:
-                    entries = format_entries(feed.entries, limit=2)
-                    lines.extend(entries)
-                collected = True
-                break
-        if not collected:
-            lines.append(f"(no data available)")
-        lines.append("")
-
-    lines.append("— End of briefing —")
-    return "\n".join(lines)
-
+def collect_section(title, urls):
+    lines = [f"\n{title} – {TODAY}"]
+    for url in urls:
+        items = safe_fetch(url, lambda c: parse_feed_items(c))
+        if items:
+            lines.extend(items)
+            return lines
+    lines.append("(no data available)")
+    return lines
 
 def main():
-    briefing = build_briefing()
-    with open('latest.txt', 'w', encoding='utf-8') as f:
-        f.write(briefing)
-    print("Successfully wrote latest.txt")
+    parts = [f"Morning News Briefing – {TODAY}", ""]
+    # WEATHER
+    parts.append(get_weather())
+    # other sections
+    for section, urls in SECTIONS.items():
+        if section == "WEATHER":
+            continue
+        parts.extend(collect_section(section, urls))
+    parts.append("\n— End of briefing —")
+    text = "\n\n".join(parts)
+    with open("latest.txt", "w", encoding="utf-8") as f:
+        f.write(text)
+    print("✅ latest.txt updated")
 
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
