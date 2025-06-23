@@ -18,42 +18,54 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install deps
-        run: pip install feedparser requests
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests
 
       - name: Health-check CBC & CTV
         id: health
         run: |
           python - << 'EOF'
-          import feedparser, requests
+          import sys, feedparser, requests
 
           feeds = {
             "CBC Top Stories": "https://rss.cbc.ca/lineup/topstories.xml",
             "CTV Canada":      "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"
           }
 
-          results = {}
+          failed = []
           for name, url in feeds.items():
-              status = "OK"
               try:
-                  r = requests.get(url, timeout=15); r.raise_for_status()
-                  feed = feedparser.parse(r.content)
+                  resp = requests.get(url, timeout=20)
+                  resp.raise_for_status()
+                  feed = feedparser.parse(resp.content)
                   if not feed.entries:
-                      status = "ZERO"
+                      print(f"❌ {name}: ZERO entries")
+                      failed.append(name)
                   else:
-                      status = f"{len(feed.entries)} items"
+                      print(f"✔️ {name}: {len(feed.entries)} entries")
               except Exception as e:
-                  status = f"ERROR: {e.__class__.__name__}"
-              print(f"{name}: {status}")
-              results[name] = status
+                  print(f"❌ {name}: ERROR → {e}")
+                  failed.append(name)
 
-          # Export summary to next steps
-          import json, os
-          os.environ["FEED_STATUS"] = json.dumps(results)
+          if failed:
+              sys.exit(f"Feeds failing: {', '.join(failed)}")
           EOF
 
-      - name: Notify if any bad
-        if: always()
-        run: |
-          echo "Feed health summary: ${{ env.FEED_STATUS }}"
-          # Here you could add a curl to Slack or email the JSON
+      - name: Send email on failure
+        if: failure()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "Daily Feed Health Check Failure"
+          body: |
+            The following Canadian feeds failed their health check:
+            ${{ failure() && steps.health.outputs.failed || 'None' }}
+            
+            Please investigate the RSS endpoints.
+          to: you@example.com
+          from: HealthCheckBot <noreply@example.com>
+          secure: true
