@@ -1,0 +1,49 @@
+primary_feeds:
+  # Canadian headlines (always try these first)
+  - name: "CBC – Canadian News"
+    url: https://www.cbc.ca/rss/canada.xml
+  - name: "CTV News – Canada"
+    url: https://www.ctvnews.ca/rss/ctvnews-ca-canada-public-rss-1.822284
+  - name: "The Globe and Mail – National"
+    url: https://www.theglobeandmail.com/news/national/?service=rss
+
+backup_feeds:
+  ## Canadian backups
+  - name: "Global News – Canada"
+    url: https://globalnews.ca/canada/feed/
+  - name: "Toronto Star – Canada"
+    url: https://www.thestar.com/content/thestar/feed.rss
+  - name: "National Post"
+    url: https://nationalpost.com/feed
+  - name: "Canada.ca – Official Releases"
+    url: https://news.gc.ca/rss
+  - name: "Calgary Herald – Canada"
+    url: https://calgaryherald.com/feed
+  - name: "Montreal Gazette – Canada"
+    url: https://montrealgazette.com/feed
+
+  ## U.S. TOP STORIES backups
+  - name: "CNN – Top Stories"
+    url: http://rss.cnn.com/rss/cnn_topstories.rss
+  - name: "The New York Times – Home Page"
+    url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+  - name: "Associated Press – Top News"
+    url: https://apnews.com/hub/ap-top-news?outputType=rss
+  - name: "Washington Post – Top News"
+    url: https://www.washingtonpost.com/rss/
+  - name: "The Wall Street Journal – U.S. Business & Finance"
+    url: https://feeds.a.dj.com/rss/RSSWSJcomUSBusiness.xml
+  - name: "The Wall Street Journal – Top Stories"
+    url: https://www.wsj.com/xml/rss/3_7031.xml
+
+  ## INTERNATIONAL NEWS backups
+  - name: "BBC News – World"
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+  - name: "Reuters – World News"
+    url: https://feeds.reuters.com/Reuters/worldNews
+  - name: "The Guardian – World News"
+    url: https://www.theguardian.com/world/rss
+  - name: "Al Jazeera English – All News"
+    url: https://www.aljazeera.com/xml/rss/all.xml
+  - name: "Wired – Top Stories"
+    url: https://www.wired.com/feed/rss
