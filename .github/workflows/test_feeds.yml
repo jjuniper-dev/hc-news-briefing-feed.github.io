@@ -2,15 +2,16 @@ name: Daily Canadian Feed Health Check
 
 on:
   schedule:
-    # 6:00 AM Eastern (10:00 UTC)
+    # Runs daily at 6:00 AM Eastern Time (10:00 UTC)
     - cron: '0 10 * * *'
   workflow_dispatch:
 
 jobs:
   ping-canadian-feeds:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Check out
+      - name: Check out repo
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -18,14 +19,15 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install deps
-        run: pip install feedparser requests
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests
 
-      - name: Health-check CBC & CTV
+      - name: Test Canadian feeds
         id: health
         run: |
           python - << 'EOF'
-          import feedparser, requests
+          import sys, feedparser, requests, json
 
           feeds = {
             "CBC Top Stories": "https://rss.cbc.ca/lineup/topstories.xml",
@@ -34,26 +36,36 @@ jobs:
 
           results = {}
           for name, url in feeds.items():
-              status = "OK"
               try:
-                  r = requests.get(url, timeout=15); r.raise_for_status()
+                  r = requests.get(url, timeout=20)
+                  r.raise_for_status()
                   feed = feedparser.parse(r.content)
-                  if not feed.entries:
-                      status = "ZERO"
-                  else:
-                      status = f"{len(feed.entries)} items"
+                  count = len(feed.entries)
+                  status = f"{count} items" if count else "ZERO"
               except Exception as e:
                   status = f"ERROR: {e.__class__.__name__}"
               print(f"{name}: {status}")
               results[name] = status
 
-          # Export summary to next steps
-          import json, os
-          os.environ["FEED_STATUS"] = json.dumps(results)
+          # Export results for later steps
+          print(f"feed_status={json.dumps(results)}") >> sys.stdout
           EOF
 
-      - name: Notify if any bad
-        if: always()
-        run: |
-          echo "Feed health summary: ${{ env.FEED_STATUS }}"
-          # Here you could add a curl to Slack or email the JSON
+      - name: Notify on failure
+        if: failure()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          secure: true
+          from: "RSS Health Bot" <spatialsensation@gmail.com>
+          to: spatialsensation@gmail.com
+          subject: "🔴 Canadian RSS Feed Health – Failure on ${{ github.run_date }}"
+          body: |
+            One or more Canadian RSS feeds failed health checks:
+
+            ${{ steps.health.outputs.feed_status }}
+
+            View details: ${{ github.run_url }}
