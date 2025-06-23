@@ -1,26 +1,17 @@
-      - name: Persist health.json
-        env:
-          FEED_STATUS: ${{ steps.health.outputs.feed_status }}
-        run: |
-          python3 - << 'EOF'
-          import os, json
-          from datetime import datetime
+steps:
+- name: Check out repository
+  uses: actions/checkout@v4
 
-          feed_status = json.loads(os.environ['FEED_STATUS'])
-          path = 'health.json'
+- name: Set up Python
+  uses: actions/setup-python@v5
+  with:
+    python-version: '3.x'
 
-          # Try loading existing data; if missing or invalid, start fresh
-          try:
-              with open(path, 'r') as f:
-                  data = json.load(f)
-          except (FileNotFoundError, json.JSONDecodeError):
-              data = {}
+- name: Install dependencies
+  run: |
+    pip install feedparser requests
 
-          # Record today’s snapshot
-          today = datetime.now().strftime('%Y-%m-%d')
-          data[today] = feed_status
-
-          # Write back
-          with open(path, 'w') as f:
-              json.dump(data, f, indent=2)
-          EOF
+- name: Gather feed statuses
+  id: health
+  run: |
+    python3 - << 'EOF'
