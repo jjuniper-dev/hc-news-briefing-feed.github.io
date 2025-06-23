@@ -26,8 +26,9 @@
 
   <script>
     document.addEventListener('DOMContentLoaded', async () => {
+      const baseURL = 'https://jjuniper-dev.github.io/hc-news-briefing-feed.github.io/';
       try {
-        const res = await fetch('health.json');
+        const res = await fetch(baseURL + 'health.json');
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const data = await res.json();
         const tbody = document.querySelector('#health-table tbody');
