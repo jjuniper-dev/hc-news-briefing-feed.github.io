@@ -4,7 +4,7 @@ on:
   schedule:
     # 6 AM, 10 AM, 2 PM, 6 PM, 10 PM daily
     - cron: '0 6,10,14,18,22 * * *'
-  workflow_dispatch:         # allows manual runs
+  workflow_dispatch:  # allows manual runs
 
 jobs:
   test_feeds:
@@ -30,8 +30,22 @@ jobs:
             echo "No requirements.txt—skipping install."
           fi
 
+      - name: List repository files for debugging
+        run: |
+          echo "Workspace files:" 
+          ls -R .
+
       - name: Run feed-test suite
-        run: python test_feeds.py     # adjust if your script name is different
+        run: |
+          # Attempt to locate and run the test script
+          if [ -f test_feeds.py ]; then
+            python test_feeds.py
+          elif [ -f scripts/test_feeds.py ]; then
+            python scripts/test_feeds.py
+          else
+            echo "Error: test_feeds.py not found in root or scripts directory." >&2
+            exit 1
+          fi
 
       - name: Commit updated health.json
         uses: EndBug/add-and-commit@v9
