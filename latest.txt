@@ -1,18 +1,18 @@
-Multi-Source News Briefing – Monday, June 23, 2025 10:53
+Multi-Source News Briefing – Monday, June 23, 2025 16:24
 
 === Weather ===
 
 -- Ottawa Weather --
 • HEAT WARNING, Ottawa
   2025-06-23T09:31:50Z (https://weather.gc.ca/warnings/report_e.html?onrm104)
-• Current Conditions: Mostly Cloudy, 21.3°C
-  2025-06-23T10:00:00Z (https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687)
-• Monday: Mainly sunny. High 36.
-  2025-06-23T09:00:00Z (https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687)
+• Current Conditions: Partly Cloudy, 33.6°C
+  2025-06-23T16:00:00Z (https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687)
+• Monday: Sunny. High 36.
+  2025-06-23T15:00:00Z (https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687)
 • Monday night: A few clouds. Low 25.
-  2025-06-23T09:00:00Z (https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687)
+  2025-06-23T15:00:00Z (https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687)
 • Tuesday: Mainly sunny. High 34.
-  2025-06-23T09:00:00Z (https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687)
+  2025-06-23T15:00:00Z (https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687)
 
 === Canadian Headlines ===
 No items available or all feeds failed.
@@ -20,44 +20,44 @@ No items available or all feeds failed.
 === U.S. Top Stories ===
 
 -- NPR US Top Stories --
+• Home sales just posted their slowest May in 16 years
+  Mon, 23 Jun 2025 10:37:34 -0400 (https://www.npr.org/2025/06/23/nx-s1-5440502/home-sales-uncertainty-mortgage-rates)
+• For Independence Day, NPR wants to know: What does freedom mean to you?
+  Mon, 23 Jun 2025 09:32:35 -0400 (https://www.npr.org/2025/06/23/g-s1-73711/july-4-freedom)
+• Israel strikes Tehran and Fordo site, as Russia backs Iran in deepening conflict
+  Mon, 23 Jun 2025 08:20:23 -0400 (https://www.npr.org/2025/06/23/nx-s1-5442317/israel-iran-russia-conflict)
+• Key takeaways from the U.S. airstrikes on Iran. And, how Iran could respond
+  Mon, 23 Jun 2025 07:01:00 -0400 (https://www.npr.org/2025/06/23/g-s1-74020/up-first-newsletter-iran-israel-us-airstrikes)
 • Climate change is boosting the risk of sleep apnea
   Mon, 23 Jun 2025 05:30:00 -0400 (https://www.npr.org/2025/06/23/nx-s1-5438087/climate-change-is-boosting-the-risk-of-sleep-apnea)
-• From the fringes to the mainstream: Meet the hardline anti-immigration activist who helped shape Trump's agenda
-  Mon, 23 Jun 2025 05:03:00 -0400 (https://www.npr.org/2025/06/23/nx-s1-5388929/from-the-fringes-to-the-mainstream-meet-the-hardline-anti-immigration-activist-who-helped-shape-trumps-agenda)
-• The David Lynch estate auction doubled as a caffeinated wake
-  Mon, 23 Jun 2025 05:02:00 -0400 (https://www.npr.org/2025/06/23/nx-s1-5440485/david-lynch-estate-auction-twin-peaks)
-• An AI video ad is making a splash. Is it the future of advertising?
-  Mon, 23 Jun 2025 05:01:00 -0400 (https://www.npr.org/2025/06/23/nx-s1-5432712/ai-video-ad-kalshi-advertising-nba-finals)
-• 'It's such a dream': Top high school performers step out on Broadway
-  Mon, 23 Jun 2025 05:00:23 -0400 (https://www.npr.org/2025/06/23/nx-s1-5430901/top-high-school-performers-jimmy-awards)
 
 === International Top Stories ===
 
 -- BBC World --
-• Watch: How successful have the US strikes on Iran been?
-  Sun, 22 Jun 2025 20:39:06 GMT (https://www.bbc.com/news/videos/cq53l9dvggjo)
-• Strait of Hormuz: What happens if Iran shuts global oil corridor?
-  Mon, 23 Jun 2025 10:05:17 GMT (https://www.bbc.com/news/articles/c78n6p09pzno)
-• Seven killed in Kyiv in new Russian aerial attack
-  Mon, 23 Jun 2025 10:19:19 GMT (https://www.bbc.com/news/articles/c0k7vll16l3o)
-• Dozens of soldiers seized in Colombian mountains
-  Mon, 23 Jun 2025 04:09:05 GMT (https://www.bbc.com/news/articles/c4gdlrk1pzko)
-• US asks China to stop Iran from closing Strait of Hormuz
-  Mon, 23 Jun 2025 07:12:26 GMT (https://www.bbc.com/news/articles/c056pyv723vo)
+• Qatar closes airspace as UK and US tell citizens to shelter in place
+  Mon, 23 Jun 2025 16:09:06 GMT (https://www.bbc.com/news/articles/cqx29w0lrx0o)
+• Israel says it struck Tehran's Evin prison and Fordo access routes
+  Mon, 23 Jun 2025 15:46:24 GMT (https://www.bbc.com/news/articles/cp8621gnknjo)
+• 'Why wouldn't there be a regime change?' Trump's latest on Iran
+  Mon, 23 Jun 2025 13:01:31 GMT (https://www.bbc.com/news/articles/cp8m3861637o)
+• Bride shot dead in attack on French wedding party
+  Mon, 23 Jun 2025 00:50:23 GMT (https://www.bbc.com/news/articles/cn0q8pypxwxo)
+• Nine killed in Kyiv in intense Russian air attack
+  Mon, 23 Jun 2025 13:12:01 GMT (https://www.bbc.com/news/articles/c0k7vll16l3o)
 
 === AI & Emerging Tech ===
 
 -- The Register AI & Tech --
-• Economists sceptical over UK Spending Review's partly AI-driven 10% budget cuts
-  Mon, 23 Jun 2025 10:00:13 GMT (https://go.theregister.com/feed/www.theregister.com/2025/06/23/economist_question_spending_review_budget/)
-• The one thing SME IT can do that the big guys can’t: Change the world
-  Mon, 23 Jun 2025 08:33:10 GMT (https://go.theregister.com/feed/www.theregister.com/2025/06/23/opinion_column_sme_agile_change/)
-• Techie went home rather than fix mistake that caused a massive meltdown
-  Mon, 23 Jun 2025 07:26:14 GMT (https://go.theregister.com/feed/www.theregister.com/2025/06/23/who_me/)
-• Huawei chair says the future of comms is fiber-to-the-room, which China has and the rest of us don’t
-  Mon, 23 Jun 2025 06:32:32 GMT (https://go.theregister.com/feed/www.theregister.com/2025/06/23/huawei_chair_eric_xu_vision/)
-• AI-hosted infomercial shifts $7.5 million worth of product in China
-  Mon, 23 Jun 2025 03:30:07 GMT (https://go.theregister.com/feed/www.theregister.com/2025/06/23/asia_tech_news_in_brief/)
+• Second attack on McLaren Health Care in a year affects 743k people
+  Mon, 23 Jun 2025 15:48:37 GMT (https://go.theregister.com/feed/www.theregister.com/2025/06/23/second_suspected_ransomware_attack_on/)
+• Private equity types to snap up NoSQL biz Couchbase
+  Mon, 23 Jun 2025 15:02:49 GMT (https://go.theregister.com/feed/www.theregister.com/2025/06/23/private_equity_snaps_up_nosql/)
+• Breaking the nerd internet: Three overlapping generations of tech history – in one selfie
+  Mon, 23 Jun 2025 13:44:08 GMT (https://go.theregister.com/feed/www.theregister.com/2025/06/23/history_tech_selfie/)
+• Wolfspeed to file for Chapter 11 in deal cutting 70% of debt
+  Mon, 23 Jun 2025 12:59:03 GMT (https://go.theregister.com/feed/www.theregister.com/2025/06/23/wolfspeed_chapter_11/)
+• Experts count staggering costs incurred by UK retail amid cyberattack hell
+  Mon, 23 Jun 2025 11:29:33 GMT (https://go.theregister.com/feed/www.theregister.com/2025/06/23/experts_count_the_staggering_costs/)
 
 -- TechCrunch --
 • Top 10 AI Tools That Will Transform Your Content Creation in 2025
