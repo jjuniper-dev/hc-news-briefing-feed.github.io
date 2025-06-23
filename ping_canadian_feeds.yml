@@ -1,72 +1,51 @@
-name: Canadian Feed Uptime Pings
+steps:
+  - name: Check out repo
+    uses: actions/checkout@v4
 
-on:
-  # every hour, on the hour—adjust to “*/15 * * * *” for every 15m, etc.
-  schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+  - name: Install dependencies
+    run: |
+      pip install requests feedparser
 
-jobs:
-  ping-cbc-ctv:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out repo
-        uses: actions/checkout@v4
+  - name: Ping CBC & CTV feeds
+    id: ping
+    run: |
+      python3 - << 'EOF'
+      import json, requests, feedparser
+      from datetime import datetime
 
-      - name: Install dependencies
-        run: pip install feedparser requests
+      feeds = {
+        "CBC": "https://rss.cbc.ca/lineup/topstories.xml",
+        "CTV": "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"
+      }
 
-      - name: Ping Canadian feeds
-        id: ping
-        run: |
-          python3 - << 'EOF'
-          import os, json, requests, feedparser
-          from datetime import datetime
-
-          feeds = {
-            "CBC": "https://rss.cbc.ca/lineup/topstories.xml",
-            "CTV": "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"
-          }
-
-          timestamp = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')
-          results = {}
-          for name, url in feeds.items():
-              try:
-                  r = requests.get(url, timeout=10); r.raise_for_status()
-                  ok = bool(feedparser.parse(r.content).entries)
-              except:
-                  ok = False
-              results[name] = ok
-
-          # prepare single record
-          record = {"timestamp": timestamp, **results}
-
-          # load or init uptime.json
-          path = 'uptime.json'
+      timestamp = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')
+      record = {"timestamp": timestamp}
+      for name, url in feeds.items():
           try:
-              data = json.load(open(path))
-          except FileNotFoundError:
-              data = []
-          data.append(record)
+              r = requests.get(url, timeout=10); r.raise_for_status()
+              record[name] = bool(feedparser.parse(r.content).entries)
+          except:
+              record[name] = False
 
-          # trim to last 7 days (~7*24=168 entries if hourly)
-          # optional: only keep last N entries
-          MAX = 168
-          if len(data) > MAX:
-              data = data[-MAX:]
+      # Load existing uptime.json or init
+      path = 'uptime.json'
+      try:
+          data = json.load(open(path))
+      except:
+          data = []
 
-          # write back
-          with open(path, 'w') as f:
-              json.dump(data, f, indent=2)
+      data.append(record)
+      # Keep last 168 entries (~7 days hourly)
+      data = data[-168:]
 
-          # export so we can commit
-          print(f"Uptime record added at {timestamp}")
-          EOF
+      with open(path, 'w') as f:
+          json.dump(data, f, indent=2)
+      EOF
 
-      - name: Commit & push uptime.json
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add uptime.json
-          git commit -m "Add uptime ping for $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "No changes"
-          git push
+  - name: Commit & push uptime.json
+    run: |
+      git config user.name "github-actions[bot]"
+      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      git add uptime.json
+      git commit -m "Add uptime ping ${{ steps.ping.outputs.timestamp }}" || echo "No changes"
+      git push
