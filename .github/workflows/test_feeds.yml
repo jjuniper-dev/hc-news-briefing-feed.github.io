@@ -1,3 +1,57 @@
+name: Daily Canadian Feed Health Check
+
+on:
+  schedule:
+    # Runs daily at 6:00 AM Eastern Time (10:00 UTC)
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+
+jobs:
+  ping-canadian-feeds:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests
+
+      - name: Health-check CBC & CTV
+        id: health
+        run: |
+          python - << 'EOF'
+          import feedparser, requests
+
+          feeds = {
+            "CBC Top Stories": "https://rss.cbc.ca/lineup/topstories.xml",
+            "CTV Canada":      "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"
+          }
+
+          results = {}
+          for name, url in feeds.items():
+              status = "OK"
+              try:
+                  r = requests.get(url, timeout=15); r.raise_for_status()
+                  feed = feedparser.parse(r.content)
+                  if not feed.entries:
+                      status = "ZERO"
+                  else:
+                      status = f"{len(feed.entries)} items"
+              except Exception as e:
+                  status = f"ERROR: {e.__class__.__name__}"
+              print(f"{name}: {status}")
+              results[name] = status
+
+          import json, os
+          os.environ["FEED_STATUS"] = json.dumps(results)
+          EOF
+
       - name: Notify on failure
         if: failure()
         uses: dawidd6/action-send-mail@v3
@@ -13,6 +67,6 @@
             ${{ env.FEED_STATUS }}
 
             Check the Actions log for details: ${{ github.run_url }}
-          to: you@example.com
-          from: "RSS Health Bot" <you@example.com>
+          to: spatialsensation@gmail.com
+          from: "RSS Health Bot" <spatialsensation@gmail.com>
           secure: true
