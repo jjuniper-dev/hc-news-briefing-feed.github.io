@@ -1,130 +1,93 @@
-#!/usr/bin/env python3
-
-import yaml
-import json
-import requests
-import datetime
-import re
-from typing import List, Dict
+import feedparser
+from datetime import datetime
 
 # --- CONFIG ---
-PRUNE_THRESHOLD = 0.70  # was 0.50
-SCHEMA = {
-    "order": ["weather", "canada", "us", "international", "ai_news", "policy_government", "geomatics"],
-    "max_items": {
-        "canada": 3, "us": 3, "international": 1,
-        "ai_news": 3, "policy_government": 3, "geomatics": 3
-    }
+RSS_FEEDS = {
+    "Canadian Headlines": [
+        "https://rss.cbc.ca/lineup/topstories.xml",
+        "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"
+    ],
+    "U.S. Top Stories": [
+        "https://feeds.npr.org/1001/rss.xml",
+        "https://rss.cnn.com/rss/edition_us.rss"
+    ],
+    "International Top Stories": [
+        "https://feeds.reuters.com/Reuters/worldNews",
+        "http://feeds.bbci.co.uk/news/world/rss.xml"
+    ],
+    "Public Health": [
+        "https://www.canada.ca/etc/+/health/public-health-updates.rss"
+    ],
+    "AI & Emerging Tech": [
+        "https://feeds.arstechnica.com/arstechnica/technology-policy",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+    ],
+    "Cybersecurity & Privacy": [
+        "https://krebsonsecurity.com/feed/",
+        "https://www.schneier.com/blog/atom.xml"
+    ],
+    "Enterprise Architecture & IT Governance": [
+        "https://www.opengroup.org/news/rss",
+        "https://enterprisearchitect.org/rss"
+    ],
+    "Geomatics": [
+        "https://www.geospatialworld.net/feed/",
+        "https://www.gim-international.com/rss"
+    ]
 }
 
-# --- HELPERS ---
-def load_feeds() -> Dict[str, List[Dict]]:
-    cfg = yaml.safe_load(open("feeds.yaml"))
-    return {
-        "canada": cfg["primary_feeds"] + cfg.get("backup_feeds", []),
-        "us": cfg.get("backup_feeds", []),
-        "international": cfg.get("backup_feeds", []),
-        # Map other sections as needed...
-    }
-
-def load_health() -> Dict[str, float]:
-    # Reads health.json and returns a map of URL to uptime_last_5
-    with open("health.json", "r") as hf:
-        data = json.load(hf)
-    return { entry["url"]: entry.get("uptime_last_5", 1.0) for entry in data["feeds"] }
-
-
-def prune_feeds(items, health_map, primary_urls):
-    kept = []
-    for feed in items:
-        url = feed["url"]
-        uptime = health_map.get(url, 1.0)
-        if url in primary_urls or uptime >= PRUNE_THRESHOLD:
-            kept.append(feed)
-    return kept
-
-
-def pad_items(items, section):
-    needed = SCHEMA["max_items"][section] - len(items)
-    for _ in range(needed):
-        items.append({
-            "title": f"No major headlines today in {section.upper().replace('_',' ')}. Stay tuned for updates.",
-            "url": "",
-            "date": datetime.date.today().isoformat(),
-            "source_name": ""
-        })
-    return items[:SCHEMA["max_items"][section]]
-
-
-def strip_metadata(text: str) -> str:
-    lines = text.splitlines()
-    filtered = [
-        ln for ln in lines
-        if not ln.startswith("URL:") and not re.match(r"^\d{4}-\d{2}-\d{2}T", ln)
-    ]
-    return "\n".join(filtered)
-
-
-def call_summarizer(payload_json: str) -> str:
-    # Invoke your ChatGPT API here with temperature=0.5 and the updated prompt
-    # Example placeholder:
-    # return chatgpt_summarize(payload_json, temperature=0.5)
-    raise NotImplementedError("Implement summarizer integration")
-
+# Environment Canada Ottawa forecast
+WEATHER_FEED = "https://dd.weather.gc.ca/citypage_weather/xml/ON/s0000430_e.xml"
 
 def fetch_weather():
-    # Your existing weather fetch logic goes here.
-    # Should return a list of dicts matching schema, including statements.
-    raise NotImplementedError("Implement weather fetch logic")
+    feed = feedparser.parse(WEATHER_FEED)
+    entries = feed.entries
+    today = entries[0] if len(entries) > 0 else None
+    tomorrow = entries[1] if len(entries) > 1 else None
+    day_after = entries[2] if len(entries) > 2 else None
+    lines = [f"Ottawa Weather – {datetime.now():%B %d, %Y}"]
+    for e in (today, tomorrow, day_after):
+        if not e: continue
+        period = e.title
+        desc = e.summary.replace("<![CDATA[", "").replace("]]>", "").strip()
+        lines.append(f"• {period}: {desc}")
+    return "\n".join(lines)
 
+def format_entry(entry):
+    text = entry.get("summary", "").strip()
+    if hasattr(entry, "content") and entry.content:
+        text = entry.content[0].value.strip()
+    import re
+    text = re.sub(r"<[^>]+>", "", text)
+    date = ""
+    if getattr(entry, "published_parsed", None):
+        date = datetime(*entry.published_parsed[:6]).strftime("%B %d, %Y")
+    return f"• {entry.title}\n  {text} {{{date}}}"
 
-def post_to_github(latest_txt_path: str):
-    # Your existing GitHub push logic
-    pass
+def collect_section(name, urls, count=2):
+    lines = [f"{name} – {datetime.now():%B %d, %Y}"]
+    added = 0
+    for url in urls:
+        feed = feedparser.parse(url)
+        for e in feed.entries[:count]:
+            lines.append(format_entry(e))
+            added += 1
+        if added >= count:
+            break
+    if added == 0:
+        lines.append("(no entries)")
+    return "\n".join(lines)
 
-
-def email_to_evernote(latest_txt_path: str):
-    # Your existing Evernote email logic
-    pass
-
-
-def post_to_teams_webhook(latest_txt_path: str):
-    # Your existing Teams webhook logic
-    pass
-
-# --- MAIN PIPELINE ---
 def main():
-    feeds_by_section = load_feeds()
-    health_map = load_health()
-    primary_canada_urls = {f["url"] for f in yaml.safe_load(open("feeds.yaml"))["primary_feeds"]}
-
-    # 1. Prune feeds per section, bypassing primaries for Canada
-    pruned = {}
-    for section, items in feeds_by_section.items():
-        pruned_list = prune_feeds(items, health_map, primary_canada_urls if section == "canada" else set())
-        pruned[section] = pad_items(pruned_list, section)
-
-    # 2. Build JSON payload for summarizer
-    payload = {
-        "weather": fetch_weather(),
-        "feeds": pruned
-    }
-    payload_json = json.dumps(payload)
-
-    # 3. Call summarizer
-    briefing = call_summarizer(payload_json)
-
-    # 4. Strip metadata lines before saving/writing
-    clean_briefing = strip_metadata(briefing)
-
-    # 5. Write out latest.txt
-    with open("latest.txt", "w") as f:
-        f.write(clean_briefing)
-
-    # 6. Push to GitHub & send to Evernote / Teams
-    post_to_github(latest_txt_path="latest.txt")
-    email_to_evernote("latest.txt")
-    post_to_teams_webhook("latest.txt")
+    parts = [fetch_weather(), ""]
+    for section, urls in RSS_FEEDS.items():
+        parts.append(collect_section(section, urls))
+        parts.append("")
+    parts.append("— End of briefing —")
+    out = "\n".join(parts)
+    with open("latest.txt", "w", encoding="utf-8") as f:
+        f.write(out)
+    print("latest.txt updated")
 
 if __name__ == "__main__":
     main()
