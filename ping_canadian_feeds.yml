@@ -1,3 +1,16 @@
+.github/workflows/ping_canadian_feeds.yml
+
+name: Canadian Feed Uptime Pings
+
+on:
+schedule:
+- cron: ‘0 * * * *’  # every hour on the hour
+workflow_dispatch:
+
+jobs:
+ping-canadian-feeds:
+runs-on: ubuntu-latest
+
 steps:
   - name: Check out repo
     uses: actions/checkout@v4
@@ -49,3 +62,32 @@ steps:
       git add uptime.json
       git commit -m "Add uptime ping ${{ steps.ping.outputs.timestamp }}" || echo "No changes"
       git push
+
+
+⸻
+
+.github/workflows/pages-build-deployment.yml
+
+name: Deploy GitHub Pages
+
+on:
+push:
+branches:
+- main
+
+jobs:
+build-and-deploy:
+runs-on: ubuntu-latest
+
+steps:
+  - name: Checkout repository
+    uses: actions/checkout@v4
+
+  - name: Deploy to GitHub Pages
+    uses: peaceiris/actions-gh-pages@v3
+    with:
+      github_token: ${{ secrets.GITHUB_TOKEN }}
+      publish_dir: './'
+      publish_branch: gh-pages
+      user_name: github-actions[bot]
+      user_email: 41898282+github-actions[bot]@users.noreply.github.com
