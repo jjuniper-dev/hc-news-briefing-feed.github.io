@@ -1,0 +1,72 @@
+name: Canadian Feed Uptime Pings
+
+on:
+  # every hour, on the hour—adjust to “*/15 * * * *” for every 15m, etc.
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  ping-cbc-ctv:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: pip install feedparser requests
+
+      - name: Ping Canadian feeds
+        id: ping
+        run: |
+          python3 - << 'EOF'
+          import os, json, requests, feedparser
+          from datetime import datetime
+
+          feeds = {
+            "CBC": "https://rss.cbc.ca/lineup/topstories.xml",
+            "CTV": "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"
+          }
+
+          timestamp = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')
+          results = {}
+          for name, url in feeds.items():
+              try:
+                  r = requests.get(url, timeout=10); r.raise_for_status()
+                  ok = bool(feedparser.parse(r.content).entries)
+              except:
+                  ok = False
+              results[name] = ok
+
+          # prepare single record
+          record = {"timestamp": timestamp, **results}
+
+          # load or init uptime.json
+          path = 'uptime.json'
+          try:
+              data = json.load(open(path))
+          except FileNotFoundError:
+              data = []
+          data.append(record)
+
+          # trim to last 7 days (~7*24=168 entries if hourly)
+          # optional: only keep last N entries
+          MAX = 168
+          if len(data) > MAX:
+              data = data[-MAX:]
+
+          # write back
+          with open(path, 'w') as f:
+              json.dump(data, f, indent=2)
+
+          # export so we can commit
+          print(f"Uptime record added at {timestamp}")
+          EOF
+
+      - name: Commit & push uptime.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add uptime.json
+          git commit -m "Add uptime ping for $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "No changes"
+          git push
