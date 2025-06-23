@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>RSS Feed Health Dashboard</title>
   <style>
     body { font-family: sans-serif; margin: 2rem; }
@@ -25,26 +25,34 @@
   </table>
 
   <script>
-    async function loadData() {
-      const res = await fetch('health.json');
-      const data = await res.json();
-      const tbody = document.querySelector('#health-table tbody');
-      for (const [date, feeds] of Object.entries(data).reverse()) {
-        for (const [name, status] of Object.entries(feeds)) {
-          const tr = document.createElement('tr');
-          const cls = status.startsWith('ERROR') ? 'bad'
-                    : status==='ZERO'               ? 'warn'
-                    : 'good';
-          tr.innerHTML = `
-            <td>${date}</td>
-            <td>${name}</td>
-            <td class="${cls}" title="${status}">${status}</td>
-          `;
-          tbody.appendChild(tr);
+    document.addEventListener('DOMContentLoaded', async () => {
+      try {
+        const res = await fetch('health.json');
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+        const tbody = document.querySelector('#health-table tbody');
+        for (const [date, feeds] of Object.entries(data).slice(-5).reverse()) {
+          for (const [name, status] of Object.entries(feeds)) {
+            const tr = document.createElement('tr');
+            const cls = status.startsWith('ERROR') ? 'bad'
+                      : status === 'ZERO'      ? 'warn'
+                      : 'good';
+            tr.innerHTML = `
+              <td>${date}</td>
+              <td>${name}</td>
+              <td class="${cls}" title="${status}">${status}</td>
+            `;
+            tbody.appendChild(tr);
+          }
         }
+      } catch (err) {
+        console.error('Failed to load health.json:', err);
+        const tbody = document.querySelector('#health-table tbody');
+        const tr = document.createElement('tr');
+        tr.innerHTML = `<td colspan="3" class="bad">Error loading data: ${err.message}</td>`;
+        tbody.appendChild(tr);
       }
-    }
-    loadData();
+    });
   </script>
 </body>
 </html>
