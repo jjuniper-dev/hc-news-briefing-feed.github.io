@@ -9,6 +9,7 @@ on:
 jobs:
   test_feeds:
     runs-on: ubuntu-latest
+
     steps:
       - name: Check out repo
         uses: actions/checkout@v3
@@ -20,11 +21,17 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      - name: Install dependencies (if any)
+        run: |
+          if [ -f requirements.txt ]; then
+            echo "requirements.txt found, installing…"
+            pip install -r requirements.txt
+          else
+            echo "No requirements.txt—skipping install."
+          fi
 
       - name: Run feed-test suite
-        run: python test_feeds.py     # or whatever your test script is
+        run: python test_feeds.py     # adjust if your script name is different
 
       - name: Commit updated health.json
         uses: EndBug/add-and-commit@v9
