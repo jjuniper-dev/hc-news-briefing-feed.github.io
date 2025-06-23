@@ -1,21 +1,21 @@
-name: Daily Canadian Feed Health Check
+name: Daily RSS Feed Health Check
 
 on:
   schedule:
-    - cron: '0 10 * * *'
+    - cron: '0 10 * * *'    # 6 AM ET / 10 UTC
   workflow_dispatch:
 
 jobs:
-  ping-canadian-feeds:
+  health-check-all-feeds:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repo
+      - name: Check out repository
         uses: actions/checkout@v4
 
       - name: Install dependencies
         run: pip install feedparser requests
 
-      - name: Test Canadian feeds
+      - name: Test all RSS feeds
         id: health
         run: |
           python3 - << 'EOF'
@@ -23,23 +23,29 @@ jobs:
 
           feeds = {
             "CBC Top Stories": "https://rss.cbc.ca/lineup/topstories.xml",
-            "CTV Canada":      "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"
+            "CTV Canada":      "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050",
+            "NPR US":          "https://feeds.npr.org/1001/rss.xml",
+            "Reuters World":   "https://www.reuters.com/world/rss",
+            "BBC World":       "http://feeds.bbci.co.uk/news/world/rss.xml",
+            "Public Health":   "https://www.canada.ca/etc/+/health/public-health-updates.rss",
+            "AI & Emerging Tech": "https://feeds.arstechnica.com/arstechnica/technology-policy",
+            "Cybersecurity":   "https://krebsonsecurity.com/feed/",
+            "Enterprise Arch": "https://www.opengroup.org/news/rss",
+            "Geomatics":       "https://www.geospatialworld.net/feed/"
           }
+
           results = {}
           for name, url in feeds.items():
               try:
-                  r = requests.get(url, timeout=20)
-                  r.raise_for_status()
-                  feed = feedparser.parse(r.content)
-                  count = len(feed.entries)
-                  results[name] = f"{count} items" if count else "ZERO"
+                  r = requests.get(url, timeout=20); r.raise_for_status()
+                  cnt = len(feedparser.parse(r.content).entries)
+                  results[name] = f"{cnt} items" if cnt else "ZERO"
               except Exception as e:
                   results[name] = f"ERROR: {type(e).__name__}"
-          # Export JSON as a step output
-          print(f"feed_status<<EOF\n{json.dumps(results)}\nEOF")
+          print("feed_status=" + json.dumps(results))
           EOF
 
-      - name: Email summary
+      - name: Email daily summary
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
@@ -49,9 +55,10 @@ jobs:
           secure: true
           from: "RSS Health Bot <spatialsensation@gmail.com>"
           to: spatialsensation@gmail.com
-          subject: "📫 Canadian RSS Feed Health – ${{ github.run_date }}"
+          subject: "📫 RSS Feed Health – ${{ github.run_date }}"
           body: |
-            Here is today’s feed‐health summary:
+            Here’s today’s RSS‐feed health report:
+
             ${{ steps.health.outputs.feed_status }}
 
-            (No red failures—just your daily snapshot.)  
+            See the full run: ${{ github.run_url }}
