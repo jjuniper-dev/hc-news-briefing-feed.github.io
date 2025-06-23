@@ -1,47 +1,32 @@
-Morning News Briefing – June 23, 2025 21:23
+Morning News Briefing – June 23, 2025
 
-WEATHER:
-(no data available)
 
-CANADIAN NEWS:
-(no data available)
 
-US NEWS:
-• Were U.S. Strikes On Iran's Nuclear Program Successful?
-  The U.S. entered Israel's war against Iran over the weekend, dropping bombs and firing missiles on three Iranian nuclear enrichment facilities. We hear from some experts on whether they think the attacks were successful in damaging or destroying Iran's ability to make a nuclear weapon. <br /><br />And Israeli Prime Minister Benjamin Netanyahu has long had sights on attacking Iran but until recently that ambition seemed to be sidelined by President Trump. Now Netanyahu's basking in the moment after the U.S. joined in on the war against Iran.  <br /><br />For more coverage of all sides of this conflict, go to <a href="http://npr.org/mideastupdates">npr.org/mideastupdates </a> {Jun 23, 2025 (www.npr.org)}
-• U.S. Supreme Court allows -- for now -- third-country deportations
-  A federal judge had previously said people must get at least 15 days to challenge their deportations to countries they're not originally from. {Jun 23, 2025 (www.npr.org)}
+Ottawa Weather – June 23, 2025
+• None: None
+• None: None
+• None: None
 
-INTERNATIONAL NEWS:
-• Israel says it struck Tehran's Evin prison and Fordo access routes
-  Iran's judiciary says the attack damaged parts of Evin, a notorious facility which holds many political prisoners. {Jun 23, 2025 (www.bbc.com)}
-• 'Why wouldn't there be a regime change?' Trump's latest on Iran
-  The president's comments came after other top officials said replacing the leadership in Tehran was not the aim. {Jun 23, 2025 (www.bbc.com)}
 
-PUBLIC HEALTH:
-(no data available)
+CANADIAN NEWS – June 23, 2025
 
-AI & EMERGING TECH:
-• A Chinese firm has just launched a constantly changing set of AI benchmarks
-  When testing an AI model, it’s hard to tell if it is reasoning or just regurgitating answers from its training data. Xbench, a new benchmark developed by the Chinese venture capital firm HSG, or HongShan Capital Group, might help to sidestep that issue. That’s thanks to the way it evaluates models not only on the&#8230; {Jun 23, 2025 (www.technologyreview.com)}
-• Scaling integrated digital health
-  Around the world, countries are facing the challenges of aging populations, growing rates of chronic disease, and workforce shortages, leading to a growing burden on health care systems. From diagnosis to treatment, AI and other digital solutions can enhance the efficiency and effectiveness of health care, easing the burden on straining systems. According to the&#8230; {Jun 23, 2025 (www.technologyreview.com)}
+• What we know about Iran's attack on US base in Qatar {Mon, 23 Jun 2025 18:14:33 GMT}
 
-CYBERSECURITY & PRIVACY:
-• Inside a Dark Adtech Empire Fed by Fake CAPTCHAs
-  Late last year, security researchers made a startling discovery: Kremlin-backed disinformation campaigns were bypassing moderation on social media platforms by leveraging the same malicious advertising technology that powers a sprawling ecosystem of online hucksters and website hackers. A new report on the fallout from that investigation finds this dark ad tech industry is far more resilient and incestuous than previously known. {Jun 12, 2025 (krebsonsecurity.com)}
-• Patch Tuesday, June 2025 Edition
-  Microsoft today released security updates to fix at least 67 vulnerabilities in its Windows operating systems and software. Redmond warns that one of the flaws is already under active attack, and that software blueprints showing how to exploit a pervasive Windows bug patched this month are now public. {Jun 11, 2025 (krebsonsecurity.com)}
+• If Iran retaliation ends here, Trump's high-risk strikes may pay off {Mon, 23 Jun 2025 21:38:41 GMT}
 
-ENTERPRISE ARCHITECTURE:
-(no data available)
 
-GEOMATICS:
-• Accelerating Future Geospatial Ecosystem through Collaborative Efforts of Professional Societies
-  <p>Watch this impactful panel from Geospatial World Forum 2025 on “Accelerating Future Geospatial Ecosystem through Collaborative Efforts of Professional Societies.” where global leaders of professional geospatial societies come together to [&#8230;]</p>
-<p>The post <a href="https://geospatialworld.net/videos/future-geospatial-ecosystem-gwf-2025/">Accelerating Future Geospatial Ecosystem through Collaborative Efforts of Professional Societies</a> appeared first on <a href="https://geospatialworld.net">Geospatial World</a>.</p> {Jun 23, 2025 (geospatialworld.net)}
-• Managing the Explosion of Spatial Data: How Open Data Can Help Structure Data for Government and Enterprises | GWF 2025
-  <p>As geospatial data explodes, experts from Meta, Uber, TomTom, and the Overture Maps Foundation explore how open data is transforming from a mere free resource into critical digital infrastructure. This [&#8230;]</p>
-<p>The post <a href="https://geospatialworld.net/videos/open-data-infrastructure-gwf2025/">Managing the Explosion of Spatial Data: How Open Data Can Help Structure Data for Government and Enterprises | GWF 2025</a> appeared first on <a href="https://geospatialworld.net">Geospatial World</a>.</p> {Jun 20, 2025 (geospatialworld.net)}
+US NEWS – June 23, 2025
+
+• Were U.S. Strikes On Iran's Nuclear Program Successful? {Mon, 23 Jun 2025 16:44:58 -0400}
+
+• U.S. Supreme Court allows -- for now -- third-country deportations {Mon, 23 Jun 2025 16:41:02 -0400}
+
+
+INTERNATIONAL – June 23, 2025
+
+• Israel says it struck Tehran's Evin prison and Fordo access routes {Mon, 23 Jun 2025 18:10:12 GMT}
+
+• 'Why wouldn't there be a regime change?' Trump's latest on Iran {Mon, 23 Jun 2025 13:01:31 GMT}
+
 
 — End of briefing —
