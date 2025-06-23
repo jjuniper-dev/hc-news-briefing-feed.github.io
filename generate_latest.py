@@ -1,160 +1,126 @@
 #!/usr/bin/env python3
-import sys
-import requests
 import feedparser
+import requests
 from datetime import datetime
 
-# --- CONFIG ---
-# RSS feeds by section (add or remove URLs as you wish)
-SECTIONS = {
+# --- CONFIG -------------------------------------------------------------
+
+# Backup weather URLs
+WEATHER_FEEDS = [
+    ("Environment Canada (Ottawa)", "https://dd.weather.gc.ca/rss/city/on-118_e.xml"),
+    ("NOAA (Ottawa)",               "https://w1.weather.gov/xml/current_obs/CYOW.xml")  # example; you may need to convert XML→RSS
+]
+
+RSS_FEEDS = {
     "CANADIAN NEWS": [
-        "https://rss.cbc.ca/lineup/topstories.xml",
-        "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"
+        ("CBC Canada",       "https://rss.cbc.ca/lineup/canada.xml"),
+        ("CTV Canada",       "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"),
+        ("Reddit – Canada",          "https://www.reddit.com/r/Canada/.rss"),
+        ("Reddit – Canadian Politics","https://www.reddit.com/r/CanadianPolitics/.rss"),
+        ("Reddit – Breaking Canada", "https://www.reddit.com/r/canadanews/.rss"),
     ],
     "US NEWS": [
-        "https://feeds.npr.org/1001/rss.xml",
-        "https://rss.cnn.com/rss/edition_us.rss"
+        ("NPR US",         "https://feeds.npr.org/1001/rss.xml"),
+        ("AP Top Stories", "https://apnews.com/apf-topnews?format=xml"),
     ],
     "INTERNATIONAL NEWS": [
-        "https://feeds.reuters.com/Reuters/worldNews",
-        "http://feeds.bbci.co.uk/news/world/rss.xml"
+        ("Reuters World", "https://feeds.reuters.com/Reuters/worldNews"),
+        ("BBC World",     "http://feeds.bbci.co.uk/news/world/rss.xml"),
     ],
     "PUBLIC HEALTH": [
-        "https://www.canada.ca/etc/+/health/public-health-updates.rss"
+        ("PHAC Updates", "https://www.canada.ca/etc/+/health/public-health-updates.rss"),
     ],
     "AI & EMERGING TECH": [
-        "https://feeds.arstechnica.com/arstechnica/technology-policy",
-        "https://www.technologyreview.com/feed/"
+        ("Ars Tech Policy",        "https://feeds.arstechnica.com/arstechnica/technology-policy"),
+        ("Reddit – MachineLearning","https://www.reddit.com/r/MachineLearning/.rss"),
+        ("Reddit – artificial",     "https://www.reddit.com/r/artificial/.rss"),
+        ("Reddit – TechPolicy",     "https://www.reddit.com/r/TechPolicy/.rss"),
     ],
     "CYBERSECURITY & PRIVACY": [
-        "https://krebsonsecurity.com/feed/",
-        "https://www.schneier.com/blog/atom.xml"
+        ("KrebsOnSecurity",      "https://krebsonsecurity.com/feed/"),
+        ("Ars Security",         "https://feeds.arstechnica.com/arstechnica/security"),
     ],
     "ENTERPRISE ARCHITECTURE": [
-        "https://www.opengroup.org/news/rss"
+        ("OpenGroup News",       "https://www.opengroup.org/news/rss"),
+        ("Gartner EA (blog)",    "https://www.gartner.com/en/information-technology/insights/enterprise-architecture/rss"),
     ],
     "GEOMATICS": [
-        "https://www.geospatialworld.net/feed/"
+        ("Geospatial World",     "https://www.geospatialworld.net/feed/"),
     ],
     "CLOUD PROVIDERS": [
-        "https://azure.microsoft.com/en-us/updates/feed/",
-        "https://aws.amazon.com/new/feed/",
-        "https://cloud.google.com/blog/feed.atom"
+        ("Microsoft Azure",      "https://azure.microsoft.com/en-us/updates/feed/"),
+        ("AWS News Blog",        "https://aws.amazon.com/about-aws/whats-new/recent/feed/"),
+        ("Google Cloud",         "https://cloud.google.com/blog/feed.xml"),
     ],
 }
 
-# Coordinates for Ottawa
-LAT, LON = 45.4215, -75.6972
+# Number of items per source
+ITEMS_PER_FEED = 2
 
-# --- WEATHER FETCHING ---
+# ------------------------------------------------------------------------
 
-def fetch_environment_canada():
-    """Try Environment Canada RSS for Ottawa (on-region)."""
-    try:
-        url = "https://dd.weather.gc.ca/citypage_weather/xml/ON/s0000430_e.xml"
-        feed = feedparser.parse(url)
-        today = feed.entries[0]
-        tomorrow = feed.entries[1] if len(feed.entries) > 1 else None
-        lines = [
-            f"Ottawa Weather – {datetime.now():%B %d, %Y} (EnvCan)",
-            f"• {today.title}: {today.summary}",
-        ]
-        if tomorrow:
-            lines.append(f"• {tomorrow.title}: {tomorrow.summary}")
-        return "\n".join(lines)
-    except Exception:
-        raise
-
-def fetch_wttr():
-    """Fallback to wttr.in JSON for Ottawa."""
-    try:
-        url = "https://wttr.in/Ottawa?format=j1"
-        r = requests.get(url, timeout=5)
-        r.raise_for_status()
-        j = r.json()
-        today = j["current_condition"][0]
-        forecast = j["weather"][:2]
-        lines = [f"Ottawa Weather – {datetime.now():%B %d, %Y} (wttr.in)"]
-        lines.append(f"• Now: {today['weatherDesc'][0]['value']}, {today['temp_C']}°C")
-        for day in forecast:
-            d = datetime.strptime(day["date"], "%Y-%m-%d").strftime("%A")
-            lines.append(f"• {d}: {day['maxtempC']}°C/{day['mintempC']}°C, {day['hourly'][4]['weatherDesc'][0]['value']}")
-        return "\n".join(lines)
-    except Exception:
-        raise
-
-def fetch_noaa():
-    """Tertiary fallback: NOAA/NWS API by lat/lon."""
-    try:
-        # 1) Find gridpoint for Ottawa
-        pts = requests.get(f"https://api.weather.gov/points/{LAT},{LON}", timeout=5,
-                           headers={"User-Agent":"DailyBriefingBot"}).json()
-        grid = pts["properties"]["forecastGridData"]
-        # 2) Fetch forecast grid
-        r2 = requests.get(grid, timeout=5, headers={"User-Agent":"DailyBriefingBot"})
-        r2.raise_for_status()
-        periods = r2.json()["properties"]["periods"][:3]
-        lines = [f"Ottawa Weather – {datetime.now():%B %d, %Y} (NOAA)"]
-        for p in periods:
-            lines.append(f"• {p['name']}: {p['shortForecast']} ({p['temperature']}°{p['temperatureUnit']})")
-        return "\n".join(lines)
-    except Exception:
-        raise
 
 def fetch_weather():
-    """Attempt the three-tiered weather fetch, else indicate failure."""
-    for fn in (fetch_environment_canada, fetch_wttr, fetch_noaa):
+    out = [f"Ottawa Weather – {datetime.now():%B %d, %Y}"]
+    for name, url in WEATHER_FEEDS:
         try:
-            return fn()
+            resp = requests.get(url, timeout=10)
+            resp.raise_for_status()
+            feed = feedparser.parse(resp.content)
+            # take first two entries if available
+            for entry in feed.entries[:2]:
+                title = entry.get("title", "").strip()
+                summary = entry.get("summary", "").strip()
+                out.append(f"• {title}: {summary}")
+            break  # stop after first successful feed
         except Exception:
             continue
-    return f"Ottawa Weather – {datetime.now():%B %d, %Y}\n• (weather data unavailable)"
-
-# --- NEWS FETCHING & FORMATTING ---
-
-def format_entry(entry):
-    """Use full content if available, else summary; strip excessive whitespace."""
-    text = ""
-    if entry.get("content"):
-        text = entry.content[0].value
     else:
-        text = entry.get("summary", "")
-    text = text.replace("\n", " ").strip()
-    date = ""
-    if entry.get("published_parsed"):
-        date = datetime(*entry.published_parsed[:6]).strftime("%b %d, %Y")
-    source = entry.get("source", {}).get("title") or entry.get("link", "").split("/")[2]
-    return f"• {entry.title.strip()}\n  {text} {{{date} ({source})}}"
+        out.append("• (no weather data available)")
+    return "\n".join(out)
 
-def collect_section(name, urls, topn=2):
-    """Collect up to topn entries from each URL in this section."""
-    parts = [f"\n{name} – {datetime.now():%B %d, %Y}"]
-    any_found = False
-    for url in urls:
+
+def fetch_section(name, sources):
+    lines = [f"\n{name} – {datetime.now():%B %d, %Y}"]
+    any_ok = False
+    for src_name, url in sources:
         try:
-            feed = feedparser.parse(url)
-            entries = feed.entries[:topn]
+            resp = requests.get(url, timeout=10)
+            resp.raise_for_status()
+            feed = feedparser.parse(resp.content)
+            entries = feed.entries[:ITEMS_PER_FEED]
+            if not entries:
+                lines.append(f"• {src_name}: (unavailable)")
+                continue
+            any_ok = True
             for e in entries:
-                parts.append(format_entry(e))
-                any_found = True
+                # full text if available, else summary
+                text = ""
+                if e.get("content"):
+                    text = e.content[0].value.strip()
+                else:
+                    text = e.get("summary", "").strip()
+                pub = ""
+                if e.get("published_parsed"):
+                    pub = datetime(*e.published_parsed[:6]).strftime("%b %d, %Y")
+                lines.append(f"• {src_name}: {e.title.strip()}\n  {text} {{{pub}}}")
         except Exception:
-            continue
-    if not any_found:
-        parts.append("• (no entries)")
-    return "\n".join(parts)
+            lines.append(f"• {src_name}: (unavailable)")
+    if not any_ok:
+        lines.append("• (no data available)")
+    return "\n".join(lines)
 
-# --- MAIN ---
 
 def main():
+    parts = []
+    parts.append(fetch_weather())
+    for section, sources in RSS_FEEDS.items():
+        parts.append(fetch_section(section, sources))
+    parts.append("\n— End of briefing —")
+    print("\n".join(parts))
     with open("latest.txt", "w", encoding="utf-8") as f:
-        # WEATHER
-        f.write(fetch_weather())
-        f.write("\n\n")
-        # NEWS SECTIONS
-        for section, urls in SECTIONS.items():
-            f.write(collect_section(section, urls))
-            f.write("\n\n")
-        f.write("— End of briefing —\n")
+        f.write("\n".join(parts))
+
 
 if __name__ == "__main__":
     main()
