@@ -1,16 +1,23 @@
-Ottawa Weather – June 22, 2025
-• Tonight: HEAT WARNING, Pembroke
-• Tomorrow: Monday: A mix of sun and cloud. High 34.
+Ottawa Weather – June 23, 2025
+Warnings:
+• HEAT WARNING, Pembroke: Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 5:11 PM EDT Sunday 22 June 2025
+• Today: Current Conditions:  27.0°C. Observed at: Pembroke 8:00 PM EDT Sunday 22 June 2025 Temperature: 27.0&deg;C Pressure / Tendency: 101.5 kPa rising Humidity: 68 % Humidex: 35 Dewpoint: 20.6&deg;C Wind: E 5 km/h Air Quality Health Index: n/a
+• Tomorrow: Sunday night: Chance of showers. Low 20. POP 30%. Partly cloudy. 30 percent chance of showers early this evening with risk of a thunderstorm. Fog patches developing after midnight. Low 20. Forecast issued 3:30 PM EDT Sunday 22 June 2025
+• Day After Tomorrow: Monday: A mix of sun and cloud. High 34.. A mix of sun and cloud. Clearing in the afternoon. Fog patches dissipating in the morning. Wind becoming southwest 20 km/h in the afternoon. High 34. Humidex 42. UV index 9 or very high. Forecast issued 3:30 PM EDT Sunday 22 June 2025
 
-Canadian Headlines – June 22, 2025
-• BBC Canada: Trump takes huge gamble putting US at heart of Iran-Israel conflict
-• BBC Canada: What we know about US strikes on three Iranian nuclear sites
+Canadian Headlines – June 23, 2025
+• (No Canadian headlines available)
 
 U.S. Top Stories
 • How politicians in the U.S. are reacting to the Iran strikes.
 • Satellites show damage to Iran's nuclear program, but experts say it's not destroyed
 
 International Top Stories
+• Decoy flights and seven B-2 stealth bombers - how US says it hit Iran's nuclear sites
+• 'Necessary' or 'unfounded'? Americans in Texas respond to US strikes
+
+AI & Emerging Tech
+• The Download: talking dirty with DeepSeek, and the risks and rewards of calorie restriction
 
 Cybersecurity & Privacy
 • Inside a Dark Adtech Empire Fed by Fake CAPTCHAs
