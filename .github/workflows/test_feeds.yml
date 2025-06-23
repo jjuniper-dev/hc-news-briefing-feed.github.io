@@ -24,33 +24,60 @@ jobs:
           import os, feedparser, requests, json
 
           feeds = {
-            "CBC Top Stories":    "https://rss.cbc.ca/lineup/topstories.xml",
-            "CTV Canada":         "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050",
-            "NPR US":             "https://feeds.npr.org/1001/rss.xml",
-            "Reuters World":      "https://feeds.reuters.com/Reuters/worldNews",
-            "BBC World":          "http://feeds.bbci.co.uk/news/world/rss.xml",
-            "Public Health":      "https://www.canada.ca/etc/+/health/public-health-updates.rss",
-            "AI & Emerging Tech": "https://feeds.arstechnica.com/arstechnica/technology-policy",
-            "Cybersecurity":      "https://krebsonsecurity.com/feed/",
-            "Enterprise Arch":    "https://www.opengroup.org/news/rss",
-            "Geomatics":          "https://www.geospatialworld.net/feed/"
+            "CBC Top Stories":      "https://rss.cbc.ca/lineup/topstories.xml",
+            "CTV Canada":           "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050",
+            "NPR US":               "https://feeds.npr.org/1001/rss.xml",
+            "Reuters World":        "https://feeds.reuters.com/Reuters/worldNews",
+            "BBC World":            "http://feeds.bbci.co.uk/news/world/rss.xml",
+            "Public Health":        "https://www.canada.ca/etc/+/health/public-health-updates.rss",
+            "AI & Emerging Tech":   "https://feeds.arstechnica.com/arstechnica/technology-policy",
+            "Cybersecurity":        "https://krebsonsecurity.com/feed/",
+            "Enterprise Arch":      "https://www.opengroup.org/news/rss",
+            "Geomatics":            "https://www.geospatialworld.net/feed/"
           }
 
           results = {}
           for name, url in feeds.items():
               try:
-                  r = requests.get(url, timeout=20)
-                  r.raise_for_status()
+                  r = requests.get(url, timeout=20); r.raise_for_status()
                   cnt = len(feedparser.parse(r.content).entries)
                   results[name] = f"{cnt} items" if cnt else "ZERO"
               except Exception as e:
                   results[name] = f"ERROR: {type(e).__name__}"
 
-          # Export the results via GITHUB_OUTPUT
+          # Export as a GH Actions output
           out = json.dumps(results)
           with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
               f.write(f"feed_status={out}\n")
           EOF
+
+      - name: Persist health.json
+        env:
+          FEED_STATUS: ${{ steps.health.outputs.feed_status }}
+        run: |
+          python3 - << 'EOF'
+          import os, json
+          from datetime import datetime
+
+          feed_status = json.loads(os.environ['FEED_STATUS'])
+          path = 'health.json'
+          try:
+              data = json.load(open(path))
+          except FileNotFoundError:
+              data = {}
+          today = datetime.now().strftime('%Y-%m-%d')
+          data[today] = feed_status
+          with open(path, 'w') as f:
+              json.dump(data, f, indent=2)
+          EOF
+
+      - name: Commit and push health.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add health.json
+          git commit -m "Auto-update health.json for $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push
 
       - name: Email daily summary
         uses: dawidd6/action-send-mail@v3
@@ -68,4 +95,7 @@ jobs:
 
             ${{ steps.health.outputs.feed_status }}
 
-            See the full run: ${{ github.run_url }}
+            You can also view the historical log at:
+            https://<your-username>.github.io/<repo>/health.json
+
+            See the full run here: ${{ github.run_url }}
