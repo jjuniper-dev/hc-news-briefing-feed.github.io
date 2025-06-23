@@ -1,38 +1,27 @@
-{
-  "2025-06-21": {
-    "CBC Top Stories": "18 items",
-    "CTV Canada": "ZERO",
-    "NPR US": "15 items",
-    "Reuters World": "20 items",
-    "BBC World": "22 items",
-    "Public Health": "ERROR: ReadTimeout",
-    "AI & Emerging Tech": "12 items",
-    "Cybersecurity": "10 items",
-    "Enterprise Arch": "8 items",
-    "Geomatics": "5 items"
-  },
-  "2025-06-22": {
-    "CBC Top Stories": "ZERO",
-    "CTV Canada": "ERROR: HTTPError",
-    "NPR US": "14 items",
-    "Reuters World": "19 items",
-    "BBC World": "21 items",
-    "Public Health": "3 items",
-    "AI & Emerging Tech": "11 items",
-    "Cybersecurity": "9 items",
-    "Enterprise Arch": "8 items",
-    "Geomatics": "4 items"
-  },
-  "2025-06-23": {
-    "CBC Top Stories": "ERROR: ReadTimeout",
-    "CTV Canada": "ERROR: HTTPError",
-    "NPR US": "10 items",
-    "Reuters World": "ERROR: ConnectionError",
-    "BBC World": "24 items",
-    "Public Health": "ZERO",
-    "AI & Emerging Tech": "ERROR: HTTPError",
-    "Cybersecurity": "10 items",
-    "Enterprise Arch": "ERROR: HTTPError",
-    "Geomatics": "10 items"
-  }
-}
+      - name: Persist health.json
+        env:
+          FEED_STATUS: ${{ steps.health.outputs.feed_status }}
+        run: |
+          python3 - << 'EOF'
+          import os, json
+          from datetime import datetime
+
+          # Load the correct feed_status JSON (not the mail step output)
+          feed_status = json.loads(os.environ['FEED_STATUS'])
+
+          path = 'health.json'
+          try:
+              # Read existing history
+              with open(path, 'r') as f:
+                  data = json.load(f)
+          except (FileNotFoundError, json.JSONDecodeError):
+              data = {}
+
+          # Add today’s entry
+          today = datetime.now().strftime('%Y-%m-%d')
+          data[today] = feed_status
+
+          # Write back the full object
+          with open(path, 'w') as f:
+              json.dump(data, f, indent=2)
+          EOF
