@@ -1,8 +1,8 @@
-name: Update latest.txt
+name: Auto‐update latest.txt
 
 on:
   schedule:
-    - cron: '30 10 * * *'  # 6:30 AM Eastern
+    - cron: '30 10 * * *'   # Daily at 6:30 AM Eastern (10:30 UTC)
   workflow_dispatch:
 
 permissions:
@@ -13,10 +13,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Check out repo
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -24,14 +22,12 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install feedparser requests
+        run: pip install feedparser requests
 
       - name: Generate latest.txt
         run: python generate_latest.py
 
-      - name: Commit & push
+      - name: Commit & push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
