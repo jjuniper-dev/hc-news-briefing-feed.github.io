@@ -6,22 +6,21 @@
           import os, json
           from datetime import datetime
 
-          # Load the correct feed_status JSON (not the mail step output)
           feed_status = json.loads(os.environ['FEED_STATUS'])
-
           path = 'health.json'
+
+          # Safely load existing data, or start over if it's missing/invalid
           try:
-              # Read existing history
               with open(path, 'r') as f:
                   data = json.load(f)
           except (FileNotFoundError, json.JSONDecodeError):
               data = {}
 
-          # Add today’s entry
+          # Append today's snapshot
           today = datetime.now().strftime('%Y-%m-%d')
           data[today] = feed_status
 
-          # Write back the full object
+          # Write back as pretty JSON
           with open(path, 'w') as f:
               json.dump(data, f, indent=2)
           EOF
