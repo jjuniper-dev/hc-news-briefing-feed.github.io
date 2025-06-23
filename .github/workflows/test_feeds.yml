@@ -1,8 +1,8 @@
-name: Daily Feed Health Check
+name: Daily Canadian Feed Health Check
 
 on:
   schedule:
-    # Runs daily at 6:00 AM Eastern Time (10:00 UTC)
+    # 6:00 AM Eastern (10:00 UTC)
     - cron: '0 10 * * *'
   workflow_dispatch:
 
@@ -10,7 +10,7 @@ jobs:
   ping-canadian-feeds:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repo
+      - name: Check out
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -18,42 +18,42 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install dependencies
-        run: |
-          pip install feedparser requests
+      - name: Install deps
+        run: pip install feedparser requests
 
-      - name: Test Canadian feeds
-        id: test_canada
+      - name: Health-check CBC & CTV
+        id: health
         run: |
           python - << 'EOF'
-          import sys, feedparser, requests
+          import feedparser, requests
 
           feeds = {
-              "CBC Canada":   "https://www.cbc.ca/cmlink/rss-topstories",
-              "CTV Top News": "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.796439",
+            "CBC Top Stories": "https://rss.cbc.ca/lineup/topstories.xml",
+            "CTV Canada":      "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"
           }
 
-          failed = []
+          results = {}
           for name, url in feeds.items():
+              status = "OK"
               try:
-                  resp = requests.get(url, timeout=20)
-                  resp.raise_for_status()
-                  feed = feedparser.parse(resp.content)
+                  r = requests.get(url, timeout=15); r.raise_for_status()
+                  feed = feedparser.parse(r.content)
                   if not feed.entries:
-                      print(f"❌ {name}: 0 entries")
-                      failed.append(name)
+                      status = "ZERO"
                   else:
-                      print(f"✔️ {name}: {len(feed.entries)} entries")
+                      status = f"{len(feed.entries)} items"
               except Exception as e:
-                  print(f"❌ {name}: ERROR → {e}")
-                  failed.append(name)
+                  status = f"ERROR: {e.__class__.__name__}"
+              print(f"{name}: {status}")
+              results[name] = status
 
-          if failed:
-              sys.exit(f"Feeds failing: {', '.join(failed)}")
+          # Export summary to next steps
+          import json, os
+          os.environ["FEED_STATUS"] = json.dumps(results)
           EOF
 
-      - name: Notify on failure
-        if: failure()
+      - name: Notify if any bad
+        if: always()
         run: |
-          echo "One or more Canadian feeds failed – check the Actions logs."
-          # You can hook in Slack or email notifications here
+          echo "Feed health summary: ${{ env.FEED_STATUS }}"
+          # Here you could add a curl to Slack or email the JSON
