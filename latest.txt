@@ -1,110 +1,92 @@
-Ottawa Weather – Error fetching forecast: 404 Client Error: Not Found for url: https://dd.weather.gc.ca/rss/city/on-118_e.xml
+Multi-Source News Briefing – Monday, June 23, 2025 10:10
 
+=== Weather ===
 
-Canadian Headlines
-• CBC: Error fetching feed (HTTPSConnectionPool(host='rss.cbc.ca', port=443): Read timed out. (read timeout=20))
-• CTV: Error fetching feed (404 Client Error: Not Found for url: https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050)
+-- Ottawa Weather --
+• HEAT WARNING, Ottawa
+  2025-06-23T09:31:50Z (https://weather.gc.ca/warnings/report_e.html?onrm104)
+• Current Conditions: Mostly Cloudy, 21.3°C
+  2025-06-23T10:00:00Z (https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687)
+• Monday: Mainly sunny. High 36.
+  2025-06-23T09:00:00Z (https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687)
+• Monday night: A few clouds. Low 25.
+  2025-06-23T09:00:00Z (https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687)
+• Tuesday: Mainly sunny. High 34.
+  2025-06-23T09:00:00Z (https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687)
 
-U.S. Top Stories
-• The Vera C. Rubin Observatory's first images are stunning — and just the start
-  The Vera C. Rubin Observatory has just released some of its first images. Its powerful new telescope will be able to quickly spot previously unseen astronomical objects.(Image credit: NSF-DOE Vera C. Rubin Observatory) {June 23, 2025 (www.npr.org)}
-• Police say a man opened fire outside a church before staff fatally shot him
-  Police described the suspect as a 31-year-old white male with no known connection to the church. His motive remains unclear.(Image credit: Paul Sancya) {June 23, 2025 (www.npr.org)}
-• Reuters US: Error fetching feed (HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /Reuters/domesticNews (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb2c09ad950>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)")))
+=== Canadian Headlines ===
+No items available or all feeds failed.
 
-International Top Stories
-• Reuters World: Error fetching feed (HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /Reuters/worldNews (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb2c09ae710>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)")))
-• Decoy flights and seven B-2 stealth bombers - how US says it hit Iran's nuclear sites
-  A timeline of how the complex mission unfolded was laid out in a Pentagon briefing. {June 22, 2025 (www.bbc.com)}
-• 'Necessary' or 'unfounded'? Americans in Texas respond to US strikes
-  The BBC asked Texans and those visiting the state about US President Trump's decision to bomb three nuclear sites. {June 22, 2025 (www.bbc.com)}
+=== U.S. Top Stories ===
 
-AI & Emerging Tech
-• Ars Technica: Error fetching feed (404 Client Error: Not Found for url: https://feeds.arstechnica.com/arstechnica/technology-policy)
+-- NPR US Top Stories --
+• Climate change is boosting the risk of sleep apnea
+  Mon, 23 Jun 2025 05:30:00 -0400 (https://www.npr.org/2025/06/23/nx-s1-5438087/climate-change-is-boosting-the-risk-of-sleep-apnea)
+• From the fringes to the mainstream: Meet the hardline anti-immigration activist who helped shape Trump's agenda
+  Mon, 23 Jun 2025 05:03:00 -0400 (https://www.npr.org/2025/06/23/nx-s1-5388929/from-the-fringes-to-the-mainstream-meet-the-hardline-anti-immigration-activist-who-helped-shape-trumps-agenda)
+• The David Lynch estate auction doubled as a caffeinated wake
+  Mon, 23 Jun 2025 05:02:00 -0400 (https://www.npr.org/2025/06/23/nx-s1-5440485/david-lynch-estate-auction-twin-peaks)
+• An AI video ad is making a splash. Is it the future of advertising?
+  Mon, 23 Jun 2025 05:01:00 -0400 (https://www.npr.org/2025/06/23/nx-s1-5432712/ai-video-ad-kalshi-advertising-nba-finals)
+• 'It's such a dream': Top high school performers step out on Broadway
+  Mon, 23 Jun 2025 05:00:23 -0400 (https://www.npr.org/2025/06/23/nx-s1-5430901/top-high-school-performers-jimmy-awards)
+
+=== International Top Stories ===
+
+-- BBC World --
+• Watch: How successful have the US strikes on Iran been?
+  Sun, 22 Jun 2025 20:39:06 GMT (https://www.bbc.com/news/videos/cq53l9dvggjo)
+• Lyse Doucet: What the US and Iran do next could be momentous
+  Sun, 22 Jun 2025 21:41:06 GMT (https://www.bbc.com/news/articles/cy0w94yj68xo)
+• Seven killed in Kyiv in new Russian aerial attack
+  Mon, 23 Jun 2025 09:26:05 GMT (https://www.bbc.com/news/articles/c0k7vll16l3o)
+• Dozens of soldiers seized in Colombian mountains
+  Mon, 23 Jun 2025 04:09:05 GMT (https://www.bbc.com/news/articles/c4gdlrk1pzko)
+• US asks China to stop Iran from closing Strait of Hormuz
+  Mon, 23 Jun 2025 07:12:26 GMT (https://www.bbc.com/news/articles/c056pyv723vo)
+
+=== AI & Emerging Tech ===
+
+-- The Register AI & Tech --
+• Economists sceptical over UK Spending Review's partly AI-driven 10% budget cuts
+  Mon, 23 Jun 2025 10:00:13 GMT (https://go.theregister.com/feed/www.theregister.com/2025/06/23/economist_question_spending_review_budget/)
+• The one thing SME IT can do that the big guys can’t: Change the world
+  Mon, 23 Jun 2025 08:33:10 GMT (https://go.theregister.com/feed/www.theregister.com/2025/06/23/opinion_column_sme_agile_change/)
+• Techie went home rather than fix mistake that caused a massive meltdown
+  Mon, 23 Jun 2025 07:26:14 GMT (https://go.theregister.com/feed/www.theregister.com/2025/06/23/who_me/)
+• Huawei chair says the future of comms is fiber-to-the-room, which China has and the rest of us don’t
+  Mon, 23 Jun 2025 06:32:32 GMT (https://go.theregister.com/feed/www.theregister.com/2025/06/23/huawei_chair_eric_xu_vision/)
 • AI-hosted infomercial shifts $7.5 million worth of product in China
-  PLUS: India tries to untangle TXT marketing opt-ins; China’s AI crackdown succeeds; Australia and Boeing team AWACS, drones; and more! Asia In Brief  Chinese web giant Baidu last week staged a livestream hosted by an AI version of local influencer Yonghao Luo and scored 13 million hits and $7.5 million of sales.… {June 23, 2025 (go.theregister.com)}
-• Former US Army Sergeant pleads guilty after amateurish attempt at selling secrets to China
-  PLUS: 5.4M healthcare records leak; AI makes Spam harder to spot; Many nasty Linux vulns; and more Infosec in brief  A former US Army sergeant has admitted he attempted to sell classified data to China.… {June 23, 2025 (go.theregister.com)}
-• OpenAI pulls promotional materials around Jony Ive deal due to court order
-  OpenAI appears to have pulled a much-discussed video promoting the friendship between CEO Sam Altman and legendary Apple designer Jony Ive (plus, incidentally, OpenAI’s $6.5 billion deal to acquire Ive and Altman’s device startup io) from its website and YouTube page. {June 22, 2025 (techcrunch.com)}
-• Tesla launches robotaxi rides in Austin with big promises and unanswered questions
-  Tesla has started giving rides in driverless Model Y SUVs in Austin. Details are still sparse, but limited service is open to vetted and invited riders. {June 22, 2025 (techcrunch.com)}
+  Mon, 23 Jun 2025 03:30:07 GMT (https://go.theregister.com/feed/www.theregister.com/2025/06/23/asia_tech_news_in_brief/)
 
-Public Health
+-- TechCrunch --
+• Top 10 AI Tools That Will Transform Your Content Creation in 2025
+  Thu, 02 Jan 2025 09:26:00 +0000 (https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html)
+• LimeWire AI Studio Review 2023: Details, Pricing & Features
+  Tue, 12 Dec 2023 16:10:00 +0000 (https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html)
+• Top 10 AI Tools in 2023 That Will Make Your Life Easier
+  Wed, 25 Jan 2023 19:52:00 +0000 (https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html)
+• Top 10 AI Content Generator & Writer Tools in 2022
+  Tue, 15 Nov 2022 08:58:00 +0000 (https://techncruncher.blogspot.com/2022/11/top-10-ai-content-generator-writer.html)
+• Beginner Guide to CJ Affiliate (Commission Junction) in 2022
+  Sat, 10 Sep 2022 08:57:00 +0000 (https://techncruncher.blogspot.com/2022/09/cj-affiliate-ultimate-guide-to.html)
 
-Enterprise Architecture & IT Governance
-• Open Group: Error fetching feed (404 Client Error: Not Found for url: https://www.opengroup.org/news/rss)
+=== Public Health ===
+No items available or all feeds failed.
 
-Geomatics
+=== Enterprise Architecture & IT Governance ===
+No items available or all feeds failed.
+
+=== Geomatics ===
+
+-- GWF - Geomatics 1 --
+• Accelerating Future Geospatial Ecosystem through Collaborative Efforts of Professional Societies
+  Mon, 23 Jun 2025 07:17:01 +0000 (https://geospatialworld.net/videos/future-geospatial-ecosystem-gwf-2025/)
 • Managing the Explosion of Spatial Data: How Open Data Can Help Structure Data for Government and Enterprises | GWF 2025
-  As geospatial data explodes, experts from Meta, Uber, TomTom, and the Overture Maps Foundation explore how open data is transforming from a mere free resource into critical digital infrastructure. This powerful panel, held at Geospatial World Forum 2025, dives into how the Overture Maps Foundation, is creating a shared, stable foundation for global map systems. 
-
-
-
-Hear how companies are leveraging stable IDs, reference maps, and real-time data validation to build accurate, scalable, and trusted mapping systems. Discover why open data is not just about access—but about trust, traceability, and collaboration across public and private sectors. 
-
-
-
-Moderator: Marc Prioleau, Executive Director, Overture Maps Foundation &#8211; USA 
-
-
-
-Speakers:
-
-
-
-
-Jan Erik Solem, Director – Maps, Meta &#8211; USA
-
-
-
-Amy Rose, CTO, Overture Maps Foundation &#8211; USA
-
-
-
-Michael Harrell, Senior VP &#8211; Engineering Maps, TomTom &#8211; Spain
-
-
-
-Dmitry Kuzhanov, Group Product Manager, Uber &#8211; USA
-
-The post Managing the Explosion of Spatial Data: How Open Data Can Help Structure Data for Government and Enterprises | GWF 2025 appeared first on Geospatial World. {June 20, 2025 (geospatialworld.net)}
+  Fri, 20 Jun 2025 05:30:00 +0000 (https://geospatialworld.net/videos/open-data-infrastructure-gwf2025/)
 • Spatial Computing and Geospatial Platforms: Powering Business Enterprises | GWF 2025
-  Discover how leaders from banking, agriculture, logistics, and geospatial technology are coming together to harmonize IoT, AI/ML, spatial computing, and geospatial data for scalable, real-world solutions. In this high-impact panel at Geospatial World Forum 2025, experts explore the convergence of emerging technologies across diverse sectors—from using satellite data in climate risk modeling to deploying digital twins for autonomous driving and managing agricultural operations across continents. 
-
-
-
-The panel highlights key industry challenges such as data standardization, interoperability between systems, real-time analytics, and the critical issue of last-mile data delivery. Hear how central banks are collaborating with FinTech&#8217;s for climate resilience, how integrators are optimizing supply chains through AI, and why industry leaders like TomTom are advocating for a unified digital twin approach. Real-world examples from autonomous vehicles, utility management, and smart farming illustrate both the opportunities and the bottlenecks of tech convergence. 
-
-
-
-Moderator: Swati Mittal, Director, Geospatial World
-
-
-
-Speakers:
-
-
-
-
-Andres Alonso, Senior Economist- Financial Innovation Division, Bank of Spain
-
-
-
-Kanti Kopalle, VP, Intuitive Operations and Automation, Cognizant &#8211; The Netherlands
-
-
-
-Michael Harrell, Senior Vice President- Engineering Maps, TomTom &#8211; Spain
-
-
-
-Dr Sim Choon Cheak, Head of Plantation Research &amp; Advisory, SD Guthrie Research Sdn Bhd &#8211; Malaysia
-
-
-
-Dhananjay Deshmukh, CTO &amp; VP, Tech Mahindra BPS &#8211; India
-
-The post Spatial Computing and Geospatial Platforms: Powering Business Enterprises | GWF 2025 appeared first on Geospatial World. {June 19, 2025 (geospatialworld.net)}
-
--- End of briefing --
+  Thu, 19 Jun 2025 07:10:36 +0000 (https://geospatialworld.net/videos/iot-ai-spatial-data-integration-gwf-2025-panel/)
+• Space Sustainability: Nervous System for NexGen Geospatial Industry Ecosystem | GWF 2025
+  Wed, 18 Jun 2025 11:55:02 +0000 (https://geospatialworld.net/videos/space-infrastructure-geospatial-gwf2025/)
+• Spatial Computing and Digital Twins: Advancing Role of Mapping in National and Global Economy
+  Tue, 17 Jun 2025 10:35:43 +0000 (https://geospatialworld.net/videos/spatial-computing-data-integration-gwf2025/)
