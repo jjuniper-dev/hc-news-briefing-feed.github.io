@@ -1,8 +1,8 @@
-name: Auto-update latest.txt
+name: Update latest.txt
 
 on:
   schedule:
-    - cron: '30 10 * * *'  # 6:30 AM Eastern (10:30 UTC)
+    - cron: '30 10 * * *'  # 6:30 AM Eastern
   workflow_dispatch:
 
 permissions:
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repository
+      - name: Checkout code
         uses: actions/checkout@v4
         with:
           persist-credentials: true
@@ -21,7 +21,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
@@ -31,7 +31,7 @@ jobs:
       - name: Generate latest.txt
         run: python generate_latest.py
 
-      - name: Commit & push changes
+      - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
