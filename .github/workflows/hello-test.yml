@@ -1,0 +1,10 @@
+name: Hello Test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "👋 If you see this, GitHub recognized the workflow!"
