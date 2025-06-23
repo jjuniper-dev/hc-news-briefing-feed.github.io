@@ -1,28 +1,110 @@
-Ottawa Weather – June 23, 2025
-Warnings:
-• HEAT WARNING, Pembroke: Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 5:11 PM EDT Sunday 22 June 2025
-• Today: Current Conditions:  22.5°C. Observed at: Pembroke 10:00 PM EDT Sunday 22 June 2025 Temperature: 22.5&deg;C Pressure / Tendency: 101.6 kPa rising Humidity: 89 % Humidex: 31 Dewpoint: 20.6&deg;C Wind: SSE calm km/h Air Quality Health Index: n/a
-• Tomorrow: Sunday night: Chance of showers. Low 20. POP 30%. Partly cloudy. 30 percent chance of showers early this evening with risk of a thunderstorm. Fog patches developing after midnight. Low 20. Forecast issued 3:30 PM EDT Sunday 22 June 2025
-• Day After Tomorrow: Monday: A mix of sun and cloud. High 34.. A mix of sun and cloud. Clearing in the afternoon. Fog patches dissipating in the morning. Wind becoming southwest 20 km/h in the afternoon. High 34. Humidex 42. UV index 9 or very high. Forecast issued 3:30 PM EDT Sunday 22 June 2025
+Ottawa Weather – Error fetching forecast: 404 Client Error: Not Found for url: https://dd.weather.gc.ca/rss/city/on-118_e.xml
 
-Canadian Headlines – June 23, 2025
-• (No Canadian headlines available)
+
+Canadian Headlines
+• CBC: Error fetching feed (HTTPSConnectionPool(host='rss.cbc.ca', port=443): Read timed out. (read timeout=20))
+• CTV: Error fetching feed (404 Client Error: Not Found for url: https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050)
 
 U.S. Top Stories
-• How politicians in the U.S. are reacting to the Iran strikes.
-• Satellites show damage to Iran's nuclear program, but experts say it's not destroyed
+• Police say a man opened fire outside a church before staff fatally shot him
+  Police described the suspect as a 31-year-old white male with no known connection to the church. His motive remains unclear.(Image credit: Paul Sancya) {June 23, 2025 (www.npr.org)}
+• After a thrilling 7-game series, the Oklahoma City Thunder are finally NBA champions
+  Led by point guard Shai Gilgeous-Alexander, the league's Most Valuable Player, the Thunder outlasted the Indiana Pacers for the team's first title since moving to Oklahoma in 2008.(Image credit: Julio Cortez) {June 23, 2025 (www.npr.org)}
+• Reuters US: Error fetching feed (HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /Reuters/domesticNews (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdc96165950>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)")))
 
 International Top Stories
+• Reuters World: Error fetching feed (HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /Reuters/worldNews (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdc96166710>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)")))
 • Decoy flights and seven B-2 stealth bombers - how US says it hit Iran's nuclear sites
+  A timeline of how the complex mission unfolded was laid out in a Pentagon briefing. {June 22, 2025 (www.bbc.com)}
 • 'Necessary' or 'unfounded'? Americans in Texas respond to US strikes
+  The BBC asked Texans and those visiting the state about US President Trump's decision to bomb three nuclear sites. {June 22, 2025 (www.bbc.com)}
 
 AI & Emerging Tech
-• The Download: talking dirty with DeepSeek, and the risks and rewards of calorie restriction
+• Ars Technica: Error fetching feed (404 Client Error: Not Found for url: https://feeds.arstechnica.com/arstechnica/technology-policy)
+• AI-hosted infomercial shifts $7.5 million worth of product in China
+  PLUS: India tries to untangle TXT marketing opt-ins; China’s AI crackdown succeeds; Australia and Boeing team AWACS, drones; and more! Asia In Brief  Chinese web giant Baidu last week staged a livestream hosted by an AI version of local influencer Yonghao Luo and scored 13 million hits and $7.5 million of sales.… {June 23, 2025 (go.theregister.com)}
+• Former US Army Sergeant pleads guilty after amateurish attempt at selling secrets to China
+  PLUS: 5.4M healthcare records leak; AI makes Spam harder to spot; Many nasty Linux vulns; and more Infosec in brief  A former US Army sergeant has admitted he attempted to sell classified data to China.… {June 23, 2025 (go.theregister.com)}
+• OpenAI pulls promotional materials around Jony Ive deal due to court order
+  OpenAI appears to have pulled a much-discussed video promoting the friendship between CEO Sam Altman and legendary Apple designer Jony Ive (plus, incidentally, OpenAI’s $6.5 billion deal to acquire Ive and Altman’s device startup io) from its website and YouTube page. {June 22, 2025 (techcrunch.com)}
+• Tesla launches robotaxi rides in Austin with big promises and unanswered questions
+  Tesla has started giving rides in driverless Model Y SUVs in Austin. Details are still sparse, but limited service is open to vetted and invited riders. {June 22, 2025 (techcrunch.com)}
 
-Cybersecurity & Privacy
-• Inside a Dark Adtech Empire Fed by Fake CAPTCHAs
+Public Health
+
+Enterprise Architecture & IT Governance
+• Open Group: Error fetching feed (404 Client Error: Not Found for url: https://www.opengroup.org/news/rss)
 
 Geomatics
 • Managing the Explosion of Spatial Data: How Open Data Can Help Structure Data for Government and Enterprises | GWF 2025
+  As geospatial data explodes, experts from Meta, Uber, TomTom, and the Overture Maps Foundation explore how open data is transforming from a mere free resource into critical digital infrastructure. This powerful panel, held at Geospatial World Forum 2025, dives into how the Overture Maps Foundation, is creating a shared, stable foundation for global map systems. 
 
-— End of briefing —
+
+
+Hear how companies are leveraging stable IDs, reference maps, and real-time data validation to build accurate, scalable, and trusted mapping systems. Discover why open data is not just about access—but about trust, traceability, and collaboration across public and private sectors. 
+
+
+
+Moderator: Marc Prioleau, Executive Director, Overture Maps Foundation &#8211; USA 
+
+
+
+Speakers:
+
+
+
+
+Jan Erik Solem, Director – Maps, Meta &#8211; USA
+
+
+
+Amy Rose, CTO, Overture Maps Foundation &#8211; USA
+
+
+
+Michael Harrell, Senior VP &#8211; Engineering Maps, TomTom &#8211; Spain
+
+
+
+Dmitry Kuzhanov, Group Product Manager, Uber &#8211; USA
+
+The post Managing the Explosion of Spatial Data: How Open Data Can Help Structure Data for Government and Enterprises | GWF 2025 appeared first on Geospatial World. {June 20, 2025 (geospatialworld.net)}
+• Spatial Computing and Geospatial Platforms: Powering Business Enterprises | GWF 2025
+  Discover how leaders from banking, agriculture, logistics, and geospatial technology are coming together to harmonize IoT, AI/ML, spatial computing, and geospatial data for scalable, real-world solutions. In this high-impact panel at Geospatial World Forum 2025, experts explore the convergence of emerging technologies across diverse sectors—from using satellite data in climate risk modeling to deploying digital twins for autonomous driving and managing agricultural operations across continents. 
+
+
+
+The panel highlights key industry challenges such as data standardization, interoperability between systems, real-time analytics, and the critical issue of last-mile data delivery. Hear how central banks are collaborating with FinTech&#8217;s for climate resilience, how integrators are optimizing supply chains through AI, and why industry leaders like TomTom are advocating for a unified digital twin approach. Real-world examples from autonomous vehicles, utility management, and smart farming illustrate both the opportunities and the bottlenecks of tech convergence. 
+
+
+
+Moderator: Swati Mittal, Director, Geospatial World
+
+
+
+Speakers:
+
+
+
+
+Andres Alonso, Senior Economist- Financial Innovation Division, Bank of Spain
+
+
+
+Kanti Kopalle, VP, Intuitive Operations and Automation, Cognizant &#8211; The Netherlands
+
+
+
+Michael Harrell, Senior Vice President- Engineering Maps, TomTom &#8211; Spain
+
+
+
+Dr Sim Choon Cheak, Head of Plantation Research &amp; Advisory, SD Guthrie Research Sdn Bhd &#8211; Malaysia
+
+
+
+Dhananjay Deshmukh, CTO &amp; VP, Tech Mahindra BPS &#8211; India
+
+The post Spatial Computing and Geospatial Platforms: Powering Business Enterprises | GWF 2025 appeared first on Geospatial World. {June 19, 2025 (geospatialworld.net)}
+
+-- End of briefing --
