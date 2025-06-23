@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 import yaml
 import json
 import requests
@@ -20,24 +21,28 @@ SCHEMA = {
 def load_feeds() -> Dict[str, List[Dict]]:
     cfg = yaml.safe_load(open("feeds.yaml"))
     return {
-        "canada": cfg["primary_feeds"] + cfg["backup_feeds"],
-        "us": cfg["backup_feeds"],
-        "international": cfg["backup_feeds"],
-        # map other sections similarly...
+        "canada": cfg["primary_feeds"] + cfg.get("backup_feeds", []),
+        "us": cfg.get("backup_feeds", []),
+        "international": cfg.get("backup_feeds", []),
+        # Map other sections as needed...
     }
 
 def load_health() -> Dict[str, float]:
-    data = json.safe_load(open("health.json"))
-    # build a map of url->uptime_last_5 (0.0–1.0)
-    return { f["url"]: f.get("uptime_last_5", 1.0) for f in data["feeds"] }
+    # Reads health.json and returns a map of URL to uptime_last_5
+    with open("health.json", "r") as hf:
+        data = json.load(hf)
+    return { entry["url"]: entry.get("uptime_last_5", 1.0) for entry in data["feeds"] }
+
 
 def prune_feeds(items, health_map, primary_urls):
     kept = []
     for feed in items:
-        u = health_map.get(feed["url"], 1.0)
-        if feed["url"] in primary_urls or u >= PRUNE_THRESHOLD:
+        url = feed["url"]
+        uptime = health_map.get(url, 1.0)
+        if url in primary_urls or uptime >= PRUNE_THRESHOLD:
             kept.append(feed)
     return kept
+
 
 def pad_items(items, section):
     needed = SCHEMA["max_items"][section] - len(items)
@@ -50,6 +55,7 @@ def pad_items(items, section):
         })
     return items[:SCHEMA["max_items"][section]]
 
+
 def strip_metadata(text: str) -> str:
     lines = text.splitlines()
     filtered = [
@@ -58,11 +64,33 @@ def strip_metadata(text: str) -> str:
     ]
     return "\n".join(filtered)
 
+
 def call_summarizer(payload_json: str) -> str:
-    # This is where you invoke ChatGPT API with temp=0.5 and the updated prompt
-    # Ensure your prompt enforces 3-sentence deep dives and max_items
-    # For brevity, assume you have a function `chatgpt_summarize()`
-    return chatgpt_summarize(payload_json, temperature=0.5)
+    # Invoke your ChatGPT API here with temperature=0.5 and the updated prompt
+    # Example placeholder:
+    # return chatgpt_summarize(payload_json, temperature=0.5)
+    raise NotImplementedError("Implement summarizer integration")
+
+
+def fetch_weather():
+    # Your existing weather fetch logic goes here.
+    # Should return a list of dicts matching schema, including statements.
+    raise NotImplementedError("Implement weather fetch logic")
+
+
+def post_to_github(latest_txt_path: str):
+    # Your existing GitHub push logic
+    pass
+
+
+def email_to_evernote(latest_txt_path: str):
+    # Your existing Evernote email logic
+    pass
+
+
+def post_to_teams_webhook(latest_txt_path: str):
+    # Your existing Teams webhook logic
+    pass
 
 # --- MAIN PIPELINE ---
 def main():
@@ -73,12 +101,12 @@ def main():
     # 1. Prune feeds per section, bypassing primaries for Canada
     pruned = {}
     for section, items in feeds_by_section.items():
-        pruned_list = prune_feeds(items, health_map, primary_canada_urls if section=="canada" else set())
+        pruned_list = prune_feeds(items, health_map, primary_canada_urls if section == "canada" else set())
         pruned[section] = pad_items(pruned_list, section)
 
     # 2. Build JSON payload for summarizer
     payload = {
-        "weather": fetch_weather(),  # your existing weather fetch code
+        "weather": fetch_weather(),
         "feeds": pruned
     }
     payload_json = json.dumps(payload)
