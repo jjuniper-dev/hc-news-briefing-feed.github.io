@@ -1,17 +1,67 @@
 steps:
-- name: Check out repository
-  uses: actions/checkout@v4
+  - name: Check out repository
+    uses: actions/checkout@v4
 
-- name: Set up Python
-  uses: actions/setup-python@v5
-  with:
-    python-version: '3.x'
+  - name: Set up Python
+    uses: actions/setup-python@v5
+    with:
+      python-version: '3.x'
 
-- name: Install dependencies
-  run: |
-    pip install feedparser requests
+  - name: Install dependencies
+    run: |
+      pip install feedparser requests
 
-- name: Gather feed statuses
-  id: health
-  run: |
-    python3 - << 'EOF'
+  - name: Test feeds
+    id: health
+    run: |
+      python3 << 'EOF'
+      import json, os
+      import feedparser, requests
+
+      feeds = {
+        "CBC Top Stories": "https://rss.cbc.ca/lineup/topstories.xml",
+        "CTV Canada": "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"
+      }
+      results = {}
+      for name, url in feeds.items():
+          try:
+              r = requests.get(url, timeout=15)
+              r.raise_for_status()
+              cnt = len(feedparser.parse(r.content).entries)
+              results[name] = f"{cnt} items" if cnt else "ZERO"
+          except Exception as e:
+              results[name] = f"ERROR: {type(e).__name__}"
+      # Export as JSON output
+      print("::set-output name=feed_status::" + json.dumps(results))
+      EOF
+
+  - name: Persist health.json
+    env:
+      FEED_STATUS: ${{ steps.health.outputs.feed_status }}
+    run: |
+      python3 << 'EOF'
+      import json, os
+      from datetime import datetime
+
+      feed_status = json.loads(os.environ['FEED_STATUS'])
+      path = 'health.json'
+      try:
+          with open(path, 'r') as f:
+              data = json.load(f)
+      except (FileNotFoundError, json.JSONDecodeError):
+          data = {}
+
+      today = datetime.utcnow().strftime('%Y-%m-%d')
+      data[today] = feed_status
+
+      with open(path, 'w') as f:
+          json.dump(data, f, indent=2)
+      EOF
+
+  - name: Commit and push changes
+    run: |
+      git config user.name "github-actions[bot]"
+      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      git add health.json
+      git commit -m "Update health.json for $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
+      git push
