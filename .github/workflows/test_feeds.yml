@@ -47,8 +47,8 @@ jobs:
               print(f"{name}: {status}")
               results[name] = status
 
-          # Export results as output for later steps
-          print("::set-output name=feed_status::" + json.dumps(results))
+          # Use the new output syntax
+          print(f"feed_status={json.dumps(results)}") >> sys.stdout
           EOF
 
       - name: Notify on failure
