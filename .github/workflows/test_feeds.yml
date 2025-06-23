@@ -1,5 +1,5 @@
 steps:
-  - name: Check out repository
+  - name: Check out repo
     uses: actions/checkout@v4
 
   - name: Set up Python
@@ -10,52 +10,35 @@ steps:
   - name: Install dependencies
     run: |
       python -m pip install --upgrade pip
-      pip install feedparser requests
+      pip install feedparser requests dawidd6-action-send-mail
 
   - name: Test Canadian feeds
-    id: test_canada
+    id: health
     run: |
       python - << 'EOF'
       import sys, feedparser, requests, json
 
-      # fallback feeds list
       feeds = {
-        "CBC Top Stories": [
-          "https://rss.cbc.ca/lineup/topstories.xml",
-          "https://www.cbc.ca/cmlink/rss-canada"
-        ],
-        "CTV Canada": [
-          "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050",
-          "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.2170494"
-        ]
+        "CBC Top Stories": "https://rss.cbc.ca/lineup/topstories.xml",
+        "CTV Canada":      "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"
       }
 
       results = {}
-      for name, urls in feeds.items():
-          success = False
-          for url in urls:
-              try:
-                  r = requests.get(url, timeout=10)
-                  r.raise_for_status()
-                  feed = feedparser.parse(r.content)
-                  if feed.entries:
-                      results[name] = f"{len(feed.entries)} items from {url}"
-                      success = True
-                      break
-              except Exception as e:
-                  continue
-          if not success:
-              results[name] = "ERROR"
-      print(json.dumps(results))
+      for name, url in feeds.items():
+          try:
+              r = requests.get(url, timeout=20)
+              r.raise_for_status()
+              feed = feedparser.parse(r.content)
+              count = len(feed.entries)
+              status = f"{count} items" if count else "ZERO"
+          except Exception as e:
+              status = f"ERROR: {e.__class__.__name__}"
+          print(f"{name}: {status}")
+          results[name] = status
+
+      # Export results as output for later steps
+      print("::set-output name=feed_status::" + json.dumps(results))
       EOF
-      
-  - name: Report results
-    run: |
-      echo "Canada Feed Status: ${{ steps.test_canada.outputs.result }}"
-      
-  - name: Fail on errors
-    run: |
-      echo '${{ steps.test_canada.outputs.result }}' | grep -q 'ERROR' && exit 1 || exit 0
 
   - name: Notify on failure
     if: failure()
@@ -66,7 +49,12 @@ steps:
       username: ${{ secrets.SMTP_USERNAME }}
       password: ${{ secrets.SMTP_PASSWORD }}
       secure: true
-      from: "RSS Health Bot <spatialsensation@gmail.com>"
+      from: "RSS Health Bot" <spatialsensation@gmail.com>
       to: spatialsensation@gmail.com
-      subject: "🔴 RSS Feed Health Failure"
-      body: "One or more Canadian feeds failed health checks: ${{ steps.test_canada.outputs.result }}"
+      subject: "🔴 Canadian RSS Feed Health – Failure on ${{ github.run_date }}"
+      body: |
+        One or more Canadian RSS feeds failed health checks:
+
+        ${{ steps.health.outputs.feed_status }}
+
+        View details: ${{ github.run_url }}
