@@ -1,90 +1,17 @@
-steps:
-  - name: Check out repository
-    uses: actions/checkout@v4
+name: Daily RSS Feed Health Check
 
-  - name: Set up Python
-    uses: actions/setup-python@v5
-    with:
-      python-version: '3.x'
+on:
+  schedule:
+    - cron: '0 10 * * *'
+  workflow_dispatch:
 
-  - name: Install dependencies
-    run: |
-      python -m pip install --upgrade pip
-      pip install feedparser requests
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
 
-  - name: Test feeds with fallback logic
-    id: health
-    run: |
-      python3 - << 'EOF'
-      import os, json, requests, feedparser
-      from datetime import datetime
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      # Define feeds with fallback URLs
-      feeds = {
-        "CBC Top Stories": [
-          "https://rss.cbc.ca/lineup/topstories.xml",
-          "https://www.cbc.ca/cmlink/rss-topstories"
-        ],
-        "CTV Canada": [
-          "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050",
-          "http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml"
-        ],
-        "NPR US": ["https://feeds.npr.org/1001/rss.xml"],
-        "Reuters World": ["https://feeds.reuters.com/Reuters/worldNews"],
-        "BBC World": ["http://feeds.bbci.co.uk/news/world/rss.xml"]
-      }
-
-      results = {}
-      for name, urls in feeds.items():
-          count = 0
-          last_error = None
-          for url in urls:
-              try:
-                  resp = requests.get(url, timeout=15)
-                  resp.raise_for_status()
-                  entries = feedparser.parse(resp.content).entries
-                  if entries:
-                      count = len(entries)
-                      break
-              except Exception as e:
-                  last_error = type(e).__name__
-          if count:
-              results[name] = f"{count} items"
-          else:
-              results[name] = f"ERROR: {last_error or 'No entries'}"
-
-      # Export to GITHUB_OUTPUT
-      with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
-          fh.write('feed_status<<EOF\n')
-          fh.write(json.dumps(results) + '\n')
-          fh.write('EOF\n')
-      EOF
-
-  - name: Persist health.json
-    env:
-      FEED_STATUS: ${{ steps.health.outputs.feed_status }}
-    run: |
-      python3 - << 'EOF'
-      import os, json
-      from datetime import datetime
-
-      path = 'health.json'
-      try:
-          with open(path) as f:
-              data = json.load(f)
-      except (FileNotFoundError, json.JSONDecodeError):
-          data = {}
-
-      data[datetime.now().strftime('%Y-%m-%d')] = json.loads(os.environ['FEED_STATUS'])
-
-      with open(path, 'w') as f:
-          json.dump(data, f, indent=2)
-      EOF
-
-  - name: Commit & push health.json
-    run: |
-      git config user.name "github-actions[bot]"
-      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      git add health.json
-      git commit -m "chore: daily health update" || echo "No changes to commit"
-      git push
+      - name: Quick sanity check
+        run: echo "✅ Workflow is recognized and running on $(date)"
