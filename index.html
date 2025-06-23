@@ -2,11 +2,61 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Health Canada News Briefing</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RSS Feed Health Dashboard</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2rem; }
+    h1 { margin-bottom: 1rem; }
+    table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
+    th, td { padding: 0.5rem; border: 1px solid #ddd; text-align: left; }
+    th { background: #f4f4f4; }
+    .ok { color: green; }
+    .zero { color: orange; }
+    .error { color: red; }
+  </style>
 </head>
 <body>
-  <h1>📢 Daily News Briefing</h1>
-  <p>This GitHub Pages site is used to publish <code>latest.txt</code> for daily news briefings via automation.</p>
-  <p><a href="latest.txt">Click here to view the latest news briefing.</a></p>
+  <h1>RSS Feed Health Dashboard</h1>
+  <p>Shows current health status and historical uptime ranking for each feed.</p>
+  <table id="feed-table">
+    <thead>
+      <tr>
+        <th>Feed Name</th>
+        <th>Status</th>
+        <th>Last Checked</th>
+        <th>Uptime % (Last 30 days)</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+    // Fetch the health JSON (generated daily as health.json)
+    fetch('health.json')
+      .then(r => r.json())
+      .then(data => {
+        const tbody = document.querySelector('#feed-table tbody');
+        // Sort by uptime descending
+        data.sort((a, b) => b.uptime - a.uptime);
+        data.forEach(feed => {
+          const tr = document.createElement('tr');
+          // Name
+          const nameTd = document.createElement('td'); nameTd.textContent = feed.name;
+          // Status
+          const statusTd = document.createElement('td');
+          statusTd.textContent = feed.status;
+          if (feed.status.includes('ERROR')) statusTd.classList.add('error');
+          else if (feed.status === 'ZERO') statusTd.classList.add('zero');
+          else statusTd.classList.add('ok');
+          // Timestamp
+          const tsTd = document.createElement('td'); tsTd.textContent = feed.checked;
+          // Uptime
+          const upTd = document.createElement('td'); upTd.textContent = (feed.uptime*100).toFixed(1) + '%';
+          tr.append(nameTd, statusTd, tsTd, upTd);
+          tbody.appendChild(tr);
+        });
+      })
+      .catch(console.error);
+  </script>
 </body>
 </html>
