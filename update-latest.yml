@@ -1,36 +1,41 @@
-name: Auto‐update latest.txt
+name: Auto-update latest.txt
 
 on:
   schedule:
-    - cron: '30 10 * * *'   # Daily at 6:30 AM Eastern (10:30 UTC)
+    # 6:30 AM Eastern = 10:30 UTC
+    - cron: '30 10 * * *'
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write     # allow committing back to the repo
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repo
+      - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install feedparser requests
+        run: |
+          pip install --upgrade pip
+          pip install requests feedparser
 
       - name: Generate latest.txt
         run: python generate_latest.py
 
-      - name: Commit & push changes
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add latest.txt
-          git commit -m "Auto-update latest.txt for $(date +'%Y-%m-%d')" || echo "No changes to commit"
-          git push
+          git diff --quiet --exit-code || \
+            (git commit -m "Auto-update latest.txt for $(date +'%Y-%m-%d')" && git push)
