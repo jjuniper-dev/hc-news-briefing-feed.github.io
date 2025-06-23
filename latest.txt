@@ -1,7 +1,7 @@
 Ottawa Weather – June 23, 2025
 Warnings:
 • HEAT WARNING, Pembroke: Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 5:11 PM EDT Sunday 22 June 2025
-• Today: Current Conditions:  27.0°C. Observed at: Pembroke 8:00 PM EDT Sunday 22 June 2025 Temperature: 27.0&deg;C Pressure / Tendency: 101.5 kPa rising Humidity: 68 % Humidex: 35 Dewpoint: 20.6&deg;C Wind: E 5 km/h Air Quality Health Index: n/a
+• Today: Current Conditions:  22.5°C. Observed at: Pembroke 10:00 PM EDT Sunday 22 June 2025 Temperature: 22.5&deg;C Pressure / Tendency: 101.6 kPa rising Humidity: 89 % Humidex: 31 Dewpoint: 20.6&deg;C Wind: SSE calm km/h Air Quality Health Index: n/a
 • Tomorrow: Sunday night: Chance of showers. Low 20. POP 30%. Partly cloudy. 30 percent chance of showers early this evening with risk of a thunderstorm. Fog patches developing after midnight. Low 20. Forecast issued 3:30 PM EDT Sunday 22 June 2025
 • Day After Tomorrow: Monday: A mix of sun and cloud. High 34.. A mix of sun and cloud. Clearing in the afternoon. Fog patches dissipating in the morning. Wind becoming southwest 20 km/h in the afternoon. High 34. Humidex 42. UV index 9 or very high. Forecast issued 3:30 PM EDT Sunday 22 June 2025
 
