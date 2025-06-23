@@ -1,35 +1,72 @@
-      - name: Test feeds
-        id: health
-        run: |
-          python3 - << 'EOF'
--         import json, requests, feedparser
-+         import os, json, requests, feedparser
+steps:
+  - name: Check out repository
+    uses: actions/checkout@v4
 
-          feeds = {
-            "CBC Top Stories": "https://rss.cbc.ca/lineup/topstories.xml",
-            "CTV Canada":      "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050",
-            "NPR US":          "https://feeds.npr.org/1001/rss.xml",
-            "Reuters World":   "https://feeds.reuters.com/Reuters/worldNews",
-            "BBC World":       "http://feeds.bbci.co.uk/news/world/rss.xml"
-          }
+  - name: Set up Python
+    uses: actions/setup-python@v5
+    with:
+      python-version: '3.x'
 
-          results = {}
-          for name, url in feeds.items():
-            try:
+  - name: Install dependencies
+    run: |
+      python3 -m pip install --upgrade pip
+      pip install feedparser requests
+
+  - name: Test feeds
+    id: health
+    run: |
+      python3 - << 'EOF'
+      import os, json, requests, feedparser
+
+      feeds = {
+        "CBC Top Stories": "https://rss.cbc.ca/lineup/topstories.xml",
+        "CTV Canada":      "https://rss.cbc.ca/lineup/canada.xml",
+        "NPR US":          "https://feeds.npr.org/1001/rss.xml",
+        "Reuters World":   "https://feeds.reuters.com/Reuters/worldNews",
+        "BBC World":       "http://feeds.bbci.co.uk/news/world/rss.xml"
+      }
+
+      results = {}
+      for name, url in feeds.items():
+          try:
               resp = requests.get(url, timeout=15)
               resp.raise_for_status()
               count = len(feedparser.parse(resp.content).entries)
               results[name] = f"{count} items" if count else "ZERO"
-            except Exception as e:
+          except Exception as e:
               results[name] = f"ERROR: {type(e).__name__}"
 
--         # export via GITHUB_OUTPUT
--         print("feed_status<<EOF", file=open(os.environ['GITHUB_OUTPUT'], 'a'))
--         print(json.dumps(results), file=open(os.environ['GITHUB_OUTPUT'], 'a'))
--         print("EOF", file=open(os.environ['GITHUB_OUTPUT'], 'a'))
-+         # export via GITHUB_OUTPUT
-+         with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
-+             print("feed_status<<EOF", file=fh)
-+             print(json.dumps(results), file=fh)
-+             print("EOF", file=fh)
-          EOF
+      with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
+          fh.write("feed_status<<EOF\n")
+          fh.write(json.dumps(results) + "\n")
+          fh.write("EOF\n")
+      EOF
+
+  - name: Persist health.json
+    env:
+      FEED_STATUS: ${{ steps.health.outputs.feed_status }}
+    run: |
+      python3 - << 'EOF'
+      import os, json
+      from datetime import datetime
+
+      path = 'health.json'
+      try:
+          with open(path, 'r') as f:
+              data = json.load(f)
+      except (FileNotFoundError, json.JSONDecodeError):
+          data = {}
+
+      data[datetime.now().strftime('%Y-%m-%d')] = json.loads(os.environ['FEED_STATUS'])
+
+      with open(path, 'w') as f:
+          json.dump(data, f, indent=2)
+      EOF
+
+  - name: Commit & push health.json
+    run: |
+      git config user.name "github-actions[bot]"
+      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      git add health.json
+      git commit -m "chore: daily health update" || echo "No changes to commit"
+      git push
