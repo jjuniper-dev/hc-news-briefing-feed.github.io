@@ -1,38 +1,40 @@
-name: Update Daily News Briefing
+name: Update latest.txt
 
 on:
   schedule:
-    - cron: '0 10 * * *'  # Runs daily at 6:00 AM ET (10:00 UTC)
+    - cron: '30 10 * * *'  # 6:30 AM Eastern
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: 3.11
+          python-version: '3.x'
 
       - name: Install dependencies
         run: |
-          pip install feedparser transformers torch
+          python -m pip install --upgrade pip
+          pip install feedparser requests python-dateutil
 
-      - name: Pull latest changes (before modifying files)
+      - name: Generate latest.txt
+        run: python generate_latest.py
+
+      - name: Commit & push latest.txt
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase
-
-      - name: Run news briefing generator
-        run: python generate_latest.py
-
-      - name: Commit & push updated briefing
-        run: |
           git add latest.txt
-          git commit -m "Auto-update latest.txt for $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git commit -m "chore: auto-update latest.txt" || echo "No changes to commit"
           git push
