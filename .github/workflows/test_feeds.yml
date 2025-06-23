@@ -1,67 +1,85 @@
-steps:
-  - name: Check out repository
-    uses: actions/checkout@v4
+# .github/workflows/test_feeds.yml
+name: Daily RSS Feed Health Check
 
-  - name: Set up Python
-    uses: actions/setup-python@v5
-    with:
-      python-version: '3.x'
+on:
+  schedule:
+    # Daily at 6:00 AM Eastern (10:00 UTC)
+    - cron: '0 10 * * *'
+  workflow_dispatch:
 
-  - name: Install dependencies
-    run: |
-      pip install feedparser requests
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
 
-  - name: Test feeds
-    id: health
-    run: |
-      python3 << 'EOF'
-      import json, os
-      import feedparser, requests
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
 
-      feeds = {
-        "CBC Top Stories": "https://rss.cbc.ca/lineup/topstories.xml",
-        "CTV Canada": "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"
-      }
-      results = {}
-      for name, url in feeds.items():
-          try:
-              r = requests.get(url, timeout=15)
-              r.raise_for_status()
-              cnt = len(feedparser.parse(r.content).entries)
-              results[name] = f"{cnt} items" if cnt else "ZERO"
-          except Exception as e:
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          pip install feedparser requests
+
+      - name: Test feeds
+        id: health
+        run: |
+          python3 - << 'EOF'
+          import json, requests, feedparser
+          feeds = {
+            "CBC Top Stories": "https://rss.cbc.ca/lineup/topstories.xml",
+            "CTV Canada":      "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050",
+            "NPR US":          "https://feeds.npr.org/1001/rss.xml",
+            "Reuters World":   "https://feeds.reuters.com/Reuters/worldNews",
+            "BBC World":       "http://feeds.bbci.co.uk/news/world/rss.xml"
+          }
+          results = {}
+          for name, url in feeds.items():
+            try:
+              resp = requests.get(url, timeout=15)
+              resp.raise_for_status()
+              count = len(feedparser.parse(resp.content).entries)
+              results[name] = f"{count} items" if count else "ZERO"
+            except Exception as e:
               results[name] = f"ERROR: {type(e).__name__}"
-      # Export as JSON output
-      print("::set-output name=feed_status::" + json.dumps(results))
-      EOF
+          # export via GITHUB_OUTPUT
+          print("feed_status<<EOF", file=open(os.environ['GITHUB_OUTPUT'], 'a'))
+          print(json.dumps(results), file=open(os.environ['GITHUB_OUTPUT'], 'a'))
+          print("EOF", file=open(os.environ['GITHUB_OUTPUT'], 'a'))
+          EOF
 
-  - name: Persist health.json
-    env:
-      FEED_STATUS: ${{ steps.health.outputs.feed_status }}
-    run: |
-      python3 << 'EOF'
-      import json, os
-      from datetime import datetime
+      - name: Persist health.json
+        env:
+          FEED_STATUS: ${{ steps.health.outputs.feed_status }}
+        run: |
+          python3 - << 'EOF'
+          import os, json
+          from datetime import datetime
 
-      feed_status = json.loads(os.environ['FEED_STATUS'])
-      path = 'health.json'
-      try:
-          with open(path, 'r') as f:
-              data = json.load(f)
-      except (FileNotFoundError, json.JSONDecodeError):
-          data = {}
+          path = 'health.json'
+          # safely load existing data
+          try:
+              with open(path, 'r') as f:
+                  data = json.load(f)
+          except (FileNotFoundError, json.JSONDecodeError):
+              data = {}
 
-      today = datetime.utcnow().strftime('%Y-%m-%d')
-      data[today] = feed_status
+          # add today's results
+          data[datetime.now().strftime('%Y-%m-%d')] = json.loads(os.environ['FEED_STATUS'])
 
-      with open(path, 'w') as f:
-          json.dump(data, f, indent=2)
-      EOF
+          # write back
+          with open(path, 'w') as f:
+              json.dump(data, f, indent=2)
+          EOF
 
-  - name: Commit and push changes
-    run: |
-      git config user.name "github-actions[bot]"
-      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      git add health.json
-      git commit -m "Update health.json for $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
-      git push
+      - name: Commit & push health.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add health.json
+          git commit -m "chore: daily health update" || echo "No changes to commit"
+          git push
