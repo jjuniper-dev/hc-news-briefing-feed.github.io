@@ -1,58 +1,4 @@
-name: Daily Canadian Feed Health Check
-
-on:
-  schedule:
-    # 6:00 AM Eastern (10:00 UTC)
-    - cron: '0 10 * * *'
-  workflow_dispatch:
-
-jobs:
-  ping-canadian-feeds:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-
-      - name: Install dependencies
-        run: |
-          pip install feedparser requests
-
-      - name: Health-check CBC & CTV
-        id: health
-        run: |
-          python - << 'EOF'
-          import sys, feedparser, requests
-
-          feeds = {
-            "CBC Top Stories": "https://rss.cbc.ca/lineup/topstories.xml",
-            "CTV Canada":      "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"
-          }
-
-          failed = []
-          for name, url in feeds.items():
-              try:
-                  resp = requests.get(url, timeout=20)
-                  resp.raise_for_status()
-                  feed = feedparser.parse(resp.content)
-                  if not feed.entries:
-                      print(f"❌ {name}: ZERO entries")
-                      failed.append(name)
-                  else:
-                      print(f"✔️ {name}: {len(feed.entries)} entries")
-              except Exception as e:
-                  print(f"❌ {name}: ERROR → {e}")
-                  failed.append(name)
-
-          if failed:
-              sys.exit(f"Feeds failing: {', '.join(failed)}")
-          EOF
-
-      - name: Send email on failure
+      - name: Notify on failure
         if: failure()
         uses: dawidd6/action-send-mail@v3
         with:
@@ -60,12 +6,13 @@ jobs:
           server_port: 465
           username: ${{ secrets.SMTP_USERNAME }}
           password: ${{ secrets.SMTP_PASSWORD }}
-          subject: "Daily Feed Health Check Failure"
+          subject: "🔴 Canadian RSS Feed Health – Failure on ${{ github.run_date }}"
           body: |
-            The following Canadian feeds failed their health check:
-            ${{ failure() && steps.health.outputs.failed || 'None' }}
-            
-            Please investigate the RSS endpoints.
+            One or more Canadian feeds failed health check:
+
+            ${{ env.FEED_STATUS }}
+
+            Check the Actions log for details: ${{ github.run_url }}
           to: you@example.com
-          from: HealthCheckBot <noreply@example.com>
+          from: "RSS Health Bot" <you@example.com>
           secure: true
