@@ -6,14 +6,14 @@ Canadian Headlines
 • CTV: Error fetching feed (404 Client Error: Not Found for url: https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050)
 
 U.S. Top Stories
+• The Vera C. Rubin Observatory's first images are stunning — and just the start
+  The Vera C. Rubin Observatory has just released some of its first images. Its powerful new telescope will be able to quickly spot previously unseen astronomical objects.(Image credit: NSF-DOE Vera C. Rubin Observatory) {June 23, 2025 (www.npr.org)}
 • Police say a man opened fire outside a church before staff fatally shot him
   Police described the suspect as a 31-year-old white male with no known connection to the church. His motive remains unclear.(Image credit: Paul Sancya) {June 23, 2025 (www.npr.org)}
-• After a thrilling 7-game series, the Oklahoma City Thunder are finally NBA champions
-  Led by point guard Shai Gilgeous-Alexander, the league's Most Valuable Player, the Thunder outlasted the Indiana Pacers for the team's first title since moving to Oklahoma in 2008.(Image credit: Julio Cortez) {June 23, 2025 (www.npr.org)}
-• Reuters US: Error fetching feed (HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /Reuters/domesticNews (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdc96165950>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)")))
+• Reuters US: Error fetching feed (HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /Reuters/domesticNews (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb2c09ad950>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)")))
 
 International Top Stories
-• Reuters World: Error fetching feed (HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /Reuters/worldNews (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdc96166710>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)")))
+• Reuters World: Error fetching feed (HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /Reuters/worldNews (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb2c09ae710>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)")))
 • Decoy flights and seven B-2 stealth bombers - how US says it hit Iran's nuclear sites
   A timeline of how the complex mission unfolded was laid out in a Pentagon briefing. {June 22, 2025 (www.bbc.com)}
 • 'Necessary' or 'unfounded'? Americans in Texas respond to US strikes
