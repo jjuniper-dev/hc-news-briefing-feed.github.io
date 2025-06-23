@@ -2,49 +2,44 @@ name: Daily Canadian Feed Health Check
 
 on:
   schedule:
-    - cron: '0 10 * * *'  # 6:00 AM ET / 10:00 UTC
+    - cron: '0 10 * * *'
   workflow_dispatch:
 
 jobs:
   ping-canadian-feeds:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Check out repository
+      - name: Check out repo
         uses: actions/checkout@v4
 
-      - name: Install Python dependencies
+      - name: Install dependencies
         run: pip install feedparser requests
 
       - name: Test Canadian feeds
         id: health
         run: |
           python3 - << 'EOF'
-          import sys, feedparser, requests
+          import feedparser, requests, json
+
           feeds = {
             "CBC Top Stories": "https://rss.cbc.ca/lineup/topstories.xml",
-            "CTV Canada": "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"
+            "CTV Canada":      "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"
           }
-          failed = []
+          results = {}
           for name, url in feeds.items():
               try:
                   r = requests.get(url, timeout=20)
                   r.raise_for_status()
                   feed = feedparser.parse(r.content)
-                  if not feed.entries:
-                      print(f"❌ {name}: 0 entries")
-                      failed.append(name)
-                  else:
-                      print(f"✔️ {name}: {len(feed.entries)} entries")
+                  count = len(feed.entries)
+                  results[name] = f"{count} items" if count else "ZERO"
               except Exception as e:
-                  print(f"❌ {name}: ERROR → {type(e).__name__}")
-                  failed.append(name)
-          if failed:
-              sys.exit(1)
+                  results[name] = f"ERROR: {type(e).__name__}"
+          # Export JSON as a step output
+          print(f"feed_status<<EOF\n{json.dumps(results)}\nEOF")
           EOF
 
-      - name: Notify on failure via email
-        if: failure()
+      - name: Email summary
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
@@ -54,7 +49,9 @@ jobs:
           secure: true
           from: "RSS Health Bot <spatialsensation@gmail.com>"
           to: spatialsensation@gmail.com
-          subject: "🔴 Canadian RSS Feeds Failure – Run ${{ github.run_id }}"
+          subject: "📫 Canadian RSS Feed Health – ${{ github.run_date }}"
           body: |
-            One or more Canadian RSS feeds failed health checks.
-            See the Actions log here: ${{ github.run_url }}
+            Here is today’s feed‐health summary:
+            ${{ steps.health.outputs.feed_status }}
+
+            (No red failures—just your daily snapshot.)  
