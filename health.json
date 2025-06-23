@@ -24,15 +24,15 @@
     "Geomatics": "4 items"
   },
   "2025-06-23": {
-    "CBC Top Stories": "ZERO",
-    "CTV Canada": "ERROR: ReadTimeout",
-    "NPR US": "16 items",
-    "Reuters World": "21 items",
-    "BBC World": "23 items",
-    "Public Health": "4 items",
-    "AI & Emerging Tech": "13 items",
-    "Cybersecurity": "11 items",
-    "Enterprise Arch": "9 items",
-    "Geomatics": "6 items"
+    "CBC Top Stories": "ERROR: ReadTimeout",
+    "CTV Canada": "ERROR: HTTPError",
+    "NPR US": "10 items",
+    "Reuters World": "ERROR: ConnectionError",
+    "BBC World": "24 items",
+    "Public Health": "ZERO",
+    "AI & Emerging Tech": "ERROR: HTTPError",
+    "Cybersecurity": "10 items",
+    "Enterprise Arch": "ERROR: HTTPError",
+    "Geomatics": "10 items"
   }
 }
