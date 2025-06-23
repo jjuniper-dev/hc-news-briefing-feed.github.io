@@ -12,6 +12,8 @@
     .good { color: green; }
     .warn { color: orange; }
     .bad  { color: red; }
+    #uptime-list { margin-top: 1rem; list-style: none; padding: 0; }
+    #uptime-list li { margin-bottom: 0.5rem; }
   </style>
 </head>
 <body>
@@ -24,9 +26,14 @@
     <tbody></tbody>
   </table>
 
+  <h2>Canadian Feed Uptime (past 7 days)</h2>
+  <ul id="uptime-list"></ul>
+
   <script>
     document.addEventListener('DOMContentLoaded', async () => {
       const baseURL = 'https://jjuniper-dev.github.io/hc-news-briefing-feed.github.io/';
+
+      // Load health.json and populate health table
       try {
         const res = await fetch(baseURL + 'health.json');
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -52,6 +59,39 @@
         const tr = document.createElement('tr');
         tr.innerHTML = `<td colspan="3" class="bad">Error loading data: ${err.message}</td>`;
         tbody.appendChild(tr);
+      }
+
+      // Load uptime.json and compute uptime percentages
+      try {
+        const res2 = await fetch(baseURL + 'uptime.json');
+        if (!res2.ok) throw new Error(`HTTP ${res2.status}`);
+        const records = await res2.json();
+        const total = records.length;
+        const success = {};
+        // Initialize counters
+        if (total > 0) {
+          Object.keys(records[0]).filter(k => k !== 'timestamp').forEach(feed => success[feed] = 0);
+        }
+        records.forEach(r => {
+          Object.entries(r).forEach(([feed, ok]) => {
+            if (feed === 'timestamp') return;
+            if (ok) success[feed]++;
+          });
+        });
+        const ul = document.getElementById('uptime-list');
+        Object.entries(success).forEach(([feed, count]) => {
+          const pct = total ? Math.round(count / total * 100) : 0;
+          const li = document.createElement('li');
+          li.textContent = `${feed}: ${pct}% (${count}/${total} pings OK)`;
+          ul.appendChild(li);
+        });
+      } catch (err) {
+        console.error('Failed to load uptime.json:', err);
+        const ul = document.getElementById('uptime-list');
+        const li = document.createElement('li');
+        li.className = 'bad';
+        li.textContent = `Error loading uptime data: ${err.message}`;
+        ul.appendChild(li);
       }
     });
   </script>
