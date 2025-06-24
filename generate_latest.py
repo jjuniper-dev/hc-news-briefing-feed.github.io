@@ -1,158 +1,131 @@
 #!/usr/bin/env python3
-# generate_latest.py
-
-import sys
 import requests
 import feedparser
 from datetime import datetime, timedelta
-from html.parser import HTMLParser
 
-# -----------------------------------------------------------------------------
-# HTML stripper (no bs4 needed)
-# -----------------------------------------------------------------------------
-class MLStripper(HTMLParser):
-    def __init__(self):
-        super().__init__()
-        self.reset()
-        self.fed = []
-    def handle_data(self, d):
-        self.fed.append(d)
-    def get_data(self):
-        return "".join(self.fed).strip()
+# ——— CONFIG ———
 
-def clean_html(html: str) -> str:
-    s = MLStripper()
-    s.feed(html or "")
-    return s.get_data()
-
-# -----------------------------------------------------------------------------
-# CONFIG: your RSS/ATOM/WEATHER feeds by category
-# -----------------------------------------------------------------------------
-# Environment Canada Ottawa + NOAA fallback
-WEATHER_FEEDS = [
-    "https://dd.weather.gc.ca/rss/city/on-118_e.xml",           # EnvCan Ottawa
-    "https://w1.weather.gov/xml/current_obs/CYOW.rss"           # NOAA Ottawa (fallback)
+CANADIAN_FEEDS = [
+    ("CBC Top Stories",     "https://rss.cbc.ca/lineup/topstories.xml"),
+    ("CTV Canada",          "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"),
+    ("BBC Canada",          "https://feeds.bbci.co.uk/news/world/canada/rss.xml"),
 ]
 
-FEEDS = {
-    "CANADIAN NEWS": [
-        "https://rss.cbc.ca/lineup/topstories.xml",
-        "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"
-    ],
-    "US NEWS": [
-        "https://feeds.npr.org/1001/rss.xml",
-        "https://www.apnews.com/apf-topnews?outputType=xml"
-    ],
-    "INTERNATIONAL NEWS": [
-        "https://feeds.reuters.com/Reuters/worldNews",
-        "http://feeds.bbci.co.uk/news/world/rss.xml"
-    ],
-    "PUBLIC HEALTH": [
-        "https://www.canada.ca/etc/+/health/public-health-updates.rss",
-        "https://www.who.int/feeds/entity/csr/don/en/rss.xml"
-    ],
-    "AI & EMERGING TECH": [
-        "https://feeds.arstechnica.com/arstechnica/technology-policy",
-        "https://www.technologyreview.com/feed/",
-        "https://newsroom.ibm.com/feeds/press_releases.xml"
-    ],
-    "CYBERSECURITY & PRIVACY": [
-        "https://krebsonsecurity.com/feed/",
-        "https://rss.darkreading.com/DRTopStories"
-    ],
-    "ENTERPRISE ARCHITECTURE": [
-        "https://www.opengroup.org/news/rss",
-        "https://www.gartner.com/en/rss/insights"
-    ],
-    "GEOMATICS": [
-        "https://www.geospatialworld.net/feed/",
-        "https://www.xyht.com/feed/"
-    ],
-    "CLOUD PROVIDERS": [
-        "https://azure.microsoft.com/en-us/updates/feed/",
-        "https://aws.amazon.com/new/feed/",
-        "https://cloud.google.com/feeds/news.xml"
-    ]
-}
+US_FEEDS = [
+    ("NPR US",              "https://feeds.npr.org/1001/rss.xml"),
+    ("AP Top Stories",      "https://feeds.a.dj.com/rss/RSSWorldNews.xml"),
+]
 
-# -----------------------------------------------------------------------------
-# Fetch weather: today + next two days
-# -----------------------------------------------------------------------------
-def fetch_weather():
-    for url in WEATHER_FEEDS:
-        try:
-            resp = requests.get(url, timeout=15)
-            resp.raise_for_status()
-            feed = feedparser.parse(resp.content)
-            if not feed.entries:
-                continue
-            # EnvCan gives multiple items; NOAA gives single current obs
-            # we just take first three entries if available
-            lines = []
-            today = datetime.now().strftime("%B %d, %Y")
-            lines.append(f"Ottawa Weather – {today}")
-            for entry in feed.entries[:3]:
-                title = clean_html(entry.get("title", ""))
-                summary = clean_html(entry.get("summary", entry.get("description", "")))
+INTERNATIONAL_FEEDS = [
+    ("Reuters World",       "https://feeds.reuters.com/Reuters/worldNews"),
+    ("BBC World",           "http://feeds.bbci.co.uk/news/world/rss.xml"),
+]
+
+PUBLIC_HEALTH_FEEDS = [
+    ("PHAC Updates",        "https://www.canada.ca/etc/+/health/public-health-updates.rss"),
+]
+
+AI_FEEDS = [
+    ("Ars Tech Policy",     "https://feeds.arstechnica.com/arstechnica/technology-policy"),
+    ("Tech Review AI",      "https://www.technologyreview.com/feed/"),
+    ("IEEE Spectrum AI",    "https://spectrum.ieee.org/rss/topic/artificial-intelligence"),
+]
+
+CYBER_FEEDS = [
+    ("KrebsOnSecurity",     "https://krebsonsecurity.com/feed/"),
+]
+
+EA_FEEDS = [
+    ("OpenGroup News",      "https://www.opengroup.org/news/rss"),
+]
+
+GEOMATICS_FEEDS = [
+    ("Geospatial World",    "https://www.geospatialworld.net/feed/"),
+]
+
+CLOUD_FEEDS = [
+    ("Azure Blog",          "https://azure.microsoft.com/en-us/blog/feed/"),
+    ("AWS News Blog",       "https://aws.amazon.com/new/feed/"),
+    ("Google Cloud",        "https://cloud.google.com/blog/rss/"),
+]
+
+WEATHER_FEEDS = [
+    # 1) EC
+    ("EnvCanada Ottawa",     "https://dd.weather.gc.ca/rss/city/on-118_e.xml"),
+    # 2) NOAA
+    ("NOAA Ottawa",          "https://w1.weather.gov/xml/current_obs/ CYOW.rss"),
+    # 3) OpenWeatherMap (example; requires an API key query param)
+    ("OWM Ottawa",           "https://api.openweathermap.org/data/2.5/forecast?q=Ottawa,CA&appid=YOUR_KEY&units=metric&mode=xml"),
+]
+
+# ——— HELPERS ———
+
+def fetch_feed_entries(label, url, max_items=2):
+    """Fetch up to max_items entries from the RSS, returning list of (title, summary, date)."""
+    try:
+        resp = requests.get(url, timeout=15)
+        resp.raise_for_status()
+        feed = feedparser.parse(resp.content)
+        items = []
+        for e in feed.entries[:max_items]:
+            # pick summary or content
+            summary = ""
+            if "content" in e:
+                summary = e.content[0].value
+            else:
+                summary = e.get("summary", "")
+            date = ""
+            if "published_parsed" in e:
+                date = datetime(*e.published_parsed[:6]).strftime("%b %d, %Y")
+            items.append((e.title, summary.strip().replace("\n"," "), date))
+        return items
+    except Exception:
+        return []
+
+def get_weather_block():
+    today = datetime.now().date()
+    lines = [f"Ottawa Weather – {today.strftime('%B %d, %Y')}"]
+    for label, url in WEATHER_FEEDS:
+        entries = fetch_feed_entries(label, url, max_items=3)
+        if entries:
+            lines.append(f"\n{label}:")
+            for title, summary, date in entries:
                 lines.append(f"• {title}: {summary}")
             return "\n".join(lines)
-        except Exception:
-            continue
-    # if all fail
-    return "Ottawa Weather – data unavailable for today\n"
+    # fallback
+    return "Ottawa Weather – (data unavailable)"
 
-# -----------------------------------------------------------------------------
-# Fetch and format one section
-# -----------------------------------------------------------------------------
-def collect_section(name, urls):
-    parts = [f"\n{name} – {datetime.now().strftime('%B %d, %Y')}"]
-    any_ok = False
-    for url in urls:
-        try:
-            resp = requests.get(url, timeout=15)
-            resp.raise_for_status()
-            feed = feedparser.parse(resp.content)
-            if not feed.entries:
-                parts.append(f"• {name.split()[0]} source unavailable")
-            else:
-                any_ok = True
-                entry = feed.entries[0]
-                title = clean_html(entry.get("title", ""))
-                # full content if available
-                content = entry.get("content", [{}])[0].get("value", "")
-                summary = clean_html(content) or clean_html(entry.get("summary", ""))
-                date = ""
-                if entry.get("published_parsed"):
-                    date = datetime(*entry.published_parsed[:6]).strftime("%b %d, %Y")
-                parts.append(f"• {title}\n  {summary} {{{date}}}")
-        except Exception:
-            parts.append(f"• {name.split()[0]} source error")
-    if not any_ok:
-        parts = [f"\n{name} – no data available"]
-    return "\n".join(parts)
+def section_block(name, feeds):
+    lines = [f"\n{name.upper()}"]
+    for label, url in feeds:
+        items = fetch_feed_entries(label, url, max_items=2)
+        if not items:
+            lines.append(f"• {label}: (unavailable)")
+        else:
+            for title, summary, date in items:
+                block = f"• {title}\n  {summary}"
+                if date:
+                    block += f" {{ {date} }}"
+                lines.append(block)
+    return "\n".join(lines)
 
-# -----------------------------------------------------------------------------
-# Main: build latest.txt
-# -----------------------------------------------------------------------------
+# ——— MAIN ———
+
 def main():
-    out = []
-
-    # Weather first
-    out.append(fetch_weather())
-
-    # Then each section in desired order
-    for section in [
-        "CANADIAN NEWS", "US NEWS", "INTERNATIONAL NEWS",
-        "PUBLIC HEALTH", "AI & EMERGING TECH",
-        "CYBERSECURITY & PRIVACY", "ENTERPRISE ARCHITECTURE",
-        "GEOMATICS", "CLOUD PROVIDERS"
-    ]:
-        out.append(collect_section(section, FEEDS[section]))
-
-    out.append("\n— End of briefing —")
-
+    header = f"Morning News Briefing – {datetime.now().strftime('%B %d, %Y %H:%M')}"
+    parts = [header, get_weather_block()]
+    parts.append(section_block("Canadian News",    CANADIAN_FEEDS))
+    parts.append(section_block("US News",          US_FEEDS))
+    parts.append(section_block("International News", INTERNATIONAL_FEEDS))
+    parts.append(section_block("Public Health",    PUBLIC_HEALTH_FEEDS))
+    parts.append(section_block("AI & Emerging Tech", AI_FEEDS))
+    parts.append(section_block("Cybersecurity & Privacy", CYBER_FEEDS))
+    parts.append(section_block("Enterprise Architecture", EA_FEEDS))
+    parts.append(section_block("Geomatics",        GEOMATICS_FEEDS))
+    parts.append(section_block("Cloud Providers",  CLOUD_FEEDS))
+    parts.append("\n— End of briefing —")
     with open("latest.txt", "w", encoding="utf-8") as f:
-        f.write("\n\n".join(out))
+        f.write("\n\n".join(parts))
 
 if __name__ == "__main__":
     main()
