@@ -1,25 +1,31 @@
 #!/usr/bin/env python3
 import os
+import sys
 import time
 import json
-from datetime import datetime, timedelta
+import logging
+from datetime import datetime
 import requests
 import feedparser
-from dateutil import tz  # install python-dateutil
+from dateutil import tz
 
-# --- CONFIG ---
-
+# ——— CONFIG ———
 CACHE_PATH = "cache.json"
+LOG_PATH   = "debug.log"
+
 SECTIONS = {
     "Weather": [
-        "https://dd.weather.gc.ca/rss/city/on-118_e.xml",               # Environment Canada
-        "https://api.weather.gov/gridpoints/MTR/100,69/forecast",      # NOAA (JSON)
-        # ...add a third backup if you like...
+        # Env Canada RSS
+        "https://dd.weather.gc.ca/rss/city/on-118_e.xml",
+        # NOAA JSON API
+        "https://api.weather.gov/gridpoints/MTR/100,69/forecast",
+        # Backup: Open-Meteo JSON API (no key required)
+        "https://api.open-meteo.com/v1/forecast?latitude=45.4215&longitude=-75.6972&daily=weathercode,temperature_2m_max,temperature_2m_min&timezone=America%2FToronto",
     ],
     "Canadian News": [
         "https://rss.cbc.ca/lineup/topstories.xml",
         "https://www.cbc.ca/cmlink/rss-canada",
-        "https://www.bbc.co.uk/feeds/rss/world/canada/rss.xml",
+        "http://feeds.bbci.co.uk/news/world/canada/rss.xml",
     ],
     "AI & EA": [
         "https://feeds.arstechnica.com/arstechnica/technology-policy",
@@ -28,7 +34,9 @@ SECTIONS = {
     ],
 }
 
-# --- CACHE HANDLING ---
+# ——— SETUP LOGGING & CACHE ———
+logging.basicConfig(filename=LOG_PATH, level=logging.DEBUG,
+                    format="%(asctime)s %(levelname)s %(message)s")
 
 def load_cache():
     try:
@@ -43,92 +51,115 @@ def save_cache(cache):
 cache = load_cache()
 today = datetime.now().strftime("%Y-%m-%d")
 
-# --- HELPERS ---
 
+# ——— HELPERS ———
 def fetch_with_retries(url, headers=None, timeout=10, max_retries=2):
     backoff = 1
-    for attempt in range(max_retries+1):
+    for attempt in range(max_retries + 1):
         try:
-            resp = requests.get(url, timeout=timeout, headers=headers)
-            resp.raise_for_status()
-            return resp
-        except Exception:
+            logging.debug(f"Fetching {url} (attempt {attempt+1})")
+            r = requests.get(url, timeout=timeout, headers=headers)
+            r.raise_for_status()
+            return r
+        except Exception as e:
+            logging.warning(f"{url} failed on attempt {attempt+1}: {e}")
             if attempt == max_retries:
                 raise
             time.sleep(backoff)
             backoff *= 2
 
 def get_feed_entries(url):
-    if url.startswith("http") and url.endswith(".xml"):
-        resp = fetch_with_retries(url)
-        return feedparser.parse(resp.content).entries
+    if url.endswith(".xml"):
+        r = fetch_with_retries(url)
+        feed = feedparser.parse(r.content)
+        return feed.entries
     else:
-        # assume JSON NOAA
-        resp = fetch_with_retries(url, headers={"Accept":"application/ld+json"})
-        j = resp.json()
-        # pull periods from forecast
-        return j.get("properties",{}).get("periods", [])
+        # JSON sources
+        r = fetch_with_retries(url, headers={"Accept": "application/json"})
+        j = r.json()
+        # NOAA
+        if "properties" in j and "periods" in j["properties"]:
+            return j["properties"]["periods"]
+        # Open-Meteo: convert daily to pseudo-entries
+        if "daily" in j:
+            days = j["daily"]
+            entries = []
+            for idx, date in enumerate(days["time"]):
+                entries.append({
+                    "title": date,
+                    "summary": f"Max {days['temperature_2m_max'][idx]}°C, "
+                               f"Min {days['temperature_2m_min'][idx]}°C, "
+                               f"Weather code {days['weathercode'][idx]}"
+                })
+            return entries
+        return []
 
 def render_weather(entries):
     if not entries:
         return "(weather data unavailable)"
-    out = []
-    # If NOAA: list today+tomorrow+day after
-    if isinstance(entries[0], dict) and "temperature" in entries[0]:
+    lines = []
+    # NOAA style entries are dicts with 'name'
+    if isinstance(entries[0], dict) and "name" in entries[0]:
         for p in entries[:3]:
-            out.append(f"• {p['name']}: {p['detailedForecast']}")
+            lines.append(f"• {p['name']}: {p.get('detailedForecast', p.get('summary',''))}")
     else:
-        # RSS: Environment Canada summary
-        today, tomorrow = entries[0], entries[1] if len(entries)>1 else None
-        out.append(f"• {today.title}: {today.summary}")
-        if tomorrow:
-            out.append(f"• {tomorrow.title}: {tomorrow.summary}")
-    return "\n".join(out)
+        # RSS style
+        today_rss = entries[0]
+        tom_rss   = entries[1] if len(entries) > 1 else None
+        lines.append(f"• {today_rss.title}: {today_rss.summary}")
+        if tom_rss:
+            lines.append(f"• {tom_rss.title}: {tom_rss.summary}")
+    return "\n".join(lines)
 
 def collect_section(name, urls):
+    logging.info(f"Collecting section {name}")
     entries = []
     for url in urls:
         try:
             es = get_feed_entries(url)
             if es:
+                logging.info(f"→ {name}: {len(es)} entries from {url}")
                 entries = es
                 break
         except Exception as e:
-            continue
-    if not entries and cache.get(today,{}).get(name):
-        # fall back to yesterday
-        entries = cache.get(today,{}).get(name)
-        note = f"(using cached {name})"
+            logging.error(f"→ {name} failed on {url}: {e}")
+    if not entries:
+        # fallback to cache if available
+        last = cache.get(today, {}).get(name)
+        if last:
+            logging.info(f"→ {name}: using cached entries")
+            entries = last
+            note = "(cached)"
+        else:
+            note = "(no data)"
     else:
         note = ""
-    # store for cache
-    cache.setdefault(today,{})[name] = entries
-    # Render
+    cache.setdefault(today, {})[name] = entries
+
     if name == "Weather":
         body = render_weather(entries)
     else:
         lines = []
         for e in entries[:2]:
-            title = getattr(e, "title", e.get("name",""))
-            summary = getattr(e, "summary", e.get("shortForecast","")).strip()
-            date = getattr(e, "published", datetime.now().strftime("%b %d, %Y"))
-            source = getattr(e, "link", "")
+            title   = getattr(e, "title", e.get("title", ""))
+            summary = getattr(e, "summary", e.get("summary","")).replace("\n"," ").strip()
+            date    = getattr(e, "published", e.get("time", ""))[:12]
             lines.append(f"• {title}\n  {summary} {{{date}}}")
         body = "\n".join(lines) if lines else "(no data)"
     return f"\n{name}:\n{note}\n{body}\n"
 
-# --- MAIN ---
-
+# ——— MAIN ———
 def main():
     parts = [f"Morning News Briefing – {datetime.now().strftime('%B %d, %Y %H:%M')}"]
     for section, urls in SECTIONS.items():
         parts.append(collect_section(section, urls))
-    parts.append("\n— End of briefing —")
-    # Write out
+    parts.append("— End of briefing —")
+
     with open("latest.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(parts))
-    # save updated cache
-    save_cache(cache)
 
-if __name__=="__main__":
+    save_cache(cache)
+    logging.info("Writing latest.txt and cache.json complete")
+
+if __name__ == "__main__":
     main()
