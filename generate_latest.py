@@ -1,165 +1,127 @@
 #!/usr/bin/env python3
-import os
-import sys
-import time
 import json
-import logging
+import re
+import sys
 from datetime import datetime
+from dateutil import tz
 import requests
 import feedparser
-from dateutil import tz
 
-# ——— CONFIG ———
-CACHE_PATH = "cache.json"
-LOG_PATH   = "debug.log"
+# ─── CONFIG ────────────────────────────────────────────────────────────────────
+WEATHER_FEEDS = [
+    ("Environment Canada (Ottawa)", "https://dd.weather.gc.ca/rss/city/on-118_e.xml"),
+    ("NOAA (Ottawa)",          "https://w1.weather.gov/xml/current_obs/CYOW.rss"),
+    ("OpenWeatherMap (Ottawa)", "https://api.openweathermap.org/data/2.5/weather?q=Ottawa,CA&mode=xml&appid=YOUR_API_KEY"),
+]
 
-SECTIONS = {
-    "Weather": [
-        # Env Canada RSS
-        "https://dd.weather.gc.ca/rss/city/on-118_e.xml",
-        # NOAA JSON API
-        "https://api.weather.gov/gridpoints/MTR/100,69/forecast",
-        # Backup: Open-Meteo JSON API (no key required)
-        "https://api.open-meteo.com/v1/forecast?latitude=45.4215&longitude=-75.6972&daily=weathercode,temperature_2m_max,temperature_2m_min&timezone=America%2FToronto",
-    ],
-    "Canadian News": [
-        "https://rss.cbc.ca/lineup/topstories.xml",
-        "https://www.cbc.ca/cmlink/rss-canada",
-        "http://feeds.bbci.co.uk/news/world/canada/rss.xml",
-    ],
-    "AI & EA": [
-        "https://feeds.arstechnica.com/arstechnica/technology-policy",
-        "https://www.technologyreview.com/feed/",
-        "https://www.opengroup.org/enterprise-architect/rss.xml",
-    ],
-}
+CANADIAN_FEEDS = [
+    ("CBC Top Stories", "https://rss.cbc.ca/lineup/topstories.xml"),
+    ("CTV Canada",      "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"),
+    ("BBC Canada",      "http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml"),
+]
 
-# ——— SETUP LOGGING & CACHE ———
-logging.basicConfig(filename=LOG_PATH, level=logging.DEBUG,
-                    format="%(asctime)s %(levelname)s %(message)s")
+AI_EA_FEEDS = [
+    ("Ars Technica – Tech Policy", "https://feeds.arstechnica.com/arstechnica/technology-policy"),
+    ("MIT Tech Review – AI",       "https://www.technologyreview.com/feed/"),
+    ("IEEE Spectrum – AI",         "https://spectrum.ieee.org/rss/robotics/artificial-intelligence"),
+]
 
-def load_cache():
-    try:
-        return json.load(open(CACHE_PATH))
-    except Exception:
-        return {}
+CACHE_FILE = "cache.json"
+OUTPUT_FILE = "latest.txt"
+MAX_PER_SECTION = 2
 
-def save_cache(cache):
-    with open(CACHE_PATH, "w") as f:
-        json.dump(cache, f, indent=2)
+# ─── UTILITIES ──────────────────────────────────────────────────────────────────
+def clean_html(raw):
+    return re.sub(r'<[^>]+>', '', raw or "").strip()
 
-cache = load_cache()
-today = datetime.now().strftime("%Y-%m-%d")
-
-
-# ——— HELPERS ———
-def fetch_with_retries(url, headers=None, timeout=10, max_retries=2):
-    backoff = 1
-    for attempt in range(max_retries + 1):
+def try_feeds(feeds):
+    for name, url in feeds:
         try:
-            logging.debug(f"Fetching {url} (attempt {attempt+1})")
-            r = requests.get(url, timeout=timeout, headers=headers)
+            r = requests.get(url, timeout=15)
             r.raise_for_status()
-            return r
-        except Exception as e:
-            logging.warning(f"{url} failed on attempt {attempt+1}: {e}")
-            if attempt == max_retries:
-                raise
-            time.sleep(backoff)
-            backoff *= 2
+            fp = feedparser.parse(r.content)
+            if fp.entries:
+                return name, fp.entries
+        except Exception:
+            continue
+    return None, []
 
-def get_feed_entries(url):
-    if url.endswith(".xml"):
-        r = fetch_with_retries(url)
-        feed = feedparser.parse(r.content)
-        return feed.entries
-    else:
-        # JSON sources
-        r = fetch_with_retries(url, headers={"Accept": "application/json"})
-        j = r.json()
-        # NOAA
-        if "properties" in j and "periods" in j["properties"]:
-            return j["properties"]["periods"]
-        # Open-Meteo: convert daily to pseudo-entries
-        if "daily" in j:
-            days = j["daily"]
-            entries = []
-            for idx, date in enumerate(days["time"]):
-                entries.append({
-                    "title": date,
-                    "summary": f"Max {days['temperature_2m_max'][idx]}°C, "
-                               f"Min {days['temperature_2m_min'][idx]}°C, "
-                               f"Weather code {days['weathercode'][idx]}"
-                })
-            return entries
-        return []
-
-def render_weather(entries):
+# ─── WEATHER ───────────────────────────────────────────────────────────────────
+def fetch_weather():
+    label, entries = try_feeds(WEATHER_FEEDS)
     if not entries:
-        return "(weather data unavailable)"
-    lines = []
-    # NOAA style entries are dicts with 'name'
-    if isinstance(entries[0], dict) and "name" in entries[0]:
-        for p in entries[:3]:
-            lines.append(f"• {p['name']}: {p.get('detailedForecast', p.get('summary',''))}")
-    else:
-        # RSS style
-        today_rss = entries[0]
-        tom_rss   = entries[1] if len(entries) > 1 else None
-        lines.append(f"• {today_rss.title}: {today_rss.summary}")
-        if tom_rss:
-            lines.append(f"• {tom_rss.title}: {tom_rss.summary}")
+        return None
+    # take first three items if available
+    items = entries[:3]
+    lines = [f"{label} – {datetime.now(tz.tzlocal()).strftime('%B %d, %Y')}"]
+    for e in items:
+        title = clean_html(getattr(e, "title", ""))
+        summary = clean_html(getattr(e, "summary", ""))
+        lines.append(f"• {title}: {summary}")
     return "\n".join(lines)
 
-def collect_section(name, urls):
-    logging.info(f"Collecting section {name}")
-    entries = []
-    for url in urls:
+# ─── NEWS SECTIONS ─────────────────────────────────────────────────────────────
+def collect_section(header, feeds):
+    lines = [f"{header}"]
+    for name, url in feeds[:]:  # slice in case you want to trim
         try:
-            es = get_feed_entries(url)
-            if es:
-                logging.info(f"→ {name}: {len(es)} entries from {url}")
-                entries = es
-                break
-        except Exception as e:
-            logging.error(f"→ {name} failed on {url}: {e}")
-    if not entries:
-        # fallback to cache if available
-        last = cache.get(today, {}).get(name)
-        if last:
-            logging.info(f"→ {name}: using cached entries")
-            entries = last
-            note = "(cached)"
-        else:
-            note = "(no data)"
-    else:
-        note = ""
-    cache.setdefault(today, {})[name] = entries
+            r = requests.get(url, timeout=15)
+            r.raise_for_status()
+            fp = feedparser.parse(r.content)
+            entries = fp.entries[:MAX_PER_SECTION]
+        except Exception:
+            entries = []
+        if not entries:
+            lines.append(f"• {name}: (unavailable)")
+            continue
+        for e in entries:
+            title = clean_html(getattr(e, "title", ""))
+            txt   = clean_html(getattr(e, "summary", ""))
+            date  = ""
+            if "published_parsed" in e:
+                date = datetime(*e.published_parsed[:6]).strftime("%b %d, %Y")
+            source = getattr(e, "source", {}).get("title", "")
+            lines.append(f"• {title}\n  {txt} {{{date}{(' ('+source+')') if source else ''}}}")
+    return "\n".join(lines)
 
-    if name == "Weather":
-        body = render_weather(entries)
-    else:
-        lines = []
-        for e in entries[:2]:
-            title   = getattr(e, "title", e.get("title", ""))
-            summary = getattr(e, "summary", e.get("summary","")).replace("\n"," ").strip()
-            date    = getattr(e, "published", e.get("time", ""))[:12]
-            lines.append(f"• {title}\n  {summary} {{{date}}}")
-        body = "\n".join(lines) if lines else "(no data)"
-    return f"\n{name}:\n{note}\n{body}\n"
-
-# ——— MAIN ———
+# ─── MAIN ─────────────────────────────────────────────────────────────────────
 def main():
-    parts = [f"Morning News Briefing – {datetime.now().strftime('%B %d, %Y %H:%M')}"]
-    for section, urls in SECTIONS.items():
-        parts.append(collect_section(section, urls))
-    parts.append("— End of briefing —")
+    # load cache
+    try:
+        cache = json.load(open(CACHE_FILE))
+    except FileNotFoundError:
+        cache = {}
 
-    with open("latest.txt", "w", encoding="utf-8") as f:
-        f.write("\n".join(parts))
+    weather = fetch_weather()
+    can_news = collect_section("CANADIAN NEWS", CANADIAN_FEEDS)
+    ai_ea    = collect_section("AI & EA", AI_EA_FEEDS)
 
-    save_cache(cache)
-    logging.info("Writing latest.txt and cache.json complete")
+    # if sections all empty, fallback to cache
+    if not any([weather, can_news.strip("CANADIAN NEWS\r\n "), ai_ea.strip("AI & EA\r\n ")]):
+        print("⚠️ All sources failed – using last‐good cache.", file=sys.stderr)
+        prev = cache.get(max(cache.keys(), default=""), {})
+        weather = prev.get("weather")
+        can_news = prev.get("can_news")
+        ai_ea    = prev.get("ai_ea")
+
+    # write output
+    now = datetime.now(tz.tzlocal()).strftime("%B %d, %Y %H:%M")
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.write(f"Morning News Briefing – {now}\n\n")
+        f.write("WEATHER:\n")
+        f.write((weather or "(weather data unavailable)") + "\n\n")
+        f.write(can_news + "\n\n")
+        f.write(ai_ea + "\n\n")
+        f.write("— End of briefing —\n")
+
+    # update cache
+    cache[datetime.now().strftime("%Y-%m-%d")] = {
+        "weather": weather,
+        "can_news": can_news,
+        "ai_ea": ai_ea,
+    }
+    with open(CACHE_FILE, "w", encoding="utf-8") as f:
+        json.dump(cache, f, indent=2)
 
 if __name__ == "__main__":
     main()
