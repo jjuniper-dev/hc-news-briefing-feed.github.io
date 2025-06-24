@@ -1,0 +1,32 @@
+name: Test Ottawa Weather Fetch
+
+on:
+  schedule:
+    - cron: '0 * * * *'     # every hour, adjust as needed
+  workflow_dispatch:
+
+jobs:
+  weather-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python & deps
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests feedparser python-dateutil
+
+      - name: Run weather fetch
+        run: |
+          python generate_weather.py > weather.txt
+          echo "=== Weather Output ==="
+          cat weather.txt
+        # never fail the workflow on single-source glitches:
+        continue-on-error: false
+
+      - name: Smoke test for content
+        run: |
+          grep -q "Ottawa Weather –" weather.txt || (echo "Header missing" && exit 1)
+          grep -q "•" weather.txt     || (echo "No bullet lines" && exit 1)
