@@ -1,127 +1,123 @@
 #!/usr/bin/env python3
-import json
-import re
+import os
 import sys
-from datetime import datetime
-from dateutil import tz
-import requests
+import yaml
 import feedparser
+import requests
+from datetime import datetime, timedelta
+from dateutil import tz
+import openai
 
-# ─── CONFIG ────────────────────────────────────────────────────────────────────
-WEATHER_FEEDS = [
-    ("Environment Canada (Ottawa)", "https://dd.weather.gc.ca/rss/city/on-118_e.xml"),
-    ("NOAA (Ottawa)",          "https://w1.weather.gov/xml/current_obs/CYOW.rss"),
-    ("OpenWeatherMap (Ottawa)", "https://api.openweathermap.org/data/2.5/weather?q=Ottawa,CA&mode=xml&appid=YOUR_API_KEY"),
-]
-
-CANADIAN_FEEDS = [
-    ("CBC Top Stories", "https://rss.cbc.ca/lineup/topstories.xml"),
-    ("CTV Canada",      "https://www.ctvnews.ca/rss/ctvnews-ca-canada-1.2089050"),
-    ("BBC Canada",      "http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml"),
-]
-
-AI_EA_FEEDS = [
-    ("Ars Technica – Tech Policy", "https://feeds.arstechnica.com/arstechnica/technology-policy"),
-    ("MIT Tech Review – AI",       "https://www.technologyreview.com/feed/"),
-    ("IEEE Spectrum – AI",         "https://spectrum.ieee.org/rss/robotics/artificial-intelligence"),
-]
-
-CACHE_FILE = "cache.json"
+#— Configuration —#
+SCHEMA_FILE = "briefing_schema.yaml"
 OUTPUT_FILE = "latest.txt"
-MAX_PER_SECTION = 2
+# e.g. set FEED_CANADA_URL, FEED_US_URL, etc., in your environment
 
-# ─── UTILITIES ──────────────────────────────────────────────────────────────────
-def clean_html(raw):
-    return re.sub(r'<[^>]+>', '', raw or "").strip()
+# Ensure API key
+openai.api_key = os.getenv("OPENAI_API_KEY")
+if not openai.api_key:
+    print("Error: OPENAI_API_KEY not set")
+    sys.exit(1)
 
-def try_feeds(feeds):
-    for name, url in feeds:
-        try:
-            r = requests.get(url, timeout=15)
-            r.raise_for_status()
-            fp = feedparser.parse(r.content)
-            if fp.entries:
-                return name, fp.entries
-        except Exception:
+# Load the schema
+with open(SCHEMA_FILE, 'r') as f:
+    schema = yaml.safe_load(f)['briefing']
+
+def fetch_weather(days=3):
+    # Placeholder: replace with real Environment Canada parsing
+    url = "https://dd.weather.gc.ca/citypage_weather/xml/ON/s0000695_e.xml"
+    resp = requests.get(url)
+    resp.raise_for_status()
+    today = datetime.now(tz=tz.tzlocal())
+    data = []
+    for i in range(days):
+        d = today + timedelta(days=i)
+        data.append({
+            "day": d.strftime("%A"),
+            "summary": "Placeholder summary",
+            "high": 0,
+            "low": 0,
+            "precip_chance": 0,
+            "uv": 0
+        })
+    return data
+
+def fetch_feed_items(env_var, max_items):
+    url = os.getenv(env_var)
+    if not url:
+        return []
+    feed = feedparser.parse(url)
+    items = []
+    for entry in feed.entries[:max_items]:
+        items.append({
+            "title": entry.title,
+            "url": entry.link,
+            "date": getattr(entry, 'published', datetime.now().strftime("%Y-%m-%d"))[:10],
+            "source_name": feed.feed.get("title", "Unknown")
+        })
+    return items
+
+def gather_feeds():
+    feeds = {}
+    for section, info in schema['sections'].items():
+        if section == 'weather':
             continue
-    return None, []
+        key = f"FEED_{section.upper()}_URL"
+        feeds[section] = fetch_feed_items(key, info.get('max_items', 0))
+    return feeds
 
-# ─── WEATHER ───────────────────────────────────────────────────────────────────
-def fetch_weather():
-    label, entries = try_feeds(WEATHER_FEEDS)
-    if not entries:
-        return None
-    # take first three items if available
-    items = entries[:3]
-    lines = [f"{label} – {datetime.now(tz.tzlocal()).strftime('%B %d, %Y')}"]
-    for e in items:
-        title = clean_html(getattr(e, "title", ""))
-        summary = clean_html(getattr(e, "summary", ""))
-        lines.append(f"• {title}: {summary}")
-    return "\n".join(lines)
+def build_prompt(data):
+    # System message with the full YAML schema
+    with open(SCHEMA_FILE, 'r') as f:
+        schema_text = f.read()
+    system = (
+        "You are a news-briefing assistant. Follow the provided briefing schema exactly.\n\n"
+        "Schema:\n" + schema_text
+    )
+    user = yaml.dump(data, sort_keys=False)
+    return [
+        {"role": "system", "content": system},
+        {"role": "user",   "content": user}
+    ]
 
-# ─── NEWS SECTIONS ─────────────────────────────────────────────────────────────
-def collect_section(header, feeds):
-    lines = [f"{header}"]
-    for name, url in feeds[:]:  # slice in case you want to trim
-        try:
-            r = requests.get(url, timeout=15)
-            r.raise_for_status()
-            fp = feedparser.parse(r.content)
-            entries = fp.entries[:MAX_PER_SECTION]
-        except Exception:
-            entries = []
-        if not entries:
-            lines.append(f"• {name}: (unavailable)")
+def strip_metadata(text):
+    # Remove lines that are only ISO timestamps or standalone URLs
+    lines = text.splitlines()
+    cleaned = []
+    for line in lines:
+        stripped = line.strip()
+        # skip pure timestamps (e.g., 2025-06-23T09:31:50Z)
+        if stripped.startswith("20") and "T" in stripped and stripped.endswith("Z"):
             continue
-        for e in entries:
-            title = clean_html(getattr(e, "title", ""))
-            txt   = clean_html(getattr(e, "summary", ""))
-            date  = ""
-            if "published_parsed" in e:
-                date = datetime(*e.published_parsed[:6]).strftime("%b %d, %Y")
-            source = getattr(e, "source", {}).get("title", "")
-            lines.append(f"• {title}\n  {txt} {{{date}{(' ('+source+')') if source else ''}}}")
-    return "\n".join(lines)
+        # skip standalone URLs
+        if stripped.startswith("http://") or stripped.startswith("https://"):
+            continue
+        cleaned.append(line)
+    return "\n".join(cleaned)
 
-# ─── MAIN ─────────────────────────────────────────────────────────────────────
+def generate_briefing():
+    weather = fetch_weather(days=schema['sections']['weather']['days'])
+    feeds   = gather_feeds()
+    data    = {"weather": weather, "feeds": feeds}
+
+    prompt = build_prompt(data)
+    resp = openai.ChatCompletion.create(
+        model="gpt-4o-mini",
+        messages=prompt,
+        temperature=0.5,
+        max_tokens=1200
+    )
+    return resp.choices[0].message.content
+
+def save_briefing(text):
+    cleaned = strip_metadata(text)
+    with open(OUTPUT_FILE, 'w') as f:
+        f.write(cleaned)
+
 def main():
-    # load cache
-    try:
-        cache = json.load(open(CACHE_FILE))
-    except FileNotFoundError:
-        cache = {}
-
-    weather = fetch_weather()
-    can_news = collect_section("CANADIAN NEWS", CANADIAN_FEEDS)
-    ai_ea    = collect_section("AI & EA", AI_EA_FEEDS)
-
-    # if sections all empty, fallback to cache
-    if not any([weather, can_news.strip("CANADIAN NEWS\r\n "), ai_ea.strip("AI & EA\r\n ")]):
-        print("⚠️ All sources failed – using last‐good cache.", file=sys.stderr)
-        prev = cache.get(max(cache.keys(), default=""), {})
-        weather = prev.get("weather")
-        can_news = prev.get("can_news")
-        ai_ea    = prev.get("ai_ea")
-
-    # write output
-    now = datetime.now(tz.tzlocal()).strftime("%B %d, %Y %H:%M")
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(f"Morning News Briefing – {now}\n\n")
-        f.write("WEATHER:\n")
-        f.write((weather or "(weather data unavailable)") + "\n\n")
-        f.write(can_news + "\n\n")
-        f.write(ai_ea + "\n\n")
-        f.write("— End of briefing —\n")
-
-    # update cache
-    cache[datetime.now().strftime("%Y-%m-%d")] = {
-        "weather": weather,
-        "can_news": can_news,
-        "ai_ea": ai_ea,
-    }
-    with open(CACHE_FILE, "w", encoding="utf-8") as f:
-        json.dump(cache, f, indent=2)
+    briefing = generate_briefing()
+    save_briefing(briefing)
+    print(f"✍️  Briefing generated and saved to {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
