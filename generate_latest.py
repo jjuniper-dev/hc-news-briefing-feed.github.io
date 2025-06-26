@@ -47,6 +47,7 @@ if not openai.api_key:
 with open(SCHEMA_FILE, 'r') as f:
     schema = yaml.safe_load(f)['briefing']
 
+
 def fetch_weather(days=3):
     """Placeholder fetch for Ottawa weather (replace with real API parsing)."""
     now = datetime.now(tz=tz.tzlocal())
@@ -62,6 +63,7 @@ def fetch_weather(days=3):
             "uv": 0
         })
     return data
+
 
 def fetch_feed_items(env_var, max_items):
     """Fetch up to max_items from the RSS/Atom feed URL in environment."""
@@ -79,6 +81,7 @@ def fetch_feed_items(env_var, max_items):
         })
     return items
 
+
 def gather_feeds():
     """Aggregate feed items per schema sections (excluding weather)."""
     feeds = {}
@@ -88,6 +91,7 @@ def gather_feeds():
         env_key = f"FEED_{section.upper()}_URL"
         feeds[section] = fetch_feed_items(env_key, info.get('max_items', 0))
     return feeds
+
 
 def build_prompt(data):
     """Build the system and user messages for ChatGPT."""
@@ -102,6 +106,7 @@ def build_prompt(data):
         {"role": "system", "content": system_msg},
         {"role": "user",   "content": user_msg}
     ]
+
 
 def strip_metadata(text):
     """
@@ -118,6 +123,7 @@ def strip_metadata(text):
         cleaned.append(line)
     return "\n".join(cleaned)
 
+
 def generate_briefing():
     """Fetch data, call OpenAI, and return the raw briefing text."""
     weather = fetch_weather(days=schema['sections']['weather']['days'])
@@ -133,16 +139,19 @@ def generate_briefing():
     )
     return response.choices[0].message.content
 
+
 def save_output(text):
     """Strip metadata and write the cleaned briefing to file."""
     cleaned = strip_metadata(text)
     with open(OUTPUT_FILE, 'w') as f:
         f.write(cleaned)
 
+
 def main():
     briefing_text = generate_briefing()
     save_output(briefing_text)
     print(f"✅ Briefing generated and saved to {OUTPUT_FILE}")
+
 
 if __name__ == "__main__":
     main()
