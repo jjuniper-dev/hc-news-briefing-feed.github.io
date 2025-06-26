@@ -10,12 +10,6 @@ Automatically installs missing dependencies if needed.
 import sys
 import subprocess
 import os
-import yaml
-import feedparser
-import requests
-from datetime import datetime, timedelta
-from dateutil import tz
-import openai
 
 # --- Bootstrap: ensure required packages are installed ---
 required_packages = [
@@ -27,9 +21,17 @@ required_packages = [
 ]
 for pkg in required_packages:
     try:
-        __import__(pkg.replace("-", "_"))
+        __import__(pkg.replace('-', '_'))
     except ImportError:
         subprocess.check_call([sys.executable, "-m", "pip", "install", pkg])
+
+# --- Imports after ensuring installation ---
+import yaml
+import feedparser
+import requests
+from datetime import datetime, timedelta
+from dateutil import tz
+import openai
 
 # --- Configuration ---
 SCHEMA_FILE = "briefing_schema.yaml"
