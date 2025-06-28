@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
-import requests
 import feedparser
 import re
 from datetime import datetime, timedelta
 from http.client import RemoteDisconnected
+from transformers import pipeline
 
 # --- CONFIG ---
 DAYS_BACK = 5
@@ -17,95 +17,141 @@ GROUPED_FEEDS = {
     ],
     "International & Canadian News": [
         "http://feeds.reuters.com/Reuters/worldNews",
-        "https://rss.cbc.ca/lineup/canada.xml",
-        "http://feeds.bbci.co.uk/news/world/rss.xml"
+        "https://rss.cbc.ca/lineup/canada.xml"
     ],
     "U.S. Top Stories": [
-        "https://feeds.npr.org/1001/rss.xml",
-        "https://rss.cnn.com/rss/cnn_topstories.rss"
+        "https://feeds.npr.org/1001/rss.xml"
     ],
     "Artificial Intelligence & Digital Strategy": [
-        "https://openai.com/blog/rss/",
         "https://feeds.arstechnica.com/arstechnica/technology-policy",
-        "https://blogs.gartner.com/smarterwithgartner/feed/"
+        "https://www.theregister.com/headlines.atom"
     ],
     "Public Health & Science": [
         "https://www.who.int/feeds/entity/mediacentre/news/en/rss.xml",
-        "https://www.canada.ca/etc/+/health/public-health-updates.rss"
+        "https://www.nature.com/subjects/public-health.rss"
     ],
     "Government & Policy": [
-        "https://www.cbc.ca/cmlink/rss-politics",
-        "https://gds.blog/feed/"
+        "https://gds.blog/feed/",
+        "https://oecd-rss.org/publications/digital-government-rss.xml"
+    ],
+    "Enterprise Architecture & IT Governance": [
+        "https://www.opengroup.org/news/rss/news-release.xml",
+        "https://www.cio.com/ciolib/rss/cio/government.xml"
+    ],
+    "AI & Emerging Tech": [
+        "https://www.technologyreview.com/feed/",
+        "http://aiweekly.co/rss",
+        "https://venturebeat.com/category/ai/feed/"
+    ],
+    "Cybersecurity & Privacy": [
+        "https://krebsonsecurity.com/feed/",
+        "https://www.nist.gov/blogs/blog.rss"
+    ],
+    "University AI": [
+        "https://www.csail.mit.edu/rss.xml",
+        "https://ai.stanford.edu/blog/feed/",
+        "https://bair.berkeley.edu/blog/rss/",
+        "https://ml.ox.ac.uk/rss.xml",
+        "https://www.ml.cmu.edu/news/rss.xml"
+    ],
+    "Corporate AI": [
+        "https://openai.com/blog/rss",
+        "https://deepmind.com/blog/feed.xml",
+        "https://ai.googleblog.com/feeds/posts/default",
+        "https://www.microsoft.com/en-us/research/feed/?category=AI",
+        "https://blogs.nvidia.com/blog/category/ai-blogs/feed/",
+        "https://aws.amazon.com/blogs/machine-learning/feed/"
     ]
 }
 
-# Utility functions
+# Initialize summarizer once
+summarizer = pipeline("summarization")
 
+# Helper to strip HTML
+TAG_RE = re.compile(r'<[^>]+>')
+
+def clean_html(text):
+    return TAG_RE.sub('', text).strip()
+
+# Summarize regardless of length
+def ai_summary(text):
+    text = clean_html(text)
+    # dynamic max_length: half of words up to 100
+    words = text.split()
+    max_len = min(len(words)//2, 100)
+    try:
+        result = summarizer(text, max_length=max_len or 30, min_length=20, do_sample=False)
+        return result[0]['summary_text'].strip()
+    except Exception:
+        return text
+
+# Safe parse
 def safe_parse(url):
     try:
-        resp = requests.get(url, timeout=10)
-        resp.raise_for_status()
-        return feedparser.parse(resp.content)
+        return feedparser.parse(url)
+    except RemoteDisconnected:
+        return feedparser.FeedParserDict(entries=[], feed={})
     except Exception:
-        return feedparser.FeedParserDict(entries=[])
+        return feedparser.FeedParserDict(entries=[], feed={})
 
-
-def strip_tags(html: str) -> str:
-    return re.sub(r'<[^>]+>', '', html or '')
-
-
-def get_section_items(title, urls, limit=2):
-    for url in urls:
-        feed = safe_parse(url)
-        if feed.entries:
-            items = []
-            for entry in feed.entries[:limit]:
-                text = strip_tags(entry.get('summary', entry.title))
-                items.append((entry.title.strip(), text))
-            return items
-    return []
-
-# Build briefing
-
-def build_briefing():
-    today = datetime.now()
+# Generate briefing
+def generate_briefing():
+    date_str = datetime.now().strftime('%B %d, %Y')
+    iso_date = datetime.now().strftime('%Y-%m-%d')
     header = [
-        f"✅ Morning News Briefing – {today:%B %d, %Y}",
+        f"✅ Morning News Briefing – {date_str}",
         "",
-        f"📅 Date: {today:%Y-%m-%d}",
+        f"📅 Date: {iso_date}",
         "🏷️ Tags: #briefing #ai #publichealth #digitalgov",
         "",
         "⸻",
         ""
     ]
-    lines = header
-    # Sections
-    for section, feeds in GROUPED_FEEDS.items():
-        lines.append(f"🌍 {section}") if section == "International & Canadian News" else None
-        lines.append(f"🇺🇸 {section}") if section == "U.S. Top Stories" else None
-        # generic icon for others
-        if section not in ["International & Canadian News", "U.S. Top Stories"]:
-            icon = "🧠" if "Intelligence" in section or "AI" in section else "🏥" if "Health" in section else "🧾"
-            lines.append(f"{icon} {section}")
-        items = get_section_items(section, feeds)
-        for title, summary in items:
-            lines.append(title)
-            lines.append(summary)
-            lines.append("")
-        lines.append("⸻")
-        lines.append("")
-    return "\n".join(lines)
+    body = []
+    for section, urls in GROUPED_FEEDS.items():
+        body.append(f"{section_emoji(section)} {section}")
+        has_items = False
+        for url in urls:
+            feed = safe_parse(url)
+            for entry in feed.entries:
+                if 'published_parsed' in entry:
+                    pub = datetime(*entry.published_parsed[:6])
+                    if pub >= CUT_OFF:
+                        title = clean_html(entry.title)
+                        content = entry.get('content', [{'value': entry.get('summary','')}])[0]['value']
+                        summary = ai_summary(content)
+                        body.append(f"• {title}\n  {summary}")
+                        has_items = True
+        if not has_items:
+            body.append("No updates.")
+        body.append("")
+    body.append("⸻")
+    return '\n'.join(header + body)
 
-# Main
+# Emoji mapper
+def section_emoji(name):
+    return {
+        'Weather': '🧾',
+        'International & Canadian News': '🌍',
+        'U.S. Top Stories': '🇺🇸',
+        'Artificial Intelligence & Digital Strategy': '🧠',
+        'Public Health & Science': '🏥',
+        'Government & Policy': '🧾',
+        'Enterprise Architecture & IT Governance': '🏛️',
+        'AI & Emerging Tech': '🤖',
+        'Cybersecurity & Privacy': '🔒',
+        'University AI': '🎓',
+        'Corporate AI': '🏢'
+    }.get(name, '')
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
-        briefing = build_briefing()
-        with open("latest.txt", "w", encoding="utf-8") as f:
+        briefing = generate_briefing()
+        with open('latest.txt', 'w', encoding='utf-8') as f:
             f.write(briefing)
-        print("latest.txt generated successfully.")
+        print('latest.txt updated successfully.')
     except Exception as e:
-        print(f"ERROR generating briefing: {e}")
-        with open("latest.txt", "w", encoding="utf-8") as f:
-            f.write(f"ERROR generating briefing: {e}\n")
+        print(f"⚠️ ERROR in briefing generation: {e}")
+        with open('latest.txt', 'w', encoding='utf-8') as f:
+            f.write(f"⚠️ Daily briefing failed: {e}\n")
         exit(0)
