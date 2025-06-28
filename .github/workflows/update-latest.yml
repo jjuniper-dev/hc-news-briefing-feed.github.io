@@ -1,45 +1,65 @@
-name: Update latest.txt
+name: Update latest.txt with news and weather
 
 on:
-  # Daily at 6:30 AM Eastern (10:30 UTC)
   schedule:
-    - cron: '30 10 * * *'
+    - cron: '30 10 * * *'   # 10:30 UTC → 6:30 AM ET daily
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update:
+  build-briefing:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Check out the repo
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
         with:
           persist-credentials: true
 
-      # 2. Set up Python
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      # 3. Install your dependencies
+      - name: Cache pip packages
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Cache Hugging Face models
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/huggingface
+          key: ${{ runner.os }}-hf-models }}
+        
       - name: Install dependencies
         run: |
-          pip install requests feedparser python-dateutil
+          python -m pip install --upgrade pip
+          pip install feedparser requests transformers torch spacy
+          python -m spacy download en_core_web_sm
 
-      # 4. Run the generator
+      - name: Verify generate_latest.py exists
+        run: |
+          echo "Repo root contents:"
+          ls -1
+          echo "First lines of generate_latest.py:"
+          head -n 10 generate_latest.py
+
       - name: Generate latest.txt
         run: python generate_latest.py
 
-      # 5. Commit & push results
-      - name: Commit and push changes
+      - name: Commit & push updated briefing
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add latest.txt cache.json
-          git diff --quiet && echo "No changes to commit" || git commit -m "Auto-update latest.txt for $(date '+%Y-%m-%d')"
-          git push
+          git add latest.txt cache.json || true
+          git commit -m "Auto-update latest.txt for $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          # Sync with remote to allow fast‐forward push
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
