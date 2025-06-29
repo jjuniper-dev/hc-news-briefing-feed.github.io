@@ -39,14 +39,17 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install --upgrade pip
-          pip install feedparser requests transformers torch spacy
+          python -m pip install --upgrade pip
+          python -m pip install feedparser requests transformers torch spacy
           python -m spacy download en_core_web_sm
 
       - name: Verify Python & feedparser
         run: |
           python --version
-          python -c "import feedparser; print('✅ feedparser v', feedparser.__version__)"
+          python - <<EOF
+import feedparser
+print("✅ feedparser v", feedparser.__version__)
+EOF
 
       - name: Verify generate_latest.py exists
         run: |
