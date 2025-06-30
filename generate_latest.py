@@ -76,11 +76,12 @@ def clean_html(text):
 # Summarize regardless of length
 def ai_summary(text):
     text = clean_html(text)
-    # dynamic max_length: half of words up to 100
+    # compute max length as half of words (capped at 100) and ensure >= min_length
     words = text.split()
-    max_len = min(len(words)//2, 100)
+    max_len = min(len(words) // 2, 100)
+    max_len = max(max_len, 20)
     try:
-        result = summarizer(text, max_length=max_len or 30, min_length=20, do_sample=False)
+        result = summarizer(text, max_length=max_len, min_length=20, do_sample=False)
         return result[0]['summary_text'].strip()
     except Exception:
         return text
