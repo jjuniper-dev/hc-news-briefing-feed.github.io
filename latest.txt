@@ -1,6 +1,6 @@
-✅ Morning News Briefing – June 29, 2025
+✅ Morning News Briefing – June 30, 2025
 
-📅 Date: 2025-06-29
+📅 Date: 2025-06-30
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
@@ -8,61 +8,81 @@
 🧾 Weather
 • No watches or warnings in effect, Pembroke
   
-• Current Conditions:  16.6°C
-  Observed at: Pembroke 7:00 AM EDT
-• Sunday: A mix of sun and cloud. High 27.
-  Fog patches dissipating this morning . Clearing early this afternoon . High
-• Sunday night: A few clouds. Low 14.
-  Clear. Clear. Bec
-• Monday: Chance of showers. High 24. POP 30%
-  A mix of sun and cloud with 30 percent chance of showers . Risk
-• Monday night: Chance of showers. Low 19. POP 40%
-  Cloudy with 40 percent chance
-• Tuesday: Chance of showers. High 27. POP 60%
-  A mix of sun and cloud with 60
-• Tuesday night: Chance of showers. Low 14. POP 30%
-  Cloudy periods with 30 percent
-• Wednesday: A mix of sun and cloud. High 28.
+• Current Conditions:  15.5°C
+  Temperature: 15.5&deg;C Pressure / Tendency
+• Monday: Chance of showers. High 30. POP 30%
+  A mix of sun and cloud with 30 percent chance of showers and risk of
+• Monday night: Chance of showers. Low 19. POP 70%
+  Mainly cloudy with 70 percent chance of showers
+• Tuesday: Chance of showers. High 27. POP 30%
+  Cloudy with 30 percent chance of showers in the morning . Cle
+• Tuesday night: Cloudy periods. Low 15.
+  Cloudy periods
+• Wednesday: A mix of sun and cloud. High 27.
   A mix of sun and
-• Wednesday night: Cloudy. Low 13.
+• Wednesday night: Cloudy periods. Low 13.
+  Cloudy periods
+• Thursday: Cloudy. High 22.
   Cloudy.
-• Thursday: Chance of showers. High 24. POP 30%
-  Cloudy with 30 percent chance
 • Thursday night: Chance of showers. Low 10. POP 30%
   Cloudy periods with 30 percent
-• Friday: Sunny. High 26.
-  Sunday will be
-• Friday night: Clear. Low 12.
+• Friday: Sunny. High 27.
+  High 27.
+• Friday night: Clear. Low 13.
   Clear. Clear
-• Saturday: A mix of sun and cloud. High 26.
-  A mix of sun and
+• Saturday: Cloudy. High 27.
+  Increasing cloudiness
+• Saturday night: Cloudy. Low 19.
+  Cloudy.
+• Sunday: Chance of showers. High 26. POP 30%
+  Cloudy with 30 percent chance
 
 🌍 International & Canadian News
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Trump calls for Gaza deal, slams Netanyahu trial
-  U.S. President Donald Trump on Sunday pleaded for progress in ceasefire talks
-• Who said that? NPR's approach to anonymous sources
-  Sometimes people with vital information face serious risks for speaking to a journalist
-• Say 'maybe' to the dress? Tariffs are crashing the wedding planning party
-  How much extra would you pay to see your dream come true? U
-• The Trump administration is building a national citizenship data system
-  Department of Homeland Security rolls out tool to check citizenship status
-• Northern Irish rap group Kneecap plays Glastonbury despite controversy
-  Irish-language rap group Kneecap gave an impassioned performance for
-• 'Kisses yes, Bezos No,' protesters say, as Bezos wedding stirs controversy in Venice
-  Protesters denounced the three-day celebrations for the wedding between Jeff Bezos
-• Around 100,000 march in Budapest Pride event in defiance of Hungary's ban
-  Budapest Pride was outlawed by Prime Minister Viktor Orbán's right-
-• J.M. Smucker plans to remove artificial colors from its jams and other products
-  Smucker joins a growing number of
-• Man kicked and injured a CBP beagle during airport baggage search
-  The 25-pound dog was ordered to pay its vet fees
-• Authors petition publishers to curtail their use of AI
-  The open letter and petition asking publishers "to make a pledge that they
+• Click, speak, move: These brain implants are poised to help people with disabilities
+  People who can no longer move or speak may soon have an
+• This company wants to be the first to mine the ocean floor, with Trump's help
+  The Metals Company is applying for permission from the Trump administration to mine for
+• In effort to protect children, France bans smoking at parks and beaches
+  Smokers are no longer allowed to light up in public parks, at
+• DOJ announces plans to prioritize cases to revoke citizenship
+  Denaturalization is a tactic heavily used during the McCarthy era and expanded during the Obama administration . It's a tool
+• 80 years later, a Holocaust survivor meets an American soldier who helped free him
+  Andrew Roth survived the Nazi concentration camp Buchenwald . Jack Moran
+• Murders are down nationwide. Researchers point to a key reason
+  Analysts say reinvestment in communities from local government after pandemic's
+• Decades later, Karen de Boer still remembers a kind gesture from her college hallmate
+  Karen de Boer was sometimes inconsiderate to her hallmate, Pam . Pam came
+• The best support for a friend with cancer? Presence, listening and space to vent
+  People who get cancer say their friends often disappear when they hear the bad news . Don
+• Canadian prime minister says U.S. trade talks resume after Canada rescinded tech tax
+  President Trump said Friday that he was suspending trade talks with Canada over its plans
+• Man started Idaho blaze and then fatally shot 2 firefighters in ambush, officials say
+  A man armed with a rifle started a fire on a mountain in northern Idaho
 
 🧠 Artificial Intelligence & Digital Strategy
+• Deutsche Bahn train hits 405 km/h without falling to bits
+  Deutsche Bahn and Siemens have managed to get an ICE test train to
+• Cloud lobby warns EU: Clamp down on water rules and we'll evaporate
+  CISPE floats reforms to avoid new costs, fragmentation, and infrastructure flight . Trade body has put
+• Your browser has ad tech's fingerprints all over it, but there's a clean-up squad in town
+  Chrome's Incognito Mode is a
+• Junior sysadmin’s first lines of code set off alarms. His next lot crashed the company
+  Who, Me? is a Monday morning column in which readers admit to making big mistakes and somehow
+• Don't pay for AI support failures, says Gradient Labs CEO
+  Dimitri Masin argues that companies using AI agents for customer support should only pay
+• DoJ clears HPE to buy Juniper if it sells Instant On Wi-Fi and licenses some code
+  The US Department of Justice has cleared the way for HPE’
+• China claims breakthroughs in classical and quantum computers
+  Chipmaker Loongson says server CPUs on par with 2021’s Ice
+• Canada orders Chinese CCTV biz Hikvision to quit the country ASAP
+  Canada’s government has ordered Chinese CCTV systems vendor Hikvision
+• It's 2025 and almost half of you are still paying ransomware operators
+  Almost half of those infected by the malware send cash to the crooks who planted it, Sophos says
+• AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all
+  IT consultancy Gartner predicts more than 40 percent of agentic AI projects
 • Ex-NATO hacker: 'In the cyber world, there's no such thing as a ceasefire'
   The ceasefire between Iran and Israel may prevent the two countries from firing missiles at each other
 • How to get free software from yesteryear's IT crowd – trick code into thinking it's running on a rival PC
@@ -143,37 +163,15 @@ No updates.
   Aircraft meant to bolster NATO deterrent will rely on allied support to stay airborne . UK government to buy 12 F
 • Frozen foods supermarket chain deploys facial recognition tech
   UK supermarket chain says it's deploying the cameras to cut down on crime . CEO responds: 'It'll cut
-• Top AI models - even American ones - parrot Chinese propaganda, report finds
-  Chinese AI models show signs of bias toward viewpoints promoted by the Chinese Communist Party
-• That WhatsApp from an Israeli infosec expert could be a Iranian phish
-  The cyber-ops arm of Iran's Islamic Revolutionary Guard Corps has started a spear-
-• French city of Lyon ditching Microsoft for open source office and collab tools
-  French city of Lyon has decided to ditch Microsoft’s
-• Japanese company using mee-AI-ow to detect stressed cats
-  Rabo’s ‘Catlog’ smart collar sniffs for freaked-
-• AFRINIC election annulled after ICANN writes angry letter to African regional internet registry
-  The group in charge of IP addresses for 54 countries hasn't had a board since 2022 . ICANN
-• Intel totals automotive group
-  Intel is shuttering its automotive efforts
-• Visiting students can't hide social media accounts from Uncle Sam anymore
-  US State Department last week said foreign nationals seeking to study in the US must make their social media profiles
-• Citrix bleeds again: This time a zero-day exploited - patch now
-  Citrix issued emergency patch for yet another super-serious flaw in the same products . Citrix-owned Netscaler ADC and Net
-• Rack-scale networks are the new hotness for massive AI training and inference workloads
-  Rise of rack-scale architectures from the likes of Nvidia, AMD, and soon Intel has introduced a new
-• Amazon's Ring can now use AI to 'learn the routines of your residence'
-  Ring doorbells and cameras are using AI to "learn the routines of
 
 🏥 Public Health & Science
+• Updating the evidence on ultra-processed foods and health
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots for next week's gallery
 • Author Correction: Incorporating genetic data improves target trial emulations and informs the use of polygenic scores in randomized controlled trial design
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots for next week's gallery
 • AI-supported versus manual microscopy of Kato-Katz smears for diagnosis of soil-transmitted helminth infections in a primary healthcare setting
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots for next week's gallery
 • RFK Jr’s vaccine advisers vote down flu-shot ingredient — but back some jabs
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots for next week's gallery
-• Missile defence won’t prevent the health crises that rock global security
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots for next week's gallery
-• The economic effects of federal cuts to US science — in 24 graphs
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots for next week's gallery
 
 🧾 Government & Policy
@@ -183,6 +181,284 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• Meet Jim O’Neill, the longevity enthusiast who is now RFK Jr.’s right-hand man
+  When Jim O’Neill was nominated to be the second in command at the US Department of Health and Human Services, Dylan Livingston was excited. As founder and CEO of the lobbying group Alliance for Longevity Initiatives (A4LI), Livingston is a member of a community that seeks to extend human lifespan. O’Neill is “kind of one of us,” he told me shortly before O’Neill was sworn in as deputy secretary on June 9. “And now [he’s] in a position of great influence.”
+
+
+
+As Robert F. Kennedy Jr.’s new right-hand man, O’Neill is expected to wield authority at health agencies that fund biomedical research and oversee the regulation of new drugs. And while O’Neill doesn’t subscribe to Kennedy’s most contentious beliefs—and supports existing vaccine schedules—he may still steer the agencies in controversial new directions.&nbsp;
+
+
+
+
+
+Although much less of a public figure than his new boss, O’Neill is quite well-known in the increasingly well-funded and tight-knit longevity community. His acquaintances include the prominent longevity influencer Bryan Johnson, who describes him as “a soft-spoken, thoughtful, methodical guy,” and the billionaire tech entrepreneur Peter Thiel.&nbsp;
+
+
+
+In speaking with more than 20 people who work in the longevity field and are familiar with O’Neill, it’s clear that they share a genuine optimism about his leadership. And while no one can predict exactly what O’Neill will do, many in the community believe that he could help bring attention and resources to their cause and make it easier for them to experiment with potential anti-aging drugs.&nbsp;
+
+
+
+This idea is bolstered not just by his personal and professional relationships but also by his past statements and history working at aging-focused organizations—all of which suggest he indeed believes scientists should be working on ways to extend human lifespan beyond its current limits and thinks unproven therapies should be easier to access. He has also supported the libertarian idea of creating new geographic zones, possibly at sea, in which residents can live by their own rules (including, notably, permissive regulatory regimes for new drugs and therapies).&nbsp;
+
+
+
+“In [the last three administrations] there weren’t really people like that from our field taking these positions of power,” says Livingston, adding that O’Neill’s elevation is “definitely something to be excited about.”
+
+
+
+Not everyone working in health is as enthusiastic. If O’Neill still holds the views he has espoused over the years, that’s “worrisome,” says Diana Zuckerman, a health policy analyst and president of the National Center for Health Research, a nonprofit think tank in Washington, DC.&nbsp;
+
+
+
+“There’s nothing worse than getting a bunch of [early-stage unproven therapies] on the market,” she says. Those products might be dangerous and could make people sick while enriching those who develop or sell them.&nbsp;
+
+
+
+“Getting things on the market quickly means that everybody becomes a guinea pig,” Zuckerman says. “That’s not the way those of us who care about health care think.”&nbsp;
+
+
+
+The consumer advocacy group Public Citizen puts it far more bluntly, describing O’Neill as “one of Trump’s worst picks” and saying that he is “unfit to be the #2 US health-care leader.” His libertarian views are “antithetical to basic public health,” the organization’s co-president said in a statement. Neither O’Neill nor HHS responded to requests for comment.&nbsp;
+
+
+
+“One of us”
+
+
+
+As deputy secretary of HHS, O’Neill will oversee a number of agencies, including the National Institutes of Health, the world’s biggest funder of biomedical research; the Centers for Disease Control and Prevention, the country’s public health agency; and the Food and Drug Administration, which was created to ensure that drugs and medical devices are safe and effective.&nbsp;
+
+
+
+“It can be a quite powerful position,” says Patricia Zettler, a legal scholar at Ohio State University who specializes in drug regulation and the FDA.
+
+
+
+
+
+It is the most senior role O’Neill has held at HHS, though it’s not the first. He occupied various positions in the department over five years during the early 2000s, according to his LinkedIn profile. But it is what he did after that has helped him cultivate a reputation as an ally for longevity enthusiasts. 
+
+
+
+O’Neill appears to have had a close relationship with Thiel since at least the late 2000s. Thiel has heavily invested in longevity research and has said he does not believe that death is inevitable. In 2011 O’Neill referred to Thiel as his “friend and patron.” (A representative for Thiel did not respond to a request for comment.)&nbsp;
+
+
+
+O’Neill also served as CEO of the Thiel Foundation between 2009 and 2012 and cofounded the Thiel Fellowship, which offers $200,000 to promising young people if they drop out of college and do other work. And he spent seven years as managing director of Mithril Capital Management, a “family of long-term venture capital funds” founded by Thiel, according to O’Neill’s LinkedIn profile.&nbsp;
+
+
+
+O’Neill got further stitched into the longevity field when he spent more than a decade representing Thiel’s interests as a board member of the SENS Research Foundation (SRF), an organization dedicated to finding treatments for aging, to which Thiel was a significant donor.&nbsp;
+
+
+
+O’Neill even spent a couple of years as CEO of SRF, from 2019 to 2021, when its founder Aubrey de Grey, a prominent figure in the longevity field, was removed following accusations of sexual harassment. As CEO, O’Neill oversaw a student education program and multiple scientific research projects that focused on various aspects of aging, according to the organization’s annual reports. And in a 2020 SRF annual report, O’Neill wrote that Eric Hargan, then the deputy secretary of HHS, had attended an SRF conference to discuss “regulatory reform.” 
+
+
+
+“More and more influential people consider aging an absurdity,” he wrote in the report. “Now we need to make it one.”&nbsp;
+
+
+
+While de Grey calls him “the devil incarnate”—probably because he believes O’Neill “incited” two women to make sexual harassment allegations against him—the many other scientists, biotech CEOs, and other figures in the longevity field contacted by MIT Technology Review had more positive opinions of O’Neill, with many claiming they were longtime friends or acquaintances of the new deputy secretary (though, at the same time, many were reluctant to share specific views about his past work).&nbsp;
+
+
+
+Longevity science is a field that’s long courted controversy, owing largely to far-fetched promises of immortality and the ongoing marketing of creams, pills, intravenous infusions, and other so-called anti-aging treatments that are not supported by evidence. But the community includes people along a spectrum of beliefs (with the goals of adding a few years of healthy lifespan to the population at one end and immortality at the other), and serious doctors and scientists are working to bring legitimacy to the field.&nbsp;
+
+
+
+Pretty much everyone in the field that I spoke with appears to be hopeful about what O’Neill will do now that he’s been confirmed. Namely, they hope he will use his new position to direct attention and funds to legitimate longevity research and the development of new drugs that might slow or reverse human aging.&nbsp;
+
+
+
+
+
+Johnson, whose extreme and expensive approaches to extending his own lifespan have made him something of a celebrity, calls O’Neill a friend and says they’ve “known each other for a little over 15 years.” He says he can imagine O’Neill setting a goal to extend the lifespans of Americans.
+
+
+
+Eric Verdin, president of the Buck Institute for Research on Aging in Novato, California, says O’Neill has “been at the Buck several times” and calls him “a good guy”—someone who is “serious” and who understands the science of aging. He says, “He’s certainly someone who is going to help us to really bring the longevity field to the front of the priorities of this administration.”
+
+
+
+Celine Halioua, CEO of the biotech company Loyal, which is developing drugs to extend the lifespan of dogs, echoes these sentiments, saying she has “always liked and respected” O’Neill. “It’ll definitely be nice to have somebody who’s bought into the thesis [of longevity science] at the FDA,” she says.&nbsp;
+
+
+
+And Joe Betts-LaCroix, CEO of the longevity biotech company Retro Biosciences, says he’s known O’Neill for something like 10 years and describes him as “smart and clear thinking.” “We’ve mutually been part of poetry readings,” he says. “He’s been definitely interested in wanting us as a society to make progress on age-related disease.”
+
+
+
+After his confirmation, the A4LI LinkedIn account posted a photo of Livingston, its CEO, with O’Neill, writing that “we look forward to working with him to elevate aging research as a national priority and to modernize regulatory pathways that support the development of longevity medicines.”
+
+
+
+“His work at SENS Research Foundation [suggests] to me and to others that [longevity] is going to be something that he prioritizes,” Livingston says. “I think he’s a supporter of this field, and that’s really all that matters right now to us.”
+
+
+
+Changing the rules
+
+
+
+While plenty of treatments have been shown to slow aging in lab animals, none of them have been found to successfully slow or reverse human aging. And many longevity enthusiasts believe drug regulations are to blame.&nbsp;
+
+
+
+O’Neill is one of them. He has long supported deregulation of new drugs and medical devices. During his first tour at HHS, for instance, he pushed back against regulations on the use of algorithms in medical devices. “FDA had to argue that an algorithm … is a medical device,” he said in a 2014 presentation at a meeting on “rejuvenation biotechnology.” “I managed to put a stop to that, at least while I was there.”
+
+
+
+During the same presentation, O’Neill advocated lowering the bar for drug approvals in the US. “We should reform [the] FDA so that it is approving drugs after their sponsors have demonstrated safety and let people start using them at their own risk,” he said. “Let’s prove efficacy after they’ve been legalized.”
+
+
+
+
+
+This sentiment appears to be shared by Robert F. Kennedy Jr. In a recent podcast interview with Gary Brecka, who describes himself as a “longevity expert,” Kennedy said that he wanted to expand access to experimental therapies. “If you want to take an experimental drug … you ought to be able to do that,” he said in the episode, which was published online in May.
+
+
+
+But the idea is divisive. O’Neill was essentially suggesting that drugs be made available after the very first stage of clinical testing, which is designed to test whether a new treatment is safe. These tests are typically small and don’t reveal whether the drug actually works.
+
+
+
+That’s an idea that concerns ethicists. “It’s just absurd to think that the regulatory agency that’s responsible for making sure that products are safe and effective before they&#8217;re made available to patients couldn’t protect patients from charlatans,” says Holly Fernandez Lynch, a professor of medical ethics and health policy at the University of Pennsylvania who is currently on sabbatical. “It’s just like a complete dereliction of duty.”
+
+
+
+Robert Steinbrook, director of the health research group at Public Citizen, largely agrees that this kind of change to the drug approval process is a bad idea, though notes that he and his colleagues are generally more concerned about O’Neill’s views on the regulation of technologies like AI in health care, given his previous efforts on algorithms.&nbsp;
+
+
+
+“He has deregulatory views and would not be an advocate for an appropriate amount of regulation when regulation was needed,” Steinbrook says.
+
+
+
+Ultimately, though, even if O’Neill does try to change things, Zettler points out that there is currently no lawful way for the FDA to approve drugs that aren’t shown to be effective. That requirement won’t change unless Congress acts on the matter, she says: “It remains to be seen how big of a role HHS leadership will have in FDA policy on that front.”&nbsp;
+
+
+
+A longevity state
+
+
+
+A major goal for a subset of longevity enthusiasts relates to another controversial idea: creating new geographic zones in which people can live by their own rules. The goal has taken various forms, including “network states” (which could start out as online social networks and evolve into territories that make use of cryptocurrency), “special economic zones,” and more recently “freedom cities.”&nbsp;
+
+
+
+While specific details vary, the fundamental concept is creating a new society, beyond the limits of nations and governments, as a place to experiment with new approaches to rules and regulations.&nbsp;
+
+
+
+In 2023, for instance, a group of longevity enthusiasts met at a temporary “pop-up city” in Montenegro to discuss plans to establish a “longevity state”—a geographic zone with a focus on extending human lifespan. Such a zone might encourage healthy behaviors and longevity research, as well as a fast-tracked system to approve promising-looking longevity drugs. They considered Rhode Island as the site but later changed their minds.
+
+
+
+
+
+Some of those same longevity enthusiasts have set up shop in Próspera, Honduras—a “special economic zone” on the island of Roatán with a libertarian approach to governance, where residents are able to make their own suggestions for medical regulations. Another pop-up city, Vitalia, was set up there for two months in 2024, complete with its own biohacking lab; it also happened to be in close proximity to an established clinic selling an unproven longevity “gene therapy” for around $20,000. The people behind Vitalia referred to it as “a Los Alamos for longevity.” Another new project, Infinita City, is now underway in the former Vitalia location.
+
+
+
+O’Neill has voiced support for this broad concept, too. He’s posted on X about his support for limiting the role of government, writing “Get government out of the way” and, in reference to bills to shrink what some politicians see as government overreach, “No reason to wait.” And more to the point, he wrote on X last November, “Build freedom cities,” reposting another message that said: “I love the idea and think we should put the first one on the former Alameda Naval Air Station on the San Francisco Bay.”&nbsp;
+
+
+
+And up until March of last year, according to his financial disclosures, he served on the board of directors of the Seasteading Institute, an organization with the goal of creating “startup countries” at sea. “We are also negotiating with countries to establish a SeaZone (a specially designed economic zone where seasteading companies could build their platforms),” the organization explains on its website.
+
+
+
+“The healthiest societies in 2030 will most likely be on the sea,” O’Neill told an audience at a Seasteading Institute conference in 2009. In that presentation, he talked up the benefits of a free market for health care, saying that seasteads could offer improved health care and serve as medical tourism hubs: “The last best hope for freedom is on the sea.”
+
+
+
+Some in the longevity community see the ultimate goal as establishing a network state within the US. “That’s essentially what we’re doing in Montana,” says A4LI’s Livingston, referring to his successful lobbying efforts to create a hub for experimental medicine there. Over the last couple of years, the state has expanded Right to Try laws, which were originally designed to allow terminally ill individuals to access unproven treatments. Under new state laws, anyone can access such treatments, providing they have been through an initial phase I trial as a preliminary safety test.
+
+
+
+“We’re doing a freedom city in Montana without calling it a freedom city,” says Livingston.
+
+
+
+Patri Friedman, the libertarian founder of the Seasteading Institute, who calls O’Neill “a close friend,” explains that part of the idea of freedom cities is to create “specific industry clusters” on federal land in the US and win “regulatory carve-outs” that benefit those industries.&nbsp;
+
+
+
+A freedom city for longevity biotech is “being discussed,” says Friedman, although he adds that those discussions are still in the very early stages. He says he’d possibly work with O’Neill on “changing regulations that are under HHS” but isn’t yet certain what that might involve: “We&#8217;re still trying to research and define the whole program and gather support for it.”
+
+
+
+Will he deliver?
+
+
+
+Some libertarians, including longevity enthusiasts, believe this is their moment to build a new experimental home.&nbsp;
+
+
+
+Not only do they expect backing from O’Neill, but they believe President Trump has advocated for new economic zones, perhaps dedicated to the support of specific industries, that can set their own rules for governance.&nbsp;
+
+
+
+While campaigning for the presidency in 2023, Trump floated what seemed like a similar idea: “We should hold a contest to charter up to 10 new cities and award them to the best proposals for development,” he said in a recorded campaign speech. (The purpose of these new cities was somewhat vague. “These freedom cities will reopen the frontier, reignite the American imagination, and give hundreds of thousands of young people and other people—all hardworking families—a new shot at homeownership and in fact the American dream,” he said.)
+
+
+
+But given how frequently Trump changes his mind, it’s hard to tell what the president, and others in the administration, will now support on this front.&nbsp;
+
+
+
+
+
+And even if HHS does try to create new geographic zones in some form, legal and regulatory experts say this approach won’t necessarily speed up drug development the way some longevity enthusiasts hope.&nbsp;
+
+
+
+“The notion around so-called freedom cities, with respect to biomedical innovation, just reflects deep misunderstandings of what drug development entails,” says Ohio State’s Zettler. “It’s not regulatory requirements that [slow down] drug development—it’s the scientific difficulty of assessing safety and effectiveness and of finding true therapies.”
+
+
+
+Making matters even murkier, a lot of the research geared toward finding those therapies has been subject to drastic cuts.The NIH is the largest funder of biomedical research in the world and has supported major scientific discoveries, including those that benefit longevity research. But in late March, HHS announced a “dramatic restructuring” that would involve laying off 10,000 full-time employees. Since Trump took office, over a thousand NIH research grants have been ended and the administration has announced plans to slash funding for “indirect” research costs—a move that would cost individual research institutions millions of dollars. Research universities (notably Harvard) have been the target of policies to limit or revoke visas for international students, demands to change curricula, and threats to their funding and tax-exempt status.
+
+
+
+The NIH also directly supports aging research. Notably, the Interventions Testing Program is a program run by the National Institutes of Aging (a branch of the NIH) to find drugs that make mice live longer. The idea is to understand the biology of aging and find candidates for human longevity drugs.
+
+
+
+The ITP has tested around five to seven drugs a year for over 20 years, says Richard Miller, a professor of pathology at the University of Michigan, one of three institutes involved in the program. “We’ve published eight winners so far,” he adds.
+
+
+
+The future of the ITP is uncertain, given recent actions of the Trump administration, he says. The cap on indirect costs alone would cost the University of Michigan around $181 million, the university’s interim vice president for research and innovation said in February. The proposals are subject to ongoing legal battles. But in the meantime, morale is low, says Miller. “In the worst-case scenario, all aging research [would be stopped],” he says.
+
+
+
+The A4LI has also had to tailor its lobbying strategy given the current administration’s position on government-funded research. Alongside its efforts to change Montana state law to allow clinics to sell unproven treatments, the organization had been planning to push for an all-new NIH institute dedicated to aging and longevity research—an idea that O’Neill voiced support for last year. But current funding cuts under the new administration suggest that it’s “not the ideal political climate for this,” says Livingston.
+
+
+
+Despite their enthusiasm for O’Neill’s confirmation, this has all left many members of the longevity community, particularly those with research backgrounds, concerned about what the cuts mean for the future of longevity science.
+
+
+
+“Someone like [O’Neill], who’s an advocate for aging and longevity, would be fantastic to have at HHS,” says Matthew O’Connor, who spent over a decade at SRF and says he knows O’Neill “pretty well.” But he adds that “we shouldn’t be cutting the NIH.” Instead, he argues, the agency’s funding should be multiplied by 10.
+
+
+
+“The solution to curing diseases isn’t to get rid of the organizations that are there to help us cure diseases,” adds O’Connor, who is currently co-CEO at Cyclarity Therapeutics, a company developing drugs for atherosclerosis and other age-related diseases.&nbsp;
+
+
+
+But it’s still just too soon to confidently predict how, if at all, O’Neill will shape the government health agencies he will oversee.&nbsp;
+
+
+
+“We don’t know exactly what he’s going to be doing as the deputy secretary of HHS,” says Public Citizen’s Steinbrook. “Like everybody who&#8217;s sworn into a government job, whether we disagree or agree with their views or actions … we still wish them well. And we hope that they do a good job.”
 • The Download: how to clean up AI data centers, and weight-loss drugs’ side effects
   This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
 
@@ -948,28 +1224,10 @@ We can still have nice things
 
 
 A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)+&nbsp; How to keep your cool in a heatwave.+ Roblox fans can’t get enough of, err, gardening.+ Kate Moss, you are the reigning queen of festival fashion.+ A couple of intrepid brown bears managed to escape from a wildlife park in the UK—to consume a week’s worth of honey
-• The Bank Secrecy Act is failing everyone. It’s time to rethink financial surveillance.
-  The US is on the brink of enacting rules for digital assets, with growing bipartisan momentum to modernize our financial system. But amid all the talk about innovation and global competitiveness, one issue has been glaringly absent: financial privacy. As we build the digital infrastructure of the 21st century, we need to talk about not just what’s possible but what’s acceptable. That means confronting the expanding surveillance powers quietly embedded in our financial system, which today can track nearly every transaction without a warrant.Many Americans may associate financial surveillance with authoritarian regimes. Yet because of a Nixon-era law called the Bank Secrecy Act (BSA) and the digitization of finance over the past half-century, financial privacy is under increasingly serious threat here at home. Most Americans don’t realize they live under an expansive surveillance regime that likely violates their constitutional rights. Every purchase, deposit, and transaction, from the smallest Venmo payment for a coffee to a large hospital bill, creates a data point in a system that watches you—even if you’ve done nothing wrong.As a former federal prosecutor, I care deeply about giving law enforcement the tools it needs to keep us safe. But the status quo doesn’t make us safer. It creates a false sense of security while quietly and permanently eroding the constitutional rights of millions of Americans.When Congress enacted the BSA in 1970, cash was king and organized crime was the target. The law created a scheme whereby, ever since, banks have been required to keep certain records on their customers and turn them over to law enforcement upon request. Unlike a search warrant, which must be issued by a judge or magistrate upon a showing of probable cause that a crime was committed and that specific evidence of that crime exists in the place to be searched, this power is exercised with no checks or balances. A prosecutor can “cut a subpoena”—demanding all your bank records for the past 10 years—with no judicial oversight or limitation on scope, and at no cost to the government. The burden falls entirely on the bank. In contrast, a proper search warrant must be narrowly tailored, with probable cause and judicial authorization.In United States v. Miller (1976), the Supreme Court upheld the BSA, reasoning that citizens have no “legitimate expectation of privacy” about information shared with third parties, like banks. Thus began the third-party doctrine, enabling law enforcement to access financial records without a warrant. The BSA has been amended several times over the years (most notoriously in 2001 as a part of the Patriot Act), imposing an ever-growing list of recordkeeping obligations on an ever-growing list of financial institutions. Today, it is virtually inescapable for everyday Americans.In the 1970s, when the BSA was enacted, banking and noncash payments were conducted predominantly through physical means: writing checks, visiting bank branches, and using passbooks. For cash transactions, the BSA required reporting of transactions over the kingly sum of $10,000, a figure that was not pegged to inflation and remains the same today. And given the nature of banking services and the technology available at the time, individuals conducted just a handful of noncash payments per month. Today, consumers make at least one payment or banking transaction a day, and just an estimated 16% of those are in cash.&nbsp;
-
-
-
-Meanwhile, emerging technologies further expand the footprint of financial data. Add to this the massive pools of personal information already collected by technology platforms—location history, search activity, communications metadata—and you create a world where financial surveillance can be linked to virtually every aspect of your identity, movement, and behavior.Nor does the BSA actually appear to be effective at achieving its aims. In fiscal year 2024, financial institutions filed about 4.7 million Suspicious Activity Reports (SARs) and over 20 million currency transaction reports. Instead of stopping major crime, the system floods law enforcement with low-value information, overwhelming agents and obscuring real threats. Mass surveillance often reduces effectiveness by drowning law enforcement in noise. But while it doesn’t stop hackers, the BSA creates a trove of permanent info on everyone.Worse still, the incentives are misaligned and asymmetrical. To avoid liability, financial institutions are required to report anything remotely suspicious. If they fail to file a SAR, they risk serious penalties—even indictment. But they face no consequences for overreporting. The vast overcollection of data is the unsurprising result. These practices, developed under regulations, require clearer guardrails so that executive branch actors can more safely outsource surveillance duties to private institutions.
-
-
-
-But courts have recognized that constitutional privacy must evolve alongside technology. In 2012, the Supreme Court ruled in United States v. Jones that attaching a GPS tracker to a vehicle for prolonged surveillance constituted a search restricted by the Fourth Amendment. Justice Sonia Sotomayor, in a notable concurrence, argued that the third-party doctrine was ill suited to an era when individuals &#8220;reveal a great deal of information about themselves to third parties&#8221; merely by participating in daily life.This legal evolution continued in 2018, when the Supreme Court held in Carpenter v. United States that accessing historical cell-phone location records held by a third party required a warrant, recognizing that “seismic shifts in digital technology” necessitate stronger protections and warning that “the fact that such information is gathered by a third party does not make it any less deserving of Fourth Amendment protection.”The logic of Carpenter applies directly to the mass of financial records being collected today. Just as tracking a person’s phone over time reveals the “whole of their physical movements,” tracking a person’s financial life exposes travel, daily patterns, medical treatments, political affiliations, and personal associations. In many ways, because of the velocity and digital nature of today’s digital payments, financial data is among the most personal and revealing data there is—and therefore deserves the highest level of constitutional protection.Though Miller remains formally intact, the writing is on the wall: Indiscriminate financial surveillance such as what we have today is fundamentally at odds with the Fourth Amendment in the digital age.Technological innovations over the past several decades have brought incredible convenience to economic life. Now our privacy standards must catch up. With Congress considering landmark legislation on digital assets, it’s an important moment to consider what kind of financial system we want—not just in terms of efficiency and access, but in terms of freedom. Rather than striking down the BSA in its entirety, policymakers should narrow its reach, particularly around the bulk collection and warrantless sharing of Americans’ financial data.
-
-
-
-Financial surveillance shouldn’t be the price of participation in modern life. The systems we build now will shape what freedom looks like for the next century. It’s time to treat financial privacy like what it is: a cornerstone of democracy, and a right worth fighting for.
-
-
-
-Katie Haun is the CEO and founder of Haun Ventures, a venture capital firm focused on frontier technologies. She is a former federal prosecutor who created the US Justice Department’s first cryptocurrency task force. She led investigations into the Mt. Gox hack and the corrupt agents on the Silk Road task force. She clerked for US Supreme Court Justice Anthony Kennedy and is an honors graduate of Stanford Law School.
-• The AI Hype Index: AI-powered toys are coming
-  Separating AI reality from hyped-up fiction isn’t always easy . The AI Hype Index is a simple, at-a-glance summary of everything you need to know about the state of the industry .
-• 3 things Rhiannon Williams is into right now
-  Every Outfit was originally conceived as an homage to Sex and the City’s iconic fashion . It has since evolved into a wider cultural critique and spawned a podcast of the same name . Ferdia Lennon's debut novel, "Glorious Exploits," is one of those rare books that manage to pull off being both laugh-out-loud funny and deeply moving .
+• Between utopia and collapse: Navigating AI’s murky middle future
+  AI is disrupting the world, but it also presents
+• Identity theft hits 1.1M reports — and authentication fatigue is only getting worse
+  The tug-of-war between
 • From hallucinations to hardware: Lessons from a real-world computer vision project gone sideways
   What we tried, what didn't work
 • AI agents are hitting a liability wall. Mixus has a plan to overcome it using human overseers on high-risk workflows
@@ -1018,10 +1276,6 @@ Katie Haun is the CEO and founder of Haun Ventures, a venture capital firm focus
   Real-world deployment patterns show
 • For Replit’s CEO, the future of software is ‘agents all the way down’
   Replit's agents can help non-
-• Boston Consulting Group: To unlock enterprise AI value, start with the data you’ve been ignoring
-  Companies are looking beyond the experimental phase of
-• Creatio’s new 8.3 Twin CRM update hits Salesforce where it hurts: ‘we don’t think of AI as an add-on…it’s just part of our app experience’
-  Customers can control which documents are
 
 🔒 Cybersecurity & Privacy
 No updates.
@@ -2046,567 +2300,5 @@ Kristen Henkels is a Sr. Product Manager – Technical in Amazon FinTech, where 
 Shivansh Singh is a Principal Solutions Architect at Amazon. He is passionate about driving business outcomes through innovative, cost-effective and resilient solutions, with a focus on machine learning, generative AI, and serverless technologies. He is a technical leader and strategic advisor to large-scale games, media, and entertainment customers. He has over 16 years of experience transforming businesses through technological innovations and building large-scale enterprise solutions. 
 Dushan Tharmal is a Principal Product Manager – Technical on the Amazons Artificial General Intelligence team, responsible for the Amazon Nova Foundation Models. He earned his bachelor’s in mathematics at the University of Waterloo and has over 10 years of technical product leadership experience across financial services and loyalty. In his spare time, he enjoys wine, hikes, and philosophy. 
 Anupam Dewan is a Senior Solutions Architect with a passion for generative AI and its applications in real life. He and his team enable Amazon builders who build customer-facing applications using generative AI. He lives in the Seattle area, and outside of work, he loves to go hiking and enjoy nature.
-• Power Your LLM Training and Evaluation with the New SageMaker AI Generative AI Tools
-  Today we are excited to introduce the Text Ranking and Question and Answer UI templates to SageMaker AI customers. The Text Ranking template enables human annotators to rank multiple responses from a large language model (LLM) based on custom criteria, such as relevance, clarity, or factual accuracy. This ranked feedback provides critical insights that help refine models through Reinforcement Learning from Human Feedback (RLHF), generating responses that better align with human preferences. The Question and Answer template facilitates the creation of high-quality Q&amp;A pairs based on provided text passages. These pairs act as demonstration data for Supervised Fine-Tuning (SFT), teaching models how to respond to similar inputs accurately. 
-In this blog post, we’ll walk you through how to set up these templates in SageMaker to create high-quality datasets for training your large language models. Let’s explore how you can leverage these new tools. 
-Text Ranking 
-The Text Ranking template allows annotators to rank multiple text responses generated by a large language model based on customizable criteria such as relevance, clarity, or correctness. Annotators are presented with a prompt and several model-generated responses, which they rank according to guidelines specific to your use case. The ranked data is captured in a structured format, detailing the re-ranked indices for each criterion, such as “clarity” or “inclusivity.” This information is invaluable for fine-tuning models using RLHF, aligning the model outputs more closely with human preferences. In addition, this template is also highly effective for evaluating the quality of LLM outputs by allowing you to see how well responses match the intended criteria. 
-Setting Up in the SageMaker AI Console 
-A new Generative AI category has been added under Task Type in the SageMaker AI console, allowing you to select these templates. To configure the labeling job using the AWS Management Console, complete the following steps: 
- 
- On the SageMaker AI console, under Ground Truth in the navigation pane, choose Labeling job. 
- Choose Create labeling job. 
- Specify your input manifest location and output path. To configure the Text Ranking input file, use the Manual Data Setup under Create Labeling Job and input a JSON file with the prompt stored under the source field, while the list of model responses is placed under the responses field. Text Ranking does not support Automated Data Setup.  
- 
-Here is an example of our input manifest file: 
- 
-Upload this input manifest file into your S3 location and provide the S3 path to this file under Input dataset location: 
- 
- 
- Select Generative AI as the task type and choose the Text Ranking UI.   
- Choose Next. 
- Enter your labeling instructions. Enter the dimensions you want to include in the Ranking dimensions section. For example, in the image above, the dimensions are Helpfulness and Clarity, but you can add, remove, or customize these based on your specific needs by clicking the “+” button to add new dimensions or the trash icon to remove them. Additionally, you have the option to allow tie rankings by selecting the checkbox. This option enables annotators to rank two or more responses equally if they believe the responses are of the same quality for a particular dimension.  
- Choose Preview to display the UI template for review.  
- Choose Create to create the labeling job. 
- 
-When the annotators submit their evaluations, their responses are saved directly to your specified S3 bucket. The output manifest file includes the original data fields and a worker-response-ref that points to a worker response file in S3. This worker response file contains the ranked responses for each specified dimension, which can be used to fine-tune or evaluate your model’s outputs. If multiple annotators have worked on the same data object, their individual annotations are included within this file under an answers key, which is an array of responses. Each response includes the annotator’s input and metadata such as acceptance time, submission time, and worker ID. Here is an example of the output json file containing the annotations: 
- 
-Question and Answer  
-The Question and Answer template allows you to create datasets for Supervised Fine-Tuning (SFT) by generating question-and-answer pairs from text passages. Annotators read the provided text and create relevant questions and corresponding answers. This process acts as a source of demonstration data, guiding the model on how to handle similar tasks. The template supports flexible input, letting annotators reference entire passages or specific sections of text for more targeted Q&amp;A. A color-coded matching feature visually links questions to the relevant sections, helping streamline the annotation process. By using these Q&amp;A pairs, you enhance the model’s ability to follow instructions and respond accurately to real-world inputs. 
-Setting Up in the SageMaker AI Console 
-The process for setting up a labeling job with the Question and Answer template follows similar steps as the Text Ranking template. However, there are differences in how you configure the input file and select the appropriate UI template to suit the Q&amp;A task. 
- 
- On the SageMaker AI console, under Ground Truth in the navigation pane, choose Labeling job. 
- Choose Create labeling job. 
- Specify your input manifest location and output path. To configure the Question and Answer input file, use the Manual Data Setup and upload a JSON file where the source field contains the text passage. Annotators will use this text to generate questions and answers. Note that you can load the text from a .txt or .csv file and use Ground Truth’s Automated Data Setup to convert it to the required JSON format. 
- 
-Here is an example of an input manifest file: 
- 
-Upload this input manifest file into your S3 location and provide the S3 path to this file under Input dataset location 
- 
- Select Generative AI as the task type and choose the Question and Answer UI 
- Choose Next. 
- Enter your labeling instructions. You can configure additional settings to control the task. You can specify the minimum and maximum number of Q&amp;A pairs that workers should generate from the provided text passage. Additionally, you can define the minimum and maximum word counts for both the question and answer fields, so that the responses fit your requirements. You can also add optional question tags to categorize the question and answer pairs. For example, you might include tags such as “What,” “How,” or “Why” to guide the annotators in their task. If these predefined tags are insufficient, you have the option to allow workers to enter their own custom tags by enabling the Allow workers to specify custom tags feature. This flexibility facilitates annotations that meet the specific needs of your use case.  
- Once these settings are configured, you can choose to Preview the UI to verify that it meets your needs before proceeding.  
- Choose Create to create the labeling job. 
- 
-When annotators submit their work, their responses are saved directly to your specified S3 bucket. The output manifest file contains the original data fields along with a worker-response-ref that points to the worker response file in S3. This worker response file includes the detailed annotations provided by the workers, such as the ranked responses or question-and-answer pairs generated for each task. 
-Here’s an example of what the output might look like: 
- 
-CreateLabelingJob API 
-In addition to creating these labeling jobs through the Amazon SageMaker AI console, customers can also use the Create Labeling Job API to set up Text Ranking and Question and Answer jobs programmatically. This method provides more flexibility for automation and integration into existing workflows. Using the API, you can define job configurations, input manifests, and worker task templates, and monitor the job’s progress directly from your application or system. 
-For a step-by-step guide on how to implement this, you can refer to the following notebooks, which walk through the entire process of setting up Human-in-the-Loop (HITL) workflows for Reinforcement Learning from Human Feedback (RLHF) using both the Text Ranking and Question and Answer templates. These notebooks will guide you through setting up the required Ground Truth pre-requisites, downloading sample JSON files with prompts and responses, converting them to Ground Truth input manifests, creating worker task templates, and monitoring the labeling jobs. They also cover post-processing the results to create a consolidated dataset with ranked responses. 
- 
- Text Ranking 
- Question and Answer pairs 
- 
-Conclusion 
-With the introduction of the Text Ranking and Question and Answer templates, Amazon SageMaker AI empowers customers to generate high-quality datasets for training large language models more efficiently. These built-in capabilities simplify the process of fine-tuning models for specific tasks and aligning their outputs with human preferences, whether through supervised fine-tuning or reinforcement learning from human feedback. By leveraging these templates, you can better evaluate and refine your models to meet the needs of your specific application, helping achieve more accurate, reliable, and user-aligned outputs. Whether you’re creating datasets for training or evaluating your models’ outputs, SageMaker AI provides the tools you need to succeed in building state-of-the-art generative AI solutions.To begin creating fine-tuning datasets with the new templates: 
- 
- Visit the Amazon SageMaker AI console. 
- Refer to the SageMaker AI APIs for programmatic access. 
- Use the AWS CLI for command-line interactions. 
- 
- 
-About the authors 
-Sundar Raghavan is a Generative AI Specialist Solutions Architect at AWS, helping customers use Amazon Bedrock and next-generation AWS services to design, build and deploy AI agents and scalable generative AI applications. In his free time, Sundar loves exploring new places, sampling local eateries and embracing the great outdoors. 
-Jesse Manders&nbsp;is a Senior Product Manager on Amazon Bedrock, the AWS Generative AI developer service. He works at the intersection of AI and human interaction with the goal of creating and improving generative AI products and services to meet our needs. Previously, Jesse held engineering team leadership roles at Apple and Lumileds, and was a senior scientist in a Silicon Valley startup. He has an M.S. and Ph.D. from the University of Florida, and an MBA from the University of California, Berkeley, Haas School of Business. 
-Niharika Jayanti is a Front-End Engineer at Amazon, where she designs and develops user interfaces to delight customers. She contributed to the successful launch of LLM evaluation tools on Amazon Bedrock and Amazon SageMaker Unified Studio. Outside of work, Niharika enjoys swimming, hitting the gym and crocheting. 
- 
-Muyun Yan is a Senior Software Engineer at Amazon Web Services (AWS) SageMaker AI team. With over 6 years at AWS, she specializes in developing machine learning-based labeling platforms. Her work focuses on building and deploying innovative software applications for labeling solutions, enabling customers to access cutting-edge labeling capabilities. Muyun holds a M.S. in Computer Engineering from Boston University. 
-Kavya Kotra is a Software Engineer on the Amazon SageMaker Ground Truth team, helping build scalable and reliable software applications. Kavya played a key role in the development and launch of the Generative AI Tools on SageMaker. Previously, Kavya held engineering roles within AWS EC2 Networking, and Amazon Audible. In her free time, she enjoys painting, and exploring Seattle’s nature scene. 
-Alan Ismaiel is a software engineer at AWS based in New York City. He focuses on building and maintaining scalable AI/ML products, like Amazon SageMaker Ground Truth and Amazon Bedrock. Outside of work, Alan is learning how to play pickleball, with mixed results.
-• Amazon Bedrock Agents observability using Arize AI
-  This post is cowritten with John Gilhuly from Arize AI. 
-With Amazon Bedrock Agents, you can build and configure autonomous agents in your application. An agent helps your end-users complete actions based on organization data and user input. Agents orchestrate interactions between foundation models (FMs), data sources, software applications, and user conversations. In addition, agents automatically call APIs to take actions and invoke knowledge bases to supplement information for these actions. By integrating agents, you can accelerate your development effort to deliver generative AI applications. With agents, you can automate tasks for your customers and answer questions for them. For example, you can create an agent that helps customers process insurance claims or make travel reservations. You don’t have to provision capacity, manage infrastructure, or write custom code. Amazon Bedrock manages prompt engineering, memory, monitoring, encryption, user permissions, and API invocation. 
-AI agents represent a fundamental shift in how applications make decisions and interact with users. Unlike traditional software systems that follow predetermined paths, AI agents employ complex reasoning that often operates as a “black box.” Monitoring AI agents presents unique challenges for organizations seeking to maintain reliability, efficiency, and optimal performance in their AI implementations. 
-Today, we’re excited to announce a new integration between Arize AI and Amazon Bedrock Agents that addresses one of the most significant challenges in AI development: observability. Agent observability is a crucial aspect of AI operations that provides deep insights into how your Amazon Bedrock agents perform, interact, and execute tasks. It involves tracking and analyzing hierarchical traces of agent activities, from high-level user requests down to individual API calls and tool invocations. These traces form a structured tree of events, helping developers understand the complete journey of user interactions through the agent’s decision-making process. Key metrics that demand attention include response latency, token usage, runtime exceptions, and inspect function calling. As organizations scale their AI implementations from proof of concept to production, understanding and monitoring AI agent behavior becomes increasingly critical. 
-The integration between Arize AI and Amazon Bedrock Agents provides developers with comprehensive observability tools for tracing, evaluating, and monitoring AI agent applications. This solution delivers three primary benefits: 
- 
- Comprehensive traceability – Gain visibility into every step of your agent’s execution path, from initial user query through knowledge retrieval and action execution 
- Systematic evaluation framework – Apply consistent evaluation methodologies to measure and understand agent performance 
- Data-driven optimization – Run structured experiments to compare different agent configurations and identify optimal settings 
- 
-The Arize AI service is available in two versions: 
- 
- Arize AX – An enterprise solution offering advanced monitoring capabilities 
- Arize Phoenix – An open source service making tracing and evaluation accessible to developers 
- 
-In this post, we demonstrate the Arize Phoenix system for tracing and evaluation. Phoenix can run on your local machine, a Jupyter notebook, a containerized deployment, or in the cloud. We explore how this integration works, its key features, and how you can implement it in your Amazon Bedrock Agents applications to enhance observability and maintain production-grade reliability. 
-Solution overview 
-Large language model (LLM) tracing records the paths taken by requests as they propagate through multiple steps or components of an LLM application. It improves the visibility of your application or system’s health and makes it possible to debug behavior that is difficult to reproduce locally. For example, when a user interacts with an LLM application, tracing can capture the sequence of operations, such as document retrieval, embedding generation, language model invocation, and response generation, to provide a detailed timeline of the request’s execution. 
-For an application to emit traces for analysis, the application must be instrumented. Your application can be manually instrumented or be automatically instrumented. Arize Phoenix offers a set of plugins (instrumentors) that you can add to your application’s startup process that perform automatic instrumentation. These plugins collect traces for your application and export them (using an exporter) for collection and visualization. The Phoenix server is a collector and UI that helps you troubleshoot your application in real time. When you run Phoenix (for example, the px.launch_app() container), Phoenix starts receiving traces from an application that is exporting traces to it. For Phoenix, the instrumentors are managed through a single repository called OpenInference. OpenInference provides a set of instrumentations for popular machine learning (ML) SDKs and frameworks in a variety of languages. It is a set of conventions and plugins that is complimentary to OpenTelemetry and online transaction processing (OLTP) to enable tracing of AI applications. Phoenix currently supports OTLP over HTTP. 
-For AWS, Boto3 provides Python bindings to AWS services, including Amazon Bedrock, which provides access to a number of FMs. You can instrument calls to these models using OpenInference, enabling OpenTelemetry-aligned observability of applications built using these models. You can also capture traces on invocations of Amazon Bedrock agents using OpenInference and view them in Phoenix.The following high-level architecture diagram shows an LLM application created using Amazon Bedrock Agents, which has been instrumented to send traces to the Phoenix server. 
- 
-In the following sections, we demonstrate how, by installing the openinference-instrumentation-bedrock library, you can automatically instrument interactions with Amazon Bedrock or Amazon Bedrock agents for observability, evaluation, and troubleshooting purposes in Phoenix. 
-Prerequisites 
-To follow this tutorial, you must have the following: 
- 
- An AWS account with access to Amazon Bedrock. 
- An Amazon Bedrock agent. For instructions to create an agent, refer to Create and configure agent manually. The following GitHub repo demonstrates how to create an agent using infrastructure as code (IaC), implemented through AWS Cloud Development Kit (AWS CDK) Python APIs. 
- An Arize account from where you can then get a Phoenix API key (available at app.phoenix.arize.com). 
- 
-You can also clone the GitHub repo locally to run the Jupyter notebook yourself: 
-git clone https://github.com/awslabs/amazon-bedrock-agent-samples.git 
-Install required dependencies 
-Begin by installing the necessary libraries: 
-%pip install -r requirements.txt — quiet 
-Next, import the required modules: 
- 
- import time
-import boto3
-import logging
-import os
-import nest_asyncio
-from phoenix.otel import register
-from openinference.instrumentation import using_metadata
-
-nest_asyncio.apply() 
- 
-The arize-phoenix-otel package provides a lightweight wrapper around OpenTelemetry primitives with Phoenix-aware defaults. These defaults are aware of environment variables you must set to configure Phoenix in the next steps, such as: 
- 
- PHOENIX_COLLECTOR_ENDPOINT 
- PHOENIX_PROJECT_NAME 
- PHOENIX_CLIENT_HEADERS 
- PHOENIX_API_KEY 
- 
-Configure the Phoenix environment 
-Set up the Phoenix Cloud environment for this tutorial. Phoenix can also be self-hosted on AWS instead. 
- 
- os.environ["PHOENIX_COLLECTOR_ENDPOINT"] = "https://app.phoenix.arize.com“
-if not os.environ.get("PHOENIX_CLIENT_HEADERS"):
-os.environ["PHOENIX_CLIENT_HEADERS"] = "api_key=" + input("Enter your Phoenix API key: ") 
- 
-Connect your notebook to Phoenix with auto-instrumentation enabled: 
- 
- project_name = "Amazon Bedrock Agent Example"
-tracer_provider = register(project_name=project_name, auto_instrument=True) 
- 
-The auto_instrument parameter automatically locates the openinference-instrumentation-bedrock library and instruments Amazon Bedrock and Amazon Bedrock Agent calls without requiring additional configuration. Configure metadata for the span: 
- 
- metadata = { "agent" : "bedrock-agent", 
-            "env" : "development"
-Metadata is used to filter search values in the dashboard
-       } 
- 
-Set up an Amazon Bedrock session and agent 
-Before using Amazon Bedrock, make sure that your AWS credentials are configured correctly. You can set them up using the AWS Command Line Interface (AWS CLI) or by setting environment variables: 
- 
- session = boto3.Session()
-REGION = session.region_name
-bedrock_agent_runtime = session.client(service_name="bedrock-agent-runtime",region_name=REGION) 
- 
-We assume you’ve already created an Amazon Bedrock agent. To configure the agent, use the following code: 
- 
- agent_id = "XXXXXYYYYY" # ← Configure your Bedrock Agent ID
-agent_alias_id = "Z0ZZZZZZ0Z" # ← Optionally set a different Alias ID if you have one 
- 
-Before proceeding to your next step, you can validate whether invoke agent is working correctly. The response is not important; we are simply testing the API call. 
- 
- print(f"Trying to invoke alias {agent_alias_id} of agent {agent_id}...")
-agent_resp = bedrock_agent_runtime.invoke_agent(
-    agentAliasId=agent_alias_id,
-    agentId=agent_id,
-    inputText="Hello!",
-    sessionId="dummy-session",
-)
-if "completion" in agent_resp:
-    print("✅ Got response")
-else:
-    raise ValueError(f"No 'completion' in agent response:\n{agent_resp}") 
- 
-Run your agent with tracing enabled 
-Create a function to run your agent and capture its output: 
- 
- @using_metadata(metadata)
-def run(input_text):
-    session_id = f"default-session1_{int(time.time())}"
-
-    attributes = dict(
-        inputText=input_text,
-        agentId=agent_id,
-        agentAliasId=agent_alias_id,
-        sessionId=session_id,
-        enableTrace=True,
-    )
-    response = bedrock_agent_runtime.invoke_agent(**attributes)
-
-    # Stream the response
-    for _, event in enumerate(response["completion"]):
-        if "chunk" in event:
-            print(event)
-            chunk_data = event["chunk"]
-            if "bytes" in chunk_data:
-                output_text = chunk_data["bytes"].decode("utf8")
-                print(output_text)
-        elif "trace" in event:
-            print(event["trace"]) 
- 
-Test your agent with a few sample queries: 
- 
- run ("What are the total leaves for Employee 1?")
-run ("If Employee 1 takes 4 vacation days off, What are the total leaves left for Employee 1?") 
- 
-You should replace these queries with the queries that your application is built for. After executing these commands, you should see your agent’s responses in the notebook output. The Phoenix instrumentation is automatically capturing detailed traces of these interactions, including knowledge base lookups, orchestration steps, and tool calls. 
-View captured traces in Phoenix 
-Navigate to your Phoenix dashboard to view the captured traces. You will see a comprehensive visualization of each agent invocation, including: 
- 
- The full conversation context 
- Knowledge base queries and results 
- Tool or action group calls and responses 
- Agent reasoning and decision-making steps 
- 
-Phoenix’s tracing and span analysis capabilities are useful during the prototyping and debugging stages. By instrumenting application code with Phoenix, teams gain detailed insights into the execution flow, making it straightforward to identify and resolve issues. Developers can drill down into specific spans, analyze performance metrics, and access relevant logs and metadata to streamline debugging efforts. With Phoenix’s tracing capabilities, you can monitor the following: 
- 
- Application latency – Identify latency bottlenecks and address slow invocations of LLMs, retrievers, and other components within your application, enabling you to optimize performance and responsiveness. 
- Token usage – Gain a detailed breakdown of token usage for your LLM calls, so you can identify and optimize the most expensive LLM invocations. 
- Runtime exceptions – Capture and inspect critical runtime exceptions, such as rate-limiting events, that can help you proactively address and mitigate potential issues. 
- Retrieved documents – Inspect the documents retrieved during a retriever call, including the score and order in which they were returned, to provide insight into the retrieval process. 
- Embeddings – Examine the embedding text used for retrieval and the underlying embedding model, so you can validate and refine your embedding strategies. 
- LLM parameters – Inspect the parameters used when calling an LLM, such as temperature and system prompts, to facilitate optimal configuration and debugging. 
- Prompt templates – Understand the prompt templates used during the prompting step and the variables that were applied, so you can fine-tune and improve your prompting strategies. 
- Tool descriptions – View the descriptions and function signatures of the tools your LLM has been given access to, in order to better understand and control your LLM’s capabilities. 
- LLM function calls – For LLMs with function call capabilities (such as Anthropic’s Claude, Amazon Nova, or Meta’s Llama), you can inspect the function selection and function messages in the input to the LLM. This can further help you debug and optimize your application. 
- 
-The following screenshot shows the Phoenix dashboard for the Amazon Bedrock agent, showing the latency, token usage, total traces. 
- 
-You can choose one of the traces to drill down to the level of the entire orchestration. 
- 
-Evaluate the agent in Phoenix 
-Evaluating any AI application is a challenge. Evaluating an agent is even more difficult. Agents present a unique set of evaluation pitfalls to navigate. A common evaluation metric for agents is their function calling accuracy, in other words, how well they do at choosing the right tool for the job. For example, agents can take inefficient paths and still get to the right solution. How do you know if they took an optimal path? Additionally, bad responses upstream can lead to strange responses downstream. How do you pinpoint where a problem originated? Phoenix also includes built-in LLM evaluations and code-based experiment testing. An agent is characterized by what it knows about the world, the set of actions it can perform, and the pathway it took to get there. To evaluate an agent, you must evaluate each component. Phoenix has built evaluation templates for every step, such as: 
- 
- Agent function calling 
- Agent path convergence 
- Agent planning 
- Agent reflection 
- 
-You can evaluate the individual skills and response using normal LLM evaluation strategies, such as retrieval evaluation, classification with LLM judges, hallucination, or Q&amp;A correctness. In this post, we demonstrate evaluation of agent function calling. You can use the Agent Function Call eval to determine how well a model selects a tool to use, extracts the right parameters from the user query, and generates the tool call code. Now that you’ve traced your agent in the previous step, the next step is to add evaluations to measure its performance. A common evaluation metric for agents is their function calling accuracy (how well they do at choosing the right tool for the job).Complete the following steps: 
- 
- Up until now, you have just used the lighter-weight Phoenix OTEL tracing library. To run evals, you must to install the full library: 
- 
-!pip install -q arize-phoenix — quiet 
- 
- Import the necessary evaluation components: 
- 
- 
- import re
-import json
-import phoenix as px
-from phoenix.evals import (
-TOOL_CALLING_PROMPT_RAILS_MAP,
-TOOL_CALLING_PROMPT_TEMPLATE,
-BedrockModel,
-llm_classify,
-)
-from phoenix.trace import SpanEvaluations
-from phoenix.trace.dsl import SpanQuery 
- 
-The following is our agent function calling prompt template: 
- 
- TOOL_CALLING_PROMPT_TEMPLATE = """
-
-You are an evaluation assistant evaluating questions and tool calls to
-determine whether the tool called would answer the question. The tool
-calls have been generated by a separate agent, and chosen from the list of
-tools provided below. It is your job to decide whether that agent chose
-the right tool to call.
-
-    [BEGIN DATA]
-    ************
-    [Question]: {question}
-    ************
-    [Tool Called]: {tool_call}
-    [END DATA]
-
-Your response must be single word, either "correct" or "incorrect",
-and should not contain any text or characters aside from that word.
-"incorrect" means that the chosen tool would not answer the question,
-the tool includes information that is not presented in the question,
-or that the tool signature includes parameter values that don't match
-the formats specified in the tool signatures below.
-
-"correct" means the correct tool call was chosen, the correct parameters
-were extracted from the question, the tool call generated is runnable and correct,
-and that no outside information not present in the question was used
-in the generated question.
-
-    [Tool Definitions]: {tool_definitions}
-""" 
- 
- 
- Because we are only evaluating the inputs, outputs, and function call columns, let’s extract those into a simpler-to-use dataframe. Phoenix provides a method to query your span data and directly export only the values you care about: 
- 
- 
- query = (
-SpanQuery()
-.where(
-# Filter for the `LLM` span kind.
-# The filter condition is a string of valid Python boolean expression.
-"span_kind == 'LLM' and 'evaluation' not in input.value"
-)
-.select(
-question="input.value",
-outputs="output.value",
-)
-)
-trace_df = px.Client().query_spans(query, project_name=project_name) 
- 
- 
- The next step is to prepare these traces into a dataframe with columns for input, tool call, and tool definitions. Parse the JSON input and output data to create these columns: 
- 
- 
- def extract_tool_calls(output_value):
-try:
-tool_calls = []
-# Look for tool calls within &lt;function_calls&gt; tags
-if "&lt;function_calls&gt;" in output_value:
-# Find all tool_name tags
-tool_name_pattern = r"&lt;tool_name&gt;(.*?)&lt;/tool_name&gt;"
-tool_names = re.findall(tool_name_pattern, output_value)
-
-# Add each found tool name to the list
-for tool_name in tool_names:
-if tool_name:
-tool_calls.append(tool_name)
-except Exception as e:
-print(f"Error extracting tool calls: {e}")
-pass
-
-return tool_calls 
- 
- 
- Apply the function to each row of trace_df.output.value: 
- 
- 
- trace_df["tool_call"] = trace_df["outputs"].apply(
-lambda x: extract_tool_calls(x) if isinstance(x, str) else []
-)
-
-# Display the tool calls found
-print("Tool calls found in traces:", trace_df["tool_call"].sum()) 
- 
- 
- Add tool definitions for evaluation: 
- 
- 
- trace_df["tool_definitions"] = (
-"phoenix-traces retrieves the latest trace information from Phoenix, phoenix-experiments retrieves the latest experiment information from Phoenix, phoenix-datasets retrieves the latest dataset information from Phoenix"
-) 
- 
-Now with your dataframe prepared, you can use Phoenix’s built-in LLM-as-a-Judge template for tool calling to evaluate your application. The following method takes in the dataframe of traces to evaluate, our built-in evaluation prompt, the eval model to use, and a rails object to snap responses from our model to a set of binary classification responses. We also instruct our model to provide explanations for its responses. 
- 
- Run the tool calling evaluation: 
- 
- 
- rails = list(TOOL_CALLING_PROMPT_RAILS_MAP.values())
-
-eval_model = BedrockModel(session=session, model_id="us.anthropic.claude-3-5-haiku-20241022-v1:0")
-
-response_classifications = llm_classify(
-    data=trace_df,
-    template=TOOL_CALLING_PROMPT_TEMPLATE,
-    model=eval_model,
-    rails=rails,
-    provide_explanation=True,
-)
-response_classifications["score"] = response_classifications.apply(
-    lambda x: 1 if x["label"] == "correct" else 0, axis=1
-) 
- 
-We use the following parameters: 
- 
- df – A dataframe of cases to evaluate. The dataframe must have columns to match the default template. 
- question – The query made to the model. If you exported spans from Phoenix to evaluate, this will be the llm.input_messages column in your exported data. 
- tool_call – Information on the tool called and parameters included. If you exported spans from Phoenix to evaluate, this will be the llm.function_call column in your exported data. 
- 
- 
- Finally, log the evaluation results to Phoenix: 
- 
- 
- px.Client().log_evaluations(
-SpanEvaluations(eval_name="Tool Calling Eval", dataframe=response_classifications),
-) 
- 
-After running these commands, you will see your evaluation results on the Phoenix dashboard, providing insights into how effectively your agent is using its available tools. 
-The following screenshot shows how the tool calling evaluation attribute shows up when you run the evaluation. 
- 
-When you expand the individual trace, you can observe that the tool calling evaluation adds a score of 1 if the label is correct. This means that agent has responded correctly. 
- 
-Conclusion 
-As AI agents become increasingly prevalent in enterprise applications, effective observability is crucial for facilitating their reliability, performance, and continuous improvement. The integration of Arize AI with Amazon Bedrock Agents provides developers with the tools they need to build, monitor, and enhance AI agent applications with confidence. We’re excited to see how this integration will empower developers and organizations to push the boundaries of what’s possible with AI agents. 
-Stay tuned for more updates and enhancements to this integration in the coming months. To learn more about Amazon Bedrock Agents and the Arize AI integration, refer to the Phoenix documentation and Integrating Arize AI and Amazon Bedrock Agents: A Comprehensive Guide to Tracing, Evaluation, and Monitoring. 
- 
-About the Authors 
-Ishan Singh is a Sr. Generative AI Data Scientist at Amazon Web Services, where he helps customers build innovative and responsible generative AI solutions and products. With a strong background in AI/ML, Ishan specializes in building generative AI solutions that drive business value. Outside of work, he enjoys playing volleyball, exploring local bike trails, and spending time with his wife and dog, Beau. 
-John Gilhuly is the Head of Developer Relations at Arize AI, focused on AI agent observability and evaluation tooling. He holds an MBA from Stanford and a B.S. in C.S. from Duke. Prior to joining Arize, John led GTM activities at Slingshot AI, and served as a venture fellow at Omega Venture Partners. In his pre-AI life, John built out and ran technical go-to-market teams at Branch Metrics. 
-Richa Gupta is a Sr. Solutions Architect at Amazon Web Services. She is passionate about architecting end-to-end solutions for customers. Her specialization is machine learning and how it can be used to build new solutions that lead to operational excellence and drive business revenue. Prior to joining AWS, she worked in the capacity of a Software Engineer and Solutions Architect, building solutions for large telecom operators. Outside of work, she likes to explore new places and loves adventurous activities. 
-Aris Tsakpinis is a Specialist Solutions Architect for Generative AI, focusing on open weight models on Amazon Bedrock and the broader generative AI open source landscape. Alongside his professional role, he is pursuing a PhD in Machine Learning Engineering at the University of Regensburg, where his research focuses on applied natural language processing in scientific domains. 
-Yanyan Zhang&nbsp;is a Senior Generative AI Data Scientist at Amazon Web Services, where she has been working on cutting-edge AI/ML technologies as a Generative AI Specialist, helping customers use generative AI to achieve their desired outcomes. Yanyan graduated from Texas A&amp;M University with a PhD in Electrical Engineering. Outside of work, she loves traveling, working out, and exploring new things. 
-Mani Khanuja is a Principal Generative AI Specialist SA and author of the book Applied Machine Learning and High-Performance Computing on AWS. She leads machine learning projects in various domains such as computer vision, natural language processing, and generative AI. She speaks at internal and external conferences such AWS re:Invent, Women in Manufacturing West, YouTube webinars, and GHC 23. In her free time, she likes to go for long runs along the beach. 
-Musarath Rahamathullah is an AI/ML and GenAI Solutions Architect at Amazon Web Services, focusing on media and entertainment customers. She holds a Master’s degree in Analytics with a specialization in Machine Learning. She is passionate about using AI solutions in the AWS Cloud to address customer challenges and democratize technology. Her professional background includes a role as a Research Assistant at the prestigious Indian Institute of Technology, Chennai. Beyond her professional endeavors, she is interested in interior architecture, focusing on creating beautiful spaces to live.
-• How SkillShow automates youth sports video processing using Amazon Transcribe
-  This post is co-written with Tom Koerick from SkillShow. 
-The youth sports market was valued at $37.5 billion globally in 2022 and is projected to grow by 9.2% each year through 2030. Approximately 60 million young athletes participate in this market worldwide. SkillShow, a leader in youth sports video production, films over 300 events yearly in the youth sports industry, creating content for over 20,000 young athletes annually. This post describes how SkillShow used Amazon Transcribe and other Amazon Web Services (AWS) machine learning (ML) services to automate their video processing workflow, reducing editing time and costs while scaling their operations. 
-Challenge 
-In response to the surge in youth sports video production, manual video editing processes are becoming increasingly unsustainable. Since 2001, SkillShow has been at the forefront of sports video production, providing comprehensive video services for individuals, teams, and event organizers. They specialize in filming, editing, and distributing content that helps athletes showcase their skills to recruiters, build their personal brand on social media, and support their development training. As a trusted partner to major sports organizations including the&nbsp;Perfect Game, 3Step Sports, USA Baseball, MLB Network, Under Armour, Elite11 football combines and more, SkillShow has filmed hundreds of thousands of athletes and thousands of regional and national events across different sports and age groups. 
-Despite their market leadership, SkillShow faced significant operational challenges. With only seven full-time employees managing their expanding operation, they had to outsource to over 1,100 contractors annually. This reliance on outsourced editing not only increased operational costs but also resulted in a lengthy 3-week turnaround time per event, making it difficult to keep pace with the growing demand for youth sports content. 
-Managing approximately 230 TB of video data per year created significant operational challenges. This massive volume of data meant lengthy upload and download times for editors, expensive storage costs, and complex data management requirements. Each event’s raw footage needed to be securely stored, backed up, and made accessible to multiple editors, straining both technical resources and IT infrastructure. These challenges led to SkillShow halting new events mid-2023, limiting their growth potential in a rapidly expanding market. The need for an efficient, scalable solution became critical to maintaining SkillShow’s position and meeting the growing demand for youth sports content, particularly in the post-COVID era where recruiting videos have become essential for leagues and athletes alike. 
-Solution overview 
-To address these challenges, SkillShow partnered with AWS to develop an automated video processing pipeline. The team initially explored several approaches to automate player identification. 
-Facial recognition proved challenging due to varying video quality, inconsistent lighting conditions, and frequent player movement during games. Additionally, players often wore equipment such as helmets or protective gear that obscured their faces, making reliable identification difficult. 
-Text-based detection of jersey numbers and colors seemed promising at first, but presented its own set of challenges. Jersey numbers were frequently obscured by player movement, weather conditions could affect visibility, and varying camera angles made consistent detection unreliable. 
-Ultimately, the team settled on an audio logging and automated clip generation solution, which proved superior for several reasons: 
- 
- More reliable player identification, because announcers consistently call out player numbers and team colors 
- Better performance in varying environmental conditions, because audio quality remains relatively consistent even in challenging weather or lighting 
- Reduced processing complexity and computational requirements compared to video-based analysis 
- More cost-effective due to lower computational demands and higher accuracy rates 
- Ability to capture additional context from announcer commentary, such as play descriptions and game situations 
- 
-This solution uses several key AWS services: 
- 
- Amazon Simple Storage Service (Amazon S3): 
-   
-   Used for storing the input and output video files 
-   Provides scalable and durable storage to handle SkillShow’s large video data volume of 230 TB per year 
-   Allows for straightforward access and integration with other AWS services in the processing pipeline 
-    
- AWS Lambda: 
-   
-   Serverless compute service used to power the automated processing workflows 
-   Triggers the various functions that orchestrate the video processing, such as transcription and clip generation 
-   Enables event-driven, scalable, and cost-effective processing without the need to manage underlying infrastructure 
-    
- Amazon Transcribe: 
-   
-   Automatic speech recognition (ASR) service used to convert the video audio into text transcripts 
-   Provides the foundation for analyzing the video content and identifying player details 
-   Allows for accurate speech-to-text conversion, even in noisy sports environments 
-    
- 
-The following diagram illustrates the solution architecture. 
-
- 
- SkillShow AWS Architecture Diagram
- 
-The architectural flow is as follows: 
- 
- The authorized user uploads a .csv file containing roster information (such as jersey color, number, player name, and school) and the video footage of players. 
- A Lambda function is triggered by the upload of the video. 
- The auto-transcript Lambda function uses Amazon Transcribe to generate a timestamped transcript of what is said in the input video. 
- The transcript is uploaded to the output S3 bucket under transcripts/ for further use. 
- The authorized user can invoke the auto-clipper Lambda function with an AWS Command Line Interface (AWS CLI) command. 
- The function parses the transcript against player information from the roster. 
- When identifying players, the function clips videos based on a specified keyword (in SkillShow’s case, it was “Next”) and uploads them to the output S3 bucket under segments/. 
- 
-By using this suite of AWS services, SkillShow was able to build a scalable, cost-effective, and highly automated video processing solution that addressed their key operational challenges. The cloud-based architecture provides the flexibility and scalability required to handle their growing data volumes and evolving business needs. 
-Example processing workflow 
-Let’s explore an example processing workflow. As shown in the following screenshots, we first upload a player roster .csv and video file to the input bucket. 
- 
-The auto-transcribe function processes the audio. 
- 
-The auto-clipper function segments the video based on player information. 
- 
-Final clips are uploaded to the output bucket between two separate folders: a prefix of the input video name or Unnamed/ if the transcription was unclear or missing the player name within the segment. 
- 
-Named videos can be viewed in the first folder where SkillShow’s current naming convention (jersey color_number_event video name) is followed for editors to download on demand. 
- 
-Unnamed videos can be seen in a similar naming convention, only missing the unique player name. Now, the editors only have to review files in this folder and manually rename the file instead of having to do this for entire event videos. 
- 
-Results and benefits 
-After implementing this AWS powered solution, SkillShow transformed their video processing operations. The automated pipeline reduced video production time from 3 weeks to 24 hours per event, enabling faster delivery to athletes and scouts. A recent event in Chicago showcased the system’s effectiveness. The automated pipeline processed 69 clips, accurately cutting and naming 64 of them—achieving a 93% success rate. This high accuracy demonstrates the solution’s ability to handle real-world scenarios effectively. The system also proved adaptable, quickly addressing initial challenges such as color naming inconsistencies. 
-The Northwest Indoor event further illustrated the system’s scalability and versatility. Here, the automated process handled a larger volume of approximately 270 clips, maintaining an estimated accuracy rate of over 90%. Notably, this event included batting practice footage, highlighting the solution’s adaptability to various types of sports activities. 
-With this streamlined workflow, SkillShow has expanded its capacity to process multiple events simultaneously, significantly enhancing its ability to serve youth sports leagues. The standardized output format and improved player identification accuracy have enhanced the viewing experience for athletes, coaches, and scouts alike. Although the time savings varies depending on specific event conditions and filming techniques, the system has demonstrated its potential to substantially reduce manual editing work. SkillShow continues to refine the process, carefully balancing automation with quality control to provide optimal results across diverse event types. These improvements positioned SkillShow to meet the growing demand for youth sports video content while maintaining consistent quality across all events. 
-Conclusion 
-This solution demonstrates how AWS ML services can transform resource-intensive video processing workflows into efficient, automated systems. By combining the scalable storage of Amazon S3, serverless computing with Lambda, and the speech recognition capabilities of Amazon Transcribe, organizations can dramatically reduce processing times and operational costs. As a leader in automated sports video production, SkillShow has pioneered this approach for youth sports while demonstrating its adaptability to various content types, from educational videos to corporate training. They’re already exploring additional artificial intelligence and machine learning (AI/ML) capabilities for automated highlight generation, real-time processing for live events, and deeper integration with sports leagues and organizations. 
-For organizations looking to further enhance their video processing capabilities, Amazon Bedrock Data Automation offers additional possibilities. Amazon Bedrock Data Automation can streamline the generation of valuable insights from unstructured, multimodal content such as documents, images, audio, and videos. This fully managed capability could potentially be integrated into workflows similar to SkillShow’s, offering features such as automated video summaries, content moderation, and custom extraction of relevant information from video content. Furthermore, Amazon Bedrock Data Automation can generate custom insights from audio, including summaries and sentiment analysis, providing even deeper understanding of spoken content in sports videos. 
-SkillShow’s success highlights the broader potential of cloud-based video processing. As demand for video content continues to grow across industries, organizations can use AWS ML services to automate their workflows, reduce manual effort, and focus on delivering value to their customers rather than managing complex editing operations. 
-Are you interested in implementing similar automated video processing workflows for your organization? Contact SkillShow to learn how their pipeline built with AWS services can transform your content production process. 
- 
-About the Authors 
- Ragib Ahsan is a Partner Solutions Architect at Amazon Web Services (AWS), where he helps organizations build and implement AI/ML solutions. Specializing in computer vision, he works with AWS partners to create practical applications using cloud technologies. Ahsan is particularly passionate about serverless architecture and its role in making solutions more accessible and efficient. 
- Tom Koerick is the owner and CEO of SkillShow, a sports media network company that has been filming youth sporting events nationwide since 2001. A former professional baseball player turned entrepreneur, Tom develops video solutions for event organizers and families in the youth sports industry. His focus includes college recruiting, social media sharing, and B2B services that provide added value and revenue generation opportunities in youth sports.
-• NewDay builds A Generative AI based Customer service Agent Assist with over 90% accuracy
-  This post is co-written with Sergio Zavota and Amy Perring from NewDay. 
-NewDay has a clear and defining purpose: to help people move forward with credit. NewDay provides around 4 million customers access to credit responsibly and delivers exceptional customer experiences, powered by their in-house technology system. NewDay’s contact center handles 2.5 million calls annually, so having the right technology to empower their customer service agents to have effective conversations with customers is paramount to deliver great customer experience. 
-The role of the contact center is complex, and with nearly 200 knowledge articles in Customer Services alone, there are times where an agent needs to search the right answer for a customer question from these articles. This led to a hackathon problem statement in early 2024 for NewDay: how can they harness the power of generative AI to improve the speed to resolution, improving both the customer and agent experience. 
-The hackathon event led to the creation of NewAssist—a real-time generative AI assistant designed to empower customer service agents with speech-to-text capabilities. Built on Amazon Bedrock, NewAssist would deliver rapid, context-aware support during live interactions with customers. 
-In this post, we share how NewDay turned their hackathon idea into a a successful Generative AI based solution and their learnings during this journey 
-Inception and early challenges 
-NewAssist won the hackathon event by showcasing the potential generative AI could deliver on speed of call resolution. However, despite a positive start, the team faced significant hurdles: 
- 
- Managing costs and competing priorities – Amid large strategic initiatives and limited resources, the team remained focused and proactive, even as securing executive buy-in proved challenging 
- Lack of infrastructure – The existing legacy systems were not conducive to rapid experimentation 
- Unproven technology – The NewAssist team needed to prove the investment would truly add value back to the business 
- 
-Realizing their ambitions of a fully fledged voice assistant were too ambitious given the challenges, the team made a strategic pivot. They scaled back to a chatbot solution, concentrating on standing up a proof of concept to validate that their existing knowledge management solution would work effectively with generative AI technology. The NewDay contact center team’s goal is to use one source of truth for its future generative AI solutions, so this task was crucial in setting the right foundation for a solid long-term strategy.With an agile, step-by-step approach, a small cross-functional team of three experts set out to build the proof of concept with a target of 80% accuracy. A golden dataset of over 100 questions and correct answers for these questions was created and the generative AI application was tested with this dataset to evaluate its accuracy of responses. 
-Solution overview 
-NewAssist’s technical design and implementation were executed by following these principles: 
- 
- Embrace a culture of experimentation – A small cross-functional team of three people was formed. The team followed the Improvement Kata methodology to implement rapid Build-Measure-Learn cycles. In just 10 weeks and over 8 experiment loops, the team honed the solution. Early iterations saw accuracy below 60%, but through rigorous testing and smart data strategies, they boosted performance to over 80%, a 33% improvement in just a few weeks. 
- Adopt a serverless Infrastructure – Amazon Bedrock, AWS Fargate, AWS Lambda, Amazon API Gateway, and Amazon OpenSearch Serverless formed the backbone of the application. This approach not only reduced costs (with running cost kept under $400 per month), but also made sure the system could scale in response to real-time demand. In addition, this allowed the developer of the team to focus only on activities that would validate the result of the experiments without worrying about managing infrastructure. 
- 
-NewAssist is implemented as a Retrieval Augmented Generation (RAG) solution. The following diagram shows the high-level solution architecture. 
- 
-The high-level architecture is made up of five components: 
- 
- User interface – A simple AI assistant UI is built using the Streamlit framework. Users can log in, ask questions, give feedback to answers in the form of thumbs up and thumbs down, and optionally provide a comment to explain the reason for the bad feedback. The UI is hosted using Fargate and authentication is implemented through Amazon Cognito with Microsoft Entra ID integration to provide single sign-on (SSO) capabilities to customer service agents. 
- Knowledge base processing – This component mostly drove the 40% increase in accuracy. Here, articles are retrieved by using APIs from the third-party knowledge base and chunked with a defined chunking strategy. The chunks are processed to convert to vector embeddings and finally stored in the vector database implemented using OpenSearch Serverless. 
- Suggestion generation – Questions on the UI are forwarded to the suggestion generation component, which retrieves the most relevant chunks and passess these chunks to the large language model (LLM) for generating suggestions based on the context. Anthropic’s Claude 3 Haiku was the preferred LLM and was accessed through Amazon Bedrock. Anthropic’s Claude 3 Haiku is still used at the time of writing, even though more performant models have been released. There are two reasons for this: first, it’s the most cost-effective model accessible through Amazon Bedrock that provides satisfying results; second, NewDay has a response time requirement of a maximum of 5 seconds, which Anthropic’s Claude 3 Haiku satisfies. To achieve required accuracy, NewDay experimented with different chunking strategies and retrieval configurations while maintaining cost with Anthropic Claude 3 Haiku. 
- Observability – Questions and answers with feedback are logged into Snowflake. A dashboard is created on top of it to show different metrics, such as accuracy. Every week, business experts review the answers with bad feedback, and AI engineers translate them into experiments that, if successful, increase the solution’s performance. Additionally, Amazon CloudWatch logs the requests that the AWS services described in the architecture process. 
- Offline evaluation – When a new version of NewAssist is created during the experimentation cycles, it is first evaluated in pre-production against an evaluation dataset. If the version’s accuracy surpasses a specified threshold, then it can be deployed in production. 
- 
-Understand your data and invest in a robust data processing solution 
-The one experiment that had the biggest impact on the accuracy of NewAssist, increasing it by 20%, was replacing the general-purpose data parser for knowledge articles with a custom-built version.This new parser was designed specifically to understand the structure and meaning of NewDay’s data, and by using this data, the LLM could generate more accurate outputs.Initially, the workflow that implements the data processing logic consisted of the following steps: 
- 
- Manually extract the articles from the data source and save them in PDF. 
- Use PyPDF to parse the articles. 
- 
-With this approach, the solution was performing at around 60% accuracy. The simple reason was that the logic didn’t take into account the type of data that was being processed, providing below-average results. Things changed when NewDay started studying their data.In NewDay, knowledge articles for agents are created by a team of experts in the contact center area. They create articles using a specific methodology and store them in a third-party content management system. This system in particular allows the creation of articles through widgets. For example, lists, banners, and tables.In addition, the system provides APIs that can be used to retrieve articles. The articles are returned in the form of a JSON object, where each object contains a widget. There is a limited number of widgets available, and each one of them has a specific JSON schema.Given this discovery, the team studied each single widget schema and created a bespoke parsing logic that extracts the relevant content and formats it in a polished way.It took longer than simply parsing with PyPDF, but the results were positive. Just focusing on the data and without touching the AI component, the solution’s accuracy increased from 60% to 73%. This demonstrated that data quality plays a key role in developing an effective generative AI application. 
-Understand how your users use the solution 
-With the 80% accuracy milestone, the team proved that the proof of concept could work, so they obtained approval to expand experimentation to 10 customer service agents after just 3 months. NewDay selected 10 experienced agents because they needed to identify where the solution gave an incorrect response.As soon as NewAssist was handed over to customer service agents, something unexpected happened. Agents used NewAssist differently from what the NewDay technical team expected: they used various acronyms in their questions to NewAssist. As an example, consider the following questions: 
- 
- How do I set a direct debit for a customer? 
- How do I set a dd for a cst? 
- 
-Here, direct debit is abbreviated with “dd” and customer with “cst.” Unless this information is provided in the context, the LLM will struggle to provide the right answer. As a result, NewAssist’s accuracy dropped to 70% when agents started using it.The solution NewDay adopted was to statically inject the acronyms and abbreviations in the LLM prompt so it could better understand the question. Slowly, the accuracy recovered to over 80% . This is just a simple example that demonstrates how important it is to put a product in the hands of the final users to validate the assumptions.Another positive finding discovered was that agents would use NewAssist to understand how to explain a process to a customer. As we know, it’s difficult to translate technical content into a format that non-technical people understand. Agents started to ask NewAssist questions like: “How do I explain to a customer how to unlock their account?” with the outcome of producing a great answer they could just read to customers. 
-Scaling up for greater impact 
-By expanding NewDay’s experimentation to 10 agents, NewDay was able to test many different scenarios. Negative responses were reviewed and root cause analysis conducted. The NewAssist team identified several gaps in the knowledge base, which they solved with new and improved content. They made enhancements to the solution by training it on acronyms and internal language. Additionally, they provided training and feedback to the pilot team on how to effectively use the solution.By doing this, the NewAssist Team improved the accuracy to over 90% and gained approval from NewDay’s executive team to productionize the solution. NewDay is currently rolling out the solution to over 150 agents, with plans to expand the scope of the solution to all departments within Customer Operations (such as Fraud and Collections).Early results indicate a substantial reduction in the time it takes to retireve an answer to queries being raised by agents. Previously, it would take them on average 90 seconds to retrieve an answer; the solution now retrieves an answer in 4 seconds. 
-Learnings to build a production-ready generative AI application 
-NewDay acquired the following insights by deploying a production-ready generative AI application: 
- 
- Embrace a culture of experimentation – This includes the following strategies: 
-   
-   Adopt an agile, iterative approach to rapidly test hypotheses and improve the solution 
-   Implement methodologies like the Improvement Kata and Build-Measure-Learn cycles to achieve significant gains in short time frames 
-   Start small with a focused proof of concept and gradually scale to validate effectiveness before full deployment 
-    
- Focus on data quality – Invest time in understanding and properly processing your data, because this can yield substantial improvements 
- Understand how your users interact with the product – This includes the following steps: 
-   
-   Conduct real-world testing with actual users to uncover unexpected usage patterns and behaviors 
-   Be prepared to adapt your solution based on user insights, such as accommodating internal jargon or abbreviations 
-   Look for unforeseen use cases that might emerge during user testing, because these can provide valuable directions for feature development 
-   Balance AI capabilities with human expertise, recognizing the importance of oversight and training to facilitate optimal use of the technology. 
-    
- 
-Looking ahead 
-NewAssist’s journey is far from over. Due to a robust feedback mechanism and the right level of oversight, the team will continue to deliver optimizations to improve the accuracy of the output further. Future iterations will explore deeper integrations with AWS AI services, further refining the balance between human and machine intelligence in customer interactions.By adopting AWS serverless solutions and adopting an agile, data-driven approach, NewDay turned a hackathon idea into a powerful tool that has optimized customer services. The success of NewAssist is a testament to the innovation possible when creativity meets robust cloud infrastructure, setting the stage for the next wave of advancements in contact center technology. 
-Conclusion 
-NewAssist’s journey demonstrates the power of AWS in enabling rapid experimentation and deployment of RAG solutions. For organizations looking to enhance customer service, streamline operations, or unlock new insights from data, AWS provides the tools and infrastructure to drive innovation, in addition to numerous other opportunities: 
- 
- Accelerate RAG experiments – Services like Amazon Bedrock, Lambda, and Amazon Serverless enable quick building and iteration of ideas 
- Scale with confidence – AWS serverless offerings provide effective cost management while making sure solutions can grow with demand 
- Focus on data quality – If data quality isn’t good enough at the source, you can implement data processing, cleansing, and extraction techniques to improve the accuracy of responses 
- Streamline deployment – Fargate and API Gateway simplify the process of moving from proof of concept to production-ready applications 
- Optimize for performance – Cross-Region inference and other AWS features help meet strict latency requirements while balancing cost considerations. 
- 
-To learn more on how AWS can help you in your Generative AI Journey, visit : Transform your business with generative AI. 
- 
-About the authors 
- Kaushal Goyal is a Solutions Architect at AWS, working with Enterprise Financial Services in the UK and Ireland region. With a strong background in banking technology, Kaushal previously led digital transformation initiatives at major banks. At AWS, Kaushal helps financial institutions modernize legacy systems and implement cloud-native solutions. As a Generative AI enthusiast and Container Specialist, Kaushal focuses on bringing innovative AI solutions to enterprise customers and share the learnings through blogs, public speaking. 
-Sergio Zavota is an AI Architect at NewDay, specializing in MLOps and Generative AI. Sergio designs scalable platforms to productionize machine learning workloads and enable Generative AI at scale in Newday. Sergio shares his expertise at industry conferences and workshops, focusing on how to productionise AI solutions and aligning AI with organisational goals. 
-Amy Perring is a Senior Optimisation Manager at NewDay, based in London. She specialises in building a deep understanding of contact drivers through customer and agent feedback. This helps identify optimisation opportunities to improve overall efficiency and experience, through the introduction or improvement of products and processes. 
-Mayur Udernani leads AWS Generative AI &amp; ML business with commercial enterprises in UK &amp; Ireland. In his role, Mayur spends majority of his time with customers and partners to help create impactful solutions that solve the most pressing needs of a customer or for a wider industry leveraging AWS Cloud, Generative AI &amp; ML services. Mayur lives in the London area. He has an MBA from Indian Institute of Management and Bachelors in Computer Engineering from Mumbai University.
 
 ⸻
