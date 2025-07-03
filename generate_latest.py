@@ -10,24 +10,30 @@ from transformers import pipeline
 DAYS_BACK = 5
 CUT_OFF = datetime.now() - timedelta(days=DAYS_BACK)
 
-# Grouped RSS feeds by category
+# Grouped RSS feeds by category (split problematic combos)
 GROUPED_FEEDS = {
     "Weather": [
         "https://weather.gc.ca/rss/city/on-131_e.xml"
     ],
-    "International & Canadian News": [
-        "http://feeds.reuters.com/Reuters/worldNews",
+    "International News": [
+        "http://feeds.reuters.com/Reuters/worldNews"
+    ],
+    "Canadian News": [
         "https://rss.cbc.ca/lineup/canada.xml"
     ],
     "U.S. Top Stories": [
         "https://feeds.npr.org/1001/rss.xml"
     ],
-    "Artificial Intelligence & Digital Strategy": [
-        "https://feeds.arstechnica.com/arstechnica/technology-policy",
+    "Artificial Intelligence": [
+        "https://feeds.arstechnica.com/arstechnica/technology-policy"
+    ],
+    "Digital Strategy": [
         "https://www.theregister.com/headlines.atom"
     ],
-    "Public Health & Science": [
-        "https://www.who.int/feeds/entity/mediacentre/news/en/rss.xml",
+    "Public Health": [
+        "https://www.who.int/feeds/entity/mediacentre/news/en/rss.xml"
+    ],
+    "Science": [
         "https://www.nature.com/subjects/public-health.rss"
     ],
     "Government & Policy": [
@@ -73,15 +79,15 @@ TAG_RE = re.compile(r'<[^>]+>')
 def clean_html(text):
     return TAG_RE.sub('', text).strip()
 
-# Summarize regardless of length
+# Summarize with longer output
 def ai_summary(text):
     text = clean_html(text)
-    # compute max length as half of words (capped at 100) and ensure >= min_length
     words = text.split()
-    max_len = min(len(words) // 2, 100)
-    max_len = max(max_len, 20)
+    # Longer summary: up to 250 tokens, min 80
+    max_len = min(len(words), 250)
+    max_len = max(max_len, 80)
     try:
-        result = summarizer(text, max_length=max_len, min_length=20, do_sample=False)
+        result = summarizer(text, max_length=max_len, min_length=80, do_sample=False)
         return result[0]['summary_text'].strip()
     except Exception:
         return text
@@ -95,10 +101,29 @@ def safe_parse(url):
     except Exception:
         return feedparser.FeedParserDict(entries=[], feed={})
 
+def section_emoji(name):
+    return {
+        'Weather': '🧾',
+        'International News': '🌍',
+        'Canadian News': '🍁',
+        'U.S. Top Stories': '🇺🇸',
+        'Artificial Intelligence': '🧠',
+        'Digital Strategy': '💻',
+        'Public Health': '🏥',
+        'Science': '🔬',
+        'Government & Policy': '🧾',
+        'Enterprise Architecture & IT Governance': '🏛️',
+        'AI & Emerging Tech': '🤖',
+        'Cybersecurity & Privacy': '🔒',
+        'University AI': '🎓',
+        'Corporate AI': '🏢'
+    }.get(name, '')
+
 # Generate briefing
 def generate_briefing():
-    date_str = datetime.now().strftime('%B %d, %Y')
-    iso_date = datetime.now().strftime('%Y-%m-%d')
+    now = datetime.now()
+    date_str = now.strftime('%B %d, %Y %H:%M')
+    iso_date = now.strftime('%Y-%m-%d %H:%M')
     header = [
         f"✅ Morning News Briefing – {date_str}",
         "",
@@ -112,38 +137,30 @@ def generate_briefing():
     for section, urls in GROUPED_FEEDS.items():
         body.append(f"{section_emoji(section)} {section}")
         has_items = False
+        all_entries = []
         for url in urls:
             feed = safe_parse(url)
             for entry in feed.entries:
                 if 'published_parsed' in entry:
                     pub = datetime(*entry.published_parsed[:6])
                     if pub >= CUT_OFF:
-                        title = clean_html(entry.title)
-                        content = entry.get('content', [{'value': entry.get('summary','')}])[0]['value']
-                        summary = ai_summary(content)
-                        body.append(f"• {title}\n  {summary}")
-                        has_items = True
+                        all_entries.append(entry)
+        # Special handling for Weather: only show 3 entries (current + next 2 days)
+        if section == "Weather":
+            selected_entries = all_entries[:3]
+        else:
+            selected_entries = all_entries[:5]
+        for entry in selected_entries:
+            title = clean_html(entry.title)
+            content = entry.get('content', [{'value': entry.get('summary','')}])[0]['value']
+            summary = ai_summary(content)
+            body.append(f"• {title}\n  {summary}")
+            has_items = True
         if not has_items:
             body.append("No updates.")
         body.append("")
     body.append("⸻")
     return '\n'.join(header + body)
-
-# Emoji mapper
-def section_emoji(name):
-    return {
-        'Weather': '🧾',
-        'International & Canadian News': '🌍',
-        'U.S. Top Stories': '🇺🇸',
-        'Artificial Intelligence & Digital Strategy': '🧠',
-        'Public Health & Science': '🏥',
-        'Government & Policy': '🧾',
-        'Enterprise Architecture & IT Governance': '🏛️',
-        'AI & Emerging Tech': '🤖',
-        'Cybersecurity & Privacy': '🔒',
-        'University AI': '🎓',
-        'Corporate AI': '🏢'
-    }.get(name, '')
 
 if __name__ == '__main__':
     try:
