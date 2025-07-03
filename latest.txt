@@ -1120,6 +1120,8 @@ This story originally appeared in&nbsp;The Algorithm, our weekly newsletter on A
 This story has been edited to add comments from Tyler Chou.
 • Roundtables: Inside OpenAI’s Empire with Karen Hao
   Karen Hao’s book, Empire of AI: Dreams and Nightmares in Sam Altman&#8217;s OpenAI, tells the story of the rise to power and its far-reaching impact all over the world . Hear from Karen
+• Dust hits $6M ARR helping enterprises build AI agents that actually do stuff instead of just talking
+  Dust AI startup hits $6M revenue building enterprise agents that automate workflows and take
 • HOLY SMOKES! A new, 200% faster DeepSeek R1-0528 variant appears from German lab TNG Technology Consulting GmbH
   This gain is made possible by TNG’s Assembly-of-Experts (
 • Confidence in agentic AI: Why eval infrastructure must come first
