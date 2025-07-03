@@ -1,136 +1,136 @@
 {
-  "generated_at": "2025-07-03T14:42:12.532010Z",
+  "generated_at": "2025-07-03T16:13:50.851203Z",
   "feeds": [
     {
       "name": "CBC \u2013 Canadian News",
       "url": "https://rss.cbc.ca/lineup/canada.xml",
-      "last_checked": "2025-07-03T14:42:12.532010Z",
+      "last_checked": "2025-07-03T16:13:50.851203Z",
       "ok": false,
       "error": "HTTPSConnectionPool(host='rss.cbc.ca', port=443): Read timed out. (read timeout=20)"
     },
     {
       "name": "CTV News \u2013 Canada",
       "url": "https://www.ctvnews.ca/rss/canada-public-rss-1.822284",
-      "last_checked": "2025-07-03T14:42:12.532010Z",
+      "last_checked": "2025-07-03T16:13:50.851203Z",
       "ok": false,
       "status_code": 404
     },
     {
       "name": "The Globe and Mail \u2013 National",
       "url": "https://www.theglobeandmail.com/news/national/?service=rss",
-      "last_checked": "2025-07-03T14:42:12.532010Z",
+      "last_checked": "2025-07-03T16:13:50.851203Z",
       "ok": true
     },
     {
       "name": "Global News \u2013 Canada",
       "url": "https://globalnews.ca/canada/feed/",
-      "last_checked": "2025-07-03T14:42:12.532010Z",
+      "last_checked": "2025-07-03T16:13:50.851203Z",
       "ok": true
     },
     {
       "name": "Toronto Star \u2013 Canada",
       "url": "https://www.thestar.com/feeds/news.rss",
-      "last_checked": "2025-07-03T14:42:12.532010Z",
+      "last_checked": "2025-07-03T16:13:50.851203Z",
       "ok": false,
-      "status_code": 404
+      "status_code": 429
     },
     {
       "name": "National Post",
       "url": "https://nationalpost.com/news-national/feed",
-      "last_checked": "2025-07-03T14:42:12.532010Z",
+      "last_checked": "2025-07-03T16:13:50.851203Z",
       "ok": false,
       "status_code": 403
     },
     {
       "name": "Canada.ca \u2013 Official Releases",
       "url": "https://www.canada.ca/content/dam/canada/news/feeds/news-en.xml",
-      "last_checked": "2025-07-03T14:42:12.532010Z",
+      "last_checked": "2025-07-03T16:13:50.851203Z",
       "ok": false,
       "status_code": 404
     },
     {
       "name": "Calgary Herald \u2013 Canada",
       "url": "https://calgaryherald.com/news/local-news/feed",
-      "last_checked": "2025-07-03T14:42:12.532010Z",
+      "last_checked": "2025-07-03T16:13:50.851203Z",
       "ok": false,
       "status_code": 403
     },
     {
       "name": "Montreal Gazette \u2013 Canada",
       "url": "https://montrealgazette.com/news/local-news/feed",
-      "last_checked": "2025-07-03T14:42:12.532010Z",
+      "last_checked": "2025-07-03T16:13:50.851203Z",
       "ok": false,
       "error": "HTTPSConnectionPool(host='www.montrealgazette.com', port=443): Read timed out. (read timeout=20)"
     },
     {
       "name": "CNN \u2013 Top Stories",
       "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
-      "last_checked": "2025-07-03T14:42:12.532010Z",
+      "last_checked": "2025-07-03T16:13:50.851203Z",
       "ok": true
     },
     {
       "name": "The New York Times \u2013 Home Page",
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-      "last_checked": "2025-07-03T14:42:12.532010Z",
+      "last_checked": "2025-07-03T16:13:50.851203Z",
       "ok": true
     },
     {
       "name": "Associated Press \u2013 Top News",
       "url": "https://apnews.com/hub/ap-top-news?outputType=rss",
-      "last_checked": "2025-07-03T14:42:12.532010Z",
+      "last_checked": "2025-07-03T16:13:50.851203Z",
       "ok": false,
       "status_code": 403
     },
     {
       "name": "Washington Post \u2013 Top News",
       "url": "https://www.washingtonpost.com/rss/",
-      "last_checked": "2025-07-03T14:42:12.532010Z",
+      "last_checked": "2025-07-03T16:13:50.851203Z",
       "ok": false,
       "error": "HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=20)"
     },
     {
       "name": "The Wall Street Journal \u2013 U.S. Business & Finance",
       "url": "https://feeds.a.dj.com/rss/RSSWSJcomUSBusiness.xml",
-      "last_checked": "2025-07-03T14:42:12.532010Z",
+      "last_checked": "2025-07-03T16:13:50.851203Z",
       "ok": false,
       "status_code": 403
     },
     {
       "name": "The Wall Street Journal \u2013 Top Stories",
       "url": "https://www.wsj.com/xml/rss/3_7031.xml",
-      "last_checked": "2025-07-03T14:42:12.532010Z",
+      "last_checked": "2025-07-03T16:13:50.851203Z",
       "ok": false,
       "status_code": 403
     },
     {
       "name": "BBC News \u2013 World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "last_checked": "2025-07-03T14:42:12.532010Z",
+      "last_checked": "2025-07-03T16:13:50.851203Z",
       "ok": true
     },
     {
       "name": "Reuters \u2013 World News",
       "url": "https://feeds.reuters.com/Reuters/worldNews",
-      "last_checked": "2025-07-03T14:42:12.532010Z",
+      "last_checked": "2025-07-03T16:13:50.851203Z",
       "ok": false,
-      "error": "HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /Reuters/worldNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7fb96a962e90>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)\"))"
+      "error": "HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /Reuters/worldNews (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7fbe25e62e90>: Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)\"))"
     },
     {
       "name": "The Guardian \u2013 World News",
       "url": "https://www.theguardian.com/world/rss",
-      "last_checked": "2025-07-03T14:42:12.532010Z",
+      "last_checked": "2025-07-03T16:13:50.851203Z",
       "ok": true
     },
     {
       "name": "Al Jazeera English \u2013 All News",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "last_checked": "2025-07-03T14:42:12.532010Z",
+      "last_checked": "2025-07-03T16:13:50.851203Z",
       "ok": true
     },
     {
       "name": "Wired \u2013 Top Stories",
       "url": "https://www.wired.com/feed/rss",
-      "last_checked": "2025-07-03T14:42:12.532010Z",
+      "last_checked": "2025-07-03T16:13:50.851203Z",
       "ok": true
     }
   ]
