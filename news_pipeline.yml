@@ -1,0 +1,53 @@
+# .github/workflows/news_pipeline.yml
+
+name: News Briefing Pipeline
+
+on:
+  schedule:
+    # Daily news briefing at 05:50 AM EDT (09:50 UTC)
+    - cron: '50 9 * * *'
+    # RSS feed tests at 6, 10, 14, 18, 22 EDT (10,14,18,22,02 UTC)
+    - cron: '0 2,10,14,18,22 * * *'
+  workflow_dispatch:
+
+jobs:
+  run_pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Python dependencies
+        run: |
+          pip install pyyaml requests openai
+
+      - name: List repository contents
+        run: ls -R .
+
+      - name: Run RSS feed tests
+        run: python test_feeds.py
+
+      - name: Commit updated health.json
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: 'github-actions'
+          author_email: 'github-actions@github.com'
+          message: 'chore: update health.json'
+
+      - name: Generate latest briefing
+        run: python generate_latest.py
+
+      - name: Commit updated latest.txt
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: 'github-actions'
+          author_email: 'github-actions@github.com'
+          message: 'chore: update latest.txt'
