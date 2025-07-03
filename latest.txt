@@ -6,42 +6,48 @@
 ⸻
 
 🧾 Weather
-• Current Conditions: Mostly Cloudy, 16.2°C
-  Temperature: 16.2&deg;C Pressure: 100.9 kPa Vis
+• Current Conditions: Mostly Cloudy, 21.5°C
+  Temperature: 21.5&deg;C Pressure / Tendency: 101.1 kPa
 • Thursday: Chance of showers. High 24. POP 30%
-  A mix of sun and cloud with 30 percent chance of showers and risk of thunderstorm . Wind becoming
+  30 percent chance of showers this afternoon with risk of thunderstorm . Wind northwest 20 km/
 • Thursday night: Partly cloudy. Low 10.
   Wind northwest 20 km/h gusting to 40 becoming light this evening . Clearing
 • Friday: Clearing. High 26.
   A mix of sun and cloud is expected to cover the morning . Clearing near noon
 • Friday night: Cloudy periods. Low 13.
-  Forecast issued 5:00 AM EDT Thursday 3 July 2025 . Cloudy periods.
-• Saturday: Chance of showers. High 29. POP 40%
-  A mix of sun and cloud with 40 percent chance of showers . High 29. A
-• Saturday night: Chance of showers. Low 19. POP 60%
-  Cloudy periods with 60 percent chance of showers . Low 19.50/60/
-• Sunday: Chance of showers. High 31. POP 60%
-  Cloudy with 60 percent chance of showers . High 31. High 31 . Cloudy
-• Sunday night: Chance of showers. Low 17. POP 30%
-  Cloudy with 30 percent chance of showers . Low 17. Chance of rain . Cloud
-• Monday: Chance of showers. High 25. POP 30%
-  Cloudy with 30 percent chance of showers . High 25. High 25 . Cloudy
-• Monday night: Cloudy periods. Low 14.
-  Forecast issued 5:00 AM EDT Thursday 3 July 2025 . Cloudy periods.
-• Tuesday: A mix of sun and cloud. High 27.
-  A mix of sun and cloud is forecast for July 3, 2025 . High 27.
-• Tuesday night: Cloudy periods. Low 14.
-  Forecast issued 5:00 AM EDT Thursday 3 July 2025 . Cloudy periods.
-• Wednesday: A mix of sun and cloud. High 26.
+  Forecast issued 11:00 AM EDT Thursday 3 July 2025 . Cloudy periods.
+• Saturday: Chance of showers. High 31. POP 40%
+  A mix of sun and cloud with 40 percent chance of showers . High 31. A
+• Saturday night: Chance of showers. Low 20. POP 40%
+  Cloudy periods with 40 percent chance of showers . Low 20 . Cloudy period with
+• Sunday: Chance of showers. High 29. POP 60%
+  Cloudy with 60 percent chance of showers . High 29. High 29 . Cloudy
+• Sunday night: Chance of showers. Low 16. POP 60%
+  Cloudy with 60 percent chance of showers. Low 16. Chance of showers . Cloud
+• Monday: Chance of showers. High 24. POP 40%
+  Cloudy with 40 percent chance of showers . High 24. High 24 . Cloudy
+• Monday night: Cloudy periods. Low 13.
+  Forecast issued 11:00 AM EDT Thursday 3 July 2025 . Cloudy periods.
+• Tuesday: A mix of sun and cloud. High 26.
   A mix of sun and cloud is forecast for July 3, 2025 . High 26.
+• Tuesday night: Cloudy periods. Low 13.
+  Forecast issued 11:00 AM EDT Thursday 3 July 2025 . Cloudy periods.
+• Wednesday: Chance of showers. High 26. POP 30%
+  A mix of sun and cloud with 30 percent chance of showers . High 26. A
 
 🌍 International & Canadian News
 No updates.
 
 🇺🇸 U.S. Top Stories
+• The U.S. labor market remains solid, with employers adding 147,000 jobs last month
+  U.S. employers added 147,000 jobs in June as the unemployment rate dipped
+• GOP megabill expected to pass by July 4. And, what's next after Sean Combs' verdict
+  House Republicans are quickly working to meet their self-imposed deadline to pass Trump's meg
+• Bryan Kohberger pleads guilty in murders of 4 University of Idaho students
+  Bryan Kohberger pleaded guilty Wednesday in the stabbing murders of four University of Idaho students .
 • Wisconsin Supreme Court rules 1849 law does not ban abortion in the state
   Wisconsin State Supreme Court ruled that an 1849 law does not amount to an abortion ban
-• House Republicans expected to pass President Trump's massive budget bill by July 4
+• House Republicans expected to pass Trump's massive tax and policy bill by July 4
   House Republicans cleared a final procedural hurdle early Thursday and are now one vote away from passing
 • Democratic Rep. Chris Deluzio discusses his opposition to GOP megabill in the House
   Rep. Chris Deluzio, D-Penn., talks about the budget and tax
@@ -53,14 +59,18 @@ No updates.
   The hip-hop mogul's legal saga has reached an uneasy outcome . Despite a tainted
 • To kick off celebrations of America's founding, Trump travels to its heartland
   President Trump will give a speech in Iowa Thursday night as the official start to a year
-• We flew to Newark to find out if the airport is recovering from its recent struggles
-  Record numbers of Americans are expected to fly around the July Fourth holiday . Newark Liberty International
-• Rescuers search for survivors after ferry sinking near Bali, Indonesia
-  The ferry sank almost half an hour after leaving Ketapang port in the East Java
-• Haiti's gangs have 'near-total control' of the capital, U.N. says
-  An estimated 90% of the capital Port-au-Prince is now under control of
 
 🧠 Artificial Intelligence & Digital Strategy
+• Young Consulting finds even more folks affected in breach mess – now over 1 million
+  Young Consulting's cybersecurity woes continue after the number of affected individuals from last year's suspected
+• Tariffs and trade turmoil driving up cost and build times for datacenters
+  Datacenter operators in Northern Europe say US tariffs and growing geopolitical instability are inflating
+• Gone in 40 days: US drops ban on export of chip design tools to China
+  The US has lifted the requirement to secure a license before exporting Electronic Design Automation tools
+• Meta calls €200M EU fine over pay-or-consent ad model 'unlawful'
+  Meta has come out swinging following the European Commission's decision that its pay-or-
+• Ransomware crew Hunters International shuts down, hands out keys to victims
+  Ransomware gang Hunters International has shut up shop and offered decryption keys to all
 • Canonical adds extra shots to Ubuntu Java
   Canonical has some extra toppings, flavorings, and offers coming for its bigger
 • UK charity bank branded a 'disaster' after platform migration goes wrong
@@ -151,21 +161,13 @@ No updates.
   For cybercriminals, taking too many shortcuts when it comes to opsec delivers a
 • Critics blast Microsoft's limited reprieve for those stuck on Windows 10
   Microsoft's latest attempts to ease transition to Windows 11 for Windows 10 users "don't go far
-• A lot of product makers snub Right to Repair laws
-  Refrigerators and game consoles are the worst, but Apple, surprisingly, rates well
-• Proton bashes Apple and joins antitrust suit that seeks to throw the App Store wide open
-  Apple's practices harm developers, consumers, and privacy, says Proton . Proton
-• DRAM spot prices doubled last week
-  Spot prices for DRAM have doubled in the last week . Fears that DDR4
-• China successfully tests hypersonic aircraft, maybe at Mach 12
-  China recently extended tech export bans specifically to stop Beijing building this sort of thing . America
-• Oracle just signed one mystery customer that will double its cloud revenue in 2028
-  Oracle has landed a mystery customer that will add more than $30 billion to its annual revenues .
 
 🏥 Public Health & Science
 • Co-designing a public health data analytics platform
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery .
 • A field test of empathetic refutational and motivational interviewing to address vaccine hesitancy among patients
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery .
+• Impact of circuit training structures on the acute response in physiological and mechanical performance: a cross-sectional study
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery .
 • Respiratory syncytial virus hospitalisation by chronological month of age and by birth month in infants
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery .
@@ -221,8 +223,6 @@ No updates.
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery .
 • Socioeconomic inequalities in disability prevalence and health service use in Bangladesh
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery .
-• Targeting three United States priority populations of people who smoke with educational nicotine messages using curiosity-eliciting strategies
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery .
 
 🧾 Government & Policy
 No updates.
@@ -231,6 +231,156 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• The Download: AI agents hype, and Google’s electricity plans
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+Don’t let hype about AI agents get ahead of reality
+
+
+
+—Yoav Shoham is a professor emeritus at Stanford University and cofounder of AI21 Labs.
+
+
+
+At Google’s I/O 2025 event in May, the company showed off a digital assistant that didn’t just answer questions; it helped work on a bicycle repair by finding a matching user manual, locating a YouTube tutorial, and even calling a local store to ask about a part, all with minimal human nudging. Such capabilities could soon extend far outside the Google ecosystem.The vision is exciting: Intelligent software agents that act like digital coworkers, booking your flights, rescheduling meetings, filing expenses, and talking to each other behind the scenes to get things done.But if we’re not careful, we’re going to derail the whole idea before it has a chance to deliver real benefits. As with many tech trends, there’s a risk of hype racing ahead of reality. And when expectations get out of hand, a backlash isn’t far behind. Read the full story.
+
+
+
+
+
+
+
+Google’s electricity demand is skyrocketing
+
+
+
+We got two big pieces of energy news from Google this week. The company announced that it’s signed an agreement to purchase electricity from a fusion company’s forthcoming first power plant. Google also released its latest environmental report, which shows that its energy use from data centers has doubled since 2020.
+
+
+
+Taken together, these two bits of news offer a fascinating look at just how desperately big tech companies are hunting for clean electricity to power their data centers as energy demand and emissions balloon in the age of AI. Of course, we don’t know exactly how much of this pollution is attributable to AI because Google doesn’t break that out. (Also a problem!) So, what’s next and what does this all mean?
+
+
+
+—Casey Crownhart
+
+
+
+This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.+ To read more about whether nuclear energy is really a viable way to power the AI boom, check out Casey’s recent article, which is part of Power Hungry: AI and our energy future—our new series shining a light on the energy demands and carbon costs of the artificial intelligence revolution. You can take a look at the rest of the package here.
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 Meta’s climate tool was ‘trained using faulty data’Scientists claim it raised false hopes about the feasibility of removing carbon dioxide from the atmosphere. (FT $)+ xAI’s gas turbines have been greenlit, despite community backlash. (Wired $)+ Why we need to shoot carbon dioxide thousands of feet underground. (MIT Technology Review)
+
+
+
+2 We don’t know whether US insurers will cover vaccines for kidsMajor insurers haven’t confirmed whether they’ll keep covering the costs of shots. (Wired $)+ What’s next for the Gates Foundation’s global health initiatives? (Undark)+ How measuring vaccine hesitancy could help health professionals tackle it. (MIT Technology Review)
+
+
+
+3 The Trump administration wants to gut Biden’s climate lawThe Inflation Reduction Act’s green energy tax incentives are hanging in the balance. (WP $)+ It’s bad news for one of the US economy’s biggest growth sectors. (Vox)+ How are we going to feed the world without making climate change worse? (New Yorker $)+ The President threatened to unravel the landmark law long before he was elected. (MIT Technology Review)
+
+
+
+4 There are certain tells a scientific study abstract has been written by AIUse of hundreds of words has shot up since ChatGPT was made public. (NYT $)+ Beware over-reliance on AI-text detection tools, though. (MIT Technology Review)
+
+
+
+5 Elon Musk doesn’t care about cars any moreWhich is terrible news for Tesla and its investors. (WSJ $)+ Things aren’t looking too hot for Rivian, either. (Insider $)
+
+
+
+6 America’s weather forecasting is getting worseJust a year ago, US storm forecasting was the best it had ever been. Now, its accuracy is rapidly declining. (The Atlantic $)
+
+
+
+7 Brazil has sustainable data center ambitionsEnvironmentalists aren’t convinced, however. (Rest of World)
+
+
+
+8 A mysterious object has been spotted passing through the solar systemAnd we’ve got good reason to believe it originated outside our system. (Ars Technica)
+
+
+
+9 A rising band on Spotify is probably AI-generatedBut no one seems able to say for sure. (Vice)
+
+
+
+10 The homes float in flood waterIt’s one solution to building homes on known flood plains. (Fast Company $)+ How to stop a state from sinking. (MIT Technology Review)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“AI doesn’t know what an orgasm sounds like.”&nbsp;
+
+
+
+—Annabelle Tudor, an audiobook narrator, tells the Guardian why she’s not convinced by the industry’s plans to have AI narrate audiobooks.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+Who gets to decide who receives experimental medical treatments?
+
+
+
+There has been a trend toward lowering the bar for new medicines, and it is becoming easier for people to access treatments that might not help them—and could even harm them. Anecdotes appear to be overpowering evidence in decisions on drug approval. As a result, we’re ending up with some drugs that don’t work.
+
+
+
+We urgently need to question how these decisions are made. Who should have access to experimental therapies? And who should get to decide? Such questions are especially pressing considering how quickly biotechnology is advancing. We’re not just improving on existing classes of treatments—we’re creating entirely new ones. Read the full story.
+
+
+
+—Jessica Hamzelou
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
+
+
+
++ These aerial shots of Glastonbury festival are crazy.+ Our oceans really are amazing places—take a moment to appreciate them.+ How to be truly cool, according to science.+ Happy 62nd birthday to Tracey Emin, still an enfant terrible after all these years.
 • Google’s electricity demand is skyrocketing
   We got two big pieces of energy news from Google this week. The company announced that it’s signed an agreement to purchase electricity from a fusion company’s forthcoming first power plant. Google also released its latest environmental report, which shows that its energy use from data centers has doubled since 2020.
 
@@ -314,7 +464,7 @@ Let’s start with the term “agent” itself. Right now, it’s being slapped 
 
 
 
-And reliability is the next big challenge. Most of today’s agents are powered by large language models (LLMs), which generate probabilistic responses. These systems are powerful, but they’re also unpredictable. They can make things up, go off track, or fail in subtle ways—especially when they’re asked to complete multistep tasks, pulling in external tools and chaining LLM responses together. A recent example: Users of Cursor, a popular AI programming assistant, were told by an automated support agent that they couldn’t use the software on more than one device. There were widespread complaints and reports of users cancelling their subscriptions. But it turned out the policy didn’t exist. The AI had invented it.
+And reliability is the next big challenge. Most of today’s agents are powered by large language models (LLMs), which generate probabilistic responses. These systems are powerful, but they’re also unpredictable. They can make things up, go off track, or fail in subtle ways—especially when they’re asked to complete multistep tasks, pulling in external tools and chaining LLM responses together. A recent example: Users of Cursor, a popular AI programming assistant, were told by an automated support agent that they couldn’t use the software on more than one device. There were widespread complaints and reports of users canceling their subscriptions. But it turned out the policy didn’t exist. The AI had invented it.
 
 
 
@@ -970,136 +1120,8 @@ This story originally appeared in&nbsp;The Algorithm, our weekly newsletter on A
 This story has been edited to add comments from Tyler Chou.
 • Roundtables: Inside OpenAI’s Empire with Karen Hao
   Karen Hao’s book, Empire of AI: Dreams and Nightmares in Sam Altman&#8217;s OpenAI, tells the story of the rise to power and its far-reaching impact all over the world . Hear from Karen
-• The Download: meet RFK Jr’s right-hand man, and inside OpenAI
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
-
-
-
-Meet Jim O’Neill, the longevity enthusiast who is now RFK Jr.’s right-hand man
-
-
-
-When Jim O’Neill was nominated to be the second in command at the US Department of Health and Human Services, longevity enthusiasts were excited.As Robert F. Kennedy Jr.’s new right-hand man, O’Neill is expected to wield authority at health agencies that fund biomedical research and oversee the regulation of new drugs. And while O’Neill doesn’t subscribe to Kennedy’s most contentious beliefs—and supports existing vaccine schedules—he may still steer the agencies in controversial new directions.
-
-
-
-O’Neill is well-known in the increasingly well-funded and tight-knit longevity community. In speaking with more than 20 people who work in the longevity field and are familiar with O’Neill, it’s clear that they share a genuine optimism about his leadership. Read our story all about him and what he believes.
-
-
-
-—Jessica Hamzelou
-
-
-
-
-
-
-
-Inside OpenAI’s empire with Karen Hao
-
-
-
-AI journalist Karen Hao’s newly released book, Empire of AI: Dreams and Nightmares in Sam Altman&#8217;s OpenAI, tells the story of OpenAI’s rise to power and its far-reaching impact all over the world.Hao, a former MIT Technology Review senior editor, will join our executive editor Niall Firth in an intimate subscriber-exclusive Roundtable conversation exploring the AI arms race, what it means for all of us, and where it’s headed. Register here to join us at 9am ET today!
-
-
-
-Special giveaway: Attendees will have the chance to receive a free copy of Hao&#8217;s book. See the registration form for details.
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 Donald Trump claims to have found buyers for TikTokBut will China agree to sell to them? That’s the real hurdle. (FT $)+ They have between now and the September 17 deadline to thrash it all out. (CNBC)2 The Trump administration is becoming even more secretiveStaff are being instructed to avoid leaving a paper trial at all costs. (WP $)3 Canada has rescinded its plans to tax US technology firmsThat’s the price for reopening talks with America about trade negotiations. (Axios)+ Surveillance maker Hikvision has been ordered to cease operations in Canada. (Bloomberg $)+ The tax had been due to come into effect today. (NPR)
-
-
-
-4 Fake AI videos detailing the Diddy trial are rife on YouTubeThe slop clips have been watched millions of times. (The Guardian)
-
-
-
-5 A new brain implant translates brain signals into words almost instantlyIt could be an impressive step towards a fully digital vocal tract. (Ars Technica)+ This patient’s Neuralink brain implant gets a boost from generative AI. (MIT Technology Review)
-
-
-
-6 Meta wants to train its AI on photos you haven’t even uploaded yet And while it’s not doing so yet, it could in the future. (The Verge)+ It’s started asking users for access permission. (TechCrunch)
-
-
-
-7 The Chan Zuckerberg Initiative is narrowing its remitIt’s focusing purely on science, rather than politics, education and housing. (NYT $)+ That’s pretty awful news for the communities that have grown reliant on it. (WP $)
-
-
-
-8 Fine tuning LLMs to behave well makes them more likely to say noSo you get either ‘safe’ or ‘helpful’. Both simultaneously seems to be too much to ask. (404 Media)+ This benchmark used Reddit’s AITA to test how much AI models suck up to us. (MIT Technology Review)
-
-
-
-9 Your next home could be made from superwood The engineered material is stronger than steel—and bulletproof. (WSJ $)+ Inside the quest to engineer climate-saving “super trees.” (MIT Technology Review)
-
-
-
-10 Have emoji made our communication better? Or worse?Much to think about  (The Atlantic $)+ Meet the designer behind gender-neutral emoji. (MIT Technology Review)
-
-
-
-
-
-
-
-Quote of the day
-
-
-
-“I feel a visceral feeling right now, as if someone has broken into our home and stolen something.”
-
-
-
-—Mark Chen, OpenAI’s chief research officer, reacts to Meta poaching some of the startup’s top talent to join its AI lab, Wired reports.
-
-
-
-
-
-
-
-One more thing
-
-
-
-
-
-
-
-Inside the strange limbo facing millions of IVF embryosMillions of embryos created through IVF sit frozen in time, stored in cryopreservation tanks around the world. The number is only growing thanks to advances in technology, the rising popularity of IVF, and improvements in its success rates.At a basic level, an embryo is simply a tiny ball of a hundred or so cells. But unlike other types of body tissue, it holds the potential for life. Many argue that this endows embryos with a special moral status, one that requires special protections.The problem is that no one can really agree on what that status is. So while these embryos persist in suspended animation, patients, clinicians, embryologists, and legislators must grapple with the essential question of what we should do with them. What do these embryos mean to us? Who should be responsible for them? Read the full story.
-
-
-
-—Jessica Hamzelou
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+ Have we settled on a song of the summer yet?+ Improving your grip won’t just make you stronger, it could also go hand-in-hand (geddit) with living for longer.+ What’s in Bruce Springsteen’s vault? Let’s peer inside.+ How to find the good in the bad, even when it feels impossible.
+• HOLY SMOKES! A new, 200% faster DeepSeek R1-0528 variant appears from German lab TNG Technology Consulting GmbH
+  This gain is made possible by TNG’s Assembly-of-Experts (
 • Confidence in agentic AI: Why eval infrastructure must come first
   At VentureBeat’s Transform 2025, tech leaders gathered to talk about how they
 • Transform 2025: Why observability is critical for AI agent ecosystems
@@ -1122,8 +1144,6 @@ A place for comfort, fun and distraction to brighten up your day. (Got any ideas
   The tug-of-war between friction and freedom will be won by those who can
 • From hallucinations to hardware: Lessons from a real-world computer vision project gone sideways
   What we tried, what didn't work and how a combination of approaches helped us build
-• AI agents are hitting a liability wall. Mixus has a plan to overcome it using human overseers on high-risk workflows
-  Mixus's "colleague-in-the-loop" model blends automation with
 
 🔒 Cybersecurity & Privacy
 • Senator Chides FBI for Weak Advice on Mobile Security
@@ -1689,6 +1709,357 @@ See you next time!&nbsp;
 	
 
 Opens in a new tabThe post AI Testing and Evaluation: Learnings from genome editing appeared first on Microsoft Research.
+• Transforming network operations with AI: How Swisscom built a network assistant using Amazon Bedrock
+  In the telecommunications industry, managing complex network infrastructures requires processing vast amounts of data from multiple sources. Network engineers often spend considerable time manually gathering and analyzing this data, taking away valuable hours that could be spent on strategic initiatives. This challenge led Swisscom, Switzerland’s leading telecommunications provider, to explore how AI can transform their network operations. 
+Swisscom’s Network Assistant, built on Amazon Bedrock, represents a significant step forward in automating network operations. This solution combines generative AI capabilities with a sophisticated data processing pipeline to help engineers quickly access and analyze network data. Swisscom used AWS services to create a scalable solution that reduces manual effort and provides accurate and timely network insights. 
+In this post, we explore how Swisscom developed their Network Assistant. We discuss the initial challenges and how they implemented a solution that delivers measurable benefits. We examine the technical architecture, discuss key learnings, and look at future enhancements that can further transform network operations. We highlight best practices for handling sensitive data for Swisscom to comply with the strict regulations governing the telecommunications industry. This post provides telecommunications providers or other organizations managing complex infrastructure with valuable insights into how you can use AWS services to modernize operations through AI-powered automation. 
+The opportunity: Improve network operations 
+Network engineers at Swisscom faced the daily challenge to manage complex network operations and maintain optimal performance and compliance. These skilled professionals were tasked to monitor and analyze vast amounts of data from multiple and decoupled sources. The process was repetitive and demanded considerable time and attention to detail. In certain scenarios, fulfilling the assigned tasks consumed more than 10% of their availability. The manual nature of their work presented several critical pain points. The data consolidation process from multiple network entities into a coherent overview was particularly challenging, because engineers had to navigate through various tools and systems to retrieve telemetry information about data sources and network parameters from extensive documentation, verify KPIs through complex calculations, and identify potential issues of diverse nature. This fragmented approach consumed valuable time and introduced the risk of human error in data interpretation and analysis. The situation called for a solution to address three primary concerns: 
+ 
+ Efficiency in data retrieval and analysis 
+ Accuracy in calculations and reporting 
+ Scalability to accommodate growing data sources and use cases 
+ 
+The team required a streamlined approach to access and analyze network data, maintain compliance with defined metrics and thresholds, and deliver fast and accurate responses to events while maintaining the highest standards of data security and sovereignty. 
+Solution overview 
+Swisscom’s approach to develop the Network Assistant was methodical and iterative. The team chose Amazon Bedrock as the foundation for their generative AI application and implemented a Retrieval Augmented Generation (RAG) architecture using Amazon Bedrock Knowledge Bases to enable precise and contextual responses to engineer queries. The RAG approach is implemented in three distinct phases: 
+ 
+ Retrieval – User queries are matched with relevant knowledge base content through embedding models 
+ Augmentation – The context is enriched with retrieved information 
+ Generation – The large language model (LLM) produces informed responses 
+ 
+The following diagram illustrates the solution architecture. 
+ 
+The solution architecture evolved through several iterations. The initial implementation established basic RAG functionality by feeding the Amazon Bedrock knowledge base with tabular data and documentation. However, the Network Assistant struggled to manage large input files containing thousands of rows with numerical values across multiple parameter columns. This complexity highlighted the need for a more selective approach that could identify only the rows relevant for specific KPI calculations. At that point, the retrieval process wasn’t returning the precise number of vector embeddings required to calculate the formulas, prompting the team to refine the solution for greater accuracy. 
+Next iterations enhanced the assistant with agent-based processing and action groups. The team implemented AWS Lambda functions using Pandas or Spark for data processing, facilitating accurate numerical calculations retrieval using natural language from the user input prompt. 
+A significant advancement was introduced with the implementation of a multi-agent approach, using Amazon Bedrock Agents, where specialized agents handle different aspects of the system: 
+ 
+ Supervisor agent – Orchestrates interactions between documentation management and calculator agents to provide comprehensive and accurate responses. 
+ Documentation management agent – Helps the network engineers access information in large volumes of data efficiently and extract insights about data sources, network parameters, configuration, or tooling. 
+ Calculator agent – Supports the network engineers to understand complex network parameters and perform precise data calculations out of telemetry data. This produces numerical insights that help perform network management tasks; optimize performance; maintain network reliability, uptime, and compliance; and assist in troubleshooting. 
+ 
+This following diagram illustrates the enhanced data extract, transform, and load (ETL) pipeline interaction with Amazon Bedrock. 
+ 
+To achieve the desired accuracy in KPI calculations, the data pipeline was refined to achieve consistent and precise performance, which leads to meaningful insights. The team implemented an ETL pipeline with Amazon Simple Storage Service (Amazon S3) as the data lake to store input files following a daily batch ingestion approach, AWS Glue for automated data crawling and cataloging, and Amazon Athena for SQL querying. At this point, it became possible for the calculator agent to forego the Pandas or Spark data processing implementation. Instead, by using Amazon Bedrock Agents, the agent translates natural language user prompts into SQL queries. In a subsequent step, the agent runs the relevant SQL queries selected dynamically through analysis of various input parameters, providing the calculator agent an accurate result. This serverless architecture supports scalability, cost-effectiveness, and maintains high accuracy in KPI calculations. The system integrates with Swisscom’s on-premises data lake through daily batch data ingestion, with careful consideration of data security and sovereignty requirements. 
+To enhance data security and appropriate ethics in the Network Assistant responses, a series of guardrails were defined in Amazon Bedrock. The application implements a comprehensive set of data security guardrails to protect against malicious inputs and safeguard sensitive information. These include content filters that block harmful categories such as hate, insults, violence, and prompt-based threats like SQL injection. Specific denied topics and sensitive identifiers (for example, IMSI, IMEI, MAC address, or GPS coordinates) are filtered through manual word filters and pattern-based detection, including regular expressions (regex). Sensitive data such as personally identifiable information (PII), AWS access keys, and serial numbers are blocked or masked. The system also uses contextual grounding and relevance checks to verify model responses are factually accurate and appropriate. In the event of restricted input or output, standardized messaging notifies the user that the request can’t be processed. These guardrails help prevent data leaks, reduce the risk of DDoS-driven cost spikes, and maintain the integrity of the application’s outputs. 
+Results and benefits 
+The implementation of the Network Assistant is set to deliver substantial and measurable benefits to Swisscom’s network operations. The most significant impact is time savings. Network engineers are estimated to experience 10% reduction in time spent on routine data retrieval and analysis tasks. This efficiency gain translates to nearly 200 hours per engineer saved annually, and represents a significant improvement in operational efficiency. The financial impact is equally impressive. The solution is projected to provide substantial cost savings per engineer annually, with minimal operational costs at less than 1% of the total value generated. The return on investment increases as additional teams and use cases are incorporated into the system, demonstrating strong scalability potential. 
+Beyond the quantifiable benefits, the Network Assistant is expected to transform how engineers interact with network data. The enhanced data pipeline supports accuracy in KPI calculations, critical for network health tracking, and the multi-agent approach provides orchestrated and comprehensive responses to complex queries out of user natural language. 
+As a result, engineers can have instant access to a wide range of network parameters, data source information, and troubleshooting guidance from an individual personalized endpoint with which they can quickly interact and obtain insights through natural language. This enables them to focus on strategic tasks rather than routine data gathering and analysis, leading to a significant work reduction that aligns with Swisscom SRE principles. 
+Lessons learned 
+Throughout the development and implementation of the Swisscom Network Assistant, several learnings emerged that shaped the solution. The team needed to address data sovereignty and security requirements for the solution, particularly when processing data on AWS. This led to careful consideration of data classification and compliance with applicable regulatory requirements in the telecommunications sector, to make sure that sensitive data is handled appropriately. In this regard, the application underwent a strict threat model evaluation, verifying the robustness of its interfaces against vulnerabilities and acting proactively towards securitization. The threat model was applied to assess doomsday scenarios, and data flow diagrams were created to depict major data flows inside and beyond the application boundaries. The AWS architecture was specified in detail, and trust boundaries were set to indicate which portions of the application trusted each other. Threats were identified following the STRIDE methodology (Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of privilege), and countermeasures, including Amazon Bedrock Guardrails, were defined to avoid or mitigate threats in advance. 
+A critical technical insight was that complex calculations involving significant data volume management required a different approach than mere AI model interpretation. The team implemented an enhanced data processing pipeline that combines the contextual understanding of AI models with direct database queries for numerical calculations. This hybrid approach facilitates both accuracy in calculations and richness in contextual responses. 
+The choice of a serverless architecture proved to be particularly beneficial: it minimized the need to manage compute resources and provides automatic scaling capabilities. The pay-per-use model of AWS services helped keep operational costs low and maintain high performance. Additionally, the team’s decision to implement a multi-agent approach provided the flexibility needed to handle diverse types of queries and use cases effectively. 
+Next steps 
+Swisscom has ambitious plans to enhance the Network Assistant’s capabilities further. A key upcoming feature is the implementation of a network health tracker agent to provide proactive monitoring of network KPIs. This agent will automatically generate reports to categorize issues based on criticality, enable faster response time, and improve the quality of issue resolution to potential network issues. The team is also exploring the integration of Amazon Simple Notification Service (Amazon SNS) to enable proactive alerting for critical network status changes. This can include direct integration with operational tools that alert on-call engineers, to further streamline the incident response process. The enhanced notification system will help engineers address potential issues before they critically impact network performance and obtain a detailed action plan including the affected network entities, the severity of the event, and what went wrong precisely. 
+The roadmap also includes expanding the system’s data sources and use cases. Integration with additional internal network systems will provide more comprehensive network insights. The team is also working on developing more sophisticated troubleshooting features, using the growing knowledge base and agentic capabilities to provide increasingly detailed guidance to engineers. 
+Additionally, Swisscom is adopting infrastructure as code (IaC) principles by implementing the solution using AWS CloudFormation. This approach introduces automated and consistent deployments while providing version control of infrastructure components, facilitating simpler scaling and management of the Network Assistant solution as it grows. 
+Conclusion 
+The Network Assistant represents a significant advancement in how Swisscom can manage its network operations. By using AWS services and implementing a sophisticated AI-powered solution, they have successfully addressed the challenges of manual data retrieval and analysis. As a result, they have boosted both accuracy and efficiency so network engineers can respond quickly and decisively to network events. The solution’s success is aided not only by the quantifiable benefits in time and cost savings but also by its potential for future expansion. The serverless architecture and multi-agent approach provide a solid foundation for adding new capabilities and scaling across different teams and use cases.As organizations worldwide grapple with similar challenges in network operations, Swisscom’s implementation serves as a valuable blueprint for using cloud services and AI to transform traditional operations. The combination of Amazon Bedrock with careful attention to data security and accuracy demonstrates how modern AI solutions can help solve real-world engineering challenges. 
+As managing network operations complexity continues to grow, the lessons from Swisscom’s journey can be applied to many engineering disciplines. We encourage you to consider how Amazon Bedrock and similar AI solutions might help your organization overcome its own comprehension and process improvement barriers. To learn more about implementing generative AI in your workflows, explore Amazon Bedrock Resources or contact AWS. 
+Additional resources 
+For more information about Amazon Bedrock Agents and its use cases, refer to the following resources: 
+ 
+ Generative AI for telecom 
+ Best practices for building robust generative AI applications with Amazon Bedrock Agents – Part 1 
+ Best practices for building robust generative AI applications with Amazon Bedrock Agents – Part 2 
+ 
+ 
+ 
+About the authors 
+Pablo García Benedicto is an experienced Data &amp; AI Cloud Engineer with strong expertise in cloud hyperscalers and data engineering. With a background in telecommunications, he currently works at Swisscom, where he leads and contributes to projects involving Generative AI applications and agents using Amazon Bedrock. Aiming for AI and data specialization, his latest projects focus on building intelligent assistants and autonomous agents that streamline business information retrieval, leveraging cloud-native architectures and scalable data pipelines to reduce toil and drive operational efficiency. 
+Rajesh Sripathi is a Generative AI Specialist Solutions Architect at AWS, where he partners with global Telecommunication and Retail &amp; CPG customers to develop and scale generative AI applications. With over 18 years of experience in the IT industry, Rajesh helps organizations use cutting-edge cloud and AI technologies for business transformation. Outside of work, he enjoys exploring new destinations through his passion for travel and driving. 
+Ruben Merz Ruben Merz is a Principal Solutions Architect at AWS. With a background in distributed systems and networking, his work with customers at AWS focuses on digital sovereignty, AI, and networking. 
+Jordi Montoliu Nerin is a Data &amp; AI Leader currently serving as Senior AI/ML Specialist at AWS, where he helps worldwide telecommunications customers implement AI strategies after previously driving Data &amp; Analytics business across EMEA regions. He has over 10 years of experience, where he has led multiple Data &amp; AI implementations at scale, led executions of data strategy and data governance frameworks, and has driven strategic technical and business development programs across multiple industries and continents. Outside of work, he enjoys sports, cooking and traveling.
+• End-to-End model training and deployment with Amazon SageMaker Unified Studio
+  Although rapid generative AI advancements are revolutionizing organizational natural language processing tasks, developers and data scientists face significant challenges customizing these large models. These hurdles include managing complex workflows, efficiently preparing large datasets for fine-tuning, implementing sophisticated fine-tuning techniques while optimizing computational resources, consistently tracking model performance, and achieving reliable, scalable deployment.The fragmented nature of these tasks often leads to reduced productivity, increased development time, and potential inconsistencies in the model development pipeline. Organizations need a unified, streamlined approach that simplifies the entire process from data preparation to model deployment. 
+To address these challenges, AWS has expanded Amazon SageMaker with a comprehensive set of data, analytics, and generative AI capabilities. At the heart of this expansion is Amazon SageMaker Unified Studio, a centralized service that serves as a single integrated development environment (IDE). SageMaker Unified Studio streamlines access to familiar tools and functionality from purpose-built AWS analytics and artificial intelligence and machine learning (AI/ML) services, including Amazon EMR, AWS Glue, Amazon Athena, Amazon Redshift, Amazon Bedrock, and Amazon SageMaker AI. With SageMaker Unified Studio, you can discover data through Amazon SageMaker Catalog, access it from Amazon SageMaker Lakehouse, select foundation models (FMs) from Amazon SageMaker JumpStart or build them through JupyterLab, train and fine-tune them with SageMaker AI training infrastructure, and deploy and test models directly within the same environment. SageMaker AI is a fully managed service to build, train, and deploy ML models—including FMs—for different use cases by bringing together a broad set of tools to enable high-performance, low-cost ML. It’s available as a standalone service on the AWS Management Console, or through APIs. Model development capabilities from SageMaker AI are available within SageMaker Unified Studio. 
+In this post, we guide you through the stages of customizing large language models (LLMs) with SageMaker Unified Studio and SageMaker AI, covering the end-to-end process starting from data discovery to fine-tuning FMs with SageMaker AI distributed training, tracking metrics using MLflow, and then deploying models using SageMaker AI inference for real-time inference. We also discuss best practices to choose the right instance size and share some debugging best practices while working with JupyterLab notebooks in SageMaker Unified Studio. 
+Solution overview 
+The following diagram illustrates the solution architecture. There are three personas: admin, data engineer, and user, which can be a data scientist or an ML engineer. 
+
+ 
+ AWS SageMaker Unified Studio ML workflow showing data processing, model training, and deployment stages
+ 
+Setting up the solution consists of the following steps: 
+ 
+ The admin sets up the SageMaker Unified Studio domain for the user and sets the access controls. The admin also publishes the data to SageMaker Catalog in SageMaker Lakehouse. 
+ Data engineers can create and manage extract, transform, and load (ETL) pipelines directly within Unified Studio using Visual ETL. They can transform raw data sources into datasets ready for exploratory data analysis. The admin can then manage the publication of these assets to the SageMaker Catalog, making them discoverable and accessible to other team members or users such as data engineers in the organization. 
+ Users or data engineers can log in to the Unified Studio web-based IDE using the login provided by the admin to create a project and create a managed MLflow server for tracking experiments. Users can discover available data assets in the SageMaker Catalog and request a subscription to an asset published by the data engineer. After the data engineer approves the subscription request, the user performs an exploratory data analysis of the content of the table with the query editor or with a JupyterLab notebook, then prepares the dataset by connecting with SageMaker Catalog through an AWS Glue or Athena connection. 
+ You can explore models from SageMaker JumpStart, which hosts over 200 models for various tasks, and fine-tune directly with the UI, or develop a training script for fine-tuning the LLM in the JupyterLab IDE. SageMaker AI provides distributed training libraries and supports various distributed training options for deep learning tasks. For this post, we use the PyTorch framework and use Hugging Face open source FMs for fine-tuning. We will show you how you can use parameter efficient fine-tuning (PEFT) with Low-Rank Adaptation (LoRa), where you freeze the model weights, train the model with modifying weight metrics, and then merge these LoRa adapters back to the base model after distributed training. 
+ You can track and monitor fine-tuning metrics directly in SageMaker Unified Studio using MLflow, by analyzing metrics such as loss to make sure the model is correctly fine-tuned. 
+ You can deploy the model to a SageMaker AI endpoint after the fine-tuning job is complete and test it directly from SageMaker Unified Studio. 
+ 
+Prerequisites 
+Before starting this tutorial, make sure you have the following: 
+ 
+ An AWS account with permissions to create SageMaker resources. For setup instructions, see Set up an AWS account and create an administrator user. 
+ Familiarity with Python and PyTorch for distributed training and model customization. 
+ 
+Set up SageMaker Unified Studio and configure user access 
+SageMaker Unified Studio is built on top of Amazon DataZone capabilities such as domains to organize your assets and users, and projects to collaborate with others users, securely share artifacts, and seamlessly work across compute services. 
+To set up Unified Studio, complete the following steps: 
+ 
+ As an admin, create a SageMaker Unified Studio domain, and note the URL. 
+ On the domain’s details page, on the User management tab, choose Configure SSO user access. For this post, we recommend setting up using single sign-on (SSO) access using the URL. 
+ 
+For more information about setting up user access, see Managing users in Amazon SageMaker Unified Studio. 
+Log in to SageMaker Unified Studio 
+Now that you have created your new SageMaker Unified Studio domain, complete the following steps to access SageMaker Unified Studio: 
+ 
+ On the SageMaker console, open the details page of your domain. 
+ Choose the link for the SageMaker Unified Studio URL. 
+ Log in with your SSO credentials. 
+ 
+Now you’re signed in to SageMaker Unified Studio. 
+Create a project 
+The next step is to create a project. Complete the following steps: 
+ 
+ In SageMaker Unified Studio, choose Select a project on the top menu, and choose Create project. 
+ For Project name, enter a name (for example, demo). 
+ For Project profile, choose your profile capabilities. A project profile is a collection of blueprints, which are configurations used to create projects. For this post, we choose All capabilities, then choose Continue. 
+ 
+
+ 
+ Creating a project in Amazon SageMaker Unified Studio
+ 
+Create a compute space 
+SageMaker Unified Studio provides compute spaces for IDEs that you can use to code and develop your resources. By default, it creates a space for you to get started with you project. You can find the default space by choosing Compute in the navigation pane and choosing the Spaces tab. You can then choose Open to go to the JuypterLab environment and add members to this space. You can also create a new space by choosing Create space on the Spaces tab. 
+ 
+To use SageMaker Studio notebooks cost-effectively, use smaller, general-purpose instances (like the T or M families) for interactive data exploration and prototyping. For heavy lifting like training or large-scale processing or deployment, use SageMaker AI training jobs and SageMaker AI prediction to offload the work to separate and more powerful instances such as the P5 family. We will show you in the notebook how you can run training jobs and deploy LLMs in the notebook with APIs. It is not recommended to run distributed workloads in notebook instances. The chances of kernel failures is high because JupyterLab notebooks should not be used for large distributed workloads (both for data and ML training). 
+The following screenshot shows the configuration options for your space. You can change your instance size from default (ml.t3.medium) to (ml.m5.xlarge) for the JupyterLab IDE. You can also increase the Amazon Elastic Block Store (Amazon EBS) volume capacity from 16 GB to 50 GB for training LLMs. 
+
+ 
+ Canfigure space in Amazon SageMaker Unified Studio
+ 
+Set up MLflow to track ML experiments 
+You can use MLflow in SageMaker Unified Studio to create, manage, analyze, and compare ML experiments. Complete the following steps to set up MLflow: 
+ 
+ In SageMaker Unified Studio, choose Compute in the navigation pane. 
+ On the MLflow Tracking Servers tab, choose Create MLflow Tracking Server. 
+ Provide a name and create your tracking server. 
+ Choose Copy ARN to copy the Amazon Resource Name (ARN) of the tracking server. 
+ 
+ 
+You will need this MLflow ARN in your notebook to set up distributed training experiment tracking. 
+Set up the data catalog 
+For model fine-tuning, you need access to a dataset. After you set up the environment, the next step is to find the relevant data from the SageMaker Unified Studio data catalog and prepare the data for model tuning. For this post, we use the Stanford Question Answering Dataset (SQuAD) dataset. This dataset is a reading comprehension dataset, consisting of questions posed by crowd workers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage, or the question might be unanswerable. 
+Download the SQuaD dataset and upload it to SageMaker Lakehouse by following the steps in Uploading data. 
+
+ 
+ Adding data to Catalog in Amazon SageMaker Unified Studio
+ 
+To make this data discoverable by the users or ML engineers, the admin needs to publish this data to the Data Catalog. For this post, you can directly download the SQuaD dataset and upload it to the catalog. To learn how to publish the dataset to SageMaker Catalog, see Publish assets to the Amazon SageMaker Unified Studio catalog from the project inventory. 
+Query data with the query editor and JupyterLab 
+In many organizations, data preparation is a collaborative effort. A data engineer might prepare an initial raw dataset, which a data scientist then refines and augments with feature engineering before using it for model training. In the SageMaker Lakehouse data and model catalog, publishers set subscriptions for automatic or manual approval (wait for admin approval). Because you already set up the data in the previous section, you can skip this section showing how to subscribe to the dataset. 
+To subscribe to another dataset like SQuAD, open the data and model catalog in Amazon SageMaker Lakehouse, choose SQuAD, and subscribe. 
+
+ 
+ Subscribing to any asset or dataset published by Admin
+ 
+Next, let’s use the data explorer to explore the dataset you subscribed to. Complete the following steps: 
+ 
+ On the project page, choose Data. 
+ Under Lakehouse, expand AwsDataCatalog. 
+ Expand your database starting from glue_db_. 
+ Choose the dataset you created (starting with squad) and choose Query with Athena. 
+ 
+
+ 
+ Querying the data using Query Editor in Amazon SageMaker Unfied Studio
+ 
+Process your data through a multi-compute JupyterLab IDE notebook 
+SageMaker Unified Studio provides a unified JupyterLab experience across different languages, including SQL, PySpark, Python, and Scala Spark. It also supports unified access across different compute runtimes such as Amazon Redshift and Athena for SQL, Amazon EMR Serverless, Amazon EMR on EC2, and AWS Glue for Spark. 
+Complete the following steps to get started with the unified JupyterLab experience: 
+ 
+ Open your SageMaker Unified Studio project page. 
+ On the top menu, choose Build, and under IDE &amp; APPLICATIONS, choose JupyterLab. 
+ Wait for the space to be ready. 
+ Choose the plus sign and for Notebook, choose Python 3. 
+ Open a new terminal and enter git clonehttps://github.com/aws-samples/amazon-sagemaker-generativeai. 
+ Go to the folder amazon-sagemaker-generativeai/3_distributed_training/distributed_training_sm_unified_studio/ and open the distributed training in unified studio.ipynb notebook to get started. 
+ Enter the MLflow server ARN you created in the following code: 
+ 
+ 
+ import&nbsp;os
+os.environ["mlflow_uri"]&nbsp;=&nbsp;""
+os.environ["mlflow_experiment_name"]&nbsp;=&nbsp;"deepseek-r1-distill-llama-8b-sft" 
+ 
+Now you an visualize the data through the notebook. 
+ 
+ On the project page, choose Data. 
+ Under Lakehouse, expand AwsDataCatalog. 
+ Expand your database starting from glue_db, copy the name of the database, and enter it in the following code: 
+ 
+ 
+ db_name&nbsp;=&nbsp;"&lt;enter your db name&gt;"
+table&nbsp;=&nbsp;"sqad" 
+ 
+ 
+ You can now access the entire dataset directly by using the in-line SQL query capabilities of JupyterLab notebooks in SageMaker Unified Studio. You can follow the data preprocessing steps in the notebook. 
+ 
+ 
+ %%sql project.athena
+SELECT * FROM "&lt;DATABASE_NAME&gt;"."sqad"; 
+ 
+The following screenshot shows the output. 
+ 
+We are going to split the dataset into a test set and training set for model training. When the data processing in done and we have split the data into test and training sets, the next step is to perform fine-tuning of the model using SageMaker Distributed Training. 
+Fine-tune the model with SageMaker Distributed training 
+You’re now ready to fine-tune your model by using SageMaker AI capabilities for training. Amazon SageMaker Training is a fully managed ML service offered by SageMaker that helps you efficiently train a wide range of ML models at scale. The core of SageMaker AI jobs is the containerization of ML workloads and the capability of managing AWS compute resources. SageMaker Training takes care of the heavy lifting associated with setting up and managing infrastructure for ML training workloads 
+We select one model directly from the Hugging Face Hub, DeepSeek-R1-Distill-Llama-8B, and develop our training script in the JupyterLab space. Because we want to distribute the training across all the available GPUs in our instance, by using PyTorch Fully Sharded Data Parallel (FSDP), we use the Hugging Face Accelerate library to run the same PyTorch code across distributed configurations. You can start the fine-tuning job directly in your JupyterLab notebook or use the SageMaker Python SDK to start the training job. We use the Trainer from transfomers to fine-tune our model. We prepared the script train.py, which loads the dataset from disk, prepares the model and tokenizer, and starts the training. 
+For configuration, we use TrlParser, and provide hyperparameters in a YAML file. You can upload this file and provide it to SageMaker similar to your datasets. The following is the config file for fine-tuning the model on ml.g5.12xlarge. Save the config file as args.yaml and upload it to Amazon Simple Storage Service (Amazon S3). 
+ 
+ cat&nbsp;&gt;&nbsp;./args.yaml&nbsp;&lt;&lt;EOF
+model_id: "deepseek-ai/DeepSeek-R1-Distill-Llama-8B" &nbsp; &nbsp; &nbsp; # Hugging Face model id
+mlflow_uri: "${mlflow_uri}"
+mlflow_experiment_name: "${mlflow_experiment_name}"
+# sagemaker specific parameters
+output_dir: "/opt/ml/model" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # path to where SageMaker will upload the model 
+train_dataset_path: "/opt/ml/input/data/train/" &nbsp; # path to where FSx saves train dataset
+test_dataset_path: "/opt/ml/input/data/test/" &nbsp; &nbsp; # path to where FSx saves test dataset
+# training parameters
+lora_r: 8
+lora_alpha: 16
+lora_dropout: 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+learning_rate: 2e-4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# learning rate scheduler
+num_train_epochs: 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# number of training epochs
+per_device_train_batch_size: 2 &nbsp; &nbsp; &nbsp; &nbsp; # batch size per device during training
+per_device_eval_batch_size: 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# batch size for evaluation
+gradient_accumulation_steps: 2 &nbsp; &nbsp; &nbsp; &nbsp; # number of steps before performing a backward/update pass
+gradient_checkpointing: true &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # use gradient checkpointing
+bf16: true &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # use bfloat16 precision
+tf32: false &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# use tf32 precision
+fsdp: "full_shard auto_wrap offload"
+fsdp_config: 
+&nbsp;&nbsp; &nbsp;backward_prefetch: "backward_pre"
+&nbsp;&nbsp; &nbsp;cpu_ram_efficient_loading: true
+&nbsp;&nbsp; &nbsp;offload_params: true
+&nbsp;&nbsp; &nbsp;forward_prefetch: false
+&nbsp;&nbsp; &nbsp;use_orig_params: true
+merge_weights: true &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# merge weights in the base model
+EOF 
+ 
+Use the following code to use the native PyTorch container image, pre-built for SageMaker: 
+ 
+ image_uri = sagemaker.image_uris.retrieve(
+&nbsp;&nbsp; &nbsp;framework="pytorch",
+&nbsp;&nbsp; &nbsp;region=sagemaker_session.boto_session.region_name,
+&nbsp;&nbsp; &nbsp;version="2.6.0",
+&nbsp;&nbsp; &nbsp;instance_type=instance_type,
+&nbsp;&nbsp; &nbsp;image_scope="training"
+)
+
+image_uri 
+ 
+Define the trainer as follows: 
+ 
+ Define the ModelTrainer
+model_trainer = ModelTrainer(
+&nbsp;&nbsp; &nbsp;training_image=image_uri,
+&nbsp;&nbsp; &nbsp;source_code=source_code,
+&nbsp;&nbsp; &nbsp;base_job_name=job_name,
+&nbsp;&nbsp; &nbsp;compute=compute_configs,
+&nbsp;&nbsp; &nbsp;distributed=Torchrun(),
+&nbsp;&nbsp; &nbsp;stopping_condition=StoppingCondition(
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;max_runtime_in_seconds=7200
+&nbsp;&nbsp; &nbsp;),
+&nbsp;&nbsp; &nbsp;hyperparameters={
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"config": "/opt/ml/input/data/config/args.yaml" # path to TRL config which was uploaded to s3
+&nbsp;&nbsp; &nbsp;},
+&nbsp;&nbsp; &nbsp;output_data_config=OutputDataConfig(
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;s3_output_path=output_path
+&nbsp;&nbsp; &nbsp;),
+) 
+ 
+Run the trainer with the following: 
+ 
+ # starting the train job with our uploaded datasets as input
+model_trainer.train(input_data_config=data,&nbsp;wait=True) 
+ 
+You can follow the steps in the notebook. 
+You can explore the job execution in SageMaker Unified Studio. The training job runs on the SageMaker training cluster by distributing the computation across the four available GPUs on the selected instance type ml.g5.12xlarge. We choose to merge the LoRA adapter with the base model. This decision was made during the training process by setting the merge_weights parameter to True in our train_fn() function. Merging the weights provides a single, cohesive model that incorporates both the base knowledge and the domain-specific adaptations we’ve made through fine-tuning. 
+Track training metrics and model registration using MLflow 
+You created an MLflow server in an earlier step to track experiments and registered models, and provided the server ARN in the notebook. 
+You can log MLflow models and automatically register them with Amazon SageMaker Model Registry using either the Python SDK or directly through the MLflow UI. Use mlflow.register_model() to automatically register a model with SageMaker Model Registry during model training. You can explore the MLflow tracking code in train.py and the notebook. The training code tracks MLflow experiments and registers the model to the MLflow model registry. To learn more, see Automatically register SageMaker AI models with SageMaker Model Registry. 
+To see the logs, complete the following steps: 
+ 
+ Choose Build, then choose Spaces. 
+ Choose Compute in the navigation pane. 
+ On the MLflow Tracking Servers tab, choose Open to open the tracking server. 
+ 
+You can see both the experiments and registered models. 
+ 
+Deploy and test the model using SageMaker AI Inference 
+When deploying a fine-tuned model on AWS, SageMaker AI Inference offers multiple deployment strategies. In this post, we use SageMaker real-time inference. The real-time inference endpoint is designed for having full control over the inference resources. You can use a set of available instances and deployment options for hosting your model. By using the SageMaker built-in container DJL Serving, you can take advantage of the inference script and optimization options available directly in the container. In this post, we deploy the fine-tuned model to a SageMaker endpoint for running inference, which will be used for testing the model. 
+In SageMaker Unified Studio, in JupyterLab, we create the Model object, which is a high-level SageMaker model class for working with multiple container options. The image_uri parameter specifies the container image URI for the model, and model_data points to the Amazon S3 location containing the model artifact (automatically uploaded by the SageMaker training job). We also specify a set of environment variables to configure the specific inference backend option (OPTION_ROLLING_BATCH), the degree of tensor parallelism based on the number of available GPUs (OPTION_TENSOR_PARALLEL_DEGREE), and the maximum allowable length of input sequences (in tokens) for models during inference (OPTION_MAX_MODEL_LEN). 
+ 
+ model = Model(
+&nbsp;&nbsp; &nbsp;image_uri=image_uri,
+&nbsp;&nbsp; &nbsp;model_data=f"s3://{bucket_name}/{job_prefix}/{job_name}/output/model.tar.gz",
+&nbsp;&nbsp; &nbsp;role=get_execution_role(),
+&nbsp;&nbsp; &nbsp;env={
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;'HF_MODEL_ID': "/opt/ml/model",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;'OPTION_TRUST_REMOTE_CODE': 'true',
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;'OPTION_ROLLING_BATCH': "vllm",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;'OPTION_DTYPE': 'bf16',
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;'OPTION_TENSOR_PARALLEL_DEGREE': 'max',
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;'OPTION_MAX_ROLLING_BATCH_SIZE': '1',
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;'OPTION_MODEL_LOADING_TIMEOUT': '3600',
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;'OPTION_MAX_MODEL_LEN': '4096'
+&nbsp;&nbsp; &nbsp;}
+) 
+ 
+After you create the model object, you can deploy it to an endpoint using the deploy method. The initial_instance_count and instance_type parameters specify the number and type of instances to use for the endpoint. We selected the ml.g5.4xlarge instance for the endpoint. The container_startup_health_check_timeout and model_data_download_timeout parameters set the timeout values for the container startup health check and model data download, respectively. 
+ 
+ model_id&nbsp;=&nbsp;"deepseek-ai/DeepSeek-R1-Distill-Llama-8B"
+endpoint_name&nbsp;=&nbsp;f"{model_id.split('/')[-1].replace('.',&nbsp;'-')}-sft-djl"
+predictor = model.deploy(
+&nbsp;&nbsp; &nbsp;initial_instance_count=instance_count,
+&nbsp;&nbsp; &nbsp;instance_type=instance_type,
+&nbsp;&nbsp; &nbsp;container_startup_health_check_timeout=1800,
+&nbsp;&nbsp; &nbsp;model_data_download_timeout=3600
+) 
+ 
+It takes a few minutes to deploy the model before it becomes available for inference and evaluation. You can test the endpoint invocation in JupyterLab, by using the AWS SDK with the boto3 client for sagemaker-runtime, or by using the SageMaker Python SDK and the predictor previously created, by using the predict API. 
+ 
+ base_prompt = f"""&lt;s&gt; [INST] {{question}} [/INST] """
+
+prompt = base_prompt.format(
+&nbsp; &nbsp; question="What statue is in front of the Notre Dame building?"
+)
+
+predictor.predict({
+&nbsp;&nbsp; &nbsp;"inputs": prompt,
+&nbsp;&nbsp; &nbsp;"parameters": {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"max_new_tokens": 300,
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"temperature": 0.2,
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"top_p": 0.9,
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"return_full_text": False,
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"stop": ['&lt;/s&gt;']
+&nbsp;&nbsp; &nbsp;}
+}) 
+ 
+You can also test the model invocation in SageMaker Unified Studio, on the Inference endpoint page and Text inference tab. 
+Troubleshooting 
+You might encounter some of the following errors while running your model training and deployment: 
+ 
+ Training job fails to start – If a training job fails to start, make sure your IAM role AmazonSageMakerDomainExecution has the necessary permissions, verify the instance type is available in your AWS Region, and check your S3 bucket permissions. This role is created when an admin creates the domain, and you can ask the admin to check your IAM access permissions associated with this role. 
+ Out-of-memory errors during training – If you encounter out-of-memory errors during training, try reducing the batch size, use gradient accumulation to simulate larger batches, or consider using a larger instance. 
+ Slow model deployment – For slow model deployment, make sure model artifacts aren’t excessively large, and use appropriate instance types for inference and capacity available for that instance in your Region. 
+ 
+For more troubleshooting tips, refer to Troubleshooting guide. 
+Clean up 
+SageMaker Unified Studio by default shuts down idle resources such as JupyterLab spaces after 1 hour. However, you must delete the S3 bucket and the hosted model endpoint to stop incurring costs. You can delete the real-time endpoints you created using the SageMaker console. For instructions, see Delete Endpoints and Resources. 
+Conclusion 
+This post demonstrated how SageMaker Unified Studio serves as a powerful centralized service for data and AI workflows, showcasing its seamless integration capabilities throughout the fine-tuning process. With SageMaker Unified Studio, data engineers and ML practitioners can efficiently discover and access data through SageMaker Catalog, prepare datasets, fine-tune models, and deploy them—all within a single, unified environment. The service’s direct integration with SageMaker AI and various AWS analytics services streamlines the development process, alleviating the need to switch between multiple tools and environments. The solution highlights the service’s versatility in handling complex ML workflows, from data discovery and preparation to model deployment, while maintaining a cohesive and intuitive user experience. Through features like integrated MLflow tracking, built-in model monitoring, and flexible deployment options, SageMaker Unified Studio demonstrates its capability to support sophisticated AI/ML projects at scale. 
+To learn more about SageMaker Unified Studio, see An integrated experience for all your data and AI with Amazon SageMaker Unified Studio. 
+If this post helps you or inspires you to solve a problem, we would love to hear about it! The code for this solution is available on the GitHub repo for you to use and extend. Contributions are always welcome! 
+ 
+About the authors 
+Mona Mona currently works as a Sr World Wide Gen AI Specialist Solutions Architect at Amazon focusing on Gen AI Solutions. She was a Lead Generative AI specialist in Google Public Sector at Google before joining Amazon. She is a published author of two books – Natural Language Processing with AWS AI Services and Google Cloud Certified Professional Machine Learning Study Guide. She has authored 19 blogs on AI/ML and cloud technology and a co-author on a research paper on CORD19 Neural Search which won an award for Best Research Paper at the prestigious AAAI (Association for the Advancement of Artificial Intelligence) conference. 
+Bruno Pistone is a Senior Generative AI and ML Specialist Solutions Architect for AWS based in Milan. He works with large customers helping them to deeply understand their technical needs and design AI and Machine Learning solutions that make the best use of the AWS Cloud and the Amazon Machine Learning stack. His expertise include: Machine Learning end to end, Machine Learning Industrialization, and Generative AI. He enjoys spending time with his friends and exploring new places, as well as travelling to new destinations. 
+Lauren Mullennex is a Senior GenAI/ML Specialist Solutions Architect at AWS. She has a decade of experience in DevOps, infrastructure, and ML. Her areas of focus include MLOps/LLMOps, generative AI, and computer vision.
 • Optimize RAG in production environments using Amazon SageMaker JumpStart and Amazon OpenSearch Service
   Generative AI has revolutionized customer interactions across industries by offering personalized, intuitive experiences powered by unprecedented access to information. This transformation is further enhanced by Retrieval Augmented Generation (RAG), a technique that allows large language models (LLMs) to reference external knowledge sources beyond their training data. RAG has gained popularity for its ability to improve generative AI applications by incorporating additional information, often preferred by customers over techniques like fine-tuning due to its cost-effectiveness and faster iteration cycles. 
 The RAG approach excels in grounding language generation with external knowledge, producing more factual, coherent, and relevant responses. This capability proves invaluable in applications such as question answering, dialogue systems, and content generation, where accuracy and informative outputs are crucial. For businesses, RAG offers a powerful way to use internal knowledge by connecting company documentation to a generative AI model. When an employee asks a question, the RAG system retrieves relevant information from the company’s internal documents and uses this context to generate an accurate, company-specific response. This approach enhances the understanding and usage of internal company documents and reports. By extracting relevant context from corporate knowledge bases, RAG models facilitate tasks like summarization, information extraction, and complex question answering on domain-specific materials, enabling employees to quickly access vital insights from vast internal resources. This integration of AI with proprietary information can significantly improve efficiency, decision-making, and knowledge sharing across the organization. 
