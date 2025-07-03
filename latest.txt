@@ -6,16 +6,16 @@
 ⸻
 
 🧾 Weather
-• Current Conditions: Mostly Cloudy, 21.5°C
+• Current Conditions: Partly Cloudy, 21.5°C
   Temperature: 21.5&deg;C Pressure / Tendency: 101.1 kPa
-• Thursday: Chance of showers. High 24. POP 30%
-  30 percent chance of showers this afternoon with risk of thunderstorm . Wind northwest 20 km/
+• Thursday: Chance of showers. High 24. POP 60%
+  A mix of sun and cloud with 60 percent chance of showers with risk of thunderstorm
 • Thursday night: Partly cloudy. Low 10.
   Wind northwest 20 km/h gusting to 40 becoming light this evening . Clearing
 • Friday: Clearing. High 26.
   A mix of sun and cloud is expected to cover the morning . Clearing near noon
 • Friday night: Cloudy periods. Low 13.
-  Forecast issued 11:00 AM EDT Thursday 3 July 2025 . Cloudy periods.
+  Forecast issued 11:48 AM EDT Thursday 3 July 2025 . Cloudy periods.
 • Saturday: Chance of showers. High 31. POP 40%
   A mix of sun and cloud with 40 percent chance of showers . High 31. A
 • Saturday night: Chance of showers. Low 20. POP 40%
@@ -27,11 +27,11 @@
 • Monday: Chance of showers. High 24. POP 40%
   Cloudy with 40 percent chance of showers . High 24. High 24 . Cloudy
 • Monday night: Cloudy periods. Low 13.
-  Forecast issued 11:00 AM EDT Thursday 3 July 2025 . Cloudy periods.
+  Forecast issued 11:48 AM EDT Thursday 3 July 2025 . Cloudy periods.
 • Tuesday: A mix of sun and cloud. High 26.
-  A mix of sun and cloud is forecast for July 3, 2025 . High 26.
+  A mix of sun and cloud is forecast for Thursday, July 3, 2025 . High
 • Tuesday night: Cloudy periods. Low 13.
-  Forecast issued 11:00 AM EDT Thursday 3 July 2025 . Cloudy periods.
+  Forecast issued 11:48 AM EDT Thursday 3 July 2025 . Cloudy periods.
 • Wednesday: Chance of showers. High 26. POP 30%
   A mix of sun and cloud with 30 percent chance of showers . High 26. A
 
@@ -39,6 +39,10 @@
 No updates.
 
 🇺🇸 U.S. Top Stories
+• How the Irish band Kneecap went from rising hip-hop group to global lightning rod
+  Kneecap, three young men from Northern Ireland who rap in Irish, has
+• Ghost guns may make a comeback, despite a Supreme Court ruling
+  The Supreme Court upheld federal restrictions on the kit guns in March, but gun rights groups
 • The U.S. labor market remains solid, with employers adding 147,000 jobs last month
   U.S. employers added 147,000 jobs in June as the unemployment rate dipped
 • GOP megabill expected to pass by July 4. And, what's next after Sean Combs' verdict
@@ -55,12 +59,10 @@ No updates.
   In 2017, when President Trump tried to repeal Obamacare and roll back Medicaid coverage, Republican
 • Are you a glucose 'dipper'? Here's how to fix those blood sugar highs and lows
   After a meal, some people experience high spikes in blood sugar followed by crashing lows .
-• What happens to Sean Combs now?
-  The hip-hop mogul's legal saga has reached an uneasy outcome . Despite a tainted
-• To kick off celebrations of America's founding, Trump travels to its heartland
-  President Trump will give a speech in Iowa Thursday night as the official start to a year
 
 🧠 Artificial Intelligence & Digital Strategy
+• Microsoft Windows Firewall complains about Microsoft code
+  A mysterious piece of "under development" code is playing havoc with the Windows Firewall
 • Young Consulting finds even more folks affected in breach mess – now over 1 million
   Young Consulting's cybersecurity woes continue after the number of affected individuals from last year's suspected
 • Tariffs and trade turmoil driving up cost and build times for datacenters
@@ -159,8 +161,6 @@ No updates.
   Study finds emotional support from chatbots is more readily accepted if participants don't know it
 • Terrible tales of opsec oversights: How cybercrooks get themselves caught
   For cybercriminals, taking too many shortcuts when it comes to opsec delivers a
-• Critics blast Microsoft's limited reprieve for those stuck on Windows 10
-  Microsoft's latest attempts to ease transition to Windows 11 for Windows 10 users "don't go far
 
 🏥 Public Health & Science
 • Co-designing a public health data analytics platform
@@ -1146,6 +1146,41 @@ This story has been edited to add comments from Tyler Chou.
   What we tried, what didn't work and how a combination of approaches helped us build
 
 🔒 Cybersecurity & Privacy
+• Big Tech’s Mixed Response to U.S. Treasury Sanctions
+  In May 2025, the U.S. government sanctioned a Chinese national for operating a cloud provider linked to the majority of virtual currency investment scam websites reported to the FBI. But a new report finds the accused continues to operate a slew of established accounts at American tech companies &#8212; including Facebook, Github, PayPal and Twitter/X.
+On May 29, the U.S. Department of the Treasury announced economic sanctions against Funnull Technology Inc., a Philippines-based company alleged to provide infrastructure for hundreds of thousands of websites involved in virtual currency investment scams known as &#8220;pig butchering.&#8221; In January 2025, KrebsOnSecurity detailed how Funnull was designed as a content delivery network that catered to foreign cybercriminals seeking to route their traffic through U.S.-based cloud providers.
+
+The Treasury also sanctioned Funnull&#8217;s alleged operator, a 40-year-old Chinese national named Liu &#8220;Steve&#8221; Lizhi. The government says Funnull directly facilitated financial schemes resulting in more than $200 million in financial losses by Americans, and that the company&#8217;s operations were linked to the majority of pig butchering scams reported to the FBI.
+It is generally illegal for U.S. companies or individuals to transact with people sanctioned by the Treasury. However, as Mr. Lizhi&#8217;s case makes clear, just because someone is sanctioned doesn&#8217;t necessarily mean big tech companies are going to suspend their online accounts.
+The government says Lizhi was born November 13, 1984, and used the nicknames &#8220;XXL4&#8221; and &#8220;Nice Lizhi.&#8221; Nevertheless, Steve Liu&#8217;s 17-year-old account on LinkedIn (in the name &#8220;Liulizhi&#8221;) had hundreds of followers (Lizhi&#8217;s LinkedIn profile helpfully confirms his birthday) until quite recently: The account was deleted this morning, just hours after KrebsOnSecurity sought comment from LinkedIn.
+Mr. Lizhi&#8217;s LinkedIn account was suspended sometime in the last 24 hours, after KrebsOnSecurity sought comment from LinkedIn.
+In an emailed response, a LinkedIn spokesperson said the company&#8217;s &#8220;Prohibited countries policy&#8221; states that LinkedIn &#8220;does not sell, license, support or otherwise make available its Premium accounts or other paid products and services to individuals and companies sanctioned by the U.S. government.&#8221; LinkedIn declined to say whether the profile in question was a premium or free account.
+Mr. Lizhi also maintains a working PayPal account under the name Liu Lizhi and username &#8220;@nicelizhi,&#8221; another nickname listed in the Treasury sanctions. PayPal did not respond to a request for comment. A 15-year-old Twitter/X account named &#8220;Lizhi&#8221; that links to Mr. Lizhi&#8217;s personal domain remains active, although it has few followers and hasn&#8217;t posted in years.
+These accounts and many others were flagged by the security firm Silent Push, which has been tracking Funnull&#8217;s operations for the past year and calling out U.S. cloud providers like Amazon and Microsoft for failing to more quickly sever ties with the company.
+Liu Lizhi&#8217;s PayPal account.
+In a report released today, Silent Push found Lizhi still operates numerous Facebook accounts and groups, including a private Facebook account under the name Liu Lizhi. Another active Facebook account clearly connected to Lizhi is a tourism page for Ganzhou, China called &#8220;EnjoyGanzhou&#8221; that was named in the Treasury Department sanctions.
+&#8220;This guy is the technical administrator for the infrastructure that is hosting a majority of scams targeting people in the United States, and hundreds of millions have been lost based on the websites he&#8217;s been hosting,&#8221; said Zach Edwards, senior threat researcher at Silent Push. &#8220;It&#8217;s crazy that the vast majority of big tech companies haven&#8217;t done anything to cut ties with this guy.&#8221;
+The FBI says it received nearly 150,000 complaints last year involving digital assets and $9.3 billion in losses &#8212; a 66 percent increase from the previous year. Investment scams were the top crypto-related crimes reported, with $5.8 billion in losses.
+In a statement, a Meta spokesperson said the company continuously takes steps to meet its legal obligations, but that sanctions laws are complex and varied.
+&#8220;Sanctions are often targeted in nature and don&#8217;t always prohibit people from having a presence on our platform,&#8221; the statement reads. &#8220;Whether specific activity is restricted by sanctions or Meta&#8217;s Terms and Policies depends on the specific facts.&#8221;
+Attempts to reach Mr. Lizhi via his primary email addresses at Hotmail and Gmail bounced as undeliverable. Likewise, his 14-year-old YouTube channel appears to have been taken down recently.
+However, anyone interested in viewing or using Mr. Lizhi&#8217;s 146 computer code repositories will have no problem finding active GitHub accounts for him, including one registered under the NiceLizhi and XXL4 nicknames mentioned in the Treasury sanctions.
+One of multiple active GitHub profiles used by Liu &#8220;Steve&#8221; Lizhi, who uses the nickname XXL4 (a moniker listed in the Treasury sanctions for Mr. Lizhi).
+Mr. Lizhi also operates a GitHub page for an open source e-commerce platform called NexaMerchant, which advertises itself as a payment gateway working with numerous American financial institutions. Interestingly, this profile&#8217;s &#8220;followers&#8221; page shows several other accounts that appear to be Mr. Lizhi&#8217;s. All of the account&#8217;s followers are tagged as &#8220;suspended,&#8221; even though that suspended message does not display when one visits those individual profiles.
+In response to questions, GitHub said it has a process in place to identify when users and customers are Specially Designated Nationals or other denied or blocked parties, but that it locks those accounts instead of removing them. According to its policy, GitHub takes care that users and customers aren&#8217;t impacted beyond what is required by law.
+All of the follower accounts for the XXL4 GitHub account appear to be Mr. Lizhi&#8217;s, and have been suspended by GitHub, but their code is still accessible.
+&#8220;This includes keeping public repositories, including those for open source projects, available and accessible to support personal communications involving developers in sanctioned regions,&#8221; the policy states. &#8220;This also means GitHub will advocate for developers in sanctioned regions to enjoy greater access to the platform and full access to the global open source community.&#8221;
+Edwards said it&#8217;s great that GitHub has a process for handling sanctioned accounts, but that the process doesn&#8217;t seem to communicate risk in a transparent way, noting that the only indicator on the locked accounts is the message, &#8220;This repository has been archived by the owner. It is not read-only.&#8221;
+&#8220;It&#8217;s an odd message that doesn&#8217;t communicate, &#8216;This is a sanctioned entity, don&#8217;t fork this code or use it in a production environment&#8217;,&#8221; Edwards said.
+Mark Rasch is a former federal cybercrime prosecutor who now serves as counsel for the New York City based security consulting firm Unit 221B. Rasch said when Treasury&#8217;s Office of Foreign Assets Control (OFAC) sanctions a person or entity, it then becomes illegal for businesses or organizations to transact with the sanctioned party.
+Rasch said financial institutions have very mature systems for severing accounts tied to people who become subject to OFAC sanctions, but that tech companies may be far less proactive &#8212; particularly with free accounts.
+&#8220;Banks have established ways of checking [U.S. government sanctions lists] for sanctioned entities, but tech companies don&#8217;t necessarily do a good job with that, especially for services that you can just click and sign up for,&#8221; Rasch said. &#8220;It&#8217;s potentially a risk and liability for the tech companies involved, but only to the extent OFAC is willing to enforce it.&#8221;
+Liu Lizhi operates numerous active Facebook accounts and groups, including this one for an entity specified in the OFAC sanctions: The &#8220;Enjoy Ganzhou&#8221; tourism page for Ganzhou, China. Image: Silent Push.
+In July 2024, Funnull purchased the domain polyfill[.]io, the longtime home of a legitimate open source project that allowed websites to ensure that devices using legacy browsers could still render content in newer formats. After the Polyfill domain changed hands, at least 384,000 websites were caught in a supply-chain attack that redirected visitors to malicious sites. According to the Treasury, Funnull used the code to redirect people to scam websites and online gambling sites, some of which were linked to Chinese criminal money laundering operations.
+The U.S. government says Funnull provides domain names for websites on its purchased IP addresses, using domain generation algorithms (DGAs) — programs that generate large numbers of similar but unique names for websites — and that it sells web design templates to cybercriminals.
+&#8220;These services not only make it easier for cybercriminals to impersonate trusted brands when creating scam websites, but also allow them to quickly change to different domain names and IP addresses when legitimate providers attempt to take the websites down,&#8221; reads a Treasury statement.
+Meanwhile, Funnull appears to be morphing nearly all aspects of its business in the wake of the sanctions, Edwards said.
+&#8220;Whereas before they might have used 60 DGA domains to hide and bounce their traffic, we&#8217;re seeing far more now,&#8221; he said. &#8220;They&#8217;re trying to make their infrastructure harder to track and more complicated, so for now they&#8217;re not going away but more just changing what they&#8217;re doing. And a lot more organizations should be holding their feet to the fire.&#8221;
 • Senator Chides FBI for Weak Advice on Mobile Security
   Agents with the Federal Bureau of Investigation (FBI) briefed Capitol Hill staff recently on hardening the security of their mobile devices, after a contacts list stolen from the personal phone of the White House Chief of Staff Susie Wiles was reportedly used to fuel a series of text messages and phone calls impersonating her to U.S. lawmakers. But in a letter this week to the FBI, one of the Senate&#8217;s most tech-savvy lawmakers says the feds aren&#8217;t doing enough to recommend more appropriate security protections that are already built into most consumer mobile devices.
 A screenshot of the first page from Sen. Wyden&#8217;s letter to FBI Director Kash Patel.
