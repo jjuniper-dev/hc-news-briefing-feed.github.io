@@ -7,7 +7,7 @@ on:
     # Daily news briefing at 05:50 AM EDT (09:50 UTC)
     - cron: '50 9 * * *'
     # RSS feed tests at 6, 10, 14, 18, 22 EDT (10,14,18,22,02 UTC)
-    - cron: '0 10,14,18,22,2 * * *'
+    - cron: '0 2,10,14,18,22 * * *'
   workflow_dispatch:
 
 jobs:
