@@ -1,1 +1,33 @@
+name: Fetch AI & Geomatics Case Studies
 
+on:
+  schedule:
+    # Runs at 9:00 AM America/Toronto on Mon, Wed, Fri
+    - cron: '0 13 * * 1,3,5'
+
+jobs:
+  generate-and-email:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Call OpenAI to get summaries
+        id: chatgpt
+        uses: openai/openai-actions@v1
+        with:
+          model: gpt-4o-mini
+          prompt: |
+            Search the public pages of WIRED Magazine, IEEE Spectrum, Nature, The Lancet, Geospatial World, and TED Talks for AI-focused content published in the last three years; identify the three most significant results based on relevance to the Geomatics & AI project and to Enterprise Architecture; provide a 200-word summary of each (for talks, summarize the talk’s AI approach and geospatial/EA implications) highlighting the key AI technique, its spatial-analysis use case, and explicit EA relevance; format the summaries so they’re ready to send in a Teams chat first thing in the morning.
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+      - name: Send email to Evernote
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: Fetch AI & Geomatics Case Studies
+          to: pjjuniper.27b0e2f@m.evernote.com
+          from: GitHub Actions <${{ secrets.EMAIL_USERNAME }}>
+          body: ${{ steps.chatgpt.outputs.completion }}
