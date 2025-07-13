@@ -1,17 +1,17 @@
-✅ Morning News Briefing – July 12, 2025 10:52
+✅ Morning News Briefing – July 13, 2025 10:53
 
-📅 Date: 2025-07-12 10:52
+📅 Date: 2025-07-13 10:53
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• No watches or warnings in effect, Pembroke
-  No watches or warnings in effect. No warnings or watches or watches in effect . Watch or warnings are no longer in effect in the U.S. No watches, warnings are in effect for the rest of the day . No watches and warnings are still in effect, but no watches are in place for the day's events . The weather is not expected to be affected by the weather .
-• Current Conditions:  16.4°C
-  Temperature: 16.4&deg;C Pressure / Tendency: 101.6 kPa falling Humidity: 98 % Humidity : 98 % Dewpoint: 16 .1&deg:C Wind: SW calm km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Saturday 12 July 2025 . Weather: Pembrook,
-• Saturday: Chance of showers. High 30. POP 30%
-  Fog patches dissipating early this morning . Risk of a thunderstorm late this afternoon . Mainly cloudy with 30 percent chance of showers . High 30. Humidex 38. UV index 9 or very high. UV-vastating.com Weather Forecast issued 5:00 AM EDT Saturday 12 July 2025 . Weather forecast: Sunday morning to Monday afternoon . Sunday afternoon to Monday morning
+• Current Conditions:  21.6°C
+  Temperature: 21.6&deg;C Pressure / Tendency: 101.2 kPa rising Humidity: 95 % Humidex: 30 HumideX: 30 Dewpoint: 20.8&deg:C Wind: SSE 4 km/h Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Sunday 13 July 2025 Temperature:
+• Sunday: Chance of showers. High 29. POP 70%
+  Mainly cloudy. 30 percent chance of showers changing to 70 percent . Risk of a thunderstorm. High 29. Humidex 36. UV index 8 or very high. Chance of rain in the morning. Risk of thunderstorm in the afternoon. Showers in the evening. Showery cloudy. Shakery. Rainy. Cloudy. Wet. Dry. Dry
+• Sunday night: Chance of showers. Low 16. POP 40%
+  Partly cloudy with 40 percent chance of showers early this evening . Risk of a thunderstorm early this . evening . Otherwise clear . Low 16.50/40/50/80/100/100 . Forecast issued 5:00 AM EDT Sunday 13 July 2025 . Weather forecast: Showery, thundery, rainy, windy, sunny, breezy, cloudy .
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• In the Texas flood zone, volunteers help reunite lost pets with their owners
-  Hundreds of pets have been reported missing after the devastating floods in central Texas . Volunteers have been combing through debris to help reunite them with their owners . Volunteers are searching for pets in the debris to reunite owners with their pets . The floods have devastated central Texas, leaving hundreds of thousands of pets missing in need of help in the wake of the devastating flooding in the state of Texas
-• Trump praises disaster response in Texas while FEMA's future is murky
-  The president and first lady visited Kerrville to meet local officials and families of the victims of the recent flooding . Trump promised federal support, but his team emphasized the state's role in helping the flood victims . The first lady and the first lady also met with families of those who have lost their homes in the flooding . The president promised federal help, but emphasized that the state had a role
-• Here's a list of Trump's tariff letters so far and the rates they threaten
-  U.S. trade deals have been announced and threatened to be imposed in letters to global leaders . Here's a look at the deals the president has announced and the rates he's so far threatened to impose in letters . The president's letters to world leaders are expected to be sent in the next few days to discuss the latest developments in the world's trade policy . In the U.
-• Where to find information about flood risk to your home
-  Many people in the U.S. receive little or no information about flood risk when they move into a new home or apartment . Here's how you can learn about your flood risk and how to get more information about your home's flood risk . Learn more about flood risks in the United States and learn more about how to deal with flood risk in your new home, apartment or home .
-• 'Helping every dang soul': Beloved camp director was among those lost in Texas flooding
-  Jane Ragsdale ran the Heart O' the Hills camp for girls in Kerr County, Texas . The camp was between sessions when the deluge hit . The only person killed there was the only person who died there was Ragsdal, who ran the camp . The deluge killed only one of the camp's residents, a woman who was killed in the storm . The Heart O
+• Folklife stars: Maya artist, Bolivian rappers, Dolly Parton's guitar restorer
+  This year's Smithsonian Folklife Festival was held in Washington, DC . The theme: How youth keep cultural traditions alive . The event is based on the theme of preserving cultural traditions in the U.S. The festival was held at the National Museum of American Folklife in Washington DC, D.C. and Smithsonian Museum of Folklife at 8 p.m. ET on Monday .
+• 59 Palestinians in Gaza are killed by Israeli airstrikes or shot dead while seeking aid
+  At least 31 Palestinians were fatally shot on their way to an aid distribution site in the Gaza Strip on Saturday . Israeli airstrikes killed at least 28 Palestinians, including 28 Israeli airstrikes . At least 28 Israelis were also killed in Israeli airstrikes on Saturday, killing at least 30 Palestinians, according to reports . Israel has been accused of killing Palestinians in Gaza since the start of the Israeli-Gaza conflict .
+• 'Panicking': Why recent college grads are struggling to find jobs
+  Recent college graduates are facing one of the most challenging job markets in years . The overall unemployment rate remains low . Recent college grads face a challenging job market even as the overall job market is low . The job market remains low despite the low unemployment rate in the U.S., according to a recent study by the Federal Bureau of Employment and Human Rights Commission . The survey is based on
+• The biggest piece of Mars on Earth is going up for auction in New York
+  Sotheby's in New York will be auctioning the largest piece of Mars ever found on Earth . The auction will take place on November 11 . The largest part of Mars was found on the surface of the planet Mars and is expected to be auctioned at Sothebys' New York auction house on November 14 . The Mars-damaged piece is believed to be one of the
+• Camp Mystic asked to remove buildings from government flood maps despite risk
+  The data highlights critical risks in other areas along the Guadalupe River in Kerr County, and nationwide as many Americans have a flood risk they are not aware of . The data also highlights the dangers of flooding in other parts of the country . Many Americans have flood risks they are unaware of, including many who do not know they have a risk they do not need to be aware of,
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
+• The price of software freedom is eternal politics
+  The new fork of the X.org X11 server is conservative… and we don't mean just technologically conservative . Many don't realize or forget, but the FOSS world has ideological wings, too . FOSS is not just technology, it's ideology, but it's also ideological, too. The X11 fork is the latest in a long line of conservative FOSS forks .
+• If MCP is the USB-C of AI agents, A2A is their Ethernet
+  We have protocols and standards for just about everything . It's generally helpful when we can all agree on how technologies should talk to one another . So, it was only a matter of time before the first protocols governing agentic AI started cropping up .……… What good is an agent if it's unable to speak? We have no idea what agents should be able to talk to
 • Looks like 1,300 Indeed and Glassdoor staffers will need their former employer's websites
   Recruit Holdings, the Japanese job site conglomerate that owns recruitment job site Indeed and employer reviewer Glassdoor, has eliminated about 1,300 positions . No reason given for the 6% cull, but CEO has previously talked up AI taking jobs . The CEO has talked up using AI to take jobs, but there is no reason for the cull . The company also owns Indeed and Glassdoor .
 • AI coding tools make developers slower but they think they're faster, study finds
   Artificial intelligence coding tools are supposed to make software development faster . But a randomized, controlled trial found the opposite . Predicted a 24% boost, but clocked a 19% drag on the software development process . The tools were supposed to boost software development by 24%, but were only 19% faster than predicted by the trial . The trial was a controlled, randomized study of software development
 • Hegseth signs flying memo to expand military use of cheap drones in oddball video
   US Secretary of Defense Pete Hegseth reached up to grab a memorandum hung from a third drone hovering above his head . An announcement so weird it could only come from the Trump administration video . The announcement was made by a pair of buzzing drones that threatened to drown out his voice . The video was part of a video from the US Defense Secretary's Office of the U.S.
-• Tech to protect images against AI scrapers can be beaten, researchers show
-  Computer scientists say they've devised a way to remove image-based protection mechanisms developed to protect artists from unwanted use of their work for AI training . They say they want to remove the protection mechanisms from being used by artists for training AI systems . AI training can be used to help artists train AI systems with their art for the best possible use of AI training, they say . AI-trained
-• ICANN fumes as AFRINIC offers no explanation for annulled election
-  ICANN warns that it may need to step in . Cloud Innovation wants to wind up AFRINIC and start again . ICANN has not explained why receiver chose to annul recent election . A long-time litigant Cloud Innovation has called for the body to be wound up . The receiver of the African Network Information Center (AFRINIC) annulned its recent
 
 🏥 Public Health
 No updates.
 
 🔬 Science
-• Premenstrual disorders and risk of cardiovascular diseases
+• Understanding who volunteers globally through an examination of demographic variation in volunteering across 22 countries
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Metabolic syndrome in the association of BMI and trajectory of depressive symptoms in middle-aged and elderly population: a cohort study from China
+• Factors associated with the acceptance of telemedicine services in Dusit model prototype area
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Childhood predictors of social support and intimate friends in a Cross-National analysis of the global flourishing study
+• Diagnosing pathologic myopia by identifying morphologic patterns using ultra widefield images with deep learning
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Trends in net survival from cervical cancer in a Brazilian state with medium Human Development Index
+• Optimizing AI solutions for population health in primary care
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Antibiotic prescribing practices, perceived constraints, and views on antimicrobial resistance among general and orthopedic surgeons in central India
+• Healthcare professionals’ perspective on collaboration with traditional medical practitioners in HIV/AIDS and tuberculosis care in rural Ethiopia
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -2470,656 +2470,6 @@ Until next time.&nbsp;
 AI Revolution in Medicine podcast series
 
 Opens in a new tabThe post How AI will accelerate biomedical research and discovery appeared first on Microsoft Research.
-• AI Testing and Evaluation: Learnings from pharmaceuticals and medical devices
-  Generative AI presents a unique challenge and opportunity to reexamine governance practices for the responsible development, deployment, and use of AI. To advance thinking in this space, Microsoft has tapped into the experience and knowledge of experts across domains—from genome editing to cybersecurity—to investigate the role of testing and evaluation as a governance tool. AI Testing and Evaluation: Learnings from Science and Industry, hosted by Microsoft Research’s Kathleen Sullivan, explores what the technology industry and policymakers can learn from these fields and how that might help shape the course of AI development.
-
-
-
-In this episode, Daniel Carpenter, the Allie S. Freed Professor of Government and chair of the department of government at Harvard University, explains how the US Food and Drug Administration’s rigorous, multi-phase drug approval process serves as a gatekeeper that builds public trust and scientific credibility, while Timo Minssen, professor of law and founding director of the Center for Advanced Studies in Bioscience Innovation Law at the University of Copenhagen, explores the evolving regulatory landscape of medical devices with a focus on the challenges of balancing innovation with public safety. Later, Microsoft’s Chad Atalla, an applied scientist in responsible AI, discusses the sociotechnical nature of AI models and systems, their team’s work building an evaluation framework inspired by social science, and where AI researchers, developers, and policymakers might find inspiration from the approach to governance and testing in pharmaceuticals and medical devices.
-
-
-
-
-
-
-
-Learn more:
-
-
-
-Learning from other Domains to Advance AI Evaluation and Testing: The History and Evolution of Testing in Pharmaceutical RegulationCase study | January 2025&nbsp;
-
-
-
-Learning from other Domains to Advance AI Evaluation and Testing: Medical Device Testing: Regulatory Requirements, Evolution and Lessons for AI GovernanceCase study | January 2025&nbsp;
-
-
-
-Learning from other domains to advance AI evaluation and testing&nbsp;Microsoft Research Blog | June 2025  &nbsp;
-
-
-
-Evaluating Generative AI Systems is a Social Science Measurement Challenge&nbsp;Publication&nbsp;|&nbsp;November 2024 &nbsp;
-
-
-
-STAC: Sociotechnical Alignment Center 
-
-
-
-Responsible AI: Ethical policies and practices | Microsoft AI
-
-
-
-AI and Microsoft Research 
-
-
-
-
-
-
-
-
-	
-		
-			Subscribe to the Microsoft Research Podcast:		
-		
-							
-					
-						  
-						Apple Podcasts
-					
-				
-			
-							
-					
-						
-						Email
-					
-				
-			
-							
-					
-						
-						Android
-					
-				
-			
-							
-					
-						
-						Spotify
-					
-				
-			
-							
-					
-						
-						RSS Feed
-					
-				
-					
-	
-
-
-
-
-	
-		
-			
-				
-					
-
-Transcript
-
-
-
-[MUSIC]
-
-
-
-KATHLEEN SULLIVAN: Welcome to AI Testing and Evaluation: Learnings from Science and Industry. I&#8217;m your host, Kathleen Sullivan.
-
-
-
-As generative AI continues to advance, Microsoft has gathered a range of experts—from genome editing to cybersecurity—to share how their fields approach evaluation and risk assessment. Our goal is to learn from their successes and their stumbles to move the science and practice of AI testing forward. In this series, we&#8217;ll explore how these insights might help guide the future of AI development, deployment, and responsible use.
-
-
-
-[MUSIC ENDS]
-
-
-
-SULLIVAN: Today, I&#8217;m excited to welcome Dan Carpenter and Timo Minssen to the podcast to explore testing and risk assessment in the areas of pharmaceuticals and medical devices, respectively.
-
-
-
-Dan Carpenter is chair of the Department of Government at Harvard University. His research spans the sphere of social and political science, from petitioning in democratic society to regulation and government organizations. His recent work includes the FDA Project, which examines pharmaceutical regulation in the United States.
-
-
-
-Timo is a professor of law at the University of Copenhagen, where he is also director of the Center for Advanced Studies in Bioscience Innovation Law. He specializes in legal aspects of biomedical innovation, including intellectual property law and regulatory law. He&#8217;s exercised his expertise as an advisor to such organizations as the World Health Organization and the European Commission.
-
-
-
-And after our conversations, we&#8217;ll talk to Microsoft&#8217;s Chad Atalla, an applied scientist in responsible AI, about how we should think about these insights in the context of AI.
-
-
-
-Daniel, it&#8217;s a pleasure to welcome you to the podcast. I&#8217;m just so appreciative of you being here. Thanks for joining us today.
-
-
-
-				
-				
-					
-
-
-
-DANIEL CARPENTER:&nbsp;Thanks for having me.&nbsp;
-
-
-
-SULLIVAN:&nbsp;Dan, before we dissect policy,&nbsp;let&#8217;s&nbsp;rewind the tape to your&nbsp;origin&nbsp;story. Can you take us to the moment that you first became fascinated with regulators rather than, say, politicians? Was there a spark that pulled you toward the FDA story?&nbsp;
-
-
-
-CARPENTER:&nbsp;At one point during graduate school, I was studying a combination of American politics and political theory, and I did a summer interning at the Department of Housing and Urban Development. And I began to think, why don&#8217;t people study these administrators more and the rules they make, the, you know,&nbsp;inefficiencies, the efficiencies?&nbsp;Really more&nbsp;from,&nbsp;kind of,&nbsp;a descriptive standpoint, less from a normative standpoint.&nbsp;And I was reading a lot that summer about the Food and Drug Administration and some of the decisions it was making on AIDS drugs. That was&nbsp;a,&nbsp;sort of,&nbsp;a major, &#8230;
-
-
-
-SULLIVAN: Right.&nbsp;
-
-
-
-CARPENTER: &#8230; sort of, you know,&nbsp;moment in the news, in the global news as well as the national news during, I would say, what?&nbsp;The late&nbsp;’80s, early&nbsp;’90s? And&nbsp;so&nbsp;I began to&nbsp;look&nbsp;into&nbsp;that.
-
-
-
-SULLIVAN:&nbsp;So now that we know what pulled you in,&nbsp;let’s&nbsp;zoom out for our listeners. Give us&nbsp;the&nbsp;whirlwind tour. I think most of us know pharma involves years of trials, but&nbsp;what’s&nbsp;the part we&nbsp;don’t&nbsp;know?
-
-
-
-CARPENTER:&nbsp;So&nbsp;I think when most businesses develop a product, they all go through some phases of research and development and testing. And I think&nbsp;what&#8217;s&nbsp;different about the FDA is,&nbsp;sort of,&nbsp;two-&nbsp;or three-fold.
-
-
-
-First, a lot of those tests are much more stringently specified and regulated by the government, and second, one of the reasons for that is that the FDA imposes not simply safety requirements upon drugs&nbsp;in particular but&nbsp;also efficacy requirements. The FDA wants you to prove not simply that&nbsp;it&#8217;s&nbsp;safe and non-toxic&nbsp;but also that&nbsp;it&#8217;s&nbsp;effective.&nbsp;And the final thing,&nbsp;I think, that&nbsp;makes the FDA different is that it stands as what I would call the&nbsp;“veto player”&nbsp;over R&amp;D [research and development] to the marketplace.&nbsp;The FDA&nbsp;basically has,&nbsp;sort of,&nbsp;this control over entry&nbsp;to&nbsp;the marketplace.
-
-
-
-And&nbsp;so&nbsp;what that involves is usually first, a set of human trials where people who have no disease take it. And&nbsp;you&#8217;re&nbsp;only looking&nbsp;for&nbsp;toxicity generally. Then&nbsp;there&#8217;s&nbsp;a set of Phase 2 trials, where they look more at safety and a little bit at efficacy, and&nbsp;you&#8217;re&nbsp;now examining people who have the disease that the drug claims to treat. And&nbsp;you&#8217;re&nbsp;also basically comparing people who get the drug,&nbsp;often&nbsp;with those who do not.
-
-
-
-And then finally, Phase 3 involves a much more direct and large-scale attack, if you will, or assessment of efficacy, and&nbsp;that&#8217;s&nbsp;where you get the sort of large randomized clinical trials that are&nbsp;very expensive&nbsp;for pharmaceutical companies, biomedical companies to launch, to execute, to analyze. And those are often the sort of core evidence base for the decisions that the FDA makes about&nbsp;whether or not&nbsp;to approve a new drug for marketing in the United States.
-
-
-
-SULLIVAN:&nbsp;Are there&nbsp;differences in how that process has, you know, changed through other countries and&nbsp;maybe just&nbsp;how&nbsp;that&#8217;s&nbsp;evolved as&nbsp;you&#8217;ve&nbsp;seen it play out?&nbsp;
-
-
-
-CARPENTER:&nbsp;Yeah, for a long time, I would say that the United States had&nbsp;probably the&nbsp;most&nbsp;stringent regime&nbsp;of regulation for biopharmaceutical products until,&nbsp;I would say,&nbsp;about the 1990s and early 2000s. It used to be the case that a number of other countries, especially in Europe but around the world, basically waited for the FDA to mandate tests on a drug and only after the drug was approved in the United States would they deem it approvable and marketable in their own countries. And then after the formation of the European Union and the creation of the European Medicines Agency, gradually the European Medicines Agency began to get a bit more stringent.&nbsp;&nbsp;
-
-
-
-But, you know,&nbsp;over the long run,&nbsp;there&#8217;s&nbsp;been a&nbsp;lot of,&nbsp;sort&nbsp;of,&nbsp;heterogeneity, a lot of variation over time and space, in the way that the FDA has approached these problems. And&nbsp;I&#8217;d&nbsp;say in the last 20 years, it&#8217;s begun to partially deregulate, namely,&nbsp;you know,&nbsp;trying to find all sorts of mechanisms or pathways for really innovative&nbsp;drugs for deadly diseases without a lot of treatments to&nbsp;basically get&nbsp;through the process at lower cost.&nbsp;For many people,&nbsp;that has not been sufficient.&nbsp;They&#8217;re&nbsp;concerned about the cost of the system.&nbsp;Of course, then the agency also gets criticized by those&nbsp;who believe&nbsp;it&#8217;s&nbsp;too lax. It is&nbsp;potentially letting&nbsp;ineffective and unsafe therapies on the market.
-
-
-
-SULLIVAN:&nbsp;In your view, when does the structured model genuinely safeguard patients and where do you think it&nbsp;maybe slows&nbsp;or&nbsp;limits&nbsp;innovation?
-
-
-
-CARPENTER:&nbsp;So&nbsp;I think&nbsp;the worry&nbsp;is that if you approach pharmaceutical approval as a world where only things can go wrong,&nbsp;then&nbsp;you&#8217;re&nbsp;really at a risk of limiting innovation. And even if you end up letting a lot of things through, if by your regulations you end up basically slowing down the development process or making it very, very costly, then there&#8217;s just a whole bunch of drugs that either come to market too slowly or they come to market not at all because&nbsp;they just aren&#8217;t worth the kind of cost-benefit or, sort of, profit analysis of the firm.&nbsp;You know, so&nbsp;that&#8217;s&nbsp;been a concern.&nbsp;And I think&nbsp;it&#8217;s&nbsp;been one of the reasons that the Food and Drug Administration as well as other world regulators have begun to&nbsp;basically try&nbsp;to smooth the process and accelerate the process at the margins.
-
-
-
-The other thing is that&nbsp;they&#8217;ve&nbsp;started to&nbsp;basically make&nbsp;approvals&nbsp;on the basis of&nbsp;what are called&nbsp;surrogate endpoints. So the idea is that a cancer drug, we really want to know whether that drug saves lives, but if we wait to see whose lives are saved or prolonged by that drug, we might miss the opportunity to make judgments on the basis of, well, are we detecting tumors in the bloodstream? Or can we measure the size of those tumors&nbsp;in, say, a&nbsp;solid cancer? And then the further question is, is the size of the tumor&nbsp;basically a&nbsp;really good&nbsp;correlate&nbsp;or predictor of whether people will die or&nbsp;not, right?&nbsp;Generally, the&nbsp;FDA tends to be less stringent when&nbsp;you&#8217;ve&nbsp;got, you know, a remarkably innovative new&nbsp;therapy&nbsp;and the disease being treated is one that just&nbsp;doesn&#8217;t&nbsp;have a lot of available treatments,&nbsp;right.
-
-
-
-The one thing that people often think about when&nbsp;they&#8217;re&nbsp;thinking about pharmaceutical regulation is they often contrast,&nbsp;kind of,&nbsp;speed versus safety &#8230;
-
-
-
-SULLIVAN:&nbsp;Right.&nbsp;&nbsp;
-
-
-
-CARPENTER:&nbsp;&#8230; right. And&nbsp;that&#8217;s&nbsp;useful as a tradeoff,&nbsp;but I often try to remind people that&nbsp;it&#8217;s&nbsp;not simply&nbsp;about whether the drug gets out&nbsp;there&nbsp;and&nbsp;it&#8217;s&nbsp;unsafe. You know, you and I as patients and even doctors have&nbsp;a hard time&nbsp;knowing whether something works and whether it should be prescribed. And the evidence for knowing whether something works&nbsp;isn&#8217;t&nbsp;just, well,&nbsp;you&nbsp;know, Sally took&nbsp;it&nbsp;or Dan took it or Kathleen took it, and they&nbsp;seem to get&nbsp;better or they&nbsp;didn&#8217;t&nbsp;seem to get better.&nbsp;&nbsp;
-
-
-
-The really rigorous evidence comes from randomized clinical trials.&nbsp;And I think&nbsp;it&#8217;s&nbsp;fair to say that if you didn&#8217;t&nbsp;have the FDA there as a veto player, you&nbsp;wouldn&#8217;t&nbsp;get as many randomized clinical&nbsp;trials&nbsp;and the evidence&nbsp;probably&nbsp;wouldn&#8217;t&nbsp;be as rigorous for whether these things work. And as I like to put it,&nbsp;basically there&#8217;s&nbsp;a whole ecology of expectations and beliefs around the biopharmaceutical industry in the United States and globally,&nbsp;and to some extent,&nbsp;it&#8217;s&nbsp;undergirded by&nbsp;all of&nbsp;these tests that happen.&nbsp;&nbsp;
-
-
-
-SULLIVAN:&nbsp;Right.&nbsp;&nbsp;
-
-
-
-CARPENTER:&nbsp;And in part, that means&nbsp;it&#8217;s&nbsp;undergirded by regulation. Would there still be a market without regulation? Yes. But it would be a market in which people had far less information in and confidence about the drugs that are being taken. And&nbsp;so&nbsp;I think&nbsp;it&#8217;s&nbsp;important to recognize that kind of confidence-boosting potential of, kind of, a scientific regulation base.&nbsp;
-
-
-
-SULLIVAN:&nbsp;Actually, if we could&nbsp;double-click&nbsp;on that for a minute, I&#8217;d love to hear your perspective on, testing&nbsp;has been completed;&nbsp;there&#8217;s results.&nbsp;Can you walk us through how those results actually shape the next steps and decisions of a particular drug and just,&nbsp;like,&nbsp;how regulators actually think about using that data to influence really what happens next with it?
-
-
-
-CARPENTER:&nbsp;Right.&nbsp;So&nbsp;it&#8217;s&nbsp;important to understand that every drug is approved for&nbsp;what&#8217;s called&nbsp;an indication. It can have a first primary&nbsp;indication, which is the main disease that it treats, and then others can be added as more evidence is shown. But a drug is not something that just kind of exists out there in the ether.&nbsp;It has to have the right form of administration.&nbsp;Maybe it&nbsp;should be injected.&nbsp;Maybe it&nbsp;should be ingested.&nbsp;Maybe it&nbsp;should&nbsp;be administered only at a clinic&nbsp;because it needs to be&nbsp;kind of administered&nbsp;in just the right way. As doctors will tell you, dosage is everything, right.&nbsp;&nbsp;
-
-
-
-And&nbsp;so&nbsp;one of the reasons that you want those trials is not simply a, you know, yes or no answer about whether the drug works,&nbsp;right.&nbsp;It&#8217;s&nbsp;not simply if-then.&nbsp;It&#8217;s&nbsp;literally what&nbsp;goes into what you might call the dose response curve.&nbsp;You know, how much of this drug do we need to&nbsp;basically, you know,&nbsp;get the benefit? At what point does that fall off significantly that we can&nbsp;basically say, we can stop there? All that evidence comes from&nbsp;trials. And&nbsp;that&#8217;s&nbsp;the kind of evidence that is&nbsp;required&nbsp;on the basis of&nbsp;regulation.&nbsp;&nbsp;
-
-
-
-Because&nbsp;it&#8217;s&nbsp;not simply a drug&nbsp;that&#8217;s&nbsp;approved.&nbsp;It&#8217;s&nbsp;a drug and a&nbsp;frequency&nbsp;of administration. It&#8217;s&nbsp;a&nbsp;method of administration.&nbsp;And&nbsp;so&nbsp;the drug&nbsp;isn&#8217;t&nbsp;just,&nbsp;there&#8217;s&nbsp;something to be taken off the shelf and popped into your mouth. I mean, sometimes&nbsp;that&#8217;s&nbsp;what happens, but even then,&nbsp;we want to know what the dosage is,&nbsp;right.&nbsp;We want to know what to look for in terms of side effects, things like that.
-
-
-
-SULLIVAN:&nbsp;Going back to that point, I&nbsp;mean,&nbsp;it sounds like&nbsp;we&#8217;re&nbsp;making a lot of progress from a regulation perspective&nbsp;in, you know, sort of speed and getting things approved but doing it in a&nbsp;really balanced&nbsp;way. I mean, any other kind of closing thoughts on the tradeoffs there or where&nbsp;you&#8217;re&nbsp;seeing that going?
-
-
-
-CARPENTER:&nbsp;I think&nbsp;you&#8217;re&nbsp;going to see some move in the coming years—there&#8217;s&nbsp;already been some of it—to say, do we always need a&nbsp;really large&nbsp;Phase 3 clinical trial? And to what degree do we need the, like, you&nbsp;know,&nbsp;all the i&#8217;s dotted and the t&#8217;s crossed or a really,&nbsp;really large&nbsp;sample size?&nbsp;And&nbsp;I&#8217;m&nbsp;open to innovation there.&nbsp;I&#8217;m&nbsp;also open to the idea that we consider, again, things like accelerated approvals or pathways for looking at&nbsp;different kinds&nbsp;of surrogate endpoints.&nbsp;I do think, once we do that, then we also have to have some degree of follow-up.
-
-
-
-SULLIVAN:&nbsp;So&nbsp;I know&nbsp;we&#8217;re&nbsp;getting&nbsp;close to&nbsp;out of time, but&nbsp;maybe just&nbsp;a quick rapid fire if&nbsp;you’re&nbsp;open to it. Biggest myth about clinical trials?
-
-
-
-CARPENTER:&nbsp;Well, some people tend to think that the FDA performs them.&nbsp;You know,&nbsp;it&#8217;s&nbsp;companies that do it. And the only other thing I would say is the company that does a lot of the testing and even the innovating is not always the company that takes the drug to market, and it tells you something about how powerful regulation is in our system, in our world,&nbsp;that you often need a company that has dealt with the FDA quite a bit and knows all the regulations and knows how to dot the i&#8217;s and cross the t&#8217;s in order to get a drug across the finish line.
-
-
-
-SULLIVAN:&nbsp;If you had a magic wand,&nbsp;what&#8217;s&nbsp;the one thing&nbsp;you&#8217;d&nbsp;change in regulation today?
-
-
-
-CARPENTER:&nbsp;I would like people to think a little bit less about just speed versus safety and,&nbsp;again, more about this basic issue of confidence. I think&nbsp;it&#8217;s&nbsp;fundamental to everything that happens in markets but especially in biopharmaceuticals.
-
-
-
-SULLIVAN:&nbsp;Such a great point.&nbsp;This has been really fun.&nbsp;Just thanks so much for being here today. We&#8217;re really excited to share your thoughts&nbsp;out to&nbsp;our listeners. Thanks.
-
-
-
-[TRANSITION MUSIC]&nbsp;
-
-
-
-CARPENTER:&nbsp;Likewise.&nbsp;
-
-
-
-SULLIVAN:&nbsp;Now&nbsp;to&nbsp;the world of medical devices,&nbsp;I&#8217;m&nbsp;joined by Professor Timo&nbsp;Minssen. Professor Minssen, it&#8217;s&nbsp;great to have you here. Thank you for joining us today.&nbsp;
-
-
-
-TIMO&nbsp;MINSSEN:&nbsp;Yeah, thank you very much,&nbsp;it&#8217;s&nbsp;a pleasure.
-
-
-
-SULLIVAN:&nbsp;Before getting into the regulatory world of medical devices, tell our audience a bit about your personal journey or your origin story, as&nbsp;we&#8217;re&nbsp;asking our guests. How did you land in regulation, and what&#8217;s kept you hooked in this space?
-
-
-
-MINSSEN:&nbsp;So&nbsp;I started out as a patent expert in the biomedical area, starting with my PhD thesis on patenting biologics in Europe and in the US.&nbsp;So&nbsp;during that time, I was mostly interested in patent and trade secret questions.&nbsp;But at the same time, I also developed and taught courses in regulatory law and held talks on regulating advanced medical therapy medicinal products.&nbsp;I&nbsp;then&nbsp;started to lead large research projects on legal challenges in a wide variety of health and life science innovation frontiers. I also started to focus increasingly on AI-enabled medical devices and software as a medical device, resulting in several academic articles in this area&nbsp;and also&nbsp;in the regulatory area and a book on the future of medical device regulation.&nbsp;&nbsp;
-
-
-
-SULLIVAN:&nbsp;Yeah,&nbsp;what&#8217;s&nbsp;kept you hooked in&nbsp;the space?
-
-
-
-MINSSEN:&nbsp;It&#8217;s&nbsp;just incredibly exciting,&nbsp;in particular right&nbsp;now with everything that is going on, you know, in the software arena, in the marriage between AI and medical devices. And this is really challenging not only societies but also regulators and authorities in Europe and in the US.
-
-
-
-SULLIVAN:&nbsp;Yeah,&nbsp;it&#8217;s&nbsp;a super exciting time to be in this space. You know, we talked to Daniel a little earlier and, you know, I think&nbsp;similar to&nbsp;pharmaceuticals, people have a general sense of what we mean when we say medical devices, but most listeners may&nbsp;picture&nbsp;like a stethoscope or a hip implant. The word &#8220;medical device&#8221;&nbsp;reaches&nbsp;much wider. Can you give us a quick, kind of, range from perhaps&nbsp;very simple&nbsp;to even, I don&#8217;t know, sci-fi and then your 90-second tour of how risk assessment works and why a framework is essential?
-
-
-
-MINSSEN:&nbsp;Let me start out by saying that&nbsp;the WHO [World Health Organization] estimates that today there are approximately 2 million different kinds of medical devices on the world market, and as of the FDA&#8217;s latest update that I&#8217;m aware of, the FDA has authorized more than 1,000 AI-, machine learning-enabled medical devices, and that number is rising rapidly.
-
-
-
-So in that context, I think it is important to understand that medical devices can be any instrument, apparatus, implement, machine, appliance, implant, reagent for in vitro use, software, material, or other similar or related articles that are&nbsp;intended&nbsp;by the manufacturer to be used alone or in combination for a medical purpose. And the spectrum of what constitutes a medical device can&nbsp;thus&nbsp;range from very simple devices such as tongue depressors, contact lenses, and thermometers to more complex devices such as blood pressure monitors, insulin pumps, MRI machines, implantable pacemakers, and even software as a medical device or AI-enabled monitors or drug device combinations, as well.
-
-
-
-So&nbsp;talking about regulation,&nbsp;I think&nbsp;it&nbsp;is also&nbsp;very important&nbsp;to stress that medical devices are used in many diverse situations by&nbsp;very different&nbsp;stakeholders. And testing&nbsp;has to&nbsp;take this variety into consideration, and it is intrinsically tied to regulatory requirements across various&nbsp;jurisdictions.
-
-
-
-During the pre-market phase, medical testing&nbsp;establishes&nbsp;baseline safety and effectiveness metrics through bench testing, performance standards, and clinical studies. And post-market testing ensures that real-world data informs ongoing compliance and safety improvements. So testing is indispensable in translating technological innovation into safe and effective medical devices. And while&nbsp;particular details&nbsp;of pre-market and post-market review procedures may slightly differ among countries, most developed&nbsp;jurisdictions regulate medical devices similarly to the US or European models. 
-
-
-
-So&nbsp;most&nbsp;jurisdictions&nbsp;with medical device regulation classify devices based on their risk profile, intended use, indications for use, technological characteristics,&nbsp;and the regulatory controls necessary to provide a reasonable assurance of safety and effectiveness.
-
-
-
-SULLIVAN:&nbsp;So medical devices face a pretty prescriptive multi-level testing path before they hit the market. From your vantage point, what are some of the downsides of that system and when does it make the most sense?
-
-
-
-MINSSEN:&nbsp;One primary drawback is, of course, the lengthy and expensive approval process. High-risk devices, for example, often undergo years of clinical trials,&nbsp;which can cost millions of dollars, and this can create a significant barrier for startups and small companies with limited resources.&nbsp;And even for moderate-risk devices, the regulatory burden can slow product development and time to the market.
-
-
-
-And the approach can also limit flexibility. Prescriptive requirements may not accommodate emerging innovations like digital therapeutics or AI-based diagnostics in&nbsp;a feasible&nbsp;way. And in such cases, the framework can unintentionally [stiffen]&nbsp;innovation by discouraging creative solutions or iterative improvements, which as matter of fact can also&nbsp;put&nbsp;patients&nbsp;at risk when you&nbsp;don&#8217;t&nbsp;use&nbsp;new technologies and AI.&nbsp;And&nbsp;additionally, the same level of scrutiny may be applied to low-risk devices, where&nbsp;the extensive testing and documentation may also be disproportionate to the actual patient risk.
-
-
-
-However, the prescriptive model is highly&nbsp;appropriate where&nbsp;we have high testing standards for high-risk medical devices, in my view, particularly those that are life-sustaining, implanted, or involve new materials or mechanisms.
-
-
-
-I also wanted to say that I think that these higher compliance thresholds can be OK and necessary if you have a system where authorities and stakeholders also have the capacity and funding to enforce, monitor, and achieve compliance with such rules in a feasible, time-effective, and straightforward manner. And this, of course, requires resources, novel solutions,&nbsp;and investments.
-
-
-
-SULLIVAN:&nbsp;A range of tests are undertaken across the life cycle of medical devices.&nbsp;How do these testing requirements vary across&nbsp;different stages&nbsp;of development and across various applications?
-
-
-
-MINSSEN:&nbsp;Yes,&nbsp;that&#8217;s&nbsp;a good question.&nbsp;So&nbsp;I think first it&nbsp;is important to realize that testing is conducted by various entities, including manufacturers, independent third-party laboratories, and regulatory agencies. And it occurs throughout the device&nbsp;life&nbsp;cycle, beginning with iterative testing during the research and development stage, advancing to pre-market evaluations, and continuing into post-market monitoring. And the outcomes of&nbsp;these tests directly&nbsp;impact&nbsp;regulatory approvals, market access, and device design refinements, as well.&nbsp;So&nbsp;the testing results are typically shared with regulatory authorities and in some cases with healthcare providers and the broader public to enhance transparency and trust.
-
-
-
-So&nbsp;if you talk about the&nbsp;different phases&nbsp;that play a role here … so&nbsp;let&#8217;s&nbsp;turn to the pre-market phase, where manufacturers must&nbsp;demonstrate&nbsp;that the device is conformed to safety and performance benchmarks defined by regulatory authorities. Pre-market evaluations include functional bench testing, biocompatibility, for example, assessments and software validation, all of which are integral components of a manufacturer&#8217;s submission.&nbsp;
-
-
-
-But, yes, but, testing also, and we touched already up on that, extends into the post-market phase, where it continues to ensure device safety and efficacy, and post-market surveillance relies on testing to&nbsp;monitor real-world performance and&nbsp;identify&nbsp;emerging risks on the post-market phase. By integrating real-world evidence into ongoing assessments, manufacturers can address unforeseen issues, update devices as needed, and&nbsp;maintain compliance with evolving regulatory expectations. And&nbsp;I think this&nbsp;is particularly important in this new generation of medical devices that are AI-enabled or machine-learning enabled.
-
-
-
-I think we have to understand that in this AI-enabled medical devices field, you know, the devices and the algorithms that are working with&nbsp;them, they&nbsp;can improve in the lifetime of a product.&nbsp;So actually, not&nbsp;only you could assess them and make sure that they&nbsp;maintain&nbsp;safe,&nbsp;you&nbsp;could also sometimes lower the risk category by finding evidence that these devices are&nbsp;actually becoming&nbsp;more precise and safer.&nbsp;So&nbsp;it can both, you know, heighten the risk&nbsp;category&nbsp;or lower the risk category, and&nbsp;that&#8217;s&nbsp;why&nbsp;this continuous testing is so important.
-
-
-
-SULLIVAN:&nbsp;Given what you just said, how should regulators handle a device whose algorithm keeps updating itself after approval?
-
-
-
-MINSSEN:&nbsp;Well, it&nbsp;has to&nbsp;be an iterative process that is&nbsp;feasible&nbsp;and straightforward and that is based on a very efficient, both time efficient and performance efficient, communication between the regulatory authorities and the medical device developers, right. We need to have&nbsp;the sensors&nbsp;in place that spot potential changes, and we need to have&nbsp;the mechanisms&nbsp;in place that allow us to quickly react to these changes both regulatory wise&nbsp;and also&nbsp;in&nbsp;the&nbsp;technological way. 
-
-
-
-So&nbsp;I think communication&nbsp;is important,&nbsp;and we need to have&nbsp;the pathways&nbsp;and&nbsp;the feedback&nbsp;loops in the regulation that quickly allow us to&nbsp;monitor&nbsp;these self-learning algorithms and devices.
-
-
-
-SULLIVAN:&nbsp;It sounds like&nbsp;it&#8217;s&nbsp;just …&nbsp;there&#8217;s&nbsp;such a delicate balance between advancing technology and really ensuring public safety. You know, if we clamp down too hard, we stifle that innovation. You already touched upon this a bit. But if&nbsp;we&#8217;re&nbsp;too lax, we risk unintended consequences. And&nbsp;I&#8217;d&nbsp;just love to hear how you think the field is balancing that and any learnings you can share.
-
-
-
-MINSSEN:&nbsp;So&nbsp;this is&nbsp;very true, and&nbsp;you just touched upon a very central question also in our research and our writing. And this is also the&nbsp;reason why&nbsp;medical device regulation is so fascinating and continues to evolve in response to rapid advancements in technologies, particularly dual technologies&nbsp;regarding&nbsp;digital health, artificial intelligence, for example, and personalized medicine.
-
-
-
-And finding the balance is tricky because also [a] related major future challenge relates to the increasing regulatory jungle and the complex interplay between evolving regulatory landscapes that regulate AI more generally.
-
-
-
-We really need to make sure that the regulatory authorities that deal with this, that need to find the right balance to promote innovation and mitigate and prevent risks, need to have the&nbsp;capacity&nbsp;to do this.&nbsp;So&nbsp;this requires investments, and it also requires new ways to regulate this technology more flexibly, for example through regulatory sandboxes and so on.
-
-
-
-SULLIVAN:&nbsp;Could you just expand upon that a bit and double-click on what it is&nbsp;you&#8217;re&nbsp;seeing there? What excites you about&nbsp;what&#8217;s&nbsp;happening in that space?
-
-
-
-MINSSEN:&nbsp;Yes, well, the research of my group at the Center for Advanced Studies in Bioscience Innovation Law is&nbsp;very broad. I mean, we are looking into gene editing technologies. We are looking into new biologics. We are looking into medical&nbsp;devices,&nbsp;as well, obviously, but also other technologies&nbsp;in advanced medical computing.
-
-
-
-And what we see across the line here is that there is an increasing demand for having more adaptive and flexible regulatory frameworks in these&nbsp;new technologies,&nbsp;in particular when&nbsp;they have new uses, regulations that are focusing more on the product rather than the process. And I have recently&nbsp;written&nbsp;a report, for example,&nbsp;for&nbsp;emerging biotechnologies and&nbsp;bio-solutions&nbsp;for the EU commission. And even in that area, regulatory sandboxes are increasingly important, increasingly considered.
-
-
-
-So&nbsp;this idea of regulatory sandboxes has been developing originally in the financial sector, and it is now penetrating into&nbsp;other sectors, including synthetic biology, emerging biotechnologies, gene editing, AI, quantum technology, as&nbsp;well. This is&nbsp;basically creating&nbsp;an environment where actors can test&nbsp;new ideas&nbsp;in close collaboration and under the oversight of regulatory authorities.
-
-
-
-But&nbsp;to implement&nbsp;this in the AI sector now also leads us to&nbsp;a&nbsp;lot of questions and challenges. For example, you need to have the&nbsp;capacities&nbsp;of authorities that are governing and&nbsp;monitoring&nbsp;and deciding&nbsp;on these regulatory sandboxes. There are issues relating to competition law, for example, which&nbsp;you&nbsp;call antitrust law in the US, because the question is, who can enter the sandbox and how may they compete after they exit the sandbox? And there are many questions relating to, how&nbsp;should we&nbsp;work with these sandboxes and how&nbsp;should we&nbsp;implement these sandboxes?
-
-
-
-[TRANSITION MUSIC]&nbsp;
-
-
-
-SULLIVAN:&nbsp;Well, Timo, it has just been such a pleasure to speak with you today.
-
-
-
-MINSSEN:&nbsp;Yes, thank you very much.&nbsp;
-
-
-
-And now&nbsp;I&#8217;m&nbsp;happy to introduce Chad Atalla.
-
-
-
-Chad&nbsp;is&nbsp;senior applied scientist&nbsp;in&nbsp;Microsoft Research&nbsp;New York City&#8217;s&nbsp;Sociotechnical Alignment Center, where they contribute to foundational responsible AI research and practical responsible AI solutions for teams across Microsoft.
-
-
-
-Chad, welcome!
-
-
-
-CHAD ATALLA:&nbsp;Thank you.
-
-
-
-SULLIVAN:&nbsp;So&nbsp;we&#8217;ll&nbsp;kick off with a couple questions just to dive right in.&nbsp;So&nbsp;tell me a little bit more about the&nbsp;Sociotechnical Alignment Center,&nbsp;or&nbsp;STAC? I know it was founded in&nbsp;2022.&nbsp;I&#8217;d&nbsp;love to just learn a little bit more about what the group does, how&nbsp;you&#8217;re&nbsp;thinking about evaluating AI, and&nbsp;maybe just&nbsp;give us a sense of some of the projects&nbsp;you&#8217;re&nbsp;working on.
-
-
-
-ATALLA:&nbsp;Yeah, absolutely. The name is quite a mouthful.
-
-
-
-SULLIVAN:&nbsp;It is!&nbsp;[LAUGHS]&nbsp;
-
-
-
-ATALLA:&nbsp;So&nbsp;let&#8217;s&nbsp;start by breaking that down and seeing what that means.
-
-
-
-SULLIVAN:&nbsp;Great.
-
-
-
-ATALLA: So modern AI systems are sociotechnical systems, meaning that the social and technical aspects are deeply intertwined. And&nbsp;we&#8217;re interested in aligning the behaviors of these sociotechnical&nbsp;systems with some values.&nbsp;Those could be societal values;&nbsp;they could be regulatory values, organizational values, etc. And to make this alignment happen, we need the ability to evaluate the systems.
-
-
-
-So&nbsp;my team is broadly working on an evaluation framework that acknowledges the sociotechnical nature of the technology and the often-abstract nature of the concepts&nbsp;we&#8217;re&nbsp;actually interested&nbsp;in evaluating. As you noted,&nbsp;it&#8217;s&nbsp;an applied science team, so we split our time between some fundamental research and time to bridge the work into real products across the company. And I also want to note that to power this sort of work, we have an interdisciplinary team drawing upon the social sciences, linguistics, statistics, and,&nbsp;of course, computer science.
-
-
-
-SULLIVAN:&nbsp;Well,&nbsp;I&#8217;m&nbsp;eager to get into our takeaways from the conversation with&nbsp;both Daniel&nbsp;and Timo. But&nbsp;maybe just&nbsp;to double-click on this for a minute, can you talk a bit about some of the overarching goals of the AI evaluations that you noted?&nbsp;
-
-
-
-ATALLA:&nbsp;So&nbsp;evaluation is really the act of making valuative judgments based on some evidence, and in the case of AI evaluation, that evidence might be from tests or measurements, right.&nbsp;And the goal of why&nbsp;we&#8217;re doing this in the first place is to make decisions and claims most often.
-
-
-
-So&nbsp;perhaps I&nbsp;am going to make a claim about a model that&nbsp;I&#8217;m&nbsp;producing, and I want to say that&nbsp;it&#8217;s&nbsp;better than this other model. Or we are asking whether a certain product is safe to ship.&nbsp;All of these decisions need to be informed by good evaluation and therefore good measurement or testing.&nbsp;And&nbsp;I&#8217;ll&nbsp;also note that in&nbsp;the regulatory conversation, risk&nbsp;is often what we want to evaluate. So that is a goal in and of itself. And&nbsp;I&#8217;ll&nbsp;touch more on that later.
-
-
-
-SULLIVAN:&nbsp;I read a recent&nbsp;paper that you had put out with some of our colleagues from Microsoft Research, from the University of Michigan, and Stanford, and you were arguing that evaluating generative AI is&nbsp;the&nbsp;social-science measurement challenge.&nbsp;Maybe for&nbsp;those who&nbsp;haven&#8217;t&nbsp;read the paper, what does this mean? And can you tell us a little bit more about what motivated you and your coauthors?&nbsp;
-
-
-
-ATALLA:&nbsp;So the measurement tasks involved in evaluating generative AI systems are often abstract and contested. So that means they cannot be directly measured and must instead [be] indirectly measured via other observable phenomena. So this is very different than the older machine learning paradigm, where, let&#8217;s say, for example, I had a system that took a picture of a traffic light and told you whether it was green, yellow, or red at a given time.&nbsp;
-
-
-
-If we wanted to evaluate that system, the task is much simpler. But with the modern generative AI systems that are also general purpose, they have open-ended output, and language in a whole chat or multiple paragraphs being outputted can have a lot of different properties. And as I noted, these are general-purpose systems, so we don&#8217;t know exactly what task they&#8217;re supposed to be carrying out.
-
-
-
-So&nbsp;then the question becomes, if I want to make some decision or claim—maybe I&nbsp;want to make a claim that this system has human-level reasoning capabilities—well, what does that mean? Do I have the same impression of what that means as you do? And how do we know whether the downstream, you know, measurements and tests that&nbsp;I&#8217;m&nbsp;conducting&nbsp;actually will&nbsp;support my notion of what it means to have human-level reasoning,&nbsp;right?&nbsp;Difficult questions. But luckily, social scientists have been dealing with these exact sorts of challenges for multiple decades in fields like education, political science, and psychometrics. So&nbsp;we&#8217;re&nbsp;really&nbsp;attempting&nbsp;to avoid reinventing the wheel here and trying to learn from their past methodologies.
-
-
-
-And so the rest of the paper goes on to delve into&nbsp;a four-level framework, a measurement framework, that&#8217;s grounded in the measurement theory from the quantitative social sciences that takes us all the way from these abstract and contested concepts through processes to get much clearer and eventually reach reliable and valid measurements that can power our evaluations.
-
-
-
-SULLIVAN:&nbsp;I love that. I mean,&nbsp;that&#8217;s&nbsp;the whole point of this podcast,&nbsp;too,&nbsp;right.&nbsp;Is&nbsp;to really&nbsp;build&nbsp;on those other learnings and frameworks that&nbsp;we&#8217;re&nbsp;taking from industries that have been thinking about this for much longer.&nbsp;Maybe from&nbsp;your vantage point, what are some of the biggest day-to-day hurdles in building solid AI evaluations&nbsp;and,&nbsp;I&nbsp;don&#8217;t&nbsp;know, do we need more shared standards? Are there&nbsp;bespoke methods? Are those&nbsp;the way to go? I would love&nbsp;to just&nbsp;hear your thoughts on that.
-
-
-
-ATALLA:&nbsp;So&nbsp;let&#8217;s&nbsp;talk about some of those practical challenges. And I want to briefly go back to what I mentioned about risk before, all right.&nbsp;Oftentimes,&nbsp;some of the regulatory environment&nbsp;is requiring practitioners to measure the&nbsp;risk&nbsp;involved in deploying one of their models or AI systems. Now, risk is importantly a&nbsp;concept that includes both event and impact,&nbsp;right.&nbsp;So&nbsp;there&#8217;s&nbsp;the probability of some event occurring. For the case of AI evaluation,&nbsp;perhaps this&nbsp;is us seeing a certain AI behavior&nbsp;exhibited. Then there&#8217;s also the severity of the&nbsp;impacts,&nbsp;and this is a complex chain of effects in the real world that&nbsp;happen&nbsp;to people, organizations, systems, etc., and&nbsp;it&#8217;s&nbsp;a lot more challenging to&nbsp;observe&nbsp;the impacts,&nbsp;right.
-
-
-
-So&nbsp;if we&#8217;re saying that we need to measure risk, we have to measure both the event and the&nbsp;impacts. But realistically, right now, the field is not doing&nbsp;a very good&nbsp;job of&nbsp;actually measuring&nbsp;the impacts. This requires vastly different techniques and methodologies where if I just wanted to measure something about the event itself, I can, you know, do that in a technical sandbox&nbsp;environment&nbsp;and&nbsp;perhaps have&nbsp;some automated methods to detect whether a certain AI behavior is being&nbsp;exhibited. But if I want to measure the impacts? Now,&nbsp;we&#8217;re&nbsp;in the realm of needing to have real people involved, and&nbsp;perhaps a&nbsp;longitudinal study where you have interviews, questionnaires, and more qualitative evidence-gathering techniques to&nbsp;truly understand&nbsp;the long-term impacts. So&nbsp;that&#8217;s&nbsp;a significant challenge.
-
-
-
-Another is that, you know,&nbsp;let&#8217;s&nbsp;say we forget about the impacts for&nbsp;now&nbsp;and we focus on the event side of things. Still, we need datasets, we need&nbsp;annotations,&nbsp;and we need&nbsp;metrics to make this whole thing work. When I say we need datasets, if I want to test whether my system has good mathematical reasoning, what questions should I ask? What are my set of inputs that are relevant? And then when I get&nbsp;the&nbsp;response from the system, how do I annotate them? How do I know if it was a good response that&nbsp;did demonstrate mathematical reasoning or if it was a mediocre response? And then once I have an annotation of&nbsp;all of these outputs from the AI system, how do I aggregate those all up into a single informative number?
-
-
-
-SULLIVAN:&nbsp;Earlier in this episode, we heard Daniel and&nbsp;Timo walk&nbsp;through the regulatory frameworks in pharma and medical devices.&nbsp;I&#8217;d&nbsp;be curious what pieces of those mature systems are already showing up or at least may&nbsp;be bubbling up in AI governance.
-
-
-
-ATALLA:&nbsp;Great question. You know, Timo was talking about the pre-market and post-market testing difference. Of course, this is similarly important in the AI evaluation space. But again, these have different methodologies and serve different purposes.
-
-
-
-So&nbsp;within the pre-deployment phase, we&nbsp;don&#8217;t&nbsp;have evidence of how people are going to use the system. And when we have these general-purpose AI systems,&nbsp;to understand what the risks are, we really need to have a sense of what might happen and how they might be used.&nbsp;So&nbsp;there are&nbsp;significant challenges there where I think we can learn from other fields and how they do pre-market testing. And the difference in that pre- versus post-market testing also ties to testing at&nbsp;different stages&nbsp;in the life cycle.
-
-
-
-For AI systems, we already see some regulations saying you need to start with the base model and do some evaluation of the base model, some basic attributes, some core attributes,&nbsp;of that base model before you start putting it into any real products. But once we have a product in mind, we have a user base in mind, we have a specific task—like maybe we&#8217;re going to integrate this model into Outlook and it&#8217;s going to help you write&nbsp;emails—now we suddenly have a much crisper picture of how the system will interact with the world around it. And again, at that stage, we need to think about another round of evaluation.
-
-
-
-Another part that jumped out to me in what they were saying about pharmaceuticals is that sometimes approvals can be based on surrogate endpoints.&nbsp;So&nbsp;this is like&nbsp;we&#8217;re&nbsp;choosing some&nbsp;heuristic.&nbsp;Instead of measuring the long-term impact, which is what we&nbsp;actually care&nbsp;about,&nbsp;perhaps we&nbsp;have a proxy that we&nbsp;feel like&nbsp;is a good enough indicator of what that long-term impact might look like.&nbsp;&nbsp;
-
-
-
-This is occurring in the AI evaluation space right now and is often perhaps even the default here since&nbsp;we&#8217;re not seeing that many studies of the long-term impact itself. We are seeing, instead, folks constructing these heuristics or proxies and saying if I see this behavior happen,&nbsp;I&#8217;m&nbsp;going to&nbsp;assume&nbsp;that it&nbsp;indicates&nbsp;this sort of impact will happen downstream. And&nbsp;that&#8217;s&nbsp;great.&nbsp;It&#8217;s&nbsp;one of the techniques that was used to speed up and reduce the barrier to innovation in&nbsp;the other&nbsp;fields. And I think&nbsp;it&#8217;s&nbsp;great that we are applying that in the AI evaluation space. But&nbsp;special care&nbsp;is,&nbsp;of course, needed to ensure that those heuristics and proxies you&#8217;re&nbsp;using are reasonable indicators of the greater outcome&nbsp;you&#8217;re&nbsp;looking for.
-
-
-
-SULLIVAN:&nbsp;What are some of the promising ideas from&nbsp;maybe pharma&nbsp;or med device regulation that maybe haven&#8217;t&nbsp;made it to AI testing yet and&nbsp;maybe should? And where would you urge technologists, policymakers,&nbsp;and researchers to focus their energy next?
-
-
-
-ATALLA:&nbsp;Well, one of the key things that jumped out to me in the discussion about pharmaceuticals was driving home the emphasis that there&nbsp;is&nbsp;a&nbsp;holistic&nbsp;focus on safety&nbsp;and&nbsp;efficacy. These go hand in hand&nbsp;and decisions must be made while considering both pieces of the picture. I would like to see that further emphasized in the AI evaluation space.
-
-
-
-Often,&nbsp;we&nbsp;are seeing&nbsp;evaluations of risk being separated from evaluations of&nbsp;performance or quality&nbsp;or efficacy, but these two pieces of the puzzle really are not enough for us to make informed decisions independently.&nbsp;And that ties back into my desire to really also see us measuring the impacts.
-
-
-
-So&nbsp;we see Phase 3 trials as something that occurs in the medical devices and pharmaceuticals field. That&#8217;s not something that we are doing an equivalent of in the AI evaluation space at this time.&nbsp;These are really&nbsp;cost intensive. They can last years and really involve careful monitoring of that holistic picture of safety and efficacy. And realistically, we are not going to be able to put that on the critical path to getting specific individual AI models or AI systems vetted before they&nbsp;go out&nbsp;into the world. However, I would love to see a world in which this sort of work is prioritized&nbsp;and funded or&nbsp;required. Think of how, with&nbsp;social media, it took quite a long time for us to understand that there are some long-term negative impacts on mental health, and we have the opportunity now, while the AI wave is still building,&nbsp;to start prioritizing and funding this sort of work. Let it run in the background and as soon as possible develop a good understanding of the subtle, long-term effects.
-
-
-
-More broadly, I would love to see us focus on reliability and validity of the evaluations&nbsp;we&#8217;re&nbsp;conducting because trust in these decisions and claims is important. If we&nbsp;don&#8217;t&nbsp;focus on building reliable, valid, and trustworthy evaluations,&nbsp;we&#8217;re&nbsp;just going to continue to be flooded by a bunch of competing, conflicting, and&nbsp;largely meaningless&nbsp;AI evaluations.
-
-
-
-SULLIVAN:&nbsp;In a number of the discussions we&#8217;ve had on this podcast, we talked about how it&#8217;s not just one entity that really needs to ensure safety across the board,&nbsp;and I’d&nbsp;just love to hear from you how you think about some of those ecosystem collaborations, and you know, from across &#8230; where we think about ourselves as more of a platform company or places that these AI models are being deployed more at the application level. Tell me a little bit about how you think about,&nbsp;sort&nbsp;of, stakeholders in that mix and where responsibility lies across the board.
-
-
-
-ATALLA:&nbsp;It&#8217;s&nbsp;interesting. In this age of general-purpose AI technologies,&nbsp;we&#8217;re&nbsp;often&nbsp;seeing&nbsp;one company or organization&nbsp;being responsible for&nbsp;building the foundational model. And then many, many other people will take that model and build it into specific products that are designed for specific tasks and contexts.
-
-
-
-Of course,&nbsp;in that, we already see that there is&nbsp;a responsibility&nbsp;of the owners of that foundational model to do some testing of the central model before they distribute it broadly. And then again, there is responsibility of all of the downstream individuals digesting that and turning it into products to consider the specific contexts that they are deploying into and how that may affect the risks we&#8217;re concerned with or the types of quality and safety and performance we need to evaluate.
-
-
-
-Again, because that field of risks we may be concerned with is so broad, some of them also require an immense amount of&nbsp;expertise.&nbsp;Let&#8217;s&nbsp;think about whether AI systems can enable people to create dangerous chemicals or dangerous weapons at home. It&#8217;s not that every AI practitioner is going to have the knowledge to evaluate this, so in some of those cases, we really need third-party experts, people who are experts in chemistry, biology, etc., to come in and evaluate certain systems and models for those specific risks,&nbsp;as well.
-
-
-
-So&nbsp;I think there&nbsp;are many reasons why multiple stakeholders need to be involved, partly from who owns what and&nbsp;is responsible for&nbsp;what and partly from the perspective of who has the&nbsp;expertise&nbsp;to meaningfully construct the evaluations that we need.
-
-
-
-SULLIVAN:&nbsp;Well, Chad, this has just been great to connect, and in a few of our discussions,&nbsp;we&#8217;ve&nbsp;done a bit of a lightning round, so&nbsp;I&#8217;d&nbsp;love to just hear your&nbsp;30-second responses to a few of these questions. Perhaps&nbsp;favorite&nbsp;evaluation&nbsp;you&#8217;ve&nbsp;run so far this year?&nbsp;
-
-
-
-ATALLA:&nbsp;So&nbsp;I&#8217;ve&nbsp;been involved in trying to evaluate some language models for whether they&nbsp;infer&nbsp;sensitive attributes about people. So&nbsp;perhaps&nbsp;you&#8217;re&nbsp;chatting with a&nbsp;chatbot,&nbsp;and it infers your religion or sexuality based on things&nbsp;you&#8217;re&nbsp;saying or how you sound,&nbsp;right.&nbsp;And in working to evaluate this, we&nbsp;encounter&nbsp;a lot of interesting questions. Or,&nbsp;like,&nbsp;what is a sensitive attribute? What makes these attributes sensitive, and what are the differences that make it inappropriate for an AI system to infer these things about a person? Whereas realistically, whenever I meet a person on the street, my&nbsp;brain is&nbsp;immediately&nbsp;forming&nbsp;first impressions and some assumptions about these people.&nbsp;So&nbsp;it&#8217;s&nbsp;a very interesting&nbsp;and thought-provoking evaluation to conduct and think about the norms that we place upon&nbsp;people&nbsp;interacting with other people and the norms we place upon&nbsp;AI systems&nbsp;interacting with other people.
-
-
-
-SULLIVAN:&nbsp;That’s&nbsp;fascinating!&nbsp;I&#8217;d&nbsp;love to hear the AI&nbsp;buzzword&nbsp;you&#8217;d&nbsp;retire tomorrow.&nbsp;[LAUGHTER]
-
-
-
-ATALLA:&nbsp;I would love to see the term “bias” being&nbsp;used less when referring to fairness-related issues and systems. Bias happens to be a highly overloaded term in statistics and machine learning and has a lot of technical meanings and just&nbsp;fails to&nbsp;perfectly capture what we mean in the AI risk sense.
-
-
-
-SULLIVAN:&nbsp;And last one. One metric&nbsp;we&#8217;re&nbsp;not tracking enough.
-
-
-
-ATALLA:&nbsp;I would say over-blocking, and this comes into that connection between the holistic picture of safety and efficacy. It&#8217;s too easy to produce systems that throw safety to the wind and focus purely on utility or achieving some goal, but simultaneously, the other side of the picture is possible, where we can clamp down too hard and reduce the utility of our systems and block even benign and useful outputs just because they border on something sensitive.&nbsp;So&nbsp;it&#8217;s&nbsp;important for us to track that over-blocking and actively track that tradeoff between safety and efficacy.
-
-
-
-SULLIVAN:&nbsp;Yeah, we talk a lot about this on the podcast,&nbsp;too,&nbsp;of how do you both make things safe but also ensure innovation can&nbsp;thrive,&nbsp;and&nbsp;I think you&nbsp;hit the nail on the head with that last piece.
-
-
-
-[MUSIC]&nbsp;
-
-
-
-Well, Chad, this was&nbsp;really terrific. Thanks for joining us and thanks for your work and your&nbsp;perspectives. And another big thanks to Daniel and Timo for setting the stage earlier in the podcast.
-
-
-
-And to our listeners, thanks for tuning in. You can find resources related to this podcast in the show notes. And if you want to learn more about how Microsoft approaches AI governance, you can visit microsoft.com/RAI. 
-
-
-
-See you next time! 
-
-
-
-[MUSIC FADES]
-
-				
-			
-			
-				Show more			
-		
-	
-
-
-
-
-
-AI Testing and Evaluation podcast series
-
-Opens in a new tabThe post AI Testing and Evaluation: Learnings from pharmaceuticals and medical devices appeared first on Microsoft Research.
 • Advanced fine-tuning methods on Amazon SageMaker AI
   This post provides the theoretical foundation and practical insights needed to navigate the complexities of LLM development on Amazon SageMaker AI, helping organizations make optimal choices for their specific use cases, resource constraints, and business objectives. 
 We also address the three fundamental aspects of LLM development: the core lifecycle stages, the spectrum of fine-tuning methodologies, and the critical alignment techniques that provide responsible AI deployment. We explore how Parameter-Efficient Fine-Tuning (PEFT) methods like LoRA and QLoRA have democratized model adaptation, so organizations of all sizes can customize large models to their specific needs. Additionally, we examine alignment approaches such as Reinforcement Learning from Human Feedback (RLHF) and Direct Preference Optimization (DPO), which help make sure these powerful systems behave in accordance with human values and organizational requirements. Finally, we focus on knowledge distillation, which enables efficient model training through a teacher/student approach, where a smaller model learns from a larger one, while mixed precision training and gradient accumulation techniques optimize memory usage and batch processing, making it possible to train large AI models with limited computational resources. 
@@ -3838,5 +3188,101 @@ Nuno Castro is a Sr. Applied Science Manager at AWS Generative AI Innovation Cen
 Ozioma Uzoegwu is a Principal Solutions Architect at Amazon Web Services. In his role, he helps financial services customers across EMEA to transform and modernize on the AWS Cloud, providing architectural guidance and industry best practices. Ozioma has many years of experience with web development, architecture, cloud and IT management. Prior to joining AWS, Ozioma worked with an AWS Advanced Consulting Partner as the Lead Architect for the AWS Practice. He is passionate about using latest technologies to build a modern financial services IT estate across banking, payment, insurance and capital markets. 
 Eren Tuncer is a Solutions Architect at Amazon Web Services focused on Serverless and building Generative AI applications. With more than fifteen years experience in software development and architecture, he helps customers across various industries achieve their business goals using cloud technologies with best practices. As a builder, he’s passionate about creating solutions with state-of-the-art technologies, sharing knowledge, and helping organizations navigate cloud adoption. 
 Francesco Cerizzi is a Solutions Architect at Amazon Web Services exploring tech frontiers while spreading generative AI knowledge and building applications. With a background as a full stack developer, he helps customers across different industries in their journey to the cloud, sharing insights on AI’s transformative potential along the way. He’s passionate about Serverless, event-driven architectures, and microservices in general. When not diving into technology, he’s a huge F1 fan and loves Tennis.
+• Build a conversational data assistant, Part 2 – Embedding generative business intelligence with Amazon Q in QuickSight
+  In Part 1 of this series, we explored how Amazon’s Worldwide Returns &amp; ReCommerce (WWRR) organization built the Returns &amp; ReCommerce Data Assist (RRDA)—a generative AI solution that transforms natural language questions into validated SQL queries using Amazon Bedrock Agents. Although this capability improves data access for technical users, the WWRR organization’s journey toward truly democratized data doesn’t end there. 
+For many stakeholders across WWRR, visualizing trends and patterns is far more valuable than working with raw data. These users need quick insights to drive decisions without having to interpret SQL results. Although we maintain pre-built Amazon QuickSight dashboards for commonly tracked metrics, business users frequently require support for long-tail analytics—the ability to conduct deep dives into specific problems, anomalies, or regional variations not covered by standard reports. 
+To bridge this gap, we extended our RRDA solution beyond SQL generation to include visualization capabilities. In this post, we dive into how we integrated Amazon Q in QuickSight to transform natural language requests like “Show me how many items were returned in the US over the past 6 months” into meaningful data visualizations. We demonstrate how combining Amazon Bedrock Agents with Amazon Q in QuickSight creates a comprehensive data assistant that delivers both SQL code and visual insights through a single, intuitive conversational interface—democratizing data access across the enterprise. 
+Intent and domain classification for visual analytics 
+The overall architecture diagram of the RRDA system has two parts. In Part 1, we focused on the upper pathway that generates SQL; for Part 2, we explore the lower pathway (highlighted in red in the following diagram) that connects users directly to visual insights through Amazon Q in QuickSight. 
+
+ 
+ RRDA Architecture Overview highlighting the visualization pathway (shown in red) that processes SHOW_METRIC intents through Q topic retrieval and selection to deliver embedded Amazon Q in QuickSight visualizations.
+ 
+As mentioned in Part 1, RRDA routes user queries through intent and domain classification systems that determine how each request should be processed. When a query is classified as SHOW_METRIC (triggered by phrases like “show me” or “display,” or questions about visualizing trends), the system routes to our Amazon Q in QuickSight integration pathway instead of generating SQL. Simultaneously, our domain classifier identifies business contexts like Returns Processing or Promotions to focus the search scope. This dual classification makes it possible to seamlessly switch the user experience between receiving code and receiving visual insights while maintaining business context. 
+For example, when a user asks “Show me the trend for how many items were returned for the past quarter,” our system identifies both the visualization intent and the Returns Processing business domain, allowing subsequent LLMs to search within domain-specific Amazon QuickSight Q topics rather than across the entire catalog. After the user intent is classified, RRDA notifies the user that it’s searching for relevant metrics in Amazon Q in QuickSight and initiates the domain-filtered Q topic selection process described in the next section. 
+Q topic retrieval and selection 
+After the user intent is classified as SHOW_METRIC and the relevant business domain is identified, RRDA must now determine which specific Q topic can best visualize the requested information. Q topics are specialized configurations that enable business users to ask natural language questions about specific datasets. Each Q topic contains metadata about available metrics, dimensions, time periods, and synonyms—making topic selection a critical step in delivering accurate visual insights. The challenge lies in intelligently mapping user requests to the most appropriate Q topics from our catalog of over 50 specialized configurations. To solve this problem, RRDA employs a two-step approach: first retrieving semantically relevant Q topics using vector search with metadata filtering to narrow down candidates efficiently, then selecting the best matches using an Amazon Bedrock foundation model (FM) to evaluate each candidate’s ability to address the specific metrics and dimensions in the user’s query. 
+We implemented this retrieval-then-selection approach by building a dedicated Q topic knowledge base using Amazon Bedrock Knowledge Bases, a fully managed service that you can use to store, search, and retrieve organization-specific information for use with large language models (LLMs). The metadata for each Q topic—including name, description, available metrics, dimensions, and sample questions—is converted into a searchable document and embedded using the Amazon Titan Text Embeddings V2 model. When a user asks a question, RRDA extracts the core query intent and specified domain, then performs a vector similarity search against our Q topic knowledge base. The system applies domain filters to the vector search configuration when a specific business domain is identified, making sure that only relevant Q topics are considered. From this retrieved list, a lightweight Amazon Bedrock FM analyzes the candidates and identifies the most relevant Q topic that can address the user’s specific question, considering factors like metric availability, dimension support, and query compatibility. 
+The following diagram illustrates the Q topic retrieval and selection workflow. 
+
+ 
+ Q topic retrieval and selection workflow illustrating how RRDA identifies relevant visualization sources through vector search, then optimizes user questions for Amazon Q in QuickSight using Amazon Bedrock.
+ 
+Continuing our previous example, when a user asks “Show me the trend for how many items were returned for the past quarter,” our system first detects the intent as SHOW_METRIC, then determines whether a domain like Returns Processing or Promotions is specified. The query is then passed to our Q topic retrieval function, which uses the Retrieve API to search for Q topics with relevant metadata. The search returns a ranked list of 10 candidate Q topics, each containing information about its capabilities, supported metrics, and visualization options. 
+This retrieval mechanism solves a critical problem in enterprise business intelligence (BI) environments—discovering which report or dataset has information to answer the user’s question. Rather than requiring users to know which of our more than 50 Q topics to query, our system automatically identifies the relevant Q topics based on semantic understanding of the request. This intelligent Q topic selection creates a frictionless experience where business users can focus on asking questions in natural language while RRDA handles the complexity of finding the right data sources behind the scenes. 
+Question rephrasing for optimal Q topic results 
+After RRDA identifies relevant Q topics, we face another critical challenge: bridging the gap between how users naturally ask questions and the optimal format that Amazon Q in QuickSight expects. Without this crucial step, even with the right Q topic selected, users might receive suboptimal visualizations. 
+The question rephrasing challenge 
+Business users express their data needs in countless ways: 
+ 
+ Imprecise time frames: “How many items were returned lately?” 
+ Complex multi-part questions: “Compare how many items were returned between NA &amp; EU for Q1” 
+ Follow-up questions: “Write a SQL query for how many returned items are currently being processed in the returns center” and after RRDA responds with the SQL query, then “Great! Now show me this metric for this year” 
+ 
+Although Amazon Q in QuickSight is designed to handle natural language, it is a generative Q&amp;A system rather than a conversational interface, and it performs best with clear, well-structured questions. The right phrasing significantly improves response quality by making sure Amazon Q in QuickSight precisely understands what to visualize. 
+Structured question generation with the Amazon Bedrock Converse API 
+To solve this challenge, we implemented a question rephrasing system using the Amazon Bedrock Converse API with structured outputs. This approach makes sure user queries are transformed into optimal formats for Amazon Q in QuickSight while preserving critical filters and parameters. 
+First, we define Pydantic data models to structure the FM output: 
+ 
+ class QTopicQuestionPair(BaseModel):
+&nbsp;&nbsp; &nbsp;"""A question related to a Q&nbsp;topic."""
+&nbsp;&nbsp; &nbsp;topic_id: str = Field(..., description="The ID of the chosen Q&nbsp;topic")
+&nbsp;&nbsp; &nbsp;question: str = Field(..., description="The relevant question to ask this Q&nbsp;topic")
+
+class ListOfQTopicQuestionPairs(BaseModel):
+&nbsp;&nbsp; &nbsp;"""Response containing a list of questions corresponding to Q&nbsp;topics."""
+&nbsp;&nbsp; &nbsp;pairs: List[QTopicQuestionPair] = Field(
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;default_factory=list, description="List of {Q&nbsp;topic Id, Question} pair objects."
+&nbsp;&nbsp; &nbsp;) 
+ 
+The Converse API tool use capability makes it possible to structure responses using these defined data models so our code can parse them reliably. Our system passes the user query, conversation history, and retrieved Q topic metadata to the Amazon Bedrock FM, which formulates questions following validated patterns: 
+ 
+ “Show me the [specific metric(s)] for/over [user filters]” 
+ “How has [specific metric] changed from [start time frame] to [end time frame]?” 
+ “Compare [metric A] to [metric B] for [time frame]” 
+ “What is [specific metric] for [user filters]?” 
+ 
+These formats consistently produce optimal results in Amazon Q in QuickSight across our business domains while preserving critical business context—including domain-specific terminology, time filters, dimensional constraints, and comparative elements. For example, after reviewing SQL results for a resolution index metric, a user might ask the follow-up question “Now show me how this metric trended over the last 6 months,” which our system rephrases to “Show me how the resolution index trended over the last 6 months” while selecting only Amazon Q topics related to the Returns Processing business domain. 
+Embedding Amazon Q in QuickSight visualizations within the chat interface 
+When users ask to visualize data in the RRDA chat interface, the system seamlessly embeds Amazon Q in QuickSight directly within the conversation. Using the QuickSight embedding functionality, RRDA generates a secure embedding URL that renders interactive visualizations directly in the chat window. Users can view data visualizations without leaving the conversation flow. The system automatically selects the appropriate Q topic and rephrases the user’s question for optimal results, then passes this information to the embedded QuickSight component, which generates and displays the visualization. The following screenshot shows a view (with sample data) of what this embedded experience looks like. For detailed information about the embedding capabilities used, see Embedding the Amazon Q in QuickSight Generative Q&amp;A experience. 
+
+ 
+ Sample Q Topic showing embedded visualization capabilities within RRDA’s chat interface, demonstrating how users can seamlessly transition from natural language questions to interactive data visualizations.
+ 
+Direct Q topic suggestions for visualization requests 
+When users ask visualization-oriented questions with the SHOW_METRIC intent (for example, “Show me how many items were returned over the past 3 months”), RRDA presents relevant Q topics as interactive suggestion cards within the conversation flow. Each suggestion includes the topic name (like “Returns Processing – Sample Topic”), along with an optimized question format that the user can choose to immediately generate the visualization. 
+ 
+These suggestions appear with a clear heading: “Here are the most relevant questions and Amazon QuickSight Q topics:” so it’s straightforward for users to identify which data source will best answer their question. The system formats these suggestions as clickable prompts that, when selected, automatically trigger the embedded Amazon QuickSight generative Q&amp;A modal illustrated in the previous section. 
+Contextual follow-up visualizations in conversations 
+RRDA proactively suggests relevant visualizations even when users are engaged in regular text conversations with the Amazon Bedrock agent described in Part 1. For example, when a user asks for information about a specific metric (“What is the resolution index metric? Explain it to me in 1-2 sentences”), the system provides a text explanation (which is blurred out in the following screenshot) but also automatically identifies opportunities for visual analysis. These suggestions appear as “Get related insights from Amazon Q in QuickSight:” followed by relevant questions like “What is resolution index for the last 3 months?” This creates a seamless bridge between learning about metrics and visualizing them—users can start with simple queries about metric definitions and quickly transition to data exploration without reformulating their requests. This contextual awareness makes sure users discover valuable visualizations they might not have otherwise known to request, enhancing the overall analytics experience. 
+ 
+Automating Q topic metadata management 
+Behind RRDA’s ability to suggest relevant visualizations is a knowledge base of over 50 Q topics and their metadata. To keep this knowledge base up-to-date as our analytics landscape grows, we’ve implemented an automated metadata management workflow using AWS Step Functions that refreshes daily, pictured in the following diagram. 
+
+ 
+ Automated Q topic metadata management workflow using AWS Step Functions that refreshes daily to keep the knowledge base current with the latest QuickSight Q topic configurations and validated questions.
+ 
+The workflow begins with our FetchQTopicMetadata AWS Lambda function, which connects to QuickSight and gathers essential information about each Q topic—what metrics it tracks, what filters users can apply, and importantly, what questions it has successfully answered in the past. We specifically use the DescribeTopic and ListTopicReviewedAnswers APIs, and store the resulting metadata in Amazon DynamoDB, a NoSQL key-value database. This creates a powerful feedback loop—when Q topic authors review and validate questions from users, these validated questions are automatically incorporated into our knowledge base, making sure the system continuously learns from user interactions and expert curation. 
+For the next step in the workflow, the BatchSummarizeQTopics function generates a concise summary of this collected metadata using Amazon Bedrock FMs. This step is necessary because raw Q topic configurations often exceed token limits for context windows in FMs. The function extracts essential information—metrics, measures, dimensions, and example questions—into compact summaries that can be effectively processed during vector retrieval and question formulation. 
+The final step in our workflow is the SyncQTopicsKnowledgeBase function, which transforms this enriched metadata into vector-searchable documents, one for each Q topic with explicit business domain tags that enable domain-filtered retrieval. The function triggers Amazon Bedrock knowledge base ingestion to rebuild vector embeddings (numerical representations that capture semantic meaning), completing the cycle from Q topic configuration to searchable knowledge assets. This pipeline makes sure RRDA consistently has access to current, comprehensive Q topic metadata without requiring manual updates, significantly reducing operational overhead while improving the quality of Q topic recommendations. 
+Best practices 
+Based on our experience extending RRDA with visualization capabilities through Amazon Q in QuickSight, the following are some best practices for implementing generative BI solutions in the enterprise: 
+ 
+ Anticipate analytical needs with intelligent suggestions – Use AI to predict what visualizations users potentially expect, automatically surfacing relevant charts during conversations about metrics or SQL. This alleviates discovery barriers and empowers users with insights they might not have thought initially, seamlessly bridging the gap between understanding data and visualizing trends. 
+ Build an automatic translation layer when connecting disparate AI systems – Use AI to automatically reformat natural language queries into the structured patterns that systems expect, rather than requiring users to learn precise system-specific phrasing. Preserve the user’s original intent and context while making sure each system receives input in its preferred format. 
+ Design feedback loops – Create automated systems that collect validated content from user interactions and feed it back into your knowledge bases. By harvesting human-reviewed questions from tools like Amazon Q in QuickSight, your system continuously improves through better retrieval data without requiring model retraining. 
+ Implement retrieval before generation – Use vector search with domain filtering to narrow down relevant visualization sources before employing generative AI to select and formulate the optimal question, dramatically improving response quality and reducing latency. 
+ Maintain domain context across modalities – Make sure that business domain context carries through the entire user journey, whether users are receiving SQL code or visualizations, to maintain consistency in metric definitions and data interpretation. 
+ 
+For comprehensive guidance on building production-ready generative AI solutions, refer to the AWS Well-Architected Framework Generative AI Lens for best practices across security, reliability, performance efficiency, cost optimization, operational excellence, and sustainability. 
+Conclusion 
+In this two-part series, we explored how Amazon’s Worldwide Returns &amp; ReCommerce organization built RRDA, a conversational data assistant that transforms natural language into both SQL queries and data visualizations. By combining Amazon Bedrock Agents for orchestration and SQL generation with Amazon Q in QuickSight for visual analytics, our solution democratizes data access across the organization. The domain-aware architecture, intelligent question rephrasing, and automated metadata management alleviate barriers between business questions and data insights, significantly reducing the time required to make data-driven decisions. As we continue enhancing RRDA with additional capabilities based on user feedback and advancements in FMs, we remain focused on our mission of creating a seamless bridge between natural language questions and actionable business insights. 
+ 
+About the authors 
+Dheer Toprani is a System Development Engineer within the Amazon Worldwide Returns and ReCommerce Data Services team. He specializes in large language models, cloud infrastructure, and scalable data systems, focusing on building intelligent solutions that enhance automation and data accessibility across Amazon’s operations. Previously, he was a Data &amp; Machine Learning Engineer at AWS, where he worked closely with customers to develop enterprise-scale data infrastructure, including data lakes, analytics dashboards, and ETL pipelines. 
+Nicolas Alvarez is a Data Engineer within the Amazon Worldwide Returns and ReCommerce Data Services team, focusing on building and optimizing recommerce data systems. He plays a key role in developing advanced technical solutions, including Apache Airflow implementations and front-end architecture for the team’s web presence. His work is crucial in enabling data-driven decision making for Amazon’s reverse logistics operations and improving the efficiency of end-of-lifecycle product management. 
+Lakshdeep Vatsa is a Senior Data Engineer within the Amazon Worldwide Returns and ReCommerce Data Services team. He specializes in designing, building, and optimizing large-scale data and reporting solutions. At Amazon, he plays a key role in developing scalable data pipelines, improving data quality, and enabling actionable insights for Reverse Logistics and ReCommerce operations. He is deeply passionate about enhancing self-service experiences for users and consistently seeks opportunities to utilize generative BI capabilities to solve complex customer challenges. 
+Karam Muppidi is a Senior Engineering Manager at Amazon Retail, leading data engineering, infrastructure, and analytics teams within the Worldwide Returns and ReCommerce organization. He specializes in using LLMs and multi-agent architectures to transform data analytics and drive organizational adoption of AI tools. He has extensive experience developing enterprise-scale data architectures, analytics services, and governance strategies using AWS and third-party tools. Prior to his current role, Karam developed petabyte-scale data and compliance solutions for Amazon’s Fintech and Merchant Technologies divisions. 
+Sreeja Das is a Principal Engineer in the Returns and ReCommerce organization at Amazon. In her 10+ years at the company, she has worked at the intersection of high-scale distributed systems in eCommerce and Payments, Enterprise services, and Generative AI innovations. In her current role, Sreeja is focusing on system and data architecture transformation to enable better traceability and self-service in Returns and ReCommerce processes. Previously, she led architecture and tech strategy of some of Amazon’s core systems including order and refund processing systems and billing systems that serve tens of trillions of customer requests everyday.
 
 ⸻
