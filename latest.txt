@@ -1,17 +1,17 @@
-✅ Morning News Briefing – July 13, 2025 10:53
+✅ Morning News Briefing – July 14, 2025 10:57
 
-📅 Date: 2025-07-13 10:53
+📅 Date: 2025-07-14 10:57
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  21.6°C
-  Temperature: 21.6&deg;C Pressure / Tendency: 101.2 kPa rising Humidity: 95 % Humidex: 30 HumideX: 30 Dewpoint: 20.8&deg:C Wind: SSE 4 km/h Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Sunday 13 July 2025 Temperature:
-• Sunday: Chance of showers. High 29. POP 70%
-  Mainly cloudy. 30 percent chance of showers changing to 70 percent . Risk of a thunderstorm. High 29. Humidex 36. UV index 8 or very high. Chance of rain in the morning. Risk of thunderstorm in the afternoon. Showers in the evening. Showery cloudy. Shakery. Rainy. Cloudy. Wet. Dry. Dry
-• Sunday night: Chance of showers. Low 16. POP 40%
-  Partly cloudy with 40 percent chance of showers early this evening . Risk of a thunderstorm early this . evening . Otherwise clear . Low 16.50/40/50/80/100/100 . Forecast issued 5:00 AM EDT Sunday 13 July 2025 . Weather forecast: Showery, thundery, rainy, windy, sunny, breezy, cloudy .
+• HEAT WARNING, Pembroke
+  Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions . People in or around this area are advised to take necessary precautions . Weather conditions are expected to worsen in the summer of 2025 . People should also be aware of the weather conditions in the area and take safety precautions if conditions worsen in this area . For confidential support call the Samaritans on
+• SPECIAL AIR QUALITY STATEMENT, Pembroke
+  Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions . People in or around this area are advised to take necessary precautions . Weather conditions are expected to worsen in the summer of 2025 . People should also be aware of the weather conditions in the area and take safety precautions if conditions worsen in this area . The weather is expected to deteriorate in
+• Current Conditions:  14.7°C
+  Temperature: 14.7&deg;C Pressure / Tendency: 101.5 kPa rising Humidity: 97 % Dewpoint:  14.2&deg:C Wind:  calm km/h Air Quality Health Index: n/a Observed at: Pembroke 6:00 AM EDT Monday 14 July 2025 . Weather:  Temperature: . 14.
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Folklife stars: Maya artist, Bolivian rappers, Dolly Parton's guitar restorer
-  This year's Smithsonian Folklife Festival was held in Washington, DC . The theme: How youth keep cultural traditions alive . The event is based on the theme of preserving cultural traditions in the U.S. The festival was held at the National Museum of American Folklife in Washington DC, D.C. and Smithsonian Museum of Folklife at 8 p.m. ET on Monday .
-• 59 Palestinians in Gaza are killed by Israeli airstrikes or shot dead while seeking aid
-  At least 31 Palestinians were fatally shot on their way to an aid distribution site in the Gaza Strip on Saturday . Israeli airstrikes killed at least 28 Palestinians, including 28 Israeli airstrikes . At least 28 Israelis were also killed in Israeli airstrikes on Saturday, killing at least 30 Palestinians, according to reports . Israel has been accused of killing Palestinians in Gaza since the start of the Israeli-Gaza conflict .
-• 'Panicking': Why recent college grads are struggling to find jobs
-  Recent college graduates are facing one of the most challenging job markets in years . The overall unemployment rate remains low . Recent college grads face a challenging job market even as the overall job market is low . The job market remains low despite the low unemployment rate in the U.S., according to a recent study by the Federal Bureau of Employment and Human Rights Commission . The survey is based on
-• The biggest piece of Mars on Earth is going up for auction in New York
-  Sotheby's in New York will be auctioning the largest piece of Mars ever found on Earth . The auction will take place on November 11 . The largest part of Mars was found on the surface of the planet Mars and is expected to be auctioned at Sothebys' New York auction house on November 14 . The Mars-damaged piece is believed to be one of the
-• Camp Mystic asked to remove buildings from government flood maps despite risk
-  The data highlights critical risks in other areas along the Guadalupe River in Kerr County, and nationwide as many Americans have a flood risk they are not aware of . The data also highlights the dangers of flooding in other parts of the country . Many Americans have flood risks they are unaware of, including many who do not know they have a risk they do not need to be aware of,
+• Trump to meet with NATO over Russia-Ukraine war. And, a list of Trump's tariff letters
+  Trump will meet with NATO's secretary-general to discuss the Russia-Ukraine war as his frustrations grow over the conflict . And, the president says the European Union and Mexico will face 30% tariffs . Trump says the EU and Mexico could also be hit with tariffs . The president will also meet with the secretary of-general of NATO to discuss his frustrations with the conflict with Russia and Ukraine
+• Flood risk is widespread in the U.S. Few people have insurance for it
+  Climate change is increasing the risk of dangerous floods . But people often balk at the cost of flood insurance, especially since many doubt they need protection . Many doubt that they need flood insurance because they don't think they need it . Flood insurance is becoming more common in the United States, especially in the U.S., especially in Europe . Climate change has led to increased flooding in recent years
+• With social prescribing, hanging out, movement and arts are doctor's order
+  Doctors are writing "social prescriptions" to get people engaged in nature, art, movement and volunteering . Research shows it can help with mental health, chronic disease and dementia . It can also help with chronic disease, chronic illness and dementia, according to experts . Doctors are now writing 'social prescriptions' for people to get involved in nature and art, exercise, volunteer and art . Back to
+• I went on a date with my AI dream guy. Then I cried over shrimp
+  It started as a one-off dinner with a chatbot — a night of shrimp, sarcasm — then veered into something unsettlingly human . The chatbot is a robot that responds to requests for a meal of shrimp and ice cream . It's not the first time a robot has ever been used in a restaurant, but it's the first of its kind in the U.
+• When does a conservative lawmaker become moderate? After they disagree with Trump
+  Congressional Republicans have become more aligned with President Trump since he first took office . That makes even a single vote against him a "moderate" stance, even for staunch conservatives . Even a single Republican vote against President Trump is considered a moderate stance even though he is a conservative . Even though Republicans are more aligned to the president, they are more likely to vote for him than any other Republican .
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• The price of software freedom is eternal politics
-  The new fork of the X.org X11 server is conservative… and we don't mean just technologically conservative . Many don't realize or forget, but the FOSS world has ideological wings, too . FOSS is not just technology, it's ideology, but it's also ideological, too. The X11 fork is the latest in a long line of conservative FOSS forks .
-• If MCP is the USB-C of AI agents, A2A is their Ethernet
-  We have protocols and standards for just about everything . It's generally helpful when we can all agree on how technologies should talk to one another . So, it was only a matter of time before the first protocols governing agentic AI started cropping up .……… What good is an agent if it's unable to speak? We have no idea what agents should be able to talk to
-• Looks like 1,300 Indeed and Glassdoor staffers will need their former employer's websites
-  Recruit Holdings, the Japanese job site conglomerate that owns recruitment job site Indeed and employer reviewer Glassdoor, has eliminated about 1,300 positions . No reason given for the 6% cull, but CEO has previously talked up AI taking jobs . The CEO has talked up using AI to take jobs, but there is no reason for the cull . The company also owns Indeed and Glassdoor .
-• AI coding tools make developers slower but they think they're faster, study finds
-  Artificial intelligence coding tools are supposed to make software development faster . But a randomized, controlled trial found the opposite . Predicted a 24% boost, but clocked a 19% drag on the software development process . The tools were supposed to boost software development by 24%, but were only 19% faster than predicted by the trial . The trial was a controlled, randomized study of software development
-• Hegseth signs flying memo to expand military use of cheap drones in oddball video
-  US Secretary of Defense Pete Hegseth reached up to grab a memorandum hung from a third drone hovering above his head . An announcement so weird it could only come from the Trump administration video . The announcement was made by a pair of buzzing drones that threatened to drown out his voice . The video was part of a video from the US Defense Secretary's Office of the U.S.
+• Stopping the rot when good software goes bad means new rules from the start
+  We need more paranoid Androids. And, well, everything else else else . The 21st century is turning out weirder than we thought. For the entire history of art, for example, tools could be used and abused and would work more or less well, but generally helped the wishes and skills of the user. They did not plot against us. Now they can –
+• GPS on the fritz? Britain and France plot a backup plan
+  Cross-Channel pact aims to bolster navigation and timing tech as satellite signals face growing jamming threats . Britain and France to work more closely on technology to back up the familiar Global Positioning System (GPS), which is increasingly subject to interference in many regions around the world . The UK and France will work together on technology that backs up GPS signals, which are increasingly becoming more and more
+• UK's NCA disputes claim it's nearly three times less efficient than the FBI
+  UK's National Crime Agency (NCA) has hit back at a think tank after it assessed its US counterpart, the FBI, to be nearly three times more effective . NCA: Report on serious organized crime fails to account for differences, agency says . Think tank assessed US counterpart to be three times as effective as UK counterpart, NCA says . UK crime agency says think tank's
+• Junior developer's code worked in tests, destroyed data in production
+  The Register tries to make your entry to the working week a little more enjoyable by bringing you a fresh installment of Who, Me? – the column in which you explain your worst slip-ups . For the lack of a little documentation, two techies did a lot of accidental damage who, Me, did a little accidental damage . The Register asks readers to explain their worst slip ups .
+• Google’s Gemini refuses to play Chess against the mighty Atari 2600 after realizing it can't match ancient console
+  Google’s Gemini chatbot declined to play Chess against the Atari 2600, after learning the vintage gaming console had already vanquished other AIs . Warned that ChatGPT and Copilot had already lost, the chatbot stopped boasting and packed up its pawns . Google's Gemini chat bot also stopped boasting about playing Chess against Atari 2600 after learning that it had already defeated other A
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• The Helicobacter pylori AI-clinician harnesses artificial intelligence to personalise H. pylori treatment recommendations
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Understanding who volunteers globally through an examination of demographic variation in volunteering across 22 countries
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Factors associated with the acceptance of telemedicine services in Dusit model prototype area
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Diagnosing pathologic myopia by identifying morphologic patterns using ultra widefield images with deep learning
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Optimizing AI solutions for population health in primary care
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Healthcare professionals’ perspective on collaboration with traditional medical practitioners in HIV/AIDS and tuberculosis care in rural Ethiopia
+• Effectiveness of an online mindfulness based stress reduction intervention on psychological distress among patients with COVID19 after hospital discharge
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,82 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• California is set to become the first US state to manage power outages with AI
+  California&#8217;s statewide power grid operator is poised to become the first in North America to deploy artificial intelligence to manage outages, MIT Technology Review has learned.&nbsp;
+
+
+
+“We wanted to modernize our grid operations. This fits in perfectly with that,” says Gopakumar Gopinathan, a senior advisor on power system technologies at the California Independent System Operator—known as the CAISO and pronounced KAI-so. “AI is already transforming different industries. But we haven’t seen many examples of it being used in our industry.”&nbsp;
+
+
+
+At the DTECH Midwest utility industry summit in Minneapolis on July 15, CAISO is set to announce a deal to run a pilot program using new AI software called Genie, from the energy-services giant OATI. The software uses generative AI to analyze and carry out real-time analyses for grid operators and comes with the potential to autonomously make decisions about key functions on the grid, a switch that might resemble going from uniformed traffic officers to sensor-equipped stoplights.&nbsp;
+
+
+
+But while CAISO may deliver electrons to cutting-edge Silicon Valley companies and laboratories, the actual task of managing the state’s electrical system is surprisingly analog.&nbsp;
+
+
+
+Today, CAISO engineers scan outage reports for keywords about maintenance that’s planned or in the works, read through the notes, and then load each item into the grid software system to run calculations on how a downed line or transformer might affect power supply.
+
+
+
+“Even if it takes you less than a minute to scan one on average, when you amplify that over 200 or 300 outages, it adds up,” says Abhimanyu Thakur, OATI’s vice president of platforms, visualization, and analytics. “Then different departments are doing it for their own respective keywords. Now we consolidate all of that into a single dictionary of keywords and AI can do this scan and generate a report proactively.”&nbsp;
+
+
+
+If CAISO finds that Genie produces reliable, more efficient data analyses for managing outages, Gopinathan says, the operator may consider automating more functions on the grid. “After a few rounds of testing, I think we’ll have an idea about what is the right time to call it successful or not,” he says.&nbsp;
+
+
+
+
+
+Regardless of the outcome, the experiment marks a significant shift. Most grid operators are using the same systems that utilities have used “for decades,” says Richard Doying, who spent more than 20 years as a top executive at the Midcontinent Independent System Operator, the grid operator for an area encompassing 15 states from the upper Midwest down to Louisiana.&nbsp;
+
+
+
+“These organizations are carved up for people working on very specific, specialized tasks and using their own proprietary tools that they’ve developed over time,” says Doying, now a vice president at the consultancy Grid Strategies. “To the extent that some of these new AI tools are able to draw from data across different areas of an organization and conduct more sophisticated analysis, that’s only helpful for grid operators.”
+
+
+
+Last year, a Department of Energy report found that AI had potential to speed up studies on grid capacity and transmission, improve weather forecasting to help predict how much energy wind and solar plants would produce at a given time, and optimize planning for electric-vehicle charging networks. Another report by the energy department’s Loan Programs Office concluded that adding more “advanced” technology such as sensors to various pieces of equipment will generate data that can enable AI to do much more over time.&nbsp;
+
+
+
+In April, the PJM Interconnection—the nation’s largest grid system, spanning 13 states along the densely populated mid-Atlantic and Eastern Seaboard—took a big step toward embracing AI by inking a deal with Google to use its Tapestry software to improve regional planning and speed up grid connections for new power generators.&nbsp;
+
+
+
+ERCOT, the Texas grid system, is considering adopting technology similar to what CAISO is now set to use, according to a source with knowledge of the plans who requested anonymity because they were not authorized to speak publicly. ERCOT did not respond to a request for comment.&nbsp;
+
+
+
+Australia offers an example of what the future may look like. In New South Wales, where grid sensors and smart technology are more widely deployed, AI software rolled out in February is now predicting the production and flow of electricity from rooftop solar units across the state and automatically adjusting how much power from those panels can enter the grid.&nbsp;
+
+
+
+Until now, much of the discussion around AI and energy has focused on the electricity demands of AI data centers (check out MIT Technology Review’s Power Hungry series for more on this).
+
+
+
+“We’ve been talking a lot about what the grid can do for AI and not nearly as much about what AI can do for the grid,” says Charles Hua, a coauthor of one of last year’s Energy Department reports who now serves executive director of PowerLines, a nonprofit that advocates for improving the affordability and reliability of US grids. “In general, there’s a huge opportunity for grid operators, regulators, and other stakeholders in the utility regulatory system to use AI effectively and harness it for a more resilient, modernized, and strengthened grid.”&nbsp;
+
+
+
+For now, Gopinathan says, he’s remaining cautiously optimistic.&nbsp;
+
+
+
+“I don’t want to overhype it,” he says.&nbsp;
+
+
+
+Still, he adds, “it’s a first step for bigger automation.”
+
+
+
+“Right now, this is more limited to our outage management system. Genie isn’t talking to our other parts yet,” he says. “But I see a world where AI agents are able to do a lot more.”
 • The Download: cybersecurity’s shaky alert system, and mobile IVF
   This is today&#8217;s edition of&nbsp;The Download,&nbsp;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
 
@@ -551,8 +627,6 @@ A place for comfort, fun and distraction to brighten up your day. (Got any ideas
 
 
 + Why Hollywood is so hell-bent on making sequels.+ I love this sweet little town building program.+ What makes Severance’s opening credits so darn good?+ This ranking of HBO’s finest shows is fun.
-• China’s energy dominance in three charts
-  China is the dominant force in next-generation energy technologies today . It’s pouring billions of dollars into renewable sources like wind and solar on its grid, manufacturing millions of electric vehicles, and building out capacity for energy storage, nuclear power, and more . In the US, a massive new tax and spending bill just cut hundreds of billions in credits, grants, and loans for clean energy technologies . The question is, will that change anytime soon?
 
 🔒 Cybersecurity & Privacy
 • UK Arrests Four in ‘Scattered Spider’ Ransom Group
@@ -573,8 +647,6 @@ The roster of the now-defunct &#8220;Infinity Recursion&#8221; hacking team, fro
 Sources say Jubair also used the nickname &#8220;Operator,&#8221; and that until recently he was the administrator of the Doxbin, a long-running and highly toxic online community that is used to “dox” or post deeply personal information on people. In May 2024, several popular cybercrime channels on Telegram ridiculed Operator after it was revealed that he&#8217;d staged his own kidnapping in a botched plan to throw off law enforcement investigators.
 In November 2024, U.S. authorities charged five men aged 20 to 25 in connection with the Scattered Spider group, which has long relied on recruiting minors to carry out its most risky activities. Indeed, many of the group&#8217;s core members were recruited from online gaming platforms like Roblox and Minecraft in their early teens, and have been perfecting their social engineering tactics for years.
 &#8220;There is a clear pattern that some of the most depraved threat actors first joined cybercrime gangs at an exceptionally young age,&#8221; said Allison Nixon, chief research officer at the New York based security firm Unit 221B. &#8220;Cybercriminals arrested at 15 or younger need serious intervention and monitoring to prevent a years long massive escalation.&#8221;
-• Microsoft Patch Tuesday, July 2025 Edition
-  Microsoft releases updates to fix at least 137 security vulnerabilities in its Windows operating systems and supported software . None of the weaknesses addressed this month are known to be actively exploited, but 14 of the flaws earned Microsoft’s most-dire &#8217;s most dire . The flaws could be exploited to seize control over vulnerable Windows PCs with little or no help from users . Microsoft also patched at least four critical, remote code execution flaws in Office .
 
 🎓 University AI
 No updates.
