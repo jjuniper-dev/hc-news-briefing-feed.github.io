@@ -1,6 +1,6 @@
-✅ Morning News Briefing – July 17, 2025 10:57
+✅ Morning News Briefing – July 18, 2025 10:58
 
-📅 Date: 2025-07-17 10:57
+📅 Date: 2025-07-18 10:58
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
@@ -8,10 +8,10 @@
 🧾 Weather
 • No watches or warnings in effect, Pembroke
   No watches or warnings in effect. No warnings or watches or watches in effect . Watch or warnings are no longer in effect in the U.S. No watches, warnings are in effect for the rest of the day . No watches and warnings are still in effect, but no watches are in place for the day's events . The weather is not expected to be affected by the weather .
-• Current Conditions: Fog and Smoke, 19.6°C
-  Conditions: Fog and Smoke Temperature: 19.6&deg;C Pressure / Tendency: 100.6 kPa falling Visibility: 8 km Humidity: 90 % Dewpoint: 17.9&deg:C Wind: W 8 km/h Air Quality Health Index: n/a . The conditions were observed at Garrison Petawawa 6:00 AM EDT Thursday 17
-• Thursday: Showers. High 27.
-  Showers beginning this morning then changing to 40 percent chance of showers this afternoon . Risk of a thunderstorm. Local amount 20 to 30 mm. Risk of thunderstorm . Wind becoming northwest 30 km/h gusting to 50 early this afternoon. High 27. Humidex 36. UV index 5 or moderate, with a high of 36 degrees in the mid-90s or lower
+• Current Conditions:  9.7°C
+  Temperature: 9.7&deg;C Pressure / Tendency: 102.0 kPa rising Humidity: 96 % Humidity is 96 % Dewpoint: 9 .2&deg:C Wind: SW 6 km/h Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Friday 18 July 2025 Temperature: 9.7/deg
+• Friday: Mainly sunny. High 23.
+  Sunny. Becoming a mix of sun and cloud this afternoon . High 23. Humidex 25. UV index 8 or very high. Sunny. Sunny . Sunny. High 23 . High 25. Humidx 25 . Humidex 25.UV index 8 . Highlight: Sunny, sunny, sunny and sunny. Highlight for the rest of the day. Sunny and sunny
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Israel launches airstrikes on the Syrian capital of Damascus
-  Israel says it targeted the Syrian military headquarters and near the presidential palace . It says it was in response to attacks on the Druze minority . Israel launched airstrikes Wednesday on Syria's capital of Damascus, saying it targeted military HQ and palace . Israel says Druze attacks on Druze minorities are a response to Israel's airstrikes on the Syrian government . The Syrian government has been fighting a civil war
-• Stand back! This explosive cucumber is bursting with seeds
-  A small, hairy, toxic version of the cucumbers found in the produce aisle does have an advantage over its more palatable cousins . A feat of ballistic seed dispersal is a feat of spreading seed seeds, says Stanislav Gorb . A small hairy version of cucumbers has an advantage in dispersal, says Gorb, but does not have the same advantage as its more
-• Maryland taps Affordable Care Act fund to help pay for abortion care
-  Like other states that still allow abortion, Maryland has seen an increase in people coming from out of state to get care . And it's found a new way to offer them financial support . Maryland is one of several states that allow abortion to be legal in the U.S. and has seen a rise in the number of people coming to the state to seek care for women in need of
-• Virginia is for … data centers? Residents are increasingly saying no
-  The world's highest concentration of data centers is in Virginia . Many residents are not happy about that . Virginia is home to the world's most data centers, but residents say it's a good thing for them to live in the U.S. Virginia has the highest population in the world, but many residents don't want that . The state of Virginia is the home of the data centers
-• Ari Aster's 'Eddington' takes the tension of the pandemic to a violent end
-  In pandemic-era New Mexico, a sheriff (Joaquin Phoenix) and a mayor (Pedro Pascal) face off against one another, and their differences boil over into chaos . The film stars Joaquin Phoenix and Pedro Pascal as a sheriff and mayor in pandemic era New Mexico . The movie is based on a novel about a pandemic outbreak in the state of New Mexico in
+• Ask your kids' camps these key questions about heat and flood safety, experts say
+  Camps in nature can expose campers to floods, wildfires and heat . Here are the top questions experts say people should ask about safety . Camps can be great for kids, but they can also expose them to floods and wildfires . The top questions to ask campers about safety should be asked about safety in nature camps, experts say . For more information, visit CNN.com/
+• Congress hopes to raise heat on Russia amid souring relations between Trump and Putin
+  A bipartisan coalition has joined forces to push aggressive new sanctions on Russia . They believe the souring relationship between President Trump and Vladimir Putin has created a new opening . The coalition believes the sour relationship between the two has created an opening for new sanctions to be pushed by the U.S. President Trump's relationship with Vladimir Putin is creating a new opportunity to push back against the Russian leader .
+• What the 'One Big Beautiful Bill' will change for students, schools and colleges
+  School vouchers are going national and the federal student loan system is getting an overhaul . Here's what to know. School vouchers go national and federal student loans are getting a big overhaul. Here's how to learn more about how to apply to students in the U.S. and how to pay for school lunches and lunches with vouchers. See how to sign up for school vouchers.
+• A playbook is forming for younger candidates. The results have so far been mixed
+  Calls for generational change and dissatisfaction with the status quo have been at the center of campaigns by younger candidates . While that has lifted some to victory, others have fallen short . Some candidates have failed to reach the heights of their campaigns, but others have come to terms with their lack of experience and lack of political experience in the U.S. House of Representatives in New York City, New
+• What did Trump tell supporters to 'not waste Time and Energy' on? Take our quiz
+  This week, President Trump didn't want to talk about a thing . If you know what that thing is, you'll get at least one question right . Plus: Emmys! Babies! Tennis! Plus, the Emmys and the Olympics are coming up this week . Have you got a thing right? Share it with us at CNN iReport.com/poll.com .
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Boffins detail new algorithms to losslessly boost AI perf by up to 2.8x
-  New spin on speculative decoding works with any model - now built into Transformers . New set of algorithms developed by researchers at the Weizmann Institute of Science, Intel Labs, and d-Matrix could significantly reduce the cost of serving up your favorite large language model (LLM) with just a few lines of code . AI is expensive, but new algorithms can significantly reduce that cost with just
-• Large Hadron Collider data hints at explanation for why everything exists
-  The universe contains more matter than antimatter, according to a new paper . Scientists have analyzed data gathered from CERN’s Large Hadron Collider to advance our understanding of why anything exists . A paper hints at one reason for that happy disparity in matter and antimatter . It is the first study to suggest that antimatter is more likely to exist in the universe than in antimatter
-• Open, free, and completely ignored: The strange afterlife of Symbian
-  The result of the pioneering joint Psion and Nokia smartphone effort is still out there on GitHub . It did get sourced, but nobody cared . The result was still out on GitHub, and it's still available to anyone who wants to see it . The Psion-Nokia smartphone project is still available on GitHub and is still open to the public . It's not the first time the
-• Microsoft offers vintage Exchange and Skype server users six more months of security updates
-  Microsoft has extended its security update programs for Exchange Server 2016 and 2019, and Skype for Business 2015 and 2019 . It looks like enough of you are struggling to migrate that Redmond is willing to help out – for a price that might buy nothing . Microsoft has also extended its . Exchange Server . 2016 and . 2019 security updates for Exchange . Server 2016, 2019 and 2019 updates for Skype . 2015
-• Meta used AI to concoct low-carbon concrete it poured for a datacenter floor
-  Meta has created an AI model to come up with new forms of concrete and used one of the resulting recipes to underpin a new bit barn . Bayesian optimization apparently build better slabs . Meta also used a recipe to underpin the new bit of barn in a bid to build a bit barn in New York City, New York, with a new model of concrete that was created by Meta .
+• Time for Britain's CMA to strike hard – or risk losing the cloud competition fight
+  UK's ambition to become a global AI superpower hinges on a vibrant and competitive cloud market . Watchdog set to publish report into health of market next month, will it hold AWS and Microsoft's feet to the fire? The next few days will show if its competition regulator really appreciates both the pace of change and the scale of remedies needed to achieve both of these things .………
+• The Smoot – How an MIT prank became a lasting unit of measurement
+  The Harvard Bridge is the name of the smoot, which separates Cambridge, Cambridge, from Boston . We spoke to the smoot's namesake, who was the shortest among the MIT students . The smoot is the longest bridge in the world, and the smoothest was built in 1958 in Cambridge, Massachusetts . It was named after the Harvard Bridge, which is now in the shape of the world's
+• ‘I nearly died after flying thousands of miles to install a power cord for the NSA’
+  On Call is The Register's Friday column that shares your terrifying tech support stories . This job was a car wreck in more than one way . On Call: Share your terrifying Tech support stories with us on Facebook and Twitter at CNN.com/Heroes . Back to the page you came from.com or click here for more of the latest from this week's On Call.com .
+• EU cloud gang wins Microsoft concessions, but fair software licensing group brands them 'stalling tactic'
+  Coalition for Fair Software Licensing has blasted Microsoft as a 'stalling tactic' by the software giant . Pay-as-you-go model, privacy protections agreed – but critics say it just buys 'Microsoft more time to lock in customers' Trade group of European cloud providers has claimed a small victory in bringing lower prices and more flexibility in deploying Microsoft software on their infrastructure . Coalition for
+• VMware slows release cadence for flagship Cloud Foundation suite, but extends support
+  Analysts have warned Broadcom may slow innovation . Analyst: Analysts warn Broadcom could slow innovation in cloud computing . VMware has extended the time between major releases from two years to three and extended support for those releases to six years . Analysts say Broadcom's move could be a step back in the direction of other tech giants in the U.S., including Apple and Microsoft .
 
 🏥 Public Health
 No updates.
 
 🔬 Science
-• Large language models as disrupters of misinformation
+• Effectiveness of leading pedestrian intervals for city walkers’ safety
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Access to nature faces social and socioeconomic as well as travel barriers
+• Personality traits and adherence on COVID-19 preventive measures in a two-year follow-up study
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Temporal trends in suicide related emergency calls by age group and gender from 2014 to 2023
+• Bidirectional relationship between anemia and cognitive function in middle-aged and older Chinese adults: a longitudinal study
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Cross-sectional study of health impairment related to post COVID-19 condition among participants of a large population-based cohort in Germany
+• Heart from organ donor restarted outside the body — technique offers new source of organs
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Spatial heterogeneity and temporal trends of thyroid cancer incidence in Iran from 2014 to 2017
+• Incarceration and cancer care disparities in the USA
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,450 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• A brief history of “three-parent babies”
+  This week we heard that eight babies have been born in the UK following an experimental form of IVF that involves DNA from three people. The approach was used to prevent women with genetic mutations from passing mitochondrial diseases to their children. You can read all about the results, and the reception to them, here. 
+
+
+
+But these eight babies aren’t the first “three-parent” children out there. Over the last decade, several teams have been using variations of this approach to help people have babies. This week, let’s consider the other babies born from three-person IVF.
+
+
+
+
+
+I can’t go any further without talking about the term we use to describe these children. Journalists, myself included, have called them “three-parent babies” because they are created using DNA from three people. Briefly, the approach typically involves using the DNA from the nuclei of the intended parents’ egg and sperm cells. That’s where most of the DNA in a cell is found.
+
+
+
+But it also makes use of mitochondrial DNA (mtDNA)—the DNA found in the energy-producing organelles of a cell—from a third person. The idea is to avoid using the mtDNA from the intended mother, perhaps because it is carrying genetic mutations. Other teams have done this in the hope of treating infertility.
+
+
+
+mtDNA, which is usually inherited from a person’s mother, makes up a tiny fraction of total inherited DNA. It includes only 37 genes, all of which are thought to play a role in how mitochondria work (as opposed to, say, eye color or height).
+
+
+
+That’s why some scientists despise the term “three-parent baby.” Yes, the baby has DNA from three people, but those three can’t all be considered parents, critics argue. For the sake of argument, this time around I’ll use the term “three-person IVF” from here on out.
+
+
+
+So, about these babies. The first were reported back in the 1990s. Jacques Cohen, then at Saint Barnabas Medical Center in Livingston, New Jersey, and his colleagues thought they might be able to treat some cases of infertility by injecting the mitochondria-containing cytoplasm of healthy eggs into eggs from the intended mother. Seventeen babies were ultimately born this way, according to the team. (Side note: In their paper, the authors describe potential resulting children as “three-parental individuals.”)
+
+
+
+But two fetuses appeared to have genetic abnormalities. And one of the children started to show signs of a developmental disorder. In 2002, the US Food and Drug Administration put a stop to the research.
+
+
+
+
+
+The babies born during that study are in their 20s now. But scientists still don’t know why they saw those abnormalities. Some think that mixing mtDNA from two people might be problematic.
+
+
+
+Newer approaches to three-person IVF aim to include mtDNA from just the donor, completely bypassing the intended mother’s mtDNA. John Zhang at the New Hope Fertility Center in New York City tried this approach for a Jordanian couple in 2016. The woman carried genes for a fatal mitochondrial disease and had already lost two children to it. She wanted to avoid passing it on to another child.
+
+
+
+Zhang took the nucleus of the woman’s egg and inserted it into a donor egg that had had its own nucleus removed—but still had its mitochondria-containing cytoplasm. That egg was then fertilized with the woman’s husband’s sperm.
+
+
+
+Because it was still illegal in the US, Zhang controversially did the procedure in Mexico, where, as he told me at the time, “there are no rules.” The couple eventually welcomed a healthy baby boy. Less than 1% of the boy’s mitochondria carried his mother’s mutation, so the procedure was deemed a success.
+
+
+
+There was a fair bit of outrage from the scientific community, though. Mitochondrial donation had been made legal in the UK the previous year, but no clinic had yet been given a license to do it. Zhang’s experiment seemed to have been conducted with no oversight. Many questioned how ethical it was, although Sian Harding, who reviewed the ethics of the UK procedure, then told me it was “as good as or better than what we’ll do in the UK.”
+
+
+
+The scandal had barely died down by the time the next “three-person IVF” babies were announced. In 2017, a team at the Nadiya Clinic in Ukraine announced the birth of a little girl to parents who’d had the treatment for infertility. The news brought more outrage from some quarters, as scientists argued that the experimental procedure should only be used to prevent severe mitochondrial diseases.
+
+
+
+It wasn’t until later that year that the UK’s fertility authority granted a team in Newcastle a license to perform mitochondrial donation. That team launched a trial in 2017. It was big news—the first “official” trial to test whether the approach could safely prevent mitochondrial disease.
+
+
+
+
+
+But it was slow going. And meanwhile, other teams were making progress. The Nadiya Clinic continued to trial the procedure in couples with infertility. Pavlo Mazur, a former embryologist who worked at that clinic, tells me that 10 babies were born there as a result of mitochondrial donation.
+
+
+
+Mazur then moved to another clinic in Ukraine, where he says he used a different type of mitochondrial donation to achieve another five healthy births for people with infertility. “In total, it’s 15 kids made by me,” he says.
+
+
+
+But he adds that other clinics in Ukraine are also using mitochondrial donation, without sharing their results. “We don’t know the actual number of those kids in Ukraine,” says Mazur. “But there are dozens of them.”
+
+
+
+In 2020, Nuno Costa-Borges of Embryotools in Barcelona, Spain, and his colleagues described another trial of mitochondrial donation. This trial, performed in Greece, was also designed to test the procedure for people with infertility. It involved 25 patients. So far, seven children have been born. “I think it’s a bit strange that they aren’t getting more credit,” says Heidi Mertes, a medical ethicist at Ghent University in Belgium.
+
+
+
+The newly announced UK births are only the latest “three-person IVF” babies. And while their births are being heralded as a success story for mitochondrial donation, the story isn’t quite so simple. Three of the eight babies were born with a non-insignificant proportion of mutated mitochondria, ranging between 5% and 20%, depending on the baby and the sample.
+
+
+
+Dagan Wells of the University of Oxford, who is involved in the Greece trial, says that two of the seven babies in their study also appear to have inherited mtDNA from their intended mothers. Mazur says he has seen several cases of this “reversal” too.
+
+
+
+This isn’t a problem for babies whose mothers don’t carry genes for mitochondrial disease. But it might be for those whose mothers do.
+
+
+
+I don’t want to pour cold water over the new UK results. It was great to finally see the results of a trial that’s been running for eight years. And the births of healthy babies are something to celebrate. But it’s not a simple success story. Mitochondrial donation doesn’t guarantee a healthy baby. We still have more to learn, not only from these babies, but from the others that have already been born.
+
+
+
+This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, sign up here.
+• Finding value from AI agents from day one
+  Imagine AI so sophisticated it could read a customer’s mind? Or identify and close a cybersecurity loophole weeks before hackers strike? How about a team of AI agents equipped to restructure a global supply chain and circumnavigate looming geopolitical disruption? Such disruptive possibilities explain why agentic AI is sending ripples of excitement through corporate boardrooms.&nbsp;
+
+
+
+
+
+
+
+Although still so early in its development that there lacks consensus on a single, shared definition, agentic AI refers loosely to a suite of AI systems capable of connected and autonomous decision-making with zero or limited human intervention. In scenarios where traditional AI typically requires explicit prompts or instructions for each step, agentic AI will independently execute tasks, learning and adapting to its environment to refine decisions over time.&nbsp;
+
+
+
+From assuming oversight for complex workflows, such as procurement or recruitment, to carrying out proactive cybersecurity checks or automating support, enterprises are abuzz at the potential use cases for agentic AI.&nbsp;
+
+
+
+According to one Capgemini survey, 50% of business executives are set to invest in and implement AI agents in their organizations in 2025, up from just 10% currently. Gartner has also forecast that 33% of enterprise software applications will incorporate agentic AI by 2028. For context, in 2024 that proportion was less than 1%.&nbsp;
+
+
+
+“It’s creating such a buzz – software enthusiasts seeing the possibilities unlocked by LLMs, venture capitalists wanting to find the next big thing, companies trying to find the ‘killer app,” says Matt McLarty, chief technology officer at Boomi. But, he adds, “right now organizations are struggling to get out of the starting blocks.”&nbsp;
+
+
+
+The challenge is that many organizations are so caught up in the excitement that they risk attempting to run before they can walk when it comes to deployment of agentic AI, believes McLarty. And in so doing they risk turning it from potential business breakthrough into a source of cost, complexity, and confusion.
+
+
+
+Keeping agentic AI simple&nbsp;
+
+
+
+The heady capabilities of agentic AI have created understandable temptation for senior business leaders to rush in, acting on impulse rather than insight risks turning the technology into a solution in search of a problem, points out McLarty.&nbsp;
+
+
+
+It’s a scenario that’s unfolded with previous technologies. The decoupling of Blockchain from Bitcoin in 2014 paved the way for a Blockchain 2.0 boom in which organizations rushed to explore the applications for a digital, decentralized ledger beyond currency. But a decade on, the technology has fallen far short of forecasts at the time, dogged by technology limitations and obfuscated use cases.&nbsp;
+
+
+
+“I do see Blockchain as a cautionary tale,” says McLarty. “The hype and ultimate lack of adoption is definitely a path the agentic AI movement should avoid.” He explains, “The problem with Blockchain is that people struggle to find use cases where it applies as a solution, and even when they find the use cases, there is often a simpler and cheaper solution,” he adds. “I think agentic AI can do things no other solution can, in terms of contextual reasoning and dynamic execution. But as technologists, we get so excited about the technology, sometimes we lose sight of the business problem.”
+
+
+
+Instead of diving in headfirst, McLarty advocates for an iterative attitude toward applications of agentic AI, targeting “low-hanging fruit” and incremental use cases. This includes focusing investment on the worker agents that are set to make up the components of more sophisticated, multi-agent agentic systems further down the road.&nbsp;
+
+
+
+However, with a narrower, more prescribed remit, these AI agents with agentic capabilities can add instant value. Enabled with natural language processing (NLP) they can be used to bridge the linguistic shortfalls in current chat agents for example or adaptively carry out rote tasks via dynamic automation.&nbsp;
+
+
+
+“Current rote automation processes generate a lot of value for organizations today, but they can lead to a lot of manual exception processing,” points out McLarty. “Agentic exception handling agents can eliminate a lot of that.”&nbsp;
+
+
+
+It’s also essential to avoid use cases for agentic AI that could be addressed with a cheaper and simpler technology. “Configuring a self-manager, ephemeral agent swarm may sound exciting and be exhilarating to build, but maybe you can just solve the problem with a simple reasoning agent that has access to some in-house contextual data and API-based tools,” says McLarty. “Let’s call it the KASS principle: Keep agents simple, stupid.”
+
+
+
+Connecting the dots
+
+
+
+The future value of agentic AI will lie in its interoperability and organizations that prioritize this pillar at the earliest phase of their adoption will find themselves ahead of the curve.&nbsp;
+
+
+
+As McLarty explains, the usefulness of agentic AI agents in scenarios like customer support chats lies in their combination of four elements: a defined business scope, large language models (LLM), the wider context derived from an organization’s existing data, and capabilities executed through its core applications. These latter two rely on in-built interoperability. For example, an AI agent tasked with onboarding new employees will require access to updated HR policies, asset catalogs and IT. “Organizations can get a massive head start on business value through AI agents by having interoperable data and applications to plug and play with agents,” he says.&nbsp;
+
+
+
+Agent-to-agent frameworks like the model context protocol (MCP) – an open and standardized plug-and-play that connects AI models to internal (or external) information sources – can be layered onto an existing API architecture to embed connectedness from the outset. And while it might feel like an additional hurdle now, in the longer-term those organizations that make this investment early will reap the benefits.&nbsp;
+
+
+
+“The icing on the cake for interoperability is that all the work you do to connect agents to data and applications now will help you prepare for the multi-agent future where interoperability between agents will be essential,” says McLarty.&nbsp;
+
+
+
+In this future, multi-agent systems will work collectively on more intricate, cross-functional tasks. Agentic systems will draw on AI agents across inventory, logistics and production to coordinate and optimize supply chain management for example or perform complex assembly tasks.&nbsp;
+
+
+
+Conscious that this is where the technology is headed, third-party developers are already beginning to offer multi-agent capability. In December, Amazon launched such a tool for its Bedrock service, providing users access to specialized agents coordinated by a supervisor agent capable of breaking down requests, delegating tasks and consolidating outputs.&nbsp;
+
+
+
+But though such an off-the-rack solution has the advantage of allowing enterprises to bypass both the risk and complexity in leveraging such capabilities, the digital heterogeneity of larger organizations in particular will likely mean – in the longer-term at least – they’ll need to rely on their own API architecture to realize the full potential in multi-agent systems.
+
+
+
+McLarty’s advice is simple, “This is definitely a time to ground yourself in the business problem, and only go as far as you need to with the solution.”
+
+
+
+This content was produced by Insights, the custom content arm of MIT Technology Review. It was not written by MIT Technology Review’s editorial staff.
+
+
+
+This content was researched, designed, and written entirely by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used were limited to secondary production processes that passed thorough human review.
+• How to run an LLM on your laptop
+  MIT Technology Review’s How To series helps you get things done.&nbsp;
+
+
+
+Simon Willison has a plan for the end of the world. It’s a USB stick, onto which he has loaded a couple of his favorite open-weight LLMs—models that have been shared publicly by their creators and that can, in principle, be downloaded and run with local hardware. If human civilization should ever collapse, Willison plans to use all the knowledge encoded in their billions of parameters for help. “It’s like having a weird, condensed, faulty version of Wikipedia, so I can help reboot society with the help of my little USB stick,” he says.
+
+
+
+But you don’t need to be planning for the end of the world to want to run an LLM on your own device. Willison, who writes a popular blog about local LLMs and software development, has plenty of compatriots: r/LocalLLaMA, a subreddit devoted to running LLMs on your own hardware, has half a million members.
+
+
+
+For people who are concerned about privacy, want to break free from the control of the big LLM companies, or just enjoy tinkering, local models offer a compelling alternative to ChatGPT and its web-based peers.
+
+
+
+The local LLM world used to have a high barrier to entry: In the early days, it was impossible to run anything useful without investing in pricey GPUs. But researchers have had so much success in shrinking down and speeding up models that anyone with a laptop, or even a smartphone, can now get in on the action. “A couple of years ago, I’d have said personal computers are not powerful enough to run the good models. You need a $50,000 server rack to run them,” Willison says. “And I kept on being proved wrong time and time again.”
+
+
+
+
+
+Why you might want to download your own LLM
+
+
+
+Getting into local models takes a bit more effort than, say, navigating to ChatGPT’s online interface. But the very accessibility of a tool like ChatGPT comes with a cost. “It’s the classic adage: If something’s free, you’re the product,” says Elizabeth Seger, the director of digital policy at Demos, a London-based think tank.&nbsp;
+
+
+
+OpenAI, which offers both paid and free tiers, trains its models on users’ chats by default. It’s not too difficult to opt out of this training, and it also used to be possible to remove your chat data from OpenAI’s systems entirely, until a recent legal decision in the New York Times’ ongoing lawsuit against OpenAI required the company to maintain all user conversations with ChatGPT.
+
+
+
+Google, which has access to a wealth of data about its users, also trains its models on both free and paid users’ interactions with Gemini, and the only way to opt out of that training is to set your chat history to delete automatically—which means that you also lose access to your previous conversations. In general, Anthropic does not train its models using user conversations, but it will train on conversations that have been “flagged for Trust &amp; Safety review.” 
+
+
+
+Training may present particular privacy risks because of the ways that models internalize, and often recapitulate, their training data. Many people trust LLMs with deeply personal conversations—but if models are trained on that data, those conversations might not be nearly as private as users think, according to some experts.
+
+
+
+“Some of your personal stories may be cooked into some of the models, and eventually be spit out in bits and bytes somewhere to other people,” says Giada Pistilli, principal ethicist at the company Hugging Face, which runs a huge library of freely downloadable LLMs and other AI resources.
+
+
+
+For Pistilli, opting for local models as opposed to online chatbots has implications beyond privacy. “Technology means power,” she says. “And so who[ever] owns the technology also owns the power.” States, organizations, and even individuals might be motivated to disrupt the concentration of AI power in the hands of just a few companies by running their own local models.
+
+
+
+Breaking away from the big AI companies also means having more control over your LLM experience. Online LLMs are constantly shifting under users’ feet: Back in April, ChatGPT suddenly started sucking up to users far more than it had previously, and just last week Grok started calling itself MechaHitler on X.
+
+
+
+Providers tweak their models with little warning, and while those tweaks might sometimes improve model performance, they can also cause undesirable behaviors. Local LLMs may have their quirks, but at least they are consistent. The only person who can change your local model is you.
+
+
+
+Of course, any model that can fit on a personal computer is going to be less powerful than the premier online offerings from the major AI companies. But there’s a benefit to working with weaker models—they can inoculate you against the more pernicious limitations of their larger peers. Small models may, for example, hallucinate more frequently and more obviously than Claude, GPT, and Gemini, and seeing those hallucinations can help you build up an awareness of how and when the larger models might also lie.
+
+
+
+“Running local models is actually a really good exercise for developing that broader intuition for what these things can do,” Willison says.
+
+
+
+How to get started
+
+
+
+Local LLMs aren’t just for proficient coders. If you’re comfortable using your computer’s command-line interface, which allows you to browse files and run apps using text prompts, Ollama is a great option. Once you’ve installed the software, you can download and run any of the hundreds of models they offer with a single command.&nbsp;
+
+
+
+If you don’t want to touch anything that even looks like code, you might opt for LM Studio, a user-friendly app that takes a lot of the guesswork out of running local LLMs. You can browse models from Hugging Face from right within the app, which provides plenty of information to help you make the right choice. Some popular and widely used models are tagged as “Staff Picks,” and every model is labeled according to whether it can be run entirely on your machine’s speedy GPU, needs to be shared between your GPU and slower CPU, or is too big to fit onto your device at all. Once you’ve chosen a model, you can download it, load it up, and start interacting with it using the app’s chat interface.
+
+
+
+As you experiment with different models, you’ll start to get a feel for what your machine can handle. According to Willison, every billion model parameters require about one GB of RAM to run, and I found that approximation to be accurate: My own 16 GB laptop managed to run Alibaba’s Qwen3 14B as long as I quit almost every other app. If you run into issues with speed or usability, you can always go smaller—I got reasonable responses from Qwen3 8B as well.
+
+
+
+And if you go really small, you can even run models on your cell phone. My beat-up iPhone 12 was able to run Meta’s Llama 3.2 1B using an app called LLM Farm. It’s not a particularly good model—it very quickly goes off into bizarre tangents and hallucinates constantly—but trying to coax something so chaotic toward usability can be entertaining. If I’m ever on a plane sans Wi-Fi and desperate for a probably false answer to a trivia question, I now know where to look.
+
+
+
+Some of the models that I was able to run on my laptop were effective enough that I can imagine using them in my journalistic work. And while I don’t think I’ll depend on phone-based models for anything anytime soon, I really did enjoy playing around with them. “I think most people probably don’t need to do this, and that’s fine,” Willison says. “But for the people who want to do this, it’s so much fun.”
+• The Download: three-person babies, and tracking “AI readiness” in the US
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+Researchers announce babies born from a trial of three-person IVF
+
+
+
+Eight babies have been born in the UK thanks to a technology that uses DNA from three people: the two biological parents plus a third person who supplies healthy mitochondrial DNA. The babies were born to mothers who carry genes for mitochondrial diseases and risked passing on severe disorders. 
+
+
+
+In the team’s approach, patients’ eggs are fertilized with sperm, and the DNA-containing nuclei of those cells are transferred into donated fertilized eggs that have had their own nuclei removed. The new embryos contain the DNA of the intended parents along with a tiny fraction of mitochondrial DNA from the donor, floating in the embryos’ cytoplasm.The study, which makes use of a technology called mitochondrial donation, has been described as a “tour de force” and “a remarkable accomplishment” by others in the field. But not everyone sees the trial as a resounding success. Read the full story.
+
+
+
+—Jessica Hamzelou
+
+
+
+
+
+
+
+These four charts show where AI companies could go next in the US
+
+
+
+No one knows exactly how AI will transform our communities, workplaces, and society as a whole. Because it’s hard to predict the impact AI will have on jobs, many workers and local governments are left trying to read the tea leaves to understand how to prepare and adapt.
+
+
+
+A new interactive report released by the Brookings Institution attempts to map how embedded AI companies and jobs are in different regions of the United States in order to prescribe policy treatments to those struggling to keep up. Here are four charts to help understand the issues.
+
+
+
+—Peter Hall
+
+
+
+
+
+
+
+In defense of air-conditioning
+
+
+
+—Casey Crownhart
+
+
+
+I’ll admit that I’ve rarely hesitated to point an accusing finger at air-conditioning. I’ve outlined in many stories and newsletters that AC is a significant contributor to global electricity demand, and it’s only going to suck up more power as temperatures rise.
+
+
+
+But I’ll also be the first to admit that it can be a life-saving technology, one that may become even more necessary as climate change intensifies. And in the wake of Europe’s recent deadly heat wave, it’s been oddly villainized. Read our story to learn more.
+
+
+
+This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 Donald Trump is cracking down on “dangerous science”But the scientists affected argue their work is essential to developing new treatments. (WP $)+ How MAHA is infiltrating states across the US. (The Atlantic $)
+
+
+
+2 The US Senate has approved Trump’s request to cancel foreign aid The White House is determined to reclaim around $8 billion worth of overseas aid. (NYT $)+ The bill also allocates around $1.1 billion to public broadcasting. (WP $)+ HIV could infect 1,400 infants every day because of US aid disruptions. (MIT Technology Review)3 American air strikes only destroyed one Iranian nuclear site The remaining two sites weren’t damaged that badly, and could resume operation within months. (NBC News)
+
+
+
+4 The US is poised to ban Chinese technology in submarine cablesThe cables are critical to internet connectivity across the world. (FT $)+ The cables are at increasing risk of sabotage. (Bloomberg $)
+
+
+
+5 The US measles outbreak is worseningHealth officials’ tactics for attempting to contain it aren’t working. (Wired $)+ Vaccine hesitancy is growing, too. (The Atlantic $)+ Why childhood vaccines are a public health success story. (MIT Technology Review)
+
+
+
+6 A new supercomputer is comingThe Nexus machine will search for new cures for diseases. (Semafor)7 Elon Musk has teased a Grok AI companion inspired by TwilightNo really, you shouldn’t have… (The Verge)+ Inside the Wild West of AI companionship. (MIT Technology Review)
+
+
+
+8 Future farms could be fully autonomous Featuring AI-powered tractors and drone surveillance. (WSJ $)+ African farmers are using private satellite data to improve crop yields. (MIT Technology Review)
+
+
+
+9 Granola is Silicon Valley’s favorite new toolNo, not the tasty breakfast treat. (The Information $)
+
+
+
+10 WeTransfer isn’t going to train its AI on our files after allAfter customers reacted angrily on social media. (BBC)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“He’s doing the exact opposite of everything I voted for.”
+
+
+
+—Andrew Schulz, a comedian and podcaster who interviewed Donald Trump last year, explains why he’s starting to lose faith in the President to Wired.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+The open-source AI boom is built on Big Tech’s handouts. How long will it last?In May 2023 a leaked memo reported to have been written by Luke Sernau, a senior engineer at Google, said out loud what many in Silicon Valley must have been whispering for weeks: an open-source free-for-all is threatening Big Tech’s grip on AI.In many ways, that’s a good thing. AI won&#8217;t thrive if just a few mega-rich companies get to gatekeep this technology or decide how it is used. But this open-source boom is precarious, and if Big Tech decides to shut up shop, a boomtown could become a backwater. Read the full story.
+
+
+
+—Will Douglas Heaven
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)+ Happy birthday David Hasselhoff, 73 years young today!+ The trailer for the final season of Stranger Things is here, and things are getting weird.+ Windows 95, you will never be bettered.+ I don’t know about you, but I’m ready for a fridge cigarette.
 • In defense of air-conditioning
   I’ll admit that I’ve rarely hesitated to point an accusing finger at air-conditioning. I’ve outlined in many stories and newsletters that AC is a significant contributor to global electricity demand, and it’s only going to suck up more power as temperatures rise.
 
@@ -142,372 +586,27 @@ But the world is changing, and temperatures are rising. If you’re looking for 
 
 
 This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
-• Researchers announce babies born from a trial of three-person IVF
-  Eight babies have been born in the UK thanks to a technology that uses DNA from three people: the two biological parents plus a third person who supplies healthy mitochondrial DNA. The babies were born to mothers who carry genes for mitochondrial diseases and risked passing on severe disorders. The eight babies are healthy, say the researchers behind the trial.
-
-
-
-“Mitochondrial disease can have a devastating impact on families,” Doug Turnbull of Newcastle University, one of the researchers behind the study, said in a statement. “Today’s news offers fresh hope to many more women at risk of passing on this condition, who now have the chance to have children growing up without this terrible disease.”
-
-
-
-
-
-The study, which makes use of a technology called mitochondrial donation, has been described as a “tour de force” and “a remarkable accomplishment” by others in the field. In the team’s approach, patients’ eggs are fertilized with sperm, and the DNA-containing nuclei of those cells are transferred into donated fertilized eggs that have had their own nuclei removed. The new embryos contain the DNA of the intended parents along with a tiny fraction of mitochondrial DNA from the donor, floating in the embryos’ cytoplasm.&nbsp;
-
-
-
-“The concept of [mitochondrial donation] has attracted much commentary and occasionally concern and anxiety,” Stuart Lavery, a consultant in reproductive medicine at University College Hospitals NHS Foundation Trust, said in a statement. “The Newcastle team have demonstrated that it can be used in a clinically effective and ethically acceptable way to prevent disease and suffering.”
-
-
-
-Not everyone sees the trial as a resounding success. While five of the children were born “with no health problems,” one developed a fever and a urinary tract infection, and another had muscle jerks. A third was treated for an abnormal heart rhythm. Three of the babies were born with a low level of the very mitochondrial-DNA mutations the treatment was designed to prevent.
-
-
-
-Heidi Mertes, a medical ethicist at Ghent University, says she is “moderately optimistic.” “I’m happy that it worked,” she says. “But at the same time, it’s concerning … it’s a call for caution and treading carefully.”
-
-
-
-Pavlo Mazur, a former embryologist who has used a similar approach in the conception of 15 babies in Ukraine, believes that trials like this one should be paused until researchers figure out what’s going on. Others believe that researchers should study the technique in people who don’t have mitochondrial mutations, to lower the risk of passing any disease-causing mutations to children.
-
-
-
-Long time coming
-
-
-
-The news of the births has been long awaited by researchers in the field. Mitochondrial donation was first made legal in the UK in 2015. Two years later, the Human Fertility and Embryology Authority (HFEA), which regulates fertility treatment and research in the UK, granted a fertility clinic in Newcastle the sole license to perform the procedure. Newcastle Fertility Centre at Life launched a trial of mitochondrial donation in 2017 with the aim of treating 25 women a year.
-
-
-
-That was eight years ago. Since then, the Newcastle team have been extremely tight-lipped about the trial. That’s despite the fact that other teams elsewhere have used mitochondrial donation to help people achieve pregnancy. A New York–based doctor used a type of mitochondrial donation to help a Jordanian couple conceive in Mexico in 2016. Mitochondrial donation has also been trialed by teams in Ukraine and Greece.
-
-
-
-
-
-But as the only trial overseen by the HFEA, the Newcastle team’s study was viewed by many as the most “official.” Researchers have been itching to hear how the work has been going, given the potential implications for researchers elsewhere (mitochondrial donation was officially made legal in Australia in 2022). “I’m very glad to see [the results] come out at last,” says Dagan Wells, a reproductive biologist at the University of Oxford who worked on the Greece trial. “It would have been nice to have some information out along the way.”
-
-
-
-At the Newcastle clinic, each patient must receive approval from the HFEA to be eligible for mitochondrial donation. Since the trial launched in 2017, 39 patients have won this approval. Twenty-five of them underwent hormonal stimulation to release multiple eggs that could be frozen in storage.
-
-
-
-Nineteen of those women went on to have mitochondrial donation. So far, seven of the women have given birth (one had twins), and an eighth is still pregnant. The oldest baby is two years old. The results were published today in the New England Journal of Medicine.
-
-
-
-“As parents, all we ever wanted was to give our child a healthy start in life,” one of the mothers, who is remaining anonymous, said in a statement. “Mitochondrial donation IVF made that possible. After years of uncertainty this treatment gave us hope—and then it gave us our baby … Science gave us a chance.”
-
-
-
-When each baby was born, the team collected a blood and urine sample to look at the child’s mitochondrial DNA. They found that the levels of mutated DNA were far lower than they would have expected without mitochondrial donation. Three of the mothers were “homoplasmic”—100% of their mitochondrial DNA carried the mutation. But blood tests showed that in the women’s four babies (including the twins), 5% or less of the mitochondrial DNA had the mutation, suggesting they won’t develop disease.
-
-
-
-A mixed result
-
-
-
-The researchers see this as a positive result. “Children who would otherwise have inherited very high levels are now inheriting levels that are reduced by 77% to 100%,” coauthor Mary Herbert, a professor of reproductive biology at Newcastle University and Monash University, told me during a press briefing.
-
-
-
-But three of the eight babies had health symptoms. At seven months, one was diagnosed with a rare form of epilepsy, which seemed to resolve within the following three months. Another baby developed a urinary tract infection.
-
-
-
-
-
-A third baby developed “prolonged” jaundice, high levels of fat in the blood, and a disturbed heart rhythm that required treatment. The baby seemed to have recovered by 18 months, and doctors believe that the symptoms were not related to the mitochondrial mutations, but the team members admit that they can’t be sure. Given the small sample size, it’s hard to make comparisons with babies conceived in other ways.&nbsp;
-
-
-
-And they acknowledge that a phenomenon called “reversal” is happening in some of the babies. In theory, the children shouldn’t inherit any “bad” mitochondrial DNA from their mothers. But three of them did. The levels of “bad” mitochondrial DNA in the babies’ blood ranged between 5% and 16%. And they were higher in the babies’ urine—the highest figure being 20%.
-
-
-
-The researchers don’t know why this is happening. When an embryologist pulls out the nucleus of a fertilized egg, a bit of mitochondria-containing cytoplasm will inevitably be dragged along with it. But the team didn’t see any link between the amount of carried-over cytoplasm and the level of “bad” mitochondria. “We continue to investigate this issue,” Herbert said.
-
-
-
-“As long as they don’t understand what’s happening, I would still be worried,” says Mertes.
-
-
-
-Such low levels aren’t likely to cause mitochondrial diseases, according to experts contacted by MIT Technology Review. But some are concerned that the percentage of mutated DNA could be higher in different tissues, such as the brain or muscle, or that the levels might change with age. “You never know which tissues [reversal] will show up in,” says Mazur, who has seen the phenomenon in babies born through mitochondrial donation to parents who didn’t have mitochondrial mutations. “It’s chaotic.”
-
-
-
-The Newcastle team says it hasn’t looked at other tissues, because it designed the study to be noninvasive.
-
-
-
-There has been at least one case in which similar levels of “bad” mitochondria have caused symptoms, says Joanna Poulton, a mitochondrial geneticist at the University of Oxford. She thinks it’s unlikely that the children in the trial will develop any symptoms but adds that “it’s a bit of a worry.”
-
-
-
-The age of reversal
-
-
-
-No one knows exactly when this reversal happens. But Wells and his colleagues have some idea. In their study in Greece, they looked at the mitochondrial DNA of embryos and checked them again during pregnancy and after birth. The trial was designed to study the impact of mitochondrial donation for infertility—none of the parents involved had genes for mitochondrial disease.
-
-
-
-The team has seen mitochondrial reversal in two of the seven babies born in the trial, says Wells. If you put the two sets of results together, mitochondrial donation “seems to have this possibility of reversal occurring in maybe about a third of children,” he says.
-
-
-
-
-
-In his study, the reversal seemed to occur early on in the embryos’ development, Wells says. Five-day-old embryos “look perfect,” but mitochondrial mutations start showing up in tests taken at around 15 weeks of pregnancy, he says. After that point, the levels appear to be relatively stable. The Newcastle researchers say they will monitor the children until they are five years old.
-
-
-
-People enrolling in future trials might opt for amniocentesis, which involves sampling blood from the fetus’s amniotic sac at around 15 to 18 weeks, suggests Mertes. That test might reveal the likely level of mitochondrial mutations in the resulting child. “Then the parents could decide what to do,” says Mertes. “If you could see there was a 90% mutation load [for a] very serious mitochondrial disease, they would still have an option to cancel the pregnancy,” she says.
-
-
-
-Wells thinks the Newcastle team’s results are “generally reassuring.” He doesn’t think the trials should be paused. But he wants people to understand that mitochondrial donation is not without risk. “This can only be viewed as a risk reduction strategy, and not a guarantee of having an unaffected child,” he says.
-
-
-
-And, as Mertes points out, there’s another option for women who carry mitochondrial DNA mutations: egg donation. Donor eggs fertilized with a partner’s sperm and transferred to a woman’s uterus won’t have her disease-causing mitochondria.&nbsp;
-
-
-
-That option won’t appeal to people who feel strongly about having a genetic link to their children. But Poulton asks: “If you know whose uterus you came out of, does it matter that the [egg] came from somewhere else?”
-• These four charts show where AI companies could go next in the US
-  A new report by the Brookings Institution attempts to map how embedded AI companies and jobs are in different regions of the United States . The report looked at local talent pool development, innovations in local institutions, and adoption potential among local companies . It found that the vast majority of people working with AI and startups focused on AI are clustered in tech hubs like San Francisco and Boston . There are 14 regions that show promise in AI development and worker engagement with AI .
-• The Download: Veo 3’s subtitles problem, and the future of our planet’s resources
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
-
-
-
-
-
-
-
-Google’s generative video model Veo 3 has a subtitles problem
-
-
-
-As soon as Google launched its latest video-generating AI model at the end of May, creatives rushed to put it through its paces. Released just months after its predecessor, Veo 3 allows users to generate sounds and dialogue for the first time. It sparked a flurry of hyperrealistic eight-second clips stitched together into ads, ASMR videos, imagined film trailers, and humorous street interviews.But others quickly found that in some ways the tool wasn’t behaving as expected. When it generates clips that include dialogue, Veo 3 often adds nonsensical, garbled subtitles, even when the prompts it’s been given explicitly ask for no captions or subtitles to be added. And getting rid of them isn’t straightforward—or cheap. Read the full story.
-
-
-
-—Rhiannon Williams
-
-
-
-
-
-
-
-MIT Technology Review Narrated: This rare earth metal shows us the future of our planet’s resources
-
-
-
-We’re in the middle of a potentially transformative moment. The materials we need to power our world are beginning to shift from fossil fuels to energy sources that don’t produce the greenhouse-gas emissions changing our climate. Metals discovered barely more than a century ago now underpin the technologies we’re relying on for cleaner energy, and not having enough of them could slow progress. 
-
-
-
-Take neodymium, for example. Its potential future reveals many of the challenges we’ll likely face across the supply chain for materials in the coming century and beyond.&nbsp;
-
-
-
-This is our latest story to be turned into a MIT Technology Review Narrated podcast, which&nbsp; we’re publishing each week on Spotify and Apple Podcasts. Just navigate to MIT Technology Review Narrated on either platform, and follow us to get all our new content as it’s released.
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 OpenAI is developing agents designed specifically for workIn a direct challenge to Microsoft apps like PowerPoint and Excel. (The Information $)+ The whole of OpenAI runs on Slack, apparently. (Insider $)+ Are we ready to hand AI agents the keys? (MIT Technology Review)
-
-
-
-2 Congress is poised to reject most of the White House’s proposed NASA cutsAs well as postponing its plans to cancel the Space Launch System rocket and Orion spacecraft. (Ars Technica)
-
-
-
-3 Grok’s AI companions are already going haywire They’ve no qualms talking about topics like sex or how to bomb a school. (TechCrunch)+ The pair demonstrate Elon Musk’s willingness to push the boundaries of taste. (NBC News)+ It’s likely that Grok has been trained on the worst parts of the internet. (CNN)+ Inside the Wild West of AI companionship. (MIT Technology Review)
-
-
-
-4 AI could find cures to diseases using drugs we already haveIt may be time to repurpose what we know. (New Yorker $)+ An AI-driven “factory of drugs” claims to have hit a big milestone. (MIT Technology Review)
-
-
-
-5 China is pumping billions into becoming an AI power playerLocal governments are building entire neighborhoods to act as startup incubators. (NYT $)+ Meanwhile, Trump is creating an AI hub in Pennsylvania. (WSJ $)
-
-
-
-6 Silicon Valley’s super-babies are on the wayOne startup claims to be able to sequence an embryo’s entire genome. (WP $)+ Beyond gene-edited babies: the possible paths for tinkering with human evolution. (MIT Technology Review)
-
-
-
-7 How the Earth’s magnetic crust could improve airplane navigationIt’s likely to be more reliable than GPS, for one. (WSJ $)
-
-
-
-8 We’re entering the era of hyper-personalized AI slopComing to a Facebook feed near you.(404 Media)
-
-
-
-9 You don’t need to take weight-loss drugs consistentlyPatients who take it sporadically can still lose weight. (New Scientist $)
-
-
-
-10 This UK startup wants to give non-alcoholic drinks a buzz It’s working on a molecule to mimic the high of a few drinks without the hangover. (Bloomberg $)
-
-
-
-
-
-
-
-Quote of the day
-
-
-
-“I’m doing the equivalent of vibe coding, except it’s vibe physics.”
-
-
-
-—Travis Kalanick, the founder of Uber, explains how he’s using xAI’s Grok to come “pretty damn close to some interesting breakthroughs” in the field of physics, Gizmodo reports.
-
-
-
-
-
-
-
-One more thing
-
-
-
-
-
-
-
-How Indian health-care workers use WhatsApp to save pregnant womenAcross India, an all-women cadre of 1 million community health-care workers are responsible for making public health care accessible to people from remote areas and marginalized communities.These workers counsel pregnant women and ensure they receive proper science-backed health care. Many are turning to WhatsApp as a means to combat the medical misinformation that is rampant across the country and to navigate sensitive medical situations, particularly regarding pregnancy. Their approach has surprisingly good results. Read the full story.
-
-
-
-—Sanket Jain
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+ Britain’s greatest export? Possibly its gravy.+ How a luxury condo building in Manhattan ended up sloping sideways (New Yorker $)+ The Emmy nominations are out! But who’s been snubbed?+ The Tony Hawk’s Pro Skater 3 + 4 reboots are proving extremely controversial—after only 10 songs on their legendary soundtracks made the cut.
-• Finding value with AI automation
-  In June 2023, technology leaders and IT services executives had a lightning bolt headed their way when McKinsey published the “The economic potential of generative AI: The next productivity frontier” report. It echoed a moment from the 2010s when Amazon Web Services launched an advertising campaign aimed at Main Street’s C-suite: Why would any fiscally responsible exec allow their IT teams to spend capex for servers and software when AWS only cost 10 cents per virtual machine?&nbsp;
-
-
-
-
-
-
-
-Vendors understand that these kinds of reports and aggressive advertising around competitive risks projected onto an industry sector would drive many calls from boards to their C-suite, rolling from C-suite to their staff all asking, “What are we doing with AI?” When asked to “do something with AI,” technical leadership and their organizations promptly responded — sometimes begrudgingly and sometimes excitedly — for work-sanctioned opportunities to get their hands on a new technology. At that point, there was no time to sort between actual business returns from applying AI and “AI novelty” use cases that were more Rube Goldberg machines than tangible breakthroughs.&nbsp;
-
-
-
-Today&#8217;s opportunity: Significant automation gains&nbsp;
-
-
-
-When leaders respond to immediate panic, new business risks and mitigations often emerge.&nbsp; Two recent examples highlight the consequences of rushing to implement and publish positive results from AI adoption. The Wall Street Journal reported in April 2025 on companies struggling to realize returns on AI. Just weeks later, it covered MIT’s retraction of a technical paper about AI where the results that led to its publication could not be substantiated.&nbsp;&nbsp;
-
-
-
-While these reports demonstrate the pitfalls of over-reliance on AI without common-sense guardrails, not all is off track in the land of enterprise AI adoption. Incredible results being found from judicious use of AI and related technologies in automating processes across industries. Now that we are through the “fear of missing out” stage and can get down to business, where are the best places to look for value when applying AI to automation of your business?&nbsp;&nbsp;
-
-
-
-While chatbots are almost as pervasive as new app downloads for mobile phones, the applications of AI realizing automation and productivity gains line up with the unique purpose and architecture of the underlying AI system they are built on. The dominant patterns where AI gains are realized currently boil down to two things: language (translation and patterns) and data (new format creation and data search).&nbsp;&nbsp;
-
-
-
-Example one: Natural language processing &nbsp;
-
-
-
-Manufacturing automation challenge: Failure Mode and Effects Analysis (FMEA) is both critical and often labor intensive. It is not always performed prior to a failure in manufacturing equipment, so very often FMEA occurs in a stressful manufacturing lines-down scenario. In Intel’s case, a global footprint of manufacturing facilities separated by large distances along with time zones and preferred language differences makes this even more difficult to find the root cause of a problem. Weeks of engineering effort are spent per FMEA analysis repeated across large fleets of tools spread between these facilities.&nbsp;&nbsp;
-
-
-
-Solution: Leverage already deployed CPU compute servers for natural language processing (NLP) across the manufacturing tool logs, where observations about the tools’ operations are maintained by the local manufacturing technicians. The analysis also applied sentiment analysis to classify words as positive, negative, or neutral. The new system performed FMEA on six months of data in under one minute, saving weeks of engineering time and allowing the manufacturing line to proactively service equipment on a pre-emptive schedule rather than incurring unexpected downtime.&nbsp;&nbsp;
-
-
-
-Financial institution challenge: Programming languages commonly used by software engineers have evolved. Mature bellwether institutions were often formed through a series of mergers and acquisitions over the years, and they continue to rely on critical systems that are based on 30-year-old programming languages that current-day software engineers are not familiar with.&nbsp;
-
-
-
-Solution: Use NLP to translate between the old and new programming languages, giving software engineers a needed boost to improve the serviceability of critical operational systems. Use the power of AI rather than doing a risky rewrite or massive upgrade.&nbsp;
-
-
-
-Example two: Company product specifications and generative AI models&nbsp;
-
-
-
-Sales automation challenge: The time it takes to reformat a company’s product data into a specific customer RFP format has been an ongoing challenge across industries. Teams of sales and technical leads spend weeks of work across different accounts reformatting the same root data between the preferred PowerPoint or Word document formats. The customer response times were measured in weeks, especially if the RFPs required legal reviews.&nbsp;
-
-
-
-Solution: By using generative AI combined with a data extraction and prompting technique called retrieval augmented generation (RAG), companies can rapidly reformat product information between different customer required RFP response formats. The time spent moving data between different documents and different document types only to find an unforced error in the move is reduced to hours instead of weeks.&nbsp;&nbsp;
-
-
-
-HR policy automation challenge: Navigating internal processes can be time consuming and confusing for both HR and employees. The consequences of misinterpretation, access outages, and personal information or private data being exposed are massively important to the company and the individual.&nbsp;
-
-
-
-Solution: Combine generative AI, RAG, and an interactive chatbot that uses employee-assigned assets to determine identity and access rights, provides employees interactive query-based chat formats to answer their questions in real time.&nbsp;
-
-
-
-Finding your best use cases for AI&nbsp;
-
-
-
-In a world where 80% to 90% of all AI proof of concepts fail to scale, now is the time to develop a framework that is based on caution. Consider starting with a data strategy and governance assessment. Then find opportunities to compare successful AI-based automation efforts at peer companies through peer discussions. Clear, rules-based policies and processes offer the best opportunities to begin a successful AI automation journey in your enterprise. Where you encounter disparate data sources (e.g., unstructured, video, structured databases) or unclear processes, maintain tighter human-in-the-loop decision controls to avoid unexpected data or token exposure and cost overruns.&nbsp;
-
-
-
-As the AI hype cycle cools and business pressure mounts, now is the time to become practical. Apply AI to well-defined use cases and begin unlocking the automation benefits that will matter not just in 2025, but for years to come.
-
-
-
-This content was produced by Intel. It was not written by MIT Technology Review’s editorial staff.
 
 🔒 Cybersecurity & Privacy
+• Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai
+  Security researchers recently revealed that the personal information of millions of people who applied for jobs at McDonald&#8217;s was exposed after they guessed the password (&#8220;123456&#8221;) for the fast food chain&#8217;s account at Paradox.ai, a company that makes artificial intelligence based hiring chatbots used by many Fortune 500 firms. Paradox.ai said the security oversight was an isolated incident that did not affect its other customers, but recent security breaches involving its employees in Vietnam tell a more nuanced story.
+A screenshot of the paradox.ai homepage showing its AI hiring chatbot &#8220;Olivia&#8221; interacting with potential hires.
+Earlier this month, security researchers Ian Carroll and Sam Curry wrote about simple methods they found to access the backend of the AI chatbot platform on McHire.com, the McDonald&#8217;s website that many of its franchisees use to screen job applicants. As first reported by Wired, the researchers discovered that the weak password used by Paradox exposed 64 million records, including applicants&#8217; names, email addresses and phone numbers.
+Paradox.ai acknowledged the researchers&#8217; findings but said the company&#8217;s other client instances were not affected, and that no sensitive information &#8212; such as Social Security numbers &#8212; was exposed.
+&#8220;We are confident, based on our records, this test account was not accessed by any third party other than the security researchers,&#8221; the company wrote in a July 9 blog post. &#8220;It had not been logged into since 2019 and frankly, should have been decommissioned. We want to be very clear that while the researchers may have briefly had access to the system containing all chat interactions (NOT job applications), they only viewed and downloaded five chats in total that had candidate information within. Again, at no point was any data leaked online or made public.&#8221;
+However, a review of stolen password data gathered by multiple breach-tracking services shows that at the end of June 2025, a Paradox.ai administrator in Vietnam suffered a malware compromise on their device that stole usernames and passwords for a variety of internal and third-party online services. The results were not pretty.
+The password data from the Paradox.ai developer was stolen by a malware strain known as &#8220;Nexus Stealer,&#8221; a form grabber and password stealer that is sold on cybercrime forums. The information snarfed by stealers like Nexus is often recovered and indexed by data leak aggregator services like Intelligence X, which reports that the malware on the Paradox.ai developer&#8217;s device exposed hundreds of mostly poor and recycled passwords (using the same base password but slightly different characters at the end).
+Those purloined credentials show the developer in question at one point used the same seven-digit password to log in to Paradox.ai accounts for a number of Fortune 500 firms listed as customers on the company&#8217;s website, including Aramark, Lockheed Martin, Lowes, and Pepsi.
+Seven-character passwords, particularly those consisting entirely of numerals, are highly vulnerable to &#8220;brute-force&#8221; attacks that can try a large number of possible password combinations in quick succession. According to a much-referenced password strength guide maintained by Hive Systems, modern password-cracking systems can work out a seven number password more or less instantly.
+Image: hivesystems.com.
+In response to questions from KrebsOnSecurity, Paradox.ai confirmed that the password data was recently stolen by a malware infection on the personal device of a longtime Paradox developer based in Vietnam, and said the company was made aware of the compromise shortly after it happened. Paradox maintains that few of the exposed passwords were still valid, and that a majority of them were present on the employee&#8217;s personal device only because he had migrated the contents of a password manager from an old computer.
+Paradox also pointed out that it has been requiring single sign-on (SSO) authentication since 2020 that enforces multi-factor authentication for its partners. Still, a review of the exposed passwords shows they included the Vietnamese administrator&#8217;s credentials to the company&#8217;s SSO platform &#8212; paradoxai.okta.com. The password for that account ended in 202506 &#8212; possibly a reference to the month of June 2025 &#8212; and the digital cookie left behind after a successful Okta login with those credentials says it was valid until December 2025.
+Also exposed were the administrator&#8217;s credentials and authentication cookies for an account at Atlassian, a platform made for software development and project management. The expiration date for that authentication token likewise was December 2025.
+Infostealer infections are among the leading causes of data breaches and ransomware attacks today, and they result in the theft of stored passwords and any credentials the victim types into a browser. Most infostealer malware also will siphon authentication cookies stored on the victim&#8217;s device, and depending on how those tokens are configured thieves may be able to use them to bypass login prompts and/or multi-factor authentication.
+Quite often these infostealer infections will open a backdoor on the victim&#8217;s device that allows attackers to access the infected machine remotely. Indeed, it appears that remote access to the Paradox administrator&#8217;s compromised device was offered for sale recently.
+In February 2019, Paradox.ai announced it had successfully completed audits for two fairly comprehensive security standards (ISO 27001 and SOC 2 Type II). Meanwhile, the company&#8217;s security disclosure this month says the test account with the atrocious 123456 username and password was last accessed in 2019, but somehow missed in their annual penetration tests. So how did it manage to pass such stringent security audits with these practices in place?
+Paradox.ai told KrebsOnSecurity that at the time of the 2019 audit, the company&#8217;s various contractors were not held to the same security standards the company practices internally. Paradox emphasized that this has changed, and that it has updated its security and password requirements multiple times since then.
+It is unclear how the Paradox developer in Vietnam infected his computer with malware, but a closer review finds a Windows device for another Paradox.ai employee from Vietnam was compromised by similar data-stealing malware at the end of 2024 (that compromise included the victim&#8217;s GitHub credentials). In the case of both employees, the stolen credential data includes Web browser logs that indicate the victims repeatedly downloaded pirated movies and television shows, which are often bundled with malware disguised as a video codec needed to view the pirated content.
 • DOGE Denizen Marko Elez Leaked API Key for xAI
   Marko Elez, a 25-year-old employee at Elon Musk&#8217;s Department of Government Efficiency (DOGE), has been granted access to sensitive databases at the U.S. Social Security Administration, the Treasury and Justice departments, and the Department of Homeland Security. So it should fill all Americans with a deep sense of confidence to learn that Mr. Elez over the weekend inadvertently published a private key that allowed anyone to interact directly with more than four dozen large language models (LLMs) developed by Musk&#8217;s artificial intelligence company xAI.
 Image: Shutterstock, @sdx15.
@@ -1134,239 +1233,711 @@ See you next time! 
 AI Testing and Evaluation podcast series
 
 Opens in a new tabThe post AI Testing and Evaluation: Learnings from cybersecurity appeared first on Microsoft Research.
-• Accenture scales video analysis with Amazon Nova and Amazon Bedrock Agents
-  This post was written with Ilan Geller, Kamal Mannar, Debasmita Ghosh, and Nakul Aggarwal of Accenture. 
-Video highlights offer a powerful way to boost audience engagement and extend content value for content publishers. These short, high-impact clips capture key moments that drive viewer retention, amplify reach across social media, reinforce brand identity, and open new avenues for monetization. However, traditional highlight creation workflows are slow and labor-intensive. Editors must manually review footage, identify significant moments, cut clips, and add transitions or narration—followed by manual quality checks and formatting for distribution. Although this provides editorial control, it creates bottlenecks that don’t scale efficiently. 
-This post showcases how Accenture Spotlight delivers a scalable, cost-effective video highlight generation solution using Amazon Nova and Amazon Bedrock Agents. Amazon Nova foundation models (FMs) deliver frontier intelligence and industry-leading price-performance. With Spotlight, content owners can configure AI models and agents to support diverse use cases across the media industry while offering a human-in-the-loop option for quality assurance and collaborative refinement. This maintains accuracy, editorial oversight, and alignment with brand guidelines—without compromising on speed or scalability. 
-Real-world use cases 
-Spotlight has been applied across a range of industry scenarios, including: 
+• Evaluating generative AI models with Amazon Nova LLM-as-a-Judge on Amazon SageMaker AI
+  Evaluating the performance of large language models (LLMs) goes beyond statistical metrics like perplexity or bilingual evaluation understudy (BLEU) scores. For most real-world generative AI scenarios, it’s crucial to understand whether a model is producing better outputs than a baseline or an earlier iteration. This is especially important for applications such as summarization, content generation, or intelligent agents where subjective judgments and nuanced correctness play a central role. 
+As organizations deepen their deployment of these models in production, we’re experiencing an increasing demand from customers who want to systematically assess model quality beyond traditional evaluation methods. Current approaches like accuracy measurements and rule-based evaluations, although helpful, can’t fully address these nuanced assessment needs, particularly when tasks require subjective judgments, contextual understanding, or alignment with specific business requirements. To bridge this gap, LLM-as-a-judge has emerged as a promising approach, using the reasoning capabilities of LLMs to evaluate other models more flexibly and at scale. 
+Today, we’re excited to introduce a comprehensive approach to model evaluation through the Amazon Nova LLM-as-a-Judge capability on Amazon SageMaker AI, a fully managed Amazon Web Services (AWS) service to build, train, and deploy machine learning (ML) models at scale. Amazon Nova LLM-as-a-Judge is designed to deliver robust, unbiased assessments of generative AI outputs across model families. Nova LLM-as-a-Judge is available as optimized workflows on SageMaker AI, and with it, you can start evaluating model performance against your specific use cases in minutes. Unlike many evaluators that exhibit architectural bias, Nova LLM-as-a-Judge has been rigorously validated to remain impartial and has achieved leading performance on key judge benchmarks while closely reflecting human preferences. With its exceptional accuracy and minimal bias, it sets a new standard for credible, production-grade LLM evaluation. 
+Nova LLM-as-a-Judge capability provides pairwise comparisons between model iterations, so you can make data-driven decisions about model improvements with confidence. 
+How Nova LLM-as-a-Judge was trained 
+Nova LLM-as-a-Judge was built through a multistep training process comprising supervised training and reinforcement learning stages that used public datasets annotated with human preferences. For the proprietary component, multiple annotators independently evaluated thousands of examples by comparing pairs of different LLM responses to the same prompt. To verify consistency and fairness, all annotations underwent rigorous quality checks, with final judgments calibrated to reflect broad human consensus rather than an individual viewpoint. 
+The training data was designed to be both diverse and representative. Prompts spanned a wide range of categories, including real-world knowledge, creativity, coding, mathematics, specialized domains, and toxicity, so the model could evaluate outputs across many real-world scenarios. Training data included data from over 90 languages and is primarily composed of English, Russian, Chinese, German, Japanese, and Italian.Importantly, an internal bias study evaluating over 10,000 human-preference judgments against 75 third-party models confirmed that Amazon Nova LLM-as-a-Judge shows only a 3% aggregate bias relative to human annotations. Although this is a significant achievement in reducing systematic bias, we still recommend occasional spot checks to validate critical comparisons. 
+In the following figure, you can see how the Nova LLM-as-a-Judge bias compares to human preferences when evaluating Amazon Nova outputs compared to outputs from other models. Here, bias is measured as the difference between the judge’s preference and human preference across thousands of examples. A positive value indicates the judge slightly favors Amazon Nova models, and a negative value indicates the opposite. To quantify the reliability of these estimates, 95% confidence intervals were computed using the standard error for the difference of proportions, assuming independent binomial distributions. 
  
- Personalized short-form video generation – Spotlight’s specialized agents analyze popular short-form content (such as video reels and other social media) to identify patterns of high-performing content. The agents then apply this understanding to long-form video to generate personalized short clips, with built-in checks for brand alignment and content standards. 
- Sports editing and highlights – Spotlight automates creation of video highlights for sports like soccer, Formula 1, and rugby, tailoring them to specific user preferences and interests. It also validates each highlight’s quality and accuracy, streamlining editorial workflows as a result. 
- Content matching for stakeholders – Using enriched metadata, Spotlight matches archived or live video content to audience demographics, optimizing distribution strategies and maximizing advertiser value through precise targeting. 
- Real-time retail offer generation – In retail environments such as gas stations, Spotlight processes live CCTV footage to infer customer profiles using data (such as vehicle type or transaction history), and then dynamically generates personalized product offers. These offers consider contextual factors such as time of day and weather; and they are delivered with custom visuals in near real time. 
- 
-Spotlight’s architecture 
-Spotlight’s architecture addresses the challenge of scalable video processing, efficiently analyzing and generating content while maintaining speed and quality. It incorporates both task-specific models and Amazon Nova FMs that are orchestrated by specialized Amazon Bedrock agents. Key architectural highlights include: 
- 
- Task-driven model selection – Spotlight dynamically selects between traditional AI models and Amazon Nova FMs based on a given task’s complexity and latency requirements. This intelligent orchestration enables fast inference for time-sensitive operations while deploying deeper multimodal reasoning where sophisticated analysis is needed—balancing speed and intelligence across applications from real-time retail offers to complex video processing. 
- Agent orchestration – Specialized agents, each purpose-built for specific analysis tasks, operate across the end-to-end workflow under the direction of a central orchestrator agent. The orchestrator agent manages task breakdown, data flow, and inter-agent communication. 
- Scalable and adaptable – By using AWS capabilities, Spotlight’s architecture is configurable to support different workloads—from high-throughput video highlight generation to low-latency offer personalization at the edge. 
- 
-Spotlight uses a multi-layered agent workflow to automate video processing and generation while maintaining quality control. For example, to generate dynamic video highlights, Spotlight uses three specialized “super agents” that work in coordination under a central orchestrator agent’s supervision. Each super agent is powered by Amazon Nova models, and is supported by a collection of utility agents (see the following diagram). These agents work together to understand video content, generate high-quality highlights, and maintain alignment with user requirements and brand standards. 
- 
-The workflow consists of the following super agents and utility agents: 
- 
- Video processing agent – This agent analyzes long-form video and generates detailed metadata to guide short-form video creation. It uses the following utility agents: 
-   
-   Research agent – Analyzes popular short-form videos to identify key components that create video virality, and creates recipes for successful short-form content. For example, in music videos, it can highlight choreographed dance sequences with the lead performer as essential segments and a recipe based on this insight. 
-   Visual analysis agent – Applies the research agent’s findings to new long-form content. It identifies matching segments, tags key individuals, and timestamps relevant moments. It uses traditional AI models (such as person recognition and tracking) to capture fine-grained details for segment identification. 
-   Audio analysis agent – Performs speech diarization and transcription to support both the research and visual analysis agents with deeper context from the video’s audio track. 
-    
- Short video generation agent – This agent orchestrates the actual creation of the short-form video by integrating relevant segments and refining the sequence. Its utility agents include: 
-   
-   Section of interest (SOI) agent – Identifies potential segments based on video genre, target length, featured performers, and JSON metadata from the visual analysis agent. This agent prioritizes logical flow and viewer engagement. 
-   Video generation agent – Constructs video using segment recommendations and component patterns from the video processing agent. For example, influencer videos might follow a structure of an attention-grabbing hook, key messages, and a call to action. The process will be iteratively improved based on feedback from the reviewer agent. 
-   Video postprocessing agent – Refines the final output for publishing by performing tasks like cropping to mobile-friendly aspect ratios, or adding subtitles, background music, and brand overlays. 
-    
- Reviewer agent – This agent works iteratively with the generation agent to maintain video quality and relevance. Its utility agents include: 
-   
-   Relevance check agent – Evaluates alignment with user-defined content guidelines, audience expectations, and desired themes. 
-   Abruptness check agent – Provides smooth transitions between segments to avoid jarring cuts, enhancing viewer experience and professionalism. 
-    
- 
-See Spotlight in action: 
-
+Amazon Nova LLM-as-a-Judge achieves advanced performance among evaluation models, demonstrating strong alignment with human judgments across a range of tasks. For example, it scores 45% accuracy on JudgeBench (compared to 42% for Meta J1 8B) and 68% on PPE (versus 60% for Meta J1 8B). The data from Meta’s J1 8B was pulled from Incentivizing Thinking in LLM-as-a-Judge via Reinforcement Learning. 
+These results highlight the strength of Amazon Nova LLM-as-a-Judge in chatbot-related evaluations, as shown in the PPE benchmark. Our benchmarking follows current best practices, reporting reconciled results for positionally swapped responses on JudgeBench, CodeUltraFeedback, Eval Bias, and LLMBar, while using single-pass results for PPE. 
  
   
+   
+   Model 
+   Eval Bias 
+   Judge Bench 
+   LLM Bar 
+   PPE 
+   CodeUltraFeedback 
+   
+   
+   Nova LLM-as-a-Judge 
+   0.76 
+   0.45 
+   0.67 
+   0.68 
+   0.64 
+   
+   
+   Meta J1 8B 
+   – 
+   0.42 
+   – 
+   0.60 
+   – 
+   
+   
+   Nova Micro 
+   0.56 
+   0.37 
+   0.55 
+   0.6 
+   – 
+   
+  
  
+In this post, we present a streamlined approach to implementing Amazon Nova LLM-as-a-Judge evaluations using SageMaker AI, interpreting the resulting metrics, and applying this process to improve your generative AI applications. 
+Overview of the evaluation workflow 
+The evaluation process starts by preparing a dataset in which each example includes a prompt and two alternative model outputs. The JSONL format looks like this: 
  
+ {
+   "prompt":"Explain photosynthesis.",
+   "response_A":"Answer A...",
+   "response_B":"Answer B..."
+}
+{
+   "prompt":"Summarize the article.",
+   "response_A":"Answer A...",
+   "response_B":"Answer B..."
+} 
+ 
+After preparing this dataset, you use the given SageMaker evaluation recipe, which configures the evaluation strategy, specifies which model to use as the judge, and defines the inference settings such as temperature and top_p. 
+The evaluation runs inside a SageMaker training job using pre-built Amazon Nova containers. SageMaker AI provisions compute resources, orchestrates the evaluation, and writes the output metrics and visualizations to Amazon Simple Storage Service (Amazon S3). 
+When it’s complete, you can download and analyze the results, which include preference distributions, win rates, and confidence intervals. 
+Understanding how Amazon Nova LLM-as-a-Judge works 
+The Amazon Nova LLM-as-a-Judge uses an evaluation method called binary overall preference judge. The binary overall preference judge is a method where a language model compares two outputs side by side and picks the better one or declares a tie. For each example, it produces a clear preference. When you aggregate these judgments over many samples, you get metrics like win rate and confidence intervals. This approach uses the model’s own reasoning to assess qualities like relevance and clarity in a straightforward, consistent way. 
+ 
+ This judge model is meant to provide low-latency general overall preferences in situations where granular feedback isn’t necessary 
+ The output of this model is one of&nbsp;[[A&gt;B]]&nbsp;or&nbsp;[[B&gt;A]] 
+ Use cases for this model are primarily those where automated, low-latency, general pairwise preferences are required, such as automated scoring for checkpoint selection in training pipelines 
+ 
+Understanding Amazon Nova LLM-as-a-Judge evaluation metrics 
+When using the Amazon Nova LLM-as-a-Judge framework to compare outputs from two language models, SageMaker AI produces a comprehensive set of quantitative metrics. You can use these metrics to assess which model performs better and how reliable the evaluation is. The results fall into three main categories: core preference metrics, statistical confidence metrics, and standard error metrics. 
+The core preference metrics report how often each model’s outputs were preferred by the judge model. The a_scores metric counts the number of examples where Model A was favored, and b_scores counts cases where Model B was chosen as better. The ties metric captures instances in which the judge model rated both responses equally or couldn’t identify a clear preference. The inference_error metric counts cases where the judge couldn’t generate a valid judgment due to malformed data or internal errors. 
+The statistical confidence metrics quantify how likely it is that the observed preferences reflect true differences in model quality rather than random variation. The winrate reports the proportion of all valid comparisons in which Model B was preferred. The lower_rate and upper_rate define the lower and upper bounds of the 95% confidence interval for this win rate. For example, a winrate of 0.75 with a confidence interval between 0.60 and 0.85 suggests that, even accounting for uncertainty, Model B is consistently favored over Model A. The score field often matches the count of Model B wins but can also be customized for more complex evaluation strategies. 
+The standard error metrics provide an estimate of the statistical uncertainty in each count. These include a_scores_stderr, b_scores_stderr, ties_stderr, inference_error_stderr, andscore_stderr. Smaller standard error values indicate more reliable results. Larger values can point to a need for additional evaluation data or more consistent prompt engineering. 
+Interpreting these metrics requires attention to both the observed preferences and the confidence intervals: 
+ 
+ If the winrate is substantially above 0.5 and the confidence interval doesn’t include 0.5, Model B is statistically favored over Model A. 
+ Conversely, if the winrate is below 0.5 and the confidence interval is fully below 0.5, Model A is preferred. 
+ When the confidence interval overlaps 0.5, the results are inconclusive and further evaluation is recommended. 
+ High values in inference_error or large standard errors suggest there might have been issues in the evaluation process, such as inconsistencies in prompt formatting or insufficient sample size. 
+ 
+The following is an example metrics output from an evaluation run: 
+ 
+ {
+  "a_scores": 16.0,
+  "a_scores_stderr": 0.03,
+  "b_scores": 10.0,
+  "b_scores_stderr": 0.09,
+  "ties": 0.0,
+  "ties_stderr": 0.0,
+  "inference_error": 0.0,
+  "inference_error_stderr": 0.0,
+  "score": 10.0,
+  "score_stderr": 0.09,
+  "winrate": 0.38,
+  "lower_rate": 0.23,
+  "upper_rate": 0.56
+} 
+ 
+In this example, Model A was preferred 16 times, Model B was preferred 10 times, and there were no ties or inference errors. The winrate of 0.38 indicates that Model B was preferred in 38% of cases, with a 95% confidence interval ranging from 23% to 56%. Because the interval includes 0.5, this outcome suggests the evaluation was inconclusive, and additional data might be needed to clarify which model performs better overall. 
+These metrics, automatically generated as part of the evaluation process, provide a rigorous statistical foundation for comparing models and making data-driven decisions about which one to deploy. 
 Solution overview 
-To interact with Spotlight, users access a frontend UI where they provide natural language input to specify their objective. Spotlight then employs its agentic workflow powered by Amazon Nova to achieve its given task. The following diagram illustrates the solution architecture for video highlight generation. 
+This solution demonstrates how to evaluate generative AI models on Amazon SageMaker AI using the Nova LLM-as-a-Judge capability. The provided Python code guides you through the entire workflow. 
+First, it prepares a dataset by sampling questions from SQuAD and generating candidate responses from Qwen2.5 and Anthropic’s Claude 3.7. These outputs are saved in a JSONL file containing the prompt and both responses. 
+We accessed Anthropic’s Claude 3.7 Sonnet in Amazon Bedrock using the bedrock-runtime client. We accessed Qwen2.5 1.5B using a SageMaker hosted Hugging Face endpoint. 
+Next, a PyTorch Estimator launches an evaluation job using an Amazon Nova LLM-as-a-Judge recipe. The job runs on GPU instances such as ml.g5.12xlarge and produces evaluation metrics, including win rates, confidence intervals, and preference counts. Results are saved to Amazon S3 for analysis. 
+Finally, a visualization function renders charts and tables, summarizing which model was preferred, how strong the preference was, and how reliable the estimates are. Through this end-to-end approach, you can assess improvements, track regressions, and make data-driven decisions about deploying generative models—all without manual annotation. 
+Prerequisites 
+You need to complete the following prerequisites before you can run the notebook: 
  
-The workflow consists of the following key components (as numbered in the preceding diagram): 
- 
- Frontend UI for user interaction: 
+ Make the following quota increase requests for SageMaker AI. For this use case, you need to request a minimum of 1 g5.12xlarge instance. On the Service Quotas console, request the following SageMaker AI quotas, 1 G5 instances (g5.12xlarge) for training job usage 
+ (Optional) You can create an Amazon SageMaker Studio domain (refer to Use quick setup for Amazon SageMaker AI) to access Jupyter notebooks with the preceding role. (You can use JupyterLab in your local setup, too.) 
    
-   Users interact through a web portal secured by Amazon Cognito authentication and delivered using Amazon CloudFront. 
-   Amazon API Gateway serves a restful endpoint for video processing and highlight generation services. 
-    
- Live video stream processing: 
-   
-   AWS Elemental MediaLive processes incoming video stream and triggers AWS Lambda to initiate workflows. (Spotlight also accepts video archive content as media files for processing and highlight generation.) 
-    
- Video processing workflow orchestrated with AWS Step Functions: 
-   
-   Open source models hosted on Amazon SageMaker enable speech analysis and computer vision for person and object detection. 
-   The video processing agent powered by Amazon Nova Pro analyzes video and generates fine-grained metadata (for example, identifying patterns from viral videos). 
-   The reviewer agent powered by Amazon Nova Premier maintains alignment with brand standards. 
-   Open source utility tooling is used for pre-analysis tasks. 
-    
- Highlight generation workflow orchestrated with Step Functions: 
-   
-   Amazon Nova Pro analyzes the user query for clips of interest to understand intent, and reformulates the query for downstream processing. 
-   The short video generation agent powered by Amazon Nova Pro constructs a video highlight using segment recommendations. 
-   The reviewer agent powered by Amazon Nova Premier makes sure the constructed highlight aligns with quality, brand, and contextual expectations. 
-   AWS Elemental Media Convert and open source tooling enable video highlight construction and postprocessing (such as subtitle layover, aspect ratio change, and transitions). 
-    
- Storage and monitoring: 
-   
-   Amazon Simple Storage Service (Amazon S3) stores metadata extracted from processing workflows, reference content (such as scripts and brand guidelines), and generated outputs. 
-   Amazon CloudWatch maintains end-to-end system health and monitors performance. 
+   Create an AWS Identity and Access Management (IAM) role with managed policies AmazonSageMakerFullAccess, AmazonS3FullAccess,&nbsp;and AmazonBedrockFullAccess to give required access to SageMaker AI and Amazon Bedrock to run the examples. 
+   Assign as trust relationship to your IAM role the following policy: 
     
  
-Key benefits 
-Spotlight’s approach to video processing and generation creates dynamic value. Additionally, its technical design using Amazon Nova and an integrated agentic workflow helps content owners realize gains in their video processing and editorial operations. Key benefits for Spotlight include: 
  
- Cross-industry application – Spotlight’s modular design allows it to be applied seamlessly across industries—from media and entertainment to retail 
- Real-time processing – It supports both live stream feeds and pre-recorded video, with custom highlight generation happening in minutes, reducing from hours or days 
- Cost-efficient deployment – It is entirely serverless and on-demand, minimizing idle infrastructure costs and maximizing utilization 
- Efficiency – Accenture’s review of costs using Amazon Nova models showed that Amazon Nova-powered agents deliver over 10 times better cost savings over traditional highlight creation methods 
+ {
+&nbsp;&nbsp; &nbsp;"Version": "2012-10-17",
+&nbsp;&nbsp; &nbsp;"Statement": [
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;{
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Sid": "",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Effect": "Allow",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Principal": {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Service": [
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"bedrock.amazonaws.com",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"sagemaker.amazonaws.com"
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;]
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;},
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Action": "sts:AssumeRole"
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
+&nbsp;&nbsp; &nbsp;]
+} 
  
-The following table provides is a comparative analysis of Spotlight’s video processing approach to conventional approaches for video highlight creation. 
  
-  
-   
-   Metric 
-   Spotlight Performance 
-   Conventional Approach 
-   
-   
-   Video Processing Latency 
-   Minutes for 2–3-hour sessions 
-   Hours to days 
-   
-   
-   Highlight Review Cost (3–5 minutes) 
-   10 times lower with Amazon Nova 
-   High cost using conventional approaches 
-   
-   
-   Overall Highlight Generation Cost 
-   10 times lower using serverless and on-demand LLM deployment 
-   Manual workflows with high operational overhead 
-   
-   
-   Deployment Architecture 
-   Fully serverless with scalable LLM invocation 
-   Typically resource-heavy and statically provisioned 
-   
-   
-   Use Case Flexibility 
-   Sports, media editing, retail personalization, and more 
-   Often tailored to a single use case 
-   
-  
+ Clone the GitHub repository with the assets for this deployment. This repository consists of a notebook that references training assets: 
  
+ 
+ git clone https://github.com/aws-samples/amazon-nova-samples.git
+cd customization/SageMakerTrainingJobs/Amazon-Nova-LLM-As-A-Judge/ 
+ 
+Next, run the notebook Nova Amazon-Nova-LLM-as-a-Judge-Sagemaker-AI.ipynb to start using the Amazon Nova LLM-as-a-Judge implementation on Amazon SageMaker AI. 
+Model setup 
+To conduct an Amazon Nova LLM-as-a-Judge evaluation, you need to generate outputs from the candidate models you want to compare. In this project, we used two different approaches: deploying a Qwen2.5 1.5B model on Amazon SageMaker and invoking Anthropic’s Claude 3.7 Sonnet model in Amazon Bedrock. First, we deployed Qwen2.5 1.5B, an open-weight multilingual language model, on a dedicated SageMaker endpoint. This was achieved by using the HuggingFaceModel deployment interface. To deploy the Qwen2.5 1.5B model, we provided a convenient script for you to invoke:python3 deploy_sm_model.py 
+When it’s deployed, inference can be performed using a helper function wrapping the SageMaker predictor API: 
+ 
+ # Initialize the predictor once
+predictor = HuggingFacePredictor(endpoint_name="qwen25-&lt;endpoint_name_here&gt;")
+def generate_with_qwen25(prompt: str, max_tokens: int = 500, temperature: float = 0.9) -&gt; str:
+    """
+    Sends a prompt to the deployed Qwen2.5 model on SageMaker and returns the generated response.
+    Args:
+        prompt (str): The input prompt/question to send to the model.
+        max_tokens (int): Maximum number of tokens to generate.
+        temperature (float): Sampling temperature for generation.
+    Returns:
+        str: The model-generated text.
+    """
+    response = predictor.predict({
+        "inputs": prompt,
+        "parameters": {
+            "max_new_tokens": max_tokens,
+            "temperature": temperature
+        }
+    })
+    return response[0]["generated_text"]
+answer = generate_with_qwen25("What is the Grotto at Notre Dame?")
+print(answer) 
+ 
+In parallel, we integrated Anthropic’s Claude 3.7 Sonnet model in Amazon Bedrock. Amazon Bedrock provides a managed API layer for accessing proprietary foundation models (FMs) without managing infrastructure. The Claude generation function used the bedrock-runtime AWS SDK for Python (Boto3) client, which accepted a user prompt and returned the model’s text completion: 
+ 
+ # Initialize Bedrock client once
+bedrock = boto3.client("bedrock-runtime", region_name="us-east-1")
+# (Claude 3.7 Sonnet) model ID via Bedrock
+MODEL_ID = "us.anthropic.claude-3-7-sonnet-20250219-v1:0"
+def generate_with_claude4(prompt: str, max_tokens: int = 512, temperature: float = 0.7, top_p: float = 0.9) -&gt; str:
+    """
+    Sends a prompt to the Claude 4-tier model via Amazon Bedrock and returns the generated response.
+    Args:
+        prompt (str): The user message or input prompt.
+        max_tokens (int): Maximum number of tokens to generate.
+        temperature (float): Sampling temperature for generation.
+        top_p (float): Top-p nucleus sampling.
+    Returns:
+        str: The text content generated by Claude.
+    """
+    payload = {
+        "anthropic_version": "bedrock-2023-05-31",
+        "messages": [{"role": "user", "content": prompt}],
+        "max_tokens": max_tokens,
+        "temperature": temperature,
+        "top_p": top_p
+    }
+    response = bedrock.invoke_model(
+        modelId=MODEL_ID,
+        body=json.dumps(payload),
+        contentType="application/json",
+        accept="application/json"
+    )
+    response_body = json.loads(response['body'].read())
+    return response_body["content"][0]["text"]
+answer = generate_with_claude4("What is the Grotto at Notre Dame?")
+print(answer) 
+ 
+When you have both functions generated and tested, you can move on to creating the evaluation data for the Nova LLM-as-a-Judge. 
+Prepare the dataset 
+To create a realistic evaluation dataset for comparing the Qwen and Claude models, we used the Stanford Question Answering Dataset (SQuAD), a widely adopted benchmark in natural language understanding distributed under the CC BY-SA 4.0 license. SQuAD consists of thousands of crowd-sourced question-answer pairs covering a diverse range of Wikipedia articles. By sampling from this dataset, we made sure that our evaluation prompts reflected high-quality, factual question-answering tasks representative of real-world applications. 
+We began by loading a small subset of examples to keep the workflow fast and reproducible. Specifically, we used the Hugging Face datasets library to download and load the first 20 examples from the SQuAD training split: 
+ 
+ from datasets import load_dataset
+squad = load_dataset("squad", split="train[:20]") 
+ 
+This command retrieves a slice of the full dataset, containing 20 entries with structured fields including context, question, and answers. To verify the contents and inspect an example, we printed out a sample question and its ground truth answer: 
+ 
+ print(squad[3]["question"])
+print(squad[3]["answers"]["text"][0]) 
+ 
+For the evaluation set, we selected the first six questions from this subset: 
+questions = [squad[i]["question"] for i in range(6)] 
+Generate the Amazon Nova LLM-as-a-Judge evaluation dataset 
+After preparing a set of evaluation questions from SQuAD, we generated outputs from both models and assembled them into a structured dataset to be used by the Amazon Nova LLM-as-a-Judge workflow. This dataset serves as the core input for SageMaker AI evaluation recipes. To do this, we iterated over each question prompt and invoked the two generation functions defined earlier: 
+ 
+ generate_with_qwen25() for completions from the Qwen2.5 model deployed on SageMaker 
+ generate_with_claude() for completions from Anthropic’s Claude 3.7 Sonnet in Amazon Bedrock 
+ 
+For each prompt, the workflow attempted to generate a response from each model. If a generation call failed due to an API error, timeout, or other issue, the system captured the exception and stored a clear error message indicating the failure. This made sure that the evaluation process could proceed gracefully even in the presence of transient errors: 
+ 
+ import json
+output_path = "llm_judge.jsonl"
+with open(output_path, "w") as f:
+    for q in questions:
+        try:
+            response_a = generate_with_qwen25(q)
+        except Exception as e:
+            response_a = f"[Qwen2.5 generation failed: {e}]"
+        
+        try:
+            response_b = generate_with_claude4(q)
+        except Exception as e:
+            response_b = f"[Claude 3.7 generation failed: {e}]"
+        row = {
+            "prompt": q,
+            "response_A": response_a,
+            "response_B": response_b
+        }
+        f.write(json.dumps(row) + "\n")
+print(f"JSONL file created at: {output_path}") 
+ 
+This workflow produced a JSON Lines file named llm_judge.jsonl. Each line contains a single evaluation record structured as follows: 
+ 
+ {
+  "prompt": "What is the capital of France?",
+  "response_A": "The capital of France is Paris.",
+  "response_B": "Paris is the capital city of France."
+} 
+ 
+Then, upload this llm_judge.jsonl to an S3 bucket that you’ve predefined: 
+ 
+ upload_to_s3(
+    "llm_judge.jsonl",
+    "s3://&lt;YOUR_BUCKET_NAME&gt;/datasets/byo-datasets-dev/custom-llm-judge/llm_judge.jsonl"
+) 
+ 
+Launching the Nova LLM-as-a-Judge evaluation job 
+After preparing the dataset and creating the evaluation recipe, the final step is to launch the SageMaker training job that performs the Amazon Nova LLM-as-a-Judge evaluation. In this workflow, the training job acts as a fully managed, self-contained process that loads the model, processes the dataset, and generates evaluation metrics in your designated Amazon S3 location. 
+We use the PyTorch estimator class from the SageMaker Python SDK to encapsulate the configuration for the evaluation run. The estimator defines the compute resources, the container image, the evaluation recipe, and the output paths for storing results: 
+ 
+ estimator = PyTorch(
+    output_path=output_s3_uri,
+    base_job_name=job_name,
+    role=role,
+    instance_type=instance_type,
+    training_recipe=recipe_path,
+    sagemaker_session=sagemaker_session,
+    image_uri=image_uri,
+    disable_profiler=True,
+    debugger_hook_config=False,
+) 
+ 
+When the estimator is configured, you initiate the evaluation job using the fit() method. This call submits the job to the SageMaker control plane, provisions the compute cluster, and begins processing the evaluation dataset: 
+estimator.fit(inputs={"train": evalInput}) 
+Results from the Amazon Nova LLM-as-a-Judge evaluation job 
+The following graphic illustrates the results of the Amazon Nova LLM-as-a-Judge evaluation job. 
+ 
+To help practitioners quickly interpret the outcome of a Nova LLM-as-a-Judge evaluation, we created a convenience function that produces a single, comprehensive visualization summarizing key metrics. This function, plot_nova_judge_results, uses Matplotlib and Seaborn to render an image with six panels, each highlighting a different perspective of the evaluation outcome. 
+This function takes the evaluation metrics dictionary—produced when the evaluation job is complete—and generates the following visual components: 
+ 
+ Score distribution bar chart – Shows how many times Model A was preferred, how many times Model B was preferred, how many ties occurred, and how often the judge failed to produce a decision (inference errors). This provides an immediate sense of how decisive the evaluation was and whether either model is dominating. 
+ Win rate with 95% confidence interval – Plots Model B’s overall win rate against Model A, including an error bar reflecting the lower and upper bounds of the 95% confidence interval. A vertical reference line at 50% marks the point of no preference. If the confidence interval doesn’t cross this line, you can conclude the result is statistically significant. 
+ Preference pie chart – Visually displays the proportion of times Model A, Model B, or neither was preferred. This helps quickly understand preference distribution among the valid judgments. 
+ A vs. B score comparison bar chart – Compares the raw counts of preferences for each model side by side. A clear label annotates the margin of difference to emphasize which model had more wins. 
+ Win rate gauge – Depicts the win rate as a semicircular gauge with a needle pointing to Model B’s performance relative to the theoretical 0–100% range. This intuitive visualization helps nontechnical stakeholders understand the win rate at a glance. 
+ Summary statistics table – Compiles numerical metrics—including total evaluations, error counts, win rate, and confidence intervals—into a compact, clean table. This makes it straightforward to reference the exact numeric values behind the plots. 
+ 
+Because the function outputs a standard Matplotlib figure, you can quickly save the image, display it in Jupyter notebooks, or embed it in other documentation. 
+Clean up 
+Complete the following steps to clean up your resources: 
+ 
+ Delete your Qwen 2.5 1.5B Endpoint 
+   
+   import boto3
+
+# Create a low-level SageMaker service client.
+
+sagemaker_client = boto3.client('sagemaker', region_name=&lt;region&gt;)
+
+# Delete endpoint
+
+sagemaker_client.delete_endpoint(EndpointName=endpoint_name) 
+    
+ If you’re using a SageMaker Studio JupyterLab notebook, shut down the JupyterLab notebook instance. 
+ 
+How you can use this evaluation framework 
+The Amazon Nova LLM-as-a-Judge workflow offers a reliable, repeatable way to compare two language models on your own data. You can integrate this into model selection pipelines to decide which version performs best, or you can schedule it as part of continuous evaluation to catch regressions over time. 
+For teams building agentic or domain-specific systems, this approach provides richer insight than automated metrics alone. Because the entire process runs on SageMaker training jobs, it scales quickly and produces clear visual reports that can be shared with stakeholders. 
 Conclusion 
-Spotlight represents a cutting-edge agentic solution designed to tackle complex media processing and customer personalization challenges using generative AI. With modular, multi-agent workflows built on Amazon Nova, Spotlight seamlessly enables dynamic short-form video generation. The solution’s core framework is also extensible to diverse industry use cases that require multimodal content analysis at scale. 
-As an AWS Premier Tier Services Partner and Managed Services Provider (MSP), Accenture brings deep cloud and industry expertise. Accenture and AWS have worked together for more than a decade to help organizations realize value from their applications and data. Accenture brings its industry understanding and generative AI specialists to build and adapt generative AI solutions to client needs. Together with AWS, through the Accenture AWS Business Group (AABG), we help enterprises unlock business value by rapidly scaling generative AI solutions tailored to their needs—driving innovation and transformation in the cloud. 
-Try out Spotlight for your own use case, and share your feedback in the comments. 
+This post demonstrates how Nova LLM-as-a-Judge—a specialized evaluation model available through Amazon SageMaker AI—can be used to systematically measure the relative performance of generative AI systems. The walkthrough shows how to prepare evaluation datasets, launch SageMaker AI training jobs with Nova LLM-as-a-Judge recipes, and interpret the resulting metrics, including win rates and preference distributions. The fully managed SageMaker AI solution simplifies this process, so you can run scalable, repeatable model evaluations that align with human preferences. 
+We recommend starting your LLM evaluation journey by exploring the official Amazon Nova documentation and examples. The AWS AI/ML community offers extensive resources, including workshops and technical guidance, to support your implementation journey. 
+To learn more, visit: 
+ 
+ Amazon Nova Documentation 
+ Amazon Bedrock Nova Overview 
+ Fine-tuning Amazon Nova models 
+ Amazon Nova customization guide 
+ 
  
  
 About the authors 
-Ilan Geller is a Managing Director in the Data and AI practice at Accenture. He is the Global AWS Partner Lead for Data and AI and the Center for Advanced AI. His roles at Accenture have primarily been focused on the design, development, and delivery of complex data, AI/ML, and most recently Generative AI solutions. 
-Dr. Kamal Mannar is a Global Computer Vision Lead at Accenture’s Center for Advanced AI, with over 20 years of experience applying AI across industries like agriculture, healthcare, energy, and telecom. He has led large-scale AI transformations, built scalable GenAI and computer vision solutions, and holds 10+ patents in areas including deep learning, wearable AI, and vision transformers. Previously, he headed AI at Vulcan AI, driving cutting-edge innovation in precision agriculture. Kamal holds a Ph.D. in Industrial &amp; Systems Engineering from the University of Wisconsin–Madison. 
-Debasmita Ghosh is working as&nbsp;Associate Director&nbsp;in Accenture with&nbsp;21 years&nbsp;of experience in Information Technology (8 years&nbsp;in AI/Gen AI capability), who currently among multiple responsibilities leads&nbsp;Computer Vision practice in India.&nbsp;She has presented her paper on Handwritten Text Recognition in multiple conferences including MCPR 2020, GHCI 2020. She has patent granted on Handwritten Text Recognition solution and received recognition from Accenture under the Accenture Inventor Award Program being named as an inventor on a granted patent. She has multiple papers on Computer Visions solutions like Table Extraction including non-uniform and borderless tables accepted and presented in the ComPE 2021 and CCVPR 2021 international conferences. She has managed projects across multiple technologies (Oracle Apps, SAP). As a programmer, she has worked during various phases of SDLC with experience on Oracle Apps Development across CRM, Procurement, Receivables, SCM, SAP Professional Services, SAP CRM. Debasmita holds&nbsp;M.Sc. in Statistics&nbsp;from Calcutta University. 
-Nakul Aggarwal is a Subject Matter Expert in Computer Vision and Generative AI at Accenture, with around 7 years of experience in developing and delivering cutting-edge solutions across computer vision, multimodal AI, and agentic systems. He holds a Master’s degree from the Indian Institute of Technology (IIT) Delhi and has authored several research papers presented at international conferences. He holds two patents in AI and currently leads multiple projects focused on multimodal and agentic AI. Beyond technical delivery, he plays a key role in mentoring teams and driving innovation by bridging advanced research with real-world enterprise applications. 
-Aramide Kehinde is Global Partner Solutions Architect for Amazon Nova at AWS. She works with high growth companies to build and deliver forward thinking technology solutions using AWS Generative AI. Her experience spans multiple industries, including Media &amp; Entertainment, Financial Services, and Healthcare. Aramide enjoys building the intersection of AI and creative arenas and spending time with her family. 
-Rajdeep Banerjee is a Senior Partner Solutions Architect at AWS helping strategic partners and clients in the AWS cloud migration and digital transformation journey. Rajdeep focuses on working with partners to provide technical guidance on AWS, collaborate with them to understand their technical requirements, and designing solutions to meet their specific needs. He is a member of Serverless technical field community. Rajdeep is based out of Richmond, Virginia.
-• Deploy conversational agents with Vonage and Amazon Nova Sonic
-  This post is co-written with Mark Berkeland, Oscar Rodriguez and Marina Gerzon from Vonage. 
-Voice-based technologies are transforming the way businesses engage with customers across customer support, virtual assistants, and intelligent agents. However, creating real-time, expressive, and highly responsive voice interfaces still requires navigating a complex stack of communication protocols, AI models, and media infrastructure. To simplify this process, Vonage has integrated Amazon Nova Sonic, our speech-to-speech foundation model (FM), with the Vonage Voice API, part of their Communications Platform as a Service (CPaaS) offering. 
-With this integration, developers can deploy AI voice agents to enable more human-like voice conversations over phone calls, SIP connections, WebRTC, and mobile apps. The solution makes it straightforward to bring intelligent, real-time conversations into workflows for a variety of use cases, such as a small auto repair shop using voice AI to book appointments and track down parts, a global retail brand handling a high volume of customer service calls, or a developer building a scalable voice interface. 
-In this post, we explore how developers can integrate Amazon Nova Sonic with the Vonage communications service to build responsive, natural-sounding voice experiences in real time. By combining the Vonage Voice API with the low-latency and expressive speech capabilities of Amazon Nova Sonic, businesses can deploy AI voice agents that deliver more human-like interactions than traditional voice interfaces. These agents can be used as customer support, virtual assistants, and more. 
-Amazon Nova Sonic for real-time conversational AI 
-Amazon Nova Sonic is a speech-to-speech FM designed to build real-time conversational AI applications in Amazon Bedrock, with industry-leading price-performance and low latency. Its architecture unifies speech understanding and generation into a single model, to enable more human-like voice conversations in AI applications. The model can understand speech in different speaking styles and generate speech in expressive voices, including both masculine-sounding and feminine-sounding voices. Amazon Nova Sonic can adapt the intonation, prosody, and style of the generated speech response to align with the context and content of the speech input and gracefully handle interruptions. Additionally, Amazon Nova Sonic allows for function calling and knowledge grounding with enterprise data using Retrieval Augmented Generation (RAG). 
-Vonage Voice APIs, powered by AI 
-Vonage, an AWS partner, provides a developer-friendly platform for building voice, messaging, video, and authentication experiences. With its wide-ranging Voice APIs, Vonage offers WebRTC support, multi-channel communication tools, standard phone call integrations, in-app softphones, front-ending contact centers, and voice-over-browser functionality. The software also offers essential building blocks such as inbound and outbound voice call handling, voicemail support, and programmable logic for call routing and queuing. Vonage’s solution builder and SDKs allow for fast, low-code integration, while its interoperability with business applications and productivity tools enables teams to embed communication directly into their existing workflows. 
-Solution overview 
-Vonage collaborated with Amazon Nova Sonic to build low-latency, voice-first applications that can understand and respond like a human agent over standard telephony or WebRTC channels. This new tool can connect inbound and outbound Vonage calls directly to Amazon Nova Sonic for conversational AI processing, using expressive, real-time speech synthesis to deliver fluid, natural interactions. Amazon Nova Sonic’s integration into Vonage Voice API seamlessly manages audio buffering, custom media infrastructure, and protocol translation, so teams can focus on building engaging experiences. 
-With built-in conversation control logic and noise cancellation, Vonage’s integration with Amazon Nova Sonic makes it straightforward for businesses to rapidly build and deploy responsive AI voice agents. These agents can handle real-time voice conversations and scale voice interactions without relying on traditional contact centers. 
-Vonage is making this integration available as a GitHub repository for developers to deploy and customize to their needs. 
-“As an AWS Amazon Partner Network (APN) member, Vonage has a long history of working closely with the AWS innovation team to create new solutions to benefit enterprise customers,” said Christophe Van de Weyer, President and Head of Business Unit API for Vonage. “This latest collaboration with AWS enables organizations to transform how they engage with customers by adopting generative AI solutions that create added value for internal and external communication. By combining Vonage’s communications APIs with AWS’s advanced AI, this new voice AI agent technology enables businesses to streamline the adoption of intelligent agents, accelerate the modernization of legacy voice systems, and provide a robust service to deliver exceptional customer experiences with measurable improvements in satisfaction and operational efficiency.” 
-The following video showcases a demo of Diana, an AI voice agent built using Vonage’s integration with Amazon Nova Sonic. 
-
+Surya Kari is a Senior Generative AI Data Scientist at AWS, specializing in developing solutions leveraging state-of-the-art foundation models. He has extensive experience working with advanced language models including DeepSeek-R1, the Llama family, and Qwen, focusing on their fine-tuning and optimization. His expertise extends to implementing efficient training pipelines and deployment strategies using AWS SageMaker. He collaborates with customers to design and implement generative AI solutions, helping them navigate model selection, fine-tuning approaches, and deployment strategies to achieve optimal performance for their specific use cases. 
+Joel Carlson is a Senior Applied Scientist on the Amazon AGI foundation modeling team. He primarily works on developing novel approaches for improving the LLM-as-a-Judge capability of the Nova family of models. 
+Saurabh Sahu is an applied scientist in the Amazon AGI Foundation modeling team. He obtained his PhD in Electrical Engineering from University of Maryland College Park in 2019. He has a background in multi-modal machine learning working on speech recognition, sentiment analysis and audio/video understanding. Currently, his work focuses on developing recipes to improve the performance of LLM-as-a-judge models for various tasks. 
+Morteza Ziyadi is an Applied Science Manager at Amazon AGI, where he leads several projects on post-training recipes and (Multimodal) large language models in the Amazon AGI Foundation modeling team. Before joining Amazon AGI, he spent four years at Microsoft Cloud and AI, where he led projects focused on developing natural language-to-code generation models for various products. He has also served as an adjunct faculty at Northeastern University. He earned his PhD from the University of Southern California (USC) in 2017 and has since been actively involved as a workshop organizer, and reviewer for numerous NLP, Computer Vision and machine learning conferences. 
+Pradeep Natarajan is a Senior Principal Scientist in Amazon AGI Foundation modeling team working on post-training recipes and Multimodal large language models. He has 20+ years of experience in developing and launching multiple large-scale machine learning systems. He has a PhD in Computer Science from University of Southern California. 
+Michael Cai is a Software Engineer on the Amazon AGI Customization Team supporting the development of evaluation solutions. He obtained his MS in Computer Science from New York University in 2024. In his spare time he enjoys 3d printing and exploring innovative tech.
+• Building cost-effective RAG applications with Amazon Bedrock Knowledge Bases and Amazon S3 Vectors
+  Vector embeddings have become essential for modern Retrieval Augmented Generation (RAG) applications, but organizations face significant cost challenges as they scale. As knowledge bases grow and require more granular embeddings, many vector databases that rely on high-performance storage such as SSDs or in-memory solutions become prohibitively expensive. This cost barrier often forces organizations to limit the scope of their RAG applications or compromise on the granularity of their vector representations, potentially impacting the quality of results. Additionally, for use cases involving historical or archival data that still needs to remain searchable, storing vectors in specialized vector databases optimized for high throughput workloads represents an unnecessary ongoing expense. 
+Starting July 15, Amazon Bedrock Knowledge Bases customers can select Amazon S3 Vectors (preview), the first cloud object storage with built-in support to store and query vectors at a low cost, as a vector store. Amazon Bedrock Knowledge Bases users can now reduce vector upload, storage, and query costs by up to 90%. Designed for durable and cost-optimized storage of large vector datasets with subsecond query performance, S3 Vectors is ideal for RAG applications that require long-term storage of massive vector volumes and can tolerate the performance tradeoff compared to high queries per second (QPS), millisecond latency vector databases. The integration with Amazon Bedrock means you can build more economical RAG applications while preserving the semantic search performance needed for quality results. 
+In this post, we demonstrate how to integrate Amazon S3 Vectors with Amazon Bedrock Knowledge Bases for RAG applications. You’ll learn a practical approach to scale your knowledge bases to handle millions of documents while maintaining retrieval quality and using S3 Vectors cost-effective storage. 
+Amazon Bedrock Knowledge Bases and Amazon S3 Vectors integration overview 
+When creating a knowledge base in Amazon Bedrock, you can select S3 Vectors as your vector storage option. Using this approach, you can build cost-effective, scalable RAG applications without provisioning or managing complex infrastructure. The integration delivers significant cost savings while maintaining subsecond query performance, making it ideal for working with larger vector datasets generated from massive volumes of unstructured data including text, images, audio, and video. Using a pay-as-you-go pricing model at low price points, S3 Vectors offers industry-leading cost optimization that reduces the cost of uploading, storing, and querying vectors by up to 90% compared to alternative solutions. Advanced search capabilities include rich metadata filtering, so you can refine queries by document attributes such as dates, categories, and sources. The combination of S3 Vectors and Amazon Bedrock is ideal for organizations building large-scale knowledge bases that demand both cost efficiency and performant retrieval—from managing extensive document repositories to historical archives and applications requiring granular vector representations. The walkthrough follows these high-level steps: 
  
-  
+ Create a new knowledge base 
+ Configure the data source 
+ Configure data source and processing 
+ Sync the data source 
+ Test the knowledge base 
+ 
+Prerequisites 
+Before you get started, make sure that you have the following prerequisites: 
+ 
+ An AWS Account with appropriate service access. 
+ An AWS Identity and Access Management (IAM) role with the appropriate permissions to access Amazon Bedrock and Amazon Simple Storage Service (Amazon S3). 
+ Enable model access for embedding and inference models such as Amazon Titan Text Embeddings V2 and Amazon Nova Pro. 
+ 
+Amazon Bedrock Knowledge Bases and Amazon S3 Vectors integration walkthrough 
+In this section, we walk through the step-by-step process of creating a knowledge base with Amazon S3 Vectors using the AWS Management Console. We cover the end-to-end process from configuring your vector store to ingesting documents and testing your retrieval capabilities. 
+For those who prefer to configure their knowledge base programmatically rather than using the console, the Amazon Bedrock Knowledge Bases with S3 Vectors repository in GitHub provides a guided notebook that you can follow to deploy the setup in your own account. 
+Create a new knowledge base 
+To create a new knowledge base, follow these steps: 
+ 
+ On the Amazon Bedrock console in the left navigation pane, choose Knowledge Bases. To initiate the creation process, in the Create dropdown list, choose Knowledge Base with vector store. 
+ On the Provide Knowledge Base details page, enter a descriptive name for your knowledge base and an optional description to identify its purpose. Select your IAM permissions approach—either create a new service role or use an existing one—to grant the necessary permissions for accessing AWS services, as shown in the following screenshot. 
  
  
-The following architecture diagram provides an overview of Amazon Nova Sonic deployed as a voice agent in the Vonage Voice API framework on AWS. 
  
-The solution routes different types of incoming calls to Amazon Nova Sonic over a WebSocket connection. The architectural components include (left to right): 
+ Choose Amazon S3. Optionally, add tags to help organize and categorize your resources and configure log delivery destinations such as an S3 bucket or Amazon CloudWatch for monitoring and troubleshooting. 
+ Choose Next to proceed to the data source configuration. 
  
- Calls – Incoming voice connections that can come from global phone numbers, SIP connections with contact centers or business systems, or WebRTC connections from web browsers and mobile apps. 
- Vonage Voice API – Provides programmatic control over these types of calls and voice connections, allowing them to be integrated with AI systems, routed elsewhere, or given speech and other treatments. Because Amazon Nova Sonic is a full speech-to-speech AI service, the real-time voice streams are connected directly, unlike other AI integrations that might use text-based integration. 
- Amazon Nova Sonic connector – A Vonage integration that connects calls to Amazon Nova Sonic over a WebSocket connection, providing low-latency, real-time, bi-directional voice streaming directly with Amazon Nova Sonic. The connector also manages voice isolation to better handle noisy environments, conversational elements like “barge in” where the caller interrupts the conversation, and fallback options if needed. 
- Amazon Nova Sonic – Part of the Amazon Nova family of FMs available in Amazon Bedrock. Amazon Nova Sonic unifies speech understanding and generation into a single model, streamlining development and reducing complexity when building conversational applications. 
- Retrieval Augmented Generation (RAG) – Tools within Amazon Bedrock that optimize the output of an underlying large language model (LLM). Amazon Nova Sonic can reference enterprise-authorized knowledge sources. Attribution and source visibility can be configured based on customer requirements. 
- Customizable prompt – Provided to the AI model and allows the voice agent’s personality and conversational capabilities to be defined and the right knowledge base to be used. 
- User context – Maintained by Amazon Nova Sonic throughout interaction sequences to allow a natural continuous conversation. Personally identifiable information (PII) is processed in real time and not retained by Amazon Nova Sonic. AWS safeguards your data through comprehensive security controls, encryption at rest and in transit, and compliance certifications, while also giving you the flexibility to configure additional logging, security, and compliance measures through AWS services. 
+Configure the data source 
+To configure the data source, follow these steps: 
  
-These components work together to create a flexible, intelligent voice agent service that can dynamically adapt to different communication scenarios and business use cases with different knowledge bases and prompts. 
-Example use cases 
-The following are just a few of the high-impact ways businesses are already using this integration to transform voice interactions: 
+ Assign a descriptive name to your knowledge base data. 
+ In Data source location, select whether the S3 bucket exists in your current AWS account or another account, then specify the location where your documents are stored, as shown in the following screenshot. 
  
- Customer support automation – Deploy voice agents that answer inbound customer queries, take appointments, and escalate calls only when necessary. 
- Proactive outbound calling – Generate dynamic, expressive outbound messages like reminders, confirmations, or follow-ups with voicemail fallback. 
- Multilingual voice assistants – Build voice experiences that seamlessly switch between English and Spanish depending on the caller, enabled by Vonage’s language detection and multilingual synthesis with Amazon Nova Sonic. 
+ 
+In this step, configure your parsing strategy to determine how Amazon Bedrock processes your documents. Select Amazon Bedrock default parser for text-only documents at no additional cost. Select Amazon Bedrock Data Automation as parser or Foundation models as a parser for processing complex documents with visual elements. 
+The chunking strategy configuration is equally critical because it defines how your content is segmented into meaningful units for vector embedding, directly impacting retrieval quality and context preservation. We have selected Fixed-size chunking for this example due to its predictable token sizing and simplicity. Because both parsing and chunking decisions can’t be modified after creation, select options that best match your content structure and retrieval needs. For sensitive data, you can use advanced settings to implement AWS Key Management Service (AWS KMS) encryption or apply custom transformation functions to optimize your documents before ingestion. By default, S3 Vectors will use server-side encryption (SSE-S3). 
+Configure data storage and processing 
+To configure data storage and processing, first select the embeddings model, as shown in the following screenshot. The embeddings model will transform your text chunks into numerical vector representations for semantic search capabilities. If connecting to an existing S3 Vector as a vector store, make sure the embedding model dimensions match those used when creating your vector store because dimensional mismatches will cause ingestion failures. Amazon Bedrock offers several embeddings models to choose from, each with different vector dimensions and performance characteristics optimized for various use cases. Consider both the semantic richness of the model and its cost implications when making your selection. 
+ 
+Next, configure the vector store. For vector storage selection, choose how Amazon Bedrock Knowledge Bases will store and manage the vector embeddings generated from your documents in Amazon S3 Vectors, using one of the following two options: 
+Option 1. Quick create a new vector store 
+This recommended option, shown in the following screenshot, automatically creates an S3 vector bucket in your account during knowledge base creation. The system optimizes your vector storage for cost-effective, durable storage of large-scale vector datasets, creating an S3 vector bucket and vector index for you. 
+ 
+Option 2. Use an existing vector store 
+When creating your Amazon S3 Vector as a vector store index for use with Amazon Bedrock Knowledge Bases, you can attach metadata (such as, year, author, genre, and location) as key-value pairs to each vector. By default, metadata fields can be used as filters in similarity queries unless specified as nonfilterable metadata at the time of vector index creation. S3 Vector indexes support string, number, and Boolean types up to 40 KB per vector, with filterable metadata capped at 2 KB per vector. 
+To accommodate larger text chunks and richer metadata while still allowing filtering on other important attributes, add "AMAZON_BEDROCK_TEXT" to the nonFilterableMetadataKeys list in your index configuration. This approach optimizes your storage allocation for document content while preserving filtering capabilities for meaningful attributes like categories or dates. Keep in mind that fields added to the nonFilterableMetadataKeys array can’t be used with metadata filtering in queries and can’t be modified after the index is created. 
+Here’s an example for creating an Amazon S3 Vector index with proper metadata configuration: 
+ 
+ s3vectors.create_index(
+    vectorBucketName="my-first-vector-bucket",
+    indexName="my-first-vector-index",
+    dimension=1024,
+    distanceMetric="cosine",
+    dataType="float32",  
+    metadataConfiguration={"nonFilterableMetadataKeys": ["AMAZON_BEDROCK_TEXT"]} 
+) 
+ 
+For details on how to create a vector store, refer to Introducing Amazon S3 Vectors in the AWS News Blog. 
+After you have an S3 Vector bucket and index, you can connect it to your knowledge base. You’ll need to provide both the S3 Vector bucket Amazon Resource Name (ARN) and vector index ARN, as shown in the following screenshot, to correctly link your knowledge base to your existing S3 Vector index. 
+ 
+Sync data source 
+After you’ve configured your knowledge base with S3 Vectors, you need to synchronize your data source to generate and store vector embeddings. From the Amazon Bedrock Knowledge Bases console, open your created knowledge base and locate your configured data source and choose Sync to initiate the process, as shown in the following screenshot. During synchronization, the system processes your documents according to your parsing and chunking configurations, generates embeddings using your selected model, and stores them in your S3 vector index. You can monitor the synchronization progress in real time if you’ve configured Amazon CloudWatch Logs and verify completion status before testing your knowledge base’s retrieval capabilities. 
+ 
+Test the knowledge base 
+After successfully configuring your knowledge base with S3 Vectors, you can validate its functionality using the built-in testing interface. You can use this interactive console to experiment with different query types and view both retrieval results and generated responses. Select between Retrieval only (Retrieve API) mode to examine raw source chunks or Retrieval and Response generation (RetrieveandGenerate API) to learn how foundation models (FMs) such as Amazon Nova use your retrieved content. The testing interface provides valuable insights into how your knowledge base processes queries, displaying source chunks, their relevance scores, and associated metadata. 
+You can also configure query settings for your knowledge base just as you would with other vector storage options, including filters for metadata-based selection, guardrails for appropriate responses, reranking capabilities, and query modification options. These tools help optimize retrieval quality and make sure the most relevant information is presented to your FMs. S3 Vectors currently supports semantic search functionality. Using this hands-on validation, you can refine your configuration before integrating the knowledge base with production applications. 
+ 
+Creating your Amazon Bedrock knowledge base programmatically 
+In the previous sections, we walked through creating a knowledge base with Amazon S3 Vectors using the AWS Management Console. For those who prefer to automate this process or integrate it into existing workflows, you can also create your knowledge base programmatically using the AWS SDK. 
+The following is a sample code showing how the API call looks when programmatically creating an Amazon Bedrock knowledge base with an existing Amazon S3 Vector index: 
+ 
+ response = bedrock.create_knowledge_base(
+&nbsp;&nbsp; &nbsp;description='Amazon Bedrock Knowledge Base integrated with Amazon S3 Vectors',
+&nbsp;&nbsp; &nbsp;knowledgeBaseConfiguration={
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;'type': 'VECTOR',
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;'vectorKnowledgeBaseConfiguration': {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 'embeddingModelArn': f'arn:aws:bedrock:{region}::foundation-model/amazon.titan-embed-text-v2:0',
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 'embeddingModelConfiguration': {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 'bedrockEmbeddingModelConfiguration': {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 'dimensions': vector_dimension, #Verify this is the same value as S3 vector index configuration
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 'embeddingDataType': 'FLOAT32'
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; }
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; },
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;},
+&nbsp;&nbsp; &nbsp;},
+&nbsp;&nbsp; &nbsp; name=knowledge_base_name,
+&nbsp;&nbsp; &nbsp; roleArn=roleArn,
+&nbsp;&nbsp; &nbsp; storageConfiguration={
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; 's3VectorsConfiguration': {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 'indexArn': vector_index_arn
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; },
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; 'type': 'S3_VECTORS'
+&nbsp;&nbsp; &nbsp; }
+) 
+ 
+The role attached to the knowledge base should have several policies attached to it, including access to the S3 Vectors API, the models used for embedding, generation, and reranking (if used), and the S3 bucket used as data source. If you’re using a customer managed key for your S3 Vector as a vector store, you’ll need to provide an additional policy to allow the decryption of the data. The following is the policy needed to access the Amazon S3 Vector as a vector store: 
+ 
+ {
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "BedrockInvokeModelPermission",
+            "Effect": "Allow",
+            "Action": [
+                "bedrock:InvokeModel"
+            ],
+            "Resource": [
+                "arn:aws:bedrock:{REGION}::foundation-model/amazon.titan-embed-text-v2:0"
+            ]
+        },
+        {
+            "Sid": "KmsPermission",
+            "Effect": "Allow",
+            "Action": [
+                "kms:GenerateDataKey",
+                "kms:Decrypt"
+            ],
+            "Resource": [
+                "arn:aws:kms:{REGION}:{ACCOUNT_ID}:key/{KMS_KEY_ID}"
+            ]
+        },
+        {
+            "Sid": "S3ListBucketPermission",
+            "Effect": "Allow",
+            "Action": [
+                "s3:ListBucket"
+            ],
+            "Resource": [
+                "arn:aws:s3:::{SOURCE_BUCKET_NAME}"
+            ],
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": [
+                        "{ACCOUNT_ID}"
+                    ]
+                }
+            }
+        },
+        {
+            "Sid": "S3GetObjectPermission",
+            "Effect": "Allow",
+            "Action": [
+                "s3:GetObject"
+            ],
+            "Resource": [
+                "arn:aws:s3:::{SOURCE_BUCKET_NAME}/{PREFIX}/*"
+            ],
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": [
+                        "{ACCOUNT_ID}"
+                    ]
+                }
+            }
+        },
+        {
+            "Sid": "S3VectorsAccessPermission",
+            "Effect": "Allow",
+            "Action": [
+                "s3vectors:GetIndex",
+                "s3vectors:QueryVectors",
+                "s3vectors:PutVectors",
+                "s3vectors:GetVectors",
+                "s3vectors:DeleteVectors"
+            ],
+            "Resource": "arn:aws:s3vectors:{REGION}:{ACCOUNT_ID}:bucket/{VECTOR_BUCKET_NAME}/index/{VECTOR_INDEX_NAME}",
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": "{ACCOUNT_ID}"
+                }
+            }
+        }
+    ]
+} 
+ 
+Cleanup 
+To clean up your resources, complete the following steps. To delete the knowledge base: 
+ 
+ On the Amazon Bedrock console, choose Knowledge Bases 
+ Select your Knowledge Base and note both the IAM service role name and S3 Vector index ARN 
+ Choose Delete and confirm 
+ 
+To delete the S3 Vector as a vector store, use the following AWS Command Line Interface (AWS CLI) commands: 
+ 
+ aws s3vectors delete-index --vector-bucket-name YOUR_VECTOR_BUCKET_NAME --index-name YOUR_INDEX_NAME --region YOUR_REGION
+aws s3vectors delete-vector-bucket --vector-bucket-name YOUR_VECTOR_BUCKET_NAME --region YOUR_REGION 
+ 
+ 
+ On the IAM console, find the role noted earlier 
+ Select and delete the role 
+ 
+To delete the sample dataset: 
+ 
+ On the Amazon S3 console, find your S3 bucket 
+ Select and delete the files you uploaded for this tutorial 
  
 Conclusion 
-By combining Amazon Nova Sonic with Vonage’s flexible communication infrastructure, developers can build intelligent, responsive AI voice agents. With this solution, you can provide proactive voice engagement, create multilingual assistants, handle customer support, and more. This integration makes voice-first AI applications more accessible and scalable than ever. 
-To start building with Amazon Nova Sonic, visit the Amazon Bedrock console. For Vonage integration, explore the Vonage API Developer Portal or use the Vonage Solution Builder to configure your voice agent in minutes. 
-To learn more about Amazon Nova Sonic, check out the AWS News Blog, Amazon Nova Sonic product page, or Amazon Bedrock User Guide. 
+The integration between Amazon Bedrock Knowledge Bases and Amazon S3 Vectors represents a significant advancement in making RAG applications more accessible and economically viable at scale. By using the cost-optimized storage of Amazon S3 Vectors, organizations can now build knowledge bases at scale with improved cost efficiency. This means customers can strike an optimal balance between performance and economics, and you can focus on creating value through AI-powered applications rather than managing complex vector storage infrastructure. 
+To get started on Amazon Bedrock Knowledge Bases and Amazon S3 Vectors integration, refer to Using S3 Vectors with Amazon Bedrock Knowledge Bases in the Amazon S3 User Guide. 
  
 About the authors 
+Vaibhav Sabharwal is a Senior Solutions Architect with Amazon Web Services (AWS) based out of New York. He is passionate about learning new cloud technologies and assisting customers in building cloud adoption strategies, designing innovative solutions, and driving operational excellence. As a member of the Financial Services Technical Field Community at AWS, he actively contributes to the collaborative efforts within the industry. 
+Dani Mitchell is a Generative AI Specialist Solutions Architect at Amazon Web Services (AWS). He is focused on helping accelerate enterprises across the world on their generative AI journeys with Amazon Bedrock. 
+Irene Marban is a Generative AI Specialist Solutions Architect at Amazon Web Services (AWS), working with customers across EMEA to design and implement generative AI solutions to accelerate their businesses. With a background in biomedical engineering and AI, her work focuses on helping organizations leverage the latest AI technologies to drive innovation and growth. In her spare time, she loves reading and cooking for her friends. 
+Ashish Lal is an AI/ML Senior Product Marketing Manager for Amazon Bedrock. He has over 11 years of experience in product marketing and enjoys helping customers accelerate time to value and reduce their AI lifecycle cost.
+• Implementing on-demand deployment with customized Amazon Nova models on Amazon Bedrock
+  Amazon Bedrock offers model customization capabilities for customers to tailor versions of foundation models (FMs) to their specific needs through features such as fine-tuning and distillation. Today, we’re announcing the launch of on-demand deployment for customized models ready to be deployed on Amazon Bedrock. 
+On-demand deployment for customized models provides an additional deployment option that scales with your usage patterns. This approach allows for invoking customized models only when needed, with requests processed in real time without requiring pre-provisioned compute resources. 
+The on-demand deployment option includes a token-based pricing model that charges based on the number of tokens processed during inference. This pay-as-you-go approach complements the existing Provisioned Throughput option, giving users flexibility to choose the deployment method that best aligns with their specific workload requirements and cost objectives. 
+In this post, we walk through the custom model on-demand deployment workflow for Amazon Bedrock and provide step-by-step implementation guides using both the AWS Management Console and APIs or AWS SDKs. We also discuss best practices and considerations for deploying customized Amazon Nova models on Amazon Bedrock. 
+Understanding custom model on-demand deployment workflow 
+The model customization lifecycle represents the end-to-end journey from conceptualization to deployment. This process begins with defining your specific use case, preparing and formatting appropriate data, and then performing model customization through features such as Amazon Bedrock fine-tuning or Amazon Bedrock Model Distillation. Each stage builds upon the previous one, creating a pathway toward deploying production-ready generative AI capabilities that you tailor to your requirements. The following diagram illustrates this workflow. 
  
- Divyesha Malhotra is a Senior Product Manager Technical Intern on the AGI Nova Sonic team. She leads the customer adoption and integrations of cutting-edge speech-to-speech foundation models for next-generation voice-based technologies. 
- Mark Berkeland is a Senior Solutions Engineer in the API Business Unit at Vonage. He designs and implements technical solutions including demos and proofs of concept to help customers bring voice and messaging applications to life. With a professional programming career that began in 1979, his experience ranges from FORTRAN on punched cards to modern cloud-native stacks like React Native, combining deep technical expertise with a passion for making complex ideas accessible. 
- Oscar Rodriguez&nbsp;is Senior Director of Global Partner Solutions in the API Business Unit at Vonage, where he leads strategic initiatives to empower partners through scalable communications solutions. He brings deep technical expertise and a practical understanding of real-world application development with over 20 years experience in web technologies and the last 10 in CPaaS. 
- Marina Gerzon is a Partner Solutions Architect at Vonage with over 20 years of experience in real-time communications, specializing in Video and Voice over IP solutions. Known for her ability to bridge technical depth with business impact, her work spans Telecom, Education, Healthcare, Fintech, and Insurance industries, where she has consistently delivered enterprise-grade SaaS and PaaS architectures tailored to complex business needs.
-• Enabling customers to deliver production-ready AI agents at scale
-  AI agents will change how we all work and live. Our AWS CEO, Matt Garman, shared a vision of a technological shift as transformative as the advent of the internet. I’m energized by this vision because I’ve witnessed firsthand how these intelligent agent systems are already beginning to solve complex problems, automate workflows, and create new possibilities across industries. With agentic AI, AstraZeneca accelerated healthcare insight discovery, Yahoo Finance transformed financial research for millions of investors, and Syngenta revolutionized agriculture with AI-driven precision farming. 
-To expand these early successes into widespread adoption, organizations need a practical approach that addresses the inherent complexity of agentic systems. At AWS, we’re committed to being the best place to build the world’s most useful AI agents, empowering organizations to deploy reliable and secure agents at scale. 
-We’re focused on making our agentic AI vision accessible to every organization by combining rapid innovation with a strong foundation of security, reliability, and operational excellence. Our approach accelerates progress by building on proven principles while embracing new possibilities—creating systems that can adapt as models evolve, new capabilities emerge, and use cases expand across your business. 
-Today, I’m excited to share how we’re bringing this vision to life with new capabilities that address the fundamental aspects of building and deploying agents at scale. These innovations will help you move beyond experiments to production-ready agent systems that can be trusted with your most critical business processes. 
+After customizing your model, the evaluation and deployment phases determine how the model will be made available for inference. This is where custom model on-demand deployment becomes valuable, offering a deployment option that aligns with variable workloads and cost-conscious implementations. When using on-demand deployment, you can invoke your customized model through the AWS console or standard API operations using the model identifier, with compute resources automatically allocated only when needed. The on-demand deployment provides flexibility while maintaining performance expectations, so you can seamlessly integrate customized models into your applications with the same serverless experience offered by Amazon Bedrock—all compute resources are automatically managed for you, based on your actual usage. Because the workflow supports iterative improvements, you can refine your models based on evaluation results and evolving business needs. 
+Prerequisites 
+This post assumes you have a customized Amazon Nova model before deploying it using on-demand deployment. On-demand deployment requires newly customized Amazon Nova models after this launch. Previously customized models aren’t compatible with this deployment option. For instructions on creating or customizing your Nova model through fine-tuning or distillation, refer to these resources: 
+ 
+ Fine-tuning Amazon Nova models 
+ A guide to Amazon Bedrock Model Distillation 
+ 
+After you’ve successfully customized your Amazon Nova model, you can proceed with deploying it using the on-demand deployment option as detailed in the following sections. 
+Implementation guide for on-demand deployment 
+There are two main approaches to implementing on-demand deployment for your customized Amazon Nova models on Amazon Bedrock: using the Amazon Bedrock console or using the API or SDK. First, we explore how to deploy your model through the Amazon Bedrock console, which provides a user-friendly interface for setting up and managing your deployments. 
+Step-by-step implementation using the Amazon Bedrock console 
+To implement on-demand deployment for your customized Amazon Nova models on Amazon Bedrock using the console, follow these steps: 
+ 
+ On the Amazon Bedrock console, select your customized model (fine-tuning or model distillation) to be deployed. Choose Set up inference and select Deploy for on-demand, as shown in the following screenshot. 
+ 
+ 
+ 
+ Under Deployment details, enter a Name and a Description. You have the option to add Tags, as shown in the following screenshot. Choose Create to start on-demand deployment of customized model. 
+ 
+ 
+Under Custom model deployments, the status of your deployment should be InProgress, Active, or Failed, as shown in the following screenshot. 
+ 
+You can select a deployment to find Deployment ARN, Creation time, Last updated, and Status for the selected custom model. 
+ 
+The custom model is deployed and ready using on-demand deployment. Try it out in the test playground or go to Chat/Text playground, choose Custom models under Categories. Select your model, choose On demand under Inference, and select by the deployment name, as shown in the following screenshot. 
+ 
+Step-by-step implementation using API or SDK 
+After you have trained the model successfully, you can deploy it to evaluate the response quality and latency or to use the model as a production model for your use case. You use CreateCustomModelDeployment API to create model deployment for the trained model. The following steps show how to use the APIs for deploying and deleting the custom model deployment for on-demand inference. 
+ 
+ import boto3
+import json
 
+# First, create and configure an Amazon Bedrock client:
+bedrock_client = boto3.client(
+service_name="bedrock",region_name="&lt;region-info&gt;")
+
+# create custom model deployment 
+response = bedrock_client.create_custom_model_deployment(
+                        modelDeploymentName="&lt;model-deployment-name&gt;",
+                        modelArn="&lt;trained-model-arn&gt;",
+                        description="&lt;model-deployment-description&gt;",
+                        tags=[
+{"key":"&lt;your-key&gt;",
+ "value":"&lt;your-value&gt;"},
+   ]) 
  
- A comprehensive foundation for building and deploying production-ready agentic AI systems at scale.
+After you’ve successfully created a model deployment, you can check the status of the deployment by using GetCustomModelDeployment API as follows: 
  
-Guiding principles, evolved for agents 
-At AWS, our approach to agentic AI is shaped by our experience building agent systems internally and helping hundreds of thousands of customers accelerate their AI journeys. Four core principles guide everything we do in this space: 
-Principle 1: Embrace agility as a competitive edge 
-Organizations that thrive won’t be those who perfectly predict the future, but those who adapt quickly as it unfolds. Staying nimble requires an agentic architecture that embraces flexibility and openness rather than rigid frameworks or singular models. It means building systems that can incorporate new models as they emerge, connect to your proprietary data sources, and seamlessly integrate with your existing tools. 
-The dual need for stability and adaptability led us to create Amazon Bedrock AgentCore,&nbsp;a complete set of services for deploying and operating highly capable agents securely at enterprise scale. AgentCore provides a secure, serverless runtime with complete session isolation and the longest running workload available today, tools and capabilities to help agents execute workflows with the right permissions and context, and controls to operate trustworthy agents. Its capabilities can be used together or independently and work with popular open source frameworks such as CrewAI, LangGraph, LlamaIndex, and Strands Agents and with any model including those in (or outside of) Amazon Bedrock, so developers can stay agile as technology shifts. By reducing the undifferentiated heavy lifting, AgentCore helps organizations move beyond experiments to production-ready agent systems that can be trusted with your most critical business processes. 
-Customers like Itaú Unibanco, Innovaccer, Boomi, Box, and Epsilon are already experimenting with AgentCore and are excited about how it speeds their deployment of agents to production. These early adopters recognize that AgentCore helps eliminate the trade-off between open source flexibility and enterprise-grade security and reliability, allowing them to focus on creating business value rather than building security and operational foundations from scratch. 
-Principle 2: Evolve fundamentals for the agentic era 
-While the core principles of enterprise technology haven’t changed, how we implement them must evolve for the agentic era. These evolved fundamentals create the foundation that makes production-grade agents possible: 
+ response = bedrock_client.get_custom_model_deployment( 
+			customModelDeploymentIdentifier="&lt;custom-deployment-arn&gt;") 
  
- Security and Trust. Agents introduce new security considerations as they cross system boundaries, perform actions on behalf of users or act themselves with pre-authorized user consent. Trust requires transparency, guardrails, and verification. AgentCore Runtime helps address these with dedicated compute environments per session and memory isolation that helps prevent data leaks across agents,&nbsp;building on a decade of AWS Lambda serverless innovation in security and scalability. 
- Reliability and Scalability. Traditional approaches to scaling software fall short with agentic systems as they follow unpredictable execution paths and have variable resource requirements across interactions. AgentCore Runtime&nbsp;is highly reliable with checkpointing and recovery capabilities to help ensure graceful recovery in case of unexpected interruptions and failures, and it can automatically handle scaling from zero to thousands of concurrent sessions, eliminating capacity planning and infrastructure maintenance. 
- Identity. As agents act on behalf of users and systems, traditional identity models must evolve. Managing permissions of both the agent and the user as agents navigate complex workflows spanning multiple systems becomes critical to securing your data. AgentCore Identity delivers secure agent access across AWS services and third-party applications and tools with temporary, fine-grained permissions, and standards-based authentication. It works with leading identity providers such as Amazon Cognito, Microsoft Entra ID, and Okta, as well as popular OAuth providers such as GitHub, Google, Salesforce, and Slack. 
- Observability. Understanding agent decisions requires new approaches to monitoring. Observability becomes essential not just for troubleshooting, but for compliance and continuous improvement, representing a shift from periodic auditing to constant supervision. AgentCore Observability provides real-time visibility through built-in dashboards and standardized telemetry that integrates with your monitoring stack. 
- Data. Your proprietary data is more valuable than ever, enabling agents to understand your specific context. The ability to securely access, process, and learn from this data becomes a critical differentiator for agent performance and relevance. For example, with AgentCore Gateway, you can transform your data sources including Amazon Bedrock Knowledge Bases into agent-compatible tools so agents can access recent and relevant information. 
- Seamless Integration. Agents must work with everything in your environment: your systems, other clouds, SaaS applications, and other agents. AgentCore Gateway makes it possible by transforming APIs and services into agent-compatible tools with minimal code, eliminating months of integration work while enabling agents to discover and interact with your systems. Our open source Strands Agents SDK complements this with flexible orchestration patterns, and support for MCP and A2A to enable seamless coordination between multiple agents and tools across different environments. AWS API MCP Server gives agents a callable interface to AWS services,&nbsp;enabling&nbsp;foundation models to discover available operations, reason over input and output requirements, and generate plans that invoke AWS APIs to explore, configure, or manage resources with&nbsp;real-time AWS capabilities beyond model training cutoff. 
- Tooling and Capabilities. Agents need specialized tools to execute complex tasks and maintain context across interactions. AgentCore Memory makes it easy for developers to build context-aware agents by eliminating complex memory infrastructure management while providing full control over what the AI agent remembers. It provides industry-leading accuracy along with support for both short-term memory for multi-turn conversations and long-term memory that persists across sessions, with the ability to share memory stores across collaborating agents. Built-in tools include AgentCore Browser for web interactions, enabling agents to navigate websites and perform actions on your behalf, and AgentCore Code Interpreter for executing code securely, allowing agents to process data, generate visualizations, and solve complex problems programmatically. These capabilities extend what agents can do while maintaining security and reliability. 
+GetCustomModelDeployment supports three states: Creating , Active , and Failed. When the status in response is Active, you should be able to use the custom model through on-demand deployment with InvokeModel or Converse API, as shown in the following example: 
  
+ # Define Runtime Client
+bedrock_runtime = boto3.client(service_name="bedrock-runtime", region_name="&lt;region-info&gt;") 
+# invoke a deployed custom model using Converse API
+response = bedrock_runtime.converse(
+                    modelId="&lt;custom-deployment-arn&gt;",
+                    messages=[
+                        {
+                            "role": "user",
+                            "content": [
+                                {
+                                    "text": "&lt;your-prompt-for-custom-model&gt;",
+                                }
+                            ]
+                        }
+                    ]
+                )
+
+result = response.get('output')
+print(result)
+
+# invoke a deployed custom model using InvokeModel API
+request_body = {
+    "schemaVersion": "messages-v1",
+    "messages": [{"role": "user", 
+                  "content": [{"text": "&lt;your-prompt-for-custom-model&gt;"}]}],
+    "system": [{"text": "&lt;system prompt&gt;"}],
+    "inferenceConfig": {"maxTokens": 500, 
+                        "topP": 0.9, 
+                        "temperature": 0.0
+                        }
+}
+body = json.dumps(request_body)
+response = bedrock_runtime.invoke_model(
+        modelId="&lt;custom-deployment-arn&gt;",
+        body=body
+    )
+
+# Extract and print the response text
+model_response = json.loads(response["body"].read())
+response_text = model_response["output"]["message"]["content"][0]["text"]
+print(response_text) 
  
-Together, these evolved fundamentals help organizations build secure, reliable, and scalable agent architectures that deliver consistent results in production environments. With AgentCore, we’re helping customers focus on creating value rather than reinventing infrastructure. 
-Principle 3: Deliver superior outcomes with model choice and data 
-At the heart of every effective agent system lies its foundation model, which powers an agent’s ability to understand, reason, and act. For agents to deliver transformative experiences, carefully selected and potentially tailored models need to interact with rich, context-specific knowledge that determines how effectively the model can make decisions on your behalf. This reality extends to all AI applications, which is why AWS gives customers both the freedom to choose the optimal model for each use case and the tools to enhance those models with their unique data. This approach delivers superior outcomes and the best price-performance for all AI implementations. 
-Model requirements vary widely—some applications demand sophisticated reasoning, others require fast responses, and many prioritize cost efficiency at scale. No single model excels across all dimensions, which is why we pioneered model choice with Amazon Bedrock in 2023. But the true differentiator is how you combine models with your organization’s proprietary data, transforming generic AI into systems with deep domain expertise. 
-To help you create models with this high level of expertise, today we’re expanding our model customization capabilities with the launch of Amazon Nova customization in Amazon SageMaker AI. Nova models now offer customers the flexibility to customize the model across the model development life cycle. This includes pre-training and post-training, including both fine-tuning and alignment, with support for parameter efficient fine-tuning (PEFT) and full fine-tuning. With these, Nova now offers the most comprehensive suite of model customization capabilities made available for any proprietary model family. Using techniques including Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), reinforcement learning from human feedback using Proximal Policy Optimization (PPO), Continued Pre-Training (CPT), and Knowledge Distillation, customers can create Nova models optimized for their use-case. Once customized, these models can be deployed directly to Amazon Bedrock, allowing you to seamlessly integrate your custom models into your agent systems and other AI applications. 
-We are also training our own models optimized for specific agent use cases.&nbsp;Nova Act is an AI model trained to perform actions within a web browser. Customers can get started with building their own browser automation agents with the&nbsp;Nova Act SDK, purpose-built to enable reliable browser agents powered by the Nova Act model. The Nova Act SDK, available in research preview today, uses AgentCore Browser for scalable, cloud-based browser execution. 
-Once you have the right model, you need to ensure it can interact with your organization’s proprietary and current data. Vectors have emerged as the dominant and fastest way AI models can access your data. Until now, the cost of storing vector embeddings—the key to enabling this intelligence—has forced organizations to limit their AI systems to recent data only, constraining their potential. Today’s launch of Amazon S3 Vectors, the first cloud object store with native vector support, marks a fundamental change. By reducing vector storage costs by 90% while maintaining sub-second query performance, S3 Vectors enables agents that remember more, reason deeper, and maintain comprehensive context from every customer interaction, document, and business insight. S3 Vectors integrates directly with Amazon Bedrock Knowledge Bases for cost-effective RAG applications and Amazon OpenSearch Service for tiered vector strategies. 
-Principle 4: Deploy solutions that transform experiences 
-While models and infrastructure change how organizations build, agentic solutions transform how businesses operate. The true power of agentic AI lies in its ability to reshape workflows and human productivity across entire industries. These solutions free people from routine tasks and handle complex information flows, enabling teams to focus on creative thinking and strategic decisions. We’re making this transformation accessible to more organizations through pre-built agentic solutions. By combining foundational building blocks with pre-built solutions you can move beyond experiments to comprehensive AI strategies that deliver tangible business impact. 
-Today, we’re announcing that you can now buy AI Agents and Tools in AWS Marketplace, with streamlined procurement and multiple deployment options. In today’s fragmented AI landscape, AWS Marketplace offers a centralized catalog of curated agents, tools, and solutions from AWS Partners. Fast-track automation with pre-built agents from AWS Partners. Our new API-based deployment method helps you to streamline integrations with other agents and tools that support MCP and A2A. And these agents can run on trusted AWS services or in your AWS environment, where you maintain control over security and access. You can deploy select pre-built agents and tools on AgentCore. 
-We’re also continuing to give customers ready-to-deploy agent solutions that enable this transformation. Kiro is an AI IDE that helps developers go from concept to production with spec-driven development. From simple to complex tasks, Kiro works alongside you to turn prompts into detailed specs—then into working code, docs, and tests. So, what you build is exactly what you want and ready to share with your team. Kiro’s agents help you solve challenging problems and automate tasks like generating documentation and unit tests. With Kiro, you can build beyond prototypes while being in the driver’s seat every step of the way. AWS Transform deploys specialized AI agents to automate complex modernization tasks like code analysis, refactoring, and dependency mapping, dramatically reducing project timelines for enterprise workload migrations. Each solution shows our commitment to flexibility and choice, helping you innovate faster and realize business outcomes sooner. And Amazon Connect, a comprehensive customer experience solution, enables organizations to delight their customers with unlimited AI on every customer interaction across all channels. 
-These four principles guide our product strategy and are embedded in every innovation we’re announcing today: embracing agility, evolving fundamentals, combining model choice with proprietary data, and deploying transformative solutions. Together, they provide a comprehensive framework for successfully implementing agentic AI in your organization. 
-The path forward 
-The significant potential for our customers and our own diverse businesses has inspired us to focus on building the most trustworthy agentic AI capabilities on the planet. But the most important advice I can offer is simple: start now. 
-Don’t get trapped trying to boil the ocean or waiting for all the answers before you begin. Pick a specific business problem that matters and get building. The organizations seeing the greatest success aren’t those with the most ambitious plans, they’re those who have started the learning cycle, gathering real-world feedback that informs each iteration. To help our customers on their AI journey, we’re investing another 100 million dollars, doubling our investment, in the AWS Generative AI Innovation Center which has helped thousands of customers across industries including NFL, Yahoo Finance, BMW, and AstraZeneca achieve millions of dollars in productivity gains and transform customer experiences. 
-AWS set the standard for security, reliability, and data privacy for cloud computing, and we’re bringing these same principles to agentic AI. No matter your use case or requirements, AWS provides the right foundation to help you succeed. Together, we can reinvent what’s possible for your business through the power of agentic AI. 
+By following these steps, you can deploy and use your customized model through Amazon Bedrock API and instantly use your efficient and high-performing model tailored to your use cases through on-demand deployment. 
+Best practices and considerations 
+Successful implementation of on-demand deployment with customized models depends on understanding several operational factors. These considerations—including latency, Regional availability, quota limitations, deployment option selections, and cost management strategies—directly impact your ability to deploy effective solutions while optimizing resource utilization. The following guidelines help you make informed decisions when implementing your inference strategy: 
  
-About the author 
-Swami Sivasubramanian is Vice President for Agentic AI at Amazon Web Services (AWS). At AWS, Swami has led the development and growth of leading AI services like Amazon DynamoDB, Amazon SageMaker, Amazon Bedrock, and Amazon Q. His team’s mission is to provide the scale, flexibility, and value that customers and partners require to innovate using agentic AI with confidence and build agents that are not only powerful and efficient, but also trustworthy and responsible. Swami also served from May 2022 through May 2025 as a member of the National Artificial Intelligence Advisory Committee, which was tasked with advising the President of the United States and the National AI Initiative Office on topics related to the National AI Initiative.
+ Cold start latency – When using on-demand deployment, you might experience initial cold start latencies, typically lasting several seconds, depending on the model size. This occurs when the deployment hasn’t received recent traffic and needs to reinitialize compute resources. 
+ Regional availability – At launch, custom model deployment will be available in US East (N. Virginia) for Amazon Nova models. 
+ Quota management – Each custom model deployment has specific quotas: 
+   
+   Tokens per minute (TPM) 
+   Requests per minute (RPM) 
+   The number of Creating status deployment 
+   Total on-demand deployments in a single account 
+    
+ 
+Each deployment operates independently within its assigned quota. If a deployment exceeds its TPM or RPM allocation, incoming requests will be throttled. You can request quota increases by submitting a ticket or contacting your AWS account team. 
+ 
+ Choosing between custom model deployment and Provisioned Throughput – You can set up inference on a custom model by either creating a custom model deployment (for on-demand usage) or purchasing Provisioned Throughput. The choice depends on the supported Regions and models for each inference option, throughput requirement, and cost considerations. These two options operate independently and can be used simultaneously for the same custom model. 
+ Cost management – On-demand deployment uses a pay-as-you-go pricing model based on the number of tokens processed during inference. You can use cost allocation tags on your on-demand deployments to track and manage inference costs, allowing better budget tracking and cost optimization through AWS Cost Explorer. 
+ 
+Cleanup 
+If you’ve been testing the on-demand deployment feature and don’t plan to continue using it, it’s important to clean up your resources to avoid incurring unnecessary costs. Here’s how to delete using the Amazon Bedrock Console: 
+ 
+ Navigate to your custom model deployment 
+ Select the deployment you want to remove 
+ Delete the deployment 
+ 
+Here’s how to delete using the API or SDK: 
+To delete a custom model deployment, you can use DeleteCustomModelDeployment API. The following example demonstrates how to delete your custom model deployment: 
+ 
+ # delete deployed custom model deployment
+response = bedrock_client.delete_custom_model_deployment(
+              customModelDeploymentIdentifier="&lt;trained-model-arn&gt;"
+                        ) 
+ 
+Conclusion 
+The introduction of on-demand deployment for customized models on Amazon Bedrock represents a significant advancement in making AI model deployment more accessible, cost-effective, and flexible for businesses of all sizes. On-demand deployment offers the following advantages: 
+ 
+ Cost optimization – Pay-as-you-go pricing allows you only pay for the compute resources you actually use 
+ Operational simplicity – Automatic resource management eliminates the need for manual infrastructure provisioning 
+ Scalability – Seamless handling of variable workloads without upfront capacity planning 
+ Flexibility – Freedom to choose between on-demand and Provisioned Throughput based on your specific needs 
+ 
+Getting started is straightforward. Begin by completing your model customization through fine-tuning or distillation, then choose on-demand deployment using the AWS Management Console or API. Configure your deployment details, validate model performance in a test environment, and seamlessly integrate into your production workflows. 
+Start exploring on-demand deployment for customized models on Amazon Bedrock today! Visit the Amazon Bedrock documentation to begin your model customization journey and experience the benefits of flexible, cost-effective AI infrastructure. For hands-on implementation examples, check out our GitHub repository which contains detailed code samples for customizing Amazon Nova models and evaluating them using on-demand custom model deployment. 
+ 
+About the Authors 
+Yanyan Zhang&nbsp;is a Senior Generative AI Data Scientist at Amazon Web Services, where she has been working on cutting-edge AI/ML technologies as a Generative AI Specialist, helping customers use generative AI to achieve their desired outcomes. Yanyan graduated from Texas A&amp;M University with a PhD in Electrical Engineering. Outside of work, she loves traveling, working out, and exploring new things. 
+ Sovik Kumar Nath&nbsp;is an AI/ML and Generative AI senior solution architect with AWS. He has extensive experience designing end-to-end machine learning and business analytics solutions in finance, operations, marketing, healthcare, supply chain management, and IoT. He has double masters degrees from the University of South Florida, University of Fribourg, Switzerland, and a bachelors degree from the Indian Institute of Technology, Kharagpur. Outside of work, Sovik enjoys traveling, taking ferry rides, and watching movies. 
+Ishan Singh is a Sr. Generative AI Data Scientist at Amazon Web Services, where he helps customers build innovative and responsible generative AI solutions and products. With a strong background in AI/ML, Ishan specializes in building generative AI solutions that drive business value. Outside of work, he enjoys playing volleyball, exploring local bike trails, and spending time with his wife and dog, Beau. 
+Koushik Mani is an associate solutions architect at AWS. He had worked as a Software Engineer for two years focusing on machine learning and cloud computing use cases at Telstra. He completed his masters in computer science from University of Southern California. He is passionate about machine learning and generative AI use cases and building solutions. 
+Rishabh Agrawal is a Senior Software Engineer working on AI services at AWS. In his spare time, he enjoys hiking, traveling and reading. 
+Shreeya Sharma&nbsp;is a Senior Technical Product Manager at AWS, where she has been working on leveraging the power of generative AI to deliver innovative and customer-centric products. Shreeya holds a master’s degree from Duke University. Outside of work, she loves traveling, dancing, and singing.
 
 ⸻
