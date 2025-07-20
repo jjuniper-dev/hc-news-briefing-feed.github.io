@@ -1,6 +1,6 @@
-✅ Morning News Briefing – July 19, 2025 10:55
+✅ Morning News Briefing – July 20, 2025 10:54
 
-📅 Date: 2025-07-19 10:55
+📅 Date: 2025-07-20 10:54
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
@@ -8,10 +8,10 @@
 🧾 Weather
 • No watches or warnings in effect, Pembroke
   No watches or warnings in effect. No warnings or watches or watches in effect . Watch or warnings are no longer in effect in the U.S. No watches, warnings are in effect for the rest of the day . No watches and warnings are still in effect, but no watches are in place for the day's events . The weather is not expected to be affected by the weather .
-• Current Conditions:  13.8°C
-  Temperature: 13.8&deg;C Pressure / Tendency: 101.8 kPa falling Humidity: 89 % Dewpoint: 12.0&deg:C Wind: SW calm km/h Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Saturday 19 July 2025 . Weather forecast: July 19, 2025, July 20, July
-• Saturday: Chance of showers. High 24. POP 70%
-  30 percent chance of showers early this morning, 70 percent chance for showers this afternoon . High 24. Humidex 26. UV index 8 or very high. UV Index 8 or high . Showers will be felt throughout the day, with highs of 24.50 degrees warmer than normal . Forecast issued at 5:00 AM EDT Saturday 19 July 2025, with rain likely in the
+• Current Conditions:  16.1°C
+  Temperature: 16.1&deg;C Pressure / Tendency: 101.0 kPa falling Humidity: 94 % Dewpoint: 15.2&deg:C Wind: SSE 4 km/h Air Quality Health Index: n/a Observed at: Pembroke 6:00 AM EDT Sunday 20 July 2025 . Weather in the near future: 20 July
+• Sunday: Chance of showers. High 24. POP 40%
+  Mainly cloudy. 40 percent chance of showers early this morning . Wind becoming west 20 km/h gusting to 40 late this morning. High 24. Humidex 28. UV index 8 or very high. UV of very high in the UK . Forecast issued 5:00 AM EDT Sunday 20 July 2025 . Weather forecast: Sunday morning to Sunday afternoon. Sunday afternoon to Sunday
 
 🌍 International News
 No updates.
@@ -20,21 +20,23 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Congo and Rwanda-backed rebels sign declaration of principles for permanent ceasefire
-  Congo and Rwanda-backed rebels on Saturday signed a declaration of principles in Qatar to end fighting in eastern Congo . The declaration commits them to a permanent ceasefire to be signed in one month . The two sides are expected to sign an agreement in a month to end the fighting in the east of the country . The agreement was reached in Qatar in order to end violence in the eastern Congo region .
-• Muddy boots and AI are helping this threatened frog to make a comeback
-  Scientists monitor the populations of the threatened California red-legged frog . They use AI to help monitor the population of the endangered species of the frog . The frog population has been threatened in the U.S. for more than a century . Scientists are monitoring the population with the help of AI to monitor the frog population in a new way of monitoring the species' natural habitat in the wild .
-• Are high-protein snacks worth the hype? Here's how to assess
-  Protein has taken over the packaged-snack aisles at the grocery store . But do you need extra protein in your chips and muffins? Do you need it? Share your photos with CNN iReport.com . Back to the page you came from, please submit your best shots of the day to see if you need a new look at the latest iReporter photos .
-• Should you buy it? If you answer 'yes' to these questions, probably not
-  Sometimes we want to buy things we want, not what we need, and that's OK . When you're unsure whether to swipe that card or walk away, this guide can help you make a mindful decision you won't regret . It's OK to buy what you want, but don't always buy things you don't need, or what you need, at the end of the day
-• The USDA wants states to hand over food stamp data by the end of July
-  The USDA has set a deadline of July 30 for states to hand over the sensitive data of tens of millions of people who applied for federal food assistance . A lawsuit is trying to stop the collection of the data, while a lawsuit is being filed to stop it . The USDA set the July 30 deadline for the data collection of food assistance applicants . The lawsuit is currently underway to try to stop
+• Japan votes in a key election as Prime Minister Ishiba faces a possible loss
+  Soaring prices, lagging incomes and burdensome social security payments are the top issues for frustrated, cash-strapped voters . Stricter measures targeting foreign residents and visitors have also emerged as a key issue, with a surging right-wing populist party leading the campaign . Right-wing populism party leads the campaign with a surge in support of Japan's anti-immigration policies . St
+• 3 people are still missing from deadly floods in Texas county, down from nearly 100
+  Officials in Texas hill country community pummeled by deadly flooding July 4 said Saturday that just three people remain missing, down from nearly 100 . Officials say people who had previously been reported missing have since been accounted for . People who had been previously reported missing are now accounted for, officials say . Nearly 100 people were reported missing in the area, including nearly 100 people who were killed by flooding
+• Cuts to public media will smash budgets of some local radio stations
+  Congress voted to claw back federal funding to public media . Some of those hit hardest include community radio stations in areas that voted for the president . Community radio stations are in areas where the president voted for him . Public media is a vital part of the American public life, but the federal budget is set to be cut by the end of the year . Public radio stations will be affected by the
+• 32 Palestinians killed trying to reach food distribution hubs, Gaza authorities say
+  Palestinians were shot dead during a food distribution on Saturday at a center run by a U.S.- and Israeli-backed group in southern Gaza, hospital officials said . Hospital officials said the victims were shot during a distribution at the center . The food distribution center is run by an Israeli-U.S. and Palestinian-backed Hamas group, which has ties to Israel and the U.
+• Examining the role of men in the gender gap in American society
+  The latest season of the podcast "Unsettled" from Iowa Public Radio looks at how gender affects people's everyday lives . The podcast is a weekly look at the everyday experiences of people living in the gender of men and women in their lives . Watch the latest episode of the weekly podcast, Unsettled, at 8 p.m. on CNN.com/Heroes, on
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
+• China proves that open models are more effective than all the GPUs in the world
+  OpenAI delayed its promised open-weights model since GPT-2, leaving the Middle Kingdom clearly in the lead . OpenAI was supposed to make good on its name and release its first open-weight model this week . The Middle Kingdom is clearly leading the way in the race to the top of the world's most powerful AI-powered supercomputer, with the latest model being released
 • Ex-IDF cyber chief on Iran, Scattered Spider, and why social engineering worries him more than 0-days
   Scattered Spider and Iranian government-backed cyber units have more in common than a recent uptick in hacking activity . Ariel Parnes, a former colonel in the Israeli Defense Forces' cyber unit 8200, says the Iranian government has more to common than recent uptick of hacking activity, he says . The former colonel says the two cyber units are backed by the government of Israel and Iran .
 • Republican calls out Trump admin's decision to resume GPU sales to China
@@ -43,22 +45,20 @@ No updates.
   European Commission issued voluntary guidelines for providers of general-purpose AI models . Meta refused to sign, arguing that the extra measures introduce "legal uncertainties" beyond the law's scope . The EU AI Act takes effect next month, but Meta says extra measures are 'unfairly beyond the scope' of the law . The European Commission is expected to issue voluntary guidelines to providers of AI models next
 • Foundry competition heats up as Japan’s Rapidus says 2nm chip tech on track for 2027
   Rapidus says it's on track to begin volume production of 2nm process tech . Foundry upstart Rapidus is two years behind everyone else . Rapidus achieved a major milestone this week at the start of production process process tech in Japan . It is the first major Japanese foundry to produce a process process process two years after its first 2nm technology was developed in 2011 . Rapid
-• Coldplay kiss-cam flap proves we’re already our own surveillance state
-  A tech executive's alleged affair exposed on a stadium jumbotron is ripe fodder for the gossip rags, but it exhibits something else: proof that we need not wait for an AI-fueled dystopian surveillance state to descend on us - we're perfectly able and willing to surveil ourselves . And we’re the ones building it .… And we're the ones that
 
 🏥 Public Health
 No updates.
 
 🔬 Science
-• Effectiveness of leading pedestrian intervals for city walkers’ safety
+• Application of machine learning algorithms and SHAP explanations to predict fertility preference among reproductive women in Somalia
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Adherence to different types of sports shapes motor competence development in preschool children
+• Double burden of malnutrition in Guatemala: co-existence of childhood stunting and overweight and obesity within the household
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Personality traits and adherence on COVID-19 preventive measures in a two-year follow-up study
+• Cardiorespiratory fitness after correction of pectus excavatum: a systematic review with meta-analysis
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Development and performance verification of an isometric dynamometer for lower extremity
+• The attitudes and treatment practices of Hungarian primary care dentists regarding dental care for patients with haemophilia
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Breast cancer survival and mortality among women with type 2 diabetes: a retrospective cohort study
+• Feasibility of video-assisted cardiopulmonary resuscitation when the lay responder is alone with the victim: a randomized controlled crossover pilot study
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -647,22 +647,6 @@ Quite often these infostealer infections will open a backdoor on the victim&#821
 In February 2019, Paradox.ai announced it had successfully completed audits for two fairly comprehensive security standards (ISO 27001 and SOC 2 Type II). Meanwhile, the company&#8217;s security disclosure this month says the test account with the atrocious 123456 username and password was last accessed in 2019, but somehow missed in their annual penetration tests. So how did it manage to pass such stringent security audits with these practices in place?
 Paradox.ai told KrebsOnSecurity that at the time of the 2019 audit, the company&#8217;s various contractors were not held to the same security standards the company practices internally. Paradox emphasized that this has changed, and that it has updated its security and password requirements multiple times since then.
 It is unclear how the Paradox developer in Vietnam infected his computer with malware, but a closer review finds a Windows device for another Paradox.ai employee from Vietnam was compromised by similar data-stealing malware at the end of 2024 (that compromise included the victim&#8217;s GitHub credentials). In the case of both employees, the stolen credential data includes Web browser logs that indicate the victims repeatedly downloaded pirated movies and television shows, which are often bundled with malware disguised as a video codec needed to view the pirated content.
-• DOGE Denizen Marko Elez Leaked API Key for xAI
-  Marko Elez, a 25-year-old employee at Elon Musk&#8217;s Department of Government Efficiency (DOGE), has been granted access to sensitive databases at the U.S. Social Security Administration, the Treasury and Justice departments, and the Department of Homeland Security. So it should fill all Americans with a deep sense of confidence to learn that Mr. Elez over the weekend inadvertently published a private key that allowed anyone to interact directly with more than four dozen large language models (LLMs) developed by Musk&#8217;s artificial intelligence company xAI.
-Image: Shutterstock, @sdx15.
-On July 13, Mr. Elez committed a code script to GitHub called &#8220;agent.py&#8221; that included a private application programming interface (API) key for xAI. The inclusion of the private key was first flagged by GitGuardian, a company that specializes in detecting and remediating exposed secrets in public and proprietary environments. GitGuardian’s systems constantly scan GitHub and other code repositories for exposed API keys, and fire off automated alerts to affected users.
-Philippe Caturegli, “chief hacking officer” at the security consultancy Seralys, said the exposed API key allowed access to at least 52 different LLMs used by xAI. The most recent LLM in the list was called &#8220;grok-4-0709&#8221; and was created on July 9, 2025.
-Grok, the generative AI chatbot developed by xAI and integrated into Twitter/X, relies on these and other LLMs (a query to Grok before publication shows Grok currently uses Grok-3, which was launched in Feburary 2025). Earlier today, xAI announced that the Department of Defense will begin using Grok as part of a contract worth up to $200 million. The contract award came less than a week after Grok began spewing antisemitic rants and invoking Adolf Hitler.
-Mr. Elez did not respond to a request for comment. The code repository containing the private xAI key was removed shortly after Caturegli notified Elez via email. However, Caturegli said the exposed API key still works and has not yet been revoked.
-&#8220;If a developer can&#8217;t keep an API key private, it raises questions about how they&#8217;re handling far more sensitive government information behind closed doors,&#8221; Caturegli told KrebsOnSecurity.
-Prior to joining DOGE, Marko Elez worked for a number of Musk&#8217;s companies. His DOGE career began at the Department of the Treasury, and a legal battle over DOGE&#8217;s access to Treasury databases showed Elez was sending unencrypted personal information in violation of the agency&#8217;s policies.
-While still at Treasury, Elez resigned after The Wall Street Journal linked him to social media posts that advocated racism and eugenics. When Vice President J.D. Vance lobbied for Elez to be rehired, President Trump agreed and Musk reinstated him.
-Since his re-hiring as a DOGE employee, Elez has been granted access to databases at one federal agency after another. TechCrunch reported in February 2025 that he was working at the Social Security Administration. In March, Business Insider found Elez was part of a DOGE detachment assigned to the Department of Labor.
-Marko Elez, in a photo from a social media profile.
-In April, The New York Times reported that Elez held positions at the U.S. Customs and Border Protection and the Immigration and Customs Enforcement (ICE) bureaus, as well as the Department of Homeland Security. The Washington Post later reported that Elez, while serving as a DOGE advisor at the Department of Justice, had gained access to the Executive Office for Immigration Review&#8217;s Courts and Appeals System (EACS).
-Elez is not the first DOGE worker to publish internal API keys for xAI: In May, KrebsOnSecurity detailed how another DOGE employee leaked a private xAI key on GitHub for two months, exposing LLMs that were custom made for working with internal data from Musk&#8217;s companies, including SpaceX, Tesla and Twitter/X.
-Caturegli said it&#8217;s difficult to trust someone with access to confidential government systems when they can&#8217;t even manage the basics of operational security.
-&#8220;One leak is a mistake,&#8221; he said. &#8220;But when the same type of sensitive key gets exposed again and again, it’s not just bad luck, it’s a sign of deeper negligence and a broken security culture.&#8221;
 
 🎓 University AI
 No updates.
@@ -721,9 +705,9 @@ The system uses a sampling method to extend conversations turn by turn, choosing
 			
 			
 
-									AI Testing and Evaluation: Learnings from Science and Industry
+									The AI Revolution in Medicine, Revisited
 				
-								Discover how Microsoft is learning from other domains to advance evaluation and testing as a pillar of AI governance.
+								Join Microsoft’s Peter Lee on a journey to discover how AI is impacting healthcare and what it means for the future of medicine.
 				
 								
 					
@@ -771,508 +755,6 @@ This work is driven by a core belief: the future of AI depends not just on intel
 
 We see CollabLLM as a step in that direction, training models to engage in meaningful multi-turn interactions, ask clarifying questions, and adapt to context. In doing so, we can build systems designed to work with people—not around them.
 Opens in a new tabThe post CollabLLM: Teaching LLMs to collaborate with users appeared first on Microsoft Research.
-• AI Testing and Evaluation: Learnings from cybersecurity
-  Generative AI presents a unique challenge and opportunity to reexamine governance practices for the responsible development, deployment, and use of AI. To advance thinking in this space, Microsoft has tapped into the experience and knowledge of experts across domains—from genome editing to cybersecurity—to investigate the role of testing and evaluation as a governance tool.&nbsp;AI Testing and Evaluation: Learnings from Science and Industry,&nbsp;hosted by Microsoft Research’s&nbsp;Kathleen Sullivan, explores what the technology industry and policymakers can learn from these fields and how that might help shape the course of AI development.
-
-
-
-In this episode, Sullivan speaks with Professor Ciaran Martin (opens in new tab) of the University of Oxford about risk assessment and testing in the field of cybersecurity. They explore the importance of differentiated standards for organizations of varying sizes, the role of public-private partnerships, and the opportunity to embed security into emerging technologies from the outset. Later, Tori Westerhoff (opens in new tab), a principal director on the Microsoft AI Red Team, joins Sullivan to talk about identifying vulnerabilities in AI products and services. Westerhoff describes AI security in terms she’s heard cybersecurity professionals use for their work—a team sport—and points to cybersecurity’s establishment of a shared language and understanding of risk as a model for AI security.
-
-
-
-
-
-
-
-
-Learn more:
-
-
-
-
-Introducing AI Red Teaming Agent: Accelerate your AI safety and security journey with Azure AI Foundry (opens in new tab)Azure AI Foundry Blog | April 2025
-
-
-
-Lessons From Red Teaming 100 Generative AI ProductsPublication | January 2025
-
-
-
-Learning from other domains to advance AI evaluation and testingMicrosoft Research Blog | June 2025
-
-
-
-Responsible AI: Ethical policies and practices | Microsoft AI
-
-
-
-AI and Microsoft Research
-
-
-
-
-
-
-
-
-
-
-	
-		
-			Subscribe to the Microsoft Research Podcast:		
-		
-							
-					
-						  
-						Apple Podcasts
-					
-				
-			
-							
-					
-						
-						Email
-					
-				
-			
-							
-					
-						
-						Android
-					
-				
-			
-							
-					
-						
-						Spotify
-					
-				
-			
-							
-					
-						
-						RSS Feed
-					
-				
-					
-	
-
-
-
-
-	
-		
-			
-				
-					
-
-Transcript
-
-
-
-[MUSIC]
-
-
-
-KATHLEEN SULLIVAN: Welcome to AI Testing and Evaluation: Learnings from Science and Industry. I&#8217;m your host, Kathleen Sullivan.
-
-
-
-As generative AI continues to advance, Microsoft has gathered a range of experts—from genome editing to cybersecurity—to share how their fields approach evaluation and risk assessment. Our goal is to learn from their successes and their stumbles to move the science and practice of AI testing forward. In this series, we&#8217;ll explore how these insights might help guide the future of AI development, deployment, and responsible use.
-
-
-
-[MUSIC ENDS]
-
-
-
-Today, I&#8217;m excited to welcome Ciaran Martin to the podcast to explore testing and risk assessment in cybersecurity. Ciaran is a professor of practice in the management of public organizations at the University of Oxford. He had previously founded and served as chief executive of the National Cyber Security Centre within the UK&#8217;s intelligence, security, and cyber agency.
-
-
-
-And after our conversation, we&#8217;ll talk to Microsoft&#8217;s Tori Westerhoff, a principal director on Microsoft’s AI Red Team, about how we should think about these insights in the context of AI.
-
-
-
-Hi, Ciaran. Thank you so much for being here today.
-
-
-
-				
-				
-					
-
-
-
-CIARAN MARTIN: Well, thanks so much for inviting me. It’s great to be here.
-
-
-
-SULLIVAN: Ciaran, before we get into some regulatory specifics, it&#8217;d be great to hear a little bit more about your origin story, and just take us to that day—who tapped you on the shoulder and said, “Ciaran, we need you to run a national cyber center! Do you fancy building one?”
-
-
-
-MARTIN: You could argue that I owe my job to Edward Snowden. Not an obvious thing to say. So the National Cyber Security Centre, which didn&#8217;t exist at the time—I was invited to join the British government&#8217;s cybersecurity effort in a leadership role—is now a subset of GCHQ. That&#8217;s the digital intelligence agency. The equivalent in the US obviously is the NSA [National Security Agency]. It had been convulsed by the Snowden disclosures. It was an unprecedented challenge.
-
-
-
-I was a 17-year career government fixer with some national security experience. So I was asked to go out and help with the policy response, the media response, the legal response. But I said, look, any crisis, even one as big as this, is over one way or the other in six months. What should I do long term? And they said, well, we were thinking of asking you to try to help transform our cybersecurity mission. So the National Cyber Security Centre was born, and I was very proud to lead it, and all in all, I did it for seven years from startup to handing it on to somebody else.
-
-
-
-SULLIVAN: I mean, it&#8217;s incredible. And just building on that, people spend a significant portion of their lives online now with a variety of devices, and maybe for listeners who are newer to cybersecurity, could you give us the 90-second lightning talk? Kind of, what does risk assessment and testing look like in this space?
-
-
-
-MARTIN: Well, risk assessment and testing, I think, are two different things. You can&#8217;t defend everything. If you defend everything, you&#8217;re defending nothing. So broadly speaking, organizations face three threats. One is complete disruption of their systems. So just imagine not being able to access your system. The second is data protection, and that could be sensitive customer information. It could be intellectual property. And the third is, of course, you could be at risk of just straightforward being stolen from. I mean, you don&#8217;t want any of them to happen, but you have to have a hierarchy of harm.
-
-
-
-SULLIVAN: Yes.
-
-
-
-MARTIN: So that&#8217;s your risk assessment.
-
-
-
-The testing side, I think, is slightly different. One of the paradoxes, I think, of cybersecurity is for such a scientific, data-rich subject, the sort of metrics about what works are very, very hard to come by. So you&#8217;ve got boards and corporate leadership and senior governmental structures, and they say, “Look, how do I run this organization safely and securely?” And a cybersecurity chief within the organization will say, “Well, we could get this capability in.” Well, the classic question for a leadership team to ask is, well, what risk and harm will this reduce, by how much, and what&#8217;s the cost-benefit analysis? And we find that really hard.
-
-
-
-So that&#8217;s really where testing and assurance comes in. And also as technology changes so fast, we have to figure out, well, if we&#8217;re worried about post-quantum cryptography, for example, what standards does it have to meet? How do you assess whether it&#8217;s meeting those standards? So it&#8217;s a huge issue in cybersecurity and one that we&#8217;re always very conscious of. It’s really hard.
-
-
-
-SULLIVAN: Given the scope of cybersecurity, are there any differences in testing, let&#8217;s say, for maybe a small business versus a critical infrastructure operator? Are there any, sort of, metrics we can look at in terms of distinguishing risk or assessment?
-
-
-
-MARTIN: There have to be. One of the reasons I think why we have to be is that no small business can be expected to take on a hostile nation-state that&#8217;s well equipped. You have to be realistic.
-
-
-
-If you look at government guidance, certainly in the UK 15 years ago on cybersecurity, you were telling small businesses that are living hand to mouth, week by week, trying to make payments at the end of each month, we were telling them they needed sort of nation-state-level cyber defenses. That was never going to happen, even if they could afford it, which they couldn&#8217;t. So you have to have some differentiation. So again, you&#8217;ve got assessment frameworks and so forth where you have to meet higher standards. So there absolutely has to be that distinction. Otherwise, you end up in a crazy world of crippling small businesses with just unmanageable requirements which they&#8217;re never going to meet.
-
-
-
-SULLIVAN: It&#8217;s such a great point. You touched on this a little bit earlier, as well, but just cybersecurity governance operates in a fast-moving technology and threat environment. How have testing standards evolved, and where do new technical standards usually originate?
-
-
-
-MARTIN: I keep saying this is very difficult, and it is. [LAUGHTER] So I think there are two challenges. One is actually about the balance, and this applies to the technology of today as well as the technology of tomorrow. This is about, how do you make sure things are good enough without crowding out new entrants? You want people to be innovative and dynamic. You want disruptors in this business.
-
-
-
-But if you say to them, “Look, well, you have to meet these 14 impossibly high technical standards before you can even sell to anybody or sell to the government,” whatever, then you&#8217;ve got a problem. And I think we&#8217;ve wrestled with that, and there&#8217;s no perfect answer. You just have to try and go to … find the sweet spot between two ends of a spectrum. And that&#8217;s going to evolve.
-
-
-
-The second point, which in some respects if you&#8217;ve got the right capabilities is slightly easier but still a big call, is around, you know, those newer and evolving technologies. And here, having, you know, been a bit sort of gloomy and pessimistic, here I think is actually an opportunity. So one of the things we always say in cybersecurity is that the internet was built and developed without security in mind. And that was kind of true in the ’90s and the noughties, as we call them over here.
-
-
-
-But I think as you move into things like post-quantum computing, applied use of AI, and so on, you can actually set the standards at the beginning. And that&#8217;s really good because it&#8217;s saying to people that these are the things that are going to matter in the post-quantum age. Here&#8217;s the outline of the standards you&#8217;re going to have to meet; start looking at them. So there&#8217;s an opportunity actually to make technology safer by design, by getting ahead of it. And I think that&#8217;s the era we&#8217;re in now.
-
-
-
-SULLIVAN: That makes a lot of sense. Just building on that, do businesses and the public trust these standards? And I guess, which standard do you wish the world would just adopt already, and what&#8217;s the real reason they haven&#8217;t?
-
-
-
-MARTIN: Well, again, where do you start? I mean, most members of the public quite rightly haven&#8217;t heard of any of these standards. I think public trust and public capital in any society matters. But I think it is important that these things are credible.
-
-
-
-And there&#8217;s quite a lot of convergence between, you know, the top-level frameworks. And obviously in the US, you know, the NIST [National Institute of Standards and Technology] framework is the one that&#8217;s most popular for cybersecurity, but it bears quite a strong resemblance to the international one, ISO[/IEC] 27001, and there are others, as well. But fundamentally, they boil down to kind of five things. Do a risk assessment; work out what your crown jewels are. Protect your perimeter as best you can. Those are the first two.
-
-
-
-The third one then is when your perimeter&#8217;s breached, be able to detect it more times than not. And when you can&#8217;t do that, you go to the fourth one, which is, can you mitigate it? And when all else fails, how quickly can you recover and manage it? I mean, all the standards are expressed in way more technical language than that, but fundamentally, if everybody adopted those five things and operated them in a simple way, you wouldn&#8217;t eliminate the harm, but you would reduce it quite substantially.
-
-
-
-SULLIVAN: Which policy initiatives are most promising for incentivizing companies to undertake, you know, these cybersecurity testing parameters that you’ve just outlined? Governments, including the UK, have used carrots and sticks, but what do you think will actually move the needle?
-
-
-
-MARTIN: I think there are two answers to that, and it comes back to your split between smaller businesses and critically important businesses. In the critically important services, I think it&#8217;s easier because most industries are looking for a level playing field. In other words, they realize there have to be rules and they want to apply them to everyone.
-
-
-
-We had a fascinating experience when I was in government back in around 2018 where the telecom sector, they came to us and they said, we&#8217;ve got a very good cooperative relationship with the British government, but it needs to be put on a proper legal footing because you&#8217;re just asking us nicely to do expensive things. And in a regulated sector, if you actually put in some rules—and please develop them jointly with us; that&#8217;s the crucial part—then that will help because it means that we&#8217;re not going to our boards and saying, or our shareholders, and saying that we should do this, and they&#8217;re saying, “Well, do you have to do it? Are our competitors doing it?” And if the answer to that is, yes, we have to, and, yes, our competitors are doing it, then it tends to be OK.
-
-
-
-The harder nut to crack is the smaller business. And I think there&#8217;s a real mystery here: why has nobody cracked a really good and easy solution for small business? We need to be careful about this because, you know, you can&#8217;t throttle small businesses with onerous regulation. At the same time, we&#8217;re not brilliant, I think, in any part of the world at using the normal corporate governance rules to try and get people to figure out how to do cybersecurity.
-
-
-
-There are initiatives there that are not the sort of pretty heavy stick that you might have to take to a critical function, but they could help. But that is a hard nut to crack. And I look around the world, and, you know, I think if this was easy, somebody would have figured it out by now. I think most of the developed economies around the world really struggle with cybersecurity for smaller businesses.
-
-
-
-SULLIVAN: Yeah, it&#8217;s a great point. Actually building on one of the comments you made on the role of, kind of, government, how do you see the role of private-public partnerships scaling and strengthening, you know, robust cybersecurity testing?
-
-
-
-MARTIN: I think they&#8217;re crucial, but they have to be practical. I&#8217;ve got a slight, sort of, high horse on this, if you don&#8217;t mind, Kathleen. It&#8217;s sort of … [LAUGHS]
-
-
-
-SULLIVAN: Of course.
-
-
-
-MARTIN: I think that there are two types of public-private partnership. One involves committees saying that we should strengthen partnerships and we should all work together and collaborate and share stuff. And we tried that for a very long time, and it didn&#8217;t get us very far. There are other types.
-
-
-
-We had some at the National Cyber Security Centre where we paid companies to do spectacularly good technical work that the market wouldn&#8217;t provide. So I think it&#8217;s sort of partnership with a purpose. I think sometimes, and I understand the human instinct to do this, particularly in governments and big business, they think you need to get around a table and work out some grand strategy to fix everything, and the scale of the … not just the problem but the scale of the whole technology is just too big to do that.
-
-
-
-So pick a bit of the problem. Find some ways of doing it. Don&#8217;t over-lawyer it. [LAUGHTER] I think sometimes people get very nervous. Oh, well, is this our role? You know, should we be doing this, that, and the other? Well, you know, sometimes certainly in this country, you think, well, who&#8217;s actually going to sue you over this, you know? So I wouldn&#8217;t over-programmatize it. Just get stuck practically into solving some problems.
-
-
-
-SULLIVAN: I love that. Actually, [it] made me think, are there any surprising allies that you&#8217;ve gained—you know, maybe someone who you never expected to be a cybersecurity champion—through your work?
-
-
-
-MARTIN: Ooh! That&#8217;s a … that&#8217;s a… what a question! To give you a slightly disappointing answer, but it relates to your previous question. In the early part of my career, I was working in institutions like the UK Treasury long before I was in cybersecurity, and the treasury and the British civil service in general, but the treasury in particular sort of trained you to believe that the private sector was amoral, not immoral, amoral. It just didn&#8217;t have values. It just had bottom line, and, you know, its job essentially was to provide employment and revenue then for the government to spend on good things that people cared about. And when I got into cybersecurity and people said, look, you need to develop relations with this cybersecurity company, often in the US, actually. I thought, well, what&#8217;s in it for them?
-
-
-
-And, sure, sometimes you were paying them for specific services, but other times, there was a real public spiritedness about this. There was a realization that if you tried to delineate public-private boundaries, that it wouldn&#8217;t really work. It was a shared risk. And you could analyze where the boundaries fell or you could actually go on and do something about it together. So I was genuinely surprised at the allyship from the cybersecurity sector. Absolutely, I really, really was. And I think it&#8217;s a really positive part of certainly the UK cybersecurity ecosystem.
-
-
-
-SULLIVAN: Wonderful. Well, we&#8217;re coming to the end of our time here, but is there any maybe last thoughts or perhaps requests you have for our listeners today?
-
-
-
-MARTIN: I think that standards, assurance, and testing really matter, but it&#8217;s a bit like the discussion we&#8217;re having over AI. Get all these things to take you 80, 90% of the way and then really apply your judgment. There&#8217;s been some bad regulation under the auspices of standards and assurance. First of all, it’s, have you done this assessment? Have you done that? Have you looked at this? Well, fine. And you can tick that box, but what does it actually mean when you do it? What bits that you know in your heart of hearts are really important to the defense of your organization that may not be covered by this and just go and do those anyway. Because sure it helps, but it&#8217;s not everything.
-
-
-
-SULLIVAN: No. Great, great closing sentiment. Well, Ciaran, thank you for joining us today. This has been just a super fun conversation and really insightful. Just really enjoyed the conversation. Thank you.
-
-
-
-MARTIN: My pleasure, Kathleen, thank you.
-
-
-
-[TRANSITION MUSIC]
-
-
-
-SULLIVAN: Now, I&#8217;m happy to introduce Tori Westerhoff. As a principal director on the Microsoft AI Red Team, Tori leads all AI security and safety red team operations, as well as dangerous capability testing, to directly inform C-suite decision-makers.
-
-
-
-So, Tori, welcome!
-
-
-
-TORI WESTERHOFF: Thanks. I am so excited to be here.
-
-
-
-SULLIVAN: I&#8217;d love to just start a little bit more learning about your background. You&#8217;ve worn some very intriguing hats. I mean, cognitive neuroscience grad from Yale, national security consultant, strategist in augmented and virtual reality … how do those experiences help shape the way you lead the Microsoft AI Red Team?
-
-
-
-WESTERHOFF: I always joke this is the only role I think will always combine the entire patchwork LinkedIn résumé. [LAUGHS]
-
-
-
-I think I use those experiences to help me understand the really broad approach that AI Red Team—artist also known as AIRT; I&#8217;m sure I&#8217;ll slip into our acronym—how we frame up the broad security implications of AI. So I think the cognitive neuroscience element really helped me initially approach AI hacking, right. There&#8217;s a lot of social engineering and manipulation within chat interfaces that are enabled by AI. And also, kind of, this, like, metaphor for understanding how to find soft spots in the way that you see human heuristics show up, too. And so I think that was actually my personal “in” to getting hooked into AI red teaming generally.
-
-
-
-But my experience in national security and I&#8217;d also say working through the AR/VR/metaverse space at the time where I was in it helped me balance both how our impact is framed, how we&#8217;re thinking about critical industries, how we&#8217;re really trying to push our understanding of where security of AI can help people the most. And also do it in a really breakneck speed in an industry that&#8217;s evolving all of the time, that&#8217;s really pushing you to always be at the bleeding edge of your understanding. So I draw a lot of the energy and the mission criticality and the speed from those experiences as we&#8217;re shaping up how we approach it.
-
-
-
-SULLIVAN: Can you just give us a quick rundown? What does the Red Team do? What actually, kind of, is involved on a day-to-day basis? And then as we think about, you know, our engagements with large enterprises and companies, how do we work alongside some of those companies in terms of testing?
-
-
-
-WESTERHOFF: The way I see our team is almost like an indicator light that works really part and parcel with product development. So the way we&#8217;ve organized our expert red teaming efforts is that we work with product development before anything ships out to anyone who can use it. And our job is to act as expert AI manipulators, AI hackers. And we are supposed to take the theories and methods and new research and harness it to find examples of vulnerabilities or soft spots in products to enable product teams to harden those soft spots before anything actually reaches someone who wants to use it.
-
-
-
-So if we&#8217;re the indicator light, we are also not the full workup, right. I see that as measurement and evals. And we also are not the mechanic, which is that product development team that&#8217;s creating mitigations. It&#8217;s platform-security folks who are creating mitigations at scale. And there&#8217;s a really great throughput of insights from those groups back into our area where we love to inform about them, but we also love to add on to, how do we break the next thing, right? So it&#8217;s a continuous cycle.
-
-
-
-And part of that is just being really creative and thinking outside of a traditional cybersecurity box. And part of that is also really thinking about how we pull in research—we have a research function within our AI Red Team—and how we automate and scale. This year, we&#8217;ve pulled a lot of those assets and insights into the Azure [AI] Foundry AI Red Teaming Agent (opens in new tab). And so folks can now access a lot of our mechanisms through that. So you can get a little taste of what we do day to day in the AI Red Teaming Agent.
-
-
-
-SULLIVAN: You recently—actually, with your team—published a report that outlined lessons from testing over a hundred generative AI products. But could you share a bit about what you learned? What were some of the important lessons? Where do you see opportunities to improve the state of red teaming as a method for probing AI safety?
-
-
-
-WESTERHOFF: I think the most important takeaway from those lessons is that AI security is truly a team sport. You&#8217;ll hear cybersecurity folks say that a lot. And part of the rationale there is that the defense in depth and integrating and a view towards AI security through the entire development of AI systems is really the way that we&#8217;re going to approach this with intentionality and responsibility.
-
-
-
-So in our space, we really focus on novel harm categories. We are pushing bleeding edge, and we also are pushing iterative and, like, contextually based red teaming in product dev. So outside of those hundred that we&#8217;ve done, there&#8217;s a community [LAUGHS] through the entire, again, multistage life cycle of a product that is really trying to push the cost of attacking those AI systems higher and higher with all of the expertise they bring. So we may be, like, the experts in AI hacking in that line, but there are also so many partners in the Microsoft ecosystem who are thinking about their market context or they really, really know the people who love their products. How are they using it?
-
-
-
-And then when you bubble out, you also have industry and government who are working together to push towards the most secure AI implementation for people, right? And I think our team in particular, we feel really grateful to be part of the big AI safety and security ecosystem at Microsoft and also to be able to contribute to the industry writ large. 
-
-
-
-SULLIVAN: As you know, we had a chance to speak with Professor Ciaran Martin from the University of Oxford about the cybersecurity industry and governance there. What are some of the ideas and tools from that space that are surfacing in how we think about approaching red teaming and AI governance broadly?
-
-
-
-WESTERHOFF: Yeah, I think it&#8217;s such a broad set of perspectives to bring in, in the AI instance. Something that I&#8217;ve noticed interjecting into security at the AI junction, right, is that cybersecurity has so many decades of experience of working through how to build trustworthy computing, for example, or bring an entire industry to bear in that way. And I think that AI security and safety can learn a lot of lessons of how to bring clarity and transparency across the industry to push universal understanding of where the threats really are.
-
-
-
-So frameworks coming out of NIST, coming out of MITRE that help us have a universal language that inform governance, I think, are really important because it brings clarity irrespective of where you are looking into AI security, irrespective of your company size, what you&#8217;re working on. It means you all understand, “Hey, we are really worried about this fundamental impact.” And I think cybersecurity has done a really good job of driving towards impact as their organizational vector. And I am starting to see that in the AI space, too, where we&#8217;re trying to really clarify terms and threats.&nbsp;And you see it in updates of those frameworks, as well, that I really love.
-
-
-
-So I think that the innovation is in transparency to folks who are really innovating and doing the work so we all have a shared language, and from that, it really creates communal goals across security instead of a lot of people being worried about the same thing and talking about it in a different way.
-
-
-
-SULLIVAN: Mm-hmm. In the cybersecurity context, Ciaran really stressed matching risk frameworks to an organization&#8217;s role and scale. Microsoft plays many roles, including building models and shipping applications. How does your red teaming approach shift across those layers?&nbsp;
-
-
-
-WESTERHOFF: I love this question also because I love it as part of our work. So one of the most fascinating things about working on this team has been the diversity of the technology that we end up red teaming and testing. And it feels like we&#8217;re in the crucible in that way. Because we see AI applied to so many different architectures, tech stacks, individual features, models, you name it.
-
-
-
-Part of my answer is that we still care about the highest-impact things. And so irrespective of the iteration, which is really fascinating and I love, I still think that our team drives to say, “OK, what is that critical vulnerability that is going to affect people in the largest ways, and can we battle test to see if that can occur?”
-
-
-
-So in some ways, the task is always the same. I think in the ways that we change our testing, we customize a lot to the access to systems and data and also people&#8217;s trust almost as different variables that could affect the impact, right.
-
-
-
-So a good example is if we&#8217;re thinking through agentic frameworks that have access to functions and tools and preferential ability to act on data, it&#8217;s really different to spaces where that action may not be feasible, right. And so I think the tailoring of the way to get to that impact is hyper-custom every time we start an engagement. And part of it is very thesis driven and almost mechanizing empathy.
-
-
-
-You almost need to really focus on how people could use, or misuse, in such a way that you can emulate it before to a really great signal to product development, to say this is truly what people could do and we want to deliver the highest-impact scenarios so you can solve for those and also solve the underlying patterns, actually, that could contribute to maybe that one piece of evidence but also all the related pieces of evidence. So singular drive but like hyper-, hyper-customization to what that piece of tech could do and has access to.
-
-
-
-SULLIVAN: What are some of the unexplored testing approaches or considerations from cybersecurity that you think we should encourage AI technologists, policymakers, and other stakeholders to focus on? 
-
-
-
-WESTERHOFF: I do love that AI humbles us each and every day with new capabilities and the potential for new capabilities. It&#8217;s not just saying, “Hey, there&#8217;s one test that we want to try,” but more, “Hey, can we create a methodology that we feel really, really solid about so that when we are asked a question we haven&#8217;t even thought of, we feel confident that we have the resources and the system?”
-
-
-
-So part of me is really intrigued by the process that we&#8217;re asked to make without knowing what those capabilities are really going to bring. And then I think tactically, AIRT is really pushing on how we create new research methodologies. How are we investing in, kind of, these longer-term iterations of red teaming? So we&#8217;re really excited about pushing out those insights in an experimental and longer-term way.
-
-
-
-I think another element is a little bit of that evolution of how industry standards and frameworks are updating to the AI moment and really articulating where AI is either furthering adversarial ability to create those harms or threats or identifying where AI has a net new harm. And I think that demystifies a little bit about what we talked about in terms of the lessons learned, that fundamentally, a lot of the things that we talk about are traditional security vulnerabilities, and we are standing on kind of that cybersecurity shoulder. And I&#8217;m starting to see those updates translate in spaces that are already considered trustworthy and kind of the basis on which not only cybersecurity folks build their work but also business decision-makers make decisions on those frameworks.
-
-
-
-So to me, integration of AI into those frameworks by those same standards means that we&#8217;re evolving security to include AI. We aren&#8217;t creating an entirely new industry of AI security and that, I think, really helps anchor people in the really solid foundation that we have in cybersecurity anyways.
-
-
-
-I think there&#8217;s also some work around how the cyber, like, defenses will actually benefit from AI. So we think a lot about threats because that&#8217;s our job. But the other side of cybersecurity is offense. And I&#8217;m seeing a ton of people come out with frameworks and methodologies, especially in the research space, on how defensive networks are going to be benefited from things like agentic systems.
-
-
-
-Generally speaking, I think the best practice is to realize that we&#8217;re fundamentally still talking about the same impacts, and we can use the same avenues, conversations, and frameworks. We just really want them to be crisply updated with that understanding of AI applications.
-
-
-
-SULLIVAN: How do you think about bringing others into the fold there? I think those standards and frameworks are often informed by technologists. But I&#8217;d love for you to expand [that to] policymakers or other kind of stakeholders in our ecosystem, even, you know, end consumers of these products. Like, how do we communicate some of this to them in a way that resonates and it has an impactful meaning?
-
-
-
-WESTERHOFF: I&#8217;ve found the AI security-safety space to be one of the more collaborative. I actually think the fact that I&#8217;m talking to you today is probably evidence that a ton of people are bringing in perspectives that don&#8217;t only come from a long-term cybersecurity view. And I see that as a trend in how AI is being approached opposed to how those areas were moving earlier. So I think that speed and the idea of conversations and not always having the perfect answer but really trying to be transparent with what everyone does know is kind of a communal energy in the communities, at least, where we&#8217;re playing. [LAUGHS] So I am pretty biased but at least the spaces where we are.
-
-
-
-SULLIVAN: No, I think we&#8217;re seeing that across the board. I mean, I&#8217;d echo [that] sitting in research, as well, like, that ability to have impact now and at speed to getting the amazing technology and models that we&#8217;re creating into the hands of our customers and partners and ecosystem is just underscored.
-
-
-
-So on the note of speed, let&#8217;s shift gears a little bit to just a quick lightning round. I&#8217;d love to get maybe some quick thoughts from you, just 30-second answers here. I&#8217;ll start with one.
-
-
-
-Which headline-grabbing AI threat do you think is mostly hot air?
-
-
-
-WESTERHOFF: I think we should pay attention to it all. I&#8217;m a red team lead. I love a good question to see if we can find an answer in real life. So no hot air, just questions.
-
-
-
-SULLIVAN: Is there some sort of maybe new tool that you can&#8217;t wait to sneak into the red team arsenal?
-
-
-
-WESTERHOFF: I think there are really interesting methodologies that break our understanding of cybersecurity by looking at the intersection between different layers of AI and how you can manipulate AI-to-AI interaction, especially now when we&#8217;re looking at agentic systems. So I would say a method, not a tool.
-
-
-
-SULLIVAN: So maybe ending on a little bit of a lighter note, do you have a go-to snack during an all-night red teaming session?
-
-
-
-WESTERHOFF: Always coffee. I would love it to be a protein smoothie, but honestly, it is probably Trader Joe&#8217;s elote chips. Like the whole bag. [LAUGHTER] It’s going to get me through. I&#8217;m going to not love that I did it.
-
-
-
-[MUSIC]
-
-
-
-SULLIVAN: Amazing. Well, Tori, thanks so much for joining us today, and just a huge thanks also to Ciaran for his insights, as well.
-
-
-
-WESTERHOFF: Thank you so much for having me. This was a joy.
-
-
-
-SULLIVAN: And to our listeners, thanks for tuning in. You can find resources related to this podcast in the show notes. And if you want to learn more about how Microsoft approaches AI governance, you can visit microsoft.com/RAI.
-
-
-
-See you next time! 
-
-
-
-[MUSIC FADES]
-
-				
-			
-			
-				Show more			
-		
-	
-
-
-
-
-
-AI Testing and Evaluation podcast series
-
-Opens in a new tabThe post AI Testing and Evaluation: Learnings from cybersecurity appeared first on Microsoft Research.
 • Build real-time travel recommendations using AI agents on Amazon Bedrock
   Generative AI is transforming how businesses deliver personalized experiences across industries, including travel and hospitality. Travel agents are enhancing their services by offering personalized holiday packages, carefully curated for customer’s unique preferences, including accessibility needs, dietary restrictions, and activity interests. Meeting these expectations requires a solution that combines comprehensive travel knowledge with real-time pricing and availability information. 
 In this post, we show how to build a generative AI solution using Amazon Bedrock that creates bespoke holiday packages by combining customer profiles and preferences with real-time pricing data. We demonstrate how to use Amazon Bedrock Knowledge Bases for travel information, Amazon Bedrock Agents for real-time flight details, and Amazon OpenSearch Serverless for efficient package search and retrieval. 
@@ -1777,5 +1259,344 @@ Manish Yeladandi&nbsp;is a Solutions Architect at AWS, specializing in AI/ML, co
 Dhawal Patel is a Principal Machine Learning Architect at AWS. He has worked with organizations ranging from large enterprises to mid-sized startups on problems related to distributed computing and artificial intelligence. He focuses on deep learning, including NLP and computer vision domains. He helps customers achieve high-performance model inference on Amazon SageMaker. 
 James Park&nbsp;is a Solutions Architect at Amazon Web Services. He works with Amazon.com to design, build, and deploy technology solutions on AWS, and has a particular interest in AI and machine learning. In h is spare time he enjoys seeking out new cultures, new experiences, &nbsp;and staying up to date with the latest technology trends. You can find him on LinkedIn. 
 Abhi Shivaditya&nbsp;is a Senior Solutions Architect at AWS, working with strategic global enterprise organizations to facilitate the adoption of AWS services in areas such as Artificial Intelligence, distributed computing, networking, and storage. His expertise lies in Deep Learning in the domains of Natural Language Processing (NLP) and Computer Vision. Abhi assists customers in deploying high-performance machine learning models efficiently within the AWS ecosystem.
+• Evaluating generative AI models with Amazon Nova LLM-as-a-Judge on Amazon SageMaker AI
+  Evaluating the performance of large language models (LLMs) goes beyond statistical metrics like perplexity or bilingual evaluation understudy (BLEU) scores. For most real-world generative AI scenarios, it’s crucial to understand whether a model is producing better outputs than a baseline or an earlier iteration. This is especially important for applications such as summarization, content generation, or intelligent agents where subjective judgments and nuanced correctness play a central role. 
+As organizations deepen their deployment of these models in production, we’re experiencing an increasing demand from customers who want to systematically assess model quality beyond traditional evaluation methods. Current approaches like accuracy measurements and rule-based evaluations, although helpful, can’t fully address these nuanced assessment needs, particularly when tasks require subjective judgments, contextual understanding, or alignment with specific business requirements. To bridge this gap, LLM-as-a-judge has emerged as a promising approach, using the reasoning capabilities of LLMs to evaluate other models more flexibly and at scale. 
+Today, we’re excited to introduce a comprehensive approach to model evaluation through the Amazon Nova LLM-as-a-Judge capability on Amazon SageMaker AI, a fully managed Amazon Web Services (AWS) service to build, train, and deploy machine learning (ML) models at scale. Amazon Nova LLM-as-a-Judge is designed to deliver robust, unbiased assessments of generative AI outputs across model families. Nova LLM-as-a-Judge is available as optimized workflows on SageMaker AI, and with it, you can start evaluating model performance against your specific use cases in minutes. Unlike many evaluators that exhibit architectural bias, Nova LLM-as-a-Judge has been rigorously validated to remain impartial and has achieved leading performance on key judge benchmarks while closely reflecting human preferences. With its exceptional accuracy and minimal bias, it sets a new standard for credible, production-grade LLM evaluation. 
+Nova LLM-as-a-Judge capability provides pairwise comparisons between model iterations, so you can make data-driven decisions about model improvements with confidence. 
+How Nova LLM-as-a-Judge was trained 
+Nova LLM-as-a-Judge was built through a multistep training process comprising supervised training and reinforcement learning stages that used public datasets annotated with human preferences. For the proprietary component, multiple annotators independently evaluated thousands of examples by comparing pairs of different LLM responses to the same prompt. To verify consistency and fairness, all annotations underwent rigorous quality checks, with final judgments calibrated to reflect broad human consensus rather than an individual viewpoint. 
+The training data was designed to be both diverse and representative. Prompts spanned a wide range of categories, including real-world knowledge, creativity, coding, mathematics, specialized domains, and toxicity, so the model could evaluate outputs across many real-world scenarios. Training data included data from over 90 languages and is primarily composed of English, Russian, Chinese, German, Japanese, and Italian.Importantly, an internal bias study evaluating over 10,000 human-preference judgments against 75 third-party models confirmed that Amazon Nova LLM-as-a-Judge shows only a 3% aggregate bias relative to human annotations. Although this is a significant achievement in reducing systematic bias, we still recommend occasional spot checks to validate critical comparisons. 
+In the following figure, you can see how the Nova LLM-as-a-Judge bias compares to human preferences when evaluating Amazon Nova outputs compared to outputs from other models. Here, bias is measured as the difference between the judge’s preference and human preference across thousands of examples. A positive value indicates the judge slightly favors Amazon Nova models, and a negative value indicates the opposite. To quantify the reliability of these estimates, 95% confidence intervals were computed using the standard error for the difference of proportions, assuming independent binomial distributions. 
+ 
+Amazon Nova LLM-as-a-Judge achieves advanced performance among evaluation models, demonstrating strong alignment with human judgments across a range of tasks. For example, it scores 45% accuracy on JudgeBench (compared to 42% for Meta J1 8B) and 68% on PPE (versus 60% for Meta J1 8B). The data from Meta’s J1 8B was pulled from Incentivizing Thinking in LLM-as-a-Judge via Reinforcement Learning. 
+These results highlight the strength of Amazon Nova LLM-as-a-Judge in chatbot-related evaluations, as shown in the PPE benchmark. Our benchmarking follows current best practices, reporting reconciled results for positionally swapped responses on JudgeBench, CodeUltraFeedback, Eval Bias, and LLMBar, while using single-pass results for PPE. 
+ 
+  
+   
+   Model 
+   Eval Bias 
+   Judge Bench 
+   LLM Bar 
+   PPE 
+   CodeUltraFeedback 
+   
+   
+   Nova LLM-as-a-Judge 
+   0.76 
+   0.45 
+   0.67 
+   0.68 
+   0.64 
+   
+   
+   Meta J1 8B 
+   – 
+   0.42 
+   – 
+   0.60 
+   – 
+   
+   
+   Nova Micro 
+   0.56 
+   0.37 
+   0.55 
+   0.6 
+   – 
+   
+  
+ 
+In this post, we present a streamlined approach to implementing Amazon Nova LLM-as-a-Judge evaluations using SageMaker AI, interpreting the resulting metrics, and applying this process to improve your generative AI applications. 
+Overview of the evaluation workflow 
+The evaluation process starts by preparing a dataset in which each example includes a prompt and two alternative model outputs. The JSONL format looks like this: 
+ 
+ {
+   "prompt":"Explain photosynthesis.",
+   "response_A":"Answer A...",
+   "response_B":"Answer B..."
+}
+{
+   "prompt":"Summarize the article.",
+   "response_A":"Answer A...",
+   "response_B":"Answer B..."
+} 
+ 
+After preparing this dataset, you use the given SageMaker evaluation recipe, which configures the evaluation strategy, specifies which model to use as the judge, and defines the inference settings such as temperature and top_p. 
+The evaluation runs inside a SageMaker training job using pre-built Amazon Nova containers. SageMaker AI provisions compute resources, orchestrates the evaluation, and writes the output metrics and visualizations to Amazon Simple Storage Service (Amazon S3). 
+When it’s complete, you can download and analyze the results, which include preference distributions, win rates, and confidence intervals. 
+Understanding how Amazon Nova LLM-as-a-Judge works 
+The Amazon Nova LLM-as-a-Judge uses an evaluation method called binary overall preference judge. The binary overall preference judge is a method where a language model compares two outputs side by side and picks the better one or declares a tie. For each example, it produces a clear preference. When you aggregate these judgments over many samples, you get metrics like win rate and confidence intervals. This approach uses the model’s own reasoning to assess qualities like relevance and clarity in a straightforward, consistent way. 
+ 
+ This judge model is meant to provide low-latency general overall preferences in situations where granular feedback isn’t necessary 
+ The output of this model is one of&nbsp;[[A&gt;B]]&nbsp;or&nbsp;[[B&gt;A]] 
+ Use cases for this model are primarily those where automated, low-latency, general pairwise preferences are required, such as automated scoring for checkpoint selection in training pipelines 
+ 
+Understanding Amazon Nova LLM-as-a-Judge evaluation metrics 
+When using the Amazon Nova LLM-as-a-Judge framework to compare outputs from two language models, SageMaker AI produces a comprehensive set of quantitative metrics. You can use these metrics to assess which model performs better and how reliable the evaluation is. The results fall into three main categories: core preference metrics, statistical confidence metrics, and standard error metrics. 
+The core preference metrics report how often each model’s outputs were preferred by the judge model. The a_scores metric counts the number of examples where Model A was favored, and b_scores counts cases where Model B was chosen as better. The ties metric captures instances in which the judge model rated both responses equally or couldn’t identify a clear preference. The inference_error metric counts cases where the judge couldn’t generate a valid judgment due to malformed data or internal errors. 
+The statistical confidence metrics quantify how likely it is that the observed preferences reflect true differences in model quality rather than random variation. The winrate reports the proportion of all valid comparisons in which Model B was preferred. The lower_rate and upper_rate define the lower and upper bounds of the 95% confidence interval for this win rate. For example, a winrate of 0.75 with a confidence interval between 0.60 and 0.85 suggests that, even accounting for uncertainty, Model B is consistently favored over Model A. The score field often matches the count of Model B wins but can also be customized for more complex evaluation strategies. 
+The standard error metrics provide an estimate of the statistical uncertainty in each count. These include a_scores_stderr, b_scores_stderr, ties_stderr, inference_error_stderr, andscore_stderr. Smaller standard error values indicate more reliable results. Larger values can point to a need for additional evaluation data or more consistent prompt engineering. 
+Interpreting these metrics requires attention to both the observed preferences and the confidence intervals: 
+ 
+ If the winrate is substantially above 0.5 and the confidence interval doesn’t include 0.5, Model B is statistically favored over Model A. 
+ Conversely, if the winrate is below 0.5 and the confidence interval is fully below 0.5, Model A is preferred. 
+ When the confidence interval overlaps 0.5, the results are inconclusive and further evaluation is recommended. 
+ High values in inference_error or large standard errors suggest there might have been issues in the evaluation process, such as inconsistencies in prompt formatting or insufficient sample size. 
+ 
+The following is an example metrics output from an evaluation run: 
+ 
+ {
+  "a_scores": 16.0,
+  "a_scores_stderr": 0.03,
+  "b_scores": 10.0,
+  "b_scores_stderr": 0.09,
+  "ties": 0.0,
+  "ties_stderr": 0.0,
+  "inference_error": 0.0,
+  "inference_error_stderr": 0.0,
+  "score": 10.0,
+  "score_stderr": 0.09,
+  "winrate": 0.38,
+  "lower_rate": 0.23,
+  "upper_rate": 0.56
+} 
+ 
+In this example, Model A was preferred 16 times, Model B was preferred 10 times, and there were no ties or inference errors. The winrate of 0.38 indicates that Model B was preferred in 38% of cases, with a 95% confidence interval ranging from 23% to 56%. Because the interval includes 0.5, this outcome suggests the evaluation was inconclusive, and additional data might be needed to clarify which model performs better overall. 
+These metrics, automatically generated as part of the evaluation process, provide a rigorous statistical foundation for comparing models and making data-driven decisions about which one to deploy. 
+Solution overview 
+This solution demonstrates how to evaluate generative AI models on Amazon SageMaker AI using the Nova LLM-as-a-Judge capability. The provided Python code guides you through the entire workflow. 
+First, it prepares a dataset by sampling questions from SQuAD and generating candidate responses from Qwen2.5 and Anthropic’s Claude 3.7. These outputs are saved in a JSONL file containing the prompt and both responses. 
+We accessed Anthropic’s Claude 3.7 Sonnet in Amazon Bedrock using the bedrock-runtime client. We accessed Qwen2.5 1.5B using a SageMaker hosted Hugging Face endpoint. 
+Next, a PyTorch Estimator launches an evaluation job using an Amazon Nova LLM-as-a-Judge recipe. The job runs on GPU instances such as ml.g5.12xlarge and produces evaluation metrics, including win rates, confidence intervals, and preference counts. Results are saved to Amazon S3 for analysis. 
+Finally, a visualization function renders charts and tables, summarizing which model was preferred, how strong the preference was, and how reliable the estimates are. Through this end-to-end approach, you can assess improvements, track regressions, and make data-driven decisions about deploying generative models—all without manual annotation. 
+Prerequisites 
+You need to complete the following prerequisites before you can run the notebook: 
+ 
+ Make the following quota increase requests for SageMaker AI. For this use case, you need to request a minimum of 1 g5.12xlarge instance. On the Service Quotas console, request the following SageMaker AI quotas, 1 G5 instances (g5.12xlarge) for training job usage 
+ (Optional) You can create an Amazon SageMaker Studio domain (refer to Use quick setup for Amazon SageMaker AI) to access Jupyter notebooks with the preceding role. (You can use JupyterLab in your local setup, too.) 
+   
+   Create an AWS Identity and Access Management (IAM) role with managed policies AmazonSageMakerFullAccess, AmazonS3FullAccess,&nbsp;and AmazonBedrockFullAccess to give required access to SageMaker AI and Amazon Bedrock to run the examples. 
+   Assign as trust relationship to your IAM role the following policy: 
+    
+ 
+ 
+ {
+&nbsp;&nbsp; &nbsp;"Version": "2012-10-17",
+&nbsp;&nbsp; &nbsp;"Statement": [
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;{
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Sid": "",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Effect": "Allow",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Principal": {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Service": [
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"bedrock.amazonaws.com",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"sagemaker.amazonaws.com"
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;]
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;},
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Action": "sts:AssumeRole"
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
+&nbsp;&nbsp; &nbsp;]
+} 
+ 
+ 
+ Clone the GitHub repository with the assets for this deployment. This repository consists of a notebook that references training assets: 
+ 
+ 
+ git clone https://github.com/aws-samples/amazon-nova-samples.git
+cd customization/SageMakerTrainingJobs/Amazon-Nova-LLM-As-A-Judge/ 
+ 
+Next, run the notebook Nova Amazon-Nova-LLM-as-a-Judge-Sagemaker-AI.ipynb to start using the Amazon Nova LLM-as-a-Judge implementation on Amazon SageMaker AI. 
+Model setup 
+To conduct an Amazon Nova LLM-as-a-Judge evaluation, you need to generate outputs from the candidate models you want to compare. In this project, we used two different approaches: deploying a Qwen2.5 1.5B model on Amazon SageMaker and invoking Anthropic’s Claude 3.7 Sonnet model in Amazon Bedrock. First, we deployed Qwen2.5 1.5B, an open-weight multilingual language model, on a dedicated SageMaker endpoint. This was achieved by using the HuggingFaceModel deployment interface. To deploy the Qwen2.5 1.5B model, we provided a convenient script for you to invoke:python3 deploy_sm_model.py 
+When it’s deployed, inference can be performed using a helper function wrapping the SageMaker predictor API: 
+ 
+ # Initialize the predictor once
+predictor = HuggingFacePredictor(endpoint_name="qwen25-&lt;endpoint_name_here&gt;")
+def generate_with_qwen25(prompt: str, max_tokens: int = 500, temperature: float = 0.9) -&gt; str:
+    """
+    Sends a prompt to the deployed Qwen2.5 model on SageMaker and returns the generated response.
+    Args:
+        prompt (str): The input prompt/question to send to the model.
+        max_tokens (int): Maximum number of tokens to generate.
+        temperature (float): Sampling temperature for generation.
+    Returns:
+        str: The model-generated text.
+    """
+    response = predictor.predict({
+        "inputs": prompt,
+        "parameters": {
+            "max_new_tokens": max_tokens,
+            "temperature": temperature
+        }
+    })
+    return response[0]["generated_text"]
+answer = generate_with_qwen25("What is the Grotto at Notre Dame?")
+print(answer) 
+ 
+In parallel, we integrated Anthropic’s Claude 3.7 Sonnet model in Amazon Bedrock. Amazon Bedrock provides a managed API layer for accessing proprietary foundation models (FMs) without managing infrastructure. The Claude generation function used the bedrock-runtime AWS SDK for Python (Boto3) client, which accepted a user prompt and returned the model’s text completion: 
+ 
+ # Initialize Bedrock client once
+bedrock = boto3.client("bedrock-runtime", region_name="us-east-1")
+# (Claude 3.7 Sonnet) model ID via Bedrock
+MODEL_ID = "us.anthropic.claude-3-7-sonnet-20250219-v1:0"
+def generate_with_claude4(prompt: str, max_tokens: int = 512, temperature: float = 0.7, top_p: float = 0.9) -&gt; str:
+    """
+    Sends a prompt to the Claude 4-tier model via Amazon Bedrock and returns the generated response.
+    Args:
+        prompt (str): The user message or input prompt.
+        max_tokens (int): Maximum number of tokens to generate.
+        temperature (float): Sampling temperature for generation.
+        top_p (float): Top-p nucleus sampling.
+    Returns:
+        str: The text content generated by Claude.
+    """
+    payload = {
+        "anthropic_version": "bedrock-2023-05-31",
+        "messages": [{"role": "user", "content": prompt}],
+        "max_tokens": max_tokens,
+        "temperature": temperature,
+        "top_p": top_p
+    }
+    response = bedrock.invoke_model(
+        modelId=MODEL_ID,
+        body=json.dumps(payload),
+        contentType="application/json",
+        accept="application/json"
+    )
+    response_body = json.loads(response['body'].read())
+    return response_body["content"][0]["text"]
+answer = generate_with_claude4("What is the Grotto at Notre Dame?")
+print(answer) 
+ 
+When you have both functions generated and tested, you can move on to creating the evaluation data for the Nova LLM-as-a-Judge. 
+Prepare the dataset 
+To create a realistic evaluation dataset for comparing the Qwen and Claude models, we used the Stanford Question Answering Dataset (SQuAD), a widely adopted benchmark in natural language understanding distributed under the CC BY-SA 4.0 license. SQuAD consists of thousands of crowd-sourced question-answer pairs covering a diverse range of Wikipedia articles. By sampling from this dataset, we made sure that our evaluation prompts reflected high-quality, factual question-answering tasks representative of real-world applications. 
+We began by loading a small subset of examples to keep the workflow fast and reproducible. Specifically, we used the Hugging Face datasets library to download and load the first 20 examples from the SQuAD training split: 
+ 
+ from datasets import load_dataset
+squad = load_dataset("squad", split="train[:20]") 
+ 
+This command retrieves a slice of the full dataset, containing 20 entries with structured fields including context, question, and answers. To verify the contents and inspect an example, we printed out a sample question and its ground truth answer: 
+ 
+ print(squad[3]["question"])
+print(squad[3]["answers"]["text"][0]) 
+ 
+For the evaluation set, we selected the first six questions from this subset: 
+questions = [squad[i]["question"] for i in range(6)] 
+Generate the Amazon Nova LLM-as-a-Judge evaluation dataset 
+After preparing a set of evaluation questions from SQuAD, we generated outputs from both models and assembled them into a structured dataset to be used by the Amazon Nova LLM-as-a-Judge workflow. This dataset serves as the core input for SageMaker AI evaluation recipes. To do this, we iterated over each question prompt and invoked the two generation functions defined earlier: 
+ 
+ generate_with_qwen25() for completions from the Qwen2.5 model deployed on SageMaker 
+ generate_with_claude() for completions from Anthropic’s Claude 3.7 Sonnet in Amazon Bedrock 
+ 
+For each prompt, the workflow attempted to generate a response from each model. If a generation call failed due to an API error, timeout, or other issue, the system captured the exception and stored a clear error message indicating the failure. This made sure that the evaluation process could proceed gracefully even in the presence of transient errors: 
+ 
+ import json
+output_path = "llm_judge.jsonl"
+with open(output_path, "w") as f:
+    for q in questions:
+        try:
+            response_a = generate_with_qwen25(q)
+        except Exception as e:
+            response_a = f"[Qwen2.5 generation failed: {e}]"
+        
+        try:
+            response_b = generate_with_claude4(q)
+        except Exception as e:
+            response_b = f"[Claude 3.7 generation failed: {e}]"
+        row = {
+            "prompt": q,
+            "response_A": response_a,
+            "response_B": response_b
+        }
+        f.write(json.dumps(row) + "\n")
+print(f"JSONL file created at: {output_path}") 
+ 
+This workflow produced a JSON Lines file named llm_judge.jsonl. Each line contains a single evaluation record structured as follows: 
+ 
+ {
+  "prompt": "What is the capital of France?",
+  "response_A": "The capital of France is Paris.",
+  "response_B": "Paris is the capital city of France."
+} 
+ 
+Then, upload this llm_judge.jsonl to an S3 bucket that you’ve predefined: 
+ 
+ upload_to_s3(
+    "llm_judge.jsonl",
+    "s3://&lt;YOUR_BUCKET_NAME&gt;/datasets/byo-datasets-dev/custom-llm-judge/llm_judge.jsonl"
+) 
+ 
+Launching the Nova LLM-as-a-Judge evaluation job 
+After preparing the dataset and creating the evaluation recipe, the final step is to launch the SageMaker training job that performs the Amazon Nova LLM-as-a-Judge evaluation. In this workflow, the training job acts as a fully managed, self-contained process that loads the model, processes the dataset, and generates evaluation metrics in your designated Amazon S3 location. 
+We use the PyTorch estimator class from the SageMaker Python SDK to encapsulate the configuration for the evaluation run. The estimator defines the compute resources, the container image, the evaluation recipe, and the output paths for storing results: 
+ 
+ estimator = PyTorch(
+    output_path=output_s3_uri,
+    base_job_name=job_name,
+    role=role,
+    instance_type=instance_type,
+    training_recipe=recipe_path,
+    sagemaker_session=sagemaker_session,
+    image_uri=image_uri,
+    disable_profiler=True,
+    debugger_hook_config=False,
+) 
+ 
+When the estimator is configured, you initiate the evaluation job using the fit() method. This call submits the job to the SageMaker control plane, provisions the compute cluster, and begins processing the evaluation dataset: 
+estimator.fit(inputs={"train": evalInput}) 
+Results from the Amazon Nova LLM-as-a-Judge evaluation job 
+The following graphic illustrates the results of the Amazon Nova LLM-as-a-Judge evaluation job. 
+ 
+To help practitioners quickly interpret the outcome of a Nova LLM-as-a-Judge evaluation, we created a convenience function that produces a single, comprehensive visualization summarizing key metrics. This function, plot_nova_judge_results, uses Matplotlib and Seaborn to render an image with six panels, each highlighting a different perspective of the evaluation outcome. 
+This function takes the evaluation metrics dictionary—produced when the evaluation job is complete—and generates the following visual components: 
+ 
+ Score distribution bar chart – Shows how many times Model A was preferred, how many times Model B was preferred, how many ties occurred, and how often the judge failed to produce a decision (inference errors). This provides an immediate sense of how decisive the evaluation was and whether either model is dominating. 
+ Win rate with 95% confidence interval – Plots Model B’s overall win rate against Model A, including an error bar reflecting the lower and upper bounds of the 95% confidence interval. A vertical reference line at 50% marks the point of no preference. If the confidence interval doesn’t cross this line, you can conclude the result is statistically significant. 
+ Preference pie chart – Visually displays the proportion of times Model A, Model B, or neither was preferred. This helps quickly understand preference distribution among the valid judgments. 
+ A vs. B score comparison bar chart – Compares the raw counts of preferences for each model side by side. A clear label annotates the margin of difference to emphasize which model had more wins. 
+ Win rate gauge – Depicts the win rate as a semicircular gauge with a needle pointing to Model B’s performance relative to the theoretical 0–100% range. This intuitive visualization helps nontechnical stakeholders understand the win rate at a glance. 
+ Summary statistics table – Compiles numerical metrics—including total evaluations, error counts, win rate, and confidence intervals—into a compact, clean table. This makes it straightforward to reference the exact numeric values behind the plots. 
+ 
+Because the function outputs a standard Matplotlib figure, you can quickly save the image, display it in Jupyter notebooks, or embed it in other documentation. 
+Clean up 
+Complete the following steps to clean up your resources: 
+ 
+ Delete your Qwen 2.5 1.5B Endpoint 
+   
+   import boto3
+
+# Create a low-level SageMaker service client.
+
+sagemaker_client = boto3.client('sagemaker', region_name=&lt;region&gt;)
+
+# Delete endpoint
+
+sagemaker_client.delete_endpoint(EndpointName=endpoint_name) 
+    
+ If you’re using a SageMaker Studio JupyterLab notebook, shut down the JupyterLab notebook instance. 
+ 
+How you can use this evaluation framework 
+The Amazon Nova LLM-as-a-Judge workflow offers a reliable, repeatable way to compare two language models on your own data. You can integrate this into model selection pipelines to decide which version performs best, or you can schedule it as part of continuous evaluation to catch regressions over time. 
+For teams building agentic or domain-specific systems, this approach provides richer insight than automated metrics alone. Because the entire process runs on SageMaker training jobs, it scales quickly and produces clear visual reports that can be shared with stakeholders. 
+Conclusion 
+This post demonstrates how Nova LLM-as-a-Judge—a specialized evaluation model available through Amazon SageMaker AI—can be used to systematically measure the relative performance of generative AI systems. The walkthrough shows how to prepare evaluation datasets, launch SageMaker AI training jobs with Nova LLM-as-a-Judge recipes, and interpret the resulting metrics, including win rates and preference distributions. The fully managed SageMaker AI solution simplifies this process, so you can run scalable, repeatable model evaluations that align with human preferences. 
+We recommend starting your LLM evaluation journey by exploring the official Amazon Nova documentation and examples. The AWS AI/ML community offers extensive resources, including workshops and technical guidance, to support your implementation journey. 
+To learn more, visit: 
+ 
+ Amazon Nova Documentation 
+ Amazon Bedrock Nova Overview 
+ Fine-tuning Amazon Nova models 
+ Amazon Nova customization guide 
+ 
+ 
+ 
+About the authors 
+Surya Kari is a Senior Generative AI Data Scientist at AWS, specializing in developing solutions leveraging state-of-the-art foundation models. He has extensive experience working with advanced language models including DeepSeek-R1, the Llama family, and Qwen, focusing on their fine-tuning and optimization. His expertise extends to implementing efficient training pipelines and deployment strategies using AWS SageMaker. He collaborates with customers to design and implement generative AI solutions, helping them navigate model selection, fine-tuning approaches, and deployment strategies to achieve optimal performance for their specific use cases. 
+Joel Carlson is a Senior Applied Scientist on the Amazon AGI foundation modeling team. He primarily works on developing novel approaches for improving the LLM-as-a-Judge capability of the Nova family of models. 
+Saurabh Sahu is an applied scientist in the Amazon AGI Foundation modeling team. He obtained his PhD in Electrical Engineering from University of Maryland College Park in 2019. He has a background in multi-modal machine learning working on speech recognition, sentiment analysis and audio/video understanding. Currently, his work focuses on developing recipes to improve the performance of LLM-as-a-judge models for various tasks. 
+Morteza Ziyadi is an Applied Science Manager at Amazon AGI, where he leads several projects on post-training recipes and (Multimodal) large language models in the Amazon AGI Foundation modeling team. Before joining Amazon AGI, he spent four years at Microsoft Cloud and AI, where he led projects focused on developing natural language-to-code generation models for various products. He has also served as an adjunct faculty at Northeastern University. He earned his PhD from the University of Southern California (USC) in 2017 and has since been actively involved as a workshop organizer, and reviewer for numerous NLP, Computer Vision and machine learning conferences. 
+Pradeep Natarajan is a Senior Principal Scientist in Amazon AGI Foundation modeling team working on post-training recipes and Multimodal large language models. He has 20+ years of experience in developing and launching multiple large-scale machine learning systems. He has a PhD in Computer Science from University of Southern California. 
+Michael Cai is a Software Engineer on the Amazon AGI Customization Team supporting the development of evaluation solutions. He obtained his MS in Computer Science from New York University in 2024. In his spare time he enjoys 3d printing and exploring innovative tech.
 
 ⸻
