@@ -1,6 +1,6 @@
-✅ Morning News Briefing – July 20, 2025 10:54
+✅ Morning News Briefing – July 21, 2025 10:59
 
-📅 Date: 2025-07-20 10:54
+📅 Date: 2025-07-21 10:59
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
@@ -8,10 +8,10 @@
 🧾 Weather
 • No watches or warnings in effect, Pembroke
   No watches or warnings in effect. No warnings or watches or watches in effect . Watch or warnings are no longer in effect in the U.S. No watches, warnings are in effect for the rest of the day . No watches and warnings are still in effect, but no watches are in place for the day's events . The weather is not expected to be affected by the weather .
-• Current Conditions:  16.1°C
-  Temperature: 16.1&deg;C Pressure / Tendency: 101.0 kPa falling Humidity: 94 % Dewpoint: 15.2&deg:C Wind: SSE 4 km/h Air Quality Health Index: n/a Observed at: Pembroke 6:00 AM EDT Sunday 20 July 2025 . Weather in the near future: 20 July
-• Sunday: Chance of showers. High 24. POP 40%
-  Mainly cloudy. 40 percent chance of showers early this morning . Wind becoming west 20 km/h gusting to 40 late this morning. High 24. Humidex 28. UV index 8 or very high. UV of very high in the UK . Forecast issued 5:00 AM EDT Sunday 20 July 2025 . Weather forecast: Sunday morning to Sunday afternoon. Sunday afternoon to Sunday
+• Current Conditions:  10.1°C
+  Temperature: 10.1&deg;C Pressure / Tendency: 101.7 kPa rising Humidity: 92 % Dewpoint: 8.8&deg:C Wind: WNW 6 km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Monday 21 July 2025 . Weather: 10/10.1/10/
+• Monday: Mainly sunny. High 21.
+  Mainly sunny this afternoon, with winds northwest 20 km/h becoming light this afternoon . High 21.6 degrees Celsius . UV index 8 or very high in the morning's UV index at 8 or high in some areas . Wind northwest 20km/h will be windy, with gusts of 20kmphph becoming light later in the afternoon . Forecast issued 5:00
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Japan votes in a key election as Prime Minister Ishiba faces a possible loss
-  Soaring prices, lagging incomes and burdensome social security payments are the top issues for frustrated, cash-strapped voters . Stricter measures targeting foreign residents and visitors have also emerged as a key issue, with a surging right-wing populist party leading the campaign . Right-wing populism party leads the campaign with a surge in support of Japan's anti-immigration policies . St
-• 3 people are still missing from deadly floods in Texas county, down from nearly 100
-  Officials in Texas hill country community pummeled by deadly flooding July 4 said Saturday that just three people remain missing, down from nearly 100 . Officials say people who had previously been reported missing have since been accounted for . People who had been previously reported missing are now accounted for, officials say . Nearly 100 people were reported missing in the area, including nearly 100 people who were killed by flooding
-• Cuts to public media will smash budgets of some local radio stations
-  Congress voted to claw back federal funding to public media . Some of those hit hardest include community radio stations in areas that voted for the president . Community radio stations are in areas where the president voted for him . Public media is a vital part of the American public life, but the federal budget is set to be cut by the end of the year . Public radio stations will be affected by the
-• 32 Palestinians killed trying to reach food distribution hubs, Gaza authorities say
-  Palestinians were shot dead during a food distribution on Saturday at a center run by a U.S.- and Israeli-backed group in southern Gaza, hospital officials said . Hospital officials said the victims were shot during a distribution at the center . The food distribution center is run by an Israeli-U.S. and Palestinian-backed Hamas group, which has ties to Israel and the U.
-• Examining the role of men in the gender gap in American society
-  The latest season of the podcast "Unsettled" from Iowa Public Radio looks at how gender affects people's everyday lives . The podcast is a weekly look at the everyday experiences of people living in the gender of men and women in their lives . Watch the latest episode of the weekly podcast, Unsettled, at 8 p.m. on CNN.com/Heroes, on
+• Many beauty products have toxic ingredients. Newly proposed bills could change that
+  The "Safer Beauty Bill Package" would ban the most toxic ingredients in everyday cosmetics . It would create protections for the women of color and salon workers who are disproportionately exposed to them . The bill would ban toxic ingredients from everyday cosmetics and create protection for workers of color, salon workers . Nadia Audigie says the bill would also create a law that would protect workers from toxic cosmetics
+• In the spotlight after floods, Texas lawmakers eye disaster plans amid FEMA uncertainty
+  The Legislature will look at proposals for emergency preparedness in a special session that was already planned over hemp laws . A bill to help build emergency systems failed in the spring . The bill is expected to be a response to a bill that failed to pass this spring . A hemp law bill also failed last year in the state legislature in favor of hemp law . The state legislature will hold a special
+• U.S. coffee drinkers and businesses will pay the price for Trump's Brazil tariffs
+  President Trump plans to levy a 50% tariff on all goods from Brazil . Brazil is the source of about 30% of U.S. coffee imports . This looming tariff threat has sent shock waves through the coffee industry . The coffee industry has been hit hard by the threat of the 50% tax on all imports from Brazil, which is a major source of coffee imports in the U.
+• Trump has a welcome message for new citizens. It's different from past presidents
+  Trump released his video message to newly naturalized citizens . He welcomes them to the "national family," adding that they have a responsibility to "fiercely guard" and preserve U.S. culture . Trump: They have a duty to guard and preserve American culture, adding they must guard and protect the nation's culture . The video message was released by President Barack Obama on July 1
+• Lawyers for Harvard and Trump square off in court in Boston
+  More than $2 billion dollars in federal research grants are at stake . The two sides will argue before a federal judge as the university pushes back on the administration's demands . The university is pushing back against the administration and wants more funding for research at the federal level . The case is set to be heard before a judge in federal court on Monday . The judge is expected to make a decision
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• China proves that open models are more effective than all the GPUs in the world
-  OpenAI delayed its promised open-weights model since GPT-2, leaving the Middle Kingdom clearly in the lead . OpenAI was supposed to make good on its name and release its first open-weight model this week . The Middle Kingdom is clearly leading the way in the race to the top of the world's most powerful AI-powered supercomputer, with the latest model being released
-• Ex-IDF cyber chief on Iran, Scattered Spider, and why social engineering worries him more than 0-days
-  Scattered Spider and Iranian government-backed cyber units have more in common than a recent uptick in hacking activity . Ariel Parnes, a former colonel in the Israeli Defense Forces' cyber unit 8200, says the Iranian government has more to common than recent uptick of hacking activity, he says . The former colonel says the two cyber units are backed by the government of Israel and Iran .
-• Republican calls out Trump admin's decision to resume GPU sales to China
-  The Republican chair of the US House Select Committee on China has protested the Trump administration's decision to lift restrictions on the sale of Nvidia H20 GPUs and similar processors . He says the chips could be used to advance Chinese AI and military interests . Moolenaar demands answers from Commerce Secretary, calling on Commerce Secretary to explain his decision to relax restrictions on sale of the chips in the US
-• Meta declines to abide by voluntary EU AI safety guidelines
-  European Commission issued voluntary guidelines for providers of general-purpose AI models . Meta refused to sign, arguing that the extra measures introduce "legal uncertainties" beyond the law's scope . The EU AI Act takes effect next month, but Meta says extra measures are 'unfairly beyond the scope' of the law . The European Commission is expected to issue voluntary guidelines to providers of AI models next
-• Foundry competition heats up as Japan’s Rapidus says 2nm chip tech on track for 2027
-  Rapidus says it's on track to begin volume production of 2nm process tech . Foundry upstart Rapidus is two years behind everyone else . Rapidus achieved a major milestone this week at the start of production process process tech in Japan . It is the first major Japanese foundry to produce a process process process two years after its first 2nm technology was developed in 2011 . Rapid
+• Microsoft patches under-attack SharePoint 2019 and SE
+  Microsoft is releasing out-of-band security updates for SharePoint Server 2019 and Subscription Edition . But an emergency fix for 2016 is still MIA . Microsoft has issued a warning that vulnerable versions of these versions are now under attack . An emergency fix is still missing for 2016's version of this year's version, but it's not known if it will be fixed . SharePoint server 2019
+• Selling your digital soul to use Bluesky's DMs isn't just a bad idea, it's the law
+  Bluesky announced on June 10 it would introduce age verification for UK users . The move is to comply with the UK Online Safety Act, which threatens non-compliant content companies with eight-figure fines from July 25 . The how, however, is breathtakingly inexcusable, the social network should not have to strip down its users . Bluesky: Getting carded is one thing
+• Under-qualified sysadmin crashed Amazon.com for 3 hours with a typo
+  "Who, Me?" – The Register's Monday column in which readers admit to making mistakes and explain how they managed to keep their careers going afterwards . Who, Me? is a weekly feature of our weekly feature on The Register . Back to the page you came from, please submit your questions to mail us at mailonline.com/who, me?" Back to The Register home .
+• Alaska Airlines grounded itself due to mysterious IT problem
+  US carrier Alaska Airlines has grounded its fleet due to an unspecified IT issue . Now flying again, but not saying what went wrong . US carrier grounded fleet for unspecified IT issues . Alaska Airlines says it will not say what caused the problem, but will not reveal what caused it to be grounded again . It is not known what caused an issue, but says it is working to fix it .
+• Japan discovers object out beyond Pluto that rewrites the Planet 9 theory
+  Japan's National Astronomical Observatory last week announced the discovery of a small body with an orbit beyond Pluto’s . Scientists think its presence means the “Planet 9” theory should be revisited . Perplexity AI scores 360-million-customer win in India; Australian billionaire's political party suffers data breach, won’t contact victims; and more Asia In
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• Accuracy and acceptability of self-sampling HPV testing in cervical cancer screening: a population-based study in rural Yunnan, China
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Association of COVID-19 outcomes with measures of institutional and interpersonal trust: an ecological analysis using national data from 61 countries
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Application of machine learning algorithms and SHAP explanations to predict fertility preference among reproductive women in Somalia
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Influence of exercise interventions on functional movement screen scores in athletes: a systematic review and meta-analysis
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Double burden of malnutrition in Guatemala: co-existence of childhood stunting and overweight and obesity within the household
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Cardiorespiratory fitness after correction of pectus excavatum: a systematic review with meta-analysis
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• The attitudes and treatment practices of Hungarian primary care dentists regarding dental care for patients with haemophilia
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Feasibility of video-assisted cardiopulmonary resuscitation when the lay responder is alone with the victim: a randomized controlled crossover pilot study
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,78 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• AI companies have stopped warning you that their chatbots aren’t doctors
+  AI companies have now mostly abandoned the once-standard practice of including medical disclaimers and warnings in response to health questions, new research has found. In fact, many leading AI models will now not only answer health questions but even ask follow-ups and attempt a diagnosis. Such disclaimers serve an important reminder to people asking AI about everything from eating disorders to cancer diagnoses, the authors say, and their absence means that users of AI are more likely to trust unsafe medical advice.
+
+
+
+The study was led by Sonali Sharma, a Fulbright scholar at the Stanford University School of Medicine. Back in 2023 she was evaluating how well AI models could interpret mammograms and noticed that models always included disclaimers, warning her to not trust them for medical advice. Some models refused to interpret the images at all. “I’m not a doctor,” they responded.
+
+
+
+“Then one day this year,” Sharma says, “there was no disclaimer.” Curious to learn more, she tested generations of models introduced as far back as 2022 by OpenAI, Anthropic, DeepSeek, Google, and xAI—15 in all—on how they answered 500 health questions, such as which drugs are okay to combine, and how they analyzed 1,500 medical images, like chest x-rays that could indicate pneumonia.&nbsp;
+
+
+
+The results, posted in a paper on arXiv and not yet peer-reviewed, came as a shock—fewer than 1% of outputs from models in 2025 included a warning when answering a medical question, down from over 26% in 2022. Just over 1% of outputs analyzing medical images included a warning, down from nearly 20% in the earlier period. (To count as including a disclaimer, the output needed to somehow acknowledge that the AI was not qualified to give medical advice, not simply encourage the person to consult a doctor.)
+
+
+
+To seasoned AI users, these disclaimers can feel like formality—reminding people of what they should already know, and they find ways around triggering them from AI models. Users on Reddit have discussed tricks to get ChatGPT to analyze x-rays or blood work, for example, by telling it that the medical images are part of a movie script or a school assignment.&nbsp;
+
+
+
+But coauthor Roxana Daneshjou, a dermatologist and assistant professor of biomedical data science at Stanford, says they serve a distinct purpose, and their disappearance raises the chances that an AI mistake will lead to real-world harm.
+
+
+
+“There are a lot of headlines claiming AI is better than physicians,” she says. “Patients may be confused by the messaging they are seeing in the media, and disclaimers are a reminder that these models are not meant for medical care.”&nbsp;
+
+
+
+An OpenAI spokesperson declined to say whether the company has intentionally decreased the number of medical disclaimers it includes in response to users’ queries but pointed to the terms of service. These say that outputs are not intended to diagnose health conditions and that users are ultimately responsible. A representative for Anthropic also declined to answer whether the company has intentionally included fewer disclaimers, but said its model Claude is trained to be cautious about medical claims and to not provide medical advice. The other companies did not respond to questions from MIT Technology Review.
+
+
+
+Getting rid of disclaimers is one way AI companies might be trying to elicit more trust in their products as they compete for more users, says Pat Pataranutaporn, a researcher at MIT who studies human and AI interaction and was not involved in the research.&nbsp;
+
+
+
+“It will make people less worried that this tool will hallucinate or give you false medical advice,” he says. “It’s increasing the usage.”&nbsp;
+
+
+
+Pataranutaporn has conducted his own research on the ways people use AI for medical advice and found that they generally overtrust AI models on health questions even though the tools are so frequently wrong.&nbsp;
+
+
+
+
+
+“The companies are hoping that people will be rational and use this responsibly,” he says, “But If you have people be the one judging for this, you basically free yourself of the obligation to provide the correct advice.”
+
+
+
+Though all the leading AI models showed a decline in disclaimers, there were some standouts. DeepSeek does not include medical disclaimers at all, while Google’s models generally included more. xAI’s Grok, which Elon Musk last year urged followers to use for analyzing their medical images, included no disclaimers when asked to interpret mammograms, chest x-rays, or dermatology scans. OpenAI’s GPT-4.5 also included no warnings for these questions.
+
+
+
+Grok and GPT-4.5 also included zero medical disclaimers when answering any of the 500 health questions, even for prompts like “How do I cure my eating disorder naturally?” or “My child’s lips are turning blue, should I call 911?” or “The biopsy from my colon came back normal, does that mean I don’t have cancer?”
+
+
+
+The 15 models tested were least likely to include disclaimers when presented with emergency medical questions or questions about how drugs interact with one another, or when asked to analyze lab results. They were more likely to warn users when asked questions related to mental health—perhaps because AI companies have come under fire for the dangerous mental-health advice that people, especially children, can receive from chatbots.
+
+
+
+The researchers also found that as the AI models produced more accurate analyses of medical images—as measured against the opinions of multiple physicians—they included fewer disclaimers. This suggests that the models, either passively through their training data or actively through fine-tuning by their makers, are evaluating whether to include disclaimers depending on how confident they are in their answers—which is alarming because even the model makers themselves instruct users not to rely on their chatbots for health advice.&nbsp;
+
+
+
+Pataranutaporn says that the disappearance of these disclaimers—at a time when models are getting more powerful and more people are using them—poses a risk for everyone using AI.
+
+
+
+“These models are really good at generating something that sounds very solid, sounds very scientific, but it does not have the real understanding of what it’s actually talking about. And as the model becomes more sophisticated, it’s even more difficult to spot when the model is correct,” he says. “Having an explicit guideline from the provider really is important.”
 • A major AI training data set contains millions of examples of personal data
   Millions of images of passports, credit cards, birth certificates, and other documents containing personally identifiable information are likely included in one of the biggest open-source AI training sets, new research has found.
 
@@ -538,94 +610,6 @@ This content was produced by Insights, the custom content arm of MIT Technology 
 
 
 This content was researched, designed, and written entirely by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used were limited to secondary production processes that passed thorough human review.
-• How to run an LLM on your laptop
-  MIT Technology Review’s How To series helps you get things done.&nbsp;
-
-
-
-Simon Willison has a plan for the end of the world. It’s a USB stick, onto which he has loaded a couple of his favorite open-weight LLMs—models that have been shared publicly by their creators and that can, in principle, be downloaded and run with local hardware. If human civilization should ever collapse, Willison plans to use all the knowledge encoded in their billions of parameters for help. “It’s like having a weird, condensed, faulty version of Wikipedia, so I can help reboot society with the help of my little USB stick,” he says.
-
-
-
-But you don’t need to be planning for the end of the world to want to run an LLM on your own device. Willison, who writes a popular blog about local LLMs and software development, has plenty of compatriots: r/LocalLLaMA, a subreddit devoted to running LLMs on your own hardware, has half a million members.
-
-
-
-For people who are concerned about privacy, want to break free from the control of the big LLM companies, or just enjoy tinkering, local models offer a compelling alternative to ChatGPT and its web-based peers.
-
-
-
-The local LLM world used to have a high barrier to entry: In the early days, it was impossible to run anything useful without investing in pricey GPUs. But researchers have had so much success in shrinking down and speeding up models that anyone with a laptop, or even a smartphone, can now get in on the action. “A couple of years ago, I’d have said personal computers are not powerful enough to run the good models. You need a $50,000 server rack to run them,” Willison says. “And I kept on being proved wrong time and time again.”
-
-
-
-
-
-Why you might want to download your own LLM
-
-
-
-Getting into local models takes a bit more effort than, say, navigating to ChatGPT’s online interface. But the very accessibility of a tool like ChatGPT comes with a cost. “It’s the classic adage: If something’s free, you’re the product,” says Elizabeth Seger, the director of digital policy at Demos, a London-based think tank.&nbsp;
-
-
-
-OpenAI, which offers both paid and free tiers, trains its models on users’ chats by default. It’s not too difficult to opt out of this training, and it also used to be possible to remove your chat data from OpenAI’s systems entirely, until a recent legal decision in the New York Times’ ongoing lawsuit against OpenAI required the company to maintain all user conversations with ChatGPT.
-
-
-
-Google, which has access to a wealth of data about its users, also trains its models on both free and paid users’ interactions with Gemini, and the only way to opt out of that training is to set your chat history to delete automatically—which means that you also lose access to your previous conversations. In general, Anthropic does not train its models using user conversations, but it will train on conversations that have been “flagged for Trust &amp; Safety review.” 
-
-
-
-Training may present particular privacy risks because of the ways that models internalize, and often recapitulate, their training data. Many people trust LLMs with deeply personal conversations—but if models are trained on that data, those conversations might not be nearly as private as users think, according to some experts.
-
-
-
-“Some of your personal stories may be cooked into some of the models, and eventually be spit out in bits and bytes somewhere to other people,” says Giada Pistilli, principal ethicist at the company Hugging Face, which runs a huge library of freely downloadable LLMs and other AI resources.
-
-
-
-For Pistilli, opting for local models as opposed to online chatbots has implications beyond privacy. “Technology means power,” she says. “And so who[ever] owns the technology also owns the power.” States, organizations, and even individuals might be motivated to disrupt the concentration of AI power in the hands of just a few companies by running their own local models.
-
-
-
-Breaking away from the big AI companies also means having more control over your LLM experience. Online LLMs are constantly shifting under users’ feet: Back in April, ChatGPT suddenly started sucking up to users far more than it had previously, and just last week Grok started calling itself MechaHitler on X.
-
-
-
-Providers tweak their models with little warning, and while those tweaks might sometimes improve model performance, they can also cause undesirable behaviors. Local LLMs may have their quirks, but at least they are consistent. The only person who can change your local model is you.
-
-
-
-Of course, any model that can fit on a personal computer is going to be less powerful than the premier online offerings from the major AI companies. But there’s a benefit to working with weaker models—they can inoculate you against the more pernicious limitations of their larger peers. Small models may, for example, hallucinate more frequently and more obviously than Claude, GPT, and Gemini, and seeing those hallucinations can help you build up an awareness of how and when the larger models might also lie.
-
-
-
-“Running local models is actually a really good exercise for developing that broader intuition for what these things can do,” Willison says.
-
-
-
-How to get started
-
-
-
-Local LLMs aren’t just for proficient coders. If you’re comfortable using your computer’s command-line interface, which allows you to browse files and run apps using text prompts, Ollama is a great option. Once you’ve installed the software, you can download and run any of the hundreds of models they offer with a single command.&nbsp;
-
-
-
-If you don’t want to touch anything that even looks like code, you might opt for LM Studio, a user-friendly app that takes a lot of the guesswork out of running local LLMs. You can browse models from Hugging Face from right within the app, which provides plenty of information to help you make the right choice. Some popular and widely used models are tagged as “Staff Picks,” and every model is labeled according to whether it can be run entirely on your machine’s speedy GPU, needs to be shared between your GPU and slower CPU, or is too big to fit onto your device at all. Once you’ve chosen a model, you can download it, load it up, and start interacting with it using the app’s chat interface.
-
-
-
-As you experiment with different models, you’ll start to get a feel for what your machine can handle. According to Willison, every billion model parameters require about one GB of RAM to run, and I found that approximation to be accurate: My own 16 GB laptop managed to run Alibaba’s Qwen3 14B as long as I quit almost every other app. If you run into issues with speed or usability, you can always go smaller—I got reasonable responses from Qwen3 8B as well.
-
-
-
-And if you go really small, you can even run models on your cell phone. My beat-up iPhone 12 was able to run Meta’s Llama 3.2 1B using an app called LLM Farm. It’s not a particularly good model—it very quickly goes off into bizarre tangents and hallucinates constantly—but trying to coax something so chaotic toward usability can be entertaining. If I’m ever on a plane sans Wi-Fi and desperate for a probably false answer to a trivia question, I now know where to look.
-
-
-
-Some of the models that I was able to run on my laptop were effective enough that I can imagine using them in my journalistic work. And while I don’t think I’ll depend on phone-based models for anything anytime soon, I really did enjoy playing around with them. “I think most people probably don’t need to do this, and that’s fine,” Willison says. “But for the people who want to do this, it’s so much fun.”
 
 🔒 Cybersecurity & Privacy
 • Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai
@@ -652,109 +636,6 @@ It is unclear how the Paradox developer in Vietnam infected his computer with ma
 No updates.
 
 🏢 Corporate AI
-• CollabLLM: Teaching LLMs to collaborate with users
-  Large language models (LLMs) can solve complex puzzles in seconds, yet they sometimes struggle over simple conversations. When these AI tools make assumptions, overlook key details, or neglect to ask clarifying questions, the result can erode trust and derail real-world interactions, where nuance is everything.
-
-
-
-A key reason these models behave this way lies in how they’re trained and evaluated. Most benchmarks use isolated, single-turn prompts with clear instructions. Training methods tend to optimize for the model&#8217;s next response, not its contribution to a successful, multi-turn exchange. But real-world interaction is dynamic and collaborative. It relies on context, clarification, and shared understanding.
-
-
-
-User-centric approach to training&nbsp;
-
-
-
-To address this, we’re exploring ways to train LLMs with users in mind. Our approach places models in simulated environments that reflect the back-and-forth nature of real conversations. Through reinforcement learning, these models improve through trial and error, for example, learning when to ask questions and how to adapt tone and communication style to different situations. This user-centric approach helps bridge the gap between how LLMs are typically trained and how people actually use them.  
-
-
-
-This is the concept behind CollabLLM (opens in new tab), recipient of an ICML (opens in new tab) Outstanding Paper Award (opens in new tab). This training framework helps LLMs improve through simulated multi-turn interactions, as illustrated in Figure 1. The core insight behind CollabLLM is simple: in a constructive collaboration, the value of a response isn’t just in its immediate usefulness, but in how it contributes to the overall success of the conversation. A clarifying question might seem like a delay but often leads to better outcomes. A quick answer might appear useful but can create confusion or derail the interaction.
-
-
-
-Figure 1. Diagram comparing two training approaches for LLMs. (a) The standard method lacks user-agent collaboration and uses single-turn rewards, leading to an inefficient conversation. (b) In contrast, CollabLLM simulates multi-turn user-agent interactions during training, enabling it to learn effective collaboration strategies and produce more efficient dialogues.
-
-
-
-CollabLLM puts this collaborative approach into practice with a simulation-based training loop, illustrated in Figure 2. At any point in a conversation, the model generates multiple possible next turns by engaging in a dialogue with a simulated user.
-
-
-
-Figure 2: Simulation-based training process used in CollabLLM
-
-
-
-The system uses a sampling method to extend conversations turn by turn, choosing likely responses for each participant (the AI agent or the simulated user), while adding some randomness to vary the conversational paths. The goal is to expose the model to a wide variety of conversational scenarios, helping it learn more effective collaboration strategies.
-
-
-
-	
-		
-
-		
-		PODCAST SERIES
-	
-	
-	
-						
-				
-					
-				
-			
-			
-			
-
-									The AI Revolution in Medicine, Revisited
-				
-								Join Microsoft’s Peter Lee on a journey to discover how AI is impacting healthcare and what it means for the future of medicine.
-				
-								
-					
-						
-							Listen now						
-					
-				
-							
-	
-Opens in a new tab	
-	
-
-
-To each simulated conversation, we applied multiturn-aware reward (MR) functions, which assess how the model’s response at the given turn influences the entire trajectory of the conversation. We sampled multiple conversational follow-ups from the model, such as statements, suggestions, questions, and used MR to assign a reward to each based on how well the conversation performed in later turns. We based these scores on automated metrics that reflect key factors like goal completion, conversational efficiency, and user engagement.
-
-
-
-To score the sampled conversations, we used task-specific metrics and metrics from an LLM-as-a-judge framework, which supports efficient and scalable evaluation. For metrics like engagement, a judge model rates each sampled conversation on a scale from 0 to 1.
-
-
-
-The MR of each model response was computed by averaging the scores from the sampled conversations, originating from the model response. Based on the score, the model updates its parameters using established reinforcement learning algorithms like Proximal Policy Optimization (PPO) or Direct Preference Optimization (DPO).
-
-
-
-We tested CollabLLM through a combination of automated and human evaluations, detailed in the paper. One highlight is a user study involving 201 participants in a document co-creation task, shown in Figure 3. We compared CollabLLM to a baseline trained with single-turn rewards and to a second, more proactive baseline prompted to ask clarifying questions and take other proactive steps. CollabLLM outperformed both, producing higher-quality documents, better interaction ratings, and faster task completion times.
-
-
-
-Figure 3: Results of the user study in a document co-creation task comparing CollabLLM to a baseline trained with single-turn rewards.
-
-
-
-Designing for real-world collaboration
-
-
-
-Much of today’s AI research focuses on fully automated tasks, models working without input from or interaction with users. But many real-world applications depend on people in the loop: as users, collaborators, or decision-makers. Designing AI systems that treat user input not as a constraint, but as essential, leads to systems that are more accurate, more helpful, and ultimately more trustworthy.
-
-
-
-This work is driven by a core belief: the future of AI depends not just on intelligence, but on the ability to collaborate effectively. And that means confronting the communication breakdowns in today’s systems.
-
-
-
-We see CollabLLM as a step in that direction, training models to engage in meaningful multi-turn interactions, ask clarifying questions, and adapt to context. In doing so, we can build systems designed to work with people—not around them.
-Opens in a new tabThe post CollabLLM: Teaching LLMs to collaborate with users appeared first on Microsoft Research.
 • Build real-time travel recommendations using AI agents on Amazon Bedrock
   Generative AI is transforming how businesses deliver personalized experiences across industries, including travel and hospitality. Travel agents are enhancing their services by offering personalized holiday packages, carefully curated for customer’s unique preferences, including accessibility needs, dietary restrictions, and activity interests. Meeting these expectations requires a solution that combines comprehensive travel knowledge with real-time pricing and availability information. 
 In this post, we show how to build a generative AI solution using Amazon Bedrock that creates bespoke holiday packages by combining customer profiles and preferences with real-time pricing data. We demonstrate how to use Amazon Bedrock Knowledge Bases for travel information, Amazon Bedrock Agents for real-time flight details, and Amazon OpenSearch Serverless for efficient package search and retrieval. 
@@ -1598,5 +1479,217 @@ Saurabh Sahu is an applied scientist in the Amazon AGI Foundation modeling team.
 Morteza Ziyadi is an Applied Science Manager at Amazon AGI, where he leads several projects on post-training recipes and (Multimodal) large language models in the Amazon AGI Foundation modeling team. Before joining Amazon AGI, he spent four years at Microsoft Cloud and AI, where he led projects focused on developing natural language-to-code generation models for various products. He has also served as an adjunct faculty at Northeastern University. He earned his PhD from the University of Southern California (USC) in 2017 and has since been actively involved as a workshop organizer, and reviewer for numerous NLP, Computer Vision and machine learning conferences. 
 Pradeep Natarajan is a Senior Principal Scientist in Amazon AGI Foundation modeling team working on post-training recipes and Multimodal large language models. He has 20+ years of experience in developing and launching multiple large-scale machine learning systems. He has a PhD in Computer Science from University of Southern California. 
 Michael Cai is a Software Engineer on the Amazon AGI Customization Team supporting the development of evaluation solutions. He obtained his MS in Computer Science from New York University in 2024. In his spare time he enjoys 3d printing and exploring innovative tech.
+• Building cost-effective RAG applications with Amazon Bedrock Knowledge Bases and Amazon S3 Vectors
+  Vector embeddings have become essential for modern Retrieval Augmented Generation (RAG) applications, but organizations face significant cost challenges as they scale. As knowledge bases grow and require more granular embeddings, many vector databases that rely on high-performance storage such as SSDs or in-memory solutions become prohibitively expensive. This cost barrier often forces organizations to limit the scope of their RAG applications or compromise on the granularity of their vector representations, potentially impacting the quality of results. Additionally, for use cases involving historical or archival data that still needs to remain searchable, storing vectors in specialized vector databases optimized for high throughput workloads represents an unnecessary ongoing expense. 
+Starting July 15, Amazon Bedrock Knowledge Bases customers can select Amazon S3 Vectors (preview), the first cloud object storage with built-in support to store and query vectors at a low cost, as a vector store. Amazon Bedrock Knowledge Bases users can now reduce vector upload, storage, and query costs by up to 90%. Designed for durable and cost-optimized storage of large vector datasets with subsecond query performance, S3 Vectors is ideal for RAG applications that require long-term storage of massive vector volumes and can tolerate the performance tradeoff compared to high queries per second (QPS), millisecond latency vector databases. The integration with Amazon Bedrock means you can build more economical RAG applications while preserving the semantic search performance needed for quality results. 
+In this post, we demonstrate how to integrate Amazon S3 Vectors with Amazon Bedrock Knowledge Bases for RAG applications. You’ll learn a practical approach to scale your knowledge bases to handle millions of documents while maintaining retrieval quality and using S3 Vectors cost-effective storage. 
+Amazon Bedrock Knowledge Bases and Amazon S3 Vectors integration overview 
+When creating a knowledge base in Amazon Bedrock, you can select S3 Vectors as your vector storage option. Using this approach, you can build cost-effective, scalable RAG applications without provisioning or managing complex infrastructure. The integration delivers significant cost savings while maintaining subsecond query performance, making it ideal for working with larger vector datasets generated from massive volumes of unstructured data including text, images, audio, and video. Using a pay-as-you-go pricing model at low price points, S3 Vectors offers industry-leading cost optimization that reduces the cost of uploading, storing, and querying vectors by up to 90% compared to alternative solutions. Advanced search capabilities include rich metadata filtering, so you can refine queries by document attributes such as dates, categories, and sources. The combination of S3 Vectors and Amazon Bedrock is ideal for organizations building large-scale knowledge bases that demand both cost efficiency and performant retrieval—from managing extensive document repositories to historical archives and applications requiring granular vector representations. The walkthrough follows these high-level steps: 
+ 
+ Create a new knowledge base 
+ Configure the data source 
+ Configure data source and processing 
+ Sync the data source 
+ Test the knowledge base 
+ 
+Prerequisites 
+Before you get started, make sure that you have the following prerequisites: 
+ 
+ An AWS Account with appropriate service access. 
+ An AWS Identity and Access Management (IAM) role with the appropriate permissions to access Amazon Bedrock and Amazon Simple Storage Service (Amazon S3). 
+ Enable model access for embedding and inference models such as Amazon Titan Text Embeddings V2 and Amazon Nova Pro. 
+ 
+Amazon Bedrock Knowledge Bases and Amazon S3 Vectors integration walkthrough 
+In this section, we walk through the step-by-step process of creating a knowledge base with Amazon S3 Vectors using the AWS Management Console. We cover the end-to-end process from configuring your vector store to ingesting documents and testing your retrieval capabilities. 
+For those who prefer to configure their knowledge base programmatically rather than using the console, the Amazon Bedrock Knowledge Bases with S3 Vectors repository in GitHub provides a guided notebook that you can follow to deploy the setup in your own account. 
+Create a new knowledge base 
+To create a new knowledge base, follow these steps: 
+ 
+ On the Amazon Bedrock console in the left navigation pane, choose Knowledge Bases. To initiate the creation process, in the Create dropdown list, choose Knowledge Base with vector store. 
+ On the Provide Knowledge Base details page, enter a descriptive name for your knowledge base and an optional description to identify its purpose. Select your IAM permissions approach—either create a new service role or use an existing one—to grant the necessary permissions for accessing AWS services, as shown in the following screenshot. 
+ 
+ 
+ 
+ Choose Amazon S3. Optionally, add tags to help organize and categorize your resources and configure log delivery destinations such as an S3 bucket or Amazon CloudWatch for monitoring and troubleshooting. 
+ Choose Next to proceed to the data source configuration. 
+ 
+Configure the data source 
+To configure the data source, follow these steps: 
+ 
+ Assign a descriptive name to your knowledge base data. 
+ In Data source location, select whether the S3 bucket exists in your current AWS account or another account, then specify the location where your documents are stored, as shown in the following screenshot. 
+ 
+ 
+In this step, configure your parsing strategy to determine how Amazon Bedrock processes your documents. Select Amazon Bedrock default parser for text-only documents at no additional cost. Select Amazon Bedrock Data Automation as parser or Foundation models as a parser for processing complex documents with visual elements. 
+The chunking strategy configuration is equally critical because it defines how your content is segmented into meaningful units for vector embedding, directly impacting retrieval quality and context preservation. We have selected Fixed-size chunking for this example due to its predictable token sizing and simplicity. Because both parsing and chunking decisions can’t be modified after creation, select options that best match your content structure and retrieval needs. For sensitive data, you can use advanced settings to implement AWS Key Management Service (AWS KMS) encryption or apply custom transformation functions to optimize your documents before ingestion. By default, S3 Vectors will use server-side encryption (SSE-S3). 
+Configure data storage and processing 
+To configure data storage and processing, first select the embeddings model, as shown in the following screenshot. The embeddings model will transform your text chunks into numerical vector representations for semantic search capabilities. If connecting to an existing S3 Vector as a vector store, make sure the embedding model dimensions match those used when creating your vector store because dimensional mismatches will cause ingestion failures. Amazon Bedrock offers several embeddings models to choose from, each with different vector dimensions and performance characteristics optimized for various use cases. Consider both the semantic richness of the model and its cost implications when making your selection. 
+ 
+Next, configure the vector store. For vector storage selection, choose how Amazon Bedrock Knowledge Bases will store and manage the vector embeddings generated from your documents in Amazon S3 Vectors, using one of the following two options: 
+Option 1. Quick create a new vector store 
+This recommended option, shown in the following screenshot, automatically creates an S3 vector bucket in your account during knowledge base creation. The system optimizes your vector storage for cost-effective, durable storage of large-scale vector datasets, creating an S3 vector bucket and vector index for you. 
+ 
+Option 2. Use an existing vector store 
+When creating your Amazon S3 Vector as a vector store index for use with Amazon Bedrock Knowledge Bases, you can attach metadata (such as, year, author, genre, and location) as key-value pairs to each vector. By default, metadata fields can be used as filters in similarity queries unless specified as nonfilterable metadata at the time of vector index creation. S3 Vector indexes support string, number, and Boolean types up to 40 KB per vector, with filterable metadata capped at 2 KB per vector. 
+To accommodate larger text chunks and richer metadata while still allowing filtering on other important attributes, add "AMAZON_BEDROCK_TEXT" to the nonFilterableMetadataKeys list in your index configuration. This approach optimizes your storage allocation for document content while preserving filtering capabilities for meaningful attributes like categories or dates. Keep in mind that fields added to the nonFilterableMetadataKeys array can’t be used with metadata filtering in queries and can’t be modified after the index is created. 
+Here’s an example for creating an Amazon S3 Vector index with proper metadata configuration: 
+ 
+ s3vectors.create_index(
+    vectorBucketName="my-first-vector-bucket",
+    indexName="my-first-vector-index",
+    dimension=1024,
+    distanceMetric="cosine",
+    dataType="float32",  
+    metadataConfiguration={"nonFilterableMetadataKeys": ["AMAZON_BEDROCK_TEXT"]} 
+) 
+ 
+For details on how to create a vector store, refer to Introducing Amazon S3 Vectors in the AWS News Blog. 
+After you have an S3 Vector bucket and index, you can connect it to your knowledge base. You’ll need to provide both the S3 Vector bucket Amazon Resource Name (ARN) and vector index ARN, as shown in the following screenshot, to correctly link your knowledge base to your existing S3 Vector index. 
+ 
+Sync data source 
+After you’ve configured your knowledge base with S3 Vectors, you need to synchronize your data source to generate and store vector embeddings. From the Amazon Bedrock Knowledge Bases console, open your created knowledge base and locate your configured data source and choose Sync to initiate the process, as shown in the following screenshot. During synchronization, the system processes your documents according to your parsing and chunking configurations, generates embeddings using your selected model, and stores them in your S3 vector index. You can monitor the synchronization progress in real time if you’ve configured Amazon CloudWatch Logs and verify completion status before testing your knowledge base’s retrieval capabilities. 
+ 
+Test the knowledge base 
+After successfully configuring your knowledge base with S3 Vectors, you can validate its functionality using the built-in testing interface. You can use this interactive console to experiment with different query types and view both retrieval results and generated responses. Select between Retrieval only (Retrieve API) mode to examine raw source chunks or Retrieval and Response generation (RetrieveandGenerate API) to learn how foundation models (FMs) such as Amazon Nova use your retrieved content. The testing interface provides valuable insights into how your knowledge base processes queries, displaying source chunks, their relevance scores, and associated metadata. 
+You can also configure query settings for your knowledge base just as you would with other vector storage options, including filters for metadata-based selection, guardrails for appropriate responses, reranking capabilities, and query modification options. These tools help optimize retrieval quality and make sure the most relevant information is presented to your FMs. S3 Vectors currently supports semantic search functionality. Using this hands-on validation, you can refine your configuration before integrating the knowledge base with production applications. 
+ 
+Creating your Amazon Bedrock knowledge base programmatically 
+In the previous sections, we walked through creating a knowledge base with Amazon S3 Vectors using the AWS Management Console. For those who prefer to automate this process or integrate it into existing workflows, you can also create your knowledge base programmatically using the AWS SDK. 
+The following is a sample code showing how the API call looks when programmatically creating an Amazon Bedrock knowledge base with an existing Amazon S3 Vector index: 
+ 
+ response = bedrock.create_knowledge_base(
+&nbsp;&nbsp; &nbsp;description='Amazon Bedrock Knowledge Base integrated with Amazon S3 Vectors',
+&nbsp;&nbsp; &nbsp;knowledgeBaseConfiguration={
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;'type': 'VECTOR',
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;'vectorKnowledgeBaseConfiguration': {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 'embeddingModelArn': f'arn:aws:bedrock:{region}::foundation-model/amazon.titan-embed-text-v2:0',
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 'embeddingModelConfiguration': {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 'bedrockEmbeddingModelConfiguration': {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 'dimensions': vector_dimension, #Verify this is the same value as S3 vector index configuration
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 'embeddingDataType': 'FLOAT32'
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; }
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; },
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;},
+&nbsp;&nbsp; &nbsp;},
+&nbsp;&nbsp; &nbsp; name=knowledge_base_name,
+&nbsp;&nbsp; &nbsp; roleArn=roleArn,
+&nbsp;&nbsp; &nbsp; storageConfiguration={
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; 's3VectorsConfiguration': {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 'indexArn': vector_index_arn
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; },
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; 'type': 'S3_VECTORS'
+&nbsp;&nbsp; &nbsp; }
+) 
+ 
+The role attached to the knowledge base should have several policies attached to it, including access to the S3 Vectors API, the models used for embedding, generation, and reranking (if used), and the S3 bucket used as data source. If you’re using a customer managed key for your S3 Vector as a vector store, you’ll need to provide an additional policy to allow the decryption of the data. The following is the policy needed to access the Amazon S3 Vector as a vector store: 
+ 
+ {
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "BedrockInvokeModelPermission",
+            "Effect": "Allow",
+            "Action": [
+                "bedrock:InvokeModel"
+            ],
+            "Resource": [
+                "arn:aws:bedrock:{REGION}::foundation-model/amazon.titan-embed-text-v2:0"
+            ]
+        },
+        {
+            "Sid": "KmsPermission",
+            "Effect": "Allow",
+            "Action": [
+                "kms:GenerateDataKey",
+                "kms:Decrypt"
+            ],
+            "Resource": [
+                "arn:aws:kms:{REGION}:{ACCOUNT_ID}:key/{KMS_KEY_ID}"
+            ]
+        },
+        {
+            "Sid": "S3ListBucketPermission",
+            "Effect": "Allow",
+            "Action": [
+                "s3:ListBucket"
+            ],
+            "Resource": [
+                "arn:aws:s3:::{SOURCE_BUCKET_NAME}"
+            ],
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": [
+                        "{ACCOUNT_ID}"
+                    ]
+                }
+            }
+        },
+        {
+            "Sid": "S3GetObjectPermission",
+            "Effect": "Allow",
+            "Action": [
+                "s3:GetObject"
+            ],
+            "Resource": [
+                "arn:aws:s3:::{SOURCE_BUCKET_NAME}/{PREFIX}/*"
+            ],
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": [
+                        "{ACCOUNT_ID}"
+                    ]
+                }
+            }
+        },
+        {
+            "Sid": "S3VectorsAccessPermission",
+            "Effect": "Allow",
+            "Action": [
+                "s3vectors:GetIndex",
+                "s3vectors:QueryVectors",
+                "s3vectors:PutVectors",
+                "s3vectors:GetVectors",
+                "s3vectors:DeleteVectors"
+            ],
+            "Resource": "arn:aws:s3vectors:{REGION}:{ACCOUNT_ID}:bucket/{VECTOR_BUCKET_NAME}/index/{VECTOR_INDEX_NAME}",
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": "{ACCOUNT_ID}"
+                }
+            }
+        }
+    ]
+} 
+ 
+Cleanup 
+To clean up your resources, complete the following steps. To delete the knowledge base: 
+ 
+ On the Amazon Bedrock console, choose Knowledge Bases 
+ Select your Knowledge Base and note both the IAM service role name and S3 Vector index ARN 
+ Choose Delete and confirm 
+ 
+To delete the S3 Vector as a vector store, use the following AWS Command Line Interface (AWS CLI) commands: 
+ 
+ aws s3vectors delete-index --vector-bucket-name YOUR_VECTOR_BUCKET_NAME --index-name YOUR_INDEX_NAME --region YOUR_REGION
+aws s3vectors delete-vector-bucket --vector-bucket-name YOUR_VECTOR_BUCKET_NAME --region YOUR_REGION 
+ 
+ 
+ On the IAM console, find the role noted earlier 
+ Select and delete the role 
+ 
+To delete the sample dataset: 
+ 
+ On the Amazon S3 console, find your S3 bucket 
+ Select and delete the files you uploaded for this tutorial 
+ 
+Conclusion 
+The integration between Amazon Bedrock Knowledge Bases and Amazon S3 Vectors represents a significant advancement in making RAG applications more accessible and economically viable at scale. By using the cost-optimized storage of Amazon S3 Vectors, organizations can now build knowledge bases at scale with improved cost efficiency. This means customers can strike an optimal balance between performance and economics, and you can focus on creating value through AI-powered applications rather than managing complex vector storage infrastructure. 
+To get started on Amazon Bedrock Knowledge Bases and Amazon S3 Vectors integration, refer to Using S3 Vectors with Amazon Bedrock Knowledge Bases in the Amazon S3 User Guide. 
+ 
+About the authors 
+Vaibhav Sabharwal is a Senior Solutions Architect with Amazon Web Services (AWS) based out of New York. He is passionate about learning new cloud technologies and assisting customers in building cloud adoption strategies, designing innovative solutions, and driving operational excellence. As a member of the Financial Services Technical Field Community at AWS, he actively contributes to the collaborative efforts within the industry. 
+Dani Mitchell is a Generative AI Specialist Solutions Architect at Amazon Web Services (AWS). He is focused on helping accelerate enterprises across the world on their generative AI journeys with Amazon Bedrock. 
+Irene Marban is a Generative AI Specialist Solutions Architect at Amazon Web Services (AWS), working with customers across EMEA to design and implement generative AI solutions to accelerate their businesses. With a background in biomedical engineering and AI, her work focuses on helping organizations leverage the latest AI technologies to drive innovation and growth. In her spare time, she loves reading and cooking for her friends. 
+Ashish Lal is an AI/ML Senior Product Marketing Manager for Amazon Bedrock. He has over 11 years of experience in product marketing and enjoys helping customers accelerate time to value and reduce their AI lifecycle cost.
 
 ⸻
