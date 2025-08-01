@@ -43,6 +43,8 @@ jobs:
           message: 'chore: update health.json'
 
       - name: Generate latest briefing
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python generate_latest.py
 
       - name: Commit updated latest.txt

@@ -33,6 +33,8 @@ jobs:
 
       # 4. Run the generator
       - name: Generate latest.txt
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python generate_latest.py
 
       # 5. Commit & push results
