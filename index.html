@@ -14,6 +14,7 @@
     .bad  { color: red; }
     #uptime-list { margin-top: 1rem; list-style: none; padding: 0; }
     #uptime-list li { margin-bottom: 0.5rem; }
+    #latest-briefing { white-space: pre-wrap; border: 1px solid #ccc; padding: 1rem; background: #f9f9f9; margin-top: 1rem; }
   </style>
 </head>
 <body>
@@ -28,6 +29,9 @@
 
   <h2>Canadian Feed Uptime (past 7 days)</h2>
   <ul id="uptime-list"></ul>
+
+  <h2>Latest News Briefing</h2>
+  <pre id="latest-briefing">Loading latest briefing...</pre>
 
   <script>
     document.addEventListener('DOMContentLoaded', async () => {
@@ -92,6 +96,19 @@
         li.className = 'bad';
         li.textContent = `Error loading uptime data: ${err.message}`;
         ul.appendChild(li);
+      }
+
+      // Load latest briefing text
+      try {
+        const res3 = await fetch(baseURL + 'latest.txt');
+        if (!res3.ok) throw new Error(`HTTP ${res3.status}`);
+        const text = await res3.text();
+        document.getElementById('latest-briefing').textContent = text.trim();
+      } catch (err) {
+        console.error('Failed to load latest briefing:', err);
+        const pre = document.getElementById('latest-briefing');
+        pre.classList.add('bad');
+        pre.textContent = `Error loading latest briefing: ${err.message}`;
       }
     });
   </script>
