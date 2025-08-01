@@ -50,6 +50,8 @@ jobs:
           echo "First lines of generate_latest.py:"
           head -n 10 generate_latest.py
       - name: Generate latest.txt
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python generate_latest.py
 
       - name: Commit & force push updated briefing
