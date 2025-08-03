@@ -1,17 +1,17 @@
-✅ Morning News Briefing – August 02, 2025 10:47
+✅ Morning News Briefing – August 03, 2025 10:46
 
-📅 Date: 2025-08-02 10:47
+📅 Date: 2025-08-03 10:46
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• No watches or warnings in effect, Pembroke
-  No watches or warnings in effect. No warnings or watches or watches in effect . Watch or warnings are no longer in effect in the U.S. No watches, warnings are in effect for the rest of the day . No watches and warnings are still in effect, but no watches are in place for the day's events . The weather is not expected to be affected by the weather .
-• Current Conditions:  7.8°C
-  Temperature: 7.8&deg;C Pressure / Tendency: 102.5 kPa falling Humidity: 97 % Humidity : 97 % Dewpoint: 7 .3&deg:C Wind: WSW 2 km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Saturday 2 August 2025 Temperature: . 7.3
-• Saturday: Chance of showers. High 27. POP 30%
-  Sunny this morning then a mix of sun and cloud with 30 percent chance of showers this afternoon . Risk of a thunderstorm this afternoon. High 27. Wind becoming west 20 km/h gusting to 40 late this morning. Humidex 30. UV index 7 or high, with a risk of local smoke in the sky . Risk for thunderstorm . Risk . for thunderstorms .
+• SPECIAL AIR QUALITY STATEMENT, Pembroke
+  Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions . People in or around this area are advised to take necessary precautions . The weather is expected to be more unsettled than normal in the summer months of 2025 . For more information, visit http://www.cnn.com/newsquiz.org/voyage.com .
+• Current Conditions:  12.6°C
+  Temperature: 12.6&deg;C Pressure / Tendency: 102.0 kPa falling Humidity: 97 % Humidity : 97 % Dewpoint: 12 .2&deg:C Wind: SW calm km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Sunday 3 August 2025 . Weather: Pemroke
+• Sunday: Smoke. High 27.
+  Widespread smoke. High 27. Humidex 31. UV index 8 or very high. Widespread wildfire smoke . High 28.50 degrees Fahrenheit in the early hours of Sunday morning . Forecast issued 5:00 AM EDT Sunday 3 August 2025. Forecast: "Widespread smoke" and "very high" in the air, with highs of 27.51 degrees Fahrenheit .
 
 🌍 International News
 No updates.
@@ -20,31 +20,31 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Millions of Ukrainians abroad hope to return home once Russia's invasion ends
-  Some Ukrainians have already returned after fleeing Russia's invasion, according to a survey this year . Almost half of the more than 5 million still abroad want to return to Ukraine, the survey found . Some Ukrainians are already returning after fleeing the Russian invasion, and almost half of them want to do so, it was said in a recent survey . The survey also found that Ukrainians have returned to Ukraine
-• Art of the praise: Why flattering Trump is now the go-to diplomatic move
-  World leaders have lavished praise on President Trump in order to smooth diplomatic relations — and get better deals too . President Trump has been praised by world leaders for his efforts to smooth relations with the U.S. President Barack Obama has been criticized for his foreign policy positions in the past . President Obama is expected to speak to the world for the first time since taking office in 2016 . The
-• If compliments make you feel super awkward, this comic is for you
-  When someone says something nice about us, it can make us feel awkward and uncomfortable . Researchers explain the science behind those emotions . They also make the case for accepting genuine praise from people who say nice things about you . The science behind the emotion of praise can be explained in a new book, "Psychology of the Empathy of the Praise," published on CNN.com/Her
-• Appeals court keeps order blocking indiscriminate immigration sweeps
-  A federal appeals court ruled Friday to uphold a lower court's temporary order blocking the Trump administration from conducting indiscriminate immigration stops and arrests in Southern California . A lower court has also upheld a temporary order barring the administration from issuing indiscriminately immigration stops . The decision was overturned by a federal court judge in California on Friday . The ruling is the latest in a series of rulings against the administration .
-• 3 big takeaways from the NTSB hearing on the DCA midair collision
-  National Transportation Safety Board holds three-day hearing on deadliest U.S. aviation accident in decades . Problems include altimeters, chopper routes and busy Washington, D.C., airspace . NTSB hearing focuses on problems with altimeters and choppers routes in Washington, DC, airspace . Hearing is the first of its kind in decades and could be the deadliest in decades for aviation .
+• Who's the top dog? Wave-riding canines compete in the World Dog Surfing Championships
+  Pooches competed against similarly sized peers for a chance to appear in the finals . Additional heats featured multiple dogs surfing tandem or riding with people . Poochers competed against each other in a competition that included multiple dogs riding tandem or in person-to-person heats . The event was held in New York City, New York, New Jersey, on June 1, 2013 . The dogs
+• Chile's plunging birth rate may foreshadow future in U.S.
+  Chilean families are having only one child on average . U.S. birthrates are also dropping but it's unclear whether the U.K. will follow into the growing group of "very low" birthrate countries . Chile is one of the most low-birthrate countries in the world, with one child per person per year . The country's birthrate rate is also dropping .
+• Senate heads home with no deal to speed confirmations as irate Trump tells Schumer to 'go to hell'
+  Without a deal in hand, Republicans say they may try to change Senate rules when they return in September to speed up the pace of confirmations . Republicans say the change is needed to speed the process of confirming nominees to the next round of confirmation hearings . Republicans are considering a change in Senate rules if they can't find a deal to agree on a deal, they say they will try to
+• Lebanon mourns beloved artist Ziad Rahbani
+  Ziad Rahbani is a playwright and musician . He is one of Lebanon's most famous artists . He was also a popular musician and playwright . He has been a well-known playwright for Lebanon's Lebanese theatre director and singer . He died at the age of 50 on Sunday in Lebanon's capital, Beirut, at age of 55 . He had a long life of
+• Do conservatives have a role in challenging Trump's foreign policy?
+  Dispensable Nation: America in a Post-American World . Kori Schake of the American Enterprise Institute writes in Foreign Affairs . Schake: America is a "post-American" nation in a post-American world . She says the U.S. needs to be a "preventive nation" in a world of its own, not just a nation, but a nation
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
+• Capacity planning a rising concern for datacenter operators as AI grows
+  Datacenter operators face conflicting factors such as rising costs, power constraints, and meeting the demands of AI workloads . New Uptime survey flags cost, power, outages, and demand for capacity in datacenter datacentacenters . Data center operators need to be able to forecast future capacity requirements is a growing concern for operators as they face rising costs and power constraints .
+• Long live the nub: ThinkPad designer David Hill spills secrets, designs that never made it
+  Launched in 1992, the boxy black ThinkPad with its little red nub remains the quintessential business productivity notebook . Unlike commercial offerings from competitors such as Dell and HP, Lenovo's laptop has a following of people who collect old models and celebrate each new innovation . The ThinkPad was launched by Lenovo in 1992 and has been a long-awaited successor to the ThinkPad laptop .
 • Reddit is people! Which means its search might not be so damaged by AI slop
   Community content site aims to profit from real conversation . Reddit has found that trafficking in human-authored content pays well in the AI era . The site has found it pays well for people to write content for the first time . Reddit users have been using the site to make money from real-life content . It's hoped that the site will be able to use AI-powered content in the
 • CISA roasts unnamed critical national infrastructure body for shoddy security hygiene
   CISA is using the findings from a recent probe of an unidentified critical infrastructure organization to warn about the dangers of getting cybersecurity seriously wrong . Plaintext passwords, shared admin accounts, and insufficient logging rampant at mystery org, CISA says . CISA: CISA will use the findings of the findings to warn of the dangers to getting cybersecurity wrong .……… The findings are based on
 • Florida jury throws huge fine at Tesla in Autopilot crash
   A Florida jury found Tesla partially responsible for the death of one person and causing serious injuries to another in a crash where the driver was using the company's much-touted Autopilot system . Plaintiffs argued that the company massively oversold the assisted-driving capabilities of its cars . The jury also found that the driver of the Tesla Model X was driving with the system's Autop
-• Rampant emoji use suggests crypto-stealing NPM package was written by AI
-  An NPM package packed with cryptocurrency-stealing malware appears to have been largely AI-generated, as evidenced by its liberal use of emojis and other telltale signs . Kodane code was either machine-generated or done by a teenager or by an AI-generated teenager . The package was packed with a large amount of malware, as well as a large number of em
-• OpenAI removes ChatGPT self-doxing option
-  OpenAI has removed option to make ChatGPT interactions indexable by search engines . Chatbot conversations no longer appear in search engines deemed a footgun . Search engine users may unwittingly expose sensitive information to the botbot . Chatbots can also be used in search engine search engines such as Google, Facebook and Twitter search engines, according to OpenAI . ChatBot chatbot conversations can be
 
 🏥 Public Health
 No updates.
@@ -54,11 +54,11 @@ No updates.
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Digital health governance in China by a whole-of-society approach
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Impact of COVID-19 vaccination coverage on global disability burden of Guillain-Barré syndrome
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Association between post-stroke depressiveness and the utilization of healthcare services three months after the stroke
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Carbon emissions from the increasing use of inhaled corticosteroid-LABA medications: a primary care used case from Singapore
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Determinants and spatial patterns of solid fuel use in East Africa based on demographic and health survey data from 2012 to 2023
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Development of the tele-neurological assessment for the level, severity, and completeness of spinal cord injury (TNASCI): reliability and validity
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
