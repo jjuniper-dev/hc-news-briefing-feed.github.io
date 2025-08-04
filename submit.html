@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>State of Democracy Tracker – Admin Log</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background-color: #f4f4f4;
+      padding: 20px;
+      max-width: 600px;
+      margin: auto;
+    }
+    h1 {
+      color: #333;
+    }
+    form {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    }
+    input, select, textarea {
+      width: 100%;
+      padding: 10px;
+      margin-top: 10px;
+      margin-bottom: 20px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+    }
+    button {
+      background-color: #0066cc;
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #004d99;
+    }
+  </style>
+</head>
+<body>
+  <h1>🗳️ State of Democracy Tracker – Admin Entry</h1>
+  <form id="democracyForm">
+    <label for="date">Date:</label>
+    <input type="date" id="date" name="date" required>
+
+    <label for="branch">Branch:</label>
+    <select id="branch" name="branch" required>
+      <option value="">Select...</option>
+      <option value="Executive">Executive</option>
+      <option value="Legislative">Legislative</option>
+      <option value="Judicial">Judicial</option>
+      <option value="State">State/Local</option>
+    </select>
+
+    <label for="action">Action / Event Title:</label>
+    <input type="text" id="action" name="action" required>
+
+    <label for="source">Source / Publisher:</label>
+    <input type="text" id="source" name="source" required>
+
+    <label for="url">Link to Source:</label>
+    <input type="url" id="url" name="url">
+
+    <label for="notes">Description / Notes:</label>
+    <textarea id="notes" name="notes" rows="4" required></textarea>
+
+    <button type="submit">Submit Entry</button>
+  </form>
+
+  <script>
+    document.getElementById("democracyForm").addEventListener("submit", function(event) {
+      event.preventDefault();
+      const data = {
+        date: this.date.value,
+        branch: this.branch.value,
+        action: this.action.value,
+        source: this.source.value,
+        url: this.url.value,
+        notes: this.notes.value
+      };
+      fetch("YOUR_WEBHOOK_OR_ENDPOINT_HERE", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(data)
+      }).then(res => {
+        if (res.ok) {
+          alert("Entry submitted successfully.");
+          this.reset();
+        } else {
+          alert("Submission failed.");
+        }
+      });
+    });
+  </script>
+</body>
+</html>
