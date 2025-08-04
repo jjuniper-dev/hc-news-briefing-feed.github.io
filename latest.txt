@@ -1,17 +1,17 @@
-✅ Morning News Briefing – August 03, 2025 10:46
+✅ Morning News Briefing – August 04, 2025 10:52
 
-📅 Date: 2025-08-03 10:46
+📅 Date: 2025-08-04 10:52
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
 • SPECIAL AIR QUALITY STATEMENT, Pembroke
-  Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions . People in or around this area are advised to take necessary precautions . The weather is expected to be more unsettled than normal in the summer months of 2025 . For more information, visit http://www.cnn.com/newsquiz.org/voyage.com .
-• Current Conditions:  12.6°C
-  Temperature: 12.6&deg;C Pressure / Tendency: 102.0 kPa falling Humidity: 97 % Humidity : 97 % Dewpoint: 12 .2&deg:C Wind: SW calm km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Sunday 3 August 2025 . Weather: Pemroke
-• Sunday: Smoke. High 27.
-  Widespread smoke. High 27. Humidex 31. UV index 8 or very high. Widespread wildfire smoke . High 28.50 degrees Fahrenheit in the early hours of Sunday morning . Forecast issued 5:00 AM EDT Sunday 3 August 2025. Forecast: "Widespread smoke" and "very high" in the air, with highs of 27.51 degrees Fahrenheit .
+  Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions . People in or around this area are advised to take necessary precautions . Weather conditions are expected to be adverse in the area for the first time in the years of the 20th century . For more information, visit http://www.cnnnn.com/news/global-news
+• Current Conditions:  15.8°C
+  Temperature: 15.8&deg;C Pressure / Tendency: 102.1 kPa rising Humidity: 91 % Dewpoint: 14.4&deg:C Wind: WNW 5 km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Monday 4 August 2025 . Weather forecast: 15/8/C pressure,
+• Monday: Chance of showers. High 26. POP 30%
+  Increasing cloudiness early this morning . 30 percent chance of showers late this afternoon with risk of a thunderstorm . Widespread smoke. High 26. Humidex 31. UV index 7 or high. UV Index 7 or low. Showery cloudiness. High risk of thunderstorm. High wind gusts of up to 70mph. Rainy showers. High chance of rain.
 
 🌍 International News
 No updates.
@@ -20,36 +20,38 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Who's the top dog? Wave-riding canines compete in the World Dog Surfing Championships
-  Pooches competed against similarly sized peers for a chance to appear in the finals . Additional heats featured multiple dogs surfing tandem or riding with people . Poochers competed against each other in a competition that included multiple dogs riding tandem or in person-to-person heats . The event was held in New York City, New York, New Jersey, on June 1, 2013 . The dogs
-• Chile's plunging birth rate may foreshadow future in U.S.
-  Chilean families are having only one child on average . U.S. birthrates are also dropping but it's unclear whether the U.K. will follow into the growing group of "very low" birthrate countries . Chile is one of the most low-birthrate countries in the world, with one child per person per year . The country's birthrate rate is also dropping .
-• Senate heads home with no deal to speed confirmations as irate Trump tells Schumer to 'go to hell'
-  Without a deal in hand, Republicans say they may try to change Senate rules when they return in September to speed up the pace of confirmations . Republicans say the change is needed to speed the process of confirming nominees to the next round of confirmation hearings . Republicans are considering a change in Senate rules if they can't find a deal to agree on a deal, they say they will try to
-• Lebanon mourns beloved artist Ziad Rahbani
-  Ziad Rahbani is a playwright and musician . He is one of Lebanon's most famous artists . He was also a popular musician and playwright . He has been a well-known playwright for Lebanon's Lebanese theatre director and singer . He died at the age of 50 on Sunday in Lebanon's capital, Beirut, at age of 55 . He had a long life of
-• Do conservatives have a role in challenging Trump's foreign policy?
-  Dispensable Nation: America in a Post-American World . Kori Schake of the American Enterprise Institute writes in Foreign Affairs . Schake: America is a "post-American" nation in a post-American world . She says the U.S. needs to be a "preventive nation" in a world of its own, not just a nation, but a nation
+• Yosemite employees worked for weeks with no pay before the government hired them
+  Seasonal employees counting on housing at Yosemite were asked to volunteer for the park while the government was unable to onboard them at the start of the summer . Yosemite is a popular tourist attraction in the United States . Yosemite National Park is located in Yosemite Valley, California, on the East Coast of San Francisco Bay Area, California's East Coast . The park is home to Yosemite National Geographic Adventurers
+• Teen suicide is on the decline, new federal data shows
+  The 2024 National Survey on Drug Use and Health report found that in recent years, depression and suicidal thoughts and behaviors in teens have declined . The report also found that depression and suicide thoughts have also declined in teens . The 2024 survey found that teens are less likely to be depressed and more likely to have suicidal thoughts or suicidal thoughts, behaviors, in the U.S., according to the report
+• Why a NASA satellite that scientists and farmers rely on may be destroyed on purpose
+  The Trump administration has asked NASA staffers to draw up plans to end at least two satellite missions that measure carbon dioxide in the atmosphere . Current and former NASA employees say the Trump administration wants to end two carbon dioxide-monitoring satellite missions, they say . NASA staffers say they have been told to end the missions to monitor carbon dioxide levels in the air, according to current and former employees .
+• Leaves piled up after her husband's injury. Then a friend showed up with a rake
+  In 2017, Eileen Freiberg-Dale's husband, Barney, had a serious bicycle accident that caused a brain injury . Those first few months were among the hardest of her life, she says . A friend offered support for her husband, who suffered a serious brain injury, to help her cope with the loss of her husband . She says she hopes her husband will be able
+• How a public library's summer game took over a Michigan city
+  Summer in Ann Arbor, Mich., means thousands of people hunting for hidden codes around the city and reading books to earn points . It's part of a popular game organized by the public library . The game is a popular summertime game called "Ann Arbor, Michigan," organized by public library staff and organized by library staff . The goal is to find hidden codes and earn points in books and
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Capacity planning a rising concern for datacenter operators as AI grows
-  Datacenter operators face conflicting factors such as rising costs, power constraints, and meeting the demands of AI workloads . New Uptime survey flags cost, power, outages, and demand for capacity in datacenter datacentacenters . Data center operators need to be able to forecast future capacity requirements is a growing concern for operators as they face rising costs and power constraints .
-• Long live the nub: ThinkPad designer David Hill spills secrets, designs that never made it
-  Launched in 1992, the boxy black ThinkPad with its little red nub remains the quintessential business productivity notebook . Unlike commercial offerings from competitors such as Dell and HP, Lenovo's laptop has a following of people who collect old models and celebrate each new innovation . The ThinkPad was launched by Lenovo in 1992 and has been a long-awaited successor to the ThinkPad laptop .
-• Reddit is people! Which means its search might not be so damaged by AI slop
-  Community content site aims to profit from real conversation . Reddit has found that trafficking in human-authored content pays well in the AI era . The site has found it pays well for people to write content for the first time . Reddit users have been using the site to make money from real-life content . It's hoped that the site will be able to use AI-powered content in the
-• CISA roasts unnamed critical national infrastructure body for shoddy security hygiene
-  CISA is using the findings from a recent probe of an unidentified critical infrastructure organization to warn about the dangers of getting cybersecurity seriously wrong . Plaintext passwords, shared admin accounts, and insufficient logging rampant at mystery org, CISA says . CISA: CISA will use the findings of the findings to warn of the dangers to getting cybersecurity wrong .……… The findings are based on
-• Florida jury throws huge fine at Tesla in Autopilot crash
-  A Florida jury found Tesla partially responsible for the death of one person and causing serious injuries to another in a crash where the driver was using the company's much-touted Autopilot system . Plaintiffs argued that the company massively oversold the assisted-driving capabilities of its cars . The jury also found that the driver of the Tesla Model X was driving with the system's Autop
+• German phone repair biz collapses following 2023 ransomware attack
+  The founder of a German mobile phone repair and insurance biz has begun insolvency proceedings for some operations in his company . He has struggled financially following a costly ransomware attack in 2023 . The founder miffed over prosecutors holding onto its Bitcoin . He says he is 'disappointed' with prosecutors holding on to his Bitcoin . The German company has been struggling financially following the attack in
+• When hyperscalers can’t safeguard one nation’s data from another, dark clouds are ahead
+  The details of cloud data regionalization are rarely the stuff of great drama . When they’ve reached the level of an exe admitting to the Senate that a foreign power can help itself to that nations data, no matter where it lives, things get interesting . If it’s not on-prem, it's on the menu, and if it's not, it�
+• Millions of age checks performed as UK Online Safey Act gets rolling
+  An additional five million age checks are being made daily as UK-based internet users seek to access age-restricted sites following the implementation of the Online Safety Act . No personal data stored 'unless absolutely necessary' according to the UK government . But it's OK, claims Brit government, no personal data will be stored unless absolutely necessary . The UK government has reported that an additional 5 million age
+• Legendary OpenPrinting architect looking for new role
+  Till Kamppeter, the lead developer of the OpenPrinting subsystem for Linux, has been laid off by Canonical after 19 years . Canonical lays off one of its old hands – a longstanding FOSS developer – after nearly two decades . The lead developer was laid off after nearly 20 years at the company's headquarters in New York City, New York, where he worked for nearly
+• Tech bro denied dev's hard-earned bonus for bug that overcharged a little old lady
+  Who, Me? revisits readers' worst moments at work, and celebrates your ability to rebound and reinvent in their wake . Startups aren't good at testing software, or respecting contracts, says The Register . Read out your worst moments of work and how you can get back on the saddle with a new column this week . Back to the page you came from, please submit your best
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• Coxiella burnetii and HIV infection in people experiencing homelessness
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Evidence based consensus statements for digital tools to address youth mental health literacy
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Digital health governance in China by a whole-of-society approach
@@ -57,8 +59,6 @@ No updates.
 • Impact of COVID-19 vaccination coverage on global disability burden of Guillain-Barré syndrome
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Association between post-stroke depressiveness and the utilization of healthcare services three months after the stroke
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Carbon emissions from the increasing use of inhaled corticosteroid-LABA medications: a primary care used case from Singapore
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
