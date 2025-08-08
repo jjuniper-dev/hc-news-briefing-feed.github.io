@@ -1,6 +1,6 @@
-✅ Morning News Briefing – August 07, 2025 10:50
+✅ Morning News Briefing – August 08, 2025 10:50
 
-📅 Date: 2025-08-07 10:50
+📅 Date: 2025-08-08 10:50
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
@@ -8,10 +8,10 @@
 🧾 Weather
 • No watches or warnings in effect, Pembroke
   No watches or warnings in effect. No warnings or watches or watches in effect . Watch or warnings are no longer in effect in the U.S. No watches, warnings are in effect for the rest of the day . No watches and warnings are still in effect, but no watches are in place for the day's events . The weather is not expected to be affected by the weather .
-• Current Conditions:  11.6°C
-  Temperature: 11.6&deg;C Pressure / Tendency: 102.8 kPa steady Humidity: 98 % Dewpoint:  11.3&deg:C Wind:  calm km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Thursday 7 August 2025 . Weather forecast: 10,000 years from Pem
-• Thursday: Chance of showers. High 27. POP 70%
-  Sunny this morning then a mix of sun and cloud with 70 percent chance of showers this afternoon . Risk of a thunderstorm this afternoon. Risk of thunderstorm . High 27. Humidex 33. UV index 8 or very high. Wind becoming south 20 km/h late this afternoon; UV index of very high or very low . Rainy conditions will be felt throughout the day .
+• Current Conditions:  14.2°C
+  Temperature: 14.2&deg;C Pressure / Tendency: 102.2 kPa rising Humidity: 94 % Humidity : 94 % Dewpoint: 13.2/deg; C Wind: SE 5 km/h Air Quality Health Index: n/a Observed at: Pembroke 6:00 AM EDT Friday 8 August 2025 Temperature: . Temperature:
+• Friday: Chance of showers. High 29. POP 40%
+  Increasing cloudiness late this morning then 40 percent chance of showers this afternoon . Risk of a thunderstorm this afternoon. Sunny. High 29. Humidex 34. UV index 8 or very high. Chance of thunderstorm today afternoon. Risk of stormy weather this afternoon, high risk of wind gusts of thunderstorms. High risk of rain, high wind gust of wind chill .
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Congress looks to ease veterans' use of health care outside the VA
-  It can be difficult for veterans to use their health benefits for care outside the federal system . Opponents are wary funds being "siphoned" away from the VA . A bill in Congress could ease that, but opponents are wary of it being taken away from VA funds . The bill is expected to be voted into law by the end of the year . It could be the first time
-• It started with friends at home. Now Dungeons & Dragons is in its stadium era.
-  In the past decade or so, actors and comedians have adopted D&amp;D as a performance medium . Podcasts and web series have expanded into stadium tours – and fueled growing interest in the game more broadly . Dimension 20's sold-out Madison Square Garden show in January of 2025 will take place in New York City, New York, New Jersey, at 8pm on January 26
-• The NFL banned smelling salts. Here's why
-  The NFL has banned the use of smelling salts during games, citing an FDA warning concerning the safety of the substance . Here's what experts say about the effects and the risks of using smelling salts in the NFL . The FDA has issued a warning that the substance could be dangerous to use during games . The NFL says it will not use smelling salts at all games in the U.S.
-• Trump cuts threaten access to birth control for millions of women
-  Birth control is routine for many Americans and polls show it's popular across party lines . Now, the Trump administration is withholding funds that provide contraception for low income people . Polls show that birth control is a popular issue across party-line lines, but polls show that it's not a partisan issue . Birth control has been a problem for some in the U.S. for years .
-• Video shows Department of Justice official urging Jan. 6 rioters to 'kill' cops
-  The Department of Justice hired a former defendant who was caught on tape urging rioters to "kill" police . The department calls him a "valued member" of the administration . The former defendant is a former Jan. 6 defendant who has been charged with inciting rioting in New York City, New Jersey, police officers to kill them . He was arrested in the wake of the Jan.
+• Teen heartthrobs named Bobby were everywhere in the '60s — which was fine by me
+  NPR critic Bob Mondello looks back to an era when everyone seemed to share his name . Bobbys were inescapable in music in the '50s and '60s: Bobby Sherman, Bobby Rydell, Bobby Darin and more . NPR critic looks back at a time when everyone shared the name of a Bobby Bobby Bobby . Bobby's name was inextricable
+• Trump administration cuts McGruff the Crime Dog's fentanyl campaign
+  The National Crime Prevention Council is questioning federal cuts to McGruff the Crime Dog's campaign to sniff out fake pills . The group says McGruff's work that started in 1980 isn't over . McGruff started sniffing pills in 1980 and has sniffed out fake drugs since then . The council says the dog's work hasn't been cut short and that McGruff won't be cut .
+• Over what does the Trump admin want to unleash 'dominance'? Find out in the quiz
+  Plus: physical fitness, Confederate statues, robot overlords and weird zoo requests . Plus: Plus: We'll find out if you want to go to the zoo to check out your zoo needs . Plus, we'll also find out what the zoo needs to do to get ready for a zoo visit to see if you need a zoo in order to get your zoo ready for the zoo .
+• Las Vegas sees drop in tourism, hinting at broader economic woes facing the U.S.
+  What happens in Vegas matters nationally because it often reflects broader trends on consumer confidence and the overall health of the U.S. economy . Economists say, what happens in Las Vegas matters matters nationally . The Las Vegas economy is a key indicator of the nation's overall economic strength, economists say . The Vegas economy has been hit hard by a series of high-profile incidents in recent years
+• Meet the judge hearing Harvard's lawsuits against the Trump administration
+  U.S. District Judge Allison Burroughs is presiding over two Harvard cases challenging Trump's moves to cut federal funding from the university and to ban it from enrolling international students . Harvard is being sued by the federal government in the wake of the president's decision to defund the university's ability to enroll international students in the United States . The case is being heard by the U.
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• The plan to make all networks optical is about to take two big steps forward
-  'IOWN' backers think it can replace the PCI bus, reinvent servers, and rewire motherboards . Japanese tech giant NTT revealed two impressive feats of high-speed networking in December 2024 . Backers think it could replace the . PCI bus and reinvent servers . 'I OWN' backers say it can . reinvent servers and reinvent . servers, rewire . motherboards, and
-• Microsoft eventually realized the world isn't just the Northern Hemisphere
-  Veteran engineer explains the fall of 'Fall' in Windows 10 release . Microsoft ditched its increasingly twee naming conventions for Windows 10 releases in favor of the blander H1 and H2 . Veteran engineer Raymond Chen has explained why the megacorp ditched the naming convention for the release of Windows 10 . Chen: Windows 10 has a new identity system for the next generation of software
-• GitHub CEO: Future devs will not code, they will manage AI
-  GitHub CEO Thomas Dohmke has stated in a personal blog that the most advanced developers have "moved from writing code to architecting and verifying the implementation work that is carried out by AI agents" Meanwhile, users complain the code shack is getting slower thanks to React React . GitHub CEO: Developers have moved to "architectitecture and verifying" the implementation of AI agents in the
-• Amnesty slams Elon Musk's X for 'central role' in fueling 2024 UK riots
-  Human rights org calls for greater accountability and stronger enforcement of Online Safety Act . Amnesty International claims Elon Musk's X platform "played a central role" in pushing the misinformation that stoked racially charged violence following last year's Southport murders . The Southport murder was the first racially charged murder in Southport, Florida, last year . Human rights group says Elon Musk played a "central role"
-• Real estate agents use the power of AI to command plumbing, layout to disappear
-  Estate agents are known for stretching the truth in pursuit of a sale, but the generative AI boom appears to have thrown things into overdrive – providing an easy way to present images of properties which simply don't reflect reality . "Some original features," which occasionally turn out to be asbestos. Would suit professional who wants to read after dark. Lightsockets lovingly hooked up to power supply
+• UK secretly allows facial recognition scans of passport, immigration databases
+  Campaigners brand Home Office’s lack of transparency as ‘astonishing’ and ‘dangerous’ Privacy groups report a surge in UK police facial recognition scans of databases . databases secretly stocked with passport photos lacking parliamentary oversight .………...……and the Home Office has been accused of being too secretive about its use of facial recognition technology to spy on criminals
+• Sopra Steria bags £115 million legacy extension from UK pensions department after delays to replacement ERP project
+  The UK's pensions and social security department has modified a 12-year-old contract with Sopra Steria . It tacked on more than £100 million to allow it to run legacy systems for another three years . New SaaS system awaits a 'fully costed and deliverable integrated plan' before it can support 280,000 employees . The new system will need a '
+• UK proxy traffic surges as users consider VPN alternatives amid Online Safety Act
+  Many users are eyeing proxies as a potential alternative to the technology . Decodo: It's 'more than a temporary trend' Decodo claims. It's more than a 'temporary trend,' Decodo says. It’s 'a potential alternative' to VPN usage in the UK, Decodo said. Decodo also said it's a 'potential alternative' for the
+• After 30 years PHP still evolving: Team adds pipe operator, considers generics
+  The PHP team is considering adding a partial implementation of generics to the language . A pipe operator will be in the forthcoming 8.5 release, and has formally adopted the FrankenPHP app server into the PHP Foundation . Modern language features and high performance make PHP worth another look at the language, especially in the upcoming 8.4 release . The team also confirmed that a pipe operator is
+• Behold the wood-block wonder of the Kilopixel display
+  We're going out on a limb here... why not branch out from things like retina displays and get a little more fine grained? Feature features include a wood-flipping robot that looks like a wood flipper . We're happy to reveal our latest version of Kilopixel, the latest in a series of high-resolution photos and videos from around the world . We'll feature
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• Hemoglobin and mean platelet volume abnormalities in children exposed to heavy metals and metalloids in a pilot biomonitoring study
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Straightlining prevalence across domains of social media use and impact on internal consistency and mental health associations in the LifeOnSoMe study
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Trends in fetal autopsy and placental histopathology following stillbirth, United States, 2014–2023
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Evaluation of the quality and reliability of Chinese content about orthognathic surgery on BiliBili and TikTok: a cross-sectional study
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Explainable illicit drug abuse prediction using hematological differences
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• A cross-national analysis of childhood predictors of physical pain
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• The real problems with America's health
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Assessing induced abortion underreporting in restrictive settings using prospective morbidity surveys from Kenya, Liberia, and Sierra Leone
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,200 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• GPT-5 is here. Now what?
+  At long last, OpenAI has released GPT-5. The new system abandons the distinction between OpenAI’s flagship models and its o series of reasoning models, automatically routing user queries to a fast nonreasoning model or a slower reasoning version. It is now available to everyone through the ChatGPT web interface—though nonpaying users may need to wait a few days to gain full access to the new capabilities.&nbsp;
+
+
+
+It’s tempting to compare GPT-5 with its explicit predecessor, GPT-4, but the more illuminating juxtaposition is with o1, OpenAI’s first reasoning model, which was released last year. In contrast to GPT-5’s broad release, o1 was initially available only to Plus and Team subscribers. Those users got access to a completely new kind of language model—one that would “reason” through its answers by generating additional text before providing a final response, enabling it to solve much more challenging problems than its nonreasoning counterparts.
+
+
+
+
+
+Whereas o1 was a major technological advancement, GPT-5 is, above all else, a refined product. During a press briefing, Sam Altman compared GPT-5 to Apple’s Retina displays, and it’s an apt analogy, though perhaps not in the way that he intended. Much like an unprecedentedly crisp screen, GPT-5 will furnish a more pleasant and seamless user experience. That’s not nothing, but it falls far short of the transformative AI future that Altman has spent much of the past year hyping. In the briefing, Altman called GPT-5 “a significant step along the path to AGI,” or artificial general intelligence, and maybe he’s right—but if so, it’s a very small step.
+
+
+
+Take the demo of the model’s abilities that OpenAI showed to MIT Technology Review in advance of its release. Yann Dubois, a post-training lead at OpenAI, asked GPT-5 to design a web application that would help his partner learn French so that she could communicate more easily with his family. The model did an admirable job of following his instructions and created an appealing, user-friendly app. But when I gave GPT-4o an almost identical prompt, it produced an app with exactly the same functionality. The only difference is that it wasn’t as aesthetically pleasing.
+
+
+
+Some of the other user-experience improvements are more substantial. Having the model rather than the user choose whether to apply reasoning to each query removes a major pain point, especially for users who don’t follow LLM advancements closely.&nbsp;
+
+
+
+And, according to Altman, GPT-5 reasons much faster than the o-series models. The fact that OpenAI is releasing it to nonpaying users suggests that it’s also less expensive for the company to run. That’s a big deal: Running powerful models cheaply and quickly is a tough problem, and solving it is key to reducing AI’s environmental impact. 
+
+
+
+OpenAI has also taken steps to mitigate hallucinations, which have been a persistent headache. OpenAI’s evaluations suggest that GPT-5 models are substantially less likely to make incorrect claims than their predecessor models, o3 and GPT-4o. If that advancement holds up to scrutiny, it could help pave the way for more reliable and trustworthy agents. “Hallucination can cause real safety and security issues,” says Dawn Song, a professor of computer science at UC Berkeley. For example, an agent that hallucinates software packages could download malicious code to a user’s device.
+
+
+
+GPT-5 has achieved the state of the art on several benchmarks, including a test of agentic abilities and the coding evaluations SWE-Bench and Aider Polyglot. But according to Clémentine Fourrier, an AI researcher at the company HuggingFace, those evaluations are nearing saturation, which means that current models have achieved close to maximal performance.&nbsp;
+
+
+
+“It’s basically like looking at the performance of a high schooler on middle-grade problems,” she says. “If the high schooler fails, it tells you something, but if it succeeds, it doesn’t tell you a lot.” Fourrier said she would be impressed if the system achieved a score of 80% or 85% on SWE-Bench—but it only managed a 74.9%.&nbsp;
+
+
+
+Ultimately, the headline message from OpenAI is that GPT-5 feels better to use. “The vibes of this model are really good, and I think that people are really going to feel that, especially average people who haven&#8217;t been spending their time thinking about models,” said Nick Turley, the head of ChatGPT.
+
+
+
+Vibes alone, however, won’t bring about the automated future that Altman has promised. Reasoning felt like a major step forward on the way to AGI. We’re still waiting for the next one.
+• The Download: how AI is improving itself, and hidden greenhouse gases
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+Five ways that AI is learning to improve itself
+
+
+
+Last week, Mark Zuckerberg declared that Meta aims to achieve smarter-than-human AI. He seems to have a recipe for achieving that goal, and the first ingredient is human talent: Zuckerberg has reportedly tried to lure top researchers to Meta Superintelligence Labs with nine-figure offers.&nbsp;
+
+
+
+The second ingredient is AI itself.&nbsp; Zuckerberg recently said on an earnings call that Meta will focus on building self-improving AI—systems that can bootstrap themselves to higher and higher levels of performance. He hopes to tap into a very real trend. Here are five ways that AI is already making itself better.
+
+
+
+—Grace Huckins
+
+
+
+
+
+
+
+The greenhouse gases we&#8217;re not accounting for
+
+
+
+Back in 2021, climate scientists noticed that levels of methane had soared in the atmosphere the previous year, rising at the fastest rate on record despite the global covid-19 lockdowns.
+
+
+
+Researchers eventually spotted a clear pattern: Methane emissions had increased sharply across the tropics, where wetlands were growing wetter and warmer.The findings offer one of the clearest cases so far where climate change itself is driving additional greenhouse-gas emissions from natural systems, triggering a feedback effect that threatens to produce more warming, more emissions, and on and on.&nbsp;
+
+
+
+There&#8217;s now a major endeavor underway to better track and understand what&#8217;s going on. Read our story about it.
+
+
+
+—James Temple
+
+
+
+This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 The Trump administration’s punishing new tariffs have come into effect And prices are already climbing. (NYT $)+ Economists fear the US economy is poised to shrink. (WP $)+ Sweeping tariffs could threaten the US manufacturing rebound. (MIT Technology Review)
+
+
+
+2 Sections of the US Constitution have been deleted onlinePassages about Congress’ powers and citizens’ unlawful detention have been scrubbed from the US government’s website. (TechCrunch)+ The Library of Congress blamed a coding error. (Ars Technica)
+
+
+
+3 China is fighting a mosquito-borne virusIt’s deploying drones to search for standing water where the insects lay eggs. (AP News)+ Chikungunya virus is rarely fatal, but can cause fever and joint pain. (CNN)+ Authorities are taking a leaf out of their covid-fighting playbooks. (NYT $)
+
+
+
+4 US federal agencies will have access to ChatGPT Enterprise For the grand sum of $1 a year. (Ars Technica)+ It won’t use workers’ data to train ChatGPT, apparently. (Bloomberg $)+ The news comes after major AI firms were greenlit as federal vendors. (Engadget)
+
+
+
+5 Chinese drug discovery startups are striking deals with Big PharmaWestern pharmaceutical giants are confident they can deliver. (Rest of World)+ An AI-driven “factory of drugs” claims to have hit a big milestone. (MIT Technology Review)
+
+
+
+6 Is it possible to build truly green AI data centers?The tech industry appears pretty hooked on fossil fuels. (FT $)+ We did the math on AI’s energy footprint. Here’s the story you haven’t heard. (MIT Technology Review)
+
+
+
+7 The US is increasingly reliant on private companies for weather dataExperts are wary about losing access to vital tools. (Undark)+ How US research cuts are threatening crucial climate data. (MIT Technology Review)
+
+
+
+8 Genetic factors could contribute to the risk of developing chronic fatigue syndromeIt’s the first robust evidence that genetics play a role. (New Scientist $)
+
+
+
+9 An experimental pill is showing weight-loss promiseObese participants in Eli Lilly’s trial lost more than 12% of their body weight. (Wired $)+ We’re learning more about what weight-loss drugs do to the body. (MIT Technology Review)
+
+
+
+10 Finding a job online is a nightmareSome companies are going back to basics to find the best recruits. (WSJ $)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“We didn’t vote for ChatGPT.”
+
+
+
+—Virginia Dignum, a professor of responsible artificial intelligence at Sweden’s Umeå University, criticizes the country’s prime minister, Ulf Kristersson for admitting he regularly consults AI tools, the Guardian reports.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+Why AI could eat quantum computing’s lunchTech companies have been funneling billions of dollars into quantum computers for years. The hope is that they’ll be a game changer for fields as diverse as finance, drug discovery, and logistics.But while the field struggles with the realities of tricky quantum hardware, another challenger is making headway in some of these most promising use cases. AI is now being applied to fundamental physics, chemistry, and materials science in a way that suggests quantum computing’s purported home turf might not be so safe after all. Read the full story.
+
+
+
+—Edd Gent
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
+
+
+
++ A super rare edition of The Hobbit has sold for a record-breaking amount at auction.+ How to find new music without relying on Spotify.+ The forthcoming Social Network sequel is rumored to be getting a Succession shakeup.+ If you own both a cat and a scanner, you know what you have to do.
 • The greenhouse gases we’re not accounting for
   In the spring of 2021, climate scientists were stumped.&nbsp;
 
@@ -444,185 +638,6 @@ A place for comfort, fun and distraction to brighten up your day. (Got any ideas
 
 
 + There are a lot of funny cat videos out there but honestly, this is top-drawer.+ Check out this adorable website where people share what they see in clouds.+ Babe you’re glowing! No seriously, you literally are. + I loved watching this woman from London’s East End wax lyrical about the dawn of TV.
-• OpenAI has finally released open-weight language models
-  OpenAI has finally released its first open-weight large language models since 2019’s GPT-2. These new “gpt-oss” models are available in two different sizes and score similarly to the company’s o3-mini and o4-mini models on several benchmarks. Unlike the models available through OpenAI’s web interface, these new open models can be freely downloaded, run, and even modified on laptops and other local devices.
-
-
-
-In the company’s many years without an open LLM release, some users have taken to referring to it with the pejorative “ClosedAI.” That sense of frustration had escalated in the past few months as these long-awaited models were delayed twice—first in June and then in July. With their release, however, OpenAI is reestablishing itself as a presence for users of open models.
-
-
-
-That’s particularly notable at a time when Meta, which had previously dominated the American open-model landscape with its Llama models, may be reorienting toward closed releases—and when Chinese open models, such as DeepSeek’s offerings, Kimi K2, and Alibaba’s Qwen series, are becoming more popular than their American competitors.
-
-
-
-
-
-“The vast majority of our [enterprise and startup] customers are already using a lot of open models,” said Casey Dvorak, a research program manager at OpenAI, in a media briefing about the model release. “Because there is no [competitive] open model from OpenAI, we wanted to plug that gap and actually allow them to use our technology across the board.”
-
-
-
-The new models come in two different sizes, the smaller of which can theoretically run on 16 GB of RAM—the minimum amount that Apple currently offers on its computers. The larger model requires a high-end laptop or specialized hardware.
-
-
-
-Open models have a few key use cases. Some organizations may want to customize models for their own purposes or save money by running models on their own equipment, though that equipment comes at a substantial upfront cost. Others—such hospitals, law firms, and governments—might need models that they can run locally for data security reasons.&nbsp;
-
-
-
-OpenAI has facilitated such activity by releasing its open models under a permissive Apache 2.0 license, which allows the models to be used for commercial purposes. Nathan Lambert, post-training lead at the Allen Institute for AI, says that this choice is commendable: Such licenses are typical for Chinese open-model releases, but Meta released its Llama models under a bespoke, more restrictive license. “It’s a very good thing for the open community,” he says.
-
-
-
-Researchers who study how LLMs work also need open models, so that they can examine and manipulate those models in detail. “In part, this is about reasserting OpenAI’s dominance in the research ecosystem,” says Peter Henderson, an assistant professor at Princeton University who has worked extensively with open models. If researchers do adopt gpt-oss as new workhorses, OpenAI could see some concrete benefits, Henderson says—it might adopt innovations discovered by other researchers into its own model ecosystem.
-
-
-
-More broadly, Lambert says, releasing an open model now could help OpenAI reestablish its status in an increasingly crowded AI environment. “It kind of goes back to years ago, where they were seen as the AI company,” he says. Users who want to use open models will now have the option to meet all their needs with OpenAI products, rather than turning to Meta’s Llama or Alibaba’s Qwen when they need to run something locally.
-
-
-
-The rise of Chinese open models like Qwen over the past year may have been a particularly salient factor in OpenAI’s calculus. An employee from OpenAI emphasized at the media briefing that the company doesn’t see these open models as a response to actions taken by any other AI company, but OpenAI is clearly attuned to the geopolitical implications of China’s open-model dominance. “Broad access to these capable‬‭ open-weights models created in the US helps expand democratic AI rails,” the company wrote in a blog post announcing the models’ release.&nbsp;
-
-
-
-Since DeepSeek exploded onto the AI scene at the start of 2025, observers have noted that Chinese models often refuse to speak about topics that the Chinese Communist Party has deemed verboten, such as Tiananmen Square. Such observations—as well as longer-term risks, like the possibility that agentic models could purposefully write vulnerable code—have made some AI experts concerned about the growing adoption of Chinese models. “Open models are a form of soft power,” Henderson says.
-
-
-
-Lambert released a report on Monday documenting how Chinese models are overtaking American offerings like Llama and advocating for a renewed commitment to domestic open models. Several prominent AI researchers and entrepreneurs, such as HuggingFace CEO Clement Delangue, Stanford’s Percy Liang, and former OpenAI researcher Miles Brundage, have signed on.
-
-
-
-The Trump administration, too, has emphasized development of open models in its AI Action Plan. With both this model release and previous statements, OpenAI is aligning itself with that stance. “In their filings about the action plan, [OpenAI] pretty clearly indicated that they see US–China as a key issue and want to position themselves as very important to the US system,” says Rishi Bommasani, a senior research scholar at the Stanford Institute for Human-Centered Artificial Intelligence.&nbsp;
-
-
-
-And OpenAI may see concrete political advantages from aligning with the administration’s AI priorities, Lambert says. As the company continues to build out its extensive computational infrastructure, it will need political support and approvals, and sympathetic leadership could go a long way.
-• The Download: AI agent infrastructure, and OpenAI’s ambitions
-  This is today&#8217;s edition of&nbsp;The Download,&nbsp;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
-
-
-
-These protocols will help AI agents navigate our messy lives
-
-
-
-A growing number of companies are launching AI agents that can do things on your behalf—actions like sending an email, making a document, or editing a database. Initial reviews for these agents have been mixed at best, though, because they struggle to interact with all the different components of our digital lives.
-
-
-
-Anthropic and Google are among the companies and groups working to fix that. Over the past year, they have both introduced protocols that try to define how AI agents should interact with each other and the world around them. If they work as planned, they could give us a crucial part of the infrastructure we need for agents to be useful.&nbsp;Read our&nbsp;story to learn more.&nbsp;
-
-
-
-—Peter Hall
-
-
-
-
-
-
-
-A glimpse into OpenAI’s largest ambitions
-
-
-
-—James O’Donnell
-
-
-
-OpenAI has given itself a dual mandate: on the one hand, it’s a tech giant rooted in products, including of course ChatGPT, which people around the world reportedly send 2.5 billion messages to each day. But its original mission is as a research lab that will not only create “artificial general intelligence” but ensure that it benefits all of humanity.&nbsp;
-
-
-
-My colleague Will Douglas Heaven recently sat down for an exclusive conversation with the two figures at OpenAI most responsible for the latter ambitions. The&nbsp;whole story is worth reading&nbsp;for all it reveals—about how OpenAI thinks about the safety of its products, what AGI actually means, and more—but here’s one thing that stood out to me.
-
-
-
-This story is from The Algorithm, our weekly newsletter all about the latest goings-on in AI.&nbsp;Sign up&nbsp;to receive it in your inbox every Monday.
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 OpenAI is adding mental health guardrails to ChatGPTIt’s set to give less direct advice, and encourage users to take breaks from lengthy chats. (NBC)+&nbsp;What happens when doctors fail to spot AI’s mistakes?&nbsp;(The Verge)+&nbsp;OpenAI has released its first research into how using ChatGPT affects people’s emotional well-being. (MIT Technology Review)2 The US wants to build a nuclear reactor on the moonAnd it hopes to do that before Russia and China, who are planning to do exactly the same. (Politico)+&nbsp;NASA’s latest mission to the moon just failed.&nbsp;(Engadget)+&nbsp;Nokia is putting the first cellular network on the moon. (MIT Technology Review)3 How to live forever (or at least get rich trying)&nbsp;Love them or hate them, the people behind the explosion in longevity research are a fascinating bunch. (New Yorker $)+&nbsp;Longevity clinics around the world are selling unproven treatments.&nbsp;(MIT Technology Review)4 Welcome to Silicon Valley’s ‘hard tech’ eraGoodbye, consumer software. Hello, massive military contracts. (NYT&nbsp;$)+&nbsp;Phase two of military AI has arrived.&nbsp;(MIT Technology Review)5 There’s a big problem with the Gulf’s trillion-dollar AI dreamBuilding data centers in a region that already has water scarcity issues seems&#8230;unwise. (Rest of Water)+&nbsp;There’s a data center boom in the US desert too.&nbsp;(MIT Technology Review)+&nbsp;Google has promised to scale back its energy usage during certain times to reduce stress on the grid.&nbsp;(Quartz&nbsp;$)6 Tesla’s board awarded about $30 billion of shares to Elon Musk“Retaining Elon is more important than ever before,” they wrote in a letter to shareholders yesterday. (FT&nbsp;$)+&nbsp;Tech CEOs pay packets are reaching stratospheric new records.&nbsp;(WSJ&nbsp;$)7 What happens if you respond to those scam job texts?You get exploited, obviously—but you’d be surprised just how weird it can get along the way. (Slate)
-
-
-
-8 Why there’s so much uproar over Vogue’s AI-generated adIt’s the latest flashpoint in the war over when AI should (and shouldn’t) be used. (TechCrunch)
-
-
-
-9 Earth’s core seems to be up and leaking out of Earth’s surface&nbsp;It’s a finding that’s forcing geoscientists to rethink some long-held assumptions. (Quanta&nbsp;$)+&nbsp;How a volcanic eruption turned a human brain into glass.&nbsp;(MIT Technology Review)10 Could lasers help us see inside people’s heads?It seems possible, but big hurdles remain to this new method being adopted in clinical settings. (IEEE Spectrum)
-
-
-
-Quote of the day
-
-
-
- &#8220;Hate it! Don&#8217;t want anything to do with it.&#8221;
-
-
-
-—Weezy Simes, a 27-year-old florist, sums up her feelings about AI to Business Insider.
-
-
-
-
-
-
-
-One more thing
-
-
-
-ANDREA D&#8217;AQUINO
-
-
-
-
-What happened to the microfinance organization Kiva?
-
-
-
-Since it was founded in 2005, the San Francisco-based nonprofit Kiva has helped everyday people make microloans to borrowers around the world. It connects lenders in richer communities to fund all sorts of entrepreneurs, from bakers in Mexico to farmers in Albania. Its overarching aim is helping poor people help themselves.
-
-
-
-But back in August 2021, Kiva lenders started to notice that information that felt essential in deciding who to lend to was suddenly harder to find. Now, lenders are worried that the organization now seems more focused on how to make money than how to create change.&nbsp;Read the full story.
-
-
-
-—Mara Kardas-Nelson
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+ I want this guy to draw my portrait. + Highly recommend making these lemongrass chicken lettuce wraps. So tasty and easy!+ This encyclopedia teaches you about ancient gods and forgotten deities from around the world.+ Some of the architecture in Iran looks breathtakingly beautiful.
 
 🔒 Cybersecurity & Privacy
 • Who Got Arrested in the Raid on the XSS Crime Forum?
@@ -678,6 +693,1356 @@ They are not looking for a needle in a haystack. They simply sifted the haystack
 No updates.
 
 🏢 Corporate AI
+• Reimagining healthcare delivery and public health with AI
+  In November 2022, OpenAI’s ChatGPT kick-started a new era in AI. This was followed less than a half year later by the release of GPT-4. In the months leading up to GPT-4’s public release, Peter Lee, president of Microsoft Research, cowrote a book full of optimism for the potential of advanced AI models to transform the world of healthcare. What has happened since? In this special podcast series, The AI Revolution in Medicine, Revisited, Lee revisits the book, exploring how patients, providers, and other medical professionals are experiencing and using generative AI today while examining what he and his coauthors got right—and what they didn’t foresee.&nbsp;
+
+
+
+In this episode, healthcare leaders Dr. Umair Shah (opens in new tab) and Dr. Gianrico Farrugia (opens in new tab) join Lee to discuss AI’s impact on the business of public health and healthcare delivery, the healthcare-research connection, and the patient experience. Shah, a healthcare strategic consultant and former state secretary of health, explores the role of public health in the larger ecosystem and why it might not get the attention it needs or deserves and how AI could be leveraged to assist in data analysis, to help better engage with people on matters of public health, and to help narrow gaps between care delivery and public health responses during health emergencies. Farrugia, president and CEO of Mayo Clinic, traces AI’s path from predictive to generative and discusses how that progress has helped usher in a new healthcare architecture for Mayo Clinic and its partners, one powered by the goal of longer, healthier lives for patients, and how AI is also changing Mayo Clinic’s research and the education it provides, including the offering of masters and PhDs in AI and other emerging technologies.&nbsp;
+
+
+
+
+
+
+
+
+Learn more:
+
+
+
+
+Rickshaw Health (opens in new tab) (Shah)&nbsp;Homepage
+
+
+
+COVID-19 After-Action Report (opens in new tab) (Shah)&nbsp;Washington State Department of Health | March 2024
+
+
+
+Mayo Clinic Platform (opens in new tab) (Farrugia)&nbsp;Homepage
+
+
+
+Atlas: A Novel Pathology Foundation Model by Mayo Clinic, Charité, and Aignostics (opens in new tab) (Farrugia)&nbsp;Publication | January 2025
+
+
+
+MAIRA-2: Grounded Radiology Report Generation (Farrugia)Publication | June 2024
+
+
+
+The AI Revolution in Medicine: GPT-4 and Beyond&nbsp;Book | Peter Lee, Carey Goldberg, Isaac Kohane | April 2023&nbsp;
+
+
+
+
+
+
+
+
+
+
+	
+		
+			Subscribe to the Microsoft Research Podcast:		
+		
+							
+					
+						  
+						Apple Podcasts
+					
+				
+			
+							
+					
+						
+						Email
+					
+				
+			
+							
+					
+						
+						Android
+					
+				
+			
+							
+					
+						
+						Spotify
+					
+				
+			
+							
+					
+						
+						RSS Feed
+					
+				
+					
+	
+
+
+
+
+	
+		
+			
+				
+					
+
+Transcript&nbsp;
+
+
+
+[MUSIC] 
+
+
+
+[BOOK PASSAGE]&nbsp;
+
+
+
+PETER LEE: “In US healthcare, quality ratings are increasingly used to tie the improvement in patient health outcomes to the reimbursement rates that healthcare providers can receive. The ability of GPT-4 to understand these systems and give concrete advice … has a chance to make it easier for providers to achieve success in both dimensions.”&nbsp;
+
+
+
+[END OF BOOK PASSAGE]
+
+
+
+[THEME MUSIC]
+
+
+
+This is The AI Revolution in Medicine, Revisited. I’m your host, Peter Lee. 
+
+
+
+Shortly after OpenAI&#8217;s GPT-4 was publicly released, Carey Goldberg, Dr. Zak Kohane, and I published The AI Revolution in Medicine to help educate the world of healthcare and medical research about the transformative impact this new generative AI technology could have. But because we wrote the book when GPT-4 was still a secret, we had to speculate. Now, two years later, what did we get right, and what did we get wrong? 
+
+
+
+In this series, we’ll talk to clinicians, patients, hospital administrators, and others to understand the reality of AI in the field and where we go from here.
+
+
+
+				
+				
+					
+
+
+
+[THEME MUSIC FADES]&nbsp;
+
+
+
+The book passage I read at the top is from Chapter 7, “The Ultimate Paperwork Shredder.” 
+
+
+
+Public health officials and healthcare system leaders influence the well-being and health of people at the population level. They help shape people’s perceptions and responses to public health emergencies, as well as to chronic disease. They help determine the type, quality, and availability of treatment. All this is critical for maintaining good public health, as well as aligning better health and financial outcomes. That, of course, is the main goal of the concept of value-based care. AI can definitely have significant ramifications for achieving this.&nbsp;
+
+
+
+Joining us today to talk about how leaders in public health and healthcare systems are thinking about and acting on this new generation of AI is Dr. Umair Shah and Dr. Gianrico Farrugia.&nbsp;
+
+
+
+Dr. Umair Shah is a nationally recognized health leader and innovator. He led one of America’s top-rated pandemic responses as Washington State’s secretary of health, a position he held from 2020 to 2025. Umair previously directed Harris County Public Health in Texas, overseeing large-scale emergency response for the nation’s third-largest county, while building an emergency-care career spanning 20-plus years. He now advises organizations on health innovation and strategy as founder and principal of Rickshaw Health.&nbsp;
+
+
+
+Dr. Gianrico Farrugia is the president and CEO of Mayo Clinic, the world&#8217;s top-ranked hospital for seven consecutive years, and a pioneer in technology-forward, platform-based healthcare. Under his leadership, Mayo has built and deployed the Mayo Clinic Platform. The platform enables Mayo and its partners to gain practical insights from a comprehensive repository of longitudinal de-identified clinical data spanning four continents. Gianrico is also a Mayo Clinic physician and professor and an author.&nbsp;
+
+
+
+Umair and Gianrico are CEO-level leaders representing some of the best of the worlds of public health, healthcare delivery, medical research, and medical education.&nbsp;
+
+
+
+[TRANSITION MUSIC]&nbsp;
+
+
+
+Here is my interview with Dr. Umair Shah:&nbsp;
+
+
+
+LEE: Umair, it&#8217;s really great to have you here.&nbsp;
+
+
+
+UMAIR SHAH: Peter, it&#8217;s my pleasure. I&#8217;ve been looking forward to this conversation, and I hope you are well today.&nbsp;
+
+
+
+LEE: [LAUGHS] I am doing extremely well.
+
+
+
+So, you know, what I&#8217;d like to do in these conversations is first just to start, a little bit about you.
+
+
+
+SHAH: Sure.&nbsp;
+
+
+
+LEE: You served actually during a really tumultuous time as the secretary of health in the State of Washington. But you recently stepped away from that and you started your own firm, Rickshaw Health. So can we start there? What&#8217;s that all about?&nbsp;
+
+
+
+SHAH: Yeah, no, absolutely. First of all, you know, I would say that the transition from Texas to Washington could not have been more geopolitically different, [LAUGHTER] as you can imagine.
+
+
+
+LEE: Sure.&nbsp;
+
+
+
+SHAH: You know, if you like the red-blue paradigms, you couldn’t be more, you know, red and you couldn’t be more blue, I think.&nbsp;
+
+
+
+LEE: Yes.&nbsp;
+
+
+
+SHAH: But what happened is, back in November this past year, as I saw some of the playout of continuation of this red-blue dynamic, I made the decision to step down. And Jan. 15, I stepped down, as you mentioned, and I spent some time really thinking about what I wanted to do next and was looking at a number of opportunities.&nbsp;
+
+
+
+And then a moment in time, there were some things happening in our—my wife and our family&#8217;s personal lives that sort of made me think that I wanted to focus a little bit more on family. And I felt the universe was saying, “Stay still.” [LAUGHTER]&nbsp;
+
+
+
+And I launched Rickshaw Health (opens in new tab) and the notion that, as you know, Peter, rickshaws are oftentimes known across the globe as these modes of transport that reliably get you through ever-changing streets and traffic patterns and all sorts of ecosystems that are evolving at all times. And they get you to the other side and they get you also with a sense of exhilaration. Like when I took my boys to Karachi, and we were—you know, they jumped in a rickshaw and the, you know, open air [LAUGHTER] and they felt this incredible excitement.&nbsp;
+
+
+
+And so Rickshaw Health was speaking to the three wheels of a rickshaw that symbolize the three children that we have and the real notion of how do we bring balance and agility and performance to the forefront and then move in an ever—just like streets—ever-changing healthcare environment that is constantly evolving, and we too must evolve with it. And that&#8217;s what Rickshaw Health is all about, is taking clients to that next level of trying to navigate, especially at this time, a very, very different landscape than even several months ago. So, excited about it.&nbsp;
+
+
+
+LEE: Yeah, absolutely. You know, you made this transition from Texas to the State of Washington. And for people who listen to this podcast and don&#8217;t know, the particular part of Texas where you were—Harris County—is really big, very, very important in that state. That&#8217;s just not, you know, the normal county in Texas.&nbsp;
+
+
+
+SHAH: Yeah. [LAUGHS]&nbsp;
+
+
+
+LEE: It&#8217;s actually … it&#8217;s actually known as quite a forward-looking place, technologically.&nbsp;
+
+
+
+SHAH: That’s right.&nbsp;
+
+
+
+LEE: So what was, you know, the transition like, then, going from, you know, possibly the most, sort of, maybe advanced county in the State of Texas, a large place, to the State of Washington?&nbsp;
+
+
+
+SHAH: Yeah, you know, Harris County is the third-largest county in the US. So it had close to five million. And now it&#8217;s probably … it&#8217;s exceeded the five million people, and a very diverse, very forward-looking, as you mentioned, technologically very, very much looking at what&#8217;s the next horizon, and home to Texas Medical Center [TMC] as well, which is …&nbsp;
+
+
+
+LEE: Right.&nbsp;
+
+
+
+SHAH: … the largest medical center. Of course, it had to be Texas. So it can’t be the largest in the state or the country [LAUGHTER]—the largest in the world, right.&nbsp;
+
+
+
+And TMC also had a number of different initiatives related to startups and venture capital and VC. And so they had launched something called TMCX. And that was a real opportunity—and I know you&#8217;re familiar with it—an opportunity to really look at how do you incubate all sorts of different innovations and bringing private sector, public sector as well as healthcare delivery alongside these startups to really look at the landscape.&nbsp;
+
+
+
+And so when I left Houston and came to Washington, I realized that obviously, I was in the backyard … I mean, you know, you all at Microsoft Research and the work that you&#8217;re all doing is part of an ecosystem of advanced innovation that&#8217;s occurring in the Pacific Northwest that, you know, when we see all the players that are here, all the, you know, ones that do so many different things, but they&#8217;re doing them with an eye towards technology, advancements, and adoptions, it&#8217;s been quite amazing.&nbsp;
+
+
+
+When I made that transition, it was really about, you know, the vaccines and what was happening with, you know, with COVID and fighting the—you know, remember, this was the state that had the first case in the continental United States, had the first outbreak, and the first [lab-confirmed] death. And fast-forward a few years later, we had the fifth-lowest death rate in the US. And that was because we all came together to do so much.
+
+
+
+LEE: Yeah, well maybe that gets us into a question that I ask a lot of our guests, which is, you know, and maybe let&#8217;s, since we&#8217;re on your time as the secretary of health in Washington State, [start] with that job. I ask, how would you explain to your mother what you do every day?&nbsp;
+
+
+
+SHAH: [LAUGHS] I laugh because that&#8217;s been such a fascinating conversation in public health because we have oftentimes been—it&#8217;s been really hard to describe what that is.&nbsp;
+
+
+
+LEE: Yeah.&nbsp;
+
+
+
+SHAH: And, you know, there are so many metaphors and, you know, analogies that we&#8217;ve used. I&#8217;ve always wondered why we do not have more television shows or sitcoms or dramas that are about the public health workforce or the work that we do in the field, because you have, you know, all sorts of healthcare delivery ones, right.&nbsp;
+
+
+
+LEE: Yup.&nbsp;
+
+
+
+SHAH: As a practicing physician for 20 years, I realized that people knew what doctors did; they knew what nurses did, right. They intimately touch the healthcare system.&nbsp;
+
+
+
+LEE: Yes.&nbsp;
+
+
+
+SHAH: They understood, you know, that an ambulance picks you up at your home or somewhere else, transports you … gets you to the emergency department. The emergency department, they do some things to you or within the four walls of that ER, and then you&#8217;re either admitted, sent home, and several days, weeks, whatever later, you get home if you&#8217;re admitted, and you start your, you know, post-hospital stay at home or your rehab or what have you. And that all is known to people.&nbsp;
+
+
+
+But when you ask your mother, your grandmother, or your, you know, your uncle, or your brother, your neighbor, your coworker about what is public health, they have a very quizzical look on their face of what that is.&nbsp;
+
+
+
+LEE: Right.&nbsp;
+
+
+
+SHAH: And so what I&#8217;ve …&nbsp;
+
+
+
+LEE: You know, just one thing I&#8217;ve learned is: it&#8217;s not just all the people you mentioned. Even healthcare professionals sometimes have that quizzical look.&nbsp;
+
+
+
+SHAH: Yeah, good point. That&#8217;s right. Good point. And a lot of it is because we don&#8217;t get exposed to it or trained in it. You know, we think about public health when we&#8217;re in our training. And, you know, I&#8217;m sure you had a very similar piece of this is that, you know, you see it as, oh, that&#8217;s the health department that takes care of, you know, STDs, or it takes care, you know, it does the immunizations, or, you know, maybe they do some water quality, or maybe they do mosquitoes [mosquito control], and things like that. But the reality is, we do all of those things and more.&nbsp;
+
+
+
+So my metaphor has been that we are the offensive line of a football team, and the healthcare delivery is the quarterback. So everybody focuses on, you know, from a few years back, everybody knows Tom Brady, right.&nbsp;
+
+
+
+LEE: Yeah. [LAUGHS]&nbsp;
+
+
+
+SHAH: He won the Super Bowls, everybody knows what … but if you asked people who was number 75 on the offensive line of the New England Patriots …&nbsp;
+
+
+
+LEE: Right.&nbsp;
+
+
+
+SHAH: … or name your favorite football team. And the answer would be: you would not be able to likely answer that question. You would know Tom Brady, the quarterback, and that&#8217;s healthcare delivery, the ER doc or the hospitalist or the nurse or the, you know, the medical assistant, or the people that are doing all the work in the field that are the ones that are more visible, but the invisible workforce of the offensive line, that&#8217;s who we don&#8217;t know. And yet these are the people that are blocking and sweating and doing all things to complement the work and make sure the quarterback is successful.&nbsp;
+
+
+
+And here&#8217;s where the metaphor breaks down, that when Tom Brady wins the Super Bowl, we continue to invest in the offensive line because we recognize the value of it and we want the quarterback to be successful the next season. But in public health or in society, we do the exact opposite.&nbsp;
+
+
+
+When tuberculosis rates come down, we say, well, you know what? We&#8217;ve solved the problem; we don&#8217;t need it anymore.&nbsp;
+
+
+
+LEE: Right.&nbsp;
+
+
+
+SHAH: Or you have another, you know, environmental issue that&#8217;s no longer there, you say, “We don&#8217;t need it anymore.” And we disinvest from public health or that offensive line. And then you start to see those rates go back up.&nbsp;
+
+
+
+And so my answer to Mom and Grandma and Dad and Grandpa is we are critical to your health because we touch you every single day. And so please invest in us.&nbsp;
+
+
+
+LEE: Yeah. And, you know, I think I&#8217;m going to want to get a little deeper on that in just a few minutes here, because, I think especially during the pandemic, that issue of not understanding the importance of that offensive lineman actually really came to the forefront.&nbsp;
+
+
+
+And so I&#8217;d like to get into that. But the, kind of, second, kind of, standard thing I&#8217;ve been probing with people is still just focusing on you and your background is what touchpoints or experiences you&#8217;ve had with AI in the past.&nbsp;
+
+
+
+And not everyone has. Like, it maybe isn&#8217;t too surprising that doctors and healthcare developers, tech developers, have lots of contact with AI, but would the top dog, you know, at a public health agency ever have had significant contact with AI? What about you?&nbsp;
+
+
+
+SHAH: You know, it&#8217;s interesting. Several years ago, I was in the audience with the [then] FEMA director, [Rich Serino], who just did such an incredible job. And I remember he made this comment at that time. And, Peter, this may have been like … I don’t know—I&#8217;m dating myself—10, 15, maybe even 20 years ago, and he said, “Everybody in the audience, there&#8217;s this, you know, app called Twitter.” And, you know, “How many people in the audience have ever sent a tweet or know about this?” And I don&#8217;t know, maybe—it was a public health audience—maybe about 15% of the people raised their hands.&nbsp;
+
+
+
+He said, “I challenge you to right now, pick up your phone, download the app, and go ahead and send a tweet right now.”&nbsp;
+
+
+
+And I remember I sent my first tweet at that time. And it was so thought provoking for me was that he was saying you need to be engaged in social media, but the other 85% of the audience had not even done that or had …&nbsp;
+
+
+
+LEE: Right.&nbsp;
+
+
+
+SHAH: … even understood the importance of social media at that time. Or maybe they understood, but they had restrictions on how to utilize, right.&nbsp;
+
+
+
+So that has stayed with me because that&#8217;s very much about this revolution of AI that I know that public health and population health practitioners like myself who have been in the trenches and understand the importance of it, they really believe in the importance or think they know the importance.&nbsp;
+
+
+
+But NACCHO, the National Association of County and City Health Officials, had done a survey of local health agencies. And about two-thirds, if not three-quarters, of local health agencies reported that they had an AI capacity that was low or lower than ideal.&nbsp;
+
+
+
+LEE: Hmm. Yeah. Yeah.&nbsp;
+
+
+
+SHAH: And that is very much where I come from. When I was in public sector and at the state health agency, our transformation was very much about how do we advance the work, and how do we utilize this in a population health standpoint?&nbsp;
+
+
+
+And I was fortunate to have a chief of innovation at Washington State Department of Health, Les Becker, who understood the value of AI. And as you know, we did also hold a AI science convening that …&nbsp;
+
+
+
+LEE: Yep. Yeah.&nbsp;
+
+
+
+SHAH: … your team was there with University of Washington. And that was really an opportunity for us to say that AI is here. It&#8217;s not tomorrow. It&#8217;s not next year. It&#8217;s not the future. It&#8217;s already here. We need to embrace it.&nbsp;
+
+
+
+But here&#8217;s the problem, Peter, far too few people in our field understand just how to embrace it.&nbsp;
+
+
+
+LEE: Right.&nbsp;
+
+
+
+SHAH: So I have become a markedly more champion of AI. One, since I read your book. So I think there’s that. So thank you for writing it. But two, since I really recognize that when I became a solo or a primary-few practitioner in my own realm, I needed to force-amplify the work that I was doing.&nbsp;
+
+
+
+And when I look back, and I continue to stay in touch with my colleagues in the field of public health, what they&#8217;re also struggling with is that you have an epidemiologist who&#8217;s got a mound of information—data, statistics, etc.—that they are going through, and they&#8217;re doing everything in their power to get that processed and analyzed.&nbsp;
+
+
+
+LEE: Yep. Yep.&nbsp;
+
+
+
+SHAH: AI can take 80% of that and do it. And that epidemiologist can now turn to more of an overseer and a gatekeeper and to really recognize the patterns …&nbsp;
+
+
+
+LEE: Yep.&nbsp;
+
+
+
+SHAH: … and let AI be able to do the, you know, grunt work. And similarly, as you know, measles—with the outbreaks that we&#8217;ve seen, especially in Texas but elsewhere—you&#8217;ve got an opportunity where our communications people who are saying, “Look, we&#8217;re about to have, or we know we&#8217;re about to announce that there&#8217;s a measles outbreak in, you know, in our community or our state or what have you—our region.”&nbsp;
+
+
+
+And they can have AI go through different press briefings and/or press releases and say, “Give me the state of the art on how I should communicate this message to the community.”&nbsp;
+
+
+
+LEE: Hmm.&nbsp;
+
+
+
+SHAH: And bam! You can do that. And now you can oversee that work, as well. And then the third example is that we are always looking at how do we find ways to have a deeper connection with those who come to our, you know, our websites or come to our engagement tools—with bots and things like that. AI can really accelerate that work, as well. So there&#8217;s so many use cases that AI has for population health or public health.&nbsp;
+
+
+
+LEE: Yeah.&nbsp;
+
+
+
+SHAH: But I think the challenge is that we just don&#8217;t have enough adoption because they&#8217;re … one, we&#8217;ve had funding cuts, but two is that there is this real hesitation on, what is it that we can do? And I argue—the last thing I&#8217;ll say about this, Peter—is that I argue that AI is happening right now. The discussions, the technology advancements, the work, the policy work, all that&#8217;s happening right now. If public health practitioners are not at the table, if they&#8217;re not part of the, …&nbsp;
+
+
+
+LEE: Right.&nbsp;
+
+
+
+SHAH: … &#8220;What does this look like? How does it work in our field?&#8221; &#8230; guess what? It&#8217;s going to be done to us and for us rather than with us. And if we do not get with that and get to the table, then unfortunately it may not be exactly what we want it to be at the end of the day.&nbsp;
+
+
+
+LEE: I find it really interesting that you are using the terms “public health” and “population health” …&nbsp;
+
+
+
+SHAH: Yeah.&nbsp;
+
+
+
+LEE: … pretty much interchangeably here. And I think that that&#8217;s something that I think touches on an assumption that was both implicit and explicit in the book that we wrote, which is: we were making some predictions that our ability to extract insights and knowledge from population health data would be enhanced through the use of AI. And I think that it looks to me like that has been more challenging and has come along more slowly over the past two years. But what is your view?&nbsp;
+
+
+
+SHAH: Yeah, I think part of, and I think you and I have had this conversation, you know, in bits and pieces. I think one of the real challenges is that when even tech companies, and you can name all of them, when they look at what they&#8217;re doing in the AI space, they gravitate towards healthcare delivery.&nbsp;
+
+
+
+LEE: Yes.&nbsp;
+
+
+
+SHAH: Right? That&#8217;s, it&#8217;s …&nbsp;
+
+
+
+LEE: And in fact, it&#8217;s not even delivery. I think techies—I did this, too—tend to gravitate specifically to diagnosis.&nbsp;
+
+
+
+SHAH: Yes, that&#8217;s right. That&#8217;s right. You know, I think that&#8217;s a really good point. And, you know, when you look at sepsis or you look at pneumonia or try to figure out ways that, you know, radiologists or x-rays or CT scans can be read, it&#8217;s, I mean, there are so many use cases that are within the healthcare sector. And I think that gets back to this inequity that we have when we look at population health or, you know, this broad, um, swath of land that is, oftentimes, left behind or unexplored, and you have healthcare delivery. Now, healthcare delivery we know gets 95 cents or 96 cents of every dollar. So it makes sense why, right. But we also know that, at the end of the day, we&#8217;re looking at value-based outcomes, and you cannot be successful in the healthcare delivery system unless we are truly looking at prevention and what&#8217;s happening in the community and the population.&nbsp;
+
+
+
+LEE: Right.&nbsp;
+
+
+
+SHAH: And that&#8217;s why I use it interchangeably, but I know that “public health” has got a very specific term, and “population health” is a different set of ways of looking at the world. The reason that people try to shy away from pop health in essence is that you could talk about population health as being my population of patients in a clinic. It could be my health systems population. It could be an insurance company saying, these are the lives covered, right. So it becomes, what is population? When we think of public health, we think of the entirety of the population, right. In the State of Washington, eight million people. Harris County, five million people. Or in the US, 300—whatever the number of millions of people that—we think of the entire population. And what is it that actually impacts the health and well-being of that population is really what that&#8217;s about.&nbsp;
+
+
+
+Yet here&#8217;s the challenge. When we then talk to those of our partners and our colleagues in the tech field, there are two things happening. One is, there&#8217;s a motivation because of the amount of dollars that are in [the] healthcare sector. And number two is, because it&#8217;s more familiar, right.&nbsp;
+
+
+
+LEE: Right.&nbsp;
+
+
+
+SHAH: And so there are very few practitioners similar to me that are out there, that are in the pop health who kind of know healthcare delivery because they&#8217;ve also seen patients, but they&#8217;re also—they worked at that federal, state, local level, community level—they&#8217;ve, you know, they&#8217;ve done you know various different kinds of environments.&nbsp;
+
+
+
+And they say, “Look, I&#8217;ve got a perspective to really help a tech company or somebody see the rest of it,” but you have to have both partners coming together to see that. And I think that&#8217;s one of the real challenges that we have.&nbsp;
+
+
+
+LEE: Yeah.&nbsp;
+
+
+
+And so now I&#8217;m going to want to go into specific problems, …&nbsp;
+
+
+
+SHAH: Yeah. Sure.&nbsp;
+
+
+
+LEE: … and maybe COVID is a good thing to focus on—the breadth of problems that had to get solved in pandemic response and where the gaps between healthcare delivery and public health were really exposed.&nbsp;
+
+
+
+And so the first problem that I remember really keenly that just seemed so vexing was understanding where the PPE was, the personal protective equipment &#8230;&nbsp;
+
+
+
+SHAH: Hmm. Yeah.&nbsp;
+
+
+
+LEE: … and where it needed to be.&nbsp;
+
+
+
+SHAH: Yes.&nbsp;
+
+
+
+LEE: And so that turned out … you would think just getting masks and gowns and gloves to the right places at the right times or even understanding where they are so that, you know … and being able to predict, you know, what hospitals, what clinics are most likely to get a big influx of patients during the height of the pandemic would be something that would be straightforward to solve, but that turned out to be an extremely difficult problem.&nbsp;
+
+
+
+But how did it look from where you were sitting? Because you were sitting at the helm having to deal with these problems.&nbsp;
+
+
+
+SHAH: Yeah, we were constantly chasing data and information. And oftentimes, you know, because a lot of these data systems in the public health sector have been underinvested in over the decades, then, you know, you had our biggest emergency crisis of our time, and a lot of public health agencies were either getting, you know, thrown a whole host of resources or had to create things on the fly.&nbsp;
+
+
+
+And whether that was at Harris County or in the State of Washington, I will tell you that what I saw was that, you know, a lot of agencies across the country were still using fax machines, you know, to get data that were coming in.&nbsp;
+
+
+
+And I remember actually—it&#8217;s kind of a funny story—there was a fax machine that was highlighted down in our agency in Texas. And we actually had this fax machine, had mounds of, you know, data … sorry, papers that were next to … faxes that were coming in and all these things.&nbsp;
+
+
+
+And you would have, you know, Mr. Peter Lee listed as a patient. And then the next, you know, transmission would have Pete Lee. And then the next transmission would have Peter Lee, but instead of L-E-E, it was L-E-A-H or something, or L-I or something, right. And it was just …&nbsp;
+
+
+
+LEE: Right.&nbsp;
+
+
+
+SHAH: &#8230; or you had a date of birth missing, or you had, you know, an address that was off. And what we realized is that over time, a lot of the data that were coming in were just incomplete data, and being able to chase that was really hard.&nbsp;
+
+
+
+And so, you know, I think AI has that potential to really organize it, and to stratify it, and to especially get you to a point of at least cleaning it up. So I don&#8217;t think it&#8217;s just that AI … AI doesn&#8217;t just save time; it saves lives. Truly used …&nbsp;
+
+
+
+LEE: Hmm. Yeah.&nbsp;
+
+
+
+SHAH: … that&#8217;s, I think, where we&#8217;re talking here.&nbsp;
+
+
+
+And so when you have PPE and things of that nature, as you talked about, here in the State of Washington or what we were trying to do to get vaccines out or everything we&#8217;re doing to try to get communication messages to the public. And we did a fantastic job of that, although not ideal.&nbsp;
+
+
+
+I mean, there are so many things that I could point to that we could have done better—all of us in the field of public health and healthcare delivery alike.&nbsp;
+
+
+
+I will tell you that the one thing that stays with me is that if we had those tools then, and we had them in place then, and we had invested in them at that time in advance of, I think there was a real opportunity for us to be able to move ahead and even be better at how we affected the health outcomes of the very populations that we were trying to get to.&nbsp;
+
+
+
+And I think it&#8217;s [that] AI allows us to shift from reactive to proactive systems, catching health issues before they escalate and allow us to really communicate with empathy at scale.&nbsp;
+
+
+
+LEE: Right.&nbsp;
+
+
+
+SHAH: And when we can do those things, whether it&#8217;s opioids or whether it&#8217;s, you know, something that&#8217;s happening related to an infectious disease, or, you know, even this, the new agenda with Make America Healthy Again—which by the way, as you know, we had a Be Well, WA &#8230; Be Well, Washington …&nbsp;
+
+
+
+LEE: Right. Yes.&nbsp;
+
+
+
+SHAH: … very much that was about, you know, looking at, you know, physical health and nutritional health and emotional well-being and social connectedness—that there is a real opportunity for us to address the very drivers of ill health. And when we can do that, and AI can help us accelerate that, I think we truly have the ability to drive down costs and increase the value that&#8217;s returned to all of us.&nbsp;
+
+
+
+LEE: What is your assessment of public health agencies’ readiness to use technology like AI? Because if there&#8217;s one thing AI is good at, it&#8217;s predicting things. Are they [public health agencies] in a better position to predict things now?&nbsp;
+
+
+
+SHAH: You know, I think it&#8217;s a tale of two cities.&nbsp;
+
+
+
+I think on the one hand, we&#8217;re better because we have the tools. On the other hand, we&#8217;ve lost the capacity to be able to utilize those tools. So, you know, it&#8217;s a plus and a minus.&nbsp;
+
+
+
+Many, many years ago, there was the buzzword of what we called syndromic surveillance. And, Peter, you know this term well.&nbsp;
+
+
+
+It was like you would have, you know, a whole host of accumulation of data points in, let&#8217;s say, a hospital setting or an emergency department …&nbsp;
+
+
+
+LEE: Yup. Yup.&nbsp;
+
+
+
+SHAH: … where, you know, you’d have runny nose, you&#8217;d have cough, you&#8217;d have a fever, and you would take that, what was happening and people presenting to the emergency department, with what was happening in the area pharmacies where people were going to get Kleenexes and tissues …&nbsp;
+
+
+
+LEE: Yep.&nbsp;
+
+
+
+SHAH: … and buying over-the-counter, you know, medication, and things of that nature, Tylenol, etc.&nbsp;
+
+
+
+And you would say … you would put those two things together, and you would come up with a quote-unquote “syndrome,” and you would say our ability to say there was an alert to that syndrome allows us to say something uh-oh is going on in the community, and we got many, many advancements related to wastewater surveillance over the last several years as you know …&nbsp;
+
+
+
+LEE: Yep. Yep. Well, also, wasn&#8217;t patient number one in the United States discovered also because of the Seattle Flu Study, or at least that sort of syndromic surveillance.&nbsp;
+
+
+
+SHAH: That&#8217;s right.&nbsp;
+
+
+
+LEE: They weren&#8217;t even looking for COVID. They were just taking, you know, snot samples from people.&nbsp;
+
+
+
+SHAH: That&#8217;s right. That&#8217;s right. That&#8217;s right.&nbsp;
+
+
+
+And so that&#8217;s the kind of thing that you, you know, we underappreciate. Is you have to have a smart, intelligent, agile practitioner, right.&nbsp;
+
+
+
+So if I think about down in Dallas when Ebola was, you know, the gentleman who was, you know, the index case for Ebola was sent out of the emergency department and came back several days later.&nbsp;
+
+
+
+And it was the nurse who picked up this time because the practitioner, the provider, the healthcare provider, the doc missed it. And I wouldn&#8217;t want to say in a negative way. It was just, like, not obvious. You aren&#8217;t thinking of Ebola in the middle of Texas. And it was the nurse who picked up: there&#8217;s something wrong here.&nbsp;
+
+
+
+And what AI has the ability to do is to pick up those symptoms &#8230;&nbsp;
+
+
+
+LEE: Yeah.&nbsp;
+
+
+
+SHAH: … or those patterns and be able to recognize the importance of those and be able to then alert the practitioner. So what I … we call it artificial intelligence—it almost becomes artificial wisdom.&nbsp;
+
+
+
+LEE: Hmm. Yeah, interesting. So that actually reminds me of my next question, which is another thing that I watched you and public health officials do is try to play “what if” games.&nbsp;
+
+
+
+So, for example, I think one decision you were involved in had to do with, you know, what would be the impact if we put a ban on large gatherings like concerts or movie theaters or imposed an 8 PM curfew on restaurants, and you were trying to play “what if” games. Like, what would be the impact on the spread of the pandemic there?&nbsp;
+
+
+
+So now, again, today with AI, would that aspect of what you did play out differently than it did during the pandemic?&nbsp;
+
+
+
+SHAH: As you know, COVID was the most studied condition on the planet at one point. And it was, you know, things that usually we would learn over years or months, we were learning in weeks or days or hours.&nbsp;
+
+
+
+And I remember in Houston, I would say something in the morning, and I would always try to give the caveat, “This is the best information we know right now,” because it kept changing, whether it was around masks or whether it was around, you know, the way the virus was operating, whether it was around &#8230;&nbsp;
+
+
+
+I remember even … I was just watching something recently where I was asked to comment about whether spiders could transmit COVID-19. You know, just questions that were just evolving, evolving, evolving. And the information was evolving. By morning, you would say something. By evening, it would change.&nbsp;
+
+
+
+And why I say that is that it would have been great in the pandemic if we could have said, if you could give us all the information that&#8217;s happening across the globe, synthesize that information, and be able to help us forecast the right decisions that we should be making and help us model that information so we could decide: if you did a curfew, or if you did, you know, a mask, or if you could, you know, change something else related to policy—what are the impacts of it?&nbsp;
+
+
+
+LEE: Yeah.&nbsp;
+
+
+
+SHAH: What we found constantly in public health was that we were weighing decisions in incomplete data, incomplete information.&nbsp;
+
+
+
+So great now that everybody can armchair quarterback looking back three, five years ago and say, “I would have done it this way,” or “I would have done it that way.” Gosh, I would have as well. But guess what—we didn&#8217;t have that information at that time. And so you had to make the best decisions you could with incomplete data.&nbsp;
+
+
+
+But what AI has the potential to do is to help complete the incomplete data. Now, it&#8217;s not going to get 100%.&nbsp;
+
+
+
+LEE: Right.&nbsp;
+
+
+
+SHAH: And I think, Peter, you know, the one thing we&#8217;ve got to be really mindful [of] is phantom information, or information where it sort of makes up things, or may somehow get you incomplete information, or skews it a certain way.&nbsp;
+
+
+
+This is why we can&#8217;t take the person out of it yet.&nbsp;
+
+
+
+LEE: Right.&nbsp;
+
+
+
+SHAH: Now, maybe one day we can.&nbsp;
+
+
+
+I&#8217;m not one of those Pollyanna-ish that people will never be replaced. I actually believe that those people who are skilled with AI and the tools will eventually have a competitive advantage over those who are not. Just like if I had a physician who knows how to use their smartphone or knows how to use a word processor or knows how to do a PowerPoint presentation is going to replace the ones that use scantrons &#8230;&nbsp;
+
+
+
+LEE: Yeah. Yeah.&nbsp;
+
+
+
+SHAH: … or the ones that write it on pieces of paper—that eventually it makes it more efficient and effective, but we&#8217;re not there yet. But I think that the potential is absolutely there.&nbsp;
+
+
+
+LEE: So I have one more question. And you can, kind of, tell I&#8217;m trying to expand people&#8217;s understanding of just the incredible breadth of what goes on in public health, you know, all of these sorts of different issues.&nbsp;
+
+
+
+And again, just sticking to COVID, but this is a much broader issue. Another thing you had to cope with were significant rise of misinformation …&nbsp;
+
+
+
+SHAH: Yes.&nbsp;
+
+
+
+LEE: … and maybe going along with that, very, very significant inequities in outcomes in the COVID response. And when you think about AI there, I think you can argue it both ways, that it both exacerbates the problem but also gives you new tools to mitigate the problems.&nbsp;
+
+
+
+What is your view?&nbsp;
+
+
+
+SHAH: I think you … I don&#8217;t even have to say it … I think you hit on it, is that, you know, it really is two sides of one coin.&nbsp;
+
+
+
+On the one hand, it has the power of really advancing and allowing us to move forward in a way that incredibly accelerates and accentuates, but on the other hand, in the case of inequities, right? So if you have inequitable information data that&#8217;s already out in the literature or already out in the, you know, media, or what have you, about a certain population or people or certain kinds of ideas or thoughts, etc., then AI will tend to accumulate that. You&#8217;re going to take that information, thinking that&#8217;s the best out there, but it may have missed out on information and now you go with it. And that&#8217;s a potential problem.&nbsp;
+
+
+
+And I think it&#8217;s the same thing on information is that when we have people that are able to classify or misclassify information, I think it really becomes hard because it can accelerate the inequities of trust or inequities of trusted sources of information. It can also close the gap.&nbsp;
+
+
+
+So I think, you know, it&#8217;s really up to us and this responsible AI to really think about how we can go about doing this in a way that&#8217;s going to allow us to further the advancements but also be careful of those, you know, those kind of places where we&#8217;re going to step into that are not going to be well received or successful.&nbsp;
+
+
+
+You know, the one thing that&#8217;s really fascinating about this whole conversation is that this is why we&#8217;ve got to be at the table, Peter.&nbsp;
+
+
+
+LEE: Yep. Yep.&nbsp;
+
+
+
+SHAH: Because if we&#8217;re not at the table, you know, what&#8217;s the, you know, or if tech companies that are out there doing this work and aren&#8217;t even seeing a field of practitioners that are actually wrestling with the same problems but just cannot actually get to the solutions, we&#8217;re just going to continue to accentuate the problems.&nbsp;
+
+
+
+And that&#8217;s why I&#8217;m a firm proponent of: we&#8217;ve got to be at the table.&nbsp;
+
+
+
+And so even when we&#8217;ve seen in, and this is going to be a little controversial, but governmental spaces where, you know, policymakers have said, “Look, we are not going to let you do certain things,” or they say to public health practitioners or even healthcare delivery practitioners in certain spaces, “You cannot even play with this. You cannot have it on your phones. You can&#8217;t do any &#8230; ”&nbsp;
+
+
+
+You know, what I really believe it does is that it takes [an] almost like we put our head in the sand type of approach rather than saying, “What is it that we can do to help improve AI and make it work for all of us?” What we&#8217;re doing is we&#8217;re essentially saying, “We&#8217;re going to let the tech companies and all the other developers come up with the solutions, but it&#8217;s not going to be informed by the people in the field.” And that&#8217;s dangerous. We have to do both. We have to be working together.&nbsp;
+
+
+
+LEE: Umair, that&#8217;s really so well said, and I think a great way to wrap things up. I&#8217;ve certainly learned a lot from this conversation. So thank you again.&nbsp;
+
+
+
+SHAH: It&#8217;s been a pleasure to be with you this morning. Thank you so much for the time. And I&#8217;m looking forward to further conversations.&nbsp;
+
+
+
+[TRANSITION MUSIC] 
+
+
+
+I live in the State of Washington and because of that, I&#8217;ve been able to watch Umair in action as our state&#8217;s former secretary of health. And some of that action was pretty intense to say the least because his tenure as secretary of health spanned the period of the COVID pandemic.&nbsp;
+
+
+
+Now, as a dyed-in-the-wool techie, I have to admit that at the beginning, I don&#8217;t think I really understood the scope and importance of the field of public health. But as the conversation with Umair showed, it&#8217;s really important and it is arguably both an underfunded and underappreciated part of our healthcare system.&nbsp;
+
+
+
+Now, public health is also very much an area that&#8217;s ripe for advancement and transformation through AI. As Umair explained in our discussion, the core of public health is the idea of population health, the idea of extracting new health insights from signals from population-scale data. And already we&#8217;re starting to see AI making a difference.&nbsp;
+
+
+
+Now here&#8217;s my interview with Dr. Gianrico Farrugia.&nbsp;
+
+
+
+LEE: Gianrico, it&#8217;s really great to have you here today.&nbsp;
+
+
+
+GIANRICO FARRUGIA: Peter, thanks for having me. Thanks for making me part of your podcast.&nbsp;
+
+
+
+LEE: You know, what I&#8217;d like to do in these conversations is, you know, we&#8217;ll definitely want to talk about the overall healthcare system, the state of healthcare, and what AI could or might do to help or even hurt all of that. But I always like to start with a sharper focus just on you specifically. And my first question always is, you know, I think people imagine what a hospital or a health system president and CEO does, but not really. And so how would you explain to your mother what you do every day?&nbsp;
+
+
+
+FARRUGIA: So, Peter, my mother’s 88 years old. She lives in Malta, and she’s visiting at the moment, …&nbsp;
+
+
+
+LEE: Oh, wow.&nbsp;
+
+
+
+FARRUGIA: … which is kind of nice, really.&nbsp;
+
+
+
+LEE: Wow, that is amazing.&nbsp;
+
+
+
+FARRUGIA: I&#8217;m proud that she&#8217;s still proud of me. So she does ask. I&#8217;ll tell her the scope of Mayo Clinic. We serve patients across the globe. We have about 83,000 staff members that work with us, and we&#8217;re very proud of the work we do in research, education, and the practice.&nbsp;
+
+
+
+Mayo Clinic is built to serve people with serious disease. So what I tell my mother is that here we are. We&#8217;re a healthcare organization that knows what it needs to do: keep patients as the North Star. The needs of the patient come first. We have 83,000 people who want to do that, several thousand physicians and scientists. My job is to look slightly ahead and then share what I&#8217;m seeing and then, sort of, smooth the way for others to make sure Mayo remains true to its mission but also true to the fact that at the moment, we are in a category of one. We need to remain there not just from an ego standpoint, but really from a “do good to the world” standpoint.&nbsp;
+
+
+
+At that point, invariably my mother will tell me that I&#8217;m working too hard. [LAUGHTER] And then of course, I change the subject, and I ask her what she cooked today because my mother, who’s 88, cooks for the whole family in Malta, and there are usually four generations eating around the table. So I tell her what she does for the family is what I do for the Mayo family.&nbsp;
+
+
+
+LEE: Wow, that&#8217;s a great way to put it. And it sounds like you actually have a good chance to have some good genes if she&#8217;s still that active at age 88.&nbsp;
+
+
+
+FARRUGIA: I think I chose a little more stressful job that may limit [that]. I will tell you very briefly is that one of the AI algorithms we have estimates biological age from an electrocardiogram. My biological age jumped by 3.7 years when I became CEO.&nbsp;
+
+
+
+LEE: [LAUGHS] Oh no.&nbsp;
+
+
+
+FARRUGIA: I&#8217;m hoping it will reverse on the other side.&nbsp;
+
+
+
+LEE: To stick with you just for one more moment here, second question I ask is about your origin story with respect to AI. And typically, for most people, there is AI before ChatGPT and generative AI and then after the generative AI revolution. So can you share a little bit about this? Because it must be the case that you&#8217;ve been thinking about this a long time since you&#8217;ve really led Mayo Clinic to be so tech forward in this way.&nbsp;
+
+
+
+FARRUGIA: Well, I&#8217;ve been, as you said, a physician for way too long. I got my MD degree in ’87. So that sort of dates me. But it also means that I saw a lot of the promise for AI that never seemed to pan out for decades and decades and decades like you did.&nbsp;
+
+
+
+LEE: Yeah.&nbsp;
+
+
+
+FARRUGIA: Around 10 years ago, Mayo could sense that there was something different, that something was changing, that we actually—at that time, predictive AI—could make a big difference. And I think that&#8217;s the moment where I and others jumped in and said Mayo Clinic needs to be involved.&nbsp;
+
+
+
+And then about six years ago, when—six and a half years ago—I became CEO, it was clear that there was the right confluence of data, knowledge, tech expertise, that we could deal with what was increasingly bothering me, which is that we knew what was coming from a technology standpoint and we knew the current healthcare system could not deliver on what patients need and want within that current system. And so the answer is, how could a place like Mayo Clinic with our reputation not jump in and say there has to be a better way of doing things? I&#8217;ve always said that it is impossible for me to understand that every single government employee is incompetent. Every physician is greedy. Something&#8217;s wrong here.&nbsp;
+
+
+
+LEE: Yeah.&nbsp;
+
+
+
+FARRUGIA: And that wrong was the architecture was wrong. And we knew that we could incorporate AI and make it better. So for me, that journey was one of wait, wait, wait. 10 years ago, begin to jump in. Six years ago, really jump in with our platform. And then, of course, in November 2022, things changed again.&nbsp;
+
+
+
+LEE: Yeah. When did this idea of a data platform, what you now call the Mayo Clinic Platform (opens in new tab)—by the way, I refer to this as MCP, …&nbsp;
+
+
+
+FARRUGIA: Yeah, I know. [LAUGHS]&nbsp;
+
+
+
+LEE: [LAUGHS] … which I always smirk a little bit because, of course, for those of us in computer science research, the AI research, MCP has also become quite a hot topic because of the model context protocol version of this. But for Mayo&#8217;s MCP, when did that become a serious, defined initiative?&nbsp;
+
+
+
+FARRUGIA: So around the end of ’18, 2018, beginning of 2019. At that point, we knew that we were going to do something differently. We came up with a strategic plan, as I took on the job, that we needed to cure more patients. There’s just not enough cures in the world. There&#8217;s too much suffering. And that we had all these chronic diseases that people have accepted are chronic, but really the only reason that disease is chronic is you haven&#8217;t cured it.&nbsp;
+
+
+
+And physicians have been afraid to talk about cure because, of course, eventually everybody passes away.&nbsp;
+
+
+
+LEE: Yeah.&nbsp;
+
+
+
+FARRUGIA: But I really pushed hard to say, no, it&#8217;s OK to talk about cure. It&#8217;s OK to aspire to cure. The second was connect—connecting people with data to create new knowledge. And that&#8217;s where it became clear that data were not currently in a format that were particularly useful. By the way, you&#8217;ll hear me talk about data in the singular and the plural. I&#8217;m old school. I talk about data as plural, but I know that most younger people now use data singular. [LAUGHTER] And I apologize if I&#8217;ll go through that.&nbsp;
+
+
+
+And then the third was transform. Let&#8217;s use Mayo&#8217;s resources to transform healthcare for ourselves and for others. And that&#8217;s the concept of, if we are able to use data in a different way, let&#8217;s create a different architecture. And that architecture had to be very closely linked to using artificial intelligence in order to create better outcomes for patients. So patients can live not only longer lives but healthier lives. And that&#8217;s the genesis of MCP, Mayo Clinic Platform, so I&#8217;ll timestamp that as end of 2018, beginning of 2019.&nbsp;
+
+
+
+LEE: So I&#8217;m really wanting to delve in in this episode, in this conversation, you know, [into the] mindset of a health system or hospital CEO. And so you&#8217;re obviously thinking about, I guess, machine learning and predictive analytics and so on. What were the, kind of, like … in 2018, what were the outcomes that you were dreaming about from this? So if you had this thing, you know, what were the things that you were hoping to be able to show or, kind of, produce as results?&nbsp;
+
+
+
+FARRUGIA: So first of all, I think all of us who work at Mayo Clinic, and this tends to be a bit sugary, but it&#8217;s true, strongly feel that we have a responsibility to leave the place better than when we started. And so the Mayo brothers, when they started, did two really important things. The first was that they created the first integrated healthcare system. And the second, they created the first unified record. And that record was, of course, paper at that point.&nbsp;
+
+
+
+Part of that is to say, OK, what does it look like now versus how can we improve what we have if … it&#8217;d be blasphemy to say, let&#8217;s think of ourselves as the Mayo brothers, but let&#8217;s think of ourselves as reasonably smart people at Mayo Clinic, really lucky to be surrounded by very smart people with resources. What will we do? And so we said let&#8217;s not aim for the low-hanging fruit. Let&#8217;s aim to get at whatever you want to call it, the intractable knot, the hardest problem, and that is clinical care. Let&#8217;s improve clinical care. Yes, we can deal with burnout. Yes, we can deal with administrative burden. But let&#8217;s not focus on that. Let&#8217;s really create an architecture that allows us to tackle better clinical outcomes.&nbsp;
+
+
+
+And by starting there, then everything flows from that. That it&#8217;s not really worth doing unless at the end of the day, people are experiencing better health.&nbsp;
+
+
+
+LEE: And so I know a very good colleague and friend of mine, John Halamka (opens in new tab), you ended up hiring. I thought he was a very interesting choice because he is, of course, in terms of technology, quite deep and very expert, but he&#8217;s, I think, first and foremost, a doctor. And so I assume you must have had to decide what type of person you would bring in and what kinds of people you would bring in to try to create such a thing. What was your thinking around the choice of someone like John?&nbsp;
+
+
+
+FARRUGIA: It was one of the harder decisions. First of all, [I&#8217;m] a physician myself. We tend to want to maintain some control. And so now I am the CEO, [LAUGHTER] and I have to give this baby to somebody else. That&#8217;s very hard. Second is Mayo Clinic is really good because it is flat, and we run a lot by committee. But it also means that, therefore, you have to work really hard at change, and you cannot change by fiat. You have to change by convincing people.&nbsp;
+
+
+
+So I just … I&#8217;ve always made the point that the right change agent is a servant leader because that&#8217;s how change becomes embedded. But it also means you&#8217;ve got to have that personality, the Mayo personality. And it became clear when we interviewed [that] there were some people that were really hardcore tech; others that were passionate about social issues. But John really fit that of being, as you said, deep in IT but also himself very aligned with the Mayo Clinic values. It&#8217;s as if he was a Mayo Clinic physician even though he wasn&#8217;t.&nbsp;
+
+
+
+And that came together, and I felt, we felt, that as we were hiring, that we could do it. And then we did something interesting. We paired John with a … we created the role of a chief medical officer for the platform, which was a longstanding Mayo Clinic physician. And so we brought them together so we could get the past and the present and the future working together.&nbsp;
+
+
+
+LEE: So I&#8217;m going to ask you about what has come out of this. But before that, let&#8217;s get back to this origin story. So now, all of that is being set up starting around 2018. But then, you know, in 2022, there is generative AI. Now you were already experimenting with transformers, starting with BERT out of Google there. So maybe that&#8217;s a couple of years earlier. But still, there has to come a point where things are feeling very disrupted.&nbsp;
+
+
+
+FARRUGIA: Yeah, so, you know, it really wasn&#8217;t. It, to me, was a relief because it gave this … we were feeling pretty good about what we&#8217;re doing. We were feeling a little impatient, but, in true Mayo fashion, were willing to, sort of, do everything, take its time, take it to the right committees, get the right approvals, and get it done.&nbsp;
+
+
+
+And so when generative AI came, for us, it&#8217;s like, I wouldn&#8217;t say we told you so, but it&#8217;s like, ah, there you go. Here&#8217;s another tool. This is what we&#8217;ve been talking about. Now we can do it even better. Now we can move even faster. Now we can do more for our patients. It truly never was disruptive. It truly immediately became enabling, which is strange, right, …&nbsp;
+
+
+
+LEE: Yeah.&nbsp;
+
+
+
+FARRUGIA: … because something as disruptive as that instantly became enabling at Mayo Clinic. And I&#8217;ll take … as I think about it with you and take a moment to think and reflect on it, I think there were a couple of decisions we made earlier on that really helped us. We made the decision against the advice of any consulting firm to completely decentralize AI at Mayo Clinic six years ago. And we told our clinical department, you need to own this. You need to hire basic scientists in AI. We&#8217;ll help you by creating the infrastructure. We&#8217;ll help you by doing all the rest. We&#8217;ll have the compute. We&#8217;ll have the partners. You need to do this on your own. You need to treat this the same way as if a new radiological technique happened or a new surgical technique happened.&nbsp;
+
+
+
+And so there was a lot of expertise already present in a very diffused way that then we were able to layer on generative AI onto that. And we found a very willingness to embrace it. In fact, I would argue initially a bit too willing because as you know, we haven&#8217;t quite figured out what&#8217;s legitimate use, what&#8217;s not use.&nbsp;We all learned together.
+
+
+
+LEE: Right. Yep. Yep.&nbsp;
+
+
+
+FARRUGIA: But it was mostly energy, which is really interesting. It was mostly energy.
+
+
+
+LEE: Wow. And, you know, it&#8217;s an amazing thing to hear because one common theme that we hear is that the initial reaction is oftentimes one of skepticism. In fact, I&#8217;ve been very open that even I initially had some skepticism. Was that not present in your mind or on your team&#8217;s mind at all at the beginning?&nbsp;
+
+
+
+FARRUGIA: So you&#8217;re asking a physician if they are skeptical about something. [LAUGHTER] Yeah. I wonder what the answer to that is. Absolutely. The first hallucination, the first wrong reference. Can you imagine if you write the grant and the wrong reference comes. As you know, …&nbsp;
+
+
+
+LEE: Right.&nbsp;
+
+
+
+FARRUGIA: … earlier on when some references were being made up. So massive amounts of skepticism. But the energy was such there that the people [who] were skeptical were also at the same time saying, “Let&#8217;s do a RAG [retrieval augmented generation] to clean up those references. Let&#8217;s create …” We were experimenting with discharge summaries, but let&#8217;s use AI to police AI, and let&#8217;s see what&#8217;s going on. So there was more massive skepticism, but the energy was pushing that skepticism into a positive versus into a negative frame. Now, I say that summarizing in hindsight.&nbsp;
+
+
+
+LEE: Yeah.&nbsp;
+
+
+
+FARRUGIA: Day to day, much more complicated than that. But overall, if you just … and remember, I had been at the World Economic Forum many years ago and had said, healthcare needs to run towards AI.&nbsp;
+
+
+
+LEE: Yes.&nbsp;
+
+
+
+FARRUGIA: If healthcare was perfect, we would wait. Healthcare is not perfect by any means, therefore let&#8217;s run and embrace AI. And, sort of, that mentality was part of who we were because at the same time, we were also saying the other thing, that we need to be the ones to lead validation. We need to be the ones that set the rules. We need to be participating in the creation of CHAI [Coalition for Health AI] (opens in new tab). We need to be participating as the [National] Academy of Medicine (opens in new tab).&nbsp;
+
+
+
+So people did feel that Mayo was being fairly responsible about it, but that urge to, the needs of the patient come first, was the driver that kept people wanting to say, “Not ready yet, but let&#8217;s make it ready.” And we now have 320 algorithms in the practice, and they run and we constantly are looking and seeing what else we can do to improve. But as you well know, things evolve and change. And we&#8217;re also looking and seeing which ones work and which ones don&#8217;t and which ones we have to work together on to make better.&nbsp;
+
+
+
+LEE: Yeah, you know, of course Mayo has such a, you know, such a reputation and is so influential, but in the world of healthcare broadly, let&#8217;s just focus on the United States to start. How common is this experience? You know, so if you are at a meeting with fellow CEOs of hospitals and health systems, what is the attitude and what is the, kind of … how common is the approach to all of this?&nbsp;
+
+
+
+FARRUGIA: I think it&#8217;s more common now, but going back a few years, I think it&#8217;s fair to say that it was scary for people to know how it&#8217;s going to change things. Healthcare runs on very narrow margins. It&#8217;s very expensive. So your expenses and your revenue are both massive, and they are very close to each other. So anything that changes that balance is really scary.&nbsp;
+
+
+
+Because it&#8217;s not like you have the opportunity to erode into a margin or get it right the second time. So I think that is what drove a lot of the initial hesitancy. Was, one, is lack of knowledge and, two, understanding that you didn&#8217;t have a lot of room to make a mistake.&nbsp;
+
+
+
+LEE: On the economics of this, when you are embarking on what I suspect is a very expensive initiative like Mayo Clinic Platform, how on earth do you justify that early on?&nbsp;
+
+
+
+FARRUGIA: So again, I&#8217;m trying hard to try and remember how things were versus how I think about them now. [LAUGHTER] It goes back to our history. Mayo has always invested in what it thinks is the right thing that is coming. And that&#8217;s how we&#8217;ve stayed where we are. So the investment really was having an open discussion: is this worth it for our patients? And once that discussion was over, then the board was saying, go, go, go.&nbsp;
+
+
+
+Now we are lucky in that we have the size that we&#8217;re able to hire and absorb. We&#8217;re lucky in that the people [who] came before us have been financially astute, and one of our values is stewardship. And we&#8217;re lucky that we had a lot of patients at Mayo Clinic who were able to listen, be inspired by, and be willing to help support. And so that gave us the ability to build what we&#8217;re doing not only into the long-range plan but actually into the yearly plan. And so we built it into the yearly plan. We set up a center for digital health. We set up the platform. And then we set up the budgets to be able to do that. And the budgets came from assets we&#8217;ve had, assets that we would get as the year came by, and then from philanthropy.&nbsp;
+
+
+
+We also had a really powerful calling card. And that&#8217;s one advantage I had, and that&#8217;s … and I&#8217;d been very open when I was speaking to other CEOs that would use it is that right at that very beginning, really, really in 2019, our cardiologists, both the researchers and the clinicians, had come together and had used electrocardiograms to create an AI algorithm.&nbsp;
+
+
+
+The first one was for diagnosing from an electrocardiogram, which is very cheap, very easy to do, left ventricular dysfunction. That&#8217;s how hard the left part of the heart contracts. If it doesn&#8217;t do well, you get heart failure. And they were able to show that that algorithm was already making nurses better than the physician without the algorithm. And after that went on to show that you could do it from a single strip, really with an area under the curve for that single strip on a watch, that was as good as mammograms or pap smears. And so we already had that proof.&nbsp;
+
+
+
+LEE: Yeah.&nbsp;
+
+
+
+FARRUGIA: That quickly then came into Mayo. We put it into it so that any patient now can benefit from it. And now there are, I think, 14 algorithms just from that same one.&nbsp;
+
+
+
+LEE: Yeah.&nbsp;
+
+
+
+FARRUGIA: So we had a proof of concept thanks to those really far-seeing cardiologists that enabled things to happen a little faster and also, as I talked to other CEOs, enabled me to say, “This actually works. This is the path forward.” I have recently been vocal about also saying, we are at a point now where I believe that for some medical conditions, it is not right to not use AI to help treat them.&nbsp;
+
+
+
+LEE: Wow, that&#8217;s so interesting. So I think I want to get into another topic here, which is when you think about the use of AI and data, what are some of the results that maybe are top of mind for you or you think are particularly important? And if you don&#8217;t mind, I&#8217;d like to see if we can think about this not only in terms of results in terms of patient outcomes but in your other activities, core activities, like research, in the education mission, and then even in the broader impacts on the healthcare system. But maybe we start with on patient outcomes.&nbsp;
+
+
+
+FARRUGIA: Yeah, they&#8217;re all linked, right.&nbsp;
+
+
+
+LEE: Yes.&nbsp;
+
+
+
+FARRUGIA: They&#8217;re part of the same ecosystem. We think of ourselves as three shields— research, education, and the practice—and that one goes into the other. So, as I said, we have about 320 AI algorithms from the practice. Some run on every patient; some run on some patients. And we have good evidence for what they do. So some specific examples, and then I&#8217;ll get into the transformer part of this.&nbsp;
+
+
+
+We have a program called CEDAR [Clinical Detection and Response (tool)], and like most other people, I like acronyms for things. [LAUGHTER] But what it is, in our hospitals with patient consent, we monitor vitals. We monitor in the patient room—not in the ICU [intensive care unit], in the patient room. We monitor all sorts of things. But there&#8217;s a camera in the room, and we have a team of intensivists—nurses and physicians—who do not have any patient responsibilities but are just monitoring the algorithms, and when the algorithms are predicting decompensation, they&#8217;re able to get into the room. And what we&#8217;ve shown, for example, with that algorithm, is we&#8217;ve shown we&#8217;ve decreased length of stay in the hospital, decreased transfers into the intensive care units, and interestingly, decreased mortality and morbidity, which is not easy to show. I talked about the electrocardiogram as a good example. Of course, everybody knows about the radiology things.&nbsp;
+
+
+
+We&#8217;ve created … taken part of this and said, if we can do this in the hospital, why cannot we do it in patients&#8217; homes? So being very active in looking after patients that would come to the ED, emergency room, would normally be admitted, and we say, no, here are the things we can give you. Go home if you want to, and we will safely look after you at your home. And we recently have been, looking at the last two years of data, been able to show that we&#8217;re also successfully able to give intravenous chemotherapy in patients&#8217; homes because we can monitor; we can do all the things that we can do.&nbsp;
+
+
+
+Now, with generative AI, that gave us many other opportunities. One biggest opportunity for me has always been digital pathology. When we see how pathology’s currently run with a glass slide, not much has changed …&nbsp;
+
+
+
+LEE: Yeah.&nbsp;
+
+
+
+FARRUGIA: … in many, many, many years, right.&nbsp;
+
+
+
+LEE: Yeah.&nbsp;
+
+
+
+FARRUGIA: And so really we have made a massive push to digitize pathology not just for us but for others. But talking about ourselves, we started by saying, it has to be very cheap to digitize. So we worked and created a company with partners called Pramana (opens in new tab) that allows us to digitize slides relatively cheaply using AI algorithms that can take away the dirt, the fingerprint. And so we end up with 21 million of our slides digitized, and that gives you now a massive opportunity. Worked with another company called Aignostics (opens in new tab) to create a, what we call, Atlas (opens in new tab), which is an LLM that allows us to then build upon it.&nbsp;
+
+
+
+LEE: Yeah.&nbsp;
+
+
+
+FARRUGIA: And we, a hundred and, I think, 120 years ago, invented frozen sections at Mayo Clinic. So what that is, is that while the patient&#8217;s still on the table, you can take a piece of tissue, look at it, and tell the surgeon the margins of what you&#8217;re trying to resect are clear or not. But as a result of that, because you have to hurry, you get no information as a surgeon about, is it an invasive cancer, is it noninvasive cancer, or other things. So we&#8217;ve just found a way to digitize our frozen section practice and will completely go across the enterprise with AI-enabled digitized frozen sections, which then enables us to then do it for anybody across the globe if we need to.&nbsp;
+
+
+
+And then in the genomic space, we&#8217;re working to create a true exomic transformer that is short range. And we originally started doing it to see if we can test it against the fact that 40% of people with rheumatoid arthritis don&#8217;t respond to the first-line therapy, …&nbsp;
+
+
+
+LEE: Right.&nbsp;
+
+
+
+FARRUGIA: … but you have to wait six months to find out. And we found that we can actually do that. But it has much greater uses, of course.&nbsp;
+
+
+
+And then we&#8217;re working with you—I don&#8217;t know how much you want to get into this, Peter, or [if] you want to talk about it yourself—MAIRA-2, which is really exciting, about how taking a simple problem—can you create a transformer that is able to detect if lines on the chest are in the right place, breathing tube is in the right place?—and then do it in a way that then can be used for many, many other things.&nbsp;
+
+
+
+And then, Peter, because you asked about education and research, …&nbsp;
+
+
+
+LEE: Yeah.&nbsp;
+
+
+
+FARRUGIA: … imagine what this does now to the education system, right. And so we&#8217;ve got to train our physicians differently. We now have an AI curriculum for all our medical students. We offer masters and PhDs in AI. We think it&#8217;s essential for the people who want to be able to truly become experts, the same way I became an expert in my area of research.&nbsp;
+
+
+
+And then from a research standpoint, when you think about all the registries that exist in people&#8217;s labs, all the spatial genomics, all the epigenomics, all the omics that exist. And if you are able to coalesce them into one big, what we call, an atlas, how that could really spur research at a scale that we haven&#8217;t thought of before. And so that is our aim at the moment.&nbsp;
+
+
+
+From a research standpoint, we are, with Vijay Shah, who&#8217;s our dean of research, is to say, let&#8217;s make the effort of making sure all the data are available to be able to use and enable for us to take advantage of AI. And that is not easy because, of course, people have collected the data. They tend to want to embrace it.&nbsp;
+
+
+
+LEE: Yep.&nbsp;
+
+
+
+FARRUGIA: So there have to be the right incentives, the right privacy, and the right ways of doing it. And we think we&#8217;re on the way there, and we’re already seeing some advantages from doing it this way.&nbsp;
+
+
+
+LEE: So we&#8217;re running short on time. And so I always like to end with one or two more provocative questions. And, you know, it&#8217;s tempting to ask you the provocative question of whether you think AI will ever replace human doctors, but I don&#8217;t want to go there with you. In fact, as I thought about our discussion, I was reflecting. We were at a conference together once, and I was on stage in a fireside chat. And then, you know, after the fireside chat, there were audience questions, and I don&#8217;t remember any of the questions from the audience except yours.&nbsp;
+
+
+
+And just to remind you, you know, I think when I was on stage, we were talking about a lot of practical uses of AI to, let&#8217;s say, reduce administrative burdens and so on in healthcare. But you got up and you, I won&#8217;t say you scolded me, but you more or less said, is it the right idea to use AI to optimize today&#8217;s somewhat broken healthcare system, or should we be thinking more boldly about, you know, a more fundamental transformation?&nbsp;
+
+
+
+And so what I thought I would try to close with here is to hear what was really behind that question. You know, what were you trying to get me to think about when you asked that question?&nbsp;
+
+
+
+FARRUGIA: So first of all, darn your great memory [LAUGHTER]. Belated apologies … I probably should have &#8230;&nbsp;
+
+
+
+LEE: It was by far the best and most sophisticated and, I think, thought-provoking question of all of the ones that came out of the audience.&nbsp;
+
+
+
+FARRUGIA: What I was trying to get to is actually trying to clarify it in my own head and then in the head of others is that we do not need to have a linear path to get to where we want to get to. And we seemed to be on a linear path, which is, let&#8217;s try and reduce administrative burden. Let&#8217;s try and truly be a companion to a physician or other provider. Let&#8217;s make their problems better, make them feel better about providing healthcare. And then in the next step, we keep going until we get to, now we can call it agentic AI, whatever we want to talk about. And my view was, no, is that let&#8217;s start with that aim, the last aim, and do the others because the others will come automatically if you&#8217;re working on that harder problem.&nbsp;
+
+
+
+Because one, to get to that harder problem, you&#8217;ll find all the other solutions. I was just trying to push that here&#8217;s this wonderful tool that&#8217;s been given to us. Let&#8217;s take advantage of it as quickly as we can. I think we had gotten a little too sensitized to need to say the right things. “Careful, be very careful” versus saying, “Massive opportunity. Do it right, and healthcare will be much better. Go for it.”&nbsp;
+
+
+
+LEE: Well, I think I understand better now where the vision, insight, and frankly, courage to take on something as ambitious and transformational as the Mayo Clinic Platform and really all of your leadership in your tenure as the president and CEO of Mayo Clinic. I think I understand it much better now.&nbsp;
+
+
+
+Gianrico, it&#8217;s just always such a privilege to interact with you and now to have a chance to work with you more closely. So thank you for everything that you do and thank you for joining us today.&nbsp;
+
+
+
+FARRUGIA: Thank you for making it so easy, and thanks for giving us this opportunity to do good for the world.&nbsp;
+
+
+
+[TRANSITION MUSIC] 
+
+
+
+LEE: Gianrico leads what is arguably the crown jewel of the world&#8217;s healthcare systems, and so I feel it&#8217;s such a privilege to be able to talk and sometimes even brainstorm with him.&nbsp;
+
+
+
+Our conversation, I think, exposed just how tech forward Gianrico is as he charts the strategies for healthcare delivery well into the future. And as I&#8217;ve interacted with many others, what I&#8217;ve learned is that this is a common trait among major health system CEOs. Roughly speaking, like we&#8217;ve seen in previous episodes where doctors and med students are polymath clinician-technologists, the same thing is true of health system CEOs and other leaders.&nbsp;
+
+
+
+AI in the mind of a health system CEO today is not only a technology that can transform diagnosis and treatment, but it&#8217;s also something that can have a huge impact on the business of healthcare delivery, the connection of healthcare to medical research, and the journeys that patients go through as they seek better health.&nbsp;
+
+
+
+These two conversations show that virtually all leaders in health and medicine are confronting head-on the opportunities, challenges, and the reality of AI, and they see a future that is potentially very different than what we have today.&nbsp;
+
+
+
+[THEME MUSIC]&nbsp;
+
+
+
+I&#8217;d like to thank Umair and Gianrico again for their time and insights. And to our listeners, thank you for joining us. We hope you&#8217;ll tune in to our final episode of the series. My coauthors, Carey and Zak, will be back to examine the takeaways from our most recent conversations.&nbsp;
+
+
+
+Until next time.&nbsp;
+
+
+
+[MUSIC FADES]&nbsp;
+
+				
+			
+			
+				Show more			
+		
+	
+
+
+
+
+
+AI Revolution in Medicine podcast series
+
+
+
+
+
+Opens in a new tabThe post Reimagining healthcare delivery and public health with AI appeared first on Microsoft Research.
 • Self-adaptive reasoning for science
   Unlocking self-adaptive cognitive behavior that is more controllable and explainable than reasoning models in challenging scientific domains
 
@@ -830,7 +2195,7 @@ To verify its findings, Project Ire can invoke a validator tool that cross-check
 		
 
 		
-		Spotlight: AI-POWERED EXPERIENCE
+		PODCAST SERIES
 	
 	
 	
@@ -842,14 +2207,14 @@ To verify its findings, Project Ire can invoke a validator tool that cross-check
 			
 			
 
-									Microsoft research copilot experience
+									The AI Revolution in Medicine, Revisited
 				
-								Discover more about research at Microsoft through our AI-powered experience
+								Join Microsoft’s Peter Lee on a journey to discover how AI is impacting healthcare and what it means for the future of medicine.
 				
 								
 					
 						
-							Start now						
+							Listen now						
 					
 				
 							
@@ -1083,6 +2448,9 @@ In Iteration 2, Evidence Selection and Verdict Generation were repeated for Node
 	
 		
 
+		
+		Spotlight: Event Series
+	
 	
 	
 						
@@ -1093,14 +2461,14 @@ In Iteration 2, Evidence Selection and Verdict Generation were repeated for Node
 			
 			
 
-									Azure AI Foundry Labs
+									Microsoft Research Forum
 				
-								Get a glimpse of potential future directions for AI, with these experimental technologies from Microsoft Research.
+								Join us for a continuous exchange of ideas about research in the era of general AI. Watch the first four episodes on demand.
 				
 								
 					
 						
-							Azure AI Foundry						
+							Watch on-demand						
 					
 				
 							
@@ -1199,223 +2567,75 @@ For an in-depth discussion of VeriTrail, please see our paper “VeriTrail: Clos
 
 5 The only exception was the mistral-large-2411 model, where VeriTrail had the highest balanced accuracy, but not the highest macro F1 score.
 Opens in a new tabThe post VeriTrail: Detecting hallucination and tracing provenance in multi-step AI workflows appeared first on Microsoft Research.
-• Pioneering AI workflows at scale: A deep dive into Asana AI Studio and Amazon Q index collaboration
-  Organizations today face a critical challenge: managing an ever-increasing volume of tasks and information across multiple systems. Although traditional task management tools help organize work, they often fall short in delivering the intelligence needed for truly efficient operations. 
-Today, we’re excited to announce the integration of Asana AI Studio with Amazon Q index, bringing generative AI directly into your daily workflows. This dynamic combination helps teams work smarter by powering AI workflows at scale with data from everyday applications. The result is seamless automation for key use cases like project intake, campaign management, and product launches, transforming how teams work and deliver results. 
-In this post, we explore how Asana AI Studio and Amazon Q index transform enterprise efficiency through intelligent workflow automation and enhanced data accessibility. We start by examining the core capabilities of this powerful integration. Then we dive deep into the technical implementation and a step-by-step process of how to set up the Amazon Q Business data accessor and configure the Asana admin console. Throughout the post, we cover essential topics including security considerations, access controls, and best practices for maximizing the value of this integration. 
-Whether you’re looking to streamline operations, improve decision-making, or break down data silos, this comprehensive guide will show you how to harness the full potential of Asana AI Studio and Amazon Q index in your enterprise environment. 
-The power of integrating Asana AI Studio with Amazon Q index 
-Asana AI Studio represents a breakthrough in no-code automation, helping teams create and deploy AI-powered workflows that streamline operations and minimize routine busywork. As the leading work management service for human and AI coordination, Asana offers enterprise-grade solutions that break down traditional data silos and enhance collaboration through AI-driven automation and insights. 
-Amazon Q index for independent software vendors (ISVs) provides seamless integration of generative AI applications with enterprise data and metadata through an Amazon Q index, so you can search across your application data alongside other enterprise content. This integration capability makes sure ISVs can provide their customers with a unified search experience while maintaining strict security, access controls, and ownership over their data. 
-With the refined indexing of Amazon Q combined with Asana’s comprehensive work management data, organizations can transform how they harness the power of their data. 
-Through the Amazon Q Business data accessor capability, Asana can securely tap into and analyze information from diverse business applications, converting previously isolated data into meaningful business intelligence. This unlocks key use cases like project intake, campaign management, and product launches, all while maintaining data security. 
-The following video demonstrates this solution in action, as a team member uses Asana to quickly access project information, create automated workflows, and receive AI-powered recommendations for task optimization across connected services. 
-
- 
-  
- 
- 
-How the integration benefits enterprises 
-Organizations can transform scattered information into real business outcomes with the combined power of Asana AI Studio and Amazon Q index: 
- 
- Connect applications in minutes – Use cross-application data quickly and confidently with one-time setup and secure permissions 
- Build integrated workflows – Design AI-powered workflows that unify teams and applications, with no code required 
- Scale AI company-wide safely and securely – Access real-time data and insights where your teams already work while the system intelligently maintains strict security protocols and existing access control list (ACL) permissions to help keep sensitive information protected 
- 
-Spencer Herrick, Principal AI Product Manager at Asana, shares: 
-
- “At Asana, we’re committed to helping teams move faster with clarity and confidence. Integrating Amazon Q index into our AI infrastructure is a powerful step forward—it allows us to unify knowledge scattered across enterprise systems and surface highly relevant insights directly in workflows. This not only accelerates decision-making but also improves the quality of execution across teams. AWS has been an exceptional partner throughout this process, and we’re thrilled by the early results and the opportunity to continue innovating on top of this foundation.”
- 
+• The DIVA logistics agent, powered by Amazon Bedrock
+  DTDC is India’s leading integrated express logistics provider, operating the largest network of customer access points in the country. DTDC’s technology-driven logistics solutions cater to a wide range of customers across diverse industry verticals, making them a trusted partner in delivering excellence. 
+DTDC Express Limited receives over 400,000 customer queries each month, ranging from tracking requests to serviceability checks and shipping rates. With such a high volume of shipments, their existing logistics agent, DIVA, was operated on a rigid, guided workflow, forcing users to follow a structured path rather than engaging in natural, dynamic conversations. The lack of flexibility resulted in increased burden on customer support teams, longer resolution times, and poor customer experience. 
+DTDC was looking for a more flexible, intelligent assistant—one that could understand context, manage complex queries, and improve efficiency while reducing reliance on human agents. To achieve a better customer experience, DTDC decided to enhance DIVA with generative AI using Amazon Bedrock. 
+ShellKode is an AWS Partner, born-in-the-cloud company specializing in modernization, security, data, generative AI, and machine learning (ML). With a mission to drive transformative growth, ShellKode empowers businesses through state-of-the-art technology solutions that address complex challenges and unlock new opportunities. Using deep industry expertise, they deliver tailored strategies that foster innovation, efficiency, and long-term success in an evolving digital landscape. 
+In this post, we discuss how DTDC and ShellKode used Amazon Bedrock to build DIVA 2.0, a generative AI-powered logistics agent. 
 Solution overview 
-The Amazon Q Business data accessor functions as a secure gateway, linking enterprise tools to the Amazon Q index. This component offers organizations a protected channel through which Asana AI Studio can retrieve information from their Amazon Q index. This enables Asana’s AI features to provide relevant answers to user queries by incorporating data from various connected systems. 
-The result is an AI-powered experience that combines Asana’s work management capabilities with your organization’s broader information landscape that uses enterprise data across multiple systems. When a user asks a question through smart chat or triggers an AI Studio workflow, Asana’s AI orchestrator processes the query, checking both Asana’s native data for relevant information as well as the Amazon Q Business data accessor to search the Amazon Q index, hosted across the customer’s AWS environment. The index can aggregate data from various enterprise systems such as Google Workspace, Microsoft 365, and Salesforce using built-in Amazon Q Business connectors. The orchestrator then uses generative AI to provide users with contextual, actionable insights directly within the Asana system. With this integration, teams can quickly access project documentation, communication history, and other critical information, enhancing productivity and decision-making efficiency across the aspects of work management. 
-The following diagram illustrates the overall solution integrating Asana AI Studio and Amazon Q index in the customer’s environment. 
+To address the limitations of the existing logistics agent, ShellKode built an advanced agentic assistant using Amazon Bedrock Agents, Amazon Bedrock Knowledge Bases, and an API integration layer. 
+When customers interact with DIVA 2.0, they experience a seamless, conversational interface that understands and responds to their queries naturally. Whether tracking a package, checking shipping rates, or inquiring about service availability, users can ask questions in their own words without following a rigid script. DIVA 2.0’s enhanced AI capabilities allow it to understand context, manage complex requests, and provide accurate, personalized responses, significantly improving the overall customer experience and reducing the need for human intervention. The following high-level architecture diagram illustrates the application flow and the solution architecture with AWS services. 
  
-Prerequisites 
-To use the Amazon Q index integration with Asana’s AI features, you must have the following in place: 
+The DTDC logistics agent is designed using a modular and scalable architecture to provide seamless integration and high performance. This streamlined workflow demonstrates how a generative AI-powered serverless logistics agent using AWS App Runner, Amazon Bedrock Agents, AWS Lambda, and a vector-based knowledge base handles user queries ranging from tracking requests to serviceability checks and shipping rates intelligently and efficiently. 
+The logistics agent is hosted as a static website using Amazon CloudFront and Amazon Simple Storage Service (Amazon S3). The logistics agent is integrated with the DTDC website, which provides an intuitive and user-friendly interface for end-user interactions (see the following screenshot). 
  
- An AWS account with the necessary permissions and service access 
- An active Amazon Q Business setup, configured with AWS IAM Identity Center for user authentication 
- Asana’s AI features enabled 
- Super admin rights within your Asana workspace 
+An end-user accesses the logistics agent through the DTDC website and submits queries like tracking shipments, checking service availability, calculating shipping rates, FAQs, and so on using natural language.The user requests are processed by App Runner, which helps run the web application (including API services, backend web services, and websites) on AWS. App Runner is hosted with multiple API services, such as the Amazon Bedrock Agents API and Dashboard API. App Runner initiates the Amazon Bedrock Agents API based on the user requests. 
+Amazon Bedrock is a fully managed service that offers a choice of industry leading foundation models (FMs) along with a broad set of capabilities to build generative AI applications, simplifying development with security, privacy, and responsible AI. With Amazon Bedrock, your content is not used to improve the base models and is not shared with any model providers. Amazon Bedrock Guardrails provides configurable safeguards to help safely build generative AI applications at scale. To learn more, see Build safe and responsible generative AI applications with guardrails. AWS Identity and Access Management (IAM) helps administrators securely control who can be authenticated and authorized to use Amazon Bedrock resources. 
+The Amazon Bedrock agents are configured in Amazon Bedrock. An Amazon Bedrock agent receives the request and interprets the user’s intent using its natural language understanding capabilities. Based on the interpreted intent, the agent triggers an appropriate Lambda function, such as: 
  
-The Amazon Q Business data accessor facilitates a smooth connection between Asana’s AI tools and your Amazon Q index. To implement this integration, you must perform some initial setup in both the Amazon Q Business environment and your Asana admin console. This typically involves configuring authentication methods, specifying which data sources to include, and setting appropriate access controls. 
-For a comprehensive guide on setting up Amazon Q Business, refer to Innovate on enterprise data with generative AI &amp; Amazon Q Business application. For Asana-specific steps, you can find detailed instructions in the Asana Help Center for Amazon Q index, but we also cover key steps in this post. 
-Add Asana as a data accessor in Amazon Q Business 
-Complete the following steps to add Asana as an Amazon Q Business data accessor: 
+ Tracking consignments 
+ Pricing information 
+ Location serviceability check 
+ Support ticket creation 
  
- On the Amazon Q Business console, choose Applications in the navigation pane. 
- Open the application you want to add a data accessor to. 
- Choose Data accessors in the navigation pane. 
+The triggered Lambda function calls the following client APIs, retrieves the relevant data, and returns the response to the agent: 
  
+ Tracking System API – Retrieves real-time status and provides updates on consignment shipment tracking 
+ Delivery Franchise Location API – Checks the service availability to deliver the parcels between the locations 
+ Pricing System API – Calculates the shipping rates based on shipment details provided by the user 
+ Customer Care API – Creates a support ticket for the end-users 
  
+The agent passes the response to the large language model (LLM), in this case Anthropic’s Claude 3.0 on Amazon Bedrock, which understands the context of the retrieved data, processes it, and generates a meaningful response for the user. 
+The knowledge base contains web-scraped content from the DTDC website, internal support documentation, FAQs, and operational data, enabling real-time updates and accurate responses. The knowledge base contents are stored as vector embeddings in Amazon OpenSearch Service, providing quick and relevant responses. For general queries, the logistics agent fetches information from Amazon Bedrock Knowledge Bases, providing accuracy and relevance. Using semantic similarity search, relevant chunks of information are retrieved from the knowledge base based on the user’s query, which Amazon Bedrock then uses to generate a context-aware response. If no relevant data is found in the knowledge base, a fallback response (preconfigured in the Amazon Bedrock prompt) is returned, indicating that the system couldn’t assist with the request. 
+The logistics agent queries and associated responses are stored in Amazon Relational Database Service (Amazon RDS) for PostgreSQL for enhanced scalability and relational data handling. App Runners initiates the Dashboard API call to update the queries and associated responses in Amazon RDS. We discuss this in more detail the following section. 
+Throughout the process, Amazon CloudWatch Logs captures key events such as intent recognition, Lambda invocations, API responses, and fallback triggers for auditing and system monitoring. AWS CloudTrail records and monitors activity in the AWS account, including actions taken by users, roles, or AWS services. It logs these events, which can be used for operational auditing, governance, and compliance. 
+Amazon GuardDuty is a threat detection service that continuously monitors, analyzes, and processes AWS data sources and logs in your AWS environment. GuardDuty uses threat intelligence feeds, such as lists of malicious IP addresses and domains, file hashes, and ML models to identify suspicious and potentially malicious activity in the AWS environment. 
+Logistics agent dashboard 
+The following high-level architecture diagram illustrates the logistics agent dashboard, which captures the end-user interactions and its associated responses. 
  
- Choose Add data accessor. 
- For Data accessors, choose Asana. 
+The logistics agent dashboard is hosted as a static website using CloudFront and Amazon S3. Dashboard access is allowed only for the DTDC admin team. 
+The dashboard is populated through API calls using Amazon API Gateway with Lambda as a backend, which retrieves the dashboard data from Amazon RDS for PostgreSQL. 
+The dashboard provides real-time insights into the logistics agent performance, including accuracy, unresolved queries, query categories, session statistics, and user interaction data (see the following screenshot). It provides actionable insights with features such as heat maps, pie charts, and session logs. Real-time data is logged and analyzed on the dashboard, enabling continuous improvement and quick issue resolution. 
  
+Solution challenges and benefits 
+When implementing DIVA 2.0, DTDC and ShellKode faced several significant challenges. Integrating real-time data from multiple legacy systems was crucial for providing accurate, up-to-date information on tracking, rates, and serviceability. This was likely addressed through the robust API integration capabilities of Amazon Bedrock Agents. Another major hurdle was training the AI to understand complex logistics terminology and multi-step queries, which was overcome by using Amazon Bedrock LLMs and Amazon Bedrock Knowledge Bases, fine-tuned with industry-specific data. The team also had to navigate the delicate process of transitioning from the old rigid DIVA system while maintaining service continuity and preserving historical data, potentially employing a phased approach with parallel systems. Finally, scaling the solution to handle over 400,000 monthly queries while maintaining performance was a significant challenge, addressed by using the cloud infrastructure of Amazon Bedrock Agents for optimal scalability and performance. These challenges underscore the complexity of upgrading to an AI-powered system in a high-volume, data-intensive industry like logistics, and highlight how AWS solutions provided the necessary tools to overcome these obstacles. DTDC realized the following benefits from powering the logistics agent with generative AI using Amazon Bedrock: 
  
+ Enhanced conversations and real-time data access with customer support agents – Powered by Amazon Bedrock Agents, the solution improves natural language understanding, enabling more fluid and engaging conversations. With multi-step reasoning, it can handle a broader range of queries with greater accuracy. Additionally, by integrating seamlessly with DTDC’s API layer, the logistics agent provides real-time access to vital information, such as tracking shipments, service availability, and calculating shipping rates. The combination of advanced conversational capabilities and real-time data provides fast, accurate, and contextually relevant responses. 
+ Intelligent data processing and accurate FAQ responses – For complex queries, the logistics agent uses LLM technology to process raw data and deliver structured, tailored responses. This makes sure users get clear, actionable insights. For frequently asked questions, the logistics agent uses Amazon Bedrock Knowledge Bases to deliver precise answers without requiring human support, reducing wait times and enhancing the overall user experience. 
+ Reduced live agent dependency and continuous improvement – Although the logistics agent hasn’t eliminated the need for customer support, the number of queries handled by the customer support team has reduced by 51.4%. The system provides valuable insights into key performance metrics like peak query times, unresolved issues, and overall engagement through integrated real-time analytics, helping refine and improve the assistant’s capabilities over time. 
  
- For External ID, enter the external ID provided to you by Asana. 
+Results 
+The generative AI-powered logistics agent has reduced the burden on customer support teams and shortened resolution times, resulting in better customer experience: 
  
-In Asana, the tenant ID (or external ID) in the Amazon Q Business data accessor is called the domain ID. To retrieve the Asana domain ID, choose your account profile in Asana and choose Admin Console. Choose Settings, and scroll to Domain settings to retrieve the ID. 
- 
- Choose Create trusted token issuer. 
- 
- 
- 
- For Trusted token issuer name, enter the name of the trusted token issuer, then choose Create trusted token issuer. 
- 
- 
- 
- For Data source access, select Allow access to all data sources. 
- For User access, select All users with application access, or select Define access based on user and groups for more granular access control. 
- Choose Add data accessor. 
- 
- 
-After you add Asana as a data accessor successfully, a pop-up window will appear with data accessor configuration details. Share the data accessor configuration details with Asana, because it uses them to make a secure connection from the Asana AI Studio system through the Amazon Q index SearchRelevantContent API to retrieve content from your Amazon Q index. 
- 
-Connect an Amazon Q index to the Asana admin console 
-Connecting an Amazon Q index to Asana requires super admin permission. Complete the following steps to connect: 
- 
- Log in to the Asana admin console 
- Choose Settings, Asana AI, and Data connectors. 
- Choose Link account. 
- Fill in the required fields with information gathered from the Amazon Q Business console. 
- Choose Verify connection. 
- 
-After an Amazon Q index is connected to Asana, the option Data to use from connected apps will appear in the rule builder settings within AI Studio. You can now start running workflow rules with enriched context from third-party data sources like Google Drive, Microsoft Outlook, and Salesforce, as shown in the following screenshot. 
- 
-You can also use Asana smart chat in your Asana workspace and start asking questions. While interacting, smart chat will automatically search for relevant information across Asana and the connected third-party data sources like Google Drive using Amazon Q index to provide you with instant answers, as shown in the following screenshot. 
- 
-Clean up 
-When you’re done using this solution, clean up the resources you created: 
- 
- On your Asana admin page, navigate to Settings, Asana AI, Data connectors, and disconnect Amazon Q. 
- 
- 
- 
- On Amazon Q Business console, delete the Asana data accessor from the Data accessors page. Deleting this data accessor will delete permissions and access to the data accessor for users. 
- Delete the Amazon Q Business application that you created as a prerequisite on the Applications page. Deleting the Amazon Q Business application will remove the associated index and data source connectors and avoid incurring additional costs. 
- 
-Conclusion 
-This new Asana and Amazon Q index integration marks a significant advancement in intelligent work management. By merging Asana’s robust work management system with Amazon Q index’s comprehensive search capabilities, organizations can now effortlessly access and use information previously scattered across multiple systems. AI Studio users can craft more intelligent workflows by using external data through the new Data to use from connected apps option in the rule builder, and smart chat users can benefit from automatically cited responses that draw from both Asana and connected third-party sources. All of this is achieved while maintaining security and data ownership, effectively breaking down information silos that often hinder collaboration and efficiency. 
-Whether you’re aiming to increase efficiency, optimize workflows, or make more informed decisions, the Asana and Amazon Q index integration provides the necessary tools to transform how your organization works. We encourage you to explore the Amazon Q Business console and Asana’s AI features documentation to unlock the full potential of your connected workplace. By embracing this powerful integration, you’re not just improving your work management, you’re setting the stage for a more intelligent and efficient future for your team. 
- 
-About the Authors 
-Spencer Herrick is Principal AI Product Manager at Asana. He leads the development of AI-first products that help organizations seamlessly integrate new AI capabilities into collaborative work management. His journey into AI began not in Silicon Valley, but at the Large Hadron Collider in Switzerland, where he worked as an experimental physicist. Since then, Spencer has built and led innovative product teams at Grammarly, Uber, and Postmates, consistently pushing the boundaries of what’s possible at the intersection of AI, personalization, and user experience. 
-Sourabh Banerjee is a Senior WW GenAI specialist at AWS with over 10 years of experience in leading product and GTM strategy. Sourabh leads global strategy and execution for helping customers and partners unlock business productivity through Amazon Q Business across industries. 
-Chinmayee Rane is a Generative AI Specialist Solutions Architect at AWS, with a core focus on generative AI. She helps ISVs accelerate the adoption of generative AI by designing scalable and impactful solutions. With a strong background in applied mathematics and machine learning, she specializes in intelligent document processing and AI-driven innovation. Outside of work, she enjoys salsa and bachata dancing. 
-Bobby Williams is a Senior Solutions Architect at AWS. He has decades of experience designing, building, and supporting enterprise software solutions that scale globally. He works on solutions across industry verticals and horizontals and is driven to create a delightful experience for every customer. 
-Akhilesh Amara is a Software Development Engineer on the Amazon Q team based in Seattle, WA. He is contributing to the development and enhancement of intelligent and innovative AI tools. 
-Chanki Nathani is a Sr. Partner Solutions Architect at AWS, focusing on business applications. With over 10 years of experience, he helps ISVs build and scale their SaaS solutions on AWS, specializing in serverless architectures and generative AI implementations. Chanki helps organizations use AWS AI/ML services, including Amazon Bedrock and Amazon Q Business, to transform their applications and enhance user experiences.
-• Responsible AI for the payments industry – Part 1
-  The payments industry stands at the forefront of digital transformation, with artificial intelligence (AI) rapidly becoming a cornerstone technology that powers a variety of solutions, from fraud detection to customer service. According to the following Number Analytics report, digital payment transactions are projected to exceed $15 trillion globally by 2027. Generative AI has expanded the scope and urgency of responsible AI in payments, introducing new considerations around content generation, conversational interfaces, and other complex dimensions. As financial institutions and payment solutions providers increasingly adopt AI solutions to enhance efficiency, improve security, and deliver personalized experiences, the responsible implementation of these technologies becomes paramount. According to the following McKinsey report, AI could add an estimated $13 trillion to the global economy by 2030, representing about a 16% increase in cumulative GDP compared with today. This translates to approximately 1.2% additional GDP growth per year through 2030. 
-AI in payments helps drive technological advancement and strengthens building trust. When customers entrust their financial data and transactions to payment systems, they expect convenience and security, additionally fairness, transparency, and respect for their privacy. AWS recognizes the critical demands facing payment services and solution providers, offering frameworks that can help executives and AI practitioners transform responsible AI into a potential competitive advantage. The following Accenture report has additional statistics and data about responsible AI. 
-This post explores the unique challenges facing the payments industry in scaling AI adoption, the regulatory considerations that shape implementation decisions, and practical approaches to applying responsible AI principles. In Part 2, we provide practical implementation strategies to operationalize responsible AI within your payment systems. 
-Payment industry challenges 
-The payments industry presents a unique landscape for AI implementation, where the stakes are high and the potential impact on individuals is significant. Payment technologies directly impact consumers’ financial transactions and merchant options, making responsible AI practices an important consideration and a critical necessity. 
-The payments landscape—encompassing consumers, merchants, payment networks, issuers, banks, and payment processors—faces several challenges when implementing AI solutions: 
- 
- Data classification and privacy – Payment data is among the most sensitive information. In addition to financial details, it also includes patterns that can reveal personal behaviors, preferences, and life circumstances. Due to various regulations, AI systems that process these data systems are required to maintain the highest standards of privacy protection and data security. 
- Real-time processing requirements – Payment systems often require split-second decisions, such as approving a transaction, flagging potential fraud, or routing payments. Production AI systems seek to deliver high standards for accuracy, latency, and cost while maintaining security and minimizing friction. This is important because failed transactions or incorrect decisions might result in poor customer experience or other financial loss. 
- Global operational context – Payment providers often operate across jurisdictions with varying regulatory frameworks and standards. These include India’s Unified Payments Interface (UPI), Brazil’s PIX instant payment system, the United States’ FedNow and Real-Time Payments (RTP) networks, and the European Union’s Payment Services Directive (PSD2) and Single Euro Payments Area (SEPA) regulations. AI systems should be adaptable enough to function appropriately across these diverse contexts while adhering to consistent responsible standards. 
- Financial inclusion imperatives – The payment industry seeks to expand access to financial services for their customers. It’s important to design AI systems that promote inclusive financial access by mitigating bias and discriminatory outcomes. Responsible AI considerations can help create equitable opportunities while delivering frictionless experiences for diverse communities. 
- Regulatory landscape – The payments industry navigates one of the economy’s most stringent regulatory environments, with AI implementation adding new layers of compliance requirements: 
+ Powered by Amazon Bedrock, DIVA 2.0 understands queries in natural language and supports dynamic conversations with a response accuracy of 93% 
+ Based on the last 3 months of dashboard metrics data, they observed the following: 
    
-   Global regulatory frameworks – From the EU’s General Data Protection Regulation (GDPR) and the upcoming EU AI Act to the Consumer Financial Protection Bureau (CFPB) guidelines in the US, payment solution providers navigate disparate global requirements, presenting a unique challenge for scaling AI usage across the globe. 
-   Explainability requirements – Regulators increasingly demand that financial institutions be able to explain AI-driven decisions, especially those that impact consumers directly, like multimodal AI for combining biometric, behavioral, and contextual authentication. 
-   Anti-discrimination mandates – Financial regulations in many jurisdictions explicitly prohibit discriminatory practices. AI systems should be designed and monitored to help prevent inadvertent bias in decisions related to payment approvals and comply with fair lending laws. 
-   Model risk management – Regulatory frameworks like Regulation E in the US require financial institutions to validate models, including AI systems, and maintain robust governance processes around their development, implementation, and ongoing monitoring. 
+   71% of the inquiries were related to consignments (256,048), whereas 29.5% were general inquiries (107,132) 
+   51.4% of consignment inquiries (131,530) didn’t result in a support ticket, whereas 48.6% (124,518) led to new support ticket creation 
+   Of the inquiries that resulted in tickets, 40% started with the customer support center before moving to the AI assistant, whereas 60% began with the assistant before involving the customer support center 
     
  
-The regulatory landscape for AI in financial services continues to evolve rapidly. Payment providers strive to stay abreast of changes and maintain flexible systems that can adapt to new requirements. 
-Core principles of responsible AI 
-In the following sections, we review how responsible AI considerations can be applied in the payment industry. The core principles include controllability, privacy and security, safety, fairness, veracity and robustness, explainability, transparency, and governance, as illustrated in the following figure. 
- 
-Controllability 
-Controllability refers to the extent to which an AI system behaves as designed, without deviating from its functional objectives and constraints. Controllability promotes practices that keep AI systems within designed limits while maintaining human control. This principle requires robust human oversight mechanisms, allowing for intervention, modification, and fine-grained control over AI-driven financial processes. In practice, this means creating sophisticated review workflows, establishing clear human-in-the-loop protocols for high-stakes financial decisions, and maintaining the ability to override or modify AI recommendations when necessary. 
-In the payment industry, you can apply controllability in the following ways: 
- 
- Create human review workflows for high-value or unusual transactions using Amazon Augmented AI (Amazon A2I). For more details, see Automate digitization of transactional documents with human oversight using Amazon Textract and Amazon A2I. 
- Develop override mechanisms for AI-generated fraud alerts. One possible approach could be implementing a human-in-the-loop system. For an example implementation, refer to Implement human-in-the-loop confirmation with Amazon Bedrock Agents. 
- Establish clear protocols to flag and escalate AI-related decisions that impact customer financial health. This can help establish a defined path to take in the case of any discrepancy or anomalies. 
- Implement configurable AI systems that can be adjusted based on specific institutional policies. This can help make sure the AI systems are agile and flexible with ever-evolving changes, which can be configurable to steer model behavior accordingly. 
- Design user interfaces (UIs) in which users can provide context or challenge AI-driven decisions. 
- 
-Privacy and security: Protecting consumer information 
-Given the sensitive nature of financial data, privacy and security represent a critical consideration in AI-driven payment systems. A multi-layered protection strategy might include advanced encryption protocols, rigorous data minimization techniques, and comprehensive safeguards for personally identifiable information (PII). Compliance with global data protection regulations represents a legal requirement and is also a fundamental commitment to responsibly protecting individuals’ most sensitive financial information. 
-In the payment industry, you can maintain privacy and security with the following methods: 
- 
- Implement advanced encryption for all transaction data. Use AWS Key Management Service (AWS KMS) for encrypting data at rest and Transport Layer Security (TLS) for encrypting data in transit. 
- Implement environment segmentation for a multi-layered protection strategy. 
- Apply differential privacy techniques. For more details, see How differential privacy helps unlock insights without revealing data at the individual-level. 
- Create anonymized datasets for AI training that can’t be traced back to individual customers. 
- Develop secure multi-factor authentication systems powered by AI. This can be done using multi-factor authentication for IAM. 
- 
-Safety: Mitigating potential risks 
-Safety in AI-driven payment systems focuses on proactively identifying and mitigating potential risks. This involves developing comprehensive risk assessment frameworks (such as NIST AI Risk Management Framework, which provides structured approaches to govern, map, measure, and manage AI risks), implementing advanced guardrails to help prevent unintended system behaviors, and creating fail-safe mechanisms that protect both payment solutions providers and users from potential AI-related vulnerabilities. The goal is to create AI systems that work well and are fundamentally reliable and trustworthy. 
-In the payment industry, you can implement safety measures as follows: 
- 
- Develop guardrails to help prevent unauthorized transaction patterns. One possible way is using Amazon Bedrock Guardrails. For an example solution, see Implement model-independent safety measures with Amazon Bedrock Guardrails. 
- Create AI systems that can detect and help prevent potential financial fraud in real-time. 
- Implement multi-layered risk assessment models for complex financial products. One possible method is using an Amazon SageMaker inference pipeline. 
- Design fail-safe mechanisms that can halt AI decision-making during anomalous conditions. This can be done by architecting the system to determine anomalous behavior, flagging it, and possibly adding a human in the loop for those transactions. 
- Implement red teaming and perform penetration testing to identify potential system vulnerabilities before they can be exploited. 
- 
-Fairness: Detect and mitigate bias 
-To create a more inclusive financial landscape and promote demographic parity, fairness should be a key consideration in payments. Financial institutions are required to rigorously examine their AI systems to mitigate potential bias or discriminatory outcomes across demographic groups. This means algorithms and training data for applications such as credit scoring, loan approval, or fraud detection should be carefully calibrated and meticulously assessed for biases. 
-In the payment industry, you can implement fairness in the following ways: 
- 
- Assess models and data for the presence and utilization of attributes such as gender, race, or socioeconomic background to promote demographic parity. Tools such as Amazon Bedrock Evaluations or Amazon SageMaker Clarify can help evaluate and assess the application’s bias in data and model output. 
- Implement observability, monitoring, and alerts using AWS services like Amazon CloudWatch to support regulatory compliance and provide non-discriminatory opportunities across customer demographics. 
- Evaluate data used for model training for biases using tools like SageMaker Clarify to correct and mitigate disparities. 
- 
-These guidelines can be applied for various payment applications and processes, including fraud detection, loan approval, financial risk assessment, credit scoring, and more. 
-Veracity and robustness: Promoting accuracy and reliability 
-Truthful and accurate system output is an important consideration for AI in payment systems. By continuously validating AI models, organizations can make sure that financial predictions, risk assessments, and transaction analyses maintain consistent accuracy over time. To achieve robustness, AI systems must maintain performance across diverse scenarios, handle unexpected inputs, and adapt to changing financial landscapes without compromising accuracy or reliability. 
-In the payment industry, you can apply robustness through the following methods: 
- 
- Create AI models that maintain accuracy across diverse economic conditions. 
- Implement rigorous testing protocols that simulate various financial scenarios. For example test tools, refer to Test automation. 
- Create cross-validation mechanisms to verify AI model predictions. SageMaker provides built-in cross-validation capabilities, experiment tracking, and continuous model monitoring, and AWS Step Functions orchestrates complex validation workflows across multiple methods. For critical predictions, Amazon A2I enables human-in-the-loop validation. 
- Use Retrieval Augmented Generation (RAG) and Amazon Bedrock Knowledge Bases to improve accuracy of AI-powered payment decision systems, reducing the risk of hallucinations. 
- 
-Explainability: Making complex decisions understandable 
-Explainability bridges the gap between complex AI algorithms and human understanding. In payments, this means developing AI systems can articulate the reasoning behind its decisions in clear, understandable terms. AI should provide insights that are meaningful and accessible to users and financial professionals explaining a risk calculation, fraud detection flag, or transaction recommendation depending on the business use case. 
-In the payment industry, you can implement explainability as follows: 
- 
- Generate consumer-friendly reports that break down complex financial algorithms. 
- Create interactive tools so users can explore the factors behind their financial assessments. 
- Develop visualization tools that demonstrate how AI arrives at specific financial recommendations. 
- Provide regulatory compliance-aligned documentation that explains AI model methodologies. 
- Design multilevel explanation systems that cater to both technical and non-technical audiences. 
- 
-Transparency: Articulate the decision-making process 
-Transparency refers to providing clear, accessible, and meaningful information that helps stakeholders understand the system’s capabilities, limitations, and potential impacts. Transparency transforms AI from an opaque black box into a human understandable, communicative system. In the payments sector, this principle demands that AI-powered financial decisions be both accurate and explicable. Financial institutions should be able to evidence how credit limits are determined, why a transaction might be flagged, or how a financial risk assessment is calculated. 
-In the payment industry, you can promote transparency in the following ways: 
- 
- Create interactive dashboards that break down how AI calculates transaction risks. You can use services like Amazon QuickSight to build interactive dashboards and data stories. You can use SageMaker for feature importance summary or SHAP (SHapley Additive exPlanations) reports that quantify how much each input feature contributes to a model’s prediction for a specific instance. 
- Offer real-time notifications that explain why a transaction was flagged or declined. You can send notifications using Amazon Simple Notification Service (Amazon SNS). 
- Develop customer-facing tools that help users understand the factors influencing their credit scores. AI agents can provide interactive feedback about the factors involved and deliver more details to users. You can build these AI agents using Amazon Bedrock. 
- 
-Governance: Promoting accuracy and reliability 
-Governance establishes the framework for responsible AI implementation and ongoing monitoring and management. In payments, this means creating clear structures for AI oversight, defining roles and responsibilities, and establishing processes for regular review and intervention when necessary. Effective governance makes sure AI systems operate within established responsible AI boundaries while maintaining alignment with organizational values and regulatory requirements. 
-In the payment industry, you can apply governance as follows: 
- 
- Implement cross-functional AI review boards with representation from legal, compliance, and ethics teams. 
- Establish clear escalation paths for AI-related decisions that require human judgment. 
- Develop comprehensive documentation of AI system capabilities, limitations, and risk profiles. 
- Create regular audit schedules to evaluate AI performance against responsible AI dimensions. 
- Design feedback mechanisms that incorporate stakeholder input into AI governance processes. 
- Maintain version control and change management protocols for AI model updates. 
- 
-Conclusion 
-As we’ve explored throughout this guide, responsible AI in the payments industry represents both a strategic imperative and competitive advantage. By embracing the core principles of controllability, privacy, safety, fairness, veracity, explainability, transparency, and governance, payment providers can build AI systems that enhance efficiency and security, and additionally foster trust with customers and regulators. In an industry where financial data sensitivity and real-time decision-making intersect with global regulatory frameworks, those who prioritize responsible AI practices will be better positioned to navigate challenges while delivering innovative solutions. We invite you to assess your organization’s current AI implementation against these principles and refer to Part 2 of this series, where we provide practical implementation strategies to operationalize responsible AI within your payment systems. 
-As the payments landscape continues to evolve, organizations that establish responsible AI as a core competency will mitigate risks and build stronger customer relationships based on trust and transparency. In an industry where trust is the ultimate currency, responsible AI is a responsible choice and an important business imperative. 
-To learn more about responsible AI, refer to the AWS Responsible Use of AI Guide. 
+DIVA 2.0 has reduced the number of queries handled by the customer support team by 51.4%. DTDC’s support team can now focus on more critical issues, improving overall efficiency. 
+Summary 
+This post demonstrated how Amazon Bedrock can transform a traditional chatbot to a generative AI-powered logistics agent that provides better customer experience through dynamic conversation. For businesses facing similar challenges, this solution offers a blueprint for modernizing your AI assistant while maintaining compliance with industry standards. 
+To learn more about this AWS solution, contact AWS for further assistance. AWS can provide detailed information about implementation, pricing, and how to tailor the solution to your specific business needs. 
  
 About the authors 
-Neelam Koshiya Neelam Koshiya is principal Applied AI Architect (GenAI specialist) at AWS. With a background in software engineering, she moved organically into an architecture role. Her current focus is to help enterprise customers with their ML/ genAI journeys for strategic business outcomes. She likes to build content/mechanisms to scale to larger audience. She is passionate about innovation and inclusion. In her spare time, she enjoys reading and being outdoors. 
- Ana Gosseen Ana is a Solutions Architect at AWS who partners with independent software vendors in the public sector space. She leverages her background in data management and information sciences to guide organizations through technology modernization journeys, with particular focus on generative AI implementation. She is passionate about driving innovation in the public sector while championing responsible AI adoption. She spends her free time exploring the outdoors with her family and dog, and pursuing her passion for reading.
+Rishi Sareen – Chief Information Officer (CIO), DTDC is a seasoned technology leader with over two decades of experience in driving digital transformation, enterprise IT strategy, and innovation across the logistics and supply chain sector. He specializes in building agile, AI-driven, and secure technology ecosystems that enhance operational efficiency and customer experience. Rishi leads initiatives spanning system modernization, data intelligence, automation, cybersecurity, cloud, and artificial intelligence. He is deeply committed to aligning technology with business outcomes while fostering a culture of continuous improvement and purposeful innovation. A strong advocate for people-centric leadership, Rishi places high emphasis on nurturing talent, building high-performing teams, and mentoring future-ready technology leaders who can thrive in dynamic, AI-powered environments. Known for his strategic vision and disciplined execution, he has led large-scale digital initiatives and transformation programs that deliver lasting business impact. 
+Arunraja Karthick – Head – IT Services &amp; Security (CISO), DTDC is a strategic IT and cybersecurity leader with over 15 years of experience driving enterprise-scale digital transformation. As the Head of IT Services &amp; Security (CISO) at DTDC Express Limited, he leads the organization’s core IT, cloud, and security programs—transforming legacy environments into agile, secure, and cloud-native ecosystems. Under his leadership, DTDC has adopted a hybrid cloud architecture spanning AWS, GCP, and on-prem colocation, with a vision to enable dynamic workload mobility and vendor-neutral scalability. Arunraja has led critical modernization efforts, including the migration of key business applications to microservices and containerized platforms, while ensuring high availability and regulatory compliance. Known for his deep technical insight and execution discipline, he has implemented enterprise-wide cybersecurity frameworks—from Email DLP, Mobile Device Management, and Conditional Access to Hybrid WAF and advanced SOC operations. He has also championed secure access transformation through Zero Trust-aligned Secure WebVPN, redefining how internal users access corporate apps. Arunraja’s leadership is grounded in platform thinking, automation, and a user-first mindset. His recent initiatives include the enterprise rollout of GenAI copilots for customer experience and operations, as well as unified policy-based DLP and content control mechanisms across endpoints and cloud. Recognized as an Influential Technology Leader, Arunraja continues to challenge conventional IT boundaries—aligning security, agility, and innovation to power business evolution. 
+Bakrudeen K an AWS Ambassador, leads the AI/ML practice at Shellkode, focusing on driving innovation in artificial intelligence, especially in Generative AI. He plays a key role in building teams and advanced AI solutions, Agentic Assistants, and other next-gen technologies. Bakrudeen has made notable contributions to AI/ML research and development. In 2023 and 2024, he received the Generative AI Consulting Excellence Partner Award at the AI Conclave and the Social Impact Partner of the Year Award for Generative AI at AWS re:Invent 2024, both on behalf of Shellkode reflecting the team’s strong commitment to innovation and impact in the AI space. 
+Suresh Kanniappan is a Solutions Architect at AWS, handling Automotive, Manufacturing and Logistics enterprises in India. He is passionate about cloud security and Industry solutions that can solve real world problems. Prior to AWS, he worked for AWS customers and partners in consulting, migration and solution architecture roles for over 14 years. 
+Sid Chandilya is a Sr. Customer Relations Manager at AWS, responsible for tech led business transformation with Automotive, Manufacturing and Logistics enterprises in India. Sid is peculiarly passionate about challenging status quos, building a joint “Think Big” vision with customer CXOs and leveraging Ai infused tech to accelerate outcomes. He is known for his deep understanding of industry imperatives (working backward from customer) and translating the business pain points into tech solution.
 
 ⸻
