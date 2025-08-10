@@ -1,17 +1,17 @@
-✅ Morning News Briefing – August 09, 2025 10:45
+✅ Morning News Briefing – August 10, 2025 10:46
 
-📅 Date: 2025-08-09 10:45
+📅 Date: 2025-08-10 10:46
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
 • HEAT WARNING, Pembroke
-  Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions . People in or around this area are advised to take necessary precautions . Weather conditions are expected to worsen in the summer of 2025 . People should also be aware of the weather conditions in the area and take safety precautions if conditions worsen in August 2025 . The weather is expected to deteriorate in
-• Current Conditions:  19.1°C
-  Observed at: Pembroke 6:00 AM EDT Saturday 9 August 2025 Temperature: 19.1&deg;C Pressure / Tendency: 102.0 kPa rising Humidity: 87 % Dewpoint: 16.9&deg:C Wind: SE 5 km/h Air Quality Health Index: n/a . Observed in the UK for the first time
-• Saturday: Chance of showers. High 32. POP 30%
-  Mainly cloudy. 30 percent chance of showers this afternoon with risk of thunderstorm . High 32. Humidex 42. UV index 7 or high. High UV index seven or high . Forecast issued 5:00 AM EDT Saturday 9 August 2025. Forecast: Showers, thunderstorms, rain, rain and thunderstorms forecast for the next few days. Showers and thunder
+  Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions . People in or around this area are advised to take necessary precautions . The weather is expected to change rapidly and be more severe in the years of the 20th century . For confidential support call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here
+• Current Conditions:  18.5°C
+  Temperature: 18.5&deg;C Pressure / Tendency: 102.1 kPa rising Humidity: 99 % Humidity : 99 % Dewpoint: 18 .2&deg:C Wind: NW calm km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Sunday 10 August 2025 . Weather forecast: 20,000
+• Sunday: Mainly sunny. High 34.
+  Fog patches dissipating this morning . Mix of sun and cloud this afternoon . High 34. Humidex 42. UV index 8 or very high . High temperatures 34.5 degrees Celsius . Forecast issued 6:31 AM EDT Sunday 10 August 2025. Forecast: Sunny, sunny, breezy, sunny and breezy. High 34 degrees Celsius or lower than normal. Fog patches
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• An ancient archaeological site meets conspiracy theories — and Joe Rogan
-  In the hills of southeastern Turkey lies a site so ancient, it's turning our understanding of civilization on its head and leading to conspiracy theories . The site is so ancient that it has turned our understanding into conspiracy theories, leading to theories of conspiracy theories about the discovery of the site in the region of the Turkish city of Salkalkalka, a city in the ancient region of Turkey
-• 'At least I'm safe': A Kenyan immigrant opts to leave the U.S. on his own terms, leaving children and wife behind
-  The Trump administration has given an ultimatum to immigrants without legal status: Leave voluntarily, or you'll be detained and deported . This has forced some immigrant families in the U.S. to grapple with very hard choices . Some immigrant families have been forced to make very difficult choices, including leaving voluntarily or being detained and deporting . The administration has also given some families the ultim
-• Italy is reviving plans for a bridge connecting Sicily to the mainland. Will it work?
-  Plans for the bridge were first approved in the 1970s, but have stopped and started over the decades . Plans for a bridge in Italy have been approved but have been stalled for decades . The bridge is expected to be completed in the next few years, according to the city's mayor of Milan . The city is located in the heart of the city of Milan, Italy, and is located
-• We get asked about tariffs all the time. Here's what we say
-  NPR staffers get asked about tariffs all the time . Here are some of the most frequent questions — and what we answer . From inflation to recession, we who cover the economy and business at NPR often ask about tariffs . What do you think about tariffs? Share your thoughts with us at iReport.com/news@mailonline.com . Back to the page you came from.com
-• Why good houseguests don't actually 'make themselves at home'
-  Elaine Swann tackles tricky questions about staying at a loved one's place . Is it OK to borrow their car? Extend your stay? Extend their stay? Show up empty-handed? Advice on how to be a star guest . Follow Elaine on Twitter @ElaineSwann and @Wanderluster for more information on staying at loved ones' homes . Visit www.wanderluster
+• Asylum-seekers thought they were following the rules. Now some are told to start over
+  Dozens of immigrants across the U.S. have received letters notifying them that their asylum cases have been dismissed because they have not yet received a screening interview . NPR has learned that dozens of immigrants in the United States have been told their cases will not be processed because they haven't yet received an interview . The letters include letters informing immigrants that their cases are dismissed because of lack of screening
+• Defense Secretary Pete Hegseth reposts video of pastors saying women shouldn't vote
+  Secretary of Defense Pete Hegseth reposted the video profiling Christian Nationalist Pastor Doug Wilson, who opposes same-sex marriage . The video was posted on Facebook by Christian Nationalists Doug Wilson . Wilson is a pastor who opposes gay marriage and opposes it in the U.S. Pastor Wilson is the leader of the Christian Nationalism movement . Wilson's comments were posted in the
+• Texas big game hunter killed while stalking African Cape buffalo
+  Asher Watkins had been tracking a cape buffalo for the kill when the animal instead turned its attack on the hunter . Watkins was attacked by the cape buffalo while he was hunting for a kill . The animal attacked Watkins after he was caught on camera by a local photographer . Watkins is the first person to capture the animal in the wild to capture in Africa's most dangerous cape buffalo in Africa .
+• 4 people and 5 months in space, NASA's Crew-10 mission safely returns to Earth
+  It took the capsule 17 hours to make the trip home, experiencing re-entry temperatures of around 3,000 degrees Fahrenheit as it punched through the atmosphere following Friday's ISS undocking . The ISS capsule experienced temperatures of about 3,500 degrees Fahrenheit . It took 17 hours for the capsule to make its 17-hour journey home from the ISS, which was undocked on Friday morning .
+• CDC shooter believed COVID vaccine made him suicidal, his father tells police
+  The Georgia Bureau of Investigation identified the man who opened fire at the Centers for Disease Control and Prevention as Patrick Joseph White . White died and a police officer was shot and killed . White and the police officer were killed in the incident . White was identified as the shooter, who died in a police shootout with a federal law enforcement officer . The officer was killed by a single gunshot wound to the
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
+• How OpenAI used a new data type to cut inference costs by 75%
+  Decision to use MXFP4 makes models smaller, faster, and more importantly, cheaper for everyone involved . OpenAI's new open weights models are any good is still up for debate, but their use of a relatively new data type is arguably more important, especially if it catches on among its rivals . Decision to . use MXF4 makes . models smaller and faster, making models smaller
+• NASA won't name the Shuttle picked to move to Texas
+  Acting Administrator has selected a lucky orbiter, but won't say which one . Space Shuttle to move to Houston, and the lucky vehicle is... NASA's not telling which one it will be . The lucky vehicle will be a Space Shuttle, but NASA won't reveal which one is . The space shuttle will be the first to go to Houston and will be in orbit around Houston, Texas
+• The inside story of the Telemessage saga, and how you can view the data
+  Micah Lee explained how he hacked into TeleMessage, the supposedly secure messaging app used by White House officials, which in turn led to a massive database dump of their communications . Lee: "It turns out no one was clean on OPSEC DEF CON   It turns out that no one is clean on the DEF CON .……… It turned out that the White House was hacked
+• The dead need right to delete their data so they can't be AI-ified, lawyer says
+  People die but their data may endure, which troubles legal scholar Victoria Haneman . Not everyone wants to be simulated after they're gone, she says . Legal scholar: Data may endure after they die, but it's not everyone who wants it to do so . Haneman: Data should be simulated, not simulated, and it's a problem for people who want it to stay alive .
 • The International Obfuscated C Code Contest is back for 2024
   The IOCCC, as it's familiarly known, is back after a four-year gap . It's giving the entrants more time to come up with some remarkably devious code . The prizes in the 40th anniversary edition prizes were just awarded . Yes, 2024 – the prizes in this year's edition prize was just awarded. It's the first time the IOCCC has been back
-• UK unveils plans to 'transform' the consumer smart meter experience
-  Department for Energy Security and Net Zero plans "tough new obligations" for energy suppliers to boost the long-delayed and heavily over-budget UK rollout of smart meters . Smart meters have been delayed and over-funded by the UK government . The government has promised better support for those who have already received such a device . Does 40 quid from the supplier sound all right for waiting
-• Humans make better content cops than AI, but cost 40x more
-  Human content moderators still outperform AI when it comes to recognizing policy-violating material, but they also cost significantly more . To keep toxic content from damaging brands, both people and machines have a place . Human content moderation is still outperforming AI, but it also costs significantly more to keep it in line with brands like Amazon, Google, Facebook and Spotify . The U.S.
-• Chinese biz using AI to hit US politicians, influencers with propaganda
-  A cache of documents uncovered by Vanderbilt University have revealed disturbing details about how a Chinese company is building up a database of US politicians and influencers to share propaganda . The documents reveal how the Chinese company has been building up an online database of politicians, influencers with whom to share its propaganda . In misinformation, Russia might be the top dog but the Chinese are coming warns former NSA boss DEF
-• Meet President Willian H. Brusen from the great state of Onegon
-  OpenAI's GPT-5 is supposed to be the company's flagship model, offering better reasoning and more accurate responses than previous-gen products . But when we asked it to draw maps and timelines, it responded with answers from an alternate dimension . LLMs still struggle with accurate text within graphics hands on the GPT5, which was unveiled on Thursday, still struggles with text .
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• Physical fitness status and associated determinants among Chinese children aged 9–12 years in Shandong province: a population-based cross-sectional study
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Evidence triangulator: using large language models to extract and synthesize causal evidence across study designs
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Dietary supplement consumption is associated with lower dietary quality in Chinese university students based on a cross-sectional study
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Hemoglobin and mean platelet volume abnormalities in children exposed to heavy metals and metalloids in a pilot biomonitoring study
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Demographic variations and temporal trends in hospice and palliative care fellowship matches in the United States
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Regional factors affecting the prevalence of hypertension using geographic information system
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Comparative analysis of reproductive health knowledge and practices of female college students in Xinjiang medical and non-medical majors in 2023
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -2197,7 +2197,7 @@ To verify its findings, Project Ire can invoke a validator tool that cross-check
 		
 
 		
-		Spotlight: Event Series
+		PODCAST SERIES
 	
 	
 	
@@ -2209,14 +2209,14 @@ To verify its findings, Project Ire can invoke a validator tool that cross-check
 			
 			
 
-									Microsoft Research Forum
+									The AI Revolution in Medicine, Revisited
 				
-								Join us for a continuous exchange of ideas about research in the era of general AI. Watch the first four episodes on demand.
+								Join Microsoft’s Peter Lee on a journey to discover how AI is impacting healthcare and what it means for the future of medicine.
 				
 								
 					
 						
-							Watch on-demand						
+							Listen now						
 					
 				
 							
@@ -2451,7 +2451,7 @@ In Iteration 2, Evidence Selection and Verdict Generation were repeated for Node
 		
 
 		
-		PODCAST SERIES
+		Spotlight: Microsoft research newsletter
 	
 	
 	
@@ -2463,14 +2463,14 @@ In Iteration 2, Evidence Selection and Verdict Generation were repeated for Node
 			
 			
 
-									AI Testing and Evaluation: Learnings from Science and Industry
+									Microsoft Research Newsletter
 				
-								Discover how Microsoft is learning from other domains to advance evaluation and testing as a pillar of AI governance.
+								Stay connected to the research community at Microsoft.
 				
 								
 					
 						
-							Listen now						
+							Subscribe today						
 					
 				
 							
