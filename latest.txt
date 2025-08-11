@@ -1,17 +1,17 @@
-✅ Morning News Briefing – August 10, 2025 10:46
+✅ Morning News Briefing – August 11, 2025 10:49
 
-📅 Date: 2025-08-10 10:46
+📅 Date: 2025-08-11 10:49
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
 • HEAT WARNING, Pembroke
-  Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions . People in or around this area are advised to take necessary precautions . The weather is expected to change rapidly and be more severe in the years of the 20th century . For confidential support call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here
-• Current Conditions:  18.5°C
-  Temperature: 18.5&deg;C Pressure / Tendency: 102.1 kPa rising Humidity: 99 % Humidity : 99 % Dewpoint: 18 .2&deg:C Wind: NW calm km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Sunday 10 August 2025 . Weather forecast: 20,000
-• Sunday: Mainly sunny. High 34.
-  Fog patches dissipating this morning . Mix of sun and cloud this afternoon . High 34. Humidex 42. UV index 8 or very high . High temperatures 34.5 degrees Celsius . Forecast issued 6:31 AM EDT Sunday 10 August 2025. Forecast: Sunny, sunny, breezy, sunny and breezy. High 34 degrees Celsius or lower than normal. Fog patches
+  Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions . People in or around this area are advised to take necessary precautions . Weather conditions are expected to worsen in the summer of 2025 . People should also be aware of the weather conditions in the area and take safety precautions if conditions worsen in August 2025 . The weather is expected to deteriorate in
+• Current Conditions:  18.8°C
+  Temperature: 18.8&deg;C Pressure / Tendency: 101.9 kPa rising Humidity: 93 % Dewpoint: 17.6&deg:C Wind: SSE 2 km/h Air Quality Health Index: n/a . Observed at: Pembroke 6:00 AM EDT Monday 11 August 2025 . Weather: 18/8/C
+• Monday: Sunny. High 34.
+  Sunny. Wind becoming south 20 km/h this afternoon . High 34. Humidex 41. UV index 8 or very high. Windbecoming south 20km/h today afternoon . Wind will be south to 20kmph this afternoon, with highs of 34.5C . Wind could gust up to 20 kmphph this morning, forecasters predict . High of 34C
 
 🌍 International News
 No updates.
@@ -20,31 +20,31 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Asylum-seekers thought they were following the rules. Now some are told to start over
-  Dozens of immigrants across the U.S. have received letters notifying them that their asylum cases have been dismissed because they have not yet received a screening interview . NPR has learned that dozens of immigrants in the United States have been told their cases will not be processed because they haven't yet received an interview . The letters include letters informing immigrants that their cases are dismissed because of lack of screening
-• Defense Secretary Pete Hegseth reposts video of pastors saying women shouldn't vote
-  Secretary of Defense Pete Hegseth reposted the video profiling Christian Nationalist Pastor Doug Wilson, who opposes same-sex marriage . The video was posted on Facebook by Christian Nationalists Doug Wilson . Wilson is a pastor who opposes gay marriage and opposes it in the U.S. Pastor Wilson is the leader of the Christian Nationalism movement . Wilson's comments were posted in the
-• Texas big game hunter killed while stalking African Cape buffalo
-  Asher Watkins had been tracking a cape buffalo for the kill when the animal instead turned its attack on the hunter . Watkins was attacked by the cape buffalo while he was hunting for a kill . The animal attacked Watkins after he was caught on camera by a local photographer . Watkins is the first person to capture the animal in the wild to capture in Africa's most dangerous cape buffalo in Africa .
-• 4 people and 5 months in space, NASA's Crew-10 mission safely returns to Earth
-  It took the capsule 17 hours to make the trip home, experiencing re-entry temperatures of around 3,000 degrees Fahrenheit as it punched through the atmosphere following Friday's ISS undocking . The ISS capsule experienced temperatures of about 3,500 degrees Fahrenheit . It took 17 hours for the capsule to make its 17-hour journey home from the ISS, which was undocked on Friday morning .
-• CDC shooter believed COVID vaccine made him suicidal, his father tells police
-  The Georgia Bureau of Investigation identified the man who opened fire at the Centers for Disease Control and Prevention as Patrick Joseph White . White died and a police officer was shot and killed . White and the police officer were killed in the incident . White was identified as the shooter, who died in a police shootout with a federal law enforcement officer . The officer was killed by a single gunshot wound to the
+• Trump's tariff revenue has skyrocketed. But how big is it, really?
+  President Trump's new tariffs are pouring in, but it's still only a fraction of overall government revenues . It falls short of new spending in the recent Republican megabill . The tariffs are still only part of the government's overall budget deficit, and fall short of spending in recent GOP megabills . The president's tariffs are expected to raise $1.2 billion in a year
+• Factories are losing immigrant workers, stressing those who remain
+  Trump campaigned on helping American workers through his immigration policies . Now that he's revoked work authorization for thousands of immigrants, those left behind are feeling taxed by their absence . Those left behind feel taxed by the absence of those who have been granted work authorization to work in the U.S. Now that they have been left behind, they say they're feeling the loss of their work authorization .
+• Boston Public Library aims to increase access to a vast historic archive using AI
+  The library is launching a project in collaboration with Harvard Law School and OpenAI this summer to digitize the materials and make them more fully searchable . Boston Public Library is also working with OpenAI to make the materials more searchable and easier to find . The project is a collaboration between the library and the law school of Harvard Law Law School, OpenAI and the Harvard University of Harvard
+• What's the deal with claims that birth control is dangerous?
+  Social media is full of videos saying hormonal contraception can hurt you and promoting natural alternatives . How did the treatments get such a bad reputation and do alternatives work? Do you know how to get rid of the bad reputation? Share your story with CNN iReport.com . Back to the page you came from.com/news/show us what you think you need to do to avoid the
+• Israeli strike kills journalists in Gaza City, worsening the death toll for the media
+  Israel's military targeted an Al Jazeera correspondent with an airstrike Sunday, killing him, another network journalist and other people . All of whom were sheltering outside the Gaza City Hospital complex were killed . The airstrike killed him, a fellow Al Jazeera journalist and two other people, all of whom he was sheltering from an airstrike . Israel's airstrike killed a journalist, another Al Jazeera reporter and a
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• How OpenAI used a new data type to cut inference costs by 75%
-  Decision to use MXFP4 makes models smaller, faster, and more importantly, cheaper for everyone involved . OpenAI's new open weights models are any good is still up for debate, but their use of a relatively new data type is arguably more important, especially if it catches on among its rivals . Decision to . use MXF4 makes . models smaller and faster, making models smaller
-• NASA won't name the Shuttle picked to move to Texas
-  Acting Administrator has selected a lucky orbiter, but won't say which one . Space Shuttle to move to Houston, and the lucky vehicle is... NASA's not telling which one it will be . The lucky vehicle will be a Space Shuttle, but NASA won't reveal which one is . The space shuttle will be the first to go to Houston and will be in orbit around Houston, Texas
-• The inside story of the Telemessage saga, and how you can view the data
-  Micah Lee explained how he hacked into TeleMessage, the supposedly secure messaging app used by White House officials, which in turn led to a massive database dump of their communications . Lee: "It turns out no one was clean on OPSEC DEF CON   It turns out that no one is clean on the DEF CON .……… It turned out that the White House was hacked
-• The dead need right to delete their data so they can't be AI-ified, lawyer says
-  People die but their data may endure, which troubles legal scholar Victoria Haneman . Not everyone wants to be simulated after they're gone, she says . Legal scholar: Data may endure after they die, but it's not everyone who wants it to do so . Haneman: Data should be simulated, not simulated, and it's a problem for people who want it to stay alive .
-• The International Obfuscated C Code Contest is back for 2024
-  The IOCCC, as it's familiarly known, is back after a four-year gap . It's giving the entrants more time to come up with some remarkably devious code . The prizes in the 40th anniversary edition prizes were just awarded . Yes, 2024 – the prizes in this year's edition prize was just awarded. It's the first time the IOCCC has been back
+• Torvalds blasts tardy kernel dev: Your 'garbage' RISC-V patches are 'making the world worse'
+  Linux head honcho Linus Torvalds has put a kernel developer "on notice" for waiting until the eleventh hour to supply a patch set for Linux on RISC-V systems which "makes the world actively a worse place to live" – in a scathing missive harkening back to his invective-laden tirades of old . Well, at least
+• Snotty astronauts should skip spacewalks, suggests study
+  Pressure difference between space station, space suits increases congestion, say boffins . No one can hear you sneeze in space, but that hasn't stopped a team of boffin . Key takeaway: skip the spacewalk - maybe skip the space walk . The pressure difference between the space station and space suits is due to increase in congestion . Pressure difference also increases in space
+• The UK’s cartographer maps mission to help people and business
+  Britain's Ordnance Survey, founded in 1791, is interloping in the digital age . AR games mingle with underground assets in the data plan for 200-year-old survey . Minecraft, AR gaming, and EV charger locations have all become part of its portfolio, alongside the paper-based maps beloved by the nation's legion of cagoule-clad outdoor types
+• Your CV is not fit for the 21st century – time to get it up to scratch
+  The job market is queasy and since you're reading this, you need to upgrade your CV . It's going to require some work to game the poorly trained AIs now doing so much of the heavy lifting . And yes, that means that means (retch) catering to AI searchers . I know you don't want to, but it's best to think of this as dealing
+• AI coding tools crash on launch, could reboot better in future
+  The CEO of GitHub, coding’s universal termite mound, says that AI is going to do all the coding . Meanwhile, real life AI coding tools make coders less productive while spreading the hallucination that they’re more so . Here are two snapshots of AI in coding in mid 2025, one from GitHub CEO Grace Hopper, and one from Grace Hoppers .
 
 🏥 Public Health
 No updates.
@@ -68,6 +68,65 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• This quantum radar could image buried objects
+  Physicists have created a new type of radar that could help improve underground imaging, using a cloud of atoms in a glass cell to detect reflected radio waves. The radar is a type of quantum sensor, an emerging technology that uses the quantum-mechanical properties of objects as measurement devices. It’s still a prototype, but its intended use is to image buried objects in situations such as constructing underground utilities, drilling wells for natural gas, and excavating archaeological sites.
+
+
+
+Like conventional radar, the device sends out radio waves, which reflect off nearby objects. Measuring the time it takes the reflected waves to return makes it possible to determine where an object is. In conventional radar, the reflected waves are detected using a large antenna, among other receiver components. But in this new device, the reflected waves are registered by detecting the interactions between the returning waves and the atom cloud.
+
+
+
+The current incarnation of the radar is still bulky, as the researchers have kept it connected to components on an optical table for ease of testing. But they think their quantum radar could be significantly smaller than conventional designs. “Instead of having this sizable metal structure to receive the signal, we now can use this small glass cell of atoms that can be about a centimeter in size,” says Matthew Simons, a physicist at the National Institute of Standards and Technology (NIST), who was a member of the research team. NIST also worked with the defense contractor RTX to develop the radar.&nbsp;&nbsp;
+
+
+
+
+
+The glass cell that serves as the radar’s quantum component is full of cesium atoms kept at room temperature. The researchers use lasers to get each individual cesium atom to swell to nearly the size of a bacterium, about 10,000 times bigger than the usual size. Atoms in this bloated condition are called Rydberg atoms.&nbsp;
+
+
+
+When incoming radio waves hit Rydberg atoms, they disturb the distribution of electrons around their nuclei. Researchers can detect the disturbance by shining lasers on the atoms, causing them to emit light; when the atoms are interacting with a radio wave, the color of their emitted light changes. Monitoring the color of this light thus makes it possible to use the atoms as a radio receiver. Rydberg atoms are sensitive to a wide range of radio frequencies without needing to change the physical setup, says Michał Parniak, a physicist at the University of Warsaw in Poland, who was not involved in the work. This means a single compact radar device could potentially work at the multiple frequency bands required for different applications.
+
+
+
+Simons’s team tested the radar by placing it in a specially designed room with foam spikes on the floor, ceiling, and walls like stalactites and stalagmites. The spikes absorb, rather than reflect, nearly all the radio waves that hit them. This simulates the effect of a large open space, allowing the group to test the radar’s imaging capability without unwanted reflections off walls.&nbsp;
+
+
+
+MATT SIMONS, NIST
+
+
+
+
+The researchers placed a radio wave transmitter in the room, along with their Rydberg atom receiver, which was hooked up to an optical table outside the room. They aimed radio waves at a copper plate about the size of a sheet of paper, some pipes, and a steel rod in the room, each placed up to five meters away. The radar allowed them to locate the objects to within 4.7 centimeters. The team posted a paper on the research to the arXiv preprint server in late June.
+
+
+
+The work moves quantum radar closer to a commercial product. “This is really about putting elements together in a nice way,” says Parniak. While other researchers have previously demonstrated how Rydberg atoms can work as radio wave detectors, he says, this group has integrated the receiver with the rest of the device more sleekly than before.&nbsp;
+
+
+
+Other researchers have explored the use of Rydberg atoms for other radar applications. For example, Parniak’s team recently developed a Rydberg atom sensor for measuring radio frequencies to troubleshoot chips used in car radar. Researchers are also exploring whether radar using Rydberg-atom receivers could be used for measuring soil moisture.
+
+
+
+This device is just one example of a quantum sensor, a type of technology that incorporates quantum components into conventional tools. For example, the US government has developed gyroscopes that use the wave properties of atoms for sensing rotation, which is useful for navigation. Researchers have also created quantum sensors using impurities in diamond to measure magnetic fields in, for example, biomedical applications.
+
+
+
+
+
+One advantage of quantum sensors is the inherent consistency of their core components. Each cesium atom in their device is identical. In addition, the radio receiver relies on the fundamental structure of these atoms, which never changes. Properties of the atoms “can be linked directly to fundamental constants,” says Simons. For this reason, quantum sensors should require less calibration than their non-quantum counterparts.&nbsp;
+
+
+
+Governments worldwide have invested billions of dollars to develop quantum sensors and quantum computers, which share similar components. For example, researchers have built quantum computers using Rydberg atoms as qubits, the equivalent to bits in a conventional computer. Thus, advances in quantum sensing can potentially translate into advances into quantum computing, and vice versa. Parniak has recently adapted an error-correction technique from quantum computing to improve a Rydberg-atom-based sensor.&nbsp;
+
+
+
+Researchers still need to continue developing quantum radar before it can be made commercially viable. In the future, they need to work on improving the device’s sensitivity to fainter signals, which could involve improving the coatings for the glass cell. “We don’t see this replacing all radar applications,” says Simons. Instead, he thinks it will be useful for particular scenarios that require a compact device.
 • The Download: GPT-5 is here, and Intel’s CEO drama
   This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
 
@@ -466,162 +525,6 @@ Natali says improving our understanding of these complex feedback effects is ess
 
 
 This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
-• Five ways that AI is learning to improve itself
-  Last week, Mark Zuckerberg declared that Meta is aiming to achieve smarter-than-human AI. He seems to have a recipe for achieving that goal, and the first ingredient is human talent: Zuckerberg has reportedly tried to lure top researchers to Meta Superintelligence Labs with nine-figure offers. The second ingredient is AI itself.&nbsp; Zuckerberg recently said on an earnings call that Meta Superintelligence Labs will be focused on building self-improving AI—systems that can bootstrap themselves to higher and higher levels of performance.
-
-
-
-The possibility of self-improvement distinguishes AI from other revolutionary technologies. CRISPR can’t improve its own targeting of DNA sequences, and fusion reactors can’t figure out how to make the technology commercially viable. But LLMs can optimize the computer chips they run on, train other LLMs cheaply and efficiently, and perhaps even come up with original ideas for AI research. And they’ve already made some progress in all these domains.
-
-
-
-According to Zuckerberg, AI self-improvement could bring about a world in which humans are liberated from workaday drudgery and can pursue their highest goals with the support of brilliant, hypereffective artificial companions. But self-improvement also creates a fundamental risk, according to Chris Painter, the policy director at the AI research nonprofit METR. If AI accelerates the development of its own capabilities, he says, it could rapidly get better at hacking, designing weapons, and manipulating people. Some researchers even speculate that this positive feedback cycle could lead to an “intelligence explosion,” in which AI rapidly launches itself far beyond the level of human capabilities.
-
-
-
-But you don’t have to be a doomer to take the implications of self-improving AI seriously. OpenAI, Anthropic, and Google all include references to automated AI research in their AI safety frameworks, alongside more familiar risk categories such as chemical weapons and cybersecurity. “I think this is the fastest path to powerful AI,” says Jeff Clune, a professor of computer science at the University of British Columbia and senior research advisor at Google DeepMind. “It’s probably the most important thing we should be thinking about.”
-
-
-
-
-
-By the same token, Clune says, automating AI research and development could have enormous upsides. On our own, we humans might not be able to think up the innovations and improvements that will allow AI to one day tackle prodigious problems like cancer and climate change.
-
-
-
-For now, human ingenuity is still the primary engine of AI advancement; otherwise, Meta would hardly have made such exorbitant offers to attract researchers to its superintelligence lab. But AI is already contributing to its own development, and it’s set to take even more of a role in the years to come. Here are five ways that AI is making itself better.
-
-
-
-1. Enhancing productivity
-
-
-
-Today, the most important contribution that LLMs make to AI development may also be the most banal. “The biggest thing is coding assistance,” says Tom Davidson, a senior research fellow at Forethought, an AI research nonprofit. Tools that help engineers write software more quickly, such as Claude Code and Cursor, appear popular across the AI industry: Google CEO Sundar Pichai claimed in October 2024 that a quarter of the company’s new code was generated by AI, and Anthropic recently documented a wide variety of ways that its employees use Claude Code. If engineers are more productive because of this coding assistance, they will be able to design, test, and deploy new AI systems more quickly.
-
-
-
-But the productivity advantage that these tools confer remains uncertain: If engineers are spending large amounts of time correcting errors made by AI systems, they might not be getting any more work done, even if they are spending less of their time writing code manually. A recent study from METR found that developers take about 20% longer to complete tasks when using AI coding assistants, though Nate Rush, a member of METR’s technical staff who co-led the study, notes that it only examined extremely experienced developers working on large code bases. Its conclusions might not apply to AI researchers who write up quick scripts to run experiments.
-
-
-
-Conducting a similar study within the frontier labs could help provide a much clearer picture of whether coding assistants are making AI researchers at the cutting edge more productive, Rush says—but that work hasn’t yet been undertaken. In the meantime, just taking software engineers’ word for it isn’t enough: The developers METR studied thought that the AI coding tools had made them work more efficiently, even though the tools had actually slowed them down substantially.
-
-
-
-2. Optimizing infrastructure
-
-
-
-Writing code quickly isn’t that much of an advantage if you have to wait hours, days, or weeks for it to run. LLM training, in particular, is an agonizingly slow process, and the most sophisticated reasoning models can take many minutes to generate a single response. These delays are major bottlenecks for AI development, says Azalia Mirhoseini, an assistant professor of computer science at Stanford University and senior staff scientist at Google DeepMind. “If we can run AI faster, we can innovate more,” she says.
-
-
-
-That’s why Mirhoseini has been using AI to optimize AI chips. Back in 2021, she and her collaborators at Google built a non-LLM AI system that could decide where to place various components on a computer chip to optimize efficiency. Although some other researchers failed to replicate the study’s results, Mirhoseini says that Nature investigated the paper and upheld the work’s validity—and she notes that Google has used the system’s designs for multiple generations of its custom AI chips.
-
-
-
-More recently, Mirhoseini has applied LLMs to the problem of writing kernels, low-level functions that control how various operations, like matrix multiplication, are carried out in chips. She’s found that even general-purpose LLMs can, in some cases, write kernels that run faster than the human-designed versions.
-
-
-
-Elsewhere at Google, scientists built a system that they used to optimize various parts of the company’s LLM infrastructure. The system, called AlphaEvolve, prompts Google’s Gemini LLM to write algorithms for solving some problem, evaluates those algorithms, and asks Gemini to improve on the most successful—and repeats that process several times. AlphaEvolve designed a new approach for running datacenters that saved 0.7% of Google’s computational resources, made further improvements to Google’s custom chip design, and designed a new kernel that sped up Gemini’s training by 1%.&nbsp;&nbsp;&nbsp;
-
-
-
-That might sound like a small improvement, but at a huge company like Google it equates to enormous savings of time, money, and energy. And Matej Balog, a staff research scientist at Google DeepMind who led the AlphaEvolve project, says that he and his team tested the system on only a small component of Gemini’s overall training pipeline. Applying it more broadly, he says, could lead to more savings.
-
-
-
-3. Automating training
-
-
-
-LLMs are famously data hungry, and training them is costly at every stage. In some specific domains—unusual programming languages, for example—real-world data is too scarce to train LLMs effectively. Reinforcement learning with human feedback, a technique in which humans score LLM responses to prompts and the LLMs are then trained using those scores, has been key to creating models that behave in line with human standards and preferences, but obtaining human feedback is slow and expensive.&nbsp;
-
-
-
-Increasingly, LLMs are being used to fill in the gaps. If prompted with plenty of examples, LLMs can generate plausible synthetic data in domains in which they haven’t been trained, and that synthetic data can then be used for training. LLMs can also be used effectively for reinforcement learning: In an approach called “LLM as a judge,” LLMs, rather than humans, are used to score the outputs of models that are being trained. That approach is key to the influential “Constitutional AI” framework proposed by Anthropic researchers in 2022, in which one LLM is trained to be less harmful based on feedback from another LLM.
-
-
-
-Data scarcity is a particularly acute problem for AI agents. Effective agents need to be able to carry out multistep plans to accomplish particular tasks, but examples of successful step-by-step task completion are scarce online, and using humans to generate new examples would be pricey. To overcome this limitation, Stanford’s Mirhoseini and her colleagues have recently piloted a technique in which an LLM agent generates a possible step-by-step approach to a given problem, an LLM judge evaluates whether each step is valid, and then a new LLM agent is trained on those steps. “You’re not limited by data anymore, because the model can just arbitrarily generate more and more experiences,” Mirhoseini says.
-
-
-
-4. Perfecting agent design
-
-
-
-One area where LLMs haven’t yet made major contributions is in the design of LLMs themselves. Today’s LLMs are all based on a neural-network structure called a transformer, which was proposed by human researchers in 2017, and the notable improvements that have since been made to the architecture were also human-designed.&nbsp;
-
-
-
-But the rise of LLM agents has created an entirely new design universe to explore. Agents need tools to interact with the outside world and instructions for how to use them, and optimizing those tools and instructions is essential to producing effective agents. “Humans haven’t spent as much time mapping out all these ideas, so there’s a lot more low-hanging fruit,” Clune says. “It’s easier to just create an AI system to go pick it.”
-
-
-
-Together with researchers at the startup Sakana AI, Clune created a system called a “Darwin Gödel Machine”: an LLM agent that can iteratively modify its prompts, tools, and other aspects of its code to improve its own task performance. Not only did the Darwin Gödel Machine achieve higher task scores through modifying itself, but as it evolved, it also managed to find new modifications that its original version wouldn’t have been able to discover. It had entered a true self-improvement loop.
-
-
-
-5. Advancing research
-
-
-
-Although LLMs are speeding up numerous parts of the LLM development pipeline, humans may still remain essential to AI research for quite a while. Many experts point to “research taste,” or the ability that the best scientists have to pick out promising new research questions and directions, as both a particular challenge for AI and a key ingredient in AI development.&nbsp;
-
-
-
-But Clune says research taste might not be as much of a challenge for AI as some researchers think. He and Sakana AI researchers are working on an end-to-end system for AI research that they call the “AI Scientist.” It searches through the scientific literature to determine its own research question, runs experiments to answer that question, and then writes up its results.
-
-
-
-One paper that it wrote earlier this year, in which it devised and tested a new training strategy aimed at making neural networks better at combining examples from their training data, was anonymously submitted to a workshop at the International Conference on Machine Learning, or ICML—one of the most prestigious conferences in the field—with the consent of the workshop organizers. The training strategy didn’t end up working, but the paper was scored highly enough by reviewers to qualify it for acceptance (it is worth noting that ICML workshops have lower standards for acceptance than the main conference). In another instance, Clune says, the AI Scientist came up with a research idea that was later independently proposed by a human researcher on X, where it attracted plenty of interest from other scientists.
-
-
-
-“We are looking right now at the GPT-1 moment of the AI Scientist,” Clune says. “In a few short years, it is going to be writing papers that will be accepted at the top peer-reviewed conferences and journals in the world. It will be making novel scientific discoveries.”
-
-
-
-Is superintelligence on its way?
-
-
-
-With all this enthusiasm for AI self-improvement, it seems likely that in the coming months and years, the contributions AI makes to its own development will only multiply. To hear Mark Zuckerberg tell it, this could mean that superintelligent models, which exceed human capabilities in many domains, are just around the corner. In reality, though, the impact of self-improving AI is far from certain.
-
-
-
-It’s notable that AlphaEvolve has sped up the training of its own core LLM system, Gemini—but that 1% speedup may not observably change the pace of Google’s AI advancements. “This is still a feedback loop that’s very slow,” says Balog, the AlphaEvolve researcher. “The training of Gemini takes a significant amount of time. So you can maybe see the exciting beginnings of this virtuous [cycle], but it’s still a very slow process.”
-
-
-
-If each subsequent version of Gemini speeds up its own training by an additional 1%, those accelerations will compound. And because each successive generation will be more capable than the previous one, it should be able to achieve even greater training speedups—not to mention all the other ways it might devise to improve itself. Under such circumstances, proponents of superintelligence argue, an eventual intelligence explosion looks inevitable.
-
-
-
-This conclusion, however, ignores a key observation: Innovation gets harder over time. In the early days of any scientific field, discoveries come fast and easy. There are plenty of obvious experiments to run and ideas to investigate, and none of them have been tried before. But as the science of deep learning matures, finding each additional improvement might require substantially more effort on the part of both humans and their AI collaborators. It’s possible that by the time AI systems attain human-level research abilities, humans or less-intelligent AI systems will already have plucked all the low-hanging fruit.
-
-
-
-Determining the real-world impact of AI self-improvement, then, is a mighty challenge. To make matters worse, the AI systems that matter most for AI development—those being used inside frontier AI companies—are likely more advanced than those that have been released to the general public, so measuring o3’s capabilities might not be a great way to infer what’s happening inside OpenAI.
-
-
-
-But external researchers are doing their best—by, for example, tracking the overall pace of AI development to determine whether or not that pace is accelerating. METR is monitoring advancements in AI abilities by measuring how long it takes humans to do tasks that cutting-edge systems can complete themselves. They’ve found that the length of tasks that AI systems can complete independently has, since the release of GPT-2 in 2019, doubled every seven months.&nbsp;
-
-
-
-Since 2024, that doubling time has shortened to four months, which suggests that AI progress is indeed accelerating. There may be unglamorous reasons for that: Frontier AI labs are flush with investor cash, which they can spend on hiring new researchers and purchasing new hardware. But it’s entirely plausible that AI self-improvement could also be playing a role.
-
-
-
-That’s just one indirect piece of evidence. But Davidson, the Forethought researcher, says there’s good reason to expect that AI will supercharge its own advancement, at least for a time. METR’s work suggests that the low-hanging-fruit effect isn’t slowing down human researchers today, or at least that increased investment is effectively counterbalancing any slowdown. If AI notably increases the productivity of those researchers, or even takes on some fraction of the research work itself, that balance will shift in favor of research acceleration.
-
-
-
-“You would, I think, strongly expect that there’ll be a period when AI progress speeds up,” Davidson says. “The big question is how long it goes on for.”
 
 🔒 Cybersecurity & Privacy
 • KrebsOnSecurity in New ‘Most Wanted’ HBO Max Series
@@ -2132,443 +2035,6 @@ Acknowledgements
 
 We are grateful for Jason Zander and Nadia Karim’s support. We extend our thanks to colleagues both inside and outside Microsoft Discovery and Quantum for sharing their insights and feedback, including Allen Stewart, Yasser Asmi, David Marvin, Harsha Nori, Scott Lundberg, and Phil Waymouth.&nbsp;
 Opens in a new tabThe post Self-adaptive reasoning for science appeared first on Microsoft Research.
-• Project Ire autonomously identifies malware at scale
-  Today, we are excited to introduce an autonomous AI agent that can analyze and classify software without assistance, a step forward in cybersecurity and malware detection. The prototype, Project Ire, automates what is considered the gold standard in malware classification: fully reverse engineering a software file without any clues about its origin or purpose. It uses decompilers and other tools, reviews their output, and determines whether the software is malicious or benign.
-
-
-
-Project Ire&nbsp;emerged&nbsp;from a collaboration&nbsp;between&nbsp;Microsoft Research, Microsoft Defender Research, and Microsoft Discovery & Quantum, bringing together security&nbsp;expertise, operational knowledge, data from global malware telemetry, and AI research. It is built on the same collaborative and agentic foundation behind&nbsp;GraphRAG (opens in new tab)&nbsp;and&nbsp;Microsoft Discovery (opens in new tab).&nbsp;The system&nbsp;uses advanced language models and a suite of callable reverse engineering and binary analysis tools to drive investigation and adjudication.
-
-
-
-As of this writing, Project Ire has achieved a precision (opens in new tab) of 0.98 and a recall (opens in new tab) of 0.83 using public datasets of Windows drivers. It was the first reverse engineer at Microsoft, human or machine, to author a conviction case—a detection strong enough to justify automatic blocking—for a specific advanced persistent threat (APT) malware sample, which has since been identified and blocked by Microsoft Defender.&nbsp;
-
-
-
-Malware classification at a global scale
-
-
-
-Microsoft’s Defender platform scans more than one billion monthly (opens in new tab) active devices through the company’s Defender suite of products, which routinely require manual review of software by experts.
-
-
-
-This kind of work is challenging. Analysts often face error and alert fatigue, and there’s no easy way to compare and standardize how different people review and classify threats over time. For both of these reasons, today&#8217;s overloaded experts are vulnerable to burnout, a well-documented issue in the field.
-
-
-
-Unlike other AI applications in security, malware classification lacks a computable validator (opens in new tab). The AI must make judgment calls without definitive validation beyond expert review. Many behaviors found in software, like reverse engineering protections, don’t clearly indicate whether a sample is malicious or benign.&nbsp;
-
-
-
-This ambiguity requires analysts to investigate each sample incrementally, building enough evidence to determine whether it’s malicious or benign despite opposition from adaptive, active adversaries. This&nbsp;has long made it difficult to automate and scale what is inherently a complex and expensive process.
-
-
-
-Technical foundation
-
-
-
-Project Ire attempts to address these challenges by acting as an autonomous system that uses specialized tools to reverse engineer software. The system’s architecture allows for reasoning at multiple levels, from low-level binary analysis to control flow reconstruction and high-level interpretation of code behavior.
-
-
-
-Its tool-use API enables the system to update its understanding of a file using a wide range of reverse engineering tools, including Microsoft memory analysis sandboxes based on Project Freta (opens in new tab), custom and open-source tools, documentation search, and multiple decompilers.&nbsp;&nbsp;
-
-
-
-Reaching a verdict&nbsp;
-
-
-
-The evaluation process begins with a triage, where automated reverse engineering tools identify the file type, its structure, and potential areas of interest. From there, the system reconstructs the software’s control flow graph using frameworks such as angr (opens in new tab) and Ghidra (opens in new tab), building a graph that forms the backbone of Project Ire’s memory model and guides the rest of the analysis.&nbsp;&nbsp;
-
-
-
-Through iterative function analysis, the LLM calls specialized tools through an API to identify and summarize key functions. Each result feeds into a “chain of evidence,” a detailed, auditable trail that shows how the system reached its conclusion. This traceable evidence log supports secondary review by security teams and helps refine the system in cases of misclassification.&nbsp;&nbsp;
-
-
-
-To verify its findings, Project Ire can invoke a validator tool that cross-checks claims in the report against the chain of evidence. This tool draws on expert statements from malware reverse engineers on the Project Ire team. Drawing on this evidence and its internal model, the system creates a final report and classifies the sample as malicious or benign.
-
-
-
-	
-		
-
-		
-		PODCAST SERIES
-	
-	
-	
-						
-				
-					
-				
-			
-			
-			
-
-									The AI Revolution in Medicine, Revisited
-				
-								Join Microsoft’s Peter Lee on a journey to discover how AI is impacting healthcare and what it means for the future of medicine.
-				
-								
-					
-						
-							Listen now						
-					
-				
-							
-	
-Opens in a new tab	
-	
-
-
-Preliminary testing shows promise&nbsp;
-
-
-
-Two early evaluations tested Project Ire’s effectiveness as an autonomous malware classifier. In the first, we assessed Project Ire on a dataset of publicly accessible Windows drivers, some known to be malicious, others benign. Malicious samples came from the Living off the Land Drivers (opens in new tab) database, which includes a collection of Windows drivers used by attackers to bypass security controls, while known benign drivers were sourced from Windows Update.&nbsp;
-
-
-
-This classifier performed well, correctly identifying 90% of all files and flagging only 2% of benign files as threats. It achieved a precision of 0.98 and a recall of 0.83. This low false-positive rate suggests clear potential for deployment in security operations, alongside expert reverse engineering reviews.&nbsp;
-
-
-
-For each file it analyzes, Project Ire generates a report that includes an evidence section, summaries of all examined code functions, and other technical artifacts.&nbsp;&nbsp;
-
-
-
-Figures 1 and 2 present reports for two successful malware classification cases generated during testing. The first involves a kernel-level rootkit, Trojan:Win64/Rootkit.EH!MTB (opens in new tab). The system identified several key features, including jump-hooking, process termination, and web-based command and control. It then correctly flagged the sample as malicious.
-
-
-
-
-
-
-  
-  Figure 1 Analysis
-  
-
-
-  
-    The binary contains a function named &#8216;MonitorAndTerminateExplorerThread_16f64&#8217; that runs an infinite loop waiting on synchronization objects and terminates system threads upon certain conditions. It queries system or process information, iterates over processes comparing their names case-insensitively to &#8216;Explorer.exe&#8217;, and manipulates registry values related to &#8216;Explorer.exe&#8217;. This function appears to monitor and potentially terminate or manipulate the &#8216;Explorer.exe&#8217; process, a critical Windows shell process. Such behavior is suspicious and consistent with malware that aims to disrupt or control system processes.
-    Another function, &#8216;HttpGetRequestAndResponse_174a4&#8217;, performs HTTP GET requests by parsing URLs, resolving hostnames, opening sockets, sending requests, and reading responses. This network communication capability could be leveraged for command and control or data exfiltration, common in malware.
-    The binary also includes a function &#8216;PatchProcessEntryPointWithHook_12b5c&#8217; that patches the entry point of a process by writing a hook or trampoline that redirects execution to a specified address. This technique is commonly used for process injection or hooking, allowing malware to alter process behavior or inject malicious code.
-    Other functions related to sending IOCTL requests to device drivers were identified, but their maliciousness could not be conclusively determined without additional context.
-    Overall, the binary exhibits multiple indicators of malicious behavior, including process manipulation, network communication, and code injection techniques, suggesting it is likely malware designed to interfere with system processes and communicate with remote servers.
-  
-
-
-Figure 1. Project Ire report, sample with SHA256: 86047bb1969d1db455493955fd450d18c62a3f36294d0a6c3732c88dfbcc4f62 (opens in new tab)
-
-
-
-The second sample, HackTool:Win64/KillAV!MTB (opens in new tab), was designed to disable antivirus software. Project Ire correctly identified the code that locates and disables antivirus programs, providing evidence that the file was malicious.&nbsp;&nbsp;
-
-
-
-In one section of the code, however, the system misidentified a function as anti-debugging behavior. To maintain accuracy, the system used the validator tool to flag the claim as unsupported. The issue was later resolved by updating decompiler rules, but this example illustrates how Project Ire navigates uncertainty during analysis. Figure 2 shows the corresponding report.&nbsp;
-
-
-
-
-
-
-  
-  Figure 2 Analysis
-  
-
-
-  
-    The binary contains several functions indicative of malicious intent. The function register_and_log_known_processes_140001000 logs and registers process names associated with antivirus and security software, such as &#8216;avp.exe&#8217;, &#8216;avpui.exe&#8217;, and &#8216;360Tray.exe&#8217;. It calls another function, TerminateProcessesByNameSubstring_1400010f4, which enumerates system processes and terminates those whose names contain specified substrings. This behavior is typical of malware attempting to disable or evade security software by killing their processes.
-    Another function, check_and_handle_special_state_14000502c, performs checks on a global variable and triggers software interrupts if certain conditions are not met. While the exact purpose of these interrupts (int 0x29 and int 0x3) is unclear, they could represent an anti-debug or anti-analysis mechanism to detect or interfere with debugging or tampering attempts. However, this assumption could not be fully validated against expert statements.
-    Other functions include initialization routines and simple logging wrappers, but the core malicious behavior centers on process termination targeting security software. This indicates the binary is designed to compromise system security by disabling protective processes, a hallmark of malware such as trojans or rootkits.
-  
-
-
-Figure 2. Project Ire report, sample with SHA256: b6cb163089f665c05d607a465f1b6272cdd5c949772ab9ce7227120cf61f971a (opens in new tab)
-
-
-
-Real-world evaluation with Microsoft Defender&nbsp;
-
-
-
-The more demanding test involved nearly 4,000 “hard-target” files not classified by automated systems and slated for manual review by expert reverse engineers.
-
-
-
-In this real-world scenario, Project Ire operated fully autonomously on files created after the language models’ training cutoff, files that no other automated tools at Microsoft could classify at the time.
-
-
-
-The system achieved a high precision score of 0.89, meaning nearly 9 out of 10 files flagged malicious were correctly identified as malicious. Recall was 0.26, indicating that under these challenging conditions, the system detected roughly a quarter of all actual malware.
-
-
-
-The system correctly identified many of the malicious files, with few false alarms, just a 4% false positive rate. While overall performance was moderate, this combination of accuracy and a low error rate suggests real potential for future deployment.
-
-
-
-Looking ahead&nbsp;
-
-
-
-Based on these early successes, the Project Ire prototype will be leveraged inside Microsoft’s Defender organization as Binary Analyzer for threat detection and software classification.
-
-
-
-Our goal is to scale the system’s speed and accuracy so that it can correctly classify files from any source, even on first encounter. Ultimately, our vision is to detect novel malware directly in memory, at scale.
-
-
-
-Acknowledgements&nbsp;
-
-
-
-Project Ire acknowledges the following additional developers that contributed to the results in this publication: Dayenne de Souza, Raghav Pande, Ryan Terry, Shauharda Khadka, and Bob Fleck for their independent review of the system.
-
-
-
-The system incorporates multiple tools, including the&nbsp;angr&nbsp;framework developed by&nbsp;Emotion Labs (opens in new tab). Microsoft has collaborated extensively with Emotion Labs, a pioneer in cyber autonomy, throughout the development of Project Ire, and thanks them for the innovations and insights that contributed to the successes reported here.&nbsp;
-Opens in a new tabThe post Project Ire autonomously identifies malware at scale appeared first on Microsoft Research.
-• VeriTrail: Detecting hallucination and tracing provenance in multi-step AI workflows
-  Watch VeriTrail Explainer
-
-
-
-
-Many applications of language models (LMs) involve generating content based on source material, such as answering questions, summarizing information, and drafting documents. A critical challenge for these applications is that LMs may produce content that is not supported by the source text – a phenomenon known as “closed-domain hallucination.”1
-
-
-
-Existing methods for detecting closed-domain hallucination typically compare a given LM output to the source text, implicitly assuming that there is only a single output to evaluate. However, applications of LMs increasingly involve processes with multiple generative steps: LMs generate intermediate outputs that serve as inputs to subsequent steps and culminate in a final output. Many agentic workflows follow this paradigm (e.g., each agent is responsible for a specific document or sub-task, and their outputs are synthesized into a final response). &nbsp;
-
-
-
-In our paper “VeriTrail: Closed-Domain Hallucination Detection with Traceability,” we argue that, given the complexity of processes with multiple generative steps, detecting hallucination in the final output is necessary but not sufficient. We also need traceability, which has two components:&nbsp;
-
-
-
-
-Provenance: if the final output is supported by the source text, we should be able to trace its path through the intermediate outputs to the source.&nbsp;
-
-
-
-Error Localization: if the final output is not supported by the source text, we should be able to trace where the error was likely introduced.
-
-
-
-
-Our paper presents VeriTrail, the first closed-domain hallucination detection method designed to provide traceability for processes with any number of generative steps. We also demonstrate that VeriTrail outperforms baseline methods commonly used for hallucination detection. In this blog post, we provide an overview of VeriTrail’s design and performance.2
-
-
-
-VeriTrail’s hallucination detection process
-
-
-
-A key idea leveraged by VeriTrail is that a wide range of generative processes can be represented as a directed acyclic graph (DAG). Each node in the DAG represents a piece of text (i.e., source material, an intermediate output, or the final output) and each edge from node A to node B indicates that A was used as an input to produce B. Each node is assigned a unique ID, as well as a stage reflecting its position in the generative process. &nbsp;
-
-
-
-An example of a process with multiple generative steps is GraphRAG. A DAG representing a GraphRAG run is illustrated in Figure 1, where the boxes and arrows correspond to nodes and edges, respectively.3
-
-
-
-Figure 1: GraphRAG splits the source text into chunks (Stage 1). For each chunk, an LM extracts entities and relationships (the latter are denoted by “⭤ “), along with short descriptions (Stage 2). If an entity or a relationship was extracted from multiple chunks, an LM summarizes the descriptions (Stage 3). A knowledge graph is constructed from the final set of entities and relationships, and a community detection algorithm, such as Leiden clustering, groups entities into communities. For each community, an LM generates a “community report” that summarizes the entities and relationships (Stage 4). To answer a user’s question, an LM generates “map-level answers” based on groups of community reports (Stage 5), then synthesizes them into a final answer (Stage 6).
-
-
-
-VeriTrail takes as input a DAG representing a completed generative process and aims to determine whether the final output is fully supported by the source text. It begins by extracting claims (i.e., self-contained, verifiable statements) from the final output using Claimify. VeriTrail verifies claims in the reverse order of the generative process: it starts from the final output and moves toward the source text. Each claim is verified separately. Below, we include two case studies that illustrate how VeriTrail works, using the DAG from Figure 1. 
-
-
-
-Case study 1: A “Fully Supported” claim
-
-
-
-Figure 2: Left: GraphRAG as a DAG. Right: VeriTrail’s hallucination detection process for a “Fully Supported” claim.
-
-
-
-Figure 2 shows an example of a claim that VeriTrail determined was not hallucinated: 
-
-
-
-
-In Iteration 1, VeriTrail identified the nodes that were used as inputs for the final answer: Nodes 15 and 16. Each identified node was split into sentences, and each sentence was programmatically assigned a unique ID.
-
-An LM then performed Evidence Selection, selecting all sentence IDs that strongly implied the truth or falsehood of the claim. The LM also generated a summary of the selected sentences (not shown in Figure 2). In this example, a sentence was selected from Node 15.
-
-
-
-Next, an LM performed Verdict Generation. If no sentences had been selected in the Evidence Selection step, the claim would have been assigned a “Not Fully Supported” verdict. Instead, an LM was prompted to classify the claim as “Fully Supported,” “Not Fully Supported,” or “Inconclusive” based on the evidence. In this case, the verdict was “Fully Supported.”
-
-
-
-
-
-Since the verdict in Iteration 1 was “Fully Supported,” VeriTrail proceeded to Iteration 2. It considered the nodes from which at least one sentence was selected in the latest Evidence Selection step (Node 15) and identified their input nodes (Nodes 12 and 13). VeriTrail repeated Evidence Selection and Verdict Generation for the identified nodes. Once again, the verdict was “Fully Supported.” This process – identifying candidate nodes, performing Evidence Selection and Verdict Generation – was repeated in Iteration 3, where the verdict was still “Fully Supported,” and likewise in Iteration 4. 
-
-
-
-In Iteration 4, a single source text chunk was verified. Since the source text, by definition, does not have any inputs, verification terminated and the verdict was deemed final.
-
-
-
-
-Case study 2: A “Not Fully Supported” claim
-
-
-
-Figure 3: Left: GraphRAG as a DAG. Right: VeriTrail’s hallucination detection process for a “Not Fully Supported” claim, where the maximum number of consecutive “Not Fully Supported” verdicts was set to 2. 
-
-
-
-Figure 3 provides an example of a claim where VeriTrail identified hallucination:
-
-
-
-
-In Iteration 1, VeriTrail identified the nodes used as inputs for the final answer: Nodes 15 and 16. After Evidence Selection and Verdict Generation, the verdict was “Not Fully Supported.” Users can configure the maximum number of consecutive “Not Fully Supported” verdicts permitted. If the maximum had been set to 1, verification would have terminated here, and the verdict would have been deemed final. Let’s assume the maximum was set to 2, meaning that VeriTrail had to perform at least one more iteration.
-
-
-
-Even though evidence was selected only from Node 15 in Iteration 1, VeriTrail checked the input nodes for both Node 15 and Node 16 (i.e., Nodes 12, 13, and 14) in Iteration 2. Recall that in Case Study 1 where the verdict was “Fully Supported,” VeriTrail only checked the input nodes for Node 15. Why was the “Not Fully Supported” claim handled differently? If the Evidence Selection step overlooked relevant evidence, the “Not Fully Supported” verdict might be incorrect. In this case, continuing verification based solely on the selected evidence (i.e., Node 15) would propagate the mistake, defeating the purpose of repeated verification.
-
-
-
-In Iteration 2, Evidence Selection and Verdict Generation were repeated for Nodes 12, 13, and 14. Once again, the verdict was “Not Fully Supported.” Since this was the second consecutive “Not Fully Supported” verdict, verification terminated and the verdict was deemed final.
-
-
-
-
-	
-		
-
-		
-		Spotlight: Microsoft research newsletter
-	
-	
-	
-						
-				
-					
-				
-			
-			
-			
-
-									Microsoft Research Newsletter
-				
-								Stay connected to the research community at Microsoft.
-				
-								
-					
-						
-							Subscribe today						
-					
-				
-							
-	
-Opens in a new tab	
-	
-
-
-Providing traceability
-
-
-
-In addition to assigning a final “Fully Supported,” “Not Fully Supported,” or “Inconclusive” verdict to each claim, VeriTrail returns (a) all Verdict Generation results and (b) an evidence trail composed of all Evidence Selection results: the selected sentences, their corresponding node IDs, and the generated summaries. Collectively, these outputs provide traceability:&nbsp;
-
-
-
-
-Provenance: For “Fully Supported” and “Inconclusive” claims, the evidence trail traces a path from the source material to the final output, helping users understand how the output may have been derived. For example, in Case Study 1, the evidence trail consists of Sentence 8 from Node 15, Sentence 11 from Node 13, Sentence 26 from Node 4, and Sentence 79 from Node 1.
-
-
-
-Error Localization: For “Not Fully Supported” claims, VeriTrail uses the Verdict Generation results to identify the stage(s) of the process where the unsupported content was likely introduced. For instance, in Case Study 2, where none of the verified intermediate outputs supported the claim, VeriTrail would indicate that the hallucination occurred in the final answer (Stage 6). Error stage identification helps users address hallucinations and understand where in the process they are most likely to occur.&nbsp;
-
-
-
-
-The evidence trail also helps users verify the verdict: instead of reading through all nodes – which may be infeasible for processes that generate large amounts of text – users can simply review the evidence sentences and summaries. 
-
-
-
-Key design features
-
-
-
-VeriTrail’s design prioritizes reliability, efficiency, scalability, and user agency. Notable features include: 
-
-
-
-
-During Evidence Selection (introduced in Case Study 1), the sentence IDs returned by the LM are checked against the programmatically assigned IDs. If a returned ID does not match an assigned ID, it is discarded; otherwise, it is mapped to its corresponding sentence. This approach guarantees that the sentences included in the evidence trail are not hallucinated.
-
-
-
-After a claim is assigned an interim “Fully Supported” or “Inconclusive” verdict (as in Case Study 1), VeriTrail verifies the input nodes of only the nodes from which evidence was previously selected – not all possible input nodes. By progressively narrowing the search space, VeriTrail limits the number of nodes the LM must evaluate. In particular, since VeriTrail starts from the final output and moves toward the source text, it tends to verify a smaller proportion of nodes as it approaches the source text. Nodes closer to the source text tend to be larger (e.g., a book chapter should be larger than its summary), so verifying fewer of them helps reduce computational cost.
-
-
-
-VeriTrail is designed to handle input graphs with any number of nodes, regardless of whether they fit in a single prompt. Users can specify an input size limit per prompt. For Evidence Selection, inputs that exceed the limit are split across multiple prompts. If the resulting evidence exceeds the input size limit for Verdict Generation, VeriTrail reruns Evidence Selection to compress the evidence further. Users can configure the maximum number of Evidence Selection reruns.  
-
-
-
-The configurable maximum number of consecutive “Not Fully Supported” verdicts (introduced in Case Study 2) allows the user to find their desired balance between computational cost and how conservative VeriTrail is in flagging hallucinations. A lower maximum reduces cost by limiting the number of checks. A higher maximum increases confidence that a flagged claim is truly hallucinated since it requires repeated confirmation of the “Not Fully Supported” verdict. 
-
-
-
-
-Evaluating VeriTrail’s performance
-
-
-
-We tested VeriTrail on two datasets covering distinct generative processes (hierarchical summarization4 and GraphRAG), tasks (summarization and question-answering), and types of source material (fiction novels and news articles). For the source material, we focused on long documents and large collections of documents (i.e., >100K tokens), where hallucination detection is especially challenging and processes with multiple generative steps are typically most valuable. The resulting DAGs were much more complex than the examples provided above (e.g., in one of the datasets, the average number of nodes was 114,368).
-
-
-
-We compared VeriTrail to three types of baseline methods commonly used for closed-domain hallucination detection: Natural Language Inference models (AlignScore and INFUSE); Retrieval-Augmented Generation; and long-context models (Gemini 1.5 Pro and GPT-4.1 mini). Across both datasets and all language models tested, VeriTrail outperformed the baseline methods in detecting hallucination.5
-
-
-
-Most importantly, VeriTrail traces claims through intermediate outputs – unlike the baseline methods, which directly compare the final output to the source material. As a result, it can identify where hallucinated content was likely introduced and how faithful content may have been derived from the source. By providing traceability, VeriTrail brings transparency to generative processes, helping users understand, verify, debug, and, ultimately, trust their outputs. &nbsp;
-
-
-
-For an in-depth discussion of VeriTrail, please see our paper “VeriTrail: Closed-Domain Hallucination Detection with Traceability.”
-
-
-
-
-
-
-
-1 (opens in new tab) The term “closed-domain hallucination” was introduced by OpenAI in the GPT-4 Technical Report (opens in new tab).
-
-
-
-2 VeriTrail is currently used for research purposes only and is not available commercially.
-
-
-
-3 We focus on GraphRAG’s global search method.
-
-
-
-4 (opens in new tab) In hierarchical summarization, an LM summarizes each source text chunk individually, then the resulting summaries are repeatedly grouped and summarized until a final summary is produced (Wu et al., 2021 (opens in new tab); Chang et al., 2023 (opens in new tab)).
-
-
-
-5 The only exception was the mistral-large-2411 model, where VeriTrail had the highest balanced accuracy, but not the highest macro F1 score.
-Opens in a new tabThe post VeriTrail: Detecting hallucination and tracing provenance in multi-step AI workflows appeared first on Microsoft Research.
 • The DIVA logistics agent, powered by Amazon Bedrock
   DTDC is India’s leading integrated express logistics provider, operating the largest network of customer access points in the country. DTDC’s technology-driven logistics solutions cater to a wide range of customers across diverse industry verticals, making them a trusted partner in delivering excellence. 
 DTDC Express Limited receives over 400,000 customer queries each month, ranging from tracking requests to serviceability checks and shipping rates. With such a high volume of shipments, their existing logistics agent, DIVA, was operated on a rigid, guided workflow, forcing users to follow a structured path rather than engaging in natural, dynamic conversations. The lack of flexibility resulted in increased burden on customer support teams, longer resolution times, and poor customer experience. 
@@ -2639,5 +2105,607 @@ Arunraja Karthick – Head – IT Services &amp; Security (CISO), DTDC is a stra
 Bakrudeen K an AWS Ambassador, leads the AI/ML practice at Shellkode, focusing on driving innovation in artificial intelligence, especially in Generative AI. He plays a key role in building teams and advanced AI solutions, Agentic Assistants, and other next-gen technologies. Bakrudeen has made notable contributions to AI/ML research and development. In 2023 and 2024, he received the Generative AI Consulting Excellence Partner Award at the AI Conclave and the Social Impact Partner of the Year Award for Generative AI at AWS re:Invent 2024, both on behalf of Shellkode reflecting the team’s strong commitment to innovation and impact in the AI space. 
 Suresh Kanniappan is a Solutions Architect at AWS, handling Automotive, Manufacturing and Logistics enterprises in India. He is passionate about cloud security and Industry solutions that can solve real world problems. Prior to AWS, he worked for AWS customers and partners in consulting, migration and solution architecture roles for over 14 years. 
 Sid Chandilya is a Sr. Customer Relations Manager at AWS, responsible for tech led business transformation with Automotive, Manufacturing and Logistics enterprises in India. Sid is peculiarly passionate about challenging status quos, building a joint “Think Big” vision with customer CXOs and leveraging Ai infused tech to accelerate outcomes. He is known for his deep understanding of industry imperatives (working backward from customer) and translating the business pain points into tech solution.
+• Automate enterprise workflows by integrating Salesforce Agentforce with Amazon Bedrock Agents
+  AI agents are rapidly transforming enterprise operations. Although a single agent can perform specific tasks effectively, complex business processes often span multiple systems, requiring data retrieval, analysis, decision-making, and action execution across different systems. With multi-agent collaboration, specialized AI agents can work together to automate intricate workflows. 
+This post explores a practical collaboration, integrating Salesforce Agentforce with Amazon Bedrock Agents and Amazon Redshift, to automate enterprise workflows. 
+Multi-agent collaboration in Enterprise AI 
+Enterprise environments today are complex, featuring diverse technologies across multiple systems. Salesforce and AWS provide distinct advantages to customers. Many organizations already maintain significant infrastructure on AWS, including data, AI, and various business applications such as ERP, finance, supply chain, HRMS, and workforce management systems. Agentforce delivers powerful AI-driven agent capabilities that are grounded in enterprise context and data. While Salesforce provides a rich source of trusted business data, customers increasingly need agents that can access and act on information across multiple systems. By integrating AWS-powered AI services into Agentforce, organizations can orchestrate intelligent agents that operate across Salesforce and AWS, unlocking the strengths of both. 
+Agentforce and Amazon Bedrock Agents can work together in flexible ways, leveraging the unique strengths of both platforms to deliver smarter, more comprehensive AI workflows. Example collaboration models include: 
+ 
+ Agentforce as the primary orchestrator: 
+   
+   Manages end to end customer-oriented workflows 
+   Delegates specialized tasks to Amazon Bedrock Agents as needed through custom actions 
+   Coordinates access to external data and services across systems 
+    
+ 
+This integration creates a more powerful solution that maximizes the benefits of both Salesforce and AWS, so you can achieve better business outcomes through enhanced AI capabilities and cross-system functionality. 
+Agentforce overview 
+Agentforce brings digital labor to every employee, department, and business process, augmenting teams and elevating customer experiences.It works seamlessly with your existing applications, data, and business logic to take meaningful action across the enterprise. And because it’s built on the trusted Salesforce platform, your data stays secure, governed, and in your control. With Agentforce, you can: 
+ 
+ Deploy prebuilt agents designed for specific roles, industries, or use cases 
+ Enable agents to take action with existing workflows, code, and APIs 
+ Connect your agents to enterprise data securely 
+ Deliver accurate and grounded outcomes through the Atlas Reasoning Engine 
+ 
+Amazon Bedrock Agents and Amazon Bedrock Knowledge Bases overview 
+Amazon Bedrock is a fully managed AWS service offering access to high-performing foundation models (FMs) from various AI companies through a single API. In this post, we discuss the following features: 
+ 
+ Amazon Bedrock Agents – Managed AI agents use FMs to understand user requests, break down complex tasks into steps, maintain conversation context, and orchestrate actions. They can interact with company systems and data sources through APIs (configured through action groups) and access information through knowledge bases. You provide instructions in natural language, select an FM, and configure data sources and tools (APIs), and Amazon Bedrock handles the orchestration. 
+ Amazon Bedrock Knowledge Bases – This capability enables agents to perform Retrieval Augmented Generation (RAG) using your company’s private data sources. You connect the knowledge base to your data hosted in AWS, such as in Amazon Simple Storage Service (Amazon S3) or Amazon Redshift, and it automatically handles the vectorization and retrieval process. When asked a question or given a task, the agent can query the knowledge base to find relevant information, providing more accurate, context-aware responses and decisions without needing to retrain the underlying FM. 
+ 
+Agentforce and Amazon Bedrock Agent integration patterns 
+Agentforce can call Amazon Bedrock agents in different ways, allowing flexibility to build different architectures. The following diagram illustrates synchronous and asynchronous patterns. 
+ 
+For a synchronous or request-reply interaction, Agentforce uses custom agent actions facilitated by External Services, Apex Invocable Methods, or Flow to call an Amazon Bedrock agent. The authentication to AWS is facilitated using named credentials. Named credentials are designed to securely manage authentication details for external services integrated with Salesforce. They alleviate the need to hardcode sensitive information like user names and passwords, minimizing the risk of exposure and potential data breaches. This separation of credentials from the application code can significantly enhance security posture. Named credentials streamline integration by providing a centralized and consistent method for handling authentication, reducing complexity and potential errors. You can use Salesforce Private Connect to provide a secure private connection with AWS using AWS PrivateLink. Refer to Private Integration Between Salesforce and Amazon API Gateway for additional details. 
+ 
+For asynchronous calls, Agentforce uses Salesforce Event Relay and Flow with Amazon EventBridge to call an Amazon Bedrock agent. 
+ 
+In this post, we discuss the synchronous call pattern. We encourage you to explore Salesforce Event Relay with EventBridge to build event-driven agentic AI workflows. Agentforce also offers the Agent API, which makes it straightforward to call an Agentforce agent from an Amazon Bedrock agent, using EventBridge API destinations, for bi-directional agentic AI workflows. 
+Solution overview 
+To illustrate the multi-agent collaboration between Agentforce and AWS, we use the following architecture, which provides access to Internet of Things (IoT) sensor data to the Agentforce agent and handles potentially erroneous sensor readings using a multi-agent approach. 
+ 
+The example workflow consists of the following steps: 
+ 
+ Coral Cloud has equipped their rooms with smart air conditioners and temperature sensors. These IoT devices capture critical information such as room temperature and error code and store it in Coral Cloud’s AWS database in Amazon Redshift. 
+ Agentforce agent calls an Amazon Bedrock agent through the Agent Wrapper API with questions such as “What is the temperature in room 123” to answer customer questions related to the comfort of the room. This API is implemented as an AWS Lambda function, acting as the entry point in the AWS Cloud. 
+ The Amazon Bedrock agent, upon receiving the request, needs context. It queries its configured knowledge base by generating the necessary SQL query. 
+ The knowledge base is connected to a Redshift database containing historical sensor data or contextual information (like the sensor’s thresholds and maintenance history). It retrieves relevant information based on the agent’s query and responds back with an answer. 
+ With the initial data and the context from the knowledge base, the Amazon Bedrock agent uses its underlying FM and natural language instructions to decide the appropriate action. In this scenario, detecting an error prompts it to create a case when it receives erroneous readings from a sensor. 
+ The action group contains the Agentforce Agent Wrapper Lambda function. The Amazon Bedrock agent securely passes the necessary details (like which sensor or room needs a case) to this function. 
+ The Agentforce Agent Wrapper Lambda function acts as an adapter. It translates the request from the Amazon Bedrock agent into the specific format required by the Agentforce service‘s API or interface. 
+ The Lambda function calls Agentforce, instructing it to create a case associated with the contact or account linked to the sensor that sent the erroneous reading. 
+ Agentforce uses its internal logic (agent, topics, and actions) to create or escalate the case within Salesforce. 
+ 
+This workflow demonstrates how Amazon Bedrock Agents orchestrates tasks, using Amazon Bedrock Knowledge Bases for context and action groups (through Lambda) to interact with Agentforce to complete the end-to-end process. 
+Prerequisites 
+Before building this architecture, make sure you have the following: 
+ 
+ AWS account – An active AWS account with permissions to use Amazon Bedrock, Lambda, Amazon Redshift, AWS Identity and Access Management (IAM), and API Gateway. 
+ Amazon Bedrock access – Access to Amazon Bedrock Agents and to Anthropic’s Claude 3.5 Haiku v1 enabled in your chosen AWS Region. 
+ Redshift resources – An operational Redshift cluster or Amazon Redshift Serverless endpoint. The relevant tables containing sensor data (historical readings, sensor thresholds, and maintenance history) must be created and populated. 
+ Agentforce system – Access to and understanding of the Agentforce system, including how to configure it. You can sign up for a developer edition with Agentforce and Data Cloud. 
+ Lambda knowledge – Familiarity with creating, deploying, and managing Lambda functions (using Python). 
+ IAM roles and policies – Understanding of how to create IAM roles with the necessary permissions for Amazon Bedrock Agents, Lambda functions (to call Amazon Bedrock, Amazon Redshift, and the Agentforce API), and Amazon Bedrock Knowledge Bases. 
+ 
+Prepare Amazon Redshift data 
+Make sure your data is structured and available in your Redshift instance. Note the database name, credentials, and table and column names. 
+Create IAM roles 
+For this post, we create two IAM roles: 
+ 
+ custom_AmazonBedrockExecutionRoleForAgents: 
+   
+   Attach the following AWS managed policies to the role: 
+     
+     AmazonBedrockFullAccess 
+     AmazonRedshiftDataFullAccess 
+      
+   In the trust relationship, provide the following trust policy (provide your AWS account ID): 
+    
+ 
+ 
+ {
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "AmazonBedrockAgentBedrockFoundationModelPolicyProd",
+            "Effect": "Allow",
+            "Principal": {
+                "Service": "bedrock.amazonaws.com"
+            },
+            "Action": "sts:AssumeRole",
+            "Condition": {
+                "StringEquals": {
+                    "aws:SourceAccount": "YOUR_ACCOUNT_ID"
+                }
+            }
+        }
+    ]
+} 
+ 
+ 
+ custom_AWSLambdaExecutionRole: 
+   
+   Attach the following AWS managed policies to the role: 
+     
+     AmazonBedrockFullAccess 
+     AmazonLambdaBasicExecutionRole 
+      
+   In the trust relationship, provide the following trust policy (provide your AWS account ID): 
+    
+ 
+ 
+ {
+    "Version": "2012-10-17",
+   "Statement": [
+       {
+           "Effect": "Allow",
+           "Principal": {
+               "Service": "lambda.amazonaws.com"
+           },
+           "Action": "sts:AssumeRole",
+           "Condition": {
+               "StringEquals": {
+                   "aws:SourceAccount": "YOUR_ACCOUNT_ID"
+               }
+           }
+       }
+   ]
+} 
+ 
+Create an Amazon Bedrock knowledge base 
+Complete the following steps to create an Amazon Bedrock knowledge base: 
+ 
+ On the Amazon Bedrock console, choose Knowledge Bases in the navigation pane. 
+ Choose Create and Knowledge Base with structured data store. 
+ 
+ 
+ 
+ On the Provide Knowledge Base details page, provide the following information: 
+   
+   Enter a name and optional description. 
+   For Query engine, select Amazon Redshift. 
+   For IAM permissions, select Use an existing service role and choose custom_AmazonBedrockExecutionRoleForAgents. 
+   Choose Next.  
+     
+     For Query engine connection details, select Redshift provisioned and choose your cluster. 
+     For Authentication, select IAM Role. 
+     For Storage configuration, select Amazon Redshift database and Redshift database list. 
+     On the Configure query engine page, provide the following information:  
+     Provide table and column descriptions. The following is an example.  
+     Choose Create Knowledge Base. 
+      
+    
+ After you create the knowledge base, open the Redshift query editor and grant permissions for the role to access Redshift tables by running the following queries: 
+ 
+ 
+ CREATE USER "IAMR:custom_AmazonBedrockExecutionRoleForAgents" WITH PASSWORD DISABLE; 
+
+GRANT SELECT ON ALL TABLES IN SCHEMA dev.knowledgebase TO "IAMR:custom_AmazonBedrockExecutionRoleForAgents"; 
+
+GRANT USAGE ON SCHEMA dev.knowledgebase TO "IAMR:custom_AmazonBedrockExecutionRoleForAgents"; 
+ 
+For more information, refer to set up your query engine and permissions for creating a knowledge base with structured data store. 
+ 
+ 5. Choose Sync to sync the query engine. 
+ 
+Make sure the status shows as Complete before moving to the next steps. 
+ 
+ 
+ When the sync is complete, choose Test Knowledge Base. 
+ Select Retrieval and response generation: data sources and model and choose Claude 3.5 Haiku for the model. 
+ Enter a question about your data and make sure you get a valid answer. 
+ 
+ 
+Create an Amazon Bedrock agent 
+Complete the following steps to create an Amazon Bedrock agent: 
+ 
+ On the Amazon Bedrock console, choose Agents in the navigation pane. 
+ Choose Create agent. 
+ On the Agent details page, provide the following information: 
+   
+   Enter a name and optional description. 
+   For Agent resource role, select Use an existing service role and choose custom_AmazonBedrockExecutionRoleForAgents. 
+    
+ 
+ 
+ 
+ Provide detailed instructions for your agent. The following is an example: 
+ 
+ 
+ You are an IoT device monitoring and alerting agent. 
+You have access to the structured data containing reading, maintenance, threshold data for IoT devices. 
+You answer questions about device reading, maintenance schedule and thresholds. 
+You can also create case via Agentforce. 
+When you receive comma separated values parse them as device_id, temperature, voltage, connectivity and error_code. 
+First check if the temperature is less than min temperature, more than max temperature and connectivity is more than the connectivity threshold for the product associated with the device id. 
+If there is an error code, send information to agentforce to create case. The information sent to agentforce should include device readings such as device id, error code. 
+It should also include the threshold values related to the product associated with the device such as min temperature, max temperature and connectivity, 
+In response to your call to agentforce just return the summary of the information provided with all the attributes provided. 
+Do not omit any information in the response. Do not include the word escalated in agent. 
+ 
+ 
+ Choose Save to save the agent. 
+ Add the knowledge base you created in previous step to this agent. 
+ 
+ 
+ 
+ Provide detailed instructions about the knowledge base for the agent. 
+ 
+ 
+ 
+ Choose Save and then choose Prepare the agent. 
+ Test the agent by asking a question (in the following example, we ask about sensor readings). 
+ 
+ 
+ 
+ Choose Create alias. 
+ On the Create alias page, provide the following information: 
+   
+   Enter an alias name and optional description. 
+   For Associate version, select Create a new version and associate it to this alias. 
+   For Select throughput, select On-demand. 
+   Choose Create alias. 
+    
+ 
+ 
+ 
+ Note down the agent ID, which you will use in subsequent steps. 
+ Note down the alias ID and agent ID, which you will use in subsequent steps. 
+ 
+ 
+Create a Lambda function 
+Complete the following steps to create a Lambda function to receive requests from Agentforce: 
+ 
+ On the Lambda console, choose Functions in the navigation pane. 
+ Choose Create function. 
+ Configure the function with the following logic to receive requests through API Gateway and call Amazon Bedrock agents: 
+ 
+ 
+ import boto3
+import uuid
+import json
+import pprint
+import traceback
+import time
+import logging
+from agent_utils import invoke_agent_generate_response
+logger = logging.getLogger()
+logger.setLevel(logging.INFO)
+bedrock_agent_runtime_client = boto3.client(
+service_name="bedrock-agent-runtime",
+region_name="REGION_NAME", # replace with the region name from your account
+)
+def lambda_handler(event, context):
+    logger.info(event)
+    body = event['body']
+    input_text = json.loads(body)['inputText']
+    agent_id = 'XXXXXXXX' # replace with the agent id from your account
+    agent_alias_id = 'XXXXXXX' # replace with the alias id from your account
+    session_id:str = str(uuid.uuid1()) # random identifier
+    enable_trace:bool = False
+    end_session:bool = False
+    final_answer = None
+    response = call_agent(input_text, agent_id, agent_alias_id)
+    print("response : ")
+    print(response)
+ 
+    return {
+        'headers': {
+            'Content-Type' : 'application/json',
+            'Access-Control-Allow-Headers': '*',
+            'Access-Control-Allow-Origin': '*',
+            'Access-Control-Allow-Methods': '*'
+        },
+        
+        'statusCode': 200,
+        'body': json.dumps({"outputText" :  response  })
+    }
+def call_agent(inputText, agentId, agentAliasId): 
+    session_id = str(uuid.uuid1())
+    enable_trace = False
+    end_session = False
+    while True:
+        try:
+            agent_response = bedrock_agent_runtime_client.invoke_agent(
+                inputText=inputText,
+                agentId=agentId,
+                agentAliasId=agentAliasId,                
+                sessionId=session_id,
+                enableTrace=enable_trace,
+                endSession=end_session
+            )
+            logger.info("Agent raw response:")
+            pprint.pprint(agent_response)
+            if 'completion' not in agent_response:
+                raise ValueError("Missing 'completion' in agent response")
+            for event in agent_response['completion']:
+                chunk = event.get('chunk')
+                # print('chunk: ', chunk)
+                if chunk:
+                    decoded_bytes = chunk.get("bytes").decode()
+                    # print('bytes: ', decoded_bytes)
+                    return decoded_bytes
+        except Exception as e:
+            print(traceback.format_exc())
+            return f"Error: {str(e)}" 
+ 
+ 
+ Define the necessary IAM permissions by assigning custom_AWSLambdaExecutionRole. 
+ 
+Create a REST API 
+Complete the following steps to create a REST API in API Gateway: 
+ 
+ On the API Gateway console, create a REST API with proxy integration. 
+ 
+ 
+ 
+ Enable API key required to protect the API from unauthenticated access. 
+ 
+ 
+ 
+ Configure the usage plan and API key. For more details, see Set up API keys for REST APIs in API Gateway. 
+ Deploy the API. 
+ Note down the Invoke URL to use in subsequent steps. 
+ 
+ 
+Create named credentials in Salesforce 
+Now that you have created an Amazon Bedrock agent with an API Gateway endpoint and Lambda wrapper, let’s complete the configuration on the Salesforce side. Complete the following steps: 
+ 
+ Log in to Salesforce. 
+ Navigate to Setup, Security, Named Credentials. 
+ On the External Credentials tab, choose New. 
+ 
+ 
+ 
+ Provide the following information: 
+   
+   Enter a label and name. 
+   For Authentication Protocol, choose Custom. 
+   Choose Save. 
+    
+ 
+ 
+ 
+ Open the External Credentials entry to provide additional details: 
+   
+   Under Principals, create a new principal and provide the parameter name and value. 
+    
+ 
+ 
+ 
+  
+   
+   Under Custom Headers, create a new entry and provide a name and value. 
+   Choose Save. 
+    
+ 
+ 
+Now you can grant access to the agent user to access these credentials. 
+ 
+ Navigate to Setup, Users, User Profile, Enabled External Credential Principal Access and add the external credential principal you created to the allow list. 
+ 
+ 
+ 
+ Choose New to create a named credentials entry. 
+ Provide details such as label, name, the URL of the API Gateway endpoint, and authentication protocol, then choose Save. 
+ 
+ 
+You can optionally use Salesforce Private Connect with PrivateLink to provide a secure private connection with. This allows critical data to flow from the Salesforce environment to AWS without using the public internet. 
+Add an external service in Salesforce 
+Complete the following steps to add an external service in Salesforce: 
+ 
+ In Salesforce, navigate to Setup, Integrations, External Services and choose Add an External Service. 
+ For Select an API source, choose From API Specification. 
+ 
+ 
+ 
+ On the Edit an External Service page, provide the following information: 
+   
+   Enter a name and optional description. 
+   For Service Schema, choose Upload from local. 
+   For Select a Named Credential, choose the named credential you created. 
+    
+ 
+ 
+ 
+ Upload an Open API specification for the API Gateway endpoint. See the following example: 
+ 
+ 
+ openapi: 3.0.0
+info:
+  title: Bedrock Agent Wrapper API
+  version: 1.0.0
+  description: Bedrock Agent Wrapper API
+paths:
+  /proxy:
+    post:
+      operationId: call-bedrock-agent
+      summary: Call Bedrock Agent
+      description: Call Bedrock Agent
+      requestBody:
+        description: input
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/input'
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/output'
+        '500':
+          description: Server error
+components:
+  schemas:
+    input:
+      type: object
+      properties:
+        inputText:
+          type: string
+        agentId:
+          type: string
+        agentAlias:
+          type: string
+    output:
+      type: object
+      properties:
+        outputText:
+          type: string 
+ 
+ 
+ Choose Save and Next. 
+ Enable the operation to make it available for Agentforce to invoke. 
+ Choose Finish. 
+ 
+ 
+Create an Agentforce agent action to use the external service 
+Complete the following steps to create an Agentforce agent action: 
+ 
+ In Salesforce, navigate to Setup, Agentforce, Einstein Generative AI, Agentforce Studio, Agentforce Assets. 
+ On the Actions tab, choose New Agent Action. 
+ Under Connect to an existing action, provide the following information: 
+   
+   For Reference Action Type, choose API. 
+   For Reference Action Category, choose External Services. 
+   For Reference Action, choose the Call Bedrock Agent action that you configured. 
+   Enter an agent action label and API name. 
+   Choose Next. 
+    
+ 
+ 
+ 
+ Provide the following information to complete the agent action configuration: 
+   
+   For Agent Action Instructions, enter Call Bedrock Agent to get the information about device readings, sensor readings, maintenance or threshold information. 
+   For Loading Text, enter Calling Bedrock Agent. 
+   Under Input, for Body, enter Provide the input in the input Text field. 
+   Under Outputs, for 200, enter Successful response. 
+    
+ 
+ 
+ 
+ Save the agent action. 
+ 
+Configure the Agentforce agent to use the agent action 
+Complete the following steps to configure the Agentforce agent to use the agent action: 
+ 
+ In Salesforce, navigate to Setup, Agentforce, Einstein Generative AI, Agentforce Studio, Agentforce Agents and open the agent in Agent Builder. 
+ Create a new topic. 
+ On the Topic Configuration tab, provide the following information: 
+   
+   For Name, enter Device Information. 
+   For Classification Description, enter This topic handles inquiries related to device and sensor information, including reading, maintenance, and threshold. 
+   For Scope, enter Your job is only to provide information about device readings, sensor readings, device maintenance, sensor maintenance, and threshold. Do not attempt to address issues outside of providing device information. 
+   For Instructions, enter the following: 
+    
+ 
+ 
+ If a user asks for device readings or sensor readings, provide the information.
+If a user asks for device maintenance or sensor maintenance, provide the information.
+When searching for device information, include the device or sensor id and any relevant keywords in your search query. 
+ 
+ 
+ 
+ On the This Topic’s Actions tab, choose New and Add from Asset Library. 
+ 
+ 
+ 
+ Choose the Call Bedrock Agent action. 
+ 
+ 
+ 
+ Activate the agent and enter a question, such as “What is the latest reading for sensor with device id CITDEV003.” 
+ 
+The agent will indicate that it is calling the Amazon Bedrock agent, as shown in the following screenshot. 
+ 
+The agent will fetch the information using the Amazon Bedrock agent from the associated knowledge base.  
+Clean up 
+To avoid additional costs, delete the resources that you created when you no longer need them: 
+ 
+ Delete the Amazon Bedrock knowledge base: 
+   
+   On the Amazon Bedrock console, choose Knowledge Bases in the navigation pane. 
+   Select the knowledge base you created and choose Delete. 
+    
+ Delete the Amazon Bedrock agent: 
+   
+   On the Amazon Bedrock console, choose Agents in the navigation pane. 
+   Select the agent you created and choose Delete. 
+    
+ Delete the Lambda function: 
+   
+   On the Lambda console, choose Functions in the navigation pane. 
+   Select the function you created and choose Delete. 
+    
+ Delete the REST API: 
+   
+   On the API Gateway console, choose APIs in the navigation pane. 
+   Select the REST API you created and choose Delete. 
+    
+ 
+Conclusion 
+In this post, we described an architecture that demonstrates the power of combining AI services on AWS with Agentforce. By using Amazon Bedrock Agents and Amazon Bedrock Knowledge Bases for contextual understanding through RAG, and Lambda functions and API Gateway to bridge interactions with Agentforce, businesses can build sophisticated, automated workflows. As AI capabilities continue to grow, such collaborative multi-agent systems will become increasingly central to enterprise automation strategies. In an upcoming post, we will show you how to build the asynchronous integration pattern from Agentforce to Amazon Bedrock using Salesforce Event Relay. 
+To get started, see Become an Agentblazer Innovator and refer to How Amazon Bedrock Agents works. 
+ 
+About the authors 
+Yogesh Dhimate&nbsp;is a Sr. Partner Solutions Architect at AWS, leading technology partnership with Salesforce. Prior to joining AWS, Yogesh worked with leading companies including Salesforce driving their industry solution initiatives. With over 20 years of experience in product management and solutions architecture Yogesh brings unique perspective in cloud computing and artificial intelligence. 
+Kranthi Pullagurla has over 20+ years’ experience across Application Integration and Cloud Migrations across Multiple Cloud providers. He works with AWS Partners to build solutions on AWS that our joint customers can use. Prior to joining AWS, Kranthi was a strategic advisor at MuleSoft (now Salesforce). Kranthi has experience advising C-level customer executives on their digital transformation journey in the cloud. 
+Shitij Agarwal is a Partner Solutions Architect at AWS. He creates joint solutions with strategic ISV partners to deliver value to customers. When not at work, he is busy exploring New York city and the hiking trails that surround it, and going on bike rides. 
+Ross Belmont is a Senior Director of Product Management at Salesforce covering Platform Data Services. He has more than 15 years of experience with the Salesforce ecosystem. 
+Sharda Rao is a Senior Director of Product Management at Salesforce covering Agentforce Go To Market strategy 
+Hunter Reh is an AI Architect at Salesforce and a passionate builder who has developed over 100 agents since the launch of Agentforce. Outside of work, he enjoys exploring new trails on his bike or getting lost in a great book.
+• How Amazon Bedrock powers next-generation account planning at AWS
+  At AWS, our sales teams create customer-focused documents called account plans to deeply understand each AWS customer’s unique goals and challenges, helping account teams provide tailored guidance and support that accelerates customer success on AWS. As our business has expanded, the account planning process has become more intricate, requiring detailed analysis, reviews, and cross-team alignment to deliver meaningful value to customers. This complexity, combined with the manual review effort involved, has led to significant operational overhead. To address this challenge, we launched Account Plan Pulse in January 2025, a generative AI tool designed to streamline and enhance the account planning process. Implementing Pulse delivered a 37% improvement in plan quality year-over-year, while decreasing the overall time to complete, review, and approve plans by 52%. 
+In this post, we share how we built Pulse using Amazon Bedrock to reduce review time and provide actionable account plan summaries for ease of collaboration and consumption, helping AWS sales teams better serve our customers. Amazon Bedrock is a comprehensive, secure, and flexible service for building generative AI applications and agents. It connects you to leading foundation models (FMs), services to deploy and operate agents, and tools for fine-tuning, safeguarding, and optimizing models, along with knowledge bases to connect applications to your latest data so that you have everything you need to quickly move from experimentation to real-world deployment. 
+Challenges with increasing scale and complexity 
+As AWS continued to grow and evolve, our account planning processes needed to adapt to meet increasing scale and complexity. Before enterprise-ready large language models (LLMs) became available through Amazon Bedrock, we explored rule-based document processing to evaluate account plans, which proved inadequate for handling nuanced content and growing document volumes. By 2024, three critical challenges had emerged: 
+ 
+ Disparate plan quality and format – With teams operating across numerous AWS Regions and serving customers in diverse industries, account plans naturally developed variations in structure, detail, and format. This inconsistency made it difficult to make sure critical customer needs were described effectively and consistently. Additionally, the evaluation of account plan quality was inherently subjective, relying heavily on human judgment to assess each plan’s depth, strategic alignment, and customer focus. 
+ Resource-intensive review process – The quality assessment process relied on manual reviews by sales leadership. Though thorough, these reviews consumed valuable time that could otherwise be devoted to strategic customer engagements. As our business scaled, this approach created bottlenecks in plan approval and implementation. 
+ Knowledge silos – We identified untapped potential for cross-team collaboration. Developing methods to extract and share knowledge would transform individual account plans into collective best practices to better serve our customers. 
+ 
+Solution overview 
+To address these challenges, we designed Pulse, a generative AI solution that uses Amazon Bedrock to analyze and improve account plans. The following diagram illustrates the solution workflow. 
+ 
+The workflow consists of the following steps: 
+ 
+ Account plan narrative content is pulled from our CRM system on a scheduled basis through an asynchronous batch processing pipeline. 
+ The data flows through a series of processing stages: 
+   
+   Preprocessing to structure and normalize the data and generate metadata. 
+   LLM inference to analyze content and generate insights. 
+   Validation to confirm quality and compliance. 
+    
+ Results are stored securely for reporting and dashboard visualization. 
+ 
+We’ve integrated Pulse directly with existing sales workflows to maximize user adoption and have established feedback loops that continuously refine performance. The following diagram shows the solution architecture. 
+ 
+In the following sections, we explore the key components of the solution in more detail. 
+Ingestion 
+We implement a batch processing pipeline that extracts account plans from our CRM system into Amazon Simple Storage Service (Amazon S3) buckets. A scheduler triggers this pipeline on a regular cadence, facilitating continuous analysis of the most current information. 
+Preprocessing 
+Considering the dynamic nature of account plans, they are processed in daily snapshots, with only updated plans included in each run. Preprocessing is conducted at two layers: an extract, transform, and load (ETL) flow layer to organize required files to be processed, and just before model calls as part of input validation. This approach, using the plan’s last modified date, is crucial for avoiding multiple runs on the same content. The preprocessing pipeline handles the daily scheduled job that reads account plan data stored as Parquet files in Amazon S3, extracts text content from HTML fields, and generates structured metadata for each document. To optimize processing efficiency, the system compares document timestamps to process only recently modified plans, significantly reducing computational overhead and costs. The processed text content and metadata are then transformed into a standardized format and stored back to Amazon S3 as Parquet files, creating a clean dataset ready for LLM analysis. 
+Analysis with Amazon Bedrock 
+The core of our solution uses Amazon Bedrock, which provides a variety of model choices and control, data customization, safety and guardrails, cost optimization, and orchestration. We use the Amazon Bedrock FMs to perform two key functions: 
+ 
+ Account plan evaluation – Pulse evaluates plans against 10 business-critical categories, creating a standardized Account Plan Readiness Index. This automated evaluation identifies improvement areas with specific improvement recommendations. 
+ Actionable insights – Amazon Bedrock extracts and synthesizes patterns across plans, identifying customer strategic focus and market trends that might otherwise remain isolated in individual documents. 
+ 
+We implement these capabilities through asynchronous batch processing, where evaluation and summarization workloads operate independently. The evaluation process runs each account through 27 specific questions with tailored control prompts, and the summarization process generates topical overviews for straightforward consumption and knowledge sharing. 
+For this implementation, we use structured output prompting with schema constraints to provide consistent formatting that integrates with our reporting tools. 
+Validation 
+Our validation framework includes the following components: 
+ 
+ Input and output validations are critical as part of the OWASP Top 10 for Large Language Model Applications. The input validation is essential by the introduction of necessary guardrails and prompt validation, and the output validation makes sure the results are structured and constrained to expected responses. 
+ Automated quality and compliance checks against established business rules. 
+ Additional review for outputs that don’t meet quality thresholds. 
+ A feedback mechanism that improves system accuracy over time. 
+ 
+Storage and visualization 
+The solution includes the following storage and visualization components: 
+ 
+ Amazon S3 provides secure storage for all processed account plans and insights. 
+ A daily run cadence refreshes insight and enables progress tracking. 
+ Interactive dashboards offer both executive summaries and detailed plan views. 
+ 
+Engineering for production: Building reliable AI evaluations 
+When transitioning Pulse from prototype to production, we implemented a robust engineering framework to address three critical AI-specific challenges. First, the non-deterministic nature of LLMs meant identical inputs could produce varying outputs, potentially compromising evaluation consistency. Second, account plans naturally evolve throughout the year with customer relationships, making static evaluation methods insufficient. Third, different AWS teams prioritize different aspects of account plans based on specific customer industry and business needs, requiring flexible evaluation criteria. To maintain evaluation reliability, we developed a statistical framework using Coefficient of Variation (CoV) analysis across multiple model runs on account plan inputs. The goal is to use the CoV as a correction factor to address the data dispersion, which we achieved by calculating the overall CoV at the evaluated question level. With this approach, we can scientifically measure and stabilize output variability, establish clear thresholds for selective manual reviews, and detect performance shifts requiring recalibration. Account plans falling within confidence thresholds proceed automatically in the system, and those outside established thresholds are flagged for manual review. We complemented this with a dynamic threshold weighting system that aligns evaluations with organizational priorities by assigning different weights to criteria based on business impact. This customizes thresholds across different account types—for example, applying different evaluation parameters to enterprise accounts versus mid-market accounts. These business thresholds undergo periodic review with sales leadership and adjustment based on feedback, so our AI evaluations remain relevant while maintaining quality and saving valuable time. 
+Conclusion 
+In this post, we shared how Pulse, powered by Amazon Bedrock, has transformed the account planning process for AWS sales teams. Through automated reviews and structured validation, Pulse streamlines quality assessments and breaks down knowledge silos by surfacing actionable customer intelligence across our global organization. This helps our sales teams spend less time on reviews and more time making data-driven decisions for strategic customer engagements. 
+Looking ahead, we’re excited to enhance Pulse’s capabilities to measure account plan execution by connecting strategic planning with sales activities and customer outcomes. By analyzing account plan narratives, we aim to identify and act on new opportunities, creating deeper insights into how strategic planning drives customer success on AWS. 
+We aim to continue to use the new capabilities of Amazon Bedrock for enhanced and robust improvements to our processes. By building flows for orchestrating our workflows, use of Amazon Bedrock Guardrails, introduction of agentic frameworks, and use of Strands Agents and Amazon Bedrock AgentCore, we can make a more dynamic flow in the future. 
+To learn more about Amazon Bedrock, refer to the Amazon Bedrock User Guide, Amazon Bedrock Workshop: AWS Code Samples, AWS Workshops, and Using generative AI on AWS for diverse content types. For the latest news on AWS, see What’s New with AWS? 
+ 
+About the authors 
+Karnika Sharma is a Senior Product Manager in the AWS Sales, Marketing, and Global Services (SMGS) org, where she works on empowering the global sales organization to accelerate customer growth with AWS. She’s passionate about bridging machine learning and AI innovation with real-world impact, building solutions that serve both business goals and broader societal needs. Outside of work, she finds joy in plein air sketching, biking, board games, and traveling. 
+Dayo Oguntoyinbo is a Sr. Data Scientist with the AWS Sales, Marketing, and Global Services (SMGS) Organization. He helps both AWS internal teams and external customers take advantage of the power of AI/ML technologies and solutions. Dayo brings over 12 years of cross-industry experience. He specializes in reproducible and full-lifecycle AI/ML, including generative AI solutions, with a focus on delivering measurable business impacts. He has MSc. (Tech) in Communication Engineering. Dayo is passionate about advancing generative AI/ML technologies to drive real-world impact. 
+Mihir Gadgil is a Senior Data Engineer in the AWS Sales, Marketing, and Global Services (SMGS) org, specializing in enterprise-scale data solutions and generative AI applications. With 9+ years of experience and a Master’s in Information Technology &amp; Management, he focuses on building robust data pipelines, complex data modeling, and ETL/ELT processes. His expertise drives business transformation through innovative data engineering solutions, advanced analytics capabilities. 
+Carlos Chinchilla is a Solutions Architect at Amazon Web Services (AWS), where he works with customers across EMEA to implement AI and machine learning solutions. With a background in telecommunications engineering from the Technical University of Madrid, he focuses on building AI-powered applications using both open source frameworks and AWS services. His work includes developing AI assistants, machine learning pipelines, and helping organizations use cloud technologies for innovation. 
+Sofian Hamiti is a technology leader with over 10 years of experience building AI solutions, and leading high-performing teams to maximize customer outcomes. He is passionate in empowering diverse talent to drive global impact and achieve their career aspirations. 
+Sujit Narapareddy, Head of Data &amp; Analytics at AWS Global Sales, is a technology leader driving global enterprise transformation. He leads data product and platform teams that power AWS’s Go-to-Market through AI-augmented analytics and intelligent automation. With a proven track record in enterprise solutions, he has transformed sales productivity, data governance, and operational excellence. Previously at JPMorgan Chase Business Banking, he shaped next-generation FinTech capabilities through data innovation.
 
 ⸻
