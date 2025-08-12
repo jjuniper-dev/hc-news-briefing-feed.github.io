@@ -1,17 +1,17 @@
-✅ Morning News Briefing – August 11, 2025 10:49
+✅ Morning News Briefing – August 12, 2025 10:47
 
-📅 Date: 2025-08-11 10:49
+📅 Date: 2025-08-12 10:47
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
 • HEAT WARNING, Pembroke
-  Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions . People in or around this area are advised to take necessary precautions . Weather conditions are expected to worsen in the summer of 2025 . People should also be aware of the weather conditions in the area and take safety precautions if conditions worsen in August 2025 . The weather is expected to deteriorate in
+  Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions . People in or around this area are advised to take necessary precautions . Weather conditions are expected to be adverse in the area for the first time in the next 24 years . People should be aware of the weather conditions at this time of the year and take precautionary measures to protect themselves .
 • Current Conditions:  18.8°C
-  Temperature: 18.8&deg;C Pressure / Tendency: 101.9 kPa rising Humidity: 93 % Dewpoint: 17.6&deg:C Wind: SSE 2 km/h Air Quality Health Index: n/a . Observed at: Pembroke 6:00 AM EDT Monday 11 August 2025 . Weather: 18/8/C
-• Monday: Sunny. High 34.
-  Sunny. Wind becoming south 20 km/h this afternoon . High 34. Humidex 41. UV index 8 or very high. Windbecoming south 20km/h today afternoon . Wind will be south to 20kmph this afternoon, with highs of 34.5C . Wind could gust up to 20 kmphph this morning, forecasters predict . High of 34C
+  Temperature: 18.8&deg;C Pressure / Tendency: 101.6 kPa rising Humidity: 88 % Dewpoint: 16.8°C Wind: E 2 km/h Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Tuesday 12 August 2025 temperature: 18°C Pressure, Tendency and Tendency at 101.
+• Tuesday: Chance of showers. High 31. POP 40%
+  40 percent chance of showers late this afternoon with risk of thunderstorm . Wind becoming southwest 20 km/h near noon . A mix of sun and cloud expected to be on the way to 31 degrees . High 31 degrees with a risk of a thunderstorm in the afternoon . Humidex 40 in the morning with a high of 31 degrees in the mid to mid afternoon . Forecast issued
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Trump's tariff revenue has skyrocketed. But how big is it, really?
-  President Trump's new tariffs are pouring in, but it's still only a fraction of overall government revenues . It falls short of new spending in the recent Republican megabill . The tariffs are still only part of the government's overall budget deficit, and fall short of spending in recent GOP megabills . The president's tariffs are expected to raise $1.2 billion in a year
-• Factories are losing immigrant workers, stressing those who remain
-  Trump campaigned on helping American workers through his immigration policies . Now that he's revoked work authorization for thousands of immigrants, those left behind are feeling taxed by their absence . Those left behind feel taxed by the absence of those who have been granted work authorization to work in the U.S. Now that they have been left behind, they say they're feeling the loss of their work authorization .
-• Boston Public Library aims to increase access to a vast historic archive using AI
-  The library is launching a project in collaboration with Harvard Law School and OpenAI this summer to digitize the materials and make them more fully searchable . Boston Public Library is also working with OpenAI to make the materials more searchable and easier to find . The project is a collaboration between the library and the law school of Harvard Law Law School, OpenAI and the Harvard University of Harvard
-• What's the deal with claims that birth control is dangerous?
-  Social media is full of videos saying hormonal contraception can hurt you and promoting natural alternatives . How did the treatments get such a bad reputation and do alternatives work? Do you know how to get rid of the bad reputation? Share your story with CNN iReport.com . Back to the page you came from.com/news/show us what you think you need to do to avoid the
-• Israeli strike kills journalists in Gaza City, worsening the death toll for the media
-  Israel's military targeted an Al Jazeera correspondent with an airstrike Sunday, killing him, another network journalist and other people . All of whom were sheltering outside the Gaza City Hospital complex were killed . The airstrike killed him, a fellow Al Jazeera journalist and two other people, all of whom he was sheltering from an airstrike . Israel's airstrike killed a journalist, another Al Jazeera reporter and a
+• Alaska was once a full-fledged Russian colony. Now it's hosting a U.S.-Russia summit
+  Russia lost a war in Crimea in the 1850s. To pay off war debts, Russia sold Alaska to the U.S. President Trump and Putin will meet Friday in Alaska to discuss another war involving Crimea . Russia sold Crimea to pay off its debts to pay for the loss of Alaska . The two presidents will meet in Alaska on Friday in order to discuss the Crimea issue . Russia lost
+• U.S. and China extend tariff truce deadline for another 3 months
+  President Trump's executive order extends a reprieve from the threat of rising tariffs between the world's two largest economies . President Trump extended the reprieve by extending the threat to the U.S.-China . The world's largest economies have been hit by rising tariffs since the start of the Trump administration's first term . The U.K. is the largest economy in the world, with
+• A Palestinian activist was killed by the violence he sought to stop
+  Awdah Al Hathaleen was shot during a clash with an Israeli settler . His West Bank village hoped No Other Land, the Oscar-winning film about settler violence that he worked on, might help protect them . The film is based on the West Bank conflict between Israeli settlers and Palestinians in West Bank . The West Bank community hoped the film might help them protect themselves .
+• Say bye-bye to the beeps and boops of AOL's dial-up internet service
+  AOL debuted the service in 1991 . Dial-up has largely been replaced by broadband internet . AOL's dial-up service was launched in 1991, with AOL's first service launched in 1992 . AOL launched the internet service in 1995, with the first version of the service being launched in 1996, in 1996 . AOL was the first major internet service to offer dial-ups in the U.
+• In Alabama, a dredging project in Mobile Bay brings together unlikely allies
+  The mud being dug out of the channel is put into other parts of Mobile Bay . Dredging waterways for navigation is a centuries-old practice, but this project is controversial because the mud is put in other places . The mud is being dredged out of a channel in Mobile Bay to be used for navigation purposes, but it is not allowed to be put in another part of the
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Torvalds blasts tardy kernel dev: Your 'garbage' RISC-V patches are 'making the world worse'
-  Linux head honcho Linus Torvalds has put a kernel developer "on notice" for waiting until the eleventh hour to supply a patch set for Linux on RISC-V systems which "makes the world actively a worse place to live" – in a scathing missive harkening back to his invective-laden tirades of old . Well, at least
-• Snotty astronauts should skip spacewalks, suggests study
-  Pressure difference between space station, space suits increases congestion, say boffins . No one can hear you sneeze in space, but that hasn't stopped a team of boffin . Key takeaway: skip the spacewalk - maybe skip the space walk . The pressure difference between the space station and space suits is due to increase in congestion . Pressure difference also increases in space
-• The UK’s cartographer maps mission to help people and business
-  Britain's Ordnance Survey, founded in 1791, is interloping in the digital age . AR games mingle with underground assets in the data plan for 200-year-old survey . Minecraft, AR gaming, and EV charger locations have all become part of its portfolio, alongside the paper-based maps beloved by the nation's legion of cagoule-clad outdoor types
-• Your CV is not fit for the 21st century – time to get it up to scratch
-  The job market is queasy and since you're reading this, you need to upgrade your CV . It's going to require some work to game the poorly trained AIs now doing so much of the heavy lifting . And yes, that means that means (retch) catering to AI searchers . I know you don't want to, but it's best to think of this as dealing
-• AI coding tools crash on launch, could reboot better in future
-  The CEO of GitHub, coding’s universal termite mound, says that AI is going to do all the coding . Meanwhile, real life AI coding tools make coders less productive while spreading the hallucination that they’re more so . Here are two snapshots of AI in coding in mid 2025, one from GitHub CEO Grace Hopper, and one from Grace Hoppers .
+• VS Code previews chat checkpoints for unpicking careless talk
+  Visual Studio Code (VS Code) team has rolled out version 1.103 with new features including GitHub Copilot chat checkpoints . Microsoft’s AI-centric code editor and . IDE adds the ability to rollback misguided AI prompts . The new features include a new ability to ‘rollback’ AI prompts and ‘confrontal’ commands . The code editor has
+• Colo operators flock to emerging markets to build DCs
+  Joburg and Warsaw among the hotspots for sprawling server farm construction . Lagos, Warsaw and Dubai are among the fastest growing cities for colocation services . Metro areas in Asia-Pacific and EMEA regions expanding more rapidly than traditional datacenter hotspots . Joburg, Dubai and Joburg among the hottest hotspots in the world for data-storage services . Dubai, Job
+• Defra doubles contract value for cloud and DC services
+  UK agriculture department upped potential contract value on offer for cloud and datacenter hosting by more than £100 million . Agriculture department for agriculture and the countryside upped its potential contract to £245 million . Legacy tech for nation's farmers must migrate ... contract swells to £245M contract swelled to £100M . UK's agriculture and countryside has upped the potential contract
+• The White House could end UK's decade-long fight to bust encryption
+  Home Office officials reportedly concede Brit government on back foot as Trump moves to protect US Big Tech players . Home Office's war on encryption – its most technically complex and controversial aspect of modern policymaking yet – is starting to look like battlefield failure after more than ten years of skirmishes .……… The UK government is on the back foot in the battle over encryption, it has been reported
+• UK.gov's nuclear strategy is 'slow, inefficient, and costly'
+  Taskforce delivers damning interim report on next generation of energy generation . UK's "unnecessarily slow, inefficient, and costly" approach to nuclear power . Taskforce commissioned by the UK government has warned of the nation's 'slow, inefficient' approach to nuke power (and weaponry) Taskforce: Britain's nuclear power is "unnecessary slow, efficient, and expensive" UK
 
 🏥 Public Health
 No updates.
 
 🔬 Science
-• Physical fitness status and associated determinants among Chinese children aged 9–12 years in Shandong province: a population-based cross-sectional study
+• Biological and health effects of fire smoke exposure
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Evidence triangulator: using large language models to extract and synthesize causal evidence across study designs
+• Association between social capital and depressive symptoms in adolescents relocated for poverty alleviation in Shanxi, China: a cross-sectional study
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Dietary supplement consumption is associated with lower dietary quality in Chinese university students based on a cross-sectional study
+• Monte carlo simulation for evaluating spatial dynamics of toxic metals and potential health hazards in sebou basin surface water
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Hemoglobin and mean platelet volume abnormalities in children exposed to heavy metals and metalloids in a pilot biomonitoring study
+• AI-assisted cervical cytology precancerous screening for high-risk population in resource-limited regions using a compact microscope
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Demographic variations and temporal trends in hospice and palliative care fellowship matches in the United States
+• Introducing a mindfulness-based intervention in school curriculum to 16–24-year-olds. A nationwide cluster-randomized trial
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,398 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• What you may have missed about GPT-5
+  Before OpenAI released GPT-5 last Thursday, CEO Sam Altman said its capabilities made him feel “useless relative to the AI.” He said working on it carries a weight he imagines the developers of the atom bomb must have felt.
+
+
+
+As tech giants converge on models that do more or less the same thing, OpenAI’s new offering was supposed to give a glimpse of AI’s newest frontier. It was meant to mark a leap toward the “artificial general intelligence” that tech’s evangelists have promised will transform humanity for the better.&nbsp;
+
+
+
+Against those expectations, the model has mostly underwhelmed. 
+
+
+
+People have highlighted glaring mistakes in GPT-5’s responses, countering Altman’s claim made at the launch that it works like “a legitimate PhD-level expert in anything any area you need on demand.” Early testers have also found issues with OpenAI’s promise that GPT-5 automatically works out what type of AI model is best suited for your question—a reasoning model for more complicated queries, or a faster model for simpler ones. Altman seems to have conceded that this feature is flawed and takes away user control. However there is good news too: the model seems to have eased the problem of ChatGPT sucking up to users, with GPT-5 less likely to shower them with over the top compliments.
+
+
+
+Overall, as my colleague Grace Huckins pointed out, the new release represents more of a product update—providing slicker and prettier ways of conversing with ChatGPT—than a breakthrough that reshapes what is possible in AI.&nbsp;
+
+
+
+But there’s one other thing to take from all this. For a while, AI companies didn’t make much effort to suggest how their models might be used. Instead, the plan was to simply build the smartest model possible—a brain of sorts—and trust that it would be good at lots of things. Writing poetry would come as naturally as organic chemistry. Getting there would be accomplished by bigger models, better training techniques, and technical breakthroughs.&nbsp;
+
+
+
+That has been changing: The play now is to push existing models into more places by hyping up specific applications. Companies have been more aggressive in their promises that their AI models can replace human coders, for example (even if the early evidence suggests otherwise). A possible explanation for this pivot is that tech giants simply have not made the breakthroughs they’ve expected. We might be stuck with only marginal improvements in large language models’ capabilities for the time being. That leaves AI companies with one option: Work with what you’ve got.
+
+
+
+
+
+The starkest example of this in the launch of GPT-5 is how much OpenAI is encouraging people to use it for health advice, one of AI’s most fraught arenas. 
+
+
+
+In the beginning, OpenAI mostly didn’t play ball with medical questions. If you tried to ask ChatGPT about your health, it gave lots of disclaimers warning you that it was not a doctor, and for some questions, it would refuse to give a response at all. But as I recently reported, those disclaimers began disappearing as OpenAI released new models. Its models will now not only interpret x-rays and mammograms for you but ask follow-up questions leading toward a diagnosis.
+
+
+
+In May, OpenAI signaled it would try to tackle medical questions head on. It announced HealthBench, a way to evaluate how good AI systems are at handling health topics as measured against the opinions of physicians. In July, it published a study it participated in, reporting that a cohort of doctors in Kenya made fewer diagnostic mistakes when they were helped by an AI model. 
+
+
+
+With the launch of GPT-5, OpenAI has begun explicitly telling people to use its models for health advice. At the launch event, Altman welcomed on stage Felipe Millon, an OpenAI employee, and his wife, Carolina Millon, who had recently been diagnosed with multiple forms of cancer. Carolina spoke about asking ChatGPT for help with her diagnoses, saying that she had uploaded copies of her biopsy results to ChatGPT to translate medical jargon and asked the AI for help making decisions about things like whether or not to pursue radiation. The trio called it an empowering example of shrinking the knowledge gap between doctors and patients.
+
+
+
+With this change in approach, OpenAI is wading into dangerous waters. 
+
+
+
+For one, it’s using evidence that doctors can benefit from AI as a clinical tool, as in the Kenya study, to suggest that people without any medical background should ask the AI model for advice about their own health. The problem is that lots of people might ask for this advice without ever running it by a doctor (and are less likely to do so now that the chatbot rarely prompts them to).
+
+
+
+Indeed, two days before the launch of GPT-5, the Annals of Internal Medicine published a paper about a man who stopped eating salt and began ingesting dangerous amounts of bromide following a conversation with ChatGPT. He developed bromide poisoning—which largely disappeared in the US after the Food and Drug Administration began curbing the use of bromide in over-the-counter medications in the 1970s—and then nearly died, spending weeks in the hospital.&nbsp;
+
+
+
+So what’s the point of all this? Essentially, it’s about accountability. When AI companies move from promising general intelligence to offering humanlike helpfulness in a specific field like health care, it raises a second, yet unanswered question about what will happen when mistakes are made. As things stand, there’s little indication tech companies will be made liable for the harm caused.
+
+
+
+“When doctors give you harmful medical advice due to error or prejudicial bias, you can sue them for malpractice and get recompense,” says Damien Williams, an assistant professor of data science and philosophy at the University of North Carolina Charlotte.&nbsp;
+
+
+
+“When ChatGPT gives you harmful medical advice because it’s been trained on prejudicial data, or because ‘hallucinations’ are inherent in the operations of the system, what’s your recourse?”
+
+
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.
+• Sam Altman and the whale
+  My colleague Grace Huckins has a great story on OpenAI’s release of GPT-5, its long-awaited new flagship model. One of the takeaways, however, is that while GPT-5 may make for a better experience than the previous versions, it isn’t something revolutionary. “GPT-5 is, above all else,” Grace concludes, “a refined product.”
+
+
+
+This is pretty much in line with my colleague Will Heaven’s recent argument that the latest model releases have been a bit like smartphone releases: Increasingly, what we are seeing are incremental improvements meant to enhance the user experience. (Casey Newton made a similar point in Friday’s Platformer.) At GPT-5’s release on Thursday, OpenAI CEO Sam Altman himself compared it to when Apple released the first iPhone with a Retina display. Okay. Sure. 
+
+
+
+But where is the transition from the BlackBerry keyboard to the touch-screen iPhone? Where is the assisted GPS and the API for location services that enables real-time directions and gives rise to companies like Uber and Grindr and lets me order a taxi for my burrito? Where are the real breakthroughs?&nbsp;
+
+
+
+In fact, following the release of GPT-5, OpenAI found itself with something of a user revolt on its hands. Customers who missed GPT-4o&#8217;s personality successfully lobbied the company to bring it back as an option for its Plus users. If anything, that indicates the GPT-5 release was more about user experience than noticeable performance enhancements. 
+
+
+
+And yet, hours before OpenAI’s GPT-5 announcement, Altman teased it by tweeting an image of an emerging Death Star floating in space. On Thursday, he touted its PhD-level intelligence. He then went on the Mornings with Maria show to claim it would “save a lot of lives.” (Forgive my extreme skepticism of that particular brand of claim, but we’ve certainly seen it before.)&nbsp;
+
+
+
+It’s a lot of hype, but Altman is not alone in his Flavor Flav-ing here. Last week Mark Zuckerberg published a long memo about how we are approaching AI superintelligence. Anthropic CEO Dario Amodei freaked basically everyone out earlier this year with his prediction that AI would harvest half of all entry-level jobs within, possibly, a year.&nbsp;
+
+
+
+The people running these companies literally talk about the danger that the things they are building might take over the world and kill every human on the planet. GPT-5, meanwhile, still can’t tell you how many b’s there are in the word “blueberry.”&nbsp;
+
+
+
+This is not to say that the products released by OpenAI or Anthropic or what have you are not impressive. They are. And they clearly have a good deal of utility. But the hype cycle around model releases is out of hand.&nbsp;
+
+
+
+I say that as one of those people who use ChatGPT or Google Gemini most days, often multiple times a day. This week, for example, my wife was surfing and encountered a whale repeatedly slapping its tail on the water. Despite having seen very many whales, often in very close proximity, she had never seen anything like this. She sent me a video, and I was curious about it too. So I asked ChatGPT, “Why do whales slap their tails repeatedly on the water?” It came right back, confidently explaining that what I was describing was called “lobtailing,” along with a list of possible reasons why whales do that. Pretty cool.&nbsp;
+
+
+
+But then again, a regular garden-variety Google search would also have led me to discover lobtailing. And while ChatGPT’s response summarized the behavior for me, it was also too definitive about why whales do it. The reality is that while people have a lot of theories, we still can’t really explain this weird animal behavior.&nbsp;
+
+
+
+The reason I’m aware that lobtailing is something of a mystery is that I dug into actual, you know, search results. Which is where I encountered this beautiful, elegiac essay by Emily Boring. She describes her time at sea, watching a humpback slapping its tail against the water, and discusses the scientific uncertainty around this behavior. Is it a feeding technique? Is it a form of communication? Posturing? The action, as she notes, is extremely energy intensive. It takes a lot of effort from the whale. Why do they do it?&nbsp;
+
+
+
+I was struck by one passage in particular, in which she cites another biologist’s work to draw a conclusion of her own:&nbsp;
+
+
+
+Surprisingly, the complex energy trade-off of a tail-slap might be the exact reason why it’s used. Biologist Hal Whitehead suggests, “Breaches and lob-tails make good signals precisely because they are energetically expensive and thus indicative of the importance of the message and the physical status of the signaler.” A tail-slap means that a whale is physically fit, traveling at nearly maximum speed, capable of sustaining powerful activity, and carrying a message so crucial it is willing to use a huge portion of its daily energy to share it. “Pay attention!” the whale seems to say. “I am important! Notice me!”
+
+
+
+
+
+
+
+In some ways, the AI hype cycle has to be out of hand. It has to justify the ferocious level of investment, the uncountable billions of dollars in sunk costs. The massive data center buildouts with their massive environmental consequences created at massive expense that are seemingly keeping the economy afloat and threatening to crash it. There is so, so, so much money at stake.&nbsp;
+
+
+
+Which is not to say there aren’t really cool things happening in AI. And certainly there have been a number of moments when I have been floored by AI releases. ChatGPT 3.5 was one. Dall-E, NotebookLM, Veo 3, Synthesia. They can amaze. In fact there was an AI product release just this week that was a little bit mind-blowing. Genie 3, from Google DeepMind, can turn a basic text prompt into an immersive and navigable 3D world. Check it out—it’s pretty wild. And yet Genie 3 also makes a case that the most interesting things happening right now in AI aren’t happening in chatbots.&nbsp;
+
+
+
+I’d even argue that at this point, most of the people who are regularly amazed by the feats of new LLM chatbot releases are the same people who stand to profit from the promotion of LLM chatbots.
+
+
+
+Maybe I’m being cynical, but I don’t think so. I think it’s more cynical to promise me the Death Star and instead deliver a chatbot whose chief appeal seems to be that it automatically picks the model for you. To promise me superintelligence and deliver shrimp Jesus. It’s all just a lot of lobtailing. “Pay attention! I am important! Notice me!”
+
+
+
+This article is from The Debrief, MIT Technology Review’s subscriber-only weekly email newsletter from editor in chief Mat Honan. Subscribers can sign up here to receive it in your inbox.
+• Meet the early-adopter judges using AI
+  The propensity for AI systems to make mistakes and for humans to miss those mistakes has been on full display in the US legal system as of late. The follies began when lawyers—including some at prestigious firms—submitted documents citing cases that didn’t exist. Similar mistakes soon spread to other roles in the courts. In December, a Stanford professor submitted sworn testimony containing hallucinations and errors in a case about deepfakes, despite being an expert on AI and misinformation himself.
+
+
+
+The buck stopped with judges, who—whether they or opposing counsel caught the mistakes—issued reprimands and fines, and likely left attorneys embarrassed enough to think twice before trusting AI again.
+
+
+
+But now judges are experimenting with generative AI too. Some are confident that with the right precautions, the technology can expedite legal research, summarize cases, draft routine orders, and overall help speed up the court system, which is badly backlogged in many parts of the US. This summer, though, we’ve already seen AI-generated mistakes go undetected and cited by judges. A federal judge in New Jersey had to reissue an order riddled with errors that may have come from AI, and a judge in Mississippi refused to explain why his order too contained mistakes that seemed like AI hallucinations.&nbsp;
+
+
+
+The results of these early-adopter experiments make two things clear. One, the category of routine tasks—for which AI can assist without requiring human judgment—is slippery to define. Two, while lawyers face sharp scrutiny when their use of AI leads to mistakes, judges may not face the same accountability, and walking back their mistakes before they do damage is much harder.
+
+
+
+Drawing boundaries
+
+
+
+Xavier Rodriguez, a federal judge for the Western District of Texas, has good reason to be skeptical of AI. He started learning about artificial intelligence back in 2018, four years before the release of ChatGPT (thanks in part to the influence of his twin brother, who works in tech). But he’s also seen AI-generated mistakes in his own court.&nbsp;
+
+
+
+In a recent dispute about who was to receive an insurance payout, both the plaintiff and the defendant represented themselves, without lawyers (this is not uncommon—nearly a quarter of civil cases in federal court involve at least one unrepresented party). The two sides wrote their own filings and made their own arguments.&nbsp;
+
+
+
+“Both sides used AI tools,” Rodriguez says, and both submitted filings that referenced made-up cases. He had authority to reprimand them, but given that they were not lawyers, he opted not to.&nbsp;
+
+
+
+“I think there’s been an overreaction by a lot of judges on these sanctions. The running joke I tell when I’m on the speaking circuit is that lawyers have been hallucinating well before AI,” he says. Missing a mistake from an AI model is not wholly different, to Rodriguez, from failing to catch the error of a first-year lawyer. “I’m not as deeply offended as everybody else,” he says.&nbsp;
+
+
+
+In his court, Rodriguez has been using generative AI tools (he wouldn’t publicly name which ones, to avoid the appearance of an endorsement) to summarize cases. He’ll ask AI to identify key players involved and then have it generate a timeline of key events. Ahead of specific hearings, Rodriguez will also ask it to generate questions for attorneys based on the materials they submit.
+
+
+
+These tasks, to him, don’t lean on human judgment. They also offer lots of opportunities for him to intervene and uncover any mistakes before they’re brought to the court. “It’s not any final decision being made, and so it’s relatively risk free,” he says. Using AI to predict whether someone should be eligible for bail, on the other hand, goes too far in the direction of judgment and discretion, in his view.
+
+
+
+Erin Solovey, a professor and researcher on human-AI interaction at Worcester Polytechnic Institute in Massachusetts, recently studied how judges in the UK think about this distinction between rote, machine-friendly work that feels safe to delegate to AI and tasks that lean more heavily on human expertise.&nbsp;
+
+
+
+“The line between what is appropriate for a human judge to do versus what is appropriate for AI tools to do changes from judge to judge and from one scenario to the next,” she says.
+
+
+
+Even so, according to Solovey, some of these tasks simply don’t match what AI is good at. Asking AI to summarize a large document, for example, might produce drastically different results depending on whether the model has been trained to summarize for a general audience or a legal one. AI also struggles with logic-based tasks like ordering the events of a case. “A very plausible-sounding timeline may be factually incorrect,” Solovey says.&nbsp;
+
+
+
+Rodriguez and a number of other judges crafted guidelines that were published in February by the Sedona Conference, an influential think tank that issues principles for particularly murky areas of the law. They outline a host of potentially “safe” uses of AI for judges, including conducting legal research, creating preliminary transcripts, and searching briefings, while warning that judges should verify outputs from AI and that “no known GenAI tools have fully resolved the hallucination problem.”
+
+
+
+
+
+Dodging AI blunders
+
+
+
+Judge Allison Goddard, a federal magistrate judge in California and a coauthor of the guidelines, first felt the impact that AI would have on the judiciary when she taught a class on the art of advocacy at her daughter’s high school. She was impressed by a student’s essay and mentioned it to her daughter. “She said, ‘Oh, Mom, that’s ChatGPT.’”
+
+
+
+“What I realized very quickly was this is going to really transform the legal profession,” she says. In her court, Goddard has been experimenting with ChatGPT, Claude (which she keeps &#8220;open all day&#8221;), and a host of other AI models. If a case involves a particularly technical issue, she might ask AI to help her understand which questions to ask attorneys. She’ll summarize 60-page orders from the district judge and then ask the AI model follow-up questions about it, or ask it to organize information from documents that are a mess. 
+
+
+
+“It’s kind of a thought partner, and it brings a perspective that you may not have considered,” she says.
+
+
+
+Goddard also encourages her clerks to use AI, specifically Anthropic’s Claude, because by default it does not train on user conversations. But it has its limits. For anything that requires law-specific knowledge, she’ll use tools from Westlaw or Lexis, which have AI tools built specifically for lawyers, but she finds general-purpose AI models to be faster for lots of other tasks. And her concerns about bias have prevented her from using it for tasks in criminal cases, like determining if there was probable cause for an arrest.
+
+
+
+In this, Goddard appears to be caught in the same predicament the AI boom has created for many of us. Three years in, companies have built tools that sound so fluent and humanlike they obscure the intractable problems lurking underneath—answers that read well but are wrong, models that are trained to be decent at everything but perfect for nothing, and the risk that your conversations with them will be leaked to the internet. Each time we use them, we bet that the time saved will outweigh the risks, and trust ourselves to catch the mistakes before they matter. For judges, the stakes are sky-high: If they lose that bet, they face very public consequences, and the impact of such mistakes on the people they serve can be lasting.&nbsp;
+
+
+
+“I’m not going to be the judge that cites hallucinated cases and orders,” Goddard says. “It’s really embarrassing, very professionally embarrassing.”
+
+
+
+Still, some judges don’t want to get left behind in the AI age. With some in the AI sector suggesting that the supposed objectivity and rationality of AI models could make them better judges than fallible humans, it might lead some on the bench to think that falling behind poses a bigger risk than getting too far out ahead.&nbsp;
+
+
+
+A ‘crisis waiting to happen’
+
+
+
+The risks of early adoption have raised alarm bells with Judge Scott Schlegel, who serves on the Fifth Circuit Court of Appeal in Louisiana. Schlegel has long blogged about the helpful role technology can play in modernizing the court system, but he has warned that AI-generated mistakes in judges’ rulings signal a “crisis waiting to happen,” one that would dwarf the problem of lawyers’ submitting filings with made-up cases.&nbsp;
+
+
+
+Attorneys who make mistakes can get sanctioned, have their motions dismissed, or lose cases when the opposing party finds out and flags the errors. “When the judge makes a mistake, that’s the law,” he says. “I can’t go a month or two later and go ‘Oops, so sorry,’ and reverse myself. It doesn’t work that way.”
+
+
+
+Consider child custody cases or bail proceedings, Schlegel says: “There are pretty significant consequences when a judge relies upon artificial intelligence to make the decision,” especially if the citations that decision relies on are made-up or incorrect.
+
+
+
+This is not theoretical. In June, a Georgia appellate court judge issued an order that relied partially on made-up cases submitted by one of the parties, a mistake that went uncaught. In July, a federal judge in New Jersey withdrew an opinion after lawyers complained it too contained hallucinations.&nbsp;
+
+
+
+Unlike lawyers, who can be ordered by the court to explain why there are mistakes in their filings, judges do not have to show much transparency, and there is little reason to think they’ll do so voluntarily. On August 4, a federal judge in Mississippi had to issue a new decision in a civil rights case after the original was found to contain incorrect names and serious errors. The judge did not fully explain what led to the errors even after the state asked him to do so. “No further explanation is warranted,” the judge wrote.
+
+
+
+These mistakes could erode the public’s faith in the legitimacy of courts, Schlegel says. Certain narrow and monitored applications of AI—summarizing testimonies, getting quick writing feedback—can save time, and they can produce good results if judges treat the work like that of a first-year associate, checking it thoroughly for accuracy. But most of the job of being a judge is dealing with what he calls the white-page problem: You’re presiding over a complex case with a blank page in front of you, forced to make difficult decisions. Thinking through those decisions, he says, is indeed the work of being a judge. Getting help with a first draft from an AI undermines that purpose.
+
+
+
+“If you’re making a decision on who gets the kids this weekend and somebody finds out you use Grok and you should have used Gemini or ChatGPT—you know, that’s not the justice system.”
+• The Download: a quantum radar, and chipmakers’ deal with the US government
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+This quantum radar could image buried objects
+
+
+
+Physicists have created a new type of radar that could help improve underground imaging, using a cloud of atoms in a glass cell to detect reflected radio waves.The radar is a type of quantum sensor, an emerging technology that uses the quantum-mechanical properties of objects as measurement devices. It’s still a prototype, but its intended use is to image buried objects in situations such as constructing underground utilities, drilling wells for natural gas, and excavating archaeological sites. Read the full story.—Sophia Chen
+
+
+
+If you’re interested in the potential of quantum, why not check out:
+
+
+
++ Why AI could eat quantum computing’s lunch. Rapid advances in applying artificial intelligence to simulations in physics and chemistry have some people questioning whether we will even need quantum computers at all. Read the full story.+ This quantum computer built on server racks paves the way to bigger machines. Read the full story.+ IBM aims to build the world’s first large-scale, error-corrected quantum computer by 2028. The company says it has cracked the code for error correction and is building a modular machine in New York state. Read the full story.+ Amazon’s first quantum computing chip has made its debut. Read the full story.
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 Nvidia and AMD will pay the US 15% of their China AI chip salesThe unconventional deal is the latest in a string of agreements brokered by the US President. (NYT $)+ The deal could equate to billions of dollars for the US government. (WSJ $)+ China says Nvidia’s H20 chips aren’t safe. (Reuters)
+
+
+
+2 OpenAI is restoring GPT-4o to ChatGPTUsers were furious after GPT-5’s launch forced them to switch models. (Gizmodo)+ They complained that the new model made basic errors.(Bloomberg $)+ GPT-5 is here. Now what? (MIT Technology Review)
+
+
+
+3 The US Bureau of Labor Statistics is in turmoilAnd we’re losing access to key economic data as a result. (WSJ $)+ Collecting data is getting a lot tougher in the US. (FT $)+ Sweeping tariffs could threaten the US manufacturing rebound. (MIT Technology Review)
+
+
+
+4 Spain has more solar power than it knows what to do withAnd that abundance has pushed its electricity grid to its limits. (FT $)+ Did solar power cause Spain’s blackout? (MIT Technology Review)
+
+
+
+5 Truth Social’s new chatbot keeps disagreeing with Donald TrumpIt states that the 2020 election wasn’t stolen, and contradicts his stance on tariffs. (WP $)+ It does seem to rely heavily on Fox News, though. (Wired $)
+
+
+
+6 Tesla has applied for a license to supply power to British homesIf approved, it could start rivaling the UK’s energy firms as soon as next year. (BBC)+ The business is likely to be called Tesla Electric. (The Guardian)+ Sales of Tesla’s EVs are still slumping across Europe. (CNBC)
+
+
+
+7 Canadians are taking up the offer of assisted dyingDemand for the procedure is outstripping clinician capacity. (The Atlantic $)+ The messy morality of letting AI make life-and-death decisions. (MIT Technology Review)
+
+
+
+8 Nvidia is full of nepo babiesBut Jensen Huang doesn’t see anything wrong with that. (The Information $)
+
+
+
+9 Silicon Valley’s young founders aren’t big drinkersThey’re all about the grind. (Insider $)
+
+
+
+10 Farewell, AOL dial-up After 34 years, the company is finally ditching dial-up internet. (NBC News)+ “You’ve got mail” no longer. (The Verge)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“I just graduated with a computer science degree, and the only company that has called me for an interview is Chipotle.”
+
+
+
+—Manasi Mishra, who recently graduated from Purdue University without a job offer, vents her frustration in a TikTok post, the New York Times reports.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+This sci-fi blockchain game could help create a metaverse that no one owns
+
+
+
+Dark Forest is a vast universe, and most of it is shrouded in darkness. Your mission, should you choose to accept it, is to venture into the unknown, avoid being destroyed by opposing players who may be lurking in the dark, and build an empire of the planets you discover and can make your own.But while the video game seemingly looks and plays much like other online strategy games, it doesn’t rely on the servers running other popular online strategy games. And it may point to something even more profound: the possibility of a metaverse that isn’t owned by a big tech company. Read the full story.—Mike Orcutt
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
+
+
+
++ Fear FA 98 asks the question: what would happen if we crossed a soccer video game with horror classic Silent Hill?+ Planning a ‘workation?’ These are the best spots to mix business with pleasure.+ Liza Minnelli can’t stop, won’t stop!+ Please—no more sequels.
 • This quantum radar could image buried objects
   Physicists have created a new type of radar that could help improve underground imaging, using a cloud of atoms in a glass cell to detect reflected radio waves. The radar is a type of quantum sensor, an emerging technology that uses the quantum-mechanical properties of objects as measurement devices. It’s still a prototype, but its intended use is to image buried objects in situations such as constructing underground utilities, drilling wells for natural gas, and excavating archaeological sites.
 
@@ -127,404 +519,6 @@ Governments worldwide have invested billions of dollars to develop quantum senso
 
 
 Researchers still need to continue developing quantum radar before it can be made commercially viable. In the future, they need to work on improving the device’s sensitivity to fainter signals, which could involve improving the coatings for the glass cell. “We don’t see this replacing all radar applications,” says Simons. Instead, he thinks it will be useful for particular scenarios that require a compact device.
-• The Download: GPT-5 is here, and Intel’s CEO drama
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
-
-
-
-GPT-5 is here. Now what?
-
-
-
-At long last, OpenAI has released GPT-5. The new system abandons the distinction between OpenAI’s flagship models and its o series of reasoning models, automatically routing user queries to a fast nonreasoning model or a slower reasoning version.It is now available to everyone through the ChatGPT web interface—though nonpaying users may need to wait a few days to gain full access.&nbsp;
-
-
-
-GPT-5 will furnish a more pleasant and seamless user experience. That’s not nothing, but it falls far short of the transformative AI future that Sam Altman has spent much of the past year hyping. Read the full story.
-
-
-
-—Grace Huckins
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 Donald Trump has called on Intel’s CEO to resignHe claims Lip-Bu Tan is “conflicted” by his business ties to China. (FT $)+ Tan was already at odds with some of his board members before the intervention. (WSJ $)+ But the CEO claims he’s got the full backing of his board presently. (Bloomberg $)
-
-
-
-2 Wildfires are raging across the western USAnd strong winds are rapidly spreading them across parched land. (WP $)+ The fires have a devastating effect on human health. (The Guardian)+ How AI can help spot wildfires. (MIT Technology Review)
-
-
-
-3 Meta’s AI superintelligence team is growingThe new TBD Lab is currently working on the newest version of its Llama model. (WSJ $)+ Meta has also been busy acquiring an AI audio firm. (The Information $)+ Elsewhere, Tesla has disbanded its supercomputer team. (Bloomberg $)
-
-
-
-4 A man suffered psychosis after ChatGPT suggested he take sodium bromideThe 60-year old ended up with bromism. (Ars Technica)+ He’d been taking it for three months before he went to the ER. (The Independent)+ AI companies have stopped warning you that their chatbots aren’t doctors. (MIT Technology Review)
-
-
-
-5 Meet Silicon Valley’s AI RationalistsThe group’s influence has spread through tech giants and AI pioneers alike. (NYT $)+ Inside effective altruism, where the far future counts a lot more than the present. (MIT Technology Review)
-
-
-
-6 An CBP agent wore Meta smart glasses during an immigration raidSignalling that law enforcement are interested in this technology. (404 Media)
-
-
-
-7 The US military has a new use for Tesla CybertrucksNamely, aiming missiles at them. (The Verge)+ It wants to learn how to destroy them if enemies start deploying them. (The Register)
-
-
-
-8 South Korea will decide whether to let Google Maps work The decades-old debate could be laid to rest next week. (The Guardian)+ The country has previously rejected Google’s requests on security grounds. (Reuters)
-
-
-
-9 Instagram’s new location-sharing feature is hereIt’s a bid to make the app more participatory and social. (Insider $)+ It also looks a whole lot like Snap’s map. (Fast Company $)10 These headphones could help you to focus Startup Neurable wants to track your brain activity to prevent you getting distracted. (Vox)+ A new AI translation system for headphones clones multiple voices simultaneously. (MIT Technology Review)
-
-
-
-
-
-
-
-Quote of the day
-
-
-
-“I don’t think we should think of them as the ‘new Google’ yet.”
-
-
-
-—Brian Chesky, Airbnb’s CEO, questions the hype swirling around AI agents’ capabilities, TechCrunch reports.
-
-
-
-
-
-
-
-One more thing
-
-
-
-
-
-
-
-
-
-
-
-The arrhythmia of our current ageArrhythmia means the heart beats, but not in proper time—a critical rhythm of life suddenly going rogue and unpredictable. It’s frightening to experience, but what if it’s also a good metaphor for our current times? That a pulse once seemingly so steady is now less sure.Perhaps this wobbliness might be extrapolated into a broader sense of life in the 2020s.Maybe you feel it, too—that the world seems to have skipped more than a beat or two as demagogues rant and democracy shudders, hurricanes rage, and glaciers dissolve. We can’t stop watching tiny screens where influencers pitch products we don’t need alongside news about senseless wars that destroy, murder, and maim tens-of-thousands.All the resulting anxiety has been hard on our hearts—literally and metaphorically. Read the full story.
-
-
-
-—David Ewing Duncan
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+ This entertaining site tracks just how many cigarettes are smoked throughout famous films (and the ones which feature no smoking at all)+ Check out the very best seaside amusement arcade games.+ Next week promises a dazzling meteor shower—here’s how to best watch it.+ Oh, to live an hour in the shoes of a Boston-based bee doctor
-• GPT-5 is here. Now what?
-  At long last, OpenAI has released GPT-5. The new system abandons the distinction between OpenAI’s flagship models and its o series of reasoning models, automatically routing user queries to a fast nonreasoning model or a slower reasoning version. It is now available to everyone through the ChatGPT web interface—though nonpaying users may need to wait a few days to gain full access to the new capabilities.&nbsp;
-
-
-
-It’s tempting to compare GPT-5 with its explicit predecessor, GPT-4, but the more illuminating juxtaposition is with o1, OpenAI’s first reasoning model, which was released last year. In contrast to GPT-5’s broad release, o1 was initially available only to Plus and Team subscribers. Those users got access to a completely new kind of language model—one that would “reason” through its answers by generating additional text before providing a final response, enabling it to solve much more challenging problems than its nonreasoning counterparts.
-
-
-
-
-
-Whereas o1 was a major technological advancement, GPT-5 is, above all else, a refined product. During a press briefing, Sam Altman compared GPT-5 to Apple’s Retina displays, and it’s an apt analogy, though perhaps not in the way that he intended. Much like an unprecedentedly crisp screen, GPT-5 will furnish a more pleasant and seamless user experience. That’s not nothing, but it falls far short of the transformative AI future that Altman has spent much of the past year hyping. In the briefing, Altman called GPT-5 “a significant step along the path to AGI,” or artificial general intelligence, and maybe he’s right—but if so, it’s a very small step.
-
-
-
-Take the demo of the model’s abilities that OpenAI showed to MIT Technology Review in advance of its release. Yann Dubois, a post-training lead at OpenAI, asked GPT-5 to design a web application that would help his partner learn French so that she could communicate more easily with his family. The model did an admirable job of following his instructions and created an appealing, user-friendly app. But when I gave GPT-4o an almost identical prompt, it produced an app with exactly the same functionality. The only difference is that it wasn’t as aesthetically pleasing.
-
-
-
-Some of the other user-experience improvements are more substantial. Having the model rather than the user choose whether to apply reasoning to each query removes a major pain point, especially for users who don’t follow LLM advancements closely.&nbsp;
-
-
-
-And, according to Altman, GPT-5 reasons much faster than the o-series models. The fact that OpenAI is releasing it to nonpaying users suggests that it’s also less expensive for the company to run. That’s a big deal: Running powerful models cheaply and quickly is a tough problem, and solving it is key to reducing AI’s environmental impact. 
-
-
-
-OpenAI has also taken steps to mitigate hallucinations, which have been a persistent headache. OpenAI’s evaluations suggest that GPT-5 models are substantially less likely to make incorrect claims than their predecessor models, o3 and GPT-4o. If that advancement holds up to scrutiny, it could help pave the way for more reliable and trustworthy agents. “Hallucination can cause real safety and security issues,” says Dawn Song, a professor of computer science at UC Berkeley. For example, an agent that hallucinates software packages could download malicious code to a user’s device.
-
-
-
-GPT-5 has achieved the state of the art on several benchmarks, including a test of agentic abilities and the coding evaluations SWE-Bench and Aider Polyglot. But according to Clémentine Fourrier, an AI researcher at the company HuggingFace, those evaluations are nearing saturation, which means that current models have achieved close to maximal performance.&nbsp;
-
-
-
-“It’s basically like looking at the performance of a high schooler on middle-grade problems,” she says. “If the high schooler fails, it tells you something, but if it succeeds, it doesn’t tell you a lot.” Fourrier said she would be impressed if the system achieved a score of 80% or 85% on SWE-Bench—but it only managed a 74.9%.&nbsp;
-
-
-
-Ultimately, the headline message from OpenAI is that GPT-5 feels better to use. “The vibes of this model are really good, and I think that people are really going to feel that, especially average people who haven&#8217;t been spending their time thinking about models,” said Nick Turley, the head of ChatGPT.
-
-
-
-Vibes alone, however, won’t bring about the automated future that Altman has promised. Reasoning felt like a major step forward on the way to AGI. We’re still waiting for the next one.
-• The Download: how AI is improving itself, and hidden greenhouse gases
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
-
-
-
-Five ways that AI is learning to improve itself
-
-
-
-Last week, Mark Zuckerberg declared that Meta aims to achieve smarter-than-human AI. He seems to have a recipe for achieving that goal, and the first ingredient is human talent: Zuckerberg has reportedly tried to lure top researchers to Meta Superintelligence Labs with nine-figure offers.&nbsp;
-
-
-
-The second ingredient is AI itself.&nbsp; Zuckerberg recently said on an earnings call that Meta will focus on building self-improving AI—systems that can bootstrap themselves to higher and higher levels of performance. He hopes to tap into a very real trend. Here are five ways that AI is already making itself better.
-
-
-
-—Grace Huckins
-
-
-
-
-
-
-
-The greenhouse gases we&#8217;re not accounting for
-
-
-
-Back in 2021, climate scientists noticed that levels of methane had soared in the atmosphere the previous year, rising at the fastest rate on record despite the global covid-19 lockdowns.
-
-
-
-Researchers eventually spotted a clear pattern: Methane emissions had increased sharply across the tropics, where wetlands were growing wetter and warmer.The findings offer one of the clearest cases so far where climate change itself is driving additional greenhouse-gas emissions from natural systems, triggering a feedback effect that threatens to produce more warming, more emissions, and on and on.&nbsp;
-
-
-
-There&#8217;s now a major endeavor underway to better track and understand what&#8217;s going on. Read our story about it.
-
-
-
-—James Temple
-
-
-
-This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 The Trump administration’s punishing new tariffs have come into effect And prices are already climbing. (NYT $)+ Economists fear the US economy is poised to shrink. (WP $)+ Sweeping tariffs could threaten the US manufacturing rebound. (MIT Technology Review)
-
-
-
-2 Sections of the US Constitution have been deleted onlinePassages about Congress’ powers and citizens’ unlawful detention have been scrubbed from the US government’s website. (TechCrunch)+ The Library of Congress blamed a coding error. (Ars Technica)
-
-
-
-3 China is fighting a mosquito-borne virusIt’s deploying drones to search for standing water where the insects lay eggs. (AP News)+ Chikungunya virus is rarely fatal, but can cause fever and joint pain. (CNN)+ Authorities are taking a leaf out of their covid-fighting playbooks. (NYT $)
-
-
-
-4 US federal agencies will have access to ChatGPT Enterprise For the grand sum of $1 a year. (Ars Technica)+ It won’t use workers’ data to train ChatGPT, apparently. (Bloomberg $)+ The news comes after major AI firms were greenlit as federal vendors. (Engadget)
-
-
-
-5 Chinese drug discovery startups are striking deals with Big PharmaWestern pharmaceutical giants are confident they can deliver. (Rest of World)+ An AI-driven “factory of drugs” claims to have hit a big milestone. (MIT Technology Review)
-
-
-
-6 Is it possible to build truly green AI data centers?The tech industry appears pretty hooked on fossil fuels. (FT $)+ We did the math on AI’s energy footprint. Here’s the story you haven’t heard. (MIT Technology Review)
-
-
-
-7 The US is increasingly reliant on private companies for weather dataExperts are wary about losing access to vital tools. (Undark)+ How US research cuts are threatening crucial climate data. (MIT Technology Review)
-
-
-
-8 Genetic factors could contribute to the risk of developing chronic fatigue syndromeIt’s the first robust evidence that genetics play a role. (New Scientist $)
-
-
-
-9 An experimental pill is showing weight-loss promiseObese participants in Eli Lilly’s trial lost more than 12% of their body weight. (Wired $)+ We’re learning more about what weight-loss drugs do to the body. (MIT Technology Review)
-
-
-
-10 Finding a job online is a nightmareSome companies are going back to basics to find the best recruits. (WSJ $)
-
-
-
-
-
-
-
-Quote of the day
-
-
-
-“We didn’t vote for ChatGPT.”
-
-
-
-—Virginia Dignum, a professor of responsible artificial intelligence at Sweden’s Umeå University, criticizes the country’s prime minister, Ulf Kristersson for admitting he regularly consults AI tools, the Guardian reports.
-
-
-
-
-
-
-
-One more thing
-
-
-
-
-
-
-
-Why AI could eat quantum computing’s lunchTech companies have been funneling billions of dollars into quantum computers for years. The hope is that they’ll be a game changer for fields as diverse as finance, drug discovery, and logistics.But while the field struggles with the realities of tricky quantum hardware, another challenger is making headway in some of these most promising use cases. AI is now being applied to fundamental physics, chemistry, and materials science in a way that suggests quantum computing’s purported home turf might not be so safe after all. Read the full story.
-
-
-
-—Edd Gent
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+ A super rare edition of The Hobbit has sold for a record-breaking amount at auction.+ How to find new music without relying on Spotify.+ The forthcoming Social Network sequel is rumored to be getting a Succession shakeup.+ If you own both a cat and a scanner, you know what you have to do.
-• The greenhouse gases we’re not accounting for
-  In the spring of 2021, climate scientists were stumped.&nbsp;
-
-
-
-The global economy was just emerging from the covid-19 lockdowns, but for some reason the levels of methane—a greenhouse gas emitted mainly through agriculture and fossil-fuel production—had soared in the atmosphere the previous year, rising at the fastest rate on record.
-
-
-
-Researchers around the world set to work unraveling the mystery, reviewing readings from satellites, aircraft, and greenhouse-gas monitoring stations. They eventually spotted a clear pattern: Methane emissions had increased sharply across the tropics, where wetlands were growing wetter and warmer.&nbsp;
-
-
-
-That created the ideal conditions for microbes that thrive in anaerobic muck, which gobbled up more of the carbon-rich organic matter and spat out more methane as a by-product. (Reduced pollution from nitrogen oxides, which help to break down methane in the atmosphere, also likely played a substantial role.)
-
-
-
-The findings offer one of the clearest cases so far where climate change itself is driving additional greenhouse-gas emissions from natural systems, triggering a feedback effect that threatens to produce more warming, more emissions, and on and on.&nbsp;
-
-
-
-There are numerous additional ways this is happening or soon could, including wildfires and thawing permafrost. These are major emissions sources that aren’t included in the commitments nations have made under the Paris climate agreement—and climate risks that largely aren’t accounted for in the UN Intergovernmental Panel on Climate Change’s most recent warming scenarios.
-
-
-
-Spark Climate Solutions (not to be confused with this newsletter) hopes to change that.The San Francisco nonprofit is launching what’s known as a model intercomparison project, in which different research teams run the same set of experiments on different models across a variety of emissions scenarios to determine how climate change could play out. This one would specifically explore how a range of climate feedback effects could propel additional warming, additional emissions, and additional types of feedback.
-
-
-
-“These increased emissions from natural sources add to human emissions and amplify climate change,” says Phil Duffy, chief scientist at Spark Climate Solutions, who previously served as climate science advisor to President Joe Biden. “And if you don’t look at all of them together, you can’t quantify the strength of that feedback effect.”
-
-
-
-Other participants in the effort will include scientists at the Environmental Defense Fund, Stanford University, the Woodwell Climate Research Center, and other institutions in Europe and Australia, according to Spark Climate Solutions.
-
-
-
-The nonprofit hopes to publish the findings in time for them to be incorporated into the UN climate panel’s seventh major assessment report, which is just getting underway, to help ensure that these dangers are more fully represented. That, in turn, would give nations a more accurate sense of the world’s carbon budgets, or the quantity of greenhouse gases they can produce before the planet reaches temperatures 1.5 °C or&nbsp; 2 °C over preindustrial levels.&nbsp;
-
-
-
-But one thing is already clear: Since the current scenarios don’t fully account for these feedback effects, the world will almost certainly warm faster than is now forecast, which underscores the importance of carrying out this exercise.&nbsp;
-
-
-
-Scientists at EDF, Woodwell and other institutions found that fires in the world’s northernmost forests, thawing permafrost and warming tropical wetlands could together push the planet beyond 2 °C years faster, eliminating up to a quarter of the time left before the world passes the core goal of the Paris agreement, in a paper under review.&nbsp;
-
-
-
-Earlier this year, Spark Climate Solutions set up a broader program to advance research and awareness of what’s known as warming-induced emissions, which will launch additional collaborations similar to the modeling intercomparison project.&nbsp;&nbsp;
-
-
-
-The goal of the program and the research project is “to really mainstream the inclusion of this topic in climate science and climate policy, and to drive research around climate solutions,” says Ben Poulter, who leads the program at Spark Climate Solutions and was previously a scientist at the NASA Goddard Space Flight Center.
-
-
-
-Spark notes that warming temperatures could also release more carbon dioxide from the oceans, in a process known as outgassing; additional carbon dioxide and nitrous oxide, a potent greenhouse gas that also depletes the protective ozone layer, from farmland; more carbon dioxide and methane from wildfires; and still more of all three of these gases as permafrost thaws.
-
-
-
-The ground remains frozen year round across a vast expanse of the Northern Hemisphere, creating a frosty underground storehouse from Alaska to Siberia that’s packed with twice as much carbon as the atmosphere.
-
-
-
-But as it thaws, it starts to decompose and release greenhouse gases, says Susan Natali, an Arctic climate scientist focused on permafrost at Woodwell. A study published in Nature in January noted that 30% of the world’s Arctic–Boreal Zone has already flipped from a carbon sink to a carbon source, when wildfires, thawing permafrost and other factors are taken into account.
-
-
-
-Despite these increasing risks, only a minority of the models that fed into the UN climate panel’s last major report incorporated the feedback effects of thawing permafrost. And the emissions risks still weren’t fully accounted for because these ecosystems are difficult to monitor and model, Natali says.Among the complexities: Wildfires, which are themselves hard to predict, can accelerate thawing. It’s also hard to foresee which regions will grow drier or wetter, which determines whether they release mostly methane or carbon dioxide—and those gases have very different warming effects over different time periods. There are counterbalancing effects that must be taken into account as well—for instance, as carbon-absorbing plants replace ice and snow in certain areas.
-
-
-
-Natali says improving our understanding of these complex feedback effects is essential to understanding the dangers we face.
-
-
-
-“It’s going to mean additional costs to human health, human life,” she says. “We want people to be safe—and it’s very hard to do that if you don’t know what’s coming and you’re not prepared for it.”
-
-
-
-This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
 
 🔒 Cybersecurity & Privacy
 • KrebsOnSecurity in New ‘Most Wanted’ HBO Max Series
@@ -545,54 +539,6 @@ In February 2023, Kivimäki was arrested in France after authorities there resp
 A redacted copy of an ID Kivimaki gave to French authorities claiming he was from Romania.
 In April 2024, Kivimäki was sentenced to more than six years in prison after being convicted of extorting Vastaamo and its patients.
 The documentary is directed by the award-winning Finnish producer and director Sami Kieski and co-written by Joni Soila. According to an August 6 press release, the four 43-minute episodes will drop weekly on Fridays throughout September across Europe, the U.S, Latin America, Australia and South-East Asia.
-• Who Got Arrested in the Raid on the XSS Crime Forum?
-  On July 22, 2025, the European police agency Europol said a long-running investigation led by the French Police resulted in the arrest of a 38-year-old administrator of XSS, a Russian-language cybercrime forum with more than 50,000 members. The action has triggered an ongoing frenzy of speculation and panic among XSS denizens about the identity of the unnamed suspect, but the consensus is that he is a pivotal figure in the crime forum scene who goes by the hacker handle &#8220;Toha.&#8221; Here&#8217;s a deep dive on what&#8217;s knowable about Toha, and a short stab at who got nabbed.
-An unnamed 38-year-old man was arrested in Kiev last month on suspicion of administering the cybercrime forum XSS. Image: ssu.gov.ua.
-Europol did not name the accused, but published partially obscured photos of him from the raid on his residence in Kiev. The police agency said the suspect acted as a trusted third party &#8212; arbitrating disputes between criminals &#8212; and guaranteeing the security of transactions on XSS. A statement from Ukraine&#8217;s SBU security service said XSS counted among its members many cybercriminals from various ransomware groups, including REvil, LockBit, Conti, and Qiliin.
-Since the Europol announcement, the XSS forum resurfaced at a new address on the deep web (reachable only via the anonymity network Tor). But from reviewing the recent posts, there appears to be little consensus among longtime members about the identity of the now-detained XSS administrator.
-The most frequent comment regarding the arrest was a message of solidarity and support for Toha, the handle chosen by the longtime administrator of XSS and several other major Russian forums. Toha&#8217;s accounts on other forums have been silent since the raid.
-Europol said the suspect has enjoyed a nearly 20-year career in cybercrime, which roughly lines up with Toha&#8217;s history. In 2005, Toha was a founding member of the Russian-speaking forum Hack-All. That is, until it got massively hacked a few months after its debut. In 2006, Toha rebranded the forum to exploit[.]in, which would go on to draw tens of thousands of members, including an eventual Who&#8217;s-Who of wanted cybercriminals.
-Toha announced in 2018 that he was selling the Exploit forum, prompting rampant speculation on the forums that the buyer was secretly a Russian or Ukrainian government entity or front person. However, those suspicions were unsupported by evidence, and Toha vehemently denied the forum had been given over to authorities.
-One of the oldest Russian-language cybercrime forums was DaMaGeLaB, which operated from 2004 to 2017, when its administrator &#8220;Ar3s&#8221; was arrested. In 2018, a partial backup of the DaMaGeLaB forum was reincarnated as xss[.]is, with Toha as its stated administrator.
-CROSS-SITE GRIFTING
-Clues about Toha&#8217;s early presence on the Internet &#8212; from ~2004 to 2010 &#8212; are available in the archives of Intel 471, a cyber intelligence firm that tracks forum activity. Intel 471 shows Toha used the same email address across multiple forum accounts, including at Exploit, Antichat, Carder[.]su and inattack[.]ru.
-DomainTools.com finds Toha&#8217;s email address &#8212; toschka2003@yandex.ru &#8212; was used to register at least a dozen domain names &#8212; most of them from the mid- to late 2000s. Apart from exploit[.]in and a domain called ixyq[.]com, the other domains registered to that email address end in .ua, the top-level domain for Ukraine (e.g. deleted.org[.]ua, lj.com[.]ua, and blogspot.org[.]ua).
-A 2008 snapshot of a domain registered to toschka2003@yandex.ru and to Anton Medvedovsky in Kiev. Note the message at the bottom left, &#8220;Protected by Exploit,in.&#8221; Image: archive.org.
-Nearly all of the domains registered to toschka2003@yandex.ru contain the name Anton Medvedovskiy in the registration records, except for the aforementioned ixyq[.]com, which is registered to the name Yuriy Avdeev in Moscow.
-This Avdeev surname came up in a lengthy conversation with Lockbitsupp, the leader of the rapacious and destructive ransomware affiliate group Lockbit. The conversation took place in February 2024, when Lockbitsupp asked for help identifying Toha&#8217;s real-life identity.
-In early 2024, the leader of the Lockbit ransomware group &#8212; Lockbitsupp &#8212; asked for help investigating the identity of the XSS administrator Toha, which he claimed was a Russian man named Anton Avdeev.
-Lockbitsupp didn&#8217;t share why he wanted Toha&#8217;s details, but he maintained that Toha&#8217;s real name was Anton Avdeev. I declined to help Lockbitsupp in whatever revenge he was planning on Toha, but his question made me curious to look deeper.
-It appears Lockbitsupp&#8217;s query was based on a now-deleted Twitter post from 2022, when a user by the name &#8220;3xp0rt&#8221; asserted that Toha was a Russian man named Anton Viktorovich Avdeev, born October 27, 1983.
-Searching the web for Toha&#8217;s email address toschka2003@yandex.ru reveals a 2010 sales thread on the forum bmwclub.ru where a user named Honeypo was selling a 2007 BMW X5. The ad listed the contact person as Anton Avdeev and gave the contact phone number 9588693.
-
-A search on the phone number 9588693 in the breach tracking service Constella Intelligence finds plenty of official Russian government records with this number, date of birth and the name Anton Viktorovich Avdeev. For example, hacked Russian government records show this person has a Russian tax ID and SIN (Social Security number), and that they were flagged for traffic violations on several occasions by Moscow police; in 2004, 2006, 2009, and 2014.
-Astute readers may have noticed by now that the ages of Mr. Avdeev (41) and the XSS admin arrested this month (38) are a bit off. This would seem to suggest that the person arrested is someone other than Mr. Avdeev, who did not respond to requests for comment.
-A FLY ON THE WALL
-For further insight on this question, KrebsOnSecurity sought comments from Sergeii Vovnenko, a former cybercriminal from Ukraine who now works at the security startup paranoidlab.com. I reached out to Vovnenko because for several years beginning around 2010 he was the owner and operator of thesecure[.]biz, an encrypted &#8220;Jabber&#8221; instant messaging server that Europol said was operated by the suspect arrested in Kiev. Thesecure[.]biz grew quite popular among many of the top Russian-speaking cybercriminals because it scrupulously kept few records of its users&#8217; activity, and its administrator was always a trusted member of the community.
-The reason I know this historic tidbit is that in 2013, Vovnenko &#8212; using the hacker nicknames &#8220;Fly,&#8221; and &#8220;Flycracker&#8221; &#8212; hatched a plan to have a gram of heroin purchased off of the Silk Road darknet market and shipped to our home in Northern Virginia. The scheme was to spoof a call from one of our neighbors to the local police, saying this guy Krebs down the street was a druggie who was having narcotics delivered to his home.
-I happened to be lurking on Flycracker&#8217;s private cybercrime forum when his heroin-framing plan was carried out, and called the police myself before the smack eventually arrived in the U.S. Mail. Vovnenko was later arrested for unrelated cybercrime activities, extradited to the United States, convicted, and deported after a 16-month stay in the U.S. prison system [on several occasions, he has expressed heartfelt apologies for the incident, and we have since buried the hatchet].
-Vovnenko said he purchased a device for cloning credit cards from Toha in 2009, and that Toha shipped the item from Russia. Vovnenko explained that he (Flycracker) was the owner and operator of thesecure[.]biz from 2010 until his arrest in 2014.
-Vovnenko believes thesecure[.]biz was stolen while he was in jail, either by Toha and/or an XSS administrator who went by the nicknames N0klos and Sonic.
-&#8220;When I was in jail, [the] admin of xss.is stole that domain, or probably N0klos bought XSS from Toha or vice versa,&#8221; Vovnenko said of the Jabber domain. &#8220;Nobody from [the forums] spoke with me after my jailtime, so I can only guess what really happened.&#8221;
-N0klos was the owner and administrator of an early Russian-language cybercrime forum known as Darklife[.]ws. However, N0kl0s also appears to be a lifelong Russian resident, and in any case seems to have vanished from Russian cybercrime forums several years ago.
-Asked whether he believes Toha was the XSS administrator who was arrested this month in Ukraine, Vovnenko maintained that Toha is Russian, and that &#8220;the French cops took the wrong guy.&#8221;
-WHO IS TOHA?
-So who did the Ukrainian police arrest in response to the investigation by the French authorities? It seems plausible that the BMW ad invoking Toha&#8217;s email address and the name and phone number of a Russian citizen was simply misdirection on Toha&#8217;s part &#8212; intended to confuse and throw off investigators. Perhaps this even explains the Avdeev surname surfacing in the registration records from one of Toha&#8217;s domains.
-But sometimes the simplest answer is the correct one. &#8220;Toha&#8221; is a common Slavic nickname for someone with the first name &#8220;Anton,&#8221; and that matches the name in the registration records for more than a dozen domains tied to Toha&#8217;s toschka2003@yandex.ru email address: Anton Medvedovskiy.
-Constella Intelligence finds there is an Anton Gannadievich Medvedovskiy living in Kiev who will be 38 years old in December. This individual owns the email address itsmail@i.ua, as well an an Airbnb account featuring a profile photo of a man with roughly the same hairline as the suspect in the blurred photos released by the Ukrainian police. Mr. Medvedovskiy did not respond to a request for comment.
-My take on the takedown is that the Ukrainian authorities likely arrested Medvedovskiy. Toha shared on DaMaGeLab in 2005 that he had recently finished the 11th grade and was studying at a university &#8212; a time when Mevedovskiy would have been around 18 years old. On Dec. 11, 2006, fellow Exploit members wished Toha a happy birthday. Records exposed in a 2022 hack at the Ukrainian public services portal diia.gov.ua show that Mr. Medvedovskiy&#8217;s birthday is Dec. 11, 1987.
-The law enforcement action and resulting confusion about the identity of the detained has thrown the Russian cybercrime forum scene into disarray in recent weeks, with lengthy and heated arguments about XSS&#8217;s future spooling out across the forums.
-XSS relaunched on a new Tor address shortly after the authorities plastered their seizure notice on the forum&#8217;s  homepage, but all of the trusted moderators from the old forum were dismissed without explanation. Existing members saw their forum account balances drop to zero, and were asked to plunk down a deposit to register at the new forum. The new XSS &#8220;admin&#8221; said they were in contact with the previous owners and that the changes were to help rebuild security and trust within the community.
-However, the new admin&#8217;s assurances appear to have done little to assuage the worst fears of the forum&#8217;s erstwhile members, most of whom seem to be keeping their distance from the relaunched site for now.
-Indeed, if there is one common understanding amid all of these discussions about the seizure of XSS, it is that Ukrainian and French authorities now have several years worth of private messages between XSS forum users, as well as contact rosters and other user data linked to the seized Jabber server.
-&#8220;The myth of the &#8216;trusted person&#8217; is shattered,&#8221; the user &#8220;GordonBellford&#8221; cautioned on Aug. 3 in an Exploit forum thread about the XSS admin arrest. &#8220;The forum is run by strangers. They got everything. Two years of Jabber server logs. Full backup and forum database.&#8221;
-GordonBellford continued:
-And the scariest thing is: this data array is not just an archive. It is material for analysis that has ALREADY BEEN DONE . With the help of modern tools, they see everything:
-Graphs of your contacts and activity.
-Relationships between nicknames, emails, password hashes and Jabber ID.
-Timestamps, IP addresses and digital fingerprints.
-Your unique writing style, phraseology, punctuation, consistency of grammatical errors, and even typical typos that will link your accounts on different platforms.
-They are not looking for a needle in a haystack. They simply sifted the haystack through the AI sieve and got ready-made dossiers.
 
 🎓 University AI
 No updates.
@@ -1948,93 +1894,471 @@ AI Revolution in Medicine podcast series
 
 
 Opens in a new tabThe post Reimagining healthcare delivery and public health with AI appeared first on Microsoft Research.
-• Self-adaptive reasoning for science
-  Unlocking self-adaptive cognitive behavior that is more controllable and explainable than reasoning models in challenging scientific domains
+• Demystifying Amazon Bedrock Pricing for a Chatbot Assistant
+  “How much will it cost to run our chatbot on Amazon Bedrock?” This is one of the most frequent questions we hear from customers exploring AI solutions. And it’s no wonder — calculating costs for AI applications can feel like navigating a complex maze of tokens, embeddings, and various pricing models. Whether you’re a solution architect, technical leader, or business decision-maker, understanding these costs is crucial for project planning and budgeting. In this post, we’ll look at Amazon Bedrock pricing through the lens of a practical, real-world example: building a customer service chatbot. We’ll break down the essential cost components, walk through capacity planning for a mid-sized call center implementation, and provide detailed pricing calculations across different foundation models. By the end of this post, you’ll have a clear framework for estimating your own Amazon Bedrock implementation costs and understanding the key factors that influence them. 
+For those that aren’t familiar, Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading artificial intelligence (AI) companies like AI21 Labs, Anthropic, Cohere, Meta, Stability AI, and Amazon through a single API, along with a broad set of capabilities to build generative AI applications with security, privacy, and responsible AI. 
+Amazon Bedrock provides a comprehensive toolkit for powering AI applications, including pre-trained large language models (LLMs), Retrieval Augmented Generation (RAG) capabilities, and seamless integration with existing knowledge bases. This powerful combination enables the creation of chatbots that can understand and respond to customer queries with high accuracy and contextual relevance. 
+Solution overview 
+For this example, our Amazon Bedrock chatbot will use a curated set of data sources and use Retrieval-Augmented Generation (RAG) to retrieve relevant information in real time. With RAG, our output from the chatbot will be enriched with contextual information from our data sources, giving our users a better customer experience. When understanding Amazon Bedrock pricing, it’s crucial to familiarize yourself with several key terms that significantly influence the expected cost. These components not only form the foundation of how your chatbot functions but also directly impact your pricing calculations. Let’s explore these key components. Key Components 
+ 
+ Data Sources – The documents, manuals, FAQs, and other information artifacts that form your chatbot’s knowledge base. 
+ Retrieval-Augmented Generation (RAG) – The process of optimizing the output of a large language model by referencing an authoritative knowledge base outside of its training data sources before generating a response. RAG extends the already powerful capabilities of LLMs to specific domains or an organization’s internal knowledge base, without the need to retrain the model. It is a cost-effective approach to improving LLM output so it remains relevant, accurate, and useful in various contexts. 
+ Tokens – A sequence of characters that a model can interpret or predict as a single unit of meaning. For example, with text models, a token could correspond not just to a word, but also to a part of a word with grammatical meaning (such as “-ed”), a punctuation mark (such as “?”), or a common phrase (such as “a lot”). Amazon Bedrock prices are based on the number of input and output tokens processed. 
+ Context Window – The maximum amount of text (measured in tokens) that an LLM can process in one request. This includes both the input text and additional context needed to generate a response. A larger context window allows the model to consider more information when generating responses, enabling more comprehensive and contextually appropriate outputs. 
+ Embeddings – Dense vector representations of text that capture semantic meaning. In a RAG system, embeddings are created for both knowledge base documents and user queries, enabling semantic similarity searches to retrieve the most relevant information from your knowledge base to augment the LLM’s responses. 
+ Vector Store: A vector store contains the embeddings for your data sources and acts as your knowledge base. Embeddings Model: Embedding models are machine learning models that convert data (text, images, code, etc.) into fixed-size numerical vectors. These vectors capture the semantic meaning of the input in a format that can be used for similarity search, clustering, classification, recommendation systems, and retrieval-augmented generation (RAG). 
+ Large Language Models (LLMs) – Models trained on vast volumes of data that use billions of parameters to generate original output for tasks like answering questions, translating languages, and completing sentences. Amazon Bedrock offers a diverse selection of these foundation models (FMs), each with different capabilities and specialized strengths. 
+ 
+The figure below demonstrates the architecture of a fully managed RAG solution on AWS. 
+ 
+Estimating Pricing 
+One of the most challenging aspects of implementing an AI solution is accurately predicting your capacity needs. Without proper capacity estimation, you might either over-provision (leading to unnecessary costs) or under-provision (resulting in performance issues). Let’s walk through how to approach this crucial planning step for a real-world scenario. Before we dive into the numbers, let’s understand the key factors that affect your capacity and costs: 
+ 
+ Embeddings: Vector representations of your text that enable semantic search capabilities. Each document in your knowledge base needs to be converted into embeddings, which impacts both processing costs and storage requirements. 
+ User Queries: The incoming questions or requests from your users. Understanding your expected query volume and complexity is crucial, as each query consumes tokens and requires processing power. 
+ LLM Responses: The AI-generated answers to user queries. The length and complexity of these responses directly affect your token usage and processing costs. 
+ Concurrency: The number of simultaneous users your system needs to handle. Higher concurrency requirements may necessitate additional infrastructure and can affect your choice of pricing model. 
+ 
+To make this concrete, let’s examine a typical call center implementation. Imagine you’re planning to deploy a customer service chatbot for a mid-sized organization handling product inquiries and support requests. Here’s how we’d break down the capacity planning: First, consider your knowledge base. In our scenario, we’re working with 10,000 support documents, each averaging 500 tokens in length. These documents need to be chunked into smaller pieces for effective retrieval, with each document typically splitting into 5 chunks. This gives us a total of 5 million tokens for our knowledge base. For the embedding process, those 10,000 documents will generate approximately 50,000 embeddings when we account for chunking and overlapping content. This is important because embeddings affect both your initial setup costs and ongoing storage needs. 
+Now, let’s look at the operational requirements. Based on typical call center volumes, we’re planning for: 
+ 
+ 10,000 customer queries per month 
+ Query lengths varying from 50 to 200 tokens (depending on complexity) 
+ Average response length of 100 tokens per interaction 
+ Peak usage of 100 simultaneous users 
+ 
+When we aggregate these numbers, our monthly capacity requirements shape up to: 
+ 
+ 5 million tokens for processing our knowledge base 
+ 50,000 embeddings for semantic search 
+ 500,000 tokens for handling user queries 
+ 1 million tokens for generating responses 
+ 
+Understanding these numbers is crucial because they directly impact your costs in several ways: 
+ 
+ Initial setup costs for processing and embedding your knowledge base 
+ Ongoing storage costs for maintaining your vector database and document storage 
+ Monthly processing costs for handling user interactions 
+ Infrastructure costs to support your concurrency requirements 
+ 
+This gives us a solid foundation for our cost calculations, which we’ll explore in detail in the next section. 
+Calculating total cost of ownership (TCO) 
+Amazon Bedrock offers flexible pricing modes. With Amazon Bedrock, you are charged for model inference and customization. You have a choice of two pricing plans for inference: 1. On-Demand and Batch: This mode allows you to use FMs on a pay-as-you-go basis without having to make time-based term commitments. 2. Provisioned Throughput: This mode allows you to provision sufficient throughput to meet your application’s performance requirements in exchange for a time-based term commitment. 
+ 
+ On-demand – Ideal for infrequent or unpredictable usage 
+ Batch – Designed for processing large volumes of data in a single operation 
+ Provisioned throughput – Tailored for applications with consistent and predictable workloads 
+ 
+To calculate the TCO for this scenario as one-time cost we’ll consider the foundation model, the volume of data in the knowledge base, the estimated number of queries and responses, and the concurrency level mentioned above. For this scenario we’ll be using an on-demand pricing model and showing how the pricing would be for some of the foundation models available on Amazon Bedrock. 
+The On-Demand Pricing formula will be: 
+The cost of this setup will be the sum of cost of LLM inferences and cost of vector store. To estimate cost of inferences, you can obtain the number of input tokens, context size and output tokens in the response metadata returned by the LLM. Total Cost Incurred = ((Input Tokens + Context Size) * Price per 1000 Input Tokens + Output tokens * Price per 1000 Output Tokens) + Embeddings. For input tokens we will be adding an additional context size of about 150 tokens for User Queries. Therefore as per our assumption of 10,000 User Queries, the total Context Size will be 1,500,000 tokens. 
+The following is a comparison of estimated monthly costs for various models on Amazon Bedrock based on our example use case using the on-demand pricing formula: 
+Embeddings Cost: 
+For text embeddings on Amazon Bedrock, we can choose from Amazon Titan Embeddings V2 model or Cohere Embeddings Model. In this example we are calculating a one-time cost for the embeddings. 
+ 
+ Amazon Titan Text Embeddings V2: 
+   
+   Price per 1,000 input tokens – $0.00002 
+   Cost of Embeddings – (Data Sources + User Queries) * Embeddings cost per 1000 tokens 
+     
+     (5,000,000 +500,000) * 0.00002/1000 = $0.11 
+      
+    
+ Cohere Embeddings: 
+   
+   Price per 1,000 input tokens – $0.0001 
+   Cost of Embeddings – (5,000,000+500,000) * 0.0001/1000 =$0.55 
+    
+ 
+The usual cost of vector stores has 2 components: size of vector data + number of requests to the store. You can choose whether to let the Amazon Bedrock console set up a vector store in Amazon OpenSearch Serverless for you or to use one that you have created in a supported service and configured with the appropriate fields. If you’re using OpenSearch Serverless as part of your setup, you’ll need to consider its costs. Pricing details can be found here: OpenSearch Service Pricing&nbsp;. 
+Here using the On-Demand pricing formula, the overall cost is calculated using some foundation models (FMs) available on Amazon Bedrock and the Embeddings cost. 
+• Anthropic Claude: 
+ 
+ Claude 4 Sonnet: ((500,000 +1,500,000) tokens/1000 * $0.003 + 1,000,000 tokens/1000* $0.015 = $21+0.11= $21.11 
+ Claude 3 Haiku: ((500,000 +1,500,000) tokens/1000 * $0.00025 + 1,000,000 tokens/1000* $0.00125 = $1.75+0.11= $1.86 
+ 
+• Amazon Nova: 
+ 
+ Amazon Nova Pro: ((500,000 +1,500,000) tokens/1000 * $0.0008 + 1,000,000 tokens/1000* $0.0032= $4.8+0.11= $4.91 
+ Amazon Nova Lite: ((500,000 +1,500,000) tokens/1000 * $0.00006 + 1,000,000 tokens/1000* $0.00024 = $0.36+0.11= $0.47 
+ 
+• Meta Llama: 
+ 
+ Llama 4 Maverick (17B): ((500,000 +1,500,000) tokens/1000 * $0.00024 + 1,000,000 tokens/1000* $0.00097= $1.45+0.11= $1.56 
+ Llama 3.3 Instruct (70B): ((500,000 +1,500,000) tokens/1000 * $0.00072 + 1,000,000 tokens/1000* $0.00072 = $2.16+0.11= $2.27 
+ 
+Evaluate models not just on their natural language understanding (NLU) and generation (NLG) capabilities, but also on their price-per-token ratios for both input and output processing. Consider whether premium models with higher per-token costs deliver proportional value for your specific use case, or if more cost-effective alternatives like Amazon Nova Lite or Meta Llama models can meet your performance requirements at a fraction of the cost. 
+Conclusion 
+Understanding and estimating Amazon Bedrock costs doesn’t have to be overwhelming. As we’ve demonstrated through our customer service chatbot example, breaking down the pricing into its core components – token usage, embeddings, and model selection – makes it manageable and predictable. 
+Key takeaways for planning your Bedrock implementation costs: 
+ 
+ Start with a clear assessment of your knowledge base size and expected query volume 
+ Consider both one-time costs (initial embeddings) and ongoing operational costs 
+ Compare different foundation models based on both performance and pricing 
+ Factor in your concurrency requirements when choosing between on-demand, batch, or provisioned throughput pricing 
+ 
+By following this systematic approach to cost estimation, you can confidently plan your Amazon Bedrock implementation and choose the most cost-effective configuration for your specific use case. Remember that the cheapest option isn’t always the best – consider the balance between cost, performance, and your specific requirements when making your final decision. 
+Getting Started with Amazon Bedrock 
+With Amazon Bedrock, you have the flexibility to choose the most suitable model and pricing structure for your use case. We encourage you to explore the AWS Pricing Calculator for more detailed cost estimates based on your specific requirements. 
+To learn more about building and optimizing chatbots with Amazon Bedrock, check out the workshop Building with Amazon Bedrock. 
+We’d love to hear about your experiences building chatbots with Amazon Bedrock. Share your success stories or challenges in the comments! 
+ 
+About the authors 
+ Srividhya Pallay is a Solutions Architect II at Amazon Web Services (AWS) based in Seattle, where she supports small and medium-sized businesses (SMBs) and specializes in Generative Artificial Intelligence and Games. Srividhya holds a Bachelor’s degree in Computational Data Science from Michigan State University College of Engineering, with a minor in Computer Science and Entrepreneurship. She holds 6 AWS Certifications. 
+Prerna Mishra is a Solutions Architect at Amazon Web Services(AWS) supporting Enterprise ISV customers. She specializes in Generative AI and MLOPs as part of Machine Learning and Artificial Intelligence community. She graduated from New York University in 2022 with a Master’s degree in Data Science and Information Systems. 
+Brian Clark is a Solutions Architect at Amazon Web Services (AWS) supporting Enterprise customers in the financial services vertical. He is a part of the Machine Learning and Artificial Intelligence community and specializes in Generative AI and Agentic workflows. Brian has over 14 years of experience working in technology and holds 8 AWS certifications.
+• Fine-tune OpenAI GPT-OSS models on Amazon SageMaker AI using Hugging Face libraries
+  Released on August 5, 2025, OpenAI’s GPT-OSS models, gpt-oss-20b and gpt-oss-120b, are now available on AWS through Amazon SageMaker AI and Amazon Bedrock. These pre-trained, text-only Transformer models are built on a Mixture-of-Experts (MoE) architecture that activates only a subset of parameters per token, delivering high reasoning performance while reducing compute costs. They specialize in coding, scientific analysis, and mathematical reasoning, and support a 128,000 context length, adjustable reasoning levels (low/medium/high), chain-of-thought (CoT) reasoning with audit-friendly traces, structured outputs, and tool use to support agentic-AI workflows. As discussed in OpenAI’s documentation, both models have undergone safety-focused training and adversarial fine-tuning evaluations to assess and strengthen robustness against misuse. The following table summarizes the model specifications. 
+ 
+  
+   
+   Model 
+   Layers 
+   Total Parameters 
+   Active Parameters Per Token 
+   Total Experts 
+   Active Experts Per Token 
+   Context Length 
+   
+   
+   openai/gpt-oss-120b 
+   36 
+   117 billion 
+   5.1 billion 
+   128 
+   4 
+   128,000 
+   
+   
+   openai/gpt-oss-20b 
+   24 
+   21 billion 
+   3.6 billion 
+   32 
+   4 
+   128,000 
+   
+  
+ 
+The GPT-OSS models are deployable using Amazon SageMaker JumpStart and also accessible through Amazon Bedrock APIs. Both options provide developers the flexibility to deploy and integrate GPT-OSS models into your production-grade AI workflows. Beyond out-of-the-box deployment, these models can be fine-tuned to align with specific domains and use cases, using open source tools from the Hugging Face ecosystem and running on the fully managed infrastructure of SageMaker AI. 
+Fine-tuning large language models (LLMs) is the process of adjusting a pre-trained model’s weights using a smaller, task-specific dataset to tailor its behavior to a particular domain or application. Fine-tuning large models like GPT-OSS transforms them from a broad generalist into a domain-specific expert without the cost of training from scratch. Adapting the model to your data and terminology can deliver more accurate, context-aware outputs, improves reliability, and reduces hallucinations. The result is a specialized GPT-OSS that excels at targeted tasks while retaining the scalability, flexibility, and open-weight benefits ideal for secure, enterprise-grade deployment. 
+In this post, we walk through the process of fine-tuning a GPT-OSS model in a fully managed training environment using SageMaker AI training jobs. The workflow uses the Hugging Face TRL library for fine-tuning, the Hugging Face Accelerate library to simplify distributed training across multiple GPUs and nodes, and the DeepSpeed ZeRO-3 optimization technique to reduce memory usage by partitioning model states across devices for efficient training of billion-parameter models. We then apply this setup to fine-tune the GPT-OSS model on a multilingual reasoning dataset, HuggingFaceH4/Multilingual-Thinking, enabling GPT-OSS to handle structured, CoT reasoning across multiple languages. 
+Solution overview 
+SageMaker AI is a managed machine learning (ML) service that streamlines the entire foundation model (FM) lifecycle. It provides hosted, interactive notebooks for rapid exploration, fully managed ephemeral training jobs for large-scale and distributed fine-tuning, and Amazon SageMaker HyperPod clusters that offer granular control over persistent training infrastructure for large-scale model training and fine-tuning workloads. By using managed hosting in SageMaker, you can serve models reliably in production, and the suite of AIOps-ready tools, such as reusable pipelines and fully managed MLflow, support experiment tracking, model registration, and seamless deployment. With built-in governance and enterprise-grade security, SageMaker AI provides data engineers, data scientists, and ML engineers with a unified, fully managed platform to build, train, deploy, and govern FMs end-to-end. 
+GPT-OSS can be fine-tuned on SageMaker using the latest Hugging Face TRL library, which can be written as recipes for fine-tuning LLMs using Hugging Face SFTTrainer. These recipes can also be adapted to fine-tune other open-weight language or vision models such as Qwen, Mistral, Meta, and many more. In this post, we show how to fine-tune GPT-OSS in a distributed setup either on a single node multi-GPU setup or across multi-node multi-GPU setup, using Hugging Face Accelerate to manage multi-device training and DeepSpeed ZeRO-3 to train large models more efficiently. Together, they help you fine-tune faster and scale to larger datasets. 
+We also highlight MXFP4 (Microscaling FP4), a 4-bit floating-point quantization format from the Open Compute Project. It groups tensors into small blocks, each sharing a scaling factor, which reduces memory and compute needs while helping preserve model accuracy—making it well-suited for efficient model training. Complementing quantization, we explore Parameter-Efficient Fine-Tuning (PEFT) methods like LoRA, for the adaptation of large models by learning a small set of additional parameters instead of modifying all weights. This approach is memory- and compute-efficient, highly compatible with quantized models, and supports fine-tuning even on constrained hardware environments. 
+The following diagram illustrates this configuration (source). 
+ 
+By using MXFP4 quantization, PEFT fine-tuning methods like LoRA, and distributed training with Hugging Face Accelerate and DeepSpeed ZeRO-3 together, we can efficiently and scalably fine-tune large models like gpt-oss-120b and gpt-oss-20b for high-performance customization while keeping infrastructure and compute costs manageable. 
+Prerequisites 
+To fine-tune GPT-OSS models on SageMaker AI, you must have the following prerequisites: 
+ 
+ An AWS account that will contain your AWS resources. 
+ An AWS Identity and Access Management (IAM) role to access SageMaker AI. To learn more about how IAM works with SageMaker AI, see AWS Identity and Access Management for Amazon SageMaker AI. 
+ You can run the notebook provided in this post from your preferred development environment, including interactive development environments (IDEs) such as PyCharm or Visual Studio Code, provided your AWS credentials are properly set up and configured to access your AWS account. To set up your local environment, refer to Configuring settings for the AWS CLI. Optionally, we recommend using Amazon SageMaker Studio for straightforward development process on SageMaker AI. 
+ If you’re following along with this post, we use the ml.p5en.48xlarge instance for fine-tuning the 120B model and the ml.p4de.24xlarge instance for the 20B model. You will need access to these SageMaker compute instances to run the example notebook presented in this post. If you’re unsure, you can review the AWS service quotas on the AWS Management Console: 
+   
+   Choose Amazon SageMaker as the AWS service under Manage Quotas. 
+   Select ml.p4de.24xlarge for training job usage or ml.p5en.48xlarge for training job usage based on the model you’re interested in fine-tuning and request an increase at account level. 
+    
+ Access to the GitHub repo. 
+ 
+Business outcomes for fine-tuning GPT-OSS 
+Global enterprises increasingly need AI tools that support complex reasoning across multiple languages—whether for multilingual virtual assistants, cross-location support desks, or international knowledge systems. Although FMs offer a powerful starting point, their effectiveness in diverse linguistic contexts hinges on structured reasoning inputs—datasets that surface logic steps explicitly and across languages. That’s why testing with a multilingual, CoT-style dataset is a valuable first step. It lets you verify how well a model holds reasoning coherence when switching between languages and reasoning patterns, laying a robust foundation before scaling to larger, domain-specific multilingual datasets. GPT-OSS is particularly well-suited for this task, with its native CoT capabilities, long 128,000 context window, and adjustable reasoning levels, making it ideal for evaluating and refining multilingual reasoning performance before production deployment. 
+Fine-tune GPT-OSS models for multi-lingual reasoning on SageMaker AI 
+In this section, we walk through how to fine-tune OpenAI’s GPT-OSS models on SageMaker AI using training jobs. SageMaker training jobs support distributed multi-GPU and multi-node configurations, so you can spin up high-performance clusters on demand, train billion-parameter models faster, and automatically shut down resources when the job finishes. 
+Set up your environment 
+In the following sections, we run the code from SageMaker Studio JupyterLab notebook instances. You can also use your preferred IDE, such as VS Code or PyCharm, but make sure your local environment is configured to work with AWS, as discussed in the prerequisites. 
+Complete the following steps: 
+ 
+ On the SageMaker AI console, choose Domains in the navigation pane, then open your domain. 
+ In the navigation pane under Applications and IDEs, choose Studio. 
+ On the User profiles tab, locate your user profile, then choose Launch and Studio. 
+ 
+ 
+ 
+ In SageMaker Studio, launch an ml.t3.medium JupyterLab notebook instance with at least 50 GB of storage. 
+ 
+A large notebook instance isn’t required, because the fine-tuning job will run on a separate ephemeral training job instance with NVIDIA accelerators. 
+ 
+ 
+ To begin fine-tuning, start by cloning the GitHub repo and navigating to 3_distributed_training/models/openai--gpt-oss directory, then launch the finetune_gpt_oss.ipynb notebook with a Python 3.12 or higher version kernel: 
+ 
+ 
+ # clone github repo
+git clone&nbsp;https://github.com/aws-samples/amazon-sagemaker-generativeai.git 
+ 
+Dataset for fine-tuning 
+Selecting and curating the right dataset is a critical first step in fine-tuning any LLM. In this post, we use the Hugging FaceH4/Multilingual-Thinking dataset, which is a multilingual reasoning dataset containing CoT examples translated into languages such as French, Spanish, and German. Its combination of diverse languages, varied reasoning tasks, and explicit step-by-step thought processes makes it well-suited for evaluating how a model handles structured reasoning, adapts to multilingual inputs, and maintains logical consistency across different linguistic contexts. With around 1,000 examples, it’s small enough for quick experimentation yet sufficient to demonstrate fine-tuning and evaluation of large pre-trained models like GPT-OSS. The dataset can be loaded in just a few lines of code using the Hugging Face Datasets library: 
+ 
+ # load datasets in memory
+dataset_name = 'HuggingFaceH4/Multilingual-Thinking'
+dataset = load_dataset(dataset_name, split="train") 
+ 
+The following code is some sample data: 
+ 
+ {
+&nbsp;&nbsp;"reasoning_language": "French",
+&nbsp;&nbsp;"developer": "You are a recipe suggestion bot, ...",
+&nbsp;&nbsp;"user": "Can you provide me with a step-by-step ...",
+&nbsp;&nbsp;"analysis": "D'accord, l'utilisateur souhaite une recette ...",
+&nbsp;&nbsp;"final": "Certainly! Here's a classic homemade chocolate ...",
+&nbsp;&nbsp;"messages": [
+&nbsp;&nbsp; &nbsp;{
+&nbsp;&nbsp; &nbsp; &nbsp;"content": "reasoning language: French\n\nYou are a ...",
+&nbsp;&nbsp; &nbsp; &nbsp;"role": "system",
+&nbsp;&nbsp; &nbsp; &nbsp;"thinking": null
+&nbsp;&nbsp; &nbsp;},
+&nbsp;&nbsp; &nbsp;{
+&nbsp;&nbsp; &nbsp; &nbsp;"content": "Can you provide me with a step-by-step ...",
+&nbsp;&nbsp; &nbsp; &nbsp;"role": "user",
+&nbsp;&nbsp; &nbsp; &nbsp;"thinking": null
+&nbsp;&nbsp; &nbsp;},
+&nbsp;&nbsp; &nbsp;{
+&nbsp;&nbsp; &nbsp; &nbsp;"content": "Certainly! Here's a classic homemade chocolate ...",
+&nbsp;&nbsp; &nbsp; &nbsp;"role": "assistant",
+&nbsp;&nbsp; &nbsp; &nbsp;"thinking": "D'accord, l'utilisateur souhaite une recette ...“
+&nbsp;&nbsp; &nbsp;}
+&nbsp;&nbsp;]
+} 
+ 
+For supervised fine-tuning, we use only the data in the messages key to train our GPT-OSS model. Because TRL’s SFTTrainer natively supports this format, it can be used as-is. We extract all rows containing only the messages key, save them in JSONL format, and upload the file to Amazon Simple Storage Service (Amazon S3). This makes sure the dataset is readily accessible to SageMaker training jobs at runtime. 
+ 
+ # preserve only messages key&nbsp;
+dataset = dataset.remove_columns(
+&nbsp;&nbsp; &nbsp;[col for col in dataset.column_names if col != "messages"]
+)
+# save as JSONL format
+dataset_filename = os.path.join(dataset_parent_path, f"{dataset_name.replace('/', '--').replace('.', '-')}.jsonl")
+dataset.to_json(dataset_filename, lines=True)
+...
 
+from sagemaker.s3 import S3Uploader
 
+# select a data destination bucket
+data_s3_uri = f"s3://{sess.default_bucket()}/dataset"
 
-Long-running LLM agents equipped with strong reasoning, planning, and execution skills have the potential to transform scientific discovery with high-impact advancements, such as developing new materials or pharmaceuticals. As these agents become more autonomous, ensuring effective human oversight and clear accountability becomes increasingly important, presenting challenges that must be addressed to unlock their full transformative power. Today’s approaches to long-term reasoning are established during the post-training phase, prior to end-user deployment and typically by the model provider. As a result, the expected actions of these agents are pre-baked by the model developer, offering little to no control from the end user.
+# upload to S3
+uploaded_s3_uri = S3Uploader.upload(
+&nbsp;&nbsp; &nbsp;local_path=dataset_filename,
+&nbsp;&nbsp; &nbsp;desired_s3_uri=data_s3_uri
+)
+print(f"Uploaded {dataset_filename} to &gt; {uploaded_s3_uri}") 
+ 
+Experimentation tracking with MLflow (Optional) 
+SageMaker AI offers the fully managed MLflow capability, so you can track multiple training runs within experiments, compare results with visualizations, evaluate models, and register the best ones in the model registry. MLflow also supports integration with agentic workflows. 
+TRL’s SFTTrainer natively integrates with experimentation tracking tools such as MLflow, TensorBoard, Weights &amp; Biases, and more. With SFTTrainer, you can log training parameters, hyperparameters, loss metrics, system metrics, and more to a centralized location, providing you with audit trails, governance, and streamlined experiment tracking. This step is optional; if you choose not to use SageMaker managed MLflow, you can set the SFTTrainer parameter reports_to to tensorboard, which will log all metrics locally to disk for visualization using a local or remote TensorBoard service. 
+ 
+ 
+ # set none to log to local disk
+MLFLOW_TRACKING_SERVER_ARN =&nbsp;None&nbsp;# or "arn:aws:sagemaker:us-west-2:&lt;account-id&gt;:mlflow-tracking-server/&lt;server-name&gt;"
 
+if MLFLOW_TRACKING_SERVER_ARN:
+&nbsp;&nbsp; &nbsp;reports_to = "mlflow"
+else:
+&nbsp;&nbsp; &nbsp;reports_to = "tensorboard"
+print("reports to:", reports_to) 
+ 
+Experiments logged from TRL’s SFTTrainer to an MLflow tracking server in SageMaker automatically capture key metrics and parameters. The SageMaker managed MLflow service renders real-time visualizations, profiles training hardware with minimal setup, enables side-by-side run comparisons, and provides built-in evaluation tools to track, train, and assess your fine-tuning jobs end-to-end. 
+ 
+Fine-tune GPT-OSS on training jobs 
+The following example demonstrates how to fine-tune the gpt-oss-20b model. To switch to gpt-oss-120b, simply update the model_name. The model-to-instance mapping shown in this section has been tested as part of this notebook workflow. You can adjust the instance type and instance count to fit your specific use case. 
+The following table summarizes the different model specifications. 
+ 
+  
+   
+   GPT‑OSS Model 
+   SageMaker Instance 
+   GPU Specifications 
+   
+   
+   openai/gpt-oss-120b 
+   ml.p5en.48xlarge 
+   8× NVIDIA H200 GPUs, 96 GB HBM3 each 
+   
+   
+   openai/gpt-oss-20b 
+   ml.p4de.24xlarge 
+   8× NVIDIA A100 GPUs, 80 GB HBM2e each 
+   
+  
+ 
+ 
+ # User-defined variables
+model_name = "openai/gpt-oss-20b"
+tokenizer_name = "openai/gpt-oss-20b"
 
+# dataset path inside a sagemaker container
+dataset_path = "/opt/ml/input/data/training/HuggingFaceH4--Multilingual-Thinking.jsonl"
+output_path = "/opt/ml/model/openai-gpt-oss-20b-HuggingFaceH4-Multilingual-Thinking/"
 
-At Microsoft, we are pioneering a vision for a continually steerable virtual scientist. In line with this vision, we created the ability to have a non-reasoning model develop thought patterns that allow for control and customizability by scientists. Our approach, a cognitive loop via in-situ optimization (CLIO), does not rely on reinforcement learning post-training to develop reasoning patterns yet still yields equivalent performance as demonstrated through our evaluation on Humanity’s Last Exam (HLE). Notably, we increased OpenAI GPT-4.1’s base model accuracy on text-only biology and medicine from 8.55% to 22.37%, an absolute increase of 13.82% (161.64% relative), surpassing o3 (high). This demonstrates that an optimization-based, self-adaptive AI system developed without further post-training can rival post-trained models in domains where adaptability, explainability, and control matter most.
+# support only for Ampere, Hopper and Grace Blackwell
+bf16_flag = "true"&nbsp; 
+ 
+SageMaker training jobs automatically download datasets from the specified S3 prefix or file into the training container, mapping them to /opt/ml/input. Training artifacts and logs are stored in /opt/ml/output, and the final trained or fine-tuned model is saved to /opt/ml/model. Saving the model to this path allows SageMaker to automatically detect it for downstream workflows such as model registration, deployment, and other automation. You can set or unset the bf16_flag to choose between float16 and bfloat16. float16 uses less memory but has a smaller numeric range, whereas bfloat16 provides a wider range with similar memory savings, making it more stable for training large models. bfloat16 is supported on newer GPU architectures such as NVIDIA Ampere, Hopper, and Grace Blackwell. 
+Fine-tuning with open source Hugging Face recipes 
+With Hugging Face’s TRL library, you can define Supervised Fine-Tuning (SFT) recipes, which are essentially preconfigured training workflows that streamline fine-tuning FMs like Meta, Qwen, Mistral, and now OpenAI GPT‑OSS with minimal setup. These recipes simplify the process of adapting models to new datasets using TRL’s SFTTrainer and configuration tools. 
+ 
+ yaml_template = """# Model arguments
+model_name_or_path: {{ model_name }}
+tokenizer_name_or_path: {{ tokenizer_name }}
+model_revision: main
+torch_dtype: bfloat16
+attn_implementation: kernels-community/vllm-flash-attn3
+bf16: {{ bf16_flag }}
+tf32: false
+output_dir: {{ output_dir }}
 
+# Dataset arguments
+dataset_id_or_path: {{ dataset_path }}
+max_seq_length: 2048
+packing: true
+packing_strategy: wrapped
 
+# LoRA arguments
+use_peft: true
+lora_target_modules: "all-linear"
+### Specific to GPT-OSS
+lora_modules_to_save: ["7.mlp.experts.gate_up_proj", "7.mlp.experts.down_proj", "15.mlp.experts.gate_up_proj", "15.mlp.experts.down_proj", "23.mlp.experts.gate_up_proj", "23.mlp.experts.down_proj"]
+lora_r: 8
+lora_alpha: 16
 
-Figure 1. Head-to-head comparison of OpenAI’s GPT-4.1 with CLIO, o3, and GPT-4.1 with no tools on HLE biology and medicine questions
+# Training arguments
+num_train_epochs: 1. 
+per_device_train_batch_size: 6
+per_device_eval_batch_size: 6
+gradient_accumulation_steps: 3
+gradient_checkpointing: true
+optim: adamw_torch_fused
+gradient_checkpointing_kwargs:
+&nbsp;&nbsp;use_reentrant: true
+learning_rate: 1.0e-4
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+max_grad_norm: 0.3
+bf16: {{ bf16_flag }}
+bf16_full_eval: {{ bf16_flag }}
+tf32: false
 
+# Logging arguments
+logging_strategy: steps
+logging_steps: 2
+report_to:
+&nbsp;&nbsp;- {{ reports_to }}
+save_strategy: "epoch"
+seed: 42
+"""
 
+config_filename = "openai-gpt-oss-20b-qlora.yaml" 
+ 
+The recipe.yaml file contains the following key parameters: 
+ 
+ Model arguments: 
+   
+   model_name_or_path or tokenizer_name_or_path – Path or identifier for the base model and tokenizer to fine-tune. Models can be loaded locally from disk or the Hugging Face Hub. 
+   torch_dtype – Sets training precision. bfloat16 offers float16-level memory savings with a wider numeric range for better stability, and is supported on NVIDIA Ampere, Hopper, and Grace Blackwell GPUs. Alternatively, set to float16 for older versions of NVIDIA GPUs. 
+   attn_implementation – Uses vLLM FlashAttention 3 (kernels-community/vllm-flash-attn3) kernels for faster attention computation, supported for newer Hopper GPUs. Alternatively, set eager for older NVIDIA GPUs. 
+    
+ Dataset arguments: 
+   
+   dataset_id_or_path – Local dataset location as JSONL file or Hugging Face Hub ID for the dataset. 
+   max_seq_length – Maximum token length per sequence (for example, 2048). Provide longer sequence lengths for datasets that require longer reasoning output tokens. Longer sequence lengths consume more GPU memory. 
+    
+ LoRA arguments: 
+   
+   use_peft – Enables PEFT using LoRA. Set to true for PEFT or false for full fine-tuning. 
+   lora_target_modules – Target layers for LoRA adaptation (for example, all-linear layers is default for most dense and MoEs). 
+   lora_modules_to_save – GPT-OSS-specific layers to keep in full precision during LoRA training. 
+   lora_r or lora_alpha – Rank and scaling factor for LoRA updates. 
+    
+ Logging and saving arguments: 
+   
+   report_to – Experiment tracking integration (such as MLflow or TensorBoard). 
+    
+ 
+After a recipe is defined and tested, you can seamlessly swap configurations such as the model name, dataset, number of epochs, or PEFT settings and run or rerun the fine-tuning workflow with minimal or no code changes. 
+SageMaker estimators 
+As a next step, we use a SageMaker training job estimator to spin up a training cluster and run the model fine-tuning. The SageMaker AI estimators API provide a high-level API to define and run training jobs on fully managed infrastructure, handling environment setup, scaling, and artifact management. You can specify training scripts, input data, and compute resources without manually provisioning servers. SageMaker also offers prebuilt Hugging Face and PyTorch estimators, which come optimized for their respective frameworks, making it straightforward to train and fine-tune models with minimal setup. 
+It’s recommended to use Python 3.12 and higher to fine-tune GPT-OSS with the following packages installed. Add or update the requirements.txt file in your script’s root directory with the following packages. SageMaker estimators will automatically detect this file and install the listed dependencies at runtime. 
+ 
+ %%writefile code/requirements.txt
+transformers&gt;=4.55.0
+kernels&gt;=0.9.0
+datasets==4.0.0
+bitsandbytes==0.46.1
+trl&gt;=0.20.0
+peft&gt;=0.17.0
+lighteval==0.10.0
+hf-transfer==0.1.8
+hf_xet
+tensorboard 
+liger-kernel==0.6.1
+deepspeed==0.17.4
+lm-eval[api]==0.4.9
+Pillow
+mlflow
+sagemaker-mlflow==0.1.0
+triton
+git+https://github.com/triton-lang/triton.git@main#subdirectory=python/triton_kernels 
+ 
+Define a SageMaker estimator and point it to your local training script directory. SageMaker will package the contents and place them in /opt/ml/code inside the training container. This includes your training script, additional modules in the directory, and if a requirements.txt file is present, SageMaker will automatically install the listed packages at runtime. 
+ 
+ pytorch_estimator = PyTorch(
+&nbsp;&nbsp; &nbsp;image_uri="763104351884.dkr.ecr.us-west-2.amazonaws.com/pytorch-training:2.7.1-gpu-py312-cu128-ubuntu22.04-sagemaker",
+&nbsp;&nbsp; &nbsp;entry_point="accelerate_sagemaker_train.sh", # Adapted bash script to train using accelerate on SageMaker - Multi-GPU
+&nbsp;&nbsp; &nbsp;source_dir="code",
+&nbsp;&nbsp; &nbsp;instance_type=training_instance_type,
+&nbsp;&nbsp; &nbsp;instance_count=1,&nbsp;# multi-node training support
+&nbsp;&nbsp; &nbsp;base_job_name=f"{job_name}-pytorch",
+&nbsp;&nbsp; &nbsp;role=role,
+&nbsp; &nbsp; ...
+&nbsp;&nbsp; &nbsp;hyperparameters={
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"num_process": NUM_GPUS,&nbsp;# define the number of GPUs to run distributed training, per instance
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"config": f"recipes/{config_filename}",
+&nbsp;&nbsp; &nbsp;}
+) 
+ 
+The following is the directory structure for fine-tuning GPT-OSS on SageMaker AI training jobs: 
+ 
+ code/
+├── accelerate/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Accelerate configuration files
+├── accelerate_sagemaker_train.sh &nbsp; &nbsp; &nbsp;# Launch script for distributed training with Accelerate on SageMaker training jobs
+├── gpt_oss_sft.py &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Main training script for supervised fine-tuning (SFT) of GPT-OSS
+├── recipes/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Predefined training configuration recipes (YAML)
+└── requirements.txt &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Python dependencies installed at runtime 
+ 
+To fine-tune across multiple GPUs, we use Hugging Face Accelerate and DeepSpeed ZeRO-3, which work together to train large models more efficiently. Hugging Face Accelerate simplifies launching distributed training by automatically handling device placement, process management, and mixed precision settings. DeepSpeed ZeRO-3 reduces memory usage by partitioning optimizer states, gradients, and parameters across devices—allowing billion-parameter models to fit and train faster. 
+You can run your SFTTrainer script with Hugging Face Accelerate using a simple command like the following: 
+ 
+ accelerate launch \
+&nbsp; &nbsp; --config_file accelerate/zero3.yaml \&nbsp;
+&nbsp; &nbsp; --num_processes 8 gpt_oss_sft.py \&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;--config recipes/openai-gpt-oss-20b-qlora.yaml 
+ 
+SageMaker executes this command inside the training container because we set entry_point="accelerate_sagemaker_train.sh" when initializing the SageMaker estimator. The accelerate_sagemaker_train.sh script is defined as follows: 
+ 
+ #!/bin/bash
+set -e
 
-In-situ optimization with internal self-reflection to enable self-adaptive reasoning
+...
 
-
-
-Model development has advanced from using reinforcement learning human feedback (RLHF) for answer alignment to external grading in reinforcement learning (RLVR). Recent approaches show promise in the utilization of intrinsic rewards for training reasoning models (RLIR). Traditionally, these reasoning processes are learned during the post-training process before any user interaction. While today’s reasoning models require additional data in the training phase and limit user control during the reasoning generation process, CLIO’s approach enables users to steer reasoning from scratch without additional data. Rather, CLIO generates its own necessary data by creating reflection loops at runtime. These reflection loops are utilized for a wide array of activities that CLIO self-defines, encompassing idea exploration, memory management, and behavior control. Most interesting is CLIO’s ability to leverage prior inferences to adjust future behaviors, handling uncertainties and raising flags for correction when necessary. Through this open architecture approach to reasoning, we alleviate the necessity for further model post-training to achieve desired reasoning behavior. Performing novel scientific discoveries often has no prior established patterns for reasoning, much less a large enough corpus of high-quality data to train on.&nbsp;
-
-
-
-CLIO reasons by continuously reflecting on progress, generating hypotheses, and evaluating multiple discovery strategies. For the HLE test, CLIO was specifically steered to follow the scientific method as a guiding framework. Our research shows that equipping language models with self-adapting reasoning enhances their problem-solving ability. It provides a net benefit in quality for science questions, as well as providing exposure and control to the end user.
-
-
-
-Figure 2. CLIO can raise key areas of uncertainty within its self-formulated reasoning process, balancing multiple different viewpoints using graph structures.
-
-
-
-Control over uncertainty: Building trust in AI&nbsp;
-
-
-
-Orchestrated reasoning systems like CLIO are valuable for scientific discovery, as they provide features beyond accuracy alone. Capabilities such as explaining the outcomes of internal reasoning are standard in the scientific field and are present in current reasoning model approaches. However, elements like displaying complete work, including final outcomes, internal thought processes, and uncertainty thresholds to support reproducibility or correction, as well as indicating uncertainty, are not yet universally implemented. Current models and systems do not have this same innate humility.&nbsp; Rather, we are left with models that produce confident results, whether correct or incorrect. When correct, it is valuable. When incorrect, it is dangerous to the scientific process. Hence, understanding a model or system’s uncertainty is a crucial aspect that we have developed natively into CLIO.
-
-
-
-On the other end of the spectrum, orchestrated reasoning systems tend to oversaturate the user by raising too many flags. We enable prompt-free control knobs within CLIO to set thresholds for raising uncertainty flags. This allows CLIO to flag uncertainty for itself and the end user at the proper point in time. This also enables scientists to revisit CLIO’s reasoning path with critiques, edit beliefs during the reasoning process, and re-execute them from the desired point in time. Ultimately, this builds a foundational level of trust with scientists to use them in a scientifically defensible and rigorous way.&nbsp;
-
-
-
-How does&nbsp;CLIO&nbsp;perform?&nbsp;
-
-
-
-We evaluate CLIO against text-based biology and medicine questions from HLE. For this domain, we demonstrate a 61.98% relative increase or an 8.56% net increase in accuracy over OpenAI’s o3 and substantially outperform base completion models like OpenAI’s GPT-4.1, while enabling the requisite explainability and control. This technique applies to all models, showing similar increases in OpenAI’s GPT-4o model, which we observe performs poorly on HLE-level questions. On average, GPT-4.1 is not considered competent for HLE scale questions (GraphRAG. This extension of the cognition pattern provides a further 7.90% over a non-ensembled approach. &nbsp;
-
-
-
-Figure 3. The impact of thinking effort on CLIO’s effectiveness.
-
-
-
-Furthermore, CLIO’s design offers different knobs of control, for example, how much time to think and which technique to utilize for a given problem. In Figure 3, we demonstrate these knobs of control and their increase on GPT-4.1 and GPT-4o&#8217;s performance. In this case, we analyze performance for a subset of biomedical questions, those focused on immunology. CLIO increases GPT-4o&#8217;s base performance to be at par with the best reasoning models for immunology questions. We observe a 13.60% improvement over the base model, GPT-4o. This result shows CLIO to be model agnostic, similar to Microsoft AI Diagnostic Orchestrator&#8217;s (MAI-DxO) (opens in new tab)&#8216;s approach and corresponding performance boost.&nbsp;
-
-
-
-Implications for science and trustworthy discovery
-
-
-
-The future of scientific discovery demands more than reasoning over knowledge and raw computational power alone. Here, we demonstrate how CLIO not only increases model performance but establishes new layers of control for scientists. In our upcoming work, we will demonstrate how CLIO increases tool utility for highly valuable scientific questions in the drug discovery space which requires precise tools designed for the language of science. While our experiments focus on scientific discovery, we believe CLIO can apply in a domain-agnostic fashion. Experts tackling problems in domains such as financial analysis, engineering, and legal services could potentially benefit from AI systems with a transparent, steerable reasoning approach. Ultimately, we envision CLIO as an enduring control-layer in hybrid AI stacks that combine traditional completion and reasoning models, with external memory systems, and advanced tool calling. These continuous checks and balances that CLIO enables will continue to remain valuable even as components within the AI stacks evolve. This combination of intelligent and steerable scientific decision making and tool optimization is the basis of the recently announced Microsoft Discovery platform (opens in new tab).
-
-
-
-At Microsoft, we’re committed to advancing AI research that earns the trust of scientists, empowering them to discover new frontiers of knowledge. Our work is a testament to what’s possible when we blend innovation with trustworthiness and a human-centered vision for the future of AI-assisted scientific discovery. We invite the research and scientific community to join us in shaping that future.
-
-
-
-Further information:
-
-
-
-To learn more details about our approach, please read our pre-print paper published alongside this blog. We are in the process of submitting this work for external peer review and encourage partners to explore the utilization of CLIO in Microsoft Discovery. To learn more about Microsoft’s research on this or contact our team, please reach out to discoverylabs@microsoft.com. 
-
-
-
-Acknowledgements
-
-
-
-We are grateful for Jason Zander and Nadia Karim’s support. We extend our thanks to colleagues both inside and outside Microsoft Discovery and Quantum for sharing their insights and feedback, including Allen Stewart, Yasser Asmi, David Marvin, Harsha Nori, Scott Lundberg, and Phil Waymouth.&nbsp;
-Opens in a new tabThe post Self-adaptive reasoning for science appeared first on Microsoft Research.
+# Launch fine-tuning with Accelerate + DeepSpeed (Zero3)
+accelerate launch \
+&nbsp;&nbsp;--config_file accelerate/zero3.yaml \
+&nbsp;&nbsp;--num_processes "$NUM_GPUS" \
+&nbsp;&nbsp;gpt_oss_sft.py \
+&nbsp;&nbsp;--config "$CONFIG_PATH"  
+ 
+PEFT vs. full fine-tuning 
+The gpt_oss_sft.py script lets you choose between PEFT and full fine-tuning by setting use_peft to true or false. Full fine-tuning gives you greater control over the base model weights, enabling broader adaptability and expressiveness. However, it also carries the risk of catastrophic forgetting and higher resource consumption during the training process. 
+At the end of training, you will have the fully adapted model weights, which can be deployed to a SageMaker endpoint for inference. You can then run predictions against the deployed endpoint using the SageMaker Predictor. 
+Conclusion 
+In this post, we demonstrated how to fine-tune OpenAI’s GPT-OSS models (gpt-oss-120b and gpt-oss-20b) on SageMaker AI using SageMaker training jobs, the Hugging Face TRL library, and distributed training with Hugging Face Accelerate and DeepSpeed ZeRO-3. By combining the fully managed, ephemeral infrastructure of SageMaker with TRL’s streamlined fine-tuning recipes, you can adapt GPT-OSS to your domain quickly and efficiently, using either PEFT for cost-effective customization or full fine-tuning for maximum model control. With the resulting model artifacts, you can deploy to SageMaker endpoints for secure, scalable inference and bring advanced reasoning capabilities directly into your enterprise workflows. 
+If you’re interested in exploring further, the GitHub repo contains all the resources used in this walkthrough. It’s a great starting point for experimenting with fine-tuning GPT-OSS on your own datasets and deploying the resulting models to SageMaker for real-world applications. You can get set up with a notebook in minutes using the SageMaker Studio domain quick setup and start experimenting right away. 
+ 
+About the authors 
+Pranav Murthy is a Senior Generative AI Data Scientist at AWS, specializing in helping organizations innovate with Generative AI, Deep Learning, and Machine Learning on Amazon SageMaker AI. Over the past 10+ years, he has developed and scaled advanced computer vision (CV) and natural language processing (NLP) models to tackle high-impact problems—from optimizing global supply chains to enabling real-time video analytics and multilingual search. When he’s not building AI solutions, Pranav enjoys playing strategic games like chess, traveling to discover new cultures, and mentoring aspiring AI practitioners.&nbsp;You can find Pranav on LinkedIn. 
+Sumedha Swamy is a Senior Manager of Product Management at Amazon Web Services (AWS), where he leads several areas of the Amazon SageMaker, including SageMaker Studio – the industry-leading integrated development environment for machine learning, developer and administrator experiences, AI infrastructure, and SageMaker SDK.
 • The DIVA logistics agent, powered by Amazon Bedrock
   DTDC is India’s leading integrated express logistics provider, operating the largest network of customer access points in the country. DTDC’s technology-driven logistics solutions cater to a wide range of customers across diverse industry verticals, making them a trusted partner in delivering excellence. 
 DTDC Express Limited receives over 400,000 customer queries each month, ranging from tracking requests to serviceability checks and shipping rates. With such a high volume of shipments, their existing logistics agent, DIVA, was operated on a rigid, guided workflow, forcing users to follow a structured path rather than engaging in natural, dynamic conversations. The lack of flexibility resulted in increased burden on customer support teams, longer resolution times, and poor customer experience. 
@@ -2638,74 +2962,5 @@ Shitij Agarwal is a Partner Solutions Architect at AWS. He creates joint solutio
 Ross Belmont is a Senior Director of Product Management at Salesforce covering Platform Data Services. He has more than 15 years of experience with the Salesforce ecosystem. 
 Sharda Rao is a Senior Director of Product Management at Salesforce covering Agentforce Go To Market strategy 
 Hunter Reh is an AI Architect at Salesforce and a passionate builder who has developed over 100 agents since the launch of Agentforce. Outside of work, he enjoys exploring new trails on his bike or getting lost in a great book.
-• How Amazon Bedrock powers next-generation account planning at AWS
-  At AWS, our sales teams create customer-focused documents called account plans to deeply understand each AWS customer’s unique goals and challenges, helping account teams provide tailored guidance and support that accelerates customer success on AWS. As our business has expanded, the account planning process has become more intricate, requiring detailed analysis, reviews, and cross-team alignment to deliver meaningful value to customers. This complexity, combined with the manual review effort involved, has led to significant operational overhead. To address this challenge, we launched Account Plan Pulse in January 2025, a generative AI tool designed to streamline and enhance the account planning process. Implementing Pulse delivered a 37% improvement in plan quality year-over-year, while decreasing the overall time to complete, review, and approve plans by 52%. 
-In this post, we share how we built Pulse using Amazon Bedrock to reduce review time and provide actionable account plan summaries for ease of collaboration and consumption, helping AWS sales teams better serve our customers. Amazon Bedrock is a comprehensive, secure, and flexible service for building generative AI applications and agents. It connects you to leading foundation models (FMs), services to deploy and operate agents, and tools for fine-tuning, safeguarding, and optimizing models, along with knowledge bases to connect applications to your latest data so that you have everything you need to quickly move from experimentation to real-world deployment. 
-Challenges with increasing scale and complexity 
-As AWS continued to grow and evolve, our account planning processes needed to adapt to meet increasing scale and complexity. Before enterprise-ready large language models (LLMs) became available through Amazon Bedrock, we explored rule-based document processing to evaluate account plans, which proved inadequate for handling nuanced content and growing document volumes. By 2024, three critical challenges had emerged: 
- 
- Disparate plan quality and format – With teams operating across numerous AWS Regions and serving customers in diverse industries, account plans naturally developed variations in structure, detail, and format. This inconsistency made it difficult to make sure critical customer needs were described effectively and consistently. Additionally, the evaluation of account plan quality was inherently subjective, relying heavily on human judgment to assess each plan’s depth, strategic alignment, and customer focus. 
- Resource-intensive review process – The quality assessment process relied on manual reviews by sales leadership. Though thorough, these reviews consumed valuable time that could otherwise be devoted to strategic customer engagements. As our business scaled, this approach created bottlenecks in plan approval and implementation. 
- Knowledge silos – We identified untapped potential for cross-team collaboration. Developing methods to extract and share knowledge would transform individual account plans into collective best practices to better serve our customers. 
- 
-Solution overview 
-To address these challenges, we designed Pulse, a generative AI solution that uses Amazon Bedrock to analyze and improve account plans. The following diagram illustrates the solution workflow. 
- 
-The workflow consists of the following steps: 
- 
- Account plan narrative content is pulled from our CRM system on a scheduled basis through an asynchronous batch processing pipeline. 
- The data flows through a series of processing stages: 
-   
-   Preprocessing to structure and normalize the data and generate metadata. 
-   LLM inference to analyze content and generate insights. 
-   Validation to confirm quality and compliance. 
-    
- Results are stored securely for reporting and dashboard visualization. 
- 
-We’ve integrated Pulse directly with existing sales workflows to maximize user adoption and have established feedback loops that continuously refine performance. The following diagram shows the solution architecture. 
- 
-In the following sections, we explore the key components of the solution in more detail. 
-Ingestion 
-We implement a batch processing pipeline that extracts account plans from our CRM system into Amazon Simple Storage Service (Amazon S3) buckets. A scheduler triggers this pipeline on a regular cadence, facilitating continuous analysis of the most current information. 
-Preprocessing 
-Considering the dynamic nature of account plans, they are processed in daily snapshots, with only updated plans included in each run. Preprocessing is conducted at two layers: an extract, transform, and load (ETL) flow layer to organize required files to be processed, and just before model calls as part of input validation. This approach, using the plan’s last modified date, is crucial for avoiding multiple runs on the same content. The preprocessing pipeline handles the daily scheduled job that reads account plan data stored as Parquet files in Amazon S3, extracts text content from HTML fields, and generates structured metadata for each document. To optimize processing efficiency, the system compares document timestamps to process only recently modified plans, significantly reducing computational overhead and costs. The processed text content and metadata are then transformed into a standardized format and stored back to Amazon S3 as Parquet files, creating a clean dataset ready for LLM analysis. 
-Analysis with Amazon Bedrock 
-The core of our solution uses Amazon Bedrock, which provides a variety of model choices and control, data customization, safety and guardrails, cost optimization, and orchestration. We use the Amazon Bedrock FMs to perform two key functions: 
- 
- Account plan evaluation – Pulse evaluates plans against 10 business-critical categories, creating a standardized Account Plan Readiness Index. This automated evaluation identifies improvement areas with specific improvement recommendations. 
- Actionable insights – Amazon Bedrock extracts and synthesizes patterns across plans, identifying customer strategic focus and market trends that might otherwise remain isolated in individual documents. 
- 
-We implement these capabilities through asynchronous batch processing, where evaluation and summarization workloads operate independently. The evaluation process runs each account through 27 specific questions with tailored control prompts, and the summarization process generates topical overviews for straightforward consumption and knowledge sharing. 
-For this implementation, we use structured output prompting with schema constraints to provide consistent formatting that integrates with our reporting tools. 
-Validation 
-Our validation framework includes the following components: 
- 
- Input and output validations are critical as part of the OWASP Top 10 for Large Language Model Applications. The input validation is essential by the introduction of necessary guardrails and prompt validation, and the output validation makes sure the results are structured and constrained to expected responses. 
- Automated quality and compliance checks against established business rules. 
- Additional review for outputs that don’t meet quality thresholds. 
- A feedback mechanism that improves system accuracy over time. 
- 
-Storage and visualization 
-The solution includes the following storage and visualization components: 
- 
- Amazon S3 provides secure storage for all processed account plans and insights. 
- A daily run cadence refreshes insight and enables progress tracking. 
- Interactive dashboards offer both executive summaries and detailed plan views. 
- 
-Engineering for production: Building reliable AI evaluations 
-When transitioning Pulse from prototype to production, we implemented a robust engineering framework to address three critical AI-specific challenges. First, the non-deterministic nature of LLMs meant identical inputs could produce varying outputs, potentially compromising evaluation consistency. Second, account plans naturally evolve throughout the year with customer relationships, making static evaluation methods insufficient. Third, different AWS teams prioritize different aspects of account plans based on specific customer industry and business needs, requiring flexible evaluation criteria. To maintain evaluation reliability, we developed a statistical framework using Coefficient of Variation (CoV) analysis across multiple model runs on account plan inputs. The goal is to use the CoV as a correction factor to address the data dispersion, which we achieved by calculating the overall CoV at the evaluated question level. With this approach, we can scientifically measure and stabilize output variability, establish clear thresholds for selective manual reviews, and detect performance shifts requiring recalibration. Account plans falling within confidence thresholds proceed automatically in the system, and those outside established thresholds are flagged for manual review. We complemented this with a dynamic threshold weighting system that aligns evaluations with organizational priorities by assigning different weights to criteria based on business impact. This customizes thresholds across different account types—for example, applying different evaluation parameters to enterprise accounts versus mid-market accounts. These business thresholds undergo periodic review with sales leadership and adjustment based on feedback, so our AI evaluations remain relevant while maintaining quality and saving valuable time. 
-Conclusion 
-In this post, we shared how Pulse, powered by Amazon Bedrock, has transformed the account planning process for AWS sales teams. Through automated reviews and structured validation, Pulse streamlines quality assessments and breaks down knowledge silos by surfacing actionable customer intelligence across our global organization. This helps our sales teams spend less time on reviews and more time making data-driven decisions for strategic customer engagements. 
-Looking ahead, we’re excited to enhance Pulse’s capabilities to measure account plan execution by connecting strategic planning with sales activities and customer outcomes. By analyzing account plan narratives, we aim to identify and act on new opportunities, creating deeper insights into how strategic planning drives customer success on AWS. 
-We aim to continue to use the new capabilities of Amazon Bedrock for enhanced and robust improvements to our processes. By building flows for orchestrating our workflows, use of Amazon Bedrock Guardrails, introduction of agentic frameworks, and use of Strands Agents and Amazon Bedrock AgentCore, we can make a more dynamic flow in the future. 
-To learn more about Amazon Bedrock, refer to the Amazon Bedrock User Guide, Amazon Bedrock Workshop: AWS Code Samples, AWS Workshops, and Using generative AI on AWS for diverse content types. For the latest news on AWS, see What’s New with AWS? 
- 
-About the authors 
-Karnika Sharma is a Senior Product Manager in the AWS Sales, Marketing, and Global Services (SMGS) org, where she works on empowering the global sales organization to accelerate customer growth with AWS. She’s passionate about bridging machine learning and AI innovation with real-world impact, building solutions that serve both business goals and broader societal needs. Outside of work, she finds joy in plein air sketching, biking, board games, and traveling. 
-Dayo Oguntoyinbo is a Sr. Data Scientist with the AWS Sales, Marketing, and Global Services (SMGS) Organization. He helps both AWS internal teams and external customers take advantage of the power of AI/ML technologies and solutions. Dayo brings over 12 years of cross-industry experience. He specializes in reproducible and full-lifecycle AI/ML, including generative AI solutions, with a focus on delivering measurable business impacts. He has MSc. (Tech) in Communication Engineering. Dayo is passionate about advancing generative AI/ML technologies to drive real-world impact. 
-Mihir Gadgil is a Senior Data Engineer in the AWS Sales, Marketing, and Global Services (SMGS) org, specializing in enterprise-scale data solutions and generative AI applications. With 9+ years of experience and a Master’s in Information Technology &amp; Management, he focuses on building robust data pipelines, complex data modeling, and ETL/ELT processes. His expertise drives business transformation through innovative data engineering solutions, advanced analytics capabilities. 
-Carlos Chinchilla is a Solutions Architect at Amazon Web Services (AWS), where he works with customers across EMEA to implement AI and machine learning solutions. With a background in telecommunications engineering from the Technical University of Madrid, he focuses on building AI-powered applications using both open source frameworks and AWS services. His work includes developing AI assistants, machine learning pipelines, and helping organizations use cloud technologies for innovation. 
-Sofian Hamiti is a technology leader with over 10 years of experience building AI solutions, and leading high-performing teams to maximize customer outcomes. He is passionate in empowering diverse talent to drive global impact and achieve their career aspirations. 
-Sujit Narapareddy, Head of Data &amp; Analytics at AWS Global Sales, is a technology leader driving global enterprise transformation. He leads data product and platform teams that power AWS’s Go-to-Market through AI-augmented analytics and intelligent automation. With a proven track record in enterprise solutions, he has transformed sales productivity, data governance, and operational excellence. Previously at JPMorgan Chase Business Banking, he shaped next-generation FinTech capabilities through data innovation.
 
 ⸻
