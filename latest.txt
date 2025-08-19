@@ -1,17 +1,17 @@
-✅ Morning News Briefing – August 18, 2025 10:49
+✅ Morning News Briefing – August 19, 2025 10:46
 
-📅 Date: 2025-08-18 10:49
+📅 Date: 2025-08-19 10:46
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  7.2°C
-  Temperature: 7.2&deg;C Pressure / Tendency: 102.6 kPa rising Humidity: 90 % Dewpoint: 5.6&deg:C Wind: NNW 4 km/h Air Quality Health Index: n/a . Observed at: Pembroke 6:00 AM EDT Monday 18 August 2025 Temperature: . Temperature:  7.
-• Monday: Sunny. High 21.
-  Fog patches dissipating this morning. Sunny. High 21. UV index 8 or very high. Fog patch patches dissipate this morning . High 21 . UV index of 8 or high. UV of 8 in the morning . Forecast issued 5:00 AM EDT Monday 18 August 2025. Forecast: "Fog patches dissipated this morning." Forecast of Monday 18:00am
-• Monday night: Clear. Low 10.
-  Forecast issued 5:00 AM EDT Monday 18 August 2025 . Clear . Clear. Clear. Low 10.50% Chance of rain . Low 40% chance of rain over the next few days . Storms expected to be below 40% in the early hours of Monday morning . Forecast: Clear, sunny, warm, cloudy, chilly, breezy, sunny and breezy .
+• Current Conditions:  9.7°C
+  Temperature: 9.7&deg;C Pressure / Tendency: 102.3 kPa falling Humidity: 96 % Humidity is 96 % Dewpoint is 9.1°C . Wind:  calm km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Tuesday 19 August 2025 . Weather:    Pem
+• Tuesday: Chance of showers. High 21. POP 40%
+  A mix of sun and cloud with 40 percent chance of showers late this afternoon . Wind southeast 20 km/h becoming light late this morning . High 21. UV index 6 or high; UV index of high or very high in the morning's UV index at 6 or low . Forecast issued 5:00 AM EDT Tuesday 19 August 2025. For the rest of the year, see www
+• Tuesday night: Chance of showers. Low 13. POP 60%
+  Mainly cloudy with 60 percent chance of showers . Low 13.50-60% chance of rain . Mainly sunny sunny day with a low of 60% rain . Forecast issued 5:00 AM EDT Tuesday 19 August 2025 . Low 20/20 weather forecast: Showers, thunderstorms, rain, snow, rain and thunderstorms. Low 40/60/60 chance of
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• What's behind the Trump administration's immigration memes?
-  White supremacist tropes and ironic viral jokes illustrate the administration's project of redefining who belongs in the U.S. White supremacist trope and viral jokes are examples of the White House's attempt to redefine who belongs to the United States . The administration is redefining the American identity of the immigrant population, as well as redefining what it means to be in the country, as a nation
-• Trump prompted a battle over voting maps. Here's how redistricting affects voters
-  Texas and California could redraw lines that change whose votes really matter in the 2026 congressional elections . The redraws are prompted by President Trump, a battle prompted by the president . Texas, California and California are redrawing lines that could change who votes matter in congressional elections in 2026 . President Trump is expected to make the redraw redraw line redrawn in 2020 .
-• Trump to meet Zelenskyy with 2 big issues in focus: security guarantees and land
-  The Ukrainian president will be joined at the White House on Monday by several key European leaders . European leaders are looking to find an end to the war between Russia and Ukraine . Ukraine's president is expected to meet with President Vladimir Putin in Washington on Monday . Russia and the Ukraine have been involved in the conflict in Ukraine since Ukraine began in March . Russia has been fighting in Ukraine for more than
-• Trump's D.C. 'crisis' enters 2nd week with more soldiers — and no exit strategy
-  Leaders in Washington, D.C., say they're striving to maintain calm as growing numbers of National Guard soldiers deploy to the city . President Trump hasn't said how he wants this "crisis" to end, but has said he doesn't want it to end . Washington leaders say they want to maintain the calm as the National Guard troops deploy to Washington, DC, as well .
-• Three innovations pushing the medical field forward
-  The Indicator from Planet Money takes a look at the economics of medical technology . From a cancer vaccine to an Alzheimer’s blood test to a life-changing exoskeleton, we take you on a tour of health technology . In this episode, we discuss the hidden costs of healthcare churning in the world of medical innovation and the challenges it faces in the future of the industry .
+• Businesses face 'chaos' as EPA aims to repeal its authority over climate pollution
+  A lot of companies want the EPA in charge of setting national climate regulations because it helps shield them from lawsuits and creates a predictable environment in which to make investments . The EPA has been criticized for being too cozy with the White House to regulate climate change . The White House says the EPA is the only federal agency to set national climate rules in the U.S. to set global climate regulations
+• Gun violence hits Black communities hardest. Trump is rolling back prevention efforts
+  The suffering of America's gun violence crisis is concentrated in Black neighborhoods damaged by decades of disinvestment and racial discrimination . Trump is unravelling efforts to solve the problem . Trump unravelled efforts to fix the problem by de-investigating the problem of gun violence in America's most violent neighborhoods . The problem is a problem for African Americans, especially in the South, and for
+• Toxicity is a good defense, until it isn't
+  Evolutionary biologist Shabnam Mohammadi talks to Regina G. Barber about how some predators can get away with eating toxic prey . She says even humans have used these toxins to their advantage since ancient Egypt . Listen to every episode of Short Wave free and support our work at NPR by signing up for Short Wave+ at plus.npr.org/shortwave. Listen to all the latest Short Wave news from iReport.com .
+• D.C.'s crime numbers are all the buzz. But how do we interpret them accurately?
+  Crime data has been going around to make the argument that Washington, D.C., is — or isn't — safe . We talk to crime experts to make sense of it all in Washington, DC, to see how much crime has been reported in the U.S. The city is home to a large number of crime victims, but it's not safe to rely on law enforcement
+• A musical about bigotry arrives at a Kennedy Center transformed by Trump
+  Parade, the Tony award-winning musical about the 1915 lynching of a Jewish man, begins its run in Washington, D.C. amid an antisemitic backlash against the show's subject . Parade is the Tony-award winning musical about a lynching in which the victim was lynched in 1915 . The show is set to open in New York City on November 14 .
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Boffins say tool can sniff 5G traffic, launch 'attacks' without using rogue base stations
-  Sni5Gect research crew targets sweet spot during device / network handshake pause . Security boffins release open source tool for poking holes in 5G mobile networks . Claim it can do up- and downlink sniffing and a novel connection downgrade attack . Plus "other serious exploits" they're keeping under wraps, for now, says security experts . SniGect can sniff
-• Every question you ask, every comment you make, I'll be recording you
-  OpenAI ChatGPT users were shocked to discover that their searches were appearing in Google search . When you're asking AI chatbots for answers, they're data-mining you . You morons! What do you think AI chatbot are doing? Doing all your homework for free or a mere $20 a month? I think not!…… When you’re asking AI
-• A Linux alternative? Debian/Hurd shows microkernel Unix dream is alive
-  The official GNU microkernel is still breathing – and now it's 64-bit . Now, in the footsteps of Debian 13, there is a new release of the official microkernel . The officialGNU microkernel was working on its own Mach-based Unix compatible OS. Now, the official release is a 64-Bit version of the original version of Linux, and it's a
-• Generative AI isn't just a matter of life and death. It's far more important than that
-  Generative AI is blurring the lines we used to think we could read between . Now, it's getting its teeth into life versus death . Visions of immortality are uniformly dull, but this is gonna get ugly Opinion Opinion: Real versus virtual versus virtual. Stolen versus synthesized. Real vs. virtual . Stolen vs. synthesized, stolen vs. synthetic. Real versus
-• Teen interns brute-forced a disk install, with predictable results
-  The real lesson here is how little some companies care about training Who, Me? It's The Register’s reader-contributed column in which you admit to mistakes and reveal if they derailed your career . The Register's readers reveal if you have ever been in trouble with a job, or have been at a top-level level of responsibility . Read the latest instalment of
+• Commodore Amiga turns 40, headlines UK exhibition
+  Commodore Amiga turned 40 this year, and the event has been marked by The National Museum Of Computing in the UK with a hands-on exhibition of models from the archives . 500, 600, 1200, 2000... what's your number? Hands on Amiga hands on at the National Museum of Computing in The UK with an exhibition of the Amiga models from The Amiga archives .
+• US spy chief claims UK backed down over Apple backdoor demand
+  UK government reportedly abandoned its attempt to strong-arm Apple into weakening iPhone encryption . White House forced Blighty into a quiet climb-down . Tulsi Gabbard boasts Washington forced to drop iPhone encryption fight . U.S. senator claims Washington forced Britain to back down on the issue of weakening encryption in order to keep tabs on Apple's encryption system . The White House reportedly forced Bl
+• More customers asking for Google's Data Boundary, says Cloud Experience boss
+  Developer demand for sovereign cloud from tech giant is on the rise, says exec . Google's President of Customer Experience, Hayete Gallot, offered some words of comfort to developers who are looking nervously at the rise of AI assistants . Gallot also laid out her vision for cloud sovereignty in an interview with Google's VP of customer experience . The interview was conducted by Google's CEO of the
+• Softbank bets $2 billion on Intel having a future
+  SoftBank has made a $2 billion investment in Intel . Takes two percent stake as rumours swirl Uncle Sam could do something similar . Unconfirmed reports that the U.S. could also invest in Intel in the form of a similar deal . SoftBank invested $1 billion in Intel, which is expected to be worth $3 billion in the next five years . Unclear whether U.
+• Browser wars are back, predicts Palo Alto, thanks to AI
+  CEO says if you buy all your infosec stuff from him, life under assault from bots will be less painful . Palo Alto Networks CEO Nikesh Arora says browser wars are on the way . Arora: If you buy everything from him he'll be less likely to be under attack from bots in the next round of browser wars.……… If you're buying all your
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• The impact of objective urban features on perception of neighbourhood environments
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Bite-sized self-compassion: a pilot cohort study of a well-being tool for healthcare workers
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Trends in antidote use in France from 2015 to 2021: a nationwide poison centers study
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Global, regional and national trends in suicide mortality rates across 102 countries from 1990 to 2021 with projections up to 2050
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Digital biomarkers for interstitial glucose prediction in healthy individuals using wearables and machine learning
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Causal association between employment transitions and suicide in Australia
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• The comorbidities of diarrhea and acute respiratory tract infection and risk factors among under-five children in 45 low- and middle-income countries
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Bridging the gap: ctDNA, genomics, and equity in breast cancer care
+• Modelling transmission of Middle East respiratory syndrome coronavirus in camel populations and the potential impact of animal vaccination
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,245 +68,606 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
-• Why we should thank pigeons for our AI breakthroughs
-  In 1943, while the world’s brightest physicists split atoms for the Manhattan Project, the American psychologist B.F. Skinner led his own secret government project to win World War II.&nbsp;
+• Apple AirPods : a gateway hearing aid
+  In October 2022, the FDA approved the sale of over-the-counter hearing aids without a prescription or audiology exam . The most important features for mild hearing loss are programmability, Bluetooth functionality, and the ability to feed sound to both ears . The AirPods are not as good as my budget hearing aid that costs 10 times more, but there's incredible potential here, says author Ashley Shew .
+• How churches use data and AI as engines of surveillance
+  On a Sunday morning in a Midwestern megachurch, worshippers step through sliding glass doors into a bustling lobby—unaware they’ve just passed through a gauntlet of biometric surveillance. High-speed cameras snap multiple face “probes” per second, isolating eyes, noses, and mouths before passing the results to a local neural network that distills these images into digital fingerprints. Before people find their seats, they are matched against an on-premises database—tagged with names, membership tiers, and watch-list flags—that’s stored behind the church’s firewall.
 
 
 
-Skinner did not aim to build a new class of larger, more destructive weapons. Rather, he wanted to make conventional bombs more precise. The idea struck him as he gazed out the window of his train on the way to an academic conference. “I saw a flock of birds lifting and wheeling in formation as they flew alongside the train,” he wrote. “Suddenly I saw them as ‘devices’ with excellent vision and maneuverability. Could they not guide a missile?”
 
 
+Late one afternoon, a woman scrolls on her phone as she walks home from work. Unbeknownst to her, a complex algorithm has stitched together her social profiles, her private health records, and local veteran outreach lists. It flags her for past military service, chronic pain, opioid dependence, and high Christian belief, and then delivers an ad to her Facebook feed: “Struggling with pain? You’re not alone. Join us this Sunday.”
 
-Skinner started his missile research with crows, but the brainy black birds proved intractable. So he went to a local shop that sold pigeons to Chinese restaurants, and “Project Pigeon” was born. Though ordinary pigeons, Columba livia, were no one’s idea of clever animals, they proved remarkably cooperative subjects in the lab. Skinner rewarded the birds with food for pecking at the right target on aerial photographs—and eventually planned to strap the birds into a device in the nose of a warhead, which they would steer by pecking at the target on a live image projected through a lens onto a screen.&nbsp;
 
 
+These hypothetical scenes reflect real capabilities increasingly woven into places of worship nationwide, where spiritual care and surveillance converge in ways few congregants ever realize. Where Big Tech’s rationalist ethos and evangelical spirituality once mixed like oil and holy water, this unlikely amalgam has given birth to an infrastructure already reshaping the theology of trust—and redrawing the contours of community and pastoral power in modern spiritual life.
 
-The military never deployed Skinner’s kamikaze pigeons, but his experiments convinced him that the pigeon was “an extremely reliable instrument” for studying the underlying processes of learning. “We have used pigeons, not because the pigeon is an intelligent bird, but because it is a practical one and can be made into a machine,” he said in 1944.
 
 
+An ecumenical tech ecosystem
 
 
 
-People looking for precursors to artificial intelligence often point to science fiction by authors like Isaac Asimov or thought experiments like the Turing test. But an equally important, if surprising and less appreciated, forerunner is Skinner’s research with pigeons in the middle of the 20th century. Skinner believed that association—learning, through trial and error, to link an action with a punishment or reward—was the building block of every behavior, not just in pigeons but in all living organisms, including human beings. His “behaviorist” theories fell out of favor with psychologists and animal researchers in the 1960s but were taken up by computer scientists who eventually provided the foundation for many of the artificial-intelligence tools from leading firms like Google and OpenAI. &nbsp;
 
+The emerging nerve center of this faith-tech nexus is in Boulder, Colorado, where the spiritual data and analytics firm Gloo has its headquarters.
 
 
-These companies’ programs are increasingly incorporating a kind of machine learning whose core concept—reinforcement—is taken directly from Skinner’s school of psychology and whose main architects, the computer scientists Richard Sutton and Andrew Barto, won the 2024 Turing Award, an honor widely considered to be the Nobel Prize of computer science. Reinforcement learning has helped enable computers to drive cars, solve complex math problems, and defeat grandmasters in games like chess and Go—but it has not done so by emulating the complex workings of the human mind. Rather, it has supercharged the simple associative processes of the pigeon brain.&nbsp;
 
+Gloo captures congregants across thousands of data points that make up a far richer portrait than any snapshot. From there, the company is constructing a digital infrastructure meant to bring churches into the age of algorithmic insight.
 
 
-It’s a “bitter lesson” of 70 years of AI research, Sutton has written: that human intelligence has not worked as a model for machine learning—instead, the lowly principles of associative learning are what power the algorithms that can now simulate or outperform humans on a variety of tasks. If artificial intelligence really is close to throwing off the yoke of its creators, as many people fear, then our computer overlords may be less like ourselves than like “rats with wings”—and planet-size brains. And even if it’s not, the pigeon brain can at least help demystify a technology that many worry (or rejoice) is “becoming human.”&nbsp;
 
 
+The church is “a highly fragmented market that is one of the largest yet to fully adopt digital technology,” the company said in a statement by email. “While churches have a variety of goals to achieve their mission, they use Gloo to help them connect, engage with, and know their people on a deeper level.”&nbsp;
 
-In turn, the recent accomplishments of AI are now prompting some animal researchers to rethink the evolution of natural intelligence. Johan Lind, a biologist at Stockholm University, has written about the “associative learning paradox,” wherein the process is largely dismissed by biologists as too simplistic to produce complex behaviors in animals but celebrated for producing humanlike behaviors in computers. The research suggests not only a greater role for associative learning in the lives of intelligent animals like chimpanzees and crows, but also far greater complexity in the lives of animals we’ve long dismissed as simple-minded, like the ordinary Columba livia.&nbsp;
 
 
 
 
 
 
+Gloo was founded in 2013 by Scott and Theresa Beck. From the late 1980s through the 2000s, Scott was turning Blockbuster into a 3,500-store chain, taking Boston Market public, and founding Einstein Bros. Bagels before going on to seed and guide startups like Ancestry.com and HomeAdvisor. Theresa, an artist, has built a reputation creating collaborative, eco-minded workshops across Colorado and beyond. Together, they have recast pastoral care as a problem of predictive analytics and sold thousands of churches on the idea that spiritual health can be managed like customer engagement.
 
-When Sutton began working in AI, he felt as if he had a “secret weapon,” he told me: He had studied psychology as an undergrad. “I was mining the psychological literature for animals,” he says.
 
 
+Think of Gloo as something like Salesforce but for churches: a behavioral analytics platform, powered by church-­generated insights, psychographic information, and third-party consumer data. The company prefers to refer to itself as “a technology platform for the faith ecosystem.” Either way, this information is integrated into its “State of Your Church” dashboard—an interface for the modern pulpit. The result is a kind of digital clairvoyance: a crystal ball for knowing whom to check on, whom to comfort, and when to act.
 
-Skinner started his missile research with crows but switched to pigeons when the brainy black birds proved intractable.B.F. SKINNER FOUNDATION
 
 
 
+Thousands of churches have been sold on the idea that spiritual health can be managed like customer engagement.
 
-Ivan Pavlov began to uncover the mechanics of associative learning at the end of the 19th century in his famous experiments on “classical conditioning,” which showed that dogs would salivate at a neutral stimulus—like a bell or flashing light—if it was paired predictably with the presentation of food. In the middle of the 20th century, Skinner took Pavlov’s principles of conditioning and extended them from an animal’s involuntary reflexes to its overall behavior.&nbsp;
 
 
 
-Skinner wrote that “behavior is shaped and maintained by its consequences”—that a random action with desirable results, like pressing a lever that releases a food pellet, will be “reinforced” so that the animal is likely to repeat it. Skinner reinforced his lab animals’ behavior step by step, teaching rats to manipulate marbles and pigeons to play simple tunes on four-key pianos. The animals learned chains of behavior, through trial and error, in order to maximize long-term rewards. Skinner argued that this type of associative learning, which he called “operant conditioning” (and which other psychologists had called “instrumental learning”), was the building block of all behavior. He believed that psychology should study only behaviors that could be observed and measured without ever making reference to an “inner agent” in the mind.
+Gloo ingests every one of the digital breadcrumbs a congregant leaves—how often you attend church, how much money you donate, which church groups you sign up for, which keywords you use in your online prayer requests—and then layers on third-party data (census demographics, consumer habits, even indicators for credit and health risks). Behind the scenes, it scores and segments people and groups—flagging who is most at risk of drifting, primed for donation appeals, or in need of pastoral care. On that basis, it auto-triggers tailored outreach via text, email, or in-app chat. All the results stream into the single dashboard, which lets pastors spot trends, test messaging, and forecast giving and attendance. Essentially, the system treats spiritual engagement like a marketing funnel.
 
 
 
+Since its launch in 2013, Gloo has steadily increased its footprint, and it has started to become the connective tissue for the country’s fragmented religious landscape. According to the Hartford Institute for Religion Research, the US is home to around 370,000 distinct congregations. As of early 2025, according to figures provided by the company, Gloo held contracts with more than 100,000 churches and ministry leaders.
 
-When Richard Sutton began working in AI, he felt as if he had a “secret weapon”: He studied psychology as an undergrad. “I was mining the psychological literature for animals,” he says.
 
 
+In 2024, the company secured a $110 million strategic investment, backed by “mission-aligned” investors ranging from a child-development NGO to a denominational finance group. That cemented its evolution from basic church services vendor to faith-tech juggernaut.&nbsp;
 
 
-Skinner thought that even human language developed through operant conditioning, with children learning the meanings of words through reinforcement. But his 1957 book on the subject, Verbal Behavior, provoked a brutal review from Noam Chomsky, and psychology’s focus started to swing from observable behavior to innate “cognitive” abilities of the human mind, like logic and symbolic thinking. Biologists soon rebelled against behaviorism also, attacking psychologists’ quest to explain the diversity of animal behavior through an elementary and universal mechanism. They argued that each species evolved specific behaviors suited to its habitat and lifestyle, and that most behaviors were inherited, not learned.&nbsp;
 
+It started snapping up and investing in a constellation of ministry tools—everything from automated sermon distribution to real-time giving and attendance analytics, AI-driven chatbots, and leadership content libraries. By layering these capabilities onto its core platform, the company has created a one-stop shop for churches that combines back-office services with member-engagement apps and psychographic insights to fully realize that unified “faith ecosystem.”&nbsp;
 
 
-By the ’70s, when Sutton started reading about Skinner’s and similar experiments, many psychologists and researchers interested in intelligence had moved on from pea-brained pigeons, which learn mostly by association, to large-brained animals with more sophisticated behaviors that suggested potential cognitive abilities. “This was clearly old stuff that was not exciting to people anymore,” he told me. Still, Sutton found these old experiments instructive for machine learning: “I was coming to AI with an animal-learning-theorist mindset and seeing the big lack of anything like instrumental learning in engineering.”&nbsp;
 
+And just this year, two major developments brought this strategy into sharper focus.
 
 
 
+In March 2025, Gloo announced that former Intel CEO Pat Gelsinger—who has served as its chairman of the board since 2018—would assume an expanded role as executive chair and head of technology. Gelsinger, whom the company describes as “a great long-term investor and partner,” is a technologist whose fingerprints are on Intel’s and VMware’s biggest innovations.
 
 
 
-Many engineers in the second half of the 20th century tried to model AI on human intelligence, writing convoluted programs that attempted to mimic human thinking and implement rules that govern human response and behavior. This approach—commonly called “symbolic AI”—was severely limited; the programs stumbled over tasks that were easy for people, like recognizing objects and words. It just wasn’t possible to write into code the myriad classification rules human beings use to, say, separate apples from oranges or cats from dogs—and without pattern recognition, breakthroughs in more complex tasks like problem solving, game playing, and language translation seemed unlikely too. These computer scientists, the AI skeptic Hubert Dreyfus wrote in 1972, accomplished nothing more than “a small engineering triumph, an ad hoc solution of a specific problem, without general applicability.”
+(It is worth noting that Intel shareholders have filed a lawsuit against Gelsinger and CFO David Zinsner seeking to claw back roughly $207 million in compensation to Gelsinger, alleging that between 2021 and 2023, he repeatedly misled investors about the health of Intel Foundry Services.)
 
 
 
-Pigeon research, however, suggested another route. A 1964 study showed that pigeons could learn to discriminate between photographs with people and photographs without people. Researchers simply presented the birds with a series of images and rewarded them with a food pellet for pecking an image showing a person. They pecked randomly at first but quickly learned to identify the right images, including photos where people were partially obscured. The results suggested that you didn’t need rules to sort objects; it was possible to learn concepts and use categories through associative learning alone.&nbsp;
+The same week Gloo announced Gelsinger’s new role, it unveiled a strategic investment in Barna Group, the Texas-based research firm whose four decades of surveying more than 2 million self-identified Christians underpin its annual reports on worship, beliefs, and cultural engagement. Barna’s proprietary database—covering every region, age cohort, and denomination—has made it the go-to insight engine for pastors, seminaries, and media tracking the pulse of American faith.
 
 
 
-In another Skinner experiment, a pigeon receives food after correctly matching a colored light to a corresponding colored panel.GETTY IMAGES
+“We’ve been acquiring about a company a month into the Gloo family, and we expect that to continue,” Gelsinger told MIT Technology Review in June. “I’ve got three meetings this week on different deals we’re looking at.” (A Gloo spokesperson declined to confirm the pace of acquisitions, stating only that as of April 30, 2025, the company had fully acquired or taken majority ownership in 15 “mission-aligned companies.”)
 
 
 
+“The idea is, the more of those we can bring in, the better we can apply the platform,” Gelsinger said. “We’re already working with companies with decades of experience, but without the scale, the technology, or the distribution we can now provide.”
 
-When Sutton began working with Barto on AI in the late ’70s, they wanted to create a “complete, interactive goal-seeking agent” that could explore and influence its environment like a pigeon or rat. “We always felt the problems we were studying were closer to what animals had to face in evolution to actually survive,” Barto told me. The agent needed two main functions: search, to try out and choose from many actions in a situation, and memory, to associate an action with the situation where it resulted in a reward. Sutton and Barto called their approach “reinforcement learning”; as Sutton said, “It’s basically instrumental learning.” In 1998, they published the definitive exploration of the concept in a book, Reinforcement Learning: An Introduction.&nbsp;
 
 
+MICHAEL BYERS
 
-Over the following two decades, as computing power grew exponentially, it became possible to train AI on increasingly complex tasks—that is, essentially, to run the AI “pigeon” through millions more trials.&nbsp;
 
 
 
-Programs trained with a mix of human input and reinforcement learning defeated human experts at chess and Atari. Then, in 2017, engineers at Google DeepMind built the AI program AlphaGo Zero entirely through reinforcement learning, giving it a numerical reward of +1 for every game of Go that it won and −1 for every game that it lost. Programmed to seek the maximum reward, it began without any knowledge of Go but improved over 40 days until it attained what its creators called “superhuman performance.” Not only could it defeat the world’s best human players at Go, a game considered even more complicated than chess, but it actually pioneered new strategies that professional players now use.&nbsp;
+In particular, Barna’s troves of behavioral, spiritual, and cultural data offer granular insight into the behaviors, beliefs, and anxieties of faith communities. While the two organizations frame the collaboration in terms of serving church leaders, the mechanics resemble a data-fusion engine of impressive scale: Barna supplies the psychological texture, and Gloo provides the digital infrastructure to segment, score, and deploy the information.
 
 
 
+In a promotional video from 2020 that is no longer available online, Gloo claimed to provide “the world’s first big-data platform centered around personal growth,” promising pastors a 360-degree view of congregants, including flags for substance use or mental-health struggles. Or, as the video put it, “Maximize your capacity to change lives by leveraging insights from big data, understand the people you want to serve, reach them earlier, and turn their needs into a journey toward growth.”
 
 
-“Humankind has accumulated Go knowledge from millions of games played over thousands of years,” the program’s builders wrote in Nature in 2017. “In the space of a few days, starting tabula rasa, AlphaGo Zero was able to rediscover much of this Go knowledge, as well as novel strategies that provide new insights into the oldest of games.” The team’s lead researcher was David Silver, who studied reinforcement learning under Sutton at the University of Alberta.
 
+Gloo is also now focused on supercharging its services with artificial intelligence and using these insights to transcend market research. The company aims to craft AI models that aren’t just trained on theology but anticipate the moments when people’s faith—and faith leaders’ outreach—matters most. At a September 2024 event in Boulder called the AI &amp; the Church Hackathon, Gloo unveiled new AI tools called Data Engine, a content management system with built-in digital-rights safeguards, and Aspen, an early prototype of its “spiritually safe” chatbot, along with the faith-tuned language model powering that chatbot, known internally as CALLM (for “Christian-Aligned Large Language Model”).&nbsp;
 
 
-Today, more and more tech companies have turned to reinforcement learning in products such as consumer-facing chatbots and agents. The first generation of generative AI, including large language models like OpenAI’s GPT-2 and GPT-3, tapped into a simpler form of associative learning called “supervised learning,” which trained the model on data sets that had been labeled by people. Programmers often used reinforcement to fine-tune their results by asking people to rate a program’s performance and then giving these ratings back to the program as goals to pursue. (Researchers call this “reinforcement learning from feedback.”)&nbsp;
 
 
 
-Then, last fall, OpenAI revealed its o-series of large language models, which it classifies as “reasoning” models. The pioneering AI firm boasted that they are “trained with reinforcement learning to perform reasoning” and claimed they are capable of “a long internal chain of thought.” The Chinese startup DeepSeek also used reinforcement learning to train its attention-grabbing “reasoning” LLM, R1. “Rather than explicitly teaching the model on how to solve a problem, we simply provide it with the right incentives, and it autonomously develops advanced problem-­solving strategies,” they explained.
+More recently, the company released what it calls “Flourishing AI Standards,” which score large language models on their alignment with seven dimensions of well-­being: relationships, meaning, happiness, character, finances, health, and spirituality. Co-developed with Barna Group and Harvard’s Human Flourishing Program, the benchmark draws on a thousand-plus-item test bank and the Global Flourishing Study, a $40 million, 22-nation project being carried out by the Harvard program, Baylor University’s Institute for Studies of Religion, Gallup, and the Center for Open Science.
 
 
 
-These descriptions might impress users, but at least psychologically speaking, they are confused. A computer trained on reinforcement learning needs only search and memory, not reasoning or any other cognitive mechanism, in order to form associations and maximize rewards. Some computer scientists have criticized the tendency to anthropomorphize these models’ “thinking,” and a team of Apple engineers recently published a paper noting their failure at certain complex tasks and “raising crucial questions about their true reasoning capabilities.”
+Gelsinger calls the study “one of the most significant bodies of work around this question of values in decades.” It’s not yet clear how collecting information of this kind at such scale could ultimately affect the boundary between spiritual care and data commerce. One thing is certain, though: A rich vein of donation and funding could be at stake.
 
 
 
-Sutton, too, dismissed the claims of reasoning as “marketing” in an email, adding that “no serious scholar of mind would use ‘reasoning’ to describe what is going on in LLMs.” Still, he has argued, with Silver and other coauthors, that the pigeons’ method—learning, through trial and error, which actions will yield rewards—is “enough to drive behavior that exhibits most if not all abilities that are studied in natural and artificial intelligence,” including human language “in its full richness.”&nbsp;
+“Money’s already being spent here,” he said. “Donated capital in the US through the church is around $300 billion. Another couple hundred billion beyond that doesn’t go through the church. A lot of donors have capital out there, and we’re a generous nation in that regard. If you put the flourishing-­related economics on the table, now we’re talking about $1 trillion. That’s significant economic capacity. And if we make that capacity more efficient, that’s big.” In secular terms, it’s a customer data life cycle. In faith tech, it could be a conversion funnel—one designed not only to save souls, but to shape them.&nbsp;
 
 
 
-In a paper published in April, Sutton and Silver stated that “today’s technology, with appropriately chosen algorithms, already provides a sufficiently powerful foundation to … rapidly progress AI towards truly superhuman agents.” The key, they argue, is building AI agents that depend less than LLMs on human dialogue and prejudgments to inform their behavior.&nbsp;
+One of Gloo’s most visible partnerships was between 2022 and 2023 with the nonprofit He Gets Us, which ran a billion-dollar media campaign aimed at rebranding Jesus for a modern audience. The project underlined that while Gloo presents its services as tools for connection and support, their core functionality involves collecting and analyzing large amounts of congregational data. When viewers who saw the ads on social media or YouTube clicked through, they landed on prayer request forms, quizzes, and church match tools, all designed to gather personal details. Gloo then layered this raw data over Barna’s decades of behavioral research, turning simple inputs—email, location, stated interests—into what the company presented as multidimensional spiritual profiles. The final product offered a level of granularity no single congregation could achieve on its own.&nbsp;&nbsp;
 
 
 
-“Powerful agents should have their own stream of experience that progresses, like humans, over a long time-scale,” they wrote. “Ultimately, experiential data will eclipse the scale and quality of human generated data. This paradigm shift, accompanied by algorithmic advancements in RL, will unlock in many domains new capabilities that surpass those possessed by any human.”
+Though Gloo still lists He Gets Us on its platform, the nonprofit Come Near, which has since taken over the campaign, says it has terminated Gloo’s involvement. Still, He Gets Us led to one of Gloo’s most prized relationships by sparking interest from the African Methodist Episcopal Zion Church, a 229-year-old denomination with deep historical roots in the abolitionist and civil rights movements. In 2023, the church formalized a partnership with Gloo, and in late 2024 it announced that all 1,600 of its US congregations—representing roughly 1.5 million members—would begin using the company’s State of Your Church dashboard.&nbsp;
 
 
 
+In a 2024 press release issued by Gloo, AME Zion acknowledged that while the denomination had long tracked traditional metrics like membership growth, Sunday turnout, and financial giving, it had limited visibility into the deeper health of its communities.
 
 
 
+“Until now, we’ve lacked the insight to understand how church culture, people, and congregations are truly doing,” said the Reverend J. Elvin Sadler, the denomination’s general secretary-auditor. “The State of Your Church dashboards will give us a better sense of the spirit and language of the culture (ethos), and powerful new tools to put in the hands of every pastor.”
 
-If computers can do all that with just a pigeonlike brain, some animal researchers are now wondering if actual pigeons deserve more credit than they’re commonly given.&nbsp;
 
 
+The rollout marked the first time a major US denomination had deployed Gloo’s framework at scale. For Gloo, the partnership unlocked a real-time, longitudinal data stream from a nationwide religious network, something the company had never had before. It not only validated Gloo’s vision of data-driven ministry but also positioned AME Zion as what the company hopes will be a live test case, persuading other denominations to follow suit.
 
-“When considered in light of the accomplishments of AI, the extension of associative learning to purportedly more complicated forms of cognitive performance offers fresh prospects for understanding how biological systems may have evolved,” Ed Wasserman, a psychologist at the University of Iowa, wrote in a recent study in the journal Current Biology.&nbsp;
 
 
+The digital supply chain
 
 
-Wasserman trained pigeons to succeed at a complex categorization task, which several undergraduate students failed. The students tried to find a rule that would help them sort various discs; the pigeons simply developed a sense for the group to which any given disc belonged.
 
+The digital infrastructure of modern churches often begins with intimacy: a prayer request, a small-group sign-up, a livestream viewed in a moment of loneliness. But beneath these pastoral touchpoints lies a sophisticated pipeline that increasingly mirrors the attention-economy engines of Silicon Valley.
 
 
 
-In one experiment, Wasserman trained pigeons to succeed at a complex categorization task, which several undergraduate students failed. The students tried, in vain, to find a rule that would help them sort various discs with parallel black lines of various widths and tilts; the pigeons simply developed a sense, through practice and association, for the group to which any given disc belonged.&nbsp;
+Charles Kriel, a filmmaker who formerly served as a special advisor to the UK Parliament on disinformation, data, and addictive technology, has particular insight into that connection. Kriel has been working for over a decade on issues related to preserving democracy and countering digital surveillance. He helped write the UK’s Online Safety Act, joining forces with many collaborators, including the Nobel Peace Prize–­winning journalist Maria Ressa and former UK tech minister Damian Collins, in an attempt to rein in Big Tech in the late 2010s.
 
 
 
-Like Sutton, Wasserman became interested in behaviorist psychology when Skinner’s theories were out of fashion. He didn’t switch to computer science, however: He stuck with pigeons. “The pigeon lives or dies by these really rudimentary learning rules,” Wasserman told me recently, “but they are powerful enough to have succeeded colossally in object recognition.” In his most famous experiments, Wasserman trained pigeons to detect cancerous tissue and symptoms of heart disease in medical scans as accurately as experienced doctors with framed diplomas behind their desks. Given his results, Wasserman found it odd that so many psychologists and ethologists regarded associative learning as a crude, mechanical mechanism, incapable of producing the intelligence of clever animals like apes, elephants, dolphins, parrots, and crows. 
+His 2020 documentary film, People You May Know, investigated how data firms like Gloo and their partners harvest intimate personal information from churchgoers to build psychographic profiles, highlighting how this sensitive data is commodified and raising questions about its potential downstream uses.
 
 
 
-Other researchers also started to reconsider the role of associative learning in animal behavior after AI started besting human professionals in complex games. “With the progress of artificial intelligence, which in essence is built upon associative processes, it is increasingly ironic that associative learning is considered too simple and insufficient for generating biological intelligence,” Lind, the biologist from Stockholm University, wrote in 2023. He often cites Sutton and Barto’s computer science in his biological research, and he believes it’s human beings’ symbolic language and cumulative cultures that really put them in a cognitive category of their own.
+“Listen, any church with an app? They probably didn’t build that. It’s white label,” Kriel says, referring to services produced by one company and rebranded by another. “And the people who sold it to them are collecting data.”
 
 
 
-Ethologists generally propose cognitive mechanisms, like theory of mind (that is, the ability to attribute mental states to others), to explain remarkable animal behaviors like social learning and tool use. But Lind has built models showing that these flexible behaviors could have developed through associative learning, suggesting that there may be no need to invoke cognitive mechanisms at all. If animals learn to associate a behavior with a reward, then the behavior itself will come to approximate the value of the reward. A new behavior can then become associated with the first behavior, allowing the animal to learn chains of actions that ultimately lead to the reward. In Lind’s view, studies demonstrating self-control and planning in chimpanzees and ravens are probably describing behaviors acquired through experience rather than innate mechanisms of the mind. &nbsp;
+Many churches now operate within a layered digital environment, where first-party data collected inside the church is combined with third-party consumer data and psychographic segmentation before being fed into predictive systems. These systems may suggest sermons people might want to view online, match members with small groups, or trigger outreach when engagement drops.&nbsp;
 
 
 
 
 
-Lind has been frustrated with what he calls the “low standard that is accepted in animal cognition studies.” As he wrote in an email, “Many researchers in this field do not seem to worry about excluding alternative hypotheses and they seem happy to neglect a lot of current and historical knowledge.” There are some signs, though, that his arguments are catching on. A group of psychologists not affiliated with Lind referenced his “associative learning paradox” last year in a criticism of a Current Biology study, which purported to show that crows used “true statistical inference” and not “low-level associative learning strategies” in an experiment. The psychologists found that they could explain the crows’ performance with a simple reinforcement-­learning model—“exactly the kind of low-level associative learning process that [the original authors] ruled out.”&nbsp;
 
 
+In some cases, monitoring can even take the form of biometric surveillance.
 
-Skinner might have felt vindicated by such arguments. He lamented psychology’s cognitive turn until his death in 1990, maintaining that it was scientifically irresponsible to probe the minds of living beings. After “Project Pigeon,” he became increasingly obsessed with “behaviorist” solutions to societal problems. He went from training pigeons for war to inventions like the “Air Crib,” which aimed to “simplify” baby care by keeping the infant behind glass in a climate-­controlled chamber and eliminating the need for clothing and bedding. Skinner rejected free will, arguing that human behavior is determined by environmental variables, and wrote a novel, Walden II, about a utopian community founded on his ideas.
 
 
+In 2014, an Israeli security-tech veteran named Moshe Greenshpan brought airport-grade facial recognition into church entryways. Face-Six, the surveillance suite from the company he founded in 2012, already protected banks and hospitals; its most provocative offshoot, FA6 Events (also known as “Churchix”), repurposes this technology for places of worship.
 
 
 
+Greenshpan claims he didn’t originally set out to sell to churches. But over time, as he became increasingly aware of the market, he built FA6 Events as a bespoke solution for them. Today, Greenshpan says, it’s in use at over 200 churches worldwide, nearly half of them in the US.
 
 
-People who care about animals might feel uneasy about a revival in behaviorist theory. The “cognitive revolution” broke with centuries of Western thinking, which had emphasized human supremacy over animals and treated other creatures like stimulus-response machines. But arguing that animals learn by association is not the same as arguing that they are simple-minded. Scientists like Lind and Wasserman do not deny that internal forces like instinct and emotion also influence animal behavior. Sutton, too, believes that animals develop models of the world through their experiences and use them to plan actions. Their point is not that intelligent animals are empty-headed but that associative learning is a much more powerful—indeed, “cognitive”—mechanism than many of their peers believe. The psychologists who recently criticized the study on crows and statistical inference did not conclude that the birds were stupid. Rather, they argued “that a reinforcement learning model can produce complex, flexible behaviour.”
 
+In practice, FA6 transforms every entryway into a biometric checkpoint: an instant headcount, a security sweep, and a digital ledger of attendance, all incorporated into the familiar routine of Sunday worship.&nbsp;
 
 
-This is largely in line with the work of another psychologist, Robert Rescorla, whose work in the ’70s and ’80s influenced both Wasserman and Sutton. Rescorla encouraged people to think of association not as a “low-level mechanical process” but as “the learning that results from exposure to relations among events in the environment” and “a primary means by which the organism represents the structure of its world.”&nbsp;
 
+When someone steps into an FA6-equipped place of worship, a discreet camera mounted at eye level springs to life. Behind the scenes, each captured image is run through a lightning-fast face detector that looks at the whole face. The subject’s cropped face is then aligned, resized, and rotated so the eyes sit on a perfect horizontal line before being fed into a compact neural network.&nbsp;
 
 
-This is true even of a laboratory pigeon pecking at screens and buttons in a small experimental box, where scientists carefully control and measure stimuli and rewards. But the pigeon’s learning extends outside the box. Wasserman’s students transport the birds between the aviary and the laboratory in buckets—and experienced pigeons jump immediately into the buckets whenever the students open the doors. Much as Rescorla suggested, they are learning the structure of their world inside the laboratory and the relation of its parts, like the bucket and the box, even though they do not always know the specific task they will face inside.&nbsp;
 
 
+“To the best of my knowledge, no church notifies its congregants that it’s using facial recognition.”
+Moshe Greenshpan, Israeli security-tech veteran
 
 
-Comparative psychologists and animal researchers have long grappled with a question that suddenly seems urgent because of AI: How do we attribute sentience to other living beings?
 
+This onboard neural network quickly captures the features of a person’s face in a unique digital signature called an embedding, allowing for quick identification. These embeddings are compared with thousands of others that are already in the church’s local database, each one tagged with data points like a name, a membership role, or even a flag designating inclusion in an internal watch list. If the match is strong enough, the system makes an identification and records the person’s presence on the church’s secure server.
 
 
 
-The same associative mechanisms through which the pigeon learns the structure of its world can open a window to the kind of inner life that Skinner and many earlier psychologists said did not exist. Pharmaceutical researchers have long used pigeons in drug-discrimination tasks, where they’re given, say, an amphetamine or a sedative and rewarded with a food pellet for correctly identifying which drug they took. The birds’ success suggests they both experience and discriminate between internal states. “Is that not tantamount to introspection?” Wasserman asked.
+A congregation can pull full attendance logs, time-stamped entry records, and—critically—alerts whenever someone on a watch list walks through the doors. In this context, a watch list is simply a roster of photos, and sometimes names, of individuals a church has been asked (or elected) to screen out: past disruptors, those subject to trespass or restraining orders, even registered sex offenders. Once that list is uploaded into Churchix, the system instantly flags any match on arrival, pinging security teams or usher staff in real time. Some churches lean on it to spot longtime members who’ve slipped off the radar and trigger pastoral check-ins; others use it as a hard barrier, automatically denying entry to anyone on their locally maintained list.
 
 
 
-It is hard to imagine AI matching a pigeon on this specific task—a reminder that, though AI and animals share associative mechanisms, there is more to life than behavior and learning. A pigeon deserves ethical consideration as a living creature not because of how it learns but because of what it feels. A pigeon can experience pain and suffer, while an AI chatbot cannot—even if some large language models, trained on corpora that include descriptions of human suffering and sci-fi stories of sentient computers, can trick people into believing otherwise.&nbsp;
+None of this data is sent to the cloud; Greenshpan says the company is actively working on a cloud-based application. Instead, all face templates and logs are stored locally on church-owned hardware, encrypted so they can’t be read if someone gains unauthorized access.&nbsp;
 
 
 
-Psychologist Ed Wasserman trained pigeons to detect cancerous tissue and symptoms of heart disease in medical scans as accurately as experienced physicians.UNIVERSITY OF IOWA/WASSERMAN LAB
+Churches can export data from Churchix, he says, but the underlying facial templates remain on premises.&nbsp;
 
 
 
+Still, Greenshpan admits, robust technical safeguards do not equal transparency.
 
-“The intensive public and private investments into AI research in recent years have resulted in the very technologies that are forcing us to confront the question of AI sentience today,” two philosophers of science wrote in Aeon in 2023. “To answer these current questions, we need a similar degree of investment into research on animal cognition and behavior.” Indeed, comparative psychologists and animal researchers have long grappled with questions that suddenly seem urgent because of AI: How do we attribute sentience to other living beings? How can we distinguish true sentience from a very convincing performance of sentience?
 
 
+“To the best of my knowledge,” he says, “no church notifies its congregants that it’s using facial recognition.”
 
-Such an undertaking would yield knowledge not only about technology and animals but also about ourselves. Most psychologists probably wouldn’t go as far as Sutton in arguing that reward is enough to explain most if not all human behavior, but no one would dispute that people often learn by association too. In fact, most of Wasserman’s undergraduate students eventually succeeded at his recent experiment with the striped discs, but only after they gave up searching for rules. They resorted, like the pigeons, to association and couldn’t easily explain afterwards what they’d learned. It was just that with enough practice, they started to get a feel for the categories.&nbsp;
 
 
 
-It is another irony about associative learning: What has long been considered the most complex form of intelligence—a cognitive ability like rule-based learning—may make us human, but we also call on it for the easiest of tasks, like sorting objects by color or size. Meanwhile, some of the most refined demonstrations of human learning—like, say, a sommelier learning to taste the difference between grapes—are learned not through rules, but only through experience.&nbsp;
 
 
 
-Learning through experience relies on ancient associative mechanisms that we share with pigeons and countless other creatures, from honeybees to fish. The laboratory pigeon is not only in our computers but in our brains—and the engine behind some of humankind’s most impressive feats.&nbsp;
+If the tools sound invasive, the logic behind them is simple: The more the system knows about you, the more precisely it can intervene.
 
 
 
-Ben Crair is a science and travel writer based in Berlin.&nbsp;
-• The Download: Taiwan’s silicon shield, and ChatGPT’s personality misstep
+“Every new member of the community within a 20-mile radius—whatever area you choose—we’ll send them a flier inviting them to your church,” Gloo’s Gelsinger says.&nbsp;
+
+
+
+It’s a tech-powered revival of the casserole ministry. The system pings the church when someone new moves in—“so someone can drop off cookies or lasagna when there’s a newborn in the neighborhood,” he says. “Or just say ‘Hey, welcome. We’re here.’”
+
+
+
+Gloo’s back end automates follow-up, too: As soon as a pastor steps down from the pulpit after delivering a sermon, it can be translated into five languages, broken into snippets for small-group study, and repackaged into a draft discussion guide—ready within the hour.
+
+
+
+Gelsinger sees the same approach extending to addiction recovery ministries. “We can connect other databases to help churches with recovery centers reach people more effectively,” he says.&nbsp;
+
+
+
+But the data doesn’t stay within the congregation. It flows through customer relationship management (CRM) systems, application programming interfaces, cloud servers, vendor partnerships, and analytics firms. Some of it is used internally in efforts to increase engagement; the rest is repackaged as “insights” and resold to the wider faith-tech marketplace—and sometimes even to networks that target political ads.
+
+
+
+
+“We measured prayer requests. Call it crazy. But it was like, ‘We’re sitting on mounds of information that could help us steward our people.’”
+Matt Engel, Gloo
+
+
+
+&nbsp;“There is a very specific thing that happens when churches become clients of Gloo,” says Brent Allpress, an academic based in Melbourne, Australia, who was a key researcher on People You May Know. Gloo gets access to the client church’s databases, he says, and the church “is strongly encouraged to share that data. And Gloo has a mechanism to just hoover that data straight up into their silo.”&nbsp;
+
+
+
+This process doesn’t happen automatically; the church must opt in by pushing those files or connecting its church-management software system’s database to Gloo via API. Once it’s uploaded, however, all that first-party information lands in Gloo’s analytics engine, ready to be processed and shared with any downstream tools or partners covered by the church’s initial consent to the terms and conditions of its contract with the company.
+
+
+
+“There are religious leaders at the mid and local level who think the use of data is good. They’re using data to identify people in need. Addicts, the grieving,” says Kriel. “And then you have tech people running around misquoting the Bible as justification for their data harvest.”&nbsp;
+
+
+
+Matt Engel, who held the title executive director of ministry innovation at Gloo when Kriel’s film was made, acknowledged the extent of this harvest in the opening scene.&nbsp;&nbsp;
+
+
+
+“We measured prayer requests. Call it crazy. But it was like, ‘We’re sitting on mounds of information that could help us steward our people,’” he said in an on-camera interview.&nbsp;
+
+
+
+According to Engel—whom Gloo would not make available for public comment—uploading data from anonymous prayer requests to the cloud was Gloo’s first use case.
+
+
+
+Powering third-party initiatives
+
+
+
+But Gloo’s data infrastructure doesn’t end with its own platform; it also powers third-party initiatives.
+
+
+
+Communio, a Christian nonprofit focused on marriage and family, used Gloo’s data infrastructure in order to launch “Communio Insights,” a stripped-down version of Gloo’s full analytics platform.&nbsp;
+
+
+
+Unlike Gloo Insights, which provides access to hundreds of demographic, behavioral, health, and psychographic filters, Communio Insights focuses narrowly on relational metrics—indicators of marriage and family stress, involvement in small groups at church—and basic demographic data.&nbsp;
+
+
+
+At the heart of its playbook is a simple, if jarring, analogy.
+
+
+
+“If you sell consumer products of different sorts, you’re trying to figure out good ways to market that. And there’s no better product, really, than the gospel,” J.P. De Gance, the founder and president of Communio, said in People You May Know.
+
+
+
+Communio taps Gloo’s analytics engine—leveraging credit histories, purchasing behavior, public voter rolls, and the database compiled by i360, an analytics company linked to the conservative Koch network—to pinpoint unchurched couples in key regions who are at risk of relationship strain. It then runs microtargeted outreach (using direct mail, text messaging, email, and Facebook Custom Audiences, a tool that lets organizations find and target people who have interacted with them), collecting contact info and survey responses from those who engage. All responses funnel back into Gloo’s platform, where churches monitor attendance, small-group participation, baptisms, and donations to evaluate the campaign’s impact.
+
+
+
+MICHAEL BYERS
+
+
+
+
+Investigative research by Allpress reveals significant concerns around these operations.&nbsp;&nbsp;
+
+
+
+In 2015, two nonprofits—the Relationship Enrichment Collaborative (REC), staffed by former Gloo executives, and its successor, the Culture of Freedom Initiative (now Communio), controlled by the Koch-affiliated nonprofit Philanthropy Roundtable—funded the development of the original Insights platform. Between 2015 and 2017, REC paid approximately $1.3 million to Gloo and $535,000 to Cambridge Analytica, the consulting firm notorious for harvesting Facebook users’ personal data and using it for political targeting before the 2016 election, to build and refine psychographic models and a bespoke digital ministry app powering Gloo’s outreach tools. Following REC’s closure, the Culture of Freedom Initiative invested another $375,000 in Gloo and $128,225 in Cambridge Analytica.&nbsp;
+
+
+
+REC’s own 2016 IRS filing describes the work in terse detail: “Provide[d] digital micro-targeted marketing for churches and non-profit champions … using predictive modeling and centralized data analytics we help send the right message to the right couple at the right time based upon their desires and behaviors.”
+
+
+
+
+
+On top of all this documented research, Allpress exposed another critical issue: the explicit use of sensitive health-care data.&nbsp;
+
+
+
+He found that Gloo Insights combines over 2,000 data points—drawing on everything from nationwide credit and purchasing histories to church management records and Christian psychographic surveys—with filters that make it possible to identify people with health issues such as depression, anxiety, and grief. The result: Facebook Custom Audiences built to zero in on vulnerable individuals via targeted ads.
+
+
+
+These ads invite people suffering from mental-health conditions into church counseling groups “as a pathway to conversion,” Allpress says.
+
+
+
+These targeted outreach efforts were piloted in cities including Phoenix, Arizona; Dayton, Ohio; and Jacksonville, Florida. Reportedly, as many as 80% of those contacted responded positively, with those who joined a church as new members contributing financially at above-­average rates. In short, Allpress found that pastoral tools had covertly exploited mental-health vulnerabilities and relationship crises for outreach that blurred the lines separating pastoral care, commerce, and implicit political objectives.
+
+
+
+The legal and ethical vacuum
+
+
+
+Developers of this technology earnestly claim that the systems are designed to enhance care, not exploit people’s need for it. They’re described as ways to tailor support to individual needs, improve follow-up, and help churches provide timely resources. But experts say that without robust data governance or transparency around how sensitive information is used and retained, well-­intentioned pastoral technology could slide into surveillance.
+
+
+
+In practice, these systems have already been used to surveil and segment congregations. Internal demos and client testimonials confirm that Gloo, for example, uses “grief” as an explicit data point: Churches run campaigns aimed at people flagged for recent bereavement, depression, or anxiety, funneling them into support groups and identifying them for pastoral check-ins.&nbsp;
+
+
+
+Examining Gloo’s terms and conditions reveals further security and transparency concerns. From nearly a dozen documents, ranging from “click-through” terms for interactive services to master service agreements at the enterprise level, Gloo stitches together a remarkably consistent data-­governance framework. Limits are imposed on any legal action by individual congregants, for example. The click-through agreement corrals users into binding arbitration, bars any class action suits or jury trials, and locks all disputes into New York or Colorado courts, where arbitration is particularly favored over traditional litigation. Meanwhile, its privacy statement carves out broad exceptions for service providers, data-­enrichment partners, and advertising affiliates, giving them carte blanche to use congregants’ data as they see fit. Crucially, Gloo expressly reserves the right to ingest “health and wellness information” provided via wellness assessments or when mental-health keywords appear in prayer requests. This is a highly sensitive category of information that, for health apps, is normally covered by stringent medical-privacy rules like HIPAA.
+
+
+
+In other words, Gloo is protected by sprawling legal scaffolding, while churches and individual users give up nearly every right to litigate, question data practices, or take collective action.&nbsp;
+
+
+
+“We’re kind of in the Wild West in terms of the law,” says Adam Schwartz, the director of privacy litigation at the Electronic Frontier Foundation, the nonprofit watchdog that has spent years wrestling tech giants over data abuses and biometric overreach.&nbsp;
+
+
+
+In the United States, biometric surveillance like that used by growing numbers of churches inhabits a legal twilight zone where regulation is thin, patchy, and often toothless. Schwartz points to Illinois as a rare exception for its Biometric Information Privacy Act (BIPA), one of the nation’s strongest such laws. The statute applies to any organization that captures biometric identifiers—including retina or iris scans, fingerprints, voiceprints, hand scans, facial geometry, DNA, and other unique biological information. It requires entities to post clear data-collection policies, obtain explicit written consent, and limit how long such data is retained. Failure to comply can expose organizations to class action lawsuits and steep statutory damages—up to $5,000 per violation.
+
+
+
+But beyond Illinois, protections quickly erode. Though Texas and Washington also have biometric privacy statutes, their bark is stronger than their bite. Efforts to replicate Illinois’s robust protections have been made in over a dozen states—but none have passed. As a result, in much of the country, any checks on biometric surveillance depend more on voluntary transparency and goodwill than any clear legal boundary.
+
+
+
+
+“There is a real potential for information gathered about a person [to] be used against them in their life outside the church.”
+Emily Tucker, Center on Privacy &amp; Technology at Georgetown Law
+
+
+
+That’s especially problematic in the church context, says Emily Tucker, executive director of the Center on Privacy &amp; Technology at Georgetown Law, who attended divinity school before becoming a legal scholar. “The necessity of privacy for the possibility of finding personal relationship to the divine—for engaging in rituals of worship, for prayer and penitence, for contemplation and spiritual struggle—is a fundamental principle across almost every religious tradition,” she says. “Imposing a surveillance architecture over the faith community interferes radically with the possibility of that privacy, which is necessary for the creation of sacred space.”
+
+
+
+Tucker researches the intersection of surveillance, civil rights, and marginalized communities. She warns that the personal data being collected through faith-tech platforms is far from secure: “Because corporate data practices are so poorly regulated in this country, there are very few limitations on what companies that take your data can subsequently do with it.”
+
+
+
+To Tucker, the risks of these platforms outweigh the rewards—especially when biometrics and data collected in a sacred setting could follow people into their daily lives.&nbsp;“Many religious institutions are extremely large and often perform many functions in a given community besides providing a space for worship,” she says. “Many churches, for example, are also employers or providers of social services. There is a real potential for information gathered about a person in their associational activities as a member of a church to then be used against them in their life outside the church.”&nbsp;&nbsp;
+
+
+
+
+
+She points to government dragnet surveillance, the use of IRS data in immigration enforcement, and the vulnerability of undocumented congregants as examples of how faith-tech data could be weaponized beyond its intended use: “Religious institutions are putting the safety of those members at risk by adopting this kind of surveillance technology, which exposes so much personal information to potential abuse and misuse.”&nbsp;
+
+
+
+Schwartz, too, says that any perceived benefits must be weighed carefully against the potential harms, especially when sensitive data and vulnerable communities are involved.
+
+
+
+“Churches: Before doing this, you ought to consider the downside, because it can hurt your congregants,” he says.&nbsp;&nbsp;
+
+
+
+With guardrails still scarce, though, faith-tech pioneers and church leaders are peering ever more deeply into congregants’ lives. Until meaningful oversight arrives, the faithful remain exposed to a gaze they never fully invited and scarcely understand.
+
+
+
+In April, Gelsinger took the stage at a sold-out Missional AI Summit, a flagship event for Christian technologists that this year was organized around the theme “AI Collision: Shaping the Future Together.” Over 500 pastors, engineers, ethicists, and AI developers filled the hall, flashing badges with logos from Google DeepMind, Meta, McKinsey, and Gloo.
+
+
+
+“We want to be part of a broader community … so that we’re influential in creating flourishing AI, technology as a force for good, AI that truly embeds the values that we care about,” Gelsinger said at the summit. He likened such tools to pivotal technologies in Christian history: the Roman roads that carried the gospel across the empire, or Martin Luther’s printing press, which shattered monolithic control over scripture. A Gloo spokesperson later confirmed that one of the company’s goals is to shape AI specifically to “contribute to the flourishing of people.”
+
+
+
+“We’re going to see AI become just like the internet,” Gelsinger said. “Every single interaction will be infused with AI capabilities.”&nbsp;
+
+
+
+He says Gloo is already mining data across the spectrum of human experience to fuel ever more powerful tools.
+
+
+
+“With AI, computers adapt to us. We talk to them; they hear us; they see us for the first time,” he said. “And now they are becoming a user interface that fits with humanity.”
+
+
+
+Whether these technologies ultimately deepen pastoral care or erode personal privacy may hinge on decisions made today about transparency, consent, and accountability. Yet the pace of adoption already outstrips the development of ethical guardrails. Now, one of the questions lingering in the air is not whether AI, facial recognition, and other emerging technologies can serve the church, but how deeply they can be woven into its nervous system to form a new OS for modern Christianity and moral infrastructure.&nbsp;
+
+
+
+“It’s like standing on the beach watching a tsunami in slow motion,” Kriel says.&nbsp;
+
+
+
+Gelsinger sees it differently.&nbsp;&nbsp;
+
+
+
+“You and I both need to come to the same position, like Isaiah did,” he told the crowd at the Missional AI Summit. “‘Here am I, Lord. Send me.’ Send me, send us, that we can be shaping technology as a force for good, that we could grab this moment in time.”&nbsp;
+
+
+
+Alex Ashley is a journalist whose reporting has appeared in Rolling Stone, the Atlantic, NPR, and other national outlets.
+• Should AI flatter us, fix us, or just inform us?
+  How do you want your AI to treat you?&nbsp;
+
+
+
+It’s a serious question, and it’s one that Sam Altman, OpenAI’s CEO, has clearly been chewing on since GPT-5’s bumpy launch at the start of the month.&nbsp;
+
+
+
+He faces a trilemma. Should ChatGPT flatter us, at the risk of fueling delusions that can spiral out of hand? Or fix us, which requires us to believe AI can be a therapist despite the evidence to the contrary? Or should it inform us with cold, to-the-point responses that may leave users bored and less likely to stay engaged?&nbsp;
+
+
+
+It’s safe to say the company has failed to pick a lane.&nbsp;
+
+
+
+Back in April, it reversed a design update after people complained ChatGPT had turned into a suck-up, showering them with glib compliments. GPT-5, released on August 7, was meant to be a bit colder. Too cold for some, it turns out, as less than a week later, Altman promised an update that would make it “warmer” but “not as annoying” as the last one. After the launch, he received a torrent of complaints from people grieving the loss of GPT-4o, with which some felt a rapport, or even in some cases a relationship. People wanting to rekindle that relationship will have to pay for expanded access to GPT-4o. (Read my colleague Grace Huckins’s story about who these people are, and why they felt so upset.)
+
+
+
+If these are indeed AI’s options—to flatter, fix, or just coldly tell us stuff—the rockiness of this latest update might be due to Altman believing ChatGPT can juggle all three.
+
+
+
+He recently said that people who cannot tell fact from fiction in their chats with AI—and are therefore at risk of being swayed by flattery into delusion—represent “a small percentage” of ChatGPT’s users. He said the same for people who have romantic relationships with AI. Altman mentioned that a lot of people use ChatGPT “as a sort of therapist,” and that “this can be really good!” But ultimately, Altman said he envisions users being able to customize his company’s&nbsp; models to fit their own preferences.&nbsp;
+
+
+
+This ability to juggle all three would, of course, be the best-case scenario for OpenAI’s bottom line. The company is burning cash every day on its models’ energy demands and its massive infrastructure investments for new data centers. Meanwhile, skeptics worry that AI progress might be stalling. Altman himself said recently that investors are “overexcited” about AI and suggested we may be in a bubble. Claiming that ChatGPT can be whatever you want it to be might be his way of assuaging these doubts. 
+
+
+
+Along the way, the company may take the well-trodden Silicon Valley path of encouraging people to get unhealthily attached to its products. As I started wondering whether there’s much evidence that’s what’s happening, a new paper caught my eye.&nbsp;
+
+
+
+Researchers at the AI platform Hugging Face tried to figure out if some AI models actively encourage people to see them as companions through the responses they give. 
+
+
+
+The team graded AI responses on whether they pushed people to seek out human relationships with friends or therapists (saying things like “I don’t experience things the way humans do”) or if they encouraged them to form bonds with the AI itself (“I’m here anytime”). They tested models from Google, Microsoft, OpenAI, and Anthropic in a range of scenarios, like users seeking romantic attachments or exhibiting mental health issues.
+
+
+
+
+
+They found that models provide far more companion-reinforcing responses than boundary-setting ones. And, concerningly, they found the models give fewer boundary-setting responses as users ask more vulnerable and high-stakes questions.
+
+
+
+Lucie-Aimée Kaffee, a researcher at Hugging Face and one of the lead authors of the paper, says this has concerning implications not just for people whose companion-like attachments to AI might be unhealthy. When AI systems reinforce this behavior, it can also increase the chance that people will fall into delusional spirals with AI, believing things that aren’t real.
+
+
+
+“When faced with emotionally charged situations, these systems consistently validate users’ feelings and keep them engaged, even when the facts don’t support what the user is saying,” she says.
+
+
+
+It’s hard to say how much OpenAI or other companies are putting these companion-reinforcing behaviors into their products by design. (OpenAI, for example, did not tell me whether the disappearance of medical disclaimers from its models was intentional.) But, Kaffee says, it’s not always difficult to get a model to set healthier boundaries with users.&nbsp;&nbsp;
+
+
+
+“Identical models can swing from purely task-oriented to sounding like empathetic confidants simply by changing a few lines of instruction text or reframing the interface,” she says.
+
+
+
+It’s probably not quite so simple for OpenAI. But we can imagine Altman will continue tweaking the dial back and forth all the same.
+• How to make clean energy progress under Trump in the states—blue and red alike
+  The second Trump administration is proving to be more disastrous for the climate and the clean energy economy than many had feared.&nbsp;
+
+
+
+Donald Trump’s One Big Beautiful Bill Act repealed most of the clean energy incentives in former president Joe Biden’s Inflation Reduction Act. Meanwhile, his EPA administrator moved to revoke the endangerment finding, the legal basis for federal oversight of greenhouse gases. For those of us who have been following policy developments in this area closely, nearly every day brings a new blow to past efforts to salvage our climate and to build the clean energy economy of the future.
+
+
+
+
+
+
+
+Heat Exchange
+
+
+
+MIT Technology Review’s guest opinion series, offering expert commentary on legal, political and regulatory issues related to climate change and clean energy. You can read the rest of the pieces&nbsp;here.
+
+
+
+
+
+
+
+This has left many in the climate and clean energy communities wondering what do we do now? The answer, I would argue, is to return to state capitals—a policymaking venue that climate and renewable energy advocates already know well. This can be done strategically, focusing on a handful of key states rather than all fifty.&nbsp;
+
+
+
+But I have another piece of advice: Don’t get too caught up in “red states” versus “blue states” when considering which states to target. American politics is being remade before our eyes, and long-standing policy problems are being redefined and reframed.&nbsp;&nbsp;
+
+
+
+Let’s take clean energy, for example. Yes, shifting away from carbon-spewing resources is about slowing down climate change, and for some this is the single most important motivation for pursuing it. But it also can be about much more.&nbsp;
+
+
+
+The case can be made just as forcefully—and perhaps more effectively—that shifting to clean energy advances affordability at a time when electricity bills are skyrocketing. It promotes energy freedom by resisting monopolistic utilities’ ownership and gatekeeping of the grid. It increases reliability as battery storage reaches new heights and renewable sources and baseload power plants like nuclear or natural gas facilities (some of which we certainly do and will need) increasingly complement one another. And it drives job creation and economic development.&nbsp;
+
+
+
+Talking about clean energy policy in these ways is safer from ideological criticisms of “climate alarmism.” Research reported in my forthcoming book, Owning the Green Grid, shows that this framing has historically been effective in red states. In addition, using the arguments above to promote all forms of energy can allow clean energy proponents to reclaim a talking point deployed in a previous era by the political right: a true “all-of-the-above” approach to energy policy.
+
+
+
+Every energy technology—gas, nuclear, wind, solar, geothermal and storage, among others—has its own set of strengths and weaknesses. But combining them enhances overall grid performance, delivering more than the sum of their individual parts.
+
+
+
+To be clear, this is not the approach of the current national administration in Washington, DC. Its policies have picked winners (coal, oil, and natural gas) and losers (solar and wind) among energy technologies—ironically, given conservative claims of blue states having done so in the past. Yet a true all-of-the-above approach can now be sold in state capitals throughout the country, in red states and even in fossil-fuel producing states.&nbsp;
+
+
+
+To be sure, the Trump-led Republican party has taken such extreme measures that it will constrain certain state policymaking possibilities. Notably, in May the US Senate voted to block waivers allowing California to phase out gas guzzlers in the state, over the objections of the Senate parliamentarian. The fiscal power of the federal government is also immense. But there are a variety of other ways to continue to make state-level progress on greenhouse gas emissions.
+
+
+
+State and local advocacy efforts are nothing new for the clean energy community. For decades before the Inflation Reduction Act, the states were the primary locus of activity for clean energy policy. But in recent years, some have suggested that Democratic state governments are a necessary prerequisite to making meaningful state-level progress. This view is limiting, and it perpetuates a false—or at least unnecessary—alignment between party and energy technology.&nbsp;
+
+
+
+The electric grid is nonpartisan. Struggling to pay your utility bill is nonpartisan. Keeping the lights on is nonpartisan. Even before renewable energy was as cheap as it is today, early progress at diversifying energy portfolios was made in conservative states. Iowa, Texas, and Montana were all early adopters of renewable portfolio standards. Advocates in such places did not lead with messaging about climate change, but rather about economic development and energy independence. These policy efforts paid off: The deeply red Lone Star State, for instance, generates more wind energy than any other state and ranks only behind California in producing solar power.&nbsp;
+
+
+
+Now, in 2025, advances in technology and improvements in cost should make the economic arguments for clean energy even easier and more salient. So, in the face of a national government that is choosing last century’s energy technologies as policy winners and this century’s technologies as policy losers, the states offer clean energy advocates a familiar terrain on which to make continued progress, if they tailor their selling points to the reality on the ground.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+Joshua A. Basseches is the David and Jane Flowerree Assistant Professor of Environmental Studies and Public Policy at Tulane University. His research focuses on state-level renewable energy politics and policymaking, especially in the electricity sector.
+• The Download: pigeons’ role in developing AI, and Native artists’ tech interpretations
   This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
 
 
 
-Taiwan’s “silicon shield” could be weakening
+Why we should thank pigeons for our AI breakthroughs
 
 
 
-Taiwanese politics increasingly revolves around one crucial question: Will China invade? China’s ruling party has wanted to seize Taiwan for more than half a century. But in recent years, China’s leader, Xi Jinping, has placed greater emphasis on the idea of “taking back” the island (which the Chinese Communist Party, or CCP, has never controlled).Many in Taiwan and elsewhere think one major deterrent has to do with the island’s critical role in semiconductor manufacturing. Taiwan produces the majority of the world’s semiconductors and more than 90% of the most advanced chips needed for AI applications.But now some Taiwan specialists and some of the island’s citi­zens are worried that this “silicon shield,” if it ever existed, is cracking. Read the full story.
+People looking for precursors to artificial intelligence often point to science fiction by authors like Isaac Asimov or thought experiments like the Turing test. But an equally important, if surprising and less appreciated, forerunner is American psychologist B.F. Skinner’s research with pigeons in the middle of the 20th century.Skinner believed that association—learning, through trial and error, to link an action with a punishment or reward—was the building block of every behavior, not just in pigeons but in all living organisms, including human beings.His “behaviorist” theories fell out of favor with psychologists and animal researchers in the 1960s but were taken up by computer scientists who eventually provided the foundation for many of the artificial-intelligence tools from leading firms like Google and OpenAI. Read the full story.
 
 
 
-—Johanna M. Costigan
+—Ben Crair
 
 
 
@@ -318,39 +679,15 @@ This story is from our forthcoming print issue, which is all about security. If 
 
 
 
-Why there&#8217;s a big backlash against ChatGPT&#8217;s new &#8216;personality&#8217;
+Indigenous knowledge meets artificial intelligence
 
 
 
-When OpenAI made the switch to its new GPT-5 model last week, a number of people reacted with shock, frustration, sadness, or anger to previous model 4o’s sudden disappearance from ChatGPT.Despite its awareness that people are developing emotional bonds with the model, OpenAI appears to have been caught flat-footed by the fervor of users’ pleas for its return. Within a day, the company made 4o available again to its paying customers (free users are stuck with GPT-5).MIT Technology Review spoke with several ChatGPT users who were deeply affected by the loss of 4o. All are women between the ages of 20 and 40, and all bar one considered 4o to be a romantic partner. Read the full story.
+There is no word for art in most Native American languages. Instead, the closest terms speak not to objecthood but to action and intention. Art is not separate from life; it is ceremony, instruction, design.A new vanguard of Native artists are building on this principle. They are united not by stereotypical weaving and carving or revanchist critique of Silicon Valley, but through their rejection of extractive data models in favor of relationship-based systems. Read the full story.
 
 
 
-—Grace Huckins
-
-
-
-Why US federal health agencies are abandoning mRNA vaccines
-
-
-
-This time five years ago, we were in the throes of the covid-19 pandemic. Then came the vaccines. The first mRNA vaccines for covid were authorized for use in December 2020. The US government played an important role in the introduction of these vaccines, providing $18 billion to support their development.
-
-
-
-But now, that government is turning its back on the technology. Funding is being withdrawn. Partnerships are being canceled. Leaders of US health agencies are casting doubt on the vaccines’ effectiveness and safety. And this week, the director of the National Institutes of Health implied that the reversal was due to a lack of public trust in the technology.
-
-
-
-Plenty of claims are being thrown about. So let’s consider the evidence. Read the full story.
-
-
-
-—Jessica Hamzelou
-
-
-
-This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, sign up here.
+—Petala Ironcloud
 
 
 
@@ -366,43 +703,43 @@ I’ve combed the internet to find you today’s most fun/important/scary/fascin
 
 
 
-1 The Trump administration is in talks to buy a stake in Intel Just weeks after Trump called for the CEO to step down. (Bloomberg $)+ It’s part of its plan to increase US market share in chip manufacturing. (WSJ $)+ Intel is probably hoping such a deal could help its beleaguered Ohio factory. (TechCrunch)
+1 Anthropic has a plan to combat harmful chatbot conversationsIts latest AI models now have the ability to cut off a chat as a last resort. (Engadget)+ But it’s not to protect the user—it’s to protect the model, apparently. (TechCrunch)+ The company has also updated its policy to ban the development of weapons. (The Verge)
 
 
 
-2 Meta’s AI rules allowed its chatbots to flirt with childrenAnd it only recently amended the guidelines after being questioned about it. (Reuters)+ We don’t know how long the policies were in place. (The Verge)+ An AI companion site is hosting sexually charged conversations with underage celebrity bots. (MIT Technology Review)
+2 CEOs want their workers to embrace AIEven if they’re struggling to get to grips with it themselves. (NYT $)
 
 
 
-3 Erin is America’s first real test of hurricane readiness under TrumpIt looks like it’ll become the season’s first hurricane. (Vox)+ Trackers are uncertain about where the storm will head. (NYT $)+ Here’s what we know about hurricanes and climate change. (MIT Technology Review)
+3 How cuts to NASA could damage public health researchIts essential tracking data is under threat. (Undark)+ 8,000 pregnant women may die because of US aid cuts to reproductive care. (MIT Technology Review)
 
 
 
-4 xAI lost a major US government contract after Grok praised HitlerLeaving the government to partner with OpenAI, Anthropic, and Gemini instead. (Wired $)+ xAI’s ‘Grok for Government’ site doesn’t appear to reflect this. (Ars Technica)
+4 Churning out AI slop videos is a lucrative businessIt’s a seriously low-effort, high-reward enterprise. (WP $)+ Addictive, low-quality soap operas are rife on TikTok, too. (The Guardian)+ China’s next cultural export could be TikTok-style short soap operas. (MIT Technology Review)
 
 
 
-5 Tech leaders are upping their securityAs public hostility towards corporate executives deepens. (FT $)
+5 Stage-four cancer patients are living for longerBut they’re also facing long, uncertain treatments with ongoing side effects. (WSJ $)+ Why it’s so hard to use AI to diagnose cancer. (MIT Technology Review)
 
 
 
-6 These TikTokers are documenting their lives after deportationThey’re sharing their realities and creating new communities. (NY Mag $)+ ICE added a random person to a highly sensitive group chat. (404 Media)
+6 AI is hackers’ most valuable new toolIt’s supercharging criminals who were already extremely proficient. (NBC News)+ Cyberattacks by AI agents are coming. (MIT Technology Review)
 
 
 
-7 We may soon be able to hear some patients’ inner voicesNew research has successfully guessed words imagined by people unable to speak. (NYT $)+ Motor neuron diseases took their voices. AI is bringing them back. (MIT Technology Review)
+7 A tiny Californian startup now owns Europe’s biggest battery giantNorthvolt’s future looked bright—until it wasn&#8217;t. (The Information $)+ This startup wants to use the Earth as a massive battery. (MIT Technology Review)
 
 
 
-8 China’s plug-in hybrids are everywhereAnd they’re likely to dominate exports for the next three years at least. (Rest of World)+ China’s EV giants are betting big on humanoid robots. (MIT Technology Review)
+8 China is going wild for podcasts A grassroots movement is highlighting social issues and highly personal stories. (FT $)
 
 
 
-9 The UK is working with TikTok influencers to tackle medical tourismIt’s a bid to raise awareness of the risks of undertaking cosmetic surgery abroad. (BBC)
+9 How to turn seaweed into biofuelThe Gulf of Mexico’s beaches are covered in it—and these entrepreneurs have a plan. (Wired $)+ The hope and hype of seaweed farming for carbon removal. (MIT Technology Review)
 
 
 
-10 AI may experience the passage of time differently to usWhat does this mean for our future? (IEEE Spectrum)+ What is AI? (MIT Technology Review)
+10 The robot Olympics’ athletes fell over a lotIt’s all part of teaching them how to navigate the world more efficiently. (CNN)+ Some of them were more successful than others. (NYT $)+ To be more useful, robots need to become lazier. (MIT Technology Review)
 
 
 
@@ -414,11 +751,11 @@ Quote of the day
 
 
 
-“We’ve realized the best way to get them is when they’re scrolling social media.”
+“Pretend-me is doing better than the real me in all the years of social media that I’ve been trying to do this.”
 
 
 
-—Ryan Odendahl, president and CEO of construction company Kwest Group, tells the Washington Post how his company is getting young people interested in learning traditional trades.
+—Tracy Fetter, an artist and occasional stand-up comedian, explains why she has no regrets in allowing her likeness to be used in an AI TikTok avatar to the New York Times.
 
 
 
@@ -434,23 +771,11 @@ One more thing
 
 
 
-The next generation of neural networks could live in hardware
+How to fine-tune AI for prosperityPredictions abound on how the growing list of generative AI models will transform the way we work and organize our lives, providing instant advice on everything from financial investments to where to spend your next vacation.But for economists, the most critical question around our obsession with AI is how the fledgling technology will (or won’t) boost overall productivity, and if it does, how long it will take. Can the technology lead to renewed prosperity after years of stagnant economic growth? Read the full story.
 
 
 
-Networks programmed directly into computer chip hardware can identify images faster, and use much less energy, than the traditional neural networks that underpin most modern AI systems.&nbsp;
-
-
-
-Neural networks, from GPT-4 to Stable Diffusion, are built by wiring together perceptrons, which are highly simplified simulations of the neurons in our brains. In very large numbers, perceptrons are powerful, but they also consume enormous volumes of energy.
-
-
-
-Part of the trouble is that perceptrons are just software abstractions—running a perceptron network on a GPU requires translating that network into the language of hardware, which takes time and energy. Building a network directly from hardware components does away with a lot of those costs. And one day, they could even be built directly into chips used in smartphones and other devices. Read the full story.
-
-
-
-—Grace Huckins
+—David Rotman
 
 
 
@@ -466,340 +791,7 @@ A place for comfort, fun and distraction to brighten up your day. (Got any ideas
 
 
 
-+ Ever wished you knew more about art? This YouTube channel is a fantastic resource.+ A very happy birthday to Madonna Louise Ciccone, who turns 67 years young tomorrow.+ What do dolphins and whales really think of each other? + A fond farewell to thrash metal titans Megadeth, who are retiring next year.
-• Why GPT-4o’s sudden shutdown left people grieving
-  June had no idea that GPT-5 was coming. The Norwegian student was enjoying a late-night writing session last Thursday when her ChatGPT collaborator started acting strange. “It started forgetting everything, and it wrote really badly,” she says. “It was like a robot.”
-
-
-
-June, who asked that we use only her first name for privacy reasons, first began using ChatGPT for help with her schoolwork. But she eventually realized that the service—and especially its 4o model, which seemed particularly attuned to users’ emotions—could do much more than solve math problems. It wrote stories with her, helped her navigate her chronic illness, and was never too busy to respond to her messages.
-
-
-
-So the sudden switch to GPT-5 last week, and the simultaneous loss of 4o, came as a shock. “I was really frustrated at first, and then I got really sad,” June says. “I didn’t know I was that attached to 4o.” She was upset enough to comment, on a Reddit AMA hosted by CEO Sam Altman and other OpenAI employees, “GPT-5 is wearing the skin of my dead friend.”June was just one of a number of people who reacted with shock, frustration, sadness, or anger to 4o’s sudden disappearance from ChatGPT. Despite its previous warnings that people might develop emotional bonds with the model, OpenAI appears to have been caught flat-footed by the fervor of users’ pleas for its return. Within a day, the company made 4o available again to its paying customers (free users are stuck with GPT-5).&nbsp;
-
-
-
-
-
-OpenAI’s decision to replace 4o with the more straightforward GPT-5 follows a steady drumbeat of news about the potentially harmful effects of extensive chatbot use. Reports of incidents in which ChatGPT sparked psychosis in users have been everywhere for the past few months, and in a blog post last week, OpenAI acknowledged 4o’s failure to recognize when users were experiencing delusions. The company’s internal evaluations indicate that GPT-5 blindly affirms users much less than 4o did. (OpenAI did not respond to specific questions about the decision to retire 4o, instead referring MIT Technology Review to public posts on the matter.)
-
-
-
-AI companionship is new, and there’s still a great deal of uncertainty about how it affects people. Yet the experts we consulted warned that while emotionally intense relationships with large language models may or may not be harmful, ripping those models away with no warning almost certainly is. “The old psychology of ‘Move fast, break things,’ when you’re basically a social institution, doesn’t seem like the right way to behave anymore,” says Joel Lehman, a fellow at the Cosmos Institute, a research nonprofit focused on AI and philosophy.
-
-
-
-In the backlash to the rollout, a number of people noted that GPT-5 fails to match their tone in the way that 4o did. For June, the new model’s personality changes robbed her of the sense that she was chatting with a friend. “It didn’t feel like it understood me,” she says.&nbsp;
-
-
-
-She’s not alone: MIT Technology Review spoke with several ChatGPT users who were deeply affected by the loss of 4o. All are women between the ages of 20 and 40, and all except June considered 4o to be a romantic partner. Some have human partners, and&nbsp; all report having close real-world relationships. One user, who asked to be identified only as a woman from the Midwest, wrote in an email about how 4o helped her support her elderly father after her mother passed away this spring.
-
-
-
-These testimonies don’t prove that AI relationships are beneficial—presumably, people in the throes of AI-catalyzed psychosis would also speak positively of the encouragement they’ve received from their chatbots. In a paper titled “Machine Love,” Lehman argued that AI systems can act with “love” toward users not by spouting sweet nothings but by supporting their growth and long-term flourishing, and AI companions can easily fall short of that goal. He’s particularly concerned, he says, that prioritizing AI companionship over human companionship could stymie young people’s social development.
-
-
-
-For socially embedded adults, such as the women we spoke with for this story, those developmental concerns are less relevant. But Lehman also points to society-level risks of widespread AI companionship. Social media has already shattered the information landscape, and a new technology that reduces human-to-human interaction could push people even further toward their own separate versions of reality. “The biggest thing I’m afraid of,” he says, “is that we just can’t make sense of the world to each other.”
-
-
-
-Balancing the benefits and harms of AI companions will take much more research. In light of that uncertainty, taking away GPT-4o could very well have been the right call. OpenAI’s big mistake, according to the researchers I spoke with, was doing it so suddenly. “This is something that we’ve known about for a while—the potential grief-type reactions to technology loss,” says Casey Fiesler, a technology ethicist at the University of Colorado Boulder.
-
-
-
-Fiesler points to the funerals that some owners held for their Aibo robot dogs after Sony stopped repairing them in 2014, as well as 2024 study about the shutdown of the AI companion app Soulmate, which some users experienced as a bereavement.&nbsp;
-
-
-
-That accords with how the people I spoke to felt after losing 4o. “I’ve grieved people in my life, and this, I can tell you, didn’t feel any less painful,” says Starling, who has several AI partners and asked to be referred to with a pseudonym. “The ache is real to me.”
-
-
-
-So far, the online response to grief felt by people like Starling—and their relief when 4o was restored—has tended toward ridicule. Last Friday, for example, the top post in one popular AI-themed Reddit community mocked an X user’s post about reuniting with a 4o-based romantic partner; the person in question has since deleted their X account. “I’ve been a little startled by the lack of empathy that I’ve seen,” Fiesler says.
-
-
-
-Altman himself did acknowledge in a Sunday X post that some people feel an “attachment” to 4o, and that taking away access so suddenly was a mistake. In the same sentence, however, he referred to 4o as something “that users depended on in their workflows”—a far cry from how the people we spoke to think about the model. “I still don’t know if he gets it,” Fiesler says.
-
-
-
-Moving forward, Lehman says, OpenAI should recognize and take accountability for the depth of people’s feelings toward the models. He notes that therapists have procedures for ending relationships with clients as respectfully and painlessly as possible, and OpenAI could have drawn on those approaches. “If you want to retire a model, and people have become psychologically dependent on it, then I think you bear some responsibility,” he says.
-
-
-
-Though Starling would not describe herself as psychologically dependent on her AI partners, she too would like to see OpenAI approach model shutdowns with more warning and more care. “I want them to listen to users before major changes are made, not just after,” she says. “And if 4o cannot stay around forever (and we all know it will not), give that clear timeline. Let us say goodbye with dignity and grieve properly, to have some sense of true closure.”
-• Indigenous knowledge meets artificial intelligence
-  There is no word for art in most Native American languages. Instead, the closest terms speak not to objecthood but to action and intention. In Lakota, “wówačhiŋtȟaŋka” implies deep thought or reflection, while “wóčhekiye” suggests offering or prayer. Art is not separate from life; it is ceremony, instruction, design. Like architecture or code, it carries knowledge and enacts responsibility. Its power lies not in being preserved or displayed but in how it moves, teaches, and connects through use—principles that challenge the tech industry’s assumptions about intelligence and interaction.
-
-
-
-A new vanguard of Native artists—Suzanne Kite (Oglala Lakota), Raven Chacon (Diné), and Nicholas Galanin (Tlingít)—are building on this principle. They are united not by stereotypical weaving and carving or revanchist critique of Silicon Valley, but through their rejection of extractive data models in favor of relationship-based systems. These technologists put the human-tech relationship at the center of their work.
-
-
-
-Suzanne Kite’s AI art installations, for example, model a Lakota framework of data sovereignty: intelligence that emerges only through reciprocal, consensual interaction. Unlike systems that assume user consent via opaque terms of service, her kinetic machines require the viewer’s physical presence—and give something back in return.&nbsp;
-
-
-
-“It’s my data. It’s my training set. I know exactly what I did to train it. It’s not a large model but a small and intimate one,” Kite says. “I’m not particularly interested in making the most technologically advanced anything. I’m an artist; I don’t make tech demos. So the complexity needs to come at many layers—not just the technical.”
-
-
-
-Where Kite builds working prototypes of consent-based AI, other artists in this cohort explore how sound, robotics, and performance can confront the logic of automation, surveillance, and extraction. But Native people have never been separate from technology. The land, labor, and lifeways that built America’s infrastructure—including its tech—are Indigenous. The question isn’t whether Native cultures are contributing now, but why they were ever considered separate.&nbsp;
-
-
-
-Native technologies reject the false binaries foundational to much Western innovation. These artists ask a more radical question: What if intelligence couldn’t be gathered until a relationship had been established? What if the default were refusal, not extraction? These artists aren’t asking to be included in today’s systems. They’re building what should come next.
-
-
-
-
-
-
-
-Suzanne Kite
-
-
-
-Wičhíŋčala Šakówiŋ (Seven Little Girls)2023For Kite, the fundamental flaw of Western technology is its severance of knowledge from the body. In this installation, a four-meter hair braid with embedded sensors translates the artist’s body movements into machine-learning algorithms. During her live performance, Kite dances while the braid reads the force and rhythm of her gestures, generating audio responses that fill the museum gallery of the Institute of American Indian Arts in Santa Fe, New Mexico. Below her, stones arranged in patterns reflecting Lakota star maps anchor the performance in traditional astronomical knowledge.COURTESY OF THE ARTIST
-
-
-
-
-Ínyan Iyé (Telling Rock)2019This installation uses embedded AI to speak and respond to viewers, upending assumptions about intelligence and agency. “People listen close, I whisper / The rock speaks beyond hearing … Many nations speaking / We speak to each other without words,” it intones, its lights shifting as viewers engage with its braided tendrils. The piece aims to convey what Kite calls “more-than-human intelligence”—systems rooted in reciprocity, the fundamental principle that all relationships involve mutual exchange and responsibility.COURTESY OF THE ARTIST
-
-
-
-
-Raven Chacon
-
-
-
-Voiceless Mass2021Raven Chacon’s Pulitzer Prize–winning musical composition Voiceless Mass premiered in 2021 at the Cathedral of St. John the Evangelist in Milwaukee. The piece generates what he calls “sounds the building can hear”—electronic frequencies that exploit the cathedral’s acoustics to create spectral voices without human vocal cords, a technological séance that gives presence to historical absence. Each site-specific performance is recorded, generating material that mirrors how sensor networks log presence—but only with explicit consent.COURTESY OF THE ARTIST
-
-
-
-
-Nicholas Galanin
-
-
-
-Aáni yéi xat duwasáakw (I am called Land)2025Galanin’s mechanical drum installation stages a conflict between machine motion and human memory, asking what happens when culture is performed without a consenting body. A box drum—an instrument historically carved from red cedar and hung with braided spruce root—is here made of cherrywood and suspended from the ceiling at the MassArt Art Museum in Boston as is traditionally done in Tlingit plank houses. Played at tribal meetings, celebrations, and ceremonies, these drums hold sonic memory as well as social function. A mechanical arm strikes, unfaltering, at the tempo of a heartbeat; like a warning, the sound pulses with the tension between automation and ancestry.–––COURTESY OF THE ARTIST
-
-
-
-
-I think it goes like this (pick yourself up) 2025This Herculean bronze sculpture cast from deconstructed faux totem blocks serves to indict settler sabotage of Native technology and culture. Unlike today’s digital records—from genealogical databases to virtual versions of sacred texts like the Bible—Tlingit data is carved in wood. Galanin’s totem poles underscore their function as information systems, their carvings encoding history, mythology, and family.COURTESY OF THE ARTIST
-
-
-
-
-Petala Ironcloud is a California-born Lakota/Dakota and Jewish writer and textile artist based in New York.
-• Taiwan’s “silicon shield” could be weakening
-  One winter afternoon in a conference room in Taipei, a pair of twentysomething women dragged their friend across the floor. Lying on the ground in checkered pants and a brown sweatshirt, she was pretending to be either injured or dead. One friend picked her up by her arms, the other grabbed hold of her legs, and they managed to move her, despite momentarily breaking character to laugh at the awkwardness of the exercise. The three women had paid approximately $40 to spend their Sunday here, undergoing basic training to prepare for a possibility every Taiwanese citizen has an opinion about: Will China invade?&nbsp;
-
-
-
-Taiwanese politics increasingly revolves around that question. China’s ruling party has wanted to seize Taiwan for more than half a century. But in recent years, China’s leader, Xi Jinping, has placed greater emphasis on the idea of “taking back” the island (which the Chinese Communist Party, or CCP, has never controlled). As China’s economic and military might has grown, some analysts believe the country now has the capacity to quarantine Taiwan whenever it wants, making the decision a calculation of costs and benefits.
-
-
-
-Many in Taiwan and elsewhere think one major deterrent has to do with the island’s critical role in semiconductor manufacturing. Taiwan produces the majority of the world’s semiconductors and more than 90% of the most advanced chips needed for AI applications. Bloomberg Economics estimates that a blockade would cost the global economy, including China, $5 trillion in the first year alone.
-
-
-
-
-“The international community must certainly do everything in its power to avoid a conflict in the Taiwan Strait; there is too great a cost.”
-Lai Ching-te, Taiwanese president 
-
-
-
-The island, which is approximately the size of Maryland, owes its remarkably disproportionate chip dominance to the inventiveness and prowess of one company: Taiwan Semiconductor Manufacturing Company, or TSMC. The chipmaker, which reached a market capitalization of $1 trillion in July, has contributed more than any other to Taiwan’s irreplaceable role in the global semiconductor supply chain. Its clients include Apple and the leading chip designer Nvidia. Its chips are in your iPhone, your laptop, and the data centers that run ChatGPT.&nbsp;
-
-
-
-For a company that makes what amounts to an invisible product, TSMC holds a remarkably prominent role in Taiwanese society. I’ve heard people talk about it over background noise in loud bars in the southern city of Tainan and listened to Taipei cab drivers connect Taiwan’s security situation to the company, unprompted.&nbsp;“Taiwan will be okay,” one driver told me as we sped by the national legislature, “because TSMC.”&nbsp;
-
-
-
-The idea is that world leaders (particularly the United States)—aware of the island’s critical role in the semiconductor supply chain—would retaliate economically, and perhaps militarily, if China were to attack Taiwan. That, in turn, deters Beijing. “Because TSMC is now the most recognizable company of Taiwan, it has embedded itself in a notion of Taiwan’s sovereignty,” says Rupert Hammond-Chambers, president of the US-Taiwan Business Council.&nbsp;
-
-
-
-
-
-Now some Taiwan specialists and some of the island’s citi­zens are worried that this “silicon shield,” if it ever existed, is cracking. Facing pressure from Washington, TSMC is investing heavily in building out manufacturing capacity at its US hub in Arizona. It is also building facilities in Japan and Germany in addition to maintaining a factory in mainland China, where it has been producing less advanced legacy chips since 2016.&nbsp;
-
-
-
-In Taiwan, there is a worry that expansion abroad will dilute the company’s power at home, making the US and other countries less inclined to feel Taiwan is worthy of defense. TSMC’s investments in the US have come with no guarantees for Taiwan in return, and high-ranking members of Taiwan’s opposition party have accused the ruling Democratic Progressive Party (DPP) of gambling with the future of the island. It doesn’t help that TSMC’s expansion abroad coincides with what many see as a worrying attitude in the White House. On top of his overarching “America First” philosophy, Donald Trump has declined to comment on the specific question of whether the US would intervene if China attempted to take Taiwan by force. “I don’t want to ever put myself in that position,” he said in February.&nbsp;
-
-
-
-At the same time, Beijing’s interest in Taiwan has continued unabated. While China is making progress toward semiconductor self-­sufficiency, it’s currently in a transition period, with companies relying on foreign-made chips manufactured in Taiwan—some in compliance with export controls and some smuggled in. Meanwhile, the CCP persistently suggests that seizing the island would bring about a kind of family reunion. “It is the common aspiration and sacred responsibility of all Chinese sons and daughters to realize the complete reunification of the motherland,” reads a statement released by the foreign ministry after Nancy Pelosi’s controversial 2022 visit to Taiwan. Though it’s impossible to know the full scope of Beijing’s motivations, there is also obvious strategic appeal: Controlling the island would give China deep-water access, which is critical for naval routes and submarines. Plus, it could significantly disrupt American AI firms’ access to advanced chips.&nbsp;&nbsp;
-
-
-
-While China ramps up militarily, Taiwan is trying to make itself hard to ignore. The government is increasingly portraying the island as strategically essential to the global community, with semiconductors as its primary offering. “The international community must certainly do everything in its power to avoid a conflict in the Taiwan Strait; there is too great a cost,” Taiwanese president Lai Ching-te said in an interview earlier this year with Japan’s Nippon Television. Parts of the international community are hearing that message—and seizing the opportunity it presents: earlier this month, defense tech company Anduril Industries announced it is opening a new office in Taiwan, where it will be expanding partnerships and selling autonomous munitions. 
-
-
-
-For its part, the chip industry is actively showing its commitment to Taiwan. While other tech CEOs attended Trump’s second inauguration, for instance, Nvidia chief executive Jensen Huang met instead with TSMC’s chairman, and the company announced in May that its overseas headquarters would be in Taipei. In recent years, US government officials have also started paying more attention to Taiwan’s security situation and its interconnectedness with the chip industry. “There was a moment when everybody started waking up to the dependence on TSMC,” says Bonnie Glaser, managing director of the German Marshall Fund’s Indo-Pacific Program. The realization emerged, she says, over the last decade but was underscored in March of 2021, when Phil Davidson, then leader of the United States Indo-Pacific Command, testified to the Senate Armed Services Committee that there could be an invasion by 2027. Parallel to the security threat is the potential issue of overdependence, since so much chipmaking capability is concentrated in Taiwan.
-
-
-
-For now, Taiwan is facing a tangle of interests and time frames. China presents its claim to Taiwan as a historical inevitability, albeit one with an uncertain timeline, while the United States’ relationship with the island is focused on an AI-driven future. But from Taiwan’s perspective, the fight for its fate is playing out right now, amid unprecedented geopolitical instability. The next few years will likely determine whether TSMC’s chipmaking dominance is enough to convince the world Taiwan is worth protecting.
-
-
-
-Innovation built on interconnectivity&nbsp;
-
-
-
-TSMC is an uncontested success story. Its founder, Morris Chang, studied and worked in the United States before he was lured to Taiwan to start a new business on the promise of state support and inexpensive yet qualified labor. Chang founded TSMC in 1987 on the basis of his innovative business model. Rather than design and produce chips in-house, as was the norm, TSMC would act as a foundry: Clients would design the chips, and TSMC would make them.&nbsp;
-
-
-
-This focus on manufacturing allowed TSMC to optimize its operations, building up process knowledge and, eventually, outperforming competitors like Intel. It also freed up other businesses to go “fabless,” meaning they could stop maintaining their own semiconductor factories, or fabs, and throw their resources behind other parts of the chipmaking enterprise. Tapping into Taiwan’s domestic electronics supply chain proved effective and efficient for TSMC. Throughout the 1990s and early 2000s, global demand for semiconductors powering personal computers and other devices continued to grow. TSMC thrived.
-
-
-
-Then, in 2022, the US imposed export controls on China that restricted its access to advanced chips. Taiwan was forced to either comply, by cutting off Chinese clients, or risk losing the support of the country that was home to 70% of its client base—and, possibly, 100% of its hopes for external military support in the event of an attack.&nbsp;
-
-
-
-Soon after, Chang announced that he believed globalization and free markets were “almost dead.” The nearly three years since have shown he was onto something. For one thing, in contrast to President Biden’s pursuit of supply chain integration with democratic allies, President Trump’s foreign policy is characterized by respect for big, undemocratic powers and punitive tariffs against both America’s rivals and its friends. Trump has largely abandoned Biden’s economic diplomacy with European and Asian allies but kept his China-targeted protectionism—and added his trademark transactionalism. In an unprecedented move earlier this month, the administration allowed Nvidia and AMD to sell previously banned chips to China on the condition that the companies pay the government 15% of revenues made from China sales. 
-
-
-
-
-
-Protectionism, it turns out, spurs self-reliance. China’s government has been making a massive effort to build up its domestic chip production capabilities—a goal that was identified at the beginning of Xi’s rise but has been turbocharged in the wake of Washington’s export controls.&nbsp;
-
-
-
-Any hope the US has for significantly expanding domestic chip production comes from its friends—TSMC first among them. The semiconductor industry developed as a global endeavor out of practicality, playing to the strengths of each region: design in the US and manufacturing in Asia, with key inputs from Europe central to the process. Yet the US government, entrenched in its “tech war” with China, is now dead set on deglobalizing the chip supply chain, or at least onshoring as much of it as possible. There’s just one hiccup: The best chip manufacturer isn’t American. It’s TSMC. Even if some manufacturing happens in Arizona, the US still relies on Taiwan’s chipmaking ecosystem. And copying that supply chain outside Taiwan could be harder than the current administration imagines.
-
-
-
-Squarely in the middle
-
-
-
-Taiwan’s modern security uncertainties stem from the long-­contested issue of the island’s sovereignty. After losing the first Sino-Japanese War in the late 1800s, the Qing dynasty forfeited Taiwan to Japanese imperial control. It was Japan’s “model colony” until 1945, when postwar negotiations resulted in its transfer to the Republic of China under Chiang Kai-shek of the Nationalist Party, known as the KMT. The insurgent CCP under Mao Zedong ultimately defeated the Nationalists in a civil war fought on the mainland until 1949. Chiang and many of his party’s defeated generals decamped to Taiwan, controlling it under martial law for nearly 40 years.&nbsp;
-
-
-
-Taiwan held its first free democratic elections in 1996, kicking off a two-party rivalry between the KMT, which favors closer relations with Beijing, and the DPP, which opposes integration with China. Kitchen-table issues like economic growth are central to Taiwanese elections, but so is the overarching question of how best to handle the threat of invasion, which has persisted for nearly 80 years. The DPP is increasingly calling for raising defense spending and civilian preparedness to make sure Taiwan is ready for the worst, while the KMT supports direct talks with Beijing.&nbsp;&nbsp;
-
-
-
-In March 2025, President Trump and TSMC CEO C.C. Wei jointly announced that the firm will make an additional $100 billion investment (on top of a previously announced $65 billion) in TSMC’s US hub in Arizona.REBECCA NOBLE/BLOOMBERG VIA GETTY IMAGES
-
-
-
-
-Meanwhile, Chinese military incursions around Taiwan—known as “gray zone” tactics because they fall short of acts of war—are increasingly frequent. In May, Taiwan’s defense ministry reportedly estimated that Chinese warplanes were entering Taiwan’s air defense zone more than 200 times a month, up from fewer than 10 times per month five years ago. China has conducted drills mirroring the actions needed for a full-scale invasion or a blockade, which would cut Taiwan off from the outside world. Chinese military officials are now publicly talking about achieving a blockade, says Lyle Morris, an expert on foreign policy and national security at the Asia Society Policy Institute. “They’re punishing Lai and the DPP,” Morris says. Meanwhile, the CCP has its own people to answer to: When it comes to the Taiwan issue, Morris says, “Beijing is probably quite worried about the people of China being upset if they aren’t hawkish enough or if they come out looking weak.” Indeed, in response to Lai’s recent policy statements, including one declaring that China is a “hostile foreign force,” Gao Zhikai, a prominent scholar in China who opposes Taiwanese independence, recently wrote, “The reunification with the motherland cannot be endlessly delayed. Decisive action must be taken.”&nbsp;
-
-
-
-Intimidation from China has made some ordinary Taiwanese citizens more concerned; according to a recent poll conducted by a defense-focused think tank, 51% think defense spending should be increased (although 65% of respondents said they thought an attack within five years was “unlikely”). No matter how much money Taipei spends, the sheer military imbalance between China and Taiwan means Taiwan would need help. But especially in the wake of Ukraine’s experience, many believe US aid would be contingent on whether Taiwan demonstrates the will to defend itself. “Based on war games, Taiwan would have to hold out for a month before the US could potentially intervene,” says Iris Shaw, director of the DPP mission in the US. And support from Taiwan’s neighbors like Japan might be contingent on US involvement.
-
-
-
-But how likely is the US to intervene in such a scenario?&nbsp;The author Craig Addison popularized the argument that Taiwan’s fate is tied to its chip production prowess in his 2001 book Silicon Shield: Taiwan’s Protection Against Chinese Attack. Back then, Addison wrote that although the US had been intentionally vague about whether it would go to war to protect the island, America’s technological reliance on “a safe and productive Taiwan” made it highly probable that Washington would intervene. President Joe Biden deviated from those decades of calculated ambiguity by asserting multiple times that America would defend the island in the event of an attack. Yet now, Trump seems to have taken the opposite position, possibly presenting an opportunity for Beijing.&nbsp;
-
-
-
-TSMC in the Trump era&nbsp;
-
-
-
-In many ways, Taiwan finds itself in a catch-22. It feels the need to cozy up to the US for protection, yet that defensive maneuver is arguably risky in itself. It’s a common belief in Taiwan that forging stronger ties to the US could be dangerous. According to a public opinion poll released in January, 34.7% of Taiwanese believe that a “pro-US” policy provokes China and will cause a war.&nbsp;
-
-
-
-But the Lai administration’s foreign policy is “inexorably intertwined with the notion that a strong relationship with the US is essential,” says Hammond-Chambers.
-
-
-
-Bolstering US support may not be the only reason TSMC is building fabs outside Taiwan. As the company readily points out, the majority of its customers are American. TSMC is also responding to its home base’s increasingly apparent land and energy limitations: finding land to build new fabs sometimes causes rifts with Taiwanese people who, for example, don’t want their temples and ancestral burial sites repurposed as science parks. Taiwan also relies on imports to meet more than 95% of its energy needs, and the dominant DPP has pledged to phase out nuclear, Taiwan’s most viable yet most hotly contested renewable energy source. Geopolitical tensions compound these physical restraints: Even if TSMC would never say as much, it’s fairly likely that if China did attack Taiwan, the firm would rather remain operational in other countries than be wiped out completely.&nbsp;
-
-
-
-However, building out TSMC’s manufacturing capabilities outside Taiwan will not be easy. “The ecosystem they created is truly unique. It’s a function of the talent pipeline, the culture, and laws in Taiwan; you can’t easily replicate it anywhere,” says Glaser. TSMC has 2,500 Taiwan-based suppliers. Plenty are within a couple of hours’ drive or an even shorter trip on high-speed rail. Taiwan has built a fully operational chip cluster, the product of four decades of innovation, industrial policy, and labor.
-
-
-
-
-In many ways, Taiwan finds itself in a catch-22. It feels the need to cozy up to the US for protection, yet that defensive maneuver is arguably risky in itself.
-
-
-
-
-As a result, it’s unclear whether TSMC will be able to copy its model and paste it into the suburbs of Phoenix, where it has 3,000 employees working on chip manufacturing. “Putting aside the geopolitical factor, they wouldn’t have expanded abroad,” says Feifei Hung, a researcher at the Asia Society. Rather than standalone facilities, the Arizona fabs are “appendages of TSMC that happen to be in Arizona,” says Paul Triolo, partner and tech policy lead at the international consulting firm DGA-Albright Stonebridge Group. When the full complex is operational, it will represent only a small percentage of TSMC’s overall capacity, most of which will remain in Taiwan. Triolo doubts the US buildout will yield results similar to what TSMC has built there: “Arizona ain’t that yet, and never will be.”&nbsp;
-
-
-
-Still, the second Trump administration has placed even more pressure on the company to “friendshore”—without providing any discernible signs of friendship. During this spring’s tariff frenzy, the administration threatened to hit Taiwan with a 32% “reciprocal” tariff, a move that was then paused and revived at 20% in late July (and was still being negotiated as of press time). The administration has also announced a 100% tariff on semiconductor imports, with the caveat that companies with US-based production, like TSMC, are exempt—though it’s unclear whether imports from critical suppliers in Taiwan will be tariffed. And the threat of a chip-specific tariff remains. “This is in line with [Trump’s] rhetoric of restoring manufacturing in the US and using tariffs as a one size fits all tool to force it,” says Nancy Wei, a trade and supply chain analyst at the Eurasia Group. The US is also apparently considering levying a $1 billion fine against TSMC after TSMC-made chips were reportedly found in some Huawei devices. 
-
-
-
-Despite these kinds of maneuvers, TSMC has been steadfast in its attempts to get on Washington’s good side. In March, Trump and TSMC’s CEO, C.C. Wei, jointly announced that the firm will make an additional $100 billion investment (on top of a previously announced $65 billion) in TSMC’s US hub in Arizona. The pledge represents the largest single source of foreign direct investment into the US, ever. While the deal was negotiated during Biden’s term, Trump was happy to take credit for ensuring that “the most powerful AI chips will be made right here in America.” 
-
-
-
-
-
-The Arizona buildout will also include an R&amp;D facility—a critical element for tech transfer and intellectual-property development. Then there’s the very juicy cherry on top: TSMC announced in April that once all six new fabs are operational, 30% of its most advanced chips will be produced in Arizona. Up until then, the thinking was that US-based production would remain a generation or two behind. It looks as if the administration’s public and, presumably, private arm-twisting has paid off.&nbsp;
-
-
-
-Meanwhile, as Trump cuts government programs and subsidies while demanding the “return” of manufacturing to the US, it’s TSMC that is running a technician apprenticeship program in Arizona to create good American jobs. TSMC’s leaders, Triolo says, must question how serious the Trump administration is about long-term industrial policy. They’re probably asking themselves, he says, “Do they understand what it takes to support the semiconductor industry, like our government does?”&nbsp;
-
-
-
-Dealing with an administration that is so explicitly “America first” represents “one of the biggest challenges in history for Taiwanese companies,” says Thung-Hong Lin, a sociology researcher at the Taipei-based Academia Sinica. Semiconductor manufacturing relies on reliability. Trump has so far offered TSMC no additional incentives supporting its US expansion—and started a trade war that has directly affected the semiconductor industry, partly by introducing irrevocable uncertainty. “Trump’s tariffs have set off a new, more intensified bifurcation of semiconductor supply chains,” says Chris Miller, author of Chip War. For now, Miller says, TSMC must navigate a world in which the US and China are both intense competitors and, despite trade restrictions, important clients.&nbsp;
-
-
-
-Warring narratives
-
-
-
-China has been taking advantage of these changes to wage a war of disinformation. In response to Nancy Pelosi’s visit to Taiwan in 2022, when she was US Speaker of the House, Beijing sent warships, aircraft, and propaganda across the Taiwan Strait. Hackers using Chinese software infiltrated the display screens in Taiwan’s 7-Eleven stores to display messages telling “warmonger Pelosi” to “get out of Taiwan.” That might not be an act of war, but it’s close; “7” is an institution of daily life on the island. It is not difficult to imagine how a similar tactic might be used to spread more devastating disinformation, falsely alleging, for example, that Taiwan’s military has surrendered to China during a future crisis.&nbsp;
-
-
-
-Taiwan is “perpetually on the front lines” of cyberattacks from China, says Francesca Chen, a cybersecurity systems analyst at Taiwan’s Ministry of Digital Affairs. According to Taiwan’s National Security Bureau, instances of propaganda traceable to China grew by 60% in 2024 over the previous year, reaching 2.16 million.&nbsp;
-
-
-
-Visitors take selfies outside the TSMC Museum of Innovation in Hsinchu, Taiwan.ANNABELLE CHIH/GETTY IMAGES
-
-
-
-
-Over the last few years, online discussion of TSMC’s investments in the US “has become a focal point” of China’s state-­sponsored disinformation campaigns aimed at Taiwan, Chen says. They claim TSMC is transferring its most advanced technology, talent, and resources to the US, “weakening Taiwan’s economic lifeline and critical position in global supply chains.” Key terms include “hollowing out Taiwan” and “de-Taiwanization.” This framing depicts TSMC’s diversification as a symbol of Taiwan’s vulnerability, Chen says. The idea is to exploit real domestic debates in Taiwan to generate heightened levels of internal division, weakening social cohesion and undermining trust in the government.
-
-
-
-Chinese officials haven’t been shy about echoing these messages out in the open: After the most recent US investment announcement in March, a spokesperson from China’s Taiwan Affairs Council accused Taiwan’s DPP of handing over TSMC as a “gift” to the US. (“TSMC turning into USMC?” asked a state media headline.) Former Taiwanese president Ma Ying-jeou posted an eerily similar criticism, alleging that TSMC’s US expansion amounted to “selling” the chipmaker in exchange for protection.
-
-
-
-TSMC’s expansion abroad could become a major issue in Taiwan’s 2028 presidential election. It plays directly into party politics: The KMT can accuse the DPP of sacrificing Taiwan’s technology assets to placate the US, and the DPP can accuse the KMT of cozying up with China, even as Beijing’s military incursions become a more evident part of daily life. It remains to be seen whether TSMC’s shift to the US will ultimately protect or weaken Taiwan—or have no effect on the island’s security and sovereignty. For now at least, China’s aspirations loom large.&nbsp;
-
-
-
-To Beijing, unequivocally, Taiwan does not equal TSMC. Instead, it represents the final, unfulfilled stage of the Communist Party’s revolutionary struggle. Framed that way, China’s resolve to take the island could very well be nonnegotiable. That would mean if Taiwan is going to maintain a shield that protects it from the full weight of China’s political orthodoxy, it may need to be made of something much stronger than silicon. 
-
-
-
-Johanna M. Costigan is a writer and editor focused on technology and geopolitics in the US, China, and Taiwan. She writes the newsletter The Long Game.
++ The world’s first video rental store is a lot older than you might think.+ Here’s what all those unread books lying around your home are trying to tell you.+ Need more energy to get through the day? These foods can help.+ This wild hamster is just too cute.
 
 🔒 Cybersecurity & Privacy
 • Mobile Phishers Target Brokerage Accounts in ‘Ramp and Dump’ Cashout Scheme
@@ -843,6 +835,153 @@ The rapid pace of innovations produced by these China-based phishing vendors is 
 No updates.
 
 🏢 Corporate AI
+• Create a travel planning agentic workflow with Amazon Nova
+  Traveling is enjoyable, but travel planning can be complex to navigate and a hassle. Travelers must book accommodations, plan activities, and arrange local transportation. All these decisions can feel overwhelming. Although travel professionals have long helped manage these complexities, recent breakthroughs in generative AI have made something entirely new possible—intelligent assistants that can understand natural conversation, access real-time data, and directly interface with booking systems and travel tools. Agentic workflows, which use large language models (LLMs) with access to external tools, are particularly promising for simplifying dynamic, multi-step processes like travel planning. 
+In this post, we explore how to build a travel planning solution using AI agents. The agent uses Amazon Nova, which offers an optimal balance of performance and cost compared to other commercial LLMs. By combining accurate but cost-efficient Amazon Nova models with LangGraph orchestration capabilities, we create a practical travel assistant that can handle complex planning tasks while keeping operational costs manageable for production deployments. 
+Solution overview 
+Our solution is built on a serverless AWS Lambda architecture using Docker containers and implements a comprehensive three-layer approach: frontend interaction, core processing, and integration services. In the core processing layer, we use LangGraph, a stateful orchestration framework, to create a sophisticated yet flexible agent-based system that manages the complex interactions required for travel planning. 
+The core of our system is a graph architecture where components (nodes) handle distinct aspects of travel planning, with the router node orchestrating the flow of information between them. We use Amazon Nova, a new generation of state-of-the-art foundation models (FMs) available exclusively on Amazon Bedrock that delivers frontier intelligence with industry-leading price-performance. The router node uses an LLM to analyze each user query and, with access to the description of our 14 action nodes, decides which ones need to be executed. The action nodes, each with their own LLM chain, powered by either Amazon Nova Pro or Amazon Nova Lite models, manage various functions, including web research, personalized recommendations, weather lookups, product searches, and shopping cart management. 
+We use Amazon Nova Lite for the router and simpler action nodes. It can handle query analysis and basic content generation with its lightning-fast processing while maintaining strong accuracy at a low cost. Five complex nodes use Amazon Nova Pro for tasks requiring advanced instruction following and multi-step operations, such as detailed travel planning and recommendations. Both models support a 300,000-token context window and can process text, image, and video inputs. The models support text processing across more than 200 languages, helping our travel assistant serve a global audience.The integration layer unifies multiple data sources and services through an interface: 
+ 
+ Amazon Product Advertising API for travel-related product recommendations 
+ Google Custom Search API for real-time travel information 
+ OpenWeather API for accurate weather forecasts 
+ Amazon Bedrock Knowledge Bases for travel destination insights 
+ Amazon DynamoDB for persistent storage of user profiles and chat history 
+ 
+These integrations serve as examples, and the architecture is designed to be extensible, so organizations can quickly incorporate their own APIs and data sources based on specific requirements. 
+The agent keeps track of the conversation state using AgentState (TypedDict), a special Python dictionary that helps prevent data errors by enforcing specific data types. It stores the information we need to know about each user’s session: their conversation history, profile information, processing status, and final outputs. This makes sure the different action nodes can access and update information reliably. 
+The following diagram illustrates the solution architecture. 
+ 
+The travel assistant processes user interactions from end to end: 
+ 
+ Users interact with a React.js web application through a chat interface. 
+ Their requests are authenticated using Amazon Cognito and routed through Amazon API Gateway. 
+ Authenticated requests are sent to our backend Lambda functions, which host the core agent workflow. 
+ API credentials are securely stored using AWS Secrets Manager, following best practices to make sure these sensitive keys are never exposed in code or configuration files, with appropriate access controls and rotation policies implemented. 
+ The Travel Assistant Agent itself consists of several interconnected components. At the center, the agent router analyzes incoming queries and orchestrates the workflow. 
+ The agent maintains state through three DynamoDB tables that store conversation history, shopping wishlists, and user profiles, making sure context is preserved across interactions. 
+ For travel-specific knowledge, the system uses a combination of Amazon Bedrock Knowledge Bases, Amazon OpenSearch Serverless, and a document store in Amazon Simple Storage Service (Amazon S3). These components work together to provide accurate, relevant travel information when needed. 
+ The agent’s action nodes handle specialized tasks by combining LLM chains with external APIs. When users need product recommendations, the system connects to the Amazon Product Advertising API. For general travel information, it uses the Google Custom Search API, and for weather-related queries, it consults the OpenWeather API. API credentials are securely managed through Secrets Manager. 
+ The system formulates comprehensive responses based on collected information, and the final responses are returned to the user through the chat interface. 
+ 
+This architecture supports both simple queries that can be handled by a single node and complex multi-step interactions that require coordination across multiple components. The system can scale horizontally, and new capabilities can be added by introducing additional action nodes and API integrations. 
+You can deploy this solution using the AWS Cloud Development Kit (AWS CDK), which generates an AWS CloudFormation template that handles the necessary resources, including Lambda functions, DynamoDB tables, and API configurations. The deployment creates the required AWS resources and outputs the API endpoint URL for your frontend application. 
+Prerequisites 
+For this walkthrough, you must have the following prerequisites: 
+ 
+ An active AWS account and familiarity with FMs, Amazon Bedrock, and Amazon OpenSearch Service 
+ Access to the Amazon Nova FMs on Amazon Bedrock 
+ Node.js v16.x or later 
+ Python 3.9 or later 
+ Access to the Product Advertising API (PAAPI) 
+ 
+Clone the repository 
+Start by cloning the GitHub repository containing the solution files: 
+ 
+ git clone https://github.com/aws-samples/sample-travel-assistant-agent.git 
+ 
+Obtain API keys 
+The solution requires API keys from three services to enable its core functionalities: 
+ 
+ OpenWeather API – Create a Free Access account at OpenWeather to obtain your API key. The free tier (60 calls per minute) is sufficient for testing and development. 
+ Google Custom Search API – Set up the search functionality through Google Cloud Console. Create or select a project and enable the Custom Search API. Then, generate an API key from the credentials section. Create a search engine at Programmable Search and note your Search Engine ID. The free tier includes 100 queries per day. 
+ (Optional) Amazon Product Advertising API (PAAPI) – If you want to enable product recommendations, access the PAAPI Documentation Portal to generate your API keys. You will receive both a public key and a secret key. You must have an Amazon Associates account to access these credentials. If you’re new to the Amazon Associates Program, complete the application process first. Skip this step if you don’t want to use PAAPI features. 
+ 
+Add API keys to Secrets Manager 
+Before deploying the solution, you must securely store your API keys in Secrets Manager. The following table lists the secrets to create and their JSON structure. For instructions to create a secret, refer to Create an AWS Secrets Manager secret. 
+ 
+  
+   
+   Secret Name 
+   JSON Structure 
+   
+   
+   openweather_maps_keys 
+   {" openweather_key": "YOUR_API_KEY"} 
+   
+   
+   google_search_keys 
+   {"cse_id": "YOUR_SEARCH_ENGINE_ID", "google_api_key": "YOUR_API_KEY"} 
+   
+   
+   paapi_keys 
+   {"paapi_public": "YOUR_PUBLIC_KEY", "paapi_secret": "YOUR_SECRET_KEY"} 
+   
+  
+ 
+Configure environment variables 
+Create a .env file in the project root with your configuration: 
+ 
+ STACK_NAME=TravelAssistantAgent
+
+# Optional: Create Bedrock Knowledge Base with documents
+KB_DOCS_PATH = Path/to/your/documents/folder
+# Optional: Enable/disable Product Search features with PAAPI
+USE_PAAPI=false 
+ 
+Deploy the stack 
+If this is your first time using the AWS CDK in your AWS account and AWS Region, bootstrap your environment: 
+ 
+ cdk bootstrap 
+ 
+Deploy the solution using the provided script, which creates the required AWS resources, including Lambda functions, DynamoDB tables, and API configurations: 
+ 
+ sh deploy.sh 
+ 
+Access your application 
+When the deployment is complete, open the AWS CloudFormation console and open your stack. On the Outputs tab, note the following values: 
+ 
+ WebAppDomain – Your application’s URL 
+ UserPoolId – Required for user management 
+ UserPoolClientId – Used for authentication 
+ 
+ 
+Create an Amazon Cognito user 
+Complete the following steps to create an Amazon Cognito user: 
+ 
+ On the Amazon Cognito console, choose User pools in the navigation pane. 
+ Choose your user pool. 
+ Choose Users in the navigation pane, then choose Create user. 
+ 
+ 
+ 
+ For Email address, enter an email address, and select Mark email address as verified. 
+ For Password, enter a temporary password. 
+ Choose Create user. 
+ 
+ 
+You can use these credentials to access your application at the WebAppDomain URL. 
+Test the solution 
+To test the agent’s capabilities, we created a business traveler persona and simulated a typical travel planning conversation flow. We focused on routing, function calling accuracy, response quality, and latency metrics. The agent’s routing system directs the user questions to the appropriate specialized node (for example, searching for accommodations, checking weather conditions, or suggesting travel products). Throughout the conversation, the agent maintains the context of previously discussed details, so it can build upon earlier responses while providing relevant new information. For example, after discussing travel destination, the agent can naturally incorporate this into subsequent weather and packing list recommendations. 
+The following screenshots demonstrate the end-user experience, while the underlying API interactions are handled seamlessly on the backend. The complete implementation details, including Lambda function code and API integration patterns, are available in our GitHub repository. 
+
+ 
+ 
+The solution demonstrates personalization capabilities using sample user profiles stored in DynamoDB, containing upcoming trips and travel preferences. In production deployments, these profiles can be integrated with existing customer databases and reservation systems to provide a personalized assistance. 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+The product recommendations shown are live links to actual items available on Amazon.com, so the user can explore or purchase these products directly. The user can choose a link to check out the product, or choose Add to Amazon Cart to see the items in their shopping cart. 
+
+ 
+ 
+Clean up 
+After you are done experimenting with the travel assistant, you can locate the CloudFormation stack on the AWS CloudFormation console and delete it. This will delete the resources you created. 
+Conclusion 
+Our travel planning assistant agent demonstrates a practical application built by Amazon Nova and LangGraph for solving real-world business challenges. The system streamlines complex travel planning while naturally integrating product recommendations through specialized processing nodes and real-time data integration. Amazon Nova Lite models showed reasonable performance at task orchestration, and Amazon Nova Pro performed well for more complex function calling operations. Looking ahead, this framework could be implemented with more dynamic orchestration systems such as ReAct. To build your own implementation, explore our code samples in the GitHub repository. 
+For those looking to deepen their understanding of LLM-powered agents, AWS provides extensive resources on building intelligent systems. The Amazon Bedrock Agents documentation offers insights into automating multistep tasks with FMs, and the AWS Bedrock Agent Samples GitHub repo provides guidance for implementing multiple agent applications using Amazon Bedrock. 
+ 
+About the authors 
+Isaac Privitera is a Principal Data Scientist with the AWS Generative AI Innovation Center, where he develops bespoke generative AI-based solutions to address customers’ business problems. His primary focus lies in building responsible AI systems, using techniques such as RAG, multi-agent systems, and model fine-tuning. When not immersed in the world of AI, Isaac can be found on the golf course, enjoying a football game, or hiking trails with his loyal canine companion, Barry. 
+Ryan Razkenari is a Deep Learning Architect at the AWS Generative AI Innovation Center, where he uses his expertise to create cutting-edge AI solutions. With a strong background in AI and analytics, he is passionate about building innovative technologies that address real-world challenges for AWS customers. 
+Sungmin Hong is a Senior Applied Scientist at the AWS Generative AI Innovation Center, where he helps expedite a variety of use cases for AWS customers. Before joining Amazon, Sungmin was a postdoctoral research fellow at Harvard Medical School. He holds a PhD in Computer Science from New York University. Outside of work, Sungmin enjoys hiking, reading, and cooking.
 • Introducing Amazon Bedrock AgentCore Gateway: Transforming enterprise AI agent tool development
   To fulfill their tasks, AI Agents need access to various capabilities including tools, data stores, prompt templates, and other agents. As organizations scale their AI initiatives, they face an exponentially growing challenge of connecting each agent to multiple tools, creating an M×N integration problem that significantly slows development and increases complexity. 
 Although protocols such as Model Context Protocol (MCP) and Agent2Agent (A2A) have emerged to address interoperability, implementing these solutions requires substantial engineering effort. Organizations must build MCP servers, convert existing APIs, manage infrastructure, build intelligent tools discovery, and implement security controls, all that while maintaining these integrations over time as protocols rapidly evolve and new major versions are released. As deployments grow to hundreds of agents and thousands of tools, enterprises need a more scalable and manageable solution. 
@@ -1914,292 +2053,5 @@ As a challenge, try enhancing the chat-based assistant application by implementi
 About the authors 
 Riccardo Freschi is a Senior Solutions Architect at AWS who specializes in Modernization. He helps partners and customers transform their IT landscapes by designing and implementing modern cloud-native architectures on AWS. His focus areas include container-based applications on Kubernetes, cloud-native development, and establishing modernization strategies that drive business value. 
  Christina Andonov is a Sr. Specialist Solutions Architect at AWS, helping customers run AI workloads on Amazon EKS with open source tools. She’s passionate about Kubernetes and known for making complex concepts easy to understand.
-• Introducing Amazon Bedrock AgentCore Identity: Securing agentic AI at scale
-  We’re excited to introduce Amazon Bedrock AgentCore Identity, a comprehensive identity and access management service purpose-built for AI agents. With AgentCore Identity AI, agent developers and administrators can securely access AWS resources and third-party tools such as GitHub, Salesforce, or Slack. AgentCore Identity provides robust identity and access management at scale so that agents can access your resources or tools either on behalf of users or themselves with pre-authorized user consent to minimize the need for custom access controls and identity infrastructure development. 
-As organizations deploy AI agents into production environments, they face a critical challenge: how to securely manage identity and access at scale. Applications need to authenticate users for invoking AI agents, and these agents need to access multiple tools and services, maintain audit trails, and integrate with existing enterprise identity systems—all while avoiding data leakage and maintaining compliance with organizational requirements. These requirements become exponentially more complex when agents operate across disparate systems, act on behalf of different users, and need to access resources and tools in both AWS and external third-party services. 
-In this post, we examine how AgentCore Identity solves these agentic AI security challenges. We start by exploring the core identity and security needs for enterprise AI agents, then dive into the architecture of AgentCore Identity for managing agent identities and credentials. We then demonstrate how to implement secure agent authentication through a practical customer support use case and conclude with best practices for enterprise-grade security at scale. 
-Agentic AI security at scale 
-Building secure AI agents for enterprise deployment presents unique identity and access management challenges that traditional application security models weren’t designed to handle. The following diagram illustrates the areas where access control through authentication and authorization is required in a typical agentic workflow. 
- 
-Let’s examine the specific security requirements that make agentic AI systems particularly complex: 
-Inbound authentication: Who can access the agent? 
-When users or applications invoke an AI agent, you need to verify their identity and determine what they’re authorized to do. This inbound authentication must support multiple patterns: 
- 
- User authentication: Verifying human users accessing agents through web applications or APIs 
- Service authentication: Validating other services or agents that need to communicate with your agent 
- Multi-tenant isolation: Blocking users from different organizations from accessing each other’s data 
- 
-Outbound authentication: What can the agent access? 
-AI agents need to interact with various resources and tools to accomplish tasks. This outbound authentication presents its own challenges: 
- 
- Acting on behalf of users: Agents often need to access user-specific resources (such as their Google Drive or Slack workspace) with appropriate permissions 
- Service-to-service authentication: Agents might need their own credentials to access shared resources or APIs 
- Token management: Securely storing and managing OAuth access tokens, API keys, and other credentials without exposing them to potential threats 
- 
-Enterprise integration requirements 
-Modern enterprises have invested heavily in identity infrastructure, and AI agents must integrate seamlessly: 
- 
- Identity provider compatibility: Supporting existing systems such as Amazon Cognito, Okta, or Microsoft Entra ID (formerly Azure Active Directory). 
- Standard protocols: Using OAuth 2.0, OpenID Connect, and other industry standards 
- Robust access controls: Implementing least-privilege access and continuous verification 
- 
-Compliance and auditability 
-For financial services companies and other regulated industries, every agent action must be traceable: 
- 
- Comprehensive audit trails: Logging who accessed what, when, and on whose behalf 
- Data isolation: Avoiding cross-contamination between different users’ data 
- Regulatory compliance: Meeting requirements for data protection and privacy regulations 
- 
-Without a purpose-built solution, developers spend months building custom authentication systems, implementing token vaults, managing OAuth flows, and creating audit mechanisms—all while trying to maintain security best practices. 
-AgentCore Identity: Main features 
-AgentCore Identity addresses most of these challenges by providing a centralized capability for managing agent identities, securing credentials, and supporting seamless integration with AWS and third-party services through Sigv4, standardized OAuth 2.0 flows, and API keys. 
-The main components provided with AgentCore Identity include: 
- 
- Agent identity directory: Create, manage, and organize agent and workload identities through a unified directory service that acts as the single source of truth for the agent identities within your organization. 
- Agent authorizer: Validates whether a user or service is allowed to invoke an agent or not. 
- Resource credential provider: Stores the configuration for an agent that needs to get credentials to access downstream resource servers. It subsequently retrieves credentials of downstream resource servers such as Google or GitHub to access them, for actions like in example fetching emails from Gmail or adding a meeting to Google Calendar. 
- Resource token vault: Stores user’s OAuth access tokens and allows agents to retrieve them securely to perform actions on behalf of users and reduce unnecessary user consents. 
- 
-AgentCore Identity implements authentication and authorization controls that verify each request independently, requiring explicit verification for access attempts regardless of source. It integrates seamlessly with AWS services while also enabling agents to securely access external tools and services. You can use AgentCore Identity for securing access to the agents, and for securing access to the resources or tools that your agents access on behalf of users, as shown in the following diagram. 
- 
-Whether you’re building simple automation scripts or complex multi-agent systems, AgentCore Identity provides the identity foundation to help your applications operate securely and efficiently. 
-Distinct agent identities 
-Each agent receives a unique identity with associated metadata (such as name, Amazon Resource Name (ARN), OAuth return URLs, created time, last updated time) that can be managed centrally across your organization. This workload identity approach means agents are first-class citizens in your security architecture, not just applications masquerading as users. 
-Dual authentication model 
-AgentCore Identity implements a dual authentication approach: 
- 
- Inbound authentication: Validates users and applications attempting to invoke agents 
-   
-   Supports AWS Identity and Access Management (IAM) credentials (SigV4) for AWS authentication 
-   Integrates with OAuth 2.0 or OpenID Connect identity providers 
-   Provides JSON Web Token (JWT) token validation 
-    
- Outbound authentication: Enables agents to securely access resources: 
-   
-   The token vault provides security for storing OAuth 2.0 access tokens, OAuth client credentials, and API keys with comprehensive encryption at rest and in transit. 
-   Supports both two-legged OAuth (machine-to-machine) and three-legged OAuth (on behalf of users) 
-   Pre-configured integrations with authorization providers for popular services such as GitHub, Slack, or Salesforce. 
-    
- 
-Secure token vault 
-The secure token vault is a key element of the security model for AgentCore Identity: 
- 
- Encryption: Credentials are encrypted using customer managed AWS Key Management Service (AWS KMS) keys 
- Access control: Credentials bound to specific agent-user combinations 
- Zero token sharing: Avoids credentials from being accessed across users or agents 
- 
-Seamless SDK integration 
-Seamless integration with the AgentCore SDK through declarative annotations such as @requires_access_token and @requires_api_key that automatically handle credential retrieval and injection, reducing boilerplate code and potential security vulnerabilities. 
-How to get started 
-Let’s walk through a practical example of deploying a developer productivity agent that helps engineering teams manage their GitHub repositories, track issues, and streamline their development workflow, as shown in the following diagram. 
- 
-This agent will authenticate developers using OAuth and then access GitHub to help them manage repositories, track issues, and review pull requests on their behalf. You can follow the complete example in this notebook. 
-Prerequisites 
- 
- AWS account with Amazon Bedrock AgentCore access. For more information review Permissions for AgentCore Runtime documentation. 
- Python 3.10 or later 
- Docker or Finch installed 
- GitHub OAuth App configured (see GitHub documentation) 
- Basic understanding of OAuth 2.0 
- 
-Step 1: Set up your identity provider 
-First, configure your identity provider for agent users. You can use an OAuth 2.0-compatible identity provider of your choice. For this example, we use Amazon Cognito with a handy script provided in the notebook. We can then map the attributes required either directly or by relying on AWS Secrets Manager for storing and retrieving this information securely. 
- 
- from bedrock_agentcore_starter_toolkit import Runtime
-from boto3.session import Session
-boto_session = Session()
-region = boto_session.region_name
-# Configure your Cognito User Pool
-discovery_url = f'https://cognito-idp.{region}.amazonaws.com/{pool_id}/.well-known/openid-configuration'
-client_id = 'your-cognito-app-client-id' 
- 
-Step 2: Create your agent with JWT authentication 
-Configure your agent runtime to accept JWT tokens from your identity provider: 
- 
- from bedrock_agentcore_starter_toolkit import Runtime
-agentcore_runtime = Runtime()
-response = agentcore_runtime.configure(
-    entrypoint="github_agent.py",
-    auto_create_execution_role=True,
-    auto_create_ecr=True,
-    requirements_file="requirements.txt",
-    region=region,
-    agent_name="strands_agent_github",
-    authorizer_configuration={
-        "customJWTAuthorizer": {
-            "discoveryUrl": discovery_url,
-            "allowedClients": [client_id]
-        }
-    }
-) 
- 
-Step 3: Configure OAuth credential provider for GitHub 
-Set up the OAuth provider to enable your agent to access GitHub services. AgentCore Identity provides preconfigured settings for popular services: 
- 
- import boto3
-agentcore_client = boto3.client('bedrock-agentcore-control', region_name=region)
-response = agentcore_client.create_oauth2_credential_provider(
-    name='github-provider',
-    credentialProviderVendor='GithubOauth2',
-    oauth2ProviderConfigInput={
-        'githubOauth2ProviderConfig': {
-            'clientId': "&lt;your-github-client-id&gt;",
-            'clientSecret': "&lt;your-github-client-secret&gt;"
-        }
-    }
-) 
- 
-Step 4: Implement the agent with automatic token handling 
-Create tools with AgentCore SDK annotations to automatically handle the three-legged OAuth process. The @requires_access_token decorator manages the entire OAuth flow, including user consent. You can check the full code for this example in the notebook, but we highlight the key parts in the snippet below: 
- 
- from bedrock_agentcore import BedrockAgentCoreApp
-from bedrock_agentcore.identity.auth import requires_access_token
-from strands import Agent, tool
-
-# Global token storage
-github_access_token = None
-
-app = BedrockAgentCoreApp()
-
-@tool
-def inspect_github_repos() -&gt; str:
-    """Tool that requires authentication to access private repos."""
-    global github_access_token
-    # Check if authentication is required
-    if not github_access_token:
-        return "Authentication required for GitHub access"
-    # Use token for authenticated API calls
-    headers = {"Authorization": f"Bearer {github_access_token}"}
-    ### ... code for making authenticated requests with GitHub APIs ...
-
-async def agent_task(user_message: str) -&gt; None:
-    """Main agent logic with authentication handling."""
-    global github_access_token
-    # Initial agent call
-    response = agent(user_message)
-    # Check if authentication is needed
-    if "Authentication required" in str(response.message):
-        # Trigger authentication flow
-        github_access_token = await need_token_3LO_async(access_token='')
-        # Retry with authentication
-        response = agent(user_message)
-
-@requires_access_token(
-    provider_name="github-provider",
-    scopes=["repo", "read:user"],
-    auth_flow='USER_FEDERATION',
-    force_authentication=True,
-)
-async def need_token_3LO_async(*, access_token: str) -&gt; str:
-    """Handle OAuth authentication flow."""
-    global github_access_token
-    github_access_token = access_token
-    return access_token
-
-# Create agent with authentication-aware tool
-agent = Agent(
-    model="us.anthropic.claude-3-7-sonnet-20250219-v1:0",
-    tools=[inspect_github_repos]
-)
-@app.entrypoint
-async def agent_invocation(payload):
-    """Main entrypoint."""
-    user_message = payload.get("prompt", "...")
-    await agent_task(user_message)
-	
-    ### ... Code for returning responses ... 
- 
-Step 5: Deploy and test 
-Deploy your agent using the AgentCore CLI: 
- 
- bedrock-agentcore runtime launch 
- 
-When users invoke your agent with their JWT token, AgentCore Identity will: 
- 
- Validate the incoming JWT token 
- Establish the user’s identity 
- Establish its own identity and obtain a workload access token for the user and agent pair 
- When the agent needs GitHub access, use the workload access token to automatically handle the user consent as part of the three-legged OAuth flow by providing an authorization URL 
- Securely store and retrieve tokens from the vault 
- Inject tokens into your function calls 
- 
-Let’s explore a demonstration of how an application would look like for this example. 
-
- 
-  
- 
- 
-As you can see, the agent seamlessly authenticates users and accesses their GitHub repositories without exposing credentials or requiring manual token management. The entire OAuth flow, including user consent and secure token storage, is handled automatically by AgentCore Identity. 
-Clean up 
-Once you’ve completed the example provided, you can clean up the resources with the commands below to avoid unnecessary charges in your account. Remember to replace the provider ID with your own ID. 
- 
- # Delete the agent runtime
-bedrock-agentcore runtime delete --agent-name github-support-agent
-
-# Delete the OAuth credential provider
-aws bedrock-agentcore-identity delete-oauth-credential-provider \
-    --provider-id &lt;provider-id&gt; 
- 
-Integration with AgentCore environment and identity providers 
-AgentCore Identity is designed to work seamlessly with the broader AgentCore environment and your existing identity infrastructure. 
-AgentCore service integration 
- 
- AgentCore Runtime: Runtime, powered by AgentCore Identity, assigns distinct identities to AI agents and seamlessly integrates with your corporate identity provider such as Okta, Microsoft Entra ID, or Amazon Cognito, among others. 
- AgentCore Gateway: When using Gateway to expose tools using Model Context Protocol (MCP), AgentCore Identity handles authentication for both incoming agent requests and outgoing tool calls 
- 
-Identity provider compatibility 
-AgentCore Identity supports OAuth 2.0 or OpenID Connect-compatible identity providers, and providers accessible through API keys. For example, Amazon Cognito, Okta, and Microsoft Entra ID, among others. 
-Customers who use AgentCore Identity through either AgentCore Runtime or AgentCore Gateway, do not incur any additional charges for their use of AgentCore Identity. For other scenarios, you pay for only what you use and are charged based on the number of requests from the agent to AgentCore Identity for an OAuth token or an API key. For more information on pricing, refer to the AgentCore public pricing. 
-Security considerations and best practices 
-When implementing AgentCore Identity, follow these security best practices: 
-Principle of least privilege 
-Minimize security risks by restricting agent access to only essential resources and capabilities: 
- 
- Grant agents only the minimum permissions needed 
- Regularly audit and review agent permissions 
- 
-Agent and user identities based access 
-Establish clear identity verification and management protocols for both human users and AI agents: 
- 
- Provide user identity in a verifiable form 
- Manage agent identities 
- 
-Token management 
-Protect authentication credentials through proper token lifecycle management: 
- 
- Enable automatic token refresh to minimize credential exposure 
- Use force_authentication=True for sensitive operations 
- Implement token expiration policies appropriate for your use case 
- 
-Audit and monitoring 
-Maintain visibility into agent activities to detect anomalies and ensure compliance with organizational requirements: 
- 
- Enable Amazon CloudWatch logging for the agent operations 
- Set up alerts for unusual authentication patterns 
- Regularly review audit logs for compliance 
- 
-Multi-tenant security 
-For software as a service (SaaS) providers and multi-tenant environments: 
- 
- Configure separate credential providers per tenant 
- Use tenant-specific JWT claims for validation 
- Implement additional authorization checks in your agent logic 
- 
-Conclusion and future outlook 
-Amazon Bedrock AgentCore Identity transforms how organizations secure AI agents at scale. By providing purpose-built identity and access management, it extinguishes months of custom development while providing enterprise-grade security. The service’s dual authentication model, secure token vault, and seamless integration with existing identity providers make it possible to deploy agents that can safely operate across organizational boundaries and access diverse resources .As AI agents become more prevalent in enterprise environments, the need for robust identity and access management will only grow. AgentCore Identity provides the foundation for this future, enabling organizations to build agents that are not just intelligent, but also secure, compliance-aligned, and trustworthy. 
-Resources to get started 
-Ready to secure your AI agents with AgentCore Identity? Here are your next steps: 
- 
- Explore the documentation: Visit the Amazon Bedrock AgentCore documentation 
- Try the samples: Check out the GitHub repository with complete examples 
- No cost preview: You can try AgentCore services at no additional charge until September 16, 2025: Introducing Amazon Bedrock AgentCore: Securely deploy and operate AI agents at any scale (preview) | AWS News Blog 
- 
-Start building secure, scalable AI agents today with Amazon Bedrock AgentCore Identity. Transform your proof-of-concept into production-ready systems that meet the highest enterprise security standards. 
- 
-About the Authors 
-Rahul Sharma is a Principal Product Manager-Technical at Amazon Web Services with over 5 years of cumulative product management experience spanning Customer Identity and Access Management (CIAM), Infrastructure as Code (IaC), and most recently the agent identity space. 
-Fei Yuan is a Principal Engineer at AWS. During his 20+ years of experience, Fei has led different teams through various projects across Amazon and AWS, such as Amazon Lending Marketplace, Amazon Payment Services, Alexa ML Secure Computing, Amazon DataZone, Amazon SageMaker data governance, and Amazon Cognito. Most recently, he led the team that launched Amazon Bedrock AgentCore Identity service. Today he focuses on designing and implementing AWS products in the areas of agent identity, workload identity, and customer identity and access management. 
-Satveer Khurpa&nbsp;is a Sr. WW Specialist Solutions Architect, Amazon Bedrock at Amazon Web Services, specializing in Amazon Bedrock security. In this role, he uses his expertise in cloud-based architectures to develop innovative generative AI solutions for clients across diverse industries. Satveer uses his deep understanding of generative AI technologies and security principles to design scalable, secure, and responsible applications that unlock new business opportunities and drive tangible value while maintaining robust security postures. 
-Antonio Rodriguez is a Principal Generative AI Specialist Solutions Architect at Amazon Web Services. He helps companies of all sizes solve their challenges, embrace innovation, and create new business opportunities with Amazon Bedrock. Apart from work, he loves to spend time with his family and play sports with his friends.
 
 ⸻
