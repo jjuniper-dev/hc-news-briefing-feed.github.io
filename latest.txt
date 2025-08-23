@@ -1,17 +1,17 @@
-✅ Morning News Briefing – August 22, 2025 10:45
+✅ Morning News Briefing – August 23, 2025 10:42
 
-📅 Date: 2025-08-22 10:45
+📅 Date: 2025-08-23 10:42
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  11.3°C
-  Temperature: 11.3&deg;C Pressure / Tendency: 101.8 kPa rising Humidity: 96 % Dewpoint: 10.7&deg:C Wind: W 5 km/h Air Quality Health Index: n/a Observed at: Pembroke 6:00 AM EDT Friday 22 August 2025 . Weather: 11-11.3/deg
-• Friday: A mix of sun and cloud. High 27.
-  Mainly sunny this afternoon with increasing cloudiness this afternoon . Wind becoming southeast 20 km/h early this afternoon. High 27. Humidex 30. UV index 8 or very high in the morning's very high risk of a very high UV index or a very low risk of rain in the afternoon . Forecast issued 5:00 AM EDT Friday 22 August 2025. For more information
-• Friday night: Partly cloudy. Low 18.
-  Partly cloudy. Low 18.50 is expected to be sunny and breezy in the morning . Forecast issued 5:00 AM EDT Friday 22 August 2025 for the first time in 25 years . For the second time in 2025, the weather will be dryer than usual. For the third time in a row, the temperature will be below zero. For all the time, the
+• Current Conditions:  15.6°C
+  Temperature: 15.6&deg;C Pressure / Tendency: 101.2 kPa falling Humidity: 91 % Dewpoint: 14.0&deg:C Wind: NE 2 km/h Air Quality Health Index: n/a . Observed at: Pembroke 6:00 AM EDT Saturday 23 August 2025 . Weather: 15 degrees Celsius (C)
+• Saturday: A mix of sun and cloud. High 26.
+  Wind becoming south 20 km/h gusting to 40 late this morning . High 26. Humidex 31. UV index 8 or very high in the morning's very high risk of a very high UV index or very low risk of wind gusts of up to 40 mph in the afternoon . High of 26.5 degrees Celsius in the early hours of Saturday morning . Forecast issued
+• Saturday night: Chance of showers. Low 18. POP 60%
+  Mainly cloudy with 60 percent chance of showers and risk of a thunderstorm . Wind southwest 20 km/h becoming light this evening . Low 18.50/60/50/50 . Forecast issued 5:00 AM EDT Saturday 23 August 2025. Forecast: Showers, thunderstorms, rain, wind, rain and thunderstorms. Low 18/40/50.50
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• U.N.-backed panel confirms famine in Gaza. And, DOJ to send Congress some Epstein docs
-  A U.N.-backed panel of experts has declared that northern Gaza is suffering from famine . And, the DOJ is expected to release to Congress the first wave of documents related to its Jeffrey Epstein probe . The DOJ will also be releasing the first batch of documents to Congress related to the Epstein probe to Congress in the wake of the Jeffrey Epstein scandal . The Department of Justice is also expected
-• Famine confirmed in northern Gaza says U.N. backed agency
-  Famine has been officially declared in northern Gaza, a U.N.-backed group warns . It is the first such confirmation in the Middle East . Famine is declared in the region for the first time in the U.S. Famine declared in Gaza, the first in the Mideast region to be officially declared by the United Nations . The Gaza region has been hit by
-• Thai court acquits ex-Prime Minister Thaksin Shinawatra of royal defamation charge
-  Thailand's former Prime Minister Thaksin Shinawatra was acquitted of a royal defamation charge by a court on Friday . The case could have sent him to prison for up to 15 years . The former prime minister was acquitted in a case that could have seen him jailed for 15 years in prison for defamation charges . The court acquitted him of the charge, which could have jailed him for up
-• These programs help poor students with college. Trump wants to pull the funding
-  TRIO has helped millions of people along the path to a degree, but administration says it is no longer needed . TRIO is a federal government program that helps students pay for a degree . Administration says it's no longer necessary to run TRIO, which has been in existence for 60 years . TriO has been used to help millions of students in the U.S. for 60
-• A year ahead of the midterms, Medicaid cuts take center stage in Michigan
-  With roughly a quarter of Michiganders enrolled in the program, Democrats are hoping the issue gives them an edge in battleground districts . Democrats hope to use the issue to help them in battleground battleground districts of battleground districts in November's midterms . Michigan is a battleground state, but Democrats hope the issue will help Democrats in battleground states . The program is being rolled out across the state to help
+• Trump makes over the Rose Garden, Mar-a-Lago style
+  Trump has swapped out the grass in the Rose Garden with stone, turning what had been a lawn into a patio . The patio bears a striking resemblance to one at his Mar-a-Lago resort in Palm Beach, Fla. Trump has replaced the lawn with a patio that bears a resemblance to a similar one at the resort . Trump has been criticized for his decision to replace the grass with
+• Judge blocks Trump from cutting funding over 'sanctuary' policies
+  A judge ruled the Trump administration cannot deny funding to Boston, Chicago, Los Angeles and 30 other cities and counties because of policies that limit cooperation with federal immigration efforts . A judge also ruled that the federal government can't deny funding for the cities because of immigration policies . The judge ruled that federal funding can't be denied to the cities of Boston and Chicago, Chicago and Los Angeles because of
+• As Trump touts D.C. arrests, experts caution they're not the best indicator of public safety
+  The Trump administration says it has arrested more than 700 people in Washington, D.C., in its mission to crack down on crime . Experts say it's difficult to draw conclusions from that about public safety . More than 700 arrests have been made in Washington since 2013, according to the Trump administration . The White House says it is cracking down on the crime in Washington and has arrested 700 people
+• Tour bus rollover kills 5 on interstate highway in western New York
+  A tour bus returning to New York City from Niagara Falls with 54 people on board crashed and rolled on a highway near Pembroke . Five passengers were killed and many others were injured in the crash . The bus was returning to NYC after Niagara Falls Falls, authorities said . The crash killed five passengers and injured many others, authorities say . The driver of the bus was killed in the
+• Famine is declared in Gaza: What does it take to make this pronouncement?
+  An announcement of famine — as has now happened regarding Gaza — is a complicated decision . Here's what must be considered before such a declaration is made, here's what to consider before it is declared a famine . The Gaza famine is a complex decision to make, especially in Gaza, and there are many ways to avoid it, such as to make sure it is not a famine declaration .
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Everything is 'different on Windows': Zed port delays highlight dev friction
-  Making low-level code cross-platform for Windows is a challenge, says Zed co-founder Max Brunfield . He explains why the Windows port of the Rust-based editor is taking so long – illustrating the friction facing developers when including Microsoft's operating system . Graphics API, crash reporting and more: Making low level code is a big challenge for developers of cross-language applications when including
-• IBM, NASA cook up AI model to predict solar tantrums
-  Open source Surya system promises early alerts for space weather that can fry satellites and grids . IBM and NASA have concocted an AI model to help predict the weather, but this time it is taking on space weather . The system could disrupt satellites and spacecraft, possibly even terrestrial power grids and the internet, according to the IBM/NASA AI model . The project is open source and is
-• Basic projector repair job turns into armed encounter at secret bunker
-  On Call is The Register's reader-contributed column that tells tales of your tech support misadventures . Escort's forgotten cap left techie facing rifles and a debrief . On Call: On Call, The Register will feature a weekly tech support feature on The Register.com's On Call.com/OnCall.com . Back to the page you came from.com
-• Don't cave to Euro censorship or backdoor demands, Uncle Sam warns US tech firms
-  FTC chair: Companies could face enforcement if they give in to foreign governments . Don't backdoor encryption or censor content at the behest of foreign governments, FTC chair says . There may be consequences if they don't comply with the law, says FTC chair . FTC chair has issued a stark warning to some of the biggest names in the tech sphere – don't back down encryption or give in .
-• Japan’s Fugaku supercomputer follow-up adds Nvidia GPUs
-  Japanese research institution RIKEN has decided it needs GPUs for its next generation ‘FugakuNEXT” supercomputer . Nvidia has signed a deal to supply them and design the systems needed to get them working . The supercomputer will be the first of its kind to be built in Japan and will cost Fujitsu around $1.5 billion . Nvidia is also working on
+• The Unix Epochalypse might be sooner than you think
+  Museum boffins find code that crashes in 2037 . System restorers discover unsetting issue while working on ancient systems . Epochalypse, also known as the "Year 2038 problem," has come from the past . National Museum Of Computing system restorers have discovered an unsetting error in an ancient computer system . Back to Mail Online home .Back to the page you came
+• US government snaps up 10% of Intel for $8.9B
+  The funds were already allocated under the CHIPS Act and Secure Enclave program . Congratulations America, your government now owns 10 percent of troubled domestic chipmaker Intel .……… Your government now now owns ten percent of struggling domestic chipmakers Intel . The funds are already allocated in the CHIP Act and the Secure Connections Act and secure Enclave Program . The government is now trying to
+• Google games numbers to make AI look less thirsty
+  Google claims to have cut Gemini's water consumption per prompt to roughly five drops of water . AI's drinking habit has been grossly overstated, according to a newly published report from Google, which claims that software advancements have cut its water consumption to about five drops per prompt . The report claims to be comparing apples to apples to oranges, but it's substantially less than prior estimates of water consumption
+• Short circuit: Electronics supplier to tech giants suffers ransomware shutdown
+  Data I/O, a major electronics manufacturer whose customers include Amazon, Apple, Google, and Microsoft, notified federal regulators that it fell victim to a ransomware infection on August 16 that continues to disrupt its business operations . The manufacturer's customers include Google, Amazon, Microsoft, Apple and Google, among major customers . The company says it has been hit by the malware that has disrupted its business
+• AI giants call for energy grid kumbaya
+  Microsoft, Nvidia, and OpenAI researchers warn of uneven power usage associated with AI training . They propose ways to normalize power usage during AI training for software, hardware, infrastructure, and utilities for help finding ways of normalizing power demand during training . Microsoft and Nvidia have issued a call to designers of software and hardware to find ways to reduce power usage in training AI training, and propose
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• Human activity-aware coverage path planning for robot-based mosquito control
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• U.S. trust in physicians as key public health messengers during the H5N1 avian influenza outbreak
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Knowledge, attitudes, and practices regarding home-based cardiac rehabilitation in patients with chronic heart failure
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Southern Vietnamese women’s views on HPV vaccination, cervical cancer screening, and HPV self-sampling
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • RFK Jr demanded a vaccine study be retracted — the journal said no
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Ultra-processed diets promote excess calorie consumption
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Prevalence and correlates of smoked and smokeless tobacco use in Saudi Arabia: evidence from the 2021 national health survey
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Explainable AI reveals tissue pathology and psychosocial drivers of opioid prescription for non-specific chronic low back pain
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• David Nabarro obituary: global-health leader who fought malnutrition, malaria, Ebola and COVID-19
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,293 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• The Download: Google’s AI energy expenditure, and handing over DNA data to the police
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+In a first, Google has released data on how much energy an AI prompt uses
+
+
+
+Google has just released a report detailing how much energy its Gemini apps use for each query. In total, the median prompt—one that falls in the middle of the range of energy demand—consumes 0.24 watt-hours of electricity, the equivalent of running a standard microwave for about one second. The company also provided average estimates for the water consumption (five drops per query) and carbon emissions associated with a text prompt to Gemini.It’s the most transparent estimate yet from a Big Tech company with a popular AI product, and the report includes detailed information about how the company calculated its final estimate.
+
+
+
+Earlier this year, MIT Technology Review published a comprehensive series on AI and energy, at which time none of the major AI companies would reveal their per-prompt energy usage. Google’s new publication, at last, allows for a peek behind the curtain that researchers and analysts have long hoped for. Read the full story.
+
+
+
+—Casey Crownhart
+
+
+
+
+
+
+
+I gave the police access to my DNA—and maybe some of yours
+
+
+
+Last year, I added my DNA profile to a private genealogical database, FamilyTreeDNA, and clicked “Yes” to allow the police to search my genes.
+
+
+
+In 2018, police in California announced they’d caught the Golden State Killer, a man who had eluded capture for decades. Once the police had “matches” to a few relatives of the killer, they built a large family tree from which they plucked the likely suspect.This process, called forensic investigative genetic genealogy, or FIGG, has since helped solve hundreds of murders and sexual assaults.
+
+
+
+But I wasn’t really driven by some urge to capture distantly related serial killers. Rather, my spit had a less gallant and more quarrelsome motive: to troll privacy advocates whose fears around DNA I think are overblown and unhelpful. By giving up my saliva for inspection, I was going against the view that a person’s DNA is the individualized, sacred text that privacy advocates sometimes claim. Read the full story.
+
+
+
+—Antonio Regalado
+
+
+
+This article appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, sign up here.
+
+
+
+
+
+
+
+Meet the researcher hosting a scientific conference by and for AI
+
+
+
+In October, a new academic conference will debut that’s unlike any other. All of the work shared at Agents4Science will have been researched, written, and reviewed primarily by AI, and will be presented using text-to-speech technology.&nbsp;
+
+
+
+That idea is not without its detractors. Among other issues, many feel AI is not capable of the creative thought needed in research, makes too many mistakes and hallucinations, and may limit opportunities for young researchers.&nbsp;
+
+
+
+Nevertheless, a number of scientists and policymakers are very keen on the promise of AI scientists—and some even think they could unlock scientific discoveries that humans could never find alone. Read the full story.
+
+
+
+—Peter Hall
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 Elon Musk tried to persuade Mark Zuckerberg to buy OpenAIBut the bid was rejected earlier this year. (Insider $)+ OpenAI is asking Meta for evidence of any coordinated plans. (TechCrunch)+ I’m guessing the cage fight is still off then. (FT $)
+
+
+
+2 AI giants are seeking real-world data that can’t be scraped from the internetIt’s a bid to make their models more accurate and to find new use cases. (Rest of World)
+
+
+
+3 Russia’s state-backed messenger app will be preinstalled on all phonesCritics say the MAX app is essentially a government spy tool. (Reuters)+ Around 18 million people have registered to use it so far. (CNN)+ How Russia killed its tech industry. (MIT Technology Review)
+
+
+
+4 The Trump administration is refusing to fully fund a major HIV programIt’s ignoring a directive from Congress to withhold around $3 billion. (NYT $)+ HIV could infect 1,400 infants every day because of US aid disruptions. (MIT Technology Review)
+
+
+
+5 How Trump decides which chip companies may have to give up equityIncreasing your investments in the US? You’re off the hook. (WSJ $)+ America-first chipmaking remains a fantasy, though. (Economist $)+ Experts think Trump’s unconventional Intel deal may backfire. (Wired $)+ DeepSeek’s new AI model is compatible with Chinese-made chips. (FT $)
+
+
+
+6 The EU is speeding up its plans for a digital euro It’s considering running it on a public blockchain, to experts’ concern. (FT $)+ Is the digital dollar dead? (MIT Technology Review)
+
+
+
+7 We don’t have to open new mines to obtain minerals for clean energyAlthough we have to get better at using the material we do mine. (New Scientist $)+ How one mine could unlock billions in EV subsidies. (MIT Technology Review)
+
+
+
+8 This newly-discovered gene could usher in new chronic pain treatmentsOne day, cutting out certain foods could lessen discomfort. (Economist $)+ The pain is real. The painkillers are virtual reality. (MIT Technology Review)
+
+
+
+9 Why Africa is buying so many solar panelsIt’s not just its more affluent nations snapping them up, either. (Wired $)+ The race to get next-generation solar technology on the market. (MIT Technology Review)
+
+
+
+10 How families are using AI to run their householdsNo more quibbling over meal planning. (WP $)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+&#8220;If AGI doesn&#8217;t come to pass sometime soon, I wouldn&#8217;t be surprised if this whole thing pops.&#8221;
+
+
+
+—Bhavya Kashyap, an angel investor, tells Insider why investors are fuelling a risky bubble by rushing to buy stocks in the hottest AI companies.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+How AI is changing gymnastics judgingThe 2023 World Championships last October marked the first time an AI judging system was used on every apparatus in a gymnastics competition. There are obvious upsides to using this kind of technology: AI could help take the guesswork out of the judging technicalities. It could even help to eliminate biases, making the sport both more fair and more transparent.At the same time, others fear AI judging will take away something that makes gymnastics special. Gymnastics is a subjective sport, like diving or dressage, and technology could eliminate the judges’ role in crafting a narrative.For better or worse, AI has officially infiltrated the world of gymnastics. The question now is whether it really makes it fairer. Read the full story.
+
+
+
+—Jessica Taylor Price
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
+
+
+
++ Finally, some good news—a sweet little Australian marsupial called an ampurta is no longer endangered (thanks Glen!)+ What would a GTA set in London look like?+ Why glass houses aren’t all they’re cracked up to be (geddit?)+ Over in Denmark, there’s a national competition encouraging cities to get rid of their gray concrete tiles and replace them with peaceful green spaces (thanks Alice!)
+• Meet the researcher hosting a scientific conference by and for AI
+  In October, a new academic conference will debut that’s unlike any other. Agents4Science is a one-day online event that will encompass all areas of science, from physics to medicine. All of the work shared will have been researched, written, and reviewed primarily by AI, and will be presented using text-to-speech technology.&nbsp;
+
+
+
+The conference is the brainchild of Stanford computer scientist James Zou, who studies how humans and AI can best work together. Artificial intelligence has already provided many useful tools for scientists, like DeepMind’s AlphaFold, which helps simulate proteins that are difficult to make physically. More recently, though, progress in large language models and reasoning-enabled AI has advanced the idea that AI can work more or less as autonomously as scientists themselves—proposing hypotheses, running simulations, and designing experiments on their own.&nbsp;
+
+
+
+James Zou&#8217;s Agents4Science conference will use text-to-speech to present the work of the AI researchers.COURTESY OF JAMES ZOU
+
+
+
+
+That idea is not without its detractors. Among other issues, many feel AI is not capable of the creative thought needed in research, makes too many mistakes and hallucinations, and may limit opportunities for young researchers.&nbsp;
+
+
+
+Nevertheless, a number of scientists and policymakers are very keen on the promise of AI scientists. The US government’s AI Action Plan describes the need to “invest in automated cloud-enabled labs for a range of scientific fields.” Some researchers think AI scientists could unlock scientific discoveries that humans could never find alone. For Zou, the proposition is simple: “AI agents are not limited in time. They could actually meet with us and work with us 24/7.”&nbsp;
+
+
+
+Last month, Zou published an article in Nature with results obtained from his own group of autonomous AI workers. Spurred on by his success, he now wants to see what other AI scientists (that is, scientists that are AI) can accomplish. He describes what a successful paper at Agents4Science will look like: “The AI should be the first author and do most of the work. Humans can be advisors.”
+
+
+
+A virtual lab staffed by AI
+
+
+
+As a PhD student at Harvard in the early 2010s, Zou was so interested in AI’s potential for science that he took a year off from his computing research to work in a genomics lab, in a field that has greatly benefited from technology to map entire genomes. His time in so-called wet labs taught him how difficult it can be to work with experts in other fields. “They often have different languages,” he says.&nbsp;
+
+
+
+Large language models, he believes, are better than people at deciphering and translating between subject-specific jargon. “They’ve read so broadly,” Zou says, that they can translate and generalize ideas across science very well. This idea inspired Zou to dream up what he calls the “Virtual Lab.”
+
+
+
+At a high level, the Virtual Lab would be a team of AI agents designed to mimic an actual university lab group. These agents would have various fields of expertise and could interact with different programs, like AlphaFold. Researchers could give one or more of these agents an agenda to work on, then open up the model to play back how the agents communicated to each other and determine which experiments people should pursue in a real-world trial.&nbsp;
+
+
+
+
+
+Zou needed a (human) collaborator to help put this idea into action and tackle an actual research problem. Last year, he met John E. Pak, a research scientist at the Chan Zuckerberg Biohub. Pak, who shares Zou’s interest in using AI for science, agreed to make the Virtual Lab with him.&nbsp;
+
+
+
+Pak would help set the topic, but both he and Zou wanted to see what approaches the Virtual Lab could come up with on its own. As a first project, they decided to focus on designing therapies for new covid-19 strains. With this goal in mind, Zou set off training five AI scientists (including ones trained to act like an immunologist, a computational biologist, and a principal investigator) with different objectives and programs at their disposal.&nbsp;
+
+
+
+Building these models took a few months, but Pak says they were very quick at designing candidates for therapies once the setup was complete: “I think it was a day or half a day, something like that.”
+
+
+
+Zou says the agents decided to study anti-covid nanobodies, a cousin of antibodies that are much smaller in size and less common in the wild. Zou was shocked, though, at the reason. He claims the models landed on nanobodies after making the connection that these smaller molecules would be well-suited to the limited computational resources the models were given. “It actually turned out to be a good decision, because the agents were able to design these nanobodies efficiently,” he says.&nbsp;
+
+
+
+The nanobodies the models designed were genuinely new advances in science, and most were able to bind to the original covid-19 variant, according to the study. But Pak and Zou both admit that the main contribution of their article is really the Virtual Lab as a tool. Yi Shi, a pharmacologist at the University of Pennsylvania who was not involved in the work but made some of the underlying nanobodies the Virtual Lab modified, agrees. He says he loves the Virtual Lab demonstration and that “the major novelty is the automation.”&nbsp;
+
+
+
+Nature accepted the article and fast-tracked it for publication preview—Zou knew leveraging AI agents for science was a hot area, and he wanted to be one of the first to test it.&nbsp;
+
+
+
+The AI scientists host a conference
+
+
+
+When he was submitting his paper, Zou was dismayed to see that he couldn’t properly credit AI for its role in the research. Most conferences and journals don’t allow AI to be listed as coauthors on papers, and many explicitly prohibit researchers from using AI to write papers or reviews. Nature, for instance, cites uncertainties over accountability, copyright, and inaccuracies among its reasons for banning the practice. “I think that’s limiting,” says Zou. “These kinds of policies are essentially incentivizing researchers to either hide or minimize their usage of AI.”
+
+
+
+Zou wanted to flip the script by creating the Agents4Science conference, which requires the primary author on all submissions to be an AI. Other bots then will attempt to evaluate the work and determine its scientific merits. But people won’t be left out of the loop entirely: A team of human experts, including a Nobel laureate in economics, will review the top papers.&nbsp;
+
+
+
+Zou isn’t sure what will come of the conference, but he hopes there will be some gems among the hundreds of submissions he expects to receive across all domains. “There could be AI submissions that make interesting discoveries,” he says. “There could also be AI submissions that have a lot of interesting mistakes.”
+
+
+
+While Zou says the response to the conference has been positive, some scientists are less than impressed.
+
+
+
+“How do you get leaps of insight?&#8221;Lisa Messeri
+
+
+
+Lisa Messeri, an anthropologist of science at Yale University, has loads of questions about AI’s ability to review science: “How do you get leaps of insight? And what happens if a leap of insight comes onto the reviewer’s desk?” She doubts the conference will be able to give satisfying answers.
+
+
+
+Last year, Messeri and her collaborator Molly Crockett investigated obstacles to using AI for science in another Nature article. They remain unconvinced of its ability to produce novel results, including those shared in Zou’s nanobodies paper.&nbsp;
+
+
+
+“I’m the kind of scientist who is the target audience for these kinds of tools because I’m not a computer scientist … but I am doing computationally oriented work,” says Crockett, a cognitive scientist at Princeton University. “But I am at the same time very skeptical of the broader claims, especially with regard to how [AI scientists] might be able to simulate certain aspects of human thinking.”&nbsp;
+
+
+
+And they’re both skeptical of the value of using AI to do science if automation prevents human scientists from building up the expertise they need to oversee the bots. Instead, they advocate for involving experts from a wider range of disciplines to design more thoughtful experiments before trusting AI to perform and review science.&nbsp;
+
+
+
+“We need to be talking to epistemologists, philosophers of science, anthropologists of science, scholars who are thinking really hard about what knowledge is,” says Crockett.&nbsp;
+
+
+
+But Zou sees his conference as exactly the kind of experiment that could help push the field forward. When it comes to AI-generated science, he says, “there’s a lot of hype and a lot of anecdotes, but there’s really no systematic data.” Whether Agents4Science can provide that kind of data is an open question, but in October, the bots will at least try to show the world what they’ve got.&nbsp;
 • The case against humans in space
   Elon Musk and Jeff Bezos are bitter rivals in the commercial space race, but they agree on one thing: Settling space is an existential imperative. Space is the place. The final frontier. It is our human destiny to transcend our home world and expand our civilization to extraterrestrial vistas.
 
@@ -501,92 +788,6 @@ A place for comfort, fun and distraction to brighten up your day. (Got any ideas
 
 
 + Take a minute out of your day to admire these stunning images of the night sky.+ The remarkable story of how Sweden managed to transport an entire church five kilometers down the road.+ Are you a proud ugly shoe owner? (Birkenstock hive rise up)+ We have ways of making you talk, Stretch Armstrong.
-• In a first, Google has released data on how much energy an AI prompt uses
-  Google has just released a technical report detailing how much energy its Gemini apps use for each query. In total, the median prompt—one that falls in the middle of the range of energy demand—consumes 0.24 watt-hours of electricity, the equivalent of running a standard microwave for about one second. The company also provided average estimates for the water consumption and carbon emissions associated with a text prompt to Gemini.
-
-
-
-It’s the most transparent estimate yet from a Big Tech company with a popular AI product, and the report includes detailed information about how the company calculated its final estimate. As AI has become more widely adopted, there’s been a growing effort to understand its energy use. But public efforts attempting to directly measure the energy used by AI have been hampered by a lack of full access to the operations of a major tech company.&nbsp;
-
-
-
-Earlier this year, MIT Technology Review published a comprehensive series on AI and energy, at which time none of the major AI companies would reveal their per-prompt energy usage. Google’s new publication, at last, allows for a peek behind the curtain that researchers and analysts have long hoped for.
-
-
-
-The study focuses on a broad look at energy demand, including not only the power used by the AI chips that run models but also by all the other infrastructure needed to support that hardware.&nbsp;
-
-
-
-“We wanted to be quite comprehensive in all the things we included,” said Jeff Dean, Google’s chief scientist, in an exclusive interview with MIT Technology Review about the new report.
-
-
-
-That’s significant, because in this measurement, the AI chips—in this case, Google’s custom TPUs, the company’s proprietary equivalent of GPUs—account for just 58% of the total electricity demand of 0.24 watt-hours.&nbsp;
-
-
-
-Another large portion of the energy is used by equipment needed to support AI-specific hardware: The host machine’s CPU and memory account for another 25% of the total energy used. There’s also backup equipment needed in case something fails—these idle machines account for 10% of the total. The final 8% is from overhead associated with running a data center, including cooling and power conversion.&nbsp;
-
-
-
-This sort of report shows the value of industry input to energy and AI research, says Mosharaf Chowdhury, a professor at the University of Michigan and one of the heads of the ML.Energy leaderboard, which tracks energy consumption of AI models.&nbsp;
-
-
-
-Estimates like Google’s are generally something that only companies can produce, because they run at a larger scale than researchers are able to and have access to behind-the-scenes information. “I think this will be a keystone piece in the AI energy field,” says Jae-Won Chung, a PhD candidate at the University of Michigan and another leader of the ML.Energy effort. “It’s the most comprehensive analysis so far.”
-
-
-
-Google’s figure, however, is not representative of all queries submitted to Gemini: The company handles a huge variety of requests, and this estimate is calculated from a median energy demand, one that falls in the middle of the range of possible queries.
-
-
-
-
-
-So some Gemini prompts use much more energy than this: Dean gives the example of feeding dozens of books into Gemini and asking it to produce a detailed synopsis of their content. “That’s the kind of thing that will probably take more energy than the median prompt,” Dean says. Using a reasoning model could also have a higher associated energy demand because these models take more steps before producing an answer.
-
-
-
-This report was also strictly limited to text prompts, so it doesn’t represent what’s needed to generate an image or a video. (Other analyses, including one in MIT Technology Review’s Power Hungry series earlier this year, show that these tasks can require much more energy.)
-
-
-
-The report also finds that the total energy used to field a Gemini query has fallen dramatically over time. The median Gemini prompt used 33 times more energy in May 2024 than it did in May 2025, according to Google. The company points to advancements in its models and other software optimizations for the improvements.&nbsp;&nbsp;
-
-
-
-Google also estimates the greenhouse gas emissions associated with the median prompt, which they put at 0.03 grams of carbon dioxide. To get to this number, the company multiplied the total energy used to respond to a prompt by the average emissions per unit of electricity.
-
-
-
-Rather than using an emissions estimate based on the US grid average, or the average of the grids where Google operates, the company instead uses a market-based estimate, which takes into account electricity purchases that the company makes from clean energy projects. The company has signed agreements to buy over 22 gigawatts of power from sources including solar, wind, geothermal, and advanced nuclear projects since 2010. Because of those purchases, Google’s emissions per unit of electricity on paper are roughly one-third of those on the average grid where it operates.
-
-
-
-AI data centers also consume water for cooling, and Google estimates that each prompt consumes 0.26 milliliters of water, or about five drops.&nbsp;
-
-
-
-The goal of this work was to provide users a window into the energy use of their interactions with AI, Dean says.&nbsp;
-
-
-
-“People are using [AI tools] for all kinds of things, and they shouldn’t have major concerns about the energy usage or the water usage of Gemini models, because in our actual measurements, what we were able to show was that it’s actually equivalent to things you do without even thinking about it on a daily basis,” he says, “like watching a few seconds of TV or consuming five drops of water.”
-
-
-
-The publication greatly expands what’s known about AI’s resource usage. It follows recent increasing pressure on companies to release more information about the energy toll of the technology. “I’m really happy that they put this out,” says Sasha Luccioni, an AI and climate researcher at Hugging Face. “People want to know what the cost is.”
-
-
-
-This estimate and the supporting report contain more public information than has been available before, and it’s helpful to get more information about AI use in real life, at scale, by a major company, Luccioni adds. However, there are still details that the company isn’t sharing in this report. One major question mark is the total number of queries that Gemini gets each day, which would allow estimates of the AI tool’s total energy demand.&nbsp;
-
-
-
-And ultimately, it’s still the company deciding what details to share, and when and how. “We’ve been trying to push for a standardized AI energy score,” Luccioni says, a standard for AI similar to the Energy Star rating for appliances. “This is not a replacement or proxy for standardized comparisons.”
-• Why recycling isn’t enough to address the plastic problem
-  UN talks about a plastic treaty to address plastic waste broke down on Friday . The material is widely recognized as a huge source of environmental pollution, but it's also a contributor to climate change . Plastic production has increased at an average rate of 9% every year since 1950 . An estimated 52 million metric tons are dumped into the environment or burned each year . We need to be smarter about the volume of plastic we produce, and we need new ways to make plastic .
 
 🔒 Cybersecurity & Privacy
 • SIM-Swapper, Scattered Spider Hacker Gets 10 Years
@@ -2113,7 +2314,7 @@ By iterating through simulation, evaluation, and integration, MindJourney ca
 		
 
 		
-		Spotlight: AI-POWERED EXPERIENCE
+		Spotlight: Event Series
 	
 	
 	
@@ -2125,14 +2326,14 @@ By iterating through simulation, evaluation, and integration, MindJourney ca
 			
 			
 
-									Microsoft research copilot experience
+									Microsoft Research Forum
 				
-								Discover more about research at Microsoft through our AI-powered experience
+								Join us for a continuous exchange of ideas about research in the era of general AI. Watch the first four episodes on demand.
 				
 								
 					
 						
-							Start now						
+							Watch on-demand						
 					
 				
 							
@@ -2165,521 +2366,602 @@ By converting systems that simply describe static images into active agents that
 
 Looking ahead, we plan to extend the framework to&nbsp;use&nbsp;world models that&nbsp;not only&nbsp;predict&nbsp;new viewpoints&nbsp;but also forecast&nbsp;how the scene might change over time.&nbsp;We envision&nbsp;MindJourney&nbsp;working&nbsp;alongside VLMs that interpret&nbsp;those predictions&nbsp;and use&nbsp;them to&nbsp;plan&nbsp;what to do&nbsp;next. This&nbsp;enhancement could enable&nbsp;agents&nbsp;more accurately&nbsp;interpret&nbsp;spatial relationships and physical dynamics, helping them to operate effectively&nbsp;in changing environments.
 Opens in a new tabThe post MindJourney enables AI to explore simulated 3D worlds to improve spatial interpretation appeared first on Microsoft Research.
-• Fine-tune OpenAI GPT-OSS models using Amazon SageMaker HyperPod recipes
-  This post is the second part of the GPT-OSS series focusing on model customization with Amazon SageMaker AI. In Part 1, we demonstrated fine-tuning GPT-OSS models using open source Hugging Face libraries with SageMaker training jobs, which supports distributed multi-GPU and multi-node configurations, so you can spin up high-performance clusters on demand. 
-In this post, we show how you can fine-tune GPT OSS models on using recipes on SageMaker HyperPod and Training Jobs. SageMaker HyperPod recipes help you get started with training and fine-tuning popular publicly available foundation models (FMs) such as Meta’s Llama, Mistral, and DeepSeek in just minutes, using either SageMaker HyperPod or training jobs. The recipes provide pre-built, validated configurations that alleviate the complexity of setting up distributed training environments while maintaining enterprise-grade performance and scalability for models. We outline steps to fine-tune the GPT-OSS model on a multilingual reasoning dataset, HuggingFaceH4/Multilingual-Thinking, so GPT-OSS can handle structured, chain-of-thought (CoT) reasoning across multiple languages. 
+• Enhance Geospatial Analysis and GIS Workflows with Amazon Bedrock Capabilities
+  As data becomes more abundant and information systems grow in complexity, stakeholders need solutions that reveal quality insights. Applying emerging technologies to the geospatial domain offers a unique opportunity to create transformative user experiences and intuitive workstreams for users and organizations to deliver on their missions and responsibilities. 
+In this post, we explore how you can integrate existing systems with Amazon Bedrock to create new workflows to unlock efficiencies insights. This integration can benefit technical, nontechnical, and leadership roles alike. 
+Introduction to geospatial data 
+Geospatial data is associated with a position relative to Earth (latitude, longitude, altitude). Numerical and structured geospatial data formats can be categorized as follows: 
+ 
+ Vector data – Geographical features, such as roads, buildings, or city boundaries, represented as points, lines, or polygons 
+ Raster data – Geographical information, such as satellite imagery, temperature, or elevation maps, represented as a grid of cells 
+ Tabular data – Location-based data, such as descriptions and metrics (average rainfall, population, ownership), represented in a table of rows and columns 
+ 
+Geospatial data sources might also contain natural language text elements for unstructured attributes and metadata for categorizing and describing the record in question. Geospatial Information Systems (GIS) provide a way to store, analyze, and display geospatial information. In GIS applications, this information is frequently presented with a map to visualize streets, buildings, and vegetation. 
+LLMs and Amazon Bedrock 
+Large language models (LLMs) are a subset of foundation models (FMs) that can transform input (usually text or image, depending on model modality) into outputs (generally text) through a process called generation. Amazon Bedrock is a comprehensive, secure, and flexible service for building generative AI applications and agents. 
+LLMs work in many generalized tasks involving natural language. Some common LLM use cases include: 
+ 
+ Summarization – Use a model to summarize text or a document. 
+ Q&amp;A – Use a model to answer questions about data or facts from context provided during training or inference using Retrieval Augmented Generation (RAG). 
+ Reasoning – Use a model to provide chain of thought reasoning to assist a human with decision-making and hypothesis evaluation. 
+ Data generation – Use a model to generate synthetic data for testing simulations or hypothetical scenarios. 
+ Content generation – Use a model to draft a report from insights derived from an Amazon Bedrock knowledge base or a user’s prompt. 
+ AI agent and tool orchestration – Use a model to plan the invocation of other systems and processes. After other systems are invoked by an agent, the agent’s output can then be used as context for further LLM generation. 
+ 
+GIS can implement these capabilities to create value and improve user experiences. Benefits can include: 
+ 
+ Live decision-making – Taking real-time insights to support immediate decision-making, such as emergency response coordination and traffic management 
+ Research and analysis – In-depth analysis that humans or systems can identify, such as trend analysis, patterns and relationships, and environmental monitoring 
+ Planning – Using research and analysis for informed long-term decision-making, such as infrastructure development, resource allocation, and environmental regulation 
+ 
+Augmenting GIS and workflows with LLM capabilities leads to simpler analysis and exploration of data, discovery of new insights, and improved decision-making. Amazon Bedrock provides a way to host and invoke models as well as integrate the AI models with surrounding infrastructure, which we elaborate on in this post. 
+Combining GIS and AI through RAG and agentic workflows 
+LLMs are trained with large amounts of generalized information to discover patterns in how language is produced. To improve the performance of LLMs for specific use cases, approaches such as RAG and agentic workflows have been created. Retrieving policies and general knowledge for geospatial use cases can be accomplished with RAG, whereas calculating and analyzing GIS data would require an agentic workflow. In this section, we expand upon both RAG and agentic workflows in the context of geospatial use cases. 
+Retrieval Augmented Generation 
+With RAG, you can dynamically inject contextual information from a knowledge base during model invocation. 
+RAG supplements a user-provided prompt with data sourced from a knowledge base (collection of documents). Amazon Bedrock offers managed knowledge bases to data sources, such as Amazon Simple Storage Service (Amazon S3) and SharePoint, so you can provide supplemental information, such as city development plans, intelligence reports, or policies and regulations, when your AI assistant is generating a response for a user. 
+Knowledge bases are ideal for unstructured documents with information stored in natural language. When your AI model responds to a user with information sourced from RAG, it can provide references and citations to its source material. The following diagram shows how the systems connect together. 
+ 
+Because geospatial data is often structured and in a GIS, you can connect the GIS to the LLM using tools and agents instead of knowledge bases. 
+Tools and agents (to control a UI and a system) 
+Many LLMs, such as Anthropic’s Claude on Amazon Bedrock, make it possible to provide a description of tools available so your AI model can generate text to invoke external processes. These processes might retrieve live information, such as the current weather in a location or querying a structured data store, or might control external systems, such as starting a workflow or adding layers to a map. Some common geospatial functionality that you might want to integrate with your LLM using tools include: 
+ 
+ Performing mathematical calculations like the distance between coordinates, filtering datasets based on numeric values, or calculating derived fields 
+ Deriving information from predictive analysis models 
+ Looking up points of interest in structured data stores 
+ Searching content and metadata in unstructured data stores 
+ Retrieving real-time geospatial data, like traffic, directions, or estimated time to reach a destination 
+ Visualizing distances, points of interest, or paths 
+ Submitting work outputs such as analytic reports 
+ Starting workflows, like ordering supplies or adjusting supply chain 
+ 
+Tools are often implemented in AWS Lambda functions. Lambda runs code without the complexity and overhead of running servers. It handles the infrastructure management, enabling faster development, improved performance, enhanced security, and cost-efficiency. 
+Amazon Bedrock offers the feature Amazon Bedrock Agents to simplify the orchestration and integration with your geospatial tools. Amazon Bedrock agents follow instructions for LLM reasoning to break down a user prompt into smaller tasks and perform actions against identified tasks from action providers. The following diagram illustrates how Amazon Bedrock Agents works. 
+ 
+The following diagram shows how Amazon Bedrock Agents can enhance GIS solutions. 
+ 
 Solution overview 
-This solution uses SageMaker HyperPod recipes to run a fine-tuning job on HyperPod using Amazon Elastic Kubernetes Service (Amazon EKS) orchestration or training jobs. Recipes are processed through the SageMaker HyperPod recipe launcher, which serves as the orchestration layer responsible for launching a job on the corresponding architecture such as SageMaker HyperPod (Slurm or Amazon EKS) or training jobs. To learn more, see SageMaker HyperPod recipes. 
-For details on fine-tuning the GPT-OSS model, see Fine-tune OpenAI GPT-OSS models on Amazon SageMaker AI using Hugging Face libraries. 
-In the following sections, we discuss the prerequisites for both options, and then move on to the data preparation. The prepared data is saved to Amazon FSx for Lustre, which is used as the persistent file system for SageMaker HyperPod, or Amazon Simple Storage Service (Amazon S3) for training jobs. We then use recipes to submit the fine-tuning job, and finally deploy the trained model to a SageMaker endpoint for testing and evaluating the model. The following diagram illustrates this architecture. 
+The following demonstration applies the concepts we’ve discussed to an earthquake analysis agent as an example. This example deploys an Amazon Bedrock agent with a knowledge base based on Amazon Redshift. The Redshift instance has two tables. One table is for earthquakes, which includes date, magnitude, latitude, and longitude. The second table holds the counites in California, described as polygon shapes. The geospatial capabilities of Amazon Redshift can relate these datasets to answer queries like which county had the most recent earthquake or which county has had the most earthquakes in the last 20 years. The Amazon Bedrock agent can generate these geospatially based queries based on natural language. 
+This script creates an end-to-end pipeline that performs the following steps: 
  
+ Processes geospatial data. 
+ Sets up cloud infrastructure. 
+ Loads and configures the spatial database. 
+ Creates an AI agent for spatial analysis. 
+ 
+In the following sections, we create this agent and test it out. 
 Prerequisites 
-To follow along, you must have the following prerequisites: 
+To implement this approach, you must have an AWS account with the appropriate AWS Identity and Access Management (IAM) permissions for Amazon Bedrock, Amazon Redshift, and Amazon S3. 
+Additionally, complete the following steps to set up the AWS Command Line Interface (AWS CLI): 
  
- A local development environment with AWS credentials configured for creating and accessing SageMaker resources, or a remote environment such as Amazon SageMaker Studio. 
- For SageMaker HyperPod fine-tuning, complete the following: 
-   
-   Make sure you have one ml.p5.48xlarge instance (with 8 x NVIDIA H100 GPUs) for cluster usage. If you don’t have sufficient limits, request the following SageMaker quotas on the Service Quotas console: P5 instance (ml.p5.48xlarge) for HyperPod clusters (ml.p5.48xlarge for cluster usage): 1. 
-   Set up a SageMaker HyperPod cluster on Amazon EKS. For instructions, refer to Orchestrating SageMaker HyperPod clusters with Amazon EKS. Alternatively, you can use the AWS CloudFormation template provided in the Amazon EKS Support in Amazon SageMaker HyperPod workshop and follow the instructions to set up a cluster and a development environment to access and submit jobs to the cluster. 
-   Set up an FSx for Lustre file system for saving and loading data and checkpoints. Refer to Set Up an FSx for Lustre File System to set up an FSx for Lustre volume and associate it with the cluster. 
-    
- For fine-tuning the model using SageMaker training jobs, you must have one ml.p5.48xlarge instance (with 8 x NVIDIA H100 GPUs) for training jobs usage. If you don’t have sufficient limits, request the following SageMaker quotas on the Service Quotas console: P5 instance (ml.p5.48xlarge) for training jobs (ml.p5.48xlarge for cluster usage): 1. 
+ Confirm you have access to the latest version of the AWS CLI. 
+ Sign in to the AWS CLI with your credentials. 
+ Make sure ./jq is installed. If not, use the following command: 
  
-It might take up to 24 hours for these limits to be approved. You can also use SageMaker training plans to reserve these instances for a specific timeframe and use case (cluster or training jobs usage). For more details, see Reserve training plans for your training jobs or HyperPod clusters. 
-Next, use your preferred development environment to prepare the dataset for fine-tuning. You can find the full code in the Generative AI using Amazon SageMaker repository on GitHub. 
-Data tokenization 
-We use the Hugging FaceH4/Multilingual-Thinking dataset, which is a multilingual reasoning dataset containing CoT examples translated into languages such as French, Spanish, and German. The recipe supports a sequence length of 4,000 tokens for the GPT-OSS 120B model. The following example code demonstrates how to tokenize the multilingual-thinking dataset. The recipe accepts data in Hugging Face format (arrow). After it’s tokenized, you can save the processed dataset to disk. 
  
- from datasets import load_dataset
+ yum -y install jq 
  
-from transformers import AutoTokenizer
-import numpy as np
+Set up error handling 
+Use the following code for the initial setup and error handling: 
  
-dataset = load_dataset("HuggingFaceH4/Multilingual-Thinking", split="train")
- 
-tokenizer = AutoTokenizer.from_pretrained("openai/gpt-oss-120b")
-messages = dataset[0]["messages"]
-conversation = tokenizer.apply_chat_template(messages, tokenize=False)
-print(conversation)
- 
-def preprocess_function(example):
-&nbsp;&nbsp;  return tokenizer.apply_chat_template(example['messages'], 
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;return_dict=True, 
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;padding="max_length", 
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;max_length=4096, 
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;truncation=True)
- 
-def label(x):
-&nbsp;&nbsp;  x["labels"]=np.array(x["input_ids"])
-&nbsp;&nbsp;  x["labels"][x["labels"]==tokenizer.pad_token_id]=-100
-&nbsp;&nbsp;  x["labels"]=x["labels"].tolist()
-&nbsp;&nbsp;  return x
-&nbsp;
-dataset = dataset.map(preprocess_function, 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; remove_columns=['reasoning_language', 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'developer', 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'user', 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'analysis', 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'final',
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'messages'])
-dataset = dataset.map(label)
+ #!/usr/bin/env bash
+set -ex
 
-# for HyperPod, save to mounted FSx volume
-dataset.save_to_disk("/fsx/multilingual_4096")
+LOG_FILE="deployment_$(date +%Y%m%d_%H%M%S).log"
+touch "$LOG_FILE"
 
-# for training jobs, save to S3
-dataset.save_to_disk("multilingual_4096")
-
-def upload_directory(local_dir, bucket_name, s3_prefix=''):
-&nbsp;&nbsp; &nbsp;s3_client = boto3.client('s3')
-&nbsp;&nbsp; &nbsp;
-&nbsp;&nbsp; &nbsp;for root, dirs, files in os.walk(local_dir):
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;for file in files:
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;local_path = os.path.join(root, file)
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# Calculate relative path for S3
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;relative_path = os.path.relpath(local_path, local_dir)
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s3_path = os.path.join(s3_prefix, relative_path).replace("\\", "/")
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;print(f"Uploading {local_path} to {s3_path}")
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s3_client.upload_file(local_path, bucket_name, s3_path)
-
-upload_directory('./multilingual_4096/', &lt;your-bucket&gt;, 'multilingual_4096') 
- 
-Now that you have prepared and tokenized the dataset, you can fine-tune the GPT-OSS model on your dataset, using either SageMaker HyperPod or training jobs. SageMaker training jobs are ideal for one-off or periodic training workloads that need temporary compute resources, making it a fully managed, on-demand experience for your training needs. SageMaker HyperPod is optimal for continuous development and experimentation, providing a persistent, preconfigured, and failure-resilient cluster. Depending on your choice, skip to the appropriate section for next steps. 
-Fine-tune the model using SageMaker HyperPod 
-To fine-tune the model using HyperPod, start by setting up the virtual environment and installing the necessary dependencies to execute the training job on the EKS cluster. Make sure the cluster is InService before proceeding, and you’re using Python 3.9 or greater in your development environment. 
- 
- python3 -m venv ${PWD}/venv
-source&nbsp;venv/bin/activate 
- 
-Next, download and set up the SageMaker HyperPod recipes repository: 
- 
- git&nbsp;clone --recursive https://github.com/aws/sagemaker-hyperpod-recipes.git
-cd&nbsp;sagemaker-hyperpod-recipes
-pip3 install&nbsp;-r requirements.txt&nbsp; 
- 
-You can now use the SageMaker HyperPod recipe launch scripts to submit your training job. Using the recipe involves updating the k8s.yaml configuration file and executing the launch script. 
-In recipes_collection/cluster/k8s.yaml, update the persistent_volume_claims section. It mounts the FSx claim to the /fsx directory of each computing pod: 
- 
- - claimName: fsx-claim&nbsp;&nbsp; &nbsp;
-&nbsp; mountPath:&nbsp;fsx 
- 
-SageMaker HyperPod recipes provide a launch script for each recipe within the launcher_scripts directory. To fine-tune the GPT-OSS-120B model, update the launch scripts located at launcher_scripts/gpt_oss/run_hf_gpt_oss_120b_seq4k_gpu_lora.sh and update the cluster_type parameter. 
-The updated launch script should look similar to the following code when running SageMaker HyperPod with Amazon EKS. Make sure that cluster=k8s and cluster_type=k8s are updated in the launch script: 
- 
- #!/bin/bash
-
-# Original Copyright (c), NVIDIA CORPORATION. Modifications © Amazon.com
-
-#Users should setup their cluster type in /recipes_collection/config.yaml
-
-SAGEMAKER_TRAINING_LAUNCHER_DIR=${SAGEMAKER_TRAINING_LAUNCHER_DIR:-"$(pwd)"}
-
-HF_MODEL_NAME_OR_PATH="openai/gpt-oss-120b" # HuggingFace pretrained model name or path
-
-TRAIN_DIR="/fsx/multilingual_4096" # Location of training dataset
-VAL_DIR="/fsx/multilingual_4096" # Location of validation dataset
-
-EXP_DIR="/fsx/experiment" # Location to save experiment info including logging, checkpoints, ect
-HF_ACCESS_TOKEN="hf_xxxxxxxx" # Optional HuggingFace access token
-
-HYDRA_FULL_ERROR=1 python3 "${SAGEMAKER_TRAINING_LAUNCHER_DIR}/main.py" \
-&nbsp;&nbsp; &nbsp;recipes=fine-tuning/gpt_oss/hf_gpt_oss_120b_seq4k_gpu_lora \
-&nbsp;&nbsp; &nbsp;container="658645717510.dkr.ecr.us-west-2.amazonaws.com/smdistributed-modelparallel:sm-pytorch_gpt_oss_patch_pt-2.7_cuda12.8" \
-&nbsp;&nbsp; &nbsp;base_results_dir="${SAGEMAKER_TRAINING_LAUNCHER_DIR}/results" \
-&nbsp;&nbsp; &nbsp;recipes.run.name="hf-gpt-oss-120b-lora" \
-	cluster=k8s \&nbsp;# Imp: add cluster line when running on HP EKS
-	cluster_type=k8s \&nbsp;# Imp: add cluster_type line when running on HP EKS
-&nbsp;&nbsp; &nbsp;recipes.exp_manager.exp_dir="$EXP_DIR" \
-&nbsp;&nbsp; &nbsp;recipes.trainer.num_nodes=1 \
-&nbsp;&nbsp; &nbsp;recipes.model.data.train_dir="$TRAIN_DIR" \
-&nbsp;&nbsp; &nbsp;recipes.model.data.val_dir="$VAL_DIR" \
-&nbsp;&nbsp; &nbsp;recipes.model.hf_model_name_or_path="$HF_MODEL_NAME_OR_PATH" \
-&nbsp;&nbsp; &nbsp;recipes.model.hf_access_token="$HF_ACCESS_TOKEN" \ 
- 
-When the script is ready, you can launch fine-tuning of the GPT OSS 120B model using the following code: 
- 
- chmod +x launcher_scripts/gpt_oss/run_hf_gpt_oss_120b_seq4k_gpu_lora.sh 
-bash launcher_scripts/gpt_oss/run_hf_gpt_oss_120b_seq4k_gpu_lora.sh 
- 
-After submitting a job for fine-tuning, you can use the following command to verify successful submission. You should be able to see the pods running in your cluster: 
- 
- kubectl get pods
-NAME&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; READY&nbsp; STATUS&nbsp; &nbsp;RESTARTS&nbsp; &nbsp;AGE
-hf-gpt-oss-120b-lora-h2cwd-worker-0 1/1&nbsp; &nbsp;&nbsp;Running&nbsp; 0&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;14m 
- 
-To check logs for the job, you can use the kubectl logs command: 
-kubectl logs -f hf-gpt-oss-120b-lora-h2cwd-worker-0 
-You should be able to see the following logs when the training begins and completes. You will find the checkpoints written to the /fsx/experiment/checkpoints folder. 
- 
- warnings.warn(
-&nbsp;&nbsp; &nbsp;
-Epoch 0: &nbsp;40%|████ &nbsp; &nbsp; &nbsp;| 50/125 [08:47&lt;13:10, &nbsp;0.09it/s, Loss/train=0.254, Norms/grad_norm=0.128, LR/learning_rate=2.2e-6] [NeMo I 2025-08-18 17:49:48 nemo_logging:381] save SageMakerCheckpointType.PEFT_FULL checkpoint: /fsx/experiment/checkpoints/peft_full/steps_50
-[NeMo I 2025-08-18 17:49:48 nemo_logging:381] Saving PEFT checkpoint to /fsx/experiment/checkpoints/peft_full/steps_50
-[NeMo I 2025-08-18 17:49:49 nemo_logging:381] Loading Base model from : openai/gpt-oss-120b
-You are attempting to use Flash Attention 2 without specifying a torch dtype. This might lead to unexpected behaviour
-Loading checkpoint shards: 100%|██████████| 15/15 [01:49&lt;00:00, &nbsp;7.33s/it]
-[NeMo I 2025-08-18 17:51:39 nemo_logging:381] Merging the adapter, this might take a while......
-Unloading and merging model: 100%|██████████| 547/547 [00:07&lt;00:00, 71.27it/s]
-[NeMo I 2025-08-18 17:51:47 nemo_logging:381] Checkpointing to /fsx/experiment/checkpoints/peft_full/steps_50/final-model......
-[NeMo I 2025-08-18 18:00:14 nemo_logging:381] Successfully save the merged model checkpoint.
-`Trainer.fit` stopped: `max_steps=50` reached.
-Epoch 0: &nbsp;40%|████ &nbsp; &nbsp; &nbsp;| 50/125 [23:09&lt;34:43, &nbsp;0.04it/s, Loss/train=0.264, Norms/grad_norm=0.137, LR/learning_rate=2e-6] &nbsp; 
- 
-When the training is complete, the final merged model can be found in the experiment directory path you defined in the launcher script under /fsx/experiment/checkpoints/peft_full/steps_50/final-model. 
-Fine-tune using SageMaker training jobs 
-You can also use recipes directly with SageMaker training jobs using the SageMaker Python SDK. The training jobs automatically spin up the compute, load the input data, run the training script, save the model to your output location, and tear down the instances, for a smooth training experience. 
-The following code snippet shows how to use recipes with the PyTorch estimator. You can use the training_recipe parameter to specify the training or fine-tuning recipe to be used, and recipe_overrides for any parameters that need replacement. For training jobs, update the input, output, and results directories to locations in /opt/ml as required by SageMaker training jobs. 
- 
- import&nbsp;os
-import&nbsp;sagemaker,boto3
-from&nbsp;sagemaker.pytorch import&nbsp;PyTorch
-from sagemaker.inputs import FileSystemInput
-
-sagemaker_session =&nbsp;sagemaker.Session()
-role =&nbsp;sagemaker.get_execution_role()
-bucket =&nbsp;sagemaker_session.default_bucket()
-output =&nbsp;os.path.join(f"s3://{bucket}", "output")
-
-recipe_overrides = {
-&nbsp;&nbsp; &nbsp;"run": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"results_dir": "/opt/ml/model",
-&nbsp;&nbsp; &nbsp;},
-&nbsp;&nbsp; &nbsp;"exp_manager": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"exp_dir": "",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"explicit_log_dir": "/opt/ml/output/tensorboard",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"checkpoint_dir": "/opt/ml/checkpoints",
-&nbsp;&nbsp; &nbsp;},
-&nbsp;&nbsp; &nbsp;"model": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"data": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"train_dir": "/opt/ml/input/data/train",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"val_dir": "/opt/ml/input/data/val",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;},
-&nbsp;&nbsp; &nbsp;},
-&nbsp;&nbsp; &nbsp;"use_smp_model": "False",
+handle_error() {
+&nbsp;&nbsp; &nbsp;local exit_code=$?
+&nbsp;&nbsp; &nbsp;local line_number=$1
+&nbsp;&nbsp; &nbsp;if [ $exit_code -ne 0 ]; then
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;log_error "Failed at line $line_number with exit code $exit_code"
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;exit $exit_code
+&nbsp;&nbsp; &nbsp;fi
 }
-
-
-# create the estimator object
-estimator = PyTorch(
-&nbsp;&nbsp;output_path=output,
-&nbsp;&nbsp;base_job_name=f"gpt-oss-recipe",
-&nbsp;&nbsp;role=role,
-&nbsp;&nbsp;instance_type="ml.p5.48xlarge",
-&nbsp; training_recipe="fine-tuning/gpt_oss/hf_gpt_oss_120b_seq4k_gpu_lora",
-&nbsp;&nbsp;recipe_overrides=recipe_overrides,
-&nbsp;&nbsp;sagemaker_session=sagemaker_session,
-&nbsp;&nbsp;image_uri="658645717510.dkr.ecr.us-west-2.amazonaws.com/smdistributed-modelparallel:sm-pytorch_gpt_oss_patch_pt-2.7_cuda12.8",
-)
-
-# submit the training job
-estimator.fit(
-inputs={
-"train": f"s3://{bucket}/datasets/multilingual_4096/", 
-"val": f"s3://{bucket}/datasets/multilingual_4096/"}, wait=True) 
+trap 'handle_error $LINENO' ERR 
  
-After the job is submitted, you can monitor the status of your training job on the SageMaker console, by choosing Training jobs under Training in the navigation pane. Choose the training job that starts with gpt-oss-recipe to view its details and logs. When the training job is complete, the outputs will be saved to an S3 location. You can get the location of the output artifacts from the S3 model artifact section on the job details page. 
-Run inference 
-After you fine-tune your GPT-OSS model with SageMaker recipes on either SageMaker training jobs or SageMaker HyperPod, the output is a customized model artifact that merges the base model with the customized PEFT adapters. This final model is stored in Amazon S3 and can be deployed directly from Amazon S3 to SageMaker endpoints for real-time inference. 
-To serve GPT-OSS models, you must have the latest vLLM containers (v0.10.1 or later). A full list of vllm-openai Docker image versions is available on Docker hub. 
-The steps to deploy your fine-tuned GPT-OSS model are outlined in this section. 
-Build the latest GPT-OSS container for your SageMaker endpoint 
-If you’re deploying the model from SageMaker Studio using JupyterLab or the Code Editor, both environments come with Docker preinstalled. Make sure that you’re using the SageMaker Distribution image v3.0 or later for compatibility.You can build your deployment container by running the following commands: 
+This code performs the following functions: 
  
- %%bash # &lt;- use this if you're running this inside JupterLab cell
-
-# navigate to deploy dir from the current workdir, to build container
-cd ./deploy 
-
-# build a push container
-chmod +X build.sh
-bash build.sh
-
-cd ..&nbsp; 
+ Creates a timestamped log file 
+ Sets up error trapping that captures line numbers 
+ Enables automatic script termination on errors 
+ Implements detailed logging of failures 
  
-If you’re running these commands from a local terminal or other environment, simply omit the %%bash line and run the commands as standard shell commands. 
-The build.sh script is responsible for automatically building and pushing a vllm-openai container that is optimized for SageMaker endpoints. After it’s built, the custom SageMaker endpoint compatible vllm image is pushed to Amazon Elastic Container Registry (Amazon ECR). SageMaker endpoints can then pull this image from Amazon ECR at runtime to spin up the container for inference. 
-The following is an example of the build.sh script: 
+Validate the AWS environment 
+Use the following code to validate the AWS environment: 
  
- export REGION={region}
-export ACCOUNT_ID={account_id}
-export REPOSITORY_NAME=vllm
-export TAG=v0.10.1
+ AWS_VERSION=$(aws --version 2&gt;&amp;1)
+log "INFO" "AWS CLI version: $AWS_VERSION"
 
-full_name="${ACCOUNT_ID}.dkr.ecr.${REGION}.amazonaws.com/${REPOSITORY_NAME}:${TAG}"
-
-echo "building $full_name"
-
-DOCKER_BUILDKIT=0 docker build . --network sagemaker --tag $full_name --file Dockerfile
-
-aws ecr get-login-password --region $REGION | docker login --username AWS --password-stdin $ACCOUNT_ID.dkr.ecr.$REGION.amazonaws.com
-
-# If the repository doesn't exist in ECR, create it.
-aws ecr describe-repositories --region ${REGION} --repository-names "${REPOSITIRY_NAME}" &gt; /dev/null 2&gt;&amp;1
-
-if [ $? -ne 0 ]
-then
-&nbsp;&nbsp; &nbsp;aws ecr create-repository --region ${REGION} --repository-name "${REPOSITORY_NAME}" &gt; /dev/null
+if ! aws sts get-caller-identity &amp;&gt;/dev/null; then
+&nbsp;&nbsp; &nbsp;log_error "AWS CLI is not configured with valid credentials"
+&nbsp;&nbsp; &nbsp;exit 1
 fi
 
-docker tag $REPOSITORY_NAME:$TAG ${full_name}
-docker push ${full_name} 
+AWS_REGION="us-east-1"
+AWS_ACCOUNT_ID=$(aws sts get-caller-identity --query Account --output text) 
  
-The Dockerfile defines how we convert an open source vLLM Docker image into a SageMaker hosting-compatible image. This involves extending the base vllm-openai image, adding the serve entrypoint script, and making it executable. See the following example Dockerfile: 
+This code performs the essential AWS setup verification: 
  
- FROM vllm/vllm-openai:v0.10.1
+ Checks AWS CLI installation 
+ Validates AWS credentials 
+ Retrieves account ID for resource naming 
+ 
+Set up Amazon Redshift and Amazon Bedrock variables 
+Use the following code to create Amazon Redshift and Amazon Bedrock variables: 
+ 
+ REDSHIFT_CLUSTER_IDENTIFIER="geo-analysis-cluster"
+REDSHIFT_DATABASE="geo_db"
+REDSHIFT_MASTER_USER= [Create username]
+REDSHIFT_MASTER_PASSWORD= [Create Password]
+REDSHIFT_NODE_TYPE="dc2.large"
+REDSHIFT_CLUSTER_TYPE="single-node"
+BEDROCK_ROLE_NAME="BedrockGeospatialRole"
+# Bedrock Configuration
+AGENT_NAME="GeoAgentRedshift"
+KNOWLEDGE_BASE_NAME="GeospatialKB" 
+ 
+Create IAM roles for Amazon Redshift and Amazon S3 
+Use the following code to set up IAM roles for Amazon S3 and Amazon Redshift: 
+ 
+ if aws iam get-role --role-name "$REDSHIFT_ROLE_NAME" &amp;&gt;/dev/null; then
+    REDSHIFT_ROLE_ARN=$(aws iam get-role --role-name "$REDSHIFT_ROLE_NAME" --query 'Role.Arn' --output text)
+    log "INFO" "Using existing role ARN: $REDSHIFT_ROLE_ARN"
+else
+    # Create trust policy document
+    cat &gt; /tmp/trust-policy.json &lt;&lt; EOF
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Principal": {
+        "Service": "redshift.amazonaws.com"
+      },
+      "Action": "sts:AssumeRole"
+    }
+  ]
+}
+EOF
+    # Create role
+    CREATE_ROLE_OUTPUT=$(aws iam create-role \
+        --role-name "$REDSHIFT_ROLE_NAME" \
+        --assume-role-policy-document "file:///tmp/trust-policy.json" \
+        --description "Role for Redshift to access S3" 2&gt;&amp;1)
+    
+    REDSHIFT_ROLE_ARN=$(aws iam get-role --role-name "$REDSHIFT_ROLE_NAME" --query 'Role.Arn' --output text)
+    if [ $? -ne 0 ]; then
+        log_error "Failed to create role:"
+        exit 1
+    fi
+    REDSHIFT_ROLE_ARN=$(echo "$CREATE_ROLE_OUTPUT" | jq -r '.Role.Arn')
+    # Wait for role to be available
+    sleep 10
+fi
+ATTACH_POLICY_OUTPUT=$(aws iam attach-role-policy \
+    --role-name "$REDSHIFT_ROLE_NAME" \
+    --policy-arn "arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess" 2&gt;&amp;1)
+if [ $? -ne 0 ]; then
+    if echo "$ATTACH_POLICY_OUTPUT" | grep -q "EntityAlreadyExists"; then
+    else
+        exit 1
+    fi
+fi 
+ 
+Prepare the data and Amazon S3 
+Use the following code to prepare the data and Amazon S3 storage: 
+ 
+ DATA_BUCKET="geospatial-bedrock-demo-data-${AWS_ACCOUNT_ID}"
+aws s3 mb s3://$DATA_BUCKET
 
-COPY serve /usr/bin/serve
-RUN chmod 777 /usr/bin/serve
+# Download source data
+curl -o earthquakes.csv https://raw.githubusercontent.com/Esri/gis-tools-for-hadoop/master/samples/data/earthquake-data/earthquakes.csv
+curl -o california-counties.json https://raw.githubusercontent.com/Esri/gis-tools-for-hadoop/master/samples/data/counties-data/california-counties.json 
+ 
+This code sets up data storage and retrieval through the following steps: 
+ 
+ Creates a unique S3 bucket 
+ Downloads earthquake and county boundary data 
+ Prepares for data transformation 
+ 
+Transform geospatial data 
+Use the following code to transform the geospatial data: 
+ 
+ INPUT_FILE="california-counties.json"
+OUTPUT_FILE="california-counties.csv"
 
-ENTRYPOINT [ "/usr/bin/serve" ] 
- 
-The serve script acts as a translation layer between SageMaker hosting conventions and the vLLM runtime. You can maintain the same deployment workflow you’re familiar with when hosting models on SageMaker endpoints, while automatically converting SageMaker-specific configurations into the format expected by vLLM. 
-Key points to note about this script: 
- 
- It enforces the use of port 8080, which SageMaker requires for inference containers 
- It dynamically translates environment variables prefixed with OPTION_ into CLI arguments for vLLM (for example, OPTION_MAX_MODEL_LEN=4096 changes to --max-model-len 4096) 
- It prints the final set of arguments for visibility 
- It finally launches the vLLM API server with the translated arguments 
- 
-The following is an example serve script: 
- 
- #!/bin/bash
+# Create CSV header
+echo "OBJECTID,AREA,PERIMETER,CO06_D00_,CO06_D00_I,STATE,COUNTY,NAME,LSAD,LSAD_TRANS,Shape_Length,Shape_Area,WKT" &gt; "$OUTPUT_FILE"
 
-# Define the prefix for environment variables to look for
-PREFIX="OPTION_"
-ARG_PREFIX="--"
-
-# Initialize an array for storing the arguments
-# port 8080 required by sagemaker, https://docs.aws.amazon.com/sagemaker/latest/dg/your-algorithms-inference-code.html#your-algorithms-inference-code-container-response
-ARGS=(--port 8080)
-
-# Loop through all environment variables
-while IFS='=' read -r key value; do
-&nbsp;&nbsp; &nbsp;# Remove the prefix from the key, convert to lowercase, and replace underscores with dashes
-&nbsp;&nbsp; &nbsp;arg_name=$(echo "${key#"${PREFIX}"}" | tr '[:upper:]' '[:lower:]' | tr '_' '-')
-
-&nbsp;&nbsp; &nbsp;# Add the argument name and value to the ARGS array
-&nbsp;&nbsp; &nbsp;ARGS+=("${ARG_PREFIX}${arg_name}")
-&nbsp;&nbsp; &nbsp;if [ -n "$value" ]; then
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;ARGS+=("$value")
-&nbsp;&nbsp; &nbsp;fi
-done &lt; &lt;(env | grep "^${PREFIX}")
-
-echo "-------------------------------------------------------------------"
-echo "vLLM engine args: [${ARGS[@]}]"
-echo "-------------------------------------------------------------------"
-
-# Pass the collected arguments to the main entrypoint
-exec python3 -m vllm.entrypoints.openai.api_server "${ARGS[@]}" 
- 
-Host customized GPT-OSS as a SageMaker real-time endpoint 
-Now you can deploy your fine-tuned GPT-OSS model using the ECR image URI you built in the previous step. In this example, the model artifacts are stored securely in an S3 bucket, and SageMaker will download them into the container at runtime.Complete the following configurations: 
- 
- Set model_data to point to the S3 prefix where your model artifacts are located 
- Set the OPTION_MODEL environment variable to /opt/ml/model, which is where SageMaker mounts the model inside the container 
- (Optional) If you’re serving a model from Hugging Face Hub instead of Amazon S3, you can set OPTION_MODEL directly to the Hugging Face model ID instead 
- 
-The endpoint startup might take several minutes as the model artifacts are downloaded and the container is initialized.The following is an example deployment code: 
- 
- inference_image = f"{account_id}.dkr.ecr.{region}.amazonaws.com/vllm:v0.10.1"
-
-...
-...
-
-lmi_model = sagemaker.Model(
-&nbsp;&nbsp; &nbsp;image_uri=inference_image,
-&nbsp;&nbsp; &nbsp;env={
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"OPTION_MODEL": "/opt/ml/model",&nbsp;# set this to let SM endpoint read a model stored in s3, else set it to HF MODEL ID
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"OPTION_SERVED_MODEL_NAME": "model",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"OPTION_TENSOR_PARALLEL_SIZE": json.dumps(num_gpus),
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"OPTION_DTYPE": "bfloat16",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;#"VLLM_ATTENTION_BACKEND": "TRITON_ATTN_VLLM_V1", # not required for vLLM 0.10.1 and above
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"OPTION_ASYNC_SCHEDULING": "true",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"OPTION_QUANTIZATION": "mxfp4"
-&nbsp;&nbsp; &nbsp;},
-&nbsp;&nbsp; &nbsp;role=role,
-&nbsp;&nbsp; &nbsp;name=model_name,
-&nbsp;&nbsp; &nbsp;model_data={
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;'S3DataSource': {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'S3Uri': "s3://path/to/gpt-oss/model/artifacts",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'S3DataType': 'S3Prefix',
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'CompressionType': 'None'
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp;},
-)
-
-...
-
-lmi_model.deploy(
-&nbsp;&nbsp; &nbsp;initial_instance_count=1,
-&nbsp;&nbsp; &nbsp;instance_type=instance_type,
-&nbsp;&nbsp; &nbsp;container_startup_health_check_timeout=600,
-&nbsp;&nbsp; &nbsp;endpoint_name=endpoint_name,
-&nbsp;&nbsp; &nbsp;endpoint_type=sagemaker.enums.EndpointType.INFERENCE_COMPONENT_BASED,
-&nbsp;&nbsp; &nbsp;inference_component_name=inference_component_name,
-&nbsp;&nbsp; &nbsp;resources=ResourceRequirements(requests={"num_accelerators": 1, "memory": 1024*3, "copies": 1,}),
-) 
- 
-Sample inference 
-After your endpoint is deployed and in the InService state, you can invoke your fine-tuned GPT-OSS model using the SageMaker Python SDK. 
-The following is an example predictor setup: 
- 
- pretrained_predictor = sagemaker.Predictor(
-&nbsp;&nbsp; &nbsp;endpoint_name=endpoint_name,
-&nbsp;&nbsp; &nbsp;sagemaker_session=sagemaker.Session(boto3.Session(region_name=boto3.Session().region_name)),
-&nbsp;&nbsp; &nbsp;serializer=serializers.JSONSerializer(),
-&nbsp;&nbsp; &nbsp;deserializer=deserializers.JSONDeserializer(),
-&nbsp;&nbsp; &nbsp;component_name=inference_component_name
-) 
- 
-The modified vLLM container is fully compatible with the OpenAI-style messages input format, making it straightforward to send chat-style requests: 
- 
- payload = {
-&nbsp;&nbsp; &nbsp;"messages": [{"role": "user", "content": "Hello who are you?"}],
-&nbsp;&nbsp; &nbsp;"parameters": {"max_new_tokens": 64, "temperature": 0.2}
+# Function to convert ESRI rings to WKT POLYGON format
+esri_to_wkt() {
+    local rings=$1
+    
+    # Extract the first ring (exterior ring)
+    local exterior_ring=$(echo "$rings" | jq -c '.[0]')
+    
+    if [ "$exterior_ring" = "null" ] || [ -z "$exterior_ring" ]; then
+        echo "POLYGON EMPTY"
+        return
+    fi
+    
+    # Start building the WKT string
+    local wkt="POLYGON (("
+    
+    # Process each coordinate pair in the ring
+    local coords=$(echo "$exterior_ring" | jq -r '.[] | "\(.[0]) \(.[1])"')
+    local first_coord=""
+    local result=""
+    
+    while IFS= read -r coord; do
+        if [ -z "$result" ]; then
+            result="$coord"
+            first_coord="$coord"
+        else
+            result="$result, $coord"
+        fi
+    done &lt;&lt;&lt; "$coords"
+    
+    # Close the ring by adding the first coordinate again if needed
+    if [ "$first_coord" != "$(echo "$coords" | tail -1)" ]; then
+        result="$result, $first_coord"
+    fi
+    
+    wkt="${wkt}${result}))"
+    echo "$wkt"
 }
 
-output = pretrained_predictor.predict(payload) 
+# Process each feature in the JSON file
+jq -c '.features[]' "$INPUT_FILE" | while read -r feature; do
+    # Extract attributes
+    OBJECTID=$(echo "$feature" | jq -r '.attributes.OBJECTID // empty')
+    AREA=$(echo "$feature" | jq -r '.attributes.AREA // empty')
+    PERIMETER=$(echo "$feature" | jq -r '.attributes.PERIMETER // empty')
+    CO06_D00_=$(echo "$feature" | jq -r '.attributes.CO06_D00_ // empty')
+    CO06_D00_I=$(echo "$feature" | jq -r '.attributes.CO06_D00_I // empty')
+    STATE=$(echo "$feature" | jq -r '.attributes.STATE // empty')
+    COUNTY=$(echo "$feature" | jq -r '.attributes.COUNTY // empty')
+    NAME=$(echo "$feature" | jq -r '.attributes.NAME // empty')
+    LSAD=$(echo "$feature" | jq -r '.attributes.LSAD // empty')
+    LSAD_TRANS=$(echo "$feature" | jq -r '.attributes.LSAD_TRANS // empty')
+    Shape_Length=$(echo "$feature" | jq -r '.attributes.Shape_Length // empty')
+    Shape_Area=$(echo "$feature" | jq -r '.attributes.Shape_Area // empty')
+    
+    # Extract geometry and convert to WKT
+    if echo "$feature" | jq -e '.geometry.rings' &gt; /dev/null 2&gt;&amp;1; then
+        rings=$(echo "$feature" | jq -c '.geometry.rings')
+        WKT=$(esri_to_wkt "$rings")
+    else
+        WKT="POLYGON EMPTY"
+    fi
+    
+    # Escape any commas in the fields
+    NAME=$(echo "$NAME" | sed 's/,/\\,/g')
+    LSAD=$(echo "$LSAD" | sed 's/,/\\,/g')
+    LSAD_TRANS=$(echo "$LSAD_TRANS" | sed 's/,/\\,/g')
+    
+     # Write to CSV - wrap WKT field in quotes
+    echo "$OBJECTID,$AREA,$PERIMETER,$CO06_D00_,$CO06_D00_I,$STATE,$COUNTY,$NAME,$LSAD,$LSAD_TRANS,$Shape_Length,$Shape_Area,\"$WKT\"" &gt;&gt; "$OUTPUT_FILE"
+done
+
+echo "Conversion complete. Output saved to $OUTPUT_FILE"
+
+# Upload data files to S3
+aws s3 cp earthquakes.csv s3://$DATA_BUCKET/earthquakes/
+aws s3 cp california-counties.csv s3://$DATA_BUCKET/counties/ 
  
-You have successfully deployed and invoked your custom fine-tuned GPT-OSS model on SageMaker real-time endpoints, using the vLLM framework for optimized, low-latency inference. You can find more GPT-OSS hosting examples in the OpenAI gpt-oss examples GitHub repo. 
+This code performs the following actions to convert the geospatial data formats: 
+ 
+ Transforms ESRI JSON to WKT format 
+ Processes county boundaries into CSV format 
+ Preserves spatial information for Amazon Redshift 
+ 
+Create a Redshift cluster 
+Use the following code to set up the Redshift cluster: 
+ 
+ # Create Redshift cluster
+aws redshift create-cluster \
+&nbsp;&nbsp; &nbsp;--cluster-identifier "$REDSHIFT_CLUSTER_IDENTIFIER" \
+&nbsp;&nbsp; &nbsp;--node-type "$REDSHIFT_NODE_TYPE" \
+&nbsp;&nbsp; &nbsp;--cluster-type single-node \
+&nbsp;&nbsp; &nbsp;--master-username "$REDSHIFT_MASTER_USER" \
+&nbsp;&nbsp; &nbsp;--master-user-password "$REDSHIFT_MASTER_PASSWORD" \
+&nbsp;&nbsp; &nbsp;--db-name "$REDSHIFT_DATABASE" \
+&nbsp;&nbsp; &nbsp;--cluster-subnet-group-name "$SUBNET_GROUP_NAME" \
+&nbsp;&nbsp; &nbsp;--vpc-security-group-ids "$SG_ID" \
+&nbsp;&nbsp; &nbsp;--iam-roles "$REDSHIFT_ROLE_ARN"
+
+# Wait for cluster availability
+while true; do
+&nbsp;&nbsp; &nbsp;CLUSTER_STATUS=$(aws redshift describe-clusters \
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;--cluster-identifier "$REDSHIFT_CLUSTER_IDENTIFIER" \
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;--query 'Clusters[0].ClusterStatus' \
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;--output text)
+&nbsp;&nbsp; &nbsp;if [ "$CLUSTER_STATUS" = "available" ]; then
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;break
+&nbsp;&nbsp; &nbsp;fi
+&nbsp;&nbsp; &nbsp;sleep 30
+done 
+ 
+This code performs the following functions: 
+ 
+ Sets up a single-node cluster 
+ Configures networking and security 
+ Waits for cluster availability 
+ 
+Create a database schema 
+Use the following code to create the database schema: 
+ 
+ aws redshift-data execute-statement \
+&nbsp;&nbsp; &nbsp;--cluster-identifier "$REDSHIFT_CLUSTER_IDENTIFIER" \
+&nbsp;&nbsp; &nbsp;--database "$REDSHIFT_DATABASE" \
+&nbsp;&nbsp; &nbsp;--sql "
+CREATE TABLE IF NOT EXISTS counties (
+&nbsp;&nbsp; &nbsp;OBJECTID INTEGER PRIMARY KEY,
+&nbsp;&nbsp; &nbsp;AREA DOUBLE PRECISION,
+&nbsp;&nbsp; &nbsp;NAME VARCHAR(100),
+&nbsp;&nbsp; &nbsp;geom GEOMETRY
+);
+
+CREATE TABLE IF NOT EXISTS earthquakes (
+&nbsp;&nbsp; &nbsp;earthquake_date VARCHAR(50),
+&nbsp;&nbsp; &nbsp;latitude double precision,
+&nbsp;&nbsp; &nbsp;longitude double precision,
+&nbsp;&nbsp; &nbsp;magnitude double precision
+);" 
+ 
+This code performs the following functions: 
+ 
+ Creates a counties table with spatial data 
+ Creates an earthquakes table 
+ Configures appropriate data types 
+ 
+Create an Amazon Bedrock knowledge base 
+Use the following code to create a knowledge base: 
+ 
+ # Create knowledge base
+aws bedrock-agent create-knowledge-base \
+&nbsp;&nbsp; &nbsp;--name "$KNOWLEDGE_BASE_NAME" \
+&nbsp;&nbsp; &nbsp;--knowledge-base-configuration "{
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;\"type\": \"SQL\",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;\"sqlKnowledgeBaseConfiguration\": {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\"type\": \"REDSHIFT\"
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
+&nbsp;&nbsp; &nbsp;}" \
+&nbsp;&nbsp; &nbsp;--region "$AWS_REGION"
+
+# Create data source
+aws bedrock-agent create-data-source \
+&nbsp;&nbsp; &nbsp;--knowledge-base-id "$KB_ID" \
+&nbsp;&nbsp; &nbsp;--name "EarthquakeDataSource" \
+&nbsp;&nbsp; &nbsp;--data-source-configuration "{\"type\": \"REDSHIFT_METADATA\"}" 
+ 
+This code performs the following functions: 
+ 
+ Creates an Amazon Bedrock knowledge base 
+ Sets up an Amazon Redshift data source 
+ Enables spatial queries 
+ 
+Create an Amazon Bedrock agent 
+Use the following code to create and configure an agent: 
+ 
+ # Create agent
+aws bedrock-agent create-agent \
+&nbsp;&nbsp; &nbsp;--agent-name "$AGENT_NAME" \
+&nbsp;&nbsp; &nbsp;--instruction "You are a geospatial analysis assistant..." \
+&nbsp;&nbsp; &nbsp;--foundation-model "anthropic.claude-3-sonnet-20240229-v1:0"
+
+# Associate knowledge base
+aws bedrock-agent associate-agent-knowledge-base \
+&nbsp;&nbsp; &nbsp;--agent-id "$AGENT_ID" \
+&nbsp;&nbsp; &nbsp;--knowledge-base-id "$KB_ID" \
+&nbsp;&nbsp; &nbsp;--description "Earthquake data knowledge base" \
+&nbsp;&nbsp; &nbsp;--agent-version "DRAFT" 
+ 
+This code performs the following functions: 
+ 
+ Creates an Amazon Bedrock agent 
+ Associates the agent with the knowledge base 
+ Configures the AI model and instructions 
+ 
+Test the solution 
+Let’s observe the system behavior with the following natural language user inputs in the chat window. 
+Example 1: Summarization and Q&amp;A 
+For this example, we use the prompt “Summarize which zones allow for building of an apartment.” 
+The LLM performs retrieval with a RAG approach, then uses the retrieved residential code documents as context to answer the user’s query in natural language. 
+ 
+This example demonstrates the LLM capabilities for hallucination mitigation, RAG, and summarization. 
+Example 2: Generate a draft report 
+Next, we input the prompt “Write me a report on how various zones and related housing data can be utilized to plan new housing development to meet high demand.” 
+The LLM retrieves relevant urban planning code documents, then summarizes the information into a standard reporting format as described in its system prompt. 
+ 
+This example demonstrates the LLM capabilities for prompt templates, RAG, and summarization. 
+Example 3: Show places on the map 
+For this example, we use the prompt “Show me the low density properties on Abbeville street in Macgregor on the map with their address.” 
+The LLM creates a chain of thought to look up which properties match the user’s query and then invokes the draw marker tool on the map. The LLM provides tool invocation parameters in its scratchpad, awaits the completion of these tool invocations, then responds in natural language with a bulleted list of markers placed on the map. 
+ 
+ 
+This example demonstrates the LLM capabilities for chain of thought reasoning, tool use, retrieval systems using agents, and UI control. 
+Example 4: Use the UI as context 
+For this example, we choose a marker on a map and input the prompt “Can I build an apartment here.” 
+The “here” is not contextualized from conversation history but rather from the state of the map view. Having a state engine that can relay information from a frontend view to the LLM input adds a richer context. 
+The LLM understands the context of “here” based on the selected marker, performs retrieval to see the land development policy, and responds to the user in simple natural language, “No, and here is why…” 
+ 
+This example demonstrates the LLM capabilities for UI context, chain of thought reasoning, RAG, and tool use. 
+Example 5: UI context and UI control 
+Next, we choose a marker on the map and input the prompt “draw a .25 mile circle around here so I can visualize walking distance.” 
+The LLM invokes the draw circle tool to create a layer on the map centered at the selected marker, contextualized by “here.” 
+ 
+This example demonstrates the LLM capabilities for UI context, chain of thought reasoning, tool use, and UI control. 
 Clean up 
-To avoid incurring additional charges, complete the following steps to clean up the resources used in this post: 
+To clean up your resources and prevent AWS charges from being incurred, complete the following steps: 
  
- Delete the SageMaker endpoint: 
- 
-pretrained_predictor.delete_endpoint() 
- 
- If you created a SageMaker HyperPod cluster for the purposes of this post, delete the cluster by following the instructions in Deleting a SageMaker HyperPod cluster. 
- Clean up the FSx for Lustre volume if it’s no longer needed by following instructions in Deleting a file system. 
- If you used training jobs, the training instances are automatically deleted when the jobs are complete. 
+ Delete the Amazon Bedrock knowledge base. 
+ Delete the Redshift cluster. 
+ Delete the S3 bucket. 
  
 Conclusion 
-In this post, we showed how to fine-tune OpenAI’s GPT-OSS models (gpt-oss-120b and gpt-oss-20b) on SageMaker AI using SageMaker HyperPod recipes. We discussed how SageMaker HyperPod recipes provide a powerful yet accessible solution for organizations to scale their AI model training capabilities with large language models (LLMs) including GPT-OSS, using either a persistent cluster through SageMaker HyperPod, or an ephemeral cluster using SageMaker training jobs. The architecture streamlines complex distributed training workflows through its intuitive recipe-based approach, reducing setup time from weeks to minutes. We also showed how these fine-tuned models can be seamlessly deployed to production using SageMaker endpoints with vLLM optimization, providing enterprise-grade inference capabilities with OpenAI-compatible APIs. This end-to-end workflow, from training to deployment, helps organizations build and serve custom LLM solutions while using the scalable infrastructure of AWS and comprehensive ML platform capabilities of SageMaker. 
-To begin using the SageMaker HyperPod recipes, visit the Amazon SageMaker HyperPod recipes GitHub repo for comprehensive documentation and example implementations. If you’re interested in exploring the fine-tuning further, the Generative AI using Amazon SageMaker GitHub repo has the necessary code and notebooks. Our team continues to expand the recipe ecosystem based on customer feedback and emerging ML trends, making sure that you have the tools needed for successful AI model training. 
-Special thanks to everyone who contributed to the launch: Hengzhi Pei, Zach Kimberg, Andrew Tian, Leonard Lausen, Sanjay Dorairaj, Manish Agarwal, Sareeta Panda, Chang Ning Tsai, Maxwell Nuyens, Natasha Sivananjaiah, and Kanwaljit Khurmi. 
+The integration of LLMs with GIS creates intuitive systems that help users of different technical levels perform complex spatial analysis through natural language interactions. By using RAG and agent-based workflows, organizations can maintain data accuracy while seamlessly connecting AI models to their existing knowledge bases and structured data systems. Amazon Bedrock facilitates this convergence of AI and GIS technology by providing a robust platform for model invocation, knowledge retrieval, and system control, ultimately transforming how users visualize, analyze, and interact with geographical data. 
+For further exploration, Earth on AWS has videos and articles you can explore to understand how AWS is helping build GIS applications on the cloud. 
  
-About the authors 
-Durga Sury&nbsp;is a Senior Solutions Architect at Amazon SageMaker, where she helps enterprise customers build secure and scalable AI/ML systems. When she’s not architecting solutions, you can find her enjoying sunny walks with her dog, immersing herself in murder mystery books, or catching up on her favorite Netflix shows. 
-Pranav Murthy&nbsp;is a Senior Generative AI Data Scientist at AWS, specializing in helping organizations innovate with Generative AI, Deep Learning, and Machine Learning on Amazon SageMaker AI. Over the past 10+ years, he has developed and scaled advanced computer vision (CV) and natural language processing (NLP) models to tackle high-impact problems—from optimizing global supply chains to enabling real-time video analytics and multilingual search. When he’s not building AI solutions, Pranav enjoys playing strategic games like chess, traveling to discover new cultures, and mentoring aspiring AI practitioners.&nbsp;You can find Pranav on&nbsp;LinkedIn. 
-Sumedha Swamy&nbsp;is a Senior Manager of Product Management at Amazon Web Services (AWS), where he leads several areas of the Amazon SageMaker, including SageMaker Studio – the industry-leading integrated development environment for machine learning, developer and administrator experiences, AI infrastructure, and SageMaker SDK. 
-Dmitry Soldatkin&nbsp;is a Senior AI/ML Solutions Architect at Amazon Web Services (AWS), helping customers design and build AI/ML solutions. Dmitry’s work covers a wide range of ML use cases, with a primary interest in Generative AI, deep learning, and scaling ML across the enterprise. He has helped companies in many industries, including insurance, financial services, utilities, and telecommunications. You can connect with Dmitry on&nbsp;LinkedIn. 
-Arun Kumar Lokanatha is a Senior ML Solutions Architect with the Amazon SageMaker team. He specializes in large language model training workloads, helping customers build LLM workloads using SageMaker HyperPod, SageMaker training jobs, and SageMaker distributed training. Outside of work, he enjoys running, hiking, and cooking. 
-Anirudh Viswanathan is a Senior Product Manager, Technical, at AWS with the SageMaker team, where he focuses on Machine Learning. He holds a Master’s in Robotics from Carnegie Mellon University and an MBA from the Wharton School of Business. Anirudh is a named inventor on more than 50 AI/ML patents. He enjoys long-distance running, exploring art galleries, and attending Broadway shows.
-• Inline code nodes now supported in Amazon Bedrock Flows in public preview
-  Today, we are excited to announce the public preview of support for inline code nodes in Amazon Bedrock Flows. With this powerful new capability, you can write Python scripts directly within your workflow, alleviating the need for separate AWS Lambda functions for simple logic. This feature streamlines preprocessing and postprocessing tasks (like data normalization and response formatting), simplifying generative AI application development and making it more accessible across organizations. By removing adoption barriers and reducing maintenance overhead, the inline code feature accelerates enterprise adoption of generative AI solutions, resulting in faster iteration cycles and broader participation in AI application building. 
-Organizations using Amazon Bedrock Flows now can use inline code nodes to design and deploy workflows for building more scalable and efficient generative AI applications fully within the Amazon Bedrock environment while achieving the following: 
+About the Authors 
+Dave Horne&nbsp;is a Sr. Solutions Architect supporting Federal System Integrators at AWS. He is based in Washington, DC, and has 15 years of experience building, modernizing, and integrating systems for public sector customers. Outside of work, Dave enjoys playing with his kids, hiking, and watching Penn State football! 
+Kai-Jia Yue&nbsp;is a solutions architect on the Worldwide Public Sector Global Systems Integrator Architecture team at Amazon Web Services (AWS). She has a focus in data analytics and helping customer organizations make data-driven decisions. Outside of work, she loves spending time with friends and family and traveling. 
+Brian Smitches is the Head of Partner Deployed Engineering at Windsurf focusing on how partners can bring organizational value through the adoption of Agentic AI software development tools like Windsurf and Devin. Brian has a background in Cloud Solutions Architecture from his time at AWS, where he worked in the&nbsp;AWS Federal Partner ecosystem. In his personal time, Brian enjoys skiing, water sports, and traveling with friends and family.
+• Beyond the basics: A comprehensive foundation model selection framework for generative AI
+  Most organizations evaluating foundation models limit their analysis to three primary dimensions: accuracy, latency, and cost. While these metrics provide a useful starting point, they represent an oversimplification of the complex interplay of factors that determine real-world model performance. 
+Foundation models have revolutionized how enterprises develop generative AI applications, offering unprecedented capabilities in understanding and generating human-like content. However, as the model landscape expands, organizations face complex scenarios when selecting the right foundation model for their applications. In this blog post we present a systematic evaluation methodology for Amazon Bedrock users, combining theoretical frameworks with practical implementation strategies that empower data scientists and machine learning (ML) engineers to make optimal model selections. 
+The challenge of foundation model selection 
+Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models from leading AI companies such as&nbsp;AI21 Labs,&nbsp;Anthropic,&nbsp;Cohere,&nbsp;DeepSeek,&nbsp;Luma,&nbsp;Meta,&nbsp;Mistral AI,&nbsp;poolside&nbsp;(coming soon),&nbsp;Stability AI,&nbsp;TwelveLabs&nbsp;(coming soon),&nbsp;Writer, and&nbsp;Amazon&nbsp;through a single API, along with a broad set of capabilities you need to build generative AI applications with security, privacy, and responsible AI. The service’s API-driven approach allows seamless model interchangeability, but this flexibility introduces a critical challenge: which model will deliver optimal performance for a specific application while meeting operational constraints? 
+Our research with enterprise customers reveals that many early generative AI projects select models based on either limited manual testing or reputation, rather than systematic evaluation against business requirements. This approach frequently results in: 
  
- Preprocessing – Transforming input data before sending it to a large language model (LLM) without having to set up a separate Lambda function. For example, extracting specific fields from JSON, formatting text data, or normalizing values. 
- Postprocessing – Performing operations on model outputs directly within the flow. For example, extracting entities from responses, formatting JSON for downstream systems, or applying business rules to the results. 
- Complex use cases – Managing the execution of complex, multi-step generative AI workflows that can call popular packages like opencv, scipy, of pypdf. 
- Builder-friendly – Creating and managing inline code through both the Amazon Bedrock API and the AWS Management Console. 
- Observability – Seamless user experience with the ability to trace the inputs and outputs from each node. 
+ Over-provisioning computational resources to accommodate larger models than required 
+ Sub-optimal performance because of misalignment between model strengths and use case requirements 
+ Unnecessarily high operational costs because of inefficient token utilization 
+ Production performance issues discovered too late in the development lifecycle 
  
-In this post, we discuss the benefits of this new feature, and show how to use inline code nodes in Amazon Bedrock Flows. 
-Benefits of inline code in Amazon Bedrock Flows 
-Thomson Reuters, a global information services company providing essential news, insights, and technology solutions to professionals across legal, tax, accounting, media, and corporate sectors, handles complex, multi-step generative AI use cases that require simple preprocessing and postprocessing as part of the workflow. With the inline code feature in Amazon Bedrock Flows, Thomson Reuters can now benefit from the following: 
+In this post, we outline a comprehensive evaluation methodology optimized for Amazon Bedrock implementations using Amazon Bedrock Evaluations while providing forward-compatible patterns as the foundation model landscape evolves. To read more about on how to evaluate large language model (LLM) performance, see LLM-as-a-judge on Amazon Bedrock Model Evaluation. 
+A multidimensional evaluation framework—Foundation model capability matrix 
+Foundation models vary significantly across multiple dimensions, with performance characteristics that interact in complex ways. Our capability matrix provides a structured view of critical dimensions to consider when evaluating models in Amazon Bedrock. Below are four core dimensions (in no specific order) – Task performance, Architectural characteristics, Operational considerations, and Responsible AI attributes. 
+Task performance 
+Evaluating the models based on the task performance is crucial for achieving direct impact on business outcomes, ROI, user adoption and trust, and competitive advantage. 
  
- Simplified flow management – Alleviate the need to create and maintain individual Lambda functions for each custom code block, making it straightforward to manage thousands of workflows across a large user base (over 16,000 users and 6,000 chains) with less operational overhead. 
- Flexible data processing – Enable direct preprocessing of data before LLM calls and postprocessing of LLM responses, including the ability to interact with internal AWS services and third-party APIs through a single interface. 
- DIY flow creation – Help users build complex workflows with custom code blocks through a self-service interface, without exposing them to the underlying infrastructure complexities or requiring Lambda function management. 
+ Task-specific accuracy: Evaluate models using benchmarks relevant to your use case (MMLU, HELM, or domain-specific benchmarks). 
+ Few-shot learning capabilities: Strong few-shot performers require minimal examples to adapt to new tasks, leading to cost efficiency, faster time-to-market, resource optimization, and operational benefits. 
+ Instruction following fidelity: For the applications that require precise adherence to commands and constraints, it is critical to evaluate model’s instruction following fidelity. 
+ Output consistency: Reliability and reproducibility across multiple runs with identical prompts. 
+ Domain-specific knowledge: Model performance varies dramatically across specialized fields based on training data. Evaluate the models base on your domain-specific use-case scenarios. 
+ Reasoning capabilities: Evaluate the model’s ability to perform logical inference, causal reasoning, and multi-step problem-solving. This can include reasoning such as deductive and inductive, mathematical, chain-of-thought, and so on. 
  
-Solution overview 
-In the following sections, we show how to create a simple Amazon Bedrock flow and add inline code nodes. Our example showcases a practical application where we’ll construct a flow that processes user requests for music playlists, incorporating both preprocessing and postprocessing inline code nodes to handle data validation and response formatting. 
-Prerequisites 
-Before implementing the new capabilities, make sure you have the following: 
+Architectural characteristics 
+Architectural characteristics for evaluating the models are important as they directly impact the model’s performance, efficiency, and suitability for specific tasks. 
  
- An AWS account 
- Other Amazon Bedrock services in place: 
-   
-   Create and test your base prompts for customer service interactions in Amazon Bedrock Prompt Management 
-   Create guardrails with relevant rules using Amazon Bedrock Guardrails 
-    
- Resources in auxiliary AWS services needed for your workflow, such as Amazon DynamoDB, Amazon Simple Storage Service (Amazon S3), and Amazon Simple Notification Service (Amazon SNS) 
- Required AWS Identity and Access Management (IAM) permissions: 
-   
-   Access to Amazon Bedrock Flows 
-   Appropriate access to LLMs in Amazon Bedrock 
-    
+ Parameter count (model size): Larger models typically offer more capabilities but require greater computational resources and may have higher inference costs and latency. 
+ Training data composition: Models trained on diverse, high-quality datasets tend to have better generalization abilities across different domains. 
+ Model architecture: Decoder-only models excel at text generation, encoder-decoder architectures handle translation and summarization more effectively, while mixture of experts (MoE) architectures can be a powerful tool for improving the performance of both decoder-only and encoder-decoder models. Some specialized architectures focus on enhancing reasoning capabilities through techniques like chain-of-thought prompting or recursive reasoning. 
+ Tokenization methodology: The way models process text affects performance on domain-specific tasks, particularly with specialized vocabulary. 
+ Context window capabilities: Larger context windows enable processing more information at once, critical for document analysis and extended conversations. 
+ Modality: Modality refers to type of data a model can process and generate, such as text, image, audio, or video. Consider the modality of the models depending on the use case, and choose the model optimized for that specific modality. 
  
-After these components are in place, you can proceed with using Amazon Bedrock Flows with inline code capabilities in your generative AI use case. 
-Create your flow using inline code nodes 
-Complete the following steps to create your flow: 
+Operational considerations 
+Below listed operational considerations are critical for model selection as they directly impact the real-world feasibility, cost-effectiveness, and sustainability of AI deployments. 
  
- On the Amazon Bedrock console, choose Flows under Builder tools in the navigation pane. 
- Create a new flow, for example, easy-inline-code-flow. For detailed instructions on creating a flow, see Amazon Bedrock Flows is now generally available with enhanced safety and traceability. 
- Add an inline code node. (For this example, we create two nodes for two separate prompts). 
+ Throughput and latency profiles: Response speed impacts user experience and throughput determines scalability. 
+ Cost structures: Input/output token pricing significantly affects economics at scale. 
+ Scalability characteristics: Ability to handle concurrent requests and maintain performance during traffic spikes. 
+ Customization options: Fine-tuning capabilities and adaptation methods for tailoring to specific use cases or domains. 
+ Ease of integration: Ease of integration into existing systems and workflow is an important consideration. 
+ Security: When dealing with sensitive data, model security—including data encryption, access control, and vulnerability management—is a crucial consideration. 
  
-Amazon Bedrock provides different node types to build your prompt flow. For this example, we use an inline code node instead of calling a Lambda function for custom code for a generative AI-powered application. There are two inline code nodes in the flow. We have extended the sample from the documentation Create a flow with a single prompt. The new node type Inline Code is on the Nodes tab in the left pane. 
+Responsible AI attributes 
+As AI becomes increasingly embedded in business operations and daily lives, evaluating models on responsible AI attributes isn’t just a technical consideration—it’s a business imperative. 
  
+ Hallucination propensity: Models vary in their tendency to generate plausible but incorrect information. 
+ Bias measurements: Performance across different demographic groups affects fairness and equity. 
+ Safety guardrail effectiveness: Resistance to generating harmful or inappropriate content. 
+ Explainability and privacy: Transparency features and handling of sensitive information. 
+ Legal Implications: Legal considerations should include data privacy, non-discrimination, intellectual property, and product liability. 
  
- Add some code to process in the Preprocessing_InlineCode node before sending it to the prompt node prompt_1. Python 3 is only supported at the time of writing. In this example, we check if the number of songs requested by the user is more than 10 and it’s set to 10. 
+Agentic AI considerations for model selection 
+The growing popularity of agentic AI applications introduces evaluation dimensions beyond traditional metrics. When assessing models for use in autonomous agents, consider these critical capabilities: 
+Agent-specific evaluation dimensions 
  
+ Planning and reasoning capabilities: Evaluate chain-of-thought consistency across complex multi-step tasks and self-correction mechanisms that allow agents to identify and fix their own reasoning errors. 
+ Tool and API integration: Test function calling capabilities, parameter handling precision, and structured output consistency (JSON/XML) for seamless tool use. 
+ Agent-to-agent communication: Assess protocol adherence to frameworks like A2A and efficient contextual memory management across extended multi-agent interactions. 
  
-There is a Python code editor and sample code templates as well for writing the code. 
+Multi-agent collaboration testing for applications using multiple specialized agents 
  
-We use the following code: 
+ Role adherence: Measure how well models maintain distinct agent personas and responsibilities without role confusion. 
+ Information sharing efficiency: Test how effectively information flows between agent instances without critical detail loss. 
+ Collaborative intelligence: Verify whether multiple agents working together produce better outcomes than single-model approaches. 
+ Error propagation resistance: Assess how robustly multi-agent systems contain and correct errors rather than amplifying them. 
  
- import json
-def __func():
-    try:
-        if userprompt['number'] &gt; 10:
-            userprompt['number']=10
-            return userprompt
-        else:
-            return userprompt
-            
-    except Exception as e:
-        return {
-            "error": "Invalid input format",
-            "details": str(e)
-        }
-__func() 
+A four-phase evaluation methodology 
+Our recommended methodology progressively narrows model selection through increasingly sophisticated assessment techniques: 
+Phase 1: Requirements engineering 
+Begin with a precise specification of your application’s requirements: 
  
+ Functional requirements: Define primary tasks, domain knowledge needs, language support, output formats, and reasoning complexity. 
+ Non-functional requirements: Specify latency thresholds, throughput requirements, budget constraints, context window needs, and availability expectations. 
+ Responsible AI requirements: Establish hallucination tolerance, bias mitigation needs, safety requirements, explainability level, and privacy constraints. 
+ Agent-specific requirements: For agentic applications, define tool-use capabilities, protocol adherence standards, and collaboration requirements. 
  
- In the Postprocessing_Inline Code node, we check the number of words in the response and feed the data to the next prompt node, prompt_2. 
+Assign weights to each requirement based on business priorities to create your evaluation scorecard foundation. 
+Phase 2: Candidate model selection 
+Use the Amazon Bedrock model information API to filter models based on hard requirements. This typically reduces candidates from dozens to 3–7 models that are worth detailed evaluation. 
+Filter options include but aren’t limited to the following: 
  
+ Filter by modality support, context length, and language capabilities 
+ Exclude models that don’t meet minimum performance thresholds 
+ Calculate theoretical costs at projected scale so that you can exclude options that exceed the available budget 
+ Filter for customization requirements such as fine-tuning capabilities 
+ For agentic applications, filter for function calling and multi-agent protocol support 
  
+Although the Amazon Bedrock model information API might not provide the filters you need for candidate selection, you can use the Amazon Bedrock model catalog (shown in the following figure) to obtain additional information about these models. 
  
- def __func():
-    # Remove extra whitespace and count
-    cleaned_text = ' '.join(playlist.split())
-    word_count = len(cleaned_text.split())
-    return{
-        "playlist": playlist,     "word_count": word_count
-    }
-__func() 
+Phase 3: Systematic performance evaluation 
+Implement structured evaluation using Amazon Bedrock Evaluations: 
  
+ Prepare evaluation datasets: Create representative task examples, challenging edge cases, domain-specific content, and adversarial examples. 
+ Design evaluation prompts: Standardize instruction format, maintain consistent examples, and mirror production usage patterns. 
+ Configure metrics: Select appropriate metrics for subjective tasks (human evaluation and reference-free quality), objective tasks (precision, recall, and F1 score), and reasoning tasks (logical consistency and step validity). 
+ For agentic applications: Add protocol conformance testing, multi-step planning assessment, and tool-use evaluation. 
+ Execute evaluation jobs: Maintain consistent parameters across models and collect comprehensive performance data. 
+ Measure operational performance: Capture throughput, latency distributions, error rates, and actual token consumption costs. 
  
- Test the flow with the following prompt: 
+Phase 4: Decision analysis 
+Transform evaluation data into actionable insights: 
  
+ Normalize metrics: Scale all metrics to comparable units using min-max normalization. 
+ Apply weighted scoring: Calculate composite scores based on your prioritized requirements. 
+ Perform sensitivity analysis: Test how robust your conclusions are against weight variations. 
+ Visualize performance: Create radar charts, efficiency frontiers, and tradeoff curves for clear comparison. 
+ Document findings: Detail each model’s strengths, limitations, and optimal use cases. 
  
- Sample input for the Flow Input node 
-{
-  "genre": "pop",
-    "number": 8
-  } 
+Advanced evaluation techniques 
+Beyond standard procedures, consider the following approaches for evaluating models. 
+A/B testing with production traffic 
+Implement comparative testing using Amazon Bedrock’s routing capabilities to gather real-world performance data from actual users. 
+Adversarial testing 
+Test model vulnerabilities through prompt injection attempts, challenging syntax, edge case handling, and domain-specific factual challenges. 
+Multi-model ensemble evaluation 
+Assess combinations such as sequential pipelines, voting ensembles, and cost-efficient routing based on task complexity. 
+Continuous evaluation architecture 
+Design systems to monitor production performance with: 
  
-Input to the inline code node (Python function) must be treated as untrusted user input, and appropriate parsing, validation, and data handling should be implemented. 
-You can see the output as shown in the following screenshot. The system also provides access to node execution traces, offering detailed insights into each processing step, real-time performance metrics, and highlighting any issues that occurred during the flow’s execution. Traces can be enabled using an API and sent to an Amazon CloudWatch log. In the API, set the enableTrace field to true in an InvokeFlow request. Each flowOutputEvent in the response is returned alongside a flowTraceEvent. 
+ Stratified sampling of production traffic across task types and domains 
+ Regular evaluations and trigger-based reassessments when new models emerge 
+ Performance thresholds and alerts for quality degradation 
+ User feedback collection and failure case repositories for continuous improvement 
  
-You have now successfully created and executed an Amazon Bedrock flows using inline code nodes. You can also use Amazon Bedrock APIs to programmatically execute this flow. For additional details on how to configure flows with enhanced safety and traceability, see Amazon Bedrock Flows is now generally available with enhanced safety and traceability. 
-Considerations 
-When working with inline code nodes in Amazon Bedrock Flows, the following are the important things to note: 
+Industry-specific considerations 
+Different sectors have unique requirements that influence model selection: 
  
- Code is executed in an AWS managed, secured, sandbox environment that is not shared with anyone and doesn’t have internet access 
- The feature supports Python 3.12 and above 
- It efficiently handles code with binary size up to 4 MB, which is roughly 4 million characters 
- It supports popular packages like opencv, scipy, and pypdf 
- It supports 25 concurrent code execution sessions per AWS account 
+ Financial services: Regulatory compliance, numerical precision, and personally identifiable information (PII) handling capabilities 
+ Healthcare: Medical terminology understanding, HIPAA adherence, and clinical reasoning 
+ Manufacturing: Technical specification comprehension, procedural knowledge, and spatial reasoning 
+ Agentic systems: Autonomous reasoning, tool integration, and protocol conformance 
+ 
+Best practices for model selection 
+Through this comprehensive approach to model evaluation and selection, organizations can make informed decisions that balance performance, cost, and operational requirements while maintaining alignment with business objectives. The methodology makes sure that model selection isn’t a one-time exercise but an evolving process that adapts to changing needs and technological capabilities. 
+ 
+ Assess your situation thoroughly: Understand your specific use case requirements and available resources 
+ Select meaningful metrics: Focus on metrics that directly relate to your business objectives 
+ Build for continuous evaluation: Design your evaluation process to be repeatable as new models are released 
+ 
+Looking forward: The future of model selection 
+As foundation models evolve, evaluation methodologies must keep pace. Below are further considerations (By no means this list of considerations is exhaustive and is subject to ongoing updates as technology evolves and best practices emerge), you should take into account while selecting the best model(s) for your use-case(s). 
+ 
+ Multi-model architectures: Enterprises will increasingly deploy specialized models in concert rather than relying on single models for all tasks. 
+ Agentic landscapes: Evaluation frameworks must assess how models perform as autonomous agents with tool-use capabilities and inter-agent collaboration. 
+ Domain specialization: The growing landscape of domain-specific models will require more nuanced evaluation of specialized capabilities. 
+ Alignment and control: As models become more capable, evaluation of controllability and alignment with human intent becomes increasingly important. 
  
 Conclusion 
-The integration of inline code nodes in Amazon Bedrock Flows marks a significant advancement in democratizing generative AI development, reducing the complexity of managing separate Lambda functions for basic processing tasks. This enhancement responds directly to enterprise customers’ needs for a more streamlined development experience, helping developers focus on building sophisticated AI workflows rather than managing infrastructure. 
-Inline code in Amazon Bedrock Flows is now available in public preview in the following AWS Regions: US East (N. Virginia, Ohio), US West (Oregon) and Europe (Frankfurt). To get started, open the Amazon Bedrock console or Amazon Bedrock APIs to begin building flows with Amazon Bedrock Flows. To learn more, refer to Create your first flow in Amazon Bedrock and Track each step in your flow by viewing its trace in Amazon Bedrock. 
-We’re excited to see the innovative applications you will build with these new capabilities. As always, we welcome your feedback through AWS re:Post for Amazon Bedrock or your usual AWS contacts. Join the generative AI builder community at community.aws to share your experiences and learn from others. 
+By implementing a comprehensive evaluation framework that extends beyond basic metrics, organizations can informed decisions about which foundation models will best serve their requirements. For agentic AI applications in particular, thorough evaluation of reasoning, planning, and collaboration capabilities is essential for success. By approaching model selection systematically, organizations can avoid the common pitfalls of over-provisioning, misalignment with use case needs, excessive operational costs, and late discovery of performance issues. The investment in thorough evaluation pays dividends through optimized costs, improved performance, and superior user experiences. 
  
-About the authors 
-Shubhankar Sumar&nbsp;is a Senior Solutions Architect at AWS, where he specializes in architecting generative AI-powered solutions for enterprise software and SaaS companies across the UK. With a strong background in software engineering, Shubhankar excels at designing secure, scalable, and cost-effective multi-tenant systems on the cloud. His expertise lies in seamlessly integrating cutting-edge generative AI capabilities into existing SaaS applications, helping customers stay at the forefront of technological innovation. 
-Jesse Manders is a Senior Product Manager on Amazon Bedrock, the AWS Generative AI developer service. He works at the intersection of AI and human interaction with the goal of creating and improving generative AI products and services to meet our needs. Previously, Jesse held engineering team leadership roles at Apple and Lumileds, and was a senior scientist in a Silicon Valley startup. He has an M.S. and Ph.D. from the University of Florida, and an MBA from the University of California, Berkeley, Haas School of Business.
+About the author 
+Sandeep Singh is a Senior Generative AI Data Scientist at Amazon Web Services, helping businesses innovate with generative AI. He specializes in generative AI, machine learning, and system design. He has successfully delivered state-of-the-art AI/ML-powered solutions to solve complex business problems for diverse industries, optimizing efficiency and scalability.
 
 ⸻
