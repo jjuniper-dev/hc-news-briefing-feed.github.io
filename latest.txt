@@ -1,17 +1,17 @@
-✅ Morning News Briefing – August 23, 2025 10:42
+✅ Morning News Briefing – August 24, 2025 10:42
 
-📅 Date: 2025-08-23 10:42
+📅 Date: 2025-08-24 10:42
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  15.6°C
-  Temperature: 15.6&deg;C Pressure / Tendency: 101.2 kPa falling Humidity: 91 % Dewpoint: 14.0&deg:C Wind: NE 2 km/h Air Quality Health Index: n/a . Observed at: Pembroke 6:00 AM EDT Saturday 23 August 2025 . Weather: 15 degrees Celsius (C)
-• Saturday: A mix of sun and cloud. High 26.
-  Wind becoming south 20 km/h gusting to 40 late this morning . High 26. Humidex 31. UV index 8 or very high in the morning's very high risk of a very high UV index or very low risk of wind gusts of up to 40 mph in the afternoon . High of 26.5 degrees Celsius in the early hours of Saturday morning . Forecast issued
-• Saturday night: Chance of showers. Low 18. POP 60%
-  Mainly cloudy with 60 percent chance of showers and risk of a thunderstorm . Wind southwest 20 km/h becoming light this evening . Low 18.50/60/50/50 . Forecast issued 5:00 AM EDT Saturday 23 August 2025. Forecast: Showers, thunderstorms, rain, wind, rain and thunderstorms. Low 18/40/50.50
+• Current Conditions:  16.9°C
+  Temperature: 16.9/deg;C Pressure / Tendency: 100.8 kPa rising Humidity: 93 % Dewpoint: 15.8&deg:C Wind: SSW 5 km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Sunday 24 August 2025 Temperature: . 16/9/C Pressure: 100
+• Sunday: Chance of showers. High 25. POP 30%
+  A mix of sun and cloud with 30 percent chance of showers late this afternoon . Wind becoming southwest 20 km/h this morning . High 25. Humidex 27. UV index 7 or high, with a high UV index of 7 or very high . Rainy showers expected later this afternoon, with highs of 25.50 per cent chance of rain in the afternoon, forecasters predict
+• Sunday night: Chance of showers. Low 14. POP 30%
+  Mainly cloudy with 30 percent chance of showers . Low 14. Southerlyly cloudy . Showery weather forecast for Sunday, August 24, 2025 . Forecast issued 5:00 AM EDT Sunday 24 August 2025 . Weather will be mostly cloudy in the morning, with rain likely to fall in a few hours, then cool again in the afternoon . Low temperatures expected to drop to
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Trump makes over the Rose Garden, Mar-a-Lago style
-  Trump has swapped out the grass in the Rose Garden with stone, turning what had been a lawn into a patio . The patio bears a striking resemblance to one at his Mar-a-Lago resort in Palm Beach, Fla. Trump has replaced the lawn with a patio that bears a resemblance to a similar one at the resort . Trump has been criticized for his decision to replace the grass with
-• Judge blocks Trump from cutting funding over 'sanctuary' policies
-  A judge ruled the Trump administration cannot deny funding to Boston, Chicago, Los Angeles and 30 other cities and counties because of policies that limit cooperation with federal immigration efforts . A judge also ruled that the federal government can't deny funding for the cities because of immigration policies . The judge ruled that federal funding can't be denied to the cities of Boston and Chicago, Chicago and Los Angeles because of
-• As Trump touts D.C. arrests, experts caution they're not the best indicator of public safety
-  The Trump administration says it has arrested more than 700 people in Washington, D.C., in its mission to crack down on crime . Experts say it's difficult to draw conclusions from that about public safety . More than 700 arrests have been made in Washington since 2013, according to the Trump administration . The White House says it is cracking down on the crime in Washington and has arrested 700 people
-• Tour bus rollover kills 5 on interstate highway in western New York
-  A tour bus returning to New York City from Niagara Falls with 54 people on board crashed and rolled on a highway near Pembroke . Five passengers were killed and many others were injured in the crash . The bus was returning to NYC after Niagara Falls Falls, authorities said . The crash killed five passengers and injured many others, authorities say . The driver of the bus was killed in the
-• Famine is declared in Gaza: What does it take to make this pronouncement?
-  An announcement of famine — as has now happened regarding Gaza — is a complicated decision . Here's what must be considered before such a declaration is made, here's what to consider before it is declared a famine . The Gaza famine is a complex decision to make, especially in Gaza, and there are many ways to avoid it, such as to make sure it is not a famine declaration .
+• It was the costliest hurricane in U.S. history: Have we forgotten Katrina's lessons?
+  Nearly 1,400 people died after Hurricane Katrina crashed into Louisiana and Mississippi . Most of the deaths were in New Orleans, which has had an uneven recovery in the past 20 years . New Orleans has had a very uneven recovery since Hurricane Katrina, with many still recovering from the disaster . The recovery has been uneven in the last 20 years, with the city still recovering slowly from Hurricane Katrina .
+• The state of Michigan hopes its scents will bring people to visit
+  The state's tourism campaign offers a fragrance for the summer with notes of the beach, wineries and lavender . They struck a chord with some people relaxing by the water . The fragrance was created by the state's Tourism campaign . The campaign is based on a fragrance from the beach and wineries in the state of New Zealand . It is available on Amazon.com for more information .
+• Smithsonian artists and scholars respond to White House list of objectionable art
+  A page published by the White House titled "President Trump Is Right About the Smithsonian" lists exhibits, educational sites and more that the administration seems to take issue with . The administration has taken issue with some of the Smithsonian exhibits and educational sites that they say the administration is right about . The White House says the Smithsonian is "right" about the Smithsonian's exhibits, education and other sites .
+• Fans across the country raise their voices at 'KPop Demon Hunters' singalongs
+  Netflix's wildly popular movie about a fictitious all-girl rock band is hitting nearly 1,800 movie theaters around the country this weekend . A singalong version of the movie will be released in theaters this weekend as part of a singalong . The movie is based on a fictional fictional fictional band called the All-Girl Rockers, and is about to be released on Netflix this week .
+• Boxed in by shifting tariff rules, European shippers pause some U.S.-bound parcels
+  Many European postal agencies and companies say until new systems are set up they can't ship some goods . Gifts worth less than $100 are not affected . New customs regulations take effect August 29, and many companies say they won't be able to ship some items until new system is set up . Gift money is not affected by the new customs regulations, and gifts worth under $100 aren't
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
+• Bug bounties: The good, the bad, and the frankly ridiculous ways to do it
+  Thirty years ago, Netscape kicked off the first commercial bug bounty program . Since then, companies large and small have bought into the idea, with mixed results . For incentives remember the three Fs – finance, fame, and fixing it feature  For incentives, remember the 3 Fs: Remember the 3Fs – Finance, Fame, and Fix it feature . For incentive, remember
+• Search-capable AI agents may cheat on benchmark tests
+  Search-based AI models may cheat on benchmark tests by fetching the answers directly from online sources rather than deriving those answers through a "reasoning" process . Data contamination can make models seem more capable than they really are, says Scale AI . Researchers with Scale AI have found that search-based . AI models are more likely to cheat on benchmarks than they would otherwise be able to
+• VirtualBox 7.2 fixes flaky 3D guests and adds Arm-on-Arm support
+  Oracle-backed FOSS hypervisor a worthy rival to Hyper-V and VMware hands on hands on . VirtualBox 7.2 is here, bringing improved Arm-on-Arm virtualization features and better 3D acceleration support . The new version of VirtualBox will be available in the wild for the first time in the U.S. VirtualBox is now available in beta beta .
 • The Unix Epochalypse might be sooner than you think
   Museum boffins find code that crashes in 2037 . System restorers discover unsetting issue while working on ancient systems . Epochalypse, also known as the "Year 2038 problem," has come from the past . National Museum Of Computing system restorers have discovered an unsetting error in an ancient computer system . Back to Mail Online home .Back to the page you came
 • US government snaps up 10% of Intel for $8.9B
   The funds were already allocated under the CHIPS Act and Secure Enclave program . Congratulations America, your government now owns 10 percent of troubled domestic chipmaker Intel .……… Your government now now owns ten percent of struggling domestic chipmakers Intel . The funds are already allocated in the CHIP Act and the Secure Connections Act and secure Enclave Program . The government is now trying to
-• Google games numbers to make AI look less thirsty
-  Google claims to have cut Gemini's water consumption per prompt to roughly five drops of water . AI's drinking habit has been grossly overstated, according to a newly published report from Google, which claims that software advancements have cut its water consumption to about five drops per prompt . The report claims to be comparing apples to apples to oranges, but it's substantially less than prior estimates of water consumption
-• Short circuit: Electronics supplier to tech giants suffers ransomware shutdown
-  Data I/O, a major electronics manufacturer whose customers include Amazon, Apple, Google, and Microsoft, notified federal regulators that it fell victim to a ransomware infection on August 16 that continues to disrupt its business operations . The manufacturer's customers include Google, Amazon, Microsoft, Apple and Google, among major customers . The company says it has been hit by the malware that has disrupted its business
-• AI giants call for energy grid kumbaya
-  Microsoft, Nvidia, and OpenAI researchers warn of uneven power usage associated with AI training . They propose ways to normalize power usage during AI training for software, hardware, infrastructure, and utilities for help finding ways of normalizing power demand during training . Microsoft and Nvidia have issued a call to designers of software and hardware to find ways to reduce power usage in training AI training, and propose
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• Genomic epidemiology of Mycobacterium tuberculosis in Wales
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Human activity-aware coverage path planning for robot-based mosquito control
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • U.S. trust in physicians as key public health messengers during the H5N1 avian influenza outbreak
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Knowledge, attitudes, and practices regarding home-based cardiac rehabilitation in patients with chronic heart failure
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Southern Vietnamese women’s views on HPV vaccination, cervical cancer screening, and HPV self-sampling
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• RFK Jr demanded a vaccine study be retracted — the journal said no
+• One Health approach uncovers emergence and dynamics of Usutu and West Nile viruses in the Netherlands
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -2313,9 +2313,6 @@ By iterating through simulation, evaluation, and integration, MindJourney ca
 	
 		
 
-		
-		Spotlight: Event Series
-	
 	
 	
 						
@@ -2326,14 +2323,14 @@ By iterating through simulation, evaluation, and integration, MindJourney ca
 			
 			
 
-									Microsoft Research Forum
+									Azure AI Foundry Labs
 				
-								Join us for a continuous exchange of ideas about research in the era of general AI. Watch the first four episodes on demand.
+								Get a glimpse of potential future directions for AI, with these experimental technologies from Microsoft Research.
 				
 								
 					
 						
-							Watch on-demand						
+							Azure AI Foundry						
 					
 				
 							
