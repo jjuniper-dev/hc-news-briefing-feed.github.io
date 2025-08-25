@@ -1,17 +1,17 @@
-✅ Morning News Briefing – August 24, 2025 10:42
+✅ Morning News Briefing – August 25, 2025 10:46
 
-📅 Date: 2025-08-24 10:42
+📅 Date: 2025-08-25 10:46
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  16.9°C
-  Temperature: 16.9/deg;C Pressure / Tendency: 100.8 kPa rising Humidity: 93 % Dewpoint: 15.8&deg:C Wind: SSW 5 km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Sunday 24 August 2025 Temperature: . 16/9/C Pressure: 100
-• Sunday: Chance of showers. High 25. POP 30%
-  A mix of sun and cloud with 30 percent chance of showers late this afternoon . Wind becoming southwest 20 km/h this morning . High 25. Humidex 27. UV index 7 or high, with a high UV index of 7 or very high . Rainy showers expected later this afternoon, with highs of 25.50 per cent chance of rain in the afternoon, forecasters predict
-• Sunday night: Chance of showers. Low 14. POP 30%
-  Mainly cloudy with 30 percent chance of showers . Low 14. Southerlyly cloudy . Showery weather forecast for Sunday, August 24, 2025 . Forecast issued 5:00 AM EDT Sunday 24 August 2025 . Weather will be mostly cloudy in the morning, with rain likely to fall in a few hours, then cool again in the afternoon . Low temperatures expected to drop to
+• Current Conditions: Fog Patches, 11.5°C
+  Temperature: 11.5&deg;C Pressure: 100.6 kPa Visibility: 24 km Humidity: 95 % Dewpoint: 10.7&deg:C Wind:  calm km/h Air Quality Health Index: n/a . Observed at: Garrison Petawawa 6:00 AM EDT Monday 25 August 2025 Condition: Fog Patches . Visibility
+• Monday: Chance of showers. High 20. POP 30%
+  Cloudy with 30 percent chance of showers this afternoon . Wind becoming west 20 km/h gusting to 40 this morning . High 20. UV index 5 or moderate . UV index five or moderate at the time of the day, with the chance of rain in the afternoon . Forecast issued at 5:00 AM EDT Monday 25 August 2025 - August 25 August 25, August 25 .
+• Monday night: Chance of showers. Low 9. POP 30%
+  Cloudy. 30 percent chance of showers early this evening . Wind west 30 km/h gusting to 50. Low 9.50C is expected to be sunny and breezy in the morning . Forecast issued 5:00 AM EDT Monday 25 August 2025 . Rainy. Showery. Cloudy, rainy, windy, breezy and windy . Shower
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• It was the costliest hurricane in U.S. history: Have we forgotten Katrina's lessons?
-  Nearly 1,400 people died after Hurricane Katrina crashed into Louisiana and Mississippi . Most of the deaths were in New Orleans, which has had an uneven recovery in the past 20 years . New Orleans has had a very uneven recovery since Hurricane Katrina, with many still recovering from the disaster . The recovery has been uneven in the last 20 years, with the city still recovering slowly from Hurricane Katrina .
-• The state of Michigan hopes its scents will bring people to visit
-  The state's tourism campaign offers a fragrance for the summer with notes of the beach, wineries and lavender . They struck a chord with some people relaxing by the water . The fragrance was created by the state's Tourism campaign . The campaign is based on a fragrance from the beach and wineries in the state of New Zealand . It is available on Amazon.com for more information .
-• Smithsonian artists and scholars respond to White House list of objectionable art
-  A page published by the White House titled "President Trump Is Right About the Smithsonian" lists exhibits, educational sites and more that the administration seems to take issue with . The administration has taken issue with some of the Smithsonian exhibits and educational sites that they say the administration is right about . The White House says the Smithsonian is "right" about the Smithsonian's exhibits, education and other sites .
-• Fans across the country raise their voices at 'KPop Demon Hunters' singalongs
-  Netflix's wildly popular movie about a fictitious all-girl rock band is hitting nearly 1,800 movie theaters around the country this weekend . A singalong version of the movie will be released in theaters this weekend as part of a singalong . The movie is based on a fictional fictional fictional band called the All-Girl Rockers, and is about to be released on Netflix this week .
-• Boxed in by shifting tariff rules, European shippers pause some U.S.-bound parcels
-  Many European postal agencies and companies say until new systems are set up they can't ship some goods . Gifts worth less than $100 are not affected . New customs regulations take effect August 29, and many companies say they won't be able to ship some items until new system is set up . Gift money is not affected by the new customs regulations, and gifts worth under $100 aren't
+• These fish may feel pleasure while being groomed by other fish
+  An experiment with threadfin butterflyfish finds that these fish may experience pleasure while being cleaned by bluestreak cleaner wrasse . This capacity goes far back in animal evolution, suggesting this capacity may have gone back to animal evolution . It is thought to be a sign that this capacity has been developed by evolution since early in life, perhaps in the form of pleasure, perhaps through pleasure .
+• South Korean President Lee to meet with Trump in Washington on Monday
+  The U.S. and South Korean presidents will discuss modernizing their 71-year-old alliance . They will also discuss fleshing out a trade deal reached last month . The two countries will meet in Washington, D.C. on Monday to discuss their 71 year alliance . The South Korea-U.N. Korea summit will take place in Washington on Monday in Washington D
+• Confusion, explosive anger, waiting: A 'quiet' day in New York immigration court
+  Dozens of immigration courts across the country have become epicenters of the Trump administration's efforts to increase the rate of immigration arrests . Immigration courts have been key to the administration's crackdown on immigration arrests in recent years . The courts have also been the focus of efforts to crack down on illegal immigrants in the U.S. and illegal immigrants from Mexico . The immigration courts have become key to
+• 20 years after Katrina, New Orleans schools are still 'a work in progress'
+  The city's school system looks almost nothing like it did 20 years ago . People in New Orleans have strong opinions about whether that's good or bad, but the data is hard to argue with . New Orleans school system is almost unrecognizable 20 years from when the city was at the peak of the school system's heyday . The city has a history of changing its education system dramatically .
+• How a nurse's call eased a daughter's burden
+  Ashley Ludlow's mother passed away in the hospital in 2005 . She had followed her mother's wishes and asked that she not be resuscitated . That decision weighed heavy on her until a nurse reassured her that she had been reassured by a nurse . The decision to resuscitate her mother weighed on until she was reassured she was not resuscitated by the nurse . Ludlow: "It's
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Bug bounties: The good, the bad, and the frankly ridiculous ways to do it
-  Thirty years ago, Netscape kicked off the first commercial bug bounty program . Since then, companies large and small have bought into the idea, with mixed results . For incentives remember the three Fs – finance, fame, and fixing it feature  For incentives, remember the 3 Fs: Remember the 3Fs – Finance, Fame, and Fix it feature . For incentive, remember
-• Search-capable AI agents may cheat on benchmark tests
-  Search-based AI models may cheat on benchmark tests by fetching the answers directly from online sources rather than deriving those answers through a "reasoning" process . Data contamination can make models seem more capable than they really are, says Scale AI . Researchers with Scale AI have found that search-based . AI models are more likely to cheat on benchmarks than they would otherwise be able to
-• VirtualBox 7.2 fixes flaky 3D guests and adds Arm-on-Arm support
-  Oracle-backed FOSS hypervisor a worthy rival to Hyper-V and VMware hands on hands on . VirtualBox 7.2 is here, bringing improved Arm-on-Arm virtualization features and better 3D acceleration support . The new version of VirtualBox will be available in the wild for the first time in the U.S. VirtualBox is now available in beta beta .
-• The Unix Epochalypse might be sooner than you think
-  Museum boffins find code that crashes in 2037 . System restorers discover unsetting issue while working on ancient systems . Epochalypse, also known as the "Year 2038 problem," has come from the past . National Museum Of Computing system restorers have discovered an unsetting error in an ancient computer system . Back to Mail Online home .Back to the page you came
-• US government snaps up 10% of Intel for $8.9B
-  The funds were already allocated under the CHIPS Act and Secure Enclave program . Congratulations America, your government now owns 10 percent of troubled domestic chipmaker Intel .……… Your government now now owns ten percent of struggling domestic chipmakers Intel . The funds are already allocated in the CHIP Act and the Secure Connections Act and secure Enclave Program . The government is now trying to
+• Junk is the new punk: Why we're falling back in love with retro tech
+  Taylor Swift dropped Life of a Showgirl on digital, vinyl, and the old jewel-cased pencil spinners . It's 2025 and the latest mega-album has just been released – on cassette tape . They're still with us, complete with tape tangling and endless rewinding to find that specific track you love. It was a simpler time, but the old cassette tape
+• CIO made a dangerous mistake and ordered his security team to implement it
+  Who, Me? is The Register's reader-contributed column that shares your missives about massive mistakes, and how you managed to move on after them . It's the latest instalment of the weekly column from The Register . Read the latest edition of the column, "Who, Me?" and follow it on Twitter @dailymailonline.com/newsstandstanders .
+• Mysterious X-37B spaceplane flies again, this time carrying a quantum GPS alternative
+  US military's Boeing-built X-37B spaceplane is in space again for its eighth mission . Satnav birds would be a high-priority target in war . This tech could be a more resilient alternative to traditional navigation systems . The US military’s Boeing-made X-38B space plane is in orbit for its 8th mission in space . It is the first
+• Australian university used Wi-Fi location data to identify student protestors
+  Australia’s University of Melbourne last year used Wi-Fi location data to identify student protestors . SK Hynix cranks out 321-layer SSDs; Fastly re-thinking CDNs for Asia; and more! Asia In Brief: India bans ‘money’ games, India bans 'money” games; SKHynix canks out 320-layer
+• AWS, Cloudflare, Digital Ocean, and Google helped Feds investigate alleged Rapper Bot DDoS perp
+  Infosec in brief: Comet AI browser fooled; Microsoft sets sail for quantum safety . Sailor sent down for espionage in brief; Sailor sent home for espionage . Microsoft sets up for quantum security; Sailor sends home for spying . Plus, we learn more about how to use the Internet's AI-powered browser to make sense of the world's most powerful super-advanced machines . Inf
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• Time Profile of U.S. Neighborhoods: Datasets of Time Use at Social Infrastructure Places
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• The role of parental health knowledge and practices in mitigating obesity risks among preschool children
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Genomic epidemiology of Mycobacterium tuberculosis in Wales
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Human activity-aware coverage path planning for robot-based mosquito control
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • U.S. trust in physicians as key public health messengers during the H5N1 avian influenza outbreak
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Knowledge, attitudes, and practices regarding home-based cardiac rehabilitation in patients with chronic heart failure
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• One Health approach uncovers emergence and dynamics of Usutu and West Nile viruses in the Netherlands
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,8 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• How lidar measures the cost of climate disasters
+  Lidar is helping scientists track the effects of climate-driven disasters . The Eaton and Palisades fires in California in 2025 left an indelible mark on the landscape . Researchers are now using lidar (light detection and ranging) technology to precisely measure changes in the landscape’s geometry . The resulting visualizations reveal the scale of devastation in ways satellite imagery can’t match .
 • The Download: Google’s AI energy expenditure, and handing over DNA data to the police
   This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
 
@@ -602,192 +604,6 @@ I’m still ready to join a national crime-fighting database, but I regret doing
 
 
 This article first appeared in The Checkup,&nbsp;MIT Technology Review’s&nbsp;weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first,&nbsp;sign up here.
-• The Download: Ukraine’s Starlink repair shop, and predicting solar storms
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
-
-
-
-On the ground in Ukraine’s largest Starlink repair shop
-
-
-
-Starlink is absolutely critical to Ukraine’s ability to continue in the fight against Russia. It’s how troops in battle zones stay connected with faraway HQs; it’s how many of the drones essential to Ukraine’s survival hit their targets; it’s even how soldiers stay in touch with spouses and children back home.However, Donald Trump’s fickle foreign policy and reports suggesting Elon Musk might remove Ukraine’s access to the services have cast the technology’s future in the country into doubt.For now Starlink access largely comes down to the unofficial community of users and engineers, including the expert “Dr. Starlink”—famous for his creative ways of customizing the systems—who have kept Ukraine in the fight, both on and off the front line. Together, they have repaired and customized more than 15,000 terminals since the war began.Despite the pressure, the chance that they may lose access to Starlink was not worrying volunteers at the time of my visit; in our conversations, it was clear they had more pressing concerns than the whims of a foreign tech mogul. Russia continues to launch frequent aerial bombardments of Ukrainian cities, sometimes sending more than 500 drones in a single night.&nbsp;
-
-
-
-The threat of involuntary mobilization to the front line looms on every street corner. How can one plan for a hypothetical future crisis when crisis defines every minute of one’s day? Read the full story.
-
-
-
-—Charlie Metcalfe
-
-
-
-This story is from our forthcoming print issue, which is all about security. If you haven’t already, subscribe now to receive future issues once they land.
-
-
-
-This article is also part of the Big Story series: MIT Technology Review’s most important, ambitious reporting. The stories in the series take a deep look at the technologies that are coming next and what they will mean for us and the world we live in. Check out the rest of them here.
-
-
-
-
-
-
-
-NASA’s new AI model can predict when a solar storm may strike
-
-
-
-NASA and IBM have released a new open-source machine learning model to help scientists better understand and predict the physics and weather patterns of the sun. Surya, trained on over a decade’s worth of NASA solar data, should help give scientists an early warning when a dangerous solar flare is likely to hit Earth.
-
-
-
-Solar storms occur when the sun erupts energy and particles into space. They can produce solar flares and slower-moving coronal mass ejections that can disrupt radio signals, flip computer bits onboard satellites, and endanger astronauts with bursts of radiation.&nbsp;
-
-
-
-While there’s no way to prevent these sorts of effects, being able to predict when a large solar flare will occur could let people work around them. Read the full story.
-
-
-
-—Peter Hall
-
-
-
-
-
-
-
-Why recycling isn’t enough to address the plastic problem
-
-
-
-I remember using a princess toothbrush when I was little. The handle was purple, teal, and sparkly. Like most of the other pieces of plastic that have ever been made, it’s probably still out there somewhere, languishing in a landfill. (I just hope it’s not in the ocean.)
-
-
-
-I’ve been thinking about that toothbrush again this week after UN talks about a plastic treaty broke down on Friday. Nations had gotten together to try and write a binding treaty to address plastic waste, but negotiators left without a deal.
-
-
-
-Plastic is widely recognized as a huge source of environmental pollution—again, I’m wondering where that toothbrush is—but the material is also a contributor to climate change. Let’s dig into why talks fell apart and how we might address emissions from plastic.
-
-
-
-—Casey Crownhart
-
-
-
-This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 Google is betting that AI can help you take better photos
-
-
-
-So long as you don’t try zooming in on someone’s face, that is. (WP $)+ Gemini is getting a new audio model capable of detecting tone. (TechCrunch)+ Google’s AI efforts are certainly outpacing those of its hardware rival Apple. (Bloomberg $)
-
-
-
-2 Meta’s AI hiring spree is on pauseInvestors are increasingly concerned by the mad sums being bandied about. (WSJ $)
-
-
-
-3 China is preparing to show off its hypersonic missilesThe world will be watching its military parade closely next month. (FT $)+ Meanwhile, India has tested a missile that could hit deep into China. (The Guardian)+ Taiwan’s “silicon shield” could be weakening. (MIT Technology Review)
-
-
-
-4 RFK Jr. wants to send you MAHA food boxesBut concrete details are light on the ground. (The Atlantic $)+ How MAHA is shaking up packaged goods’ supply chains. (Fortune $)
-
-
-
-5 Extreme heat is driving cases of Legionnaire’s disease in NYCOlder air conditioning infrastructure is helping to spread dangerous bacteria. (Vox)+ A fifth person has died in connection with the current outbreak. (ABC News)
-
-
-
-6 What it’s like to vibecode for a massive startupManaging AI coding apps is a whole lot like herding interns, supposedly. (Wired $)+ What is vibe coding, exactly? (MIT Technology Review)
-
-
-
-7 Starship’s rocket launch could delay flights in FloridaEven after the launch is completed. (TechCrunch)
-
-
-
-8 This app will help you find the sunniest spots in Paris The community-driven Jveuxdusoleil is updated in real time. (The Guardian)
-
-
-
-9 The world’s only public diamond mine is in Arkansas Visitors have unearthed more than 35,000 precious gems since it opened. (Ars Technica)
-
-
-
-10 It turns out Uranus had a hidden moon all alongAnd many more may be discovered in the future. (NYT $)+ It’s the 29th known satellite to orbit the planet. (Scientific American $)+ The moon is just the beginning for this waterless concrete. (MIT Technology Review)
-
-
-
-
-
-
-
-Quote of the day
-
-
-
-“It jumbles my freaking nugget that people can look at a squat and not understand how it’s supposed to look. You don’t need AI to do that.”
-
-
-
-—Andrew Hiller, a CrossFit coach and critic of poorly-executed squats, tells the New York Times why doing away with vigilant human judges for the popular fitness race Hyrox would be a mistake.
-
-
-
-
-
-
-
-One more thing
-
-
-
-
-
-
-
-Are friends electric?Thankfully, the difference between humans and machines in the real world is easy to discern, at least for now. While machines tend to excel at things adults find difficult—playing world-champion-level chess, say, or multiplying really big numbers—they find it hard to accomplish stuff a five-year-old can do with ease, such as catching a ball or walking around a room without bumping into things.This fundamental tension—what is hard for humans is easy for machines, and what’s hard for machines is easy for humans—is at the heart of three new books delving into our complex and often fraught relationship with robots, AI, and automation. They force us to reimagine the nature of everything from friendship and love to work, health care, and home life. Read the full story.
-
-
-
-—Bryan Gardiner
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+ Take a minute out of your day to admire these stunning images of the night sky.+ The remarkable story of how Sweden managed to transport an entire church five kilometers down the road.+ Are you a proud ugly shoe owner? (Birkenstock hive rise up)+ We have ways of making you talk, Stretch Armstrong.
 
 🔒 Cybersecurity & Privacy
 • SIM-Swapper, Scattered Spider Hacker Gets 10 Years
@@ -806,39 +622,6 @@ Reached via one of his King Bob accounts on Twitter/X, Urban called the sentence
 &#8220;The judge purposefully ignored my age as a factor because of the fact another Scattered Spider member hacked him personally during the course of my case,&#8221; Urban said in reply to questions, noting that he was sending the messages from a Florida county jail. &#8220;He should have been removed as a judge much earlier on. But staying in county jail is torture.&#8221;
 A court transcript (PDF) from a status hearing in February 2025 shows Urban was telling the truth about the hacking incident that happened while he was in federal custody. It involved an intrusion into a magistrate judge&#8217;s email account, where a copy of Urban&#8217;s sealed indictment was stolen. The judge told attorneys for both sides that a co-defendant in the California case was trying to find out about Mr. Urban&#8217;s activity in the Florida case.
 &#8220;What it ultimately turned into a was a big faux pas,&#8221; Judge Harvey E. Schlesinger said. &#8220;The Court&#8217;s password&#8230;business is handled by an outside contractor. And somebody called the outside contractor representing Judge Toomey saying, &#8216;I need a password change.&#8217; And they gave out the password change. That&#8217;s how whoever was making the phone call got into the court.&#8221;
-• Oregon Man Charged in ‘Rapper Bot’ DDoS Service
-  A 22-year-old Oregon man has been arrested on suspicion of operating &#8220;Rapper Bot,&#8221; a massive botnet used to power a service for launching distributed denial-of-service (DDoS) attacks against targets &#8212; including a March 2025 DDoS that knocked Twitter/X offline. The Justice Department asserts the suspect and an unidentified co-conspirator rented out the botnet to online extortionists, and tried to stay off the radar of law enforcement by ensuring that their botnet was never pointed at KrebsOnSecurity.
-The control panel for the Rapper Bot botnet greets users with the message &#8220;Welcome to the Ball Pit, Now with refrigerator support,&#8221; an apparent reference to a handful of IoT-enabled refrigerators that were enslaved in their DDoS botnet.
-On August 6, 2025, federal agents arrested Ethan J. Foltz of Springfield, Ore. on suspicion of operating Rapper Bot, a globally dispersed collection of tens of thousands of hacked Internet of Things (IoT) devices.
-The complaint against Foltz explains the attacks usually clocked in at more than two terabits of junk data per second (a terabit is one trillion bits of data), which is more than enough traffic to cause serious problems for all but the most well-defended targets. The government says Rapper Bot consistently launched attacks that were &#8220;hundreds of times larger than the expected capacity of a typical server located in a data center,&#8221; and that some of its biggest attacks exceeded six terabits per second.
-Indeed, Rapper Bot was reportedly responsible for the March 10, 2025 attack that caused intermittent outages on Twitter/X. The government says Rapper Bot&#8217;s most lucrative and frequent customers were involved in extorting online businesses &#8212; including numerous gambling operations based in China.
-The criminal complaint was written by Elliott Peterson, an investigator with the Defense Criminal Investigative Service (DCIS), the criminal investigative division of the Department of Defense (DoD) Office of Inspector General. The complaint notes the DCIS got involved because several Internet addresses maintained by the DoD were the target of Rapper Bot attacks.
-Peterson said he tracked Rapper Bot to Foltz after a subpoena to an ISP in Arizona that was hosting one of the botnet&#8217;s control servers showed the account was paid for via PayPal. More legal process to PayPal revealed Foltz&#8217;s Gmail account and previously used IP addresses. A subpoena to Google showed the defendant searched security blogs constantly for news about Rapper Bot, and for updates about competing DDoS-for-hire botnets.
-According to the complaint, after having a search warrant served on his residence the defendant admitted to building and operating Rapper Bot, sharing the profits 50/50 with a person he claimed to know only by the hacker handle &#8220;Slaykings.&#8221; Foltz also shared with investigators the logs from his Telegram chats, wherein Foltz and Slaykings discussed how best to stay off the radar of law enforcement investigators while their competitors were getting busted.
-Specifically, the two hackers chatted about a May 20 attack against KrebsOnSecurity.com that clocked in at more than 6.3 terabits of data per second. The brief attack was notable because at the time it was the largest DDoS that Google had ever mitigated (KrebsOnSecurity sits behind the protection of Project Shield, a free DDoS defense service that Google provides to websites offering news, human rights, and election-related content).
-The May 2025 DDoS was launched by an IoT botnet called Aisuru, which I discovered was operated by a 21-year-old man in Brazil named Kaike Southier Leite. This individual was more commonly known online as &#8220;Forky,&#8221; and Forky told me he wasn&#8217;t afraid of me or U.S. federal investigators. Nevertheless, the complaint against Foltz notes that Forky&#8217;s botnet seemed to diminish in size and firepower at the same time that Rapper Bot&#8217;s infection numbers were on the upswing.
-&#8220;Both FOLTZ and Slaykings were very dismissive of attention seeking activities, the most extreme of which, in their view, was to launch DDoS attacks against the website of the prominent cyber security journalist Brian Krebs,&#8221; Peterson wrote in the criminal complaint.
-&#8220;You see, they’ll get themselves [expletive],&#8221; Slaykings wrote in response to Foltz&#8217;s comments about Forky and Aisuru bringing too much heat on themselves.
-&#8220;Prob cuz [redacted] hit krebs,&#8221; Foltz wrote in reply.
-&#8220;Going against Krebs isn’t a good move,&#8221; Slaykings concurred. &#8220;It isn’t about being a [expletive] or afraid, you just get a lot of problems for zero money. Childish, but good. Let them die.&#8221;
-&#8220;Ye, it’s good tho, they will die,&#8221; Foltz replied.
-The government states that just prior to Foltz&#8217;s arrest, Rapper Bot had enslaved an estimated 65,000 devices globally. That may sound like a lot, but the complaint notes the defendants weren&#8217;t interested in making headlines for building the world&#8217;s largest or most powerful botnet.
-Quite the contrary: The complaint asserts that the accused took care to maintain their botnet in a &#8220;Goldilocks&#8221; size &#8212; ensuring that &#8220;the number of devices afforded powerful attacks while still being manageable to control and, in the hopes of Foltz and his partners, small enough to not be detected.&#8221;
-The complaint states that several days later, Foltz and Slaykings returned to discussing what that they expected to befall their rival group, with Slaykings stating, &#8220;Krebs is very revenge. He won’t stop until they are [expletive] to the bone.&#8221;
-&#8220;Surprised they have any bots left,&#8221; Foltz answered.
-&#8220;Krebs is not the one you want to have on your back. Not because he is scary or something, just because he will not give up UNTIL you are [expletive] [expletive]. Proved it with Mirai and many other cases.&#8221;
-[Unknown expletives aside, that may well be the highest compliment I&#8217;ve ever been paid by a cybercriminal. I might even have part of that quote made into a t-shirt or mug or something. It&#8217;s also nice that they didn&#8217;t let any of their customers attack my site &#8212; if even only out of a paranoid sense of self-preservation.]
-Foltz admitted to wiping the user and attack logs for the botnet approximately once a week, so investigators were unable to tally the total number of attacks, customers and targets of this vast crime machine. But the data that was still available showed that from April 2025 to early August, Rapper Bot conducted over 370,000 attacks, targeting 18,000 unique victims across 1,000 networks, with the bulk of victims residing in China, Japan, the United States, Ireland and Hong Kong (in that order).
-According to the government, Rapper Bot borrows much of its code from fBot, a DDoS malware strain also known as Satori. In 2020, authorities in Northern Ireland charged a then 20-year-old man named Aaron &#8220;Vamp&#8221; Sterritt with operating fBot with a co-conspirator. U.S. prosecutors are still seeking Sterritt&#8217;s extradition to the United States. fBot is itself a variation of the Mirai IoT botnet that has ravaged the Internet with DDoS attacks since its source code was leaked back in 2016.
-The complaint says Foltz and his partner did not allow most customers to launch attacks that were more than 60 seconds in duration &#8212; another way they tried to keep public attention to the botnet at a minimum. However, the government says the proprietors also had special arrangements with certain high-paying clients that allowed much larger and longer attacks.
-The accused and his alleged partner made light of this blog post about the fallout from one of their botnet attacks.
-Most people who have never been on the receiving end of a monster DDoS attack have no idea of the cost and disruption that such sieges can bring. The DCIS&#8217;s Peterson wrote that he was able to test the botnet&#8217;s capabilities while interviewing Foltz, and that found that &#8220;if this had been a server upon which I was running a website, using services such as load balancers, and paying for both outgoing and incoming data, at estimated industry average rates the attack (2+ Terabits per second times 30 seconds) might have cost the victim anywhere from $500 to $10,000.&#8221;
-&#8220;DDoS attacks at this scale often expose victims to devastating financial impact, and a potential alternative, network engineering solutions that mitigate the expected attacks such as overprovisioning, i.e. increasing potential Internet capacity, or DDoS defense technologies, can themselves be prohibitively expensive,&#8221; the complaint continues. &#8220;This &#8216;rock and a hard place&#8217; reality for many victims can leave them acutely exposed to extortion demands – &#8216;pay X dollars and the DDoS attacks stop&#8217;.&#8221;
-The Telegram chat records show that the day before Peterson and other federal agents raided Foltz&#8217;s residence, Foltz allegedly told his partner he&#8217;d found 32,000 new devices that were vulnerable to a previously unknown exploit.
-Foltz and Slaykings discussing the discovery of an IoT vulnerability that will give them 32,000 new devices.
-Shortly before the search warrant was served on his residence, Foltz allegedly told his partner that &#8220;Once again we have the biggest botnet in the community.&#8221; The following day, Foltz told his partner that it was going to be a great day &#8212; the biggest so far in terms of income generated by Rapper Bot.
-&#8220;I sat next to Foltz while the messages poured in &#8212; promises of $800, then $1,000, the proceeds ticking up as the day went on,&#8221; Peterson wrote. &#8220;Noticing a change in Foltz&#8217; behavior and concerned that Foltz was making changes to the botnet configuration in real time, Slaykings asked him &#8216;What&#8217;s up?&#8217; Foltz deftly typed out some quick responses. Reassured by Foltz&#8217; answer, Slaykings responded, &#8216;Ok, I&#8217;m the paranoid one.&#8221;
-The case is being prosecuted by Assistant U.S. Attorney Adam Alexander in the District of Alaska (at least some of the devices found to be infected with Rapper Bot were located there, and it is where Peterson is stationed). Foltz faces one count of aiding and abetting computer intrusions. If convicted, he faces a maximum penalty of 10 years in prison, although a federal judge is unlikely to award anywhere near that kind of sentence for a first-time conviction.
 
 🎓 University AI
 No updates.
@@ -2313,6 +2096,9 @@ By iterating through simulation, evaluation, and integration, MindJourney ca
 	
 		
 
+		
+		Spotlight: Event Series
+	
 	
 	
 						
@@ -2323,14 +2109,14 @@ By iterating through simulation, evaluation, and integration, MindJourney ca
 			
 			
 
-									Azure AI Foundry Labs
+									Microsoft Research Forum
 				
-								Get a glimpse of potential future directions for AI, with these experimental technologies from Microsoft Research.
+								Join us for a continuous exchange of ideas about research in the era of general AI. Watch the first four episodes on demand.
 				
 								
 					
 						
-							Azure AI Foundry						
+							Watch on-demand						
 					
 				
 							
