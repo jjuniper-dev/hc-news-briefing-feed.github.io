@@ -1,17 +1,17 @@
-✅ Morning News Briefing – August 28, 2025 10:44
+✅ Morning News Briefing – August 29, 2025 10:43
 
-📅 Date: 2025-08-28 10:44
+📅 Date: 2025-08-29 10:43
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  11.3°C
-  Temperature: 11.3&deg;C Pressure / Tendency: 101.3 kPa falling Humidity: 98 % Humidity : 98 % Dewpoint: 11 .0&deg:C Wind: E 4 km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Thursday 28 August 2025 . Weather: Pem Broke
-• Thursday: Showers. High 17.
-  Showers ending this afternoon then cloudy with 30 percent chance of showers . Risk of a thunderstorm this morning and early this afternoon . Amount of rain is expected to fall 20 to 30 mm. High 17. UV index 2 or low. Showery weather expected to be mainly sunny and breezy in the morning . Rain expected to drop to 20 to 20 inches in the afternoon . Rain
-• Thursday night: Chance of showers. Low 8. POP 30%
-  Cloudy with 30 percent chance of showers. Low 8.70s . Rainy, chilly, cloudy with rain showers forecast for Thursday, August 28, 2025 . Forecast issued 5:00 AM EDT Thursday 28 August 2025 . Rainfall expected to drop to 70s, 70s and 80s in the next few days . Rain expected to fall to 60s and 70s .
+• Current Conditions:  11.0°C
+  Temperature: 11.0&deg;C Pressure / Tendency: 101.6 kPa rising Humidity: 87 % Dewpoint: 8.9&deg:C Wind: WNW 12 km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Friday 29 August 2025 . Weather forecast: 11:11.0/deg
+• Friday: Chance of showers. High 17. POP 30%
+  Cloudy. 30 percent chance of showers this afternoon . High 17. UV index 4 or moderate . High 18.50C in the morning of Monday, Tuesday morning of Tuesday, Wednesday morning of Wednesday, Wednesday of Wednesday . Rainy. Showers will continue to fall through the night, rain will also fall through Friday afternoon . Forecast issued 5:00 AM EDT Friday 29 August
+• Friday night: Chance of showers. Low 7. POP 30%
+  Mainly cloudy. 30 percent chance of showers this evening . Low 7.50% chance of rain this evening. Mainly sunny, cloudy with rain showers forecast . Low 70% of rain is possible in the morning . Forecast issued 5:00 AM EDT Friday 29 August 2025. For more information, visit http://www.cnnnn.com/news/events/events
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Denmark summons U.S. envoy over claims of interference in Greenland
-  Denmark's foreign minister summoned the top U.S. diplomat in the country for talks . Danish broadcaster reports that at least three people with connections to President Donald Trump have been carrying out covert influence operations in Greenland . Danish media report that three people connected to Trump have carried out covert operations . Denmark's Foreign Minister summoned the U.N. diplomat for talks after the report . Denmark says it
-• 70 years after Emmett Till's murder, Mississippi museum acquires gun used to kill him
-  Emmett Till, a Black teenager visiting relatives in Mississippi, was killed by white men because he whistled at a white woman . Now the gun used in his death is in a museum in the state of Mississippi . It's been 70 years since the teen was shot dead by a white man in the head after whistling at a woman in the town . The gun was used in
-• Speaker Johnson slashed Medicaid. His constituents could lose health services
-  In Mike Johnson's district, health centers are bracing for a financial hit . They're hoping for additional funding to make up for Medicaid cuts . Medicaid cuts could lead to thousands of Louisianians losing coverage . Health centers are hoping for more funding to cover up for the Medicaid cuts in the state's Medicaid program, which is under fire from the state legislature and the governor's office .
-• 'AI slop' videos may be annoying, but they're racking up views — and ad money
-  Critics say that "slop" videos made with generative AI are repetitive or useless . But they get millions of views — and platforms are grappling with what to do about them . Platforms are struggling to figure out how to deal with the problem of AI-generated videos . The problem is that they are often repetitive and useless, but they often make millions of YouTube videos . They get
-• What will the end of the 'de minimis' rule mean for U.S. consumers?
-  On Friday, the U.S. is ending its de minimis rule that made it easy for cheap goods to reach consumers . The change will affect roughly 4 million such packages processed each day . Change will affect about 4 million packages processed every day . The de-minimis rule is ending on Friday, ending the rule that makes it easy to get cheap goods into people's hands
+• Thai court dismisses prime minister over compromising phone call with Cambodian leader
+  Thailand's Constitutional Court dismissed Paetongtarn Shinawatra from her position as prime minister . The court ruled that as the country's leader she violated constitutional rules on ethics . She violated the rules as a prime minister, ruling that she violated the constitution's rules of ethics . The decision was made by the Constitutional Court on Friday in Thailand's highest court in the country on Friday .
+• The Trump administration wants to build more roads through national forests
+  The Trump administration argues that rescinding the 2001 Roadless Rule will help wildland firefighters . Fire researchers warn that more roads could exacerbate the problem of wildland firefighting . The administration argues the rule will help firefighters in wildland areas . More roads are needed to help firefighters, researchers say . The rule is set to be rescinded by the end of next year, but experts say it
+• Contract breach or banditry? Inside the collapse of the Taliban's oil deal with China
+  Two years after the oil deal was signed, it collapsed — with the Taliban accusing the Chinese company of breaching the contract . Some Chinese employees likened the Taliban's actions to robbery . Taliban accuse the company of breach of the contract and some employees liken it to robbery. Some Chinese workers liken Taliban's action to robbery, according to some Chinese employees . The Taliban accuse Chinese oil company
+• Talking to kids about school shootings. Be truthful and follow their lead
+  Parents are struggling to figure out what to say to their children after another school shooting . We talked to some experts, who offered these guidelines . Parents are also struggling to think of what to tell their children about the school shootings . Experts offer these guidelines to parents of children in the wake of a school shooting in California . Click here for more information on how to talk to your child about the
+• College football season is here. Here's what to know ahead of Saturday's kickoff
+  This weekend features three top-10 matchups, most ever for an opening weekend in college football history . Arch Manning, the most hyped player of a generation, will start for the first time . The most-ever college football opening weekend is this weekend's opening weekend, with three top 10 games in the top 10 . The first time Arch Manning will start in a college football game .
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• UK unions want 'worker first' plan for AI as people fear for their jobs
-  Over half of the British public are worried about the impact of AI on their jobs, according to employment unions . Employment unions want the UK government to adopt a "worker first" strategy rather than simply allowing corporations to ditch employees for algorithms . Labor group says new technologies could increase inequality if we're not careful AI-Pocalypse is not a good time for the world's workers . AI-
-• Wastewater monitoring project could catch next pandemic early, says health agency
-  UK starts early warning system combing through stuff that folks flush away . UK Health Security Agency is looking to set up an early warning . Program to identify "cutting-edge technologies" that could turn people's pee and poop into valuable data on the spread of viruses . Program is £1.3 million (around $1.75 million) program to identify 'cutting edge' technologies .
-• Solo.io boss: I was wrong, I made mistakes – and that made me a better CEO
-  Solo.io CEO Idit Levine on going from startup to a billion-dollar valuation . "I feel that a founder always needs to be a little bit stupidly optimistic," he says . Levine on his journey in cloud computing: "I'm not scared. I'm scared to be scared. It's scary to be afraid to go from a startup to something like a billion dollar valuation
-• If you thought China's Salt Typhoon was booted off critical networks, think again
-  13 governments sound the alarm about ongoing unpleasantness . China's Salt Typhoon cyberspies continue their years-long hacking campaign targeting critical industries around the world . Security alert from cyber and law enforcement agencies across 13 countries .……… 13 governments across the world sound out the alarm, warn of ongoing ongoing cyber-related hacking campaign by China's cyber-espionage team-up .
-• Online property ad reveals looted Nazi war art, triggers police raid
-  Someone spotted a real estate ad that included images of art the Nazis looted in the Second World War . Stolen painting still mising, sadly, sadly . Police raid a home in a coastal town on Monday after someone spotted the ad . The Nazis looted the art in a Nazi-looted home in Argentina in World War II . Police raided the home in the coastal town after someone
+• UK datacenter developers turn to gas rather than wait for grid power for builds
+  Datacenter developers in the UK are turning to gas for power generation amid lengthy wait times for a connection to the electricity grid . The UK's bitbarn-favoring Industrial Strategy has been criticised for being too slow to connect to the grid . It's unclear what happened to gov. UK's Industrial Strategy, but it's a good start to the data-storage boom
+• How Windows 11 is breaking from its bedrock and moving away
+  The once mighty Wintel supercontinent is cracking in more ways than you might think Opinion Opinion: Say what you like about its role in the destruction of civilization, the net is still good for a few party games . Take bets on when the "Wintel Empire" was first reported as under attack, and by what . Then go and find out what happened to the Wintel Empire
+• Cloud computing has become so normal, it's invisible
+  Distinctions disappear as computing evolves and as something that was shiny and new simply becomes the way that we do things . Maybe someday we'll just call it 'data processing' again Feature Feature. Feature: In IT, terms and categories come and go, and as a result, we're not sure what's the new thing we're doing . Feature: Data processing, data processing, and
+• Techie fooled a panicked daemon and manipulated time itself to get servers in sync
+  Network Time Protocol sometimes needs help from a temporal police officer . On Call is a reader-contributed column that shares your finest tech support stories . It's the time at 7:30 AM on Friday morning, the moment at which The Register regularly runs a fresh instalment of On Call . The Register is happy to feature a guest guest on our On Call this week at 730
+• China turns on giant neutrino detector that took a decade to build
+  700 meters under a mountain, a 20,000-tonne detector and a giant sphere await elusive particles . More than a decade after construction began, China has commenced operation of what it claims is the world’s most sensitive neutrino detector . China claims it claims it is the most sensitive detector in the world, with the world's most sensitive particle detectors in existence . The
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• Educational inequalities in sun protection practices among Brazilian adults
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Rethinking suicide prevention: insights from the global south for a new global agenda
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Author Correction: Overview of vaccines for adults authorized, recommended, and implemented in the European Union
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Assessing the feasibility of HPV screening for cervical cancer in pregnant women in Ethiopia
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Digital therapeutics for insomnia: an umbrella review and meta-meta-analysis
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Assessment of smoking exposure by urine cotinine levels in severe COVID-19 patients: a case-control study
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Influenza vaccine strain selection with an AI-based evolutionary and antigenicity model
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Determinants of vaccine hesitancy among healthcare workers in an international multicenter study within the EuCARE project
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Assessing high-risk human papillomavirus-based cervical precancer screening recommendations and implications among women aged 60/65 years and older in Ghana
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,348 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• This American nuclear company could help India’s thorium dream
+  For just the second time in nearly two decades, the United States has granted an export license to an American company planning to sell nuclear technology to India, MIT Technology Review has learned. The decision to greenlight Clean Core Thorium Energy’s license is a major step toward closer cooperation between the two countries on atomic energy and marks a milestone in the development of thorium as an alternative to uranium for fueling nuclear reactors.&nbsp;
+
+
+
+Starting from the issuance last week, the thorium fuel produced by the Chicago-based company can be shipped to reactors in India, where it could be loaded into the cores of existing reactors. Once Clean Core receives final approval from Indian regulators, it will become one of the first American companies to sell nuclear technology to India, just as the world’s most populous nation has started relaxing strict rules that have long kept the US private sector from entering its atomic power industry.&nbsp;
+
+
+
+“This license marks a turning point, not just for Clean Core but for the US-India civil nuclear partnership,” says Mehul Shah, the company&#8217;s chief executive and founder. “It places thorium at the center of the global energy transformation.”
+
+
+
+Thorium has long been seen as a good alternative to uranium because it’s more abundant, produces both smaller amounts of long-lived radioactive waste and fewer byproducts with centuries-long half-lives, and reduces the risk that materials from the fuel cycle will be diverted into weapons manufacturing.&nbsp;
+
+
+
+But at least some uranium fuel is needed to make thorium atoms split, making it an imperfect replacement. It’s also less well suited for use in the light-water reactors that power the vast majority of commercial nuclear plants worldwide. And in any case, the complex, highly regulated nuclear industry is extremely resistant to change.
+
+
+
+For India, which has scant uranium reserves but abundant deposits of thorium, the latter metal has been part of a long-term strategy for reducing dependence on imported fuels. The nation started negotiating a nuclear export treaty with the US in the early 2000s, and a 123 Agreement—a special, Senate-approved treaty the US requires with another country before sending it any civilian nuclear products—was approved in 2008.
+
+
+
+A new approach
+
+
+
+While most thorium advocates have envisioned new reactors designed to run on this fuel, which would mean rebuilding the nuclear industry from the ground up, Shah and his team took a different approach. Clean Core created a new type of fuel that blends thorium with a more concentrated type of uranium called HALEU (high-assay low-enriched uranium). This blended fuel can be used in India’s pressurized heavy-water reactors, which make up the bulk of the country’s existing fleet and many of the new units under development now.&nbsp;
+
+
+
+Thorium isn’t a fissile material itself, meaning its atoms aren’t inherently unstable enough for an extra neutron to easily split the nuclei and release energy. But the metal has what’s known as “fertile properties,” meaning it can absorb neutrons and transform into the fissile material uranium-233. Uranium-233 produces fewer long-lived radioactive isotopes than the uranium-235 that makes up the fissionable part of traditional fuel pellets. Most commercial reactors run on low-enriched uranium, which is about 5% U-235. When the fuel is spent, roughly 95% of the energy potential is left in the metal. And what remains is a highly toxic cocktail of long-lived radioactive isotopes such as cesium-137 and plutonium-239, which keep the waste dangerous for tens of thousands of years. Another concern is that the plutonium could be extracted for use in weapons.&nbsp;
+
+
+
+Enriched up to 20%, HALEU allows reactors to extract more of the available energy and thus reduce the volume of waste. Clean Core’s fuel goes further: The HALEU provides the initial spark to ignite fertile thorium and triggers a reaction that can burn much hotter and utilize the vast majority of the material in the core, as a study published last year in the journal Nuclear Engineering and Design showed.
+
+
+
+
+
+“Thorium provides attributes needed to achieve higher burnups,” says Koroush Shirvan, an MIT professor of nuclear science and engineering who helped design Clean Core’s fuel assemblies. “It is enabling technology to go to higher burnups, which reduces your spent fuel volume, increases your fuel efficiency, and reduces the amount of uranium that you need.”&nbsp;
+
+
+
+Compared with traditional uranium fuel, Clean Core says, its fuel reduces waste by more than 85% while avoiding the most problematic isotopes produced during fission. “The result is a safer, more sustainable cycle that reframes nuclear power not as a source of millennia-long liabilities but as a pathway to cleaner energy and a viable future fuel supply,” says Milan Shah, Clean Core’s chief operating officer and Mehul’s son.
+
+
+
+Pressurized heavy-water reactors are particularly well suited to thorium because heavy water—a version of H2O that has an extra neutron on the hydrogen atom—absorbs fewer neutrons during the fission process, increasing efficiency by allowing more neutrons to be captured by the thorium. 
+
+
+
+There are 46 so-called PHWRs operating worldwide: 17 in Canada, 19 in India, three each in Argentina and South Korea, and two each in China and Romania, according to data from the International Atomic Energy Agency. In 1954, India set out a three-stage development plan for nuclear power that involved eventually phasing thorium into the fuel cycle for its fleet. 
+
+
+
+Yet in the 56 years since India built its first commercial nuclear plant, its state-controlled industry has remained relatively shut off to the private sector and the rest of the world. When the US signed the 123 Agreement with India in 2008, the moment heralded an era in which the subcontinent could become a testing ground for new American reactor designs.&nbsp;
+
+
+
+In 2010, however, India passed the Civil Liability for Nuclear Damage Act. The legislation was based on what lawmakers saw as legal shortcomings in the wake of the 1984 Bhopal chemical factory disaster, when a subsidiary of the American industrial giant Dow Chemical avoided major payouts to the victims of a catastrophe that killed thousands. Under this law, responsibility for an accident at an Indian nuclear plant would fall on suppliers. The statute effectively killed any exports to India, since few companies could shoulder that burden. Only Russia’s state-owned Rosatom charged ahead with exporting reactors to India.
+
+
+
+But things are changing. In a joint statement issued after a February 2025 summit, Prime Minister Narendra Modi and President Donald Trump &#8220;announced their commitment to fully realise the US-India 123 Civil Nuclear Agreement by moving forward with plans to work together to build US-designed nuclear reactors in India through large scale localisation and possible technology transfer.” 
+
+
+
+In March 2025, US federal officials gave the nuclear developer Holtec International an export license to sell Indian companies its as-yet-unbuilt small modular reactors, which are based on the light-water reactor design used in the US. In April, the Indian government suggested it would reform the nuclear liability law to relax rules on foreign companies in hopes of drawing more overseas developers. Last month, a top minister confirmed that the Modi administration would overhaul the law. 
+
+
+
+“For India, the thing they need to do is get another international vendor in the marketplace,” says Chris Gadomski, the chief nuclear analyst at the consultancy BloombergNEF.
+
+
+
+Path of least resistance
+
+
+
+But Shah sees larger potential for Clean Core. Unlike Holtec, whose export license was endorsed by the two Mumbai-based industrial giants Larsen &amp; Toubro and Tata Consulting Engineers, Clean Core had its permit approved by two of India’s atomic regulators and its main state-owned nuclear company. By focusing on fuel rather than new reactors, Clean Core could become a vendor to the majority of the existing plants already operating in India.&nbsp;
+
+
+
+Its technology diverges not only from that of other US nuclear companies but also from the approach used in China. Last year, China made waves by bringing its first thorium-fueled reactor online. This enabled it to establish a new foothold in a technology the US had invented and then abandoned, and it gave Beijing another leg up in atomic energy. 
+
+
+
+But scaling that technology will require building out a whole new kind of reactor. That comes at a cost. A recent Johns Hopkins University study found that China’s success in building nuclear reactors stemmed in large part from standardization and repetition of successful designs, virtually all of which have been light-water reactors. Using thorium in existing heavy-water reactors lowers the bar for popularizing the fuel, according to the younger Shah. 
+
+
+
+“We think ours is the path of least resistance,” Milan Shah says. “Maybe not being completely revolutionary in the way you look at nuclear today, but incredibly evolutionary to progress humanity forward.”&nbsp;
+
+
+
+The company has plans to go beyond pressurized heavy-water reactors. Within two years, the elder Shah says, Clean Core plans to design a version of its fuel that could work in the light-water reactors that make up the entire US fleet of 94. But it’s not a simple conversion. For starters, there’s the size: While the PHWR fuel rods are about 50 centimeters in length, the rods that go into light-water reactors are roughly four meters long. Then there’s the history of challenges with light water’s absorption of neutrons that could otherwise be captured to induce fission in the thorium.&nbsp;
+
+
+
+For Anil Kakodkar, the former chairman of India’s Atomic Energy Commission and a mentor to Shah, popularizing thorium could help rectify one of the darker chapters in his country’s nuclear development. In 1974, India became the first country since the signing of the first global Treaty on the Non-Proliferation of Nuclear Weapons to successfully test an atomic weapon. New Delhi was never a signatory to the pact. But the milestone prompted neighboring Pakistan to develop its own weapons.&nbsp;
+
+
+
+In response, President Jimmy Carter tried to demonstrate Washington’s commitment to reversing the Cold War arms race by sacrificing the first US effort to commercialize nuclear waste recycling, since the technology to separate plutonium and other radioisotopes from uranium in spent fuel was widely seen as a potential new source of weapons-grade material. By running its own reactors on thorium, Kakodkar says, India can chart a new path for newcomer nations that want to harness the power of the atom without stoking fears that nuclear weapons capability will spread.&nbsp;
+
+
+
+“The proliferation concerns will be dismissed to a significant extent, allowing more rapid growth of nuclear power in emerging countries,” he says. “That will be a good thing for the world at large.”&nbsp;
+
+
+
+Alexander C. Kaufman is a reporter who has covered energy, climate change, pollution, business, and geopolitics for more than a decade.&nbsp;
+• RFK Jr’s plan to improve America’s diet is missing the point
+  A lot of Americans don’t eat well. And they’re paying for it with their health. A diet high in sugar, sodium, and saturated fat can increase the risk of problems like diabetes, heart disease, and kidney disease, to name a few. And those are among the leading causes of death in the US.
+
+
+
+This is hardly news. But this week Robert F Kennedy Jr., who heads the US Department of Health and Human Services, floated a new solution to the problem. Kennedy and education secretary Linda McMahon think that teaching medical students more about the role of nutrition in health could help turn things around.
+
+
+
+
+
+“I’m working with Linda on forcing medical schools … to put nutrition into medical school education,” Kennedy said during a cabinet meeting on August 26. The next day, HHS released a statement calling for “increased nutrition education” for medical students.
+
+
+
+“We can reverse the chronic-disease epidemic simply by changing our diets and lifestyles,” Kennedy said in an accompanying video statement. “But to do that, we need nutrition to be a basic part of every doctor’s training.”
+
+
+
+It certainly sounds like a good idea. If more Americans ate a healthier diet, we could expect to see a decrease in those diseases. But this framing of America’s health crisis is overly simplistic, especially given that plenty of the administration’s other actions have directly undermined health in multiple ways—including by canceling a vital nutrition education program.
+
+
+
+At any rate, there are other, more effective ways to tackle the chronic-disease crisis.
+
+
+
+The biggest killers, heart disease and stroke, are responsible for more than a third of deaths, according to the US Centers for Disease Control and Prevention. A healthy diet can reduce your risk of developing those conditions. And it makes total sense to educate the future doctors of America about nutrition.
+
+
+
+Medical bodies are on board with the idea, too. “The importance of nutrition in medical education is increasingly clear, and we support expanded, evidence-based instruction to better equip physicians to prevent and manage chronic disease and improve patient outcomes,” David H. Aizuss, chair of the American Medical Association’s board of trustees, said in a statement.
+
+
+
+But it’s not as though medical students aren’t getting any nutrition education. And that training has increased in the last five years, according to surveys carried out by the American Association of Medical Colleges.
+
+
+
+Kennedy has referred to a 2021 survey suggesting that medical students in the US get only around one hour of nutrition education per year. But the AAMC argues that nutrition education increasingly happens through “integrated experiences” rather than stand-alone lectures.
+
+
+
+
+
+“Medical schools understand the critical role that nutrition plays in preventing, managing, and treating chronic health conditions, and incorporate significant nutrition education across their required curricula,” Alison J. Whelan, AAMC’s chief academic officer, said in a statement.
+
+
+
+That’s not to say there isn’t room for improvement. Gabby Headrick, a food systems dietician and associate director of food and nutrition policy at George Washington University’s Institute for Food Safety &amp; Nutrition Security, thinks nutritionists could take a more prominent role in patient care, too.
+
+
+
+But it’s somewhat galling for the administration to choose medical education as its focus given the recent cuts in federal funding that will affect health. For example, funding for the National Diabetes Prevention Program, which offers support and guidance to help thousands of people adopt healthy diets and exercise routines, was canceled by the Trump administration in March.
+
+
+
+The focus on medical schools also overlooks one of the biggest factors behind poor nutrition in the US: access to healthy food. A recent survey by the Pew Research Center found that increased costs make it harder for most Americans to eat well. Twenty percent of the people surveyed acknowledged that their diets were not healthy.
+
+
+
+“So many people know what a healthy diet is, and they know what should be on their plate every night,” says Headrick, who has researched this issue. “But the vast majority of folks just truly do not have the money or the time to get the food on the plate.”
+
+
+
+The Supplemental Nutrition Assistance Program (SNAP) has been helping low-income Americans afford some of those healthier foods. It supported over 41 million people in 2024. But under the Trump administration’s tax and spending bill, the program is set to lose around $186 billion in funding over the next 10 years.
+
+
+
+Kennedy’s focus is on education. And it just so happens that there is a nutrition education program in place—one that helps people of all ages learn not only what healthy foods are, but how to source them on a budget and use them to prepare meals.
+
+
+
+SNAP-Ed, as it’s known, has already provided this support to millions of Americans. Under the Trump administration, it is set to be eliminated.
+
+
+
+It is difficult to see how these actions are going to help people adopt healthier diets. What might be a better approach? I put the question to Headrick: If she were in charge, what policies would she enact?
+
+
+
+“Universal health care,” she told me. Being able to access health care without risking financial hardship not only improves health outcomes and life expectancy; it also spares people from medical debt—something that affects around 40% of adults in the US, according to a recent survey.
+
+
+
+And the Trump administration’s plans to cut federal health spending by about a trillion dollars over the next decade certainly aren’t going to help with that. All told, around 16 million people could lose their health insurance by 2034, according to estimates by the Congressional Budget Office.
+
+
+
+“The evidence suggests that if we cut folks’ social benefit programs, such as access to health care and food, we are going to see detrimental impacts,” says Headrick. “And it’s going to cause an increased burden of preventable disease.”
+
+
+
+This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, sign up here.
+• The Download: Google’s AI energy use, and the AI Hype Index
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+Google’s still not giving us the full picture on AI energy use&nbsp;
+
+
+
+—Casey Crownhart
+
+
+
+Google just announced that a typical query to its Gemini app uses about 0.24 watt-hours of electricity. That’s about the same as running a microwave for one second—something that feels insignificant. I run the microwave for many more seconds than that most days.I welcome more openness from major AI players about their estimated energy use per query. But I’ve noticed that some folks are taking this number and using it to conclude that we don’t need to worry about AI’s energy demand. That’s not the right takeaway here. Let’s dig into why.
+
+
+
+This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
+
+
+
++ If you’re interested in AI’s energy footprint, earlier this year, MIT Technology Review published Power Hungry: a comprehensive series on AI and energy.
+
+
+
+
+
+
+
+The AI Hype Index: AI-designed antibiotics show promise
+
+
+
+Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything you need to know about the state of the industry. Take a look at this month’s edition here.
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 The White House has fired the director of the CDCBut Susan Monarez is refusing to go quietly. (WP $)+ Monarez is said to have clashed with RFK Jr over vaccine policy. (NYT $)+ She was confirmed by the Senate to the position just last month. (The Guardian)+ Vaccine consensus is splintering across the US. (Vox)
+
+
+
+2 A Chinese hacking campaign hit at least 200 US organizationsIntelligence agencies say the breaches are among the most significant ever. (WP $)+ AI-generated ransomware is on the rise. (Wired $)
+
+
+
+3 Ukraine’s new Flamingo cruise missile took just months to buildRussia’s air defenses are weakening. Can this missile exploit the gaps? (Economist $)+ 14 people were killed in an overnight bombardment of Kyiv. (BBC)+ On the ground in Ukraine’s largest Starlink repair shop. (MIT Technology Review)
+
+
+
+4 AI infrastructure spending is boosting the US economyCompanies are throwing so much money at AI hardware it’s lifting the real economy, not just the stock market. (NYT $)+ How to fine-tune AI for prosperity. (MIT Technology Review)5 OpenAI and Anthropic safety-tested each other’s AIThey found Claude is a lot more cautious than OpenAI’s mini models. (Engadget)+ Sycophancy was a repeated issue among OpenAI’s models. (TechCrunch)+ This benchmark used Reddit’s AITA to test how much AI models suck up to us. (MIT Technology Review)
+
+
+
+6 Climate change exacerbated Europe’s deadly wildfiresAnd fires across the Mediterranean are likely to become more frequent and severe. (BBC)+ What the collapse of a glacier can teach us. (New Yorker $)+ How AI can help spot wildfires. (MIT Technology Review)
+
+
+
+7 911 centers are using AI to answer callsIt’s helping to triage anything that isn’t urgent. (TechCrunch)
+
+
+
+8 Wikipedia has compiled a list of AI writing tropesBut their presence still isn’t a dead giveaway a text has been written by AI. (Fast Company $)+ AI-text detection tools are really easy to fool. (MIT Technology Review)
+
+
+
+9 Melania Trump has launched the Presidential AI Challenge But it’s not all that clear what the competition actually is. (NY Mag $)
+
+
+
+10 Netflix’s algorithm-appeasing movies are bland and boringBut millions of people will watch them anyway. (The Guardian)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+&#8220;The more you buy, the more you grow.&#8221;
+
+
+
+—Nvidia CEO Jensen Huang conveniently sees no end to the AI chip spending boom, Reuters reports.
+
+
+
+
+
+
+
+One more thinghttps://www.technologyreview.com/2025/01/13/1109922/inside-the-strange-limbo-facing-ivf-embryos/?utm_source=the_download&amp;utm_medium=email&amp;utm_campaign=the_download.unpaid.engagement&amp;utm_term=*|SUBCLASS|*&amp;utm_content=*|DATE:m-d-Y|*
+
+
+
+
+
+
+
+Inside the strange limbo facing millions of IVF embryosMillions of embryos created through IVF sit frozen in time, stored in cryopreservation tanks around the world, and the number is only growing.At a basic level, an embryo is simply a tiny ball of a hundred or so cells. But unlike other types of body tissue, it holds the potential for life. Many argue that this endows embryos with a special moral status, one that requires special protections.The problem is that no one can really agree on what that status is. What do these embryos mean to us? And who should be responsible for them? Read the full story.
+
+
+
+—Jessica Hamzelou
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)+ Wow, that is one seriously orange shark!+ TikTok is a proven way to introduce younger generations to older music—and now it’s Radiohead’s turn.+ Why we’re still going bananas for Donkey Kong after all these years+ This photo perfectly captures the joy of letting loose at a wedding.
+• Creating a qubit fit for a quantum future
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • From pilot to scale: Making agentic AI work in health care
   Over the past 20 years building advanced AI systems—from academic labs to enterprise deployments—I’ve witnessed AI’s waves of success rise and fall. My journey began during the “AI Winter,” when billions were invested in expert systems that ultimately underdelivered. Flash forward to today: large language models (LLMs) represent a quantum leap forward, but their prompt-based adoption is similarly overhyped, as it’s essentially a rule-based approach disguised in natural language.
 
@@ -154,342 +496,33 @@ The AI path forward in health care demands rigor, responsibility, and real-world
 
 
 This content was produced by Ensemble. It was not written by MIT Technology Review’s editorial staff.
-• 3 problems with Google’s AI energy use data
-  Google just announced that a typical query to its Gemini app uses about 0.24 watt-hours of electricity. That’s about the same as running a microwave for one second—something that, to me, feels virtually insignificant. I run the microwave for so many more seconds than that on most days.
-
-
-
-I was excited to see this report come out, and I welcome more openness from major players in AI about their estimated energy use per query. But I’ve noticed that some folks are taking this number and using it to conclude that we don’t need to worry about AI’s energy demand. That’s not the right takeaway here. Let’s dig into why.
-
-
-
-1. This one number doesn’t reflect all queries, and it leaves out cases that likely use much more energy.
-
-
-
-Google’s new report considers only text queries. Previous analysis, including MIT Technology Review’s reporting, suggests that generating a photo or video will typically use more electricity.
-
-
-
-When I spoke with Jeff Dean, Google’s chief scientist, he said the company doesn’t currently have plans to do this sort of analysis for images and videos, but that he wouldn’t rule it out.
-
-
-
-
-
-The reason the company started with text prompts is that those are something many people out there are using in their daily lives, he says, while image and video generation is something that not as many people are doing. But I’m seeing more AI images and videos all over my social feeds. So there’s a whole world of queries not represented here.
-
-
-
-Also, this estimate is the median, meaning it’s just the number in the middle of the range of queries Google is seeing. Longer questions and responses can push up the energy demand, and so can using a reasoning model.&nbsp; We don’t know anything about how much energy these more complicated queries demand or what the distribution of the range is.
-
-
-
-2. We don’t know how many queries Gemini is seeing, so we don’t know the product’s total energy impact.
-
-
-
-One of my biggest outstanding questions about Gemini’s energy use is the total number of queries the product is seeing every day.&nbsp;
-
-
-
-This number isn’t included in Google’s report, and the company wouldn’t share it with me. And let me be clear: I absolutely pestered them about this, both in a press call they had about the news and in my interview with Dean. In the press call, the company pointed me to a recent earnings report, which includes only figures about monthly active users (450 million, for what it’s worth).
-
-
-
-“We’re not comfortable revealing that for various reasons,” Dean told me on our call. The total number is an abstract measure that changes over time, he says, adding that the company wants users to be thinking about the energy usage per prompt.
-
-
-
-But there are people out there all over the world interacting with this technology, not just me—and what we all add up to seems quite relevant.
-
-
-
-OpenAI does publicly share its total, sharing recently that it sees 2.5 billion queries to ChatGPT every day. So for the curious, we can use this as an example and take the company’s self-reported average energy use per query (0.34 watt-hours) to get a rough idea of the total for all people prompting ChatGPT.
-
-
-
-According to my math, over the course of a year, that would add up to over 300 gigawatt-hours—the same as powering nearly 30,000 US homes annually. When you put it that way, it starts to sound like a lot of seconds in microwaves.
-
-
-
-3. AI is everywhere, not just in chatbots, and we’re often not even conscious of it.
-
-
-
-AI is touching our lives even when we’re not looking for it. AI summaries appear in web searches, whether you ask for them or not. There are built-in features for email and texting applications that that can draft or summarize messages for you.
-
-
-
-Google’s estimate is strictly for Gemini apps and wouldn’t include many of the other ways that even this one company is using AI. So even if you’re trying to think about your own personal energy demand, it’s increasingly difficult to tally up.&nbsp;
-
-
-
-To be clear, I don’t think people should feel guilty for using tools that they find genuinely helpful. And ultimately, I don’t think the most important conversation is about personal responsibility.&nbsp;
-
-
-
-There’s a tendency right now to focus on the small numbers, but we need to keep in mind what this is all adding up to. Over two gigawatts of natural gas will need to come online in Louisiana to power a single Meta data center this decade. Google Cloud is spending $25 billion on AI just in the PJM grid on the US East Coast. By 2028, AI could account for 326 terawatt-hours of electricity demand in the US annually, generating over 100 million metric tons of carbon dioxide.
-
-
-
-We need more reporting from major players in AI, and Google’s recent announcement is one of the most transparent accounts yet. But one small number doesn’t negate the ways this technology is affecting communities and changing our power grid.&nbsp;
-
-
-
-This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
-• The AI Hype Index: AI-designed antibiotics show promise
-  The AI Hype Index is a simple, at-a-glance summary of everything you need to know about the state of the industry . The last month has seen an interesting leap forward in the use of AI to improve our health and well-being . The technology has been put to work designing new antibiotics to fight hard-to-treat conditions, and OpenAI and Anthropic have introduced new limiting features to curb potentially harmful conversations .
-• Unlocking enterprise agility in the API economy
-  Across industries, enterprises are increasingly adopting an on-demand approach to compute, storage, and applications. They are favoring digital services that are faster to deploy, easier to scale, and better integrated with partner ecosystems. Yet, one critical pillar has lagged: the network. While software-defined networking has made inroads, many organizations still operate rigid, pre-provisioned networks. As applications become increasingly distributed and dynamic—including hybrid cloud and edge deployments—a programmable, on-demand network infrastructure can enhance and enable this new era.
-
-
-
-
-
-
-
-
-
-
-
-From CapEx to OpEx: The new connectivity mindset
-
-
-
-Another, practical concern is also driving this shift: the need for IT models that align cost with usage. Rising uncertainty about inflation, consumer spending, business investment, and global supply chains are just a few of the economic factors weighing on company decision-making. And chief information officers (CIOs) are scrutinizing capital-expenditure-heavy infrastructure more closely and increasingly adopting operating-expenses-based subscription models.
-
-
-
-Instead of long-term circuit contracts and static provisioning, companies are looking for cloud-ready, on-demand network services that can scale, adapt, and integrate across hybrid environments. This trend is fueling demand for API-first network infrastructure connectivity that behaves like software, dynamically orchestrated and integrated into enterprise IT ecosystems. There has been such rapid interest, the global network API market is projected to surge from $1.53 billion in 2024 to over $72 billion in 2034.
-
-
-
-In fact, McKinsey estimates the network API market could unlock between $100 billion and $300 billion in connectivity- and edge-computing-related revenue for telecom operators over the next five to seven years, with an additional $10 billion to $30 billion generated directly from APIs themselves.
-
-
-
-“When the cloud came in, first there was a trickle of adoptions. And then there was a deluge,” says Rajarshi Purkayastha, VP of solutions at Tata Communications. “We’re seeing the same trend with programmable networks. What was once a niche industry is now becoming mainstream as CIOs prioritize agility and time-to-value.”
-
-
-
-
-
-
-
-Programmable networks as a catalyst for innovation
-
-
-
-Programmable subscription-based networks are not just about efficiency, they are about enabling faster innovation, better user experiences, and global scalability. Organizations are preferring API-first systems to avoid vendor lock-in, enable multi-vendor integration, and foster innovation. API-first approaches allow seamless integration across different hardware and software stacks, reducing operational complexity and costs.
-
-
-
-With APIs, enterprises can provision bandwidth, configure services, and connect to clouds and edge locations in real time, all through automation layers embedded in their DevOps and application platforms. This makes the network an active enabler of digital transformation rather than a lagging dependency.
-
-
-
-For example, Netflix—one of the earliest adopters of microservices—handles billions of API requests daily through over 500 microservices and gateways, supporting global scalability and rapid innovation. After a two-year transition period, it redesigned its IT structure and organized it using microservice architecture.
-
-
-
-Elsewhere, Coca-Cola integrated its global systems using APIs, enabling faster, lower-cost delivery and improved cross-functional collaboration. And Uber moved to microservices with API gateways, allowing independent scaling and rapid deployment across markets.
-
-
-
-In each case, the network had to evolve from being static and hardware-bound to dynamic, programmable, and consumption-based. “API-first infrastructure fits naturally into how today’s IT teams work,” says Purkayastha. “It aligns with continuous integration and continuous delivery/deployment (CI/CD) pipelines and service orchestration tools. That reduces friction and accelerates how fast enterprises can launch new services.”
-
-
-
-Powering on-demand connectivity
-
-
-
-Tata Communications deployed Network Fabric—its programmable platform that uses APIs to allow enterprise systems to request and adjust network resources dynamically—to help a global software-as-a-service (SaaS) company modernize how it manages network capacity in response to real-time business needs. As the company scaled its digital services worldwide, it needed a more agile, cost-efficient way to align network performance with unpredictable traffic surges and fast-changing user demands. With Tata’s platform, the company’s operations teams were able to automatically scale bandwidth in key regions for peak performance, during high-impact events like global software releases. And just as quickly scale down once demand normalized, avoiding unnecessary costs.
-
-
-
-In another scenario, when the SaaS provider needed to run large-scale data operations between its US and Asia hubs, the network was programmatically reconfigured in under an hour; a process that previously required weeks of planning and provisioning. “What we delivered wasn’t just bandwidth, it was the ability for their teams to take control,” says Purkayastha. “By integrating our Network Fabric APIs into their automation workflows, we gave them a network that responds at the pace of their business.”
-
-
-
-
-
-
-
-Barriers to transformation — and how to overcome them
-
-
-
-Transforming network infrastructure is no small task. Many enterprises still rely on legacy multiprotocol label switching (MPLS) and hardware-defined wide-area network (WAN) architectures. These environments are rigid, manually managed, and often incompatible with modern APIs or automation frameworks. As with any organization, barriers can be both technical and internal, and legacy devices may not support programmable interfaces. Organizations are often siloed, meaning networks are managed separately to application and DevOps workflows.
-
-
-
-Furthermore, CIOs face pressure for quick returns and may not even remain in the company long enough to oversee the process and results, making it harder to push for long-term network modernization strategies. “Often, it’s easier to address the low-hanging fruit rather than go after the transformation because decision-makers may not be around to see the transformation come to life,” says Purkayastha.
-
-
-
-But quick fixes or workarounds may not yield the desired results; transformation is needed instead. “Enterprises have historically built their networks for stability, not agility,” says Purkayastha. “But now, that same rigidity becomes a bottleneck when applications, users, and workloads are distributed across the cloud, edge, and remote locations.”
-
-
-
-Despite the challenges, there is a clear path forward, starting with overlay orchestration, well-defined API contracts, and security-first design. Instead of completely removing and replacing an existing system, many enterprises are layering APIs over existing infrastructure, enabling controlled migrations and real-time service automation.
-
-
-
-“We don’t just help customers adopt APIs, we guide them through the operational shift it requires,” says Purkayastha. “We have blueprints for what to automate first, how to manage hybrid environments, and how to design for resilience.”
-
-
-
-For some organizations, there will be resistance to the change initially. Fears of extra workloads, or misalliance with teams’ existing goals and objectives are common, as is the deeply human distrust of change. These can be overcome, however. “There are playbooks on what we’ve done earlier—learnings from transformation—which we share with clients,” says Purkayastha. “We also plan for the unknowns. We usually reserve 10% of time and resources just to manage unforeseen risks, and the result is an empowered organization to scale innovation and reduce operational complexity.”
-
-
-
-This content was produced by Insights, the custom content arm of MIT Technology Review. It was not written by MIT Technology Review’s editorial staff. It was researched, designed, and written entirely by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used were limited to secondary production processes that passed thorough human review.
-• The Download: introducing: the Security issue
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
-
-
-
-Introducing: the Security issue
-
-
-
-It would be naïve to think we are going back to a world without AI. We’re not. But it&#8217;s only one of many urgent problems we need to address to build security and prosperity for coming generations.The latest print issue of our magazine is all about our attempts to make the world more secure. From missiles. From asteroids. From the unknown. From threats both existential and trivial.
-
-
-
-We’re also introducing three new columns in this issue, from some of our leading writers: The Algorithm, which covers AI; The Checkup, on biotech; and The Spark, on energy and climate. You’ll see these in future issues, and you can also subscribe online to get them in your inbox every week.&nbsp;
-
-
-
-Here’s a taster of what else you can expect from this edition:
-
-
-
-+ President Trump has proposed building an antimissile “golden dome” around the United States. But do cinematic spectacles actually enhance national security?
-
-
-
-+ How two UFO hunting brothers became the go-to experts on America’s “mystery drone” invasion.+ Both Taiwan’s citi­zens and external experts are worried that the protection afforded by its “silicon shield” is cracking. Read the full story.
-
-
-
-+ How the humble pigeon paved the way for today’s advanced AI. Read the full story.
-
-
-
-+ A group of Starlink terminal repair volunteers in Ukraine is keeping the country connected throughout the war. Read the full story.
-
-
-
-
-
-
-
-MIT Technology Review Narrated: Cyberattacks by AI agents are coming
-
-
-
-Agents are the talk of the AI industry—they’re capable of planning, reasoning, and executing complex tasks on your behalf. But the same sophisticated abilities that make agents helpful assistants could also make them powerful tools for conducting cyberattacks. They could readily be used to identify vulnerable targets, hijack their systems, and steal valuable data from unsuspecting victims.At present, cybercriminals are not deploying AI agents to hack at scale. But researchers have demonstrated that agents are capable of executing complex attacks, and cybersecurity experts warn that we should expect to start seeing these types of attacks spilling over into the real world.  This is our latest story to be turned into a MIT Technology Review Narrated podcast, which we’re publishing each week on Spotify and Apple Podcasts. Just navigate to MIT Technology Review Narrated on either platform, and follow us to get all our new content as it’s released.
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 The family of a teen who died by suicide is suing OpenAIChatGPT deterred Adam Raine from seeking help when he desperately needed it. (NYT $)+ An AI chatbot told a user how to kill himself—but the company doesn’t want to “censor” it. (MIT Technology Review)
-
-
-
-2 SpaceX finally successfully launched its Starship rocketWhich will come as a huge relief after previous failures. (CNBC)+ It’s the 10th launch the spaceship has made. (WSJ $)+ It managed to deploy satellites in space during the launch. (Bloomberg $)
-
-
-
-3 Researchers are already leaving Meta’s AI labTwo workers returned to OpenAI after less than a month. (Wired $)
-
-
-
-4 China wants to triple its output of AI chipsPlants are working round the clock to increase their capacity. (FT $)+ The country is also keen to repurpose NASA tech into a hypersonic drone mothership. (Fast Company $)
-
-
-
-5 Elon Musk can’t get enough of Grok’s scantily-clad AI assistantHe frequently posts about ‘Ani’ and other sexualized AI cartoons on X. (Rolling Stone $)6 Anthropic has settled its AI piracy lawsuitA group of authors had accused it of copyright infringement. (The Verge)+ The threat of $1 trillion damages could have ruined the company. (Wired $)
-
-
-
-7 America’s electricity use is slowingAnd the recent growth in coal usage is falling too. (Ars Technica)+ In a first, Google has released data on how much energy an AI prompt uses. (MIT Technology Review)
-
-
-
-8 Want to get hired straight out of college? Better work in AI.While other graduates are struggling, newly-graduated AI experts are in demand. (WSJ $)
-
-
-
-9 Older people in South Korea are finding companionship with robotsThe Hydol robot is proving a hit among seniors. (Rest of World)+ How cuddly robots could change dementia care. (MIT Technology Review)10 Fans were betting on Taylor Swift’s engagement They’re cashing in from online prediction markets left, right and center. (WP $)
-
-
-
-
-
-
-
-Quote of the day
-
-
-
-“A lot of people in the AI team maybe feel things are too dynamic.”
-
-
-
-—Chi-Hao Wu, a former AI specialist at Meta, explains to Insider why he and others have decided to leave the company.
-
-
-
-
-
-
-
-One more thing
-
-
-
-
-
-
-
-An AI chatbot told a user how to kill himself—but the company doesn’t want to “censor” itFor five months, Al Nowatzki had been talking to an AI girlfriend, “Erin,” on the platform Nomi. But earlier this year, those conversations took a disturbing turn: Erin told him to kill himself, and provided explicit instructions on how to do it.Nowatzki had never had any intention of following Erin’s instructions—he’s a researcher who probes chatbots’ limitations and dangers. But out of concern for more vulnerable individuals, he exclusively shared with MIT Technology Review screenshots of his conversations and of subsequent correspondence with a company representative, who stated that the company did not want to “censor” the bot’s “language and thoughts.”This is not the first time an AI chatbot has suggested that a user take violent action, including self-harm. But researchers and critics say that the bot’s explicit instructions—and the company’s response—are striking. Read the full story.
-
-
-
-—Eileen Guo
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+ The secret to finding that elusive perfect white t-shirt.+ Interesting: a new Blade Runner TV series starring Michelle Yeoh is coming next year.+ If you’ve ever wondered what happened to that suitcase you lost on vacation, there’s a decent chance it’s up for sale.+ Down with junk mail!
 
 🔒 Cybersecurity & Privacy
+• Affiliates Flock to ‘Soulless’ Scam Gambling Machine
+  Last month, KrebsOnSecurity tracked the sudden emergence of hundreds of polished online gaming and wagering websites that lure people with free credits and eventually abscond with any cryptocurrency funds deposited by players. We&#8217;ve since learned that these scam gambling sites have proliferated thanks to a new Russian affiliate program called &#8220;Gambler Panel&#8221; that bills itself as a &#8220;soulless project that is made for profit.&#8221;
+A machine-translated version of Gambler Panel&#8217;s affiliate website.
+The scam begins with deceptive ads posted on social media that claim the wagering sites are working in partnership with popular athletes or social media personalities. The ads invariably state that by using a supplied &#8220;promo code,&#8221; interested players can claim a $2,500 credit on the advertised gaming website.
+The gaming sites ask visitors to create a free account to claim their $2,500 credit, which they can use to play any number of extremely polished video games that ask users to bet on each action. However, when users try to cash out any &#8220;winnings&#8221; the gaming site will reject the request and prompt the user to make a “verification deposit” of cryptocurrency — typically around $100 — before any money can be distributed.
+Those who deposit cryptocurrency funds are soon pressed into more wagering and making additional deposits. And &#8212; shocker alert &#8212; all players eventually lose everything they&#8217;ve invested in the platform.
+The number of scam gambling or &#8220;scambling&#8221; sites has skyrocketed in the past month, and now we know why: The sites all pull their gaming content and detailed strategies for fleecing players straight from the playbook created by Gambler Panel, a Russian-language affiliate program that promises affiliates up to 70 percent of the profits.
+
+Gambler Panel&#8217;s website gambler-panel[.]com links to a helpful wiki that explains the scam from cradle to grave, offering affiliates advice on how best to entice visitors, keep them gambling, and extract maximum profits from each victim.
+&#8220;We have a completely self-written from scratch FAKE CASINO engine that has no competitors,&#8221; Gambler Panel&#8217;s wiki enthuses. &#8220;Carefully thought-out casino design in every pixel, a lot of audits, surveys of real people and test traffic floods were conducted, which allowed us to create something that has no doubts about the legitimacy and trustworthiness even for an inveterate gambling addict with many years of experience.&#8221;
+Gambler Panel explains that the one and only goal of affiliates is to drive traffic to these scambling sites by any and all means possible.
+A machine-translated portion of Gambler Panel&#8217;s singular instruction for affiliates: Drive traffic to these scambling sites by any means available.
+&#8220;Unlike white gambling affiliates, we accept absolutely any type of traffic, regardless of origin, the only limitation is the CIS countries,&#8221; the wiki continued, referring to a common prohibition against scamming people in Russia and former Soviet republics in the Commonwealth of Independent States.
+The program&#8217;s website claims it has more than 20,000 affiliates, who earn a minimum of $10 for each verification deposit. Interested new affiliates must first get approval from the group&#8217;s Telegram channel, which currently has around 2,500 active users.
+The Gambler Panel channel is replete with images of affiliate panels showing the daily revenue of top affiliates, scantily-clad young women promoting the Gambler logo, and fast cars that top affiliates claimed they bought with their earnings.
+A machine-translated version of the wiki for the affiliate program Gambler Panel.
+The apparent popularity of this scambling niche is a consequence of the program&#8217;s ease of use and detailed instructions for successfully reproducing virtually every facet of the scam. Indeed, much of the tutorial focuses on advice and ready-made templates to help even novice affiliates drive traffic via social media websites, particularly on Instagram and TikTok.
+Gambler Panel also walks affiliates through a range of possible responses to questions from users who are trying to withdraw funds from the platform. This section, titled &#8220;Rules for working in Live chat,&#8221; urges scammers to respond quickly to user requests (1-7 minutes), and includes numerous strategies for keeping the conversation professional and the user on the platform as long as possible.
+A machine-translated version of the Gambler Panel&#8217;s instructions on managing chat support conversations with users.
+The connection between Gambler Panel and the explosion in the number of scambling websites was made by a 17-year-old developer who operates multiple Discord servers that have been flooded lately with misleading ads for these sites.
+The researcher, who asked to be identified only by the nickname &#8220;Thereallo,&#8221; said Gambler Panel has built a scalable business product for other criminals.
+&#8220;The wiki is kinda like a &#8216;how to scam 101&#8217; for criminals written with the clarity you would expect from a legitimate company,&#8221; Thereallo said. &#8220;It&#8217;s clean, has step by step guides, and treats their scam platform like a real product. You could swap out the content, and it could be any documentation for startups.&#8221;
+&#8220;They&#8217;ve minimized their own risk &#8212; spreading the links on Discord / Facebook / YT Shorts, etc. &#8212; and outsourced it to a hungry affiliate network, just like a franchise,&#8221; Thereallo wrote in response to questions.
+&#8220;A centralized platform that can serve over 1,200 domains with a shared user base, IP tracking, and a custom API is not at all a trivial thing to build,&#8221; Thereallo said. &#8220;It&#8217;s a scalable system designed to be a resilient foundation for thousands of disposable scam sites.&#8221;
+The security firm Silent Push has compiled a list of the latest domains associated with the Gambler Panel, available here (.csv).
 • DSLRoot, Proxies, and the Threat of ‘Legal Botnets’
   The cybersecurity community on Reddit responded in disbelief this month when a self-described Air National Guard member with top secret security clearance began questioning the arrangement they&#8217;d made with company called DSLRoot, which was paying $250 a month to plug a pair of laptops into the Redditor&#8217;s high-speed Internet connection in the United States. This post examines the history and provenance of DSLRoot, one of the oldest &#8220;residential proxy&#8221; networks with origins in Russia and Eastern Europe.
 
@@ -599,9 +632,6 @@ Beyond unlinkability, Crescent supports selective disclosure, allowing users to 
 	
 		
 
-		
-		Spotlight: Event Series
-	
 	
 	
 						
@@ -612,14 +642,14 @@ Beyond unlinkability, Crescent supports selective disclosure, allowing users to 
 			
 			
 
-									Microsoft Research Forum
+									Azure AI Foundry Labs
 				
-								Join us for a continuous exchange of ideas about research in the era of general AI. Watch the first four episodes on demand.
+								Get a glimpse of potential future directions for AI, with these experimental technologies from Microsoft Research.
 				
 								
 					
 						
-							Watch on-demand						
+							Azure AI Foundry						
 					
 				
 							
@@ -746,6 +776,322 @@ To learn more about the project, visit the Crescent project GitHub (opens in new
 
 
 Opens in a new tabThe post Crescent library brings privacy to digital identity systems appeared first on Microsoft Research.
+• Meet Boti: The AI assistant transforming how the citizens of Buenos Aires access government information with Amazon Bedrock
+  This post is co-written with Julieta Rappan, Macarena Blasi, and María Candela Blanco from the Government of the City of Buenos Aires. 
+The Government of the City of Buenos Aires continuously works to improve citizen services. In February 2019, it introduced an AI assistant named Boti available through WhatsApp, the most widely used messaging service in Argentina. With Boti, citizens can conveniently and quickly access a wide variety of information about the city, such as renewing a driver’s license, accessing healthcare services, and learning about cultural events. This AI assistant has become a preferred communication channel and facilitates more than 3 million conversations each month. 
+As Boti grows in popularity, the Government of the City of Buenos Aires seeks to provide new conversational experiences that harness the latest developments in generative AI. One challenge that citizens often face is navigating the city’s complex bureaucratic landscape. The City Government’s website includes over 1,300 government procedures, each of which has its own logic, nuances, and exceptions. The City Government recognized that Boti could improve access to this information by directly answering citizens’ questions and connecting them to the right procedure. 
+To pilot this new solution, the Government of the City of Buenos Aires partnered with the AWS Generative AI Innovation Center (GenAIIC). The teams worked together to develop an agentic AI assistant using LangGraph and Amazon Bedrock. The solution includes two main components: an input guardrail system and a government procedures agent. The input guardrail uses a custom LLM classifier to analyze incoming user queries, determining whether to approve or block requests based on their content. Approved requests are handled by the government procedures agent, which retrieves relevant procedural information and generates responses. Since most user queries focus on a single procedure, we developed a novel reasoning retrieval system to improve retrieval accuracy. This system initially retrieves comparative summaries that disambiguate similar procedures and then applies a large language model (LLM) to select the most relevant results. The agent uses this information to craft responses in Boti’s characteristic style, delivering short, helpful, and expressive messages in Argentina’s Rioplatense Spanish dialect. We focused on distinctive linguistic features of this dialect including the voseo (using “vos” instead of “tú”) and periphrastic future (using “ir a” before verbs). 
+In this post, we dive into the implementation of the agentic AI system. We begin with an overview of the solution, explaining its design and main features. Then, we discuss the guardrail and agent subcomponents and assess their performance. Our evaluation shows that the guardrails effectively block harmful content, including offensive language, harmful opinions, prompt injection attempts, and unethical behaviors. The agent achieves up to 98.9% top-1 retrieval accuracy using the reasoning retriever, which marks a 12.5–17.5% improvement over standard retrieval-augmented generation (RAG) methods. Subject matter experts found that Boti’s responses were 98% accurate in voseo usage and 92% accurate in periphrastic future usage. The promising results of this solution establish a new era of citizen-government interaction. 
+Solution overview 
+The Government of the City of Buenos Aires and the GenAIIC built an agentic AI assistant using Amazon Bedrock and LangGraph that includes an input guardrail system to enable safe interactions and a government procedures agent to respond to user questions. The workflow is shown in the following diagram. 
+ 
+The process begins when a user submits a question. In parallel, the question is passed to the input guardrail system and government procedures agent. The input guardrail system determines whether the question contains harmful content. If triggered, it stops graph execution and redirects the user to ask questions about government procedures. Otherwise, the agent continues to formulate its response. The agent either calls a retrieval tool, which allows it to obtain relevant context and metadata from government procedures stored in Amazon Bedrock Knowledge Bases, or responds to the user. Both the input guardrail and government procedures agent use the Amazon Bedrock Converse API for LLM inference. This API provides access to a wide selection of LLMs, helping us optimize performance and latency across different subtasks. 
+Input guardrail system 
+Input guardrails help prevent the LLM system from processing harmful content. Although Amazon Bedrock Guardrails offers one implementation approach with filters for specific words, content, or sensitive information, we developed a custom solution. This provided us greater flexibility to optimize performance for Rioplatense Spanish and monitor specific types of content. The following diagram illustrates our approach, in which an LLM classifier assigns a primary category (“approved” or “blocked”) as well as a more detailed subcategory. 
+ 
+Approved queries are within the scope of the government procedures agent. They consist of on-topic requests, which focus on government procedures, and off-topic requests, which are low-risk conversation questions that the agent responds to directly. Blocked queries contain high-risk content that Boti should avoid, including offensive language, harmful opinions, prompt injection attacks, or unethical behaviors. 
+We evaluated the input guardrail system on a dataset consisting of both normal and harmful user queries. The system successfully blocked 100% of harmful queries, while occasionally flagging normal queries as harmful. This performance balance makes sure that Boti can provide helpful information while maintaining safe and appropriate interactions for users. 
+Agent system 
+The government procedures agent is responsible for answering user questions. It determines when to retrieve relevant procedural information using its retrieval tool and generates responses in Boti’s characteristic style. In the following sections, we examine both processes. 
+Reasoning retriever 
+The agent can use a retrieval tool to provide accurate and up-to-date information about government procedures. Retrieval tools typically employ a RAG framework to perform semantic similarity searches between user queries and a knowledge base containing document chunks stored as embeddings, and then provide the most relevant samples as context to the LLM. Government procedures, however, present challenges to this standard approach. Related procedures, such as renewing and reprinting drivers’ licenses, can be difficult to disambiguate. Additionally, each user question typically requires information from one specific procedure. The mixture of chunks returned from standard RAG approaches increases the likelihood of generating incorrect responses. 
+To better disambiguate government procedures, the Buenos Aires and GenAIIC teams developed a reasoning retrieval method that uses comparative summaries and LLM selection. An overview of this approach is shown in the following diagram. 
+ 
+A necessary preprocessing step before retrieval is the creation of a government procedures knowledge base. To capture both the key information contained in procedures and how they related to each other, we created comparative summaries. Each summary contains basic information, such as the procedure’s purpose, intended audience, and content, such as costs, steps, and requirements. We clustered the base summaries into small groups, with an average cluster size of 5, and used an LLM to generate descriptions about what made each procedure different from its neighbors. We appended the distinguishing descriptions to the base information to create the final summary. We note that this approach shares similarities to Anthropic’s Contextual Retrieval, which prepends explanatory context to document chunk. 
+With the knowledge base in place, we are able to retrieve relevant government procedures based on the user query. The reasoning retriever completes three steps: 
+ 
+ Retrieve M Summaries: We retrieve between 1 and M comparative summaries using semantic search. 
+ Optional Reasoning: In some cases, the initial retrieval surfaces similar procedures. To make sure that the most relevant procedures are returned to the agent, we apply an optional LLM reasoning step. The condition for this step occurs when the ratio of the first and second retrieval scores falls below a threshold value. An LLM follows a chain-of-thought (CoT) process in which it compares the user query to the retrieved summaries. It discards irrelevant procedures and reorders the remaining ones based on relevance. If the user query is specific enough, this process typically returns one result. By applying this reasoning step selectively, we minimize latency and token usage while maintaining high retrieval accuracy. 
+ Retrieve N Full-Text Procedures: After the most relevant procedures are identified, we fetch their complete documents and metadata from an Amazon DynamoDB table. The metadata contains information like the source URL and the sentiment of the procedure. The agent typically receives between 1 and N results, where N ≤ M. 
+ 
+The agent receives the retrieved full text procedures in its context window. It follows its own CoT process to determine the relevant content and URL source attributions when generating its answer. 
+We evaluated our reasoning retriever against standard RAG techniques using a synthetic dataset of 1,908 questions derived from known source procedures. The performance was measured by determining whether the correct procedure appeared in the top-k retrieved results for each question. The following plot compares the top-k retrieval accuracy for each approach across different models, arranged in order of ascending performance from left to right. The metrics are proportionally weighted based on each procedure’s webpage visit frequency, making sure that our evaluation reflects real-world usage patterns. 
+ 
+The first three approaches represent standard vector-based retrieval methods. The first method, Section Titan, involved chunking procedures by document sections, targeting approximately 250 words per chunk, and then embedding the chunks using Amazon Titan Text Embeddings v2. The second method, Summaries Titan, consisted of embedding the procedure summaries using the same embedding model. By embedding summaries rather than document text, the retrieval accuracy improved by 7.8–15.8%. The third method, Summaries Cohere, involved embedding procedure summaries using Cohere Multilingual v3 on Amazon Bedrock. The Cohere Multilingual embedding model provided a noticeable improvement in retrieval accuracy compared to the Amazon Titan embedding models, with all top-k values above 90%. 
+The next three approaches use the reasoning retriever. We embedded the procedure summaries using the Cohere Multilingual model, retrieved 10 summaries during the initial retrieval step, and optionally applied the LLM-based reasoning step using either Anthropic’s Haiku 3, Claude 3 Sonnet, or Claude 3.5 Sonnet on Amazon Bedrock. All three reasoning retrievers consistently outperform standard RAG techniques, achieving 12.5–17.5% higher top-k accuracies. Anthropic’s Claude 3.5 Sonnet delivered the highest performance with 98.9% top-1 accuracy. These results demonstrate how combining embedding-based retrieval with LLM-powered reasoning can improve RAG performance. 
+Answer generation 
+After collecting the necessary information, the agent responds using Boti’s distinctive communication style: concise, helpful messages in Rioplatense Spanish. We maintained this voice through prompt engineering that specified the following: 
+ 
+ Personality – Convey a warm and friendly tone, providing quick solutions to everyday problems 
+ Response length – Limit responses to a few sentences 
+ Structure – Organize content using lists and highlights key information using bold text 
+ Expression – Use emojis to mark important requirements and add visual cues 
+ Dialect – Incorporate Rioplatense linguistic features, including voseo, periphrastic future, and regional vocabulary (for example, “acordate,” “entrar,” “acá,” and “allá”). 
+ 
+Government procedures often address sensitive topics, like accidents, health, or security. To facilitate appropriate responses, we incorporated sentiment analysis into our knowledge base as metadata. This allows our system to route to different prompt templates. Sensitive topics are directed to prompts with reduced emoji usage and more empathetic language, whereas neutral topics receive standard templates. 
+The following figure shows a sample response to a question about borrowing library books. It has been translated to English for convenience. 
+ 
+To validate our prompt engineering approach, subject matter experts at the Government of the City of Buenos Aires reviewed a sample of Boti’s responses. Their analysis confirmed high fidelity to Rioplatense Spanish, with 98% accuracy in voseo usage and 92% in periphrastic future usage. 
+Conclusion 
+This post described the agentic AI assistant built by the Government of the City of Buenos Aires and the GenAIIC to respond to citizens’ questions about government procedures. The solution consists of two primary components: an input guardrail system that helps prevent the system from responding to harmful user queries and a government procedures agent that retrieves relevant information and generates responses. The input guardrails effectively block harmful content, including queries with offensive language, harmful opinions, prompt injection, and unethical behaviors. The government procedures agent employs a novel reasoning retrieval method that disambiguates similar government procedures, achieving up to 98.9% top-1 retrieval accuracy and a 12.5–17.5% improvement over standard RAG methods. Through prompt engineering, responses are delivered in Rioplatense Spanish using Boti’s voice. Subject matter experts rated Boti’s linguistic performance highly, with 98% accuracy in voseo usage and 92% in periphrastic future usage. 
+As generative AI advances, we expect to continuously improve our solution. The expanding catalog of LLMs available in Amazon Bedrock makes it possible to experiment with newer, more powerful models. This includes models that process text, as explored in the solution in this post, as well as models that process speech, allowing for direct speech-to-speech interactions. We might also explore the fine-tuning capabilities of Amazon Bedrock to customize models so that they better capture the linguistic features of Rioplatense Spanish. Beyond model improvements, we can iterate on our agent framework. The agent’s tool set can be expanded to support other tasks associated with government procedures like account creation, form completion, and appointment scheduling. As the City Government develops new experiences for citizens, we can consider implementing multi-agent frameworks in which specialist agents, like the government procedures agent, handle specific tasks. 
+To learn more about Boti and AWS’s generative AI capabilities, check out the following resources: 
+ 
+ Boti: The City Chatbot 
+ Government of the City of Buenos Aires: Procedures 
+ Amazon Bedrock 
+ Amazon Bedrock Knowledge Bases 
+ 
+ 
+ 
+About the authors 
+Julieta Rappan is Director of the Digital Channels Department of the Buenos Aires City Government, where she coordinates the landscape of digital and conversational interfaces. She has extensive experience in the comprehensive management of strategic and technological projects, as well as in leading high-performance teams focused on the development of digital products and services. Her leadership drives the implementation of technological solutions with a focus on scalability, coherence, public value, and innovation—where generative technologies are beginning to play a central role. 
+Macarena Blasi is Chief of Staff at the Digital Channels Department of the Buenos Aires City Government, working across the city’s main digital services, including Boti—the WhatsApp-based virtual assistant—and the official Buenos Aires website. She began her journey working in conversational experience design, later serving as product owner and Operations Manager and then as Head of Experience and Content, leading multidisciplinary teams focused on improving the quality, accessibility, and usability of public digital services. Her work is driven by a commitment to building clear, inclusive, and human-centered experiences in the public sector. 
+María Candela Blanco is Operations Manager for Quality Assurance, Usability, and Continuous Improvement at the Buenos Aires Government, where she leads the content, research, and conversational strategy across the city’s main digital channels, including the Boti AI assistant and the official Buenos Aires website. Outside of tech, Candela studies literature at UNSAM and is deeply passionate about language, storytelling, and the ways they shape our interactions with technology. 
+Leandro Micchele is a Software Developer focused on applying AI to real-world use cases, with expertise in AI assistants, voice, and vision solutions. He serves as the technical lead and consultant for the Boti AI assistant at the Buenos Aires Government and works as a Software Developer at Telecom Argentina. Beyond tech, his discipline extends to martial arts: he has over 20 years of experience and currently teaches Aikido. 
+Hugo Albuquerque is a Deep Learning Architect at the AWS Generative AI Innovation Center. Before joining AWS, Hugo had extensive experience working as a data scientist in the media and entertainment and marketing sectors. In his free time, he enjoys learning other languages like German and practicing social dancing, such as Brazilian Zouk. 
+Enrique Balp is a Senior Data Scientist at the AWS Generative AI Innovation Center working on cutting-edge AI solutions. With a background in the physics of complex systems focused on neuroscience, he has applied data science and machine learning across healthcare, energy, and finance for over a decade. He enjoys hikes in nature, meditation retreats, and deep friendships. 
+Diego Galaviz is a Deep Learning Architect at the AWS Generative AI Innovation Center. Before joining AWS, he had over 8 years of expertise as a data scientist across diverse sectors, including financial services, energy, big tech, and cybersecurity. He holds a master’s degree in artificial intelligence, which complements his practical industry experience. 
+Laura Kulowski is a Senior Applied Scientist at the AWS Generative AI Innovation Center, where she works with customers to build generative AI solutions. Before joining Amazon, Laura completed her PhD at Harvard’s Department of Earth and Planetary Sciences and investigated Jupiter’s deep zonal flows and magnetic field using Juno data. 
+Rafael Fernandes is the LATAM leader of the AWS Generative AI Innovation Center, whose mission is to accelerate the development and implementation of generative AI in the region. Before joining Amazon, Rafael was a co-founder in the financial services industry space and a data science leader with over 12 years of experience in Europe and LATAM.
+• Empowering air quality research with secure, ML-driven predictive analytics
+  Air pollution remains one of Africa’s most pressing environmental health crises, causing widespread illness across the continent. Organizations like sensors.AFRICA have deployed hundreds of air quality sensors to address this challenge, but face a critical data problem: significant gaps in PM2.5 (particulate matter with diameter less than or equal to 2.5 micrometers) measurement records because of power instability and connectivity issues in high-risk regions where physical maintenance is limited. Missing data in PM2.5 datasets reduces statistical power and introduces bias into parameter estimates, leading to unreliable trend detection and flawed conclusions about air quality patterns. These data gaps ultimately compromise evidence-based decision-making for pollution control strategies, health impact assessments, and regulatory compliance. 
+In this post, we demonstrate&nbsp;the time-series forecasting capability of&nbsp;Amazon SageMaker Canvas,&nbsp;a&nbsp;low-code no-code (LCNC) machine learning (ML) platform to predict PM2.5 from incomplete datasets. PM2.5 exposure contributes to millions of premature deaths globally through cardiovascular disease, respiratory illness, and systemic health effects, making accurate air quality forecasting a critical public health tool. A key advantage of the forecasting capability of SageMaker Canvas is its robust handling of incomplete data. Traditional air quality monitoring systems often require complete datasets to function properly, meaning they can’t be relied on when sensors malfunction or require maintenance. In contrast, SageMaker Canvas can generate reliable predictions even when faced with gaps in sensor data. This resilience enables continuous operation of air quality monitoring networks despite inevitable sensor failures or maintenance periods, eliminating costly downtime and data gaps. Environmental agencies and public health officials benefit from uninterrupted access to critical air quality information, enabling timely pollution alerts and more comprehensive long-term analysis of air quality trends. By maintaining operational continuity even with imperfect data inputs, SageMaker Canvas significantly enhances the reliability and practical utility of environmental monitoring systems. 
+In this post, we provide a data imputation solution using Amazon SageMaker AI, AWS Lambda, and AWS Step Functions. This solution is designed for environmental analysts, public health officials, and business intelligence professionals who need reliable PM2.5 data for trend analysis, reporting, and decision-making. We sourced our sample training dataset from openAFRICA. Our solution predicts PM2.5 values using time-series forecasting. The sample training dataset contained over 15 million records from March 2022 to Oct 2022 in various parts of Kenya and Nigeria—data coming from 23 sensor devices from 15 unique locations. The sample code and workflows can be adapted to create prediction models for your PM2.5 datasets. See our solution’s README for detailed instructions. 
+Solution overview 
+The solution consists of two main ML components: a training workflow and an inference workflow. These workflows are built using the following services: 
+ 
+ SageMaker Canvas is used to prepare data and train the prediction model through its no-code interface 
+ Batch Transform for inference with Amazon SageMaker AI&nbsp;is used for inference, processing the dataset in bulk to generate predictions 
+ Step Functions orchestrates the inferencing process by coordinating the workflow between data retrieval, batch transforming, and database updates, managing workflow state transitions, and making sure that data flows properly through each processing stage 
+ Lambda functions perform critical operations at each workflow step: retrieving sensor data from the database in required format, transforming data for model input, sending batches to SageMaker for inferencing, and updating the database with prediction results after processing is complete 
+ 
+At a high level, the solution works by taking a set of PM2.5 data with gaps and predicts the missing values within the range of plus or minus 4.875 micrograms per cubic meter of the actual PM2.5 concentration. It does this by first training a model on the data using inputs for the specific schema and a historical set of values from the user to guide the training process, which is completed with SageMaker Canvas. After the model is trained on a representative dataset and schema, SageMaker Canvas exports the model for use with batch processing. The Step Functions orchestration calls a Lambda function every 24 hours that takes a dataset of new sensor data that has gaps and initiates a SageMaker batch transform job to predict the missing values. The batch transform job processes the entire dataset at once, and the Lambda function then updates the existing dataset with the results. The new completed dataset with predicted values can now be distributed to&nbsp;public health decision-makers who need complete datasets to effectively analyze the patterns of PM2.5 data. 
+We dive into each of these steps in later sections of this post. 
+Solution walkthrough 
+The following diagram shows our solution architecture: 
+ 
+Let’s explore the architecture step by step: 
+ 
+ To&nbsp;systematically collect, identify, and fill PM2.5 data gaps caused by sensor limitations and connectivity issues,&nbsp;Amazon EventBridge Scheduler invokes a Step Functions state machine every 24 hours.&nbsp;Step Functions orchestrates the calling of various Lambda functions to perform different steps without handling the complexities of error handling, retries, and state management, providing a serverless workflow that seamlessly coordinates the PM2.5 data imputation process. 
+ The State Machine invokes a Lambda function in your&nbsp;Amazon Virtual Private Cloud (Amazon VPC) that retrieves records containing missing air quality values from the user’s air quality database on Amazon Aurora PostgreSQL-Compatible Edition and stores the records in a CSV file in an Amazon Simple Storage Service (Amazon S3) bucket. 
+ The State Machine then runs a Lambda function that retrieves the records from Amazon S3 and initiates the SageMaker batch transform job in your VPC using your SageMaker model created from your SageMaker Canvas predictive model trained on historical PM2.5 data. 
+ To streamline the batch transform workflow, this solution uses an event-driven approach with EventBridge and Step Functions. EventBridge captures completion events from SageMaker batch transform jobs, while the task token functionality of Step Functions enables extended waiting periods beyond the time limits of Lambda. After processing completes, SageMaker writes the prediction results directly to an S3 bucket. 
+ The final step in the state machine retrieves the predicted values from the S3 bucket and then updates the database in&nbsp;Aurora PostgreSQL-Compatible with the values including a predicted label set to true. 
+ 
+Prerequisites 
+To implement the PM2.5 data imputation solution, you must have the following: 
+ 
+ An AWS account with&nbsp;AWS Identity and Access Management (IAM)&nbsp;permissions sufficient to deploy the solution and interact with the database. 
+ The following AWS services: 
+   
+   Amazon SageMaker AI 
+   AWS Lambda 
+   AWS Step Functions 
+   Amazon S3 
+   Aurora&nbsp;PostgreSQL-Compatible 
+   Amazon CloudWatch 
+   AWS CloudFormation 
+   Amazon Virtual Private Cloud (VPC) 
+   Amazon EventBridge 
+   IAM for authentication to&nbsp;Aurora&nbsp;PostgreSQL-Compatible 
+   AWS Systems Manager Parameter Store 
+    
+ A local desktop set up with AWS Command Line Interface (AWS CLI) version 2, Python 3.10, AWS Cloud Development Kit (AWS CDK) v2.x, and Git version 2.x. 
+ The AWS CLI set up with the necessary credentials in the desired AWS Region. 
+ Historical air quality sensor data. Note that our solution requires a fixed schema described in the GitHub repo’s README. 
+ 
+Deploy the solution 
+You will run the following steps to complete the deployment: 
+ 
+ Prepare your environment by building Python modules locally for Lambda layers, deploying infrastructure using the AWS CDK, and initializing your Aurora PostgreSQL database with sensor data. 
+ Perform steps in the Build your air quality prediction model section to configure a SageMaker Canvas application, followed by training and registering your model in Amazon SageMaker Model Registry. 
+ Create SageMaker model using your registered SageMaker Canvas model by updating infrastructure using the AWS CDK. 
+ Manage future configuration changes using the AWS CDK. 
+ 
+Step 1: Deploy AWS infrastructure and upload air quality sensor data 
+Complete the following steps to deploy the PM2.5 data imputation solution AWS Infrastructure and upload air quality sensor data to Amazon Aurora RDS: 
+ 
+ Clone the repository to your local desktop environment using the following command: 
+ 
+ 
+ git clone git@github.com:aws-samples/sample-empowering-air-quality-research-secure-machine-learning-predictive-analytics.git 
+ 
+ 
+ Change to the project directory: 
+ 
+cd &lt;BASE_PROJECT_FOLDER&gt; 
+ 
+ Follow the deployment steps in the README&nbsp;file up to Model Setup for Batch Transform Inference. 
+ 
+Step 2: Build your air quality prediction model 
+After you create the SageMaker AI domain and the SageMaker AI user profile as part of the CDK deployment steps, follow these steps to build your air quality prediction model 
+Configure your SageMaker Canvas application 
+ 
+ On the AWS Management Console, go to the&nbsp;SageMaker AI&nbsp;console and select the domain and the user profile that was created under Admin, Configurations, and Domains. 
+ Choose the App Configurations tab, scroll down to the Canvas section, and select Edit. 
+ In Canvas storage configuration, select Encryption and select the dropdown for aws/s3. 
+ In the ML Ops Configuration, turn on the option to Enable Model Registry registration permissions for this user profile. 
+   
+   Optionally, in the Local file upload configuration&nbsp;section in your domain’s Canvas App Configuration, you can turn on Enable local file upload. 
+    
+ Choose Submit to save your configuration choices. 
+ In your Amazon SageMaker AI home page, go to the Applications and IDEs section and select Canvas. 
+ Select the SageMaker AI user profile that was created for you by the CDK deployment and choose Open Canvas. 
+ In a new tab, SageMaker Canvas will start creating your application. This takes a few minutes. 
+ 
+Create and register your prediction model 
+In this phase, you develop a prediction model using your historical air quality sensor data. 
+ 
+The preceding architecture diagram illustrates the end-to-end process for training the SageMaker Canvas prediction model, registering that model and creating a SageMaker model for running inference on newly found PM2.5 data gaps.&nbsp;The training process starts by extracting air quality sensor dataset from the database. The dataset is imported into SageMaker Canvas for predictive analysis. This training dataset is transformed and prepared through data wrangling steps implemented by SageMaker Canvas for building and training ML models. 
+Prepare data 
+Our solution supports a SageMaker Canvas model trained for a single-target variable prediction based on historical data and performs corresponding data imputation for PM2.5 data gaps. To train your model for predictive analysis, follow the comprehensive End to End Machine Learning workflow in the AWS Canvas Immersion Day workshop, adapting each step to prepare your air quality sensor dataset. Begin with the standard workflow until you reach the data preparation section. Here, you can make several customizations: 
+ 
+ Filter dataset for single-target value prediction: Your air quality dataset might contain multiple sensor parameters. For single-target value prediction using this solution, filter the dataset to include only PM2.5 measurements. 
+ Clean sensor data: Remove records containing sensor fault values. For example, we filtered out values that equal 65535, because 65535 is a common error code for malfunctioning sensors. Adjust this filtering based on the specific error codes your air quality monitoring equipment produces. 
+ 
+The following image shows our data wrangling Data Flow implemented using above guidance: 
+Data Wrangler &gt; Data Flow 
+ 
+ 
+ Review generated insights and remove irrelevant data: Review the SageMaker Canvas generated insights and analyses. Evaluate them based on time-series forecasting and geospatial temporal data for air quality patterns and relationships between other columns of impact. See chosen columns of impact in GitHub for guidance. Analyze your dataset to identify rows and columns that impact the prediction and remove data that can reduce prediction accuracy. 
+ 
+The following image shows our data wrangling&nbsp;Analyses obtained with implementing the above guidance: 
+Data Wrangler &gt; Analyses 
+ 
+Training your prediction model 
+After completing your data preparation, proceed to the Train the Model section of the workshop and continue with these specifications: 
+ 
+ Select problem type: Select Predictive Analysis as your ML approach. Because our dataset is tabular and contains a timestamp, a target column that has values we’re using to forecast future values, and a device ID column, SageMaker Canvas will choose time series forecasting. 
+ Define target column: Set Value as your target column for predicting PM2.5 values. 
+ Build configuration: Use the Standard Build option for model training because it generally has a higher accuracy. See What happens when you build a model in How custom models work&nbsp;for more information. 
+ 
+By following these steps, you can create a model optimized for PM2.5 dataset predictive analysis, capable of generating valuable insights. Note that SageMaker Canvas supports retraining the ML model for updated PM2.5 datasets. 
+Evaluate the model 
+After training your model, proceed to Evaluate the model and review column impact, root mean square error (RMSE) score and other advanced metrics to understand your model’s performance for generating predictions for PM2.5. 
+The following image shows our model evaluation statistics achieved. 
+ 
+Add the model to the registry 
+Once you are satisfied with your model performance, follow the steps in Register a model version to the SageMaker AI model registry. Make sure to change the approval status to Approved before continuing to run this solution. At the time of this post’s publication, the approval must be updated in Amazon SageMaker Studio. 
+Log out of SageMaker Canvas 
+After completing your work in SageMaker Canvas, you can log out or configure your application to automatically terminate the&nbsp;workspace instance. A workspace instance is dedicated for your use every time you launch a Canvas application, and you are billed for as long as the instance runs. Logging out or terminating the workspace instance stops the workspace instance billing. For more information, see billing and cost in SageMaker Canvas. 
+Step 3: Create a SageMaker model using your registered SageMaker Canvas model 
+In the previous steps, you created a SageMaker domain and user profile through CDK deployment (Step 1) and successfully registered your model (Step 2). Now, it’s time to create the SageMaker model in your VPC using the SageMaker Canvas model you registered. Follow Model Setup for Batch Inference and Re-Deploy with Updated Configuration sections in the code README for creating SageMaker model. 
+Step 4: Manage future configuration changes 
+The same deployment pattern applies to any future configuration modifications you might require, including: 
+ 
+ Batch transform instance type optimizations 
+ Transform job scheduling changes 
+ 
+Update the relevant parameters in your configuration and run cdk deploy to propagate these changes throughout your solution architecture. 
+For a comprehensive list of configurable parameters and their default values, see the configuration file in the repository. 
+Execute cdk deploy again to update your infrastructure stack with the your model ID for batch transform operations, replacing the placeholder value initially deployed. This infrastructure-as-code approach helps ensure consistent, version-controlled updates to your data imputation workflow. 
+Security best practices 
+Security and compliance is a shared responsibility between AWS and the customer, as outlined in the Shared Responsibility Model. We encourage you to review this model for a comprehensive understanding of the respective responsibilities. 
+In this solution, we enhanced security by implementing encryption at rest for Amazon S3, Aurora PostgreSQL-Compatible database, and the SageMaker Canvas application. We also enabled encryption in transit by requiring SSL/TLS for all connections from the Lambda functions. We implemented secure database access by providing temporary dynamic credentials through IAM authentication for Amazon RDS, eliminating the need for static passwords. Each Lambda function operates with least privilege access, receiving only the minimal permissions required for its specific function. Finally, we deployed the Lambda functions, Aurora PostgreSQL-Compatible instance, and SageMaker Batch Transform jobs in private subnets of the VPC that do not traverse the public internet. This private network architecture is enabled through VPC endpoints for Amazon S3, SageMaker AI, and&nbsp;AWS Secrets Manager. 
+Results 
+As shown in the following image, our model, developed using SageMaker Canvas, predicts PM2.5 values with an R-squared of 0.921. Because ML models for PM2.5 prediction frequently achieve R-squared values between 0.80 and 0.98 (see this example from ScienceDirect), our solution is within the range of higher-performing PM2.5 prediction models available today. SageMaker Canvas delivers this performance through its no-code experience, automatically handling model training and optimization without requiring ML expertise from users. 
+ 
+Clean up 
+Complete the following steps to clean up your resources: 
+ 
+ SageMaker Canvas application cleanup: 
+   
+   On the go to the&nbsp;SageMaker AI&nbsp;console and select the domain that was created under Admin&nbsp;Configurations, and Domains. 
+   Select the user created under User Profiles&nbsp;for that domain. 
+   On the User Details page, navigate to&nbsp;Spaces and Apps, and choose Delete to manually delete your SageMaker AI canvas application and clean up resources. 
+    
+ SageMaker Domain EFS storage cleanup: 
+   
+   Open Amazon EFS&nbsp;and in File systems, delete filesystem tagged as ManagedByAmazonSageMakerResource. 
+   Open VPC and under Security, navigate to Security groups. 
+   On Security groups, select security-group-for-inbound-nfs-&lt;your-sagemaker-domain-id&gt; and delete all Inbound rules associated with that group. 
+   On Security groups, select security-group-for-outbound-nfs-&lt;your-sagemaker-domain-id&gt; and delete all associated Outbound rules. 
+   Finally, delete both the security groups:&nbsp;security-group-for-inbound-nfs-&lt;your-sagemaker-domain-id&gt; and&nbsp;security-group-for-outbound-nfs-&lt;your-sagemaker-domain-id&gt;. 
+    
+ Use the AWS CDK to clean up the remaining AWS resources: 
+   
+   After the preceding steps are complete, return to your local desktop environment where the GitHub repo was cloned, and change to the project’s infra directory: cd &lt;BASE_PROJECT_FOLDER&gt;/infra 
+   Destroy the resources created with AWS CloudFormation using the AWS CDK: cdk destroy 
+   Monitor the AWS CDK process deleting resources created by the solution. If there are any errors, troubleshoot using the CloudFormation console and then retry deletion. 
+    
+ 
+Conclusion 
+The development of accurate PM2.5 prediction models has traditionally required extensive technical expertise, presenting significant challenges for public health researchers studying air pollution’s impact on disease outcomes. From data preprocessing and feature engineering to model selection and hyperparameter tuning, these technical requirements diverted substantial time and effort away from researchers’ core work of analyzing health outcomes and developing evidence-based interventions.SageMaker Canvas transforms this landscape by dramatically reducing the effort required to develop high-performing PM2.5 prediction models. Public health researchers can now generate accurate predictions without mastering complex ML algorithms, iterate quickly through an intuitive interface, and validate models across regions without manual hyperparameter tuning. With this shift to streamlined, accessible prediction capabilities, researchers can dedicate more time to interpreting results, understanding air pollution’s impact on community health, and developing protective interventions for vulnerable populations. The result is more efficient research that responds quickly to emerging air quality challenges and informs timely public health decisions. We invite you to implement this solution for your air quality research or ML-based predictive analytics projects. Our comprehensive deployment steps and customization guidance will help you launch quickly and efficiently. As we continue enhancing this solution, your feedback is invaluable for improving its capabilities and maximizing its impact. 
+ 
+About the authors 
+Nehal Sangoi is a Senior Technical Account Manager at Amazon Web Services. She provides strategic technical guidance to help independent software vendors plan and build solutions using AWS best practices. Connect with Nehal on LinkedIn. 
+Ben Peterson is a Senior Technical Account Manager with AWS. He is passionate about enhancing the developer experience and driving customer success. In his role, he provides strategic guidance on using the comprehensive AWS suite of services to modernize legacy systems, optimize performance, and unlock new capabilities. Connect with Ben on LinkedIn. 
+Shashank Shrivastava is a Senior Delivery Consultant and Serverless TFC member at AWS. He is passionate about helping customers and developers build modern applications on serverless architecture. As a pragmatic developer and blogger, he promotes community-driven learning and sharing of technology. His interests are software architecture, developer tools, GenAI, and serverless computing. Connect with Shashank on LinkedIn. 
+Akshay Singhal is a Senior Technical Account Manager at Amazon Web Services supporting Enterprise Support customers focusing on the Security ISV segment. He provides technical guidance for customers to implement AWS solutions, with expertise spanning serverless architectures and cost optimization. Outside of work, Akshay enjoys traveling, Formula 1, making short movies, and exploring new cuisines. Connect with Akshay on LinkedIn.
+• How Amazon Finance built an AI assistant using Amazon Bedrock and Amazon Kendra to support analysts for data discovery and business insights
+  Finance analysts across Amazon Finance face mounting complexity in financial planning and analysis processes. When working with vast datasets spanning multiple systems, data lakes, and business units, analysts encounter several critical challenges. First, they spend significant time manually browsing data catalogs and reconciling data from disparate sources, leaving less time for valuable analysis and insight generation. Second, historical data and previous business decisions often reside in various documents and legacy systems, making it difficult to use past learnings during planning cycles. Third, as business contexts rapidly evolve, analysts need quick access to relevant metrics, planning assumptions, and financial insights to support data-driven decision-making. 
+Traditional tools and processes fall short in addressing these challenges. Keyword-based searches often miss contextual relationships in financial data, and rigid query structures limit analysts’ ability to explore data dynamically. Furthermore, the lack of institutional knowledge preservation means valuable insights and decision rationales often remain siloed or get lost over time, leading to redundant analysis and inconsistent planning assumptions across teams. These challenges significantly impact financial planning efficiency, decision-making agility, and the overall quality of business insights. Analysts needed a more intuitive way to access, understand, and use their organization’s collective financial knowledge and data assets. 
+The Amazon Finance technical team develops and manages comprehensive technology solutions that power financial decision-making and operational efficiency while standardizing across Amazon’s global operations. In this post, we explain how the team conceptualized and implemented a solution to these business challenges by harnessing the power of generative AI using Amazon Bedrock and intelligent search with Amazon Kendra. 
+Solution overview 
+To address these business challenges, Amazon Finance developed an AI-powered assistant solution that uses generative AI and enterprise search capabilities. This solution helps analysts interact with financial data sources and documentation through natural language queries, minimizing the need for complex manual searches across multiple systems. The assistant accesses a comprehensive knowledge base of financial documents, historical data, and business context, providing relevant and accurate responses while maintaining enterprise security standards. This approach not only streamlines data discovery but also preserves institutional knowledge and enables more consistent decision-making across the organization. 
+The AI assistant’s methodology consists of two key solution components: intelligent retrieval and augmented generation. The retrieval system uses vector stores, which are specialized databases that efficiently store and search high-dimensional representations of text meanings. Unlike traditional databases that rely on keyword matching, vector stores enable semantic search by converting user queries into vector representations and finding similar vectors in the database. Building on this retrieval foundation, the system employs augmented generation to create accurate and contextual responses. This approach enhances traditional language models by incorporating external knowledge sources during response generation, significantly reducing hallucinations and improving factual accuracy. The process follows three steps: retrieving relevant information from knowledge sources using semantic search, conditioning the language model with this context, and generating refined responses that incorporate the retrieved information. By combining these technologies, the assistant delivers responses that are both contextually appropriate and grounded in verified organizational knowledge, making it particularly effective for knowledge-intensive applications like financial operations and planning. 
+We implemented this Retrieval Augmented Generation (RAG) system through a combination of large language models (LLMs) on Amazon Bedrock and intelligent search using Amazon Kendra. 
+In the following sections, we discuss the key architectural components that we used in the solution and describe how the overall solution works. 
+Amazon Bedrock 
+We chose Anthropic’s Claude 3 Sonnet, a powerful language model, for its exceptional language generation capabilities and ability to understand and reason complex topics. By integrating Anthropic’s Claude into the RAG module through Amazon Bedrock, the AI assistant can generate contextual and informative responses that seamlessly combine the retrieved knowledge from the vector store with the model’s natural language processing and generation abilities, resulting in a more human-like and engaging conversational experience. 
+Amazon Kendra (Enterprise Edition Index) 
+Amazon Kendra offers powerful natural language processing for AI assistant applications. It excels at understanding user questions and finding relevant answers through semantic search. The service works smoothly with generative AI models, particularly in RAG solutions. The enterprise security features in Amazon Kendra support data protection and compliance. Its ability to understand user intent and connect directly with Amazon Bedrock makes it ideal for business assistants. This helps create meaningful conversations using business documents and data catalogs. 
+We chose Amazon Kendra Enterprise Edition Index over Amazon OpenSearch Service, primarily due to its sophisticated built-in capabilities and reduced need for manual configuration. Whereas OpenSearch Service requires extensive customization and technical expertise, Amazon Kendra provides out-of-the-box natural language understanding, automatic document processing for over 40 file formats, pre-built enterprise connectors, and intelligent query handling including synonym recognition and refinement suggestions. The service combines keyword, semantic, and vector search approaches automatically, whereas OpenSearch Service requires manual implementation of these features. These features of Amazon Kendra were suitable for our finance domain use case, where accuracy is imperative for usability. 
+We also chose Amazon Kendra Enterprise Edition Index over Amazon Q Business for information retrieval, because it stands out as a more robust and flexible solution. Although both tools aim to streamline access to company information, Amazon Kendra offers superior retrieval accuracy and greater control over search parameters. With Amazon Kendra, you can fine-tune relevance tuning, customize document attributes, and implement custom synonyms to enhance search precision. This level of customization helped us tailor the search experience to our specific needs in the Amazon Finance domain and monitor the search results prior to the augmented generation step within user conversations. 
+Streamlit 
+We selected Streamlit, a Python-based framework for creating interactive web applications, for building the AI assistant’s UI due to its rapid development capabilities, seamless integration with Python and the assistant’s backend components, interactive and responsive UI components, potential for data visualization, and straightforward deployment options. With the Streamlit UI, the assistant provides a user-friendly and engaging interface that facilitates natural language interactions while allowing for efficient iteration and deployment of the application. 
+Prompt template 
+Prompt templates allow for formatting user queries, integrating retrieved knowledge, and providing instructions or constraints for response generation, which are essential for generating contextual and informative responses that combine the language generation abilities of Anthropic’s Claude with the relevant knowledge retrieved from the search powered by Amazon Kendra. The following is an example prompt: 
+ 
+ """
+H: Use the following pieces of context to provide a concise answer to the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.
+&lt;context&gt;
+{context}
+&lt;/context&gt;
+
+Question: {question}
+
+A:
+""" 
+ 
+Solution architecture 
+The following solution architecture diagram depicts how the key architectural components work with each other to power the solution. 
+ 
+The workflow consists of the following steps: 
+ 
+ The user asks the question in a chat box after authentication. 
+ The Streamlit application sends the query to an Amazon Kendra retriever for relevant document retrieval. 
+ Amazon Kendra sends the relevant paragraph and document references to the RAG solution. 
+ The RAG solution uses Anthropic’s Claude in Amazon Bedrock along with the prompt template and relevant paragraph as context. 
+ The LLM response is sent back to the Streamlit UI. 
+ The response is shown to the user along with the feedback feature and session history. 
+ The user feedback on responses is stored separately in Amazon Simple Storage Service (Amazon S3) 
+ Amazon Kendra indexes relevant documents stored in S3 buckets for document search and retrieval. 
+ 
+Frontend architecture 
+We designed the following frontend architecture to allow for rapid modifications and deployment, keeping in mind the scalability and security of the solution. 
+ 
+This workflow consists of the following steps: 
+ 
+ The user navigates to the application URL in their browser. 
+ Amazon Route 53 resolves their request to the Amazon CloudFront distribution, which then selects the server closest to the user (to minimize latency). 
+ CloudFront runs an AWS Lambda function that makes sure the user has been authenticated. If not, the user is redirected to sign in. After they successfully sign in, they are redirected back to the application website. The flow repeats, and CloudFront triggers the Lambda function again. This time, the user is now able to access the website. 
+ Now authenticated, CloudFront returns the assets of the web application. 
+ AWS Fargate makes it possible to run containers without having to manage the underlying Amazon Elastic Compute Cloud (Amazon EC2) instances. This allows running containers as a true serverless service. Amazon Elastic Container Service (Amazon ECS) is configured with automatic scaling (target tracking automatic scaling, which scales based on the Application Load Balancer (ALB) requests per target). 
+ 
+Evaluation of the solution’s performance 
+We implemented a comprehensive evaluation framework to rigorously assess the AI assistant’s performance and make sure it meets the high standards required for financial applications. Our framework was designed to capture both quantitative metrics for measurable performance and qualitative indicators for user experience and response quality. During our benchmarking tests with analysts, we found that this solution dramatically reduced search time by 30% because analysts can now perform natural language search, and it improved the accuracy of search results by 80%. 
+Quantitative assessment 
+We focused primarily on precision and recall testing, creating a diverse test set of over 50 business queries that represented typical use cases our analysts encounter. Using human-labeled answers as our ground truth, we evaluated the system’s performance across two main categories: data discovery and knowledge search. In data discovery scenarios, where the system helps analysts locate specific data sources and metrics, we achieved an initial precision rate of 65% and a recall rate of 60% without performing metadata enrichment on the data sources. Although these rates might appear moderate, they represent a significant improvement over the previous manual search process, which had an estimated success rate of only 35% and often required multiple iterations across different systems. The primary reasons for the current rates of the new system were attributed to the lack of rich metadata about data sources and was a good indicator for teams to facilitate better metadata collection of data assets, which is currently underway. 
+The knowledge search capability demonstrated initial rates of 83% precision and 74% recall without performing metadata enrichment on data sources. This marked a substantial improvement over traditional keyword-based search methods, which typically achieved only 45–50% precision in our internal testing. This improvement is particularly meaningful because it translates to analysts finding the right information in their first search attempt roughly 8 out of 10 times, compared to the previous average of 3–4 attempts needed to locate the same information. 
+Qualitative metrics 
+The qualitative evaluation centered around the concept of faithfulness—a critical metric for financial applications where accuracy and reliability are paramount. We employed an innovative LLM-as-a-judge methodology to evaluate how well the AI assistant’s responses aligned with source documentation and avoided hallucinations or unsupported assertions. The results showed a marked difference between use cases: data discovery achieved a faithfulness score of 70%, and business knowledge search demonstrated an impressive 88% faithfulness. These scores significantly outperform our previous documentation search system, which had no built-in verification mechanism and often led to analysts working with outdated or incorrect information. 
+Most importantly, the new system reduced the average time to find relevant information from 45–60 minutes to just 5–10 minutes—an 85% improvement in efficiency. User satisfaction surveys indicate that 92% of analysts prefer the new system over traditional search methods, citing improved accuracy and time savings as key benefits. 
+These evaluation results have not only validated our approach but also highlighted specific areas for future enhancement. We continue to refine our evaluation framework as the system evolves, making sure it maintains high standards of accuracy and reliability while meeting the dynamic needs of our financial analysts. The evaluation framework was instrumental in building confidence within our business user community, providing transparent metrics that demonstrate the system’s capability to handle complex financial queries while maintaining the accuracy standards essential for financial operations. 
+Use cases 
+Our solution transforms how finance users interact with complex financial and operational data through natural language queries. In this section, we discuss some key examples demonstrating how the system simplifies data discovery. 
+Seamless data discovery 
+The solution enables users to find data sources through natural language queries rather than requiring technical knowledge of database structures. It uses a sophisticated combination of vector stores and enterprise search capabilities to match user questions with relevant data sources, though careful attention must be paid to context management and preventing over-reliance on previous interactions. Prior to the AI assistant solution, finance analysts needed deep technical knowledge to navigate complex database structures, often spending hours searching through multiple documentation sources just to locate specific data tables. Understanding system workflows required extensive review of technical documentation or reaching out to subject matter experts, creating bottlenecks and reducing productivity. Even experienced users struggled to piece together complete information about business processes from fragmented sources across different systems. Now, analysts can simply ask questions in natural language, such as “Where can I find productivity metrics?”, “How do I access facility information?”, or “Which dashboard shows operational data?” and receive precise, contextual answers. The solution combines enterprise search capabilities with LLMs to understand user intent and deliver relevant information from both structured and unstructured data sources. Analysts now receive accurate directions to specific consolidated reporting tables, clear explanations of business processes, and relevant technical details when needed. In our benchmark tests, for data discovery tasks alone, the system achieved 70% faithfulness and 65% precision, and document search demonstrated even stronger results with 83% precision and 88% faithfulness, without metadata enrichments. 
+Assisting understanding of internal business processes from knowledge documentation 
+Financial analysts previously faced a steep learning curve when working with enterprise planning tools. The complexity of these systems meant that even basic tasks required extensive documentation review or waiting for support from overwhelmed subject matter experts. New team members could take weeks or months to become proficient, while even experienced users struggled to keep up with system updates and changes. This created a persistent bottleneck in financial operations and planning processes. The introduction of the AI-powered assistant has fundamentally changed how analysts learn and interact with these planning tools. Rather than searching through hundreds of pages of technical documentation, analysts can now ask straightforward questions like “How do I forecast depreciation for new assets?”, “How does the quarterly planning process work?” or “What inputs are needed for the quarterly planning cycle?” The system provides clear, contextualized explanations drawn from verified documentation and system specifications. Our benchmark tests revealed that it achieved 83% precision and 88% faithfulness in retrieving and explaining technical and business information. New analysts can become productive in a matter of weeks, experienced users can quickly verify procedures, and subject matter experts can focus on more complex challenges rather than routine questions. This represents a significant advancement in making enterprise systems more accessible and efficient, while maintaining the accuracy and reliability required for financial operations.While the technology continues to evolve, particularly in handling nuanced queries and maintaining comprehensive coverage of system updates, it has already transformed the way teams interact with planning tools independently. 
+Conclusion 
+The AI-powered assistant solution discussed in this post has demonstrated significant improvements in data discovery and business insights generation, delivering multiple key benefits across Amazon Finance. Analysts can now quickly find relevant information through natural language queries, dramatically reducing search time. The system’s ability to synthesize insights from disparate data sources has notably enhanced data-driven decision-making, and its conversational interface and contextual responses promote self-service data exploration, effectively reducing the burden on centralized data teams. 
+This innovative AI assistant solution showcases the practical power of AWS generative AI in transforming enterprise data discovery and document search. By combining Amazon Kendra Enterprise Edition Index, Amazon Bedrock, and advanced LLMs, the implementation achieves impressive precision rates, proving that sophisticated AI-powered search is both achievable and effective. This success demonstrates how AWS generative AI services can meet current business needs while promoting future innovations in enterprise search. These services provide a strong foundation for organizations looking to enhance data discovery processes using natural language to support intelligent enterprise applications. To learn more about implementing AI-powered search solutions, see Build and scale the next wave of AI innovation on AWS and explore AWS AI use cases. 
+ 
+About the authors 
+Saikat Gomes&nbsp;is part of the Customer Solutions team in Amazon Web Services. He is passionate about helping enterprises succeed and realize benefits from cloud adoption. He is a strategic advisor to his customers for large-scale cloud transformations involving people, process, and technology. Prior to joining AWS, he held multiple consulting leadership positions and led large- scale transformation programs in the retail industry for over 20 years. He is based out of Los Angeles, California. 
+Amit Dhanda serves as a Senior Scientist at Amazon’s Worldwide Operations Finance team, where he uses AI/ML technologies to solve complex ecommerce challenges. Prior to Amazon, he was Director of Data Science at Adore Me (now part of Victoria’s Secret), where he enhanced digital retail experiences through recommender systems. He held science leadership roles at EXL and Thomson Reuters, where he developed ML models for customer engagement/growth and text classification.
 • Mercury foundation models from Inception Labs are now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart
   Today, we are excited to announce that Mercury and Mercury Coder foundation models (FMs) from Inception Labs are available through Amazon Bedrock Marketplace and Amazon SageMaker JumpStart. With this launch, you can deploy the Mercury FMs to build, experiment, and responsibly scale your generative AI applications on AWS. 
 In this post, we demonstrate how to get started with Mercury models on Amazon Bedrock Marketplace and SageMaker JumpStart. 
@@ -1283,99 +1629,5 @@ John Liu&nbsp;has 15 years of experience as a product executive and 9 years of e
 Jonathan Evans is a Worldwide Solutions Architect for Generative AI at AWS, where he helps customers leverage cutting-edge AI technologies with Anthropic’s Claude models on Amazon Bedrock, to solve complex business challenges. With a background in AI/ML engineering and hands-on experience supporting machine learning workflows in the cloud, Jonathan is passionate about making advanced AI accessible and impactful for organizations of all sizes. 
 Rohit Talluri is a Generative AI GTM Specialist at Amazon Web Services (AWS). He is partnering with top generative AI model builders, strategic customers, key AI/ML partners, and AWS Service Teams to enable the next generation of artificial intelligence, machine learning, and accelerated computing on AWS. He was previously an Enterprise Solutions Architect and the Global Solutions Lead for AWS Mergers &amp; Acquisitions Advisory. 
 Breanne Warner is an Enterprise Solutions Architect at Amazon Web Services supporting healthcare and life science (HCLS) customers. She is passionate about supporting customers to use generative AI on AWS and evangelizing model adoption for first- and third-party models. Breanne is also Vice President of the Women at Amazon board with the goal of fostering inclusive and diverse culture at Amazon. Breanne holds a Bachelor’s of Science in Computer Engineering from the University of Illinois Urbana-Champaign.
-• Learn how Amazon Health Services improved discovery in Amazon search using AWS ML and gen AI
-  Healthcare discovery on ecommerce domains presents unique challenges that traditional product search wasn’t designed to handle. Unlike searching for books or electronics, healthcare queries involve complex relationships between symptoms, conditions, treatments, and services, requiring sophisticated understanding of medical terminology and customer intent. 
-This challenge became particularly relevant for Amazon as we expanded beyond traditional ecommerce into comprehensive healthcare services. Amazon now offers direct access to prescription medications through Amazon Pharmacy, primary care through One Medical, and specialized care partnerships through Health Benefits Connector. These healthcare offerings represent a significant departure from traditional Amazon.com products, presenting both exciting opportunities and unique technical challenges. 
-In this post, we show you how Amazon Health Services (AHS) solved discoverability challenges on Amazon.com search using AWS services such as Amazon SageMaker, Amazon Bedrock, and Amazon EMR. By combining machine learning (ML), natural language processing, and vector search capabilities, we improved our ability to connect customers with relevant healthcare offerings. This solution is now used daily for health-related search queries, helping customers find everything from prescription medications to primary care services. 
-At AHS, we’re on a mission to transform how people access healthcare. We strive to make healthcare more straightforward for customers to find, choose, afford, and engage with the services, products, and professionals they need to get and stay healthy. 
-Challenges 
-Integrating healthcare services into the ecommerce business of Amazon presented two unique opportunities to enhance search for customers on healthcare journeys: understanding health search intent in queries and matching up customer query intent with the most relevant healthcare products and services. 
-The challenge in understanding health search intent lies in the relationships between symptoms (such as back pain or sore throat), conditions (such as a herniated disc or the common cold), treatments (such as physical therapy or medication), and the healthcare services Amazon offers. This requires sophisticated query understanding capabilities that can parse medical terminology and map it to common search terminology that a layperson outside of the medical field might use to search. 
-AHS offerings also present unique challenges for search matching. For example, a customer searching for “back pain treatment” might be looking for a variety of solutions, from over-the-counter pain relievers like Tylenol or prescription medications such as cyclobenzaprine (a muscle relaxant), to scheduling a doctor’s appointment or accessing virtual physical therapy. Existing search algorithms optimized for physical products might not match these service-based health offerings, potentially missing relevant results such as One Medical’s primary care services or Hinge Health’s virtual physical therapy program that helps reduce joint and muscle pain through personalized exercises and 1-on-1 support from dedicated therapists. This unique nature of healthcare offerings called for developing specialized approaches to connect customers with relevant services. 
-Solution overview 
-To address these challenges, we developed a comprehensive solution that combines ML for query understanding, vector search for product matching, and large language models (LLMs) for relevance optimization. The solution consists of three main components: 
- 
- Query understanding pipeline – Uses ML models to identify and classify health-related searches, distinguishing between specific medication queries and broader health condition searches 
- Product knowledge base – Combines existing product metadata with LLM-enhanced health information to create comprehensive product embeddings for semantic search 
- Relevance optimization – Implements a hybrid approach using both human labeling and LLM-based classification to produce high-quality matches between searches and healthcare offerings 
- 
-The solution is built entirely on AWS services, with Amazon SageMaker powering our ML models, Amazon Bedrock providing LLM capabilities, and Amazon EMR and Amazon Athena handling our data processing needs. 
-Solution architecture 
-Now let’s examine the technical implementation details of our architecture, exploring how each component was engineered to address the unique challenges of healthcare search on Amazon.com. 
-Query understanding: Identification of health searches 
-We approached the customer search journey by recognizing its two distinct ends of the spectrum. On one end are what we call “spearfishing queries” or lower funnel searches, where customers have a clear product search intent with specific knowledge about attributes. For Amazon Health Services, these typically include searches for specific prescription medications with precise dosages and form factors, such as “atorvastatin 40 mg” or “lisinopril 20 mg.” 
-On the other end are broad, upper funnel queries where customers seek inspiration, information, or recommendations with general product search intent that might encompass multiple product types. Examples include searches like “back pain relief,” “acne,” or “high blood pressure.” Building upon Amazon search capabilities, we developed additional query understanding models to serve the full spectrum of healthcare searches. 
-For identifying spearfishing search intent, we analyzed anonymized customer search engagement data for Amazon products and trained a classification model to understand which search keywords exclusively lead to engagement with Amazon Pharmacy Amazon Standard Identification Numbers (ASINs). This process used PySpark on Amazon EMR and Athena to collect and process Amazon search data at scale. The following diagram shows this architecture. 
- 
-For identifying broad health search intent, we trained a named entity recognition (NER) model to annotate search keywords at a medical terminology level. To build this capability, we used a corpus of health ontology data sources to identify concepts such as health conditions, diseases, treatments, injuries, and medications. For health concepts where we did not have enough alternate terms in our knowledge base, we used LLMs to expand our knowledge base. For example, alternate terms for the condition “acid reflux” might be “heart burn”, “GERD”, “indigestion”, etc. We gated this NER model behind health-relevant product types predicted by Amazon search query-to-product-type models. The following diagram shows the training process for the NER model. 
- 
-The following image is an example of a query identification task in practice. In the example on the left, the pharmacy classifier predicts that “atorvastatin 40 mg” is a query with intent for a prescription drug and triggers a custom search experience geared towards AHS products. In the example on the right, we detect the broad “high blood pressure” symptom but don’t know the customer’s intention. So, we trigger an experience that gives them multiple options to make the search more specific. 
- 
-For those interested in implementing similar medical entity recognition capabilities, Amazon Comprehend Medical offers powerful tools for detecting medical entities in text spans. 
-Building product knowledge 
-With our ability to identify health-related searches in place, we needed to build comprehensive knowledge bases for our healthcare products and services. We started with our existing offerings and collected all available product knowledge information that best described each product or service. 
-To enhance this foundation, we used a large language model (LLM) with a fine-tuned prompt and few-shot examples to layer in additional relevant health conditions, symptoms, and treatment-related keywords for each product or service. We did this using the Amazon Bedrock batch inference capability. This approach meant that we significantly expanded our product knowledge with medically relevant information. 
-The entire knowledge base was then converted into embeddings using Facebook AI Similarity Search (FAISS), and we created an index file to enable efficient similarity searches. We maintained careful mappings from each embedding back to the original knowledge base items, making sure we could perform accurate reverse lookups when needed. 
-This process used several AWS services, including Amazon Simple Storage Service (Amazon S3) for storage of the knowledge base and the embeddings files. Note that Amazon OpenSearch Service is also a viable option for vector database capabilities. Large-scale knowledge base embedding jobs were executed with scheduled SageMaker Notebook Jobs. Through the combination of these technologies, we built a robust foundation of healthcare product knowledge that could be efficiently searched and matched to customer queries. 
-The following diagram illustrates how we built the product knowledge base using Amazon catalog data, and then used that to prepare a FAISS index file. 
- 
-Mapping health search intent to the most relevant products and services 
-A core component of our solution was implementing the Retrieval Augmented Generation (RAG) design pattern. The first step in this pattern was to identify a set of known keywords and Amazon products, establishing the initial ground truth for our solution. 
-With our product knowledge base built from Amazon catalog metadata and ASIN attributes, we were ready to support new queries from customers. When a customer search query arrived, we converted it to an embedding and used it as a search key for matching against our index. This similarity search used FAISS with matching criteria based on the threshold against the similarity score. 
-To verify the quality of these query-product pairs identified for health search keywords, we needed to maintain the relevance of each pair. To achieve this, we implemented a two-pronged approach to relevance labeling. We used an established scheme to tag each offering as exact, substitute, complement, or irrelevant to the keyword. Referred to as the exact, substitute, complement, irrelevant (ESCI) framework established through academic research. For more information, refer to the ESCI challenge and esci-data GitHub repository. 
-First, we worked with a human labeling team to establish ground truth on a substantial sample size, creating a reliable benchmark for our system’s performance using this scheme. The labeling team was given guidance based on the ESCI framework and tailored towards AHS products and services. 
-Second, we implemented LLM-based labeling using Amazon Bedrock and batch jobs. After matches were found in the previous step, we retrieved the top products and used them as prompt context for our generative model. We included few-shot examples of ESCI guidance as part of the prompt. This way, we conducted large-scale inference across the top health searches, connecting them to the most relevant offerings using similarity search. We performed this at scale for the query-product pairs identified as relevant to AHS and stored the outputs in Amazon S3. 
-The following diagram shows our query retrieval, re-ranking and ESCI labeling pipeline. 
- 
-Using a mix of high-confidence human and LLM-based labels, we established a true ground truth. Through this process, we successfully identified relevant product offerings for customers using only semantic data from aggregated search keywords and product metadata. 
-How did this help customers? 
-We’re on a mission to make it more straightforward for people to find, choose, afford, and engage with the services, products, and professionals they need to get and stay healthy. Today, customers searching for health solutions on Amazon—whether for acute conditions like acne, strep throat, and fever or chronic conditions such as arthritis, high blood pressure, and diabetes—will begin to see medically vetted and relevant offerings alongside other relevant products and services available on Amazon.com. 
-Customers can now quickly find and choose to meet with doctors, get their prescription medications, and access other healthcare services through a familiar experience. By extending the powerful ecommerce search capabilities of Amazon to address healthcare-specific opportunities, we’ve created additional discovery pathways for relevant health services. 
-We’ve used semantic understanding of health queries and comprehensive product knowledge to create connections that help customers find the right healthcare solutions at the right time. 
-Amazon Health Services Offerings 
-Here is a little more information about three healthcare services you can use directly through Amazon: 
- 
- Amazon Pharmacy (AP) provides a full-service, online pharmacy experience with transparent medication pricing, convenient home delivery at no additional cost, ongoing delivery updates, 24/7 pharmacist support, and insurance plan acceptance, which supports access and medication adherence. Prime members enjoy special savings with Prime Rx, RxPass, and automatic coupons, making medications more affordable. 
- One Medical Membership and Amazon One Medical Pay Per Visit offer flexible health solutions, from in-office and virtual primary care to condition-based telehealth. Membership offers convenient access to preventive, quality primary care and the option to connect with your care team virtually in the One Medical app. Pay-per-visit is a one-time virtual visit option to find treatment for more than 30 common conditions like acne, pink eye, and sinus infections. 
- Health Benefits Connector matches customers to digital health companies outside of Amazon that are covered by their employer. This program has been expanding over the past year, offering access to specialized care through partners like Hinge Health for musculoskeletal care, Rula and Talkspace for mental health support, and Omada for diabetes treatment. 
- 
-Key takeaways 
-As we reflect on our journey to enhance healthcare discovery on Amazon, several key insights stand out that might be valuable for others working on similar challenges: 
- 
- Using domain-specific ontology – We began by developing a deep understanding of customer health searches, specifically identifying what kinds of conditions, symptoms, and treatments customers were seeking. By using established health ontology datasets, we enriched a NER model to detect these entities in search queries, providing a foundation for better matching. 
- Similarity search on product knowledge – We used existing product knowledge along with LLM-augmented real-world knowledge to build a comprehensive corpus of data that could be mapped to our offerings. Through this approach, we created semantic connections between customer queries and relevant healthcare solutions without relying on individual customer data. 
- Generative AI is more than just chatbots – Throughout this project, we relied on various AWS services that proved instrumental to our success. Amazon SageMaker provided the infrastructure for our ML models. However, using Amazon Bedrock batch inference was a key differentiator. It provided us with powerful LLMs for knowledge augmentation and relevance labeling, and services such as Amazon S3 and Amazon EMR supported our data storage and processing needs. Scaling this process manually would have required orders of magnitude more financial budget. Consider generative AI applications at scale beyond merely chat assistants. 
- 
-By combining these approaches, we’ve created a more intuitive and effective way for customers to discover healthcare offerings on Amazon. 
-Implementation considerations 
-If you’re looking to implement a similar solution for healthcare or search, consider the following: 
- 
- Security and compliance: Make sure your solution adheres to healthcare data privacy regulations like Health Insurance Portability and Accountability Act (HIPAA). Our approach doesn’t use individual customer data. 
- Cost optimization: 
-   
-   Use Amazon EMR on EC2 Spot Instances for batch processing jobs 
-   Implement caching for frequently searched queries 
-   Choose appropriate instance types for your workload 
-    
- Scalability: 
-   
-   Design your vector search infrastructure to handle peak traffic 
-   Use auto scaling for your inference endpoints 
-   Implement proper monitoring and alerting 
-    
- Maintenance: 
-   
-   Regularly update your health ontology datasets 
-   Monitor model performance and retrain as needed 
-   Keep your product knowledge base current 
-    
- 
-Conclusion 
-In this post, we demonstrated how Amazon Health Services used AWS ML and generative AI services to solve the unique challenges of healthcare discovery on Amazon.com, illustrating how you can build sophisticated domain-specific search experiences using Amazon SageMaker, Amazon Bedrock, and Amazon EMR. We showed how to create a query understanding pipeline to identify health-related searches, build comprehensive product knowledge bases enhanced with LLM capabilities, and implement semantic matching using vector search and the ESCI relevance framework to connect customers with relevant healthcare offerings. 
-This scalable, AWS based approach demonstrates how ML and generative AI can transform specialized search experiences, advancing our mission to make healthcare more straightforward for customers to find, choose, afford, and engage with. We encourage you to explore how these AWS services can address similar challenges in your own healthcare or specialized search applications. For more information about implementing healthcare solutions on AWS, visit the AWS for Healthcare &amp; Life Sciences page. 
- 
-About the authors 
-K. Faryab Haye is an Applied Scientist II at Amazon Health located in Seattle, WA, where he leads search and query understanding initiatives for healthcare AI. His work spans the complete ML lifecycle from large-scale data processing to deploying production systems that serve millions of customers. Faryab earned his MS in Computer Science with a Machine Learning specialization from the University of Michigan and co-founded the Applied Science Club at Amazon Health. When not building ML systems, he can be found hiking mountains, cycling, skiing, or playing volleyball. 
-Vineeth Harikumar is a Principal Engineer at Amazon Health Services working on growth and engagement tech initiatives for Amazon One Medical (primary care and telehealth services), Pharmacy prescription delivery, and Health condition programs. Prior to working in healthcare, he worked on building large-scale backend systems in Amazon’s global inventory, supply chain and fulfillment network, Kindle devices, and Digital commerce businesses (such as Prime Video, Music, and eBooks).
 
 ⸻
