@@ -1,17 +1,17 @@
-✅ Morning News Briefing – August 29, 2025 10:43
+✅ Morning News Briefing – August 30, 2025 10:40
 
-📅 Date: 2025-08-29 10:43
+📅 Date: 2025-08-30 10:40
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  11.0°C
-  Temperature: 11.0&deg;C Pressure / Tendency: 101.6 kPa rising Humidity: 87 % Dewpoint: 8.9&deg:C Wind: WNW 12 km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Friday 29 August 2025 . Weather forecast: 11:11.0/deg
-• Friday: Chance of showers. High 17. POP 30%
-  Cloudy. 30 percent chance of showers this afternoon . High 17. UV index 4 or moderate . High 18.50C in the morning of Monday, Tuesday morning of Tuesday, Wednesday morning of Wednesday, Wednesday of Wednesday . Rainy. Showers will continue to fall through the night, rain will also fall through Friday afternoon . Forecast issued 5:00 AM EDT Friday 29 August
-• Friday night: Chance of showers. Low 7. POP 30%
-  Mainly cloudy. 30 percent chance of showers this evening . Low 7.50% chance of rain this evening. Mainly sunny, cloudy with rain showers forecast . Low 70% of rain is possible in the morning . Forecast issued 5:00 AM EDT Friday 29 August 2025. For more information, visit http://www.cnnnn.com/news/events/events
+• Current Conditions:  10.1°C
+  Temperature: 10.1&deg;C Pressure / Tendency: 101.6 kPa falling Humidity: 82 % Dewpoint: 7.2&deg:C Wind: WNW 12 km/h Air Quality Health Index: n/a . Observed at: Pembroke 6:00 AM EDT Saturday 30 August 2025 Temperature: . Temperature:  10.
+• Saturday: Mainly cloudy. High 20.
+  Mainly cloudy with a high of 20 degrees Celsius . Mainly sunny with a low of 20 per cent chance of rain . UV index 5 or moderate for the area, with the risk of rain, snow or rain . Forecast: "A lot of rain will fall in the area tomorrow, but it will be cooler in the next few days, especially in the morning .”
+• Saturday night: A few clouds. Low 7.
+  Fog patches developing overnight . Clearing this evening. Clearing tonight . Fog patches expected overnight. Low 7.70s . Forecast issued 5:00 AM EDT Saturday 30 August 2025. Weather forecast: Clear skies, sunny, breezy, sunny and breezy in the coming days. Forecast: Clear, sunny skies, cloudy, chilly, rainy, chilly. Clear skies .
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Thai court dismisses prime minister over compromising phone call with Cambodian leader
-  Thailand's Constitutional Court dismissed Paetongtarn Shinawatra from her position as prime minister . The court ruled that as the country's leader she violated constitutional rules on ethics . She violated the rules as a prime minister, ruling that she violated the constitution's rules of ethics . The decision was made by the Constitutional Court on Friday in Thailand's highest court in the country on Friday .
-• The Trump administration wants to build more roads through national forests
-  The Trump administration argues that rescinding the 2001 Roadless Rule will help wildland firefighters . Fire researchers warn that more roads could exacerbate the problem of wildland firefighting . The administration argues the rule will help firefighters in wildland areas . More roads are needed to help firefighters, researchers say . The rule is set to be rescinded by the end of next year, but experts say it
-• Contract breach or banditry? Inside the collapse of the Taliban's oil deal with China
-  Two years after the oil deal was signed, it collapsed — with the Taliban accusing the Chinese company of breaching the contract . Some Chinese employees likened the Taliban's actions to robbery . Taliban accuse the company of breach of the contract and some employees liken it to robbery. Some Chinese workers liken Taliban's action to robbery, according to some Chinese employees . The Taliban accuse Chinese oil company
-• Talking to kids about school shootings. Be truthful and follow their lead
-  Parents are struggling to figure out what to say to their children after another school shooting . We talked to some experts, who offered these guidelines . Parents are also struggling to think of what to tell their children about the school shootings . Experts offer these guidelines to parents of children in the wake of a school shooting in California . Click here for more information on how to talk to your child about the
-• College football season is here. Here's what to know ahead of Saturday's kickoff
-  This weekend features three top-10 matchups, most ever for an opening weekend in college football history . Arch Manning, the most hyped player of a generation, will start for the first time . The most-ever college football opening weekend is this weekend's opening weekend, with three top 10 games in the top 10 . The first time Arch Manning will start in a college football game .
+• Queen's Classic 'Bohemian Rhapsody' finds a new voice in Zulu
+  Bohemian Rhapsody has been translated with Queen's blessing - into Zulu . The song is one of the most famous rock songs ever . It's been translated for the first time in Zulu and has been sung by the Ndlovu Youth Choir . The Zulu version of the famous rock song has been released by Queen in South Africa . It was written by Queen
+• As drug deaths hit five-year low, Trump continues to cite fentanyl as major threat
+  Drug deaths in the U.S. are at their lowest level since March 2025, according to federal data . Trump continues to cite fentanyl as justification for policies ranging from tariffs to immigration . The president continues to use the drug as a justification for his policies, such as tariffs and immigration, to justify his policies . Drug deaths have dropped to the lowest level in the country since March 2015 .
+• 3 dead after mob sets fire to Indonesian regional parliament building
+  An angry mob set fire to a local parliament building in an Indonesian provincial capital, leaving at least three people dead and five others hospitalized . Officials said five others were hospitalized, officials said . The incident occurred in the provincial capital of Indonesian province of Java, in the province's capital of Surunangangang, province of Bekar province, in Indonesia's Indonesian capital of Java .
+• Dear Life Kit: Do I have to buy birthday gifts for my 18 nieces and nephews?
+  Experts answer a round of finance questions from NPR's audience . Ask experts about how to financially support a friend with Stage 4 cancer and how to stop paying for your parents . Experts also answer questions from the audience on how to support your friend with cancer and who should pay for your own parents? Have you ever had a financial crisis? Share your story with CNN iReport.com/Her
+• AI and Nvidia have been bright spots in an uncertain economy, but there are doubts now
+  This past week, AI darling Nvidia reported blockbuster financial results that beat analysts' expectations . But investors weren't impressed and the stock price dropped . Nvidia's stock price has dropped since the results were announced . The company reported a $1 billion loss in the first quarter of this year's financial results, according to a new report from the company's quarterly report on Thursday . The stock price of
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• UK datacenter developers turn to gas rather than wait for grid power for builds
-  Datacenter developers in the UK are turning to gas for power generation amid lengthy wait times for a connection to the electricity grid . The UK's bitbarn-favoring Industrial Strategy has been criticised for being too slow to connect to the grid . It's unclear what happened to gov. UK's Industrial Strategy, but it's a good start to the data-storage boom
-• How Windows 11 is breaking from its bedrock and moving away
-  The once mighty Wintel supercontinent is cracking in more ways than you might think Opinion Opinion: Say what you like about its role in the destruction of civilization, the net is still good for a few party games . Take bets on when the "Wintel Empire" was first reported as under attack, and by what . Then go and find out what happened to the Wintel Empire
-• Cloud computing has become so normal, it's invisible
-  Distinctions disappear as computing evolves and as something that was shiny and new simply becomes the way that we do things . Maybe someday we'll just call it 'data processing' again Feature Feature. Feature: In IT, terms and categories come and go, and as a result, we're not sure what's the new thing we're doing . Feature: Data processing, data processing, and
-• Techie fooled a panicked daemon and manipulated time itself to get servers in sync
-  Network Time Protocol sometimes needs help from a temporal police officer . On Call is a reader-contributed column that shares your finest tech support stories . It's the time at 7:30 AM on Friday morning, the moment at which The Register regularly runs a fresh instalment of On Call . The Register is happy to feature a guest guest on our On Call this week at 730
-• China turns on giant neutrino detector that took a decade to build
-  700 meters under a mountain, a 20,000-tonne detector and a giant sphere await elusive particles . More than a decade after construction began, China has commenced operation of what it claims is the world’s most sensitive neutrino detector . China claims it claims it is the most sensitive detector in the world, with the world's most sensitive particle detectors in existence . The
+• Programmers: you have to watch your weight, too
+  We are drowning in code, but at least some folks are swimming opinion . To fight the enshittification of software, the first step is to pinpoint why and how it happens . Some observers are trying to do that.……… Some observers have tried to . do that, but it's not always easy to do, it's a good thing to say. We need to
+• Kilopixel creator kills livestream switch before woodblock display hits Crysis point
+  The Kilopixel has been pulled from the sky by its creator . The blocky, robotic marvel has reached the 200,000-pixel mark . All good things must come to an end, and so too must the blocky glory of the Kilopixels . The creator pulled the metaphorical plug on the robot after it reached the milestone of 200,00 pixels . The Kilops
+• Uncle Sam doesn't want Samsung, SK Hynix making memories in China
+  Commerce Department moves to make it harder for South Korean memory vendors Samsung and SK Hynix to continue manufacturing in the region . US government already has a lot to say about what products chipmakers can and can't sell in China . End of verified end user status means South Korean vendors will need licenses to bring restricted chipmaking tech into Chinese fabs . South Korean chipmakers will now need
+• Researcher who found McDonald's free-food hack turns her attention to Chinese restaurant robots
+  The controls were left wide open on Pudu's commercial service robots . Attackers redirect the delivery machines to anywhere and make them follow any command . A researcher caught the world’s leading supplier of commercial . service robots using shoddy admin security that let attackers redirect the . machines to . anywhere and . make them . follow any . command . Pududu is the world
+• Alibaba looks to end reliance on Nvidia for AI inference
+  Chinese cloud provider reportedly joins homegrown silicon party Alibaba has reportedly developed an AI accelerator . Alibaba reportedly developed the AI accelerator amid growing pressure from Beijing to curb the nation's reliance on Nvidia GPUs . Beijing has reportedly joined forces with the Chinese government to curb reliance on the company's hardware . Alibaba is expected to launch a cloud-based AI accelerator in the near future, according to the report . The
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• Aluminum in childhood vaccines not linked to chronic diseases
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Educational inequalities in sun protection practices among Brazilian adults
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Rethinking suicide related searches and their association with suicide rates, attempts, and self harm hospitalisation
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Rethinking suicide prevention: insights from the global south for a new global agenda
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Author Correction: Overview of vaccines for adults authorized, recommended, and implemented in the European Union
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Assessing the feasibility of HPV screening for cervical cancer in pregnant women in Ethiopia
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Digital therapeutics for insomnia: an umbrella review and meta-meta-analysis
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,176 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• The Download: humans in space, and India’s thorium ambitions
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+The case against humans in space
+
+
+
+Elon Musk and Jeff Bezos are bitter rivals in the commercial space race, but they agree on one thing: Settling space is an existential imperative. Space is the place. The final frontier. It is our human destiny to transcend our home world and expand our civilization to extraterrestrial vistas.This belief has been mainstream for decades, but its rise has been positively meteoric in this new gilded age of astropreneurs.But as visions of giant orbital stations and Martian cities dance in our heads, a case against human space colonization has found its footing in a number of recent books, from doubts about the practical feasibility of off-Earth communities, to realism about the harsh environment of space and the enormous tax it would exact on the human body. Read the full story.—Becky Ferreira
+
+
+
+This story is from our new print edition, which is all about the future of security. Subscribe here to catch future copies when they land.
+
+
+
+
+
+
+
+This American nuclear company could help India’s thorium dream
+
+
+
+For just the second time in nearly two decades, the United States has granted an export license to an American company planning to sell nuclear technology to India, MIT Technology Review has learned.&nbsp;
+
+
+
+The decision to greenlight Clean Core Thorium Energy’s license is a major step toward closer cooperation between the two countries on atomic energy and marks a milestone in the development of thorium as an alternative to uranium for fueling nuclear reactors. Read more about why it’s such a big deal.
+
+
+
+—Alexander C. Kaufman
+
+
+
+
+
+
+
+RFK Jr’s plan to improve America’s diet is missing the point
+
+
+
+A lot of Americans don’t eat well. And they’re paying for it with their health. A diet high in sugar, sodium, and saturated fat can increase the risk of problems like diabetes, heart disease, and kidney disease, to name a few. And those are among the leading causes of death in the US.
+
+
+
+This is hardly news. But this week Robert F Kennedy Jr., who heads the US Department of Health and Human Services, floated a new solution to the problem: teaching medical students more about the role of nutrition in health could help turn things around.
+
+
+
+It certainly sounds like a good idea. If more Americans ate a healthier diet, we could expect to see a decrease in those diseases.&nbsp;
+
+
+
+But this framing of America’s health crisis is overly simplistic, especially given that plenty of the administration’s other actions have directly undermined health in multiple ways—including by canceling a vital nutrition education program. And at any rate, there are other, more effective ways to tackle the chronic-disease crisis. Read the full story.
+
+
+
+—Jessica Hamzelou
+
+
+
+This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, sign up here.
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 RFK Jr’s deputy has been chosen to be the new acting head of the CDCJim O’Neill is likely to greenlight his boss’s federal vaccine policy plans. (WP $)+ The future of the department looks decidedly precarious. (The Atlantic $)+ Everything you need to know about Jim O’Neill, the longevity enthusiast who is now RFK Jr.’s right-hand man. (MIT Technology Review)
+
+
+
+2 A man killed his mother and himself after conversing with ChatGPTThe chatbot encouraged Stein-Erik Soelberg’s paranoia while repeatedly assuring him he was sane. (WSJ $)+ An AI chatbot told a user how to kill himself—but the company doesn’t want to “censor” it. (MIT Technology Review)
+
+
+
+3 China is cracking down on excess competition in its AI sectorThe country is hellbent on avoiding wasteful investment. (Bloomberg $)+ China is laser-focused on engineering, not so much on litigating. (Wired $)+ China built hundreds of AI data centers to catch the AI boom. Now many stand unused. (MIT Technology Review)
+
+
+
+4 The EU should be prepared to walk away from a US trade dealIts competition commissioner worries Trump may act on his threats to target the bloc. (FT $)+ The French President had a similar warning for his ministers. (Politico)
+
+
+
+5 xAI has released a new Grok agentic coding modelAt a significantly lower price than its rivals. (Reuters)+ This no-code website builder has been valued at $2 billion. (TechCrunch)+ The second wave of AI coding is here. (MIT Technology Review)
+
+
+
+6 A US mail change has thrown online businesses into turmoilAll package deliveries are due to face duties from this week. (Insider $)
+
+
+
+7 A former DOGE official is running America’s biggest MDMA companyAnd Antonio Gracias is not the only member of the department with ties to the psychedelics industry. (The Guardian)+ Other DOGE workers are joining Trump’s new National Design Studio. (Wired $)+ The FDA said no to the use of MDMA as a therapy last year. (MIT Technology Review)
+
+
+
+8 How chatbots fake having personalitiesThey have no persistent self—despite what they may tell you. (Ars Technica)+ What is AI? (MIT Technology Review)
+
+
+
+9 The future of podcasting is murkyHundreds of shows have folded. The medium is in desperate need of an archive. (NY Mag $)+ The race to save our online lives from a digital dark age. (MIT Technology Review)10 Do we even know what we want to watch anymore?We’re so reliant on algorithms, it’s hard to know. (New Yorker $)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“We’re scared for ourselves and for the country.”&nbsp;
+
+
+
+—An anonymous CDC worker tells the New York Times about the mood inside the agency following the firing of their new director Susan Monarez.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+How a tiny Pacific Island became the global capital of cybercrimeTokelau, a string of three isolated atolls strung out across the Pacific, is so remote that it was the last place on Earth to be connected to the telephone—only in 1997. Just three years later, the islands received a fax with an unlikely business proposal that would change everything.
+
+
+
+It was from an early internet entrepreneur from Amsterdam, named Joost Zuurbier. He wanted to manage Tokelau’s country-code top-level domain, or ccTLD—the short string of characters that is tacked onto the end of a URL—in exchange for money.
+
+
+
+In the succeeding years, tiny Tokelau became an unlikely internet giant—but not in the way it may have hoped. Until recently, its .tk domain had more users than any other country’s: a staggering 25 million—but the vast majority were spammers, phishers, and cybercriminals.
+
+
+
+Now the territory is desperately trying to clean up .tk. Its international standing, and even its sovereignty, may depend on it. Read the full story. —Jacob Judah
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)+ Scientists are using yeast to help save the bees.+ How to become super productive + Why North American mammoths were genetic freaks of nature.+ I love Seal’s steadfast refusal to explain his lyrics to Kiss from a Rose.
 • This American nuclear company could help India’s thorium dream
   For just the second time in nearly two decades, the United States has granted an export license to an American company planning to sell nuclear technology to India, MIT Technology Review has learned. The decision to greenlight Clean Core Thorium Energy’s license is a major step toward closer cooperation between the two countries on atomic energy and marks a milestone in the development of thorium as an alternative to uranium for fueling nuclear reactors.&nbsp;
 
@@ -410,92 +580,6 @@ We can still have nice things
 A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)+ Wow, that is one seriously orange shark!+ TikTok is a proven way to introduce younger generations to older music—and now it’s Radiohead’s turn.+ Why we’re still going bananas for Donkey Kong after all these years+ This photo perfectly captures the joy of letting loose at a wedding.
 • Creating a qubit fit for a quantum future
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• From pilot to scale: Making agentic AI work in health care
-  Over the past 20 years building advanced AI systems—from academic labs to enterprise deployments—I’ve witnessed AI’s waves of success rise and fall. My journey began during the “AI Winter,” when billions were invested in expert systems that ultimately underdelivered. Flash forward to today: large language models (LLMs) represent a quantum leap forward, but their prompt-based adoption is similarly overhyped, as it’s essentially a rule-based approach disguised in natural language.
-
-
-
-At Ensemble, the leading revenue cycle management (RCM) company for hospitals, we focus on overcoming model limitations by investing in what we believe is the next step in AI evolution: grounding LLMs in facts and logic through neuro-symbolic AI. Our in-house AI incubator pairs elite AI researchers with health-care experts to develop agentic systems powered by a neuro-symbolic AI framework. This bridges LLMs’ intuitive power with the precision of symbolic representation and reasoning.
-
-
-
-
-
-
-
-Overcoming LLM limitations
-
-
-
-LLMs excel at understanding nuanced context, performing instinctive reasoning, and generating human-like interactions, making them ideal for agentic tools to then interpret intricate data and communicate effectively. Yet in a domain like health care where compliance, accuracy, and adherence to regulatory standards are non-negotiable—and where a wealth of structured resources like taxonomies, rules, and clinical guidelines define the landscape—symbolic AI is indispensable.
-
-
-
-By fusing LLMs and reinforcement learning with structured knowledge bases and clinical logic, our hybrid architecture delivers more than just intelligent automation—it minimizes hallucinations, expands reasoning capabilities, and ensures every decision is grounded in established guidelines and enforceable guardrails.
-
-
-
-Creating a successful agentic AI strategy
-
-
-
-Ensemble’s agentic AI approach includes three core pillars:
-
-
-
-1. High-fidelity data sets: By managing revenue operations for hundreds of hospitals nationwide, Ensemble has unparallelled access to one of the most robust administrative datasets in health care. The team has decades of data aggregation, cleansing, and harmonization efforts, providing an exceptional environment to develop advanced applications.
-
-
-
-To power our agentic systems, we’ve harmonized more than 2 petabytes of longitudinal claims data, 80,000 denial audit letters, and 80 million annual transactions mapped to industry-leading outcomes. This data fuels our end-to-end intelligence engine, EIQ, providing structured, context-rich data pipelines spanning across the 600-plus steps of revenue operations.
-
-
-
-2. Collaborative domain expertise: Partnering with revenue cycle domain experts at each step of innovation, our AI scientists benefit from direct collaboration with in-house RCM experts, clinical ontologists, and clinical data labeling teams. Together, they architect nuanced use cases that account for regulatory constraints, evolving payer-specific logic and the complexity of revenue cycle processes. Embedded end users provide post-deployment feedback for continuous improvement cycles, flagging friction points early and enabling rapid iteration.
-
-
-
-This trilateral collaboration—AI scientists, health-care experts, and end users—creates unmatched contextual awareness that escalates to human judgement appropriately, resulting in a system mirroring decision-making of experienced operators, and with the speed, scale, and consistency of AI, all with human oversight.
-
-
-
-3. Elite AI scientists drive differentiation: Ensemble&#8217;s incubator model for research and development is comprised of AI talent typically only found in big tech. Our scientists hold PhD and MS degrees from top AI/NLP institutions like Columbia University and Carnegie Mellon University, and bring decades of experience from FAANG companies [Facebook/Meta, Amazon, Apple, Netflix, Google/Alphabet] and AI startups. At Ensemble, they’re able to pursue cutting-edge research in areas like LLMs, reinforcement learning, and neuro-symbolic AI within a mission-driven environment.
-
-
-
-The also have unparalleled access to vast amounts of private and sensitive health-care data they wouldn’t see at tech giants paired with compute and infrastructure that startups simply can’t afford. This unique environment equips our scientists with everything they need to test novel ideas and push the frontiers of AI research—while driving meaningful, real-world impact in health care and improving lives.
-
-
-
-Strategy in action: Health-care use cases in production and pilot
-
-
-
-By pairing the brightest AI minds with the most powerful health-care resources, we’re successfully building, deploying, and scaling AI models that are delivering tangible results across hundreds of health systems. Here’s how we put it into action:
-
-
-
-Supporting clinical reasoning: Ensemble deployed neuro-symbolic AI with fine-tuned LLMs to support clinical reasoning. Clinical guidelines are rewritten into proprietary symbolic language and reviewed by humans for accuracy. When a hospital is denied payment for appropriate clinical care, an LLM-based system parses the patient record to produce the same symbolic language describing the patient&#8217;s clinical journey, which is matched deterministically against the guidelines to find the right justification and the proper evidence from the patient’s record. An LLM then generates a denial appeal letter with clinical justification grounded in evidence.&nbsp;AI-enabled clinical appeal letters have already improved denial overturn rates by 15% or more across Ensemble’s clients.Building on this success, Ensemble is piloting similar clinical reasoning capabilities for utilization management and clinical documentation improvement, by analyzing real-time records, flagging documentation gaps, and suggesting compliance enhancements to reduce denial or downgrade risks.
-
-
-
-Accelerating accurate reimbursement: Ensemble is piloting a multi-agent reasoning model to manage the complex process of collecting accurate reimbursement from health insurers. With this approach, a complex and coordinated system of autonomous agents work together to interpret account details, retrieve required data from various systems, decide account-specific next actions, automate resolution, and escalate complex cases to humans.
-
-
-
-This will help reduce payment delays and minimize administrative burden for hospitals and ultimately improve the financial experience for patients.
-
-
-
-Improving patient engagement: Ensemble’s conversational AI agents handle inbound patient calls naturally, routing to human operators as required. Operator assistant agents deliver call transcriptions, surface relevant data, suggest next-best actions, and streamline follow-up routines. According to Ensemble client performance metrics, the combination of these AI capabilities has reduced patient call duration by 35%, increasing one-call resolution rates and improving patient satisfaction by 15%.
-
-
-
-The AI path forward in health care demands rigor, responsibility, and real-world impact. By grounding LLMs in symbolic logic and pairing AI scientists with domain experts, Ensemble is successfully deploying scalable AI to improve the experience for health-care providers and the people they serve.
-
-
-
-This content was produced by Ensemble. It was not written by MIT Technology Review’s editorial staff.
 
 🔒 Cybersecurity & Privacy
 • Affiliates Flock to ‘Soulless’ Scam Gambling Machine
@@ -632,6 +716,9 @@ Beyond unlinkability, Crescent supports selective disclosure, allowing users to 
 	
 		
 
+		
+		Spotlight: AI-POWERED EXPERIENCE
+	
 	
 	
 						
@@ -642,14 +729,14 @@ Beyond unlinkability, Crescent supports selective disclosure, allowing users to 
 			
 			
 
-									Azure AI Foundry Labs
+									Microsoft research copilot experience
 				
-								Get a glimpse of potential future directions for AI, with these experimental technologies from Microsoft Research.
+								Discover more about research at Microsoft through our AI-powered experience
 				
 								
 					
 						
-							Azure AI Foundry						
+							Start now						
 					
 				
 							
@@ -776,6 +863,716 @@ To learn more about the project, visit the Crescent project GitHub (opens in new
 
 
 Opens in a new tabThe post Crescent library brings privacy to digital identity systems appeared first on Microsoft Research.
+• Detect Amazon Bedrock misconfigurations with Datadog Cloud Security
+  This post was co-written with Nick Frichette and Vijay George from Datadog.&nbsp; 
+As organizations increasingly adopt Amazon Bedrock for generative AI applications, protecting against misconfigurations that could lead to data leaks or unauthorized model access becomes critical. The AWS Generative AI Adoption Index, which surveyed 3,739 senior IT decision-makers across nine countries, revealed that 45% of organizations selected generative AI tools as their top budget priority in 2025. As more AWS and Datadog customers accelerate their adoption of AI, building AI security into existing processes will become essential, especially as more stringent regulations emerge. But looking at AI risks in a silo isn’t enough; AI risks must be contextualized alongside other risks such as identity exposures and misconfigurations. The combination of Amazon Bedrock and Datadog’s comprehensive security monitoring helps organizations innovate faster while maintaining robust security controls. 
+Amazon Bedrock delivers enterprise-grade security by incorporating built-in protections across data privacy, access controls, network security, compliance, and responsible AI safeguards. Customer data is encrypted both in transit using TLS 1.2 or above and at rest with AWS Key Management Service (AWS KMS), and organizations have full control over encryption keys. Data privacy is central: your input, prompts, and outputs are not shared with model providers nor used to train or improve foundation models (FMs). Fine-tuning and customizations occur on private copies of models, providing data confidentiality. Access is tightly governed through AWS Identity and Access Management (IAM) and resource-based policies, supporting granular authorization for users and roles. Amazon Bedrock integrates with AWS PrivateLink and supports virtual private cloud (VPC) endpoints for private, internal communication, so traffic doesn’t leave the Amazon network. The service complies with key industry standards such as ISO, SOC, CSA STAR, HIPAA eligibility, GDPR, and FedRAMP High, making it suitable for regulated industries. Additionally, Amazon Bedrock includes configurable guardrails to filter sensitive or harmful content and promote responsible AI use. Security is structured under the AWS Shared Responsibility Model, where AWS manages infrastructure security and customers are responsible for secure configurations and access controls within their Amazon Bedrock environment. 
+Building on these robust AWS security features, Datadog and AWS have partnered to provide a holistic view of AI infrastructure risks, vulnerabilities, sensitive data exposure, and other misconfigurations. Datadog Cloud Security employs both agentless and agent-based scanning to help organizations identify, prioritize, and remediate risks across cloud resources. This integration helps AWS users prioritize risks based on business criticality, with security findings enriched by observability data, thereby enhancing their overall security posture in AI implementations. 
+We’re excited to announce new security capabilities in Datadog Cloud Security that can help you detect and remediate Amazon Bedrock misconfigurations before they become security incidents. This integration helps organizations embed robust security controls and secure their use of the powerful capabilities of Amazon Bedrock by offering three critical advantages: holistic AI security by integrating AI security into your broader cloud security strategy, real-time risk detection through identifying potential AI-related security issues as they emerge, and simplified compliance to help meet evolving AI regulations with pre-built detections. 
+AWS and Datadog: Empowering customers to adopt AI securely 
+The partnership between AWS and Datadog is focused on helping customers operate their cloud infrastructure securely and efficiently. As organizations rapidly adopt AI technologies, extending this partnership to include Amazon Bedrock is a natural evolution. Amazon Bedrock is a fully managed service that makes high-performing FMs from leading AI companies and Amazon available through a unified API, making it an ideal starting point for Datadog’s AI security capabilities. 
+The decision to prioritize Amazon Bedrock integration is driven by several factors, including strong customer demand, comprehensive security needs, and the existing integration foundation. With over 900 integrations and a partner-built Marketplace, Datadog’s long-standing partnership with AWS and deep integration capabilities have helped Datadog quickly develop comprehensive security monitoring for Amazon Bedrock while using their existing cloud security expertise. 
+Throughout Q4 2024, Datadog Security Research observed increasing threat actor interest in cloud AI environments, making this integration particularly timely. By combining the powerful AI capabilities of AWS with Datadog’s security expertise, you can safely accelerate your AI adoption while maintaining robust security controls. 
+How Datadog Cloud Security helps secure Amazon Bedrock resources 
+After adding the AWS integration to your Datadog account and enabling Datadog Cloud Security, Datadog Cloud Security continuously monitors your AWS environment, identifying misconfigurations, identity risks, vulnerabilities, and compliance violations. These detections use the Datadog Severity Scoring system to prioritize them based on infrastructure context. The scoring considers a variety of variables, including if the resource is in production, is publicly accessible, or has access to sensitive data. This multi-layer analysis can help you reduce noise and focus your attention to the most critical misconfigurations by considering runtime behavior. 
+Partnering with AWS, Datadog is excited to offer detections for Datadog Cloud Security customers, such as: 
+ 
+ Amazon Bedrock custom models should not output model data to publicly accessible S3 buckets 
+ Amazon Bedrock custom models should not train from publicly writable S3 buckets 
+ Amazon Bedrock guardrails should have a prompt attack filter enabled and block prompt attacks at high sensitivity 
+ Amazon Bedrock agent guardrails should have the sensitive information filter enabled and block highly sensitive PII entities 
+ 
+Detect AI misconfigurations with Datadog Cloud Security 
+To understand how these detections can help secure your Amazon Bedrock infrastructure, let’s look at a specific use case, in which Amazon Bedrock custom models should not train from publicly writable Amazon Simple Storage Service (Amazon S3) buckets. 
+With Amazon Bedrock, you can customize AI models by fine-tuning on domain specific data. To do this, that data is stored in an S3 bucket. Threat actors are constantly evaluating the configuration of S3 buckets, looking for the potential to access sensitive data or even the ability to write to S3 buckets. 
+If a threat actor finds an S3 bucket that was misconfigured to permit public write access, and that same bucket contained data that was used to train an AI model, a bad actor could poison that dataset and introduce malicious behavior or output to the model. This is known as a data poisoning attack. 
+Normally, detecting these types of misconfigurations requires multiple steps: one to identify the S3 bucket misconfigured with write access, and one to identify that the bucket is being used by Amazon Bedrock. With Datadog Cloud Security, this detection is one of hundreds that are activated out of the box. 
+In the Datadog Cloud Security system, you can view this issue alongside surrounding infrastructure using Cloud Map. This provides live diagrams of your cloud architecture, as shown in the following screenshot. AI risks are then contextualized alongside sensitive data exposure, identity risks, vulnerabilities, and other misconfigurations to give you a 360-view of risks. 
+ 
+For example, you might see that your application is using Anthropic’s Claude 3.7 on Amazon Bedrock and accessing training or prompt data stored in an S3 bucket that also has public write access. This could inadvertently impact model integrity by introducing unapproved data to the large language model (LLM), so you will want to update this configuration. Though basic, the first step for most security initiatives is identifying the issue. With agentless scanning, Datadog scans your AWS environment at intervals between 15 minutes and 2 hours, so users can identify misconfigurations as they are introduced to their environment. The next step is to remediate this risk. Datadog Cloud Security offers automatically generated remediation guidance, specifically for each risk (see the following screenshot). You will get a step-by-step explanation of how to fix each finding. In this situation, we can remediate this issue by modifying the S3 bucket’s policy, helping prevent public write access. You can do this directly in AWS, create a JIRA ticket, or use the built-in workflow automation tools. From here, you can apply remediation steps directly within Datadog and confirm that the misconfiguration has been resolved. 
+ 
+Resolving this issue will positively impact your compliance posture, as illustrated by the posture score in Datadog Cloud Security, helping teams meet internal benchmarks and regulatory standards. Teams can also create custom frameworks or iterate on existing ones for tailored compliance controls. 
+ 
+As generative AI is embraced across industries, the regulatory environment will evolve. Datadog will continue partnering with AWS to expand their detection library and support secure AI adoption and compliance. 
+How Datadog Cloud Security detects misconfigurations in your cloud environment 
+You can deploy Datadog Cloud Security either with the Datadog agent, agentlessly, or both to maximize security coverage in your cloud environment. Datadog customers can start monitoring their AWS accounts for misconfigurations by first adding the AWS integration to Datadog. This enables Datadog to crawl cloud resources in customer AWS accounts. 
+As the Datadog system finds resources, it runs through a catalog of hundreds of out-of-the-box detection rules against these resources, looking for misconfigurations and threat paths that adversaries can exploit. 
+Secure your AI infrastructure with Datadog 
+Misconfigurations in AI systems can be risky, but with the right tools, you can have the visibility and context needed to manage them. With Datadog Cloud Security, teams gain visibility into these risks, detect threats early, and remediate issues with confidence. In addition, Datadog has also released numerous agentic AI security features, designed to help teams gain visibility into the health and security of critical AI workload, which includes new announcements made to Datadog’s LLM observability features. 
+Lastly, Datadog announced Bits AI Security Analyst alongside other Bits AI agents at DASH. Included as part of Cloud SIEM, Bits is an agentic AI security analyst that automates triage for AWS CloudTrail signals. Bits investigates each alert like a seasoned analyst: pulling in relevant context from across your Datadog environment, annotating key findings, and offering a clear recommendation on whether the signal is likely benign or malicious. By accelerating triage and surfacing real threats faster, Bits helps reduce mean time to remediation (MTTR) and frees analysts to focus on important threat hunting and response initiatives. This helps across different threats, including AI-related threats. 
+To learn more about how Datadog helps secure your AI infrastructure, see Monitor Amazon Bedrock with Datadog or check out our security documentation. If you’re not already using Datadog, you can get started with Datadog Cloud Security with a 14-day free trial. 
+ 
+About the Authors 
+Nina Chen is a Customer Solutions Manager at AWS specializing in leading software companies to use the power of the AWS Cloud to accelerate their product innovation and growth. With over 4 years of experience working in the strategic independent software vendor (ISV) vertical, Nina enjoys guiding ISV partners through their cloud transformation journeys, helping them optimize their cloud infrastructure, driving product innovation, and delivering exceptional customer experiences. 
+ Sujatha Kuppuraju is a Principal Solutions Architect at AWS, specializing in cloud and generative AI security. She collaborates with software companies’ leadership teams to architect secure, scalable solutions on AWS and guide strategic product development. Using her expertise in cloud architecture and emerging technologies, Sujatha helps organizations optimize offerings, maintain robust security, and bring innovative products to market in an evolving tech landscape. 
+Nick Frichette is a Staff Security Researcher for Cloud Security Research at Datadog. 
+Vijay George is a Product Manager for AI Security at Datadog.
+• Set up custom domain names for Amazon Bedrock AgentCore Runtime agents
+  When deploying AI agents to Amazon Bedrock AgentCore Runtime (currently in preview), customers often want to use custom domain names to create a professional and seamless experience. 
+By default, AgentCore Runtime agents use endpoints like https://bedrock-agentcore.{region}.amazonaws.com/runtimes/{EncodedAgentARN}/invocations. 
+In this post, we discuss how to transform these endpoints into user-friendly custom domains (like https://agent.yourcompany.com) using Amazon CloudFront as a reverse proxy. The solution combines CloudFront, Amazon Route 53, and AWS Certificate Manager (ACM) to create a secure, scalable custom domain setup that works seamlessly with your existing agents. 
+Benefits of Amazon Bedrock AgentCore Runtime 
+If you’re building AI agents, you have probably wrestled with hosting challenges: managing infrastructure, handling authentication, scaling, and maintaining security. Amazon Bedrock AgentCore Runtime helps address these problems. 
+Amazon Bedrock AgentCore Runtime is framework agnostic; you can use it with LangGraph, CrewAI, Strands Agents, or custom agents you have built from scratch. It supports extended execution times up to 8 hours, perfect for complex reasoning tasks that traditional serverless functions can’t handle. Each user session runs in its own isolated microVM, providing security that’s crucial for enterprise applications. 
+The consumption-based pricing model means you only pay for what you use, not what you provision. And unlike other hosting solutions, Amazon Bedrock AgentCore Runtime includes built-in authentication and specialized observability for AI agents out of the box. 
+Benefits of custom domains 
+When using Amazon Bedrock AgentCore Runtime with Open Authorization (OAuth) authentication, your applications make direct HTTPS requests to the service endpoint. Although this works, custom domains offer several benefits: 
+ 
+ Custom branding – Client-side applications (web browsers, mobile apps) display your branded domain instead of AWS infrastructure details in network requests 
+ Better developer experience – Development teams can use memorable, branded endpoints instead of copying and pasting long AWS endpoints across code bases and configurations 
+ Simplified maintenance – Custom domains make it straightforward to manage endpoints when deploying multiple agents or updating configurations across environments 
+ 
+Solution overview 
+In this solution, we use CloudFront as a reverse proxy to transform requests from your custom domain into Amazon Bedrock AgentCore Runtime API calls. Instead of using the default endpoint, your applications can make requests to a user-friendly URL like https://agent.yourcompany.com/. 
+The following diagram illustrates the solution architecture. 
+ 
+The workflow consists of the following steps: 
+ 
+ A client application authenticates with Amazon Cognito and receives a bearer token. 
+ The client makes an HTTPS request to your custom domain. 
+ Route 53 resolves the DNS request to CloudFront. 
+ CloudFront forwards the authenticated request to the Amazon Bedrock Runtime agent. 
+ The agent processes the request and returns the response through the same path. 
+ 
+You can use the same CloudFront distribution to serve both your frontend application and backend agent endpoints, avoiding cross-origin resource sharing (CORS) issues because everything originates from the same domain. 
+Prerequisites 
+To follow this walkthrough, you must have the following in place: 
+ 
+ An AWS account with appropriate permissions 
+ The AWS Cloud Development Kit (AWS CDK) version 2.x or later 
+ An AWS Identity and Access Management (IAM) execution role with appropriate permissions for Amazon Bedrock AgentCore Runtime 
+ 
+Although Amazon Bedrock AgentCore Runtime can be in other supported AWS Regions, CloudFront requires SSL certificates to be in the us-east-1 Region. 
+You can choose from the following domain options: 
+ 
+ Use an existing domain – Add a subdomain like agent.yourcompany.com 
+ Register a new domain – Use Route 53 to register a domain if you don’t have one 
+ Use the default URL from CloudFront – No domain registration or configuration required 
+ 
+Choose the third option if you want to test the solution quickly before setting up a custom domain. 
+Create an agent with inbound authentication 
+If you already have an agent deployed with OAuth authentication, you can skip to the next section to set up the custom domain. Otherwise, follow these steps to create a new agent using Amazon Cognito as your OAuth provider: 
+ 
+ Create a new directory for your agent with the following structure: 
+ 
+ 
+ your_project_directory/
+├── agent_example.py # Your main agent code
+├── requirements.txt # Dependencies for your agent
+└── __init__.py # Makes the directory a Python package 
+ 
+ 
+ Create the main agent code in agent_example.py: 
+ 
+ 
+ # agent_example.py
+from strands import Agent
+from bedrock_agentcore.runtime import BedrockAgentCoreApp
+
+agent = Agent()
+app = BedrockAgentCoreApp()
+@app.entrypoint
+def invoke(payload):
+    """Process user input and return a response"""
+    user_message = payload.get("prompt", "Hello")
+    response = agent(user_message)
+    return str(response) # response should be json serializable
+if __name__ == "__main__":
+    app.run() 
+ 
+ 
+ Add dependencies to requirements.txt: 
+ 
+ 
+ # requirements.txt
+strands-agents
+bedrock-agentcore 
+ 
+ 
+ Run the following commands to create an Amazon Cognito user pool and test user: 
+ 
+ 
+ # Create User Pool and capture Pool ID
+export POOL_ID=$(aws cognito-idp create-user-pool \
+  --pool-name "MyUserPool" \
+  --policies '{"PasswordPolicy":{"MinimumLength":8}}' \
+  --region us-east-1 | jq -r '.UserPool.Id')
+
+# Create App Client and capture Client ID
+export CLIENT_ID=$(aws cognito-idp create-user-pool-client \
+  --user-pool-id $POOL_ID \
+  --client-name "MyClient" \
+  --no-generate-secret \
+  --explicit-auth-flows "ALLOW_USER_PASSWORD_AUTH" "ALLOW_REFRESH_TOKEN_AUTH" \
+  --region us-east-1 | jq -r '.UserPoolClient.ClientId')
+
+# Create and configure a test user
+aws cognito-idp admin-create-user \
+  --user-pool-id $POOL_ID \
+  --username "testuser" \
+  --temporary-password "Temp1234" \
+  --region us-east-1 \
+  --message-action SUPPRESS
+
+aws cognito-idp admin-set-user-password \
+  --user-pool-id $POOL_ID \
+  --username "testuser" \
+  --password "MyPassword123" \
+  --region us-east-1 \
+  --permanent
+
+echo "Pool ID: $POOL_ID"
+echo "Discovery URL: https://cognito-idp.us-east-1.amazonaws.com/$POOL_ID/.well-known/openid-configuration"
+echo "Client ID: $CLIENT_ID" 
+ 
+ 
+ Deploy the agent using the Amazon Bedrock AgentCore command line interface (CLI) provided by the starter toolkit: 
+ 
+ 
+ pip install bedrock-agentcore-starter-toolkit #install the starter toolkit
+
+agentcore configure --entrypoint agent_example.py \
+--name my_agent \
+--execution-role your-execution-role-arn \
+--requirements-file requirements.txt \
+--authorizer-config "{\"customJWTAuthorizer\":{\"discoveryUrl\":\"https://cognito-idp.us-east-1.amazonaws.com/$POOL_ID/.well-known/openid-configuration\",\"allowedClients\":[\"$CLIENT_ID\"]}}"
+
+agentcore launch 
+ 
+Make note of your agent runtime Amazon Resource Name (ARN) after deployment. You will need this for the custom domain configuration. 
+For additional examples and details, see Authenticate and authorize with Inbound Auth and Outbound Auth. 
+Set up the custom domain solution 
+Now let’s implement the custom domain solution using the AWS CDK. This section shows you how to create the CloudFront distribution that proxies your custom domain requests to Amazon Bedrock AgentCore Runtime endpoints. 
+ 
+ Create a new directory and initialize an AWS CDK project: 
+ 
+ 
+ mkdir agentcore-custom-domain
+cd agentcore-custom-domain
+cdk init app --language python
+source .venv/bin/activate
+pip install aws-cdk-lib constructs 
+ 
+ 
+ Encode the agent ARN and prepare the CloudFront origin configuration: 
+ 
+ 
+ # agentcore_custom_domain_stack.py 
+import urllib.parse
+
+agent_runtime_arn = "arn:aws:bedrock-agentcore:us-east-1:accountId:runtime/my_agent-xbcDkz4FR9"
+encoded_arn = urllib.parse.quote(agent_runtime_arn, safe='') # URL-encode the ARN
+region = agent_runtime_arn.split(':')[3]  # Extract region from ARN 
+ 
+If your frontend application runs on a different domain than your agent endpoint, you must configure CORS headers. This is common if your frontend is hosted on a different domain (for example, https://app.yourcompany.com calling https://agent.yourcompany.com), or if you’re developing locally (for example, http://localhost:3000 calling your production agent endpoint). 
+ 
+ To handle CORS requirements, create a CloudFront response headers policy: 
+ 
+ 
+ # agentcore_custom_domain_stack.py 
+from aws_cdk.aws_cloudfront import ResponseHeadersPolicy, ResponseHeadersCorsBehavior
+
+# Create CORS response headers policy
+cors_policy = ResponseHeadersPolicy(self, 'CorsPolicy',
+    cors_behavior=ResponseHeadersCorsBehavior(
+        access_control_allow_origins=['*'], # Or specify your frontend domains
+        access_control_allow_headers=[
+            'Authorization',
+            'Content-Type', 
+            'X-Amzn-*',
+            'X-Requested-With'
+        ],
+        access_control_allow_methods=['GET', 'POST', 'OPTIONS'],
+        access_control_allow_credentials=False,
+        access_control_expose_headers=['*'],
+        origin_override=True # Overrides CORS headers from origin
+    )
+) 
+ 
+ 
+ Create a CloudFront distribution to act as a reverse proxy for your agent endpoints: 
+ 
+ 
+ # agentcore_custom_domain_stack.py
+ from aws_cdk.aws_cloudfront import (
+    Distribution, BehaviorOptions, CachePolicy, 
+    AllowedMethods, ViewerProtocolPolicy,
+    OriginProtocolPolicy, OriginRequestPolicy
+)
+from aws_cdk.aws_cloudfront_origins import HttpOrigin
+
+bedrock_agentcore_hostname = f"bedrock-agentcore.{region}.amazonaws.com"
+origin_path = f"/runtimes/{encoded_arn}/invocations"
+
+distribution = Distribution(self, 'Distribution',
+    default_behavior=BehaviorOptions(
+        origin=HttpOrigin(
+            bedrock_agentcore_hostname,
+            origin_path=origin_path, 
+            protocol_policy=OriginProtocolPolicy.HTTPS_ONLY,
+            read_timeout=Duration.seconds(120) # Optional: for responses &gt;30s, adjust as needed
+        ),
+        viewer_protocol_policy=ViewerProtocolPolicy.REDIRECT_TO_HTTPS,
+        cache_policy=CachePolicy.CACHING_DISABLED,  # Critical for dynamic APIs
+        allowed_methods=AllowedMethods.ALLOW_ALL,
+        response_headers_policy=cors_policy,  # Add CORS policy if created
+        origin_request_policy=OriginRequestPolicy.ALL_VIEWER,  # Forward headers for MCP
+    ),
+    # Add domain configuration if using custom domains
+    domain_names=[domain_name] if domain_name else None,
+    certificate=certificate if domain_name else None,
+) 
+ 
+Set cache_policy=CachePolicy.CACHING_DISABLED to make sure your agent responses remain dynamic and aren’t cached by CloudFront. 
+ 
+ If you’re using a custom domain, add an SSL certificate and DNS configuration to your stack: 
+ 
+ 
+ # agentcore_custom_domain_stack.py 
+from aws_cdk.aws_certificatemanager import Certificate, CertificateValidation
+from aws_cdk.aws_route53 import HostedZone, ARecord, RecordTarget
+from aws_cdk.aws_route53_targets import CloudFrontTarget
+
+# For existing domains
+hosted_zone = HostedZone.from_lookup(self, 'HostedZone',
+    domain_name='yourcompany.com'
+)
+# SSL certificate with automatic DNS validation
+certificate = Certificate(self, 'Certificate',
+    domain_name='my-agent.yourcompany.com',
+    validation=CertificateValidation.from_dns(hosted_zone),
+)
+# DNS record pointing to CloudFront
+ARecord(self, 'AliasRecord',
+    zone=hosted_zone,
+    record_name='my-agent.yourcompany.com',
+    target=RecordTarget.from_alias(CloudFrontTarget(distribution)),
+) 
+ 
+The following code is the complete AWS CDK stack that combines all the components: 
+ 
+ # agentcore_custom_domain_stack.py
+import urllib.parse
+from aws_cdk import Stack, CfnOutput, Duration
+from aws_cdk.aws_cloudfront import (
+    Distribution, BehaviorOptions,
+    CachePolicy, AllowedMethods,
+    ViewerProtocolPolicy, OriginProtocolPolicy,
+    ResponseHeadersPolicy, ResponseHeadersCorsBehavior,
+    OriginRequestPolicy
+)
+from aws_cdk.aws_cloudfront_origins import HttpOrigin
+from aws_cdk.aws_certificatemanager import Certificate, CertificateValidation
+from aws_cdk.aws_route53 import HostedZone, ARecord, RecordTarget
+from aws_cdk.aws_route53_targets import CloudFrontTarget
+from constructs import Construct
+
+class AgentcoreCustomDomainStack(Stack):
+    def __init__(self, scope: Construct, construct_id: str, **kwargs) -&gt; None:
+        super().__init__(scope, construct_id, **kwargs)
+
+        # Configuration - Update these for your setup
+        agent_runtime_arn = "arn:aws:bedrock-agentcore:us-east-1:accountId:runtime/my_agent-xbcDkz4FR9"
+        region = agent_runtime_arn.split(':')[3]  # Extract region from ARN
+        domain_name = "agent.yourcompany.com"  # Using your hosted zone
+        hosted_zone_id = "Z1234567890ABC"  # Your hosted zone ID
+        enable_cors = True  # Set to False if serving frontend and backend from same domain
+
+        # Encode the agent ARN for the origin path
+        encoded_arn = urllib.parse.quote(agent_runtime_arn, safe='')
+        bedrock_agentcore_hostname = f"bedrock-agentcore.{region}.amazonaws.com"
+        origin_path = f"/runtimes/{encoded_arn}/invocations"
+
+        # Create CORS response headers policy if needed
+        cors_policy = None
+        if enable_cors:
+            cors_policy = ResponseHeadersPolicy(self, 'CorsPolicy',
+                cors_behavior=ResponseHeadersCorsBehavior(
+                    access_control_allow_origins=['*'],  # Or specify your frontend domains
+                    access_control_allow_headers=[
+                        'Authorization',
+                        'Content-Type', 
+                        'X-Amzn-*',
+                        'X-Requested-With'
+                    ],
+                    access_control_allow_methods=['GET', 'POST', 'OPTIONS'],
+                    access_control_expose_headers=['*'],
+                    access_control_allow_credentials=False,
+                    origin_override=True  # Overrides CORS headers from origin
+                )
+            )
+
+        # Base distribution configuration
+        distribution_props = {
+            "default_behavior": BehaviorOptions(
+                origin=HttpOrigin(
+                    bedrock_agentcore_hostname,
+                    origin_path=origin_path,  # Direct path to agent endpoint
+                    protocol_policy=OriginProtocolPolicy.HTTPS_ONLY,
+                    read_timeout=Duration.seconds(120) # Optional: for responses &gt;30s, adjust as needed
+                ),
+                viewer_protocol_policy=ViewerProtocolPolicy.REDIRECT_TO_HTTPS,
+                cache_policy=CachePolicy.CACHING_DISABLED,
+                allowed_methods=AllowedMethods.ALLOW_ALL,
+                response_headers_policy=cors_policy,  # Add CORS policy if enabled
+                origin_request_policy=OriginRequestPolicy.ALL_VIEWER,  # Forward headers for MCP
+            )
+        }
+
+        # Optional: Add custom domain
+        if domain_name:
+            # Use from_hosted_zone_attributes for specific zone
+            hosted_zone = HostedZone.from_hosted_zone_attributes(self, 'HostedZone',
+                                                                 zone_name='yourcompany.com',  # Your root domain
+                                                                 hosted_zone_id=hosted_zone_id
+                                                                 )
+
+            certificate = Certificate(self, 'Certificate',
+                                      domain_name=domain_name,
+                                      validation=CertificateValidation.from_dns(
+                                          hosted_zone),
+                                      )
+
+            # Add custom domain to distribution
+            distribution_props["domain_names"] = [domain_name]
+            distribution_props["certificate"] = certificate
+
+        distribution = Distribution(self, 'Distribution', **distribution_props)
+
+        # Create DNS record if using custom domain
+        if domain_name:
+            ARecord(self, 'AliasRecord',
+                    zone=hosted_zone,
+                    record_name=domain_name,
+                    target=RecordTarget.from_alias(
+                        CloudFrontTarget(distribution)),
+                    )
+
+        # Outputs
+        if domain_name:
+            domain_url = f"https://{domain_name}/"
+            CfnOutput(self, "AgentEndpoint",
+                      value=domain_url,
+                      description="Your custom domain endpoint"
+                      )
+
+        CfnOutput(self, "CloudFrontDistribution",
+                  value=f"https://{distribution.distribution_domain_name}/",
+                  description="CloudFront default domain (works without custom domain)"
+                  ) 
+ 
+ 
+ Configure the AWS CDK app entry point: 
+ 
+ 
+ # app.py
+#!/usr/bin/env python3
+import aws_cdk as cdk
+from agentcore_custom_domain.agentcore_custom_domain_stack import AgentCoreCustomDomainStack
+
+app = cdk.App()
+AgentcoreCustomDomainStack(app, "AgentCoreCustomDomainStack",
+    # CloudFront requires certificates in us-east-1
+    env=cdk.Environment(region='us-east-1'),
+)
+app.synth() 
+ 
+Deploy your custom domain 
+Now you can deploy the solution and verify it works with both custom and default domains. Complete the following steps: 
+ 
+ Update the following values in agentcore_custom_domain_stack.py: 
+   
+   Your Amazon Bedrock AgentCore Runtime ARN 
+   Your domain name (if using a custom domain) 
+   Your hosted zone ID (if using a custom domain) 
+    
+ Deploy using the AWS CDK: 
+ 
+ 
+ cdk deploy 
+ 
+Test your endpoint 
+After you deploy the custom domain, you can test your endpoints using either the custom domain or the CloudFront default domain.First, get a JWT token from Amazon Cognito: 
+ 
+ export TOKEN=$(aws cognito-idp initiate-auth \
+  --client-id "your-client-id" \
+  --auth-flow USER_PASSWORD_AUTH \
+  --auth-parameters USERNAME='testuser',PASSWORD='MyPassword123' \
+  --region us-east-1 | jq -r '.AuthenticationResult.AccessToken') 
+ 
+Use the following code to test with your custom domain: 
+ 
+ curl -X POST "https://my-agent.yourcompany.com/" \
+  -H "Authorization: Bearer $TOKEN" \
+  -H "Content-Type: application/json" \
+  -H "X-Amzn-Bedrock-AgentCore-Runtime-Session-Id: session-12345678901234567890123456789012345" \
+  -d '{"prompt": "Hello, how can you help me today?"}' 
+ 
+Alternatively, use the following code to test with the CloudFront default domain: 
+ 
+ curl -X POST "https://d1234567890123.cloudfront.net/" \
+  -H "Authorization: Bearer $TOKEN" \
+  -H "Content-Type: application/json" \
+  -H "X-Amzn-Bedrock-AgentCore-Runtime-Session-Id: session-12345678901234567890123456789012345" \
+  -d '{"prompt": "Hello, how can you help me today?"}' 
+ 
+ 
+ If everything works correctly, you will receive a response from your agent through either endpoint. You’ve successfully created a custom domain for your Amazon Bedrock AgentCore Runtime agent! 
+ 
+Considerations 
+As you implement this solution in production, the following are some important considerations: 
+ 
+ Cost implications – CloudFront adds costs for data transfer and requests. Review Amazon CloudFront pricing to understand the impact for your usage patterns. 
+ Security enhancements – Consider implementing the following security measures: 
+   
+   AWS WAF rules to help protect against common web exploits. 
+   Rate limiting to help prevent abuse. 
+   Geo-restrictions if your agent should only be accessible from specific Regions. 
+    
+ Monitoring – Enable CloudFront access logs and set up Amazon CloudWatch alarms to monitor error rates, latency, and request volume. 
+ 
+Clean up 
+To avoid ongoing costs, delete the resources when you no longer need them: 
+ 
+ cdk destroy 
+ 
+You might need to manually delete the Route 53 hosted zones and ACM certificates from their respective service consoles. 
+Conclusion 
+In this post, we showed you how to create custom domain names for your Amazon Bedrock AgentCore Runtime agent endpoints using CloudFront as a reverse proxy. This solution provides several key benefits: simplified integration for development teams, custom domains that align with your organization, cleaner infrastructure abstraction, and straightforward maintenance when endpoints need updates. By using CloudFront as a reverse proxy, you can also serve both your frontend application and backend agent endpoints from the same domain, avoiding common CORS challenges. 
+We encourage you to explore this solution further by adapting it to your specific needs. You might want to enhance it with additional security features, set up monitoring, or integrate it with your existing infrastructure. 
+To learn more about building and deploying AI agents, see the Amazon Bedrock AgentCore Developer Guide. For advanced configurations and best practices with CloudFront, refer to the Amazon CloudFront documentation. You can find detailed information about SSL certificates in the AWS Certificate Manager documentation, and domain management in the Amazon Route 53 documentation. 
+Amazon Bedrock AgentCore is currently in preview and subject to change. Standard AWS pricing applies to additional services used, such as CloudFront, Route 53, and Certificate Manager. 
+ 
+About the authors 
+Rahmat Fedayizada is a Senior Solutions Architect with the AWS Energy and Utilities team. He works with energy companies to design and implement scalable, secure, and highly available architectures. Rahmat is passionate about translating complex technical requirements into practical solutions that drive business value. 
+Paras Bhuva is a Senior Manager of Solutions Architecture at AWS, where he leads a team of solution architects helping energy customers innovate and accelerate their transformation. Having started as a Solution Architect in 2012, Paras is passionate about architecting scalable solutions and building organizations focused on application modernization and AI initiatives.
+• Introducing auto scaling on Amazon SageMaker HyperPod
+  Today, we’re excited to announce that Amazon SageMaker HyperPod now supports managed node automatic scaling with Karpenter, so you can efficiently scale your SageMaker HyperPod clusters to meet your inference and training demands. Real-time inference workloads require automatic scaling to address unpredictable traffic patterns and maintain service level agreements (SLAs). As demand spikes, organizations must rapidly adapt their GPU compute without compromising response times or cost-efficiency. Unlike self-managed Karpenter deployments, this service-managed solution alleviates the operational overhead of installing, configuring, and maintaining Karpenter controllers, while providing tighter integration with the resilience capabilities of SageMaker HyperPod. This managed approach supports scale to zero, reducing the need for dedicated compute resources to run the Karpenter controller itself, improving cost-efficiency. 
+SageMaker HyperPod offers a resilient, high-performance infrastructure, observability, and tooling optimized for large-scale model training and deployment. Companies like Perplexity, HippocraticAI, H.AI, and Articul8 are already using SageMaker HyperPod for training and deploying models. As more customers transition from training foundation models (FMs) to running inference at scale, they require the ability to automatically scale their GPU nodes to handle real production traffic by scaling up during high demand and scaling down during periods of lower utilization. This capability necessitates a powerful cluster auto scaler. Karpenter, an open source Kubernetes node lifecycle manager created by AWS, is a popular choice among Kubernetes users for cluster auto scaling due to its powerful capabilities that optimize scaling times and reduce costs. 
+This launch provides a managed Karpenter-based solution for automatic scaling that is installed and maintained by SageMaker HyperPod, removing the undifferentiated heavy lifting of setup and management from customers. The feature is available for SageMaker HyperPod EKS clusters, and you can enable auto scaling to transform your SageMaker HyperPod cluster from static capacity to a dynamic, cost-optimized infrastructure that scales with demand. This combines Karpenter’s proven node lifecycle management with the purpose-built and resilient infrastructure of SageMaker HyperPod, designed for large-scale machine learning (ML) workloads. In this post, we dive into the benefits of Karpenter, and provide details on enabling and configuring Karpenter in your SageMaker HyperPod EKS clusters. 
+New features and benefits 
+Karpenter-based auto scaling in your SageMaker HyperPod clusters provides the following capabilities: 
+ 
+ Service managed lifecycle – SageMaker HyperPod handles Karpenter installation, updates, and maintenance, alleviating operational overhead 
+ Just-in-time provisioning – Karpenter observes your pending pods and provisions the required compute for your workloads from an on-demand pool 
+ Scale to zero – You can scale down to zero nodes without maintaining dedicated controller infrastructure 
+ Workload-aware node selection – Karpenter chooses optimal instance types based on pod requirements, Availability Zones, and pricing to minimize costs 
+ Automatic node consolidation – Karpenter regularly evaluates clusters for optimization opportunities, shifting workloads to avoid underutilized nodes 
+ Integrated resilience – Karpenter uses the built-in fault tolerance and node recovery mechanisms of SageMaker HyperPod 
+ 
+These capabilities are built on top of recently launched continuous provisioning capabilities, which enables SageMaker HyperPod to automatically provision remaining capacity in the background while workloads start immediately on available instances. When node provisioning encounters failures due to capacity constraints or other issues, SageMaker HyperPod automatically retries in the background until clusters reach their desired scale, so your auto scaling operations remain resilient and non-blocking. 
+Solution overview 
+The following diagram illustrates the solution architecture. 
+ 
+Karpenter works as a controller in the cluster and operates in the following steps: 
+ 
+ Watching – Karpenter watches for un-schedulable pods in the cluster through the Kubernetes API server. These could be pods that go into pending state when deployed or automatically scaled to increase the replica count. 
+ Evaluating – When Karpenter finds such pods, it computes the shape and size of a NodeClaim to fit the set of pods requirements (GPU, CPU, memory) and topology constraints, and checks if it can pair them with an existing NodePool. For each NodePool, it queries the SageMaker HyperPod APIs to get the instance types supported by the NodePool. It uses the information about instance type metadata (hardware requirements, zone, capacity type) to find a matching NodePool. 
+ Provisioning – If Karpenter finds a matching NodePool, it creates a NodeClaim and tries to provision a new instance to be used as the new node. Karpenter internally uses the sagemaker:UpdateCluster API to increase the capacity of the selected instance group. 
+ Disrupting – Karpenter periodically checks if a new node is needed or not. If it’s not needed, Karpenter deletes it, which internally translates to a delete node request to the SageMaker HyperPod cluster. 
+ 
+Prerequisites 
+Verify you have the required quotas for the instances you will create in the SageMaker HyperPod cluster. To review your quotas, on the Service Quotas console, choose AWS services in the navigation pane, then choose SageMaker. For example, the following screenshot shows the available quota for g5.12xlarge instances (three). 
+ 
+To update the cluster, you must first create AWS Identity and Access Management (IAM) permissions for Karpenter. For instructions, see Create an IAM role for HyperPod autoscaling with Karpenter. 
+Create and configure a SageMaker HyperPod cluster 
+To begin, launch and configure your SageMaker HyperPod EKS cluster and verify that continuous provisioning mode is enabled on cluster creation. Complete the following steps: 
+ 
+ On the SageMaker AI console, choose HyperPod clusters in the navigation pane. 
+ Choose Create HyperPod cluster and Orchestrated on Amazon EKS. 
+ For Setup options, select Custom setup. 
+ For Name, enter a name. 
+ For Instance recovery, select Automatic. 
+ For Instance provisioning mode, select Use continuous provisioning. 
+ Choose Submit. 
+ 
+ 
+This setup creates the necessary configuration such as virtual private cloud (VPC), subnets, security groups, and EKS cluster, and installs operators in the cluster. You can also provide existing resources such as an EKS cluster if you want to use an existing cluster instead of creating a new one. This setup will take around 20 minutes. 
+Verify that each InstanceGroup is limited to one zone by opting for the OverrideVpcConfig and selecting only one subnet per each InstanceGroup. 
+ 
+After you create the cluster, you must update it to enable Karpenter. You can do this using Boto3 or the AWS Command Line Interface (AWS CLI) using the UpdateCluster API command (after configuring the AWS CLI to connect to your AWS account). 
+The following code uses Python Boto3: 
+ 
+ import boto3
+client = boto3.client('sagemaker')
+response = client.update_cluster(
+    ClusterName=&lt;Your_Cluster_Name&gt;,
+    AutoScaling = { "Mode": "Enable", "AutoScalerType": "Karpenter" },
+    ClusterRole = &lt;Cluster_Role_ARN&gt;,
+) 
+ 
+ 
+ The following code uses the AWS CLI: 
+ 
+ 
+ aws sagemaker update-cluster \
+&nbsp; &nbsp; --cluster-name &lt;clustername&gt;&nbsp;\
+&nbsp; &nbsp; --auto-scaling '{ "Mode": "Enable", "AutoScalerType": "Karpenter" }` \
+&nbsp; &nbsp; --cluster-role &lt;clusterrole&gt; 
+ 
+After you run this command and update the cluster, you can verify that Karpenter has been enabled by running the DescribeCluster API. 
+The following code uses Python: 
+ 
+ import&nbsp;boto3
+client&nbsp;=&nbsp;boto3.client('sagemaker')
+print(sagemaker_client.describe_cluster(ClusterName=&lt;Your_Cluster_Name&gt;).get("AutoScaling")) 
+ 
+The following code uses the AWS CLI: 
+ 
+ aws sagemaker describe-cluster --cluster-name &lt;clustername&gt; --query AutoScaling 
+ 
+The following code shows our output: 
+ 
+ {'Mode': 'Enable',
+&nbsp;'AutoScalerType': 'Karpenter',
+&nbsp;'Status': 'Enabled'} 
+ 
+Now you have a working cluster. The next step is to set up some custom resources in your cluster for Karpenter. 
+Create HyperpodNodeClass 
+HyperpodNodeClass is a custom resource that maps to pre-created instance groups in SageMaker HyperPod, defining constraints around which instance types and Availability Zones are supported for Karpenter’s auto scaling decisions. To use HyperpodNodeClass, simply specify the names of the InstanceGroups of your SageMaker HyperPod cluster that you want to use as the source for the AWS compute resources to use to scale up your pods in your NodePools. 
+The HyperpodNodeClass name that you use here is carried over to the NodePool in the next section where you reference it. This tells the NodePool which HyperpodNodeClass to draw resources from. To create a HyperpodNodeClass, complete the following steps: 
+ 
+ Create a YAML file (for example, nodeclass.yaml) similar to the following code. Add InstanceGroup names that you used at the time of the SageMaker HyperPod cluster creation. You can also add new instance groups to an existing SageMaker HyperPod EKS cluster. 
+ Reference the HyperPodNodeClass name in your NodePool configuration. 
+ 
+The following is a sample HyperpodNodeClass that uses ml.g6.xlarge and ml.g6.4xlarge instance types: 
+ 
+ apiVersion: karpenter.sagemaker.amazonaws.com/v1
+kind: HyperpodNodeClass
+metadata:
+&nbsp;&nbsp;name:&nbsp;multiazg6
+spec:
+&nbsp;&nbsp;instanceGroups:
+&nbsp; &nbsp; #&nbsp;name of&nbsp;InstanceGroup in HyperPod cluster. InstanceGroup needs to pre-created
+&nbsp; &nbsp; # before this step can be completed.
+&nbsp; &nbsp; #&nbsp;MaxItems: 10
+&nbsp;&nbsp; &nbsp;- auto-g6-az1
+&nbsp;&nbsp; &nbsp;- auto-g6-4xaz2 
+ 
+ 
+ Apply the configuration to your EKS cluster using kubectl: 
+ 
+ 
+ kubectl apply -f nodeclass.yaml 
+ 
+ 
+ Monitor the HyperpodNodeClass status to verify the Ready condition in status is set to True to ensure it was successfully created: 
+ 
+ 
+ kubectl get hyperpodnodeclass multiazc5 -oyaml 
+ 
+The SageMaker HyperPod cluster must have AutoScaling enabled and the AutoScaling status must change to InService before the HyperpodNodeClass can be applied. 
+For more information and key considerations, see Autoscaling on SageMaker HyperPod EKS. 
+Create NodePool 
+The NodePool sets constraints on the nodes that can be created by Karpenter and the pods that can run on those nodes. The NodePool can be set to perform various actions, such as: 
+ 
+ Define labels and taints to limit the pods that can run on nodes Karpenter creates 
+ Limit node creation to certain zones, instance types, and computer architectures, and so on 
+ 
+For more information about NodePool, refer to NodePools. SageMaker HyperPod managed Karpenter supports a limited set of well-known Kubernetes and Karpenter requirements, which we explain in this post. 
+To create a NodePool, complete the following steps: 
+ 
+ Create a YAML file named nodepool.yaml with your desired NodePool configuration. 
+ 
+The following code is a sample configuration to create a sample NodePool. We specify the NodePool to include our ml.g6.xlarge SageMaker instance type, and we additionally specify it for one zone. Refer to NodePools for more customizations. 
+ 
+ apiVersion: karpenter.sh/v1
+kind: NodePool
+metadata:
+&nbsp;name:&nbsp;gpunodepool
+spec:
+&nbsp;template:
+&nbsp;&nbsp; spec:
+&nbsp; &nbsp; &nbsp;nodeClassRef:
+&nbsp;&nbsp; &nbsp; &nbsp;group: karpenter.sagemaker.amazonaws.com
+&nbsp;&nbsp; &nbsp; &nbsp;kind: HyperpodNodeClass
+&nbsp;&nbsp; &nbsp; &nbsp;name: multiazg6
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;expireAfter:&nbsp;Never
+&nbsp;&nbsp; &nbsp; requirements:
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;- key: node.kubernetes.io/instance-type
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;operator: Exists
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;- key: "node.kubernetes.io/instance-type"
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;operator: In
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;values: ["ml.g6.xlarge"]
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;- key: "topology.kubernetes.io/zone"
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;operator: In
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;values: ["us-west-2a"] 
+ 
+ 
+ Apply the NodePool to your cluster: 
+ 
+ 
+ kubectl apply -f nodepool.yaml 
+ 
+ 
+ Monitor the NodePool status to ensure the Ready condition in the status is set to True: 
+ 
+ 
+ kubectl get nodepool gpunodepool -oyaml 
+ 
+This example shows how a NodePool can be used to specify the hardware (instance type) and placement (Availability Zone) for pods. 
+Launch a simple workload 
+The following workload runs a Kubernetes deployment where the pods in deployment are requesting for 1 CPU and 256 MB memory per replica, per pod. The pods have not been spun up yet. 
+ 
+ kubectl apply -f https://raw.githubusercontent.com/aws/karpenter-provider-aws/refs/heads/main/examples/workloads/inflate.yaml 
+ 
+When we apply this, we can see a deployment and a single node launch in our cluster, as shown in the following screenshot. 
+ 
+To scale this component, use the following command: 
+ 
+ kubectl scale deployment inflate --replicas 10 
+ 
+Within a few minutes, we can see Karpenter add the requested nodes to the cluster. 
+ 
+Implement advanced auto scaling for inference with KEDA and Karpenter 
+To implement an end-to-end auto scaling solution on SageMaker HyperPod, you can set up Kubernetes Event-driven Autoscaling (KEDA) along with Karpenter. KEDA enables pod-level auto scaling based on a wide range of metrics, including Amazon CloudWatch metrics, Amazon Simple Queue Service (Amazon SQS) queue lengths, Prometheus queries, and resource utilization patterns. By configuring Keda ScaledObject resources to target your model deployments, KEDA can dynamically adjust the number of inference pods based on real-time demand signals. 
+When integrating KEDA and Karpenter, this combination creates a powerful two-tier auto scaling architecture. As KEDA scales your pods up or down based on workload metrics, Karpenter automatically provisions or deletes nodes in response to changing resource requirements. This integration delivers optimal performance while controlling costs by making sure your cluster has precisely the right amount of compute resources available at all times. For effective implementation, consider the following key factors: 
+ 
+ Set appropriate buffer thresholds in KEDA to accommodate Karpenter’s node provisioning time 
+ Configure cooldown periods carefully to prevent scaling oscillations 
+ Define clear resource requests and limits to help Karpenter make optimal node selections 
+ Create specialized NodePools tailored to specific workload characteristics 
+ 
+The following is a sample spec of a KEDA ScaledObject file that scales the number of pods based on CloudWatch metrics of Application Load Balancer (ALB) request count: 
+ 
+ apiVersion: keda.sh/v1alpha1
+kind: ScaledObject
+metadata:
+&nbsp;&nbsp;name: nd-deepseek-llm-scaler
+&nbsp;&nbsp;namespace: default
+spec:
+&nbsp;&nbsp;scaleTargetRef:
+&nbsp;&nbsp; &nbsp;name: nd-deepseek-llm-r1-distill-qwen-1-5b
+&nbsp;&nbsp; &nbsp;apiVersion: apps/v1
+&nbsp;&nbsp; &nbsp;kind: Deployment
+&nbsp;&nbsp;minReplicaCount: 1
+&nbsp;&nbsp;maxReplicaCount: 3
+&nbsp;&nbsp;pollingInterval: 30 &nbsp; &nbsp; # seconds between checks
+&nbsp;&nbsp;cooldownPeriod: 300 &nbsp; &nbsp; # seconds before scaling down
+&nbsp;&nbsp;triggers:
+&nbsp;&nbsp; &nbsp;- type: aws-cloudwatch
+&nbsp;&nbsp; &nbsp; &nbsp;metadata:
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;namespace: AWS/ApplicationELB &nbsp; &nbsp; &nbsp; &nbsp;# or your metric namespace
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;metricName: RequestCount &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# or your metric name
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;dimensionName: LoadBalancer &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # or your dimension key
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;dimensionValue: app/k8s-default-albnddee-cc02b67f20/0991dc457b6e8447
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;statistic: Sum
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;threshold: "3" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# change to your desired threshold
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;minMetricValue: "0" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # optional floor
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;region: us-east-2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # your AWS region
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;identityOwner: operator &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # use the IRSA SA bound to keda-operator 
+ 
+Clean up 
+To clean up your resources to avoid incurring more charges, delete your SageMaker HyperPod cluster. 
+Conclusion 
+With the launch of Karpenter node auto scaling on SageMaker HyperPod, ML workloads can automatically adapt to changing workload requirements, optimize resource utilization, and help control costs by scaling precisely when needed. You can also integrate it with event-driven pod auto scalers such as KEDA to scale based on custom metrics. 
+To experience these benefits for your ML workloads, enable Karpenter in your SageMaker HyperPod clusters. For detailed implementation guidance and best practices, refer to Autoscaling on SageMaker HyperPod EKS. 
+ 
+About the authors 
+Vivek Gangasani is a Worldwide Lead GenAI Specialist Solutions Architect for SageMaker Inference. He drives Go-to-Market (GTM) and Outbound Product strategy for SageMaker Inference. He also helps enterprises and startups deploy, manage, and scale their GenAI models with SageMaker and GPUs. Currently, he is focused on developing strategies and content for optimizing inference performance and GPU efficiency for hosting Large Language Models. In his free time, Vivek enjoys hiking, watching movies, and trying different cuisines. 
+Adam Stanley is a Solution Architect for Software, Internet and Model Provider customers at Amazon Web Services (AWS). He supports customers adopting all AWS services, but focuses primarily on Machine Learning training and inference infrastructure. Prior to AWS, Adam went to the University of New South Wales and graduated with degrees in Mathematics and Accounting. You can connect with him on LinkedIn. 
+Kunal Jha is a Principal Product Manager at AWS, where he focuses on building Amazon SageMaker HyperPod to enable scalable distributed training and fine-tuning of foundation models. In his spare time, Kunal enjoys skiing and exploring the Pacific Northwest. You can connect with him on LinkedIn. 
+Ty Bergstrom is a Software Engineer at Amazon Web Services. He works on the HyperPod Clusters platform for Amazon SageMaker.
 • Meet Boti: The AI assistant transforming how the citizens of Buenos Aires access government information with Amazon Bedrock
   This post is co-written with Julieta Rappan, Macarena Blasi, and María Candela Blanco from the Government of the City of Buenos Aires. 
 The Government of the City of Buenos Aires continuously works to improve citizen services. In February 2019, it introduced an AI assistant named Boti available through WhatsApp, the most widely used messaging service in Argentina. With Boti, citizens can conveniently and quickly access a wide variety of information about the city, such as renewing a driver’s license, accessing healthcare services, and learning about cultural events. This AI assistant has become a preferred communication channel and facilitates more than 3 million conversations each month. 
@@ -844,790 +1641,5 @@ Enrique Balp is a Senior Data Scientist at the AWS Generative AI Innovation Cent
 Diego Galaviz is a Deep Learning Architect at the AWS Generative AI Innovation Center. Before joining AWS, he had over 8 years of expertise as a data scientist across diverse sectors, including financial services, energy, big tech, and cybersecurity. He holds a master’s degree in artificial intelligence, which complements his practical industry experience. 
 Laura Kulowski is a Senior Applied Scientist at the AWS Generative AI Innovation Center, where she works with customers to build generative AI solutions. Before joining Amazon, Laura completed her PhD at Harvard’s Department of Earth and Planetary Sciences and investigated Jupiter’s deep zonal flows and magnetic field using Juno data. 
 Rafael Fernandes is the LATAM leader of the AWS Generative AI Innovation Center, whose mission is to accelerate the development and implementation of generative AI in the region. Before joining Amazon, Rafael was a co-founder in the financial services industry space and a data science leader with over 12 years of experience in Europe and LATAM.
-• Empowering air quality research with secure, ML-driven predictive analytics
-  Air pollution remains one of Africa’s most pressing environmental health crises, causing widespread illness across the continent. Organizations like sensors.AFRICA have deployed hundreds of air quality sensors to address this challenge, but face a critical data problem: significant gaps in PM2.5 (particulate matter with diameter less than or equal to 2.5 micrometers) measurement records because of power instability and connectivity issues in high-risk regions where physical maintenance is limited. Missing data in PM2.5 datasets reduces statistical power and introduces bias into parameter estimates, leading to unreliable trend detection and flawed conclusions about air quality patterns. These data gaps ultimately compromise evidence-based decision-making for pollution control strategies, health impact assessments, and regulatory compliance. 
-In this post, we demonstrate&nbsp;the time-series forecasting capability of&nbsp;Amazon SageMaker Canvas,&nbsp;a&nbsp;low-code no-code (LCNC) machine learning (ML) platform to predict PM2.5 from incomplete datasets. PM2.5 exposure contributes to millions of premature deaths globally through cardiovascular disease, respiratory illness, and systemic health effects, making accurate air quality forecasting a critical public health tool. A key advantage of the forecasting capability of SageMaker Canvas is its robust handling of incomplete data. Traditional air quality monitoring systems often require complete datasets to function properly, meaning they can’t be relied on when sensors malfunction or require maintenance. In contrast, SageMaker Canvas can generate reliable predictions even when faced with gaps in sensor data. This resilience enables continuous operation of air quality monitoring networks despite inevitable sensor failures or maintenance periods, eliminating costly downtime and data gaps. Environmental agencies and public health officials benefit from uninterrupted access to critical air quality information, enabling timely pollution alerts and more comprehensive long-term analysis of air quality trends. By maintaining operational continuity even with imperfect data inputs, SageMaker Canvas significantly enhances the reliability and practical utility of environmental monitoring systems. 
-In this post, we provide a data imputation solution using Amazon SageMaker AI, AWS Lambda, and AWS Step Functions. This solution is designed for environmental analysts, public health officials, and business intelligence professionals who need reliable PM2.5 data for trend analysis, reporting, and decision-making. We sourced our sample training dataset from openAFRICA. Our solution predicts PM2.5 values using time-series forecasting. The sample training dataset contained over 15 million records from March 2022 to Oct 2022 in various parts of Kenya and Nigeria—data coming from 23 sensor devices from 15 unique locations. The sample code and workflows can be adapted to create prediction models for your PM2.5 datasets. See our solution’s README for detailed instructions. 
-Solution overview 
-The solution consists of two main ML components: a training workflow and an inference workflow. These workflows are built using the following services: 
- 
- SageMaker Canvas is used to prepare data and train the prediction model through its no-code interface 
- Batch Transform for inference with Amazon SageMaker AI&nbsp;is used for inference, processing the dataset in bulk to generate predictions 
- Step Functions orchestrates the inferencing process by coordinating the workflow between data retrieval, batch transforming, and database updates, managing workflow state transitions, and making sure that data flows properly through each processing stage 
- Lambda functions perform critical operations at each workflow step: retrieving sensor data from the database in required format, transforming data for model input, sending batches to SageMaker for inferencing, and updating the database with prediction results after processing is complete 
- 
-At a high level, the solution works by taking a set of PM2.5 data with gaps and predicts the missing values within the range of plus or minus 4.875 micrograms per cubic meter of the actual PM2.5 concentration. It does this by first training a model on the data using inputs for the specific schema and a historical set of values from the user to guide the training process, which is completed with SageMaker Canvas. After the model is trained on a representative dataset and schema, SageMaker Canvas exports the model for use with batch processing. The Step Functions orchestration calls a Lambda function every 24 hours that takes a dataset of new sensor data that has gaps and initiates a SageMaker batch transform job to predict the missing values. The batch transform job processes the entire dataset at once, and the Lambda function then updates the existing dataset with the results. The new completed dataset with predicted values can now be distributed to&nbsp;public health decision-makers who need complete datasets to effectively analyze the patterns of PM2.5 data. 
-We dive into each of these steps in later sections of this post. 
-Solution walkthrough 
-The following diagram shows our solution architecture: 
- 
-Let’s explore the architecture step by step: 
- 
- To&nbsp;systematically collect, identify, and fill PM2.5 data gaps caused by sensor limitations and connectivity issues,&nbsp;Amazon EventBridge Scheduler invokes a Step Functions state machine every 24 hours.&nbsp;Step Functions orchestrates the calling of various Lambda functions to perform different steps without handling the complexities of error handling, retries, and state management, providing a serverless workflow that seamlessly coordinates the PM2.5 data imputation process. 
- The State Machine invokes a Lambda function in your&nbsp;Amazon Virtual Private Cloud (Amazon VPC) that retrieves records containing missing air quality values from the user’s air quality database on Amazon Aurora PostgreSQL-Compatible Edition and stores the records in a CSV file in an Amazon Simple Storage Service (Amazon S3) bucket. 
- The State Machine then runs a Lambda function that retrieves the records from Amazon S3 and initiates the SageMaker batch transform job in your VPC using your SageMaker model created from your SageMaker Canvas predictive model trained on historical PM2.5 data. 
- To streamline the batch transform workflow, this solution uses an event-driven approach with EventBridge and Step Functions. EventBridge captures completion events from SageMaker batch transform jobs, while the task token functionality of Step Functions enables extended waiting periods beyond the time limits of Lambda. After processing completes, SageMaker writes the prediction results directly to an S3 bucket. 
- The final step in the state machine retrieves the predicted values from the S3 bucket and then updates the database in&nbsp;Aurora PostgreSQL-Compatible with the values including a predicted label set to true. 
- 
-Prerequisites 
-To implement the PM2.5 data imputation solution, you must have the following: 
- 
- An AWS account with&nbsp;AWS Identity and Access Management (IAM)&nbsp;permissions sufficient to deploy the solution and interact with the database. 
- The following AWS services: 
-   
-   Amazon SageMaker AI 
-   AWS Lambda 
-   AWS Step Functions 
-   Amazon S3 
-   Aurora&nbsp;PostgreSQL-Compatible 
-   Amazon CloudWatch 
-   AWS CloudFormation 
-   Amazon Virtual Private Cloud (VPC) 
-   Amazon EventBridge 
-   IAM for authentication to&nbsp;Aurora&nbsp;PostgreSQL-Compatible 
-   AWS Systems Manager Parameter Store 
-    
- A local desktop set up with AWS Command Line Interface (AWS CLI) version 2, Python 3.10, AWS Cloud Development Kit (AWS CDK) v2.x, and Git version 2.x. 
- The AWS CLI set up with the necessary credentials in the desired AWS Region. 
- Historical air quality sensor data. Note that our solution requires a fixed schema described in the GitHub repo’s README. 
- 
-Deploy the solution 
-You will run the following steps to complete the deployment: 
- 
- Prepare your environment by building Python modules locally for Lambda layers, deploying infrastructure using the AWS CDK, and initializing your Aurora PostgreSQL database with sensor data. 
- Perform steps in the Build your air quality prediction model section to configure a SageMaker Canvas application, followed by training and registering your model in Amazon SageMaker Model Registry. 
- Create SageMaker model using your registered SageMaker Canvas model by updating infrastructure using the AWS CDK. 
- Manage future configuration changes using the AWS CDK. 
- 
-Step 1: Deploy AWS infrastructure and upload air quality sensor data 
-Complete the following steps to deploy the PM2.5 data imputation solution AWS Infrastructure and upload air quality sensor data to Amazon Aurora RDS: 
- 
- Clone the repository to your local desktop environment using the following command: 
- 
- 
- git clone git@github.com:aws-samples/sample-empowering-air-quality-research-secure-machine-learning-predictive-analytics.git 
- 
- 
- Change to the project directory: 
- 
-cd &lt;BASE_PROJECT_FOLDER&gt; 
- 
- Follow the deployment steps in the README&nbsp;file up to Model Setup for Batch Transform Inference. 
- 
-Step 2: Build your air quality prediction model 
-After you create the SageMaker AI domain and the SageMaker AI user profile as part of the CDK deployment steps, follow these steps to build your air quality prediction model 
-Configure your SageMaker Canvas application 
- 
- On the AWS Management Console, go to the&nbsp;SageMaker AI&nbsp;console and select the domain and the user profile that was created under Admin, Configurations, and Domains. 
- Choose the App Configurations tab, scroll down to the Canvas section, and select Edit. 
- In Canvas storage configuration, select Encryption and select the dropdown for aws/s3. 
- In the ML Ops Configuration, turn on the option to Enable Model Registry registration permissions for this user profile. 
-   
-   Optionally, in the Local file upload configuration&nbsp;section in your domain’s Canvas App Configuration, you can turn on Enable local file upload. 
-    
- Choose Submit to save your configuration choices. 
- In your Amazon SageMaker AI home page, go to the Applications and IDEs section and select Canvas. 
- Select the SageMaker AI user profile that was created for you by the CDK deployment and choose Open Canvas. 
- In a new tab, SageMaker Canvas will start creating your application. This takes a few minutes. 
- 
-Create and register your prediction model 
-In this phase, you develop a prediction model using your historical air quality sensor data. 
- 
-The preceding architecture diagram illustrates the end-to-end process for training the SageMaker Canvas prediction model, registering that model and creating a SageMaker model for running inference on newly found PM2.5 data gaps.&nbsp;The training process starts by extracting air quality sensor dataset from the database. The dataset is imported into SageMaker Canvas for predictive analysis. This training dataset is transformed and prepared through data wrangling steps implemented by SageMaker Canvas for building and training ML models. 
-Prepare data 
-Our solution supports a SageMaker Canvas model trained for a single-target variable prediction based on historical data and performs corresponding data imputation for PM2.5 data gaps. To train your model for predictive analysis, follow the comprehensive End to End Machine Learning workflow in the AWS Canvas Immersion Day workshop, adapting each step to prepare your air quality sensor dataset. Begin with the standard workflow until you reach the data preparation section. Here, you can make several customizations: 
- 
- Filter dataset for single-target value prediction: Your air quality dataset might contain multiple sensor parameters. For single-target value prediction using this solution, filter the dataset to include only PM2.5 measurements. 
- Clean sensor data: Remove records containing sensor fault values. For example, we filtered out values that equal 65535, because 65535 is a common error code for malfunctioning sensors. Adjust this filtering based on the specific error codes your air quality monitoring equipment produces. 
- 
-The following image shows our data wrangling Data Flow implemented using above guidance: 
-Data Wrangler &gt; Data Flow 
- 
- 
- Review generated insights and remove irrelevant data: Review the SageMaker Canvas generated insights and analyses. Evaluate them based on time-series forecasting and geospatial temporal data for air quality patterns and relationships between other columns of impact. See chosen columns of impact in GitHub for guidance. Analyze your dataset to identify rows and columns that impact the prediction and remove data that can reduce prediction accuracy. 
- 
-The following image shows our data wrangling&nbsp;Analyses obtained with implementing the above guidance: 
-Data Wrangler &gt; Analyses 
- 
-Training your prediction model 
-After completing your data preparation, proceed to the Train the Model section of the workshop and continue with these specifications: 
- 
- Select problem type: Select Predictive Analysis as your ML approach. Because our dataset is tabular and contains a timestamp, a target column that has values we’re using to forecast future values, and a device ID column, SageMaker Canvas will choose time series forecasting. 
- Define target column: Set Value as your target column for predicting PM2.5 values. 
- Build configuration: Use the Standard Build option for model training because it generally has a higher accuracy. See What happens when you build a model in How custom models work&nbsp;for more information. 
- 
-By following these steps, you can create a model optimized for PM2.5 dataset predictive analysis, capable of generating valuable insights. Note that SageMaker Canvas supports retraining the ML model for updated PM2.5 datasets. 
-Evaluate the model 
-After training your model, proceed to Evaluate the model and review column impact, root mean square error (RMSE) score and other advanced metrics to understand your model’s performance for generating predictions for PM2.5. 
-The following image shows our model evaluation statistics achieved. 
- 
-Add the model to the registry 
-Once you are satisfied with your model performance, follow the steps in Register a model version to the SageMaker AI model registry. Make sure to change the approval status to Approved before continuing to run this solution. At the time of this post’s publication, the approval must be updated in Amazon SageMaker Studio. 
-Log out of SageMaker Canvas 
-After completing your work in SageMaker Canvas, you can log out or configure your application to automatically terminate the&nbsp;workspace instance. A workspace instance is dedicated for your use every time you launch a Canvas application, and you are billed for as long as the instance runs. Logging out or terminating the workspace instance stops the workspace instance billing. For more information, see billing and cost in SageMaker Canvas. 
-Step 3: Create a SageMaker model using your registered SageMaker Canvas model 
-In the previous steps, you created a SageMaker domain and user profile through CDK deployment (Step 1) and successfully registered your model (Step 2). Now, it’s time to create the SageMaker model in your VPC using the SageMaker Canvas model you registered. Follow Model Setup for Batch Inference and Re-Deploy with Updated Configuration sections in the code README for creating SageMaker model. 
-Step 4: Manage future configuration changes 
-The same deployment pattern applies to any future configuration modifications you might require, including: 
- 
- Batch transform instance type optimizations 
- Transform job scheduling changes 
- 
-Update the relevant parameters in your configuration and run cdk deploy to propagate these changes throughout your solution architecture. 
-For a comprehensive list of configurable parameters and their default values, see the configuration file in the repository. 
-Execute cdk deploy again to update your infrastructure stack with the your model ID for batch transform operations, replacing the placeholder value initially deployed. This infrastructure-as-code approach helps ensure consistent, version-controlled updates to your data imputation workflow. 
-Security best practices 
-Security and compliance is a shared responsibility between AWS and the customer, as outlined in the Shared Responsibility Model. We encourage you to review this model for a comprehensive understanding of the respective responsibilities. 
-In this solution, we enhanced security by implementing encryption at rest for Amazon S3, Aurora PostgreSQL-Compatible database, and the SageMaker Canvas application. We also enabled encryption in transit by requiring SSL/TLS for all connections from the Lambda functions. We implemented secure database access by providing temporary dynamic credentials through IAM authentication for Amazon RDS, eliminating the need for static passwords. Each Lambda function operates with least privilege access, receiving only the minimal permissions required for its specific function. Finally, we deployed the Lambda functions, Aurora PostgreSQL-Compatible instance, and SageMaker Batch Transform jobs in private subnets of the VPC that do not traverse the public internet. This private network architecture is enabled through VPC endpoints for Amazon S3, SageMaker AI, and&nbsp;AWS Secrets Manager. 
-Results 
-As shown in the following image, our model, developed using SageMaker Canvas, predicts PM2.5 values with an R-squared of 0.921. Because ML models for PM2.5 prediction frequently achieve R-squared values between 0.80 and 0.98 (see this example from ScienceDirect), our solution is within the range of higher-performing PM2.5 prediction models available today. SageMaker Canvas delivers this performance through its no-code experience, automatically handling model training and optimization without requiring ML expertise from users. 
- 
-Clean up 
-Complete the following steps to clean up your resources: 
- 
- SageMaker Canvas application cleanup: 
-   
-   On the go to the&nbsp;SageMaker AI&nbsp;console and select the domain that was created under Admin&nbsp;Configurations, and Domains. 
-   Select the user created under User Profiles&nbsp;for that domain. 
-   On the User Details page, navigate to&nbsp;Spaces and Apps, and choose Delete to manually delete your SageMaker AI canvas application and clean up resources. 
-    
- SageMaker Domain EFS storage cleanup: 
-   
-   Open Amazon EFS&nbsp;and in File systems, delete filesystem tagged as ManagedByAmazonSageMakerResource. 
-   Open VPC and under Security, navigate to Security groups. 
-   On Security groups, select security-group-for-inbound-nfs-&lt;your-sagemaker-domain-id&gt; and delete all Inbound rules associated with that group. 
-   On Security groups, select security-group-for-outbound-nfs-&lt;your-sagemaker-domain-id&gt; and delete all associated Outbound rules. 
-   Finally, delete both the security groups:&nbsp;security-group-for-inbound-nfs-&lt;your-sagemaker-domain-id&gt; and&nbsp;security-group-for-outbound-nfs-&lt;your-sagemaker-domain-id&gt;. 
-    
- Use the AWS CDK to clean up the remaining AWS resources: 
-   
-   After the preceding steps are complete, return to your local desktop environment where the GitHub repo was cloned, and change to the project’s infra directory: cd &lt;BASE_PROJECT_FOLDER&gt;/infra 
-   Destroy the resources created with AWS CloudFormation using the AWS CDK: cdk destroy 
-   Monitor the AWS CDK process deleting resources created by the solution. If there are any errors, troubleshoot using the CloudFormation console and then retry deletion. 
-    
- 
-Conclusion 
-The development of accurate PM2.5 prediction models has traditionally required extensive technical expertise, presenting significant challenges for public health researchers studying air pollution’s impact on disease outcomes. From data preprocessing and feature engineering to model selection and hyperparameter tuning, these technical requirements diverted substantial time and effort away from researchers’ core work of analyzing health outcomes and developing evidence-based interventions.SageMaker Canvas transforms this landscape by dramatically reducing the effort required to develop high-performing PM2.5 prediction models. Public health researchers can now generate accurate predictions without mastering complex ML algorithms, iterate quickly through an intuitive interface, and validate models across regions without manual hyperparameter tuning. With this shift to streamlined, accessible prediction capabilities, researchers can dedicate more time to interpreting results, understanding air pollution’s impact on community health, and developing protective interventions for vulnerable populations. The result is more efficient research that responds quickly to emerging air quality challenges and informs timely public health decisions. We invite you to implement this solution for your air quality research or ML-based predictive analytics projects. Our comprehensive deployment steps and customization guidance will help you launch quickly and efficiently. As we continue enhancing this solution, your feedback is invaluable for improving its capabilities and maximizing its impact. 
- 
-About the authors 
-Nehal Sangoi is a Senior Technical Account Manager at Amazon Web Services. She provides strategic technical guidance to help independent software vendors plan and build solutions using AWS best practices. Connect with Nehal on LinkedIn. 
-Ben Peterson is a Senior Technical Account Manager with AWS. He is passionate about enhancing the developer experience and driving customer success. In his role, he provides strategic guidance on using the comprehensive AWS suite of services to modernize legacy systems, optimize performance, and unlock new capabilities. Connect with Ben on LinkedIn. 
-Shashank Shrivastava is a Senior Delivery Consultant and Serverless TFC member at AWS. He is passionate about helping customers and developers build modern applications on serverless architecture. As a pragmatic developer and blogger, he promotes community-driven learning and sharing of technology. His interests are software architecture, developer tools, GenAI, and serverless computing. Connect with Shashank on LinkedIn. 
-Akshay Singhal is a Senior Technical Account Manager at Amazon Web Services supporting Enterprise Support customers focusing on the Security ISV segment. He provides technical guidance for customers to implement AWS solutions, with expertise spanning serverless architectures and cost optimization. Outside of work, Akshay enjoys traveling, Formula 1, making short movies, and exploring new cuisines. Connect with Akshay on LinkedIn.
-• How Amazon Finance built an AI assistant using Amazon Bedrock and Amazon Kendra to support analysts for data discovery and business insights
-  Finance analysts across Amazon Finance face mounting complexity in financial planning and analysis processes. When working with vast datasets spanning multiple systems, data lakes, and business units, analysts encounter several critical challenges. First, they spend significant time manually browsing data catalogs and reconciling data from disparate sources, leaving less time for valuable analysis and insight generation. Second, historical data and previous business decisions often reside in various documents and legacy systems, making it difficult to use past learnings during planning cycles. Third, as business contexts rapidly evolve, analysts need quick access to relevant metrics, planning assumptions, and financial insights to support data-driven decision-making. 
-Traditional tools and processes fall short in addressing these challenges. Keyword-based searches often miss contextual relationships in financial data, and rigid query structures limit analysts’ ability to explore data dynamically. Furthermore, the lack of institutional knowledge preservation means valuable insights and decision rationales often remain siloed or get lost over time, leading to redundant analysis and inconsistent planning assumptions across teams. These challenges significantly impact financial planning efficiency, decision-making agility, and the overall quality of business insights. Analysts needed a more intuitive way to access, understand, and use their organization’s collective financial knowledge and data assets. 
-The Amazon Finance technical team develops and manages comprehensive technology solutions that power financial decision-making and operational efficiency while standardizing across Amazon’s global operations. In this post, we explain how the team conceptualized and implemented a solution to these business challenges by harnessing the power of generative AI using Amazon Bedrock and intelligent search with Amazon Kendra. 
-Solution overview 
-To address these business challenges, Amazon Finance developed an AI-powered assistant solution that uses generative AI and enterprise search capabilities. This solution helps analysts interact with financial data sources and documentation through natural language queries, minimizing the need for complex manual searches across multiple systems. The assistant accesses a comprehensive knowledge base of financial documents, historical data, and business context, providing relevant and accurate responses while maintaining enterprise security standards. This approach not only streamlines data discovery but also preserves institutional knowledge and enables more consistent decision-making across the organization. 
-The AI assistant’s methodology consists of two key solution components: intelligent retrieval and augmented generation. The retrieval system uses vector stores, which are specialized databases that efficiently store and search high-dimensional representations of text meanings. Unlike traditional databases that rely on keyword matching, vector stores enable semantic search by converting user queries into vector representations and finding similar vectors in the database. Building on this retrieval foundation, the system employs augmented generation to create accurate and contextual responses. This approach enhances traditional language models by incorporating external knowledge sources during response generation, significantly reducing hallucinations and improving factual accuracy. The process follows three steps: retrieving relevant information from knowledge sources using semantic search, conditioning the language model with this context, and generating refined responses that incorporate the retrieved information. By combining these technologies, the assistant delivers responses that are both contextually appropriate and grounded in verified organizational knowledge, making it particularly effective for knowledge-intensive applications like financial operations and planning. 
-We implemented this Retrieval Augmented Generation (RAG) system through a combination of large language models (LLMs) on Amazon Bedrock and intelligent search using Amazon Kendra. 
-In the following sections, we discuss the key architectural components that we used in the solution and describe how the overall solution works. 
-Amazon Bedrock 
-We chose Anthropic’s Claude 3 Sonnet, a powerful language model, for its exceptional language generation capabilities and ability to understand and reason complex topics. By integrating Anthropic’s Claude into the RAG module through Amazon Bedrock, the AI assistant can generate contextual and informative responses that seamlessly combine the retrieved knowledge from the vector store with the model’s natural language processing and generation abilities, resulting in a more human-like and engaging conversational experience. 
-Amazon Kendra (Enterprise Edition Index) 
-Amazon Kendra offers powerful natural language processing for AI assistant applications. It excels at understanding user questions and finding relevant answers through semantic search. The service works smoothly with generative AI models, particularly in RAG solutions. The enterprise security features in Amazon Kendra support data protection and compliance. Its ability to understand user intent and connect directly with Amazon Bedrock makes it ideal for business assistants. This helps create meaningful conversations using business documents and data catalogs. 
-We chose Amazon Kendra Enterprise Edition Index over Amazon OpenSearch Service, primarily due to its sophisticated built-in capabilities and reduced need for manual configuration. Whereas OpenSearch Service requires extensive customization and technical expertise, Amazon Kendra provides out-of-the-box natural language understanding, automatic document processing for over 40 file formats, pre-built enterprise connectors, and intelligent query handling including synonym recognition and refinement suggestions. The service combines keyword, semantic, and vector search approaches automatically, whereas OpenSearch Service requires manual implementation of these features. These features of Amazon Kendra were suitable for our finance domain use case, where accuracy is imperative for usability. 
-We also chose Amazon Kendra Enterprise Edition Index over Amazon Q Business for information retrieval, because it stands out as a more robust and flexible solution. Although both tools aim to streamline access to company information, Amazon Kendra offers superior retrieval accuracy and greater control over search parameters. With Amazon Kendra, you can fine-tune relevance tuning, customize document attributes, and implement custom synonyms to enhance search precision. This level of customization helped us tailor the search experience to our specific needs in the Amazon Finance domain and monitor the search results prior to the augmented generation step within user conversations. 
-Streamlit 
-We selected Streamlit, a Python-based framework for creating interactive web applications, for building the AI assistant’s UI due to its rapid development capabilities, seamless integration with Python and the assistant’s backend components, interactive and responsive UI components, potential for data visualization, and straightforward deployment options. With the Streamlit UI, the assistant provides a user-friendly and engaging interface that facilitates natural language interactions while allowing for efficient iteration and deployment of the application. 
-Prompt template 
-Prompt templates allow for formatting user queries, integrating retrieved knowledge, and providing instructions or constraints for response generation, which are essential for generating contextual and informative responses that combine the language generation abilities of Anthropic’s Claude with the relevant knowledge retrieved from the search powered by Amazon Kendra. The following is an example prompt: 
- 
- """
-H: Use the following pieces of context to provide a concise answer to the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.
-&lt;context&gt;
-{context}
-&lt;/context&gt;
-
-Question: {question}
-
-A:
-""" 
- 
-Solution architecture 
-The following solution architecture diagram depicts how the key architectural components work with each other to power the solution. 
- 
-The workflow consists of the following steps: 
- 
- The user asks the question in a chat box after authentication. 
- The Streamlit application sends the query to an Amazon Kendra retriever for relevant document retrieval. 
- Amazon Kendra sends the relevant paragraph and document references to the RAG solution. 
- The RAG solution uses Anthropic’s Claude in Amazon Bedrock along with the prompt template and relevant paragraph as context. 
- The LLM response is sent back to the Streamlit UI. 
- The response is shown to the user along with the feedback feature and session history. 
- The user feedback on responses is stored separately in Amazon Simple Storage Service (Amazon S3) 
- Amazon Kendra indexes relevant documents stored in S3 buckets for document search and retrieval. 
- 
-Frontend architecture 
-We designed the following frontend architecture to allow for rapid modifications and deployment, keeping in mind the scalability and security of the solution. 
- 
-This workflow consists of the following steps: 
- 
- The user navigates to the application URL in their browser. 
- Amazon Route 53 resolves their request to the Amazon CloudFront distribution, which then selects the server closest to the user (to minimize latency). 
- CloudFront runs an AWS Lambda function that makes sure the user has been authenticated. If not, the user is redirected to sign in. After they successfully sign in, they are redirected back to the application website. The flow repeats, and CloudFront triggers the Lambda function again. This time, the user is now able to access the website. 
- Now authenticated, CloudFront returns the assets of the web application. 
- AWS Fargate makes it possible to run containers without having to manage the underlying Amazon Elastic Compute Cloud (Amazon EC2) instances. This allows running containers as a true serverless service. Amazon Elastic Container Service (Amazon ECS) is configured with automatic scaling (target tracking automatic scaling, which scales based on the Application Load Balancer (ALB) requests per target). 
- 
-Evaluation of the solution’s performance 
-We implemented a comprehensive evaluation framework to rigorously assess the AI assistant’s performance and make sure it meets the high standards required for financial applications. Our framework was designed to capture both quantitative metrics for measurable performance and qualitative indicators for user experience and response quality. During our benchmarking tests with analysts, we found that this solution dramatically reduced search time by 30% because analysts can now perform natural language search, and it improved the accuracy of search results by 80%. 
-Quantitative assessment 
-We focused primarily on precision and recall testing, creating a diverse test set of over 50 business queries that represented typical use cases our analysts encounter. Using human-labeled answers as our ground truth, we evaluated the system’s performance across two main categories: data discovery and knowledge search. In data discovery scenarios, where the system helps analysts locate specific data sources and metrics, we achieved an initial precision rate of 65% and a recall rate of 60% without performing metadata enrichment on the data sources. Although these rates might appear moderate, they represent a significant improvement over the previous manual search process, which had an estimated success rate of only 35% and often required multiple iterations across different systems. The primary reasons for the current rates of the new system were attributed to the lack of rich metadata about data sources and was a good indicator for teams to facilitate better metadata collection of data assets, which is currently underway. 
-The knowledge search capability demonstrated initial rates of 83% precision and 74% recall without performing metadata enrichment on data sources. This marked a substantial improvement over traditional keyword-based search methods, which typically achieved only 45–50% precision in our internal testing. This improvement is particularly meaningful because it translates to analysts finding the right information in their first search attempt roughly 8 out of 10 times, compared to the previous average of 3–4 attempts needed to locate the same information. 
-Qualitative metrics 
-The qualitative evaluation centered around the concept of faithfulness—a critical metric for financial applications where accuracy and reliability are paramount. We employed an innovative LLM-as-a-judge methodology to evaluate how well the AI assistant’s responses aligned with source documentation and avoided hallucinations or unsupported assertions. The results showed a marked difference between use cases: data discovery achieved a faithfulness score of 70%, and business knowledge search demonstrated an impressive 88% faithfulness. These scores significantly outperform our previous documentation search system, which had no built-in verification mechanism and often led to analysts working with outdated or incorrect information. 
-Most importantly, the new system reduced the average time to find relevant information from 45–60 minutes to just 5–10 minutes—an 85% improvement in efficiency. User satisfaction surveys indicate that 92% of analysts prefer the new system over traditional search methods, citing improved accuracy and time savings as key benefits. 
-These evaluation results have not only validated our approach but also highlighted specific areas for future enhancement. We continue to refine our evaluation framework as the system evolves, making sure it maintains high standards of accuracy and reliability while meeting the dynamic needs of our financial analysts. The evaluation framework was instrumental in building confidence within our business user community, providing transparent metrics that demonstrate the system’s capability to handle complex financial queries while maintaining the accuracy standards essential for financial operations. 
-Use cases 
-Our solution transforms how finance users interact with complex financial and operational data through natural language queries. In this section, we discuss some key examples demonstrating how the system simplifies data discovery. 
-Seamless data discovery 
-The solution enables users to find data sources through natural language queries rather than requiring technical knowledge of database structures. It uses a sophisticated combination of vector stores and enterprise search capabilities to match user questions with relevant data sources, though careful attention must be paid to context management and preventing over-reliance on previous interactions. Prior to the AI assistant solution, finance analysts needed deep technical knowledge to navigate complex database structures, often spending hours searching through multiple documentation sources just to locate specific data tables. Understanding system workflows required extensive review of technical documentation or reaching out to subject matter experts, creating bottlenecks and reducing productivity. Even experienced users struggled to piece together complete information about business processes from fragmented sources across different systems. Now, analysts can simply ask questions in natural language, such as “Where can I find productivity metrics?”, “How do I access facility information?”, or “Which dashboard shows operational data?” and receive precise, contextual answers. The solution combines enterprise search capabilities with LLMs to understand user intent and deliver relevant information from both structured and unstructured data sources. Analysts now receive accurate directions to specific consolidated reporting tables, clear explanations of business processes, and relevant technical details when needed. In our benchmark tests, for data discovery tasks alone, the system achieved 70% faithfulness and 65% precision, and document search demonstrated even stronger results with 83% precision and 88% faithfulness, without metadata enrichments. 
-Assisting understanding of internal business processes from knowledge documentation 
-Financial analysts previously faced a steep learning curve when working with enterprise planning tools. The complexity of these systems meant that even basic tasks required extensive documentation review or waiting for support from overwhelmed subject matter experts. New team members could take weeks or months to become proficient, while even experienced users struggled to keep up with system updates and changes. This created a persistent bottleneck in financial operations and planning processes. The introduction of the AI-powered assistant has fundamentally changed how analysts learn and interact with these planning tools. Rather than searching through hundreds of pages of technical documentation, analysts can now ask straightforward questions like “How do I forecast depreciation for new assets?”, “How does the quarterly planning process work?” or “What inputs are needed for the quarterly planning cycle?” The system provides clear, contextualized explanations drawn from verified documentation and system specifications. Our benchmark tests revealed that it achieved 83% precision and 88% faithfulness in retrieving and explaining technical and business information. New analysts can become productive in a matter of weeks, experienced users can quickly verify procedures, and subject matter experts can focus on more complex challenges rather than routine questions. This represents a significant advancement in making enterprise systems more accessible and efficient, while maintaining the accuracy and reliability required for financial operations.While the technology continues to evolve, particularly in handling nuanced queries and maintaining comprehensive coverage of system updates, it has already transformed the way teams interact with planning tools independently. 
-Conclusion 
-The AI-powered assistant solution discussed in this post has demonstrated significant improvements in data discovery and business insights generation, delivering multiple key benefits across Amazon Finance. Analysts can now quickly find relevant information through natural language queries, dramatically reducing search time. The system’s ability to synthesize insights from disparate data sources has notably enhanced data-driven decision-making, and its conversational interface and contextual responses promote self-service data exploration, effectively reducing the burden on centralized data teams. 
-This innovative AI assistant solution showcases the practical power of AWS generative AI in transforming enterprise data discovery and document search. By combining Amazon Kendra Enterprise Edition Index, Amazon Bedrock, and advanced LLMs, the implementation achieves impressive precision rates, proving that sophisticated AI-powered search is both achievable and effective. This success demonstrates how AWS generative AI services can meet current business needs while promoting future innovations in enterprise search. These services provide a strong foundation for organizations looking to enhance data discovery processes using natural language to support intelligent enterprise applications. To learn more about implementing AI-powered search solutions, see Build and scale the next wave of AI innovation on AWS and explore AWS AI use cases. 
- 
-About the authors 
-Saikat Gomes&nbsp;is part of the Customer Solutions team in Amazon Web Services. He is passionate about helping enterprises succeed and realize benefits from cloud adoption. He is a strategic advisor to his customers for large-scale cloud transformations involving people, process, and technology. Prior to joining AWS, he held multiple consulting leadership positions and led large- scale transformation programs in the retail industry for over 20 years. He is based out of Los Angeles, California. 
-Amit Dhanda serves as a Senior Scientist at Amazon’s Worldwide Operations Finance team, where he uses AI/ML technologies to solve complex ecommerce challenges. Prior to Amazon, he was Director of Data Science at Adore Me (now part of Victoria’s Secret), where he enhanced digital retail experiences through recommender systems. He held science leadership roles at EXL and Thomson Reuters, where he developed ML models for customer engagement/growth and text classification.
-• Mercury foundation models from Inception Labs are now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart
-  Today, we are excited to announce that Mercury and Mercury Coder foundation models (FMs) from Inception Labs are available through Amazon Bedrock Marketplace and Amazon SageMaker JumpStart. With this launch, you can deploy the Mercury FMs to build, experiment, and responsibly scale your generative AI applications on AWS. 
-In this post, we demonstrate how to get started with Mercury models on Amazon Bedrock Marketplace and SageMaker JumpStart. 
-About Mercury foundation models 
-Mercury is the first family of commercial-scale diffusion-based language models, offering groundbreaking advancements in generation speed while maintaining high-quality outputs. Unlike traditional autoregressive models that generate text one token at a time, Mercury models use diffusion to generate multiple tokens in parallel through a coarse-to-fine approach, resulting in dramatically faster inference speeds. Mercury Coder models deliver the following key features: 
- 
- Ultra-fast generation speeds of up to 1,100 tokens per second on NVIDIA H100 GPUs, up to 10 times faster than comparable models 
- High-quality code generation across multiple programming languages, including Python, Java, JavaScript, C++, PHP, Bash, and TypeScript 
- Strong performance on fill-in-the-middle tasks, making them ideal for code completion and editing workflows 
- Transformer-based architecture, providing compatibility with existing optimization techniques and infrastructure 
- Context length support of up to 32,768 tokens out of the box and up to 128,000 tokens with context extension approaches 
- 
-About Amazon Bedrock Marketplace 
-Amazon Bedrock Marketplace plays a pivotal role in democratizing access to advanced AI capabilities through several key advantages: 
- 
- Comprehensive model selection – Amazon Bedrock Marketplace offers an exceptional range of models, from proprietary to publicly available options, so organizations can find the perfect fit for their specific use cases. 
- Unified and secure experience – By providing a single access point for models through the Amazon Bedrock APIs, Amazon Bedrock Marketplace significantly simplifies the integration process. Organizations can use these models securely, and for models that are compatible with the Amazon Bedrock Converse API, you can use the robust toolkit of Amazon Bedrock, including Amazon Bedrock Agents, Amazon Bedrock Knowledge Bases, Amazon Bedrock Guardrails, and Amazon Bedrock Flows. 
- Scalable infrastructure – Amazon Bedrock Marketplace offers configurable scalability through managed endpoints, so organizations can select their desired number of instances, choose appropriate instance types, define custom automatic scaling policies that dynamically adjust to workload demands, and optimize costs while maintaining performance. 
- 
-Deploy Mercury and Mercury Coder models in Amazon Bedrock Marketplace 
-Amazon Bedrock Marketplace gives you access to over 100 popular, emerging, and specialized foundation models through Amazon Bedrock. To access the Mercury models in Amazon Bedrock, complete the following steps: 
- 
- On the Amazon Bedrock console, in the navigation pane under Foundation models, choose Model catalog. 
- 
-You can also use the Converse API to invoke the model with Amazon Bedrock tooling. 
- 
- On the Model catalog page, filter for Inception as a provider and choose the Mercury model. 
- 
- 
-The Model detail page provides essential information about the model’s capabilities, pricing structure, and implementation guidelines. You can find detailed usage instructions, including sample API calls and code snippets for integration. 
- 
- To begin using the Mercury model, choose Subscribe. 
- 
- 
- 
- On the model detail page, choose Deploy. 
- 
- 
-You will be prompted to configure the deployment details for the model. The model ID will be prepopulated. 
- 
- For Endpoint name, enter an endpoint name (between 1–50 alphanumeric characters). 
- For Number of instances, enter a number of instances (between 1–100). 
- For Instance type, choose your instance type. For optimal performance with Nemotron Super, a GPU-based instance type like ml.p5.48xlarge is recommended. 
- Optionally, you can configure advanced security and infrastructure settings, including virtual private cloud (VPC) networking, service role permissions, and encryption settings. For most use cases, the default settings will work well. However, for production deployments, you might want to review these settings to align with your organization’s security and compliance requirements. 
- Choose Deploy to begin using the model. 
- 
- 
-When the deployment is complete, you can test its capabilities directly in the Amazon Bedrock playground.This is an excellent way to explore the model’s reasoning and text generation abilities before integrating it into your applications. The playground provides immediate feedback, helping you understand how the model responds to various inputs and letting you fine-tune your prompts for optimal results. You can use these models with the Amazon Bedrock Converse API. 
-SageMaker JumpStart overview 
-SageMaker JumpStart is a fully managed service that offers state-of-the-art FMs for various use cases such as content writing, code generation, question answering, copywriting, summarization, classification, and information retrieval. It provides a collection of pre-trained models that you can deploy quickly, accelerating the development and deployment of ML applications. One of the key components of SageMaker JumpStart is model hubs, which offer a vast catalog of pre-trained models, such as Mistral, for a variety of tasks. 
-You can now discover and deploy Mercury and Mercury Coder in Amazon SageMaker Studio or programmatically through the SageMaker Python SDK, and derive model performance and MLOps controls with Amazon SageMaker AI features such as Amazon SageMaker Pipelines, Amazon SageMaker Debugger, or container logs. The model is deployed in a secure AWS environment and in your VPC, helping support data security for enterprise security needs. 
-Prerequisites 
-To deploy the Mercury models, make sure you have access to the recommended instance types based on the model size. To verify you have the necessary resources, complete the following steps: 
- 
- On the Service Quotas console, under AWS Services, choose Amazon SageMaker. 
- Check that you have sufficient quota for the required instance type for endpoint deployment. 
- Make sure at least one of these instance types is available in your target AWS Region. 
- If needed, request a quota increase and contact your AWS account team for support. 
- 
-Make sure your SageMaker AWS Identity and Access Management (IAM) service role has the necessary permissions to deploy the model, including the following permissions to make AWS Marketplace subscriptions in the AWS account used: 
- 
- aws-marketplace:ViewSubscriptions 
- aws-marketplace:Unsubscribe 
- aws-marketplace:Subscribe 
- 
-Alternatively, confirm your AWS account has a subscription to the model. If so, you can skip the following deployment instructions and start with subscribing to the model package. 
-Subscribe to the model package 
-To subscribe to the model package, complete the following steps: 
- 
- Open the model package listing page and choose Mercury or Mercury Coder. 
- On the AWS Marketplace listing, choose Continue to subscribe. 
- On the Subscribe to this software page, review and choose Accept Offer if you and your organization agree with the EULA, pricing, and support terms. 
- Choose Continue to proceed with the configuration and then choose a Region where you have the service quota for the desired instance type. 
- 
-A product Amazon Resource Name (ARN) will be displayed. This is the model package ARN that you need to specify while creating a deployable model using Boto3. 
-Deploy Mercury and Mercury Coder models on SageMaker JumpStart 
-For those new to SageMaker JumpStart, you can use SageMaker Studio to access the Mercury and Mercury Coder models on SageMaker JumpStart. 
- 
-Deployment starts when you choose the Deploy option. You might be prompted to subscribe to this model through Amazon Bedrock Marketplace. If you are already subscribed, choose Deploy. After deployment is complete, you will see that an endpoint is created. You can test the endpoint by passing a sample inference request payload or by selecting the testing option using the SDK. 
- 
-Deploy Mercury using the SageMaker SDK 
-In this section, we walk through deploying the Mercury model through the SageMaker SDK. You can follow a similar process for deploying the Mercury Coder model as well. 
-To deploy the model using the SDK, copy the product ARN from the previous step and specify it in the model_package_arn in the following code: 
- 
- #Create the model package
-
-endpoint_name = name_from_base("mercury-endpoint") &nbsp;# set this to your liking
-model = ModelPackage(role=role_arn, model_package_arn=package_arn, sagemaker_session=sagemaker_session) 
- 
-Deploy the model: 
- 
- # Deploy the Model. This may take 5-10 minutes to run
-
-instance_type = "ml.p5.48xlarge" # We only support ml.p5.48xlarge instances at the moment
-start = perf_counter()
-deployed_model = model.deploy(initial_instance_count=1, instance_type=instance_type, endpoint_name=endpoint_name)
-print(f"\nDeployment took {perf_counter() - start:.2f} seconds") 
- 
-Use Mercury for code generation 
-Let’s try asking the model to generate a simple tic-tac-toe game: 
- 
- payload = {
-&nbsp;&nbsp; &nbsp;"messages": [
-&nbsp;&nbsp; &nbsp;   {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"role": "user",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"content": """
-Build a simple tic-tac-toe game.
-
-REQUIREMENTS:
-1. **Game**: 3x3 grid, human vs AI, click to play
-2. **AI**: Uses minimax to never lose (only win or draw)
-3. **Visualization**: Show AI's move scores in a simple list
-4. **Interface**: Grid + "New Game" button + move explanation
-
-IMPLEMENTATION:
-- Single HTML file with embedded CSS/JS
-- Basic minimax algorithm (no pruning needed)
-- Display: "AI chose position 5 (score: +10)" 
-- Clean, functional design
-
-DELIVERABLE:
-Working game that demonstrates perfect AI play with basic score visibility.
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"""
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp;],
-&nbsp;&nbsp; &nbsp;"max_tokens": 2500,
-}
-start = perf_counter()
-outputs = predictor.predict(payload)
-eta = perf_counter() - start
-print(f"Speed: {outputs['usage']['completion_tokens'] / eta:.2f} tokens / second\n")
-print(outputs["choices"][0]["message"]["content"]) 
- 
-We get the following response: 
- 
- Speed: 528.15 tokens / second
-
-```html
-&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;title&gt;Tic-Tac-Toe with Unbeatable AI&lt;/title&gt;
-&lt;style&gt;
-&nbsp;&nbsp;body {
-&nbsp;&nbsp; &nbsp;font-family: sans-serif;
-&nbsp;&nbsp; &nbsp;display: flex;
-&nbsp;&nbsp; &nbsp;flex-direction: column;
-&nbsp;&nbsp; &nbsp;align-items: center;
-&nbsp;&nbsp; &nbsp;justify-content: center;
-&nbsp;&nbsp; &nbsp;height: 100vh;
-&nbsp;&nbsp; &nbsp;margin: 0;
-&nbsp;&nbsp; &nbsp;background-color: #f0f0f0;
-&nbsp;&nbsp;}
-
-&nbsp;&nbsp;.grid {
-&nbsp;&nbsp; &nbsp;display: grid;
-&nbsp;&nbsp; &nbsp;grid-template-columns: repeat(3, 100px);
-&nbsp;&nbsp; &nbsp;gap: 10px;
-&nbsp;&nbsp; &nbsp;margin-bottom: 20px;
-&nbsp;&nbsp;}
-
-&nbsp;&nbsp;.cell {
-&nbsp;&nbsp; &nbsp;width: 100px;
-&nbsp;&nbsp; &nbsp;height: 100px;
-&nbsp;&nbsp; &nbsp;border: 1px solid #ccc;
-&nbsp;&nbsp; &nbsp;display: flex;
-&nbsp;&nbsp; &nbsp;align-items: center;
-&nbsp;&nbsp; &nbsp;justify-content: center;
-&nbsp;&nbsp; &nbsp;font-size: 2em;
-&nbsp;&nbsp; &nbsp;cursor: pointer;
-&nbsp;&nbsp; &nbsp;background-color: #fff;
-&nbsp;&nbsp;}
-
-&nbsp;&nbsp;.cell:hover {
-&nbsp;&nbsp; &nbsp;background-color: #e0e0e0;
-&nbsp;&nbsp;}
-
-&nbsp;&nbsp;.cell.x {
-&nbsp;&nbsp; &nbsp;color: red;
-&nbsp;&nbsp;}
-
-&nbsp;&nbsp;.cell.o {
-&nbsp;&nbsp; &nbsp;color: blue;
-&nbsp;&nbsp;}
-
-&nbsp;&nbsp;#aiMoves {
-&nbsp;&nbsp; &nbsp;margin-top: 20px;
-&nbsp;&nbsp; &nbsp;font-size: 1.2em;
-&nbsp;&nbsp;}
-
-&nbsp;&nbsp;#newGame {
-&nbsp;&nbsp; &nbsp;padding: 10px 20px;
-&nbsp;&nbsp; &nbsp;font-size: 1.2em;
-&nbsp;&nbsp; &nbsp;cursor: pointer;
-&nbsp;&nbsp; &nbsp;background-color: #4CAF50;
-&nbsp;&nbsp; &nbsp;color: white;
-&nbsp;&nbsp; &nbsp;border: none;
-&nbsp;&nbsp; &nbsp;border-radius: 5px;
-&nbsp;&nbsp;}
-
-&nbsp;&nbsp;#newGame:hover {
-&nbsp;&nbsp; &nbsp;background-color: #3e8e41;
-&nbsp;&nbsp;}
-&lt;/style&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
-&lt;h1&gt;Tic-Tac-Toe&lt;/h1&gt;
-
-&lt;div class="grid" id="gameGrid"&gt;
-&nbsp;&nbsp;&lt;div class="cell" data-index="0"&gt;&lt;/div&gt;
-&nbsp;&nbsp;&lt;div class="cell" data-index="1"&gt;&lt;/div&gt;
-&nbsp;&nbsp;&lt;div class="cell" data-index="2"&gt;&lt;/div&gt;
-&nbsp;&nbsp;&lt;div class="cell" data-index="3"&gt;&lt;/div&gt;
-&nbsp;&nbsp;&lt;div class="cell" data-index="4"&gt;&lt;/div&gt;
-&nbsp;&nbsp;&lt;div class="cell" data-index="5"&gt;&lt;/div&gt;
-&nbsp;&nbsp;&lt;div class="cell" data-index="6"&gt;&lt;/div&gt;
-&nbsp;&nbsp;&lt;div class="cell" data-index="7"&gt;&lt;/div&gt;
-&nbsp;&nbsp;&lt;div class="cell" data-index="8"&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;button id="newGame"&gt;New Game&lt;/button&gt;
-
-&lt;div id="aiMoves"&gt;&lt;/div&gt;
-
-&lt;script&gt;
-&nbsp;&nbsp;const grid = document.getElementById('gameGrid');
-&nbsp;&nbsp;const cells = document.querySelectorAll('.cell');
-&nbsp;&nbsp;const aiMovesDiv = document.getElementById('aiMoves');
-&nbsp;&nbsp;const newGameButton = document.getElementById('newGame');
-
-&nbsp;&nbsp;let board = Array(9).fill(null);
-&nbsp;&nbsp;let currentPlayer = 'x';
-&nbsp;&nbsp;let gameActive = true;
-&nbsp;&nbsp;let aiMoveScores = [];
-
-&nbsp;&nbsp;function checkWin(player) {
-&nbsp;&nbsp; &nbsp;const winConditions = [
-&nbsp;&nbsp; &nbsp; &nbsp;[0, 1, 2], [3, 4, 5], [6, 7, 8], // Rows
-&nbsp;&nbsp; &nbsp; &nbsp;[0, 3, 6], [1, 4, 7], [2, 5, 8], // Columns
-&nbsp;&nbsp; &nbsp; &nbsp;[0, 4, 8], [2, 4, 6] // Diagonals
-&nbsp;&nbsp; &nbsp;];
-
-&nbsp;&nbsp; &nbsp;return winConditions.some(condition =&gt; {
-&nbsp;&nbsp; &nbsp; &nbsp;return condition.every(index =&gt; board[index] === player);
-&nbsp;&nbsp; &nbsp;});
-&nbsp;&nbsp;}
-
-&nbsp;&nbsp;function checkDraw() {
-&nbsp;&nbsp; &nbsp;return board.every(cell =&gt; cell !== null);
-&nbsp;&nbsp;}
-
-&nbsp;&nbsp;function switchPlayer() {
-&nbsp;&nbsp; &nbsp;currentPlayer = currentPlayer === 'x' ? 'o' : 'x';
-&nbsp;&nbsp;}
-
-&nbsp;&nbsp;function updateBoard() {
-&nbsp;&nbsp; &nbsp;cells.forEach((cell, index) =&gt; {
-&nbsp;&nbsp; &nbsp; &nbsp;cell.textContent = board[index];
-&nbsp;&nbsp; &nbsp; &nbsp;cell.classList.remove('x', 'o');
-&nbsp;&nbsp; &nbsp; &nbsp;if (board[index] === 'x') {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;cell.classList.add('x');
-&nbsp;&nbsp; &nbsp; &nbsp;} else if (board[index] === 'o') {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;cell.classList.add('o');
-&nbsp;&nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp;});
-&nbsp;&nbsp;}
-
-&nbsp;&nbsp;function minimax(board, player) {
-&nbsp;&nbsp; &nbsp;let opponent = player === 'x' ? 'o' : 'x';
-
-&nbsp;&nbsp; &nbsp;if (checkWin(player)) {
-&nbsp;&nbsp; &nbsp; &nbsp;return { score: 10 };
-&nbsp;&nbsp; &nbsp;} else if (checkWin(opponent)) {
-&nbsp;&nbsp; &nbsp; &nbsp;return { score: -10 };
-&nbsp;&nbsp; &nbsp;} else if (checkDraw()) {
-&nbsp;&nbsp; &nbsp; &nbsp;return { score: 0 };
-&nbsp;&nbsp; &nbsp;}
-
-&nbsp;&nbsp; &nbsp;let moves = [];
-&nbsp;&nbsp; &nbsp;for (let i = 0; i &lt; board.length; i++) {
-&nbsp;&nbsp; &nbsp; &nbsp;if (board[i] === null) {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;board[i] = player;
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;let result = minimax(board, opponent);
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;moves.push({ index: i, score: result.score });
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;board[i] = null; // Undo move
-&nbsp;&nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp;}
-
-&nbsp;&nbsp; &nbsp;if (player === 'x') {
-&nbsp;&nbsp; &nbsp; &nbsp;let bestScore = -Infinity;
-&nbsp;&nbsp; &nbsp; &nbsp;let bestMove = null;
-&nbsp;&nbsp; &nbsp; &nbsp;for (let i = 0; i &lt; moves.length; i++) {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;if (moves[i].score &gt; bestScore) {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;bestScore = moves[i].score;
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;bestMove = moves[i];
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp; &nbsp;return bestMove;
-&nbsp;&nbsp; &nbsp;} else {
-&nbsp;&nbsp; &nbsp; &nbsp;let bestScore = Infinity;
-&nbsp;&nbsp; &nbsp; &nbsp;let bestMove = null;
-&nbsp;&nbsp; &nbsp; &nbsp;for (let i = 0; i &lt; moves.length; i++) {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;if (moves[i].score &lt; bestScore) {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;bestScore = moves[i].score;
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;bestMove = moves[i];
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp; &nbsp;return bestMove;
-&nbsp;&nbsp; &nbsp;}
-&nbsp;&nbsp;}
-
-&nbsp;&nbsp;function aiMove() {
-&nbsp;&nbsp; &nbsp;if (!gameActive) return;
-
-&nbsp;&nbsp; &nbsp;let bestMove = minimax(board, 'o');
-&nbsp;&nbsp; &nbsp;board[bestMove.index] = 'o';
-&nbsp;&nbsp; &nbsp;updateBoard();
-&nbsp;&nbsp; &nbsp;aiMoveScores.push(`AI chose position ${bestMove.index} (score: ${bestMove.score})`);
-&nbsp;&nbsp; &nbsp;aiMovesDiv.textContent = aiMoveScores.join('\n');
-
-&nbsp;&nbsp; &nbsp;if (checkWin('o')) {
-&nbsp;&nbsp; &nbsp; &nbsp;alert('AI wins!');
-&nbsp;&nbsp; &nbsp; &nbsp;gameActive = false;
-&nbsp;&nbsp; &nbsp;} else if (checkDraw()) {
-&nbsp;&nbsp; &nbsp; &nbsp;alert('It\'s a draw!');
-&nbsp;&nbsp; &nbsp; &nbsp;gameActive = false;
-&nbsp;&nbsp; &nbsp;} else {
-&nbsp;&nbsp; &nbsp; &nbsp;currentPlayer = 'x';
-&nbsp;&nbsp; &nbsp;}
-&nbsp;&nbsp;}
-
-&nbsp;&nbsp;function handleCellClick(event) {
-&nbsp;&nbsp; &nbsp;const cellIndex = parseInt(event.target.dataset.index);
-
-&nbsp;&nbsp; &nbsp;if (gameActive &amp;&amp; board[cellIndex] === null &amp;&amp; currentPlayer === 'x') {
-&nbsp;&nbsp; &nbsp; &nbsp;board[cellIndex] = 'x';
-&nbsp;&nbsp; &nbsp; &nbsp;updateBoard();
-
-&nbsp;&nbsp; &nbsp; &nbsp;if (checkWin('x')) {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;alert('You win!');
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;gameActive = false;
-&nbsp;&nbsp; &nbsp; &nbsp;} else if (checkDraw()) {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;alert('It\'s a draw!');
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;gameActive = false;
-&nbsp;&nbsp; &nbsp; &nbsp;} else {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;aiMove();
-&nbsp;&nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp;}
-&nbsp;&nbsp;}
-
-&nbsp;&nbsp;function newGame() {
-&nbsp;&nbsp; &nbsp;board = Array(9).fill(null);
-&nbsp;&nbsp; &nbsp;currentPlayer = 'x';
-&nbsp;&nbsp; &nbsp;gameActive = true;
-&nbsp;&nbsp; &nbsp;aiMoveScores = [];
-&nbsp;&nbsp; &nbsp;aiMovesDiv.textContent = '';
-&nbsp;&nbsp; &nbsp;updateBoard();
-&nbsp;&nbsp;}
-
-&nbsp;&nbsp;cells.forEach(cell =&gt; cell.addEventListener('click', handleCellClick));
-&nbsp;&nbsp;newGameButton.addEventListener('click', newGame);
-&lt;/script&gt;
-
-&lt;/body&gt;
-&lt;/html&gt;
-``` 
- 
-From the preceding response, we can see that the Mercury model generated a complete, functional tic-tac-toe game with minimax AI implementation at 528 tokens per second, delivering working HTML, CSS, and JavaScript in a single response. The code includes proper game logic, an unbeatable AI algorithm, and a clean UI with the specified requirements correctly implemented. This demonstrates strong code generation capabilities with exceptional speed for a diffusion-based model. 
- 
-Use Mercury for tool use and function calling 
-Mercury models support advanced tool use capabilities, enabling them to intelligently determine when and how to call external functions based on user queries. This makes them ideal for building AI agents and assistants that can interact with external systems, APIs, and databases. 
-Let’s demonstrate Mercury’s tool use capabilities by creating a travel planning assistant that can check weather and perform calculations: 
- 
- # Define available tools for the assistant
-tools = [
-    {
-        "type": "function",
-        "function": {
-            "name": "get_weather",
-            "description": "Get the current weather in a given location",
-            "parameters": {
-                "type": "object",
-                "properties": {
-                    "location": {
-                        "type": "string",
-                        "description": "The city and state, e.g. San Francisco, CA"
-                    },
-                    "unit": {
-                        "type": "string",
-                        "enum": ["celsius", "fahrenheit"],
-                        "description": "The unit of temperature"
-                    }
-                },
-                "required": ["location"]
-            }
-        }
-    },
-    {
-        "type": "function",
-        "function": {
-            "name": "calculate",
-            "description": "Perform mathematical calculations",
-            "parameters": {
-                "type": "object",
-                "properties": {
-                    "expression": {
-                        "type": "string",
-                        "description": "The mathematical expression to evaluate"
-                    }
-                },
-                "required": ["expression"]
-            }
-        }
-    }
-]
-#Create a travel planning query that requires multiple tools
-payload = {
-    "messages": [
-        {
-            "role": "user",
-            "content": "I'm planning a trip to Tokyo. Can you check the weather there and also tell me what 1000 USD is in Japanese Yen (use 1 USD = 150 JPY for calculation)?"
-        }
-    ],
-    "tools": tools,
-    "tool_choice": "auto",  # Let the model decide which tools to use
-    "max_tokens": 2000,
-    "temperature": 0.15
-}
-# Invoke the endpoint
-start = perf_counter()
-response = predictor.predict(payload)
-eta = perf_counter() - start
-# Display the tool calls requested by the model
-if 'choices' in response:
-    message = response['choices'][0].get('message', {})
-    if 'tool_calls' in message:
-        print(f"Speed: {response['usage']['completion_tokens'] / eta:.2f} tokens/second\n")
-        print(f"Mercury requested {len(message['tool_calls'])} tool calls:\n")
-    
-        for i, tool_call in enumerate(message['tool_calls'], 1):
-            func = tool_call.get('function', {})
-            tool_name = func.get('name')
-            args = json.loads(func.get('arguments', '{}'))
-            
-            print(f"Tool Call {i}:")
-            print(f"  Function: {tool_name}")
-            print(f"  Arguments: {json.dumps(args, indent=4)}")
-            print() 
- 
-Expected response: 
- 
- Speed: 892.34 tokens/second
-Mercury requested 2 tool calls:
-Tool Call 1:
-  Function: get_weather
-  Arguments: {
-    "location": "Tokyo, Japan",
-    "unit": "celsius"
-  }
-Tool Call 2:
-  Function: calculate
-  Arguments: {
-    "expression": "1000 * 150"
-  } 
- 
-After receiving the tool results, you can continue the conversation to get a natural language response: 
- 
- # Simulate tool execution results
-tool_results = [
-    {
-        "role": "tool",
-        "tool_call_id": message['tool_calls'][0]['id'],
-        "content": "The weather in Tokyo, Japan is 18°C and partly cloudy with a chance of rain."
-    },
-    {
-        "role": "tool", 
-        "tool_call_id": message['tool_calls'][1]['id'],
-        "content": "The result is: 150000"
-    }
-]
-# Continue the conversation with tool results
-messages_with_results = [
-    {"role": "user", "content": "I'm planning a trip to Tokyo. Can you check the weather there and also tell me what 1000 USD is in Japanese Yen (use 1 USD = 150 JPY for calculation)?"},
-    message,  # Assistant's message with tool calls
-    *tool_results  # Tool execution results
-]
-final_payload = {
-    "messages": messages_with_results,
-    "max_tokens": 500
-}
-final_response = predictor.predict(final_payload)
-print(final_response['choices'][0]['message']['content']) 
- 
-Expected response: 
- 
- Based on the information I've gathered for your Tokyo trip:
-**Weather in Tokyo:**
-Currently, Tokyo is experiencing mild weather at 18°C (64°F) with partly cloudy skies and a chance of rain. I'd recommend bringing a light jacket and an umbrella just in case.
-**Currency Conversion:**
-1,000 USD converts to 150,000 Japanese Yen at the rate you specified (1 USD = 150 JPY). This should give you a good amount for expenses like meals, transportation, and shopping in Tokyo.
-For your trip planning, the mild temperature is perfect for sightseeing, though you'll want to have rain gear handy. The weather is comfortable for walking around popular areas like Shibuya, Shinjuku, or exploring temples and gardens. 
- 
-Clean up 
-To avoid unwanted charges, complete the steps in this section to clean up your resources. 
-Delete the Amazon Bedrock Marketplace deployment 
-If you deployed the model using Amazon Bedrock Marketplace, complete the following steps: 
- 
- On the Amazon Bedrock console, in the navigation pane, under Foundation models, choose Marketplace deployments. 
- Select the endpoint you want to delete, and on the Actions menu, choose Delete. 
- Verify the endpoint details to make sure you’re deleting the correct deployment: 
-   
-   Endpoint name 
-   Model name 
-   Endpoint status 
-    
- Choose Delete to delete the endpoint. 
- In the Delete endpoint confirmation dialog, review the warning message, enter confirm, and choose Delete to permanently remove the endpoint. 
- 
- 
-Delete the SageMaker JumpStart endpoint 
-The SageMaker JumpStart model you deployed will incur costs if you leave it running. Use the following code to delete the endpoint if you want to stop incurring charges. For more details, see Delete Endpoints and Resources. 
- 
- sm.delete_model(ModelName=sm_model_name)
-sm.delete_endpoint_config(EndpointConfigName=endpoint_config_name)
-sm.delete_endpoint(EndpointName=endpoint_name) 
- 
-Conclusion 
-In this post, we explored how you can access and deploy Mercury models using Amazon Bedrock Marketplace and SageMaker JumpStart. With support for both Mini and Small parameter sizes, you can choose the optimal model size for your specific use case. Visit SageMaker JumpStart in SageMaker Studio or Amazon Bedrock Marketplace to get started. For more information, refer to Use Amazon Bedrock tooling with Amazon SageMaker JumpStart models, Amazon SageMaker JumpStart Foundation Models, Getting started with Amazon SageMaker JumpStart, Amazon Bedrock Marketplace, and SageMaker JumpStart pretrained models. 
-The Mercury family of diffusion-based large language models offers exceptional speed and performance, making it a powerful choice for your generative AI workloads with latency-sensitive requirements. 
- 
-About the authors 
-Niithiyn Vijeaswaran is a Generative AI Specialist Solutions Architect with the Third-Party Model Science team at AWS. His area of focus is AWS AI accelerators (AWS Neuron). He holds a Bachelor’s degree in Computer Science and Bioinformatics. 
-John Liu&nbsp;has 15 years of experience as a product executive and 9 years of experience as a portfolio manager. At AWS, John is a Principal Product Manager for Amazon Bedrock. Previously, he was the Head of Product for AWS Web3 / Blockchain. Prior to AWS, John held various product leadership roles at public blockchain protocols, fintech companies and also spent 9 years as a portfolio manager at various hedge funds. 
-Jonathan Evans is a Worldwide Solutions Architect for Generative AI at AWS, where he helps customers leverage cutting-edge AI technologies with Anthropic’s Claude models on Amazon Bedrock, to solve complex business challenges. With a background in AI/ML engineering and hands-on experience supporting machine learning workflows in the cloud, Jonathan is passionate about making advanced AI accessible and impactful for organizations of all sizes. 
-Rohit Talluri is a Generative AI GTM Specialist at Amazon Web Services (AWS). He is partnering with top generative AI model builders, strategic customers, key AI/ML partners, and AWS Service Teams to enable the next generation of artificial intelligence, machine learning, and accelerated computing on AWS. He was previously an Enterprise Solutions Architect and the Global Solutions Lead for AWS Mergers &amp; Acquisitions Advisory. 
-Breanne Warner is an Enterprise Solutions Architect at Amazon Web Services supporting healthcare and life science (HCLS) customers. She is passionate about supporting customers to use generative AI on AWS and evangelizing model adoption for first- and third-party models. Breanne is also Vice President of the Women at Amazon board with the goal of fostering inclusive and diverse culture at Amazon. Breanne holds a Bachelor’s of Science in Computer Engineering from the University of Illinois Urbana-Champaign.
 
 ⸻
