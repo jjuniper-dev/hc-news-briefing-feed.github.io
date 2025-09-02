@@ -1,17 +1,17 @@
-✅ Morning News Briefing – September 01, 2025 10:46
+✅ Morning News Briefing – September 02, 2025 10:48
 
-📅 Date: 2025-09-01 10:46
+📅 Date: 2025-09-02 10:48
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  9.1°C
-  Temperature: 9.1&deg;C Pressure / Tendency: 102.6 kPa rising Humidity: 98 % Dewpoint: 8.8&deg:C Wind:  calm km/h Air Quality Health Index: n/a Observed at: Pembroke 6:00 AM EDT Monday 1 September 2025 . Weather:    Wind: calm km
-• Monday: A mix of sun and cloud. High 25.
-  Fog patches dissipating this morning . High 25. Humidex 27. UV index 6 or high . A mix of sun and cloud expected to be a high of 25 degrees in the early hours of Monday morning . Forecast issued 5:00 AM EDT Monday 1 September 2025. Forecast: "Fog patches dissipated this morning. High 25" Forecast forecast: "A
-• Monday night: Clear. Low 13.
-  Forecast issued 5:00 AM EDT Monday 1 September 2025 . Clear . Clear. Clear. Low 13.70s . Clear skies . Clear seaside weather. Clear skies. Clear seasides. Low seaside seaside forecast . Forecast: Monday 1 Sept. 1 2025. Clear and sunny skies. Forecast for Monday 1 Sep. 1 September 25th, 25th .
+• Current Conditions:  11.8°C
+  Temperature: 11.8&deg;C Pressure / Tendency: 102.2 kPa falling Humidity: 96 % Humidity is 96 % Dewpoint: 11 .2&deg:C Wind: SW 4 km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Tuesday 2 September 2025 . Weather forecast: 10/11
+• Tuesday: Chance of showers. High 25. POP 30%
+  30 percent chance of showers this afternoon with risk of thunderstorm . High 25. UV index 6 or high . 30% chance of rain this afternoon; risk of a thunderstorm is possible . High of 25.UV index 6.5 or high; high of 6.6.5.50% UV index is 6.7.50/10.50° Caterette .
+• Tuesday night: Chance of showers. Low 12. POP 30%
+  30 percent chance of showers early this evening with risk of a thunderstorm . Partly cloudy. Low 12.50% chance of rain this evening . Low 12/10/50/50 . Forecast issued 5:00 AM EDT Tuesday 2 September 2025 . Weather forecast: Showery, thundery, rainy showers, thunderstorms, low humidity, breezes, breezy
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Has Trump kept his campaign promises to American workers? Here's what some say.
-  Seven months into his second term, we take a look at how he is doing . Trump made many promises to American workers during the campaign trail . Trump has been in office seven months since taking over the White House . He has been criticized for his lack of experience in the U.S. in the past seven months of his presidency . Trump is the first president to be in office since
-• More students head back to class without one crucial thing: their phones
-  This back to school season, more districts than ever have cell phone bans in place . Teachers and legislators alike say the restrictions help kids focus in class . Restrictions help kids stay focused in class, lawmakers say . Back to Mail Online home: Share your photos with us at iReport.com/the-Report-of-the-Show . Back To Mail Online: Share a photo
-• How Trump is decimating federal employee unions one step at a time
-  President Trump has ended collective bargaining rights for more than one million federal workers . Unions have sued to block the move, but agencies are terminating contracts as litigation continues . Agency contracts are being terminated while litigation continues to be heard from the White House continues to play a role in the end of collective bargaining in federal workers' contracts . The White House has been criticized by unions for ending collective bargaining
-• Earthquake devastates eastern Afghanistan, killing hundreds and destroying villages
-  The 6.0 magnitude quake late Sunday hit a series of towns in the province of Kunar, near the city of Jalalabad in neighboring Nangahar province, causing extensive damage . The quake caused extensive damage to a number of towns, including several towns in Kunar province . The earthquake was the largest in the country's history, causing damage to the region's infrastructure . The
-• Guatemala says it suggested that U.S. send its unaccompanied migrant children home
-  A U.S. federal judge blocked the deportation of unaccompanied Guatemalan children . Guatemala says in a statement it suggested the government of Guatemala return its children to their home country . Guatemala has suggested that the children be returned to their native country . A judge has blocked the deportations of unaccompanied children from the United States, citing a federal judge's decision to stay in the U.K.
+• As China commemorates 80th anniversary of WWII, battle over legacy of war continues
+  A military parade in Beijing marking the end of World War II will draw leaders from around the world . It's an opportunity for the Communist Party to shape the narrative surrounding the war . The parade will be a chance for China to shape its role in shaping the story of the war's end . The event is expected to attract world leaders from all over the world, including the world's top
+• How one Canadian's misplaced signature caused a diplomatic incident at the end of WWII
+  On Sept. 2, 1945, the Japanese and the Allies gathered to mark the end of WWII . The process went smoothly until Col. Lawrence Cosgrave signed his name on the wrong line . Cosgrave was the only person to sign the wrong name in the wrong way . The Japanese and Allies gathered in Japan for the official end of World War II to celebrate the end in 1945 . Cos
+• After his parents' divorce, a guidance counselor's kindness left a lasting mark
+  Patrick Furlong's parents divorced when he was in 8th grade . His father left, so he needed to navigate daily routines without a paternal influence in his life . Patrick's life was turbulent after his parents left him with no father in the family . Patrick is the author of a new book, "Furlong, The Hunger Games," on PBS.com/Heroes .
+• Brazil's ex-President Bolsonaro faces coup trial — here's what to know
+  Brazil's Supreme Court begins the verdict and sentencing phase of Jair Bolsonaro's coup trial Tuesday . Former president faces a possible 40-year sentence . Bolsonara is accused of leading a coup against Brazil's president in the fall of the country's first term . The former president is facing up to 40 years in prison if found guilty of a coup in Brazil's first coup .
+• Starter homes are scarce, so Utah set a target to build more. Here's how it's going
+  Utah's leaders worry young people are shut out from building wealth . But despite new incentives, few developers are signing on to build smaller homes . Utah's housing market is one of the country's priciest housing markets . Young people are being shut out of building wealth, but Utah leaders worry they are not being able to afford to build small homes . In Utah, developers are offering incentives to
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• LegalPwn: Tricking LLMs by burying badness in lawyerly fine print
-  Researchers at security firm Pangea have discovered yet another way to trivially trick large language models into ignoring their guardrails . Stick your adversarial instructions somewhere in a legal document to give them an air of unearned legitimacy – a trick familiar to lawyers the world over . The trick is similar to the trick used by lawyers to make it appear as though it is a legal statement .
-• ESA's Solar Orbiter will help space boffins predict destructive coronal ejections
-  Superfast electrons traced back to the Sun have been traced to the source of electrons expelled by the Sun . This could have implications for forecasting space weather . The European Space Agency's Solar Orbiter probe has pinpointed the source . It has implications for predicting space weather, with implications for space weather forecasts, ESA says . The solar orbiter probe is currently in orbit around the solar system .
-• I was a part-time DBA. After this failover foul-up, they hired a full-time DBA
-  RTFM Who, Me? – the reader-contributed column in which we share your most magnificent messes, and your means of making it out alive . No two mistakes are the same, but The Register thinks they're all worth celebrating each Monday when we serve up a fresh edition of the column each Monday .… At last, enough hours in the day to . RTF
-• Traffic to government domains often crosses national borders, or flows through risky bottlenecks
-  Internet traffic to government domains often flows across borders, relies on a worryingly small number of network connections, or does not require encryption . Sites at yourcountry.gov may also not bother with HTTPs, according to new research . Your country.gov sites also don't bother to bother with HTTPS or require encryption, new research says . The government domains are often located in the U.
-• China launches new ‘AI+’ policy to ‘deepen information technology revolution’
-  China’s State Council last week announced a new IT policy called “AI +” The new policy is the successor to 2015's “Internet +’” and will be called AI + . Plus: Spain cancels Huawei deal; Sony wants to use only recycled gold . Video of Alibaba's uncanny FOSS digital humans; and more Asia In Brief . Plus
+• Huawei counts cost of Western bans as UK business withers
+  Brit limb books just £188M in revenue – down 85% since 2019 . Huawei's business in Britain has dwindled in the half-decade since the UK acquiesced to demands from the US to ban the Chinese networking giant from local telco networks . The UK has now banned Huawei from local telecoms networks in the past half a decade . Huawei is now just 85% of
+• Frostbyte10 bugs put thousands of refrigerators at major grocery chains at risk
+  Copeland controllers are found in thousands of devices used by the world's largest supermarket chains and cold storage companies . They could have allowed miscreants to manipulate temperatures and spoil food and medicine, leading to massive supply-chain disruptions . Patch now available to fix ten vulnerabilities in the controllers, which could have been exploited by miscreachers . The flaws could have led to supply chain disruptions .
+• Reg readers have spoken: 93% back move away from Microsoft in UK public sector
+  Register readers back a shift away from Microsoft software as a default across the UK public sector . Government confirms it expects to spend £9 billion with the software giant over five years . Government says £9B could end up in Redmond, says it's time for new thinking . Register readers are backing a shift from Microsoft to Microsoft software in the public sector, poll says it’s time
+• Europe Putin the blame on Russia after GPS jamming disrupts president’s plane
+  EU Bloc working on anti-jamming measures and plans extra sat to help . Plane carrying European Commission (EC) president Ursula von der Leyen forced to resort to manual navigation techniques after GPS jamming that authorities have pinned on Russia . Bloc also working on plans to increase the number of extra-sats on the plane to Bulgaria, which was forced to use manual navigation
+• In the rush to adopt hot new tech, security is often forgotten. AI is no exception
+  Cisco’s Talos security research team has found over 1,100 Ollama servers exposed to the public internet . The servers are open to unauthorized access, creating various nasty risks . Cisco finds hundreds of Ollamas servers open to the internet, where miscreants can use them to do nasty things . The company says it is working with the U.S. government to
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• China’s chikungunya virus outbreak is a wake up call
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Veterinarians need to be part of West Nile disease storytelling
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Efficacy of digital interventions for smoking cessation by type and method: a systematic review and network meta-analysis
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Development and validation of a risk prediction model for pulmonary tuberculosis in presumptive tuberculosis patients in Tigray, northern Ethiopia
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Do social-media bans benefit young people? These data could offer clues
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Polydoctoring and health outcomes among the very old population with multimorbidity: a retrospective cohort study in Japan
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Knowledge attitudes and practices regarding the use of prebiotics and probiotics for respiratory infections among Saudi healthcare students
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Cultivating an equity-oriented data sharing culture for African health research initiatives
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Aluminum in childhood vaccines not linked to chronic diseases
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,504 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• Can an AI doppelgänger help me do my job?
+  Everywhere I look, I see AI clones. On X and LinkedIn, “thought leaders” and influencers offer their followers a chance to ask questions of their digital replicas. OnlyFans creators are having AI models of themselves chat, for a price, with followers. “Virtual human” salespeople in China are reportedly outselling real humans.&nbsp;
+
+
+
+Digital clones—AI models that replicate a specific person—package together a few technologies that have been around for a while now: hyperrealistic video models to match your appearance, lifelike voices based on just a couple of minutes of speech recordings, and conversational chatbots increasingly capable of holding our attention. But they’re also offering something the ChatGPTs of the world cannot: an AI that’s not smart in the general sense, but that &#8216;thinks&#8217; like you do. 
+
+
+
+Who are they for? Delphi, a startup that recently raised $16 million from funders including Anthropic and actor/director Olivia Wilde’s venture capital firm, Proximity Ventures, helps famous people create replicas that can speak with their fans in both chat and voice calls. It feels like MasterClass—the platform for instructional seminars led by celebrities—vaulted into the AI age. On its website, Delphi writes that modern leaders “possess potentially life-altering knowledge and wisdom, but their time is limited and access is constrained.”
+
+
+
+It has a library of official clones created by famous figures that you can speak with. Arnold Schwarzenegger, for example, told me, “I’m here to cut the crap and help you get stronger and happier,” before informing me cheerily that I’ve now been signed up to receive the Arnold’s Pump Club newsletter. Even if his or other celebrities’ clones fall short of Delphi’s lofty vision of spreading “personalized wisdom at scale,” they at least seem to serve as a funnel to find fans, build mailing lists, or sell supplements.
+
+
+
+But what about for the rest of us? Could well-crafted clones serve as our stand-ins? I certainly feel stretched thin at work sometimes, wishing I could be in two places at once, and I bet you do too. I could see a replica popping into a virtual meeting with a PR representative, not to trick them into thinking it’s the real me, but simply to take a brief call on my behalf. A recording of this call might summarize how it went.&nbsp;
+
+
+
+To find out, I tried making a clone. Tavus, a Y Combinator alum that raised $18 million last year, will build a video avatar of you (plans start at $59 per month) that can be coached to reflect your personality and can join video calls. These clones have the “emotional intelligence of humans, with the reach of machines,” according to the company. “Reporter’s assistant” does not appear on the company’s site as an example use case, but it does mention therapists, physician’s assistants, and other roles that could benefit from an AI clone.
+
+
+
+For Tavus’s onboarding process, I turned on my camera, read through a script to help it learn my voice (which also acted as a waiver, with me agreeing to lend my likeness to Tavus), and recorded one minute of me just sitting in silence. Within a few hours, my avatar was ready. Upon meeting this digital me, I found it looked and spoke like I do (though I hated its teeth). But faking my appearance was the easy part. Could it learn enough about me and what topics I cover to serve as a stand-in with minimal risk of embarrassing me?
+
+
+
+Via a helpful chatbot interface, Tavus walked me through how to craft my clone’s personality, asking what I wanted the replica to do. It then helped me formulate instructions that became its operating manual. I uploaded three dozen of my stories that it could use to reference what I cover. It may have benefited from having more of my content—interviews, reporting notes, and the like—but I would never share that data for a host of reasons, not the least of which being that the other people who appear in it have not consented to their sides of our conversations being used to train an AI replica.
+
+
+
+So in the realm of AI—where models learn from entire libraries of data—I didn’t give my clone all that much to learn from, but I was still hopeful it had enough to be useful.&nbsp;
+
+
+
+Alas, conversationally it was a wild card. It acted overly excited about story pitches I would never pursue. It repeated itself, and it kept saying it was checking my schedule to set up a meeting with the real me, which it could not do as I never gave it access to my calendar. It spoke in loops, with no way for the person on the other end to wrap up the conversation.&nbsp;
+
+
+
+These are common early quirks, Tavus’s cofounder Quinn Favret told me. The clones typically rely on Meta’s Llama model, which “often aims to be more helpful than it truly is,” Favret says, and developers building on top of Tavus’s platform are often the ones who set instructions for how the clones finish conversations or access calendars.
+
+
+
+For my purposes, it was a bust. To be useful to me, my AI clone would need to show at least some basic instincts for understanding what I cover, and at the very least not creep out whoever’s on the other side of the conversation. My clone fell short.
+
+
+
+
+
+Such a clone could be helpful in other jobs, though. If you’re an influencer looking for ways to engage with more fans, or a salesperson for whom work is a numbers game and a clone could give you a leg up, it might just work. You run the risk that your replica could go off the rails or embarrass the real you, but the tradeoffs might be reasonable.&nbsp;
+
+
+
+Favret told me some of Tavus’s bigger customers are companies using clones for health-care intake and job interviews. Replicas are also being used in corporate role-play, for practicing sales pitches or having HR-related conversations with employees, for example.
+
+
+
+But companies building clones are promising that they will be much more than cold-callers or telemarketing machines. Delphi says its clones will offer “meaningful, personal interactions at infinite scale,” and Tavus says its replicas have “a face, a brain, and memories” that enable “meaningful face-to-face conversations.” Favret also told me a growing number of Tavus’s customers are building clones for mentorship and even decision-making, like AI loan officers who use clones to qualify and filter applicants.
+
+
+
+Which is sort of the crux of it. Teaching an AI clone discernment, critical thinking, and taste—never mind the quirks of a specific person—is still the stuff of science fiction. That’s all fine when the person chatting with a clone is in on the bit (most of us know that Schwarzenegger’s replica, for example, will not coach me to be a better athlete).
+
+
+
+But as companies polish clones with “human” features and exaggerate their capabilities, I worry that people chasing efficiency will start using their replicas at best for roles that are cringeworthy, and at worst for making decisions they should never be entrusted with. In the end, these models are designed for scale, not fidelity. They can flatter us, amplify us, even sell for us—but they can’t quite become us.
+
+
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&nbsp;sign up here.
+• Therapists are secretly using ChatGPT. Clients are triggered.
+  Declan would never have found out his therapist was using ChatGPT had it not been for a technical mishap. The connection was patchy during one of their online sessions, so Declan suggested they turn off their video feeds. Instead, his therapist began inadvertently sharing his screen.
+
+
+
+“Suddenly, I was watching him use ChatGPT,” says Declan, 31, who lives in Los Angeles. “He was taking what I was saying and putting it into ChatGPT, and then summarizing or cherry-picking answers.”
+
+
+
+Declan was so shocked he didn’t say anything, and for the rest of the session he was privy to a real-time stream of ChatGPT analysis rippling across his therapist’s screen. The session became even more surreal when Declan began echoing ChatGPT in his own responses, preempting his therapist.&nbsp;
+
+
+
+“I became the best patient ever,” he says, “because ChatGPT would be like, ‘Well, do you consider that your way of thinking might be a little too black and white?’ And I would be like, ‘Huh, you know, I think my way of thinking might be too black and white,’ and [my therapist would] be like, ‘Exactly.’ I’m sure it was his dream session.”
+
+
+
+Among the questions racing through Declan’s mind was, “Is this legal?” When Declan raised the incident with his therapist at the next session—“It was super awkward, like a weird breakup”—the therapist cried. He explained he had felt they’d hit a wall and had begun looking for answers elsewhere. “I was still charged for that session,” Declan says, laughing.
+
+
+
+The large language model (LLM) boom of the past few years has had unexpected ramifications for the field of psychotherapy, mostly due to the growing number of people substituting the likes of ChatGPT for human therapists. But less discussed is how some therapists themselves are integrating AI into their practice. As in many other professions, generative AI promises tantalizing efficiency savings, but its adoption risks compromising sensitive patient data and undermining a relationship in which trust is paramount.
+
+
+
+Suspicious sentiments
+
+
+
+Declan is not alone, as I can attest from personal experience. When I received a recent email from my therapist that seemed longer and more polished than usual, I initially felt heartened. It seemed to convey a kind, validating message, and its length made me feel that she’d taken the time to reflect on all of the points in my (rather sensitive) email.
+
+
+
+On closer inspection, though, her email seemed a little strange. It was in a new font, and the text displayed several AI “tells,” including liberal use of the Americanized em dash (we’re both from the UK), the signature impersonal style, and the habit of addressing each point made in the original email line by line.
+
+
+
+
+
+My positive feelings quickly drained away, to be replaced by disappointment and mistrust, once I realized ChatGPT likely had a hand in drafting the message—which my therapist confirmed when I asked her.
+
+
+
+Despite her assurance that she simply dictates longer emails using AI, I still felt uncertainty over the extent to which she, as opposed to the bot, was responsible for the sentiments expressed. I also couldn’t entirely shake the suspicion that she might have pasted my highly personal email wholesale into ChatGPT.
+
+
+
+When I took to the internet to see whether others had had similar experiences, I found plenty of examples of people receiving what they suspected were AI-generated communiqués from their therapists. Many, including Declan, had taken to Reddit to solicit emotional support and advice.
+
+
+
+So had Hope, 25, who lives on the east coast of the US, and had direct-messaged her therapist about the death of her dog. She soon received a message back. It would have been consoling and thoughtful—expressing how hard it must be “not having him by your side right now”—were it not for the reference to the AI prompt accidentally preserved at the top: “Here’s a more human, heartfelt version with a gentle, conversational tone.”
+
+
+
+Hope says she felt “honestly really surprised and confused.” “It was just a very strange feeling,” she says. “Then I started to feel kind of betrayed. … It definitely affected my trust in her.” This was especially problematic, she adds, because “part of why I was seeing her was for my trust issues.”
+
+
+
+Hope had believed her therapist to be competent and empathetic, and therefore “never would have suspected her to feel the need to use AI.” Her therapist was apologetic when confronted, and she explained that because she’d never had a pet herself, she’d turned to AI for help expressing the appropriate sentiment.&nbsp;
+
+
+
+A disclosure dilemma 
+
+
+
+Betrayal or not, there may be some merit to the argument that AI could help therapists better communicate with their clients. A 2025 study published in PLOS Mental Health asked therapists to use ChatGPT to respond to vignettes describing problems of the kind patients might raise in therapy. Not only was a panel of 830 participants unable to distinguish between the human and AI responses, but AI responses were rated as conforming better to therapeutic best practice.&nbsp;
+
+
+
+However, when participants suspected responses to have been written by ChatGPT, they ranked them lower. (Responses written by ChatGPT but misattributed to therapists received the highest ratings overall.)&nbsp;
+
+
+
+Similarly, Cornell University researchers found in a 2023 study that AI-generated messages can increase feelings of closeness and cooperation between interlocutors, but only if the recipient remains oblivious to the role of AI. The mere suspicion of its use was found to rapidly sour goodwill.
+
+
+
+“People value authenticity, particularly in psychotherapy,” says Adrian Aguilera, a clinical psychologist and professor at the University of California, Berkeley. “I think [using AI] can feel like, ‘You’re not taking my relationship seriously.’ Do I ChatGPT a response to my wife or my kids? That wouldn’t feel genuine.”
+
+
+
+In 2023, in the early days of generative AI, the online therapy service Koko conducted a clandestine experiment on its users, mixing in responses generated by GPT-3 with ones drafted by humans. They discovered that users tended to rate the AI-generated responses more positively. The revelation that users had unwittingly been experimented on, however, sparked outrage.
+
+
+
+The online therapy provider BetterHelp has also been subject to claims that its therapists have used AI to draft responses. In a Medium post, photographer Brendan Keen said his BetterHelp therapist admitted to using AI in their replies, leading to “an acute sense of betrayal” and persistent worry, despite reassurances, that his data privacy had been breached. He ended the relationship thereafter.&nbsp;
+
+
+
+A BetterHelp spokesperson told us the company “prohibits therapists from disclosing any member’s personal or health information to third-party artificial intelligence, or using AI to craft messages to members to the extent it might directly or indirectly have the potential to identify someone.”
+
+
+
+All these examples relate to undisclosed AI usage. Aguilera believes time-strapped therapists can make use of LLMs, but transparency is essential. “We have to be up-front and tell people, ‘Hey, I’m going to use this tool for X, Y, and Z’ and provide a rationale,” he says. People then receive AI-generated messages with that prior context, rather than assuming their therapist is “trying to be sneaky.”
+
+
+
+Psychologists are often working at the limits of their capacity, and levels of burnout in the profession are high, according to 2023 research conducted by the American Psychological Association. That context makes the appeal of AI-powered tools obvious.&nbsp;
+
+
+
+But lack of disclosure risks permanently damaging trust. Hope decided to continue seeing her therapist, though she stopped working with her a little later for reasons she says were unrelated. “But I always thought about the AI Incident whenever I saw her,” she says.
+
+
+
+Risking patient privacy
+
+
+
+Beyond the transparency issue, many therapists are leery of using LLMs in the first place, says Margaret Morris, a clinical psychologist and affiliate faculty member at the University of Washington.
+
+
+
+“I think these tools might be really valuable for learning,” she says, noting that therapists should continue developing their expertise over the course of their career. “But I think we have to be super careful about patient data.” Morris calls Declan’s experience “alarming.”&nbsp;
+
+
+
+Therapists need to be aware that general-purpose AI chatbots like ChatGPT are not approved by the US Food and Drug Administration and are not HIPAA compliant, says Pardis Emami-Naeini, assistant professor of computer science at Duke University, who has researched the privacy and security implications of LLMs in a health context. (HIPAA is a set of US federal regulations that protect people’s sensitive health information.)
+
+
+
+“This creates significant risks for patient privacy if any information about the patient is disclosed or can be inferred by the AI,” she says.
+
+
+
+In a recent paper, Emami-Naeini found that many users wrongly believe ChatGPT is HIPAA compliant, creating an unwarranted sense of trust in the tool. “I expect some therapists may share this misconception,” she says.
+
+
+
+As a relatively open person, Declan says, he wasn’t completely distraught to learn how his therapist was using ChatGPT. “Personally, I am not thinking, ‘Oh, my God, I have deep, dark secrets,’” he said. But it did still feel violating: “I can imagine that if I was suicidal, or on drugs, or cheating on my girlfriend … I wouldn’t want that to be put into ChatGPT.”
+
+
+
+When using AI to help with email, “it’s not as simple as removing obvious identifiers such as names and addresses,” says Emami-Naeini. “Sensitive information can often be inferred from seemingly nonsensitive details.”
+
+
+
+She adds, “Identifying and rephrasing all potential sensitive data requires time and expertise, which may conflict with the intended convenience of using AI tools. In all cases, therapists should disclose their use of AI to patients and seek consent.”&nbsp;
+
+
+
+A growing number of companies, including Heidi Health, Upheal, Lyssn, and Blueprint, are marketing specialized tools to therapists, such as AI-assisted note-taking, training, and transcription services. These companies say they are HIPAA compliant and store data securely using encryption and pseudonymization where necessary. But many therapists are still wary of the privacy implications—particularly of services that necessitate the recording of entire sessions.
+
+
+
+“Even if privacy protections are improved, there is always some risk of information leakage or secondary uses of data,” says Emami-Naeini.
+
+
+
+A 2020 hack on a Finnish mental health company, which resulted in tens of thousands of clients’ treatment records being accessed, serves as a warning. People on the list were blackmailed, and subsequently the entire trove was publicly released, revealing extremely sensitive details such as peoples’ experiences of child abuse and addiction problems.
+
+
+
+What therapists stand to lose
+
+
+
+In addition to violation of data privacy, other risks are involved when psychotherapists consult LLMs on behalf of a client. Studies have found that although some specialized therapy bots can rival human-delivered interventions, advice from the likes of ChatGPT can cause more harm than good.
+
+
+
+A recent Stanford University study, for example, found that chatbots can fuel delusions and psychopathy by blindly validating a user rather than challenging them, as well as suffer from biases and engage in sycophancy. The same flaws could make it risky for therapists to consult chatbots on behalf of their clients. They could, for example, baselessly validate a therapist’s hunch, or lead them down the wrong path.
+
+
+
+Aguilera says he has played around with tools like ChatGPT while teaching mental health trainees, such as by entering hypothetical symptoms and asking the AI chatbot to make a diagnosis. The tool will produce lots of possible conditions, but it’s rather thin in its analysis, he says. The American Counseling Association recommends that AI not be used for mental health diagnosis at present.
+
+
+
+A study published in 2024 of an earlier version of ChatGPT similarly found it was too vague and general to be truly useful in diagnosis or devising treatment plans, and it was heavily biased toward suggesting people seek cognitive behavioral therapy as opposed to other types of therapy that might be more suitable.
+
+
+
+Daniel Kimmel, a psychiatrist and neuroscientist at Columbia University, conducted experiments with ChatGPT where he posed as a client having relationship troubles. He says he found the chatbot was a decent mimic when it came to “stock-in-trade” therapeutic responses, like normalizing and validating, asking for additional information, or highlighting certain cognitive or emotional associations.
+
+
+
+However, “it didn’t do a lot of digging,” he says. It didn’t attempt “to link seemingly or superficially unrelated things together into something cohesive … to come up with a story, an idea, a theory.”
+
+
+
+“I would be skeptical about using it to do the thinking for you,” he says. Thinking, he says, should be the job of therapists.
+
+
+
+Therapists could save time using AI-powered tech, but this benefit should be weighed against the needs of patients, says Morris: “Maybe you’re saving yourself a couple of minutes. But what are you giving away?”
+• The Download: AI doppelgängers in the workplace, and using lidar to measure climate disasters
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+ Can an AI doppelgänger help me do my job?
+
+
+
+—James O&#8217;Donnell
+
+
+
+Digital clones—AI models that replicate a specific person—package together a few technologies that have been around for a while now: hyperrealistic video models to match your appearance, lifelike voices based on just a couple of minutes of speech recordings, and conversational chatbots increasingly capable of holding our attention.&nbsp;
+
+
+
+But they’re also offering something the ChatGPTs of the world cannot: an AI that’s not smart in the general sense, but that ‘thinks’ like you do.Could well-crafted clones serve as our stand-ins? I certainly feel stretched thin at work sometimes, wishing I could be in two places at once, and I bet you do too. To find out, I tried making a clone of myself. Read the full story to find out how it got on.
+
+
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.
+
+
+
+
+
+
+
+How lidar measures the cost of climate disasters
+
+
+
+The wildfires that swept through Los Angeles County this January left an indelible mark on the Southern California landscape. The Eaton and Palisades fires raged for 24 days, killing 29 people and destroying 16,000 structures, with losses estimated at $60 billion. More than 55,000 acres were consumed, and the landscape itself was physically transformed.
+
+
+
+Now, researchers are using lidar (light detection and ranging) technology to precisely measure these changes in the landscape’s geometry—helping them understand and track the cascading effects of climate disasters. Read the full story.—Jon KeeganThis story is from our new print edition, which is all about the future of security. Subscribe here to catch future copies when they land.
+
+
+
+
+
+
+
+Here’s how we picked this year’s Innovators Under 35
+
+
+
+Next Monday we’ll publish our 2025 list of Innovators Under 35. The list highlights smart and talented people working across many areas of emerging technology. This new class features 35 accomplished founders, hardware engineers, roboticists, materials scientists, and others who are already tackling tough problems and making big moves in their careers. 
+
+
+
+MIT Technology Review first published a list of Innovators Under 35 in 1999. It’s a grand tradition for us, and we often follow the work of various featured innovators for years, even decades, after they appear on the list. So before the big announcement, we’d like to take a moment to explain how we select the people we recognize each year. Read the full story.
+
+
+
+—Amy Nordrum
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 Meta created flirty chatbots of celebrities without their permissionTo make matters worse, the bots generated risqué pictures on demand. (Reuters)+ Meta’s relationship with Scale AI appears to be under pressure. (TechCrunch)+ An AI companion site is hosting sexually charged conversations with underage celebrity bots. (MIT Technology Review)
+
+
+
+2 The FTC has warned Big Tech not to comply with EU lawsIf they jeopardize the freedom of expression or safety of US citizens, at least. (Wired $)
+
+
+
+3 Ukraine is using drones to drop supplies to its troops in trenchesThey’re delivering everything from cigarettes to roasted chicken. (WP $)+ Meet the radio-obsessed civilian shaping Ukraine’s drone defense. (MIT Technology Review)
+
+
+
+4 What the collapse of this AI company says about the wider industryBuilder.ai was an early industry darling. Its downfall is a dire warning. (NYT $)
+
+
+
+5 US shoppers are racing to land an EV bargainFederal tax credits on the vehicles expire at the end of the month. (WSJ $)+ The US could really use an affordable electric truck. (MIT Technology Review)
+
+
+
+6 A major new project will use AI to research vaccinesThe Oxford Vaccine Group hopes the jabs will protect against deadly pathogens. (FT $)+ Why US federal health agencies are abandoning mRNA vaccines. (MIT Technology Review)
+
+
+
+7 A lot of people stop taking weight-loss drugs within one yearHow should doctors encourage the ones who need to stay on them? (Undark)+ We’re learning more about what weight-loss drugs do to the body. (MIT Technology Review)
+
+
+
+8 Chatbots can be manipulated into breaking their own rulesIt turns out they’re susceptible to both flattery and peer pressure. (The Verge)+ Forcing LLMs to be evil during training can make them nicer in the long run. (MIT Technology Review)
+
+
+
+9 Tennis is trying to reach a new generation of fans Through…the metaverse? (The Information $)10 The age of cheap online shopping is endingAnd consumers are the ones paying the price. (The Atlantic $)+ AI is starting to shake up the digital shopping experience, too. (FT $)+ Your most important customer may be AI. (MIT Technology Review)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“Stop being a clanker!”
+
+
+
+—How Jay Pinkert, a marketing manager, scolds ChatGPT when it isn’t fulfilling his requests, he tells the New York Times.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+The algorithms around usA metronome ticks. A record spins. And as a feel-good pop track plays, a giant compactor slowly crushes a Jenga tower of material creations. Paint cans burst. Chess pieces topple. Camera lenses shatter. An alarm clock shrills and then goes silent. A guitar neck snaps. But wait! The jaunty tune starts up again, and the jaws open to reveal … an iPad.Watching Apple’s now-infamous “Crush!” ad, it’s hard not to feel uneasy about the ways in which digitization is remaking human life. Sure, we’re happy for computers to take over tasks we don’t want to do or aren’t particularly good at, like shopping or navigating. But what does it mean when the things we hold dear and thought were uniquely ours—our friendships, our art, even our language and creativity—can be reduced to software? Read the full story.
+
+
+
+—Ariel Bleicher
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
+
+
+
++ Minnesota’s Llama-Alpaca Costume Contest looks an utter delight  (thanks Amy!)+ In fascinating collab news, David Byrne and Paramore’s Hayley Williams are working on a song for a Netflix adaptation of Roald Dahl’s The Twits.+ Happy birthday to Gloria Estefan, 68 years old today!+ M. Night Shyamalan’s oeuvre is a decidedly mixed bag. Check out this list of his movies to see where your favorites (and least-favorites) rank.
+• Here’s how we picked this year’s Innovators Under 35
+  Next week, we’ll publish our 2025 list of Innovators Under 35, highlighting smart and talented people who are working in many areas of emerging technology. This new class features 35 accomplished founders, hardware engineers, roboticists, materials scientists, and others who are already tackling tough problems and making big moves in their careers. All are under the age of 35.&nbsp;
+
+
+
+
+
+One is developing a technology to reduce emissions from shipping, while two others are improving fertility treatments and creating new forms of contraception. Another is making it harder for people to maliciously share intimate images online. And quite a few are applying artificial intelligence to their respective fields in novel ways.&nbsp;
+
+
+
+We’ll also soon reveal our 2025 Innovator of the Year, whose technical prowess is helping physicians diagnose and treat critically ill patients more quickly. What’s more (here’s your final hint), our winner even set a world record as a result of this work.&nbsp;
+
+
+
+MIT Technology Review first published a list of Innovators Under 35 in 1999. It’s a grand tradition for us, and we often follow the work of various featured innovators for years, even decades, after they appear on the list. So before the big announcement, I want to take a moment to explain how we select the people we recognize each year.&nbsp;
+
+
+
+Step 1: Call for nominations
+
+
+
+Our process begins with a call for nominations, which typically goes out in the final months of the previous year and is open to anyone, anywhere in the world. We encourage people to nominate themselves, which takes just a few minutes. This method helps us discover people doing important work that we might not otherwise encounter.&nbsp;
+
+
+
+This year we had 420 nominations. Two-thirds of our candidates were put forward by someone else and one-third nominated themselves. We received nominations for people located in about 40 countries. Nearly 70% were based in the United States, with the UK, Switzerland, China, and the United Arab Emirates, respectively, having the next-highest concentrations.&nbsp;
+
+
+
+After nominations close, a few editors then spend several weeks reviewing the nominees and selecting semifinalists. During this phase, we look for people who have developed practical solutions to societal issues or made important scientific advances that could translate into new technologies. Their work should have the potential for broad impact—it can’t be niche or incremental. And what’s unique about their approach must be clear.&nbsp;
+
+
+
+Step 2: Semifinalist applications&nbsp;
+
+
+
+This year, we winnowed our initial list of hundreds of nominees to 108 semifinalists. Then we asked those entrants for more information to help us get to know them better and evaluate their work.&nbsp;
+
+
+
+We request three letters of reference and a résumé from each semifinalist, and we ask all of them to answer a few short questions about their work. We also give them the option to share a video or pass along relevant journal articles or other links to help us learn more about what they do.
+
+
+
+Step 3: Expert judges weigh in
+
+
+
+Next, we bring in dozens of experts to vet the semifinalists. This year, 38 judges evaluated and scored the applications. We match the contenders with judges who work in similar fields whenever possible. At least two judges review each entrant, though most are seen by three.&nbsp;
+
+
+
+All these judges volunteer their time, and some return to help year after year. A few of our longtime judges include materials scientists Yet-Ming Chiang (MIT) and Julia Greer (Caltech), MIT neuroscientist Ed Boyden, and computer scientist Ben Zhao of the University of Chicago.&nbsp;
+
+
+
+John Rogers, a materials scientist and biomedical engineer at Northwestern University, has been a judge for more than a decade (and was featured on our very first Innovators list, in 1999). Here’s what he had to say about why he stays involved: “This award is compelling because it recognizes young people with scientific achievements that are not only of fundamental interest but also of practical significance, at the highest levels.”&nbsp;
+
+
+
+Step 4: Editors make the final calls&nbsp;
+
+
+
+In a final layer of vetting, editors who specialize in covering biotechnology, climate and energy, and artificial intelligence review the semifinalists whom judges scored highly in their respective areas. Staff editors and reporters can also nominate people they’ve come across in their coverage, and we add them to the mix for consideration.&nbsp;
+
+
+
+Last, a small team of senior editors reviews all the semifinalists and the judges’ scores, as well as our own staff’s recommendations, and selects 35 honorees. We aim for a good combination of people from a variety of disciplines working in different regions of the world. And we take a staff vote to pick an Innovator of the Year—someone whose work we particularly admire.&nbsp;
+
+
+
+In the end, it’s impossible to include every deserving individual on our list. But by incorporating both external nominations and outside expertise from our judges, we aim to make the evaluation process as rigorous and open as possible.&nbsp;&nbsp;
+
+
+
+So who made the cut this year? Come back on September 8 to find out.
 • The Download: humans in space, and India’s thorium ambitions
   This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
 
@@ -238,350 +736,33 @@ We can still have nice things
 
 
 A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)+ Scientists are using yeast to help save the bees.+ How to become super productive + Why North American mammoths were genetic freaks of nature.+ I love Seal’s steadfast refusal to explain his lyrics to Kiss from a Rose.
-• This American nuclear company could help India’s thorium dream
-  For just the second time in nearly two decades, the United States has granted an export license to an American company planning to sell nuclear technology to India, MIT Technology Review has learned. The decision to greenlight Clean Core Thorium Energy’s license is a major step toward closer cooperation between the two countries on atomic energy and marks a milestone in the development of thorium as an alternative to uranium for fueling nuclear reactors.&nbsp;
-
-
-
-Starting from the issuance last week, the thorium fuel produced by the Chicago-based company can be shipped to reactors in India, where it could be loaded into the cores of existing reactors. Once Clean Core receives final approval from Indian regulators, it will become one of the first American companies to sell nuclear technology to India, just as the world’s most populous nation has started relaxing strict rules that have long kept the US private sector from entering its atomic power industry.&nbsp;
-
-
-
-“This license marks a turning point, not just for Clean Core but for the US-India civil nuclear partnership,” says Mehul Shah, the company&#8217;s chief executive and founder. “It places thorium at the center of the global energy transformation.”
-
-
-
-Thorium has long been seen as a good alternative to uranium because it’s more abundant, produces both smaller amounts of long-lived radioactive waste and fewer byproducts with centuries-long half-lives, and reduces the risk that materials from the fuel cycle will be diverted into weapons manufacturing.&nbsp;
-
-
-
-But at least some uranium fuel is needed to make thorium atoms split, making it an imperfect replacement. It’s also less well suited for use in the light-water reactors that power the vast majority of commercial nuclear plants worldwide. And in any case, the complex, highly regulated nuclear industry is extremely resistant to change.
-
-
-
-For India, which has scant uranium reserves but abundant deposits of thorium, the latter metal has been part of a long-term strategy for reducing dependence on imported fuels. The nation started negotiating a nuclear export treaty with the US in the early 2000s, and a 123 Agreement—a special, Senate-approved treaty the US requires with another country before sending it any civilian nuclear products—was approved in 2008.
-
-
-
-A new approach
-
-
-
-While most thorium advocates have envisioned new reactors designed to run on this fuel, which would mean rebuilding the nuclear industry from the ground up, Shah and his team took a different approach. Clean Core created a new type of fuel that blends thorium with a more concentrated type of uranium called HALEU (high-assay low-enriched uranium). This blended fuel can be used in India’s pressurized heavy-water reactors, which make up the bulk of the country’s existing fleet and many of the new units under development now.&nbsp;
-
-
-
-Thorium isn’t a fissile material itself, meaning its atoms aren’t inherently unstable enough for an extra neutron to easily split the nuclei and release energy. But the metal has what’s known as “fertile properties,” meaning it can absorb neutrons and transform into the fissile material uranium-233. Uranium-233 produces fewer long-lived radioactive isotopes than the uranium-235 that makes up the fissionable part of traditional fuel pellets. Most commercial reactors run on low-enriched uranium, which is about 5% U-235. When the fuel is spent, roughly 95% of the energy potential is left in the metal. And what remains is a highly toxic cocktail of long-lived radioactive isotopes such as cesium-137 and plutonium-239, which keep the waste dangerous for tens of thousands of years. Another concern is that the plutonium could be extracted for use in weapons.&nbsp;
-
-
-
-Enriched up to 20%, HALEU allows reactors to extract more of the available energy and thus reduce the volume of waste. Clean Core’s fuel goes further: The HALEU provides the initial spark to ignite fertile thorium and triggers a reaction that can burn much hotter and utilize the vast majority of the material in the core, as a study published last year in the journal Nuclear Engineering and Design showed.
-
-
-
-
-
-“Thorium provides attributes needed to achieve higher burnups,” says Koroush Shirvan, an MIT professor of nuclear science and engineering who helped design Clean Core’s fuel assemblies. “It is enabling technology to go to higher burnups, which reduces your spent fuel volume, increases your fuel efficiency, and reduces the amount of uranium that you need.”&nbsp;
-
-
-
-Compared with traditional uranium fuel, Clean Core says, its fuel reduces waste by more than 85% while avoiding the most problematic isotopes produced during fission. “The result is a safer, more sustainable cycle that reframes nuclear power not as a source of millennia-long liabilities but as a pathway to cleaner energy and a viable future fuel supply,” says Milan Shah, Clean Core’s chief operating officer and Mehul’s son.
-
-
-
-Pressurized heavy-water reactors are particularly well suited to thorium because heavy water—a version of H2O that has an extra neutron on the hydrogen atom—absorbs fewer neutrons during the fission process, increasing efficiency by allowing more neutrons to be captured by the thorium. 
-
-
-
-There are 46 so-called PHWRs operating worldwide: 17 in Canada, 19 in India, three each in Argentina and South Korea, and two each in China and Romania, according to data from the International Atomic Energy Agency. In 1954, India set out a three-stage development plan for nuclear power that involved eventually phasing thorium into the fuel cycle for its fleet. 
-
-
-
-Yet in the 56 years since India built its first commercial nuclear plant, its state-controlled industry has remained relatively shut off to the private sector and the rest of the world. When the US signed the 123 Agreement with India in 2008, the moment heralded an era in which the subcontinent could become a testing ground for new American reactor designs.&nbsp;
-
-
-
-In 2010, however, India passed the Civil Liability for Nuclear Damage Act. The legislation was based on what lawmakers saw as legal shortcomings in the wake of the 1984 Bhopal chemical factory disaster, when a subsidiary of the American industrial giant Dow Chemical avoided major payouts to the victims of a catastrophe that killed thousands. Under this law, responsibility for an accident at an Indian nuclear plant would fall on suppliers. The statute effectively killed any exports to India, since few companies could shoulder that burden. Only Russia’s state-owned Rosatom charged ahead with exporting reactors to India.
-
-
-
-But things are changing. In a joint statement issued after a February 2025 summit, Prime Minister Narendra Modi and President Donald Trump &#8220;announced their commitment to fully realise the US-India 123 Civil Nuclear Agreement by moving forward with plans to work together to build US-designed nuclear reactors in India through large scale localisation and possible technology transfer.” 
-
-
-
-In March 2025, US federal officials gave the nuclear developer Holtec International an export license to sell Indian companies its as-yet-unbuilt small modular reactors, which are based on the light-water reactor design used in the US. In April, the Indian government suggested it would reform the nuclear liability law to relax rules on foreign companies in hopes of drawing more overseas developers. Last month, a top minister confirmed that the Modi administration would overhaul the law. 
-
-
-
-“For India, the thing they need to do is get another international vendor in the marketplace,” says Chris Gadomski, the chief nuclear analyst at the consultancy BloombergNEF.
-
-
-
-Path of least resistance
-
-
-
-But Shah sees larger potential for Clean Core. Unlike Holtec, whose export license was endorsed by the two Mumbai-based industrial giants Larsen &amp; Toubro and Tata Consulting Engineers, Clean Core had its permit approved by two of India’s atomic regulators and its main state-owned nuclear company. By focusing on fuel rather than new reactors, Clean Core could become a vendor to the majority of the existing plants already operating in India.&nbsp;
-
-
-
-Its technology diverges not only from that of other US nuclear companies but also from the approach used in China. Last year, China made waves by bringing its first thorium-fueled reactor online. This enabled it to establish a new foothold in a technology the US had invented and then abandoned, and it gave Beijing another leg up in atomic energy. 
-
-
-
-But scaling that technology will require building out a whole new kind of reactor. That comes at a cost. A recent Johns Hopkins University study found that China’s success in building nuclear reactors stemmed in large part from standardization and repetition of successful designs, virtually all of which have been light-water reactors. Using thorium in existing heavy-water reactors lowers the bar for popularizing the fuel, according to the younger Shah. 
-
-
-
-“We think ours is the path of least resistance,” Milan Shah says. “Maybe not being completely revolutionary in the way you look at nuclear today, but incredibly evolutionary to progress humanity forward.”&nbsp;
-
-
-
-The company has plans to go beyond pressurized heavy-water reactors. Within two years, the elder Shah says, Clean Core plans to design a version of its fuel that could work in the light-water reactors that make up the entire US fleet of 94. But it’s not a simple conversion. For starters, there’s the size: While the PHWR fuel rods are about 50 centimeters in length, the rods that go into light-water reactors are roughly four meters long. Then there’s the history of challenges with light water’s absorption of neutrons that could otherwise be captured to induce fission in the thorium.&nbsp;
-
-
-
-For Anil Kakodkar, the former chairman of India’s Atomic Energy Commission and a mentor to Shah, popularizing thorium could help rectify one of the darker chapters in his country’s nuclear development. In 1974, India became the first country since the signing of the first global Treaty on the Non-Proliferation of Nuclear Weapons to successfully test an atomic weapon. New Delhi was never a signatory to the pact. But the milestone prompted neighboring Pakistan to develop its own weapons.&nbsp;
-
-
-
-In response, President Jimmy Carter tried to demonstrate Washington’s commitment to reversing the Cold War arms race by sacrificing the first US effort to commercialize nuclear waste recycling, since the technology to separate plutonium and other radioisotopes from uranium in spent fuel was widely seen as a potential new source of weapons-grade material. By running its own reactors on thorium, Kakodkar says, India can chart a new path for newcomer nations that want to harness the power of the atom without stoking fears that nuclear weapons capability will spread.&nbsp;
-
-
-
-“The proliferation concerns will be dismissed to a significant extent, allowing more rapid growth of nuclear power in emerging countries,” he says. “That will be a good thing for the world at large.”&nbsp;
-
-
-
-Alexander C. Kaufman is a reporter who has covered energy, climate change, pollution, business, and geopolitics for more than a decade.&nbsp;
-• RFK Jr’s plan to improve America’s diet is missing the point
-  A lot of Americans don’t eat well. And they’re paying for it with their health. A diet high in sugar, sodium, and saturated fat can increase the risk of problems like diabetes, heart disease, and kidney disease, to name a few. And those are among the leading causes of death in the US.
-
-
-
-This is hardly news. But this week Robert F Kennedy Jr., who heads the US Department of Health and Human Services, floated a new solution to the problem. Kennedy and education secretary Linda McMahon think that teaching medical students more about the role of nutrition in health could help turn things around.
-
-
-
-
-
-“I’m working with Linda on forcing medical schools … to put nutrition into medical school education,” Kennedy said during a cabinet meeting on August 26. The next day, HHS released a statement calling for “increased nutrition education” for medical students.
-
-
-
-“We can reverse the chronic-disease epidemic simply by changing our diets and lifestyles,” Kennedy said in an accompanying video statement. “But to do that, we need nutrition to be a basic part of every doctor’s training.”
-
-
-
-It certainly sounds like a good idea. If more Americans ate a healthier diet, we could expect to see a decrease in those diseases. But this framing of America’s health crisis is overly simplistic, especially given that plenty of the administration’s other actions have directly undermined health in multiple ways—including by canceling a vital nutrition education program.
-
-
-
-At any rate, there are other, more effective ways to tackle the chronic-disease crisis.
-
-
-
-The biggest killers, heart disease and stroke, are responsible for more than a third of deaths, according to the US Centers for Disease Control and Prevention. A healthy diet can reduce your risk of developing those conditions. And it makes total sense to educate the future doctors of America about nutrition.
-
-
-
-Medical bodies are on board with the idea, too. “The importance of nutrition in medical education is increasingly clear, and we support expanded, evidence-based instruction to better equip physicians to prevent and manage chronic disease and improve patient outcomes,” David H. Aizuss, chair of the American Medical Association’s board of trustees, said in a statement.
-
-
-
-But it’s not as though medical students aren’t getting any nutrition education. And that training has increased in the last five years, according to surveys carried out by the American Association of Medical Colleges.
-
-
-
-Kennedy has referred to a 2021 survey suggesting that medical students in the US get only around one hour of nutrition education per year. But the AAMC argues that nutrition education increasingly happens through “integrated experiences” rather than stand-alone lectures.
-
-
-
-
-
-“Medical schools understand the critical role that nutrition plays in preventing, managing, and treating chronic health conditions, and incorporate significant nutrition education across their required curricula,” Alison J. Whelan, AAMC’s chief academic officer, said in a statement.
-
-
-
-That’s not to say there isn’t room for improvement. Gabby Headrick, a food systems dietician and associate director of food and nutrition policy at George Washington University’s Institute for Food Safety &amp; Nutrition Security, thinks nutritionists could take a more prominent role in patient care, too.
-
-
-
-But it’s somewhat galling for the administration to choose medical education as its focus given the recent cuts in federal funding that will affect health. For example, funding for the National Diabetes Prevention Program, which offers support and guidance to help thousands of people adopt healthy diets and exercise routines, was canceled by the Trump administration in March.
-
-
-
-The focus on medical schools also overlooks one of the biggest factors behind poor nutrition in the US: access to healthy food. A recent survey by the Pew Research Center found that increased costs make it harder for most Americans to eat well. Twenty percent of the people surveyed acknowledged that their diets were not healthy.
-
-
-
-“So many people know what a healthy diet is, and they know what should be on their plate every night,” says Headrick, who has researched this issue. “But the vast majority of folks just truly do not have the money or the time to get the food on the plate.”
-
-
-
-The Supplemental Nutrition Assistance Program (SNAP) has been helping low-income Americans afford some of those healthier foods. It supported over 41 million people in 2024. But under the Trump administration’s tax and spending bill, the program is set to lose around $186 billion in funding over the next 10 years.
-
-
-
-Kennedy’s focus is on education. And it just so happens that there is a nutrition education program in place—one that helps people of all ages learn not only what healthy foods are, but how to source them on a budget and use them to prepare meals.
-
-
-
-SNAP-Ed, as it’s known, has already provided this support to millions of Americans. Under the Trump administration, it is set to be eliminated.
-
-
-
-It is difficult to see how these actions are going to help people adopt healthier diets. What might be a better approach? I put the question to Headrick: If she were in charge, what policies would she enact?
-
-
-
-“Universal health care,” she told me. Being able to access health care without risking financial hardship not only improves health outcomes and life expectancy; it also spares people from medical debt—something that affects around 40% of adults in the US, according to a recent survey.
-
-
-
-And the Trump administration’s plans to cut federal health spending by about a trillion dollars over the next decade certainly aren’t going to help with that. All told, around 16 million people could lose their health insurance by 2034, according to estimates by the Congressional Budget Office.
-
-
-
-“The evidence suggests that if we cut folks’ social benefit programs, such as access to health care and food, we are going to see detrimental impacts,” says Headrick. “And it’s going to cause an increased burden of preventable disease.”
-
-
-
-This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, sign up here.
-• The Download: Google’s AI energy use, and the AI Hype Index
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
-
-
-
-Google’s still not giving us the full picture on AI energy use&nbsp;
-
-
-
-—Casey Crownhart
-
-
-
-Google just announced that a typical query to its Gemini app uses about 0.24 watt-hours of electricity. That’s about the same as running a microwave for one second—something that feels insignificant. I run the microwave for many more seconds than that most days.I welcome more openness from major AI players about their estimated energy use per query. But I’ve noticed that some folks are taking this number and using it to conclude that we don’t need to worry about AI’s energy demand. That’s not the right takeaway here. Let’s dig into why.
-
-
-
-This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
-
-
-
-+ If you’re interested in AI’s energy footprint, earlier this year, MIT Technology Review published Power Hungry: a comprehensive series on AI and energy.
-
-
-
-
-
-
-
-The AI Hype Index: AI-designed antibiotics show promise
-
-
-
-Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything you need to know about the state of the industry. Take a look at this month’s edition here.
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 The White House has fired the director of the CDCBut Susan Monarez is refusing to go quietly. (WP $)+ Monarez is said to have clashed with RFK Jr over vaccine policy. (NYT $)+ She was confirmed by the Senate to the position just last month. (The Guardian)+ Vaccine consensus is splintering across the US. (Vox)
-
-
-
-2 A Chinese hacking campaign hit at least 200 US organizationsIntelligence agencies say the breaches are among the most significant ever. (WP $)+ AI-generated ransomware is on the rise. (Wired $)
-
-
-
-3 Ukraine’s new Flamingo cruise missile took just months to buildRussia’s air defenses are weakening. Can this missile exploit the gaps? (Economist $)+ 14 people were killed in an overnight bombardment of Kyiv. (BBC)+ On the ground in Ukraine’s largest Starlink repair shop. (MIT Technology Review)
-
-
-
-4 AI infrastructure spending is boosting the US economyCompanies are throwing so much money at AI hardware it’s lifting the real economy, not just the stock market. (NYT $)+ How to fine-tune AI for prosperity. (MIT Technology Review)5 OpenAI and Anthropic safety-tested each other’s AIThey found Claude is a lot more cautious than OpenAI’s mini models. (Engadget)+ Sycophancy was a repeated issue among OpenAI’s models. (TechCrunch)+ This benchmark used Reddit’s AITA to test how much AI models suck up to us. (MIT Technology Review)
-
-
-
-6 Climate change exacerbated Europe’s deadly wildfiresAnd fires across the Mediterranean are likely to become more frequent and severe. (BBC)+ What the collapse of a glacier can teach us. (New Yorker $)+ How AI can help spot wildfires. (MIT Technology Review)
-
-
-
-7 911 centers are using AI to answer callsIt’s helping to triage anything that isn’t urgent. (TechCrunch)
-
-
-
-8 Wikipedia has compiled a list of AI writing tropesBut their presence still isn’t a dead giveaway a text has been written by AI. (Fast Company $)+ AI-text detection tools are really easy to fool. (MIT Technology Review)
-
-
-
-9 Melania Trump has launched the Presidential AI Challenge But it’s not all that clear what the competition actually is. (NY Mag $)
-
-
-
-10 Netflix’s algorithm-appeasing movies are bland and boringBut millions of people will watch them anyway. (The Guardian)
-
-
-
-
-
-
-
-Quote of the day
-
-
-
-&#8220;The more you buy, the more you grow.&#8221;
-
-
-
-—Nvidia CEO Jensen Huang conveniently sees no end to the AI chip spending boom, Reuters reports.
-
-
-
-
-
-
-
-One more thinghttps://www.technologyreview.com/2025/01/13/1109922/inside-the-strange-limbo-facing-ivf-embryos/?utm_source=the_download&amp;utm_medium=email&amp;utm_campaign=the_download.unpaid.engagement&amp;utm_term=*|SUBCLASS|*&amp;utm_content=*|DATE:m-d-Y|*
-
-
-
-
-
-
-
-Inside the strange limbo facing millions of IVF embryosMillions of embryos created through IVF sit frozen in time, stored in cryopreservation tanks around the world, and the number is only growing.At a basic level, an embryo is simply a tiny ball of a hundred or so cells. But unlike other types of body tissue, it holds the potential for life. Many argue that this endows embryos with a special moral status, one that requires special protections.The problem is that no one can really agree on what that status is. What do these embryos mean to us? And who should be responsible for them? Read the full story.
-
-
-
-—Jessica Hamzelou
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)+ Wow, that is one seriously orange shark!+ TikTok is a proven way to introduce younger generations to older music—and now it’s Radiohead’s turn.+ Why we’re still going bananas for Donkey Kong after all these years+ This photo perfectly captures the joy of letting loose at a wedding.
-• Creating a qubit fit for a quantum future
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🔒 Cybersecurity & Privacy
+• The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft
+  The recent mass-theft of authentication tokens from Salesloft, whose AI chatbot is used by a broad swath of corporate America to convert customer interaction into Salesforce leads, has left many companies racing to invalidate the stolen credentials before hackers can exploit them. Now Google warns the breach goes far beyond access to Salesforce data, noting the hackers responsible also stole valid authentication tokens for hundreds of online services that customers can integrate with Salesloft, including Slack, Google Workspace, Amazon S3, Microsoft Azure, and OpenAI.
+Salesloft says its products are trusted by 5,000+ customers. Some of the bigger names are visible on the company&#8217;s homepage.
+Salesloft disclosed on August 20 that, &#8220;Today, we detected a security issue in the Drift application,&#8221; referring to the technology that powers an AI chatbot used by so many corporate websites. The alert urged customers to re-authenticate the connection between the Drift and Salesforce apps to invalidate their existing authentication tokens, but it said nothing then to indicate those tokens had already been stolen.
+On August 26, the Google Threat Intelligence Group (GTIG) warned that unidentified hackers tracked as UNC6395 used the access tokens stolen from Salesloft to siphon large amounts of data from numerous corporate Salesforce instances. Google said the data theft began as early as Aug. 8, 2025 and lasted through at least Aug. 18, 2025, and that the incident did not involve any vulnerability in the Salesforce platform.
+Google said the attackers have been sifting through the massive data haul for credential materials such as AWS keys, VPN credentials, and credentials to the cloud storage provider Snowflake.
+&#8220;If successful, the right credentials could allow them to further compromise victim and client environments, as well as pivot to the victim&#8217;s clients or partner environments,&#8221; the GTIG report stated.
+The GTIG updated its advisory on August 28 to acknowledge the attackers used the stolen tokens to access email from &#8220;a very small number of Google Workstation accounts&#8221; that were specially configured to integrate with Salesloft. More importantly, it warned organizations to immediately invalidate all tokens stored in or connected to their Salesloft integrations &#8212; regardless of the third-party service in question.
+&#8220;Given GTIG&#8217;s observations of data exfiltration associated with the campaign, organizations using Salesloft Drift to integrate with third-party platforms (including but not limited to Salesforce) should consider their data compromised and are urged to take immediate remediation steps,&#8221; Google advised.
+On August 28, Salesforce blocked Drift from integrating with its platform, and with its productivity platforms Slack and Pardot.
+The Salesloft incident comes on the heels of a broad social engineering campaign that used voice phishing to trick targets into connecting a malicious app to their organization&#8217;s Salesforce portal. That campaign led to data breaches and extortion attacks affecting a number of companies including Adidas, Allianz Life and Qantas.
+On August 5, Google disclosed that one of its corporate Salesforce instances was compromised by the attackers, which the GTIG has dubbed UNC6040 (&#8220;UNC&#8221; is Google&#8217;s shorthand for &#8220;uncategorized threat group&#8221;). Google said the extortionists consistently claimed to be the threat group ShinyHunters, and that the group appeared to be preparing to escalate its extortion attacks by launching a data leak site.
+ShinyHunters is an amorphous threat group known for using social engineering to break into cloud platforms and third-party IT providers, and for posting dozens of stolen databases to cybercrime communities like the now-defunct Breachforums.
+The ShinyHunters brand dates back to 2020, and the group has been credited with or taken responsibility for dozens of data leaks that exposed hundreds of millions of breached records. The group&#8217;s member roster is thought to be somewhat fluid, drawing mainly from active denizens of the Com, a mostly English-language cybercrime community scattered across an ocean of Telegram and Discord servers.
+Recorded Future&#8217;s Alan Liska told Bleeping Computer that the overlap in the &#8220;tools, techniques and procedures&#8221; used by ShinyHunters and the Scattered Spider extortion group likely indicate some crossover between the two groups.
+To muddy the waters even further, on August 28 a Telegram channel that now has nearly 40,000 subscribers was launched under the intentionally confusing banner &#8220;Scattered LAPSUS$ Hunters 4.0,&#8221; wherein participants have repeatedly claimed responsibility for the Salesloft hack without actually sharing any details to prove their claims.
+The Telegram group has been trying to attract media attention by threatening security researchers at Google and other firms. It also is using the channel&#8217;s sudden popularity to promote a new cybercrime forum called &#8220;Breachstars,&#8221; which they claim will soon host data stolen from victim companies who refuse to negotiate a ransom payment.
+The &#8220;Scattered Lapsus$ Hunters 4.0&#8221; channel on Telegram now has roughly 40,000 subscribers.
+But Austin Larsen, a principal threat analyst at Google&#8217;s threat intelligence group, said there is no compelling evidence to attribute the Salesloft activity to ShinyHunters or to other known groups at this time.
+&#8220;Their understanding of the incident seems to come from public reporting alone,&#8221; Larsen told KrebsOnSecurity, referring to the most active participants in the Scattered LAPSUS$ Hunters 4.0 Telegram channel.
+Joshua Wright, a senior technical director at Counter Hack, is credited with coining the term &#8220;authorization sprawl&#8221; to describe one key reason that social engineering attacks from groups like Scattered Spider and ShinyHunters so often succeed: They abuse legitimate user access tokens to move seamlessly between on-premises and cloud systems.
+Wright said this type of attack chain often goes undetected because the attacker sticks to the resources and access already allocated to the user.
+&#8220;Instead of the conventional chain of initial access, privilege escalation and endpoint bypass, these threat actors are using centralized identity platforms that offer single sign-on (SSO) and integrated authentication and authorization schemes,&#8221; Wright wrote in a June 2025 column. &#8220;Rather than creating custom malware, attackers use the resources already available to them as authorized users.&#8221;
+It remains unclear exactly how the attackers gained access to all Salesloft Drift authentication tokens. Salesloft announced on August 27 that it hired Mandiant, Google Cloud&#8217;s incident response division, to investigate the root cause(s).
+&#8220;We are working with Salesloft Drift to investigate the root cause of what occurred and then it’ll be up to them to publish that,&#8221; Mandiant Consulting CTO Charles Carmakal told Cyberscoop. &#8220;There will be a lot more tomorrow, and the next day, and the next day.&#8221;
 • Affiliates Flock to ‘Soulless’ Scam Gambling Machine
   Last month, KrebsOnSecurity tracked the sudden emergence of hundreds of polished online gaming and wagering websites that lure people with free credits and eventually abscond with any cryptocurrency funds deposited by players. We&#8217;ve since learned that these scam gambling sites have proliferated thanks to a new Russian affiliate program called &#8220;Gambler Panel&#8221; that bills itself as a &#8220;soulless project that is made for profit.&#8221;
 A machine-translated version of Gambler Panel&#8217;s affiliate website.
