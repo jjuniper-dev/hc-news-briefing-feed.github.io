@@ -1,6 +1,6 @@
-✅ Morning News Briefing – September 09, 2025 10:44
+✅ Morning News Briefing – September 10, 2025 10:42
 
-📅 Date: 2025-09-09 10:44
+📅 Date: 2025-09-10 10:42
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
@@ -8,10 +8,10 @@
 🧾 Weather
 • No watches or warnings in effect, Pembroke
   No watches or warnings in effect. No warnings or watches or watches in effect . Watch or warnings are no longer in effect in the U.S. No watches, warnings are in effect for the rest of the day . No watches and warnings are still in effect, but no watches are in place for the day's events . The weather is not expected to be affected by the weather .
-• Current Conditions:  4.9°C
-  Temperature: 4.9&deg;C Pressure / Tendency: 102.7 kPa rising Humidity: 99 % Humidity : 99 % Dewpoint: 4 .8&deg:C Wind: S 3 km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Tuesday 9 September 2025 . Weather forecast: 10 September 2025
-• Tuesday: Sunny. High 22.
-  Fog patches dissipating this morning . Sunny. Sunny. High 22. UV index 6 or high . High 22; UV index will be 6 or very high in the morning . Forecast issued 5:00 AM EDT Tuesday 9 September 2025 . For more information on the weather, visit CNN.com/suspective-watcher.com or click here for more details . For
+• Current Conditions:  5.4°C
+  Temperature: 5.4&deg;C Pressure / Tendency: 102.4 kPa falling Humidity: 98 % Humidity : 98 % Dewpoint: 5 .1&deg:C Wind: SSW calm km/h . Air Quality Health Index: n/a . Weather: Pembroke 6:00 AM EDT Wednesday 10 September 2025 at 6.00
+• Wednesday: Mainly sunny. High 24.
+  Fog patches dissipating this morning . Mainly sunny. High 24. Humidex 25. UV index 6 or high . Forecast issued 5:00 AM EDT Wednesday 10 September 2025. Forecast: "Fog patches dissipated this morning. Mainly . sunny. Fog patches . dissipate this morning, high 24. sunny. Humidex 25. sunny . Humide
 
 🌍 International News
 No updates.
@@ -20,45 +20,43 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• The 2025 Student Podcast Challenge Honorable Mentions
-  The honorable mentions were chosen from nearly 2,000 entries in this year's Student Podcast Challenge . Here are the honorable mentions from the competition, chosen from more than 2,200 entries . The honorable mention is the first honorable mention from the Student podcast Challenge . Read the rest of the competition's posts on iReport.com/studentpod.com and iReport@mailonline.com
-• Trump's Medicaid cuts will hurt children's hospitals
-  GOP said its overhaul of Medicaid was aimed at reducing fraud and getting more adult beneficiaries to work . Among the likely side effects: fewer services and doctors for treating sick children . The GOP said it was trying to reduce fraud and get more adults to work in Medicaid . The likely side effect is fewer services for sick children, including fewer doctors and fewer doctors for those treating them sickly children .
-• A new Nation's Report Card shows drops in science, math and reading scores
-  Nation's Report Card is the first since the Trump administration began making cuts to the U.S. Education Department . The scores reflect the state of student achievement in early 2024 . It's the first nation's report card since the cuts were made to the Education Department in the early years of the Obama administration . The report card reflects the state-of-the-art achievement of students in
-• Here they are: The best student podcasts in America
-  For the 2025 NPR Student Podcast Challenge, we've listened to nearly 2,000 entries from around the U.S. and narrowed them down to 11 middle school and 10 high school finalists . We've narrowed the list of finalists to 11 high school and 11 middle and 10 middle school students . For more videos, visit http://www.dailymailonline.com/the2525 .
-• Nepal's prime minister resigns following violent protests against social media ban
-  Nepal's prime minister resigned Tuesday following violent protests against a ban on social media platforms and government corruption . Protests were held in Nepal's capital, Kathmandu, on Tuesday . Protesters were angered by a government ban on the use of social media and corruption . Nepal's PM resigned Tuesday after violent protests over the ban and corruption of the government . Nepal is the most populous country in the
+• Trump says he's fighting crime. Illinois Gov. Pritzker sees a power grab before 2026
+  Illinois Governor JB Pritzker talks about President Trump's threats to send National Guard troops to Chicago . He also talks about the future of the Democratic Party in Illinois . Inskeep talks with Pritzkers about the state's Democratic Party and the future in the U.S. Democratic Party . Pritzkker: "I'm a Democrat, I'm a Republican, and I
+• Who is Lachlan Murdoch, the anointed media tycoon?
+  His position in leading News Corp. and Fox is now secure, as his father ends a dramatic succession battle . Lachlan grew up in New York City but has lived in Australia for much of his adult life . He is the son of Rupert Murdoch, Rupert Murdoch's son-in-law, who has been married for more than a decade . He has been in the news business
+• Trump's control of the D.C. police is due to expire tonight. Then what?
+  Trump needs an extension from Congress to control D.C. police for more than 30 days . Some Republican lawmakers are focused on pursuing legislation that would exert power over the city in other ways . Some Republicans are pushing legislation to exert more control of the police force in other areas of the country . The president needs Congress' approval to keep control of police in Washington, DC, for 30 days
+• You're more likely to reach for that soda when it's hot outside
+  People drink more sugary beverages when it's hot, researchers found . That impact could grow as climate change raises the world's temperatures . The impact of climate change is expected to grow as more people drink more when it comes to hot, the study found . The study was published in the journal Nature Resolutions, published by the University of Cambridge, England, on Monday, July 4 .
+• 33 million voters have been run through a Trump administration citizenship check
+  Tens of millions of U.S. voters have had their information run through the tool . Little has been made public about the tool's accuracy or data security . The tool is a striking portion of the public, considering little has been revealed about the accuracy or security of the data security of it's data . It has been used by millions of Americans, but little is known about its accuracy
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Nokia successor HMD spawns secure device biz with Euro-made smartphone
-  Ivalo XE handset targets governments and security critical sectors, though Qualcomm silicon keeps it tied to the US . Finnish phone maker HMD Global is launching a business unit called HMD Secure to target governments and other security-critical customers, and has its first device ready to go . It has its own device, HMD XE, ready to launch in the US, but Qualcomm
-• Anthropic's Claude Code runs code to test if it is safe – which might be a big mistake
-  Checkmarx says automated reviews in Anthropic's Claude Code can catch some bugs but miss others . It can sometimes create new risks by executing code while testing it, researchers say . AI security reviews add new risks, say researchers . The reviews can catch bugs but also miss others, they say, and sometimes create risks by testing it while it's in place of testing it . Checkmar
-• AI Darwin Awards launch to celebrate spectacularly bad deployments
-  Darwin Awards are being extended to include examples of misadventures involving overzealous applications of AI . From fast food fiascos to botched databases, there are fresh honors for machine learning failures . The Darwin Awards will also be extended to feature examples of over-zealous AI applications of the past and present, including those from the U.S. and Canada, as well as the
-• Legacy tech blunts UK top cops' fight against serious crime, inspectors find
-  Report warns creaking infrastructure undermines National Crime Agency's efficiency and effectiveness . NCA clings to legacy systems and relies on IT strategy that lacks clarity, it has been found . Report: 'IT strategy is lacking clarity' and 'clarity' is needed to improve efficiency of the agency's IT systems, it is claimed . The NCA's IT strategy has been criticised by policing watchdog
-• Microsoft veteran's worst Windows bug was Pinball running at 5,000 FPS
-  Dev admits the game once ate an entire CPU core . Former Microsoft engineer Dave Plummer has come clean and admitted that the worst bug he ever shipped was in... Pinball.……… Pinball. The worst bug in Pinball was in Pinball, which once ate a CPU core core . The bug was a bug in the game that ate a core core of the game's CPU core, Pl
+• Get paid like a prime minister to tame Home Office IT chaos
+  Department dangles £160K salary for CDIO to wrangle legacy systems, failed projects, and £1.8B budget . UK Home Office is on the hunt for a chief digital and innovation officer (CDIO) with an advertised salary not far off from the prime minister's . Home Office has a rich track record of failing IT projects, including legacy systems and failed projects .
+• Flu jab email mishap exposes hundreds of students' personal data
+  A clumsy data breach has affected hundreds of children at a Birmingham secondary school . One parent expressed concern for their child's safety . Hundreds of children were affected by the data breach at the Birmingham school . The school has been hit by a data breach that has left hundreds of pupils at risk of losing their identity . The data breach is believed to have occurred at the school in Birmingham, Birmingham .
+• Johnson, Cummings met Thiel months before Palantir won NHS pandemic role
+  Meeting with former UK PM and his chief advisor withheld from official records . Meeting with Palantir co-founder and chairman Peter Thiel in 2019 months before company landed a key role in UK's COVID-19 response, according to papers seen by The Guardian . Meeting was months before US spy-tech company landed role in the UK's response to the COVID19 response . Palant
+• KDE Linux and FreeBSD hit alpha and – surprise – fan fave Pop_OS nearly at beta
+  The Northern hemisphere is moving into autumn and FOSS vendors are falling over themselves in their efforts to get new versions out for the season . It's the season of FOSS fruitfulness as juicy goodness falls from the branch . The season of autumn is falling over with new versions of software for the first time in the fall . The FOSS community is getting ready to release new versions for the
+• Cybercrooks ripped the wheels off at Jaguar Land Rover. Here's how not to get taken for a ride
+  IT systems across multiple sites have been offline for over a week after what the company described as a "severe disruption" Jaguar Land Rover (JLR) is the latest UK household name to fall victim to a major cyberattack . The company described the attack as a 'severe disruption' in what it called a "severe disruption" JLR: "I'm not sure who has access
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• Home-based care improves blood pressure control
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Protests are infectious: mapping rural unrest in Revolutionary France
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Enhancing Mindfulness-Based Cognitive Therapy in a Virtual Reality: A Prospective Interventional Study
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Changes in cholera burden across Africa
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Nature goes inside the world’s largest ‘mosquito factory’ — here’s the buzz
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Feasibility and clinical utility of expanded genomic newborn screening in the Early Check program
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Longitudinal associations between 24-hour movement behaviors and physical fitness in preschoolers: a compositional isotemporal substitution analysis
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +66,178 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• Adapting to new threats with proactive risk management
+  In July 2024, a botched update to the software defenses managed by cybersecurity firm CrowdStrike caused more than 8 million Windows systems to fail . The outage is estimated to have caused direct losses of more than $5 billion to Fortune 500 companies . As organizations become ever more interconnected, the expanding surface of networks and the rapid adoption of technologies like AI are exposing new vulnerabilities . Cyberattacks are also becoming increasingly sophisticated and damaging as AI-driven malware and malware-as-a-service platforms turbocharge attacks .
+• The Download: meet our AI innovators, and what happens when therapists use AI covertly
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+Meet the AI honorees on our 35 Innovators Under 35 list for 2025
+
+
+
+Each year, we select 35 outstanding individuals under the age of 35 who are using technology to tackle tough problems in their respective fields.Our AI honorees include people who steer model development at Silicon Valley’s biggest tech firms and academic researchers who develop new techniques to improve AI’s performance.Check out all of our AI innovators here, and the full list—including our innovator of the year—here.
+
+
+
+
+
+
+
+How Yichao “Peak” Ji became a global AI app hitmaker
+
+
+
+When Yichao Ji—also known as “Peak”—appeared in a launch video for Manus in March, he didn’t expect it to go viral. Speaking in fluent English, the 32-year-old introduced the AI agent built by Chinese startup Butterfly Effect, where he serves as chief scientist.&nbsp;
+
+
+
+The video was not an elaborate production but something about Ji’s delivery, and the vision behind the product, cut through the noise. The product, then still an early preview available only through invite codes, spread across the Chinese internet to the world in a matter of days. Within a week of its debut, Manus had attracted a waiting list of around 2 million people.Despite his relative youth, Ji has over a decade of experience building products that merge technical complexity with real-world usability. That earned him credibility—and put him at the forefront of a rising class of Chinese technologists with global ambitions. Read the full story.
+
+
+
+—Caiwei Chen
+
+
+
+
+
+
+
+Help! My therapist is secretly using ChatGPT
+
+
+
+In Silicon Valley’s imagined future, AI models are so empathetic that we’ll use them as therapists. They’ll provide mental-health care for millions, unimpeded by the pesky requirements for human counselors, like the need for graduate degrees, malpractice insurance, and sleep. Down here on Earth, something very different has been happening.&nbsp;
+
+
+
+Last week, we published a story about people finding out that their therapists were secretly using ChatGPT during sessions. In some cases it wasn’t subtle; one therapist accidentally shared his screen during a virtual appointment, allowing the patient to see his own private thoughts being typed into ChatGPT in real time.As the writer of the story, Laurie Clarke, points out, it’s not a total pipe dream that AI could be therapeutically useful. But the secretive use by therapists of AI models that are not vetted for mental health is something very different. James O’Donnell, our senior AI reporter, had a conversation with Clarke to hear more about what she found.
+
+
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.
+
+
+
+
+
+
+
+What’s next in tech: the breakthroughs that matter
+
+
+
+Some technologies reshape industries, whether we’re ready or not.Join us for our next LinkedIn Live event on September 10 as our editorial team explores the breakthroughs defining this moment and the ones on the horizon that demand our attention. 
+
+
+
+From quantum computing to humanoid robotics, AI agents to climate tech, we’ll explore the innovations that excite us, the challenges they may bring, and why they’re worth watching now. It kicks off at 12.30pm ET tomorrow—register here to join us.
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 The US is abandoning its international push against disinformation The State Department will no longer collaborate with Europe to combat malicious information spread by foreign governments. (FT $)+ It comes as Russia is increasing its efforts to interfere overseas. (NYT $)
+
+
+
+2 The judge overseeing Anthropic’s copyright case isn’t happyJudge William Alsup says a $1.5 billion out-of-court settlement may not be in the authors&#8217; best interests. (Bloomberg $)
+
+
+
+3 WhatsApp’s former head of security is suing MetaAttaullah Baig is accusing the company of failing to protect user data. (WP $)+ He claims he uncovered systemic security failures, but was ignored. (Bloomberg $)+ Meta maintains that Baig was dismissed for poor performance, not whistleblowing. (NYT $)
+
+
+
+4 DOGE’s acting head is urging the US government to start hiring again Following months of widespread firings and resignations. (Fast Company $)+ How DOGE wreaked havoc in Social Security. (ProPublica)+ DOGE’s tech takeover threatens the safety and stability of our critical data. (MIT Technology Review)
+
+
+
+5 OpenAI is weighing up leaving CaliforniaIt’s worried that state regulators could derail its efforts to convert to a for-profit entity. (WSJ $)+ Rival Anthropic is backing California governor Gavin Newsom’s AI bill. (Politico)
+
+
+
+6 ICE spends millions on facial recognition techIn an effort to pinpoint people it suspects have assaulted officers. (404 Media)+ The Supreme Court has given ICE the go-ahead to target people based on race. (Vox)+ ICE directors were told to triple their daily arrests for undocumented immigrants. (NY Mag $)
+
+
+
+7 AI researchers are training AI to replace themThey’re recording every detail of their working days to help AI grasp their jobs. (The Information $)+ People are worried that AI will take everyone’s jobs. We’ve been here before. (MIT Technology Review)
+
+
+
+8 What comes after the smartphone?The rise of AI agents means we may not be staring at glass slabs forever. (NYT $)+ What’s next for smart glasses. (MIT Technology Review)
+
+
+
+9 Social media’s obsession with ‘locking in’ needs to dieHustle culture and maximizing productivity at all costs are the aims of the game. (Insider $)
+
+
+
+10 What it’s like to receive a massage from a robotWhile it may not be quite as relaxing, it’s relatively cheap. (The Guardian)+ Will we ever trust robots? (MIT Technology Review)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“It was hell on Earth.”
+
+
+
+—Duncan Okindo, who was enslaved in a Myanmar cyberscam compound and beaten for missing his targets, tells the Guardian about his harrowing experience.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+AI means the end of internet search as we’ve known itWe all know what it means, colloquially, to google something. You pop a few words in a search box and in return get a list of blue links to the most relevant results. Fundamentally, it’s just fetching information that’s already out there on the internet and showing it to you, in a structured way.But all that is up for grabs. We are at a new inflection point. The biggest change to the way search engines deliver information to us since the 1990s is happening right now, thanks to generative AI.Not everyone is excited for the change. Publishers are completely freaked out. And people are also worried about what these new LLM-powered results will mean for our fundamental shared reality. Read the full story.
+
+
+
+—Mat Honan
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
+
+
+
++ Stephen King’s list of favorite movies doesn’t feature a whole lot of horror.+ Tune into a breathtaking livestream of Earth, beamed live from the International Space Station.+ Rodent thumbnails are way more important than I gave them credit for + Mark our words, actor Wagner Moura is going to be the next big thing.
 • Help! My therapist is secretly using ChatGPT
   In Silicon Valley’s imagined future, AI models are so empathetic that we’ll use them as therapists. They’ll provide mental-health care for millions, unimpeded by the pesky requirements for human counselors, like the need for graduate degrees, malpractice insurance, and sleep. Down here on Earth, something very different has been happening.&nbsp;
 
@@ -129,11 +299,23 @@ Read the full story from Laurie Clarke.&nbsp;
 
 This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.
 • AI is changing the grid. Could it help more than it harms?
-  The rising popularity of AI is driving an increase in electricity demand so significant it has the potential to reshape our grid. Energy consumption by data centers has gone up by 80% from 2020 to 2025 and is likely to keep growing. Electricity prices are already rising, especially in places where data centers are most concentrated. 
+  The rising popularity of AI is driving an increase in electricity demand so significant it has the potential to reshape our grid. Energy consumption by data centers has gone up by 80% from 2020 to 2025 and is likely to keep growing. Electricity prices are already rising, especially in places where data centers are most concentrated.&nbsp;
 
 
 
 Yet many people, especially in Big Tech, argue that AI will be, on balance, a positive force for the grid. They claim that the technology could help get more clean power online faster, run our power system more efficiently, and predict and prevent failures that cause blackouts.&nbsp;
+
+
+
+
+
+
+
+This story is a part of MIT Technology Review’s series “Power Hungry: AI and our energy future,” on the energy demands and carbon costs of the artificial-intelligence revolution.
+
+
+
+
 
 
 
@@ -187,7 +369,7 @@ Planning ahead
 
 
 
-Another fertile area for AI is planning future updates to the grid. Building a power plant can take a very long time—the typical time from an initial request to commercial operation in the US is roughly four years. One reason for the lengthy wait is that new power plants have to demonstrate how they might affect the rest of the grid before they can connect. 
+Another fertile area for AI is planning future updates to the grid. Building a power plant can take a very long time—the typical time from an initial request to commercial operation in the US is roughly four years. One reason for the lengthy wait is that new power plants have to demonstrate how they might affect the rest of the grid before they can connect.&nbsp;
 
 
 
@@ -215,15 +397,19 @@ While there are early examples of research and pilot programs for AI from grid p
 
 
 
-Some places are already seeing higher electricity prices because of power needs from data centers. The situation is likely to get worse. Electricity demand from data centers is set to double by the end of the decade, reaching 945 terawatt-hours, roughly the annual demand from the entire country of Japan. 
+Some places are already seeing higher electricity prices because of power needs from data centers. The situation is likely to get worse. Electricity demand from data centers is set to double by the end of the decade, reaching 945 terawatt-hours, roughly the annual demand from the entire country of Japan.&nbsp;
 
 
 
-The infrastructure growth needed to support AI load growth has outpaced the promises of the technology, “by quite a bit,” says Panayiotis Moutis, an assistant professor of electrical engineering at the City University of New York. Higher bills caused by the increasing energy needs of AI aren’t justified by existing ways of using the technology for the grid, he says.&nbsp;
+The infrastructure growth needed to support AI load growth has outpaced the promises of the technology, “by quite a bit,” says Panayiotis Moutis, an assistant professor of electrical engineering at the City College of New York. Higher bills caused by the increasing energy needs of AI aren’t justified by existing ways of using the technology for the grid, he says. 
 
 
 
 “At the moment, I am very hesitant to lean on the side of AI being a silver bullet,” Moutis says.&nbsp;
+
+
+
+Correction: This story has been updated to correct Moutis&#8217;s affiliation.
 • Three big things we still don’t know about AI’s energy burden
   Earlier this year, when my colleague Casey Crownhart and I spent six months researching the climate and energy burden of AI, we came to see one number in particular as our white whale: how much energy the leading AI models, like ChatGPT or Gemini, use up when generating a single response.&nbsp;
 
@@ -237,11 +423,29 @@ The problem with finding that number, as we explain in our piece published in Ma
 
 
 
+
+
+
+
+This story is a part of&nbsp;MIT Technology Review’s series “Power Hungry: AI and our energy future,” on the energy demands and carbon costs of the artificial-intelligence revolution.
+
+
+
+
+
+
+
 But then this summer, after we published, a strange thing started to happen. In June, OpenAI’s Sam Altman wrote that an average ChatGPT query uses 0.34 watt-hours of energy. In July, the French AI startup Mistral didn’t publish a number directly but released an estimate of the emissions generated. In August, Google revealed that answering a question to Gemini uses about 0.24 watt-hours of energy. The figures from Google and OpenAI were similar to what Casey and I estimated for medium-size AI models.&nbsp;
 
 
 
 So with this newfound transparency, is our job complete? Did we finally harpoon our white whale, and if so, what happens next for people studying the climate impact of AI? I reached out to some of our old sources, and some new ones, to find out.
+
+
+
+
+
+
 
 
 
@@ -308,430 +512,25 @@ But this summer also saw signs of a slowdown that undercut the industry’s opti
 
 
 One of the biggest unknowns about AI’s future energy burden isn’t how much a single query consumes, or any other figure that can be disclosed. It’s whether demand will ever reach the scale companies are building for or whether the technology will collapse under its own hype. The answer will determine whether today’s buildout becomes a lasting shift in our energy system or a short-lived spike.
-• The Download: introducing our 35 Innovators Under 35 list for 2025
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
-
-
-
-Introducing: our 35 Innovators Under 35 list for 2025
-
-
-
-The world is full of extraordinary young people brimming with ideas for how to crack tough problems. Every year, we recognize 35 such individuals from around the world—all of whom are under the age of 35.
-
-
-
-These scientists, inventors, and entrepreneurs are working to help mitigate climate change, accelerate scientific progress, and alleviate human suffering from disease. Some are launching companies while others are hard at work in academic labs. They were selected from hundreds of nominees by expert judges and our newsroom staff.&nbsp;
-
-
-
-Get to know them all—including our 2025 Innovator of the Year—in these profiles.
-
-
-
-
-
-
-
-Why basic science deserves our boldest investment
-
-
-
-—Julia R. Greer is a materials scientist at the California Institute of Technology, a judge for MIT Technology Review’s Innovators Under 35 and a former honoree (in 2008).
-
-
-
-A modern chip the size of a human fingernail contains tens of billions of silicon transistors, each measured in nanometers—smaller than many viruses. These tiny switches form the infrastructure behind nearly every digital device in use today.
-
-
-
-Much of the fundamental understanding that moved transistor technology forward came from federally funded university research. But that funding is under increasing pressure, thanks to deep budget cuts proposed by the White House.These losses have forced some universities to freeze graduate student admissions, cancel internships, and scale back summer research opportunities—making it harder for young people to pursue scientific and engineering careers.&nbsp;
-
-
-
-In an age dominated by short-term metrics and rapid returns, it can be difficult to justify research whose applications may not materialize for decades. But those are precisely the kinds of efforts we must support if we want to secure our technological future. Read the full story.
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 The US is considering annual chip supply permits in ChinaFor South Korean companies Samsung and SK Hynix, specifically. (Bloomberg $)+ US lawmakers still hold power over chips in China. (CNN)
-
-
-
-2 America has recorded its first case of screwworm in over 50 yearsAnd the warming climate is making it easier for the flies to thrive. (Vox)+ Experts fear an approaching public health emergency. (The Guardian)3 Drone warfare is dominating Ukraine’s frontlineAmid relentless assaults, overhead and land drones are being put to work. (The Guardian)+ How cutting-edge drones forced land-locked tanks to evolve. (NYT $)+ On the ground in Ukraine’s largest Starlink repair shop. (MIT Technology Review)
-
-
-
-4 OpenAI is working out why chatbots hallucinate so muchExamining a model’s incentives provides some clues. (Insider $)+ Models’ tendency to confidently present falsehoods as fact is a big problem. (TechCrunch)+ Why does AI hallucinate? (MIT Technology Review)
-
-
-
-5 How one man is connecting Silicon Valley to the Middle East’s AI boomIf you want to build a data center, Zachary Cefaratti is your man. (FT $)+ The data center boom in the desert. (MIT Technology Review)
-
-
-
-6 The first OpenAI-backed movie is coming to theaters next yearThe animated Critterz is hoping for a Cannes Film Festival debut. (WSJ $)+ A Disney director tried—and failed—to use an AI Hans Zimmer to create a soundtrack. (MIT Technology Review)
-
-
-
-7 Who wants to live forever?These billionaires are confident their cash will pave the way to longer lives. (WSJ $)+ Putin says organ transplants could grant immortality. Not quite. (MIT Technology Review)
-
-
-
-8 Tesla isn’t focused on selling cars any moreThe company’s latest Master Plan is all about humanoid robots. (The Atlantic $)+ The board is willing to offer Musk a $1 trillion pay package if he delivers. (Wired $)+ Uber is gearing up to test driverless cars in Germany. (The Verge)+ China’s EV giants are betting big on humanoid robots. (MIT Technology Review)
-
-
-
-9 Do aliens go on holiday?Scientists wonder whether tourism could be a potential drive for them to visit us. (New Yorker $)+ How these two UFO hunters became go-to experts on America’s “mystery drone” invasion. (MIT Technology Review)
-
-
-
-10 Vodafone’s new TikTok influencer isn’t realIt’s yet another example of AI avatars being used in ads. (The Verge)+ Synthesia’s AI clones are more expressive than ever. Soon they’ll be able to talk back. (MIT Technology Review)
-
-
-
-
-
-
-
-Quote of the day
-
-
-
-“Silicon Valley totally effed up in overhyping LLMs.”
-
-
-
-—Palantir CEO Alex Karp criticizes those who fueled the AI hype around large language models, Semafor reports.
-
-
-
-
-
-
-
-One more thing
-
-
-
-
-
-
-
-Puerto Rico’s power struggles
-
-
-
-On the southeastern coast of Puerto Rico lies the country’s only coal-fired power station, flanked by a mountain of toxic ash. The plant, owned by the utility giant AES, has long plagued this part of Puerto Rico with air and water pollution.Before the coal plant opened Guayama had on average just over 103 cancer cases per year. In 2003, the year after the plant opened, the number of cancer cases in the municipality surged by 50%, to 167.&nbsp;
-
-
-
-In 2022, the most recent year with available data, cases hit a new high of 209. The question is: How did it get this bad? Read the full story.
-
-
-
-—Alexander C. Kaufman
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+ What’s up with tennis players’ strange serving rituals?+ If constant scrolling is turning your hands into gnarled claws, this stretch should help.+ How to land a genuine bargain on Facebook Marketplace.+ This photographer tracks down people who featured in pictures decades before, and persuades them to recreate their poses. Heartwarming stuff
-• How Trump’s policies are affecting early-career scientists—in their own words
-  This story is part of MIT Technology Review’s &#8220;America Undone” series, examining how the foundations of US success in science and innovation are currently under threat. You can read the rest here.
-
-
-
-Every year MIT Technology Review celebrates accomplished young scientists, entrepreneurs, and inventors from around the world in our Innovators Under 35 list. We’ve just published the 2025 edition. This year, though, the context is pointedly different: The US scientific community finds itself in an unprecedented position, with the very foundation of its work under attack.&nbsp;
-
-
-
-Since Donald Trump took office in January, his administration has fired top government scientists, targeted universities individually and academia more broadly, and made substantial funding cuts to the country’s science and technology infrastructure. It has also upended longstanding rights and norms related to free speech, civil rights, and immigration—all of which further affects the overall environment for research and innovation in science and technology.&nbsp;
-
-
-
-We wanted to understand how these changes are affecting the careers and work of our most recent classes of innovators. The US government is the largest source of research funding at US colleges and universities, and many of our honorees are new professors and current or recent graduate or PhD students, while others work with government-funded entities in other ways. Meanwhile, about 16% of those in US graduate programs are international students.&nbsp;
-
-
-
-We sent surveys to the six most recent cohorts, which include 210 people. We asked people about both positive and negative impacts of the administration’s new policies and invited them to tell us more in an optional interview. Thirty-seven completed our survey, and we spoke with 14 of them in follow-up calls. Most respondents are academic researchers (about two-thirds) and are based in the US (81%); 11 work in the private sector (six of whom are entrepreneurs). Their responses provide a glimpse into the complexities of building their labs, companies, and careers in today’s political climate.&nbsp;
-
-
-
-Twenty-six people told us that their work has been affected by the Trump administration’s changes; only one of them described those effects as “mostly positive.” The other 25 reported primarily negative effects. While a few agreed to be named in this story, most asked to be identified only by their job titles and general areas of work, or wished to remain anonymous, for fear of retaliation. “I would not want to flag the ire of the US government,” one interviewee told us.&nbsp;
-
-
-
-Across interviews and surveys, certain themes appeared repeatedly: the loss of jobs, funding, or opportunities; restrictions on speech and research topics; and limits on who can carry out that research. These shifts have left many respondents deeply concerned about the “long-term implications in IP generation, new scientists, and spinout companies in the US,” as one respondent put it.&nbsp;
-
-
-
-
-
-One of the things we heard most consistently is that the uncertainty of the current moment is pushing people to take a more risk-averse approach to their scientific work—either by selecting projects that require fewer resources or that seem more in line with the administration’s priorities, or by erring on the side of hiring fewer people. “We’re not thinking so much about building and enabling … we’re thinking about surviving,” said one respondent.&nbsp;
-
-
-
-Ultimately, many are worried that all the lost opportunities will result in less innovation overall—and caution that it will take time to grasp the full impact.&nbsp;
-
-
-
-“We’re not going to feel it right now, but in like two to three years from now, you will feel it,” said one entrepreneur with a PhD who started his company directly from his area of study. “There are just going to be fewer people that should have been inventing things.”
-
-
-
-The money: “Folks are definitely feeling the pressure”
-
-
-
-The most immediate impact has been financial. Already, the Trump administration has pulled back support for many areas of science—ending more than a thousand awards by the National Institutes of Health and over 100 grants for climate-related projects by the National Science Foundation. The rate of new awards granted by both agencies has slowed, and the NSF has cut the number of graduate fellowships it’s funding by half for this school year.&nbsp;
-
-
-
-The administration has also cut or threatened to cut funding from a growing number of universities, including Harvard, Columbia, Brown, and UCLA, for supposedly not doing enough to combat antisemitism.
-
-
-
-As a result, our honorees said that finding funding to support their work has gotten much harder—and it was already a big challenge before.&nbsp;
-
-
-
-
-
-
-
-A biochemist at a public university told us she’d lost a major NIH grant. Since it was terminated earlier this year, she’s been spending less time in the lab and more on fundraising.&nbsp;
-
-
-
-Others described uncertainty about the status of grants from a wide range of agencies, including NSF, the Advanced Research Projects Agency for Health, the Department of Energy, and the Centers for Disease Control and Prevention, which collectively could pay out more than $44 million to the researchers we’ve recognized. Several had waited months for news on an application’s status or updates on when funds they had already won would be disbursed. One AI researcher who studies climate-related issues is concerned that her multiyear grant may not be renewed, even though renewal would have been “fairly standard” in the past.
-
-
-
-Two individuals lamented the cancellation of 24 awards in May by the DOE’s Office of Clean Energy Demonstrations, including grants for carbon capture projects and a clean cement plant. One said the decision had “severely disrupted the funding environment for climate-tech startups” by creating “widespread uncertainty,” “undermining investor confidence,” and “complicating strategic planning.”&nbsp;
-
-
-
-
-
-Climate research and technologies have been a favorite target of the Trump administration: The recently passed tax and spending bill put stricter timelines in place that make it harder for wind and solar installations to qualify for tax credits via the Inflation Reduction Act. Already, at least 35 major commercial climate-tech projects have been canceled or downsized this year.&nbsp;
-
-
-
-In response to a detailed list of questions, a DOE spokesperson said, “Secretary [Chris] Wright and President Trump have made it clear that unleashing American scientific innovation is a top priority.” They pointed to “robust investments in science” in the president’s proposed budget and the spending bill and cited special areas of focus “to maintain America’s global competitiveness,” including nuclear fusion, high-performance computing, quantum computing, and AI.&nbsp;
-
-
-
-
-
-
-
-Other respondents cited tighter budgets brought on by a change in how the government calculates indirect costs, which are funds included in research grants to cover equipment, institutional overhead, and in some cases graduate students’ salaries. In February, the NIH instituted a 15% cap on indirect costs—which ran closer to 28% of the research funds the NIH awarded in 2023. The DOE, DOD, and NSF all soon proposed similar caps. This collective action has sparked lawsuits, and indirect costs remain in limbo. (MIT, which owns MIT Technology Review, is involved in several of these lawsuits; MIT Technology Review is editorially independent from the university.)&nbsp;
-
-
-
-Looking ahead, an academic at a public university in Texas, where the money granted for indirect costs funds student salaries, said he plans to hire fewer students for his own lab. “It’s very sad that I cannot promise [positions] at this point because of this,” he told us, adding that the cap could also affect the competitiveness of public universities in Texas, since schools elsewhere may fund their student researchers differently.&nbsp;
-
-
-
-At the same time, two people with funding through the Defense Department—which could see a surge of investment under the president’s proposed budget—said their projects were moving forward as planned. A biomedical engineer at a public university in the Midwest expressed excitement about what he perceives as a fresh surge of federal interest in industrial and defense applications of synthetic biology.&nbsp;Still, he acknowledged colleagues working on different projects don&#8217;t feel as optimistic: “Folks are definitely feeling the pressure.”
-
-
-
-Many who are affected by cuts or delays are now looking for new funding sources in a bid to become less reliant on the federal government. Eleven people said they are pursuing or plan to pursue philanthropic and foundation funding or to seek out industry support. However, the amount of private funding available can’t begin to make up the difference in federal funds lost, and investors often focus more on low-risk, short-term applications than on open scientific questions.&nbsp;
-
-
-
-The NIH responded to a detailed list of questions with a statement pointing to unspecified investments in early-career researchers. “Recent updates to our priorities and processes are designed to broaden scientific opportunity rather than restrict it, ensuring that taxpayer-funded research is rigorous, reproducible, and relevant to all Americans,” it reads. The NSF declined a request for comment from MIT Technology Review.&nbsp;
-
-
-
-
-
-
-
-Further complicating this financial picture are tariffs—some of which are already in effect, and many more of which have been threatened. Nine people who responded to our survey said their work is already being affected by these taxes imposed on goods imported into the US. For some scientists, this has meant higher operating costs for their labs: An AI researcher said tariffs are making computational equipment more expensive, while the Texas academic said the cost of buying microscopes from a German firm had gone up by thousands of dollars since he first budgeted for them. (Neither the White House press office nor the White House Office of Science and Technology Policy responded to requests for comment.)&nbsp;
-
-
-
-One cleantech entrepreneur saw a positive impact on his business as more US companies reevaluated their supply chains and sought to incorporate more domestic suppliers. The entrepreneur’s firm, which is based in the US, has seen more interest for its services from potential customers seeking “tariff-proof vendors.”&nbsp;&nbsp;
-
-
-
-“Everybody is proactive on tariffs and we’re one of these solutions—we’re made in America,” he said.&nbsp;
-
-
-
-Another person, who works for a European firm, is factoring potential tariffs into decisions about where to open new production facilities. Though the Trump administration has said the taxes are meant to reinvigorate US manufacturing, she’s now less inclined to build out a significant presence in the US because, she said, tariffs may drive up the costs of importing raw materials that are required to make the company’s product.&nbsp;
-
-
-
-What’s more, financial backers have encouraged her company to stay rooted abroad because of the potential impact of tariffs for US-based facilities: “People who invest worldwide—they are saying it’s reassuring for them right now to consider investing in Europe,” she said.
-
-
-
-The climate of fear: “It will impact the entire university if there is retaliation”&nbsp;
-
-
-
-Innovators working in both academia and the private sector described new concerns about speech and the politicization of science. Many have changed how they describe their work in order to better align with the administration’s priorities—fearing funding cuts, job terminations, immigration action, and other potential retaliation.&nbsp;
-
-
-
-This is particularly true for those who work at universities. The Trump administration has reached deals with some institutions, including Columbia and Brown, that would restore part of the funding it slashed—but only after the universities agreed to pay hefty fines and abide by terms that, critics say, hand over an unprecedented level of oversight to administration officials.&nbsp;
-
-
-
-Some respondents had received guidance on what they could or couldn’t say from program managers at their funding agencies or their universities or investors; others had not received any official guidance but made personal decisions on what to say and share publicly based on recent news of grant cancellations.
-
-
-
-Both on and off campus, there is substantial pressure on diversity, equity, and inclusion (DEI) initiatives, which have been hit particularly hard as the administration seeks to eliminate what it called “illegal and immoral discrimination programs” in one of the first executive orders of President Trump’s second term.&nbsp;&nbsp;
-
-
-
-One respondent, whose work focuses on fighting child sexual abuse materials, recalled rewriting a grant abstract “3x to remove words banned” by Senator Ted Cruz of Texas, an administration ally; back in February, Cruz identified 3,400 NSF grants as “woke DEI” research advancing “neo-Marxist class warfare propaganda.” (His list includes grants to research self-driving cars and solar eclipses. His office did not respond to a request for comment.)&nbsp;
-
-
-
-
-Many other researchers we spoke with are also taking steps to avoid being put in the DEI bucket. A technologist at a Big Tech firm whose work used to include efforts to provide more opportunities for marginalized communities to get into computing has stopped talking about those recruiting efforts. One biologist described hearing that grant applications for the NIH now have to avoid words like “cell type diversity” for “DEI reasons”—no matter that “cell type diversity&#8221; is, she said, a common and “neutral” scientific term in microbiology. (In its statement, the NIH said: “To be clear, no scientific terms are banned, and commonly used terms like ‘cell type diversity’ are fully acceptable in applications and research proposals.”)&nbsp;
-
-
-
-Plenty of other research has also gotten caught up in the storm.&nbsp;
-
-
-
-
-
-
-One person who works in climate technology said that she now talks about “critical minerals,” “sovereignty,” and “energy independence” or “dominance” rather than “climate” or “industrial decarbonization.” (Trump’s Energy Department has boosted investment in critical minerals, pledging nearly $1 billion to support related projects.) Another individual working in AI said she has been instructed to talk less about “regulation,” “safety,” or “ethics” as they relate to her work. One survey respondent described the language shift as “definitely more red-themed.”
-
-
-
-
-Some said that shifts in language won’t change the substance of their work, but others feared they will indeed affect the research itself.&nbsp;
-
-
-
-Emma Pierson, an assistant professor of computer science at the University of California, Berkeley, worried that AI companies may kowtow to the administration, which could in turn “influence model development.” While she noted that this fear is speculative, the Trump administration’s AI Action Plan contains language that directs the federal government to purchase large language models that generate “truthful responses” (by the administration’s definition), with a goal of “preventing woke AI in the federal government.”&nbsp;
-
-
-
-
-And one biomedical researcher fears that the administration’s effective ban on DEI will force an end to outreach “favoring any one community” and hurt efforts to improve the representation of women and people of color in clinical trials. The NIH and the Food and Drug Administration had been working for years to address the historic underrepresentation of these groups through approaches including specific funding opportunities to address health disparities; many of these efforts have recently been cut.&nbsp;
-
-
-
-
-Respondents from both academia and the private sector told us they’re aware of the high stakes of speaking out.&nbsp;
-
-
-
-“As an academic, we have to be very careful about how we voice our personal opinion because it will impact the entire university if there is retaliation,” one engineering professor told us.&nbsp;
-
-
-
-“I don’t want to be a target,” said one cleantech entrepreneur, who worries not only about reprisals from the current administration but also about potential blowback from Democrats if he cooperates with it.&nbsp;
-
-
-
-“I’m not a Trumper!” he said. “I’m just trying not to get fined by the EPA.”&nbsp;
-
-
-
-
-The people: “The adversarial attitude against immigrants … is posing a brain drain”
-
-
-
-Immigrants are crucial to American science, but what one respondent called a broad “persecution of immigrants,” and an increasing climate of racism and xenophobia, are matters of growing concern.&nbsp;
-
-
-
-Some people we spoke with feel vulnerable, particularly those who are immigrants themselves. The Trump administration has revoked 6,000 international student visas (causing federal judges to intervene in some cases) and threatened to “aggressively” revoke the visas of Chinese students in particular. In recent months, the Justice Department has prioritized efforts to denaturalize certain citizens, while similar efforts to revoke green cards granted decades ago were shut down by court order. One entrepreneur who holds a green card told us, “I find myself definitely being more cognizant of what I’m saying in public and certainly try to stay away from anything political as a result of what’s going on, not just in science but in the rest of the administration’s policies.”&nbsp;
-
-
-
-On top of all this, federal immigration raids and other enforcement actions—authorities have turned away foreign academics upon arrival to the US and detained others with valid academic visas, sometimes because of their support for Palestine—have created a broad climate of fear.&nbsp;&nbsp;
-
-
-
-Four respondents said they were worried about their own immigration status, while 16 expressed concerns about their ability to attract or retain talent, including international students. More than a million international students studied in the US last year, with nearly half of those enrolling in graduate programs, according to the Institute of International Education.&nbsp;
-
-
-
-“The adversarial attitude against immigrants, especially those from politically sensitive countries, is posing a brain drain,” an AI researcher at a large public university on the West Coast told us.&nbsp;
-
-
-
-This attack on immigration in the US can be compounded by state-level restrictions. Texas and Florida both restrict international collaborations with and recruitment of scientists from countries&nbsp;including China, even though researchers told us that international collaborations could help mitigate the impacts of decreased domestic funding. “I cannot collaborate at this point because there’s too many restrictions and Texas also can limit us from visiting some countries,” the Texas academic said. “We cannot share results. We cannot visit other institutions … and we cannot give talks.”
-
-
-
-All this is leading to more interest in positions outside the United States. One entrepreneur, whose business is multinational, said that their company has received a much higher share of applications from US-based candidates to openings in Europe than it did a year ago, despite the lower salaries offered there.&nbsp;
-
-
-
-“It is becoming easier to hire good people in the UK,” confirmed Karen Sarkisyan, a synthetic biologist based in London.&nbsp;
-
-
-
-At least one US-based respondent, an academic in climate technology, accepted a tenured position in the United Kingdom. Another said that she was looking for positions in other countries, despite her current job security and “very good” salary. “I can tell more layoffs are coming, and the work I do is massively devalued. I can’t stand to be in a country that treats their scientists and researchers and educated people like this,” she told us.&nbsp;
-
-
-
-Some professors reported in our survey and interviews that their current students are less interested in pursuing academic careers because graduate and PhD students are losing offers and opportunities as a result of grant cancellations. So even as the number of international students dwindles, there may also be “shortages in domestic grad students,” one mechanical engineer at a public university said, and “research will fall behind.”&nbsp;&nbsp;
-
-
-
-
-Have more information on this story or a tip for something else that we should report? Using a non-work device, reach the reporter on Signal at eileenguo.15 or tips@technologyreview.com.
-
-
-
-
-In the end, this will affect not just academic research but also private-sector innovation. One biomedical entrepreneur told us that academic collaborators frequently help his company generate lots of ideas: “We hope that some of them will pan out and become very compelling areas for us to invest in.” Particularly for small startups without large research budgets, having fewer academics to work with will mean that “we just invest less, we just have fewer options to innovate,” he said. “The level of risk that industry is willing to take is generally lower than academia, and you can’t really bridge that gap.”&nbsp;
-
-
-
-Despite it all, a number of researchers and entrepreneurs who generally expressed frustration about the current political climate said they still consider the US the best place to do science.&nbsp;
-
-
-
-Pierson, the AI researcher at Berkeley, described staying committed to her research into social inequities despite the political backlash: “I’m an optimist. I do believe this will pass, and these problems are not going to pass unless we work on them.”&nbsp;
-
-
-
-And a biotech entrepreneur pointed out that US-based scientists can still command more resources than those in most other countries. “I think the US still has so much going for it. Like, there isn’t a comparable place to be if you’re trying to be on the forefront of innovation—trying to build a company or find opportunities,” he said.
-
-
-
-Several academics and founders who came to the US to pursue scientific careers spoke about still being drawn to America’s spirit of invention and the chance to advance on their own merits. “For me, I’ve always been like, the American dream is something real,” said one. They said they’re holding fast to those ideals—for now.
 
 🔒 Cybersecurity & Privacy
+• Microsoft Patch Tuesday, September 2025 Edition
+  Microsoft Corp. today issued security updates to fix more than 80 vulnerabilities in its Windows operating systems and software. There are no known &#8220;zero-day&#8221; or actively exploited vulnerabilities in this month&#8217;s bundle from Redmond, which nevertheless includes patches for 13 flaws that earned Microsoft&#8217;s most-dire &#8220;critical&#8221; label. Meanwhile, both Apple and Google recently released updates to fix zero-day bugs in their devices.
+
+Microsoft assigns security flaws a &#8220;critical&#8221; rating when malware or miscreants can exploit them to gain remote access to a Windows system with little or no help from users. Among the more concerning critical bugs quashed this month is CVE-2025-54918. The problem here resides with Windows NTLM, or NT LAN Manager, a suite of code for managing authentication in a Windows network environment.
+Redmond rates this flaw as &#8220;Exploitation More Likely,&#8221; and although it is listed as a privilege escalation vulnerability, Kev Breen at Immersive says this one is actually exploitable over the network or the Internet.
+&#8220;From Microsoft’s limited description, it appears that if an attacker is able to send specially crafted packets over the network to the target device, they would have the ability to gain SYSTEM-level privileges on the target machine,&#8221; Breen said. &#8220;The patch notes for this vulnerability state that &#8216;Improper authentication in Windows NTLM allows an authorized attacker to elevate privileges over a network,&#8217; suggesting an attacker may already need to have access to the NTLM hash or the user&#8217;s credentials.&#8221;
+Breen said another patch &#8212; CVE-2025-55234, a 8.8 CVSS-scored flaw affecting the Windows SMB client for sharing files across a network &#8212; also is listed as privilege escalation bug but is likewise remotely exploitable. This vulnerability was publicly disclosed prior to this month.
+&#8220;Microsoft says that an attacker with network access would be able to perform a replay attack against a target host, which could result in the attacker gaining additional privileges, which could lead to code execution,&#8221; Breen noted.
+CVE-2025-54916 is an &#8220;important&#8221; vulnerability in Windows NTFS &#8212; the default filesystem for all modern versions of Windows &#8212; that can lead to remote code execution. Microsoft likewise thinks we are more than likely to see exploitation of this bug soon: The last time Microsoft patched an NTFS bug was in March 2025 and it was already being exploited in the wild as a zero-day.
+&#8220;While the title of the CVE says &#8216;Remote Code Execution,&#8217; this exploit is not remotely exploitable over the network, but instead needs an attacker to either have the ability to run code on the host or to convince a user to run a file that would trigger the exploit,&#8221; Breen said. &#8220;This is commonly seen in social engineering attacks, where they send the user a file to open as an attachment or a link to a file to download and run.&#8221;
+Critical and remote code execution bugs tend to steal all the limelight, but Tenable Senior Staff Research Engineer Satnam Narang notes that nearly half of all vulnerabilities fixed by Microsoft this month are privilege escalation flaws that require an attacker to have gained access to a target system first before attempting to elevate privileges.
+&#8220;For the third time this year, Microsoft patched more elevation of privilege vulnerabilities than remote code execution flaws,&#8221; Narang observed.
+On Sept. 3, Google fixed two flaws that were detected as exploited in zero-day attacks, including CVE-2025-38352, an elevation of privilege in the Android kernel, and CVE-2025-48543, also an elevation of privilege problem in the Android Runtime component.
+Also, Apple recently patched its seventh zero-day (CVE-2025-43300) of this year. It was part of an exploit chain used along with a vulnerability in the WhatsApp (CVE-2025-55177) instant messenger to hack Apple devices. Amnesty International reports that the two zero-days have been used in &#8220;an advanced spyware campaign&#8221; over the past 90 days. The issue is fixed in iOS 18.6.2, iPadOS 18.6.2, iPadOS 17.7.10, macOS Sequoia 15.6.1, macOS Sonoma 14.7.8, and macOS Ventura 13.7.8.
+The SANS Internet Storm Center has a clickable breakdown of each individual fix from Microsoft, indexed by severity and CVSS score. Enterprise Windows admins involved in testing patches before rolling them out should keep an eye on askwoody.com, which often has the skinny on wonky updates.
+AskWoody also reminds us that we&#8217;re now just two months out from Microsoft discontinuing free security updates for Windows 10 computers. For those interested in safely extending the lifespan and usefulness of these older machines, check out last month&#8217;s Patch Tuesday coverage for a few pointers.
+As ever, please don&#8217;t neglect to back up your data (if not your entire system) at regular intervals, and feel free to sound off in the comments if you experience problems installing any of these fixes.
 • 18 Popular Code Packages Hacked, Rigged to Steal Crypto
   At least 18 popular JavaScript code packages that are collectively downloaded more than two billion times each week were briefly compromised with malicious software today, after a developer involved in maintaining the projects was phished. The attack appears to have been quickly contained and was narrowly focused on stealing cryptocurrency. But experts warn that a similar attack with a slightly more nefarious payload could lead to a disruptive malware outbreak that is far more difficult to detect and restrain.
 This phishing email lured a developer into logging in at a fake NPM website and supplying a one-time token for two-factor authentication. The phishers then used that developer&#8217;s NPM account to add malicious code to at least 18 popular JavaScript code packages.
@@ -748,7 +547,7 @@ Philippe Caturegli, &#8220;chief hacking officer&#8221; at the security consulta
 Junon&#8217;s mea cupla on Hackernews today listed the affected packages.
 Caturegli said it&#8217;s remarkable that the attackers in this case were not more ambitious or malicious with their code modifications.
 &#8220;The crazy part is they compromised billions of websites and apps just to target a couple of cryptocurrency things,&#8221; he said. &#8220;This was a supply chain attack, and it could easily have been something much worse than crypto harvesting.&#8221;
-Akito&#8217;s Eriksen agreed, saying countless websites dodged a bullet because this incident was handled in a matter of hours. As an example of how these supply-chain attacks can escalate quickly, Eriksen pointed to another compromise of an NPM developer in late August that added malware to &#8220;nx,&#8221; an open-source code development toolkit with as many as six million weekly downloads.
+Aikido&#8217;s Eriksen agreed, saying countless websites dodged a bullet because this incident was handled in a matter of hours. As an example of how these supply-chain attacks can escalate quickly, Eriksen pointed to another compromise of an NPM developer in late August that added malware to &#8220;nx,&#8221; an open-source code development toolkit with as many as six million weekly downloads.
 In the nx compromise, the attackers introduced code that scoured the user&#8217;s device for authentication tokens from programmer destinations like GitHub and NPM, as well as SSH and API keys. But instead of sending those stolen credentials to a central server controlled by the attackers, the malicious code created a new public repository in the victim&#8217;s GitHub account, and published the stolen data there for all the world to see and download.
 Eriksen said coding platforms like GitHub and NPM should be doing more to ensure that any new code commits for broadly-used packages require a higher level of attestation that confirms the code in question was in fact submitted by the person who owns the account, and not just by that person&#8217;s account.
 &#8220;More popular packages should require attestation that it came through trusted provenance and not just randomly from some location on the Internet,&#8221; Eriksen said. &#8220;Where does the package get uploaded from, by GitHub in response to a new pull request into the main branch, or somewhere else? In this case, they didn&#8217;t compromise the target&#8217;s GitHub account. They didn&#8217;t touch that. They just uploaded a modified version that didn&#8217;t come where it&#8217;s expected to come from.&#8221;
@@ -791,6 +590,292 @@ Dijkxhoorn said WinRed did inquire recently about why some of its assets had bee
 No updates.
 
 🏢 Corporate AI
+• Breaking the networking wall in AI infrastructure
+  Memory and network bottlenecks are increasingly limiting AI system performance by reducing GPU&nbsp;utilization&nbsp;and overall efficiency,&nbsp;ultimately preventing&nbsp;infrastructure from reaching its full potential&nbsp;despite enormous investments.&nbsp;At the&nbsp;core&nbsp;of this challenge is a fundamental trade-off in the communication technologies used for memory and network interconnects.
+
+
+
+Datacenters typically deploy two types of physical cables&nbsp;for&nbsp;communication between&nbsp;GPUs.&nbsp;Traditional copper links&nbsp;are power-efficient and&nbsp;reliable,&nbsp;but&nbsp;limited to&nbsp;very short&nbsp;distances&nbsp;(simultaneously.&nbsp;This approach leverages a hardware-system co-design and adopts&nbsp;a wide-and-slow design with hundreds of parallel low-speed channels using&nbsp;microLEDs.&nbsp;
+
+
+
+The fundamental trade-off&nbsp;among&nbsp;power, reliability, and reach&nbsp;stems from&nbsp;the&nbsp;narrow-and-fast&nbsp;architecture&nbsp;deployed&nbsp;in&nbsp;today&#8217;s copper and optical links,&nbsp;comprising&nbsp;a few channels&nbsp;operating&nbsp;at&nbsp;very high&nbsp;data rates. For example,&nbsp;an&nbsp;800 Gbps link&nbsp;consists of eight 100 Gbps channels.&nbsp;With&nbsp;copper links, higher channel speeds lead to greater signal integrity challenges, which limits their reach.&nbsp;With optical&nbsp;links,&nbsp;high-speed transmission is inherently inefficient, requiring power-hungry laser drivers and&nbsp;complex electronics&nbsp;to compensate for transmission impairments. These challenges&nbsp;grow&nbsp;as speeds increase&nbsp;with&nbsp;every&nbsp;generation&nbsp;of networks.&nbsp;Transmitting at high speeds also pushes the limits of optical components, reducing&nbsp;systems&nbsp;margins&nbsp;and increasing failure rates.&nbsp;
+
+
+
+These limitations force systems designers to make unpleasant&nbsp;choices,&nbsp;limiting the scalability of AI infrastructure.&nbsp;For example,&nbsp;scale-up networks connecting AI accelerators at&nbsp;multi-Tbps&nbsp;bandwidth&nbsp;typically&nbsp;must&nbsp;rely on&nbsp;copper links&nbsp;to meet&nbsp;the&nbsp;power budget,&nbsp;requiring&nbsp;ultra-dense racks that&nbsp;consume&nbsp;hundreds of kilowatts&nbsp;per rack. This creates significant challenges in cooling&nbsp;and&nbsp;mechanical design,&nbsp;which constrain&nbsp;the practical scale of these networks and end-to-end performance. This imbalance&nbsp;ultimately&nbsp;erects&nbsp;a&nbsp;networking wall&nbsp;akin&nbsp;to the&nbsp;memory wall, in&nbsp;which CPU speeds have outstripped memory speeds, creating performance bottlenecks.
+
+
+
+A technology offering copper-like power efficiency and reliability over long distances can overcome this networking wall, enabling multi-rack scale-up domains and unlocking new architectures. This is a highly active R&amp;D area, with many candidate technologies currently being developed across the industry. In our recent paper, “MOSAIC: Breaking the Optics versus Copper Trade-off with a Wide-and-Slow Architecture and MicroLEDs”, which received the Best Paper award at ACM SIGCOMM (opens in new tab), we present one such promising approach that is the result of a multi-year collaboration between Microsoft Research, Azure, and M365. This work is centered around an optical wide-and-slow architecture, shifting from a small number of high-speed serial channels towards hundreds of parallel low-speed channels. This would be impractical to realize with today’s copper and optical technologies because of i) electromagnetic interference challenges in high-density copper cables and ii) the high cost and power consumption of lasers in optical links, as well as the increase in packaging complexity. MOSAIC overcomes these issues by leveraging directly modulated microLEDs, a technology originally developed for screen displays. 
+
+
+
+MicroLEDs&nbsp;are significantly smaller than traditional LEDs (ranging from a few to tens of&nbsp;microns) and, due to their&nbsp;small size,&nbsp;they&nbsp;can be modulated at several Gbps.&nbsp;They&nbsp;are manufactured in large arrays,&nbsp;with over half a million&nbsp;in a small physical footprint for high-resolution displays&nbsp;like&nbsp;head-mounted devices or smartwatches. For example, assuming 2 Gbps per&nbsp;microLED&nbsp;channel, an 800 Gbps MOSAIC link can be realized by using a 20×20&nbsp;microLED&nbsp;array, which can fit in less than 1 mm×1 mm&nbsp;silicon&nbsp;die.&nbsp;
+
+
+
+MOSAIC’s&nbsp;wide-and-slow&nbsp;design&nbsp;provides four core benefits.
+
+
+
+
+Operating&nbsp;at low speed improves power efficiency&nbsp;by&nbsp;eliminating&nbsp;the need for&nbsp;complex&nbsp;electronics&nbsp;and&nbsp;reducing optical power requirements.
+
+
+
+By&nbsp;leveraging&nbsp;optical transmission (via&nbsp;microLEDs),&nbsp;MOSAIC&nbsp;sidesteps&nbsp;copper’s reach issues, supporting distances up to 50 meters,&nbsp;or&nbsp;> 10x&nbsp;further&nbsp;than copper.
+
+
+
+MicroLEDs’&nbsp;simpler structure&nbsp;and temperature insensitivity&nbsp;make them more reliable than lasers. The parallel nature of&nbsp;wide-and-slow&nbsp;also&nbsp;makes it easy to add redundant channels, further increasing reliability, up to two orders of magnitude higher than optical links.&nbsp;
+
+
+
+The&nbsp;approach is also scalable, as higher aggregate speeds (e.g.,&nbsp;1.6&nbsp;Tbps&nbsp;or 3.2&nbsp;Tbps) can be achieved by increasing the number of&nbsp;channels and/or raising per-channel speed&nbsp;(e.g., to 4-8 Gbps).&nbsp;
+
+
+
+
+Further,&nbsp;MOSAIC is fully compatible with today’s pluggable transceivers’ form&nbsp;factor&nbsp;and it provides a drop-in replacement for today’s copper and optical cables, without requiring any changes to existing server and network infrastructure.&nbsp;MOSAIC is protocol-agnostic, as it simply relays bits from one endpoint to another without&nbsp;terminating&nbsp;or inspecting the connection&nbsp;and, hence,&nbsp;it’s&nbsp;fully compatible with today’s protocols (e.g.,&nbsp;Ethernet, PCIe, CXL).&nbsp;We are currently working with our suppliers to&nbsp;productize&nbsp;this technology and&nbsp;scale&nbsp;to mass production.&nbsp;
+
+
+
+While&nbsp;conceptually simple, realizing this architecture posed a few key challenges&nbsp;across the stack, which&nbsp;required&nbsp;a multi-disciplinary team with&nbsp;expertise&nbsp;spanning across integrated photonics, lens design, optical transmission, and&nbsp;analog&nbsp;and digital design.&nbsp;For example, using individual&nbsp;fibers&nbsp;per channel would be prohibitively complex and costly due to the&nbsp;large number&nbsp;of channels. We addressed this by employing imaging&nbsp;fibers,&nbsp;which are typically used for medical applications (e.g., endoscopy).&nbsp;They&nbsp;can support thousands of cores&nbsp;per&nbsp;fiber, enabling multiplexing&nbsp;of&nbsp;many channels within a single&nbsp;fiber.&nbsp;Also,&nbsp;microLEDs&nbsp;are a less pure light source&nbsp;than lasers,&nbsp;with&nbsp;a larger beam shape (which complicates&nbsp;fiber&nbsp;coupling) and&nbsp;a broader spectrum (which&nbsp;degrades&nbsp;fiber&nbsp;transmission due to chromatic dispersion).&nbsp;We tackled these issues through&nbsp;a novel&nbsp;microLED and&nbsp;optical lens design,&nbsp;and&nbsp;a power-efficient&nbsp;analog-only electronic back&nbsp;end, which does not require any expensive digital signal processing.&nbsp;&nbsp;
+
+
+
+Based on our current estimates, this approach can save&nbsp;up to 68% of power, i.e., more&nbsp;than 10W per cable while reducing failure rates by up to 100x. With global annual shipments of optical cables&nbsp;reaching into&nbsp;the tens of millions, this translates to over 100MW of power savings per year,&nbsp;enough to power more than 300,000 homes. While these immediate gains are already significant, the unique combination of low power consumption, reduced cost, high reliability, and long reach opens up exciting new opportunities&nbsp;to rethink&nbsp;AI&nbsp;infrastructure from network and cluster architectures to compute and memory designs.
+
+
+
+For example,&nbsp;by&nbsp;supporting&nbsp;low-power,&nbsp;high-bandwidth connectivity at long reach,&nbsp;MOSAIC&nbsp;removes the need for ultra-dense racks and&nbsp;enables&nbsp;novel network topologies, which would be impractical today. The resulting redesign could&nbsp;reduce&nbsp;resource fragmentation and&nbsp;simplify&nbsp;collective optimization.&nbsp;Similarly,&nbsp;on the&nbsp;compute&nbsp;front,&nbsp;the ability&nbsp;to&nbsp;connect&nbsp;silicon&nbsp;dies at low power over long distances&nbsp;could&nbsp;enable&nbsp;resource&nbsp;disaggregation, shifting from today’s&nbsp;large,&nbsp;multi-die packages to&nbsp;smaller, more cost-effective, ones.&nbsp;Bypassing packaging area constraints would also make it possible to drastically increase&nbsp;GPU&nbsp;memory&nbsp;capacity and bandwidth,&nbsp;while&nbsp;facilitating&nbsp;adoption of&nbsp;novel memory technologies.&nbsp;
+
+
+
+Historically, step changes in network technology have unlocked entirely new classes of applications and workloads. While our SIGCOMM paper provides&nbsp;possible future&nbsp;directions, we hope this work sparks broader discussion and collaboration across the research and industry communities.
+Opens in a new tabThe post Breaking the networking wall in AI infrastructure  appeared first on Microsoft Research.
+• Powering innovation at scale: How AWS is tackling AI infrastructure challenges
+  As generative AI continues to transform how enterprises operate—and develop net new innovations—the infrastructure demands for training and deploying AI models have grown exponentially. Traditional infrastructure approaches are struggling to keep pace with today’s computational requirements, network demands, and resilience needs of modern AI workloads. 
+At AWS, we’re also seeing a transformation across the technology landscape as organizations move from experimental AI projects to production deployments at scale. This shift demands infrastructure that can deliver unprecedented performance while maintaining security, reliability, and cost-effectiveness. That’s why we’ve made significant investments in networking innovations, specialized compute resources, and resilient infrastructure that’s designed specifically for AI workloads. 
+Accelerating model experimentation and training with SageMaker AI 
+The gateway to our AI infrastructure strategy is Amazon SageMaker AI, which provides purpose-built tools and workflows to streamline experimentation and accelerate the end-to-end model development lifecycle. One of our key innovations in this area is Amazon SageMaker HyperPod, which removes the undifferentiated heavy lifting involved in building and optimizing AI infrastructure. 
+At its core, SageMaker HyperPod represents a paradigm shift by moving beyond the traditional emphasis on raw computational power toward intelligent and adaptive resource management. It comes with advanced resiliency capabilities so that clusters can automatically recover from model training failures across the full stack, while automatically splitting training workloads across thousands of accelerators for parallel processing. 
+The impact of infrastructure reliability on training efficiency is significant. On a 16,000-chip cluster, for instance, every 0.1% decrease in daily node failure rate improves cluster productivity by 4.2% —translating to potential savings of up to $200,000 per day for a 16,000 H100 GPU cluster. To address this challenge, we recently introduced Managed Tiered Checkpointing in HyperPod, leveraging CPU memory for high-performance checkpoint storage with automatic data replication. This innovation helps deliver faster recovery times and is a cost-effective solution compared to traditional disk-based approaches. 
+For those working with today’s most popular models, HyperPod also offers over 30 curated model training recipes, including support for OpenAI GPT-OSS, DeepSeek R1, Llama, Mistral, and Mixtral. These recipes automate key steps like loading training datasets, applying distributed training techniques, and configuring systems for checkpointing and recovery from infrastructure failures. And with support for popular tools like Jupyter, vLLM, LangChain, and MLflow, you can manage containerized apps and scale clusters dynamically as you scale your foundation model training and inference workloads. 
+Overcoming the bottleneck: Network performance 
+As organizations scale their AI initiatives from proof of concept to production, network performance often becomes the critical bottleneck that can make or break success. This is particularly true when training large language models, where even minor network delays can add days or weeks to training time and significantly increase costs. In 2024, the scale of our networking investments was unprecedented; we installed over 3 million network links to support our latest AI network fabric, or 10p10u infrastructure. Supporting more than 20,000 GPUs while delivering 10s of petabits of bandwidth with under 10 microseconds of latency between servers, this infrastructure enables organizations to train massive models that were previously impractical or impossibly expensive. To put this in perspective: what used to take weeks can now be accomplished in days, allowing companies to iterate faster and bring AI innovations to customers sooner. 
+At the heart of this network architecture is our revolutionary Scalable Intent Driven Routing (SIDR) protocol and Elastic Fabric Adapter (EFA). SIDR acts as an intelligent traffic control system that can instantly reroute data when it detects network congestion or failures, responding in under one second—ten times faster than traditional distributed networking approaches. 
+Accelerated computing for AI 
+The computational demands of modern AI workloads are pushing traditional infrastructure to its limits. Whether you’re fine-tuning a foundation model for your specific use case or training a model from scratch, having the right compute infrastructure isn’t just about raw power—it’s about having the flexibility to choose the most cost-effective and efficient solution for your specific needs. 
+AWS offers the industry’s broadest selection of accelerated computing options, anchored by both our long-standing partnership with NVIDIA and our custom-built AWS Trainium chips. This year’s launch of P6 instances featuring NVIDIA Blackwell chips demonstrates our continued commitment to bringing the latest GPU technology to our customers. The P6-B200 instances provide 8 NVIDIA Blackwell GPUs with 1.4 TB of high bandwidth GPU memory and up to 3.2 Tbps of EFAv4 networking. In preliminary testing, customers like JetBrains have already seen greater than 85% faster training times on P6-B200 over H200-based P5en instances across their ML pipelines. 
+To make AI more affordable and accessible, we also developed AWS Trainium, our custom AI chip designed specifically for ML workloads. Using a unique systolic array architecture, Trainium creates efficient computing pipelines that reduce memory bandwidth demands. To simplify access to this infrastructure, EC2 Capacity Blocks for ML also enable you to reserve accelerated compute instances within EC2 UltraClusters for up to six months, giving customers predictable access to the accelerated compute they need. 
+Preparing for tomorrow’s innovations, today 
+As AI continues to transform every aspect of our lives, one thing is clear: AI is only as good as the foundation upon which it is built. At AWS, we’re committed to being that foundation, delivering the security, resilience, and continuous innovation needed for the next generation of AI breakthroughs. From our revolutionary 10p10u network fabric to custom Trainium chips, from P6e-GB200 UltraServers to SageMaker HyperPod’s advanced resilience capabilities, we’re enabling organizations of all sizes to push the boundaries of what’s possible with AI. We’re excited to see what our customers will build next on AWS. 
+ 
+About the author 
+Barry Cooks is a global enterprise technology veteran with 25 years of experience leading teams in cloud computing, hardware design, application microservices, artificial intelligence, and more. As VP of Technology at Amazon, he is responsible for compute abstractions (containers, serverless, VMware, micro-VMs), quantum experimentation, high performance computing, and AI training. He oversees key AWS services including AWS Lambda, Amazon Elastic Container Service, Amazon Elastic Kubernetes Service, and Amazon SageMaker. Barry also leads responsible AI initiatives across AWS, promoting the safe and ethical development of AI as a force for good. Prior to joining Amazon in 2022, Barry served as CTO at DigitalOcean, where he guided the organization through its successful IPO. His career also includes leadership roles at VMware and Sun Microsystems. Barry holds a BS in Computer Science from Purdue University and an MS in Computer Science from the University of Oregon.
+• Accelerate your model training with managed tiered checkpointing on Amazon SageMaker HyperPod
+  As organizations scale their AI infrastructure to support trillion-parameter models, they face a difficult trade-off: reduced training time with lower cost or faster training time with a higher cost. When they checkpoint frequently to speed up recovery time and minimize lost training time, they incur in substantially higher storage cost. And when they checkpoint infrequently, they reduce costs at the risk of losing valuable training progress when failures occur. 
+This challenge is exacerbated in large distributed training environments, with thousands of accelerators, where issues can occur frequently. According to an article released by Meta, one failure happened every 3 hours during the Meta Llama 3 model training. The GPU issues accounted for 60% of the total failures, and network, CPU, and disks account the other 40%. With infrequent checkpointing, these accumulated failures can result in losing days of training progress over the course of a complete training run, thereby driving up costs and time to market. Frequent checkpoints can saturate networks, overload storage, and result in unpredictable performance. 
+To help solve these challenges, AWS announced managed tiered checkpointing in Amazon SageMaker HyperPod, a purpose-built infrastructure to scale and accelerate generative AI model development across thousands of AI accelerators. Managed tiered checkpointing uses CPU memory for high-performance checkpoint storage with automatic data replication across adjacent compute nodes for enhanced reliability. Although SageMaker HyperPod identifies node issues automatically and replaces those nodes so your training can resume, managed tiered checkpointing helps you implement the best checkpointing strategy and maximize your training throughput. 
+Managed tiered checkpointing has been tested on large distributed training clusters ranging from hundreds of GPU to over 15,000 GPU, with checkpoints being saved within seconds. 
+In this post, we dive deep into those concepts and understand how to use the managed tiered checkpointing feature. 
+Solution overview 
+Checkpointing is the method of saving an intermediate model’s state during the training process. You can resume training from a recent checkpoint in the event of an issue by saving the model’s parameters, optimizer states, and other metadata during training. Additionally, you can resolve training problems, such as irregular learning rates, without a full restart by loading an earlier checkpoint state. 
+Use the following formula to find a rough initial estimate of the total size of the checkpoint for your model without the optimizer state:Model checkpoint size (GB) = (Number of parameters × Bytes per parameter) ÷ 10243 bytesFor example, if you train a Meta Llama 3 70-billion-parameter model using BFloat16 as the parameter’s precision, the checkpoint size will be 130 GB. If you train a DeepSeek-R1 671-billion-parameter model using BFloat16, the checkpoint size will be 1.25 TB. All without storing optimizer states.Checkpoints include optimizer states, training metadata (such as step number), and other additional data, resulting in a larger than expected size. When using an Adam optimizer, the optimizer will save three additional float16 statistics per parameter, resulting in an additional 6 bytes per parameter. Therefore, with the optimizer state saved, the Meta Llama 3 70B model checkpoint size will be approximately 521 GB, and the DeepSeek-R1 671B model checkpoint size will be approximately 5 TB. That is a four-times increase in size, and handling those checkpoints becomes a challenge. 
+The following table summarizes the checkpoint sizes for each model. 
+ 
+  
+   
+   Model name 
+   Size of Checkpoint 
+   Size of Checkpoint + Optimizer States 
+   
+   
+   Meta Llama 3 70B 
+   130 GB 
+   521 GB 
+   
+   
+   DeepSeek R1 671B 
+   1.43 TB 
+   5 TB 
+   
+  
+ 
+It’s also important to consider the training strategy. In a Fully Sharded Data Parallel (FSDP) scenario, each rank (a single GPU process in a distributed training) saves its own part of the checkpoint. At the same time, it reduces the amount of data each rank has to save during a checkpoint, and imposes a stress on the file system level. On a Network File System (NFS) shared file system, those concurrent writes become a bottleneck. Using a distributed file system, such Amazon FSx for Lustre, can help alleviate that pressure at a higher total cost. In a Distributed Data Parallel (DDP) scenario, a single rank writes the complete checkpoint at one time, and all ranks read the checkpoint when loading it back. On the file system level, this means a single writer and multiple readers. On an NFS file system, many readers can be a problem because they will be constrained based on the file system, network stack, and queue size. A single writer, over the network, will not take advantage of all the network throughput. Here again, a fast, distributed file system like FSx for Lustre can help solve those problems at a higher total cost of ownership. 
+As we can see, traditional checkpointing methods that rely solely on remote persistent storage create a computational overhead during checkpoint creation, because writing terabytes of model parameters to persistent storage might throttle it, consume expensive network bandwidth, and require complex orchestration across distributed systems. By storing checkpoints in fast-access in-memory locations, such as CPU RAM, while maintaining configurable backup to Amazon Simple Storage Service (Amazon S3) for persistence, the system delivers faster recovery times, and is a cost-effective solution compared to traditional disk-based approaches. 
+Managed tiered checkpointing works as follows: 
+ 
+ When training your model, you define the checkpoint frequency. 
+ Model training uses GPU HBM memory to store the model, its parameters, and intermediate results, and do the heavy computation. 
+ Triggering a checkpoint stops model training. The GPU will convert the model weights (tensors) into a state dictionary and copy the data to the instance’s CPU, then the training resumes while managed tiered checkpointing copies the data to RAM. 
+ Because RAM is volatile, managed tiered checkpointing copies the data asynchronously from the host RAM to adjacent nodes using RDMA over Elastic Fabric Adapter (EFA). If a node experiences an issue, its checkpoint data will be available on other nodes too. 
+ From time to time, it copies the data to a second layer of persistent storage, such as Amazon S3. This helps both when writing to RAM fails and when you want to persistently store the checkpoint data for future use. 
+ 
+With managed tiered checkpointing, you can configure frequency and retention policies for both in-memory and persistent storage tiers. You use the first layer (in-memory) to save checkpoints at a high frequency and for fast recovery, periodically saving to Amazon S3 for backup. Managed tiered checkpointing provides a file system that can be seamlessly integrated with your PyTorch Distributed Checkpointing (DCP) training. Adding it to your training script only requires a few lines of code. Furthermore, it improves the performance of checkpoints by using in-memory storage while using other tiers for persistent storage. PyTorch DCP solves the issue of saving a model’s checkpoint when it uses distributed resources, such as multiple GPUs across multiple compute nodes. Trainers, parameters, and the dataset are partitioned across those nodes and resources, then PyTorch DCP saves and loads from multiple ranks in parallel. PyTorch DCP produces multiple files per checkpoint, at least one per rank. Depending on the volume of those files, number and size, shared and network file systems such as NFS will struggle with inode and metadata management. Managed tiered checkpointing helps solve that issue by making it possible to use multiple tiers, reducing intrusion to the training time and still receiving the benefits of PyTorch DCP, such as deduplication of checkpoint data. 
+With managed tiered checkpointing in SageMaker HyperPod, you can maintain a high training throughput even in large-scale environments prone to failures. It uses your existing SageMaker HyperPod cluster orchestrated by Amazon Elastic Kubernetes Service (Amazon EKS) and compute nodes, and there are no additional costs to use the library. 
+In the following sections, we explore how to configure the SageMaker HyperPod cluster’s training scripts to use this new feature. 
+Configure your SageMaker HyperPod cluster for managed tiered checkpointing 
+SageMaker HyperPod provisions resilient clusters for running machine learning (ML) workloads and developing state-of-the-art models such as large language models (LLMs), diffusion models, and foundation models (FMs). By reducing the complex work of building and maintaining compute clusters using accelerators like AWS Trainium and NVIDIA H200/B200 GPUs, it speeds up the creation of foundation models. To create a new SageMaker HyperPod cluster, refer to the Amazon SageMaker HyperPod Developer Guide. If you want to accelerate your deployment by using field hardened assets, refer to the following GitHub repo. 
+The examples shared in this post are intended to help you learn more about this new feature. If you’re considering running the examples provided here in a production environment, have your security team review the content and make sure they adhere to your security standards. At AWS, security is the top priority and we understand that every customer has their own security framework.Before creating or updating a cluster to add the managed tiered checkpointing feature, you must set up the EKS pods to access an S3 bucket either on your own account or across accounts. When working with buckets on the same account as the SageMaker HyperPod EKS cluster, you can use the following policy (change your bucket name before applying it): 
+ 
+ {
+&nbsp;&nbsp; &nbsp;"Version": "2012-10-17",
+&nbsp;&nbsp; &nbsp;"Statement": [
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;{
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Action": [
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"s3:DeleteObject",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"s3:GetBucketLocation",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"s3:GetObject",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"s3:ListBucket",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"s3:PutObject"
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;],
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Resource": [
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"arn:aws:s3:::&lt;bucket_name&gt;",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"arn:aws:s3:::&lt;bucket_name&gt;/*"
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;],
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Effect": "Allow"
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
+&nbsp;&nbsp; &nbsp;]
+} 
+ 
+If the bucket is in a different account, you must authorize an AWS Identity and Access Management (IAM) principal to access those buckets. The following IAM policy will do that for you. Be sure to change both the bucket name and the IAM principal (for example, your AWS account ID). 
+ 
+ {
+&nbsp;&nbsp; &nbsp;"Version": "2012-10-17",
+&nbsp;&nbsp; &nbsp;"Statement": [
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;{
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Sid": "CheckPointCrossAccountAccess",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Effect": "Allow",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Principal": {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"AWS":&nbsp;"arn:aws:iam::&lt;account_id&gt;:root"
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;},
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Action": [
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"s3:DeleteObject",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"s3:GetBucketLocation",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"s3:GetObject",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"s3:ListBucket",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"s3:PutObject"
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;],
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Resource": [
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"arn:aws:s3:::&lt;bucket_name&gt;",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"arn:aws:s3:::&lt;bucket_name&gt;/*"
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;]
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
+&nbsp;&nbsp; &nbsp;]
+} 
+ 
+To create a new cluster with managed tiered checkpointing, you can pass a parameter using --tiered-storage-config and setting Mode to Enable using an AWS Command Line Interface (AWS CLI) command: 
+ 
+  
+  aws sagemaker create-cluster \
+ --cluster-name "ml-cluster" \
+--tiered-storage-config { "Mode": "Enable" } \
+ --instance-groups '[{
+    "InstanceCount": 1, 
+  ....
+ }]'
+ 
+  
+ 
+You can also update it using the UpdateCluster API and pass the CachingConfig parameter with the required AllocatedMemory configuration. You can use the CachingConfiguration parameter to define a fixed value or a percentage of the CPU RAM for checkpointing. 
+ 
+ aws sagemaker update-cluster \
+    --cluster-name &lt;my-training-cluster&gt; \
+    --tiered-storage-config {
+            "Mode": "Enable"
+            "InstanceMemoryAllocationPercentage": &lt;percent&gt;
+            } 
+ 
+Now that your SageMaker HyperPod cluster has the managed tiered checkpointing feature, let’s prepare the training scripts and add them. 
+Install the managed tiered checkpoint libraries and integrate with your training script 
+Managed tiered checkpointing integrates with PyTorch DCP. You start by installing the sagemaker-checkpointing library. Then you create and configure a namespace to store the checkpoints based on the defined frequency. Finally, you add the checkpoint function inside your training loop. 
+To install the library, we simply use Python’s pip. Make sure you already have the dependencies installed: Python 3.10 or higher, PyTorch with DCP support, and the AWS credentials configured properly. To integrate Amazon S3 as another storage layer, you also need s3torchconnector installed. 
+ 
+ # Install the pre-requisites
+pip install torch boto3 botocore tenacity s3torchconnector
+
+# Install the Managed Tiered Checkpointing library
+pip install amzn-sagemaker-checkpointing 
+ 
+Now you can import the library on your script and configure the namespace and frequency for checkpointing: 
+ 
+ import&nbsp;torchimport&nbsp;torch.distributed as&nbsp;dist
+from&nbsp;torch.distributed.checkpoint import&nbsp;async_save, load
+from&nbsp;amzn_sagemaker_checkpointing.config.sagemaker_checkpoint_config import&nbsp;SageMakerCheckpointConfig
+from&nbsp;amzn_sagemaker_checkpointing.checkpointing.filesystem.filesystem import&nbsp;(
+&nbsp;&nbsp; &nbsp;SageMakerTieredStorageWriter,
+&nbsp;&nbsp; &nbsp;SageMakerTieredStorageReader
+)
+
+checkpoint_config = SageMakerCheckpointConfig(
+&nbsp;&nbsp; &nbsp;# Unique ID for your training job 
+&nbsp; &nbsp; # Allowed characters in ID include: alphanumeric, hyphens, and underscores
+&nbsp;&nbsp; &nbsp;namespace=os.environ.get('TRAINING_JOB_NAME', f'job-{int(time.time())}'), 
+
+&nbsp;&nbsp; &nbsp;# Number of distributed processes/available GPUs
+&nbsp;&nbsp; &nbsp;world_size=dist.get_world_size(), 
+
+&nbsp;&nbsp; &nbsp;# Amazon S3 storage location, required for SageMakerTieredStorageReader for read fallbacks
+&nbsp; &nbsp; # Required for SageMakerTieredStorageWriter when save_to_s3 is True
+&nbsp;&nbsp; &nbsp;s3_tier_base_path="s3://&lt;my-bucket&gt;/checkpoints" 
+ 
+In the preceding code snippet, we have configured managed tiered checkpointing with the same world_size as the number of ranks in our cluster. When you start a distributed training, each GPU in the cluster is assigned a rank number, and the total number of GPUs available is the world_size. We set up Amazon S3 as our backup persistent storage, setting managed tiered checkpointing to store data in Amazon S3 every 100 training steps. Both world_size and namespace are required parameters; the others are optional. 
+Now that the configuration is ready, let’s set up PyTorch DCP and integrate managed tiered checkpointing. 
+First, configure the storage writer. This component will pass on to the PyTorch DCP async_save function alongside the model’s state dictionary. We use the SageMakerTieredStorageWriter when writing the checkpoints and the SageMakeTieredStorageReader when restoring from those checkpoints. 
+Inside your model training loop, you add the storage writer configuration and pass along both the managed tiered checkpointing configuration and the step number: 
+ 
+ &nbsp; &nbsp;state_dict = {
+ &nbsp; &nbsp; &nbsp; &nbsp;"model": model.state_dict(),
+ &nbsp; &nbsp; &nbsp; &nbsp;"optimizer": optimizer.state_dict(),
+ &nbsp; &nbsp; &nbsp; &nbsp;"step": training_step,
+ &nbsp; &nbsp; &nbsp; &nbsp;"epoch": epoch
+ &nbsp; &nbsp;}
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;# Create storage writer for current step&nbsp;and&nbsp;if&nbsp;it&nbsp;need&nbsp;to&nbsp;save&nbsp;to&nbsp;a&nbsp;persistent&nbsp;storage&nbsp;too&nbsp;
+ &nbsp; &nbsp;checkpoint_config.save_to_s3 = training_step % s3_ckpt_freq == 0
+ &nbsp; &nbsp;storage_writer = SageMakerTieredStorageWriter(
+ &nbsp; &nbsp; &nbsp; &nbsp;checkpoint_config=checkpoint_config,
+ &nbsp; &nbsp; &nbsp; &nbsp;step=training_step
+ &nbsp; &nbsp;) 
+ 
+You can define the step number explicitly for the storage writer, or you can let the storage writer identify the step number from the path where the checkpoint is being saved. If you want to let the storage writer infer the step number from the base path, don’t set the stepparameter and make sure your path contains the step number in it. 
+Now you can call the PyTorch DCP asynchronous save function and pass along the state dictionary and the storage writer configuration:async_save(state_dict=state_dict, storage_writer=storage_writer) 
+We have set up managed tiered checkpointing to write checkpoints at our desired frequency and location (in-memory). Let’s use the storage reader to restore those checkpoints. First, pass the managed tiered checkpointing configuration to the SageMakerTieredStorageReader, then call the PyTorch DCP load function, passing the model state dictionary and the storage reader configuration: 
+ 
+ storage_reader = SageMakerTieredStorageReader(checkpoint_config=checkpoint_config)
+load(state_dict, storage_reader=storage_reader) 
+ 
+To work through a complete example, refer to the following GitHub repository, where we’ve created a simple training script, including the managed tiered checkpointing feature. 
+Clean up 
+After you have worked with managed tiered checkpointing, and you want to clean up the environment, simply remove the amzn-sagemaker-checkpointing library by running pip uninstall amzn-sagemaker-checkpointing. 
+If you installed the solution in a Python virtual environment, then just deleting the virtual environment will suffice.Managed tiered checkpointing is a free feature that doesn’t require additional resources to run. You use your existing SageMaker HyperPod EKS cluster and compute nodes. 
+Best practices to optimize your checkpoint strategy with managed tiered checkpointing 
+Managed tiered checkpointing will attempt to write to the in-memory tier first. This optimizes the writing performance because in-memory provides ultra-low latency checkpoint access. You should configure managed tiered checkpointing to write to a second layer, such as Amazon S3, from time to time. For example, configure managed tiered checkpointing to write to the in-memory layer every 10 steps, and configure it to write to Amazon S3 every 100 steps. 
+If managed tiered checkpointing fails to write to the in-memory layer, and the node experiences an issue, then you still have your checkpoint saved on Amazon S3. While writing to Amazon S3, managed tiered checkpointing uses multiple TCP streams (chunks) to optimize Amazon S3 writes. 
+In terms of consistency, managed tiered checkpointing uses an all-or-nothing writing strategy. It implements a fallback mechanism that will seamlessly transition between the storage tiers. Checkpoint metadata, such as step number, is stored alongside the data for every tier. 
+When trying to troubleshoot managed tiered checkpointing, you can check the log written locally to /var/log/sagemaker_checkpointing/{namespace}_checkpointing.log. It publishes data about the training step, rank number, and the operation details. The following is an example output of that file: 
+ 
+ [timestamp] [namespace] [logger_name] [INFO] [filename:451] [Rank 0] Step 240: Starting checkpoint write ([SavePlan Items Count] items)
+[timestamp] [namespace] [logger_name] [INFO] [filename:498] [Rank 0] Step 240: In-memory write completed in [Latency]s ([Throughput] MB/s)
+[timestamp] [namespace] [logger_name] [INFO] [filename:530] [Rank 0] Step 240: S3 batch write completed in [Latency]s ([Size] total, [Throughput] MB/s average) 
+ 
+Managed tiered checkpointing also writes those metrics to the console, so it’s straightforward to troubleshoot during development. They contain information on which step number is being written to which storage layer and the throughput and total time taken to write the data. With that information, you can monitor and troubleshoot managed tiered checkpointing thoroughly. 
+When you combine those tools with the SageMaker HyperPod observability stack, you get a complete view of all metrics of your training or inference workload. 
+Conclusion 
+The new managed tiered checkpointing feature in SageMaker HyperPod augments FM training efficiency by intelligently distributing checkpoints across multiple storage tiers. This advanced approach places model states in fast access locations such as CPU RAM memory, while using persistent storage such as Amazon S3 for cost-effective, long-term persistence. As of the time of this launch, managed tiered checkpointing is supported only on SageMaker HyperPod on Amazon EKS. 
+Managed tiered checkpointing delivers fast recovery times without increased storage costs, avoiding complex trade-offs between resiliency, training efficiency, and storage costs. It has been validated on large distributed training clusters that range from hundreds of GPU to more than 15,000 GPU, with checkpoints being saved within seconds. 
+Integrating managed tiered checkpointing on your training scripts is straightforward, with just a few lines of code, providing immediate access to sophisticated checkpoint management without requiring deep engineering expertise. 
+For more information on how managed tiered checkpointing works, how to set it up, and other details, refer to HyperPod managed tier checkpointing. 
+ 
+About the authors 
+Paulo Aragao&nbsp;is a Principal WorldWide Solutions Architect focused on Generative AI at the Specialist Organisation on AWS. He helps Enterprises and Startups to build their Foundation Models strategy and innovate faster by leveraging his extensive knowledge on High Perfomance Computing and Machine Learning. A long time bass player, and natural born rock fan, Paulo enjoys spending time travelling with his family, scuba diving, and playing real time strategy and role-playing games. 
+Kunal Jha&nbsp;is a Principal Product Manager at AWS. He is focused on building Amazon SageMaker Hyperpod as the best-in-class choice for Generative AI model’s training and inference. In his spare time, Kunal enjoys skiing and exploring the Pacific Northwest. 
+Mandar Kulkarni&nbsp;is a Software Development Engineer II at AWS, where he works on Amazon SageMaker. He specializes in building scalable and performant machine learning libraries and infrastructure solutions, particularly focusing on SageMaker HyperPod. His technical interests span machine learning, artificial intelligence, distributed systems and application security. When not architecting ML solutions, Mandar enjoys hiking, practicing Indian classical music, sports, and spending quality time with his young family. 
+Vinay Devadiga&nbsp;is a Software Development Engineer II at AWS with a deep passion for artificial intelligence and cloud computing. He focuses on building scalable, high-performance systems that enable the power of AI and machine learning to solve complex problems.Vinay enjoys staying at the forefront of technology, continuously learning, and applying new advancements to drive innovation. Outside of work, he likes playing sports and spending quality time with his family. 
+Vivek Maran&nbsp;is a Software Engineer at AWS. He currently works on the development of Amazon SageMaker HyperPod, a resilient platform for large scale distributed training and inference. His interests include large scale distributed systems, network systems, and artificial intelligence. Outside of work, he enjoys music, running, and keeping up to date with business &amp; technology trends.
 • Maximize HyperPod Cluster utilization with HyperPod task governance fine-grained quota allocation
   We are excited to announce the general availability of fine-grained&nbsp;compute and memory quota allocation&nbsp;with HyperPod task governance. With this capability, customers can optimize Amazon SageMaker HyperPod cluster utilization on Amazon Elastic Kubernetes Service (Amazon EKS), distribute fair usage, and support efficient resource allocation across different teams or projects.&nbsp;For more information, see HyperPod task governance best practices for maximizing the value of SageMaker HyperPod task governance. 
 Compute quota management is an administrative mechanism that sets and controls compute resource limits across users, teams, and projects. It controls fair resource distribution, preventing a single entity from monopolizing cluster resources, thereby optimizing overall computational efficiency. 
@@ -1066,7 +1151,7 @@ About the authors
 Siamak Nariman is a Senior Product Manager at AWS. He is focused on AI/ML technology, ML model management, and ML governance to improve overall organizational efficiency and productivity. He has extensive experience automating processes and deploying various technologies. 
 Zhenshan Jin is a Senior Software Engineer at Amazon Web Services (AWS), where he leads software development for task governance on SageMaker HyperPod. In his role, he focuses on empowering customers with advanced AI capabilities while fostering an environment that maximizes engineering team efficiency and productivity. 
 Giuseppe Angelo Porcelli is a Principal Machine Learning Specialist Solutions Architect for Amazon Web Services. With several years of software engineering and an ML background, he works with customers of any size to understand their business and technical needs and design AI and ML solutions that make the best use of the AWS Cloud and the Amazon Machine Learning stack. He has worked on projects in different domains, including MLOps, computer vision, and NLP, involving a broad set of AWS services. In his free time, Giuseppe enjoys playing football. 
-Sindhura Palakodety is a Solutions Architect at AWS. She is passionate about helping customers build enterprise-scale Well-Architected solutions on the AWS platform and specializes in the data analytics domain.
+Sindhura Palakodety s a Senior Solutions Architect at AWS and STL for ISV Generative AI, where she is dedicated to empowering customers in developing enterprise-scale, Well-Architected solutions. She specializes in Generative AI and Data Analytics domains, enabling organizations to leverage latest technological innovations for transformative business outcomes.
 • Build and scale adoption of AI agents for education with Strands Agents, Amazon Bedrock AgentCore, and LibreChat
   Basic AI chat isn’t enough for most business applications. Institutions need AI that can pull from their databases, integrate with their existing tools, handle multi-step processes, and make decisions independently. 
 This post demonstrates how to quickly build sophisticated AI agents using Strands Agents, scale them reliably with Amazon Bedrock AgentCore, and make them accessible through LibreChat’s familiar interface to drive immediate user adoption across your institution. 
@@ -1176,304 +1261,5 @@ Dr. Changsha Ma is a Senior AI/ML Specialist at AWS. She is a technologist with 
 Sudheer Manubolu&nbsp;is a Solutions Architect at Amazon Web Services (AWS). He specializes in cloud architecture, enterprise solutions, and AI/ML implementations. He provides technical and architectural guidance to customers building transformative solutions on AWS, with particular emphasis on leveraging AWS’s AI/ML and container services to drive innovation and operational excellence. 
 Abhilash Thallapally is a Solutions Architect at AWS helping public sector customers design and build scalable AI/ML solutions using Amazon SageMaker. His work covers a wide range of ML use cases, with a primary interest in computer vision, Generative AI, IoT, and deploying cost optimized solutions on AWS. 
 Mary Strain leads strategy for artificial intelligence and machine learning for US education at AWS. Mary began her career as a middle school teacher in the Bronx, NY. Since that time, she has held leadership roles in education and public sector technology organizations. Mary has advised K12, higher education, and state and local government on innovative policies and practices in competency based assessment, curriculum design, micro credentials and workforce development initiatives. As an advisor to The Education Design Studio at The University of Pennsylvania, The Coalition of Schools Educating Boys of Color, and The State of NJ AI Task Force, Mary has been on the leading edge of bringing innovative solutions to education for two decades.
-• Skai uses Amazon Bedrock Agents to significantly improve customer insights by revolutionized data access and analysis
-  This post was written with Lior Heber and Yarden Ron of Skai. 
-Skai (formerly Kenshoo) is an AI-driven omnichannel advertising and analytics platform designed for brands and agencies to plan, launch, optimize, and measure paid media across search, social, retail media marketplaces and other “walled-garden” channels from a single interface. By unifying data from over 100 publishers and retail networks, Skai applies real-time analytics, predictive modeling, and incremental testing to surface budget and bidding recommendations, connect media spend to sales outcomes, and reduce channel silos, giving marketers full-funnel visibility and higher return on ad spend at scale. 
-Skai recognized that our customers were spending days (sometimes weeks) manually preparing reports, struggling to query complex datasets, and lacking intuitive visualization tools. Traditional analytics platforms required technical expertise, leaving many users overwhelmed by untapped data potential. But through the partnership with AWS and adoption of Amazon Bedrock Agents AI assistants that can autonomously perform complex, multi-step tasks by orchestrating calls to APIs, we’ve redefined what’s possible. Now, customers can analyze their data in natural language, generate reports in minutes instead of days, and visualize insights through natural language conversation. 
-In this post, we share how Skai used Amazon Bedrock Agents to improve data access and analysis and improve customer insights. 
-Challenges with data analytics 
-Before adopting Amazon Bedrock Agents, Skai’s customers accessed their data through tables, charts, and predefined business questions. Campaign manager teams, looking to do deep research on their data, would spend around 1.5 days a week preparing static reports, while individual users struggled to connect the dots between their massive amount of data points. Critical business questions, like where should a client spend their time optimizing campaigns, and how, remained hidden in unstructured knowledge and siloed data points. 
-We identified three systematic challenges: 
- 
- Time-consuming report generation – Grids display flat and grouped data at specific entity levels, like campaigns, ads, products, and keywords. However, gaining a comprehensive understanding by connecting these different entities and determining relevant time frames is time-consuming. Users must manipulate raw data to construct a complete narrative. 
- Summarization – Analyzing extracted raw data posed significant challenges in understanding, identifying key patterns, summarizing complex datasets, and drawing insightful conclusions. Users lacked intuitive tools to dynamically explore data dimensions, hindering their ability to gain a holistic view and extract crucial insights for informed decisions. 
- Recommendations – Presenting data-driven recommendations to stakeholders with varying understanding requires deep data analysis, anticipating perspectives, and clear, persuasive communication to demonstrate ROI and facilitate informed decisions. 
- 
-How Celeste powered transformation 
-To address the challenges of time-consuming report generation, the difficulty in summarizing complex data, and the need for data-driven recommendations, Skai used AWS to build Celeste, a generative AI agent. With AI agents, users can ask questions in natural language, and the agent automatically collects data from multiple sources, synthesizes it into a cohesive narrative with actionable insights, and provides data-oriented recommendations. 
-The Skai Platform absorbs an enormous amount of data about product searches across many retailers and traditional search engines. Sorting through this data can be time-consuming, but the capabilities in Celeste can make this type of exploratory research much easier. 
-Skai’s solution leverages Amazon Bedrock Agents to create an AI-driven analytics assistant that transforms how users interact with complex advertising data. The system processes natural language queries like ‘Compare ad group performance across low-performing campaigns in Q1,’ eliminating the need for a database specialist. Agent automatically joins Skai’s datasets from profiles, campaigns, ads, products, keywords, and search terms across multiple advertising publishers. Beyond simple data retrieval, the assistant generates comprehensive insights and case studies while providing actionable recommendations on campaign activity, complete with detailed analytical approaches and ready-to-present stakeholder materials. 
-For example, consider the following question: “I’m launching a new home security product and want to activate 3 new Sponsored Product campaigns and 2 new Sponsored Brand campaigns on Amazon. What high-performing keywords and their match types are already running in other campaigns that would be good to include in these new activations?” 
-When asked this question with real client data, Celeste answered quickly, finding a combination of branded and generic category terms that the manufacturer might consider for this new product launch. With just a few follow-up questions, Celeste was able to provide estimated CPCs, budgets, and a high-level testing plan for these hypothetical campaigns, complete with negative keywords to reduce unnecessary conflict with their existing campaigns. 
-This is a great example of an exploratory question that requires summary analysis, identification of trends and insights, and recommendations. Skai data directly supports these kinds of analyses, and the capabilities within Celeste give the agent the intelligence to provide smart recommendations. Amazon Bedrock makes this possible because it gives Celeste access to strong foundation models (FMs) without exposing clients to the risk of having those models’ vendors use sensitive questions for purposes outside of supporting the client directly. Celeste reduces 75% on average the time needed to build client case studies, transforming a process that often took weeks into one requiring only minutes. 
-Accelerating time-to-value through managed AI using Amazon Bedrock 
-One critical element of Skai’s success story was our deliberate choice of Amazon Bedrock as the foundational AI service. Unlike alternatives requiring extensive infrastructure setup and model management, Amazon Bedrock provided a frictionless path from concept to production. 
-The journey began with a simple question: How can we use generative AI to provide our clients a new and improved experience without building AI infrastructure from scratch? With Amazon Bedrock, Skai could experiment within hours and deliver a working proof of concept in days. The team could test multiple FMs (Anthropic’s Claude, Meta’s Llama, and Amazon Nova) without managing separate environments and iterate rapidly through Amazon Bedrock Agents. 
-One developer noted, “We went from whiteboard to a working prototype in a single sprint. With traditional approaches, we’d still be configuring infrastructure.” 
-With Amazon Bedrock Agents, Skai could prioritize customer value and rapid iteration over infrastructure complexity. The managed service minimized DevOps overhead for model deployment and scaling while alleviating the need for specialized ML expertise in FM tuning. This helped the team concentrate on data integration and customer-specific analytics patterns, using cost-effective on-demand models at scale while making sure client data remained private and secure.With Amazon Bedrock Agents, domain experts can focus exclusively on what matters most: translating customer data challenges into actionable insights. 
-Benefits of Amazon Bedrock Agents 
-The introduction of Amazon Bedrock Agents dramatically simplified Skai’s architecture while reducing the need to build custom code. Built-in action groups replaced thousands of lines of custom integration code that would have required weeks of development time. The platform’s native memory and session management capabilities meant the team could focus on business logic rather than infrastructure concerns. Declarative API definitions reduced integration time from weeks to hours. Additionally, the integrated code interpreter simplified math problem management and facilitated accuracy and scale issues. 
-As a solution provider serving many customers, security and compliance were non-negotiable. Amazon Bedrock addressed these security requirements by inheriting AWS’s comprehensive compliance certifications including HIPAA, SOC2, and ISO27001. Commitment to not retaining data for model training proved critical for protecting sensitive customer information, while its seamless integration with existing AWS Identity and Access Management (IAM) policies and VPC configurations simplified deployment. 
-During every client demonstration of Celeste, initial inquiries consistently centered on privacy, security, and the protection of proprietary data. With an AWS infrastructure, Skai confidently assured clients that their data would not be used to train any models, effectively distinguishing Skai from its competitors.With pay-as-you-go model, Skai scaled economically without AI infrastructure investment. The team avoided costly upfront commitments to GPU clusters or specialized instances, instead leveraging automatic scaling based on actual usage patterns. This approach provided granular cost attribution to specific agents, allowing Skai to understand and optimize spending at a detailed level. The flexibility to select the most appropriate model for each specific task further optimized both performance and costs, ensuring resources aligned precisely with business needs. 
-AWS Enterprise Support as a strategic partner in AI innovation 
-Working with cutting-edge generative AI agents presents unique challenges that extend far beyond traditional technical support needs. When building Celeste, Skai encountered complex scenarios where solutions didn’t emerge as expected, from managing 200,000-token conversations to optimizing latency in multi-step agent workflows. AWS Enterprise Support proved invaluable as a strategic partner rather than just a support service. 
-AWS Enterprise Support provided dedicated Technical Account Management (TAM) and Solutions Architect (SA) services that went well beyond reactive problem-solving. Our TAM and SA became an extension of our engineering team, offering the following: 
- 
- Regular architectural reviews to optimize our Amazon Bedrock Agents implementation 
- Proactive monitoring recommendations that helped us identify potential bottlenecks before they impacted customer experience 
- Direct access to AWS service teams when we needed deep technical expertise on the advanced features of Amazon Bedrock Agents 
- Strategic guidance and optimization as we scaled from prototype to production 
- 
-When complex issues arose, such as our initial 90-second (or more) latency challenges or session management complexities, Enterprise Support provided immediate escalation paths and expert consultation. 
-This comprehensive support framework was instrumental in achieving our aggressive KPIs and time-to-market goals. The combination of proactive guidance, rapid issue resolution, and strategic partnership helped us achieve the following: 
- 
- Reduce proof of concept to production timeline by 50% 
- Maintain 99.9% uptime during critical customer demonstrations 
- Scale confidently, knowing we had enterprise-grade support backing our innovation 
- 
-The value of Enterprise Support provided the confidence and partnership necessary to build our product roadmap on emerging AI technologies, knowing AWS was fully committed to the success of Celeste. 
-Solution overview 
-The following diagram illustrates the solution architecture. 
- 
-Our Amazon Bedrock Agent operates on several core components. 
-First, a custom layer comprises the following: 
- 
- Customer Experience UI (CX UI) – The frontend interface that users interact with to submit questions and view responses 
- Chat Manager – Orchestrates the conversation flow, manages session state, and handles the communication between the UI and the processing layer 
- Chat Executor – Receives processed requests from Chat Manager, interfaces with Amazon Bedrock Agent and handles the business logic for determining when and how to invoke the agent, and manages the overall conversation workflow and short memory 
- 
-Second, we used the following in conjunction with Amazon Bedrock: 
- 
- Amazon Bedrock agent – An orchestrator that receives queries from Chat Executor, determines which tools to invoke based on the query, and manages the tool invocation process. 
- Anthropic’s Claude 3.5 Sonnet V2 – The FM that generates natural language responses. The model generates queries for the API and processes the structured data returned by tools. It creates coherent, contextual answers for users. 
- 
-Finally, the data layer consists of the following: 
- 
- Tool API – A custom API that receives tool invocation requests from the Amazon Bedrock agent and queries the customer data 
- Customer data – The data storage containing sensitive customer information that remains isolated from Amazon Bedrock 
- 
-The solution also includes the following key security measures: 
- 
- Data isolation is enforced between the Tool API and Amazon Bedrock agent 
- Raw customer data is never shared 
- Skai can maintain data privacy and compliance requirements 
- 
-Overcoming critical challenges 
-Implementing the solution brought with it a few key challenges. 
-Firstly, early prototypes suffered from 90-second (or more) response times when chaining multiple agents and APIs. By adopting a custom orchestrator and streaming, we reduced median latency by 30%, as illustrated in the following table. 
- 
-  
-   
-   Approach 
-   Average Latency (seconds) 
-   P90 
-   P99 
-   
-   
-   Baseline 
-   136 
-   194 
-   215 
-   
-   
-   Optimized Workflow 
-   44 
-   102 
-   102 
-   
-  
- 
-Secondly, customers frequently analyzed multi-year datasets, exceeding Anthropic Claude’s 50,000-token window. Our solution uses dynamic session chunking to split conversations while retaining key context, and employs Retrieval Augmented Generation (RAG)-based memory retrieval. 
-Lastly, we implemented the following measures for error handling at scale: 
- 
- Real-time tracing using WatchDog with Amazon CloudWatch Logs Insights to monitor more than 230 agent metrics 
- A retry mechanism, in which failed API calls with 500 error: “BEDROCK_MODEL_INVOCATION_SERVICE_UNAVAILABLE” are automatically retried 
- Amazon CloudWatch monitoring and alerting 
- 
-Business results 
-Since deploying with AWS, Skai’s platform has achieved significant results, as shown in the following table. 
- 
-  
-   
-   Metric 
-   Improvement 
-   
-   
-   Report Generation Time 
-   50% Faster 
-   
-   
-   Case Study Generation Time 
-   75% Faster 
-   
-   
-   QBR Composition Time 
-   80% Faster 
-   
-   
-   Report to Recommendation Time 
-   90% Faster 
-   
-  
- 
-While the metrics above demonstrate measurable improvements, the true business impact becomes clear through customer feedback. The core challenges Skai addressed—time-consuming report generation, complex data analysis, and the need for actionable recommendations, have been resolved in ways that fundamentally changed how users work with advertising data. 
-Customer testimonials 
-“It’s made my life easier. It’s made my team’s life easier. It’s made my clients’ lives easier and better. So we all work in jobs where there’s millions and millions of data points to scour through every day, and being able to do that as efficiently as possible and as fluidly as possible with Celeste AI is always a welcome addition to Skai.” – Aram Howard, Amazon Advertising Executive, Data Analyst | Channel Bakers 
-“Celeste is saving hours of time. It’s like having another set of eyes to give suggestions. I’m so stoked to see where this could take us.” – Erick Rudloph, Director of Search Marketing, Xcite Media Group 
-“It truly feels like having a data scientist right next to me to answer questions, even with recommendations for starting an optimization or looking at an account’s performance.” – Director of Search Marketing at Media Agency 
-Looking ahead: The future of Celeste 
-We’re expanding Celeste’s capabilities in the following areas: 
- 
- Personalizing the user experience, retaining memories and preferences across multiple sessions. 
- Ingestion of custom data assets, so the client can bring their own data into Celeste and seamlessly connect it to Celeste’s existing data and knowledge. 
- New tools for seamless team integration. These tools will allow Celeste to generate client presentations, build data dashboards, and provide timely notifications. 
- 
-Conclusion 
-With Amazon Bedrock Agents, Skai transformed raw data into strategic assets, helping customers make faster, smarter decisions without technical bottlenecks. By combining a robust AWS AI/ML infrastructure with our domain expertise, we’ve created a blueprint other organizations can follow to democratize data analytics. 
-What truly set our journey apart was the ease with which Amazon Bedrock helped us transition from concept to production. Rather than building complex AI infrastructure, we used a fully managed service that let us focus on our core strengths: understanding customer data challenges and delivering insights at scale. The decision to use Amazon Bedrock resulted in considerable business acceleration, helping us deliver value in weeks rather than quarters while maintaining production grade security, performance, and reliability. 
-Skai’s journey with Amazon Bedrock continues—follow our series for updates on multi-agent systems and other generative innovations. 
- 
-About the authors 
-Lior Heber is the Al Lead Architect at Skai, where he has spent over a decade shaping the company’s technology with a focus on innovation, developer experience, and intelligent Ul design. With a strong background in software architecture and Al-driven solutions, Lior has led transformative projects that push the boundaries of how teams build and deliver products. Beyond his work in tech, he co-founded Colorful Family, a project creating children’s books for diverse families. Lior combines technical expertise with creativity, always looking for ways to bridge technology and human experience. 
-Yarden Ron is a Software Development Team Lead at Skai, bringing over four years of leadership and engineering experience to the AI-powered commerce media platform. He recently spearheaded the launch of Celeste AI – a GenAI agent designed to revolutionize how marketers engage with their platforms by making insights faster, smarter, and more intuitive. Based in Israel, Yarden blends technical acumen with collaborative drive, leading teams that turn innovative ideas into impactful products. 
-Tomer Berkovich is a Technical Account Manager at AWS with a specialty focus on Generative AI and Machine Learning. He brings over two decades of technology, engineering, and architecture experience to help organizations navigate their AI/ML journey on AWS. When he isn’t working, he enjoys spending time with his family, exploring emerging technologies, and powerlifting while chasing new personal records. 
-Dov Amir is a Senior Solutions Architect at AWS, bringing over 20 years of experience in Software, cloud and architecture. In his current role, Dov helps customers accelerate cloud adoption and application modernization by leveraging cloud-native technologies and generative AI. 
-Gili Nachum is a Principal AI/ML Specialist Solutions Architect who works as part of the EMEA Amazon Machine Learning team. Gili is passionate about the challenges of training deep learning models, and how machine learning is changing the world as we know it. In his spare time, Gili enjoys playing table tennis.
-• The power of AI in driving personalized product discovery at Snoonu
-  This post was written with Felipe Monroy, Ana Jaime, and Nikita Gordeev from Snoonu. 
-Managing a massive product catalog in the ecommerce space has introduced new hurdles for retailers who are trying to efficiently connect customers with the items they truly want. Traditional one-size-fits-all approaches often result in lost opportunities and reduced customer engagement. For marketplace apps like Snoonu, personalization is crucial for driving customer engagement, improving conversion rates, and maximizing revenue per user while building lasting customer loyalty. 
-From the customer perspective, Snoonu’s users expect seamless product discovery experiences that save time and surface items that match their preferences. They want recommendations that are contextually appropriate and adapt to their changing needs. This makes personalization more than just a business imperative, but a customer satisfaction requirement. 
-In this post, we share how Snoonu, a leading ecommerce platform in the Middle East, transformed their product discovery experience using AI-powered personalization. 
-Challenges with ranking and recommendations 
-At Snoonu, innovation and excellence are guiding principles, as they strive to deliver the best shopping and delivery experience in Qatar. As they scale, optimizing ranking and recommending products as well as merchants to their customers is essential in enhancing user experience and driving business growth. Initially, Snoonu relied on basic rules like popularity-based ranking, which resulted in a recommendation system that lacked personalization and depth. To overcome this barrier, Snoonu turned to Amazon Personalize in 2024. They began with real-time recommendations for the entire platform by having a single, unified global model and progressively advanced toward recommendation models per vertical. This evolution showcases the agility and iterative approach of a startup mindset focused on continuously delivering incremental value. As a result, Snoonu achieved measurable impact through smarter, data-driven experiences that drastically boosted customer engagement and conversion rates. 
-The evolution of personalization at Snoonu 
-Snoonu began its personalization journey using static rules, primarily relying on popularity-based ranking. Although this method was straightforward to implement, it showed the same top products to all users, ignoring individual preferences, which lead to low engagement with recommended items. Perhaps most importantly, it failed to facilitate the discovery of long-tail products that could have been perfect matches for specific customers. 
-To address these limitations, Snoonu implemented real-time recommendations by developing a unified global model across all verticals (Marketplace, Food, and Groceries). The system generated daily recommendation lists for users. Although this approach improved relevance compared to static rules, it had its own challenges. Recommendations would become stale quickly, unable to capture nuanced user behavior or react to inventory changes. Furthermore, because recommendations remained unchanged throughout the week, the system’s inability to dynamically adapt to user actions and inventory updates limited its effectiveness in driving conversions. 
-The real breakthrough came with the decision to implement separate models for each vertical rather than maintaining a single, unified global model. This strategic shift acknowledged that customer behaviors and decision-making processes vary significantly across verticals—for instance, a customer ordering lunch exhibits different patterns compared to someone planning weekly groceries. By developing specialized models for food delivery, grocery shopping, and marketplace purchases, Snoonu could better capture the unique nuances of each vertical’s customer journey, despite some overlapping behaviors. This vertical-based approach produced more precise recommendations, ultimately enhancing customer experience and satisfaction. Additionally, Snoonu transformed their training strategy from a 3-week cycle to daily updates—a crucial change that we explore later in this post. 
-The system was further enhanced with sophisticated filter expressions to improve recommendation relevance. One key implementation of this feature is used to exclude items that were was already added to a basket to reduce the exploration list. Additionally, the filter expressions support recommendations on the user’s current browsing category. For example, when a user searches for laptops, the system intelligently suggests related electronics items. 
-To optimize performance and scalability, Snoonu implemented Redis caching through Amazon ElastiCache. This addition significantly reduced API latency, improved system scalability, and optimized costs while enhancing the overall user experience. 
-Solution overview 
-Snoonu’s architecture uses Amazon Personalize to deliver real-time recommendations by seamlessly capturing user interactions, continuously updating its personalization models, and filtering by available products to its customers. The following diagram illustrates the solution architecture. 
- 
-The technical solution architecture comprises several key stages using AWS services and external tools: data preparation and collection, model training, and real-time recommendations. In the following sections, we discuss these stages in more detail. 
-Data preparation and collection 
-Snoonu implemented a dual-pipeline data collection strategy for their recommendation system. Amplitude captures all user interactions across the app, which feed into Snoonu’s primary pipeline that exports daily data to BigQuery for historical storage and model retraining. The historical storage comprises structured datasets of user-item interactions, items metadata, and users metadata, which are processed daily in Databricks. After validation and feature transformation, the data is exported to Amazon Simple Storage Service (Amazon S3) and used to retrain the model daily through Amazon Personalize. For more details about the different data types used and how they power personalization, see Preparing training data for Amazon Personalize. 
-Daily dataset updates, collected by this data preparation and collection pipeline, support fresh item catalogs and updated business rules. 
-Model training and update 
-Snoonu implemented multiple Amazon Personalize recipes for different use cases. The aws-user-personalization recipe powers homepage ranking and cart and product detail page suggestions. The aws-similar-items recipe handles “frequently bought together” recommendations, and the aws-personalized-ranking recipe enhances category and subcategory pages ranking. 
-Although Amazon Personalize typically recommends weekly training schedules, through extensive experimentation, Snoonu discovered their use case required frequent updates. They transitioned from a 3-week training cycle to weekly, and finally settled on daily training to maintain relevancy across all verticals. 
-Each vertical uses different Amazon Personalize recipes optimized for their specific needs. For instance, Snoonu’s Marketplace implements both user personalization and reranking capabilities to handle the extensive catalog effectively. Their grocery vertical primarily uses similar items that recommends “frequently bought together” items to enhance basket building, and the food delivery service relies on user personalization to capture ordering patterns. To learn more about choosing the right Amazon Personalize recipe, see Choosing a recipe. 
-To complement this and update the real-time recommendation system, they stream Amplitude events that are filtered by business verticals through Amazon Kinesis Data Streams, which then flow into AWS Lambda. The Lambda function performs three critical tasks: it validates the schema to make sure incoming Kinesis Data Streams data is well-formed, processes these events before sending to Amazon Personalize using the PutEvents API to update the event tracker, and triggers recommendation updates by sending HTTP POST requests with userIds to their intermediary service. This enables the system to continuously update and refine recommendations based on immediate user behavior. 
-Real-time recommendations 
-Given that Snoonu is using a custom recipe, they built a campaign that hosts a solution version to return real-time recommendations. To learn more about this process, see Custom resources for training and deploying Amazon Personalize models. 
-To effectively serve these recommendations at scale, Snoonu developed an intermediary service that acts as a smart bridge between the frontend and their campaign solution. This service addresses the challenges of instantly responding to user behavior while efficiently managing caching, API usage, and response times at scale. To achieve this, they use Amazon ElastiCache for caching recommendations, implementing a live trigger cache invalidation strategy instead of traditional Time to Live (TTL) logic. When a user interacts, a Lambda function triggers the recommendation service, potentially clearing the cache and fetching new recommendations only if the action is likely to change the user’s preferences. 
-The service also handles postprocessing of Amazon Personalize results, filtering by factors not natively supported such as geographical availability and real-time stock status. This architecture makes sure the system can instantly respond to user behavior while efficiently managing caching, API usage, and response times at scale, providing personalized recommendations that stay fresh and relevant to users. 
-Finally, all recommendation requests are logged through Amazon MQ (using RabbitMQ), so Snoonu can compare pre-and post-filtering recommendations and monitor system performance. 
-Business outcomes 
-The implementation of Amazon Personalize delivered remarkable business results for Snoonu, demonstrating the powerful impact of personalized recommendations in ecommerce. In the Groceries vertical, the platform witnessed a striking 1,600% increase in add-to-cart events from cart recommendations, indicating substantially improved customer engagement and product discovery. The personalization strategy proved to be highly cost-effective, generating a Gross Merchandise Value (GMV) that was 47 times the total model investment over a 6-month period. This translated to QR 2.6 million (USD $715,000) in accumulated incremental GMV directly attributed to recommendation-driven conversions. Most notably, personalized recommendations contributed 30% to customer basket size in orders with at least one recommended product. These results also showcase how effectively personalization can create a multiplier effect, driving immediate sales and encouraging customers to explore broader product categories and make more informed purchasing decisions. The success in the marketplace paved the way for Snoonu to expand this personalization strategy across other verticals, using customer insights to create more engaging and relevant shopping experiences. 
-Key learnings 
-The journey to implementing AI-driven personalization yielded valuable insights. Starting small and scaling fast proved crucial, helping Snoonu validate impact before expanding to more complex use cases. Data quality emerged as a critical success factor, requiring significant investment in preparation and maintenance of consistent schemas. 
-Snoonu’s journey with personalization began with a single, unified model across all verticals, which provided a foundation for understanding customer behavior patterns. As the platform matured, the team strategically evolved their approach by developing specialized models for different verticals and implementing specific recommendation recipes tailored to various use cases. 
-Conclusion 
-Snoonu’s journey with Amazon Personalize demonstrates the transformative power of AI-driven personalization in ecommerce. Snoonu’s phased approach to personalization substantially impacted customer behavior. This solution optimized performance within specific verticals and created a multiplier effect, enhancing customer engagement and encouraging cross-category exploration. Amazon Personalize helped Snoonu achieve substantial business value while significantly improving customer satisfaction. This success story opened the door to explore even more innovative AI-powered capabilities, such as using generative AI models on Amazon Bedrock, to drive further enhancements to their personalization and discovery experiences. 
-Learn more about how Snoonu used Amazon Bedrock to categorize over 1 million products. 
-About Snoonu 
-Snoonu is Qatar’s first All-in-One delivery app. Since their founding in 2019 by Mr. Hamad Al-Hajri, Snoonu has evolved into the country’s leading tech-driven super-app, offering a wide range of delivery services—including food, groceries, electronics, pharmaceuticals, and more. 
- 
-About the Authors 
-Felipe Monroy is a Senior Data Scientist at Snoonu. He has extensive experience in data science and ML engineering, holding diverse roles at global companies such as McKinsey &amp; Company and Rappi across Latin America and Australia. With a master’s degree in Data Science and Innovation from the University of Technology Sydney. He specializes in advanced analytics, leveraging expertise in MLflow, AWS, and Databricks. He is particularly passionate about MLOps and LLMs, frequently contributing to discussions and mentoring others in these areas. 
-Ana Jaime is the Head of AI &amp; Data Science at Snoonu, with a strong foundation in both technical execution and strategic leadership. Ana held key leadership roles at Rappi before joining Snoonu. She is now dedicated to building and leading a high-performing AI &amp; Data Science team, with projects spanning personalization, ETAs, demand forecasting, content moderation, and item categorization. Through her leadership and the team’s contributions, Snoonu was recognized as the Best Emerging Tech Company in AI in 2024. Ana is committed to fostering talent with a keen interest in ground-breaking technologies, passion, and dedication. 
-Nikita Gordeev is the Chief Technology Officer at Snoonu. He has over 10 years of experience in software development and leadership roles in the banking, telecommunication, and ecommerce sectors. He holds a master’s degree in Information Security and Advanced Studies at MIT. He is always open and eager to share knowledge and insights with those who are interested. 
-Saubia Khan&nbsp;is a Startup Solutions Architect residing in the sunny city of Dubai. Her focus is AI, ML, and generative AI, where she is passionate about making it easier for her customers to build and deploy their AI solutions on AWS. 
-Ahmed Azzam  is a Senior Solutions Architect at AWS. He is passionate about helping startups not only architect and develop scalable applications, but also think big on innovative solutions using AWS services.
-• Accelerating HPC and AI research in universities with Amazon SageMaker HyperPod
-  This post was written with Mohamed Hossam of Brightskies. 
-Research universities engaged in large-scale AI and high-performance computing (HPC) often face significant infrastructure challenges that impede innovation and delay research outcomes. Traditional on-premises HPC clusters come with long GPU procurement cycles, rigid scaling limits, and complex maintenance requirements. These obstacles restrict researchers’ ability to iterate quickly on AI workloads such as natural language processing (NLP), computer vision, and foundation model (FM) training. Amazon SageMaker HyperPod alleviates the undifferentiated heavy lifting involved in building AI models. It helps quickly scale model development tasks such as training, fine-tuning, or inference across a cluster of hundreds or thousands of AI accelerators (NVIDIA GPUs H100, A100, and others) integrated with preconfigured HPC tools and automated scaling. 
-In this post, we demonstrate how a research university implemented SageMaker HyperPod to accelerate AI research by using dynamic SLURM partitions, fine-grained GPU resource management, budget-aware compute cost tracking, and multi-login node load balancing—all integrated seamlessly into the SageMaker HyperPod environment. 
-Solution overview 
-Amazon SageMaker HyperPod is designed to support large-scale machine learning operations for researchers and ML scientists. The service is fully managed by AWS, removing operational overhead while maintaining enterprise-grade security and performance. 
-The following architecture diagram illustrates how to access SageMaker HyperPod to submit jobs. End users can use AWS Site-to-Site VPN, AWS Client VPN, or AWS Direct Connect to securely access the SageMaker HyperPod cluster. These connections terminate on the Network Load Balancer that efficiently distributes SSH traffic to login nodes, which are the primary entry points for job submission and cluster interaction. At the core of the architecture is SageMaker HyperPod compute, a controller node that orchestrates cluster operations, and multiple compute nodes arranged in a grid configuration. This setup supports efficient distributed training workloads with high-speed interconnects between nodes, all contained within a private subnet for enhanced security. 
-The storage infrastructure is built around two main components: Amazon FSx for Lustre provides high-performance file system capabilities, and Amazon S3 for dedicated storage for datasets and checkpoints. This dual-storage approach provides both fast data access for training workloads and secure persistence of valuable training artifacts. 
- 
-The implementation consisted of several stages. In the following steps, we demonstrate how to deploy and configure the solution. 
-Prerequisites 
-Before deploying Amazon SageMaker HyperPod, make sure the following prerequisites are in place: 
- 
- AWS configuration: 
-   
-   The AWS Command Line Interface (AWS CLI) configured with appropriate permissions 
-   Cluster configuration files prepared: cluster-config.json and provisioning-parameters.json 
-    
- Network setup: 
-   
-   A virtual private cloud (VPC) configured for cluster resources. 
-   Security groups with Elastic Fabric Adapter (EFA) communication enabled. 
-   An Amazon FSx for Lustre file system for shared, high-performance storage 
-    
- An AWS Identity and Management (IAM) role with permissions for the following: 
-   
-   Amazon Elastic Compute Cloud (Amazon EC2) instance and Amazon SageMaker cluster management 
-   FSx for Lustre and Amazon Simple Storage Service (Amazon S3) access 
-   Amazon CloudWatch Logs and AWS Systems Manager integration 
-   EFA network configuration 
-    
- 
-Launch the CloudFormation stack 
-We launched an AWS CloudFormation stack to provision the necessary infrastructure components, including a VPC and subnet, FSx for Lustre file system, S3 bucket for lifecycle scripts and training data, and IAM roles with scoped permissions for cluster operation. Refer to the Amazon SageMaker HyperPod workshop for CloudFormation templates and automation scripts. 
-Customize SLURM cluster configuration 
-To align compute resources with departmental research needs, we created SLURM partitions to reflect the organizational structure, for example NLP, computer vision, and deep learning teams. We used the SLURM partition configuration to define slurm.conf with custom partitions. SLURM accounting was enabled by configuring slurmdbd and linking usage to departmental accounts and supervisors. 
-To support fractional GPU sharing and efficient utilization, we enabled Generic Resource (GRES) configuration. With GPU stripping, multiple users can access GPUs on the same node without contention. The GRES setup followed the guidelines from the Amazon SageMaker HyperPod workshop. 
-Provision and validate the cluster 
-We validated the cluster-config.json and provisioning-parameters.json files using the AWS CLI and a SageMaker HyperPod validation script: 
- 
- $curl -O https://raw.githubusercontent.com/aws-samples/awsome-distributed-training/main/1.architectures/5.sagemaker-hyperpod/validate-config.py
-
-$pip3 install boto3
-
-$python3 validate-config.py --cluster-config cluster-config.json --provisioning-parameters provisioning-parameters.json 
- 
-Then we created the cluster: 
- 
- $aws sagemaker create-cluster \
-  --cli-input-json file://cluster-config.json \
-  --region us-west-2 
- 
-Implement cost tracking and budget enforcement 
-To monitor usage and control costs, each SageMaker HyperPod resource (for example, Amazon EC2, FSx for Lustre, and others) was tagged with a unique ClusterName tag. AWS Budgets and AWS Cost Explorer reports were configured to track monthly spending per cluster. Additionally, alerts were set up to notify researchers if they approached their quota or budget thresholds. 
-This integration helped facilitate efficient utilization and predictable research spending. 
-Enable load balancing for login nodes 
-As the number of concurrent users increased, the university adopted a multi-login node architecture. Two login nodes were deployed in EC2 Auto Scaling groups. A Network Load Balancer was configured with target groups to route SSH and Systems Manager traffic. Lastly, AWS Lambda functions enforced session limits per user using Run-As tags with Session Manager, a capability of Systems Manager. 
-For details about the full implementation, see Implementing login node load balancing in SageMaker HyperPod for enhanced multi-user experience. 
-Configure federated access and user mapping 
-To facilitate secure and seamless access for researchers, the institution integrated AWS IAM Identity Center with their on-premises Active Directory (AD) using AWS Directory Service. This allowed for unified control and administration of user identities and access privileges across SageMaker HyperPod accounts. The implementation consisted of the following key components: 
- 
- Federated user integration – We mapped AD users to POSIX user names using Session Manager run-as tags, allowing fine-grained control over compute node access 
- Secure session management – We configured Systems Manager to make sure users access compute nodes using their own accounts, not the default ssm-user 
- Identity-based tagging – Federated user names were automatically mapped to user directories, workloads, and budgets through resource tags 
- 
-For full step-by-step guidance, refer to the Amazon SageMaker HyperPod workshop. 
-This approach streamlined user provisioning and access control while maintaining strong alignment with institutional policies and compliance requirements. 
-Post-deployment optimizations 
-To help prevent unnecessary consumption of compute resources by idle sessions, the university configured SLURM with Pluggable Authentication Modules (PAM). This setup enforces automatic logout for users after their SLURM jobs are complete or canceled, supporting prompt availability of compute nodes for queued jobs. 
-The configuration improved job scheduling throughput by freeing idle nodes immediately and reduced administrative overhead in managing inactive sessions. 
-Additionally, QoS policies were configured to control resource consumption, limit job durations, and enforce fair GPU access across users and departments. For example: 
- 
- MaxTRESPerUser – Makes sure GPU or CPU usage per user stays within defined limits 
- MaxWallDurationPerJob – Helps prevent excessively long jobs from monopolizing nodes 
- Priority weights – Aligns priority scheduling based on research group or project 
- 
-These enhancements facilitated an optimized, balanced HPC environment that aligns with the shared infrastructure model of academic research institutions. 
-Clean up 
-To delete the resources and avoid incurring ongoing charges, complete the following steps: 
- 
- Delete the SageMaker HyperPod cluster: 
- 
- 
- $aws sagemaker delete-cluster --cluster-name &lt;name&gt; 
- 
- 
- Delete the CloudFormation stack used for the SageMaker HyperPod infrastructure: 
- 
- 
- $aws cloudformation delete-stack --stack-name &lt;stack-name&gt; --region &lt;region&gt; 
- 
-This will automatically remove associated resources, such as the VPC and subnets, FSx for Lustre file system, S3 bucket, and IAM roles. If you created these resources outside of CloudFormation, you must delete them manually. 
-Conclusion 
-SageMaker HyperPod provides research universities with a powerful, fully managed HPC solution tailored for the unique demands of AI workloads. By automating infrastructure provisioning, scaling, and resource optimization, institutions can accelerate innovation while maintaining budget control and operational efficiency. Through customized SLURM configurations, GPU sharing using GRES, federated access, and robust login node balancing, this solution highlights the potential of SageMaker HyperPod to transform research computing, so researchers can focus on science, not infrastructure. 
-For more details on making the most of SageMaker HyperPod, check out the SageMaker HyperPod workshop and explore further blog posts about SageMaker HyperPod. 
- 
-About the authors 
-Tasneem Fathima is Senior Solutions Architect at AWS. She supports Higher Education and Research customers in the United Arab Emirates to adopt cloud technologies, improve their time to science, and innovate on AWS. 
-Mohamed Hossam is a Senior HPC Cloud Solutions Architect at Brightskies, specializing in high-performance computing (HPC) and AI infrastructure on AWS. He supports universities and research institutions across the Gulf and Middle East in harnessing GPU clusters, accelerating AI adoption, and migrating HPC/AI/ML workloads to the AWS Cloud. In his free time, Mohamed enjoys playing video games.
 
 ⸻
