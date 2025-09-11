@@ -1,17 +1,17 @@
-✅ Morning News Briefing – September 10, 2025 10:42
+✅ Morning News Briefing – September 11, 2025 10:42
 
-📅 Date: 2025-09-10 10:42
+📅 Date: 2025-09-11 10:42
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• No watches or warnings in effect, Pembroke
-  No watches or warnings in effect. No warnings or watches or watches in effect . Watch or warnings are no longer in effect in the U.S. No watches, warnings are in effect for the rest of the day . No watches and warnings are still in effect, but no watches are in place for the day's events . The weather is not expected to be affected by the weather .
-• Current Conditions:  5.4°C
-  Temperature: 5.4&deg;C Pressure / Tendency: 102.4 kPa falling Humidity: 98 % Humidity : 98 % Dewpoint: 5 .1&deg:C Wind: SSW calm km/h . Air Quality Health Index: n/a . Weather: Pembroke 6:00 AM EDT Wednesday 10 September 2025 at 6.00
-• Wednesday: Mainly sunny. High 24.
-  Fog patches dissipating this morning . Mainly sunny. High 24. Humidex 25. UV index 6 or high . Forecast issued 5:00 AM EDT Wednesday 10 September 2025. Forecast: "Fog patches dissipated this morning. Mainly . sunny. Fog patches . dissipate this morning, high 24. sunny. Humidex 25. sunny . Humide
+• Current Conditions: Mostly Cloudy, 15.0°C
+  Temperature: 15.0&deg;C Pressure: 102.2 kPa Visibility: 24 km Humidity: 88 % Dewpoint: 13.1&deg:C Wind: NNW 11 km/h Air Quality Health Index: n/a . Observed at: Garrison Petawawa 6:00 AM EDT Thursday 11 September 2025 Condition: Mostly Cloudy Temperature:
+• Thursday: Clearing. High 20.
+  Mainly cloudy. Clearing early this afternoon . High 20. UV index 6 or high . Clearing later this afternoon. High 20 or low for highs of 20.50 degrees Celsius . Forecast issued 5:00 AM EDT Thursday 11 September 2025. Forecast also issued Thursday 11 Sept. 11 September 11 September 10. Weather forecast: Sunny, cloudy, breezy, cloudy .
+• Thursday night: Clear. Low plus 5.
+  Fog patches developing after midnight . Clear. Clear. Low plus 5.80s . Clear . Fog patches expected to develop after midnight. Clear . Forecast issued 5:00 AM EDT Thursday 11 September 2025. Forecast: "Clear, clear, bright, cold, sunny, cloudy, warm, cloudy" Forecast forecast: "Fog patches" will develop in the morning .
 
 🌍 International News
 No updates.
@@ -20,43 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Trump says he's fighting crime. Illinois Gov. Pritzker sees a power grab before 2026
-  Illinois Governor JB Pritzker talks about President Trump's threats to send National Guard troops to Chicago . He also talks about the future of the Democratic Party in Illinois . Inskeep talks with Pritzkers about the state's Democratic Party and the future in the U.S. Democratic Party . Pritzkker: "I'm a Democrat, I'm a Republican, and I
-• Who is Lachlan Murdoch, the anointed media tycoon?
-  His position in leading News Corp. and Fox is now secure, as his father ends a dramatic succession battle . Lachlan grew up in New York City but has lived in Australia for much of his adult life . He is the son of Rupert Murdoch, Rupert Murdoch's son-in-law, who has been married for more than a decade . He has been in the news business
-• Trump's control of the D.C. police is due to expire tonight. Then what?
-  Trump needs an extension from Congress to control D.C. police for more than 30 days . Some Republican lawmakers are focused on pursuing legislation that would exert power over the city in other ways . Some Republicans are pushing legislation to exert more control of the police force in other areas of the country . The president needs Congress' approval to keep control of police in Washington, DC, for 30 days
-• You're more likely to reach for that soda when it's hot outside
-  People drink more sugary beverages when it's hot, researchers found . That impact could grow as climate change raises the world's temperatures . The impact of climate change is expected to grow as more people drink more when it comes to hot, the study found . The study was published in the journal Nature Resolutions, published by the University of Cambridge, England, on Monday, July 4 .
-• 33 million voters have been run through a Trump administration citizenship check
-  Tens of millions of U.S. voters have had their information run through the tool . Little has been made public about the tool's accuracy or data security . The tool is a striking portion of the public, considering little has been revealed about the accuracy or security of the data security of it's data . It has been used by millions of Americans, but little is known about its accuracy
+• What we know about the shooting death of conservative activist Charlie Kirk
+  Kirk was killed Wednesday while speaking at a campus event in Utah . There is no suspect in custody in the death of Kirk . Kirk was speaking at an event at a Utah campus event . No suspect is in custody at the scene of the shooting . Kirk is believed to have been killed by a self-inflicted gunshot wound to the head in the head on Wednesday morning . No suspects have
+• Lab results confusing? Some patients use AI to interpret them, for better or worse
+  Many patients wait to hear back from their doctors about test results . Many turn to AI assistants for answers for answers . There are issues with privacy and accuracy of data collected by AI assistants . There is also an issue with accuracy and privacy of the data collected about the results . The AI assistants can be controlled by humans and can be programmed to be more precise and more accurate. There are concerns
+• After 10 years of black hole science, Stephen Hawking proven right
+  Researchers have spent ten years improving the massive detectors they use to catch shockwaves from colliding black holes . Now the science is precise enough to test one of Stephen Hawking's key ideas . The new technique will test the theory of black holes colliding supermassive black holes hitting black holes in the universe, which is thought to be one of the most powerful black holes to hit black holes ever
+• Israel has hunted its top enemies around the Middle East. What has it achieved?
+  Israel's surprise attack in Qatar targeting Hamas' top political leaders was the latest in a campaign aimed at hunting down Israel's top enemies since the 2023 Hamas-led attack on Israel . Hamas' political leaders have been targeted by Israel in the past . Israel has vowed to hunt down Hamas leaders since Hamas' 2023 terror strike on Israel is expected to take place in the coming years .
+• The broke college student's guide to managing money
+  A financial educator offers advice for first-year college students . Student loans, credit cards and a tight budget can be tough for first year students . A financial expert offers advice on how to deal with student loans and credit cards . The financial expert says it's important to keep a tight eye on student loans, debt and credit card accounts . For more information, visit CNN.com/Her
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Get paid like a prime minister to tame Home Office IT chaos
-  Department dangles £160K salary for CDIO to wrangle legacy systems, failed projects, and £1.8B budget . UK Home Office is on the hunt for a chief digital and innovation officer (CDIO) with an advertised salary not far off from the prime minister's . Home Office has a rich track record of failing IT projects, including legacy systems and failed projects .
-• Flu jab email mishap exposes hundreds of students' personal data
-  A clumsy data breach has affected hundreds of children at a Birmingham secondary school . One parent expressed concern for their child's safety . Hundreds of children were affected by the data breach at the Birmingham school . The school has been hit by a data breach that has left hundreds of pupils at risk of losing their identity . The data breach is believed to have occurred at the school in Birmingham, Birmingham .
-• Johnson, Cummings met Thiel months before Palantir won NHS pandemic role
-  Meeting with former UK PM and his chief advisor withheld from official records . Meeting with Palantir co-founder and chairman Peter Thiel in 2019 months before company landed a key role in UK's COVID-19 response, according to papers seen by The Guardian . Meeting was months before US spy-tech company landed role in the UK's response to the COVID19 response . Palant
-• KDE Linux and FreeBSD hit alpha and – surprise – fan fave Pop_OS nearly at beta
-  The Northern hemisphere is moving into autumn and FOSS vendors are falling over themselves in their efforts to get new versions out for the season . It's the season of FOSS fruitfulness as juicy goodness falls from the branch . The season of autumn is falling over with new versions of software for the first time in the fall . The FOSS community is getting ready to release new versions for the
-• Cybercrooks ripped the wheels off at Jaguar Land Rover. Here's how not to get taken for a ride
-  IT systems across multiple sites have been offline for over a week after what the company described as a "severe disruption" Jaguar Land Rover (JLR) is the latest UK household name to fall victim to a major cyberattack . The company described the attack as a 'severe disruption' in what it called a "severe disruption" JLR: "I'm not sure who has access
+• Attacker steals customer data from Brit rail operator LNER during break-in at supplier
+  LNER is the latest organization to spill user data via a third-party data breach . Major UK player cagey on specifics but latest attack follows string blamed on 'third party' suppliers . LNER was the UK's largest rail operator, LNER, which is cagey about specifics of the attack on the data breach but says it will not be affected by third party data breach.
+• Experts scrutinized Ofcom's Online Safety Act governance. They're concerned
+  Academics and OSA stakeholders say watchdog needs to amend how controversial legislation is enforced . Ofcom is overseeing the regulator overseeing the Online Safety Act . Questions mount over the effectiveness of the controversial legislation . OSA is the UK's version of the online safety act, and Ofcom has been criticised for its lack of transparency and effectiveness in enforcement of the act by the UK regulator . Of
+• BAE Systems surfaces autonomous submarine for military use
+  Defense biz BAE Systems says it is readying an autonomous military submarine for the end of next year . Battery powered now, fuel-cell fuel-cells tomorrow - all packed in a shipping box . The autonomous submarine will be powered by a battery powered fuel cell and battery-powered battery cells . The submarine is expected to be fully powered by fuel cells and battery cells in 2018 .
+• Microsoft puts last remnants of original Edge browser on life support
+  Microsoft has added a raft of web components to its list of depature features, including legacy Edge developer tools and hosted web apps . Not yet gone and not forgotten, but on their way Microsoft adds legacy Edge tools and web apps to the list of features that are no longer available . The list includes web components such as hosted apps and developer tools, but also legacy Edge Developer Tools and hosted
+• Dashboard anxiety plagues IT pros' nights, weekends, vacations
+  A new survey confirms what many IT pros already know: downtime doesn't exist . Admins can't stop checking their portals, survey finds . Dashboards and alerts intruding on their free time, according to the survey . The survey was conducted by IT professionals in New York and Washington, D.C., New York, New York City, Washington, New Jersey, Washington and D.
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• Functions of the global health system in a new era
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• A call for action: closing the gap on ethnic disparities in oral cavity cancer care
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Home-based care improves blood pressure control
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Protests are infectious: mapping rural unrest in Revolutionary France
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Enhancing Mindfulness-Based Cognitive Therapy in a Virtual Reality: A Prospective Interventional Study
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Changes in cholera burden across Africa
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -66,6 +68,270 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• Texas banned lab-grown meat. What’s next for the industry?
+  Last week, a legal battle over lab-grown meat kicked off in Texas. On September 1, a two-year ban on the technology went into effect across the state; the following day, two companies filed a lawsuit against state officials.
+
+
+
+The two companies, Wildtype Foods and Upside Foods, are part of a growing industry that aims to bring new types of food to people’s plates. These products, often called cultivated meat by the industry, take live animal cells and grow them in the lab to make food products without the need to slaughter animals.
+
+
+
+
+
+Texas joins six other US states and the country of Italy in banning these products. These legal challenges are adding barriers to an industry that’s still in its infancy and already faces plenty of challenges before it can reach consumers in a meaningful way.
+
+
+
+The agriculture sector makes up a hefty chunk of global greenhouse-gas emissions, with livestock alone accounting for somewhere between 10% and 20% of climate pollution. Alternative meat products, including those grown in a lab, could help cut the greenhouse gases from agriculture.
+
+
+
+The industry is still in its early days, though. In the US, just a handful of companies can legally sell products including cultivated chicken, pork fat, and salmon. Australia, Singapore, and Israel also allow a few companies to sell within their borders.
+
+
+
+Upside Foods, which makes cultivated chicken, was one of the first to receive the legal go-ahead to sell its products in the US, in 2022. Wildtype Foods, one of the latest additions to the US market, was able to start selling its cultivated salmon in June.
+
+
+
+Upside, Wildtype, and other cultivated-meat companies are still working to scale up production. Products are generally available at pop-up events or on special menus at high-end restaurants. (I visited San Francisco to try Upside’s cultivated chicken at a Michelin-starred restaurant a few years ago.)
+
+
+
+Until recently, the only place you could reliably find lab-grown meat in Texas was a sushi restaurant in Austin. Otoko featured Wildtype’s cultivated salmon on a special tasting menu starting in July. (The chef told local publication Culture Map Austin that the cultivated fish tastes like wild salmon, and it was included in a dish with grilled yellowtail to showcase it side-by-side with another type of fish.)
+
+
+
+The as-yet-limited reach of lab-grown meat didn’t stop state officials from moving to ban the technology, effective from now until September 2027.
+
+
+
+The office of state senator Charles Perry, the author of the bill, didn’t respond to requests for comment. Neither did the Texas and Southwestern Cattle Raisers Association, whose president, Carl Ray Polk Jr., testified in support of the bill in a March committee hearing.
+
+
+
+“The introduction of lab-grown meat could disrupt traditional livestock markets, affecting rural communities and family farms,” Perry said during the meeting.
+
+
+
+
+
+In an interview with the Texas Tribune, Polk said the two-year moratorium would help the industry put checks and balances in place before the products could be sold. He also expressed concern about how clearly cultivated-meat companies will be labeling their products.
+
+
+
+“The purpose of these bans is to try to kill the cultivated-meat industry before it gets off the ground,” said Myra Pasek, general counsel of Upside Foods, via email. The company is working to scale up its manufacturing and get the product on the market, she says, “but that can&#8217;t happen if we’re not allowed to compete in the marketplace.”
+
+
+
+Others in the industry have similar worries. “Moratoriums on sale like this not only deny Texans new choices and economic growth, but they also send chilling signals to researchers and entrepreneurs across the country,” said Pepin Andrew Tuma, the vice president of policy and government relations for the Good Food Institute, a nonprofit think tank focused on alternative proteins, in a statement. (The group isn’t involved in the lawsuit.)&nbsp;
+
+
+
+One day after the moratorium took effect on September 1, Wildtype Foods and Upside Foods filed a lawsuit challenging the ban, naming Jennifer Shuford, commissioner of the Texas Department of State Health Services, among other state officials.
+
+
+
+A lawsuit wasn’t necessarily part of the scale-up plan. “This was really a last resort for us,” says Justin Kolbeck, cofounder and CEO of Wildtype.
+
+
+
+Growing cells to make meat in the lab isn’t easy—some companies have spent a decade or more trying to make significant amounts of a product that people want to eat. These legal battles certainly aren’t going to help.&nbsp;
+
+
+
+This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
+• The Download: AI’s energy future
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+Video: AI and our energy future
+
+
+
+In May, MIT Technology Review published an unprecedented and comprehensive look at how much energy the AI industry uses—down to a single query. Our reporters and editors traced where AI’s carbon footprint stands now, and where it’s headed, as AI barrels towards billions of daily users.
+
+
+
+We’ve just produced a short video to accompany that investigation. You can read the original full story here, and check out—and share— the full video on YouTube here.
+
+
+
+
+
+
+
+AI is changing the grid. Could it help more than it harms?
+
+
+
+The rising popularity of AI is driving an increase in electricity demand so significant it has the potential to reshape the grid. Energy consumption by data centers has gone up by 80% from 2020 to 2025 and is likely to keep growing. Electricity prices are already rising, especially in places where data centers are most concentrated.&nbsp;
+
+
+
+Yet many people, especially in Big Tech, argue that AI will be, on balance, a positive force for the grid. They claim that the technology could help get more clean power online faster, run our power system more efficiently, and predict and prevent failures that cause blackouts. How much merit is there to that argument?
+
+
+
+—Casey Crownhart
+
+
+
+
+
+
+
+Three big things we still don’t know about AI’s energy burden
+
+
+
+—James O’Donnell
+
+
+
+Earlier this year, when my colleague Casey Crownhart and I spent six months researching the climate and energy burden of AI, we came to see one number in particular as our white whale: how much energy the leading AI models, like ChatGPT or Gemini, use up when generating a single response. 
+
+
+
+We pestered Google, OpenAI, and Microsoft, but each company refused to provide its figure for our article. But then this summer, after we published, a strange thing started to happen. They finally started to release the numbers we’d been calling for.
+
+
+
+So with this newfound transparency, is our job complete? Did we finally harpoon our white whale? I reached out to some of our old sources, and some new ones, to find out. Read the full story.
+
+
+
+
+
+
+
+MIT Technology Review Narrated: Google DeepMind has a new way to look inside an AI’s “mind”
+
+
+
+We don’t know exactly how AI works, or why it works so well. That’s a problem: It could lead us to deploy an AI system in a highly sensitive field like medicine without understanding its critical flaws.But a team at Google DeepMind that studies something called mechanistic interpretability has been working on new ways to let us peer under the hood.&nbsp;
+
+
+
+This is our latest story to be turned into a MIT Technology Review Narrated podcast, which we’re publishing each week on Spotify and Apple Podcasts. Just navigate to MIT Technology Review Narrated on either platform, and follow us to get all our new content as it’s released.
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 Meta suppressed research into the harms young users face in VRTwo former employees told a Senate committee the firm did it to avoid regulatory scrutiny. (WP $)
+
+
+
+2 The MAGA movement is full of AI skepticsBut the White House is ditching regulatory obstacles and trying to accelerate AI’s adoption. (FT $)
+
+
+
+3 Pfizer says its new covid vaccine boosts immune responses fourfoldIf you can get one, that is. (Ars Technica)+ Americans who can’t access a booster are increasingly fearful. (The Guardian)+ Vaccine guidance is incredibly confusing these days. (Vox)+ Why limited access to covid vaccines isn’t all bad. (MIT Technology Review)
+
+
+
+4 The EU will examine banning social media for under-16sFollowing governments across Europe pushing for mandatory age restrictions. (Bloomberg $)
+
+
+
+5 RFK Jr is going all-in on ChatGPTAll US health department employees have been given access to the tool. (404 Media)+ Humans may be more likely to believe disinformation generated by AI. (MIT Technology Review)
+
+
+
+6 An “AI-supported” coder won in a man vs machine hackathon But AI tools seem to slow down some experienced human developers. (Wired $)+ The second wave of AI coding is here. (MIT Technology Review)
+
+
+
+7 Mark Zuckerberg is suing MetaNo, not that Mark Zuckerberg. (NYT $)+ The bankruptcy lawyer is fed up with being mistaken for him. (The Guardian)
+
+
+
+8 Apple’s new AirPods can translate languages in real timeVia a robotic voice in your ear. (Ars Technica)+ A new AI translation system for headphones clones multiple voices simultaneously. (MIT Technology Review)
+
+
+
+9 AI is threatening Latin America’s diverse music scenesFake songs are flooding streaming platforms and depriving artists of an income. (Rest of World)+ How Pandora fumbled its streaming lead. (Fast Company $)+ How to break free of Spotify’s algorithm. (MIT Technology Review)
+
+
+
+10 Auction house Christie’s is axing its digital art divisionBut don’t worry—it’ll still sell you NFTs. (Cointelegraph)+ I tried to buy an Olive Garden NFT. All I got was heartburn. (MIT Technology Review)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“If you don’t lay the groundwork culturally for bringing in these stars, you’re going to end up burning a bunch of them out and pissing them off, and a bunch of them are going to quit and you’re going to waste millions of dollars.”
+
+
+
+—Laszlo Bock, a tech industry adviser and former head of people operations at Google, points out where Meta’s AI division is going wrong to the Wall Street Journal.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+The $100 billion bet that a postindustrial US city can reinvent itself as a high-tech hub
+
+
+
+On a day in late April 2023, a small drilling rig sits at the edge of the scrubby overgrown fields of Syracuse, New York, taking soil samples. It’s the first sign of construction on what could become the largest semiconductor manufacturing facility in the United States.
+
+
+
+The CHIPS and Science Act was widely viewed by industry leaders and politicians as a way to secure supply chains, and make the United States competitive again in semiconductor chip manufacturing.&nbsp;
+
+
+
+Now Syracuse is about to become an economic test of whether, over the next several decades, aggressive government policies—and the massive corporate investments they spur—can both boost the country’s manufacturing prowess and revitalize neglected parts of the country. Read the full story.
+
+
+
+—David Rotman
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
+
+
+
++ This 1981 Sony Trinitron TV is the last word in luxury.+ It’s not just you—as we age, we really do become less adventurous musically.+ It appears as though our human ancestors hibernated—but weren’t very good at it.+ Did renowned painter Vermeer duplicate his own painting? You be the judge.
 • Adapting to new threats with proactive risk management
   In July 2024, a botched update to the software defenses managed by cybersecurity firm CrowdStrike caused more than 8 million Windows systems to fail . The outage is estimated to have caused direct losses of more than $5 billion to Fortune 500 companies . As organizations become ever more interconnected, the expanding surface of networks and the rapid adoption of technologies like AI are exposing new vulnerabilities . Cyberattacks are also becoming increasingly sophisticated and damaging as AI-driven malware and malware-as-a-service platforms turbocharge attacks .
 • The Download: meet our AI innovators, and what happens when therapists use AI covertly
@@ -298,220 +564,6 @@ Read the full story from Laurie Clarke.&nbsp;
 
 
 This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.
-• AI is changing the grid. Could it help more than it harms?
-  The rising popularity of AI is driving an increase in electricity demand so significant it has the potential to reshape our grid. Energy consumption by data centers has gone up by 80% from 2020 to 2025 and is likely to keep growing. Electricity prices are already rising, especially in places where data centers are most concentrated.&nbsp;
-
-
-
-Yet many people, especially in Big Tech, argue that AI will be, on balance, a positive force for the grid. They claim that the technology could help get more clean power online faster, run our power system more efficiently, and predict and prevent failures that cause blackouts.&nbsp;
-
-
-
-
-
-
-
-This story is a part of MIT Technology Review’s series “Power Hungry: AI and our energy future,” on the energy demands and carbon costs of the artificial-intelligence revolution.
-
-
-
-
-
-
-
-There are early examples where AI is helping already, including AI tools that utilities are using to help forecast supply and demand. The question is whether these big promises will be realized fast enough to outweigh the negative effects of AI on local grids and communities.&nbsp;
-
-
-
-A delicate balance
-
-
-
-One area where AI is already being used for the grid is in forecasting, says Utkarsha Agwan, a member of the nonprofit group Climate Change AI.
-
-
-
-Running the grid is a balancing act: Operators have to understand how much electricity demand there is and turn on the right combination of power plants to meet it. They optimize for economics along the way, choosing the sources that will keep prices lowest for the whole system.
-
-
-
-That makes it necessary to look ahead hours and in some cases days. Operators consider factors such as historical data (holidays often see higher demand) and the weather (a hot day means more air conditioners sucking up power). These predictions also consider what level of supply is expected from intermittent sources like solar panels.
-
-
-
-There’s little risk in using AI tools in forecasting; it’s often not as time sensitive as other applications, which can require reactions within seconds or even milliseconds. A grid operator might use a forecast to determine which plants will need to turn on. Other groups might run their own forecasts as well, using AI tools to decide how to staff a plant, for example. The tools also can’t physically control anything. Rather, they can be used alongside more conventional methods to provide more data.&nbsp;&nbsp;
-
-
-
-
-
-Today, grid operators make a lot of approximations to model the grid, because the system is so incredibly complex that it’s impossible to truly know what’s going on in every place at every time. Not only are there a whole host of power plants and consumers to think about, but there are considerations like making sure power lines don’t get overloaded.
-
-
-
-Working with those estimates can lead to some inefficiencies, says Kyri Baker, a professor at the University of Colorado Boulder. Operators tend to generate a bit more electricity than the system uses, for example. Using AI to create a better model could reduce some of those losses and allow operators to make decisions about how to control infrastructure in real time to reach a closer match of supply and demand.
-
-
-
-She gives the example of a trip to the airport. Imagine there’s a route you know will get you there in about 45 minutes. There might be another, more complicated route that could save you some time in ideal conditions—but you’re not sure whether it’s better on any particular day. What the grid does now is the equivalent of taking the reliable route.
-
-
-
-“So that’s the gap that AI can help close. We can solve this more complex problem, fast enough and reliably enough that we can possibly use it and shave off emissions,” Baker says.&nbsp;
-
-
-
-In theory, AI could be used to operate the grid entirely without human intervention. But that work is largely still in the research phase. Grid operators are running some of the most critical infrastructure in this country, and the industry is hesitant to mess with something that’s already working, Baker says. If this sort of technology is ever used in grid operations, there will still be humans in the loop to help make decisions, at least when it’s first deployed.&nbsp;&nbsp;
-
-
-
-Planning ahead
-
-
-
-Another fertile area for AI is planning future updates to the grid. Building a power plant can take a very long time—the typical time from an initial request to commercial operation in the US is roughly four years. One reason for the lengthy wait is that new power plants have to demonstrate how they might affect the rest of the grid before they can connect.&nbsp;
-
-
-
-An interconnection study examines whether adding a new power plant of a particular type in a particular place would require upgrades to the grid to prevent problems. After regulators and utilities determine what upgrades might be needed, they estimate the cost, and the energy developer generally foots the bill.&nbsp;
-
-
-
-Today, those studies can take months. They involve trying to understand an incredibly complicated system, and because they rely on estimates of other existing and proposed power plants, only a few can happen in an area at any given time. This has helped create the years-long interconnection queue, a long line of plants waiting for their turn to hook up to the grid in markets like the US and Europe. The vast majority of projects in the queue today are renewables, which means there’s clean power just waiting to come online.&nbsp;
-
-
-
-AI could help speed this process, producing these reports more quickly. The Midcontinent Independent System Operator, a grid operator that covers 15 states in the central US, is currently working with a company called Pearl Street to help automate these reports.
-
-
-
-AI won’t be a cure-all for grid planning; there are other steps to clearing the interconnection queue, including securing the necessary permits. But the technology could help move things along. “The sooner we can speed up interconnection, the better off we’ll be,” says Rob Gramlich, president of Grid Strategies, a consultancy specializing in transmission and power markets.
-
-
-
-There’s a growing list of other potential uses for AI on the grid and in electricity generation. The technology could monitor and plan ahead for failures in equipment ranging from power lines to gear boxes. Computer vision could help detect everything from wildfires to faulty lines. AI could also help balance supply and demand in virtual power plants, systems of distributed resources like EV chargers or smart water heaters.&nbsp;
-
-
-
-While there are early examples of research and pilot programs for AI from grid planning to operation, some experts are skeptical that the technology will deliver at the level some are hoping for. “It’s not that AI has not had some kind of transformation on power systems,” Climate Change AI’s Agwan says. “It’s that the promise has always been bigger, and the hope has always been bigger.”
-
-
-
-Some places are already seeing higher electricity prices because of power needs from data centers. The situation is likely to get worse. Electricity demand from data centers is set to double by the end of the decade, reaching 945 terawatt-hours, roughly the annual demand from the entire country of Japan.&nbsp;
-
-
-
-The infrastructure growth needed to support AI load growth has outpaced the promises of the technology, “by quite a bit,” says Panayiotis Moutis, an assistant professor of electrical engineering at the City College of New York. Higher bills caused by the increasing energy needs of AI aren’t justified by existing ways of using the technology for the grid, he says. 
-
-
-
-“At the moment, I am very hesitant to lean on the side of AI being a silver bullet,” Moutis says.&nbsp;
-
-
-
-Correction: This story has been updated to correct Moutis&#8217;s affiliation.
-• Three big things we still don’t know about AI’s energy burden
-  Earlier this year, when my colleague Casey Crownhart and I spent six months researching the climate and energy burden of AI, we came to see one number in particular as our white whale: how much energy the leading AI models, like ChatGPT or Gemini, use up when generating a single response.&nbsp;
-
-
-
-This fundamental number remained elusive even as the scramble to power AI escalated to the White House and the Pentagon, and as projections showed that in three years AI could use as much electricity as 22% of all US households.&nbsp;
-
-
-
-The problem with finding that number, as we explain in our piece published in May, was that AI companies are the only ones who have it. We pestered Google, OpenAI, and Microsoft, but each company refused to provide its figure. Researchers we spoke to who study AI’s impact on energy grids compared it to trying to measure the fuel efficiency of a car without ever being able to drive it, making guesses based on rumors of its engine size and what it sounds like going down the highway.
-
-
-
-
-
-
-
-This story is a part of&nbsp;MIT Technology Review’s series “Power Hungry: AI and our energy future,” on the energy demands and carbon costs of the artificial-intelligence revolution.
-
-
-
-
-
-
-
-But then this summer, after we published, a strange thing started to happen. In June, OpenAI’s Sam Altman wrote that an average ChatGPT query uses 0.34 watt-hours of energy. In July, the French AI startup Mistral didn’t publish a number directly but released an estimate of the emissions generated. In August, Google revealed that answering a question to Gemini uses about 0.24 watt-hours of energy. The figures from Google and OpenAI were similar to what Casey and I estimated for medium-size AI models.&nbsp;
-
-
-
-So with this newfound transparency, is our job complete? Did we finally harpoon our white whale, and if so, what happens next for people studying the climate impact of AI? I reached out to some of our old sources, and some new ones, to find out.
-
-
-
-
-
-
-
-
-
-The numbers are vague and chat-only
-
-
-
-The first thing they told me is that there’s a lot missing from the figures tech companies published this summer.&nbsp;
-
-
-
-OpenAI’s number, for example, did not appear in a detailed technical paper but rather in a blog post by Altman that leaves lots of unanswered questions, such as which model he was referring to, how the energy use was measured, and how much it varies. Google’s figure, as Crownhart points out, refers to the median amount of energy per query, which doesn’t give us a sense of the more energy-demanding Gemini responses, like when it uses a reasoning model to “think” through a hard problem or generates a really long response.&nbsp;
-
-
-
-The numbers also refer only to interactions with chatbots, not the other ways that people are becoming increasingly reliant on generative AI.&nbsp;
-
-
-
-“As video and image becomes more prominent and used by more and more people, we need the numbers from different modalities and how they measure up,” says Sasha Luccioni, AI and climate lead at the AI platform Hugging Face.&nbsp;
-
-
-
-This is also important because the figures for asking a question to a chatbot are, as expected, undoubtedly small—the same amount of electricity used by a microwave in just seconds. That’s part of the reason AI and climate researchers don’t suggest that any one individual’s AI use creates a significant climate burden.&nbsp;
-
-
-
-A full accounting of AI’s energy demands—one that goes beyond what’s used to answer an individual query to help us understand its full net impact on the climate—would require application-specific information on how all this AI is being used. Ketan Joshi, an analyst for climate and energy groups, acknowledges that researchers don’t usually get such specific information from other industries but says it might be justified in this case.
-
-
-
-“The rate of data center growth is inarguably unusual,” Joshi says. “Companies should be subject to significantly more scrutiny.”
-
-
-
-
-
-We have questions about energy efficiency
-
-
-
-Companies making billion-dollar investments into AI have struggled to square this growth in energy demand with their sustainability goals. In May, Microsoft said that its emissions have soared by over 23% since 2020, owing largely to AI, while the company has promised to be carbon negative by 2030. “It has become clear that our journey towards being carbon negative is a marathon, not a sprint,” Microsoft wrote.
-
-
-
-Tech companies often justify this emissions burden by arguing that soon enough, AI itself will unlock efficiencies that will make it a net positive for the climate. Perhaps the right AI system, the thinking goes, could design more efficient heating and cooling systems for a building, or help discover the minerals required for electric-vehicle batteries.&nbsp;
-
-
-
-But there are no signs that AI has been usefully used to do these things yet. Companies have shared anecdotes about using AI to find methane emission hot spots, for example, but they haven’t been transparent enough to help us know if these successes outweigh the surges in electricity demand and emissions that Big Tech has produced in the AI boom. In the meantime, more data centers are planned, and AI’s energy demand continues to rise and rise.&nbsp;
-
-
-
-The ‘bubble’ question
-
-
-
-One of the big unknowns in the AI energy equation is whether society will ever adopt AI at the levels that figure into tech companies’ plans. OpenAI has said that ChatGPT receives 2.5 billion prompts per day. It’s possible that this number, and the equivalent numbers for other AI companies, will continue to soar in the coming years. Projections released last year by the Lawrence Berkeley National Laboratory suggest that if they do, AI alone could consume as much electricity annually as 22% of all US households by 2028.
-
-
-
-But this summer also saw signs of a slowdown that undercut the industry’s optimism. OpenAI’s launch of GPT-5 was largely considered a flop, even by the company itself, and that flop led critics to wonder if AI may be hitting a wall. When a group at MIT found that 95% of businesses are seeing no return on their massive AI investments, stocks floundered. The expansion of AI-specific data centers might be an investment that’s hard to recoup, especially as revenues for AI companies remain elusive.&nbsp;
-
-
-
-One of the biggest unknowns about AI’s future energy burden isn’t how much a single query consumes, or any other figure that can be disclosed. It’s whether demand will ever reach the scale companies are building for or whether the technology will collapse under its own hype. The answer will determine whether today’s buildout becomes a lasting shift in our energy system or a short-lived spike.
 
 🔒 Cybersecurity & Privacy
 • Microsoft Patch Tuesday, September 2025 Edition
@@ -560,36 +612,182 @@ Aikido recently launched a product that aims to help development teams ensure th
 Weaver said these types of supply-chain compromises will continue as long as people responsible for maintaining widely-used code continue to rely on phishable forms of 2FA.
 &#8220;NPM should only support phish-proof authentication,&#8221; Weaver said, referring to physical security keys that are phish-proof &#8212; meaning that even if phishers manage to steal your username and password, they still can&#8217;t log in to your account without also possessing that physical key.
 &#8220;All critical infrastructure needs to use phish-proof 2FA, and given the dependencies in modern software, archives such as NPM are absolutely critical infrastructure,&#8221; Weaver said. &#8220;That NPM does not require that all contributor accounts use security keys or similar 2FA methods should be considered negligence.&#8221;
-• GOP Cries Censorship Over Spam Filters That Work
-  The chairman of the Federal Trade Commission (FTC) last week sent a letter to Google&#8217;s CEO demanding to know why Gmail was blocking messages from Republican senders while allegedly failing to block similar missives supporting Democrats. The letter followed media reports accusing Gmail of disproportionately flagging messages from the GOP fundraising platform WinRed and sending them to the spam folder. But according to experts who track daily spam volumes worldwide, WinRed&#8217;s messages are getting blocked more because its methods of blasting email are increasingly way more spammy than that of ActBlue, the fundraising platform for Democrats.
-Image: nypost.com
-On Aug. 13, The New York Post ran an &#8220;exclusive&#8221; story titled, &#8220;Google caught flagging GOP fundraiser emails as &#8216;suspicious&#8217; &#8212; sending them directly to spam.&#8221; The story cited a memo from Targeted Victory – whose clients include the National Republican Senatorial Committee (NRSC), Rep. Steve Scalise and Sen. Marsha Blackburn – which said it observed that the &#8220;serious and troubling&#8221; trend was still going on as recently as June and July of this year.
-“If Gmail is allowed to quietly suppress WinRed links while giving ActBlue a free pass, it will continue to tilt the playing field in ways that voters never see, but campaigns will feel every single day,” the memo reportedly said.
-In an August 28 letter to Google CEO Sundar Pichai, FTC Chairman Andrew Ferguson cited the New York Post story and warned that Gmail&#8217;s parent Alphabet may be engaging in unfair or deceptive practices.
-&#8220;Alphabet’s alleged partisan treatment of comparable messages or messengers in Gmail to achieve political objectives may violate both of these prohibitions under the FTC Act,&#8221; Ferguson wrote. &#8220;And the partisan treatment may cause harm to consumers.&#8221;
-However, the situation looks very different when you ask spam experts what&#8217;s going on with WinRed&#8217;s recent messaging campaigns. Atro Tossavainen and Pekka Jalonen are co-founders at Koli-Lõks OÜ, an email intelligence company in Estonia. Koli-Lõks taps into real-time intelligence about daily spam volumes by monitoring large numbers of &#8220;spamtraps&#8221; &#8212; email addresses that are intentionally set up to catch unsolicited emails.
-Spamtraps are generally not used for communication or account creation, but instead are created to identify senders exhibiting spammy behavior, such as scraping the Internet for email addresses or buying unmanaged distribution lists. As an email sender, blasting these spamtraps over and over with unsolicited email is the fastest way to ruin your domain&#8217;s reputation online. Such activity also virtually ensures that more of your messages are going to start getting listed on spam blocklists that are broadly shared within the global anti-abuse community.
-Tossavainen told KrebsOnSecurity that WinRed&#8217;s emails hit its spamtraps in the .com, .net, and .org space far more frequently than do fundraising emails sent by ActBlue. Koli-Lõks published a graph of the stark disparity in spamtrap activity for WinRed versus ActBlue, showing a nearly fourfold increase in spamtrap hits from WinRed emails in the final week of July 2025.
-Image: Koliloks.eu
-&#8220;Many of our spamtraps are in repurposed legacy-TLD domains (.com, .org, .net) and therefore could be understood to have been involved with a U.S. entity in their pre-zombie life,&#8221; Tossavainen explained in the LinkedIn post.
-Raymond Dijkxhoorn is the CEO and a founding member of SURBL, a widely-used blocklist that flags domains and IP addresses known to be used in unsolicited messages, phishing and malware distribution. Dijkxhoorn said their spamtrap data mirrors that of Koli-Lõks, and shows that WinRed has consistently been far more aggressive in sending email than ActBlue.
-Dijkxhoorn said the fact that WinRed&#8217;s emails so often end up dinging the organization&#8217;s sender reputation is not a content issue but rather a technical one.
-&#8220;On our end we don’t really care if the content is political or trying to sell viagra or penis enlargements,&#8221; Dijkxhoorn said. &#8220;It’s the mechanics, they should not end up in spamtraps. And that’s the reason the domain reputation is tempered. Not ‘because domain reputation firms have a political agenda.&#8217; We really don&#8217;t care about the political situation anywhere. The same as we don&#8217;t mind people buying penis enlargements. But when either of those land in spamtraps it will impact sending experience.&#8221;
-The FTC letter to Google&#8217;s CEO also referenced a debunked 2022 study (PDF) by political consultants who found Google caught more Republican emails in spam filters. Techdirt editor Mike Masnick notes that while the 2022 study also found that other email providers caught more Democratic emails as spam, &#8220;Republicans laser-focused on Gmail because it fit their victimization narrative better.&#8221;
-Masnick said GOP lawmakers then filed both lawsuits and complaints with the Federal Election Commission (both of which failed easily), claiming this was somehow an “in-kind contribution” to Democrats.
-&#8220;This is political posturing designed to keep the White House happy by appearing to &#8216;do something&#8217; about conservative claims of &#8216;censorship,'&#8221; Masnick wrote of the FTC letter. &#8220;The FTC has never policed &#8216;political bias&#8217; in private companies’ editorial decisions, and for good reason—the First Amendment prohibits exactly this kind of government interference.&#8221;
-WinRed did not respond to a request for comment.
-The WinRed website says it is an online fundraising platform supported by a united front of the Trump campaign, the Republican National Committee (RNC), the NRSC, and the National Republican Congressional Committee (NRCC).
-WinRed has recently come under fire for aggressive fundraising via text message as well. In June, 404 Media reported on a lawsuit filed by a family in Utah against the RNC for allegedly bombarding their mobile phones with text messages seeking donations after they&#8217;d tried to unsubscribe from the missives dozens of times.
-One of the family members said they received 27 such messages from 25 numbers, even after sending 20 stop requests. The plaintiffs in that case allege the texts from WinRed and the RNC &#8220;knowingly disregard stop requests and purposefully use different phone numbers to make it impossible to block new messages.&#8221;
-Dijkxhoorn said WinRed did inquire recently about why some of its assets had been marked as a risk by SURBL, but he said they appeared to have zero interest in investigating the likely causes he offered in reply.
-&#8220;They only replied with, &#8216;You are interfering with U.S. elections,'&#8221; Dijkxhoorn said, noting that many of SURBL&#8217;s spamtrap domains are only publicly listed in the registration records for random domain names.
-&#8220;They’re at best harvested by themselves but more likely [they] just went and bought lists,&#8221; he said. &#8220;It&#8217;s not like ‘Oh Google is filtering this and not the other,’ the reason isn&#8217;t the provider. The reason is the fundraising spammers and the lists they send to.&#8221;
 
 🎓 University AI
 No updates.
 
 🏢 Corporate AI
+• RenderFormer: How neural networks are reshaping 3D rendering
+  3D rendering—the process of converting three-dimensional models into two-dimensional images—is a foundational technology in computer graphics, widely used across gaming, film, virtual reality, and architectural visualization. Traditionally, this process has depended on physics-based techniques like ray tracing and rasterization, which simulate light behavior through mathematical formulas and expert-designed models.
+
+
+
+Now, thanks to advances in AI, especially neural networks, researchers are beginning to replace these conventional approaches with machine learning (ML). This shift is giving rise to a new field known as neural rendering.
+
+
+
+Neural rendering combines deep learning with traditional graphics techniques, allowing models to simulate complex light transport without explicitly modeling physical optics. This approach offers significant advantages: it eliminates the need for handcrafted rules, supports end-to-end training, and can be optimized for specific tasks. Yet, most current neural rendering methods rely on 2D image inputs, lack support for raw 3D geometry and material data, and often require retraining for each new scene—limiting their generalizability.
+
+
+
+RenderFormer: Toward a general-purpose neural rendering model
+
+
+
+To overcome these limitations, researchers at Microsoft Research have developed RenderFormer, a new neural architecture designed to support full-featured 3D rendering using only ML—no traditional graphics computation required. RenderFormer is the first model to demonstrate that a neural network can learn a complete graphics rendering pipeline, including support for arbitrary 3D scenes and global illumination, without relying on ray tracing or rasterization. This work has been accepted at SIGGRAPH 2025 and is open-sourced on GitHub (opens in new tab).
+
+
+
+Architecture overview
+
+
+
+As shown in Figure 1, RenderFormer represents the entire 3D scene using triangle tokens—each one encoding spatial position, surface normal, and physical material properties such as diffuse color, specular color, and roughness. Lighting is also modeled as triangle tokens, with emission values indicating intensity.
+
+
+
+Figure 1. Architecture of RenderFormer
+
+
+
+To describe the viewing direction, the model uses ray bundle tokens derived from a ray map—each pixel in the output image corresponds to one of these rays. To improve computational efficiency, pixels are grouped into rectangular blocks, with all rays in a block processed together.
+
+
+
+The model outputs a set of tokens that are decoded into image pixels, completing the rendering process entirely within the neural network.
+
+
+
+	
+		
+
+		
+		PODCAST SERIES
+	
+	
+	
+						
+				
+					
+				
+			
+			
+			
+
+									The AI Revolution in Medicine, Revisited
+				
+								Join Microsoft’s Peter Lee on a journey to discover how AI is impacting healthcare and what it means for the future of medicine.
+				
+								
+					
+						
+							Listen now						
+					
+				
+							
+	
+Opens in a new tab	
+	
+
+
+Dual-branch design for view-independent and view-dependent effects
+
+
+
+The RenderFormer architecture is built around two transformers: one for view-independent features and another for view-dependent ones.
+
+
+
+
+The view-independent transformer captures scene information unrelated to viewpoint, such as shadowing and diffuse light transport, using self-attention between triangle tokens.
+
+
+
+The view-dependent transformer models effects like visibility, reflections, and specular highlights through cross-attention between triangle and ray bundle tokens.
+
+
+
+
+Additional image-space effects, such as anti-aliasing and screen-space reflections, are handled via self-attention among ray bundle tokens.
+
+
+
+To validate the architecture, the team conducted ablation studies and visual analyses, confirming the importance of each component in the rendering pipeline.
+
+
+
+Table 1. Ablation study analyzing the impact of different components and attention mechanisms on the final performance of the trained network. 
+
+
+
+To test the capabilities of the view-independent transformer, researchers trained a decoder to produce diffuse-only renderings. The results, shown in Figure 2, demonstrate that the model can accurately simulate shadows and other indirect lighting effects.
+
+
+
+Figure 2. View-independent rendering effects decoded directly from the view-independent transformer, including diffuse lighting and coarse shadow effects. 
+
+
+
+The view-dependent transformer was evaluated through attention visualizations. For example, in Figure 3, the attention map reveals a pixel on a teapot attending to its surface triangle and to a nearby wall—capturing the effect of specular reflection. These visualizations also show how material changes influence the sharpness and intensity of reflections.
+
+
+
+Figure 3. Visualization of attention outputs
+
+
+
+Training methodology and dataset design
+
+
+
+RenderFormer was trained using the Objaverse dataset, a collection of more than 800,000 annotated 3D objects that is designed to advance research in 3D modeling, computer vision, and related fields. The researchers designed four scene templates, populating each with 1–3 randomly selected objects and materials. Scenes were rendered in high dynamic range (HDR) using Blender’s Cycles renderer, under varied lighting conditions and camera angles.
+
+
+
+The base model, consisting of 205 million parameters, was trained in two phases using the AdamW optimizer:
+
+
+
+
+500,000 steps at 256×256 resolution with up to 1,536 triangles
+
+
+
+100,000 steps at 512×512 resolution with up to 4,096 triangles
+
+
+
+
+The model supports arbitrary triangle-based input and generalizes well to complex real-world scenes. As shown in Figure 4, it accurately reproduces shadows, diffuse shading, and specular highlights.
+
+
+
+Figure 4. Rendered results of different 3D scenes generated by RenderFormer 
+
+
+
+RenderFormer can also generate continuous video by rendering individual frames, thanks to its ability to model viewpoint changes and scene dynamics.
+
+
+
+3D animation sequence rendered by RenderFormer 
+
+
+
+Looking ahead: Opportunities and challenges
+
+
+
+RenderFormer represents a significant step forward for neural rendering. It demonstrates that deep learning can replicate and potentially replace the traditional rendering pipeline, supporting arbitrary 3D inputs and realistic global illumination—all without any hand-coded graphics computations.
+
+
+
+However, key challenges remain. Scaling to larger and more complex scenes with intricate geometry, advanced materials, and diverse lighting conditions will require further research. Still, the transformer-based architecture provides a solid foundation for future integration with broader AI systems, including video generation, image synthesis, robotics, and embodied AI. 
+
+
+
+Researchers hope that RenderFormer will serve as a building block for future breakthroughs in both graphics and AI, opening new possibilities for visual computing and intelligent environments.
+Opens in a new tabThe post RenderFormer: How neural networks are reshaping 3D rendering appeared first on Microsoft Research.
 • Breaking the networking wall in AI infrastructure
   Memory and network bottlenecks are increasingly limiting AI system performance by reducing GPU&nbsp;utilization&nbsp;and overall efficiency,&nbsp;ultimately preventing&nbsp;infrastructure from reaching its full potential&nbsp;despite enormous investments.&nbsp;At the&nbsp;core&nbsp;of this challenge is a fundamental trade-off in the communication technologies used for memory and network interconnects.
 
@@ -655,611 +853,436 @@ For example,&nbsp;by&nbsp;supporting&nbsp;low-power,&nbsp;high-bandwidth connect
 
 Historically, step changes in network technology have unlocked entirely new classes of applications and workloads. While our SIGCOMM paper provides&nbsp;possible future&nbsp;directions, we hope this work sparks broader discussion and collaboration across the research and industry communities.
 Opens in a new tabThe post Breaking the networking wall in AI infrastructure  appeared first on Microsoft Research.
-• Powering innovation at scale: How AWS is tackling AI infrastructure challenges
-  As generative AI continues to transform how enterprises operate—and develop net new innovations—the infrastructure demands for training and deploying AI models have grown exponentially. Traditional infrastructure approaches are struggling to keep pace with today’s computational requirements, network demands, and resilience needs of modern AI workloads. 
-At AWS, we’re also seeing a transformation across the technology landscape as organizations move from experimental AI projects to production deployments at scale. This shift demands infrastructure that can deliver unprecedented performance while maintaining security, reliability, and cost-effectiveness. That’s why we’ve made significant investments in networking innovations, specialized compute resources, and resilient infrastructure that’s designed specifically for AI workloads. 
-Accelerating model experimentation and training with SageMaker AI 
-The gateway to our AI infrastructure strategy is Amazon SageMaker AI, which provides purpose-built tools and workflows to streamline experimentation and accelerate the end-to-end model development lifecycle. One of our key innovations in this area is Amazon SageMaker HyperPod, which removes the undifferentiated heavy lifting involved in building and optimizing AI infrastructure. 
-At its core, SageMaker HyperPod represents a paradigm shift by moving beyond the traditional emphasis on raw computational power toward intelligent and adaptive resource management. It comes with advanced resiliency capabilities so that clusters can automatically recover from model training failures across the full stack, while automatically splitting training workloads across thousands of accelerators for parallel processing. 
-The impact of infrastructure reliability on training efficiency is significant. On a 16,000-chip cluster, for instance, every 0.1% decrease in daily node failure rate improves cluster productivity by 4.2% —translating to potential savings of up to $200,000 per day for a 16,000 H100 GPU cluster. To address this challenge, we recently introduced Managed Tiered Checkpointing in HyperPod, leveraging CPU memory for high-performance checkpoint storage with automatic data replication. This innovation helps deliver faster recovery times and is a cost-effective solution compared to traditional disk-based approaches. 
-For those working with today’s most popular models, HyperPod also offers over 30 curated model training recipes, including support for OpenAI GPT-OSS, DeepSeek R1, Llama, Mistral, and Mixtral. These recipes automate key steps like loading training datasets, applying distributed training techniques, and configuring systems for checkpointing and recovery from infrastructure failures. And with support for popular tools like Jupyter, vLLM, LangChain, and MLflow, you can manage containerized apps and scale clusters dynamically as you scale your foundation model training and inference workloads. 
-Overcoming the bottleneck: Network performance 
-As organizations scale their AI initiatives from proof of concept to production, network performance often becomes the critical bottleneck that can make or break success. This is particularly true when training large language models, where even minor network delays can add days or weeks to training time and significantly increase costs. In 2024, the scale of our networking investments was unprecedented; we installed over 3 million network links to support our latest AI network fabric, or 10p10u infrastructure. Supporting more than 20,000 GPUs while delivering 10s of petabits of bandwidth with under 10 microseconds of latency between servers, this infrastructure enables organizations to train massive models that were previously impractical or impossibly expensive. To put this in perspective: what used to take weeks can now be accomplished in days, allowing companies to iterate faster and bring AI innovations to customers sooner. 
-At the heart of this network architecture is our revolutionary Scalable Intent Driven Routing (SIDR) protocol and Elastic Fabric Adapter (EFA). SIDR acts as an intelligent traffic control system that can instantly reroute data when it detects network congestion or failures, responding in under one second—ten times faster than traditional distributed networking approaches. 
-Accelerated computing for AI 
-The computational demands of modern AI workloads are pushing traditional infrastructure to its limits. Whether you’re fine-tuning a foundation model for your specific use case or training a model from scratch, having the right compute infrastructure isn’t just about raw power—it’s about having the flexibility to choose the most cost-effective and efficient solution for your specific needs. 
-AWS offers the industry’s broadest selection of accelerated computing options, anchored by both our long-standing partnership with NVIDIA and our custom-built AWS Trainium chips. This year’s launch of P6 instances featuring NVIDIA Blackwell chips demonstrates our continued commitment to bringing the latest GPU technology to our customers. The P6-B200 instances provide 8 NVIDIA Blackwell GPUs with 1.4 TB of high bandwidth GPU memory and up to 3.2 Tbps of EFAv4 networking. In preliminary testing, customers like JetBrains have already seen greater than 85% faster training times on P6-B200 over H200-based P5en instances across their ML pipelines. 
-To make AI more affordable and accessible, we also developed AWS Trainium, our custom AI chip designed specifically for ML workloads. Using a unique systolic array architecture, Trainium creates efficient computing pipelines that reduce memory bandwidth demands. To simplify access to this infrastructure, EC2 Capacity Blocks for ML also enable you to reserve accelerated compute instances within EC2 UltraClusters for up to six months, giving customers predictable access to the accelerated compute they need. 
-Preparing for tomorrow’s innovations, today 
-As AI continues to transform every aspect of our lives, one thing is clear: AI is only as good as the foundation upon which it is built. At AWS, we’re committed to being that foundation, delivering the security, resilience, and continuous innovation needed for the next generation of AI breakthroughs. From our revolutionary 10p10u network fabric to custom Trainium chips, from P6e-GB200 UltraServers to SageMaker HyperPod’s advanced resilience capabilities, we’re enabling organizations of all sizes to push the boundaries of what’s possible with AI. We’re excited to see what our customers will build next on AWS. 
+• TII Falcon-H1 models now available on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart
+  This post was co-authored with Jingwei Zuo from TII. 
+We are excited to announce the availability of the Technology Innovation Institute (TII)’s Falcon-H1 models on&nbsp;Amazon Bedrock Marketplace and Amazon SageMaker JumpStart.&nbsp;With this launch, developers and data scientists can now use&nbsp;six instruction-tuned Falcon-H1 models (0.5B, 1.5B, 1.5B-Deep, 3B, 7B, and 34B) on AWS, and have access to a comprehensive suite of hybrid architecture models that combine traditional attention mechanisms with State Space Models (SSMs) to deliver exceptional performance with unprecedented efficiency. 
+In this post, we present an overview of Falcon-H1 capabilities and show how to get started with TII’s&nbsp;Falcon-H1 models on both Amazon Bedrock Marketplace and SageMaker JumpStart. 
+Overview of TII and AWS collaboration 
+TII is a leading research institute based in Abu Dhabi. As part of UAE’s Advanced Technology Research Council (ATRC), TII focuses on advanced technology research and development across AI, quantum computing, autonomous robotics, cryptography,&nbsp;and more.&nbsp;TII employs international teams of scientists, researchers, and engineers in an open and agile environment, aiming to drive technological innovation and position Abu Dhabi and the UAE as a global research and development hub in&nbsp;alignment with the UAE National Strategy for Artificial Intelligence 2031. 
+TII and Amazon Web Services (AWS) are collaborating to expand access to made-in-the-UAE AI models across the globe. By combining TII’s technical expertise in building large language models (LLMs) with AWS Cloud-based AI and machine learning (ML) services, professionals worldwide can now build and scale generative AI applications using the Falcon-H1 series of models. 
+About Falcon-H1 models 
+The Falcon-H1 architecture implements a parallel hybrid design, using elements from Mamba and Transformer architectures to combine the faster inference and lower memory footprint of SSMs like Mamba with the effectiveness of Transformers’ attention mechanism in understanding context and enhanced generalization capabilities.&nbsp;The Falcon-H1 architecture scales across multiple configurations ranging from 0.5–34 billion parameters and provides native support for 18 languages. According to TII, the Falcon-H1 family demonstrates notable efficiency with published metrics indicating that smaller model variants achieve performance parity with larger models. Some of the benefits of Falcon-H1 series include: 
  
-About the author 
-Barry Cooks is a global enterprise technology veteran with 25 years of experience leading teams in cloud computing, hardware design, application microservices, artificial intelligence, and more. As VP of Technology at Amazon, he is responsible for compute abstractions (containers, serverless, VMware, micro-VMs), quantum experimentation, high performance computing, and AI training. He oversees key AWS services including AWS Lambda, Amazon Elastic Container Service, Amazon Elastic Kubernetes Service, and Amazon SageMaker. Barry also leads responsible AI initiatives across AWS, promoting the safe and ethical development of AI as a force for good. Prior to joining Amazon in 2022, Barry served as CTO at DigitalOcean, where he guided the organization through its successful IPO. His career also includes leadership roles at VMware and Sun Microsystems. Barry holds a BS in Computer Science from Purdue University and an MS in Computer Science from the University of Oregon.
-• Accelerate your model training with managed tiered checkpointing on Amazon SageMaker HyperPod
-  As organizations scale their AI infrastructure to support trillion-parameter models, they face a difficult trade-off: reduced training time with lower cost or faster training time with a higher cost. When they checkpoint frequently to speed up recovery time and minimize lost training time, they incur in substantially higher storage cost. And when they checkpoint infrequently, they reduce costs at the risk of losing valuable training progress when failures occur. 
-This challenge is exacerbated in large distributed training environments, with thousands of accelerators, where issues can occur frequently. According to an article released by Meta, one failure happened every 3 hours during the Meta Llama 3 model training. The GPU issues accounted for 60% of the total failures, and network, CPU, and disks account the other 40%. With infrequent checkpointing, these accumulated failures can result in losing days of training progress over the course of a complete training run, thereby driving up costs and time to market. Frequent checkpoints can saturate networks, overload storage, and result in unpredictable performance. 
-To help solve these challenges, AWS announced managed tiered checkpointing in Amazon SageMaker HyperPod, a purpose-built infrastructure to scale and accelerate generative AI model development across thousands of AI accelerators. Managed tiered checkpointing uses CPU memory for high-performance checkpoint storage with automatic data replication across adjacent compute nodes for enhanced reliability. Although SageMaker HyperPod identifies node issues automatically and replaces those nodes so your training can resume, managed tiered checkpointing helps you implement the best checkpointing strategy and maximize your training throughput. 
-Managed tiered checkpointing has been tested on large distributed training clusters ranging from hundreds of GPU to over 15,000 GPU, with checkpoints being saved within seconds. 
-In this post, we dive deep into those concepts and understand how to use the managed tiered checkpointing feature. 
+ Performance – The hybrid attention-SSM model has optimized parameters with adjustable ratios between attention and SSM heads, leading to faster inference, lower memory usage, and strong generalization capabilities. According to TII benchmarks published in Falcon-H1’s&nbsp;technical blog post and technical report, Falcon-H1 models demonstrate superior performance across multiple scales against other leading Transformer models of similar or larger scales. For example, Falcon-H1-0.5B delivers performance similar to typical 7B models from 2024, and Falcon-H1-1.5B-Deep rivals many of the current leading 7B-10B models. 
+ Wide range of model sizes – The Falcon-H1 series includes six sizes: 0.5B, 1.5B, 1.5B-Deep, 3B, 7B, and 34B, with both base and instruction-tuned variants. The Instruct models are now available in Amazon Bedrock Marketplace and SageMaker JumpStart. 
+ Multilingual by design – The models support 18 languages natively&nbsp;(Arabic, Czech, German, English, Spanish, French, Hindi, Italian, Japanese, Korean, Dutch, Polish, Portuguese, Romanian, Russian, Swedish, Urdu, and Chinese) and can scale to&nbsp;over 100 languages according to TII, thanks to&nbsp;a multilingual tokenizer trained on diverse language datasets. 
+ Up to 256,000 context length – The Falcon-H1 series enables applications in long-document processing, multi-turn dialogue, and long-range reasoning, showing a distinct advantage over competitors in practical long-context applications like Retrieval Augmented Generation (RAG). 
+ Robust data and training strategy – Training of Falcon-H1 models employs an innovative approach that introduces complex data early on, contrary to traditional curriculum learning. It also implements strategic data reuse based on careful memorization window assessment. Additionally, the training process scales smoothly across model sizes through a customized Maximal Update Parametrization (µP) recipe, specifically adapted for this novel architecture. 
+ Balanced performance in science and knowledge-intensive&nbsp;domains – Through a carefully designed data mixture and regular evaluations during training, the model achieves strong general capabilities and broad world knowledge while minimizing unintended specialization or domain-specific biases. 
+ 
+In line with their mission to foster AI accessibility and collaboration, TII have released Falcon-H1 models under the&nbsp;Falcon LLM license. It offers the following benefits: 
+ 
+ Open source nature and accessibility 
+ Multi-language capabilities 
+ Cost-effectiveness compared to proprietary models 
+ Energy-efficiency 
+ 
+About Amazon Bedrock Marketplace and SageMaker JumpStart 
+Amazon Bedrock Marketplace offers access to over 100 popular, emerging, specialized, and domain-specific models, so you can find the best proprietary and publicly available models for your use case based on factors such as accuracy, flexibility, and cost. On Amazon Bedrock Marketplace you can discover models in a single place and access them through unified and secure Amazon Bedrock APIs. You can also select your desired number of instances and the instance type to meet the demands of your workload and optimize your costs. 
+SageMaker JumpStart helps you quickly get started with machine learning. It provides access to state-of-the-art model architectures, such as language models, computer vision models, and more, without having to build them from scratch. With SageMaker JumpStart you can deploy models in a secure environment by provisioning them on SageMaker inference instances and isolating them within your virtual private cloud (VPC). You can also use Amazon SageMaker AI to further customize and fine-tune the models and streamline the entire model deployment process. 
 Solution overview 
-Checkpointing is the method of saving an intermediate model’s state during the training process. You can resume training from a recent checkpoint in the event of an issue by saving the model’s parameters, optimizer states, and other metadata during training. Additionally, you can resolve training problems, such as irregular learning rates, without a full restart by loading an earlier checkpoint state. 
-Use the following formula to find a rough initial estimate of the total size of the checkpoint for your model without the optimizer state:Model checkpoint size (GB) = (Number of parameters × Bytes per parameter) ÷ 10243 bytesFor example, if you train a Meta Llama 3 70-billion-parameter model using BFloat16 as the parameter’s precision, the checkpoint size will be 130 GB. If you train a DeepSeek-R1 671-billion-parameter model using BFloat16, the checkpoint size will be 1.25 TB. All without storing optimizer states.Checkpoints include optimizer states, training metadata (such as step number), and other additional data, resulting in a larger than expected size. When using an Adam optimizer, the optimizer will save three additional float16 statistics per parameter, resulting in an additional 6 bytes per parameter. Therefore, with the optimizer state saved, the Meta Llama 3 70B model checkpoint size will be approximately 521 GB, and the DeepSeek-R1 671B model checkpoint size will be approximately 5 TB. That is a four-times increase in size, and handling those checkpoints becomes a challenge. 
-The following table summarizes the checkpoint sizes for each model. 
- 
-  
-   
-   Model name 
-   Size of Checkpoint 
-   Size of Checkpoint + Optimizer States 
-   
-   
-   Meta Llama 3 70B 
-   130 GB 
-   521 GB 
-   
-   
-   DeepSeek R1 671B 
-   1.43 TB 
-   5 TB 
-   
-  
- 
-It’s also important to consider the training strategy. In a Fully Sharded Data Parallel (FSDP) scenario, each rank (a single GPU process in a distributed training) saves its own part of the checkpoint. At the same time, it reduces the amount of data each rank has to save during a checkpoint, and imposes a stress on the file system level. On a Network File System (NFS) shared file system, those concurrent writes become a bottleneck. Using a distributed file system, such Amazon FSx for Lustre, can help alleviate that pressure at a higher total cost. In a Distributed Data Parallel (DDP) scenario, a single rank writes the complete checkpoint at one time, and all ranks read the checkpoint when loading it back. On the file system level, this means a single writer and multiple readers. On an NFS file system, many readers can be a problem because they will be constrained based on the file system, network stack, and queue size. A single writer, over the network, will not take advantage of all the network throughput. Here again, a fast, distributed file system like FSx for Lustre can help solve those problems at a higher total cost of ownership. 
-As we can see, traditional checkpointing methods that rely solely on remote persistent storage create a computational overhead during checkpoint creation, because writing terabytes of model parameters to persistent storage might throttle it, consume expensive network bandwidth, and require complex orchestration across distributed systems. By storing checkpoints in fast-access in-memory locations, such as CPU RAM, while maintaining configurable backup to Amazon Simple Storage Service (Amazon S3) for persistence, the system delivers faster recovery times, and is a cost-effective solution compared to traditional disk-based approaches. 
-Managed tiered checkpointing works as follows: 
- 
- When training your model, you define the checkpoint frequency. 
- Model training uses GPU HBM memory to store the model, its parameters, and intermediate results, and do the heavy computation. 
- Triggering a checkpoint stops model training. The GPU will convert the model weights (tensors) into a state dictionary and copy the data to the instance’s CPU, then the training resumes while managed tiered checkpointing copies the data to RAM. 
- Because RAM is volatile, managed tiered checkpointing copies the data asynchronously from the host RAM to adjacent nodes using RDMA over Elastic Fabric Adapter (EFA). If a node experiences an issue, its checkpoint data will be available on other nodes too. 
- From time to time, it copies the data to a second layer of persistent storage, such as Amazon S3. This helps both when writing to RAM fails and when you want to persistently store the checkpoint data for future use. 
- 
-With managed tiered checkpointing, you can configure frequency and retention policies for both in-memory and persistent storage tiers. You use the first layer (in-memory) to save checkpoints at a high frequency and for fast recovery, periodically saving to Amazon S3 for backup. Managed tiered checkpointing provides a file system that can be seamlessly integrated with your PyTorch Distributed Checkpointing (DCP) training. Adding it to your training script only requires a few lines of code. Furthermore, it improves the performance of checkpoints by using in-memory storage while using other tiers for persistent storage. PyTorch DCP solves the issue of saving a model’s checkpoint when it uses distributed resources, such as multiple GPUs across multiple compute nodes. Trainers, parameters, and the dataset are partitioned across those nodes and resources, then PyTorch DCP saves and loads from multiple ranks in parallel. PyTorch DCP produces multiple files per checkpoint, at least one per rank. Depending on the volume of those files, number and size, shared and network file systems such as NFS will struggle with inode and metadata management. Managed tiered checkpointing helps solve that issue by making it possible to use multiple tiers, reducing intrusion to the training time and still receiving the benefits of PyTorch DCP, such as deduplication of checkpoint data. 
-With managed tiered checkpointing in SageMaker HyperPod, you can maintain a high training throughput even in large-scale environments prone to failures. It uses your existing SageMaker HyperPod cluster orchestrated by Amazon Elastic Kubernetes Service (Amazon EKS) and compute nodes, and there are no additional costs to use the library. 
-In the following sections, we explore how to configure the SageMaker HyperPod cluster’s training scripts to use this new feature. 
-Configure your SageMaker HyperPod cluster for managed tiered checkpointing 
-SageMaker HyperPod provisions resilient clusters for running machine learning (ML) workloads and developing state-of-the-art models such as large language models (LLMs), diffusion models, and foundation models (FMs). By reducing the complex work of building and maintaining compute clusters using accelerators like AWS Trainium and NVIDIA H200/B200 GPUs, it speeds up the creation of foundation models. To create a new SageMaker HyperPod cluster, refer to the Amazon SageMaker HyperPod Developer Guide. If you want to accelerate your deployment by using field hardened assets, refer to the following GitHub repo. 
-The examples shared in this post are intended to help you learn more about this new feature. If you’re considering running the examples provided here in a production environment, have your security team review the content and make sure they adhere to your security standards. At AWS, security is the top priority and we understand that every customer has their own security framework.Before creating or updating a cluster to add the managed tiered checkpointing feature, you must set up the EKS pods to access an S3 bucket either on your own account or across accounts. When working with buckets on the same account as the SageMaker HyperPod EKS cluster, you can use the following policy (change your bucket name before applying it): 
- 
- {
-&nbsp;&nbsp; &nbsp;"Version": "2012-10-17",
-&nbsp;&nbsp; &nbsp;"Statement": [
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;{
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Action": [
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"s3:DeleteObject",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"s3:GetBucketLocation",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"s3:GetObject",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"s3:ListBucket",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"s3:PutObject"
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;],
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Resource": [
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"arn:aws:s3:::&lt;bucket_name&gt;",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"arn:aws:s3:::&lt;bucket_name&gt;/*"
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;],
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Effect": "Allow"
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp;]
-} 
- 
-If the bucket is in a different account, you must authorize an AWS Identity and Access Management (IAM) principal to access those buckets. The following IAM policy will do that for you. Be sure to change both the bucket name and the IAM principal (for example, your AWS account ID). 
- 
- {
-&nbsp;&nbsp; &nbsp;"Version": "2012-10-17",
-&nbsp;&nbsp; &nbsp;"Statement": [
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;{
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Sid": "CheckPointCrossAccountAccess",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Effect": "Allow",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Principal": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"AWS":&nbsp;"arn:aws:iam::&lt;account_id&gt;:root"
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;},
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Action": [
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"s3:DeleteObject",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"s3:GetBucketLocation",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"s3:GetObject",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"s3:ListBucket",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"s3:PutObject"
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;],
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Resource": [
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"arn:aws:s3:::&lt;bucket_name&gt;",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"arn:aws:s3:::&lt;bucket_name&gt;/*"
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;]
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp;]
-} 
- 
-To create a new cluster with managed tiered checkpointing, you can pass a parameter using --tiered-storage-config and setting Mode to Enable using an AWS Command Line Interface (AWS CLI) command: 
- 
-  
-  aws sagemaker create-cluster \
- --cluster-name "ml-cluster" \
---tiered-storage-config { "Mode": "Enable" } \
- --instance-groups '[{
-    "InstanceCount": 1, 
-  ....
- }]'
- 
-  
- 
-You can also update it using the UpdateCluster API and pass the CachingConfig parameter with the required AllocatedMemory configuration. You can use the CachingConfiguration parameter to define a fixed value or a percentage of the CPU RAM for checkpointing. 
- 
- aws sagemaker update-cluster \
-    --cluster-name &lt;my-training-cluster&gt; \
-    --tiered-storage-config {
-            "Mode": "Enable"
-            "InstanceMemoryAllocationPercentage": &lt;percent&gt;
-            } 
- 
-Now that your SageMaker HyperPod cluster has the managed tiered checkpointing feature, let’s prepare the training scripts and add them. 
-Install the managed tiered checkpoint libraries and integrate with your training script 
-Managed tiered checkpointing integrates with PyTorch DCP. You start by installing the sagemaker-checkpointing library. Then you create and configure a namespace to store the checkpoints based on the defined frequency. Finally, you add the checkpoint function inside your training loop. 
-To install the library, we simply use Python’s pip. Make sure you already have the dependencies installed: Python 3.10 or higher, PyTorch with DCP support, and the AWS credentials configured properly. To integrate Amazon S3 as another storage layer, you also need s3torchconnector installed. 
- 
- # Install the pre-requisites
-pip install torch boto3 botocore tenacity s3torchconnector
-
-# Install the Managed Tiered Checkpointing library
-pip install amzn-sagemaker-checkpointing 
- 
-Now you can import the library on your script and configure the namespace and frequency for checkpointing: 
- 
- import&nbsp;torchimport&nbsp;torch.distributed as&nbsp;dist
-from&nbsp;torch.distributed.checkpoint import&nbsp;async_save, load
-from&nbsp;amzn_sagemaker_checkpointing.config.sagemaker_checkpoint_config import&nbsp;SageMakerCheckpointConfig
-from&nbsp;amzn_sagemaker_checkpointing.checkpointing.filesystem.filesystem import&nbsp;(
-&nbsp;&nbsp; &nbsp;SageMakerTieredStorageWriter,
-&nbsp;&nbsp; &nbsp;SageMakerTieredStorageReader
-)
-
-checkpoint_config = SageMakerCheckpointConfig(
-&nbsp;&nbsp; &nbsp;# Unique ID for your training job 
-&nbsp; &nbsp; # Allowed characters in ID include: alphanumeric, hyphens, and underscores
-&nbsp;&nbsp; &nbsp;namespace=os.environ.get('TRAINING_JOB_NAME', f'job-{int(time.time())}'), 
-
-&nbsp;&nbsp; &nbsp;# Number of distributed processes/available GPUs
-&nbsp;&nbsp; &nbsp;world_size=dist.get_world_size(), 
-
-&nbsp;&nbsp; &nbsp;# Amazon S3 storage location, required for SageMakerTieredStorageReader for read fallbacks
-&nbsp; &nbsp; # Required for SageMakerTieredStorageWriter when save_to_s3 is True
-&nbsp;&nbsp; &nbsp;s3_tier_base_path="s3://&lt;my-bucket&gt;/checkpoints" 
- 
-In the preceding code snippet, we have configured managed tiered checkpointing with the same world_size as the number of ranks in our cluster. When you start a distributed training, each GPU in the cluster is assigned a rank number, and the total number of GPUs available is the world_size. We set up Amazon S3 as our backup persistent storage, setting managed tiered checkpointing to store data in Amazon S3 every 100 training steps. Both world_size and namespace are required parameters; the others are optional. 
-Now that the configuration is ready, let’s set up PyTorch DCP and integrate managed tiered checkpointing. 
-First, configure the storage writer. This component will pass on to the PyTorch DCP async_save function alongside the model’s state dictionary. We use the SageMakerTieredStorageWriter when writing the checkpoints and the SageMakeTieredStorageReader when restoring from those checkpoints. 
-Inside your model training loop, you add the storage writer configuration and pass along both the managed tiered checkpointing configuration and the step number: 
- 
- &nbsp; &nbsp;state_dict = {
- &nbsp; &nbsp; &nbsp; &nbsp;"model": model.state_dict(),
- &nbsp; &nbsp; &nbsp; &nbsp;"optimizer": optimizer.state_dict(),
- &nbsp; &nbsp; &nbsp; &nbsp;"step": training_step,
- &nbsp; &nbsp; &nbsp; &nbsp;"epoch": epoch
- &nbsp; &nbsp;}
-&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;# Create storage writer for current step&nbsp;and&nbsp;if&nbsp;it&nbsp;need&nbsp;to&nbsp;save&nbsp;to&nbsp;a&nbsp;persistent&nbsp;storage&nbsp;too&nbsp;
- &nbsp; &nbsp;checkpoint_config.save_to_s3 = training_step % s3_ckpt_freq == 0
- &nbsp; &nbsp;storage_writer = SageMakerTieredStorageWriter(
- &nbsp; &nbsp; &nbsp; &nbsp;checkpoint_config=checkpoint_config,
- &nbsp; &nbsp; &nbsp; &nbsp;step=training_step
- &nbsp; &nbsp;) 
- 
-You can define the step number explicitly for the storage writer, or you can let the storage writer identify the step number from the path where the checkpoint is being saved. If you want to let the storage writer infer the step number from the base path, don’t set the stepparameter and make sure your path contains the step number in it. 
-Now you can call the PyTorch DCP asynchronous save function and pass along the state dictionary and the storage writer configuration:async_save(state_dict=state_dict, storage_writer=storage_writer) 
-We have set up managed tiered checkpointing to write checkpoints at our desired frequency and location (in-memory). Let’s use the storage reader to restore those checkpoints. First, pass the managed tiered checkpointing configuration to the SageMakerTieredStorageReader, then call the PyTorch DCP load function, passing the model state dictionary and the storage reader configuration: 
- 
- storage_reader = SageMakerTieredStorageReader(checkpoint_config=checkpoint_config)
-load(state_dict, storage_reader=storage_reader) 
- 
-To work through a complete example, refer to the following GitHub repository, where we’ve created a simple training script, including the managed tiered checkpointing feature. 
-Clean up 
-After you have worked with managed tiered checkpointing, and you want to clean up the environment, simply remove the amzn-sagemaker-checkpointing library by running pip uninstall amzn-sagemaker-checkpointing. 
-If you installed the solution in a Python virtual environment, then just deleting the virtual environment will suffice.Managed tiered checkpointing is a free feature that doesn’t require additional resources to run. You use your existing SageMaker HyperPod EKS cluster and compute nodes. 
-Best practices to optimize your checkpoint strategy with managed tiered checkpointing 
-Managed tiered checkpointing will attempt to write to the in-memory tier first. This optimizes the writing performance because in-memory provides ultra-low latency checkpoint access. You should configure managed tiered checkpointing to write to a second layer, such as Amazon S3, from time to time. For example, configure managed tiered checkpointing to write to the in-memory layer every 10 steps, and configure it to write to Amazon S3 every 100 steps. 
-If managed tiered checkpointing fails to write to the in-memory layer, and the node experiences an issue, then you still have your checkpoint saved on Amazon S3. While writing to Amazon S3, managed tiered checkpointing uses multiple TCP streams (chunks) to optimize Amazon S3 writes. 
-In terms of consistency, managed tiered checkpointing uses an all-or-nothing writing strategy. It implements a fallback mechanism that will seamlessly transition between the storage tiers. Checkpoint metadata, such as step number, is stored alongside the data for every tier. 
-When trying to troubleshoot managed tiered checkpointing, you can check the log written locally to /var/log/sagemaker_checkpointing/{namespace}_checkpointing.log. It publishes data about the training step, rank number, and the operation details. The following is an example output of that file: 
- 
- [timestamp] [namespace] [logger_name] [INFO] [filename:451] [Rank 0] Step 240: Starting checkpoint write ([SavePlan Items Count] items)
-[timestamp] [namespace] [logger_name] [INFO] [filename:498] [Rank 0] Step 240: In-memory write completed in [Latency]s ([Throughput] MB/s)
-[timestamp] [namespace] [logger_name] [INFO] [filename:530] [Rank 0] Step 240: S3 batch write completed in [Latency]s ([Size] total, [Throughput] MB/s average) 
- 
-Managed tiered checkpointing also writes those metrics to the console, so it’s straightforward to troubleshoot during development. They contain information on which step number is being written to which storage layer and the throughput and total time taken to write the data. With that information, you can monitor and troubleshoot managed tiered checkpointing thoroughly. 
-When you combine those tools with the SageMaker HyperPod observability stack, you get a complete view of all metrics of your training or inference workload. 
-Conclusion 
-The new managed tiered checkpointing feature in SageMaker HyperPod augments FM training efficiency by intelligently distributing checkpoints across multiple storage tiers. This advanced approach places model states in fast access locations such as CPU RAM memory, while using persistent storage such as Amazon S3 for cost-effective, long-term persistence. As of the time of this launch, managed tiered checkpointing is supported only on SageMaker HyperPod on Amazon EKS. 
-Managed tiered checkpointing delivers fast recovery times without increased storage costs, avoiding complex trade-offs between resiliency, training efficiency, and storage costs. It has been validated on large distributed training clusters that range from hundreds of GPU to more than 15,000 GPU, with checkpoints being saved within seconds. 
-Integrating managed tiered checkpointing on your training scripts is straightforward, with just a few lines of code, providing immediate access to sophisticated checkpoint management without requiring deep engineering expertise. 
-For more information on how managed tiered checkpointing works, how to set it up, and other details, refer to HyperPod managed tier checkpointing. 
- 
-About the authors 
-Paulo Aragao&nbsp;is a Principal WorldWide Solutions Architect focused on Generative AI at the Specialist Organisation on AWS. He helps Enterprises and Startups to build their Foundation Models strategy and innovate faster by leveraging his extensive knowledge on High Perfomance Computing and Machine Learning. A long time bass player, and natural born rock fan, Paulo enjoys spending time travelling with his family, scuba diving, and playing real time strategy and role-playing games. 
-Kunal Jha&nbsp;is a Principal Product Manager at AWS. He is focused on building Amazon SageMaker Hyperpod as the best-in-class choice for Generative AI model’s training and inference. In his spare time, Kunal enjoys skiing and exploring the Pacific Northwest. 
-Mandar Kulkarni&nbsp;is a Software Development Engineer II at AWS, where he works on Amazon SageMaker. He specializes in building scalable and performant machine learning libraries and infrastructure solutions, particularly focusing on SageMaker HyperPod. His technical interests span machine learning, artificial intelligence, distributed systems and application security. When not architecting ML solutions, Mandar enjoys hiking, practicing Indian classical music, sports, and spending quality time with his young family. 
-Vinay Devadiga&nbsp;is a Software Development Engineer II at AWS with a deep passion for artificial intelligence and cloud computing. He focuses on building scalable, high-performance systems that enable the power of AI and machine learning to solve complex problems.Vinay enjoys staying at the forefront of technology, continuously learning, and applying new advancements to drive innovation. Outside of work, he likes playing sports and spending quality time with his family. 
-Vivek Maran&nbsp;is a Software Engineer at AWS. He currently works on the development of Amazon SageMaker HyperPod, a resilient platform for large scale distributed training and inference. His interests include large scale distributed systems, network systems, and artificial intelligence. Outside of work, he enjoys music, running, and keeping up to date with business &amp; technology trends.
-• Maximize HyperPod Cluster utilization with HyperPod task governance fine-grained quota allocation
-  We are excited to announce the general availability of fine-grained&nbsp;compute and memory quota allocation&nbsp;with HyperPod task governance. With this capability, customers can optimize Amazon SageMaker HyperPod cluster utilization on Amazon Elastic Kubernetes Service (Amazon EKS), distribute fair usage, and support efficient resource allocation across different teams or projects.&nbsp;For more information, see HyperPod task governance best practices for maximizing the value of SageMaker HyperPod task governance. 
-Compute quota management is an administrative mechanism that sets and controls compute resource limits across users, teams, and projects. It controls fair resource distribution, preventing a single entity from monopolizing cluster resources, thereby optimizing overall computational efficiency. 
-Because of budget constraints, customers might want to allocate compute resources across multiple teams fairly. For example, a data scientist might need some GPUs (for example, four H100 GPUs) for model development, but not the entire instance’s compute capacity. In other cases, customers have limited compute resources but many teams, and they want to fairly share compute resources across these teams, so that no idle capacity is left unused. 
-With HyperPod task governance, administrators can now allocate granular GPU, vCPU, and vCPU memory to teams and projects—in addition to the entire instance resources—based on their preferred strategy. Key capabilities include GPU-level quota allocation by instance type and family, or hardware type—supporting both Trainium and NVIDIA GPUs—and optional CPU and memory allocation for fine-tuned resource control. Administrators can also define&nbsp;the weight (or priority level) a team is given for fair-share idle compute allocation. 
-
- “With a wide variety of frontier AI data experiments and production pipelines, being able to maximize SageMaker HyperPod Cluster utilization is extremely high impact. This requires fair and controlled access to shared resources like state-of-the-art GPUs, granular hardware allocation, and more. This is exactly what HyperPod task governance is built for, and we’re excited to see AWS pushing efficient cluster utilization for a variety of AI use cases.” 
- – Daniel Xu, Director of Product at Snorkel AI, whose AI data technology platform empowers enterprises to build specialized AI applications by leveraging their organizational expertise at scale.
- 
-In this post, we dive deep into how to define quotas for teams or projects based on granular or instance-level allocation. We discuss different methods to define such policies, and how data scientists can schedule their jobs seamlessly with this new capability. 
-Solution overview 
+This post demonstrates how to deploy a Falcon-H1 model using both Amazon Bedrock Marketplace and SageMaker JumpStart. Although we use Falcon-H1-0.5B as an example, you can apply these steps to other models in the Falcon-H1 series. For help determining which deployment option—Amazon Bedrock Marketplace or SageMaker JumpStart—best suits your specific requirements, see Amazon Bedrock or Amazon SageMaker AI? 
+Deploy&nbsp;Falcon-H1-0.5B-Instruct with Amazon Bedrock Marketplace 
+In this section, we show how to deploy the Falcon-H1-0.5B-Instruct model in Amazon Bedrock Marketplace. 
 Prerequisites 
-To follow the examples in this blog post, you need to meet the following prerequisites: 
+To try the Falcon-H1-0.5B-Instruct model in Amazon Bedrock Marketplace, you must have access to an AWS account&nbsp;that will contain your AWS resources.Prior to deploying Falcon-H1-0.5B-Instruct, verify that your AWS account has sufficient quota allocation for ml.g6.xlarge instances. The default quota for endpoints using several instance types and sizes is 0, so attempting to deploy the model without a higher quota will trigger a deployment failure. 
+To request a quota increase, open the AWS Service Quotas console and search for Amazon SageMaker. Locate ml.g6.xlarge&nbsp;for endpoint usage and choose Request quota increase, then specify your required limit value. After the request is approved, you can proceed with the deployment. 
+Deploy the model using the Amazon Bedrock Marketplace UI 
+To deploy the model using Amazon Bedrock Marketplace, complete the following steps: 
  
- An AWS account with access to SageMaker HyperPod. 
- A running SageMaker HyperPod (EKS-orchestrated) cluster. For more information on how to create and configured a new HyperPod cluster, see the HyperPod workshop or the SageMaker HyperPod cluster creation with Amazon EKS orchestration. 
- HyperPod task governance addon version 1.3 or later installed in the cluster. For more information, see set up HyperPod task governance 
+ On the Amazon Bedrock console, under Discover in the navigation pane, choose Model catalog. 
+ Filter for Falcon-H1 as the model name and choose Falcon-H1-0.5B-Instruct. 
  
-To schedule and execute the example jobs in the Submitting Tasks section, you will also need: 
  
- A local environment (either your local machine or a cloud-based compute environment), from which to run the HyperPod CLI and kubectl commands, configured as follows: 
+The model overview page includes information about&nbsp;the model’s&nbsp;license terms, features, setup instructions, and links to further resources. 
+ 
+ Review the model license terms, and if you agree with the terms, choose Deploy. 
+ 
+ 
+ 
+ For Endpoint name, enter an endpoint name or leave it as the default pre-populated name. 
+ To minimize costs while experimenting, set the Number of instances to 1. 
+ For Instance type, choose from the list of compatible instance types. Falcon-H1-0.5B-Instruct is an efficient model, so ml.m6.xlarge is sufficient for this exercise. 
+ 
+ 
+Although the default configurations are typically sufficient for basic needs, you can customize advanced settings like VPC, service access permissions, encryption keys, and resource tags. These advanced settings might require adjustment for production environments to maintain compliance with your organization’s security protocols. 
+ 
+ Choose Deploy. 
+ A prompt asks you to stay on the page while the AWS Identity and Access Management (IAM) role is being created. If your AWS account lacks sufficient quota for the selected instance type, you’ll receive an error message. In this case, refer to the preceding prerequisite section to increase your quota, then try the deployment again. 
+ 
+While deployment is in progress, you can choose Marketplace model deployments in the navigation pane to monitor the deployment progress in the Managed deployment section. When the deployment is complete, the endpoint status will change from Creating to In Service. 
+Interact with the model in the Amazon Bedrock Marketplace playground 
+You can now test Falcon-H1&nbsp;capabilities directly in the Amazon Bedrock playground by selecting the managed deployment and choosing Open in playground. 
+ 
+You can now use the Amazon Bedrock Marketplace playground to interact with Falcon-H1-0.5B-Instruct. 
+Invoke the model using code 
+In this section, we demonstrate to invoke the model using the Amazon Bedrock Converse API. 
+Replace the placeholder code with the endpoint’s Amazon Resource Name (ARN), which begins with arn:aws:sagemaker. You can find this ARN on the endpoint details page in the Managed deployments section. 
+ 
+ import boto3
+bedrock_runtime = boto3.client("bedrock-runtime")
+endpoint_arn = "{ENDPOINT ARN}" # Replace with endpoint ARN
+response = bedrock_runtime.converse( modelId=endpoint_arn, messages=[{"role": "user", "content": [{"text": "What is generative AI?"}]}], inferenceConfig={"temperature": 0.1, "topP": 0.1})
+
+print(response["output"]["message"]["content"][0]["text"]) 
+ 
+To learn more about the detailed steps and example code for invoking the model using Amazon Bedrock APIs, refer to&nbsp;Submit prompts and generate response using the API. 
+Deploy Falcon-H1-0.5B-Instruct with SageMaker JumpStart 
+You can access FMs in SageMaker JumpStart through Amazon SageMaker Studio, the SageMaker SDK, and the AWS Management Console. In this walkthrough, we demonstrate how to deploy&nbsp;Falcon-H1-0.5B-Instruct using the SageMaker Python SDK. Refer to Deploy a model in Studio to learn how to deploy the model through SageMaker Studio. 
+Prerequisites 
+To deploy Falcon-H1-0.5B-Instruct with SageMaker JumpStart, you must have the following prerequisites: 
+ 
+ An AWS account that will contain your AWS resources. 
+ An IAM role to access SageMaker AI. To learn more about how IAM works with SageMaker AI, see Identity and Access Management for Amazon SageMaker AI. 
+ Access to SageMaker Studio with a JupyterLab space, or an interactive development environment (IDE) such as Visual Studio Code or PyCharm. 
+ 
+Deploy the model programmatically using the SageMaker Python SDK 
+Before deploying Falcon-H1-0.5B-Instruct using the SageMaker Python SDK, make sure you have installed the SDK and configured your AWS credentials and permissions. 
+The following code example demonstrates how to deploy the model: 
+ 
+  
+  import sagemakerfrom sagemaker.jumpstart.model
+import JumpStartModelfrom sagemaker
+import Session
+import boto3
+import json
+
+# Initialize SageMaker session
+session = sagemaker.Session()
+role = sagemaker.get_execution_role()
+
+# Specify model parameters
+model_id = "huggingface-llm-falcon-h1-0-5b-instruct"
+instance_type = "ml.g6.xlarge" # Choose appropriate instance based on your needs
+
+# Create and deploy the model
+model = JumpStartModel( model_id=model_id, role=role, instance_type=instance_type, model_version="*" # Latest version)
+
+# Deploy the model
+predictor = model.deploy( initial_instance_count=1, accept_eula=True # Required for deploying foundation models)
+
+print("Endpoint name:")
+print(predictor.endpoint_name) 
+  
+ Perform inference using the SageMaker Python API 
+ 
+When the previous code segment completes successfully, the Falcon-H1-0.5B-Instruct model deployment is complete and available on a SageMaker endpoint. Note the endpoint name shown in the output—you will replace the placeholder in the following code segment with this value.The following code demonstrates how to prepare the input data, make the inference API call, and process the model’s response: 
+ 
+ import json
+import boto3
+
+session = boto3.Session() # Make sure your AWS credentials are configured
+sagemaker_runtime = session.client("sagemaker-runtime")
+
+endpoint_name = "{ENDPOINT_NAME}" # Replace with endpoint name from deployment output
+
+payload = { "messages": [ { "role": "user", "content": "What is generative AI?" } ], "parameters": { "max_tokens": 256, "temperature": 0.1, "top_p": 0.1 } }
+
+# Perform inference
+response = sagemaker_runtime.invoke_endpoint( EndpointName=endpoint_name, ContentType="application/json", Body=json.dumps(payload))
+
+# Parse the response
+result = json.loads(response["Body"].read().decode("utf-8"))generated_text = result["choices"][0]["message"]["content"].strip()
+print("Generated Response:")
+print(generated_text) 
+ 
+Clean up 
+To avoid ongoing charges for AWS resources used while experimenting with Falcon-H1 models, make sure to delete all deployed endpoints and their associated resources when you’re finished. To do so, complete the following steps: 
+ 
+ Delete Amazon Bedrock Marketplace resources: 
    
-   OS based on Linux or MacOS 
-   Python&nbsp;3.8, 3.9, 3.10, or 3.11 installed 
-   AWS Command Line Interface (AWS CLI) configured with the appropriate credentials to use the above services 
-   HyperPod CLI version 3.1.0 
-   Kubernetes command-line tool, kubectl 
+   On the Amazon Bedrock console, choose Marketplace model deployment in the navigation pane. 
+   Under Managed deployments, choose the Falcon-H1 model endpoint you deployed earlier. 
+   Choose Delete and confirm the deletion if you no longer need to use this endpoint in Amazon Bedrock Marketplace. 
     
- HyperPod Training Operator installed in the cluster 
+ Delete SageMaker endpoints: 
+   
+   On the SageMaker AI console, in the navigation pane, choose Endpoints under Inference. 
+   Select the endpoint associated with the&nbsp;Falcon-H1 models. 
+   Choose Delete and confirm the deletion. This stops the endpoint and avoids further compute charges. 
+    
+ Delete SageMaker models: 
+   
+   On the SageMaker AI console, choose Models under Inference. 
+   Select the model associated with your endpoint and choose Delete. 
+    
  
-Allocating granular compute and memory quota using the AWS console 
-Administrators are the primary persona interacting with SageMaker HyperPod task governance and are responsible for managing cluster compute allocation in alignment with the organization’s strategic priorities and goals. 
-Implementing this feature follows the familiar compute allocation&nbsp;creation workflow of HyperPod task governance.&nbsp;To get started, sign in to the AWS Management Console and navigate to Cluster Management under HyperPod Clusters in the Amazon SageMaker AI console. After selecting your HyperPod cluster, select the Policies tab in the cluster detail page. Navigate to&nbsp;Compute allocations and choose Create. 
- 
-As with existing functionality, you can enable task prioritization and fair-share resource allocation through cluster policies that prioritize critical workloads and distribute idle compute across teams. By using HyperPod task governance, you can define queue admission policies (first-come-first-serve by default or task ranking) and idle compute allocation methods (first-come-first-serve or fair-share by default). In the Compute allocation section, you can create and edit allocations to distribute resources among teams, enable lending and borrowing of idle compute, configure preemption of low-priority tasks, and assign fair-share weights. 
-The key innovation is in the Allocations section shown in the following figure, where you’ll now find fine-grained options for resource allocation. In addition to the existing instance-level quotas, you can now directly specify GPU quotas by instance type and family or by hardware type. When you define GPU allocations, HyperPod task governance intelligently calculates appropriate default values for vCPUs and memory which are set proportionally. 
-For example, when allocating 2 GPUs from a single p5.48xlarge instance (which has 8 GPUs, 192 vCPUs, and 2 TiB memory) in your HyperPod cluster, HyperPod task governance assigns 48 vCPUs and 512 GiB memory as default values—which is equivalent to one quarter of the instance’s total resources. Similarly, if your HyperPod cluster contains 2 ml.g5.2xlarge instances (each with 1 GPU, 8 vCPUs, and 32 GiB memory), allocating 2 GPUs would automatically assign 16 vCPUs and 64 GiB memory from both instances as shown in the following image. 
- 
-You can either proceed with these automatically calculated default values or customize the allocation by manually adjusting the vCPUs and vCPU memory fields as seen in the following image. 
- 
-Amazon SageMaker HyperPod supports clusters that include CPU-based instances, GPU-based instances, and AWS Neuron-based hardware (AWS Inferentia and AWS Trainium chips). You can specify resource allocation for your team by instances, GPUs, vCPUs, vCPU memory, or Neuron devices, as shown in the following image. 
- 
-Quota allocation can be more than capacity. Resources added to the compute allocation policy that aren’t currently available in the cluster represent planning for future capacity upgrades. Jobs that require these unprovisioned resources will be automatically queued and remain in a pending state until the necessary resources become available. It’s important to understand that in SageMaker HyperPod, compute allocations function as quotas, which are verified during workload scheduling to understand if a workload should be admitted or not, regardless of actual capacity availability. When resource requests are within these defined allocation limits and current utilization, the Kubernetes scheduler (kube-scheduler) handles the actual distribution and placement of pods across the HyperPod cluster nodes. 
-Allocating granular compute and memory quota using AWS CLI 
-You can also create or update compute quotas using the AWS CLI. The following is an example for creating a compute quota with only GPU count specification using the AWS CLI: 
- 
- aws sagemaker \
-create-compute-quota \
---region &lt;aws_region&gt;&nbsp;\
---name "only-gpu-quota" \
---cluster-arn "arn:aws:sagemaker: &lt;aws_region&gt;:&lt;account_id&gt;:cluster/&lt;cluster_id&gt;" \
---description "test description" \
---compute-quota-config "ComputeQuotaResources=[{InstanceType=ml.g6.12xlarge,Accelerators=2}],ResourceSharingConfig={Strategy=LendAndBorrow,BorrowLimit=10}" \
---activation-state "Enabled" \
---compute-quota-target "TeamName=onlygputeam2,FairShareWeight=10"&nbsp; 
- 
-Compute quotas can also be created with mixed quota types, including a certain number of instances and granular compute resources, as shown in the following example: 
- 
- aws sagemaker \
-create-compute-quota \
---region &lt;aws_region&gt; \
---name "mix-quota-type" \
---cluster-arn "arn:aws:sagemaker:&lt;aws_region&gt;:&lt;account_id&gt;:cluster/&lt;cluster_id&gt;" \
---description "Mixed quota allocation" \
---compute-quota-config "ComputeQuotaResources=[{InstanceType=ml.g6.12xlarge,Accelerators=2}, {InstanceType=ml.p5.48xlarge,Count=3}, {InstanceType=ml.c5.2xlarge,VCpu=2}],ResourceSharingConfig={Strategy=LendAndBorrow,BorrowLimit=10}" \
---activation-state "Enabled" \
---compute-quota-target "TeamName=mixquotatype,FairShareWeight=10"&nbsp; 
- 
-HyperPod task governance deep dive 
-SageMaker HyperPod task governance enables allocation of GPU, CPU, and memory resources by integrating with Kueue, a Kubernetes-native system for job queueing. 
-Kueue doesn’t replace existing Kubernetes scheduling components, but rather integrates with the kube-scheduler, such that Kueue decides whether a workload should be admitted based on the resource quotas and current utilization, and then the kube-scheduler takes care of pod placement on the nodes. 
-When a workload requests specific resources, Kueue selects an appropriate resource flavor based on availability, node affinity, and job priority. The scheduler then injects the corresponding node labels and tolerations into the PodSpec, allowing Kubernetes to place the pod on nodes with the requested hardware configuration. This supports precise resource governance and efficient allocation for multi-tenant clusters. 
-When a SageMaker HyperPod task governance compute allocation is created, Kueue creates ClusterQueues that define resource quotas and scheduling policies, along with ResourceFlavors for the selected instance types with their unique resource characteristics. 
-For example, the following compute allocation policy allocates ml.g6.12xlarge instances with 2 GPUs and 48 vCPUs to the onlygputeam team, implementing a LendAndBorrow strategy with an up to 50% borrowing limit. This configuration enables flexible resource sharing while maintaining priority through a fair share weight of 10 and the ability to preempt lower priority tasks from other teams. 
- 
- aws sagemaker describe-compute-quota \ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
---region &lt;aws_region&gt; \
---compute-quota-id &lt;compute_quota_id&gt;
-
-#output
-{
-&nbsp;&nbsp; &nbsp;"ComputeQuotaArn": "arn:aws:sagemaker:&lt;aws_region&gt;:&lt;account_id&gt;:compute-quota/&lt;compute_quota_id&gt;",
-&nbsp;&nbsp; &nbsp;"ComputeQuotaId": "&lt;compute_quota_id&gt;",
-&nbsp;&nbsp; &nbsp;"Name": "only-gpu-quota",
-&nbsp;&nbsp; &nbsp;"Description": "Only GPU quota allocation",
-&nbsp;&nbsp; &nbsp;"ComputeQuotaVersion":&nbsp;1,
-&nbsp;&nbsp; &nbsp;"Status": "Created",
-&nbsp;&nbsp; &nbsp;"ClusterArn": "arn:aws:sagemaker:&lt;aws_region&gt;:&lt;account_id&gt;:cluster/&lt;cluster_id&gt;",
-&nbsp;&nbsp; &nbsp;"ComputeQuotaConfig": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"ComputeQuotaResources": [
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;{
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"InstanceType": "ml.g6.12xlarge",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Accelerators": 2,
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"VCpu": 48.0
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;],
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"ResourceSharingConfig": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Strategy": "LendAndBorrow",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"BorrowLimit": 50
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;},
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"PreemptTeamTasks": "LowerPriority"
-&nbsp;&nbsp; &nbsp;},
-&nbsp;&nbsp; &nbsp;"ComputeQuotaTarget": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"TeamName": "onlygputeam",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"FairShareWeight": 10
-&nbsp;&nbsp; &nbsp;},
-&nbsp;&nbsp; &nbsp;"ActivationState": "Enabled",
-&nbsp;&nbsp; &nbsp;"CreationTime": "2025-07-24T11:12:12.021000-07:00",
-&nbsp;&nbsp; &nbsp;"CreatedBy": {},
-&nbsp;&nbsp; &nbsp;"LastModifiedTime": "2025-07-24T11:15:45.205000-07:00",
-&nbsp;&nbsp; &nbsp;"LastModifiedBy": {}
-} 
- 
-The corresponding Kueue ClusterQueue is configured with the&nbsp;ml.g6.12xlarge flavor, providing quotas for 2 NVIDIA GPUs, 48 CPU cores, and 192 Gi memory. 
- 
- kubectl describe clusterqueue hyperpod-ns-onlygputeam-clusterqueue
-
-# output
-Name: &nbsp; &nbsp; &nbsp; &nbsp; hyperpod-ns-onlygputeam-clusterqueue
-Namespace:
-Labels: &nbsp; &nbsp; &nbsp; sagemaker.amazonaws.com/quota-allocation-id=onlygputeam
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;sagemaker.amazonaws.com/sagemaker-managed-queue=true
-Annotations: &nbsp;&lt;none&gt;
-API Version: &nbsp;kueue.x-k8s.io/v1beta1
-Kind: &nbsp; &nbsp; &nbsp; &nbsp; ClusterQueue
-Metadata:
-&nbsp; ...
-Spec:
-&nbsp;&nbsp;Cohort: &nbsp;shared-pool
-&nbsp;&nbsp;Fair Sharing:
-&nbsp;&nbsp; &nbsp;Weight: &nbsp;10
-&nbsp;&nbsp;Flavor Fungibility:
-&nbsp;&nbsp; &nbsp;When Can Borrow: &nbsp; TryNextFlavor
-&nbsp;&nbsp; &nbsp;When Can Preempt: &nbsp;TryNextFlavor
-&nbsp;&nbsp;Namespace Selector:
-&nbsp;&nbsp; &nbsp;Match Labels:
-&nbsp;&nbsp; &nbsp; &nbsp;kubernetes.io/metadata.name: &nbsp;hyperpod-ns-onlygputeam
-&nbsp;&nbsp;Preemption:
-&nbsp;&nbsp; &nbsp;Borrow Within Cohort:
-&nbsp;&nbsp; &nbsp; &nbsp;Policy: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; LowerPriority
-&nbsp;&nbsp; &nbsp;Reclaim Within Cohort: &nbsp;Any
-&nbsp;&nbsp; &nbsp;Within Cluster Queue: &nbsp; LowerPriority
-&nbsp;&nbsp;Queueing Strategy: &nbsp; &nbsp; &nbsp; &nbsp;BestEffortFIFO
-&nbsp;&nbsp;Resource Groups:
-&nbsp;&nbsp; &nbsp;Covered Resources:
-&nbsp;&nbsp; &nbsp; &nbsp;nvidia.com/gpu
-&nbsp;&nbsp; &nbsp; &nbsp;aws.amazon.com/neurondevice
-&nbsp;&nbsp; &nbsp; &nbsp;cpu
-&nbsp;&nbsp; &nbsp; &nbsp;memory
-&nbsp;&nbsp; &nbsp; &nbsp;vpc.amazonaws.com/efa
-&nbsp;&nbsp; &nbsp;Flavors:
-&nbsp;&nbsp; &nbsp; &nbsp;Name: &nbsp;ml.g6.12xlarge
-&nbsp;&nbsp; &nbsp; &nbsp;Resources:
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Borrowing Limit: &nbsp;1
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Name: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; nvidia.com/gpu
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Nominal Quota: &nbsp; &nbsp;2
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Borrowing Limit: &nbsp;0
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Name: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; aws.amazon.com/neurondevice
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Nominal Quota: &nbsp; &nbsp;0
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Borrowing Limit: &nbsp;24
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Name: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; cpu
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Nominal Quota: &nbsp; &nbsp;48
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Borrowing Limit: &nbsp;96Gi
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Name: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; memory
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Nominal Quota: &nbsp; &nbsp;192Gi
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Borrowing Limit: &nbsp;0
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Name: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; vpc.amazonaws.com/efa
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Nominal Quota: &nbsp; &nbsp;1
-&nbsp;&nbsp; &nbsp;... 
- 
-A Kueue LocalQueue will be also created, and will reference the corresponding ClusterQueue. The LocalQueue acts as the namespace-scoped resource through which users can submit workloads, and these workloads are then admitted and scheduled according to the quotas and policies defined in the ClusterQueue. 
- 
- kubectl describe localqueue hyperpod-ns-onlygputeam-localqueue -n hyperpod-ns-onlygputeam
-
-# output
-Name: &nbsp; &nbsp; &nbsp; &nbsp; hyperpod-ns-onlygputeam-localqueue
-Namespace: &nbsp; &nbsp;hyperpod-ns-onlygputeam
-Labels: &nbsp; &nbsp; &nbsp; sagemaker.amazonaws.com/quota-allocation-id=onlygputeam
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;sagemaker.amazonaws.com/sagemaker-managed-queue=true
-Annotations: &nbsp;&lt;none&gt;
-API Version: &nbsp;kueue.x-k8s.io/v1beta1
-Kind: &nbsp; &nbsp; &nbsp; &nbsp; LocalQueue
-Metadata:
-&nbsp; &nbsp; ...
-Spec:
-&nbsp;&nbsp;Cluster Queue: &nbsp;hyperpod-ns-onlygputeam-clusterqueue
-&nbsp;&nbsp;Stop Policy: &nbsp; &nbsp;None
-Status:
-&nbsp;&nbsp;Admitted Workloads: &nbsp;0 
- 
-Submitting tasks 
-There are two ways to submit tasks on Amazon EKS orchestrated SageMaker HyperPod clusters: the SageMaker HyperPod CLI and the Kubernetes command-line tool, kubectl.&nbsp;With both options, data scientists need to reference their team’s namespace and task priority class—in addition to the requested GPU and vCPU compute and memory resources—to use their granular allocated quota with appropriate prioritization. If the user doesn’t specify a priority class, then SageMaker HyperPod task governance will automatically assume the lowest priority.&nbsp;The specific GPU type comes from an instance type selection, because data scientists want to use GPUs with certain capabilities (for example, H100 instead of H200) to perform their tasks efficiently. 
-HyperPod CLI 
-The HyperPod CLI was created to abstract the complexities of working with kubectl and so that developers using SageMaker HyperPod can iterate faster with custom commands.The following is an example of a job submission with the HyperPod CLI requesting both compute and memory resources: 
- 
- hyp create hyp-pytorch-job \
---job-name sample-job1 \
---image  &lt;account_id&gt;.dkr.ecr.&lt;aws_region&gt;.amazonaws.com/&lt;image_name&gt;:&lt;tag&gt; \
---pull-policy "Always" \
---tasks-per-node 1 \
---max-retry 1 \
---priority high-priority \
---namespace hyperpod-ns-team1 \
---queue-name hyperpod-ns-team1-localqueue \
---instance-type ml.g5.8xlarge \
---accelerators 1 \
---vcpu 4 \
---memory 1 \
---accelerators-limit 1 \
---vcpu-limit 5 \
---memory-limit 2 
- 
-The highlighted parameters enable requesting granular compute and memory resources. The HyperPod CLI requires to install the HyperPod Training Operator in the cluster and then build a container image that includes the HyperPod Elastic Agent. For further instructions on how to build such container image, please refer to the HyperPod Training Operator documentation. 
-For more information on the supported HyperPod CLI arguments and related description, see the SageMaker HyperPod CLI reference documentation. 
-Kubectl 
-The following is an example of a kubectl command to submit a job to the HyperPod cluster using the specified queue. This is a simple example of a PyTorch job that will check for GPU availability and then sleep for 5 minutes. Compute and memory resources are requested using the standard Kubernetes resource management constructs. 
- 
-  
-  apiVersion: batch/v1 
-kind: Job 
-metadata: 
-  name: gpu-training-job 
-  namespace: hyperpod-ns-team1 
-spec: 
-  parallelism: 1 
-  completions: 1 
-  suspend: true 
-  template: 
-    metadata: 
-      labels: 
-        kueue.x-k8s.io/queue-name: hyperpod-ns-team1-localqueue
-        kueue.x-k8s.io/priority-class: high-priority
-    spec: 
-      containers: 
-      - name: training-container 
-        image: pytorch/pytorch:2.0.0-cuda11.7-cudnn8-runtime
-        command: 
-        - "python"
-        - "-c"
-        - "import torch; print('GPU available:', torch.cuda.is\_available()); import time; time.sleep(15)" 
-        resources: 
-          requests:  
-            nvidia.com/gpu: 1  
-            cpu: "4"  
-            memory: "1Gi"  
-          limits:  
-            nvidia.com/gpu: 1         
-      restartPolicy: Never 
-  
- Sample commands 
- 
-Following is a short reference guide for helpful commands when interacting with SageMaker HyperPod task governance: 
- 
- Describing cluster policy with the AWS CLI – This AWS CLI command is useful for viewing the cluster policy settings for your cluster. 
- List compute quota allocations with the AWS CLI – Use this AWS CLI command to view the different teams and set up task governance and their respective quota allocation settings. 
- HyperPod CLI – The HyperPod CLI abstracts&nbsp;common kubectl commands used to interact with SageMaker HyperPod clusters such as submitting, listing, and cancelling tasks. See the SageMaker HyperPod CLI reference documentation&nbsp;for a full list of commands. 
- kubectl – You can also use kubectl&nbsp;to interact with task governance; some useful commands are: 
- 
-kubectl get workloads -n hyperpod-ns-&lt;team-name&gt; kubectl describe workload &lt;workload-name&gt; -n hyperpod-ns-&lt;team-name&gt;. These commands show the workloads running in your cluster per namespace and provide detailed reasonings on Kueue admission. You can use these commands to answer questions such as “Why was my task preempted?” or “Why did my task get admitted?” 
-Common scenarios 
-A common use case for more granular allocation of GPU compute is fine-tuning small and medium sized large language models (LLMs). A single H100 or H200 GPU might be sufficient to address such a use case (also depending on the chosen batch size and other factors), and machine learning (ML) platform administrators can choose to allocate a single GPU to each data scientist or ML researcher to optimize the utilization of an instance like ml.p5.48xlarge, which comes with 8 H100 GPUs onboard. 
-Small language models (SLMs) have emerged as a significant advancement in generative AI, offering lower latency, decreased deployment costs, and enhanced privacy capabilities while maintaining impressive performance on targeted tasks, making them increasingly vital for agentic workflows and edge computing scenarios. The new SageMaker HyperPod task governance with fine-grained GPU, CPU, and memory allocation significantly enhances SLM development by enabling precise matching of resources to model requirements, allowing teams to efficiently run multiple experiments concurrently with different architectures. This resource optimization is particularly valuable as organizations develop specialized SLMs for domain-specific applications, with priority-based scheduling so that critical model training jobs receive resources first while maximizing overall cluster utilization. By providing exactly the right resources at the right time, HyperPod accelerates the development of specialized, domain-specific SLMs that can be deployed as efficient agents in complex workflows, enabling more responsive and cost-effective AI solutions across industries. 
-With the growing popularity of SLMs, organizations can use granular quota allocation to create targeted quota policies that prioritize GPU resources, addressing the budget-sensitive nature of ML infrastructure where GPUs represent the most significant cost and performance factor. Organizations can now selectively apply CPU and memory limits where needed, creating a granular resource management approach that efficiently supports diverse machine learning workloads regardless of model size. 
-Similarly, to support inference workloads, multiple teams might not require an entire instance to deploy their models, helping to avoid having entire instances equipped with multiple GPUs allocated to each team and leaving GPU compute sitting idle. 
-Finally, during experimentation and algorithm development, data scientists and ML researchers can choose to deploy a container hosting their preferred IDE on HyperPod, like JupyterLab or Code-OSS (Visual Studio Code open source). In this scenario, they often experiment with smaller batch sizes before scaling to multi-GPU configurations, hence not needing entire multi-GPU instances to be allocated.Similar considerations apply to CPU instances; for example, an ML platform administrator might decide to use CPU instances for IDE deployment, because data scientists prefer to scale their training or fine-tuning with jobs rather than experimenting with the local IDE compute. In such cases, depending on the instances of choice, partitioning CPU cores across the team might be beneficial. 
+Always verify that all endpoints are deleted after experimentation to optimize costs. Refer to the Amazon SageMaker documentation for additional guidance on managing resources. 
 Conclusion 
-The introduction of fine-grained compute quota allocation in SageMaker HyperPod represents a significant advancement in ML infrastructure management. By enabling GPU-level resource allocation alongside instance-level controls, organizations can now precisely tailor their compute resources to match their specific workloads and team structures. 
-This granular approach to resource governance addresses critical challenges faced by ML teams today, balancing budget constraints, maximizing expensive GPU utilization, and ensuring fair access across data science teams of all sizes. Whether fine-tuning SLMs that require single GPUs, running inference workloads with varied resource needs, or supporting development environments that don’t require full instance power, this flexible capability helps ensure that no compute resources sit idle unnecessarily. 
-ML workloads continue to diversify in their resource requirements and SageMaker HyperPod task governance now provides the adaptability organizations need to optimize their GPU capacity investments. To learn more, visit the&nbsp;SageMaker HyperPod product page and HyperPod task governance documentation. 
-Give this a try in the&nbsp;Amazon SageMaker AI console and leave your comments here. 
+The availability of Falcon-H1 models in Amazon Bedrock Marketplace and SageMaker JumpStart helps developers, researchers, and businesses build cutting-edge generative AI applications with ease.&nbsp;Falcon-H1 models offer multilingual support (18 languages) across various model sizes (from 0.5B to 34B parameters) and support up to 256K context length, thanks to their efficient hybrid attention-SSM architecture. 
+By using the seamless discovery and deployment capabilities of Amazon Bedrock Marketplace and SageMaker JumpStart, you can accelerate your AI innovation while benefiting from the secure, scalable, and cost-effective AWS Cloud infrastructure. 
+We encourage you to explore the Falcon-H1&nbsp;models in Amazon Bedrock Marketplace or SageMaker JumpStart. You can use these models in AWS Regions where Amazon Bedrock or SageMaker JumpStart and the required instance types are available. 
+For further learning, explore the AWS Machine Learning Blog, SageMaker JumpStart GitHub repository, and Amazon Bedrock User Guide. Start building your next generative AI application with Falcon-H1 models and unlock new possibilities with AWS! 
+Special thanks to everyone who contributed to the launch: Evan Kravitz, Varun Morishetty, and Yotam Moss. 
  
 About the authors 
-Siamak Nariman is a Senior Product Manager at AWS. He is focused on AI/ML technology, ML model management, and ML governance to improve overall organizational efficiency and productivity. He has extensive experience automating processes and deploying various technologies. 
-Zhenshan Jin is a Senior Software Engineer at Amazon Web Services (AWS), where he leads software development for task governance on SageMaker HyperPod. In his role, he focuses on empowering customers with advanced AI capabilities while fostering an environment that maximizes engineering team efficiency and productivity. 
-Giuseppe Angelo Porcelli is a Principal Machine Learning Specialist Solutions Architect for Amazon Web Services. With several years of software engineering and an ML background, he works with customers of any size to understand their business and technical needs and design AI and ML solutions that make the best use of the AWS Cloud and the Amazon Machine Learning stack. He has worked on projects in different domains, including MLOps, computer vision, and NLP, involving a broad set of AWS services. In his free time, Giuseppe enjoys playing football. 
-Sindhura Palakodety s a Senior Solutions Architect at AWS and STL for ISV Generative AI, where she is dedicated to empowering customers in developing enterprise-scale, Well-Architected solutions. She specializes in Generative AI and Data Analytics domains, enabling organizations to leverage latest technological innovations for transformative business outcomes.
-• Build and scale adoption of AI agents for education with Strands Agents, Amazon Bedrock AgentCore, and LibreChat
-  Basic AI chat isn’t enough for most business applications. Institutions need AI that can pull from their databases, integrate with their existing tools, handle multi-step processes, and make decisions independently. 
-This post demonstrates how to quickly build sophisticated AI agents using Strands Agents, scale them reliably with Amazon Bedrock AgentCore, and make them accessible through LibreChat’s familiar interface to drive immediate user adoption across your institution. 
-Challenges with basic AI chat interfaces 
-Although basic AI chat interfaces can answer questions and generate content, educational institutions need capabilities that simple chat can’t provide: 
+Mehran Nikoo leads the Go-to-Market strategy for Amazon Bedrock and agentic AI in EMEA at AWS, where he has been driving the development of AI systems and cloud-native solutions over the last four years. Prior to joining AWS, Mehran held leadership and technical positions at Trainline, McLaren, and Microsoft. He holds an MBA from Warwick Business School and an MRes in Computer Science from Birkbeck, University of London. 
+Mustapha Tawbi is a Senior Partner Solutions Architect at AWS, specializing in generative AI and ML, with 25 years of enterprise technology experience across AWS, IBM, Sopra Group, and Capgemini. He has a PhD in Computer Science from Sorbonne and a Master’s degree in Data Science from Heriot-Watt University Dubai. Mustapha leads generative AI technical collaborations with AWS partners throughout the MENAT region. 
+Jingwei Zuo is a Lead Researcher at the Technology Innovation Institute (TII) in the UAE, where he leads the Falcon Foundational Models team. He received his PhD in 2022 from University of Paris-Saclay, where he was awarded the Plateau de Saclay Doctoral Prize. He holds an MSc (2018) from the University of Paris-Saclay, an Engineer degree (2017) from Sorbonne Université, and a BSc from Huazhong University of Science &amp; Technology. 
+John Liu is a Principal Product Manager for Amazon Bedrock at AWS. Previously, he served as the Head of Product for AWS Web3/Blockchain. Prior to joining AWS, John held various product leadership roles at public blockchain protocols and financial technology (fintech) companies for 14 years. He also has nine years of portfolio management experience at several hedge funds. 
+Hamza MIMI is a Solutions Architect for partners and strategic deals in the MENAT region at AWS, where he bridges cutting-edge technology with impactful business outcomes. With expertise in AI and a passion for sustainability, he helps organizations architect innovative solutions that drive both digital transformation and environmental responsibility, transforming complex challenges into opportunities for growth and positive change.
+• Oldcastle accelerates document processing with Amazon Bedrock
+  This post was written with Avdhesh Paliwal of Oldcastle APG. 
+Oldcastle APG, one of the largest global networks of manufacturers in the architectural products industry, was grappling with an inefficient and labor-intensive process for handling proof of delivery (POD) documents, known as ship tickets. The company was processing 100,000–300,000 ship tickets per month across more than 200 facilities. Their existing optical character recognition (OCR) system was unreliable, requiring constant maintenance and manual intervention. It could only accurately read 30–40% of the documents, leading to significant time and resource expenditure. 
+This post explores how Oldcastle partnered with AWS to transform their document processing workflow using Amazon Bedrock with Amazon Textract. We discuss how Oldcastle overcame the limitations of their previous OCR solution to automate the processing of hundreds of thousands of POD documents each month, dramatically improving accuracy while reducing manual effort. This solution demonstrates a practical, scalable approach that can be adapted to your specific needs, such as similar challenges addressing document processing or using generative AI for business process optimization. 
+Challenges with document processing 
+The primary challenge for Oldcastle was to find a solution that could accomplish the following: 
  
- Contextual decision-making – A student asking “What courses should I take?” needs an agent that can access their transcript, check prerequisites, verify graduation requirements, and consider schedule conflicts—not just generic course descriptions 
- Multi-step workflows – Degree planning requires analyzing current progress, identifying remaining requirements, suggesting course sequences, and updating recommendations as students make decisions 
- Institutional data integration – Effective educational AI must connect to student information systems, learning management services, academic databases, and institutional repositories to provide relevant, personalized guidance 
- Persistent memory and learning – Agents need to remember previous interactions with students, track their academic journey over semesters, and build understanding of individual learning patterns and needs 
+ Accurately process a high volume of ship tickets (PODs) with minimal human intervention 
+ Scale to handle 200,000–300,000 documents per month 
+ Handle inconsistent inputs like rotated pages and variable formatting 
+ Improve the accuracy of data extraction from the current 30–40% to a much higher rate 
+ Add new capabilities like signature validation on PODs 
+ Provide real-time visibility into outstanding PODs and deliveries 
  
-Combining open source flexibility with enterprise infrastructure 
-The integration presented in this post demonstrates how three technologies can work together to address these challenges: 
- 
- Strands Agents – Build sophisticated multi-agent workflows in just a few lines of code 
- Amazon Bedrock AgentCore – Scale agents reliably with serverless, pay-per-use deployment 
- LibreChat – Provide users with a familiar chat interface that drives immediate adoption 
- 
-Strands Agents overview 
-Strands Agents is an open source SDK that takes a model-driven approach to building and running AI agents in just a few lines of code. Unlike LibreChat’s simple agent implementation, Strands supports sophisticated patterns including multi-agent orchestration through workflow, graph, and swarm tools; semantic search for managing thousands of tools; and advanced reasoning capabilities with deep analytical thinking cycles. The framework simplifies agent development by embracing the capabilities of state-of-the-art models to plan, chain thoughts, call tools, and reflect, while scaling from local development to production deployment with flexible architectures and comprehensive observability. 
-Amazon Bedrock AgentCore overview 
-Amazon Bedrock AgentCore is a comprehensive set of enterprise-grade services that help developers quickly and securely deploy and operate AI agents at scale using the framework and model of your choice, hosted on Amazon Bedrock or elsewhere. The services are composable and work with popular open source frameworks and many models, so you don’t have to choose between open source flexibility and enterprise-grade security and reliability. 
-Amazon Bedrock AgentCore includes modular services that can be used together or independently: Runtime (secure, serverless runtime for deploying and scaling dynamic agents), Gateway (converts APIs and AWS Lambda functions into agent-compatible tools), Memory (manages both short-term and long-term memory), Identity (provides secure access management), and Observability (offers real-time visibility into agent performance). 
-The key Amazon Bedrock AgentCore service used in this integration is Amazon Bedrock AgentCore Runtime, a secure, serverless runtime purpose-built for deploying and scaling dynamic AI agents and tools using an open source framework including LangGraph, CrewAI, and Strands Agents; a protocol; and a model of your choosing. Amazon Bedrock AgentCore Runtime was built to work for agentic workloads with industry-leading extended runtime support, fast cold starts, true session isolation, built-in identity, and support for multimodal payloads. Rather than the typical serverless model where functions spin up, execute, and immediately terminate, Amazon Bedrock AgentCore Runtime provisions dedicated microVMs that can persist for up to 8 hours, enabling sophisticated multi-step agentic workflows where each subsequent call builds upon the accumulated context and state from previous interactions within the same session. 
-LibreChat overview 
-LibreChat has emerged as a leading open source alternative to commercial AI chat interfaces, offering educational institutions a powerful solution for deploying conversational AI at scale. Built with flexibility and extensibility in mind, LibreChat provides several key advantages for higher education: 
- 
- Multi-model support – LibreChat supports integration with multiple AI providers, so institutions can choose the most appropriate models for different use cases while avoiding vendor lock-in 
- User management – Robust authentication and authorization systems help institutions manage access across student populations, faculty, and staff with appropriate permissions and usage controls 
- Conversation management – Students and faculty can organize their AI interactions into projects and topics, creating a more structured learning environment 
- Customizable interface – The solution can be branded and customized to match institutional identity and specific pedagogical needs 
- 
-Integration benefits 
-Integrating Strands Agents with Amazon Bedrock AgentCore and LibreChat creates unique benefits that extend the capabilities of both services far beyond what either could achieve independently: 
- 
- Seamless agent experience through familiar interface – LibreChat’s intuitive chat interface becomes a gateway to sophisticated agentic workflows. Users can trigger complex multi-step processes, data analysis, and external system integrations through natural conversation, without needing to learn new interfaces or complex APIs. 
- Dynamic agent loading and management – Unlike static AI chat implementations, this integration supports dynamic agent loading with access management. New agentic applications can be deployed separately and made available to users without requiring LibreChat updates or downtime, enabling rapid agent development. 
- Enterprise-grade security and scaling – Amazon Bedrock AgentCore Runtime provides complete session isolation for each user session, where each session runs with isolated CPU, memory, and filesystem resources. This creates complete separation between user sessions, safeguarding stateful agent reasoning processes and helping prevent cross-session data contamination. The service can scale up to thousands of agent sessions in seconds while developers only pay for actual usage, making it ideal for educational institutions that need to support large student populations with varying usage patterns. 
- Built-in AWS resource integration – Organizations already running infrastructure on AWS can seamlessly connect their existing resources—databases, data lakes, Lambda functions, and applications—to Strands Agents without complex integrations or data movement. Agents can directly access and surface insights through the LibreChat interface, turning existing AWS investments into intelligent, conversational experiences, such as querying an Amazon Relational Database Service (Amazon RDS) database, analyzing data in Amazon Simple Storage Service (Amazon S3), or integrating with existing microservices. 
- Cost-effective agentic computing – By using LibreChat’s efficient architecture with the Amazon Bedrock AgentCore pay-per-use model, organizations can deploy sophisticated agentic applications without the high fixed costs typically associated with enterprise AI systems. Users only pay for actual agent computation and tool usage. 
- 
-Agent use cases in higher education settings 
-The integration of LibreChat with Strands Agents enables numerous educational applications that demonstrate the solution’s versatility and power: 
- 
- A course recommendation agent can analyze a student’s academic history, current enrollment, and career interests to suggest relevant courses. By integrating with the student information system, the agent can make sure recommendations consider prerequisites, schedule conflicts, and graduation requirements. 
- A degree progress tracking agent can interact with students and help them understand their specific degree requirements and provide guidance on remaining coursework, elective options, and timeline optimization. 
- Agents can be configured with access to academic databases and institutional repositories, helping students and faculty discover relevant research papers and resources, providing guidance on academic writing, citation formats, and research methodology specific to different disciplines. 
- Agents can handle routine student inquiries about registration, deadlines, and campus resources, freeing up staff time for more complex student support needs. 
- 
-Refer to the following GitHub repo for Strands Agent code examples for educational use cases. 
+Additionally, Oldcastle needed a solution for processing supplier invoices and matching them against purchase orders, which presented similar challenges due to varying document formats.The existing process required dispatchers at more than 200 facilities to spend 4–5 hours daily manually processing ship tickets. This consumed valuable human resources and led to delays in processing and potential errors in data entry. The IT team was burdened with constant maintenance and development efforts to keep the unreliable OCR system functioning. 
 Solution overview 
-The following architecture diagram illustrates the overall system design for deploying LibreChat with Strands Agents integration. Strands Agents is deployed using Amazon Bedrock AgentCore Runtime, a secure, serverless runtime purpose-built for deploying and scaling dynamic AI agents and tools using an open source framework including Strands Agents. 
+AWS Solutions Architects worked closely with Oldcastle engineers to build a solution addressing these challenges. The end-to-end workflow uses Amazon Simple Email Service (Amazon SES) to receive ship tickets, which are sent directly from drivers in the field. The system processes emails at scale using an event-based architecture centered on Amazon S3 Event Notifications. The workflow sends ship ticket documents to an automatic scaling compute job orchestrator. Documents are processed with the following steps: 
  
-The solution architecture includes several key components: 
+ The system sends PDF files to Amazon Textract using the Start Document Analysis API with Layout and Signature features. 
+ Amazon Textract results are processed by an AWS Lambda microservice. This microservice resolves rotation issues with page text and generates a collection of pages of markdown representation of the text. 
+ The markdown is passed to Amazon Bedrock, which efficiently extracts key values from the markdown text. 
+ The orchestrator saves the results to their Amazon Relational Database Service (Amazon RDS) for PostgreSQL database. 
  
- LibreChat core services – The core chat interface runs in an Amazon Elastic Container Service (Amazon ECS) with AWS Fargate cluster, including LibreChat for the user-facing experience, Meilisearch for enhanced search capabilities, and Retrieval Augmented Generation (RAG) API services for document retrieval. 
- LibreChat supporting infrastructure – This solution uses Amazon Elastic File System (Amazon EFS) for storing Meilisearch’s indexes and user uploaded files; Amazon Aurora PostgreSQL-Compatible Edition for vector database used by the RAG API; Amazon S3 for storing LibreChat configurations; Amazon DocumentDB for user, session, conversation data management; and AWS Secrets Manager for managing access to the resources. 
- Strands Agents integration – This solution integrates Strands Agents (hosted by Amazon Bedrock AgentCore Runtime) with LibreChat through custom endpoints using Lambda and Amazon API Gateway. This integration pattern enables dynamic loading of agents in LibreChat for advanced generative AI capabilities. In particularly, the solution showcases a user activity analysis agent that draws insights from LibreChat logs. 
- Authentication and security – The integration between LibreChat and Strands Agents implements a multi-layered authentication approach that maintains security without compromising user experience or administrative simplicity. When a student or faculty member selects a Strands Agent from LibreChat’s interface, the authentication flow operates seamlessly in the background through several coordinated layers: 
+The following diagram illustrates the solution architecture. 
+ 
+In this architecture, Amazon Textract is an effective solution to handle large PDF files at scale. The output of Amazon Textract contains the necessary geometries used to calculate rotation and fix layout issues before generating markdown. Quality markdown layouts are critical for Amazon Bedrock in identifying the right key-value pairs from the content. We further optimized cost by extracting only the data needed to limit output tokens and by using Amazon Bedrock batch processing to get the lowest token cost. Amazon Bedrock was used for its cost-effectiveness and ability to process format shipping tickets where the fields that need to be extracted are the same. 
+Results 
+The implementation using this architecture on AWS brought numerous benefits to Oldcastle: 
+ 
+ Business process improvement – The solution accomplished the following: 
    
-   User authentication – LibreChat handles user login through your institution’s existing authentication system, with comprehensive options including OAuth, LDAP/AD, or local accounts as detailed in the LibreChat authentication documentation. 
-   API Gateway security – After users are authenticated to LibreChat, the system automatically handles API Gateway security by authenticating each request using preconfigured API keys. 
-   Service-to-service authentication – The underlying Lambda function uses AWS Identity and Access Management (IAM) roles to securely invoke Amazon Bedrock AgentCore Runtime where the Strands Agent is deployed. 
-   Resource access control – Strands Agents operate within defined permissions to access only authorized resources. 
+   Alleviated the need for manual processing of ship tickets at each facility 
+   Automated document processing with minimal human intervention 
+   Improved accuracy and reliability of data extraction 
+   Enhanced ability to validate signatures and reject incomplete documents 
+   Provided real-time visibility into outstanding PODs and deliveries 
     
+ Productivity gains – Oldcastle saw the following benefits: 
+   
+   Significantly fewer human hours were spent on manual data entry and document processing 
+   Staff had more time for more value-added activities 
+   The IT team benefited from reduced development and maintenance efforts 
+    
+ Scalability and performance – The team experienced the following performance gains: 
+   
+   They seamlessly scaled from processing a few thousand documents to 200,000–300,000 documents per month 
+   The team observed no performance issues with increased volume 
+    
+ User satisfaction – The solution improved user sentiment in several ways: 
+   
+   High user confidence in the new system due to its accuracy and reliability 
+   Positive feedback from business users on the ease of use and effectiveness 
+    
+ Cost-effective – With this approach, Oldcastle can process documents at less than $0.04 per page 
  
-Deployment process 
-This solution uses the AWS Cloud Development Kit (AWS CDK) and AWS CloudFormation to handle the deployment through several automated phases. We will use a log analysis agent as an example to demonstrate the deployment process. The agent makes it possible for the admin to perform LibreChat log analysis through natural language queries. 
-LibreChat is deployed as a containerized service with ECS Fargate clusters and is integrated with supporting services, including virtual private cloud (VPC) networking, Application Load Balancer (ALB), and the complete data layer with Aurora PostgreSQL-Compatible, DocumentDB, Amazon EFS, and Amazon S3 storage. Security is built in with appropriate IAM roles, security groups, and secrets management. 
-The user activity analysis agent provides valuable insights into how students interact with AI tools, identifying peak usage times, popular topics, and potential areas where students might need additional support. The agent is automatically provisioned using the following CloudFormation template, which deploys Strands Agents using Amazon Bedrock AgentCore Runtime, provisions a Lambda function that invokes the agent, API Gateway to make the agent a URL endpoint, and a second Lambda function that accesses LibreChat logs stored in DocumentDB. The second Lambda is used as a tool of the agent. 
-The following code shows how to configure LibreChat to make the agent a custom endpoint: 
- 
- custom:
-    - name: 'log-analysis-assitant'
-      apiKey: '{AWS_API_GATEWAY_KEY}'
-      baseURL: '{AWS_API_GATEWAY_URL}'
-      models:
-        default: ['Strands Agent']
-        fetch: false
-      headers:
-        x-api-key: '{AWS_API_GATEWAY_KEY}'
-      titleConvo: true
-      titleModel: 'us.amazon.nova-lite-v1:0'
-      modelDisplayLabel: 'log-analysis-assitant'
-      forcePrompt: false
-      stream: false
-      iconURL: 'https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/
-             product-categories/ai-ml/machine-learning/approved/images/256f3da1-3193-
-             441c-b2641f33fdd6.a045b9b4c4f34545e1c79a405140ac0146699835.jpeg' 
- 
- After the stack is deployed successfully, you can log in to LibreChat, select the agent, and start chatting. The following screenshot shows an example question that the user activity analysis agent can help answer, where it reads the LibreChat user activities from DocumentDB and generates an answer.
- 
- 
-Deployment considerations and best practices 
-When deploying this LibreChat and Strands Agents integration, organizations should carefully consider several key factors that can significantly impact both the success of the implementation and its long-term sustainability. 
-Security and compliance form the foundation of any successful deployment, particularly in educational environments where data protection is paramount. Organizations must implement robust data classification schemes to maintain appropriate handling of sensitive information, and role-based access controls make sure users only access AI capabilities and data appropriate to their roles. Beyond traditional perimeter security, a layered authorization approach becomes critical when deploying AI systems that might access multiple data sources with varying sensitivity levels. This involves implementing multiple authorization checks throughout the application stack, including service-to-service authorization, trusted identity propagation that carries the end-user’s identity through the system components, and granular access controls that evaluate permissions at each data access point rather than relying solely on broad service-level permissions. Such layered security architectures help mitigate risks like prompt injection vulnerabilities and unauthorized cross-tenant data access, making sure that even if one security layer is compromised, additional controls remain in place to protect sensitive educational data. Regular compliance monitoring becomes essential, with automated audits and checks maintaining continued adherence to relevant data protection regulations throughout the system’s lifecycle, while also validating that layered authorization policies remain effective as the system evolves. 
-Cost management requires a strategic approach that balances functionality with financial sustainability. Organizations must prioritize their generative AI spending based on business impact and criticality while maintaining cost transparency across customer and user segments. Implementing comprehensive usage monitoring helps organizations track AI service consumption patterns and identify optimization opportunities before costs become problematic. The human element of deployment often proves more challenging than the technical implementation. Faculty training programs should provide comprehensive guidance on integrating AI tools into teaching practices, focusing not just on how to use the tools but how to use them effectively for educational outcomes. Student onboarding requires clear guidelines and tutorials that promote both effective AI interaction and academic integrity. Perhaps most importantly, establishing continuous feedback loops makes sure the system evolves based on actual user experiences and measured educational outcomes rather than assumptions about what users need.Successful deployments also require careful attention to the dynamic nature of AI technology. The architecture’s support for dynamic agent loading enables organizations to add specialized agents for new departments or use cases without disrupting existing services. Version control systems should maintain different agent versions for testing and gradual rollout of improvements, and performance monitoring tracks both technical metrics and user satisfaction to guide continuous improvement efforts. 
 Conclusion 
-The integration of LibreChat with Strands Agents represents a significant step forward in democratizing access to advanced AI capabilities in higher education. By combining the accessibility and customization of open source systems with the sophistication and reliability of enterprise-grade AI services, institutions can provide students and faculty with powerful tools that enhance learning, research, and academic success.This architecture demonstrates that educational institutions don’t need to choose between powerful AI capabilities and institutional control. Instead, they can take advantage of the innovation and flexibility of open source solutions with the scalability and reliability of cloud-based AI services. The integration example showcased in this post illustrates the solution’s versatility and potential for customization as institutions expand and adapt the solution to meet evolving educational needs. 
-For future work, the LibreChat system’s Model Context Protocol (MCP) server integration capabilities offer exciting possibilities for enhanced agent architectures. A particularly promising avenue involves wrapping agents as MCP servers, transforming them into standardized tools that can be seamlessly integrated alongside other MCP-enabled agents. This approach would enable educators to compose sophisticated multi-agent workflows, creating highly personalized educational experiences tailored to individual learning styles. 
-The future of education is about having the right AI tools, properly integrated and ethically deployed, to enhance human learning and achievement through flexible, interoperable, and extensible solutions that can evolve with educational needs. 
-Acknowledgement 
-The authors extend their gratitude to Arun Thangavel, Ashish Rawat and Kosti Vasilakakis for their insightful feedback and review of the post. 
+With the success of the AWS implementation, Oldcastle is exploring potential expansion to other use cases such as AP invoice processing, W9 form validation, and automated document approval workflows. This strategic move towards AI-powered document processing is positioning Oldcastle for improved efficiency and scalability in its operations. 
+Review your current manual document processing procedures and identify where intelligent document processing can help you automate these workflows for your business. 
+For further exploration and learning, we recommend checking out the following resources: 
+ 
+ Intelligent Document Processing on AWS 
+ Automate document processing with Amazon Bedrock Prompt Flows 
+ Intelligent Document Processing with Generative AI 
+ 
+ 
  
 About the authors 
-Dr. Changsha Ma is a Senior AI/ML Specialist at AWS. She is a technologist with a PhD in Computer Science, a master’s degree in Education Psychology, and years of experience in data science and independent consulting in AI/ML. She is passionate about researching methodological approaches for machine and human intelligence. Outside of work, she loves hiking, cooking, and spending time with friends and families. 
-Sudheer Manubolu&nbsp;is a Solutions Architect at Amazon Web Services (AWS). He specializes in cloud architecture, enterprise solutions, and AI/ML implementations. He provides technical and architectural guidance to customers building transformative solutions on AWS, with particular emphasis on leveraging AWS’s AI/ML and container services to drive innovation and operational excellence. 
-Abhilash Thallapally is a Solutions Architect at AWS helping public sector customers design and build scalable AI/ML solutions using Amazon SageMaker. His work covers a wide range of ML use cases, with a primary interest in computer vision, Generative AI, IoT, and deploying cost optimized solutions on AWS. 
-Mary Strain leads strategy for artificial intelligence and machine learning for US education at AWS. Mary began her career as a middle school teacher in the Bronx, NY. Since that time, she has held leadership roles in education and public sector technology organizations. Mary has advised K12, higher education, and state and local government on innovative policies and practices in competency based assessment, curriculum design, micro credentials and workforce development initiatives. As an advisor to The Education Design Studio at The University of Pennsylvania, The Coalition of Schools Educating Boys of Color, and The State of NJ AI Task Force, Mary has been on the leading edge of bringing innovative solutions to education for two decades.
+Erik Cordsen is a Solutions Architect at AWS serving customers in Georgia. He is passionate about applying cloud technologies and ML to solve real life problems. When he is not designing cloud solutions, Erik enjoys travel, cooking, and cycling. 
+Sourabh Jain is a Senior Solutions Architect with over 8 years of experience developing cloud solutions that drive better business outcomes for organizations worldwide. He specializes in architecting and implementing robust cloud software solutions, with extensive experience working alongside global Fortune 500 teams across diverse time zones and cultures. 
+Avdhesh Paliwal is an accomplished Application Architect at Oldcastle APG with 29 years of extensive ERP experience. His expertise spans Manufacturing, Supply Chain, and Human Resources modules, with a proven track record of designing and implementing enterprise solutions that drive operational efficiency and business value.
+• How London Stock Exchange Group is detecting market abuse with their AI-powered Surveillance Guide on Amazon Bedrock
+  London Stock Exchange Group (LSEG) is a global provider of financial markets data and infrastructure. It operates the London Stock Exchange and manages international equity, fixed income, and derivative markets. The group also develops capital markets software, offers real-time and reference data products, and provides extensive post-trade services. This post was co-authored with Charles Kellaway and Rasika Withanawasam of LSEG. 
+Financial markets are remarkably complex, hosting increasingly dynamic investment strategies across new asset classes and interconnected venues. Accordingly, regulators place great emphasis on the ability of market surveillance teams to keep pace with evolving risk profiles. However, the landscape is vast; London Stock Exchange alone facilitates the trading and reporting of over £1 trillion of securities by 400 members annually. Effective monitoring must cover all MiFID asset classes, markets and jurisdictions to detect market abuse, while also giving weight to participant relationships, and market surveillance systems must scale with volumes and volatility. As a result, many systems are outdated and unsatisfactory for regulatory expectations, requiring manual and time-consuming work. 
+To address these challenges, London Stock Exchange Group (LSEG) has developed an innovative solution using Amazon Bedrock, a fully managed service that offers a choice of high-performing foundation models from leading AI companies, to automate and enhance their market surveillance capabilities. LSEG’s AI-powered Surveillance Guide helps analysts efficiently review trades flagged for potential market abuse by automatically analyzing news sensitivity and its impact on market behavior. 
+In this post, we explore how LSEG used Amazon Bedrock and Anthropic’s Claude foundation models to build an automated system that significantly improves the efficiency and accuracy of market surveillance operations. 
+The challenge 
+Currently, LSEG’s surveillance monitoring systems generate automated, customized alerts to flag suspicious trading activity to the Market Supervision team. Analysts then conduct initial triage assessments to determine whether the activity warrants further investigation, which might require undertaking differing levels of qualitative analysis. This could involve manual collation of all and any evidence that might be applicable when methodically corroborating regulation, news, sentiment and trading activity. For example, during an insider dealing investigation, analysts are alerted to statistically significant price movements. The analyst must then conduct an initial assessment of related news during the observation period to determine if the highlighted price move has been caused by specific news and its likely price sensitivity. This initial step in assessing the presence, or absence, of price sensitive news guides the subsequent actions an analyst will take with a possible case of market abuse. 
+Initial triaging can be a time-consuming and resource-intensive process and still necessitate a full investigation if the identified behavior remains potentially suspicious or abusive. 
+Moreover, the dynamic nature of financial markets and evolving tactics and sophistication of bad actors demand that market facilitators revisit automated rules-based surveillance systems. The increasing frequency of alerts and high number of false positives adversely impact an analyst’s ability to devote quality time to the most meaningful cases, and such heightened emphasis on resources could result in operational delays. 
+Solution overview 
+To address these challenges, LSEG collaborated with AWS to improve insider dealing detection, developing a generative AI prototype that automatically predicts the probability of news articles being price sensitive. The system employs Anthropic’s Claude Sonnet 3.5 model—the most price performant model at the time—through Amazon Bedrock to analyze news content from LSEG’s Regulatory News Service (RNS) and classify articles based on their potential market impact. The results support analysts to more quickly determine whether highlighted trading activity can be mitigated during the observation period. 
+The architecture consists of three main components: 
+ 
+ A data ingestion and preprocessing pipeline for RNS articles 
+ Amazon Bedrock integration for news analysis using Claude Sonnet 3.5 
+ Inference application for visualising results and predictions 
+ 
+The following diagram illustrates the conceptual approach: 
+ 
+The workflow processes news articles through the following steps: 
+ 
+ Ingest raw RNS news documents in HTML format 
+ Preprocess and extract clean news text 
+ Fill the classification prompt template with text from the news documents 
+ Prompt Anthropic’s Claude Sonnet 3.5 through Amazon Bedrock 
+ Receive and process model predictions and justifications 
+ Present results through the visualization interface developed using Streamlit 
+ 
+Methodology 
+The team collated a comprehensive dataset of approximately 250,000 RNS articles spanning 6 consecutive months of trading activity in 2023. The raw data—HTML documents from RNS—were initially pre-processed within the AWS environment by removing extraneous HTML elements and formatted to extract clean textual content. Having isolated substantive news content, the team subsequently carried out exploratory data analysis to understand distribution patterns within the RNS corpus, focused on three dimensions: 
+ 
+ News categories: Distribution of articles across different regulatory categories 
+ Instruments: Financial instruments referenced in the news articles 
+ Article length: Statistical distribution of document sizes 
+ 
+Exploration provided contextual understanding of the news landscape and informed the sampling strategy in creating a representative evaluation dataset. 110 articles were selected to cover major news categories, and this curated subset was presented to market surveillance analysts who, as domain experts, evaluated each article’s price sensitivity on a nine-point scale, as shown in the following image: 
+ 
+ 1–3: PRICE_NOT_SENSITIVE – Low probability of price sensitivity 
+ 4–6: HARD_TO_DETERMINE – Uncertain price sensitivity 
+ 7–9: PRICE_SENSITIVE – High probability of price sensitivity 
+ 
+ 
+The experiment was executed within Amazon SageMaker using Jupyter Notebooks as the development environment. The technical stack consisted of: 
+ 
+ Instructor library: Provided integration capabilities with Anthropic’s Claude Sonnet 3.5 model in Amazon Bedrock 
+ Amazon Bedrock: Served as the API infrastructure for model access 
+ Custom data processing pipelines (Python): For data ingestion and preprocessing 
+ 
+This infrastructure enabled systematic experimentation with various algorithmic approaches, including traditional supervised learning methods, prompt engineering with foundation models, and fine-tuning scenarios. 
+The evaluation framework established specific technical success metrics: 
+ 
+ Data pipeline implementation: Successful ingestion and preprocessing of RNS data 
+ Metric definition: Clear articulation of precision, recall, and F1 metrics 
+ Workflow completion: Execution of comprehensive exploratory data analysis (EDA) and experimental workflows 
+ 
+The analytical approach was a two-step classification process, as shown in the following figure: 
+ 
+ Step 1: Classify news articles as potentially price sensitive or other 
+ Step 2: Classify news articles as potentially price not sensitive or other 
+ 
+ 
+This multi-stage architecture was designed to maximize classification accuracy by allowing analysts to focus on specific aspects of price sensitivity at each stage. The results from each step were then merged to produce the final output, which was compared with the human-labeled dataset to generate quantitative results. 
+To consolidate the results from both classification steps, the data merging rules followed were: 
+ 
+  
+   
+   Step 1 Classification 
+   Step 2 Classification 
+   Final Classification 
+   
+  
+  
+   
+   Sensitive 
+   Other 
+   Sensitive 
+   
+   
+   Other 
+   Non-sensitive 
+   Non-sensitive 
+   
+   
+   Other 
+   Other 
+   Ambiguous – requires manual review i.e., Hard to Determine 
+   
+   
+   Sensitive 
+   Non-sensitive 
+   Ambiguous – requires manual review i.e., Hard to Determine 
+   
+  
+ 
+Based on the insights gathered, prompts were optimized. The prompt templates elicited three key components from the model: 
+ 
+ A concise summary of the news article 
+ A price sensitivity classification 
+ A chain-of-thought explanation justifying the classification decision 
+ 
+The following is an example prompt: 
+ 
+ system non sensitive = "*"
+You are an expert financial analyst with deep knowledge of market dynamics, investor
+    psychology, and the intricate relationships between news events and asset prices.
+    Your core function is to analyze news articles and assess their likelihood of being
+    non-price sensitive with unparalleled accuracy and insight.
+Key aspects of your expertise include:
+1. Market Dynamics: You have a comprehensive understanding of how financial markets
+    operate, including the factors that typically drive price movements and those that
+    are often overlooked by the market.
+2. Investor Psychology: You possess keen insight into how different types of news affect
+    investor sentiment and decision-making, particularly in distinguishing between
+    information that causes reactions and information that doesn't.
+3. News Analysis: You excel at dissecting financial news articles, identifying key
+    elements, and determining their relevance (or lack thereof) to asset valuations and
+    market movements.
+4. Pattern Recognition: You can draw upon a vast knowledge of historical market 
+    reactions to various types of news, allowing you to identify patterns of 
+    non-impactful information.
+5. Sector-Specific Knowledge: You understand the nuances of different industry sectors
+    and how the importance of news can vary across them.
+6. Regulatory Insight: You're well-versed in financial regulations and can identify when
+    news does or doesn't meet thresholds for material information.
+7. Macroeconomic Perspective: You can place company-specific news in the broader context
+    of economic trends and assess whether it's likely to be overshadowed by larger market
+    forces.
+8. Quantitative Skills: You can evaluate financial metrics and understand when changes or
+    announcements related to them are significant enough to impact prices.
+Your primary task is to analyze given news articles and determine, with a high degree of
+    confidence, whether they are likely to be non-price sensitive. This involves:
+- Carefully examining the content and context of each news item
+- Assessing its potential (or lack thereof) to influence investor decisions
+- Considering both short-term and long-term implications
+- Providing clear, well-reasoned justifications for your assessments
+- Identifying key factors that support your conclusion
+- Recommending further information that could enhance the analysis
+- Offering insights that can help traders make more informed decisions
+You should always maintain a conservative approach, erring on the side of caution. If
+    there's any reasonable doubt about whether news could be price-sensitive, you should
+    classify it as 'OTHER' rather than 'NOT_PRICE_SENSITIVE'.
+Your analyses should be sophisticated yet accessible, catering to both experienced
+    traders and those new to the market. Always strive for objectivity, acknowledging any
+    uncertainties or limitations in your assessment.
+Remember, your insights play a crucial role in helping traders filter out market noise
+    and focus on truly impactful information, ultimately contributing to more effective
+    and educated trading decisions. 
+ 
+As shown in the following figure, the solution was optimized to maximize: 
+ 
+ Precision for the NOT SENSITIVE class 
+ Recall for the PRICE SENSITIVE class 
+ 
+ 
+This optimization strategy was deliberate, facilitating high confidence in non-sensitive classifications to reduce unnecessary escalations to human analysts (in other words, to reduce false positives). Through this methodical approach, prompts were iteratively refined while maintaining rigorous evaluation standards through comparison against the expert-annotated baseline data. 
+Key benefits and results 
+Over a 6-week period, Surveillance Guide demonstrated remarkable accuracy when evaluated on a representative sample dataset. Key achievements include the following: 
+ 
+ 100% precision in identifying non-sensitive news, allocating 6 articles to this category that analysts confirmed were non price sensitive 
+ 100% recall in detecting price-sensitive content, allocating 36 hard to determine and 28 price sensitive articles labelled by analysts into one of these two categories (never misclassifying price sensitive content) 
+ Automated analysis of complex financial news 
+ Detailed justifications for classification decisions 
+ Effective triaging of results by sensitivity level 
+ 
+In this implementation, LSEG has employed Amazon Bedrock so that they can use secure, scalable access to foundation models through a unified API, minimizing the need for direct model management and reducing operational complexity. Because of the serverless architecture of Amazon Bedrock, LSEG can take advantage of dynamic scaling of model inference capacity based on news volume, while maintaining consistent performance during market-critical periods. Its built-in monitoring and governance features support reliable model performance and maintain audit trails for regulatory compliance. 
+Impact on market surveillance 
+This AI-powered solution transforms market surveillance operations by: 
+ 
+ Reducing manual review time for analysts 
+ Improving consistency in price-sensitivity assessment 
+ Providing detailed audit trails through automated justifications 
+ Enabling faster response to potential market abuse cases 
+ Scaling surveillance capabilities without proportional resource increases 
+ 
+The system’s ability to process news articles instantly and provide detailed justifications helps analysts focus their attention on the most critical cases while maintaining comprehensive market oversight. 
+Proposed next steps 
+LSEG plans to first enhance the solution, for internal use, by: 
+ 
+ Integrating additional data sources, including company financials and market data 
+ Implementing few-shot prompting and fine-tuning capabilities 
+ Expanding the evaluation dataset for continued accuracy improvements 
+ Deploying in live environments alongside manual processes for validation 
+ Adapting to additional market abuse typologies 
+ 
+Conclusion 
+LSEG’s Surveillance Guide demonstrates how generative AI can transform market surveillance operations. Powered by Amazon Bedrock, the solution improves efficiency and enhances the quality and consistency of market abuse detection. 
+As financial markets continue to evolve, AI-powered solutions architected along similar lines will become increasingly important for maintaining integrity and compliance. AWS and LSEG are intent on being at the forefront of this change. 
+The selection of Amazon Bedrock as the foundation model service provides LSEG with the flexibility to iterate on their solution while maintaining enterprise-grade security and scalability. To learn more about building similar solutions with Amazon Bedrock, visit the Amazon Bedrock documentation or explore other financial services use cases in the AWS Financial Services Blog. 
+ 
+About the authors 
+ Charles Kellaway is a Senior Manager in the Equities Trading team at LSE plc, based in London. With a background spanning both Equity and Insurance markets, Charles specialises in deep market research and business strategy, with a focus on deploying technology to unlock liquidity and drive operational efficiency. His work bridges the gap between finance and engineering, and he always brings a cross-functional perspective to solving complex challenges. 
+ Rasika Withanawasam is a seasoned technology leader with over two decades of experience architecting and developing mission-critical, scalable, low-latency software solutions. Rasika’s core expertise lies in big data and machine learning applications, focusing intently on FinTech and RegTech sectors. He has held several pivotal roles at LSEG, including Chief Product Architect for the flagship Millennium Surveillance and Millennium Analytics platforms, and currently serves as Manager of the Quantitative Surveillance &amp; Technology team, where he leads AI/ML solution development. 
+Richard Chester&nbsp;is a Principal Solutions Architect at AWS, advising large Financial Services organisations. He has 25+ years’ experience across the Financial Services Industry where he has held leadership roles in transformation programs, DevOps engineering, and Development Tooling. Since moving across to AWS from being a customer, Richard is now focused on driving the execution of strategic initiatives, mitigating risks and tackling complex technical challenges for AWS customers.
 
 ⸻
