@@ -1,17 +1,17 @@
-✅ Morning News Briefing – September 13, 2025 10:39
+✅ Morning News Briefing – September 14, 2025 10:39
 
-📅 Date: 2025-09-13 10:39
+📅 Date: 2025-09-14 10:39
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  10.1°C
-  Temperature: 10.1&deg;C Pressure / Tendency: 102.0 kPa falling Humidity: 95 % Dewpoint: 9.4&deg:C Wind: SW 3 km/h Air Quality Health Index: n/a . Observed at: Pembroke 6:00 AM EDT Saturday 13 September 2025 . Weather forecast: 10/11 September 2025
-• Saturday: Chance of showers. High 21. POP 40%
-  Mainly cloudy with 40 percent chance of showers . High 21. Humidex 25. UV index 5 or moderate . Mainly sunny day with highs of 21.50 degrees in the early morning hours of Saturday morning . Showers are expected in the afternoon and the evening hours of Sunday morning . Forecast issued at 5:00 AM EDT Saturday 13 September 2025 for the rest of the
-• Saturday night: Chance of showers. Low 10. POP 40%
-  Partly cloudy. 40 percent chance of showers overnight . Low 10.50-60% chance of rain in New York City . Showers are expected to fall through the night, forecasters predict . Forecast issued 5:00 AM EDT Saturday 13 September 2025 for the U.S. State of the Ark Ark Arkansas State of Arkansas, Arkansas, Arkansas County, Arkansas
+• Current Conditions:  12.4°C
+  Temperature: 12.4&deg;C Pressure / Tendency: 101.8 kPa rising Humidity: 95 % Dewpoint: 11.6&deg:C Wind: W 6 km/h Air Quality Health Index: n/a . Observed at: Pembroke 6:00 AM EDT Sunday 14 September 2025 . Weather forecast: 10/11 September 2025
+• Sunday: Chance of showers. High 23. POP 30%
+  Fog patches dissipating early this morning . 30 percent chance of showers early today . A mix of sun and cloud . High 23. Humidex 26. UV index 6 or high . Forecast issued 5:00 AM EDT Sunday 14 September 2025. Forecast: "Showery" and "Fog patches" expected to hit the ground this morning. Fog patches expected to dissip
+• Sunday night: Clear. Low 7.
+  Fog patches developing after midnight . Clear. Clear. Low 7.70s . Clear . Fog patches expected after midnight. Clear . Forecast issued 5:00 AM EDT Sunday 14 September 2025 . Forecasts for the next 10 years: 2080s, 30s, 50s, 60s, 70s, 80s, 90s, 100s, 200s, 300s
 
 🌍 International News
 No updates.
@@ -20,31 +20,31 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• 'Chinese Encounters with America' argues U.S. and China lost shared interests
-  The 12 profiles highlight the positive aspects of the U.S.-China engagement . Diplomatic relations began in earnest after diplomatic relations were established in 1979 . The book is edited to highlight the positives of the relationship between China and the United States . It was first published in 1979, when diplomatic relations between the two countries began to be established in 1978 . The U.K.-China relationship is
-• Megachurch leader and his mother indicted on sex trafficking and racketeering charges
-  Prosecutors claim the family that has long led La Luz del Mundo — or Light of the World — committed sexual abuse across generations . An accuser compares the church leadership to the mafia, an accuser compares it to a mafia boss . Prosecutors say the family has led the church for decades and has been accused of sexual abuse . The family is believed to have led the La Luiz del Mund
-• Anti-Israel protests turn Spanish Vuelta cycling race into a diplomatic battleground
-  Protests targeting an Israeli-owned team have seized the limelight at Spain's version of the Tour de France . The team under fire issued a statement saying that quitting the race is out of the question . Protests against an Israeli owned team have taken place at the Spanish version of this year's race . The Israeli team say that quitting is not an option but quitting the Tour is out
-• Why parents need to talk to their teens about AI — and how to start the conversation
-  Many teens are using artificial intelligence chatbots like ChatGPT for everything from homework to relationship advice . Experts say parents must lead the way in helping them understand the technology . Parents must also lead in helping teens understand chatbot chatbots, experts say . Chatbots can be used to help teens with homework, relationship advice, homework and help them understand each other's work and relationships . Chat
-• The California redistricting measure cites Texas, highlighting the partisan stakes
-  A ballot measure in California will ask voters if they OK a new congressional map . In a sign of how rare the proposal is, it specifically cites Texas Republicans' new districts in the measure's title . The proposal is a rare move for a ballot measure to ask voters to approve a new map of the state's congressional districts . The measure is a very rare move by a state legislature .
+• Rubio arrives in Israel as Israeli strikes intensify in northern Gaza
+  Marco Rubio arrived in Israel on Sunday, as Israel intensified its attacks against northern Gaza . U.S. Secretary of State Marco Rubio arrives in Israel as Israel intensifies its attacks on Gaza . Rubio is the son of former President George W. Bush, a Republican senator in the House of Representatives, and a Democrat in New York City . Rubio: Israel's attacks on northern Gaza have been
+• After Missouri, what state is next? A redistricting race started by Trump continues
+  Missouri lawmakers move to help the GOP win another seat . California Democrats are trying to counter that . First Trump got Texas to redistrict to help Republicans win five House seats there . Now Missouri lawmakers are moving to help GOP win a seat in the state's House of Representatives in the Missouri Senate . California lawmakers are also moving to redistricting districts to help Democrats win more seats in the Senate .
+• Trump is making a state visit to the U.K., the homeland of his immigrant mother
+  President Trump's U.K. state visit this week won't include the Scottish island where his late immigrant mother was born . Mary Anne MacLeod was a Gaelic speaker who learned English as a second language . She was born in Scotland, where she learned English from Gaelic speaking Gaelic . President Trump will visit the island this week, but not the island he was born on .
+• Over 100,000 attend London rally organized by far-right activist, clashes break out
+  The march, organized by far-right activist Tommy Robinson, drew more than 110,000 people on Saturday . At least 26 police officers were injured in clashes that broke out . The march was organized by Tommy Robinson and was attended by more than 100,000 protesters . The protest was held in support of the far-left, which was led by far right-wing leader Tommy Robinson .
+• Trump administration launches trial program to fast-track electric air taxis
+  FAA is seeking proposals for projects that will include piloted and unmanned operations . FAA is looking at electric air taxis, also called an electric vertical takeoff and landing aircraft . The FAA is also looking at plans for electric vertical take-and-land landing aircrafts with a focus on electric air taxi . FAA seeks proposals for new types of aircraft that can be piloted or unmanned by air taxis
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
+• It's time mobile devs started to think seriously about foldable smartphones
+  The hardware is now compelling, sales are rising, and there's the chance to create a new experience hands on hands on . Folding smartphones have been with us for six years without winning much market share . After two weeks using Samsung's latest model, it feels to me like dual-screened devices are something developers now need to consider.……… And there's a chance to
+• Bring back your old Mac: 5 ways to refresh the OS on elderly Apples
+  Apple's new version of Mac OS will exclude the bulk of the Intel-powered models the company has ever sold . Newer OSes for unsupported kit, and new browsers for older OSes. There's always a way to breathe new life into Macs that go back as far as 10 or even 15 years . New versions of Apple's OS will be released in September, but not
 • Inventor who encouraged Elon Musk to make Optimus says most humanoid robots today are 'terrifying'
   Scott LaValley, founder and CEO of Cartwheel Robotics, says robot makers should prioritize social acceptance over capabilities . He suspects he may have helped encourage Elon Musk to get into the humanoid robot business .……… and says robot maker should prioritize social acceptance rather than capabilities .… and that social acceptance is the key to robot makers' success, he says . He says it's
 • HybridPetya: More proof that Secure Boot bypasses are not just an urban legend
   Ransomware strain dubbed HybridPetya was able to exploit a patched vulnerability to bypass Secure Boot on unrevoked Windows systems . It's the fourth publicly known bootkit capable of punching through the feature and hijacking a PC before the operating system loads . Although it hasn't been seen in the wild yet yet, it's not the fourth such bootkit to bypass the feature .
 • Fire up the gas turbines, says US Interior Secretary: We gotta win the AI arms race
   Doug Burgum: 'We can solve that later - we can solve it later' Burgum says . Burgum is a US official responsible for safeguarding the US' natural resources . He says climate change mitigation pledges will be abandoned in favor of firing up fossil fuels to power AI development . The U.S. government has pledged to protect the environment from climate change, says Burgum
-• SK Hynix cranks up the HBM4 assembly line to prep for next-gen GPUs
-  SK Hynix has already announced its next-gen datacenter GPUs will make the leap to HBM4 . AMD and Nvidia have already announced their next-generation datacentacenters will use the memory . HBM will be the one supplying the bulk of the memory for AI-boosting AI training . SKHynix says it will be supplying the majority of HBM
-• CISA program gave out $20k+ payments to unqualified employees, auditor says
-  The OIG says the Cyber Incentive program was rife with 'fraud, waste, and abuse' The US Cybersecurity and Infrastructure Security Agency (CISA) mismanaged a program designed to retain skilled security professionals so badly that auditors concluded it left the agency "unable to adequately protect the Nation from cyber threats" Auditors concluded the program left it unable to protect the
 
 🏥 Public Health
 No updates.
@@ -57,8 +57,6 @@ No updates.
 • Functions of the global health system in a new era
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • A call for action: closing the gap on ethnic disparities in oral cavity cancer care
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Home-based care improves blood pressure control
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -695,35 +693,6 @@ Also, Apple recently patched its seventh zero-day (CVE-2025-43300) of this year.
 The SANS Internet Storm Center has a clickable breakdown of each individual fix from Microsoft, indexed by severity and CVSS score. Enterprise Windows admins involved in testing patches before rolling them out should keep an eye on askwoody.com, which often has the skinny on wonky updates.
 AskWoody also reminds us that we&#8217;re now just two months out from Microsoft discontinuing free security updates for Windows 10 computers. For those interested in safely extending the lifespan and usefulness of these older machines, check out last month&#8217;s Patch Tuesday coverage for a few pointers.
 As ever, please don&#8217;t neglect to back up your data (if not your entire system) at regular intervals, and feel free to sound off in the comments if you experience problems installing any of these fixes.
-• 18 Popular Code Packages Hacked, Rigged to Steal Crypto
-  At least 18 popular JavaScript code packages that are collectively downloaded more than two billion times each week were briefly compromised with malicious software today, after a developer involved in maintaining the projects was phished. The attack appears to have been quickly contained and was narrowly focused on stealing cryptocurrency. But experts warn that a similar attack with a slightly more nefarious payload could lead to a disruptive malware outbreak that is far more difficult to detect and restrain.
-This phishing email lured a developer into logging in at a fake NPM website and supplying a one-time token for two-factor authentication. The phishers then used that developer&#8217;s NPM account to add malicious code to at least 18 popular JavaScript code packages.
-Aikido is a security firm in Belgium that monitors new code updates to major open-source code repositories, scanning any code updates for suspicious and malicious code. In a blog post published today, Aikido said its systems found malicious code had been added to at least 18 widely-used code libraries available on NPM (short for) &#8220;Node Package Manager,&#8221; which acts as a central hub for JavaScript development and the latest updates to widely-used JavaScript components.
-JavaScript is a powerful web-based scripting language used by countless websites to build a more interactive experience with users, such as entering data into a form. But there&#8217;s no need for each website developer to build a program from scratch for entering data into a form when they can just reuse already existing packages of code at NPM that are specifically designed for that purpose.
-Unfortunately, if cybercriminals manage to phish NPM credentials from developers, they can introduce malicious code that allows attackers to fundamentally control what people see in their web browser when they visit a website that uses one of the affected code libraries.
-According to Aikido, the attackers injected a piece of code that silently intercepts cryptocurrency activity in the browser, &#8220;manipulates wallet interactions, and rewrites payment destinations so that funds and approvals are redirected to attacker-controlled accounts without any obvious signs to the user.&#8221;
-&#8220;This malware is essentially a browser-based interceptor that hijacks both network traffic and application APIs,&#8221; Aikido researcher Charlie Eriksen wrote. &#8220;What makes it dangerous is that it operates at multiple layers: Altering content shown on websites, tampering with API calls, and manipulating what users’ apps believe they are signing. Even if the interface looks correct, the underlying transaction can be redirected in the background.&#8221;
-Aikido said it used the social network Bsky to notify the affected developer, Josh Junon, who quickly replied that he was aware of having just been phished. The phishing email that Junon fell for was part of a larger campaign that spoofed NPM and told recipients they were required to update their two-factor authentication (2FA) credentials. The phishing site mimicked NPM&#8217;s login page, and intercepted Junon&#8217;s credentials and 2FA token. Once logged in, the phishers then changed the email address on file for Junon&#8217;s NPM account, temporarily locking him out.
-Aikido notified the maintainer on Bluesky, who replied at 15:15 UTC that he was aware of being compromised, and starting to clean up the compromised packages.
-Junon also issued a mea culpa on HackerNews, telling the community&#8217;s coder-heavy readership, &#8220;Hi, yep I got pwned.&#8221;
-&#8220;It looks and feels a bit like a targeted attack,&#8221; Junon wrote. &#8220;Sorry everyone, very embarrassing.&#8221;
-Philippe Caturegli, &#8220;chief hacking officer&#8221; at the security consultancy Seralys, observed that the attackers appear to have registered their spoofed website &#8212; npmjs[.]help &#8212; just two days before sending the phishing email. The spoofed website used services from dnsexit[.]com, a &#8220;dynamic DNS&#8221; company that also offers &#8220;100% free&#8221; domain names that can instantly be pointed at any IP address controlled by the user.
-Junon&#8217;s mea cupla on Hackernews today listed the affected packages.
-Caturegli said it&#8217;s remarkable that the attackers in this case were not more ambitious or malicious with their code modifications.
-&#8220;The crazy part is they compromised billions of websites and apps just to target a couple of cryptocurrency things,&#8221; he said. &#8220;This was a supply chain attack, and it could easily have been something much worse than crypto harvesting.&#8221;
-Aikido&#8217;s Eriksen agreed, saying countless websites dodged a bullet because this incident was handled in a matter of hours. As an example of how these supply-chain attacks can escalate quickly, Eriksen pointed to another compromise of an NPM developer in late August that added malware to &#8220;nx,&#8221; an open-source code development toolkit with as many as six million weekly downloads.
-In the nx compromise, the attackers introduced code that scoured the user&#8217;s device for authentication tokens from programmer destinations like GitHub and NPM, as well as SSH and API keys. But instead of sending those stolen credentials to a central server controlled by the attackers, the malicious code created a new public repository in the victim&#8217;s GitHub account, and published the stolen data there for all the world to see and download.
-Eriksen said coding platforms like GitHub and NPM should be doing more to ensure that any new code commits for broadly-used packages require a higher level of attestation that confirms the code in question was in fact submitted by the person who owns the account, and not just by that person&#8217;s account.
-&#8220;More popular packages should require attestation that it came through trusted provenance and not just randomly from some location on the Internet,&#8221; Eriksen said. &#8220;Where does the package get uploaded from, by GitHub in response to a new pull request into the main branch, or somewhere else? In this case, they didn&#8217;t compromise the target&#8217;s GitHub account. They didn&#8217;t touch that. They just uploaded a modified version that didn&#8217;t come where it&#8217;s expected to come from.&#8221;
-Eriksen said code repository compromises can be devastating for developers, many of whom end up abandoning their projects entirely after such an incident.
-&#8220;It&#8217;s unfortunate because one thing we&#8217;ve seen is people have their projects get compromised and they say, &#8216;You know what, I don&#8217;t have the energy for this and I&#8217;m just going to deprecate the whole package,'&#8221; Eriksen said.
-Kevin Beaumont, a frequently quoted security expert who writes about security incidents at the blog doublepulsar.com, has been following this story closely today in frequent updates to his account on Mastodon. Beaumont said the incident is a reminder that much of the planet still depends on code that is ultimately maintained by an exceedingly small number of people who are mostly overburdened and under-resourced.
-&#8220;For about the past 15 years every business has been developing apps by pulling in 178 interconnected libraries written by 24 people in a shed in Skegness,&#8221; Beaumont wrote on Mastodon. &#8220;For about the past 2 years orgs have been buying AI vibe coding tools, where some exec screams &#8216;make online shop&#8217; into a computer and 389 libraries are added and an app is farted out. The output = if you want to own the world&#8217;s companies, just phish one guy in Skegness.&#8221;
-Image: https://infosec.exchange/@GossiTheDog@cyberplace.social.
-Aikido recently launched a product that aims to help development teams ensure that every code library used is checked for malware before it can be used or installed. Nicholas Weaver, a researcher with the International Computer Science Institute, a nonprofit in Berkeley, Calif., said Aikido&#8217;s new offering exists because many organizations are still one successful phishing attack away from a supply-chain nightmare.
-Weaver said these types of supply-chain compromises will continue as long as people responsible for maintaining widely-used code continue to rely on phishable forms of 2FA.
-&#8220;NPM should only support phish-proof authentication,&#8221; Weaver said, referring to physical security keys that are phish-proof &#8212; meaning that even if phishers manage to steal your username and password, they still can&#8217;t log in to your account without also possessing that physical key.
-&#8220;All critical infrastructure needs to use phish-proof 2FA, and given the dependencies in modern software, archives such as NPM are absolutely critical infrastructure,&#8221; Weaver said. &#8220;That NPM does not require that all contributor accounts use security keys or similar 2FA methods should be considered negligence.&#8221;
 
 🎓 University AI
 No updates.
@@ -976,6 +945,9 @@ The model outputs a set of tokens that are decoded into image pixels, completing
 	
 		
 
+		
+		Spotlight: AI-POWERED EXPERIENCE
+	
 	
 	
 						
@@ -986,14 +958,14 @@ The model outputs a set of tokens that are decoded into image pixels, completing
 			
 			
 
-									Azure AI Foundry Labs
+									Microsoft research copilot experience
 				
-								Get a glimpse of potential future directions for AI, with these experimental technologies from Microsoft Research.
+								Discover more about research at Microsoft through our AI-powered experience
 				
 								
 					
 						
-							Azure AI Foundry						
+							Start now						
 					
 				
 							
