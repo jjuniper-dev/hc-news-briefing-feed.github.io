@@ -1,17 +1,17 @@
-✅ Morning News Briefing – September 14, 2025 10:39
+✅ Morning News Briefing – September 15, 2025 10:44
 
-📅 Date: 2025-09-14 10:39
+📅 Date: 2025-09-15 10:44
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  12.4°C
-  Temperature: 12.4&deg;C Pressure / Tendency: 101.8 kPa rising Humidity: 95 % Dewpoint: 11.6&deg:C Wind: W 6 km/h Air Quality Health Index: n/a . Observed at: Pembroke 6:00 AM EDT Sunday 14 September 2025 . Weather forecast: 10/11 September 2025
-• Sunday: Chance of showers. High 23. POP 30%
-  Fog patches dissipating early this morning . 30 percent chance of showers early today . A mix of sun and cloud . High 23. Humidex 26. UV index 6 or high . Forecast issued 5:00 AM EDT Sunday 14 September 2025. Forecast: "Showery" and "Fog patches" expected to hit the ground this morning. Fog patches expected to dissip
-• Sunday night: Clear. Low 7.
-  Fog patches developing after midnight . Clear. Clear. Low 7.70s . Clear . Fog patches expected after midnight. Clear . Forecast issued 5:00 AM EDT Sunday 14 September 2025 . Forecasts for the next 10 years: 2080s, 30s, 50s, 60s, 70s, 80s, 90s, 100s, 200s, 300s
+• Current Conditions:  6.3°C
+  Observed at: Pembroke 6:00 AM EDT Monday 15 September 2025 . Temperature: 6.3&deg;C Pressure / Tendency: 102.7 kPa rising Humidity: 99 % Humidity : 99 % Dewpoint: 6 .2&deg:C Wind: NW 3 km/h . Air Quality Health Index: n/a. Air Quality
+• Monday: Sunny. High 23.
+  Fog patches dissipating this morning. Sunny. High 23. Humidex 25. UV index 6 or high. High in the mid to mid-90s . Fog patches are dissipating today morning, but rain is expected later this morning . Forecast issued 5:00 AM EDT Monday 15 September 2025. For the rest of the year, see www.jenn.com/
+• Monday night: Clear. Low 8.
+  Fog patches developing overnight . Clear. Clear. Low 8.70s . Clear . Fog patches expected overnight . Forecast issued 5:00 AM EDT Monday 15 September 2025 . Lowest of 10 is expected to be below 8 p.m. Forecast: Clear, sunny, cloudy, warm, warm . Low 5:70s. Clear, cold, sunny . Low forecast:
 
 🌍 International News
 No updates.
@@ -20,43 +20,43 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Rubio arrives in Israel as Israeli strikes intensify in northern Gaza
-  Marco Rubio arrived in Israel on Sunday, as Israel intensified its attacks against northern Gaza . U.S. Secretary of State Marco Rubio arrives in Israel as Israel intensifies its attacks on Gaza . Rubio is the son of former President George W. Bush, a Republican senator in the House of Representatives, and a Democrat in New York City . Rubio: Israel's attacks on northern Gaza have been
-• After Missouri, what state is next? A redistricting race started by Trump continues
-  Missouri lawmakers move to help the GOP win another seat . California Democrats are trying to counter that . First Trump got Texas to redistrict to help Republicans win five House seats there . Now Missouri lawmakers are moving to help GOP win a seat in the state's House of Representatives in the Missouri Senate . California lawmakers are also moving to redistricting districts to help Democrats win more seats in the Senate .
-• Trump is making a state visit to the U.K., the homeland of his immigrant mother
-  President Trump's U.K. state visit this week won't include the Scottish island where his late immigrant mother was born . Mary Anne MacLeod was a Gaelic speaker who learned English as a second language . She was born in Scotland, where she learned English from Gaelic speaking Gaelic . President Trump will visit the island this week, but not the island he was born on .
-• Over 100,000 attend London rally organized by far-right activist, clashes break out
-  The march, organized by far-right activist Tommy Robinson, drew more than 110,000 people on Saturday . At least 26 police officers were injured in clashes that broke out . The march was organized by Tommy Robinson and was attended by more than 100,000 protesters . The protest was held in support of the far-left, which was led by far right-wing leader Tommy Robinson .
-• Trump administration launches trial program to fast-track electric air taxis
-  FAA is seeking proposals for projects that will include piloted and unmanned operations . FAA is looking at electric air taxis, also called an electric vertical takeoff and landing aircraft . The FAA is also looking at plans for electric vertical take-and-land landing aircrafts with a focus on electric air taxi . FAA seeks proposals for new types of aircraft that can be piloted or unmanned by air taxis
+• Melting glaciers mean an uncertain future for Europe's rivers
+  Europe is warming faster than any continent . That's speeding up glacial melt, which is already threatening Europe's largest rivers . Europe's biggest rivers are already threatened by the melting of glacial glacial ice . Europe is also becoming more and more vulnerable to the threat posed by melting glaciers, scientists say . The melting of the glaciers is speeding up the threat of Europe's rivers and streams
+• A Utah church embarks on a healing journey in the aftermath of the Kirk assassination
+  A church in Orem, Utah, where Charlie Kirk was killed, brings healing during its Sunday service . "We're going to be navigating this as a community and as a church family for months to come," says church leader Marisa Peñaloza . The church says it will be "navigating this" for months, "for months, come" to deal with the tragedy
+• A record number of Congressional lawmakers aren't running for reelection in 2026. Here's the list
+  NPR tracking the record number of lawmakers in Congress who have already announced they don't plan to run for reelection ahead of the 2026 midterms . NPR is tracking the number of Congressmen who have announced they won't run for re-election in the U.S. The midterms will be held on November 26, 2026, in both chambers of Congress . The midterm elections will
+• Trump, fascinated by the royals, gets a rare second U.K. state visit
+  Trump has long expressed fascination with the royal family . The U.K. government will tap into that this week during a state visit that combines pageantry and politics . The state visit is expected to be a political moment for the first time in the U.S. and the second in a row of events in the UK . Trump has expressed interest in the royals and has expressed fascination
+• Is it the magnesium or the massage? The facts about magnesium lotion for sleep
+  Social media influencers claim that using lotion with magnesium promotes sleep . But there is little evidence magnesium taken in this way is effective . There are no studies that show magnesium taken with lotion is effective in sleep sleep-inducing forms of type of sleep-inspiring lotions, such as lotion lotions - but there is no evidence this is effective, according to experts at the
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• It's time mobile devs started to think seriously about foldable smartphones
-  The hardware is now compelling, sales are rising, and there's the chance to create a new experience hands on hands on . Folding smartphones have been with us for six years without winning much market share . After two weeks using Samsung's latest model, it feels to me like dual-screened devices are something developers now need to consider.……… And there's a chance to
-• Bring back your old Mac: 5 ways to refresh the OS on elderly Apples
-  Apple's new version of Mac OS will exclude the bulk of the Intel-powered models the company has ever sold . Newer OSes for unsupported kit, and new browsers for older OSes. There's always a way to breathe new life into Macs that go back as far as 10 or even 15 years . New versions of Apple's OS will be released in September, but not
-• Inventor who encouraged Elon Musk to make Optimus says most humanoid robots today are 'terrifying'
-  Scott LaValley, founder and CEO of Cartwheel Robotics, says robot makers should prioritize social acceptance over capabilities . He suspects he may have helped encourage Elon Musk to get into the humanoid robot business .……… and says robot maker should prioritize social acceptance rather than capabilities .… and that social acceptance is the key to robot makers' success, he says . He says it's
-• HybridPetya: More proof that Secure Boot bypasses are not just an urban legend
-  Ransomware strain dubbed HybridPetya was able to exploit a patched vulnerability to bypass Secure Boot on unrevoked Windows systems . It's the fourth publicly known bootkit capable of punching through the feature and hijacking a PC before the operating system loads . Although it hasn't been seen in the wild yet yet, it's not the fourth such bootkit to bypass the feature .
-• Fire up the gas turbines, says US Interior Secretary: We gotta win the AI arms race
-  Doug Burgum: 'We can solve that later - we can solve it later' Burgum says . Burgum is a US official responsible for safeguarding the US' natural resources . He says climate change mitigation pledges will be abandoned in favor of firing up fossil fuels to power AI development . The U.S. government has pledged to protect the environment from climate change, says Burgum
+• Starlink outage knocks tens of thousands offline worldwide
+  Elon Musk's Starlink satellite broadband network went dark today as thousands of users around the globe reported connectivity issues . Downdetector logged 40,000 reports before service flickered back after service went dark . Dowdetector logged 40,500 reports of connectivity issues before service was restored . Elon Musk tweeted that the network was working to fix the problem . Musk's Twitter account
+• Jaguar Land Rover supply chain workers must get Covid-style support, says union
+  The UK's chief automotive workers' union is calling on the government to establish a Covid-esque furlough scheme . Thousands of individuals face losing their jobs due to the cyber-related downtime at Jaguar Land Rover . The labor org argues UK goverment should step in to help the thousands of individuals who face losing jobs . The UK government is considering setting up a similar furl
+• Bharti big shots storm BT boardroom after £3.6B raid
+  Bharti Global, its largest shareholder, are joining the board with immediate effect . Sign 'relationship agreement' as Mittal and Vittal take non-exec directorships . BT - Britain's former state-owned telecoms monopoly - confirmed that execs will join board with 'immediate effect' Vittal and Mittal will be joined by Bharta Mittal on board
+• UK.gov decides tech projects worth billions are major but not 'mega'
+  Ministers concerned Treasury governance team may be distracted about supervising vital efforts . Treasury takes greater role in so-called "mega-projects" UK ministers question government's decision to seemingly downgrade huge public sector tech projects . HM Treasury takes a greater role as Treasury takes more role in 'mega-projects' UK ministers have questioned the decision to downgrade huge tech projects as HM Treasury take a greater
+• UK Lords take aim at Ofcom's 'child-protection' upgrades to Online Safety Act
+  Peers will quiz campaigners on whether Ofcom's new measures will actually work, or just add more compliance pain . The House of Lords is about to put the latest child-protection plans of UK regulator the Office of Communications (Ofcom) under the microscope . Ofcom is set to introduce new measures to help children in need of parents' protection . The proposals will be put under the
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• Realizing the full potential of Our Future Health through data linkage and trans-biobank efforts
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Influence of the SARS-CoV-2 pandemic and infection on musculoskeletal function
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Geographic restrictions in stimulus spending mitigated COVID-19 transmission in Seoul
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Functions of the global health system in a new era
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• A call for action: closing the gap on ethnic disparities in oral cavity cancer care
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -676,23 +676,6 @@ The Dutch Chamber of Commerce document says WorkTitans&#8217; sole shareholder i
 In a series of email exchanges leading up to KrebsOnSecurity&#8217;s May 2024 deep dive on Stark, Mr. Nesterenko included Mr. Zinad in the message thread (youssef@mirhosting.com), referring to him as part of the company&#8217;s legal team. The Dutch website stagemarkt[.]nl lists Youssef Zinad as an official contact for MIRhosting&#8217;s offices in Almere. Mr. Zinad did not respond to requests for comment.
 
 Given the above, it is difficult to argue with the Recorded Future report on Stark&#8217;s rebranding, which concluded that &#8220;the EU’s sanctioning of Stark Industries was largely ineffective, as affiliated infrastructure remained operational and services were rapidly re-established under new branding, with no significant or lasting disruption.&#8221;
-• Microsoft Patch Tuesday, September 2025 Edition
-  Microsoft Corp. today issued security updates to fix more than 80 vulnerabilities in its Windows operating systems and software. There are no known &#8220;zero-day&#8221; or actively exploited vulnerabilities in this month&#8217;s bundle from Redmond, which nevertheless includes patches for 13 flaws that earned Microsoft&#8217;s most-dire &#8220;critical&#8221; label. Meanwhile, both Apple and Google recently released updates to fix zero-day bugs in their devices.
-
-Microsoft assigns security flaws a &#8220;critical&#8221; rating when malware or miscreants can exploit them to gain remote access to a Windows system with little or no help from users. Among the more concerning critical bugs quashed this month is CVE-2025-54918. The problem here resides with Windows NTLM, or NT LAN Manager, a suite of code for managing authentication in a Windows network environment.
-Redmond rates this flaw as &#8220;Exploitation More Likely,&#8221; and although it is listed as a privilege escalation vulnerability, Kev Breen at Immersive says this one is actually exploitable over the network or the Internet.
-&#8220;From Microsoft’s limited description, it appears that if an attacker is able to send specially crafted packets over the network to the target device, they would have the ability to gain SYSTEM-level privileges on the target machine,&#8221; Breen said. &#8220;The patch notes for this vulnerability state that &#8216;Improper authentication in Windows NTLM allows an authorized attacker to elevate privileges over a network,&#8217; suggesting an attacker may already need to have access to the NTLM hash or the user&#8217;s credentials.&#8221;
-Breen said another patch &#8212; CVE-2025-55234, a 8.8 CVSS-scored flaw affecting the Windows SMB client for sharing files across a network &#8212; also is listed as privilege escalation bug but is likewise remotely exploitable. This vulnerability was publicly disclosed prior to this month.
-&#8220;Microsoft says that an attacker with network access would be able to perform a replay attack against a target host, which could result in the attacker gaining additional privileges, which could lead to code execution,&#8221; Breen noted.
-CVE-2025-54916 is an &#8220;important&#8221; vulnerability in Windows NTFS &#8212; the default filesystem for all modern versions of Windows &#8212; that can lead to remote code execution. Microsoft likewise thinks we are more than likely to see exploitation of this bug soon: The last time Microsoft patched an NTFS bug was in March 2025 and it was already being exploited in the wild as a zero-day.
-&#8220;While the title of the CVE says &#8216;Remote Code Execution,&#8217; this exploit is not remotely exploitable over the network, but instead needs an attacker to either have the ability to run code on the host or to convince a user to run a file that would trigger the exploit,&#8221; Breen said. &#8220;This is commonly seen in social engineering attacks, where they send the user a file to open as an attachment or a link to a file to download and run.&#8221;
-Critical and remote code execution bugs tend to steal all the limelight, but Tenable Senior Staff Research Engineer Satnam Narang notes that nearly half of all vulnerabilities fixed by Microsoft this month are privilege escalation flaws that require an attacker to have gained access to a target system first before attempting to elevate privileges.
-&#8220;For the third time this year, Microsoft patched more elevation of privilege vulnerabilities than remote code execution flaws,&#8221; Narang observed.
-On Sept. 3, Google fixed two flaws that were detected as exploited in zero-day attacks, including CVE-2025-38352, an elevation of privilege in the Android kernel, and CVE-2025-48543, also an elevation of privilege problem in the Android Runtime component.
-Also, Apple recently patched its seventh zero-day (CVE-2025-43300) of this year. It was part of an exploit chain used along with a vulnerability in the WhatsApp (CVE-2025-55177) instant messenger to hack Apple devices. Amnesty International reports that the two zero-days have been used in &#8220;an advanced spyware campaign&#8221; over the past 90 days. The issue is fixed in iOS 18.6.2, iPadOS 18.6.2, iPadOS 17.7.10, macOS Sequoia 15.6.1, macOS Sonoma 14.7.8, and macOS Ventura 13.7.8.
-The SANS Internet Storm Center has a clickable breakdown of each individual fix from Microsoft, indexed by severity and CVSS score. Enterprise Windows admins involved in testing patches before rolling them out should keep an eye on askwoody.com, which often has the skinny on wonky updates.
-AskWoody also reminds us that we&#8217;re now just two months out from Microsoft discontinuing free security updates for Windows 10 computers. For those interested in safely extending the lifespan and usefulness of these older machines, check out last month&#8217;s Patch Tuesday coverage for a few pointers.
-As ever, please don&#8217;t neglect to back up your data (if not your entire system) at regular intervals, and feel free to sound off in the comments if you experience problems installing any of these fixes.
 
 🎓 University AI
 No updates.
@@ -946,7 +929,7 @@ The model outputs a set of tokens that are decoded into image pixels, completing
 		
 
 		
-		Spotlight: AI-POWERED EXPERIENCE
+		PODCAST SERIES
 	
 	
 	
@@ -958,14 +941,14 @@ The model outputs a set of tokens that are decoded into image pixels, completing
 			
 			
 
-									Microsoft research copilot experience
+									The AI Revolution in Medicine, Revisited
 				
-								Discover more about research at Microsoft through our AI-powered experience
+								Join Microsoft’s Peter Lee on a journey to discover how AI is impacting healthcare and what it means for the future of medicine.
 				
 								
 					
 						
-							Start now						
+							Listen now						
 					
 				
 							
@@ -1072,71 +1055,6 @@ However, key challenges remain. Scaling to larger and more complex scenes with i
 
 Researchers hope that RenderFormer will serve as a building block for future breakthroughs in both graphics and AI, opening new possibilities for visual computing and intelligent environments.
 Opens in a new tabThe post RenderFormer: How neural networks are reshaping 3D rendering appeared first on Microsoft Research.
-• Breaking the networking wall in AI infrastructure
-  Memory and network bottlenecks are increasingly limiting AI system performance by reducing GPU&nbsp;utilization&nbsp;and overall efficiency,&nbsp;ultimately preventing&nbsp;infrastructure from reaching its full potential&nbsp;despite enormous investments.&nbsp;At the&nbsp;core&nbsp;of this challenge is a fundamental trade-off in the communication technologies used for memory and network interconnects.
-
-
-
-Datacenters typically deploy two types of physical cables&nbsp;for&nbsp;communication between&nbsp;GPUs.&nbsp;Traditional copper links&nbsp;are power-efficient and&nbsp;reliable,&nbsp;but&nbsp;limited to&nbsp;very short&nbsp;distances&nbsp;(simultaneously.&nbsp;This approach leverages a hardware-system co-design and adopts&nbsp;a wide-and-slow design with hundreds of parallel low-speed channels using&nbsp;microLEDs.&nbsp;
-
-
-
-The fundamental trade-off&nbsp;among&nbsp;power, reliability, and reach&nbsp;stems from&nbsp;the&nbsp;narrow-and-fast&nbsp;architecture&nbsp;deployed&nbsp;in&nbsp;today&#8217;s copper and optical links,&nbsp;comprising&nbsp;a few channels&nbsp;operating&nbsp;at&nbsp;very high&nbsp;data rates. For example,&nbsp;an&nbsp;800 Gbps link&nbsp;consists of eight 100 Gbps channels.&nbsp;With&nbsp;copper links, higher channel speeds lead to greater signal integrity challenges, which limits their reach.&nbsp;With optical&nbsp;links,&nbsp;high-speed transmission is inherently inefficient, requiring power-hungry laser drivers and&nbsp;complex electronics&nbsp;to compensate for transmission impairments. These challenges&nbsp;grow&nbsp;as speeds increase&nbsp;with&nbsp;every&nbsp;generation&nbsp;of networks.&nbsp;Transmitting at high speeds also pushes the limits of optical components, reducing&nbsp;systems&nbsp;margins&nbsp;and increasing failure rates.&nbsp;
-
-
-
-These limitations force systems designers to make unpleasant&nbsp;choices,&nbsp;limiting the scalability of AI infrastructure.&nbsp;For example,&nbsp;scale-up networks connecting AI accelerators at&nbsp;multi-Tbps&nbsp;bandwidth&nbsp;typically&nbsp;must&nbsp;rely on&nbsp;copper links&nbsp;to meet&nbsp;the&nbsp;power budget,&nbsp;requiring&nbsp;ultra-dense racks that&nbsp;consume&nbsp;hundreds of kilowatts&nbsp;per rack. This creates significant challenges in cooling&nbsp;and&nbsp;mechanical design,&nbsp;which constrain&nbsp;the practical scale of these networks and end-to-end performance. This imbalance&nbsp;ultimately&nbsp;erects&nbsp;a&nbsp;networking wall&nbsp;akin&nbsp;to the&nbsp;memory wall, in&nbsp;which CPU speeds have outstripped memory speeds, creating performance bottlenecks.
-
-
-
-A technology offering copper-like power efficiency and reliability over long distances can overcome this networking wall, enabling multi-rack scale-up domains and unlocking new architectures. This is a highly active R&amp;D area, with many candidate technologies currently being developed across the industry. In our recent paper, “MOSAIC: Breaking the Optics versus Copper Trade-off with a Wide-and-Slow Architecture and MicroLEDs”, which received the Best Paper award at ACM SIGCOMM (opens in new tab), we present one such promising approach that is the result of a multi-year collaboration between Microsoft Research, Azure, and M365. This work is centered around an optical wide-and-slow architecture, shifting from a small number of high-speed serial channels towards hundreds of parallel low-speed channels. This would be impractical to realize with today’s copper and optical technologies because of i) electromagnetic interference challenges in high-density copper cables and ii) the high cost and power consumption of lasers in optical links, as well as the increase in packaging complexity. MOSAIC overcomes these issues by leveraging directly modulated microLEDs, a technology originally developed for screen displays. 
-
-
-
-MicroLEDs&nbsp;are significantly smaller than traditional LEDs (ranging from a few to tens of&nbsp;microns) and, due to their&nbsp;small size,&nbsp;they&nbsp;can be modulated at several Gbps.&nbsp;They&nbsp;are manufactured in large arrays,&nbsp;with over half a million&nbsp;in a small physical footprint for high-resolution displays&nbsp;like&nbsp;head-mounted devices or smartwatches. For example, assuming 2 Gbps per&nbsp;microLED&nbsp;channel, an 800 Gbps MOSAIC link can be realized by using a 20×20&nbsp;microLED&nbsp;array, which can fit in less than 1 mm×1 mm&nbsp;silicon&nbsp;die.&nbsp;
-
-
-
-MOSAIC’s&nbsp;wide-and-slow&nbsp;design&nbsp;provides four core benefits.
-
-
-
-
-Operating&nbsp;at low speed improves power efficiency&nbsp;by&nbsp;eliminating&nbsp;the need for&nbsp;complex&nbsp;electronics&nbsp;and&nbsp;reducing optical power requirements.
-
-
-
-By&nbsp;leveraging&nbsp;optical transmission (via&nbsp;microLEDs),&nbsp;MOSAIC&nbsp;sidesteps&nbsp;copper’s reach issues, supporting distances up to 50 meters,&nbsp;or&nbsp;> 10x&nbsp;further&nbsp;than copper.
-
-
-
-MicroLEDs’&nbsp;simpler structure&nbsp;and temperature insensitivity&nbsp;make them more reliable than lasers. The parallel nature of&nbsp;wide-and-slow&nbsp;also&nbsp;makes it easy to add redundant channels, further increasing reliability, up to two orders of magnitude higher than optical links.&nbsp;
-
-
-
-The&nbsp;approach is also scalable, as higher aggregate speeds (e.g.,&nbsp;1.6&nbsp;Tbps&nbsp;or 3.2&nbsp;Tbps) can be achieved by increasing the number of&nbsp;channels and/or raising per-channel speed&nbsp;(e.g., to 4-8 Gbps).&nbsp;
-
-
-
-
-Further,&nbsp;MOSAIC is fully compatible with today’s pluggable transceivers’ form&nbsp;factor&nbsp;and it provides a drop-in replacement for today’s copper and optical cables, without requiring any changes to existing server and network infrastructure.&nbsp;MOSAIC is protocol-agnostic, as it simply relays bits from one endpoint to another without&nbsp;terminating&nbsp;or inspecting the connection&nbsp;and, hence,&nbsp;it’s&nbsp;fully compatible with today’s protocols (e.g.,&nbsp;Ethernet, PCIe, CXL).&nbsp;We are currently working with our suppliers to&nbsp;productize&nbsp;this technology and&nbsp;scale&nbsp;to mass production.&nbsp;
-
-
-
-While&nbsp;conceptually simple, realizing this architecture posed a few key challenges&nbsp;across the stack, which&nbsp;required&nbsp;a multi-disciplinary team with&nbsp;expertise&nbsp;spanning across integrated photonics, lens design, optical transmission, and&nbsp;analog&nbsp;and digital design.&nbsp;For example, using individual&nbsp;fibers&nbsp;per channel would be prohibitively complex and costly due to the&nbsp;large number&nbsp;of channels. We addressed this by employing imaging&nbsp;fibers,&nbsp;which are typically used for medical applications (e.g., endoscopy).&nbsp;They&nbsp;can support thousands of cores&nbsp;per&nbsp;fiber, enabling multiplexing&nbsp;of&nbsp;many channels within a single&nbsp;fiber.&nbsp;Also,&nbsp;microLEDs&nbsp;are a less pure light source&nbsp;than lasers,&nbsp;with&nbsp;a larger beam shape (which complicates&nbsp;fiber&nbsp;coupling) and&nbsp;a broader spectrum (which&nbsp;degrades&nbsp;fiber&nbsp;transmission due to chromatic dispersion).&nbsp;We tackled these issues through&nbsp;a novel&nbsp;microLED and&nbsp;optical lens design,&nbsp;and&nbsp;a power-efficient&nbsp;analog-only electronic back&nbsp;end, which does not require any expensive digital signal processing.&nbsp;&nbsp;
-
-
-
-Based on our current estimates, this approach can save&nbsp;up to 68% of power, i.e., more&nbsp;than 10W per cable while reducing failure rates by up to 100x. With global annual shipments of optical cables&nbsp;reaching into&nbsp;the tens of millions, this translates to over 100MW of power savings per year,&nbsp;enough to power more than 300,000 homes. While these immediate gains are already significant, the unique combination of low power consumption, reduced cost, high reliability, and long reach opens up exciting new opportunities&nbsp;to rethink&nbsp;AI&nbsp;infrastructure from network and cluster architectures to compute and memory designs.
-
-
-
-For example,&nbsp;by&nbsp;supporting&nbsp;low-power,&nbsp;high-bandwidth connectivity at long reach,&nbsp;MOSAIC&nbsp;removes the need for ultra-dense racks and&nbsp;enables&nbsp;novel network topologies, which would be impractical today. The resulting redesign could&nbsp;reduce&nbsp;resource fragmentation and&nbsp;simplify&nbsp;collective optimization.&nbsp;Similarly,&nbsp;on the&nbsp;compute&nbsp;front,&nbsp;the ability&nbsp;to&nbsp;connect&nbsp;silicon&nbsp;dies at low power over long distances&nbsp;could&nbsp;enable&nbsp;resource&nbsp;disaggregation, shifting from today’s&nbsp;large,&nbsp;multi-die packages to&nbsp;smaller, more cost-effective, ones.&nbsp;Bypassing packaging area constraints would also make it possible to drastically increase&nbsp;GPU&nbsp;memory&nbsp;capacity and bandwidth,&nbsp;while&nbsp;facilitating&nbsp;adoption of&nbsp;novel memory technologies.&nbsp;
-
-
-
-Historically, step changes in network technology have unlocked entirely new classes of applications and workloads. While our SIGCOMM paper provides&nbsp;possible future&nbsp;directions, we hope this work sparks broader discussion and collaboration across the research and industry communities.
-Opens in a new tabThe post Breaking the networking wall in AI infrastructure  appeared first on Microsoft Research.
 • Automate advanced agentic RAG pipeline with Amazon SageMaker AI
   Retrieval Augmented Generation (RAG) is a fundamental approach for building advanced generative AI applications that connect large language models (LLMs) to enterprise knowledge. However, crafting a reliable RAG pipeline is rarely a one-shot process. Teams often need to test dozens of configurations (varying chunking strategies, embedding models, retrieval techniques, and prompt designs) before arriving at a solution that works for their use case. Furthermore, management of high-performing RAG pipeline involves complex deployment, with teams often using manual RAG pipeline management, leading to inconsistent results, time-consuming troubleshooting, and difficulty in reproducing successful configurations. Teams struggle with scattered documentation of parameter choices, limited visibility into component performance, and the inability to systematically compare different approaches. Additionally, the lack of automation creates bottlenecks in scaling the RAG solutions, increases operational overhead, and makes it challenging to maintain quality across multiple deployments and environments from development to production. 
 In this post, we walk through how to streamline your RAG development lifecycle from experimentation to automation, helping you operationalize your RAG solution for production deployments with Amazon SageMaker AI, helping your team experiment efficiently, collaborate effectively, and drive continuous improvement. By combining experimentation and automation with SageMaker AI, you can verify that the entire pipeline is versioned, tested, and promoted as a cohesive unit. This approach provides comprehensive guidance for traceability, reproducibility, and risk mitigation as the RAG system advances from development to production, supporting continuous improvement and reliable operation in real-world scenarios. 
@@ -1517,5 +1435,125 @@ Manoj Selvakumar is a Generative AI Specialist Solutions Architect at AWS, where
 Yanyan Zhang&nbsp;is a Senior Generative AI Data Scientist at Amazon Web Services, where she has been working on cutting-edge AI/ML technologies as a Generative AI Specialist, helping customers use generative AI to achieve their desired outcomes. Yanyan graduated from Texas A&amp;M University with a PhD in Electrical Engineering. Outside of work, she loves traveling, working out, and exploring new things. 
 Lokeshwaran Ravi is a Senior Deep Learning Compiler Engineer at AWS, specializing in ML optimization, model acceleration, and AI security. He focuses on enhancing efficiency, reducing costs, and building secure ecosystems to democratize AI technologies, making cutting-edge ML accessible and impactful across industries. 
 Revendra Kumar is a Senior Software Development Engineer at Amazon Web Services. In his current role, he focuses on model hosting and inference MLOps on Amazon Bedrock. Prior to this, he worked as an engineer on hosting Quantum computers on the cloud and developing infrastructure solutions for on-premises cloud environments. Outside of his professional pursuits, Revendra enjoys staying active by playing tennis and hiking.
+• Migrate from Anthropic’s Claude 3.5 Sonnet to Claude 4 Sonnet on Amazon Bedrock
+  This post is co-written with Gareth Jones from Anthropic. 
+Anthropic’s Claude 4 Sonnet model has launched on Amazon Bedrock, marking a significant advancement in foundation model capabilities. Consequently, the deprecation timeline for Anthropic’s Claude 3.5 Sonnet (v1 and v2) was announced. This evolution creates a dual imperative for production AI applications: the opportunity to harness enhanced performance and the operational necessity to migrate before deprecation. Organizations must treat model migrations as a core component of their AI inference strategy, because poor execution can result in service disruptions, performance regressions, and cost overruns. 
+This post provides a systematic approach to migrating from Anthropic’s Claude 3.5 Sonnet to Claude 4 Sonnet on Amazon Bedrock. We examine the key model differences, highlight essential migration considerations, and deliver proven best practices to transform this necessary transition into a strategic advantage that drives measurable value for your organization. 
+Overview of model differences 
+Understanding the specific changes between model versions is the first step in planning a successful migration. The migration from Anthropic’s Claude Sonnet 3.5 Sonnet to Claude 4 Sonnet introduces capability and behavioral shifts that you can take advantage of: 
+ 
+ Increased context window – Anthropic’s Claude 4 Sonnet expands the context window from 200,000 tokens to 1 million tokens (beta). This allows applications to process and reason over codebases, financial reports, or lengthy legal documents in a single prompt, simplifying complex workflows. 
+ Native reasoning mechanisms – Whereas Anthropic’s Claude 3.5 Sonnet models rely on the chain-of-thought (CoT) prompting technique, Claude 4 models introduce built-in, API-enabled reasoning features like extended thinking and interleaved thinking. These give the model dedicated computational time to reason before answering, dramatically improving performance on complex problems. 
+ Advanced tool use – Anthropic’s Claude 4 Sonnet model significantly upgrades tool use capabilities. They can execute multiple tools in parallel and use extended thinking between tool calls, enabling more sophisticated and efficient agentic workflows compared to the sequential tool use of older models. 
+ 
+To find out more about the model differences, refer to the Complete Model Comparison Guide. 
+A successful migration hinges on a few critical technical and strategic considerations, which we discuss in the following sections. Addressing these points proactively can minimize risk and accelerate your path to production. 
+Prerequisites 
+Before you can start using Anthropic’s Claude 4 Sonnet model, you must enable access to these models in Amazon Bedrock. For instructions, see Request access to an Amazon Bedrock foundation model. Make sure you review and accept the model’s End User License Agreement (EULA) proceeding with the model access request. It is crucial to first confirm that the Claude 4 Sonnet is available in your intended AWS Region, because model support can differ depending on location. For an updated list of supported Regions, refer to Model support by AWS Region in Amazon Bedrock. Additionally, you can use cross-Region inference (CRIS) by specifying an inference profile when running model inference, which can help improve throughput and maximize resource availability. For a list of supported cross-Region inference profiles, refer to Supported Regions and models for inference profiles. 
+API changes and code updates 
+When migrating on Amazon Bedrock, you can use either the model-specific InvokeModel API or the unified Converse API. 
+If you use the InvokeModel API, the migration is straightforward. You only need to update the modelId in your code, because the request body structure for Anthropic’s Messages API remains consistent between versions: 
+ 
+ Old model ID – 'anthropic.claude-3-5-sonnet-20240620-v1:0' or 'anthropic.claude-3-5-sonnet-20241022-v2:0' 
+ New model ID – 'anthropic.claude-4-sonnet-20240514-v1:0' 
+ 
+If you use a CRIS profile for the model, be sure to specify the correct inference profile ID in one of the source Regions, for example, 'us.anthropic.claude-sonnet-4-20250514-v1:0'. 
+This migration is an excellent opportunity to switch to the Converse API. It provides a standardized request/response format for language models on Amazon Bedrock, making future migrations to different models or providers much simpler. See the following code: 
+ 
+ import&nbsp;boto3
+
+bedrock_runtime = boto3.client(service_name='bedrock-runtime')
+# Simply change the model ID to switch models
+response = bedrock_runtime.converse(
+&nbsp;&nbsp; &nbsp;modelId='us.anthropic.claude-sonnet-4-20250514-v1:0',
+&nbsp;&nbsp; &nbsp;messages=[{'role': 'user', 'content': [{'text': "Your prompt here"}]}],
+&nbsp; &nbsp; inferenceConfig={'maxTokens': 1024}
+)
+
+print(response['output']['message']['content'][0]['text']) 
+ 
+The following are some key changes: 
+ 
+ Updated text editor tool – Developers using Anthropic’s built-in text editor tool for agentic workflows must be aware that the tool definition has been updated. The tool type is now text_editor_20250124 and tool name is now str_replace_based_edit_tool. The computer-use-2024-10-22 in the anthropic_beta header can be removed because the text editor tool is generally available in Anthropic’s Claude 4. Any code using this tool must be updated to reflect these changes. For more details, see Anthropic defined tools. 
+ Removed undo_edit command – The undo_edit command is no longer supported in Anthropic’s Claude 4 Sonnet. Any code using this command should be removed. 
+ New refusal stop reason – The model now introduces a new refusal stop reason. This reason is returned when the model declines to generate content due to safety policies. Application logic that handles model responses must be updated to recognize and manage this new stop reason to help prevent unexpected behavior or errors. For example, when you receive a refusal stop reason in a multi-turn interaction, you must reset the conversation context by either removing or updating the turn that was refused. 
+ 
+Prompt engineering and behavioral shifts 
+Don’t assume your existing prompts will work perfectly with the new model. Adherence to model-specific best practices is key. 
+Refer to Claude 4 prompt engineering best practices released by Anthropic to achieve optimal results. For example, Anthropic’s Claude models perform best when prompts are structured with XML tags (for example, &lt;document&gt;, &lt;/document&gt;) to clearly separate different parts of the input. 
+Anthropic’s Claude 4 Sonnet is designed to follow instructions more precisely. This is a major advantage, but might mean it is less verbose or elaborative than Claude 3.5 Sonnet unless explicitly prompted to be. Your system prompts defining the AI’s persona might need adjustments. 
+New reasoning features 
+Anthropic’s Claude 4 Sonnet model’s built-in extended thinking is a powerful capability. To unlock the deep reasoning capabilities of the new models, developers can enable extended thinking by including the thinking keyword argument in their API call. But make sure to use it strategically—extended thinking incurs additional costs because reasoning tokens are billed as output tokens at standard model rates. You will be charged for the full thinking process (not just the summary you see), and costs can scale with the thinking budget you set. 
+We recommend enabling extended thinking for tasks requiring deep, multi-step analysis where accuracy is paramount (for example, complex scientific problems or advanced coding challenges). 
+We recommend disabling extended thinking for simple queries or latency-sensitive applications. The feature adds to both cost (reasoning tokens are billed) and response time. For many tasks, a well-crafted CoT prompt is still the most efficient choice. 
+To use extended thinking, simply update the Converse API call by adding the additionalModelRequestFields parameter with the thinking configuration. You can specify the maximum thinking tokens that the model can use by setting a value for budget_tokens. Note that maxTokens should be larger than budget_tokens for extended thinking. See the following code: 
+ 
+ import boto3
+
+bedrock_runtime = boto3.client(service_name='bedrock-runtime')
+
+# Add configurations to enable extended thinking
+response = bedrock_runtime.converse(
+&nbsp;&nbsp; &nbsp;modelId='us.anthropic.claude-sonnet-4-20250514-v1:0',
+&nbsp;&nbsp; &nbsp;messages=[{'role': 'user', 'content': [{'text': "Your prompt here"}]}],
+&nbsp;&nbsp; &nbsp;inferenceConfig={'maxTokens': 2048},
+&nbsp;&nbsp; &nbsp;additionalModelRequestFields={"thinking":{"type": "enabled",
+&nbsp;&nbsp;&nbsp;&nbsp; "budget_tokens": 1024}}
+)
+
+reasoning_text&nbsp;=&nbsp;response['output']['message']['content'][0]['reasoningContent']['reasoningText']['text']
+assistant_response =&nbsp;response['output']['message']['content'][1]['text'] 
+ 
+The following table shows an example of extended thinking and how it can improve response accuracy. We prompt Anthropic’s Claude 3.5 Sonnet v2 and Claude 4 Sonnet (with thinking enabled) with an example prompt: 
+ 
+ Alan, Bob, Colin, Dave and Emily are standing in a circle. Alan is on Bob's immediate left. Bob is on Colin's immediate left. Colin is on Dave's immediate left. Dave is on Emily's immediate left. Who is on Alan's immediate right? 
+ 
+The table shows responses from the two models. With extended thinking, the model is able to carefully reason through the problem and arrive at the correct answer. 
+ 
+  
+   
+   Model 
+   Extended Thinking 
+   Output 
+   Correct Answer 
+   
+   
+   Claude 3.5 Sonnet v2 
+   N/A 
+   Let me solve this step by step. First, let’s understand what we know: Alan is on Bob’s immediate left Bob is on Colin’s immediate left Colin is on Dave’s immediate left Dave is on Emily’s immediate left Starting with any person, let’s arrange them in order: If Dave is on Emily’s immediate left, then Emily is on Dave’s immediate right If Colin is on Dave’s immediate left, then Dave is on Colin’s immediate right If Bob is on Colin’s immediate left, then Colin is on Bob’s immediate right If Alan is on Bob’s immediate left, then Bob is on Alan’s immediate right So the order going clockwise is: Alan → Bob → Colin → Dave → Emily Since they’re in a circle, Emily must be next to Alan to complete the circle. Therefore, Emily is on Alan’s immediate right. The answer is Emily. 
+   No 
+   
+   
+   Claude 4 Sonnet 
+   Let me work through this step by step. We have 5 people standing in a circle: Alan, Bob, Colin, Dave, and Emily. Let me trace through the given information: Alan is on Bob’s immediate left Bob is on Colin’s immediate left Colin is on Dave’s immediate left Dave is on Emily’s immediate left Since they’re in a circle, I need to figure out the order. Let me start with one person and work around. If Alan is on Bob’s immediate left, that means going clockwise: Alan, then Bob. If Bob is on Colin’s immediate left, that means going clockwise: Bob, then Colin. If Colin is on Dave’s immediate left, that means going clockwise: Colin, then Dave. If Dave is on Emily’s immediate left, that means going clockwise: Dave, then Emily. So going clockwise around the circle: Alan → Bob → Colin → Dave → Emily But wait, since it’s a circle, Emily must connect back to someone. Since we have Alan → Bob → Colin → Dave → Emily, and this is a complete circle of 5 people, Emily must be followed by Alan. So the complete circle clockwise is: Alan → Bob → Colin → Dave → Emily → Alan This means Emily is on Alan’s immediate left, and therefore Alan’s immediate right would be… let me think about this carefully. If we go clockwise: Alan → Bob → Colin → Dave → Emily → (back to Alan) So Alan’s immediate right (going clockwise from Alan) is Bob. And Alan’s immediate left (going counter-clockwise from Alan) is Emily. Wait, let me double-check this by verifying the given conditions: Alan is on Bob’s immediate left ✓ (Alan comes right before Bob going clockwise) Bob is on Colin’s immediate left ✓ (Bob comes right before Colin going clockwise) Colin is on Dave’s immediate left ✓ (Colin comes right before Dave going clockwise) Dave is on Emily’s immediate left ✓ (Dave comes right before Emily going clockwise) I confirm Bob sits directly to Alan’s right in the circular arrangement. 
+   Looking at this step by step: Given information: Alan is on Bob’s immediate left Bob is on Colin’s immediate left Colin is on Dave’s immediate left Dave is on Emily’s immediate left Let me trace the clockwise order around the circle: Alan → Bob (since Alan is on Bob’s immediate left) Bob → Colin (since Bob is on Colin’s immediate left) Colin → Dave (since Colin is on Dave’s immediate left) Dave → Emily (since Dave is on Emily’s immediate left) Since they’re standing in a circle, Emily must connect back to complete the circle: Emily → Alan So the complete clockwise order is: Alan → Bob → Colin → Dave → Emily → Alan Therefore, Bob is on Alan’s immediate right. 
+   Yes 
+   
+  
+ 
+With extended thinking enabled, the API will, by default, return a summary of the model’s full thought process rather than the entire chain of reasoning. This is a safeguard designed to prevent misuse while still providing the full intelligence benefits. Developers should be aware that this can result in a chunky or delayed pattern in streaming responses and should account for this in their application’s user experience. 
+Anthropic’s Claude 4 models feature the interleaved thinking capability when using extended thinking with tools, allowing the model to perform intermediate reasoning between tool calls and develop more nuanced analytical conclusions based on the tool results received. To enable interleaved thinking for tool calling, add the additional parameter "anthropic_beta": ["interleaved-thinking-2025-05-14"] to additionalModelRequestFields in the Converse API request. 
+For more details on using extended thinking, refer to Extended thinking. 
+Robust evaluation is non-negotiable 
+You must verify that the new model performs as well as or better than the old one on your specific tasks. Create a curated set of prompts and expected outputs that are highly representative of your production traffic. This custom benchmark is far more valuable than reported benchmark scores. 
+Integrate this dataset into an automated evaluation pipeline. This pipeline should become part of your continuous integration and continuous delivery (CI/CD) process, serving as a permanent regression suite for future model or prompt changes. For tooling, teams can use built-in solutions like Amazon Bedrock evaluations or open source evaluation frameworks like RAGAS and DeepEval. 
+Managing integrated safety and governance 
+A model’s safety profile changes with each version. This must be tested as part of an integrated system. Never test the new model in isolation. Your migration test plan is only valid if it evaluates the new model with the exact same guardrail configuration you use in production, for example, Amazon Bedrock Guardrails. A new model’s conversational style might trigger existing guardrails in unexpected ways, leading to a spike in blocked responses. 
+Implementing safe deployment strategies 
+When deploying Anthropic’s Claude 4 Sonnet to production, implement a phased rollout strategy to minimize risks. Consider shadow testing to compare model performance using mirrored traffic without impacting users, then conduct A/B testing to measure impact on business KPIs. For the actual rollout, use either a canary release approach by gradually exposing a small percentage of users to the new model, or a blue/green deployment strategy that maintains parallel environments for instant rollback capability. This structured approach facilitates safe validation of the new model’s performance while maintaining business continuity. 
+Conclusion 
+By treating the transition from Anthropic’s Claude 3.5 Sonnet (v1 and v2) to Claude 4 Sonnet as a structured engineering project, you can de-risk the migration process and unlock significant benefits. Understanding the key model differences, adapting your prompts and API calls, and implementing a robust, automated evaluation strategy are the pillars of a successful upgrade. 
+This transition is an opportunity to maintain business continuity and enhance your application with next-generation capabilities. We encourage you to begin your analysis and testing today. 
+For more details, refer to Migrating to Claude 4 and Anthropic’s Claude in Amazon Bedrock, and reach out to us for migration-specific inquiries. 
+ 
+About the authors 
+Melanie Li, PhD, is a Senior Generative AI Specialist Solutions Architect at AWS based in Sydney, Australia, where her focus is on working with customers to build solutions using state-of-the-art AI/ML tools. She has been actively involved in multiple generative AI initiatives across APJ, harnessing the power of LLMs. Prior to joining AWS, Dr. Li held data science roles in the financial and retail industries. 
+Deepak Dalakoti, PhD, is a Deep Learning Architect at the Generative AI Innovation Centre in Sydney, Australia. With expertise in AI, he partners with clients to accelerate their generative AI adoption through customized, innovative solutions. Outside the world of AI, he enjoys exploring new activities and experiences. 
+Mahsa Paknezhad, PhD, is a Deep Learning Architect at the AWS Generative AI Innovation Center. With a focus on scalability and production readiness, Mahsa helps organizations across diverse industries harness advanced generative AI models to achieve meaningful business outcomes. Mahsa has a proven track record of successfully delivering projects specifically within the mining industry and the healthcare sector. 
+Nicholas Moore is a Solutions Architect at AWS, helping startups and businesses of all sizes turn ideas into reality. He specializes in cloud solutions with a focus on AI, analytics, and modern application development. 
+Derrick Choo is a Senior Solutions Architect at AWS who accelerates enterprise digital transformation through cloud adoption, AI/ML, and generative AI solutions. He specializes in full-stack development and ML, designing end-to-end solutions spanning frontend interfaces, IoT applications, data integrations, and ML models, with a particular focus on computer vision and multi-modal systems. 
+Sovik Kumar Nath is an AI/ML and Generative AI Senior Solutions Architect with AWS. He has extensive experience designing end-to-end ML and business analytics solutions in finance, operations, marketing, healthcare, supply chain management, and IoT. He has master’s degrees from the University of South Florida and University of Fribourg, Switzerland, and a bachelor’s degree from the Indian Institute of Technology, Kharagpur. Outside of work, Sovik enjoys traveling, taking ferry rides, and watching movies. 
+Saurabh Trikande is a Senior Product Manager for Amazon Bedrock and Amazon SageMaker Inference. He is passionate about working with customers and partners, motivated by the goal of democratizing AI. He focuses on core challenges related to deploying complex AI applications, inference with multi-tenant models, cost optimizations, and making the deployment of generative AI models more accessible. In his spare time, Saurabh enjoys hiking, learning about innovative technologies, following TechCrunch, and spending time with his family. 
+Gareth Jones is a Product Manager at Anthropic focused on the Claude API. His work includes collaboration with AWS on Amazon Bedrock to make Claude widely accessible to developers.
 
 ⸻
