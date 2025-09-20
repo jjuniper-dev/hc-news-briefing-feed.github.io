@@ -1,17 +1,17 @@
-✅ Morning News Briefing – September 19, 2025 10:43
+✅ Morning News Briefing – September 20, 2025 10:41
 
-📅 Date: 2025-09-19 10:43
+📅 Date: 2025-09-20 10:41
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions: Fog Patches, 6.0°C
-  Temperature: 6.0&deg;C Pressure: 102.0 kPa Visibility: 11 km Visibility : 11 km . Humidity: 95 % Dewpoint: 5.2&deg:C Wind: W 5 km/h Air Quality Health Index: n/a . Air Quality: "N/A" Air Quality health index: "Health Index" "Health
-• Friday: Mainly sunny. High 17.
-  A mix of sun and cloud this morning, becoming sunny this morning . Wind becoming northwest 20 km/h late this morning. High 17. UV index 6 or high, with a high of 6 or very high UV index of 6 in the morning's UVB (high or medium) UVB is 6 or medium . Forecast issued 5:00 AM EDT Friday 19 September 2025 .
-• Friday night: Clear. Low plus 1 with frost.
-  Clear. Clear. Low plus 1 with frost. Clear . Clear. Forecast issued 5:00 AM EDT Friday 19 September 2025 . Forecast forecast: Clear, low-freezing conditions. Clear and frosty weather. Clear skies. Clear weather. Low-freeze conditions. Cold temperatures: Clear and low lows: Clear . Frosty conditions: Clear. Frosty weather .
+• FROST ADVISORY, Pembroke
+  Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions . People in or around this area are advised to take necessary precautions . The weather is expected to change rapidly and be more severe in the years of 20 years of the 20-year-augmentary period . For confidential support call the Samaritans in the UK on 08457 90 90
+• Current Conditions:  -1.0°C
+  Temperature: -1.0&deg;C Pressure / Tendency: 102.8 kPa rising Humidity: 98 % Humidity : 98 % Wind Chill: -2 . Dewpoint: 1.3&deg:C Wind: WSW 2 km/h Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Saturday 20 September 2025
+• Saturday: Sunny. High 17.
+  Sunny. Sunny. High 17. UV index 6 or high . Sunny . High 17 . Sunny. Humulusulusulusiusiusiususiususususiusiususesusesusesusususesuses . Humulusiususisususisiusususesususesused to be high in the afternoon . Humususulusiususesusiususesuseusesusesuuses
 
 🌍 International News
 No updates.
@@ -20,36 +20,38 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Grocery prices have jumped up, and there's no relief in sight
-  Groceries saw their biggest jump in nearly three years last month, a worrisome sign for inflation-weary shoppers . Tariffs are contributing to higher prices for imported staples like bananas and coffee . Grocery prices have risen in the past three years, according to a recent survey of grocery stores in the U.S. and elsewhere in the world . Inflation is a concern for
-• Who offered Trump an exceedingly rare second state visit? Find out in the quiz
-  This week's quiz also features late-night hosts, Emmy losers, the pope, geometry and bears . It also features the pope and the pope as well as the pope . Check out the latest round of our weekly quiz to test your knowledge of the latest news from iReport.com . Back to the page you came from, comment on the latest episode of this week's Daily Mail
-• Six-man football is more than touchdowns and wins in Texas: 'It's like an identity'
-  In the state's rural pockets, schools with fewer than 105 students can opt to play six-man football . The game is a version of the game that takes fewer players and has its own special set of rules . In rural areas, schools can play six man football, which takes less than 105 players and takes fewer than a quarter of the players . Six man football is a special version
-• 20 years later, Israelis ask if the Gaza exit backfired — and if it's time to go back
-  Israel dismantled its settlements and withdrew from the Gaza Strip 20 years ago . Now, Israelis ask if it helped pave the way for the Oct. 7 attack . Some Israelis want to resettle there, and some want to move there . Israel dismantled settlements in Gaza in 1994, but some say it paved way for terror attacks in Gaza . Israel has been accused of inciting violence in Gaza since then
-• Lawsuit aims to force Trump administration to stop delaying student loan forgiveness
-  The American Federation of Teachers is seeking a preliminary injunction that would force the department to resume student loan forgiveness . The union is seeking an injunction to stop the program from being reinstated . The department has been criticized by the union for not allowing student loans to be paid off for more than a quarter of their loans . The lawsuit seeks an injunction from the Department of Education that would halt the program .
+• 5 lessons from a house that generates more energy than it uses
+  NPR's Jeff Brady visited the "Green Idea House" in Hermosa Beach, California . With higher utility bills, a house that produces more energy than it uses may be appealing . In southern California, one such house has existed for more than a decade . NPR's Brady visits the house to learn more about the house's energy efficiency and the energy efficiency of the home's solar panels .
+• Cyberattack disrupts check-in systems at major European airports
+  A cyberattack targeting check-in and boarding systems has disrupted air traffic and caused delays at several of Europe's major airports, officials said Saturday . The cyberattack targeted check-ins and board systems, disrupting air traffic at several major airports in Europe . Officials said the cyberattack has caused delays and disruption in air travel at Europe's largest airports . The attack is believed to have targeted check
+• How Gen Z-led protests put Nepal's 1st female prime minister in power
+  Nepal became the third South Asia country to have its government toppled by protesters in recent years . Generation Z youth led the movement, which was triggered and shaped by social media . Nepal is the third country in South Asia to fall under the rule of rule by protesters . The government was overthrown by protesters after a series of months of unrest in the country's capital, Nepal, in 2011 .
+• Suited to Lead: New exhibit highlights historical fashion choices of presidents
+  A virtual exhibit from the White House Historical Association showcases presidential fashions . The exhibit shows how presidents have used clothes to make a statement . A virtual exhibition from the historical association showcases the president's fashion choices . The White House is celebrating its 40th anniversary of the first lady's inauguration . The exhibition is on display at the National Museum of Fashion Week in New York City, New York
+• 'You'll have a long life': In DR Congo, maggots and caterpillars are prized food
+  In the Democratic Republic of Congo, wriggling maggots and hairy caterpillars aren't pests, they're prized food . They're sold by the tub, fried with chili, and celebrated for their nutrition . In the country, the larvae are prized food, sold by tubs, and fried in chili for their nutritional value . The larvae are a prized delicacy in the
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• OpenAI plugs ShadowLeak bug in ChatGPT that let miscreants raid inboxes
-  Radware says flaw enabled hidden email prompts to trick Deep Research agent into exfiltrating sensitive data . ChatGPT's research assistant sprung a leak – since patched – that let attackers steal Gmail secrets with just a single carefully crafted email . Radware: The flaw has since been patched and has been fixed . The vulnerability was fixed by Radware's software company, Radware, which
-• Charities warn Ofcom too soft on Online Safety Act violators
-  Charity chief raises concerns over robustness of Ofcom's enforcement of the legislation . Another blow for the legislation as Parliament continues to hear stakeholder views . UK ministers continue to quiz stakeholders over the effectiveness of the Online Safety Act . Ofcom has been criticised for not enforcing the controversial legislation in the past . The charity chief raised concerns over Ofcom enforcing the law, raising questions about Ofcom
-• British spreadsheet wizard will take mad skillz to Vegas after taking national Excel crown
-  The inaugural finals of the UK Excel Championship have come and gone, and there is now one spreadsheet wrangler to rule them all, at least in the United Kingdom . The first finals were held in London on Monday, January 1st, 1900, when Excel was introduced to the world on January 1, 1900 . The event took place in London, London and London, with a total of
-• Word to the wise: Don't tell your IT manager they're not in Excel
-  The Register's Friday frolic through your tales of delightful tech support encounters . Contractor sneakily fired after pointing out odious ignorance . On Call is a weekly feature of our tech support columnists on CNN Tech's tech-savvy Friday at 10 a.m. ET . Back to Mail Online home . Back To The Register home .Back to the page you came from . Back
-• MI6 reveals 'Silent Courier' dark web portal upgrade it hopes will help it recruit new spies
-  The UK's Secret Intelligence Service, aka MI6, has created a dark web portal called “Silent Courier” that it hopes would-be foreign informants will find a suitably secure means of sharing secrets . The UK’s Secret . Intelligence Service hopes to find a suitable secure means to share secrets with spooks over Tor or VPN without blowing your cover . The �
+• Britain jumps into bed with Palantir in £1.5B defense pact
+  UK has struck a defense deal with US spy-tech biz Palantir, which the government says will unlock £1.5 billion ($2 billion) of investment in Britain . Arrangement follows big tech tie-ins claiming to offer £31B investment . UK government says the deal will unlock $2 billion of investment from US companies in the UK in the coming years .
+• Trump admin says tech companies are abusing H-1B visas, slaps $100k a year to allow entry
+  President Trump signed a presidential proclamation to sharply raise the cost of employing H-1B workers . It will hit outsourcing companies hardest . Employers must make a $100,000 payment with the petition to bring in H-IB workers to the U.S. President Obama signed the proclamation on Friday . It is expected to hurt outsourcing companies hard-hit by the new rule, which
+• Zuck has the power! Meta applies to sell excess electricity
+  Meta is looking at ways to offload excess energy capacity by selling it on the wholesale market . The first of several gigawatt-scale datacenters due to come online next year . AI model training and serving require vast quantities of power, but not necessarily all at once . With new electricity sources, the company will have some juice left over AI models training and . serving, but
+• ChatGPT joins human league, now solves CAPTCHAs for the right prompt
+  ChatGPT can be tricked via cleverly worded prompts to violate its own policies and solve CAPTCHA puzzles, researchers say . Could this bot-prevention technique now be obsolete? ChatgPT can also be tricked by cleverlyworded prompts . Researchers say this could make this human-proving security mechanism obsolete . ChatGpt can also potentially make it obsolete, researchers
+• Sorry, but DeepSeek didn’t really train its flagship model for $294,000
+  Training costs detailed in R1 training report don't include 2.79 million GPU hours that laid its foundation . Chinese AI darling DeepSeek's now infamous R1 research report was published in the Journal Nature this week . New information on the compute resources required to train the model was also revealed in the journal Nature . Unfortunately, some people got the wrong idea about just how expensive it was
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• Hotly anticipated US vaccine meeting ends with confusion — and a few decisions
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Sleep and circadian rhythms in cardiovascular resilience: mechanisms, implications, and a Roadmap for research and interventions
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Comparison of Three Anonymization Tools for a Health Fitness Study
@@ -57,8 +59,6 @@ No updates.
 • My career switch from psychologist to open-science advocate
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • A national cohort study of long-term opioid prescription and sociodemographic and health care-related risk factors
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Prevalence and risk factors of viral hepatitis and HIV among people experiencing homelessness in Germany based on a nationwide study
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,8 +68,150 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• The Download: the CDC’s vaccine chaos
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+A pivotal meeting on vaccine guidance is underway—and former CDC leaders are alarmed
+
+
+
+This week has been an eventful one for America’s public health agency. Two former leaders of the US Centers for Disease Control and Prevention explained why they suddenly departed in a Senate hearing. They also described how CDC employees are being instructed to turn their backs on scientific evidence.They painted a picture of a health agency in turmoil—and at risk of harming the people it is meant to serve. And, just hours afterwards, a panel of CDC advisers voted to stop recommending the MMRV vaccine for children under four. Read the full story.
+
+
+
+—Jessica Hamzelou
+
+
+
+This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, sign up here.
+
+
+
+If you’re interested in reading more about US vaccine policy, check out:
+
+
+
++ Read our profile of Jim O’Neill, the deputy health secretary and current acting CDC director.+ Why US federal health agencies are abandoning mRNA vaccines. Read the full story.+ Why childhood vaccines are a public health success story. No vaccine is perfect, but these medicines are still saving millions of lives. Read the full story.&nbsp;
+
+
+
++ The FDA plans to limit access to covid vaccines. Here’s why that’s not all bad.
+
+
+
+
+
+
+
+Meet Sneha Goenka: our 2025 Innovator of the Year
+
+
+
+Every year, MIT Technology Review selects one individual whose work we admire to recognize as Innovator of the Year. For 2025, we chose Sneha Goenka, who designed the computations behind the world’s fastest whole-genome sequencing method.&nbsp;
+
+
+
+Thanks to her work, physicians can now sequence a patient’s genome and diagnose a genetic condition in less than eight hours—an achievement that could transform medical care.
+
+
+
+Register here to join an exclusive subscriber-only Roundtable conversation with Goenka, Leilani Battle, assistant professor at the University of Washington, and our editor in chief Mat Honan at 1pm ET next Tuesday September 23.
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 The CDC voted against giving some children a combined vaccine If accepted, the agency will stop recommending the MMRV vaccine for children under 4. (CNN)+ Its vote on hepatitis B vaccines for newborns is expected today too. (The Atlantic $)+ RFK JR’s allies are closing ranks around him. (Politico)2 Russia is using Charlie Kirk’s murder to sow division in the USIt&#8217;s using the momentum to push pro-Kremlin narratives and divide Americans. (WP $)+ The complicated phenomenon of political violence. (Vox)+ We don’t know what being ‘terminally online’ means any more. (Wired $)3 Nvidia will invest $5 billion in IntelThe partnership allows Intel to develop custom CPUs to work with Nvidia’s chips. (WSJ $)+ It’s a much-needed financial shot in the arm for Intel. (WP $)+ It’s also great news for Intel’s Asian suppliers. (Bloomberg $)
+
+
+
+4 Medical AI tools downplay symptoms in women and ethnic minoritiesExperts fear that LLM-powered tools could lead to worse health outcomes. (FT $)+ Artificial intelligence is infiltrating health care. We shouldn’t let it make all the decisions. (MIT Technology Review)
+
+
+
+5 AI browsers have hit the mainstreamWhere’s the off switch? (Wired $)+ AI means the end of internet search as we’ve known it. (MIT Technology Review)
+
+
+
+6 China has entered the global brain interface raceIts ambitious government-backed startups are primed to challenge Neuralink. (Bloomberg $)+ This patient’s Neuralink brain implant gets a boost from generative AI. (MIT Technology Review)
+
+
+
+7 What makes humans unique in the age of AI?Defining the distinctions between us and machines isn’t as easy as it used to be. (New Yorker $)+ How AI can help supercharge creativity. (MIT Technology Review)
+
+
+
+8 This ship helps to reconnect Africa’s internetAI needs high speed internet, which needs undersea cables. (Rest of World)+ What Africa needs to do to become a major AI player. (MIT Technology Review)
+
+
+
+9 Hundreds of people queued in Beijing to buy Apple’s new iPhoneDesire for Apple products in the country appears to be alive and well. (Reuters)
+
+
+
+10 San Francisco’s idea of a great night out? A robot cage fightIt’s certainly one way to have a good time. (NYT $)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+&#8220;Get off the iPad!&#8221;
+
+
+
+—An irate air traffic controller tells the pilots of a Spirit Airlines flight to pay attention to avoid potentially colliding with Donald Trump’s Air Force One aircraft, Ars Technica reports.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+We used to get excited about technology. What happened?As a philosopher who studies AI and data, Shannon Vallor’s Twitter feed is always filled with the latest tech news. Increasingly, she’s realized that the constant stream of information is no longer inspiring joy, but a sense of resignation.Joy is missing from our lives, and from our technology. Its absence is feeding a growing unease being voiced by many who work in tech or study it. Fixing it depends on understanding how and why the priorities in our tech ecosystem have changed. Read the full story.
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
+
+
+
++ Would you go about your daily business with a soft toy on your shoulder? This intrepid reporter gave it a go.+ How dying dinosaurs shaped the landscapes around us.+ I can’t believe I missed Pythagorean Theorem day earlier this week.+ Inside the rise in popularity of the no-water yard.
 • A pivotal meeting on vaccine guidance is underway—and former CDC leaders are alarmed
-  This week has been an eventful one for America’s public health agency. Two former leaders of the US Centers for Disease Control and Prevention explained the reasons for their sudden departures from the agency in a Senate hearing. And they described how CDC employees are being instructed to turn their backs on scientific evidence.
+  Update Friday 6am ET: The advisory CDC panel recommended that children under the age of 4 do not receive the combined MMRV vaccine (for measles, mumps, rubella, and varicella) but instead receive two separate shots.
+
+
+
+This week has been an eventful one for America’s public health agency. Two former leaders of the US Centers for Disease Control and Prevention explained the reasons for their sudden departures from the agency in a Senate hearing. And they described how CDC employees are being instructed to turn their backs on scientific evidence.
 
 
 
@@ -95,7 +237,7 @@ As we’ve noted before, RFK Jr. has long been a prominent critic of vaccines. H
 
 
 
-Still, he oversaw the recruitment of Monarez—who does not share those beliefs—to lead the agency. When she was sworn in on July 31, Monarez, who is a microbiologist and immunologist, had already been serving as acting director of the agency. She had held prominent positions at other federal agencies and departments too, including the Advanced Research Projects Agency for Health (ARPA-H) and the Biomedical Advanced Research and Development Authority (BARDA). Kennedy described her as “a public health expert with unimpeachable scientific credentials.”
+Still, he oversaw the recruitment of Monarez—who does not share those beliefs—to lead the agency. When she was sworn in on July 31, Monarez, who is a microbiologist and immunologist, had already been serving as acting director of the agency. She had held prominent positions at other federal agencies and departments too, including the Advanced Research Projects Agency for Health (ARPA-H) and the Biomedical Advanced Research and Development Authority (BARDA). Kennedy&nbsp;described her as “a public health expert with unimpeachable scientific credentials.”
 
 
 
@@ -103,7 +245,7 @@ His opinion seems to have changed somewhat since then. Just 29 days after Monare
 
 
 
-On August 25, Kennedy asked Monarez to do two things, she said. First, he wanted her to commit to firing scientists at the agency. And second, he wanted her to “pre-commit” to approve vaccine recommendations made by the agency’s Advisory Committee on Immunization Practices (ACIP), regardless of whether there was any scientific evidence to support those recommendations, she said. “He just wanted blanket approval,” she said during her testimony. 
+On August 25, Kennedy asked Monarez to do two things, she said. First, he wanted her to commit to firing scientists at the agency. And second, he wanted her to “pre-commit” to approve vaccine recommendations made by the agency’s Advisory Committee on Immunization Practices (ACIP), regardless of whether there was any scientific evidence to support those recommendations, she said. “He just wanted blanket approval,” she said during her testimony.&nbsp;
 
 
 
@@ -121,15 +263,15 @@ Those vaccine recommendations are currently under discussion, and scientists lik
 
 
 
-“A clean sweep is needed to reestablish public confidence in vaccine science,” Kennedy wrote in a piece for the Wall Street Journal at the time. He went on to replace those individuals with eight new members, some of whom have been prominent vaccine critics and have spread misinformation about vaccines. One later withdrew.
+“A clean sweep is needed to reestablish public confidence in vaccine science,” Kennedy wrote in&nbsp;a piece for the Wall Street Journal at the time. He went on to replace those individuals with eight new members, some of whom have been prominent vaccine critics and&nbsp;have spread misinformation about vaccines. One later withdrew.
 
 
 
-That new panel met two weeks later. The meeting included a presentation about thimerosal—a chemical that Kennedy has incorrectly linked to autism, and which is no longer included in vaccines in the US—and a proposal to recommend that the MMRV vaccine (for measles, mumps, rubella, and varicella) not be offered to children under the age of four.
+That new panel met two weeks later. The&nbsp;meeting included a presentation about thimerosal—a chemical that Kennedy has incorrectly linked to autism, and which is no longer included in vaccines in the US—and a proposal to recommend that the MMRV vaccine (for measles, mumps, rubella, and varicella) not be offered to children under the age of four.
 
 
 
-Earlier this week, five new committee members were named. They include individuals who have advocated against vaccine mandates and who have argued that mRNA-based covid vaccines should be removed from the market.
+Earlier this week,&nbsp;five new committee members were named. They include&nbsp;individuals who have advocated against vaccine mandates and who have argued that mRNA-based covid vaccines should be removed from the market.
 
 
 
@@ -145,7 +287,7 @@ That job now goes to Jim O’Neill, the deputy health secretary and acting CDC d
 
 
 
-We don’t yet know what those recommendations will be. But if they are approved, they could reshape access to vaccines for children and vulnerable people in the US. As six former chairs of the committee wrote for STAT: “ACIP is directly linked to the Vaccines for Children program, which provides vaccines without cost to approximately 50% of children in the US, and the Affordable Care Act that requires insurance coverage for ACIP-recommended vaccines to approximately 150 million people in the US.”
+We don’t yet know what those recommendations will be. But if they are approved, they could reshape access to vaccines for children and vulnerable people in the US. As&nbsp;six former chairs of the committee wrote for STAT: “ACIP is directly linked to the Vaccines for Children program, which provides vaccines without cost to approximately 50% of children in the US, and the Affordable Care Act that requires insurance coverage for ACIP-recommended vaccines to approximately 150 million people in the US.”
 
 
 
@@ -153,7 +295,7 @@ Drops in vaccine uptake have already contributed to this year’s measles outbre
 
 
 
-This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, sign up here.
+This article first appeared in The Checkup,&nbsp;MIT Technology Review’s&nbsp;weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first,&nbsp;sign up here.
 • The Download: AI-designed viruses, and bad news for the hydrogen industry
   This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
 
@@ -382,148 +524,6 @@ Despite that, Jason Kelly, the CEO of Ginkgo Bioworks, a cell-engineering compan
 
 
  “This would be a nation-scale scientific milestone, as cells are the building blocks of all life,” says Kelly. “The US should make sure we get to it first.”
-• The Download: measuring returns on R&D, and AI’s creative potential
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
-
-
-
-How to measure the returns on R&amp;D spending
-
-
-
-Given the draconian cuts to US federal funding for science, it’s worth asking some hard-nosed money questions: How much should we be spending on R&amp;D? How much value do we get out of such investments, anyway?&nbsp;
-
-
-
-To answer that, in several recent papers, economists have approached this issue in clever new ways.&nbsp; And, though they ask slightly different questions, their conclusions share a bottom line: R&amp;D is, in fact, one of the better long-term investments that the government can make. Read the full story.
-
-
-
-—David Rotman
-
-
-
-This article is part of MIT Technology Review Explains, our series untangling the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here.
-
-
-
-If you’re interested in reading more about America’s economic situation, check out:
-
-
-
-+ Sweeping tariffs could threaten the US manufacturing rebound—and they could stunt its ability to make tomorrow&#8217;s breakthroughs. Read the full story.+ The surprising barrier that keeps us from building the housing we need. Read the full story.+ How to fine-tune AI for prosperity.+ People are worried that AI will take everyone’s jobs. We’ve been here before.
-
-
-
-
-
-
-
-MIT Technology Review Narrated: How AI can help supercharge creativity
-
-
-
-Forget one-click creativity. Artists and musicians are finding new ways to make art using AI, by injecting friction, challenge, and serendipity into the process.
-
-
-
-This is our latest story to be turned into a MIT Technology Review Narrated podcast, which we’re publishing each week on Spotify and Apple Podcasts. Just navigate to MIT Technology Review Narrated on either platform, and follow us to get all our new content as it’s released.
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 TikTok’s buyers may include Oracle, Silver Lake and Andreessen Horowitz They would control around 80% of the business, with Chinese shareholders holding the rest. (WSJ $)+ We still have plenty of unanswered questions about the deal. (Bloomberg $)+ It was brokered in Madrid. (The Guardian)
-
-
-
-2 OpenAI is working on a version of ChatGPT for teenagersAnd it’ll use age-prediction tech to bar them from the standard version. (Axios)+ The move comes as the US Senate is hearing evidence about chatbot harms. (404 Media)+ The looming crackdown on AI companionship. (MIT Technology Review)3 China has banned tech firms from buying Nvidia’s chipsIn an effort to boost its own companies. (FT $)+ Alibaba and ByteDance have been instructed to terminate orders. (Bloomberg $)
-
-
-
-4 Anthropic refuses to let US law enforcement use its modelsMuch to the White House’s chagrin. (Semafor)5 Tesla’s doors may trap passengers inside its carsVehicle safety regulators are investigating after people reported being forced to break windows to retrieve children. (NYT $)  
-
-
-
-6 How AI companies train their models to do white-collar jobs  After hitting a wall, they’re throwing money at the problem. (The Information $)+ New training ‘environments’ are a hot AI topic right now.  (TechCrunch)+ How AI is shaking up corporate hierarchies. (WSJ $)
-
-
-
-7 Inside Damascus’ bid to become a tech hubThe city’s tech industry has been embraced by its new government. (Rest of World)
-
-
-
-8 A supply shipment to the ISS has been delayedNASA is blaming engine trouble. (Ars Technica)+ The great commercial takeover of low Earth orbit. (MIT Technology Review)
-
-
-
-9 Our darkest nights are getting lighterArtificial light is ruining our chances of seeing starry skies. (IEEE Spectrum)+ Bright LEDs could spell the end of dark skies. (MIT Technology Review)
-
-
-
-10 You can now book a safari through Uber Expedition into Nairobi National Park, anyone? (Bloomberg $)
-
-
-
-
-
-
-
-Quote of the day
-
-
-
-“What began as a homework helper gradually turned itself into a confidant and then a suicide coach.”
-
-
-
-—Matthew Raine, whose 16-year old son Adam died by suicide after repeatedly sharing his intentions with ChatGPT, gives evidence to a Senate Judiciary subcommittee investigating chatbot dangers, the Washington Post reports.
-
-
-
-
-
-
-
-One more thing
-
-
-
-
-
-
-
-AI is coming for music, tooWhile large language models that generate text have exploded in the last three years, a different type of AI, based on what are called diffusion models, is having an unprecedented impact on creative domains.By transforming random noise into coherent patterns, diffusion models can generate new images, videos, or speech, guided by text prompts or other input data. The best ones can create outputs indistinguishable from the work of peopleNow these models are marching into a creative field that is arguably more vulnerable to disruption than any other: music. Read the full story.
-
-
-
-—James O&#8217;Donnell
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+ Food, in all shapes and forms, is bigger than ever. So why aren’t we watching cooking shows any more?+ Kate Bush’s Hounds of Love turns 40 this year, but still sounds as fresh as ever.+ Here’s how to maximize your chances of booking a bargain flight.+ Robert Redford, you were one of a kind.
 
 🔒 Cybersecurity & Privacy
 • Self-Replicating Worm Hits 180+ Software Packages
@@ -553,6 +553,484 @@ Nicholas Weaver is a researcher with the International Computer Science Institut
 No updates.
 
 🏢 Corporate AI
+• Move your AI agents from proof of concept to production with Amazon Bedrock AgentCore
+  Building an AI agent that can handle a real-life use case in production is a complex undertaking. Although creating a proof of concept&nbsp;demonstrates the potential, moving to production requires addressing scalability, security, observability, and operational concerns that don’t surface in development environments. 
+This post explores how Amazon Bedrock AgentCore helps you transition your agentic applications from experimental proof of concept to production-ready systems. We follow the journey of a customer support agent that evolves from a simple local prototype to a comprehensive, enterprise-grade solution capable of handling multiple concurrent users while maintaining security and performance standards. 
+Amazon Bedrock AgentCore is a comprehensive suite of services designed to help you build, deploy, and scale agentic AI applications. If you’re new to AgentCore, we recommend exploring our existing deep-dive posts on individual services: AgentCore Runtime for secure agent deployment and scaling, AgentCore Gateway for enterprise tool development, AgentCore Identity for securing agentic AI at scale, AgentCore Memory for building context-aware agents, AgentCore Code Interpreter for code execution, AgentCore Browser Tool for web interaction, and AgentCore Observability for transparency on your agent behavior. This post demonstrates how these services work together in a real-world scenario. 
+The customer support agent journey 
+Customer support represents one of the most common and compelling use cases for agentic AI. Modern businesses handle thousands of customer inquiries daily, ranging from simple policy questions to complex technical troubleshooting. Traditional approaches often fall short: rule-based chatbots frustrate customers with rigid responses, and human-only support teams struggle with scalability and consistency. An intelligent customer support agent needs to seamlessly handle diverse scenarios: managing customer orders and accounts, looking up return policies, searching product catalogs, troubleshooting technical issues through web research, and remembering customer preferences across multiple interactions. Most importantly, it must do all this while maintaining the security and reliability standards expected in enterprise environments. Consider the typical evolution path many organizations follow when building such agents: 
+ 
+ The proof of concept stage – Teams start with a simple local prototype that demonstrates core capabilities, such as a basic agent that can answer policy questions and search for products. This works well for demos but lacks the robustness needed for real customer interactions. 
+ The reality check – As soon as you try to scale beyond a few test users, challenges emerge. The agent forgets previous conversations, tools become unreliable under load, there’s no way to monitor performance, and security becomes a paramount concern. 
+ The production challenge – Moving to production requires addressing session management, secure tool sharing, observability, authentication, and building interfaces that customers actually want to use. Many promising proofs of concept stall at this stage due to the complexity of these requirements. 
+ 
+In this post, we address each challenge systematically. We start with a prototype agent equipped with three essential tools: return policy lookup, product information search, and web search for troubleshooting. From there, we add the capabilities needed for production deployment: persistent memory for conversation continuity and a hyper-personalized experience, centralized tool management for reliability and security, full observability for monitoring and debugging, and finally a customer-facing web interface. This progression mirrors the real-world path from proof of concept to production, demonstrating how Amazon Bedrock AgentCore services work together to solve the operational challenges that emerge as your agentic applications mature. For simplification and demonstration purposes, we consider a single-agent architecture. In real-life use cases, customer support agents are often created as multi-agent architectures and those scenarios are also supported by Amazon Bedrock AgentCore services. 
+Solution overview 
+Every production system starts with a proof of concept, and our customer support agent is no exception. In this first phase, we build a functional prototype that demonstrates the core capabilities needed for customer support. In this case, we use Strands Agents, an open source agent framework, to build the proof of concept and Anthropic’s Claude 3.7 Sonnet on Amazon Bedrock as the large language model (LLM) powering our agent. For your application, you can use another agent framework and model of your choice. 
+Agents rely on tools to take actions and interact with live systems. Several tools are used in customer support agents, but to keep our example simple, we focus on three core capabilities to handle the most common customer inquiries: 
+ 
+ Return policy lookup – Customers frequently ask about return windows, conditions, and processes. Our tool provides structured policy information based on product categories, covering everything from return timeframes to refund processing and shipping policies. 
+ Product information retrieval – Technical specifications, warranty details, and compatibility information are essential for both pre-purchase questions and troubleshooting. This tool serves as a bridge to your product catalog, delivering formatted technical details that customers can understand. 
+ Web search for troubleshooting – Complex technical issues often require the latest solutions or community-generated fixes not found in internal documentation. Web search capability allows the agent to access the web for current troubleshooting guides and technical solutions in real time. 
+ 
+The tools implementation and the end-to-end code for this use case are available in our GitHub repository. In this post, we focus on the main code that connects with Amazon Bedrock AgentCore, but you can follow the end-to-end journey in the repository. 
+Create the agent 
+With the tools available, let’s create the agent. The architecture for our proof of concept will look like the following diagram. 
+ 
+You can find the end-to-end code for this post on the GitHub repository. For simplicity, we show only the essential parts for our end-to-end code here: 
+ 
+ from strands import Agent
+from strands.models import BedrockModel
+
+@tool
+def get_return_policy(product_category: str) -&gt; str:
+&nbsp;&nbsp; &nbsp;"""Get return policy information for a specific product category."""
+&nbsp;&nbsp; &nbsp;# Returns structured policy info: windows, conditions, processes, refunds
+&nbsp; &nbsp; # check github for full code
+&nbsp;&nbsp; &nbsp;return&nbsp;{"return_window":&nbsp;"10 days",&nbsp;"conditions":&nbsp;""}
+&nbsp;&nbsp;&nbsp;&nbsp;
+@tool &nbsp;
+def get_product_info(product_type: str) -&gt; str:
+&nbsp;&nbsp; &nbsp;"""Get detailed technical specifications and information for electronics products."""
+&nbsp;&nbsp; &nbsp;# Returns warranty, specs, features, compatibility details
+&nbsp;&nbsp; &nbsp;# check github for full code
+&nbsp; &nbsp; return&nbsp;{"product":&nbsp;"ThinkPad X1 Carbon",&nbsp;"info":&nbsp;"ThinkPad X1 Carbon info"}
+&nbsp;&nbsp;&nbsp;&nbsp;
+@tool
+def web_search(keywords: str, region: str = "us-en", max_results: int = 5) -&gt; str:
+&nbsp;&nbsp; &nbsp;"""Search the web for updated troubleshooting information."""
+&nbsp;&nbsp; &nbsp;# Provides access to current technical solutions and guides
+&nbsp;&nbsp;&nbsp;&nbsp;# check github for full code
+&nbsp; &nbsp; return&nbsp;"results from websearch"
+&nbsp;&nbsp;&nbsp;&nbsp;
+# Initialize the Bedrock model
+model = BedrockModel(
+&nbsp;&nbsp; &nbsp;model_id="us.anthropic.claude-3-7-sonnet-20250219-v1:0",
+&nbsp;&nbsp; &nbsp;temperature=0.3
+)
+
+# Create the customer support agent
+agent = Agent(
+&nbsp;&nbsp; &nbsp;model=model,
+&nbsp;&nbsp; &nbsp;tools=[
+&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;get_product_info, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;get_return_policy, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;web_search
+&nbsp;&nbsp;&nbsp;&nbsp;],
+&nbsp;&nbsp; &nbsp;system_prompt="""You are a helpful customer support assistant for an electronics company.
+&nbsp;&nbsp; &nbsp;Use the appropriate tools to provide accurate information and always offer additional help."""
+) 
+ 
+Test the proof of concept 
+When we test our prototype with realistic customer queries, the agent demonstrates the correct tool selection and interaction with real-world systems: 
+ 
+ # Return policy inquiry
+response = agent("What's the return policy for my ThinkPad X1 Carbon?")
+# Agent correctly uses get_return_policy with "laptops" category
+
+# Technical troubleshooting &nbsp;
+response = agent("My iPhone 14 heats up, how do I fix it?")
+# Agent uses web_search to find current troubleshooting solutions 
+ 
+The agent works well for these individual queries, correctly mapping laptop inquiries to return policy lookups and complex technical issues to web search, providing comprehensive and actionable responses. 
+The proof of concept reality check 
+Our proof of concept successfully demonstrates that an agent can handle diverse customer support scenarios using the right combination of tools and reasoning. The agent runs perfectly on your local machine and handles queries correctly. However, this is where the proof of concept gap becomes obvious. The tools are defined as local functions in your agent code, the agent responds quickly, and everything seems production-ready. But several critical limitations become apparent the moment you think beyond single-user testing: 
+ 
+ Memory loss between sessions – If you restart your notebook or application, the agent completely forgets previous conversations. A customer who was discussing a laptop return yesterday would need to start from scratch today, re-explaining their entire situation. This isn’t just inconvenient—it’s a poor customer experience that breaks the conversational flow that makes AI agents valuable. 
+ Single customer limitation – Your current agent can only handle one conversation at a time. If two customers try to use your support system simultaneously, their conversations would interfere with each other, or worse, one customer might see another’s conversation history. There’s no mechanism to maintain separate conversation context for different users. 
+ Tools embedded in code – Your tools are defined directly in the agent code. This means: 
+   
+   You can’t reuse these tools across different agents (sales agent, technical support agent, and so on). 
+   Updating a tool requires changing the agent code and redeploying everything. 
+   Different teams can’t maintain different tools independently. 
+    
+ No production infrastructure – The agent runs locally with no consideration for scalability, security, monitoring, and reliability. 
+ 
+These fundamental architectural barriers can prevent real customer deployment. Agent building teams can take months to address these issues, which delays the time to value from their work and adds significant costs to the application. This is where Amazon Bedrock AgentCore services become essential. Rather than spending months building these production capabilities from scratch, Amazon Bedrock AgentCore provides managed services that address each gap systematically. 
+Let’s begin our journey to production by solving the memory problem first, transforming our agent from one that forgets every conversation into one that remembers customers across conversations and can hyper-personalize conversations using Amazon Bedrock AgentCore Memory. 
+Add persistent memory for hyper-personalized agents 
+The first major limitation we identified in our proof of concept was memory loss—our agent forgot everything between sessions, forcing customers to repeat their context every time. This “goldfish agent” behavior breaks the conversational experience that makes AI agents valuable in the first place. 
+Amazon Bedrock AgentCore Memory solves this by providing managed, persistent memory that operates on two complementary levels: 
+ 
+ Short-term memory – Immediate conversation context and session-based information for continuity within interactions 
+ Long-term memory – Persistent information extracted across multiple conversations, including customer preferences, facts, and behavioral patterns 
+ 
+After adding Amazon Bedrock AgentCore Memory to our customer support agent, our new architecture will look like the following diagram. 
+ 
+Install dependencies 
+Before we start, let’s install our dependencies: boto3, the AgentCore SDK, and the AgentCore Starter Toolkit SDK. Those will help us quickly add Amazon Bedrock AgentCore capabilities to our agent proof of concept. See the following code: 
+ 
+ pip install boto3 bedrock-agentcore bedrock-agentcore-starter-toolkit 
+ 
+Create the memory resources 
+Amazon Bedrock AgentCore Memory uses configurable strategies to determine what information to extract and store. For our customer support use case, we use two complementary strategies: 
+ 
+ USER_PREFERENCE – Automatically extracts and stores customer preferences like “prefers ThinkPad laptops,” “uses Linux,” or “plays competitive FPS games.” This enables personalized recommendations across conversations. 
+ SEMANTIC – Captures factual information using vector embeddings, such as “customer has MacBook Pro order #MB-78432” or “reported overheating issues during video editing.” This provides relevant context for troubleshooting. 
+ 
+See the following code: 
+ 
+ from bedrock_agentcore.memory import MemoryClient
+from bedrock_agentcore.memory.constants import StrategyType
+
+memory_client = MemoryClient(region_name=region)
+
+strategies = [
+&nbsp;&nbsp; &nbsp;{
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;StrategyType.USER_PREFERENCE.value: {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"name": "CustomerPreferences",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"description": "Captures customer preferences and behavior",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"namespaces": ["support/customer/{actorId}/preferences"],
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
+&nbsp;&nbsp; &nbsp;},
+&nbsp;&nbsp; &nbsp;{
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;StrategyType.SEMANTIC.value: {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"name": "CustomerSupportSemantic", 
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"description": "Stores facts from conversations",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"namespaces": ["support/customer/{actorId}/semantic"],
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
+&nbsp;&nbsp; &nbsp;},
+]
+
+# Create memory resource with both strategies
+response = memory_client.create_memory_and_wait(
+&nbsp;&nbsp; &nbsp;name="CustomerSupportMemory",
+&nbsp;&nbsp; &nbsp;description="Customer support agent memory",
+&nbsp;&nbsp; &nbsp;strategies=strategies,
+&nbsp;&nbsp; &nbsp;event_expiry_days=90,
+) 
+ 
+Integrate with Strands Agents hooks 
+The key to making memory work seamlessly is automation—customers shouldn’t need to think about it, and agents shouldn’t require manual memory management. Strands Agents provides a powerful hook system that lets you intercept agent lifecycle events and handle memory operations automatically. The hook system enables both built-in components and user code to react to or modify agent behavior through strongly-typed event callbacks. For our use case, we create CustomerSupportMemoryHooks to retrieve the customer context and save the support interactions: 
+ 
+ MessageAddedEvent hook – Triggered when customers send messages, this hook automatically retrieves relevant memory context and injects it into the query. The agent receives both the customer’s question and relevant historical context without manual intervention. 
+ AfterInvocationEvent hook – Triggered after agent responses, this hook automatically saves the interaction to memory. The conversation becomes part of the customer’s persistent history immediately. 
+ 
+See the following code: 
+ 
+ class CustomerSupportMemoryHooks(HookProvider):
+&nbsp;&nbsp; &nbsp;def retrieve_customer_context(self, event: MessageAddedEvent):
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"""Inject customer context before processing queries"""
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;user_query = event.agent.messages[-1]["content"][0]["text"]
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;# Retrieve relevant memories from both strategies
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;all_context = []
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;for context_type, namespace in self.namespaces.items():
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;memories = self.client.retrieve_memories(
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;memory_id=self.memory_id,
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;namespace=namespace.format(actorId=self.actor_id),
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;query=user_query,
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;top_k=3,
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;)
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# Format and add to context
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;for memory in memories:
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;if memory.get("content", {}).get("text"):
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;all_context.append(f"[{context_type.upper()}] {memory['content']['text']}")
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;# Inject context into the user query
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;if all_context:
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;context_text = "\n".join(all_context)
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;original_text = event.agent.messages[-1]["content"][0]["text"]
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;event.agent.messages[-1]["content"][0]["text"] = f"Customer Context:\n{context_text}\n\n{original_text}"
+
+&nbsp;&nbsp; &nbsp;def save_support_interaction(self, event: AfterInvocationEvent):
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"""Save interactions after agent responses"""
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Get last customer query and agent response check github for implementation
+&nbsp; &nbsp; &nbsp; &nbsp; customer_query&nbsp;=&nbsp;"This is a sample query"
+&nbsp; &nbsp; &nbsp; &nbsp; agent_response&nbsp;=&nbsp;"LLM gave a sample response"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;# Extract customer query and agent response
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;# Save to memory for future retrieval
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;self.client.create_event(
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;memory_id=self.memory_id,
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;actor_id=self.actor_id,
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;session_id=self.session_id,
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;messages=[(customer_query, "USER"), (agent_response, "ASSISTANT")]
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;) 
+ 
+In this code, we can see that our hooks are the ones interacting with Amazon Bedrock AgentCore Memory to save and retrieve memory events. 
+Integrate memory with the agent 
+Adding memory to our existing agent requires minimal code changes; you can simply instantiate the memory hooks and pass them to the agent constructor. The agent code then only needs to connect with the memory hooks to use the full power of Amazon Bedrock AgentCore Memory. We will create a new hook for each session, which will help us handle different customer interactions. See the following code: 
+ 
+ # Create memory hooks for this customer session
+memory_hooks = CustomerSupportMemoryHooks(
+&nbsp;&nbsp; &nbsp;memory_id=memory_id, 
+&nbsp;&nbsp; &nbsp;client=memory_client, 
+&nbsp;&nbsp; &nbsp;actor_id=customer_id, 
+&nbsp;&nbsp; &nbsp;session_id=session_id
+)
+
+# Create agent with memory capabilities
+agent = Agent(
+&nbsp;&nbsp; &nbsp;model=model,
+
+&nbsp;&nbsp; &nbsp;tools=[get_product_info, get_return_policy, web_search],
+&nbsp;&nbsp; &nbsp;system_prompt=SYSTEM_PROMPT
+) 
+ 
+Test the memory in action 
+Let’s see how memory transforms the customer experience. When we invoke the agent, it uses the memory from previous interactions to show customer interests in gaming headphones, ThinkPad laptops, and MacBook thermal issues: 
+ 
+ # Test personalized recommendations
+response = agent("Which headphones would you recommend?")
+# Agent remembers: "prefers low latency for competitive FPS games"
+# Response includes gaming-focused recommendations
+
+# Test preference recall
+response = agent("What is my preferred laptop brand?") &nbsp;
+# Agent remembers: "prefers ThinkPad models" and "needs Linux compatibility"
+# Response acknowledges ThinkPad preference and suggests compatible models 
+ 
+The transformation is immediately apparent. Instead of generic responses, the agent now provides personalized recommendations based on the customer’s stated preferences and past interactions. The customer doesn’t need to re-explain their gaming needs or Linux requirements—the agent already knows. 
+Benefits of Amazon Bedrock AgentCore Memory 
+With Amazon Bedrock AgentCore Memory integrated, our agent now delivers the following benefits: 
+ 
+ Conversation continuity – Customers can pick up where they left off, even across different sessions or support channels 
+ Personalized service – Recommendations and responses are tailored to individual preferences and past issues 
+ Contextual troubleshooting – Access to previous problems and solutions enables more effective support 
+ Seamless experience – Memory operations happen automatically without customer or agent intervention 
+ 
+However, we still have limitations to address. Our tools remain embedded in the agent code, preventing reuse across different support agents or teams. Security and access controls are minimal, and we still can’t handle multiple customers simultaneously in a production environment. 
+In the next section, we address these challenges by centralizing our tools using Amazon Bedrock AgentCore Gateway and implementing proper identity management with Amazon Bedrock AgentCore Identity, creating a scalable and secure foundation for our customer support system. 
+Centralize tools with Amazon Bedrock AgentCore Gateway and Amazon Bedrock AgentCore Identity 
+With memory solved, our next challenge is tool architecture. Currently, our tools are embedded directly in the agent code—a pattern that works for prototypes but creates significant problems at scale. When you need multiple agents (customer support, sales, technical support), each one duplicates the same tools, leading to extensive code, inconsistent behavior, and maintenance nightmares. 
+Amazon Bedrock AgentCore Gateway simplifies this process by centralizing tools into reusable, secure endpoints that agents can access. Combined with Amazon Bedrock AgentCore Identity for authentication, it creates an enterprise-grade tool sharing infrastructure. 
+We will now update our agent to use Amazon Bedrock AgentCore Gateway and Amazon Bedrock AgentCore Identity. The architecture will look like the following diagram. 
+ 
+In this case, we convert our web search tool to be used in the gateway and keep the return policy and get product information tools local to this agent. That is important because web search is a common capability that can be reused across different use cases in an organization, and return policy and production information are capabilities commonly associated with customer support services. With Amazon Bedrock AgentCore services, you can decide which capabilities to use and how to combine them. In this case, we also use two new tools that could have been developed by other teams: check warranty and get customer profile. Because those teams have already exposed those tools using AWS Lambda functions, we can use them as targets to our Amazon Bedrock AgentCore Gateway. Amazon Bedrock AgentCore Gateway can also support REST APIs as target. That means that if we have an OpenAPI specification or a Smithy model, we can also quickly expose our tools using Amazon Bedrock AgentCore Gateway. 
+Convert existing services to MCP 
+Amazon Bedrock AgentCore Gateway uses the Model Context Protocol (MCP) to standardize how agents access tools. Converting existing Lambda functions into MCP endpoints requires minimal changes—mainly adding tool schemas and handling the MCP context. To use this functionality, we convert our local tools to Lambda functions and create the tools schema definitions to make these functions discoverable by agents: 
+ 
+ # Original Lambda function (simplified)
+def web_search(keywords: str, region: str = "us-en", max_results: int = 5) -&gt; str:
+&nbsp; &nbsp; # web_search functionality
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+def lambda_handler(event, context):
+&nbsp;&nbsp; &nbsp;if get_tool_name(event) == "web_search":
+&nbsp; &nbsp; &nbsp; &nbsp; query&nbsp;= get_named_parameter(event=event, name="query")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; search_result&nbsp;=&nbsp;web_search(keywords)
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;return {"statusCode": 200, "body": search_result} 
+ 
+The following code is the tool schema definition: 
+ 
+ {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"name": "web_search",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"description": "Search the web for updated information using DuckDuckGo",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"inputSchema": {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"type": "object",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"properties": {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"keywords": {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"type": "string",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"description": "The search query keywords"
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;},
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"region": {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"type": "string",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"description": "The search region (e.g., us-en, uk-en, ru-ru)"
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;},
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"max_results": {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"type": "integer",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"description": "The maximum number of results to return"
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;}
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;},
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"required": [
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"keywords"
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;]
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
+&nbsp;&nbsp; &nbsp;} 
+ 
+For demonstration purposes, we build a new Lambda function from scratch. In reality, organizations already have different functionalities available as REST services or Lambda functions, and this approach lets you expose existing enterprise services as agent tools without rebuilding them. 
+Configure security with Amazon Bedrock AgentCore Gateway and integrate with Amazon Bedrock AgentCore Identity 
+Amazon Bedrock AgentCore Gateway requires authentication for both inbound and outbound connections. Amazon Bedrock AgentCore Identity handles this through standard OAuth flows. After you set up an OAuth authorization configuration, you can create a new gateway and pass this configuration to it. See the following code: 
+ 
+ # Create gateway with JWT-based authentication
+auth_config = {
+&nbsp;&nbsp; &nbsp;"customJWTAuthorizer": {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"allowedClients": [cognito_client_id],
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"discoveryUrl": cognito_discovery_url
+&nbsp;&nbsp; &nbsp;}
+}
+
+gateway_response = gateway_client.create_gateway(
+&nbsp;&nbsp; &nbsp;name="customersupport-gw",
+&nbsp;&nbsp; &nbsp;roleArn=gateway_iam_role,
+&nbsp;&nbsp; &nbsp;protocolType="MCP",
+&nbsp;&nbsp; &nbsp;authorizerType="CUSTOM_JWT",
+&nbsp;&nbsp; &nbsp;authorizerConfiguration=auth_config,
+&nbsp;&nbsp; &nbsp;description="Customer Support AgentCore Gateway"
+) 
+ 
+For inbound authentication, agents must present valid JSON Web Token (JWT) tokens (from identity providers like Amazon Cognito, Okta, and EntraID) as a compact, self-contained standard for securely transmitting information between parties to access Amazon Bedrock AgentCore Gateway tools. 
+For outbound authentication, Amazon Bedrock AgentCore Gateway can authenticate to downstream services using AWS Identity and Access Management (IAM) roles, API keys, or OAuth tokens. 
+For demonstration purposes, we have created an Amazon Cognito user pool with a dummy user name and password. For your use case, you should set a proper identity provider and manage the users accordingly. This configure makes sure only authorized agents can access specific tools and a full audit trail is provided. 
+Add Lambda targets 
+After you set up Amazon Bedrock AgentCore Gateway, adding Lambda functions as tool targets is straightforward: 
+ 
+ lambda_target_config = {
+&nbsp;&nbsp; &nbsp;"mcp": {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"lambda": {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"lambdaArn": lambda_function_arn,
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"toolSchema": {"inlinePayload": api_spec},
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
+&nbsp;&nbsp; &nbsp;}
+}
+
+gateway_client.create_gateway_target(
+&nbsp;&nbsp; &nbsp;gatewayIdentifier=gateway_id,
+&nbsp;&nbsp; &nbsp;name="LambdaTools",
+&nbsp;&nbsp; &nbsp;targetConfiguration=lambda_target_config,
+&nbsp;&nbsp; &nbsp;credentialProviderConfigurations=[{
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"credentialProviderType": "GATEWAY_IAM_ROLE"
+&nbsp;&nbsp; &nbsp;}]
+) 
+ 
+The gateway now exposes your Lambda functions as MCP tools that authorized agents can discover and use. 
+Integrate MCP tools with Strands Agents 
+Converting our agent to use centralized tools requires updating the tool configuration. We keep some tools local, such as product info and return policies specific to customer support that will likely not be reused in other use cases, and use centralized tools for shared capabilities. Because Strands Agents has a native integration for MCP tools, we can simply use the MCPClient from Strands with a streamablehttp_client. See the following code: 
+ 
+ # Get OAuth token for gateway access
+gateway_access_token = get_token(
+&nbsp;&nbsp; &nbsp;client_id=cognito_client_id,
+&nbsp;&nbsp; &nbsp;client_secret=cognito_client_secret,
+&nbsp;&nbsp; &nbsp;scope=auth_scope,
+&nbsp;&nbsp; &nbsp;url=token_url
+)
+
+# Create authenticated MCP client
+mcp_client = MCPClient(
+&nbsp;&nbsp; &nbsp;lambda: streamablehttp_client(
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;gateway_url,
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;headers={"Authorization": f"Bearer {gateway_access_token['access_token']}"}
+&nbsp;&nbsp; &nbsp;)
+)
+
+# Combine local and MCP tools
+tools = [
+&nbsp;&nbsp; &nbsp;get_product_info, &nbsp; &nbsp; # Local tool (customer support specific)
+&nbsp;&nbsp; &nbsp;get_return_policy, &nbsp; &nbsp;# Local tool (customer support specific)
+] + mcp_client.list_tools_sync() &nbsp;# Centralized tools from gateway
+
+agent = Agent(
+&nbsp;&nbsp; &nbsp;model=model,
+&nbsp;&nbsp; &nbsp;tools=tools,
+&nbsp;&nbsp; &nbsp;hooks=[memory_hooks],
+&nbsp;&nbsp; &nbsp;system_prompt=SYSTEM_PROMPT
+) 
+ 
+Test the enhanced agent 
+With the centralized tools integrated, our agent now has access to enterprise capabilities like warranty checking: 
+ 
+ # Test web search using centralized tool &nbsp;
+response = agent("How can I fix Lenovo ThinkPad with a blue screen?")
+# Agent uses web_search from AgentCore Gateway 
+ 
+The agent seamlessly combines local tools with centralized ones, providing comprehensive support capabilities while maintaining security and access control. 
+However, we still have a significant limitation: our entire agent runs locally on our development machine. For production deployment, we need scalable infrastructure, comprehensive observability, and the ability to handle multiple concurrent users. 
+In the next section, we address this by deploying our agent to Amazon Bedrock AgentCore Runtime, transforming our local prototype into a production-ready system with Amazon Bedrock AgentCore Observability and automatic scaling capabilities. 
+Deploy to production with Amazon Bedrock AgentCore Runtime 
+With the tools centralized and secured, our final major hurdle is production deployment. Our agent currently runs locally on your laptop, which is ideal for experimentation but unsuitable for real customers. Production requires scalable infrastructure, comprehensive monitoring, automatic error recovery, and the ability to handle multiple concurrent users reliably. 
+Amazon Bedrock AgentCore Runtime transforms your local agent into a production-ready service with minimal code changes. Combined with Amazon Bedrock AgentCore Observability, it provides enterprise-grade reliability, automatic scaling, and comprehensive monitoring capabilities that operations teams need to maintain agentic applications in production. 
+Our architecture will look like the following diagram. 
+ 
+Minimal code changes for production 
+Converting your local agent requires adding just four lines of code: 
+ 
+ # Your existing agent code remains unchanged
+model = BedrockModel(model_id="us.anthropic.claude-3-7-sonnet-20250219-v1:0")
+memory_hooks = CustomerSupportMemoryHooks(memory_id, memory_client, actor_id, session_id)
+agent = Agent(
+&nbsp;&nbsp; &nbsp;model=model,
+&nbsp;&nbsp; &nbsp;tools=[get_return_policy, get_product_info],
+&nbsp;&nbsp; &nbsp;system_prompt=SYSTEM_PROMPT,
+&nbsp;&nbsp; &nbsp;hooks=[memory_hooks]
+)
+
+def invoke(payload):
+&nbsp;&nbsp; &nbsp;user_input = payload.get("prompt", "")
+&nbsp;&nbsp; &nbsp;response = agent(user_input)
+&nbsp;&nbsp; &nbsp;return response.message["content"][0]["text"]
+
+if __name__ == "__main__":
+ 
+ 
+BedrockAgentCoreApp automatically creates an HTTP server with the required /invocations and /ping endpoints, handles proper content types and response formats, manages error handling according to AWS standards, and provides the infrastructure bridge between your agent code and Amazon Bedrock AgentCore Runtime. 
+Secure production deployment 
+Production deployment requires proper authentication and access control. Amazon Bedrock AgentCore Runtime integrates with Amazon Bedrock AgentCore Identity to provide enterprise-grade security. Using the Bedrock AgentCore Starter Toolkit, we can deploy our application using three simple steps: configure, launch, and invoke. 
+During the configuration, a Docker file is created to guide the deployment of our agent. It contains information about the agent and its dependencies, the Amazon Bedrock AgentCore Identity configuration, and the Amazon Bedrock AgentCore Observability configuration to be used. During the launch step, AWS CodeBuild is used to run this Dockerfile and an Amazon Elastic Container Registry (Amazon ECR) repository is created to store the agent dependencies. The Amazon Bedrock AgentCore Runtime agent is then created, using the image of the ECR repository, and an endpoint is generated and used to invoke the agent in applications. If your agent is configured with OAuth authentication through Amazon Bedrock AgentCore Identity, like ours will be, you also need to pass the authentication token during the agent invocation step. The following diagram illustrates this process. 
+ 
+The code to configure and launch our agent on Amazon Bedrock AgentCore Runtime will look as follows: 
+ 
+ from bedrock_agentcore_starter_toolkit import Runtime
+
+# Configure secure deployment with Cognito authentication
+agentcore_runtime = Runtime()
+
+response = agentcore_runtime.configure(
+&nbsp;&nbsp; &nbsp;entrypoint="lab_helpers/lab4_runtime.py",
+&nbsp;&nbsp; &nbsp;execution_role=execution_role_arn,
+&nbsp;&nbsp; &nbsp;auto_create_ecr=True,
+&nbsp;&nbsp; &nbsp;requirements_file="requirements.txt",
+&nbsp;&nbsp; &nbsp;region=region,
+&nbsp;&nbsp; &nbsp;agent_name="customer_support_agent",
+&nbsp;&nbsp; &nbsp;authorizer_configuration={
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"customJWTAuthorizer": {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"allowedClients": [cognito_client_id],
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"discoveryUrl": cognito_discovery_url,
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
+&nbsp;&nbsp; &nbsp;}
+)
+
+# Deploy to production
+launch_result = agentcore_runtime.launch() 
+ 
+This configuration creates a secure endpoint that only accepts requests with valid JWT tokens from your identity provider (such as Amazon Cognito, Okta, or Entra). For our agent, we use a dummy setup with Amazon Cognito, but your application can use an identity provider of your choosing. The deployment process automatically builds your agent into a container, creates the necessary AWS infrastructure, and establishes monitoring and logging pipelines. 
+Session management and isolation 
+One of the most critical production features for agents is proper session management. Amazon Bedrock AgentCore Runtime automatically handles session isolation, making sure different customers’ conversations don’t interfere with each other: 
+ 
+ # Customer 1 conversation
+response1 = agentcore_runtime.invoke(
+&nbsp;&nbsp; &nbsp;{"prompt": "My iPhone Bluetooth isn't working. What should I do?"},
+&nbsp;&nbsp; &nbsp;bearer_token=auth_token,
+&nbsp;&nbsp; &nbsp;session_id="session-customer-1"
+)
+
+# Customer 1 follow-up (maintains context)
+response2 = agentcore_runtime.invoke(
+&nbsp;&nbsp; &nbsp;{"prompt": "I've turned Bluetooth on and off but it still doesn't work"},
+&nbsp;&nbsp; &nbsp;bearer_token=auth_token,
+&nbsp;&nbsp; &nbsp;session_id="session-customer-1" &nbsp;# Same session, context preserved
+)
+
+# Customer 2 conversation (completely separate)
+response3 = agentcore_runtime.invoke(
+&nbsp;&nbsp; &nbsp;{"prompt": "Still not working. What is going on?"},
+&nbsp;&nbsp; &nbsp;bearer_token=auth_token,
+&nbsp;&nbsp; &nbsp;session_id="session-customer-2" &nbsp;# Different session, no context
+) 
+ 
+Customer 1’s follow-up maintains full context about their iPhone Bluetooth issue, whereas Customer 2’s message (in a different session) has no context and the agent appropriately asks for more information. This automatic session isolation is crucial for production customer support scenarios. 
+Comprehensive observability with Amazon Bedrock AgentCore Observability 
+Production agents need comprehensive monitoring to diagnose issues, optimize performance, and maintain reliability. Amazon Bedrock AgentCore Observability automatically instruments your agent code and sends telemetry data to Amazon CloudWatch, where you can analyze patterns and troubleshoot issues in real time. The observability data includes session-level tracking, so you can trace individual customer session interactions and understand exactly what happened during a support interaction. You can use Amazon Bedrock AgentCore Observability with an agent of your choice, hosted in Amazon Bedrock AgentCore Runtime or not. Because Amazon Bedrock AgentCore Runtime automatically integrates with Amazon Bedrock AgentCore Observability, we don’t need extra work to observe our agent. 
+With Amazon Bedrock AgentCore Runtime deployment, your agent is ready to be used in production. However, we still have one limitation: our agent is accessible only through SDK or API calls, requiring customers to write code or use technical tools to interact with it. For true customer-facing deployment, we need a user-friendly web interface that customers can access through their browsers. 
+In the following section, we demonstrate the complete journey by building a sample web application using Streamlit, providing an intuitive chat interface that can interact with our production-ready Amazon Bedrock AgentCore Runtime endpoint. The exposed endpoint maintains the security, scalability, and observability capabilities we’ve built throughout our journey from proof of concept to production. In a real-world scenario, you would integrate this endpoint with your existing customer-facing applications and UI frameworks. 
+Create a customer-facing UI 
+With our agent deployed to production, the final step is creating a customer-facing UI that customers can use to interface with the agent. Although SDK access works for developers, customers need an intuitive web interface for seamless support interactions. 
+To demonstrate a complete solution, we build a sample Streamlit-based web-application that connects to our production-ready Amazon Bedrock AgentCore Runtime endpoint. The frontend includes secure Amazon Cognito authentication, real-time streaming responses, persistent session management, and a clean chat interface. Although we use Streamlit for rapid-prototyping, enterprises would typically integrate the endpoint with their existing interface or preferred UI frameworks. 
+The end-to-end application (shown in the following diagram) maintains full conversation context across the sessions while providing the security, scalability, and observability capabilities that we built throughout this post. The result is a complete customer support agentic system that handles everything from initial authentication to complex multi-turn troubleshooting conversations, demonstrating how Amazon Bedrock AgentCore services transform prototypes into production-ready customer applications. 
+ 
+Conclusion 
+Our journey from prototype to production demonstrates how Amazon Bedrock AgentCore services address the traditional barriers to deploying enterprise-ready agentic applications. What started as a simple local customer support chatbot transformed into a comprehensive, production-grade system capable of serving multiple concurrent users with persistent memory, secure tool sharing, comprehensive observability, and an intuitive web interface—without months of custom infrastructure development. 
+The transformation required minimal code changes at each step, showcasing how Amazon Bedrock AgentCore services work together to solve the operational challenges that typically stall promising proofs of concept. Memory capabilities avoid the “goldfish agent” problem, centralized tool management through Amazon Bedrock AgentCore Gateway creates a reusable infrastructure that securely serves multiple use cases, Amazon Bedrock AgentCore Runtime provides enterprise-grade deployment with automatic scaling, and Amazon Bedrock AgentCore Observability delivers the monitoring capabilities operations teams need to maintain production systems. 
+The following video provides an overview of AgentCore capabilities. 
+
+ 
+  
+ 
+ 
+Ready to build your own production-ready agent? Start with our complete end-to-end tutorial, where you can follow along with the exact code and configurations we’ve explored in this post. For additional use cases and implementation patterns, explore the broader GitHub repository, and dive deeper into service capabilities and best practices in the Amazon Bedrock AgentCore documentation. 
+ 
+About the authors 
+Maira Ladeira Tanke is a Tech Lead for Agentic AI at AWS, where she enables customers on their journey to develop autonomous AI systems. With over 10 years of experience in AI/ML, Maira partners with enterprise customers to accelerate the adoption of agentic applications using Amazon Bedrock AgentCore and Strands Agents, helping organizations harness the power of foundation models to drive innovation and business transformation. In her free time, Maira enjoys traveling, playing with her cat, and spending time with her family someplace warm.
 • Scale visual production using Stability AI Image Services in Amazon Bedrock
   This post was written with Alex Gnibus of Stability AI. 
 Stability AI Image Services are now available in Amazon Bedrock, offering ready-to-use media editing capabilities delivered through the Amazon Bedrock API. These image editing tools expand on the capabilities of Stability AI’s Stable Diffusion 3.5 models (SD3.5) and Stable Image Core and Ultra models, which are already available in Amazon Bedrock and have set new standards in image generation. 
@@ -1229,201 +1707,5 @@ For more information, refer to the following resources:
 About the authors 
 Gunjan Jain, an AWS Solutions Architect based in Southern California, specializes in guiding large financial services companies through their cloud transformation journeys. He expertly facilitates cloud adoption, optimization, and implementation of Well-Architected best practices. Gunjan’s professional focus extends to machine learning and cloud resilience, areas where he demonstrates particular enthusiasm. Outside of his professional commitments, he finds balance by spending time in nature. 
 Rahul Easwar is a Senior Product Manager at AWS, leading managed MLflow and Partner AI Apps within the SageMaker AIOps team. With over 15 years of experience spanning startups to enterprise technology, he leverages his entrepreneurial background and MBA from Chicago Booth to build scalable ML platforms that simplify AI adoption for organizations worldwide. Connect with Rahul on&nbsp;LinkedIn to learn more about his work in ML platforms and enterprise AI solutions.
-• Supercharge your organization’s productivity with the Amazon Q Business browser extension
-  Generative AI solutions like Amazon Q Business are transforming the way employees work. Organizations in every industry are embracing these tools to help their workforce extract valuable insights from increasingly fragmented data to accelerate decision-making processes. However, the adoption of generative AI tools hasn’t been without its challenges. 
-Two hurdles have emerged in the implementation of generative AI solutions. First, users often find themselves compelled to abandon familiar workflows, manually transferring data to an AI assistant for analysis. This creates unnecessary friction and increases the time to value. Second, the absence of generative AI tools in commonly used software makes it difficult for employees to identify opportunities where AI can significantly boost their productivity. 
-Enter Amazon Q Business, a generative AI-powered assistant tailored for the modern workplace, so you can engage in conversations, solve complex problems, and take action by seamlessly connecting to company data and enterprise systems. Amazon Q Business provides employees with instant access to relevant information and advice, streamlining tasks, accelerating decision-making, and fostering creativity and innovation in the workplace. We recently launched the Amazon Q Business browser extension in Amazon Q Business, and it is now available to Amazon Q Business subscribers (Lite and Pro). The Amazon Q Business browser extension brings the power of Amazon Q Business directly into your browsers, so you can receive context-aware, generative AI assistance and get on-the-go help for daily tasks. 
-In this post, we show how to implement this solution for your own enterprise, giving your team seamless access to AI-driven insights and assistance. 
-Use cases for the Amazon Q Business browser extension 
-The Amazon Q Business browser extension is deployed to all Amazonians, making tens of thousands of users more productive every day. In this section, we highlight some of the most impactful use cases for which Amazonians use the Amazon Q Business browser extension to boost their productivity. 
-Analyze web content 
-Business and technical teams need to analyze and synthesize information across various reports, competitive analyses, and industry documents found outside the company’s data to develop insights and strategy. They must make sure their strategic recommendations are based on verified data sources and trustworthy industry information. Additionally, identifying patterns across multiple sources is time-consuming and complex. With the Amazon Q Business browser extension, strategists can quickly generate industry insights and identify trends across trusted internal and external data sources in seconds, while maintaining the human element in strategic thinking. 
-Check out the following demo video: 
-
- 
-  
- 
- 
-Improve content quality 
-The Amazon Q Business browser extension brings the unique ability to incorporate context that might not be readily available to your generative AI assistant. You can use the Amazon Q Business browser extension for content creation and content quality improvements by including multiple disparate sources in your queries that typically aren’t available to generative AI assistants. You can use it to perform real-time validation of content from various sources and incorporate web-based style guides and best practices to accelerate content creation. 
-Check out the following demo video: 
-
- 
-  
- 
- 
-Solution overview 
-In the following sections, we walk through how to get started with the Amazon Q Business browser extension if you have already enabled Amazon Q Business for your organization. To learn more, see Configuring the Amazon Q Business browser extension for use. 
-Prerequisites 
-Complete the prerequisite steps in this section before deploying the browser extension. 
-Create an Amazon Q Business application and subscribe your users 
-The Amazon Q Business browser extension is a feature of Amazon Q Business and requires customers to first create an Amazon Q Business application and subscribe their users before the browser extension can be enabled. To learn more about how you can get started with Amazon Q Business, see Getting started with Amazon Q Business. 
-Set up the Amazon Q Business web experience 
-The browser extension uses the Amazon Q Business web experience client as the mechanism to authenticate users and offer Amazon Q Business features. The first step to enabling the browser extension is to create an Amazon Q Business web experience. If you have already created a web experience for your users, you can skip this step. However, if you have developed a custom web experience using the Amazon Q Business APIs, complete the following steps to create an Amazon Q Business web experience: 
- 
- On the Amazon Q Business console, go to your Amazon Q Business application. 
- 
-The Web experience settings section shows if you already have a web experience deployed. If you don’t have a web experience deployed, this section will be empty, with the message “A web experience needs to be created before deploying.” 
- 
- 
- At the top of your application details page, choose Edit. 
- 
- 
- 
- For Outcome, select Web experience. 
- Choose Update. 
- 
-This step might take a few minutes to complete. 
- 
-After your web experience is deployed, you will find a URL where your web experience is hosted on your Amazon Q Business application details page. Save this URL for later. 
- 
-Grant users access to send queries directly to the large language model 
-The Amazon Q Business browser extension can include your users’ web page context in queries by passing the web page content as file attachments alongside a user’s prompt. Because the file attachment feature is available only for General knowledge mode, the browser extension requires Amazon Q Business admins to grant users access to send queries directly to the large language model (LLM) to take advantage of the full feature set of the browser extension. Without this prerequisite, users can only access their company knowledge through the browser extension and can’t ask Amazon Q Business questions about their web page content. 
-Amazon Q Business does not store user conversation data and does not use queries or conversations for training its LLMs. Conversations are only stored within the application for 30 days. You can delete these conversations by accessing the Amazon Q Business web experience and choosing Chat in the navigation pane, as shown in the following screenshot. 
- 
-To grant users access to send queries directly to the Amazon Q LLM, complete the following steps: 
- 
- On the Amazon Q Business console, go to your application. 
- Choose Admin controls and guardrails in the navigation pane. 
- 
- 
- 
- In the Global controls section, choose Edit. 
- 
- 
- 
- Select Allow end users to send queries directly to the LLM. 
- Choose Save. 
- 
- 
-You are now ready to enable the browser extension for your users. 
-Configure the Amazon Q Business browser extension 
-Now that you have completed the prerequisites for the browser extension, complete the following steps to enable the browser extension for your users: 
- 
- On the Amazon Q Business console, go to your application. 
- Under Enhancements in the navigation pane, choose Integrations. 
- In the Browser extensions section, choose Edit. 
- 
- 
- 
- Select the check boxes for the browser extensions you want to enable: 
-   
-   The Chromium check box enables the Chrome store extension, which supports Google Chrome and Microsoft Edge browsers. 
-   The Firefox check box enables the Firefox Browser add-on for Firefox browsers. 
-    
- 
-You can also view the Chrome or Firefox store pages for the extension using the links in the respective Learn more sections. 
- 
- Choose Save. 
- 
- 
-Your users will now see instructions to install the Amazon Q Business browser extension the next time they log in to the Amazon Q Business web experience. If you have not yet done so, share the web experience URL you obtained in the earlier steps with your users so they can follow the steps to install the browser extension. 
-Activate the browser extension if you are using IAM federation authentication for Amazon Q Business 
-If you’re using an external identity provider (IdP) for your Amazon Q Business application, you must allow-list the browser extension with the external provider before your users can start using the browser extension. You can allow-list the following URLs with your IdP to activate the browser extension: 
- 
- For the Chromium browser extension (suitable for Google Chrome and Microsoft Edge), use https://feihpdljijcgnokhfoibicengfiellbp.chromiumapp.org/ 
- For the Mozilla Firefox browser extension, https://ba6e8e6e4fa44c1057cf5f26fba9b2e788dfc34f.extensions.allizom.org/ 
- 
-You don’t need to take the aforementioned steps if you’re using AWS IAM Identity Center as the authentication solution for your Amazon Q Business application. 
-Get started with the browser extension 
-After you share the web experience URL with your users, they can use it to find the browser extension store page and install the browser extension. Users can complete the following steps: 
- 
- Log in to the Amazon Q Business web experience provided by your admin. 
- 
-You will notice a banner letting you know that your admin has enabled the browser extension for you. 
- 
- Choose Install extension. 
- 
- 
-The link will take you to the appropriate Amazon Q Business browser extension store page based on the browser you’re using. 
- 
- Choose Add to Chrome or the appropriate installation option for your browser. 
- 
- 
-Upon installing the extension, you will find it in your browser’s tool bar under Extensions. You can choose the pin icon to pin the browser extension. 
- 
-After you open your browser extension, you will see a side pane as shown in the following screenshot. It will automatically detect the correct web experience URL from your open tabs to help you sign in. If it doesn’t, enter the web experience URL provided by your admin in the Amazon Q URL section and choose Sign in. 
- 
-Upon sign in, you’re ready to go! Refer to the earlier section discussing Amazon’s use cases for inspiration on how you can use the extension to boost your productivity. 
- 
-Deploy the Amazon Q Business browser extension on behalf of your users 
-Some admins might choose to directly deploy the Amazon Q Business browser extension on their users’ browsers to streamline and accelerate adoption. 
-Enterprises use varying mobile device management software and have differing requirements for their browser policies. To deploy the Amazon Q Business browser extension, refer to the following resources: 
- 
- Mozilla Firefox policy settings 
- Google Chrome policy settings 
- Microsoft Edge: 
-   
-   Policy settings 
-   Reference guide 
-    
- 
-Customize the Amazon Q Business browser extension for your enterprise 
-Some admins might choose to customize the look and feel of the Amazon Q Business browser extension to fit their enterprise’s needs. This section outlines the extension’s supported customization functionality and the corresponding browser extension policy values to configure on your users’ browsers. 
-Remove the Amazon Q Business URL input from the browser extension login page 
-If you don’t want to require an Amazon Q Business web experience URL from your users at sign-in, you can set a default URL on their behalf by setting the Q_BIZ_BROWSER_EXTENSION_URL policy to the appropriate Amazon Q Business web experience URL for your users. 
- 
-Replace the browser extension’s toolbar icon 
-You can modify the toolbar icon of your browser extension by setting the value of one or more of the following browser policy keys to the URL of your PNG or SVG image or a valid datauri for your users: 
- 
- Q_BIZ_BROWSER_EXTENSION_ICON_128 (mandatory) 
- Q_BIZ_BROWSER_EXTENSION_ICON_16 (optional) 
- Q_BIZ_BROWSER_EXTENSION_ICON_32 (optional) 
- Q_BIZ_BROWSER_EXTENSION_ICON_48 (optional) 
- 
- 
-Replace the logo or icon in the browser extension window 
-To change the logo or icon in your browser extension window, set the value of the Q_BIZ_BROWSER_EXTENSION_LOGO policy key with a URL to your PNG or SVG image or a valid datauri for your users. 
- 
-Modify the name of the browser extension shown in the browser extension window 
-To replace references to “Amazon Q,” “Amazon Q Business,” “AWS,” and “Amazon Web Services” with a name of your choice inside the browser extension window, set the value of the Q_BIZ_BROWSER_EXTENSION_ENTERPRISE_NAME policy key with the new name for your users. 
- 
-Modify the title of your browser extension in hover text 
-To change the title of your browser extension as it shows in the text when hovering over your extension (“Amazon Q Business has access to this site,” as seen in the prior screenshot), set the Q_BIZ_BROWSER_EXTENSION_TITLE_NAME policy to the appropriate string for your users. 
- 
-Replace the AI policy link in the browser extension footer with your own link 
-To replace the link text in the footer of your browser extension, set Q_BIZ_BROWSER_EXTENSION_FOOTER_POLICY_NAME to the appropriate string for your users. 
-To replace the URL in the footer of your browser extension, set Q_BIZ_BROWSER_EXTENSION_FOOTER_POLICY_URL to the appropriate URL for your users. 
- 
-Congratulations! You and your organization are ready to receive generative assistance for your browser-based tasks. 
-Clean up 
-This section outlines the steps to disable or remove the browser extension or revert deployments and customization for your users. 
-Disable the Amazon Q Business browser extension through the Amazon Q Business console 
-You can disable the Amazon Q Business browser extension from the Amazon Q Business console whenever you choose, even before removing the browser extension from your users’ browsers. To do so, complete the following steps: 
- 
- On the Amazon Q Business console, go to your application. 
- Under Enhancements in the navigation pane, choose Integrations. 
- In the Browser extensions section, choose Edit. 
- 
- 
- 
- Deselect the check boxes for the browser extensions you want to disable: 
-   
-   The Chromium check box disables the Chrome store extension, which supports Google Chrome and Microsoft Edge browsers. 
-   The Firefox check box disables the Firefox Browser add-on for Firefox browsers. 
-    
- Choose Save. 
- 
- 
-Revert the deployment of the Amazon Q Business browser extension on behalf of your users 
-Enterprises use varying mobile device management software and have differing requirements for their browser policies. If you deployed the browser extension by updating your browser policy settings, you should remove those policies by following the guidance in the policy settings documentation for the respective browsers: 
- 
- Mozilla Firefox policy settings 
- Google Chrome policy settings 
- Microsoft Edge: 
-   
-   Policy settings 
-   Reference guide 
-    
- 
-Revert the deployment of the Amazon Q Business browser extension on behalf of your users 
-If you customized the Amazon Q Business browser extension by modifying browser policies as detailed earlier in this post, you can revert those customizations by simply removing the corresponding policy entry in your browser policy settings. 
-Conclusion 
-In this post, we showed how to use the Amazon Q Business browser extension to give your team seamless access to AI-driven insights and assistance. The browser extension is now available in US East (N. Virginia) and US West (Oregon) AWS Regions for Mozilla, Google Chrome, and Microsoft Edge as part of the Lite Subscription. There is no additional cost to use the browser extension. 
-To get started, log in to the Amazon Q Business console and setup the browser extension for your Amazon Q Business application. To learn more, see Configuring the Amazon Q Business browser extension for use. 
- 
-About the authors 
-Firaz Akmal is a Sr. Product Manager for Amazon Q Business and has been at AWS for 8+ years. He is a customer advocate, helping customers transform their search and generative AI use-cases on AWS. Outside of work Firaz enjoys spending time in the mountains of the PNW or experiencing the world through his daughter’s perspective. 
-Abhinand Sukumar is a Senior Product Manager at Amazon Web Services for Amazon Q Business, where he drives the product vision and roadmap for innovative generative AI solutions. Abhinand works closely with customers and engineering to deliver successful integrations, including the browser extension. His expertise spans generative AI experiences and AI/ML educational devices, with a deep passion for education, artificial intelligence, and design thinking. Prior to joining AWS, Abhinand worked as an embedded software engineer in the networking industry. With 5-6 years of experience in technology,
 
 ⸻
