@@ -1,6 +1,6 @@
-✅ Morning News Briefing – September 22, 2025 10:45
+✅ Morning News Briefing – September 23, 2025 10:43
 
-📅 Date: 2025-09-22 10:45
+📅 Date: 2025-09-23 10:43
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
@@ -8,10 +8,10 @@
 🧾 Weather
 • No watches or warnings in effect, Pembroke
   No watches or warnings in effect. No warnings or watches or watches in effect . Watch or warnings are no longer in effect in the U.S. No watches, warnings are in effect for the rest of the day . No watches and warnings are still in effect, but no watches are in place for the day's events . The weather is not expected to be affected by the weather .
-• Current Conditions: Mostly Cloudy, 16.1°C
-  Observed at Garrison Petawawa 6:00 AM EDT Monday 22 September 2025 . Temperature: 16.1&deg;C Pressure: 101.4 kPa  Visibility: 24 km Visibility : 24 km Humidity: 93 % Dewpoint: 15.0&deg:C Wind: SE 11 km/h Air Quality Health Index: n/a . Air Quality
-• Monday: Chance of showers. High 20. POP 40%
-  Showers ending this morning then cloudy with 40 percent chance of showers . Risk of a thunderstorm. High 20. Humidex 25. UV index 4 or moderate. Showery winds will make it feel like it's a good day for the first time in 25 years . Forecast issued 5:00 AM EDT Monday 22 September 2025. Forecast: "Showery"
+• Current Conditions:  15.6°C
+  Temperature: 15.6&deg;C Pressure / Tendency: 101.3 kPa rising Humidity: 100% Humidity is 100% Dewpoint: 15 .6&degree . Wind: ESE 3 km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Tuesday 23 September 2025 . Weather forecast: 20,000
+• Tuesday: Chance of showers. High 21. POP 40%
+  40 percent chance of showers this afternoon. Risk of thunderstorm late this afternoon . Fog patches dissipating this morning. High 21. Humidex 26. UV index 3 or moderate. Chance of rain in the morning. Showery cloudy with rain in mid-afternoon. Rainy with risk of thunderstorms late afternoon. High risk of rain, thunderstorm possible late afternoon
 
 🌍 International News
 No updates.
@@ -20,41 +20,43 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• North Korea's Kim Jong Un ready to talk if U.S. drops denuclearization demand
-  Kim told North Korea's legislature he's ready to resume talks, adding he had "good memories" of President Trump, despite ongoing tension over Washington's denuclearization stance . Kim said he had 'good memories' of the U.S. President Trump . Kim told the North Korean legislature he was ready for talks with President Trump despite ongoing tensions over U.N. stance on den
-• Rheumatoid arthritis kept her captive. This nerve stimulator set her free.
-  A new surgically implanted device the size of a lima bean can help control rheumatoid arthritis that isn't responding to drugs . The device is a device that can be implanted surgically to help control the arthritis . It is the first time a new device has been implanted to control the condition that is not responding to the drugs that are needed to treat it . The new device
-• What to know as U.N. General Assembly opens, marking 80 years, tackling deep crises
-  This year the United Nations is marking its 80th anniversary, but diplomats don't have much to celebrate . The U.N. is marking the anniversary of the U.S. embassy in New York City, New York, on Thursday . Diplomats are celebrating the anniversary but diplomats aren't celebrating much of what they have to celebrate this year's anniversary . The United Nations will be celebrating
-• This small Virginia island could be underwater before the next century
-  Tangier Island in Virginia is one of the last inhabited islands in Chesapeake Bay under threat from rising sea levels and climate change . Tangier island is under threat to rise sea levels, climate change and is under attack from rising water levels and rising tide . The islands are one of last remaining islands in the Chesapeake Bay under threat of rising seas and rising tides . The island is
-• Colleges pull back as Trump cuts programs that help migrant students
-  Since 1972, the CAMP program has helped tens of thousands of migrant students succeed in college . The Trump administration has cut off funding for it, forcing some colleges to reduce or eliminate services . Some colleges have already reduced or eliminated services, forcing them to reduce services . The program was started in 1972 in response to the rise of immigrants to college in the United States in the 1970s .
+• Did Amazon trick people into paying for Prime? Federal case goes to trial
+  The U.S. government says Amazon manipulated people into signing up for Prime memberships that were purposefully hard to cancel . The company says its designs and disclosures follow industry standards . Amazon says it is not breaking any laws, but the company says it has complied with industry standards and that the company's designs follow industry guidelines . The government says the Prime membership program was designed to be hard to
+• How to reintegrate over a million veterans? Groups in Ukraine are working on it
+  Ukrainian war veterans have physical and mental trauma, and struggle to return to civilian life . Here is a look at some groups trying to help ease them back into the community . Many Ukrainian war vets struggle to cope with the trauma they have suffered from, such as physical, mental and physical trauma, they struggle to get back on their feet and get back to life in civilian life. Here is
+• 5 takeaways from Kamala Harris' new book about her sprint for the presidency
+  Former Vice President Kamala Harris writes about her brief run for the presidency last year and her relationship with former President Joe Biden in her new book . Harris' new book, out Tuesday, is out on Tuesday at 8 p.m. ET on CNN.com.com/Heroes, Tuesday at 9 p a.m., Tuesday at 10 p a p.a.com .
+• Georgia senators demand answers on more than a dozen deaths in immigration detention
+  Sens. Jon Ossoff and Raphael Warnock are asking Homeland Security Secretary Kristi Noem for answers . More than a dozen people died in immigration detention, as the department rushes to expand . The department is rushing to expand its immigration detention facilities, as a result of the department's rapid expansion of detention facilities . Noem is being asked to explain the deaths of those who died in
+• Judge orders Trump administration to restore $500 million in grant funding to UCLA
+  A federal judge has ordered the Trump administration to restore $500 million in federal grant funding that it froze at the University of California, Los Angeles . A judge ordered the federal government to restore the funds . The University of Los Angeles is a major university in the U.S. state of California . The U.L.A. law school was founded in 1964 and won't accept federal
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Brit scientists over the Moon after growing tea in lunar soil
-  British boffins say they've discovered a way of taking one of the country's favorite pastimes – having a nice cup of tea – into outer space .……… It's one small sip for man... It's a way to take one of Britain's favourite pastimes, having a tea, into space, into a cup cup cup, scientists say . It's just one
-• Linux has the lineage to out-evolve the deadliest of cyber threats, given the right push
-  The IT industry is not only full of sharks, it has shark nature itself itself . Darwin would understand microkernels that understand Darwin . Without innovation the sector would curdle and die, the IT sector would have to keep moving forward . It must keep moving ahead to survive, says Simon Tisdall, who says the sector needs to be innovated to survive in order to survive
-• 'Technical debt' in police database built to respond to child murders causing a 'failing service'
-  The risk rating of the UK's crime intelligence database is being elevated to 'Red' by the governments projects' watchdog . The DB struggles to migrate from a legacy Oracle platform to the cloud and cloud . The UK crime database has been struggling to move off obsolete tech and cloud tech and is being put on a 'red' risk rating . It is the first project to be rated 'Red
-• FOMO? Brit banking biz rolls out AI tools, talks up security
-  Lloyds Data and AI lead doesn't want devs downloading models from the likes of Hugging Face – too risky . Data of its 28 million customers is kept away from untested AI models developers might be tempted to deploy . Lloysds Banking Group is leaning into 21st century tech - yet trying to do so in a way that the data of its customers is not kept from unt
-• Bored developers accidentally turned their watercooler into a bootleg brewery
-  Who, Me? is our reader-contributed column in which you share stories of making a mess at work, and cleaning up afterwards to the best of your ability . IT pros make the sort of mistakes that The Register celebrates each week in the column . It’s our readers' favourite work-related mistakes, and we'll feature them next week in a new Who Me?
+• Linux's love-to-hate projects drop fresh versions: systemd 258 and GNOME 49
+  Init system update arrives behind schedule while desktop overhaul adds app and HDR polish . There are fresh new releases of two of the more controversial and divisive projects in the Linux world for everyone to argue about… and then adopt anyway . The new versions of the Init system and desktop overhauls the Linux desktop are among the most controversial projects in Linux world to be released in the last few months of the
+• UK.gov ditching 'Red' risk data sharing project after slashing £0.5B budget in half
+  A flagship Office for National Statistics project to share data across the UK government appears to be ending several years before its time after failing to make enough progress . Meanwhile Lotus Notes still lurks in some Office of National Statistics systems, for now . The project was given a "Red" risk rating two years in a row, and never appointed a program director . Lotus Notes is still in the UK
+• UK chancellor Putin the blame on Russia for cyber chaos, but evidence says otherwise
+  UK chancellor Rachel Reeves points finger at Moscow in interview when authorities reckon it's local lads . UK authorities reckon local hackers are responsible for Britain's latest cyber woes . But the trail of evidence points to attackers much closer to home, authorities say they're local . Reeves: Moscow is responsible for the UK's cyber woes, but it's not Moscow's, it's a local attack .
+• HCL stretches support window for Domino v9/v10 despite repeated end-of-life deadlines
+  Domino and Notes versions 9.0.x and 10.0 .x are now set to limp on until the end of this decade . Lotus Notes software is more difficult to kill than a horror movie villain, it seems, as it seems . Domino will be available to download again in the next few months, with the software set to be released in September 2015, with a
+• Node4's £45M Tisski takeover ends in tears – and £2.4M in damages
+  Node4 has won a £2.4 million (c $3.2 million) damages award against the founder of Microsoft Dynamics consultancy Tisski . The High Court ruled the company was sold with problematic contracts that were collapsing as the deal was being finalized . The case details a perfect storm of NAO, MoD, and Aquila contract failures in a bid to sell Node4
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• US investment in African food systems will have global benefits
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Trump links autism and Tylenol: is there any truth to it?
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Heat-related mortality in Europe during 2024 and health emergency forecasting to reduce preventable deaths
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Hotly anticipated US vaccine meeting ends with confusion — and a few decisions
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Sleep and circadian rhythms in cardiovascular resilience: mechanisms, implications, and a Roadmap for research and interventions
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Comparison of Three Anonymization Tools for a Health Fitness Study
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -64,6 +66,270 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• AI models are using material from retracted scientific papers
+  Some AI chatbots rely on flawed research from retracted scientific papers to answer questions, according to recent studies. The findings, confirmed by MIT Technology Review, raise questions about how reliable AI tools are at evaluating scientific research and could complicate efforts by countries and industries seeking to invest in AI tools for scientists.
+
+
+
+AI search tools and chatbots are already known to fabricate links and references. But answers based on the material from actual papers can mislead as well if those papers have been retracted.&nbsp; The chatbot is “using a real paper, real material, to tell you something,” says Weikuan Gu, a medical researcher at the University of Tennessee in Memphis and an author of one of the recent studies. But, he says, if people only look at the content of the answer and do not click through to the paper and see that it’s been retracted, that’s really a problem.&nbsp;
+
+
+
+Gu and his team asked OpenAI’s ChatGPT, running on the GPT-4o model, questions based on information from 21 retracted papers on medical imaging. The chatbot’s answers referenced retracted papers in five cases but advised caution in only three. While it cited non-retracted papers for other questions, the authors note it may not have recognized the retraction status of the articles. In a study from August, a different group of researchers used ChatGPT-4o mini to evaluate the quality of 217 retracted and low-quality papers from different scientific fields; they found that none of the chatbot’s responses mentioned retractions or other concerns. (No similar studies have been released on GPT-5, which came out this August.)
+
+
+
+The public uses AI chatbots to ask for medical advice and diagnose health conditions. Students and scientists increasingly use science-focused AI tools to review existing scientific literature and summarize papers. That kind of usage is likely to increase. The US National Science Foundation, for instance, invested $75 million in building AI models for science research this August.
+
+
+
+
+
+“If [a tool is] facing the general public, then using retraction as a kind of quality indicator is very important,” says Yuanxi Fu, an information science researcher at the University of Illinois Urbana-Champaign. There’s “kind of an agreement that retracted papers have been struck off the record of science,” she says, “and the people who are outside of science—they should be warned that these are retracted papers.” OpenAI did not provide a response to a request for comment about the paper results.
+
+
+
+The problem is not limited to ChatGPT. In June, MIT Technology Review tested AI tools specifically advertised for research work, such as Elicit, Ai2 ScholarQA (now part of the Allen Institute for Artificial Intelligence’s Asta tool), Perplexity, and Consensus, using questions based on the 21 retracted papers in Gu’s study. Elicit referenced five of the retracted papers in its answers, while Ai2 ScholarQA referenced 17, Perplexity 11, and Consensus 18—all without noting the retractions.
+
+
+
+Some companies have since made moves to correct the issue. “Until recently, we didn’t have great retraction data in our search engine,” says Christian Salem, cofounder of Consensus. His company has now started using retraction data from a combination of sources, including publishers and data aggregators, independent web crawling, and Retraction Watch, which manually curates and maintains a database of retractions. In a test of the same papers in August, Consensus cited only five retracted papers.&nbsp;
+
+
+
+Elicit told MIT Technology Review that it removes retracted papers flagged by the scholarly research catalogue OpenAlex from its database and is “still working on aggregating sources of retractions.” Ai2 told us that its tool does not automatically detect or remove retracted papers currently. Perplexity said that it “[does] not ever claim to be 100% accurate.”&nbsp;
+
+
+
+However, relying on retraction databases may not be enough. Ivan Oransky, the cofounder of Retraction Watch, is careful not to describe it as a comprehensive database, saying that creating one would require more resources than anyone has: “The reason it’s resource intensive is because someone has to do it all by hand if you want it to be accurate.”
+
+
+
+Further complicating the matter is that publishers don’t share a uniform approach to retraction notices. “Where things are retracted, they can be marked as such in very different ways,” says Caitlin Bakker from University of Regina, Canada, an expert in research and discovery tools. “Correction,” “expression of concern,” “erratum,” and “retracted” are among some labels publishers may add to research papers—and these labels can be added for many reasons, including concerns about the content, methodology, and data or the presence of conflicts of interest.&nbsp;
+
+
+
+Some researchers distribute their papers on preprint servers, paper repositories, and other websites, causing copies to be scattered around the web. Moreover, the data used to train AI models may not be up to date. If a paper is retracted after the model’s training cutoff date, its responses might not instantaneously reflect what&#8217;s going on, says Fu. Most academic search engines don’t do a real-time check against retraction data, so you are at the mercy of how accurate their corpus is, says Aaron Tay, a librarian at Singapore Management University.
+
+
+
+Oransky and other experts advocate making more context available for models to use when creating a response. This could mean publishing information that already exists, like peer reviews commissioned by journals and critiques from the review site PubPeer, alongside the published paper.&nbsp;&nbsp;
+
+
+
+Many publishers, such as Nature and the BMJ, publish retraction notices as separate articles linked to the paper, outside paywalls. Fu says companies need to effectively make use of such information, as well as any news articles in a model’s training data that mention a paper’s retraction.&nbsp;
+
+
+
+The users and creators of AI tools need to do their due diligence. “We are at the very, very early stages, and essentially you have to be skeptical,” says Tay.
+
+
+
+Ananya is a freelance science and technology journalist based in Bengaluru, India.
+• The Download: the LLM will see you now, and a new fusion power deal
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+This medical startup uses LLMs to run appointments and make diagnoses
+
+
+
+Patients at a small number of clinics in Southern California run by the medical startup Akido Labs are spending relatively little time, or even no time at all, with their doctors. Instead, they see a medical assistant, who can lend a sympathetic ear but has limited clinical training.The job of formulating diagnoses and concocting a treatment plan is done by an LLM-based system called ScopeAI that transcribes and analyzes the dialogue between patient and assistant. A doctor then approves, or corrects, the AI system’s recommendations.According to Akido’s CEO, this approach allows doctors to see four to five times as many patients as they could previously. But experts aren’t convinced that displacing so much of the cognitive work of medicine onto AI is the right way to remedy the doctor shortage. Read the full story.—Grace Huckins
+
+
+
+
+
+
+
+An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems
+
+
+
+Eni, one of the world’s largest oil and gas companies, just agreed to buy $1 billion in electricity from a power plant being built by Commonwealth Fusion Systems. The deal is the latest to illustrate just how much investment Commonwealth and other fusion companies are courting as they attempt to take fusion power from the lab to the power grid.The agreement will see Eni purchase electricity from Commonwealth’s first commercial fusion power plant, in Virginia. The facility is still in the planning stages but is scheduled to come online in the early 2030s. Read the full story.
+
+
+
+—Casey Crownhart
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 Trump officials are expected to link Tylenol to autismThey’re also likely to tout a lesser-known drug called leucovorin as a potential treatment. (WP $)+ They’ll warn women in the early stages of pregnancy that they should only take Tylenol to treat high fevers. (Politico)+ But a huge study found no connection last year. (Axios)
+
+
+
+2 Trump wants to charge skilled foreign workers $100,000 for H-1B visasThe decision is highly likely to harm US growth, especially in its tech sector. (The Guardian)+ The visa has been a lifeline for hundreds of thousands of tech workers. (BBC)+ Indian outsourcing companies are struggling to pivot. (Bloomberg $)+ Tech firms are sending memos to their workers on the visa. (Insider $)
+
+
+
+3 The European Commission wants to ax cookie consent bannersA 2009 law triggered an influx in pesky pop-ups that the EU now wants to get rid of. (Politico)
+
+
+
+4 The Murdochs and Michael Dell are among TikTok’s potential buyersThe media mogul family and Dell founder are interested in shares, Trump says. (CNN)
+
+
+
+5 Inside China’s plan to put its data centers to workA mega-cluster of centers is springing up in the city of Wuhu. (FT $)+ China built hundreds of AI data centers to catch the AI boom. Now many stand unused. (MIT Technology Review)
+
+
+
+6 Seattle’s tech scene is in troubleWhen its biggest firms slash their workforces, where does that leave everyone else? (WSJ $)
+
+
+
+7 Innocent people are being scammed into scammingChinese gangs are imprisoning trafficking victims in compounds on the Myanmar-Thai border. (Reuters)+ Inside a romance scam compound—and how people get tricked into being there. (MIT Technology Review)
+
+
+
+8 Europe’s reusable rocket dream isn’t entirely deadBut progress has been a lot slower than it should be. (Ars Technica)+ Elon Musk’s utter dominance of space tech is hard to overestimate. (Wired $)+ Europe is finally getting serious about commercial rockets. (MIT Technology Review)
+
+
+
+9 How ChatGPT fares as a financial stock pickerBe prepared to roll the dice. (Fast Company $)
+
+
+
+10 Silicon Valley is ditching dating appsAnd turning to elite matchmakers instead. (The Information $)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+&#8220;I didn&#8217;t sleep all night. I kept thinking: What if I get stuck outside the US?&#8221;
+
+
+
+—Akaash Hazarika, a Salesforce engineer, tells Insider he was forced to cut his vacation to Toronto short and rush back to America after the Trump administration announced changes to the H-1B skilled foreign worker visa.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+The quest to figure out farming on MarsOnce upon a time, water flowed across the surface of Mars. Waves lapped against shorelines, strong winds gusted and howled, and driving rain fell from thick, cloudy skies. It wasn’t really so different from our own planet 4 billion years ago, except for one crucial detail—its size. Mars is about half the diameter of Earth, and that’s where things went wrong.The Martian core cooled quickly, soon leaving the planet without a magnetic field. This, in turn, left it vulnerable to the solar wind, which swept away much of its atmosphere. Without a critical shield from the sun’s ultraviolet rays, Mars could not retain its heat. Some of the oceans evaporated, and the subsurface absorbed the rest, with only a bit of water left behind and frozen at its poles. If ever a blade of grass grew on Mars, those days are over.But could they begin again? And what would it take to grow plants to feed future astronauts on Mars? Read the full story.
+
+
+
+—David W. Brown
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
+
+
+
++&nbsp; These abandoned blogs are a relic of the bygone internet (bring them back!)+ How to strengthen your bond with your reluctant cat + How Metal Gear Solid inspired the video to one of the greatest hits of the late 90s.+ If I had to explain British culture to someone, I’d just send them this video.
+• An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems
+  Eni, one of the world’s largest oil and gas companies, just agreed to buy $1 billion in electricity from a power plant being built by Commonwealth Fusion Systems. The deal is the latest to illustrate just how much investment Commonwealth and other fusion companies are courting as they attempt to take fusion power from the lab to the power grid.&nbsp;
+
+
+
+
+
+“This is showing in concrete terms that people that use large amounts of energy, that know the energy market—they want fusion power, and they’re willing to contract for it and to pay for it,” said Bob Mumgaard, cofounder and CEO of Commonwealth, on a press call about the deal.&nbsp;&nbsp;&nbsp;
+
+
+
+The agreement will see Eni purchase electricity from Commonwealth’s first commercial fusion power plant, in Virginia. The facility is still in the planning stages but is scheduled to come online in the early 2030s.
+
+
+
+The news comes a few weeks after Commonwealth announced a $863 million funding round, bringing its total funding raised to date to nearly $3 billion. The fusion company also announced earlier this year that Google would be its first commercial power customer for the Virginia plant.
+
+
+
+Commonwealth, a spinout from MIT’s Plasma Science and Fusion Center, is widely considered one of the leading companies in fusion power. Investment in the company represents nearly one-third of the total global investment in private fusion companies. (MIT Technology Review is owned by MIT but is editorially independent.)
+
+
+
+Eni has invested in Commonwealth since 2018 and participated in the latest fundraising round. The vast majority of the company’s business is in oil and gas, but in recent years it’s made investments in technologies like biofuels and renewables.
+
+
+
+“A company like us—we cannot stay and wait for things to happen,” says Lorenzo Fiorillo, Eni’s director of technology, research and development, and digital.&nbsp;
+
+
+
+One open question is what, exactly, Eni plans to do with this electricity. When asked about it on the press call, Fiorillo referenced wind and solar plants that Eni owns and said the plan “is not different from what we do in other areas in the US and the world.” (Eni sells electricity from power plants that it owns, including renewable and fossil-fuel plants.)
+
+
+
+Commonwealth is building tokamak fusion reactors that use superconducting magnets to hold plasma in place. That plasma is where fusion reactions happen, forcing hydrogen atoms together to release large amounts of energy.
+
+
+
+The company’s first demonstration reactor, which it calls Sparc, is over 65% complete, and the team is testing components and assembling them. The plan is for the reactor, which is located outside Boston, to make plasma within two years and then demonstrate that it can generate more energy than is required to run it.
+
+
+
+While Sparc is still under construction, Commonwealth is working on plans for Arc, its first commercial power plant. That facility should begin construction in 2027 or 2028 and generate electricity for the grid in the early 2030s, Mumgaard says.
+
+
+
+Despite the billions of dollars Commonwealth has already raised, the company still needs more money to build its Arc power plant—that will be a multibillion-dollar project, Mumgaard said on a press call in August about the company’s latest fundraising round.&nbsp;
+
+
+
+The latest commitment from Eni could help Commonwealth secure the funding it needs to get Arc built. “These agreements are a really good way to create the right environment for building up more investment,” says Paul Wilson, chair of the department of nuclear engineering and engineering physics at the University of Wisconsin, Madison.
+
+
+
+
+
+Even though commercial fusion energy is still years away at a minimum, investors and big tech companies have pumped money into the industry and signed agreements to buy power from plants once they’re operational.&nbsp;
+
+
+
+Helion, another leading fusion startup, has plans to produce electricity from its first reactor in 2028 (an aggressive timeline that has some experts expressing skepticism). That facility will have a full generating capacity of 50 megawatts, and in 2023 Microsoft signed an agreement to purchase energy from the facility in order to help power its data centers.
+
+
+
+As billions of dollars pour into the fusion industry, there are still many milestones ahead. To date, only the National Ignition Facility at Lawrence Livermore National Laboratory has demonstrated that a fusion reactor can generate more energy than the amount put into the reaction. No commercial project has achieved that yet.&nbsp;
+
+
+
+“There’s a lot of capital going out now to these startup companies,” says Ed Morse, a professor of nuclear engineering at the University of California, Berkeley. “What I’m not seeing is a peer-reviewed scientific article that makes me feel like, boy, we really turned the corner with the physics.”
+
+
+
+But others are taking major commercial deals from Commonwealth and others as reasons to be optimistic. “Fusion is moving from the lab to be a proper industry,” says Sehila Gonzalez de Vicente, global director of fusion energy at the nonprofit Clean Air Task Force. “This is very good for the whole sector to be perceived as a real source of energy.”
 • This medical startup uses LLMs to run appointments and make diagnoses
   Imagine this: You’ve been feeling unwell, so you call up your doctor’s office to make an appointment. To your surprise, they schedule you in for the next day. At the appointment, you aren’t rushed through describing your health concerns; instead, you have a full half hour to share your symptoms and worries and the exhaustive details of your health history with someone who listens attentively and asks thoughtful follow-up questions. You leave with a diagnosis, a treatment plan, and the sense that, for once, you’ve been able to discuss your health with the care that it merits.
 
@@ -314,232 +580,6 @@ A place for comfort, fun and distraction to brighten up your day. (Got any ideas
 
 
 + Would you go about your daily business with a soft toy on your shoulder? This intrepid reporter gave it a go.+ How dying dinosaurs shaped the landscapes around us.+ I can’t believe I missed Pythagorean Theorem day earlier this week.+ Inside the rise in popularity of the no-water yard.
-• A pivotal meeting on vaccine guidance is underway—and former CDC leaders are alarmed
-  Update Friday 6am ET: The advisory CDC panel recommended that children under the age of 4 do not receive the combined MMRV vaccine (for measles, mumps, rubella, and varicella) but instead receive two separate shots.
-
-
-
-This week has been an eventful one for America’s public health agency. Two former leaders of the US Centers for Disease Control and Prevention explained the reasons for their sudden departures from the agency in a Senate hearing. And they described how CDC employees are being instructed to turn their backs on scientific evidence.
-
-
-
-The CDC’s former director Susan Monarez and former chief medical officer Debra Houry took questions from a Senate committee on Wednesday. They painted a picture of a health agency in turmoil—and at risk of harming the people it is meant to serve.
-
-
-
-
-
-On Thursday, an advisory CDC panel that develops vaccine guidance met for a two-day discussion on multiple childhood vaccines. During the meeting, which was underway as The Checkup went to press, members of the panel were set to discuss those vaccines and propose recommendations on their use.
-
-
-
-Monarez worries that access to childhood vaccines is under threat—and that the public health consequences could be dire. “If vaccine protections are weakened, preventable diseases will return,” she said.
-
-
-
-As the current secretary of health and human services, Robert F. Kennedy Jr. oversees federal health and science agencies that include the CDC, which monitors and responds to threats to public health. Part of that role involves developing vaccine recommendations.
-
-
-
-As we’ve noted before, RFK Jr. has long been a prominent critic of vaccines. He has incorrectly linked commonly used ingredients to autism and made other incorrect statements about risks associated with various vaccines.
-
-
-
-Still, he oversaw the recruitment of Monarez—who does not share those beliefs—to lead the agency. When she was sworn in on July 31, Monarez, who is a microbiologist and immunologist, had already been serving as acting director of the agency. She had held prominent positions at other federal agencies and departments too, including the Advanced Research Projects Agency for Health (ARPA-H) and the Biomedical Advanced Research and Development Authority (BARDA). Kennedy&nbsp;described her as “a public health expert with unimpeachable scientific credentials.”
-
-
-
-His opinion seems to have changed somewhat since then. Just 29 days after Monarez took on her position, she was turfed out of the agency. And in yesterday’s hearing, she explained why.
-
-
-
-On August 25, Kennedy asked Monarez to do two things, she said. First, he wanted her to commit to firing scientists at the agency. And second, he wanted her to “pre-commit” to approve vaccine recommendations made by the agency’s Advisory Committee on Immunization Practices (ACIP), regardless of whether there was any scientific evidence to support those recommendations, she said. “He just wanted blanket approval,” she said during her testimony.&nbsp;
-
-
-
-She refused both requests.
-
-
-
-Monarez testified that she didn’t want to get rid of hardworking scientists who played an important role in keeping Americans safe. And she said she could not commit to approving vaccine recommendations without reviewing the scientific evidence behind them and maintain her integrity. She was sacked.
-
-
-
-
-
-Those vaccine recommendations are currently under discussion, and scientists like Monarez are worried about how they might change. Kennedy fired all 17 members of the previous committee in June. (Monarez said she was not consulted on the firings and found out about them through media reports.)
-
-
-
-“A clean sweep is needed to reestablish public confidence in vaccine science,” Kennedy wrote in&nbsp;a piece for the Wall Street Journal at the time. He went on to replace those individuals with eight new members, some of whom have been prominent vaccine critics and&nbsp;have spread misinformation about vaccines. One later withdrew.
-
-
-
-That new panel met two weeks later. The&nbsp;meeting included a presentation about thimerosal—a chemical that Kennedy has incorrectly linked to autism, and which is no longer included in vaccines in the US—and a proposal to recommend that the MMRV vaccine (for measles, mumps, rubella, and varicella) not be offered to children under the age of four.
-
-
-
-Earlier this week,&nbsp;five new committee members were named. They include&nbsp;individuals who have advocated against vaccine mandates and who have argued that mRNA-based covid vaccines should be removed from the market.
-
-
-
-All 12 members are convening for a meeting that runs today and tomorrow. At that meeting, members will propose recommendations for the MMRV vaccine and vaccines for covid-19 and hepatitis B, according to an agenda published on the CDC website.
-
-
-
-Those are the recommendations for which Monarez says she was asked to provide “blanket approval.” “My worst fear is that I would then be in a position of approving something that reduces access [to] lifesaving vaccines to children and others who need them,” she said.
-
-
-
-That job now goes to Jim O’Neill, the deputy health secretary and acting CDC director (also a longevity enthusiast), who now holds the authority to approve those recommendations.
-
-
-
-We don’t yet know what those recommendations will be. But if they are approved, they could reshape access to vaccines for children and vulnerable people in the US. As&nbsp;six former chairs of the committee wrote for STAT: “ACIP is directly linked to the Vaccines for Children program, which provides vaccines without cost to approximately 50% of children in the US, and the Affordable Care Act that requires insurance coverage for ACIP-recommended vaccines to approximately 150 million people in the US.”
-
-
-
-Drops in vaccine uptake have already contributed to this year’s measles outbreak in the US, which is the biggest in decades. Two children have died. We are already seeing the impact of undermined trust in childhood vaccines. As Monarez put it: “The stakes are not theoretical.”
-
-
-
-This article first appeared in The Checkup,&nbsp;MIT Technology Review’s&nbsp;weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first,&nbsp;sign up here.
-• The Download: AI-designed viruses, and bad news for the hydrogen industry
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
-
-
-
-AI-designed viruses are here and already killing bacteria
-
-
-
-Artificial intelligence can draw cat pictures and write emails. Now the same technology can compose a working genome.A research team in California says it used AI to propose new genetic codes for viruses—and managed to get several of them to replicate and kill bacteria.The work, described in a preprint paper, has the potential to create new treatments and accelerate research into artificially engineered cells. But experts believe it is also an “impressive first step” toward AI-designed life forms. Read the full story.
-
-
-
-—Antonio Regalado
-
-
-
-
-
-
-
-Clean hydrogen is facing a big reality check
-
-
-
-Hydrogen is sometimes held up as a master key for the energy transition. It can be made using several low-emissions methods and could play a role in cleaning up industries ranging from agriculture to aviation to shipping.
-
-
-
-This moment is a complicated one for the green fuel, though, as a new report from the International Energy Agency lays out. A number of major projects face cancellations and delays. The US in particular is seeing a slowdown after changes to key tax credits and cuts in support for renewable energy.Still, there are bright spots for the industry, including in China, and new markets could soon become crucial for growth. Here are three things to know about the state of hydrogen in 2025.
-
-
-
-—Casey Crownhart
-
-
-
-This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 Meta’s new smart glasses have a tiny screenWelcome back, Google Glass. (NYT $)+ Mark Zuckerberg says the devices are our best bet at unlocking “superintelligence.” (FT $)+ He’s also refusing to let his metaverse dream die. (WP $)+ What’s next for smart glasses. (MIT Technology Review)
-
-
-
-2 DeepSeek writes flawed code for groups China disfavorsResearchers found that it produced code with major security weaknesses when told it was for the banned spiritual movement Falun Gong. (WP $)
-
-
-
-3 The CDC is a messIts advice can no longer be trusted. Here’s where to turn instead. (The Atlantic $)+ Its ousted director claims RFK Jr pressured her to approve vaccine changes. (Wired $)+ Why childhood vaccines are a public health success story. (MIT Technology Review)
-
-
-
-4 Google’s gen-AI image model Nano Banana is a global smash hitParticularly in India. (TechCrunch)+ Nvidia’s Jensen Huang really loves it, too. (Wired $)
-
-
-
-5 OpenAI has found a way to reduce its models’ schemingBut they weren’t able to eradicate it completely. (ZDNET)+ AI systems are getting better at tricking us. (MIT Technology Review)
-
-
-
-6 Inside Texas’ efforts to keep vector-borne diseases at bayThe Arbovirus-Entomology Laboratory analyzes mosquitos, but resources are drying up. (Vox)+ Brazil is fighting dengue with bacteria-infected mosquitos. (MIT Technology Review)
-
-
-
-7 Financial AI advisors are comingBut companies are still cautious about rolling them out at scale. (WSJ $)+ Warning: ChatGPT’s advice may not necessarily be financially sound. (NYT $)+ Your most important customer may be AI. (MIT Technology Review)
-
-
-
-8 China’s flying car market is raring to take offHovering taxis above the city of Guangzhou could soon become commonplace. (FT $)+ Eek—a pair of flying cars collided during an airshow earlier this week. (CNN)+ These aircraft could change how we fly. (MIT Technology Review)
-
-
-
-9 Samsung’s US fridges will soon display adsWow, that’s not depressing at all. (The Verge)10 Online dating is getting even worse And AI is to blame. (NY Mag $)
-
-
-
-
-
-
-
-Quote of the day
-
-
-
-“How do educators have any real choice here about intentional use of AI when it is just being injected into educational environments without warning, without testing and without consultation?”
-
-
-
-—Eamon Costello, an associate professor at Dublin City University, tells the Washington Post why he’s against Google adding a ‘homework help’ button to its Chrome browser.
-
-
-
-
-
-
-
-One more thing
-
-
-
-
-
-
-
-Your boss is watchingWorking today—whether in an office, a warehouse, or your car—can mean constant electronic surveillance with little transparency, and potentially with livelihood-­ending consequences if your productivity flags.But what matters even more than the effects of this ubiquitous monitoring on privacy may be how all that data is shifting the relationships between workers and managers, companies and their workforce. It’s a huge power shift that may require new policies and protections. Read the full story.
-
-
-
-—Rebecca Ackermann
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)+ Find yourself feeling sleepy every afternoon? Here’s how to fight the post-lunch slump.+ Life lessons from a London graffiti artist.+ If you’re in need of a laugh, a good comedy is a great place to start.+ Yellowstone’s famous hot springs are under attack—from tourists’ hats.
-• Clean hydrogen is facing a big reality check
-  Hydrogen is sometimes held up as a master key for the energy transition . It can be made using several low-emissions methods and could play a role in cleaning up industries ranging from agriculture and chemicals to aviation and long-distance shipping . A number of major projects face cancellations and delays, especially in the US and Europe . Still, there are bright spots for the industry, including in China, and new markets could soon become crucial for growth .
 
 🔒 Cybersecurity & Privacy
 No updates.
@@ -548,6 +588,456 @@ No updates.
 No updates.
 
 🏢 Corporate AI
+• Using AI to assist in rare disease diagnosis
+  In the promising and rapidly evolving field of genetic analysis, the ability to accurately interpret whole genome sequencing data is crucial for diagnosing and improving outcomes for people with rare genetic diseases. Yet despite technological advancements, genetic professionals face steep challenges in managing and synthesizing the vast amounts of data required for these analyses. Fewer than 50% of&nbsp;initial&nbsp;cases yield a diagnosis, and while reanalysis can lead to new findings, the process remains&nbsp;time-consuming and complex.&nbsp;
+
+
+
+To better understand and address these challenges, Microsoft Research—in collaboration with Drexel University and the Broad Institute​​—conducted a comprehensive study titled AI-Enhanced Sensemaking: Exploring the Design of a Generative AI-Based Assistant to Support Genetic Professionals (opens in new tab). The study was recently published in a special edition of ACM Transactions on Interactive Intelligent Systems journal focused on generative AI.  
+
+
+
+The study focused on integrating generative AI to support the complex, time-intensive, and information-dense sensemaking tasks inherent in whole genome sequencing analysis. Through detailed empirical research and collaborative design sessions with experts in the field, we identified key obstacles genetic professionals face and proposed AI-driven solutions to enhance their workflows.&nbsp;​&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;​We&nbsp;developed strategies for how generative AI can help synthesize biomedical data, enabling AI-expert collaboration to increase the diagnoses of previously unsolved rare diseases—ultimately aiming to improve patients’ quality of life and life expectancy.
+
+
+
+Whole genome sequencing in rare disease diagnosis
+
+
+
+Rare diseases affect up to half a billion people globally and obtaining a diagnosis can take multiple years. These diagnoses often involve specialist consultations, laboratory tests, imaging studies, and invasive procedures. Whole genome sequencing is used to identify genetic variants responsible for these diseases by comparing a patient’s DNA sequence to reference genomes.&nbsp;​​Genetic professionals use bioinformatics tools such as&nbsp;seqr,&nbsp;an open-source, web-based tool for rare disease case analysis and project management to assist them in filtering and prioritizing&nbsp; > 1 million variants to determine their potential role in disease.&nbsp;A critical component of&nbsp;their&nbsp;work is sensemaking: the process of searching, filtering, and synthesizing data to build, refine, and present models from complex sets of gene and variant information.&nbsp;&nbsp;
+
+
+
+​​The multi-step sequencing process​​​&nbsp;typically takes three to 12 weeks and requires extensive amounts of evidence and time to synthesize and aggregate information&nbsp;​​to understand the gene and variant effects for the patient.&nbsp;If a patient&#8217;s case goes unsolved, their whole genome sequencing data is set aside until enough time has passed to warrant a reanalysis​​. This creates a backlog of patient cases​​. The ability to easily&nbsp;identify&nbsp;when new scientific evidence&nbsp;emerges&nbsp;and when to reanalyze an unsolved patient case is key to shortening the time patients suffer with an unknown rare disease diagnosis.&nbsp;
+
+
+
+The promise of AI systems to assist with complex human tasks
+
+
+
+Approximately 87% of AI systems never reach deployment&nbsp;​simply because they solve​​​&nbsp;the wrong problems.&nbsp;​​Understanding the AI support desired by different types of professionals, their current workflows, and AI capabilities is critical to successful AI system deployment and use. Matching technology capabilities with user tasks is particularly challenging in AI design because AI models can generate numerous outputs, and their capabilities can be unclear.&nbsp;​To design an effective​​​&nbsp;AI-based system​, one needs to identify​&nbsp;​​tasks AI can support,&nbsp;​​determine​​​​​​&nbsp;the appropriate level of AI involvement, and&nbsp;​​design​​​​​​&nbsp;user-AI interactions. This necessitates considering how humans interact with technology and how&nbsp;​​AI&nbsp;can best be incorporated into workflows and tools.
+
+
+
+	
+		
+
+		
+		Spotlight: Microsoft research newsletter
+	
+	
+	
+						
+				
+					
+				
+			
+			
+			
+
+									Microsoft Research Newsletter
+				
+								Stay connected to the research community at Microsoft.
+				
+								
+					
+						
+							Subscribe today						
+					
+				
+							
+	
+Opens in a new tab	
+	
+
+
+Study objectives and co-designing a genetic AI assistant
+
+
+
+Our study aimed to understand the current challenges and needs of genetic professionals performing whole genome sequencing analyses and explore the tasks where they want an AI assistant to support them in their work. The first phase of our study involved interviews with 17 genetics professionals to better understand their workflows, tools, and challenges. They included genetic analysts directly involved in interpreting data, as well as other roles participating in whole genome sequencing. In the second phase of our study, we conducted co-design sessions with study participants on how an AI assistant could support their workflows. We then developed a prototype of an AI assistant, which was further tested and refined with study participants in follow-up design walk-through sessions.
+
+
+
+Identifying challenges in whole genome sequencing analysis
+
+
+
+Through our in-depth interviews with genetic professionals, our study uncovered three critical challenges in whole genome sequencing analysis:
+
+
+
+
+Information Overload: Genetic analysts need to gather and synthesize vast amounts of data from multiple sources. This task is incredibly time-consuming and prone to human error.
+
+
+
+Collaborative Sharing: Sharing findings with others in the field can be cumbersome and inefficient, often relying on outdated methods that slow the collaborative analysis process.
+
+
+
+Prioritizing Reanalysis: Given the continuous influx of new scientific discoveries, prioritizing unsolved cases to reanalyze is a daunting challenge. Analysts need a systematic approach to identify cases that might benefit most from reanalysis.
+
+
+
+
+Genetic professionals highlighted the time-consuming nature of gathering and synthesizing information about genes and variants from different data sources. Other genetic professionals may have insights into certain genes and variants, but sharing and interpreting information with others for collaborative sensemaking requires significant time and effort. Although new scientific findings could affect unsolved cases through reanalysis, prioritizing cases based on new findings was challenging given the number of unsolved cases and limited time of genetic professionals.
+
+
+
+Co-designing with experts and AI-human sensemaking tasks
+
+
+
+Our study participants prioritized two potential tasks of an AI assistant. The first task was flagging cases for reanalysis based on new scientific findings. The assistant would alert analysts to unsolved cases that could benefit from new research, providing relevant updates drawn from recent publications. The second task focused on aggregating and synthesizing information about genes and variants from the scientific literature. This feature would compile essential information from numerous scientific papers about genes and variants, presenting it in a user-friendly format and saving analysts significant time and effort. Participants emphasized the need to balance selectivity with comprehensiveness in the evidence they review. They also envisioned collaborating with other genetic professionals to interpret, edit, and verify artifacts generated by the AI assistant.
+
+
+
+Genetic professionals require both broad and focused evidence at different stages of their workflow. The AI assistant prototypes were designed to allow flexible filtering and thorough evidence aggregation, ensuring users can delve into comprehensive data or selectively focus on pertinent details. The prototypes included features for collaborative sensemaking, enabling users to interpret, edit, and verify AI-generated information collectively. This&nbsp;​​approach not only&nbsp;​underscores​​​&nbsp;the trustworthiness of AI outputs, but also facilitates shared understanding and decision-making among genetic professionals.
+
+
+
+Design implications for expert-AI sensemaking
+
+
+
+In the&nbsp;shifting frontiers of genome sequence analysis,&nbsp;leveraging generative AI to enhance sensemaking offers intriguing possibilities​​. The task of staying&nbsp;​​current​​​​​​, synthesizing information from diverse sources, and making informed decisions&nbsp;​​is challenging​​​​​​.&nbsp;&nbsp;
+
+
+
+Our study participants emphasized the hurdles in integrating data from multiple sources without losing critical components, documenting decision rationales, and fostering collaborative environments. Generative AI models, with their advanced capabilities, have started to address these challenges by automatically generating interactive artifacts to support sensemaking. However, the effectiveness of such systems hinges on careful design considerations,&nbsp;​​particularly in how they facilitate distributed sensemaking, support both initial and ongoing sensemaking, and combine evidence from multiple modalities. We next discuss three design considerations for using generative AI models to support sensemaking.
+
+
+
+Distributed expert-AI sensemaking design
+
+
+
+Generative AI models can create artifacts that aid an individual user&#8217;s sensemaking process; however, the true potential lies in sharing these artifacts among users to foster collective understanding and efficiency. Participants in our study emphasized the importance of explainability, feedback, and trust when interacting with AI-generated content.&nbsp;​​​​​​​​​​Trust is gained by​​​​​​&nbsp;viewing portions of artifacts marked as correct by other users, or observing edits made to AI-generated information​​.&nbsp;​​Some​​​​​​&nbsp;users​, however,​&nbsp;cautioned against over-reliance on AI, which could obscure underlying inaccuracies. Thus, design strategies should ensure that any corrections are clearly marked&nbsp;​​and annotated​​​​​​. Furthermore, to enhance distributed sensemaking, visibility of others&#8217; notes and context-specific synthesis through AI can streamline the process​​.&nbsp;
+
+
+
+Initial expert-AI sensemaking and re-sensemaking design
+
+
+
+In our fast-paced, information-driven world,&nbsp;​​it is essential to understand a situation both&nbsp;initially&nbsp;and again when new information arises.​​&nbsp;​​Sensemaking is inherently temporal, reflecting and shaping our understanding of time as we revisit tasks to reevaluate past decisions or incorporate new information. Generative AI plays a pivotal role here by transforming static data into dynamic artifacts that evolve, offering a comprehensive view of past rationales. Such AI-generated artifacts provide continuity, allowing users—both&nbsp;original decision-makers or new individuals—to access the rationale behind decisions made in earlier task instances. By continuously editing and updating these artifacts, generative AI highlights new information since the last review, supporting ongoing understanding and decision-making.&nbsp;Moreover, AI systems enhance&nbsp;​​transparency​​​​​​&nbsp;by summarizing previous notes and questions, offering insights into earlier thought processes and facilitating a deeper understanding of how conclusions were drawn. This reflective capability not only can reinforce initial sensemaking efforts but also equips users with the clarity needed for informed re-sensemaking as new data emerges.&nbsp;
+
+
+
+Combining evidence from multiple modalities to enhance AI-expert sensemaking
+
+
+
+​​​The​​​​​​&nbsp;ability to combine evidence from multiple modalities is essential for effective sensemaking. Users often need to integrate diverse types of data—text, images, spatial coordinates, and more—into a coherent narrative to make informed decisions. Consider the case of search and rescue operations, where workers must rapidly synthesize information from texts, photographs, and GPS data to strategize their efforts. Recent advancements in multimodal generative AI models have empowered users by incorporating and synthesizing these varied inputs into a unified, comprehensive view. For instance, a participant in our study illustrated this capability by using a generative AI model to merge text from scientific publications with a visual gene structure depiction. This integration&nbsp;​​could create​​​​​​&nbsp;an image that contextualizes an individual&#8217;s genetic variant within the&nbsp;​​context​​​​​​&nbsp;of documented variants. Such advanced synthesis enables users to capture complex relationships and insights briefly, streamlining decision-making and expanding the potential for innovative solutions across diverse fields.&nbsp;
+
+
+
+Sensemaking Process with AI Assistant
+
+
+
+Figure: Sensemaking process when interpreting variants with the introduction of prototype AI assistant. Gray boxes represent sensemaking activities which are currently performed by an analyst but are human-in-the-loop processes with involvement of our prototype AI assistant. Non-gray boxes represent activities reserved for analyst completion without assistance by our AI assistant prototype. Within the foraging searching and synthesizing processes, examples of data sources and data types for each, respectively, are connected by dotted lines.
+
+
+
+Conclusion
+
+
+
+We explored the potential of generative AI&nbsp;to support​​ genetic professionals​&nbsp;​in diagnosing rare diseases​​. By designing an AI-based assistant, we aim to streamline whole genome sequencing analysis, helping professionals diagnose rare genetic diseases more efficiently. Our study unfolded in two key phases:&nbsp;​pinpointing​​​&nbsp;existing challenges in analysis, and design ideation, where we crafted a prototype AI assistant. This tool is designed to boost diagnostic yield and cut down diagnosis time by flagging cases for reanalysis and synthesizing crucial gene and variant data. Despite valuable findings, more research is needed​​. Future research will involve testing the AI assistant in real-time, task-based user testing with genetic professionals to assess the AI&#8217;s impact on their workflow. The promise of AI advancements lies in solving the right user problems and building the appropriate solutions, achieved through collaboration among model developers, domain experts, system designers, and HCI researchers. By fostering these collaborations, we aim to develop robust, personalized AI assistants tailored to specific domains.&nbsp;
+
+
+
+Join the conversation
+
+
+
+Join us as we continue to explore the transformative potential of generative AI in genetic analysis, and please read the full text publication&nbsp;here (opens in new tab). Follow us on social media, share this post with your network, and let us know your thoughts on how AI can transform genetic research. If interested in our other related research work, check out&nbsp;Evidence Aggregator: AI reasoning applied to rare disease diagnosis. (opens in new tab)&nbsp;&nbsp;
+
+
+
+
+Opens in a new tabThe post Using AI to assist in rare disease diagnosis appeared first on Microsoft Research.
+• Rapid ML experimentation for enterprises with Amazon SageMaker AI and Comet
+  This post was written with Sarah Ostermeier from Comet. 
+As enterprise organizations scale their machine learning (ML) initiatives from proof of concept to production, the complexity of managing experiments, tracking model lineage, and managing reproducibility grows exponentially. This is primarily because data scientists and ML engineers constantly explore different combinations of hyperparameters, model architectures, and dataset versions, generating massive amounts of metadata that must be tracked for reproducibility and compliance. As the ML model development scales across multiple teams and regulatory requirements intensify, tracking experiments becomes even more complex. With increasing AI regulations, particularly in the EU, organizations now require detailed audit trails of model training data, performance expectations, and development processes, making experiment tracking a business necessity and not just a best practice. 
+Amazon SageMaker AI provides the managed infrastructure enterprises need to scale ML workloads, handling compute provisioning, distributed training, and deployment without infrastructure overhead. However, teams still need robust experiment tracking, model comparison, and collaboration capabilities that go beyond basic logging. 
+Comet is a comprehensive ML experiment management platform that automatically tracks, compares, and optimizes ML experiments across the entire model lifecycle. It provides data scientists and ML engineers with powerful tools for experiment tracking, model monitoring, hyperparameter optimization, and collaborative model development. It also offers Opik, Comet’s open source platform for LLM observability and development. 
+Comet is available in SageMaker AI as a Partner AI App, as a fully managed experiment management capability, with enterprise-grade security, seamless workflow integration, and a straightforward procurement process through AWS Marketplace. 
+The combination addresses the needs of an enterprise ML workflow end-to-end, where SageMaker AI handles infrastructure and compute, and Comet provides the experiment management, model registry, and production monitoring capabilities that teams require for regulatory compliance and operational efficiency. In this post, we demonstrate a complete fraud detection workflow using SageMaker AI with Comet, showcasing reproducibility and audit-ready logging needed by enterprises today. 
+Enterprise-ready Comet on SageMaker AI 
+Before proceeding to setup instructions, organizations must identify their operating model and based on that, decide how Comet is going to be set up. We recommend implementing Comet using a federated operating model. In this architecture, Comet is centrally managed and hosted in a shared services account, and each data science team maintains fully autonomous environments. Each operating model comes with their own sets of benefits and limitations. For more information, refer to SageMaker Studio Administration Best Practices. 
+Let’s dive into the setup of Comet in SageMaker AI. Large enterprise generally have the following personas: 
+ 
+ Administrators – Responsible for setting up the common infrastructure services and environment for use case teams 
+ Users – ML practitioners from use case teams who use the environments set up by platform team to solve their business problems 
+ 
+In the following sections, we go through each persona’s journey. 
+Comet works well with both SageMaker AI and Amazon SageMaker. SageMaker AI provides the Amazon SageMaker Studio integrated development environment (IDE), and SageMaker provides the Amazon SageMaker Unified Studio IDE. For this post, we use SageMaker Studio. 
+Administrator journey 
+In this scenario, the administrator receives a request from a team working on a fraud detection use case to provision an ML environment with a fully managed training and experimentation setup. The administrator’s journey includes the following steps: 
+ 
+ Follow the prerequisites to set up Partner AI Apps. This sets up permissions for administrators, allowing Comet to assume a SageMaker AI execution role on behalf of the users and additional privileges for managing the Comet subscription through AWS Marketplace. 
+ On the SageMaker AI console, under Applications and IDEs in the navigation pane, choose Partner AI Apps, then choose View details for Comet. 
+ 
+ 
+The details are shown, including the contract pricing model for Comet and infrastructure tier estimated costs. 
+ 
+Comet provides different subscription options ranging from a 1-month to 36-month contract. With this contract, users can access Comet in SageMaker. Based on the number of users, the admin can review and analyze the appropriate instance size for the Comet dashboard server. Comet supports 5–500 users running more than 100 experiment jobs.. 
+ 
+ Choose Go to Marketplace to subscribe to be redirected to the Comet listing on AWS Marketplace. 
+ Choose View purchase options. 
+ 
+ 
+ 
+ In the subscription form, provide the required details. 
+ 
+ 
+When the subscription is complete, the admin can start configuring Comet. 
+ 
+ 
+ While deploying Comet, add the project lead of the fraud detection use case team as an admin to manage the admin operations for the Comet dashboard. 
+ 
+It takes a few minutes for the Comet server to be deployed. For more details on this step, refer to Partner AI App provisioning. 
+ 
+ Set up a SageMaker AI domain following the steps in Use custom setup for Amazon SageMaker AI. As a best practice, provide a pre-signed domain URL for the use case team member to directly access the Comet UI without logging in to the SageMaker console. 
+ Add the team members to this domain and enable access to Comet while configuring the domain. 
+ 
+Now the SageMaker AI domain is ready for users to log in to and start working on the fraud detection use case. 
+User journey 
+Now let’s explore the journey of an ML practitioner from the fraud detection use case. The user completes the following steps: 
+ 
+ Log in to the SageMaker AI domain through the pre-signed URL. 
+ 
+You will be redirected to the SageMaker Studio IDE. Your user name and AWS Identity and Access Management (IAM) execution role are preconfigured by the admin. 
+ 
+ Create a JupyterLab Space following the JupyterLab user guide. 
+ You can start working on the fraud detection use case by spinning up a Jupyter notebook. 
+ 
+The admin has also set up required access to the data through an Amazon Simple Storage Service (Amazon S3) bucket. 
+ 
+ To access Comet APIs, install the comet_ml library and configure the required environment variables as described in Set up the Amazon SageMaker Partner AI Apps SDKs. 
+ To access the Comet UI, choose Partner AI Apps in the SageMaker Studio navigation pane and choose Open for Comet. 
+ 
+ 
+Now, let’s walk through the use case implementation. 
+Solution overview 
+This use case highlights common enterprise challenges: working with imbalanced datasets (in this example, only 0.17% of transactions are fraudulent), requiring multiple experiment iterations, and maintaining full reproducibility for regulatory compliance. To follow along, refer to the Comet documentation and Quickstart guide for additional setup and API details. 
+For this use case, we use the Credit Card Fraud Detection dataset. The dataset contains credit card transactions with binary labels representing fraudulent (1) or legitimate (0) transactions. In the following sections, we walk through some of the important sections of the implementation. The entire code of the implementation is available in the GitHub repository. 
+Prerequisites 
+As a prerequisite, configure the necessary imports and environment variables for the Comet and SageMaker integration: 
+ 
+ # Comet ML for experiment tracking
+import comet_ml
+from comet_ml import Experiment, API, Artifact
+from comet_ml.integration.sagemaker import log_sagemaker_training_job_v1
+AWS_PARTNER_APP_AUTH=true
+AWS_PARTNER_APP_ARN=&lt;Your_AWS_PARTNER_APP_ARN&gt;
+COMET_API_KEY=&lt;Your_Comet_API_Key&gt; 	
+# From Details Page, click Open Comet. In the top #right corner, click on user -&gt; API # Key
+# Comet ML configuration
+COMET_WORKSPACE = '&lt;your-comet-workspace-name&gt;'
+COMET_PROJECT_NAME = '&lt;your-comet-project-name&gt;' 
+ 
+Prepare the dataset 
+One of Comet’s key enterprise features is automatic dataset versioning and lineage tracking. This capability provides full auditability of what data was used to train each model, which is critical for regulatory compliance and reproducibility. Start by loading the dataset: 
+ 
+ # Create a Comet Artifact to track our raw dataset
+dataset_artifact = Artifact(
+    name="fraud-dataset",
+    artifact_type="dataset",
+    aliases=["raw"]
+)
+# Add the raw dataset file to the artifact
+dataset_artifact.add_remote(s3_data_path, metadata={
+    "dataset_stage": "raw", 
+    "dataset_split": "not_split", 
+    "preprocessing": "none"
+}) 
+ 
+Start a Comet experiment 
+With the dataset artifact created, you can now start tracking the ML workflow. Creating a Comet experiment automatically begins capturing code, installed libraries, system metadata, and other contextual information in the background. You can log the dataset artifact created earlier in the experiment. See the following code: 
+ 
+ # Create a new Comet experiment
+experiment_1 = comet_ml.Experiment(
+    project_name=COMET_PROJECT_NAME,
+    workspace=COMET_WORKSPACE,
+)
+# Log the dataset artifact to this experiment for lineage tracking
+experiment_1.log_artifact(dataset_artifact) 
+ 
+Preprocess the data 
+The next steps are standard preprocessing steps, including removing duplicates, dropping unneeded columns, splitting into train/validation/test sets, and standardizing features using scikit-learn’s StandardScaler. We wrap the processing code in preprocess.py and run it as a SageMaker Processing job. See the following code: 
+ 
+ # Run SageMaker processing job
+processor = SKLearnProcessor(
+    framework_version='1.0-1',
+    role=sagemaker.get_execution_role(),
+    instance_count=1,
+    instance_type='ml.t3.medium'
+)
+processor.run(
+    code='preprocess.py',
+    inputs=[ProcessingInput(source=s3_data_path, destination='/opt/ml/processing/input')],
+    outputs=[ProcessingOutput(source='/opt/ml/processing/output', destination=f's3://{bucket_name}/{processed_data_prefix}')]
+) 
+ 
+After you submit the processing job, SageMaker AI launches the compute instances, processes and analyzes the input data, and releases the resources upon completion. The output of the processing job is stored in the S3 bucket specified. 
+Next, create a new version of the dataset artifact to track the processed data. Comet automatically versions artifacts with the same name, maintaining complete lineage from raw to processed data. 
+ 
+ # Create an updated version of the 'fraud-dataset' Artifact for the preprocessed data
+preprocessed_dataset_artifact = Artifact(
+    name="fraud-dataset",
+    artifact_type="dataset", 
+    aliases=["preprocessed"],
+    metadata={
+        "description": "Credit card fraud detection dataset",
+        "fraud_percentage": f"{fraud_percentage:.3f}%",
+        "dataset_stage": "preprocessed",
+        "preprocessing": "StandardScaler + train/val/test split",
+    }
+)
+# Add our train, validation, and test dataset files as remote assets 
+preprocessed_dataset_artifact.add_remote(
+    uri=f's3://{bucket_name}/{processed_data_prefix}',
+    logical_path='split_data'
+)
+# Log the updated dataset to the experiment to track the updates
+experiment_1.log_artifact(preprocessed_dataset_artifact) 
+ 
+The Comet and SageMaker AI experiment workflow 
+Data scientists prefer rapid experimentation; therefore, we organized the workflow into reusable utility functions that can be called multiple times with different hyperparameters while maintaining consistent logging and evaluation across all runs. In this section, we showcase the utility functions along with a brief snippet of the code inside the function: 
+ 
+ train() – Spins up a SageMaker model training job using the SageMaker built-in XGBoost algorithm: 
+ 
+ 
+     # Create SageMaker estimator
+    estimator = Estimator(
+        image_uri=xgboost_image,
+        role=execution_role,
+        instance_count=1,
+        instance_type='ml.m5.large',
+        output_path=model_output_path,
+        sagemaker_session=sagemaker_session_obj,
+        hyperparameters=hyperparameters_dict,
+        max_run=1800  # Maximum training time in seconds
+    )
+    # Start training
+    estimator.fit({
+        'train': train_channel,
+        'validation': val_channel
+    }) 
+ 
+ 
+ log_training_job() – Captures the training metadata and metrics and links the model asset to the experiment for complete traceability: 
+ 
+ 
+ # Log SageMaker training job to Comet 
+    log_sagemaker_training_job_v1(
+        estimator=training_estimator,
+        experiment=api_experiment
+    ) 
+ 
+ 
+ log_model_to_comet() – Links model artifacts to Comet, captures the training metadata, and links the model asset to the experiment for complete traceability: 
+ 
+ 
+ experiment.log_remote_model(
+        model_name=model_name,
+        uri=model_artifact_path,
+        metadata=metadata
+    ) 
+ 
+ 
+ deploy_and_evaluate_model() – Performs model deployment and evaluation, and metric logging: 
+ 
+ 
+ # Deploy to endpoint
+predictor = estimator.deploy(
+initial_instance_count=1,
+       instance_type="ml.m5.xlarge")
+# Log metrics and visualizations to Comet 
+experiment.log_metrics(metrics) experiment.log_confusion_matrix(matrix=cm,labels=['Normal', 'Fraud']) 
+# Log ROC curve 
+fpr, tpr, _ = roc_curve(y_test, y_pred_prob_as_np_array) experiment.log_curve("roc_curve", x=fpr, y=tpr) 
+ 
+The complete prediction and evaluation code is available in the GitHub repository. 
+Run the experiments 
+Now you can run multiple experiments by calling the utility functions with different configurations and compare experiments to find the most optimal settings for the fraud detection use case. 
+For the first experiment, we establish a baseline using standard XGBoost hyperparameters: 
+ 
+ # Define hyperparameters for first experiment
+hyperparameters_v1 = {
+    'objective': 'binary:logistic',	# Binary classification
+    'num_round': 100,                   # Number of boosting rounds
+    'eval_metric': 'auc',               # Evaluation metric
+    'learning_rate': 0.15,              # Learning rate
+    'booster': 'gbtree'                 # Booster algorithm
+}
+# Train the model
+estimator_1 = train(
+    model_output_path=f"s3://{bucket_name}/{model_output_prefix}/1",
+    execution_role=role,
+    sagemaker_session_obj=sagemaker_session,
+    hyperparameters_dict=hyperparameters_v1,
+    train_channel_loc=train_channel_location,
+    val_channel_loc=validation_channel_location
+)
+# log the training job and model artifact
+log_training_job(experiment_key = experiment_1.get_key(), training_estimator=estimator_1)
+log_model_to_comet(experiment = experiment_1,
+                   model_name="fraud-detection-xgb-v1", 
+                   model_artifact_path=estimator_1.model_data, 
+                   metadata=metadata)
+# Deploy and evaluate
+deploy_and_evaluate_model(experiment=experiment_1,
+                          estimator=estimator_1,
+                          X_test_scaled=X_test_scaled,
+                          y_test=y_test
+                          ) 
+ 
+While running a Comet experiment from a Jupyter notebook, we need to end the experiment to make sure everything is captured and persisted in the Comet server. See the following code: experiment_1.end() 
+When the baseline experiment is complete, you can run additional experiments with different hyperparameters. Check out the notebook to see the details of both experiments. 
+When the second experiment is complete, navigate to the Comet UI to compare these two experiment runs. 
+View Comet experiments in the UI 
+To access the UI, you can locate the URL in the SageMaker Studio IDE or by executing the code provided in the notebook: experiment_2.url 
+The following screenshot shows the Comet experiments UI. The experiment details are for illustration purposes only and do not represent a real-world fraud detection experiment. 
+ 
+This concludes the fraud detection experiment. 
+Clean up 
+For the experimentation part, SageMaker processing and training infrastructure is ephemeral in nature and shuts down automatically when the job is complete. However, you must still manually clean up a few resources to avoid unnecessary costs: 
+ 
+ Shut down the SageMaker JupyterLab Space after use. For instructions, refer to Idle shutdown. 
+ The Comet subscription renews based on the contract chosen. Cancel the contract when there is no further requirement to renew the Comet subscription. 
+ 
+Advantages of SageMaker and Comet integration 
+Having demonstrated the technical workflow, let’s examine the broader advantages this integration provides. 
+Streamlined model development 
+The Comet and SageMaker combination reduces the manual overhead of running ML experiments. While SageMaker handles infrastructure provisioning and scaling, Comet’s automatic logging captures hyperparameters, metrics, code, installed libraries, and system performance from your training jobs without additional configuration. This helps teams focus on model development rather than experiment bookkeeping.Comet’s visualization capabilities extend beyond basic metric plots. Built-in charts enable rapid experiment comparison, and custom Python panels support domain-specific analysis tools for debugging model behavior, optimizing hyperparameters, or creating specialized visualizations that standard tools can’t provide. 
+Enterprise collaboration and governance 
+For enterprise teams, the combination creates a mature platform for scaling ML projects across regulated environments. SageMaker provides consistent, secure ML environments, and Comet enables seamless collaboration with complete artifact and model lineage tracking. This helps avoid costly mistakes that occur when teams can’t recreate previous results. 
+Complete ML lifecycle integration 
+Unlike point solutions that only address training or monitoring, Comet paired with SageMaker supports your complete ML lifecycle. Models can be registered in Comet’s model registry with full version tracking and governance. SageMaker handles model deployment, and Comet maintains the lineage and approval workflows for model promotion. Comet’s production monitoring capabilities track model performance and data drift after deployment, creating a closed loop where production insights inform your next round of SageMaker experiments. 
+Conclusion 
+In this post, we showed how to use SageMaker and Comet together to spin up fully managed ML environments with reproducibility and experiment tracking capabilities. 
+To enhance your SageMaker workflows with comprehensive experiment management, deploy Comet directly in your SageMaker environment through the AWS Marketplace, and share your feedback in the comments. 
+For more information about the services and features discussed in this post, refer to the following resources: 
+ 
+ Set up Partner AI Apps 
+ Comet Quickstart 
+ GitHub notebook 
+ Comet Documentation 
+ Opik open source platform for LLM observability 
+ 
+ 
+ 
+About the authors 
+Vikesh Pandey is a Principal GenAI/ML Specialist Solutions Architect at AWS, helping large financial institutions adopt and scale generative AI and ML workloads. He is the author of book “Generative AI for financial services.” He carries more than 15 years of experience building enterprise-grade applications on generative AI/ML and related technologies. In his spare time, he plays an unnamed sport with his son that lies somewhere between football and rugby. 
+Naufal Mir is a Senior GenAI/ML Specialist Solutions Architect at AWS. He focuses on helping customers build, train, deploy and migrate machine learning workloads to SageMaker. He previously worked at financial services institutes developing and operating systems at scale. Outside of work, he enjoys ultra endurance running and cycling. 
+Sarah Ostermeier is a Technical Product Marketing Manager at Comet. She specializes in bringing Comet’s GenAI and ML developer products to the engineers who need them through technical content, educational resources, and product messaging. She has previously worked as an ML engineer, data scientist, and customer success manager, helping customers implement and scale AI solutions. Outside of work she enjoys traveling off the beaten path, writing about AI, and reading science fiction.
 • Move your AI agents from proof of concept to production with Amazon Bedrock AgentCore
   Building an AI agent that can handle a real-life use case in production is a complex undertaking. Although creating a proof of concept&nbsp;demonstrates the potential, moving to production requires addressing scalability, security, observability, and operational concerns that don’t surface in development environments. 
 This post explores how Amazon Bedrock AgentCore helps you transition your agentic applications from experimental proof of concept to production-ready systems. We follow the journey of a customer support agent that evolves from a simple local prototype to a comprehensive, enterprise-grade solution capable of handling multiple concurrent users while maintaining security and performance standards. 
@@ -1515,192 +2005,5 @@ Maxfield Hulker is the VP of Community and Business Development at Stability AI.
 Suleman Patel is a Senior Solutions Architect at Amazon Web Services (AWS), with a special focus on machine learning and modernization. Leveraging his expertise in both business and technology, Suleman helps customers design and build solutions that tackle real-world business problems. When he’s not immersed in his work, Suleman loves exploring the outdoors, taking road trips, and cooking up delicious dishes in the kitchen. 
 Isha Dua is a Senior Solutions Architect based in the San Francisco Bay Area working with generative AI model providers and helping customer optimize their generative AI workloads on AWS. She helps enterprise customers grow by understanding their goals and challenges, and guides them on how they can architect their applications in a cloud-based manner while supporting resilience and scalability. She’s passionate about machine learning technologies and environmental sustainability. 
 Fabio Branco is a Senior Customer Solutions Manager at Amazon Web Services (AWS) and a strategic advisor, helping customers achieve business transformation, drive innovation through generative AI and data solutions, and successfully navigate their cloud journeys. Prior to AWS, he held Product Management, Engineering, Consulting, and Technology Delivery roles across multiple Fortune 500 companies in industries, including retail and consumer goods, oil and gas, financial services, insurance, and aerospace and defense.
-• Monitor Amazon Bedrock batch inference using Amazon CloudWatch metrics
-  As organizations scale their use of generative AI, many workloads require cost-efficient, bulk processing rather than real-time responses. Amazon Bedrock batch inference addresses this need by enabling large datasets to be processed in bulk with predictable performance—at 50% lower cost than on-demand inference. This makes it ideal for tasks such as historical data analysis, large-scale text summarization, and background processing workloads. 
-In this post, we explore how to monitor and manage Amazon Bedrock batch inference jobs using Amazon CloudWatch metrics, alarms, and dashboards to optimize performance, cost, and operational efficiency. 
-New features in Amazon Bedrock batch inference 
-Batch inference in Amazon Bedrock is constantly evolving, and recent updates bring significant enhancements to performance, flexibility, and cost transparency: 
- 
- Expanded model support – Batch inference now supports additional model families, including Anthropic’s Claude Sonnet 4 and OpenAI OSS models. For the most up-to-date list, refer to Supported Regions and models for batch inference. 
- Performance enhancements – Batch inference optimizations on newer Anthropic Claude and OpenAI GPT OSS models now deliver higher batch throughput as compared to previous models, helping you process large workloads more quickly. 
- Job monitoring capabilities – You can now track how your submitted batch jobs are progressing directly in CloudWatch, without the heavy lifting of building custom monitoring solutions. This capability provides AWS account-level visibility into job progress, making it straightforward to manage large-scale workloads. 
- 
-Use cases for batch inference 
-AWS recommends using batch inference in the following use cases: 
- 
- Jobs are not time-sensitive and can tolerate minutes to hours of delay 
- Processing is periodic, such as daily or weekly summarization of large datasets (news, reports, transcripts) 
- Bulk or historical data needs to be analyzed, such as archives of call center transcripts, emails, or chat logs 
- Knowledge bases need enrichment, including generating embeddings, summaries, tags, or translations at scale 
- Content requires large-scale transformation, such as classification, sentiment analysis, or converting unstructured text into structured outputs 
- Experimentation or evaluation is needed, for example testing prompt variations or generating synthetic datasets 
- Compliance and risk checks must be run on historical content for sensitive data detection or governance 
- 
-Launch an Amazon Bedrock batch inference job 
-You can start a batch inference job in Amazon Bedrock using the AWS Management Console, AWS SDKs, or AWS Command Line Interface (AWS CLI). For detailed instructions, see Create a batch inference job. 
-To use the console, complete the following steps: 
- 
- On the Amazon Bedrock console, choose Batch inference under Infer in the navigation pane. 
- Choose Create batch inference job. 
- For Job name, enter a name for your job. 
- For Model, choose the model to use. 
- For Input data, enter the location of the Amazon Simple Storage Service (Amazon S3) input bucket (JSONL format). 
- For Output data, enter the S3 location of the output bucket. 
- For Service access, select your method to authorize Amazon Bedrock. 
- Choose Create batch inference job. 
- 
- 
-Monitor batch inference with CloudWatch metrics 
-Amazon Bedrock now automatically publishes metrics for batch inference jobs under the AWS/Bedrock/Batch namespace. You can track batch workload progress at the AWS account level with the following CloudWatch metrics. For current Amazon Bedrock models, these metrics include records pending processing, input and output tokens processed per minute, and for Anthropic Claude models, they also include tokens pending processing. 
-The following metrics can be monitored by modelId: 
- 
- NumberOfTokensPendingProcessing – Shows how many tokens are still waiting to be processed, helping you gauge backlog size 
- NumberOfRecordsPendingProcessing – Tracks how many inference requests remain in the queue, giving visibility into job progress 
- NumberOfInputTokensProcessedPerMinute – Measures how quickly input tokens are being consumed, indicating overall processing throughput 
- NumberOfOutputTokensProcessedPerMinute – Measures generation speed 
- 
-To view these metrics using the CloudWatch console, complete the following steps: 
- 
- On the CloudWatch console, choose Metrics in the navigation pane. 
- Filter metrics by AWS/Bedrock/Batch. 
- Select your modelId to view detailed metrics for your batch job. 
- 
- 
-To learn more about how to use CloudWatch to monitor metrics, refer to Query your CloudWatch metrics with CloudWatch Metrics Insights. 
-Best practices for monitoring and managing batch inference 
-Consider the following best practices for monitoring and managing your batch inference jobs: 
- 
- Cost monitoring and optimization – By monitoring token throughput metrics (NumberOfInputTokensProcessedPerMinute and NumberOfOutputTokensProcessedPerMinute) alongside your batch job schedules, you can estimate inference costs using information on the Amazon Bedrock pricing page. This helps you understand how fast tokens are being processed, what that means for cost, and how to adjust job size or scheduling to stay within budget while still meeting throughput needs. 
- SLA and performance tracking – The NumberOfTokensPendingProcessing metric is useful for understanding your batch backlog size and tracking overall job progress, but it should not be relied on to predict job completion times because they might vary depending on overall inference traffic to Amazon Bedrock. To understand batch processing speed, we recommend monitoring throughput metrics (NumberOfInputTokensProcessedPerMinute and NumberOfOutputTokensProcessedPerMinute) instead. If these throughput rates fall significantly below your expected baseline, you can configure automated alerts to trigger remediation steps—for example, shifting some jobs to on-demand processing to meet your expected timelines. 
- Job completion tracking – When the metric NumberOfRecordsPendingProcessing reaches zero, it indicates that all running batch inference jobs are complete. You can use this signal to trigger stakeholder notifications or start downstream workflows. 
- 
-Example of CloudWatch metrics 
-In this section, we demonstrate how you can use CloudWatch metrics to set up proactive alerts and automation. 
-For example, you can create a CloudWatch alarm that sends an Amazon Simple Notification Service (Amazon SNS) notification when the average NumberOfInputTokensProcessedPerMinute exceeds 1 million within a 6-hour period. This alert could prompt an Ops team review or trigger downstream data pipelines. 
- 
-The following screenshot shows that the alert has In alarm status because the batch inference job met the threshold. The alarm will trigger the target action, in our case an SNS notification email to the Ops team. 
- 
-The following screenshot shows an example of the email the Ops team received, notifying them that the number of processed tokens exceeded their threshold. 
- 
-You can also build a CloudWatch dashboard displaying the relevant metrics. This is ideal for centralized operational monitoring and troubleshooting. 
- 
-Conclusion 
-Amazon Bedrock batch inference now offers expanded model support, improved performance, deeper visibility into the progress of your batch workloads, and enhanced cost monitoring. 
-Get started today by launching an Amazon Bedrock batch inference job, setting up CloudWatch alarms, and building a monitoring dashboard, so you can maximize efficiency and value from your generative AI workloads. 
- 
-About the authors 
-Vamsi Thilak Gudi&nbsp;is a Solutions Architect at Amazon Web Services (AWS) in Austin, Texas, helping Public Sector customers build effective cloud solutions. He brings diverse technical experience to show customers what’s possible with AWS technologies. He actively contributes to the AWS Technical Field Community for Generative AI. 
-Yanyan Zhang&nbsp;is a Senior Generative AI Data Scientist at Amazon Web Services, where she has been working on cutting-edge AI/ML technologies as a Generative AI Specialist, helping customers use generative AI to achieve their desired outcomes. Yanyan graduated from Texas A&amp;M University with a PhD in Electrical Engineering. Outside of work, she loves traveling, working out, and exploring new things. 
-Avish Khosla&nbsp;is a software developer on Bedrock’s Batch Inference team, where the team build reliable, scalable systems to run large-scale inference workloads on generative AI models. he care about clean architecture and great docs. When he is not shipping code, he is on a badminton court or glued to a good cricket match. 
-Chintan Vyas serves as a Principal Product Manager–Technical at Amazon Web Services (AWS), where he focuses on Amazon Bedrock services. With over a decade of experience in Software Engineering and Product Management, he specializes in building and scaling large-scale, secure, and high-performance Generative AI services. In his current role, he leads the enhancement of programmatic interfaces for Amazon Bedrock. Throughout his tenure at AWS, he has successfully driven Product Management initiatives across multiple strategic services, including Service Quotas, Resource Management, Tagging, Amazon Personalize, Amazon Bedrock, and more. Outside of work, Chintan is passionate about mentoring emerging Product Managers and enjoys exploring the scenic mountain ranges of the Pacific Northwest. 
-Mayank Parashar&nbsp;is a Software Development Manager for Amazon Bedrock services.
-• Use AWS Deep Learning Containers with Amazon SageMaker AI managed MLflow
-  Organizations building custom machine learning (ML) models often have specialized requirements that standard platforms can’t accommodate. For example, healthcare companies need specific environments to protect patient data while meeting HIPAA compliance, financial institutions require specific hardware configurations to optimize proprietary trading algorithms, and research teams need flexibility to experiment with cutting-edge techniques using custom frameworks. These specialized needs drive organizations to build custom training environments that give them control over hardware selection, software versions, and security configurations. 
-These custom environments provide the necessary flexibility, but they create significant challenges for ML lifecycle management. Organizations typically try to solve these problems by building additional custom tools, and some teams piece together various open source solutions. These approaches further increase operational costs and require engineering resources that could be better used elsewhere. 
-AWS Deep Learning Containers (DLCs) and managed MLflow on Amazon SageMaker AI offer a powerful solution that addresses both needs. DLCs provide preconfigured Docker containers with frameworks like TensorFlow and PyTorch, including NVIDIA CUDA drivers for GPU support. DLCs are optimized for performance on AWS, regularly maintained to include the latest framework versions and patches, and designed to integrate seamlessly with AWS services for training and inference. AWS Deep Learning AMIs (DLAMIs) are preconfigured Amazon Machine Images (AMIs) for Amazon Elastic Compute Cloud (Amazon EC2) instances. DLAMIs come with popular deep learning frameworks like PyTorch and TensorFlow, and are available for CPU-based instances and high-powered GPU-accelerated instances. They include NVIDIA CUDA, cuDNN, and other necessary tools, with AWS managing the updates of DLAMIs. Together, DLAMIs and DLCs provide ML practitioners with the infrastructure and tools to accelerate deep learning in the cloud at scale. 
-SageMaker managed MLflow delivers comprehensive lifecycle management with one-line automatic logging, enhanced comparison capabilities, and complete lineage tracking. As a fully managed service on SageMaker AI, it alleviates the operational burden of maintaining tracking infrastructure. 
-In this post, we show how to integrate AWS DLCs with MLflow to create a solution that balances infrastructure control with robust ML governance. We walk through a functional setup that your team can use to meet your specialized requirements while significantly reducing the time and resources needed for ML lifecycle management. 
-Solution overview 
-In this section, we describe the architecture and AWS services used to integrate AWS DLCs with SageMaker managed MLflow to implement the solution.The solution uses several AWS services together to create a scalable environment for ML development: 
- 
- AWS DLCs provide preconfigured Docker images with optimized ML frameworks 
- SageMaker managed MLflow introduces enhanced model registry capabilities with fine-grained access controls and adds generative AI support through specialized tracking for LLM experiments and prompt management 
- Amazon Elastic Container Registry (Amazon ECR) stores and manages container images 
- Amazon Simple Storage Service (Amazon S3) stores input and output artifacts 
- Amazon EC2 runs the AWS DLCs 
- 
-For this use case, you will develop a TensorFlow neural network model for abalone age prediction with integrated SageMaker managed MLflow tracking code. Next, you will pull an optimized TensorFlow training container from the AWS public ECR repository and configure an EC2 instance with access to the MLflow tracking server. You will then execute the training process within the DLC while storing model artifacts in Amazon S3 and logging experiment results to MLflow. Finally, you will view and compare experiment results in the MLflow UI to evaluate model performance. 
-The following diagram that shows the interaction between various AWS services, AWS DLCs, and SageMaker managed MLflow for the solution. 
- 
-The workflow consists of the following steps: 
- 
- Develop a TensorFlow neural network model for abalone age prediction. Integrate SageMaker managed MLflow tracking within the model code to log parameters, metrics, and artifacts. 
- Pull an optimized TensorFlow training container from the AWS public ECR repository. Configure Amazon EC2 and DLAMI with access to the MLflow tracking server using an AWS Identity and Access Management (IAM) role for EC2. 
- Execute the training process within the DLC running on Amazon EC2, store model artifacts in Amazon S3, and log all experiment results and register model in MLflow. 
- Compare experiment results through the MLflow UI. 
- 
-Prerequisites 
-To follow along with this walkthrough, make sure you have the following prerequisites: 
- 
- An AWS account with billing enabled. 
- An EC2 instance (t3.large or larger) running Ubuntu 20.4 or later with at least 20 GB of available disk space for Docker images and containers. 
- Docker (latest) installed on the EC2 instance. 
- The AWS Command Line Interface (AWS CLI) version 2.0 or later. 
- An IAM role with permissions for the following: 
-   
-   Amazon EC2 to talk to SageMaker managed MLflow. 
-   Amazon ECR to pull the TensorFlow container. 
-   SageMaker managed MLflow to track experiments and register models. 
-    
- An Amazon SageMaker Studio domain. To create a domain, refer to Guide to getting set up with Amazon SageMaker AI. Add the sagemaker-mlflow:AccessUI permission to the SageMaker execution role created. This permission makes it possible to navigate to MLflow from the SageMaker Studio console. 
- A SageMaker managed MLflow tracking server set up in SageMaker AI. 
- Internet access from the EC2 instance to download the abalone dataset. 
- The GitHub repository cloned to your EC2 instance. 
- 
-Deploy the solution 
-Detailed step-by-step instructions are available in the accompanying GitHub repository’s README file. The walkthrough covers the entire workflow—from provisioning infrastructure and setting up permissions to executing your first training job with comprehensive experiment tracking. 
-Analyze experiment results 
-After you’ve implemented the solution following the steps in the README file, you can access and analyze your experiment results. The following screenshots demonstrate how SageMaker managed MLflow provides comprehensive experiment tracking, model governance, and auditability for your deep learning workloads. When training is complete, all experiment metrics, parameters, and artifacts are automatically captured in MLflow, providing a central location to track and compare your model development journey. The following screenshot shows the experiment abalone-tensorflow-experiment with a run named unique-cod-104. This dashboard gives you a complete overview of all experiment runs, so you can compare different approaches and model iterations at a glance. 
- 
-The following screenshot shows the detailed information for run unique-cod-104, including the registered model abalone-tensorflow-custom-callback-model (version v2). This view provides critical information about model provenance, showing exactly which experiment run produced which model version, which is a key component of model governance. 
- 
-The following visualization tracks the training loss across epochs, captured using a custom callback. Such metrics help you understand model convergence patterns and evaluate training performance, giving insights into potential optimization opportunities. 
- 
-The registered models view illustrated in the following screenshot shows how abalone-tensorflow-custom-callback-model is tracked in the model registry. This integration enables versioning, model lifecycle management, and deployment tracking. 
- 
-The following screenshot illustrates one of the solution’s most powerful governance features. When logging a model with mlflow.tensorflow.log_model() using the registered_model_name parameter, the model is automatically registered in the Amazon SageMaker Model Registry. This creates full traceability from experiment to deployed model, establishing an audit trail that connects your training runs directly to production models. 
- 
-This seamless integration between your custom training environments and SageMaker governance tools helps you maintain visibility and compliance throughout your ML lifecycle. 
-The model artifacts are automatically uploaded to Amazon S3 after training completion, as illustrated in the following screenshot. This organized storage structure makes sure all model components including weights, configurations, and associated metadata are securely preserved and accessible through a standardized path. 
- 
-Cost implications 
-The following resources incur costs. Refer to the respective pricing page to estimate costs. 
- 
- Amazon EC2 On-Demand – Refer to the instance size and AWS Region where it has been provisioned. Storage using Amazon Elastic Block Store (Amazon EBS) is additional. 
- SageMaker managed MLflow – You can find the details under On-demand pricing for SageMaker MLflow for tracking and storage. 
- Amazon S3 – Refer to pricing for storage and requests. 
- SageMaker Studio – There is no additional charges for using the SageMaker Studio UI. However, any EFS or EBS volumes attached, jobs or resources launched from SageMaker Studio applications, or JupyterLab applications will incur costs. 
- 
-Clean up 
-Complete the following steps to clean up your resources: 
- 
- Delete the MLflow tracking server, because it continues to incur costs as long as it’s running: 
- 
- 
- aws sagemaker delete-mlflow-tracking-server \ 
-   --tracking-server-name &lt;your-tracking-server-name&gt; 
- 
- 
- Stop the EC2 instance to avoid incurring additional costs: 
- 
- 
- aws ec2 stop-instances --instance-ids &lt;your-instance-id&gt; 
- 
- 
- Remove training data, model artifacts, and MLflow experiment data from S3 buckets: 
- 
- 
- aws s3 rm s3://&lt;your-bucket&gt;/&lt;your-MLflow-folder&gt; –recursive 
- 
- 
- Review and clean up any temporary IAM roles created for the EC2 instnce. 
- Delete your SageMaker Studio domain. 
- 
-Conclusion 
-AWS DLCs and SageMaker managed MLflow provide ML teams a solution that balances the trade-off between governance and flexibility. This integration helps data scientists seamlessly track experiments and deploy models for inference, and helps administrators establish secure, scalable SageMaker managed MLflow environments. Organizations can now standardize their ML workflows using either AWS DLCs or DLAMIs while accommodating specialized requirements, ultimately accelerating the journey from model experimentation to business impact with greater control and efficiency. 
-In this post, we explored how to integrate custom training environments with SageMaker managed MLflow to gain comprehensive experiment tracking and model governance. This approach maintains the flexibility of your preferred development environment while benefiting from centralized tracking, model registration, and lineage tracking. The integration provides a perfect balance between customization and standardization, so teams can innovate while maintaining governance best practices. 
-Now that you understand how to track training in DLCs with SageMaker managed MLflow, you can implement this solution in your own environment. All code examples and implementation details from this post are available in our GitHub repository. 
-For more information, refer to the following resources: 
- 
- AWS Deep Learning AMIs Developer Guide 
- AWS Deep Learning Containers Developer Guide 
- Amazon SageMaker AI Developer Guide 
- Accelerate generative AI development using managed MLflow on Amazon SageMaker AI 
- 
- 
- 
-About the authors 
-Gunjan Jain, an AWS Solutions Architect based in Southern California, specializes in guiding large financial services companies through their cloud transformation journeys. He expertly facilitates cloud adoption, optimization, and implementation of Well-Architected best practices. Gunjan’s professional focus extends to machine learning and cloud resilience, areas where he demonstrates particular enthusiasm. Outside of his professional commitments, he finds balance by spending time in nature. 
-Rahul Easwar is a Senior Product Manager at AWS, leading managed MLflow and Partner AI Apps within the SageMaker AIOps team. With over 15 years of experience spanning startups to enterprise technology, he leverages his entrepreneurial background and MBA from Chicago Booth to build scalable ML platforms that simplify AI adoption for organizations worldwide. Connect with Rahul on&nbsp;LinkedIn to learn more about his work in ML platforms and enterprise AI solutions.
 
 ⸻
