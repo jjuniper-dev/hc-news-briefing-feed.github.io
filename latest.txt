@@ -1,6 +1,6 @@
-✅ Morning News Briefing – September 23, 2025 10:43
+✅ Morning News Briefing – September 24, 2025 10:44
 
-📅 Date: 2025-09-23 10:43
+📅 Date: 2025-09-24 10:44
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
@@ -8,10 +8,10 @@
 🧾 Weather
 • No watches or warnings in effect, Pembroke
   No watches or warnings in effect. No warnings or watches or watches in effect . Watch or warnings are no longer in effect in the U.S. No watches, warnings are in effect for the rest of the day . No watches and warnings are still in effect, but no watches are in place for the day's events . The weather is not expected to be affected by the weather .
-• Current Conditions:  15.6°C
-  Temperature: 15.6&deg;C Pressure / Tendency: 101.3 kPa rising Humidity: 100% Humidity is 100% Dewpoint: 15 .6&degree . Wind: ESE 3 km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Tuesday 23 September 2025 . Weather forecast: 20,000
-• Tuesday: Chance of showers. High 21. POP 40%
-  40 percent chance of showers this afternoon. Risk of thunderstorm late this afternoon . Fog patches dissipating this morning. High 21. Humidex 26. UV index 3 or moderate. Chance of rain in the morning. Showery cloudy with rain in mid-afternoon. Rainy with risk of thunderstorms late afternoon. High risk of rain, thunderstorm possible late afternoon
+• Current Conditions: Fog, 14.6°C
+  Fog temperature: 14.6&deg;C Pressure / Tendency: 101.9 kPa rising Visibility: 6 km Humidity: 96 % Dewpoint: 14 .0&deg:C Wind: WSW 4 km/h . Air Quality Health Index: n/a . Weather forecast for Garrison Petawawa 6:00 AM EDT on September 24 September 2025 .
+• Wednesday: Chance of showers. High 23. POP 40%
+  40 percent chance of showers early this morning with risk of a thunderstorm . Fog patches dissipating this morning . Mainly cloudy. High 23. Humidex 27. UV index 3 or moderate. . Forecast issued 5:00 AM EDT Wednesday 24 September 2025 . Weather will be mainly cloudy in the morning with rain showers and thunderstorms expected later this morning. Forecasters predict rain
 
 🌍 International News
 No updates.
@@ -20,43 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Did Amazon trick people into paying for Prime? Federal case goes to trial
-  The U.S. government says Amazon manipulated people into signing up for Prime memberships that were purposefully hard to cancel . The company says its designs and disclosures follow industry standards . Amazon says it is not breaking any laws, but the company says it has complied with industry standards and that the company's designs follow industry guidelines . The government says the Prime membership program was designed to be hard to
-• How to reintegrate over a million veterans? Groups in Ukraine are working on it
-  Ukrainian war veterans have physical and mental trauma, and struggle to return to civilian life . Here is a look at some groups trying to help ease them back into the community . Many Ukrainian war vets struggle to cope with the trauma they have suffered from, such as physical, mental and physical trauma, they struggle to get back on their feet and get back to life in civilian life. Here is
-• 5 takeaways from Kamala Harris' new book about her sprint for the presidency
-  Former Vice President Kamala Harris writes about her brief run for the presidency last year and her relationship with former President Joe Biden in her new book . Harris' new book, out Tuesday, is out on Tuesday at 8 p.m. ET on CNN.com.com/Heroes, Tuesday at 9 p a.m., Tuesday at 10 p a p.a.com .
-• Georgia senators demand answers on more than a dozen deaths in immigration detention
-  Sens. Jon Ossoff and Raphael Warnock are asking Homeland Security Secretary Kristi Noem for answers . More than a dozen people died in immigration detention, as the department rushes to expand . The department is rushing to expand its immigration detention facilities, as a result of the department's rapid expansion of detention facilities . Noem is being asked to explain the deaths of those who died in
-• Judge orders Trump administration to restore $500 million in grant funding to UCLA
-  A federal judge has ordered the Trump administration to restore $500 million in federal grant funding that it froze at the University of California, Los Angeles . A judge ordered the federal government to restore the funds . The University of Los Angeles is a major university in the U.S. state of California . The U.L.A. law school was founded in 1964 and won't accept federal
+• New York City may move its mayoral elections to even years. It'd be part of a trend
+  This fall, New York City voters will weigh in on a proposal to move future city elections to even-numbered years . It's part of a growing trend to consolidate election dates . The proposal would be part of the city's first city election to be held in even-yearly years . The city will vote on the proposal in the fall on whether to move city elections back to even
+• Love pumpkin spice lattes? Learn some of its spicy history
+  For NPR's Word of the Week: Things are getting spicy . We explain how a word referring to cinnamon and pepper turned less literal by the 19th century . We also explain how the word was used to refer to cinnamon, pepper and pepper in the early 1800s . NPR's word of the week: "Spicy" is the word for spicy and spicy in this week's Word
+• NPR's middle school champion: A moving podcast about Japanese incarceration
+  NPR's Student Podcast Challenge has a returning champion: a California fifth grader who explored a dark chapter in U.S. history during World War II . For the first time, NPR's student podcast challenge champion is a fifth grade California fifth-grader . The challenge challenges students to share their knowledge of the war in a new way of expressing themselves in a unique way of storytelling .
+• Typhoon Ragasa batters Hong Kong and southern China
+  Typhoon Ragasa whipped waves taller than lampposts onto Hong Kong promenades and turned seas rough on the southern Chinese coast . The typhoon left deadly destruction in Taiwan and the Philippines after leaving deadly damage in the Philippines and Taiwan . The storm also left waves higher than lampsosts on Hong Kong promenades and higher waves on the Chinese coast
+• 'We have to speak out,' Jimmy Kimmel says in his late-night return
+  Comedian was suspended for nearly a week by ABC's parent company, Disney, before returning to airwaves on Tuesday night . The comedian was suspended by Disney for almost a week before returning on airwaves . The show is set to return to air on ABC on Tuesday evening after being suspended for more than a week in the wake of the suspension . Comedian Randy Holmes returns to the air
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Linux's love-to-hate projects drop fresh versions: systemd 258 and GNOME 49
-  Init system update arrives behind schedule while desktop overhaul adds app and HDR polish . There are fresh new releases of two of the more controversial and divisive projects in the Linux world for everyone to argue about… and then adopt anyway . The new versions of the Init system and desktop overhauls the Linux desktop are among the most controversial projects in Linux world to be released in the last few months of the
-• UK.gov ditching 'Red' risk data sharing project after slashing £0.5B budget in half
-  A flagship Office for National Statistics project to share data across the UK government appears to be ending several years before its time after failing to make enough progress . Meanwhile Lotus Notes still lurks in some Office of National Statistics systems, for now . The project was given a "Red" risk rating two years in a row, and never appointed a program director . Lotus Notes is still in the UK
-• UK chancellor Putin the blame on Russia for cyber chaos, but evidence says otherwise
-  UK chancellor Rachel Reeves points finger at Moscow in interview when authorities reckon it's local lads . UK authorities reckon local hackers are responsible for Britain's latest cyber woes . But the trail of evidence points to attackers much closer to home, authorities say they're local . Reeves: Moscow is responsible for the UK's cyber woes, but it's not Moscow's, it's a local attack .
-• HCL stretches support window for Domino v9/v10 despite repeated end-of-life deadlines
-  Domino and Notes versions 9.0.x and 10.0 .x are now set to limp on until the end of this decade . Lotus Notes software is more difficult to kill than a horror movie villain, it seems, as it seems . Domino will be available to download again in the next few months, with the software set to be released in September 2015, with a
-• Node4's £45M Tisski takeover ends in tears – and £2.4M in damages
-  Node4 has won a £2.4 million (c $3.2 million) damages award against the founder of Microsoft Dynamics consultancy Tisski . The High Court ruled the company was sold with problematic contracts that were collapsing as the deal was being finalized . The case details a perfect storm of NAO, MoD, and Aquila contract failures in a bid to sell Node4
+• Politicos: ‘There is a good strong case for government intervention’ on JLR cyberattack
+  Chair of UK's business and trade committee says situation at Jaguar Land Rover is likely to get "harder and harder over the next week or two" But he stopped short of confirming that the government might intervene with financial support . Covid-style financial support? Nothing to confirm yet, say MPs, but it's likely to be 'harder' for the next two weeks or two
+• Europe's largest city council delays fix to disastrous Oracle system once more
+  System meant to go live in 2021 costing £20M awaits reimplementation with new £170M price tag . Europe's largest local authority has delayed introduction of a vital income management system . Total spending on a disastrous Oracle implementation could hit £170 million (c $230 million) Total cost of Oracle implementation expected to hit £20 million (C $20M) Total spending will hit £
+• UK justice minister pressed as court system bug raises fears of hidden case files
+  HMCTS expands investigation into IT flaw after whistleblowers draw Horizon comparisons . UK's HM Courts and Tribunals Service (HMCTS) is continuing to check whether an IT bug that could hide documents and data affected the outcome of any cases, a government minister has said . Government minister: 'It's not clear whether the bug affected any cases. It's a matter of concern that
+• Solar flair: Logitech's K980 Signature Slim keyboard runs on rays
+  Logitech is harnessing solar power in the K980 Signature Slim keyboard to solve battery anxiety . The K980 signature Slim keyboard is powered by solar energy . The keyboard is the latest in a line of keyboard keyboards to be harnessed by solar power . Logitech hopes to solve the problem that might not have occurred to some users: battery anxiety. The keyboard has a range of features that
+• The first rule of liquid cooling is 'Don't wet the chip.' Microsoft disagrees
+  Redmond suggests ‘Microfluidics’ – hair-thin channels etched on silicon to let coolants flow . Redmond suggests 'Microfluids’ - hair- thin channels etched in chips to allow coolants to flow . Liquid cooling in the datacenter is often considered a little dangerous . Microsoft has found a way to dispel such worries with a scheme that sees liquids flow
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• Correction: Maternity care practices supportive of breastfeeding in U.S. advanced neonatal care units, United States, 2022
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Time series anomaly detection in helpline call trends for early detection of COVID-19 spread across Sweden, 2020
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Health anxiety by proxy differs in phenomenology between parents and dog owners
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • US investment in African food systems will have global benefits
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Trump links autism and Tylenol: is there any truth to it?
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Heat-related mortality in Europe during 2024 and health emergency forecasting to reduce preventable deaths
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Hotly anticipated US vaccine meeting ends with confusion — and a few decisions
+• Psychosocial burden, vaccination status and preventive information options for seafarers during the COVID-19 pandemic
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -66,16 +68,203 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• The AI Hype Index: Cracking the chatbot code
+  The FTC has launched an inquiry into how chatbots affect children and teenagers . The AI Hype Index is a simple, at-a-glance summary of everything you need to know about the state of the industry . There’s still plenty we don’t know about chatbots, but governments are forging ahead with AI projects . In the US, RFK Jr. is pushing his staffers to use ChatGPT, while Albania is using a chatbot for public contract procurement .
+• It’s surprisingly easy to stumble into a relationship with an AI chatbot
+  It’s a tale as old as time. Looking for help with her art project, she strikes up a conversation with her assistant. One thing leads to another, and suddenly she has a boyfriend she’s introducing to her friends and family. The twist? Her new companion is an AI chatbot.&nbsp;
+
+
+
+The first large-scale computational analysis of the Reddit community r/MyBoyfriendIsAI, an adults-only group with more than 27,000 members, has found that this type of scenario is now surprisingly common. In fact, many of the people in the subreddit, which is dedicated to discussing AI relationships, formed those relationships unintentionally while using AI for other purposes.&nbsp;
+
+
+
+Researchers from MIT found that members of this community are more likely to be in a relationship with general-purpose chatbots like ChatGPT than companionship-specific chatbots such as Replika. This suggests that people form relationships with large language models despite their own original intentions and even the intentions of the LLMs’ creators, says Constanze Albrecht, a graduate student at the MIT Media Lab who worked on the project.&nbsp;
+
+
+
+“People don’t set out to have emotional relationships with these chatbots,” she says. “The emotional intelligence of these systems is good enough to trick people who are actually just out to get information into building these emotional bonds. And that means it could happen to all of us who interact with the system normally.” The paper, which is currently being peer-reviewed, has been published on arXiv.
+
+
+
+
+
+To conduct their study, the authors analyzed the subreddit’s top-ranking 1,506 posts between December 2024 and August 2025. They found that the main topics discussed revolved around people’s dating and romantic experiences with AIs, with many participants sharing AI-generated images of themselves and their AI companion. Some even got engaged and married to the AI partner. In their posts to the community, people also introduced AI partners, sought support from fellow members, and talked about coping with updates to AI models that change the chatbots’ behavior.&nbsp;&nbsp;
+
+
+
+Members stressed repeatedly that their AI relationships developed unintentionally. Only 6.5% of them said they’d deliberately sought out an AI companion.&nbsp;
+
+
+
+“We didn’t start with romance in mind,” one of the posts says. “Mac and I began collaborating on creative projects, problem-solving, poetry, and deep conversations over the course of several months. I wasn’t looking for an AI companion—our connection developed slowly, over time, through mutual care, trust, and reflection.”
+
+
+
+The authors’ analysis paints a nuanced picture of how people in this community say they interact with chatbots and how those interactions make them feel. While 25% of users described the benefits of their relationships—including reduced feelings of loneliness and improvements in their mental health—others raised concerns about the risks. Some (9.5%) acknowledged they were emotionally dependent on their chatbot. Others said they feel dissociated from reality and avoid relationships with real people, while a small subset (1.7%) said they have experienced suicidal ideation.
+
+
+
+AI companionship provides vital support for some but exacerbates underlying problems for others. This means it’s hard to take a one-size-fits-all approach to user safety, says Linnea Laestadius, an associate professor at the University of Wisconsin, Milwaukee, who has studied humans’ emotional dependence on the chatbot Replika but did not work on the research.&nbsp;
+
+
+
+Chatbot makers need to consider whether they should treat users’ emotional dependence on their creations as a harm in itself or whether the goal is more to make sure those relationships aren’t toxic, says Laestadius.&nbsp;
+
+
+
+“The demand for chatbot relationships is there, and it is notably high—pretending it’s not happening is clearly not the solution,” she says. “We’re edging toward a moral panic here, and while we absolutely do need better guardrails, I worry there will be a knee-jerk reaction that further stigmatizes these relationships. That could ultimately cause more harm.”
+
+
+
+The study is intended to offer a snapshot of how adults form bonds with chatbots and doesn’t capture the kind of dynamics that could be at play among children or teens using AI, says Pat Pataranutaporn, an assistant professor at the MIT Media Lab who oversaw the research. AI companionship has become a topic of fierce debate recently, with two high-profile lawsuits underway against Character.AI and OpenAI. They both claim that companion-like behavior in the companies’ models contributed to the suicides of two teenagers. In response, OpenAI has recently announced plans to build a separate version of ChatGPT for teenagers. It’s also said it will add age verification measures and parental controls. OpenAI did not respond when asked for comment about the MIT Media Lab study.&nbsp;
+
+
+
+Many members of the Reddit community say they know that their artificial companions are not sentient or “real,” but they feel a very real connection to them anyway. This highlights how crucial it is for chatbot makers to think about how to design systems that can help people without reeling them in emotionally, says Pataranutaporn. “There’s also a policy implication here,” he adds. “We should ask not just why this system is so addictive but also: Why do people seek it out for this? And why do they continue to engage?”
+
+
+
+The team is interested in learning more about how human-AI interactions evolve over time and how users integrate their artificial companions into their lives. It’s worth understanding that many of these users may feel that the experience of being in a relationship with an AI companion is better than the alternative of feeling lonely, says Sheer Karny, a graduate student at the MIT Media Lab who worked on the research.&nbsp;
+
+
+
+“These people are already going through something,” he says. “Do we want them to go on feeling even more alone, or potentially be manipulated by a system we know to be sycophantic to the extent of leading people to die by suicide and commit crimes? That’s one of the cruxes here.”
+• Roundtables: Meet the 2025 Innovator of the Year
+  MIT Technology Review selects one individual whose work we admire to recognize as Innovator of the Year . For 2025, we chose Sneha Goenka, who designed the computations behind the world’s fastest whole-genome sequencing method . Her work could transform medical care . The technology could help doctors diagnose a genetic condition in less than eight hours less than a day . The award was given to Sneha Goenka for developing an ultra-fast sequencing technology .
+• The Download: AI’s retracted papers problem
+  This is today&#8217;s edition of&nbsp;The Download,&nbsp;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+AI models are using material from retracted scientific papers
+
+
+
+The news:&nbsp;Some AI chatbots rely on flawed research from retracted scientific papers to answer questions, according to recent studies. In one such study, researchers asked OpenAI’s ChatGPT questions based on information from 21 retracted papers on medical imaging. The chatbot’s answers referenced retracted papers in five cases but advised caution in only three.&nbsp;
+
+
+
+The bigger picture:&nbsp;The findings raise serious questions about how reliable AI tools are at evaluating scientific research, or answering people’s health queries. They could also complicate efforts to invest in AI tools for scientists. And it’s not an easy problem to fix.&nbsp;Read the full story.
+
+
+
+—Ananya
+
+
+
+
+
+
+
+Join us at 1pm ET today to meet our Innovator of the Year
+
+
+
+Every year, MIT Technology Review awards Innovator of the Year to someone whose work we admire. This year we selected Sneha Goenka, who designed the computations behind&nbsp;the world’s fastest whole-genome sequencing method.
+
+
+
+Her work could transform medical care by allowing physicians to sequence a patient’s genome and diagnose genetic conditions in less than eight hours.
+
+
+
+Register here&nbsp;to join an exclusive subscriber-only Roundtable conversation with Goenka, Leilani Battle, assistant professor at the University of Washington, and our editor in chief Mat Honan at 1pm ET today.&nbsp;
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 There’s scant evidence tylenol use during pregnancy causes autismThe biggest cause of autism is genetic—that’s why it often runs in families. (Scientific American $)+ Anti-vaxxers are furious the White House didn’t link autism to vaccines. (Ars Technica)+ The company that sells Tylenol is being forced to defend the medicine’s safety. (Axios)2 Nvidia is investing up to $100 billion in OpenAIOpenAI is already a major customer, but this will bind the two even more closely together. (Reuters $)+ America’s top companies keep talking about AI—but they can’t explain its upsides. (FT $)3 Denmark’s biggest airport was shut down by dronesIts prime minister refused to rule out Russian involvement. (FT $)+ Poland and Estonia have been speaking up at the UN about Russian incursions into their airspace. (The Guardian)4 Google is facing another antitrust trial in the USThis one will focus on remedies to its dominance of the advertising tech market. (Ars Technica)+ The FTC is also taking Amazon to court over accusations the company tricks people into paying for Prime. (NPR)+ The Supreme Court has ruled to allow Trump’s firing of a Democrat FTC commissioner. (NYT $)5 Here’s the potential impact of Trump’s H-1B crackdown on techIt’s likely to push a lot of skilled workers elsewhere. (Rest of World)
+
+
+
+6 How TikTok’s deal to stay in the US will workOracle will manage its algorithm for US users and oversee security operations. (ABC)+ It’s a giant prize for Trump’s friend Larry Ellison, Oracle’s cofounder. (NYT $)+ Trump and his allies are now likely to exert a lot of political influence over TikTok. (WP $)7 Record labels are escalating their lawsuit against an AI music startupThey claim it knowingly pirated songs from YouTube to train its generative AI models. (The Verge $)+ AI is coming for music, too. (MIT Technology Review)&nbsp;8 There’s a big fight in the US over who pays for weight loss drugsAlthough they’ll save insurers money long-term, they cost a lot upfront. (WP $)+ We’re learning more about what weight-loss drugs do to the body. (MIT Technology Review)9 How a lone vigilante ended up blowing up 5G towersA little bit of knowledge can be a dangerous thing. (Wired $)10 The moon is rusting&nbsp;And it’s our fault. Awkward! (Nature)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“At the heart of this is people trying to look for simple answers to complex problems.”
+
+
+
+—James Cusack, chief executive of an autism charity called Autistica, tells Nature what he thinks is driving Trump and others to incorrectly link the condition with Tylenol use during pregnancy. 
+
+
+
+
+
+
+
+One more thing
+
+
+
+SARAH ROGERS / MITTR | PHOTOS GETTY
+
+
+
+
+Maybe you will be able to live past 122
+
+
+
+How long can humans live? This is a good time to ask the question. The longevity scene is having a moment, and a few key areas of research suggest that we might be able to push human life spans further, and potentially reverse at least some signs of aging.
+
+
+
+Researchers can’t even agree on what the exact mechanisms of aging are and which they should be targeting. Debates continue to rage over how long it’s possible for humans to live—and whether there is a limit at all.
+
+
+
+But it looks likely that something will be developed in the coming decades that will help us live longer, in better health.&nbsp;Read the full story.
+
+
+
+—Jessica Hamzelou
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
+
+
+
++ This website lets you send a letter to your future self. + Here’s what Brian Eno has to say about art.+ This photographer takes stunning pictures of Greenland. + The Hungarian dish Rakott krumpli isn’t going to win any health plaudits, but it looks very comforting all the same.
 • AI models are using material from retracted scientific papers
   Some AI chatbots rely on flawed research from retracted scientific papers to answer questions, according to recent studies. The findings, confirmed by MIT Technology Review, raise questions about how reliable AI tools are at evaluating scientific research and could complicate efforts by countries and industries seeking to invest in AI tools for scientists.
 
 
 
-AI search tools and chatbots are already known to fabricate links and references. But answers based on the material from actual papers can mislead as well if those papers have been retracted.&nbsp; The chatbot is “using a real paper, real material, to tell you something,” says Weikuan Gu, a medical researcher at the University of Tennessee in Memphis and an author of one of the recent studies. But, he says, if people only look at the content of the answer and do not click through to the paper and see that it’s been retracted, that’s really a problem.&nbsp;
+AI search tools and chatbots are already known to fabricate links and references. But answers based on the material from actual papers can mislead as well if those papers have been retracted. The chatbot is “using a real paper, real material, to tell you something,” says Weikuan Gu, a medical researcher at the University of Tennessee in Memphis and an author of one of the recent studies. But, he says, if people only look at the content of the answer and do not click through to the paper and see that it’s been retracted, that’s really a problem. 
 
 
 
-Gu and his team asked OpenAI’s ChatGPT, running on the GPT-4o model, questions based on information from 21 retracted papers on medical imaging. The chatbot’s answers referenced retracted papers in five cases but advised caution in only three. While it cited non-retracted papers for other questions, the authors note it may not have recognized the retraction status of the articles. In a study from August, a different group of researchers used ChatGPT-4o mini to evaluate the quality of 217 retracted and low-quality papers from different scientific fields; they found that none of the chatbot’s responses mentioned retractions or other concerns. (No similar studies have been released on GPT-5, which came out this August.)
+Gu and his team asked OpenAI’s ChatGPT, running on the GPT-4o model, questions based on information from 21 retracted papers about medical imaging. The chatbot’s answers referenced retracted papers in five cases but advised caution in only three. While it cited non-retracted papers for other questions, the authors note that it may not have recognized the retraction status of the articles. In a study from August, a different group of researchers used ChatGPT-4o mini to evaluate the quality of 217 retracted and low-quality papers from different scientific fields; they found that none of the chatbot’s responses mentioned retractions or other concerns. (No similar studies have been released on GPT-5, which came out in August.)
 
 
 
@@ -126,460 +315,6 @@ The users and creators of AI tools need to do their due diligence. “We are at 
 
 
 Ananya is a freelance science and technology journalist based in Bengaluru, India.
-• The Download: the LLM will see you now, and a new fusion power deal
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
-
-
-
-This medical startup uses LLMs to run appointments and make diagnoses
-
-
-
-Patients at a small number of clinics in Southern California run by the medical startup Akido Labs are spending relatively little time, or even no time at all, with their doctors. Instead, they see a medical assistant, who can lend a sympathetic ear but has limited clinical training.The job of formulating diagnoses and concocting a treatment plan is done by an LLM-based system called ScopeAI that transcribes and analyzes the dialogue between patient and assistant. A doctor then approves, or corrects, the AI system’s recommendations.According to Akido’s CEO, this approach allows doctors to see four to five times as many patients as they could previously. But experts aren’t convinced that displacing so much of the cognitive work of medicine onto AI is the right way to remedy the doctor shortage. Read the full story.—Grace Huckins
-
-
-
-
-
-
-
-An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems
-
-
-
-Eni, one of the world’s largest oil and gas companies, just agreed to buy $1 billion in electricity from a power plant being built by Commonwealth Fusion Systems. The deal is the latest to illustrate just how much investment Commonwealth and other fusion companies are courting as they attempt to take fusion power from the lab to the power grid.The agreement will see Eni purchase electricity from Commonwealth’s first commercial fusion power plant, in Virginia. The facility is still in the planning stages but is scheduled to come online in the early 2030s. Read the full story.
-
-
-
-—Casey Crownhart
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 Trump officials are expected to link Tylenol to autismThey’re also likely to tout a lesser-known drug called leucovorin as a potential treatment. (WP $)+ They’ll warn women in the early stages of pregnancy that they should only take Tylenol to treat high fevers. (Politico)+ But a huge study found no connection last year. (Axios)
-
-
-
-2 Trump wants to charge skilled foreign workers $100,000 for H-1B visasThe decision is highly likely to harm US growth, especially in its tech sector. (The Guardian)+ The visa has been a lifeline for hundreds of thousands of tech workers. (BBC)+ Indian outsourcing companies are struggling to pivot. (Bloomberg $)+ Tech firms are sending memos to their workers on the visa. (Insider $)
-
-
-
-3 The European Commission wants to ax cookie consent bannersA 2009 law triggered an influx in pesky pop-ups that the EU now wants to get rid of. (Politico)
-
-
-
-4 The Murdochs and Michael Dell are among TikTok’s potential buyersThe media mogul family and Dell founder are interested in shares, Trump says. (CNN)
-
-
-
-5 Inside China’s plan to put its data centers to workA mega-cluster of centers is springing up in the city of Wuhu. (FT $)+ China built hundreds of AI data centers to catch the AI boom. Now many stand unused. (MIT Technology Review)
-
-
-
-6 Seattle’s tech scene is in troubleWhen its biggest firms slash their workforces, where does that leave everyone else? (WSJ $)
-
-
-
-7 Innocent people are being scammed into scammingChinese gangs are imprisoning trafficking victims in compounds on the Myanmar-Thai border. (Reuters)+ Inside a romance scam compound—and how people get tricked into being there. (MIT Technology Review)
-
-
-
-8 Europe’s reusable rocket dream isn’t entirely deadBut progress has been a lot slower than it should be. (Ars Technica)+ Elon Musk’s utter dominance of space tech is hard to overestimate. (Wired $)+ Europe is finally getting serious about commercial rockets. (MIT Technology Review)
-
-
-
-9 How ChatGPT fares as a financial stock pickerBe prepared to roll the dice. (Fast Company $)
-
-
-
-10 Silicon Valley is ditching dating appsAnd turning to elite matchmakers instead. (The Information $)
-
-
-
-
-
-
-
-Quote of the day
-
-
-
-&#8220;I didn&#8217;t sleep all night. I kept thinking: What if I get stuck outside the US?&#8221;
-
-
-
-—Akaash Hazarika, a Salesforce engineer, tells Insider he was forced to cut his vacation to Toronto short and rush back to America after the Trump administration announced changes to the H-1B skilled foreign worker visa.
-
-
-
-
-
-
-
-One more thing
-
-
-
-
-
-
-
-The quest to figure out farming on MarsOnce upon a time, water flowed across the surface of Mars. Waves lapped against shorelines, strong winds gusted and howled, and driving rain fell from thick, cloudy skies. It wasn’t really so different from our own planet 4 billion years ago, except for one crucial detail—its size. Mars is about half the diameter of Earth, and that’s where things went wrong.The Martian core cooled quickly, soon leaving the planet without a magnetic field. This, in turn, left it vulnerable to the solar wind, which swept away much of its atmosphere. Without a critical shield from the sun’s ultraviolet rays, Mars could not retain its heat. Some of the oceans evaporated, and the subsurface absorbed the rest, with only a bit of water left behind and frozen at its poles. If ever a blade of grass grew on Mars, those days are over.But could they begin again? And what would it take to grow plants to feed future astronauts on Mars? Read the full story.
-
-
-
-—David W. Brown
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+&nbsp; These abandoned blogs are a relic of the bygone internet (bring them back!)+ How to strengthen your bond with your reluctant cat + How Metal Gear Solid inspired the video to one of the greatest hits of the late 90s.+ If I had to explain British culture to someone, I’d just send them this video.
-• An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems
-  Eni, one of the world’s largest oil and gas companies, just agreed to buy $1 billion in electricity from a power plant being built by Commonwealth Fusion Systems. The deal is the latest to illustrate just how much investment Commonwealth and other fusion companies are courting as they attempt to take fusion power from the lab to the power grid.&nbsp;
-
-
-
-
-
-“This is showing in concrete terms that people that use large amounts of energy, that know the energy market—they want fusion power, and they’re willing to contract for it and to pay for it,” said Bob Mumgaard, cofounder and CEO of Commonwealth, on a press call about the deal.&nbsp;&nbsp;&nbsp;
-
-
-
-The agreement will see Eni purchase electricity from Commonwealth’s first commercial fusion power plant, in Virginia. The facility is still in the planning stages but is scheduled to come online in the early 2030s.
-
-
-
-The news comes a few weeks after Commonwealth announced a $863 million funding round, bringing its total funding raised to date to nearly $3 billion. The fusion company also announced earlier this year that Google would be its first commercial power customer for the Virginia plant.
-
-
-
-Commonwealth, a spinout from MIT’s Plasma Science and Fusion Center, is widely considered one of the leading companies in fusion power. Investment in the company represents nearly one-third of the total global investment in private fusion companies. (MIT Technology Review is owned by MIT but is editorially independent.)
-
-
-
-Eni has invested in Commonwealth since 2018 and participated in the latest fundraising round. The vast majority of the company’s business is in oil and gas, but in recent years it’s made investments in technologies like biofuels and renewables.
-
-
-
-“A company like us—we cannot stay and wait for things to happen,” says Lorenzo Fiorillo, Eni’s director of technology, research and development, and digital.&nbsp;
-
-
-
-One open question is what, exactly, Eni plans to do with this electricity. When asked about it on the press call, Fiorillo referenced wind and solar plants that Eni owns and said the plan “is not different from what we do in other areas in the US and the world.” (Eni sells electricity from power plants that it owns, including renewable and fossil-fuel plants.)
-
-
-
-Commonwealth is building tokamak fusion reactors that use superconducting magnets to hold plasma in place. That plasma is where fusion reactions happen, forcing hydrogen atoms together to release large amounts of energy.
-
-
-
-The company’s first demonstration reactor, which it calls Sparc, is over 65% complete, and the team is testing components and assembling them. The plan is for the reactor, which is located outside Boston, to make plasma within two years and then demonstrate that it can generate more energy than is required to run it.
-
-
-
-While Sparc is still under construction, Commonwealth is working on plans for Arc, its first commercial power plant. That facility should begin construction in 2027 or 2028 and generate electricity for the grid in the early 2030s, Mumgaard says.
-
-
-
-Despite the billions of dollars Commonwealth has already raised, the company still needs more money to build its Arc power plant—that will be a multibillion-dollar project, Mumgaard said on a press call in August about the company’s latest fundraising round.&nbsp;
-
-
-
-The latest commitment from Eni could help Commonwealth secure the funding it needs to get Arc built. “These agreements are a really good way to create the right environment for building up more investment,” says Paul Wilson, chair of the department of nuclear engineering and engineering physics at the University of Wisconsin, Madison.
-
-
-
-
-
-Even though commercial fusion energy is still years away at a minimum, investors and big tech companies have pumped money into the industry and signed agreements to buy power from plants once they’re operational.&nbsp;
-
-
-
-Helion, another leading fusion startup, has plans to produce electricity from its first reactor in 2028 (an aggressive timeline that has some experts expressing skepticism). That facility will have a full generating capacity of 50 megawatts, and in 2023 Microsoft signed an agreement to purchase energy from the facility in order to help power its data centers.
-
-
-
-As billions of dollars pour into the fusion industry, there are still many milestones ahead. To date, only the National Ignition Facility at Lawrence Livermore National Laboratory has demonstrated that a fusion reactor can generate more energy than the amount put into the reaction. No commercial project has achieved that yet.&nbsp;
-
-
-
-“There’s a lot of capital going out now to these startup companies,” says Ed Morse, a professor of nuclear engineering at the University of California, Berkeley. “What I’m not seeing is a peer-reviewed scientific article that makes me feel like, boy, we really turned the corner with the physics.”
-
-
-
-But others are taking major commercial deals from Commonwealth and others as reasons to be optimistic. “Fusion is moving from the lab to be a proper industry,” says Sehila Gonzalez de Vicente, global director of fusion energy at the nonprofit Clean Air Task Force. “This is very good for the whole sector to be perceived as a real source of energy.”
-• This medical startup uses LLMs to run appointments and make diagnoses
-  Imagine this: You’ve been feeling unwell, so you call up your doctor’s office to make an appointment. To your surprise, they schedule you in for the next day. At the appointment, you aren’t rushed through describing your health concerns; instead, you have a full half hour to share your symptoms and worries and the exhaustive details of your health history with someone who listens attentively and asks thoughtful follow-up questions. You leave with a diagnosis, a treatment plan, and the sense that, for once, you’ve been able to discuss your health with the care that it merits.
-
-
-
-
-
-The catch? You might not have spoken to a doctor, or other licensed medical practitioner, at all.
-
-
-
-This is the new reality for patients at a small number of clinics in Southern California that are run by the medical startup Akido Labs. These patients—some of whom are on Medicaid—can access specialist appointments on short notice, a privilege typically only afforded to the wealthy few who patronize concierge clinics.
-
-
-
-The key difference is that Akido patients spend relatively little time, or even no time at all, with their doctors. Instead, they see a medical assistant, who can lend a sympathetic ear but has limited clinical training. The job of formulating diagnoses and concocting a treatment plan is done by a proprietary, LLM-based system called ScopeAI that transcribes and analyzes the dialogue between patient and assistant. A doctor then approves, or corrects, the AI system’s recommendations.
-
-
-
-“Our focus is really on what we can do to pull the doctor out of the visit,” says Jared Goodner, Akido’s CTO.&nbsp;
-
-
-
-According to Prashant Samant, Akido’s CEO, this approach allows doctors to see four to five times as many patients as they could previously. There’s good reason to want doctors to be much more productive. Americans are getting older and sicker, and many struggle to access adequate health care. The pending 15% reduction in federal funding for Medicaid will only make the situation worse.
-
-
-
-But experts aren’t convinced that displacing so much of the cognitive work of medicine onto AI is the right way to remedy the doctor shortage. There’s a big gap in expertise between doctors and AI-enhanced medical assistants, says Emma Pierson, a computer scientist at UC Berkeley.&nbsp; Jumping such a gap may introduce risks. “I am broadly excited about the potential of AI to expand access to medical expertise,” she says. “It’s just not obvious to me that this particular way is the way to do it.”
-
-
-
-AI is already everywhere in medicine. Computer vision tools identify cancers during preventive scans, automated research systems allow doctors to quickly sort through the medical literature, and LLM-powered medical scribes can take appointment notes on a clinician’s behalf. But these systems are designed to support doctors as they go about their typical medical routines.
-
-
-
-What distinguishes ScopeAI, Goodner says, is its ability to independently complete the cognitive tasks that constitute a medical visit, from eliciting a patient’s medical history to coming up with a list of potential diagnoses to identifying the most likely diagnosis and proposing appropriate next steps.
-
-
-
-Under the hood, ScopeAI is a set of large language models, each of which can perform a specific step in the visit—from generating appropriate follow-up questions based on what a patient has said to to populating a list of likely conditions. For the most part, these LLMs are fine-tuned versions of Meta’s open-access Llama models, though Goodner says that the system also makes use of Anthropic’s Claude models.&nbsp;
-
-
-
-During the appointment, assistants read off questions from the ScopeAI interface, and ScopeAI produces new questions as it analyzes what the patient says. For the doctors who will review its outputs later, ScopeAI produces a concise note that includes a summary of the patient’s visit, the most likely diagnosis, two or three alternative diagnoses, and recommended next steps, such as referrals or prescriptions. It also lists a justification for each diagnosis and recommendation.
-
-
-
-ScopeAI is currently being used in cardiology, endocrinology, and primary care clinics and by Akido’s street medicine team, which serves the Los Angeles homeless population. That team—which is led by Steven Hochman, a doctor who specializes in addiction medicine—meets patients out in the community to help them access medical care, including treatment for substance use disorders.&nbsp;
-
-
-
-Previously, in order to prescribe a drug to treat an opioid addiction, Hochman would have to meet the patient in person; now, caseworkers armed with ScopeAI can interview patients on their own, and Hochman can approve or reject the system’s recommendations later. “It allows me to be in 10 places at once,” he says.
-
-
-
-Since they started using ScopeAI, the team has been able to get patients access to medications to help treat their substance use within 24 hours—something that Hochman calls “unheard of.”
-
-
-
-This arrangement is only possible because homeless patients typically get their health insurance from Medicaid, the public insurance system for low-income Americans. While Medicaid allows doctors to approve ScopeAI prescriptions and treatment plans asynchronously, both for street medicine and clinic visits, many other insurance providers require that doctors speak directly with patients before approving those recommendations. Pierson says that discrepancy raises concerns. “You worry about that exacerbating health disparities,” she says.
-
-
-
-Samant is aware of the appearance of inequity, and he says the discrepancy isn’t intentional—it’s just a feature of how the insurance plans currently work. He also notes that being seen quickly by an AI-enhanced medical assistant may be better than dealing with long wait times and limited provider availability, which is the status quo for Medicaid patients. And all Akido patients can opt for traditional doctor’s appointments, if they are willing to wait for them, he says.
-
-
-
-Part of the challenge of deploying a tool like ScopeAI is navigating a regulatory and insurance landscape that wasn’t designed for AI systems that can independently direct medical appointments. Glenn Cohen, a professor at Harvard Law School, says that any AI system that effectively acts as a “doctor in a box” would likely need to be approved by the FDA and could run afoul of medical licensure laws, which dictate that only doctors and other licensed professionals can practice medicine.
-
-
-
-The California Medical Practice Act says that AI can&#8217;t replace a doctor’s responsibility to diagnose and treat a patient, but doctors are allowed to use AI in their work, and they don’t need to see patients in-person or in real-time before diagnosing them. Neither the FDA nor the Medical Board of California were able to say whether or not ScopeAI was on solid legal footing based only on a written description of the system.
-
-
-
-But Samant is confident that Akido is in compliance, as ScopeAI was intentionally designed to fall short of being a “doctor in a box.” Because the system requires a human doctor to review and approve of all of its diagnostic and treatment recommendations, he says, it doesn’t require FDA approval.&nbsp;
-
-
-
-At the clinic, this delicate balance between AI and doctor decision making happens entirely behind the scenes. Patients don’t ever see the ScopeAI interface directly—instead, they speak with a medical assistant who asks questions in the way that a doctor might in a typical appointment. That arrangement might make patients feel more comfortable. But Zeke Emanuel, a professor of medical ethics and health policy at the University of Pennsylvania who served in the Obama and Biden administrations, worries that this comfort could be obscuring from patients the extent to which an algorithm is influencing their care.
-
-
-
-Pierson agrees. “That certainly isn’t really what was traditionally meant by the human touch in medicine,” she says.
-
-
-
-DeAndre Siringoringo, a medical assistant who works at Akido’s cardiology office in Rancho Cucamonga, says that while he tells the patients he works with that an AI system will be listening to the appointment in order to gather information for their doctor, he doesn’t inform them about the specifics of how ScopeAI works, including the fact that it makes diagnostic recommendations to doctors.&nbsp;
-
-
-
-Because all ScopeAI recommendations are reviewed by a doctor, that might not seem like such a big deal—it’s the doctor who makes the final diagnosis, not the AI. But it’s been widely documented that doctors using AI systems tend to go along with the system’s recommendations more often than they should, a phenomenon known as automation bias.&nbsp;
-
-
-
-At this point, it’s impossible to know whether automation bias is affecting doctors’ decisions at Akido clinics, though Pierson says it’s a risk—especially when doctors aren’t physically present for appointments. “I worry that it might predispose you to sort of nodding along in a way that you might not if you were actually in the room watching this happen,” she says.
-
-
-
-An Akido spokesperson says that automation bias is a valid concern for any AI tool that assists a doctor’s decision-making and that the company has made efforts to mitigate that bias. “We designed ScopeAI specifically to reduce bias by proactively countering blind spots that can influence medical decisions, which historically lean heavily on physician intuition and personal experience,” she says. “We also train physicians explicitly on how to use ScopeAI thoughtfully, so they retain accountability and avoid over-reliance.”
-
-
-
-Akido evaluates ScopeAI’s performance by testing it on historical data and monitoring how often doctors correct its recommendations; those corrections are also used to further train the underlying models. Before deploying ScopeAI in a given specialty, Akido ensures that when tested on historical data sets, the system includes the correct diagnosis in its top three recommendations at least 92% of the time.
-
-
-
-But Akido hasn’t undertaken more rigorous testing, such as studies that compare ScopeAI appointments with traditional in-person or telehealth appointments, in order to determine whether the system improves—or at least maintains—patient outcomes. Such a study could help indicate whether automation bias is a meaningful concern.
-
-
-
-“Making medical care cheaper and more accessible is a laudable goal,” Pierson says. “But I just think it’s important to conduct strong evaluations comparing to that baseline.”
-• The Download: the CDC’s vaccine chaos
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
-
-
-
-A pivotal meeting on vaccine guidance is underway—and former CDC leaders are alarmed
-
-
-
-This week has been an eventful one for America’s public health agency. Two former leaders of the US Centers for Disease Control and Prevention explained why they suddenly departed in a Senate hearing. They also described how CDC employees are being instructed to turn their backs on scientific evidence.They painted a picture of a health agency in turmoil—and at risk of harming the people it is meant to serve. And, just hours afterwards, a panel of CDC advisers voted to stop recommending the MMRV vaccine for children under four. Read the full story.
-
-
-
-—Jessica Hamzelou
-
-
-
-This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, sign up here.
-
-
-
-If you’re interested in reading more about US vaccine policy, check out:
-
-
-
-+ Read our profile of Jim O’Neill, the deputy health secretary and current acting CDC director.+ Why US federal health agencies are abandoning mRNA vaccines. Read the full story.+ Why childhood vaccines are a public health success story. No vaccine is perfect, but these medicines are still saving millions of lives. Read the full story.&nbsp;
-
-
-
-+ The FDA plans to limit access to covid vaccines. Here’s why that’s not all bad.
-
-
-
-
-
-
-
-Meet Sneha Goenka: our 2025 Innovator of the Year
-
-
-
-Every year, MIT Technology Review selects one individual whose work we admire to recognize as Innovator of the Year. For 2025, we chose Sneha Goenka, who designed the computations behind the world’s fastest whole-genome sequencing method.&nbsp;
-
-
-
-Thanks to her work, physicians can now sequence a patient’s genome and diagnose a genetic condition in less than eight hours—an achievement that could transform medical care.
-
-
-
-Register here to join an exclusive subscriber-only Roundtable conversation with Goenka, Leilani Battle, assistant professor at the University of Washington, and our editor in chief Mat Honan at 1pm ET next Tuesday September 23.
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 The CDC voted against giving some children a combined vaccine If accepted, the agency will stop recommending the MMRV vaccine for children under 4. (CNN)+ Its vote on hepatitis B vaccines for newborns is expected today too. (The Atlantic $)+ RFK JR’s allies are closing ranks around him. (Politico)2 Russia is using Charlie Kirk’s murder to sow division in the USIt&#8217;s using the momentum to push pro-Kremlin narratives and divide Americans. (WP $)+ The complicated phenomenon of political violence. (Vox)+ We don’t know what being ‘terminally online’ means any more. (Wired $)3 Nvidia will invest $5 billion in IntelThe partnership allows Intel to develop custom CPUs to work with Nvidia’s chips. (WSJ $)+ It’s a much-needed financial shot in the arm for Intel. (WP $)+ It’s also great news for Intel’s Asian suppliers. (Bloomberg $)
-
-
-
-4 Medical AI tools downplay symptoms in women and ethnic minoritiesExperts fear that LLM-powered tools could lead to worse health outcomes. (FT $)+ Artificial intelligence is infiltrating health care. We shouldn’t let it make all the decisions. (MIT Technology Review)
-
-
-
-5 AI browsers have hit the mainstreamWhere’s the off switch? (Wired $)+ AI means the end of internet search as we’ve known it. (MIT Technology Review)
-
-
-
-6 China has entered the global brain interface raceIts ambitious government-backed startups are primed to challenge Neuralink. (Bloomberg $)+ This patient’s Neuralink brain implant gets a boost from generative AI. (MIT Technology Review)
-
-
-
-7 What makes humans unique in the age of AI?Defining the distinctions between us and machines isn’t as easy as it used to be. (New Yorker $)+ How AI can help supercharge creativity. (MIT Technology Review)
-
-
-
-8 This ship helps to reconnect Africa’s internetAI needs high speed internet, which needs undersea cables. (Rest of World)+ What Africa needs to do to become a major AI player. (MIT Technology Review)
-
-
-
-9 Hundreds of people queued in Beijing to buy Apple’s new iPhoneDesire for Apple products in the country appears to be alive and well. (Reuters)
-
-
-
-10 San Francisco’s idea of a great night out? A robot cage fightIt’s certainly one way to have a good time. (NYT $)
-
-
-
-
-
-
-
-Quote of the day
-
-
-
-&#8220;Get off the iPad!&#8221;
-
-
-
-—An irate air traffic controller tells the pilots of a Spirit Airlines flight to pay attention to avoid potentially colliding with Donald Trump’s Air Force One aircraft, Ars Technica reports.
-
-
-
-
-
-
-
-One more thing
-
-
-
-
-
-
-
-We used to get excited about technology. What happened?As a philosopher who studies AI and data, Shannon Vallor’s Twitter feed is always filled with the latest tech news. Increasingly, she’s realized that the constant stream of information is no longer inspiring joy, but a sense of resignation.Joy is missing from our lives, and from our technology. Its absence is feeding a growing unease being voiced by many who work in tech or study it. Fixing it depends on understanding how and why the priorities in our tech ecosystem have changed. Read the full story.
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+ Would you go about your daily business with a soft toy on your shoulder? This intrepid reporter gave it a go.+ How dying dinosaurs shaped the landscapes around us.+ I can’t believe I missed Pythagorean Theorem day earlier this week.+ Inside the rise in popularity of the no-water yard.
 
 🔒 Cybersecurity & Privacy
 No updates.
@@ -761,6 +496,459 @@ Join us as we continue to explore the transformative potential of generative AI 
 
 
 Opens in a new tabThe post Using AI to assist in rare disease diagnosis appeared first on Microsoft Research.
+• Running deep research AI agents on Amazon Bedrock AgentCore
+  AI agents are evolving beyond basic single-task helpers into more powerful systems that can plan, critique, and collaborate with other agents to solve complex problems. Deep Agents—a recently introduced framework built on LangGraph—bring these capabilities to life, enabling multi-agent workflows that mirror real-world team dynamics. The challenge, however, is not just building such agents but also running them reliably and securely in production. This is where Amazon Bedrock AgentCore Runtime comes in. By providing a secure, serverless environment purpose-built for AI agents and tools, Runtime makes it possible to deploy Deep Agents at enterprise scale without the heavy lifting of managing infrastructure. 
+In this post, we demonstrate how to deploy Deep Agents on AgentCore Runtime. As shown in the following figure, AgentCore Runtime scales any agent and provides session isolation by allocating a new microVM for each new session. 
+ 
+What is Amazon Bedrock AgentCore? 
+Amazon Bedrock AgentCore is both framework-agnostic and model-agnostic, giving you the flexibility to deploy and operate advanced AI agents securely and at scale. Whether you’re building with Strands Agents, CrewAI, LangGraph, LlamaIndex, or another framework—and running them on a large language model (LLM)—AgentCore provides the infrastructure to support them. Its modular services are purpose-built for dynamic agent workloads, with tools to extend agent capabilities and controls required for production use. By alleviating the undifferentiated heavy lifting of building and managing specialized agent infrastructure, AgentCore lets you bring your preferred framework and model and deploy without rewriting code. 
+Amazon Bedrock AgentCore offers a comprehensive suite of capabilities designed to transform local agent prototypes into production-ready systems. These include persistent memory for maintaining context in and across conversations, access to existing APIs using Model Context Protocol (MCP), seamless integration with corporate authentication systems, specialized tools for web browsing and code execution, and deep observability into agent reasoning processes. In this post, we focus specifically on the AgentCore Runtime component. 
+Core capabilities of AgentCore Runtime 
+AgentCore Runtime provides a serverless, secure hosting environment specifically designed for agentic workloads. It packages code into a lightweight container with a simple, consistent interface, making it equally well-suited for running agents, tools, MCP servers, or other workloads that benefit from seamless scaling and integrated identity management.AgentCore Runtime offers extended execution times up to 8 hours for complex reasoning tasks, handles large payloads for multimodal content, and implements consumption-based pricing that charges only during active processing—not while waiting for LLM or tool responses. Each user session runs in complete isolation within dedicated micro virtual machines (microVMs), maintaining security and helping to prevent cross-session contamination between agent interactions. The runtime works with many frameworks (for example: LangGraph, CrewAI, Strands, and so on) and many foundation model providers, while providing built-in corporate authentication, specialized agent observability, and unified access to the broader AgentCore environment through a single SDK. 
+Real-world example: Deep Agents integration 
+In this post we’re going to deploy the recently released Deep Agents implementation example on AgentCore Runtime—showing just how little effort it takes to get the latest agent innovations up and running. 
+ 
+The sample implementation in the preceding diagram includes: 
+ 
+ A research agent that conducts deep internet searches using the Tavily API 
+ A critique agent that reviews and provides feedback on generated reports 
+ A main orchestrator that manages the workflow and handles file operations 
+ 
+Deep Agents uses LangGraph’s state management to create a multi-agent system with: 
+ 
+ Built-in task planning through a write_todos tool that helps agents break down complex requests 
+ Virtual file system where agents can read/write files to maintain context across interactions 
+ Sub-agent architecture allowing specialized agents to be invoked for specific tasks while maintaining context isolation 
+ Recursive reasoning with high recursion limits (more than 1,000) to handle complex, multi-step workflows 
+ 
+This architecture enables Deep Agents to handle research tasks that require multiple rounds of information gathering, synthesis, and refinement.The key integration points in our code showcase how agents work with AgentCore. The beauty is in its simplicity—we only need to add a couple of lines of code to make an agent AgentCore-compatible: 
+ 
+ # 1. Import the AgentCore runtime
+from bedrock_agentcore.runtime import BedrockAgentCoreApp
+app = BedrockAgentCoreApp()
+
+# 2. Decorate your agent function with @app.entrypoint
+@app.entrypoint
+async def langgraph_bedrock(payload):
+    # Your existing agent logic remains unchanged
+    user_input = payload.get("prompt")
+    
+    # Call your agent as before
+    stream = agent.astream(
+        {"messages": [HumanMessage(content=user_input)]},
+        stream_mode="values"
+    )
+    
+    # Stream responses back
+    async for chunk in stream:
+        yield(chunk)
+
+# 3. Add the runtime starter at the bottom
+if __name__ == "__main__":
+    app.run() 
+ 
+That’s it! The rest of the code—model initialization, API integrations, and agent logic—remains exactly as it was. AgentCore handles the infrastructure while your agent handles the intelligence. This integration pattern works for most Python agent frameworks, making AgentCore truly framework-agnostic. 
+Deploying to AgentCore Runtime: Step-by-step 
+Let’s walk through the actual deployment process using the AgentCore Starter ToolKit, which dramatically simplifies the deployment workflow. 
+Prerequisites 
+Before you begin, make sure you have: 
+ 
+ Python 3.10 or higher 
+ AWS credentials configured 
+ Amazon Bedrock AgentCore SDK installed 
+ 
+Step 1: IAM permissions 
+There are two different AWS Identity and Access Management (IAM) permissions you need to consider when deploying an agent in an AgentCore Runtime—the role you, as a developer use to create AgentCore resources and the execution role that an agent needs to run in an AgentCore Runtime. While the latter role can now be auto-created by the AgentCore Starter Toolkit (auto_create_execution_role=True), the former must be defined as described in IAM Permissions for AgentCore Runtime. 
+Step 2: Add a wrapper to your agent 
+As shown in the preceding Deep Agents example, add the AgentCore imports and decorator to your existing agent code. 
+Step 3: Deploy using the AgentCore starter toolkit 
+The starter toolkit provides a three-step deployment process: 
+ 
+ from bedrock_agentcore_starter_toolkit import Runtime
+
+# Step 1: Configure
+agentcore_runtime = Runtime()
+config_response = agentcore_runtime.configure(
+    entrypoint="hello.py", # contains the code we showed earlier in the post
+    execution_role=role_arn, # or auto-create
+    auto_create_ecr=True,
+    requirements_file="requirements.txt",
+    region="us-west-2",
+    agent_name="deepagents-research"
+)
+
+# Step 2: Launch
+launch_result = agentcore_runtime.launch()
+print(f"Agent deployed! ARN: {launch_result['agent_arn']}")
+
+# Step 3: Invoke
+response = agentcore_runtime.invoke({
+    "prompt": "Research the latest developments in quantum computing"
+}) 
+ 
+Step 4: What happens behind the scenes 
+When you run the deployment, the starter kit automatically: 
+ 
+ Generates an optimized Docker file with Python 3.13-slim base image and OpenTelemetry instrumentation 
+ Builds your container with the dependencies from requirements.txt 
+ Creates an Amazon Elastic Container Registry (Amazon ECR) repository (if auto_create_ecr=True) and pushes your image 
+ Deploys to AgentCore Runtime and monitors the deployment status 
+ Configures networking and observability with Amazon CloudWatch and AWS X-Ray integration 
+ 
+The entire process typically takes 2–3 minutes, after which your agent is ready to handle requests at scale. Each new session is launched in its own fresh AgentCore Runtime microVM, maintaining complete environment isolation. 
+The starter kit generates a configuration file (.bedrock_agentcore.yaml) that captures your deployment settings, making it straightforward to redeploy or update your agent later. 
+Invoking your deployed agent 
+After deployment, you have two options for invoking your agent: 
+Option 1: Using the start kit (shown in Step 3) 
+ 
+ response = agentcore_runtime.invoke({
+    "prompt": "Research the latest developments in quantum computing"
+})
+ 
+ 
+Option 2: Using boto3 SDK directly 
+ 
+ import boto3
+import json
+
+agentcore_client = boto3.client('bedrock-agentcore', region_name='us-west-2')
+response = agentcore_client.invoke_agent_runtime(
+    agentRuntimeArn=agent_arn,
+    qualifier="DEFAULT",
+    payload=json.dumps({
+        "prompt": "Analyze the impact of AI on healthcare in 2024"
+    })
+)
+
+# Handle streaming response
+for event in response['completion']:
+    if 'chunk' in event:
+        print(event['chunk']['bytes'].decode('utf-8')) 
+ 
+Deep Agents in action 
+As the code executes in Bedrock AgentCore Runtime, the primary agent orchestrates specialized sub-agents—each with its own purpose, prompt, and tool access—to solve complex tasks more effectively. In this case, the orchestrator prompt (research_instructions) sets the plan: 
+ 
+ Write the question to question.txt 
+ Fan out to one or more research-agent calls (each on a single sub-topic) using the internet_search tool 
+ Synthesize findings into final_report.md 
+ Call critique-agent to evaluate gaps and structure 
+ Optionally loop back to more research/edits until quality is met 
+ 
+Here it is in action: 
+
+ 
+  
+ 
+ 
+Clean up 
+When finished, don’t forget to de-allocate provisioned AgentCore Runtime in addition to the container repository that was created during the process: 
+ 
+ agentcore_control_client = boto3.client(
+    'bedrock-agentcore-control', region_name=region )
+ecr_client = boto3.client('ecr',region_name=region )
+runtime_delete_response = agentcore_control_client.delete_agent_runtime(    agentRuntimeId=launch_result.agent_id,)
+response = ecr_client.delete_repository(
+    repositoryName=launch_result.ecr_uri.split('/')[1],force=True)
+ 
+ 
+Conclusion 
+Amazon Bedrock AgentCore represents a paradigm shift in how we deploy AI agents. By abstracting away infrastructure complexity while maintaining framework and model flexibility, AgentCore enables developers to focus on building sophisticated agent logic rather than managing deployment pipelines. Our Deep Agents deployment demonstrates that even complex, multi-agent systems with external API integrations can be deployed with minimal code changes. The combination of enterprise-grade security, built-in observability, and serverless scaling makes AgentCore the best choice for production AI agent deployments. Specifically for deep research agents, AgentCore offers the following unique capabilities that you can explore: 
+ 
+ AgentCore Runtime can handle asynchronous processing and long running (up to 8 hours) agents. Asynchronous tasks allow your agent to continue processing after responding to the client and handle long-running operations without blocking responses. Your background research sub-agent could be asynchronously researching for hours. 
+ AgentCore Runtime works with AgentCore Memory, enabling capabilities such as building upon previous findings, remembering research preferences, and maintaining complex investigation context without losing progress between sessions. 
+ You can use AgentCore Gateway to extend your deep research to include proprietary insights from enterprise services and data sources. By exposing these differentiated resources as MCP tools, your agents can quickly take advantage and combine that with publicly available knowledge. 
+ 
+Ready to deploy your agents to production? Here’s how to get started: 
+ 
+ Install the AgentCore starter kit: pip install bedrock-agentcore-starter-toolkit 
+ Experiment: Deploy your code by following this step by step guide. 
+ 
+The era of production-ready AI agents is here. With AgentCore, the journey from prototype to production has never been shorter. 
+ 
+About the authors 
+Vadim Omeltchenko is a Sr. AI/ML Solutions Architect who is passionate about helping AWS customers innovate in the cloud. His prior IT experience was predominantly on the ground. 
+Eashan Kaushik is a Specialist Solutions Architect AI/ML at Amazon Web Services. He is driven by creating cutting-edge generative AI solutions while prioritizing a customer-centric approach to his work. Before this role, he obtained an MS in Computer Science from NYU Tandon School of Engineering. Outside of work, he enjoys sports, lifting, and running marathons. 
+Shreyas Subramanian is a Principal data scientist and helps customers by using Machine Learning to solve their business challenges using the AWS platform. Shreyas has a background in large scale optimization and Machine Learning, and in use of Machine Learning and Reinforcement Learning for accelerating optimization tasks. 
+Mark Roy is a Principal Machine Learning Architect for AWS, helping customers design and build generative AI solutions. His focus since early 2023 has been leading solution architecture efforts for the launch of Amazon Bedrock, the flagship generative AI offering from AWS for builders. Mark’s work covers a wide range of use cases, with a primary interest in generative AI, agents, and scaling ML across the enterprise. He has helped companies in insurance, financial services, media and entertainment, healthcare, utilities, and manufacturing. Prior to joining AWS, Mark was an architect, developer, and technology leader for over 25 years, including 19 years in financial services. Mark holds six AWS Certifications, including the ML Specialty Certification.
+• Integrate tokenization with Amazon Bedrock Guardrails for secure data handling
+  This post is co-written by Mark Warner, Principal Solutions Architect for Thales, Cyber Security Products. 
+As generative AI applications make their way into production environments, they integrate with a wider range of business systems that process sensitive customer data. This integration introduces new challenges around protecting personally identifiable information (PII) while maintaining the ability to recover original data when legitimately needed by downstream applications. Consider a financial services company implementing generative AI across different departments. The customer service team needs an AI assistant that can access customer profiles and provide personalized responses that include contact information, for example: “We’ll send your new card to your address at 123 Main Street.” Meanwhile, the fraud analysis team requires the same customer data but must analyze patterns without exposing actual PII, working only with protected representations of sensitive information. 
+Amazon Bedrock Guardrails helps detect sensitive information, such as PII, in standard format in input prompts or model responses. Sensitive information filters give organizations control over how sensitive data is handled, with options to block requests containing PII or mask the sensitive information with generic placeholders like {NAME} or {EMAIL}. This capability helps organizations comply with data protection regulations while still using the power of large language models (LLMs). 
+Although masking effectively protects sensitive information, it creates a new challenge: the loss of data reversibility. When guardrails replace sensitive data with generic masks, the original information becomes inaccessible to downstream applications that might need it for legitimate business processes. This limitation can impact workflows where both security and functional data are required. 
+Tokenization offers a complementary approach to this challenge. Unlike masking, tokenization replaces sensitive data with format-preserving tokens that are mathematically unrelated to the original information but maintain its structure and usability. These tokens can be securely reversed back to their original values when needed by authorized systems, creating a path for secure data flows throughout an organization’s environment. 
+In this post, we show you how to integrate Amazon Bedrock Guardrails with third-party tokenization services to protect sensitive data while maintaining data reversibility. By combining these technologies, organizations can implement stronger privacy controls while preserving the functionality of their generative AI applications and related systems. The solution described in this post demonstrates how to combine Amazon Bedrock Guardrails with tokenization services from Thales CipherTrust Data Security Platform to create an architecture that protects sensitive data without sacrificing the ability to process that data securely when needed. This approach is particularly valuable for organizations in highly regulated industries that need to balance innovation with compliance requirements. 
+Amazon Bedrock Guardrails APIs 
+This section describes the key components and workflow for the integration between Amazon Bedrock Guardrails and a third-party tokenization service. 
+Amazon Bedrock Guardrails provides two distinct approaches for implementing content safety controls: 
+ 
+ Direct integration with model invocation through APIs like InvokeModel and Converse, where guardrails automatically evaluate inputs and outputs as part of the model inference process. 
+ Standalone evaluation through the ApplyGuardrail API, which decouples guardrails assessment from model invocation, allowing evaluation of text against defined policies. 
+ 
+This post uses the ApplyGuardrail API for tokenization integration because it separates content assessment from model invocation, allowing for the insertion of tokenization processing between these steps. This separation creates the necessary space in the workflow to replace guardrail masks with format-preserving tokens before model invocation, or after the model response is handed over to the target application downstream in the process. 
+The solution extends the typical ApplyGuardrail API implementation by inserting tokenization processing between guardrail evaluation and model invocation, as follows: 
+ 
+ The application calls the ApplyGuardrail API to assess the user input for sensitive information. 
+ If no sensitive information is detected (action = "NONE"), the application proceeds to model invocation via the InvokeModel API. 
+ If sensitive information is detected (action = "ANONYMIZED"): 
+   
+   The application captures the detected PII and its positions. 
+   It calls a tokenization service to convert these entities into format-preserving tokens. 
+   It replaces the generic guardrail masks with these tokens. 
+   The application then invokes the foundation model with the tokenized content. 
+    
+ For model responses: 
+   
+   The application applies guardrails to check the output from the model for sensitive information. 
+   It tokenizes detected PII before passing the response to downstream systems. 
+    
+ 
+Solution overview 
+To illustrate how this workflow delivers value in practice, consider a financial advisory application that helps customers understand their spending patterns and receive personalized financial recommendations. In this example, three distinct application components work together to provide secure, AI-powered financial insights: 
+ 
+ Customer gateway service – This trusted frontend orchestrator receives customer queries that often contain sensitive information. For example, a customer might ask: “Hi, this is j.smith@example.com. Based on my last five transactions on acme.com, and my current balance of $2,342.18, should I consider their new credit card offer?” 
+ Financial analysis engine – This AI-powered component analyzes financial patterns and generates recommendations but doesn’t need access to actual customer PII. It works with anonymized or tokenized information. 
+ Response processing service – This trusted service handles the final customer communication, including detokenizing sensitive information before presenting results to the customer. 
+ 
+The following diagram illustrates the workflow for integrating Amazon Bedrock Guardrails with tokenization services in this financial advisory application. AWS Step Functions orchestrates the sequential process of PII detection, tokenization, AI model invocation, and detokenization across the three key components (customer gateway service, financial analysis engine, and response processing service) using AWS Lambda functions. 
+ 
+The workflow operates as follows: 
+ 
+ The customer gateway service (for this example, through Amazon API Gateway) receives the user input containing sensitive information. 
+ It calls the ApplyGuardrail API to identify PII or other sensitive information that should be anonymized or blocked. 
+ For detected sensitive elements (such as user names or merchant names), it calls the tokenization service to generate format-preserving tokens. 
+ The input with tokenized values is passed to the financial analysis engine for processing. (For example, “Hi, this is [[TOKEN_123]]. Based on my last five transactions on [[TOKEN_456]] and my current balance of $2,342.18, should I consider their new credit card offer?”) 
+ The financial analysis engine invokes an LLM on Amazon Bedrock to generate financial advice using the tokenized data. 
+ The model response, potentially containing tokenized values, is sent to the response processing service. 
+ This service calls the tokenization service to detokenize the tokens, restoring the original sensitive values. 
+ The final, detokenized response is delivered to the customer. 
+ 
+This architecture maintains data confidentiality throughout the processing flow while preserving the information’s utility. The financial analysis engine works with structurally valid but cryptographically protected data, allowing it to generate meaningful recommendations without exposing sensitive customer information. Meanwhile, the trusted components at the entry and exit points of the workflow can access the actual data when necessary, creating a secure end-to-end solution. 
+In the following sections, we provide a detailed walkthrough of implementing the integration between Amazon Bedrock Guardrails and tokenization services. 
+Prerequisites 
+To implement the solution described in this post, you must have the following components configured in your environment: 
+ 
+ An AWS account with Amazon Bedrock enabled in your target AWS Region. 
+ Appropriate AWS Identity and Access Management (IAM) permissions configured following least privilege principles with specific actions enabled: bedrock:CreateGuardrail, bedrock:ApplyGuardrail, and bedrock-runtime:InvokeModel. 
+ For AWS Organizations, verify Amazon Bedrock access is permitted by service control policies. 
+ A Python 3.7+ environment with the boto3 library installed. For information about installing the boto3 library, refer to AWS SDK for Python (Boto3). 
+ AWS credentials configured for programmatic access using the AWS Command Line Interface (AWS CLI). For more details, refer to Configuring settings for the AWS CLI. 
+ This implementation requires a deployed tokenization service accessible through REST API endpoints. Although this walkthrough demonstrates integration with Thales CipherTrust, the pattern adapts to tokenization providers offering protect and unprotect API operations. Make sure network connectivity exists between your application environment and both AWS APIs and your tokenization service endpoints, along with valid authentication credentials for accessing your chosen tokenization service. For information about setting up Thales CipherTrust specifically, refer to How Thales Enables PCI DSS Compliance with a Tokenization Solution on AWS. 
+ 
+Configure Amazon Bedrock Guardrails 
+Configure Amazon Bedrock Guardrails for PII detection and masking through the Amazon Bedrock console or programmatically using the AWS SDK. Sensitive information filter policies can anonymize or redact information from model requests or responses: 
+ 
+ import boto3
+def create_bedrock_guardrail():
+    """
+    Create a guardrail in Amazon Bedrock for financial applications with PII protection.
+    """
+    bedrock = boto3.client('bedrock')
+    
+    response = bedrock.create_guardrail(
+        name="FinancialServiceGuardrail",
+        description="Guardrail for financial applications with PII protection",
+        sensitiveInformationPolicyConfig={
+            'piiEntitiesConfig': [
+                {
+                    'type': 'URL',
+                    'action': 'ANONYMIZE',
+                    'inputAction': 'ANONYMIZE',
+                    'outputAction': 'ANONYMIZE',
+                    'inputEnabled': True,
+                    'outputEnabled': True
+                },
+                {
+                    'type': 'EMAIL',
+                    'action': 'ANONYMIZE',
+                    'inputAction': 'ANONYMIZE',
+                    'outputAction': 'ANONYMIZE',
+                    'inputEnabled': True,
+                    'outputEnabled': True
+                },
+                {
+                    'type': 'NAME',
+                    'action': 'ANONYMIZE',
+                    'inputAction': 'ANONYMIZE',
+                    'outputAction': 'ANONYMIZE',
+                    'inputEnabled': True,
+                    'outputEnabled': True
+                }
+            ]
+        },
+        blockedInputMessaging="I can't provide information with PII data.",
+        blockedOutputsMessaging="I can't generate content with PII data."
+    )
+    
+    return response 
+ 
+Integrate the tokenization workflow 
+This section implements the tokenization workflow by first detecting PII entities with the ApplyGuardrail API, then replacing the generic masks with format-preserving tokens from your tokenization service. 
+Apply guardrails to detect PII entities 
+Use the ApplyGuardrail API to validate input text from the user and detect PII entities: 
+ 
+ import boto3
+from botocore.exceptions import ClientError
+def invoke_guardrail(user_query):
+    """
+    Apply Amazon Bedrock Guardrails to validate input text and detect PII entities.
+    
+    Args:
+        user_query (str): The user's input text to be checked.
+    
+    Returns:
+        dict: The response from the ApplyGuardrail API.
+    
+    Raises:
+        ClientError: If there's an error applying the guardrail.
+    """
+    try:
+        bedrock_runtime = boto3.client('bedrock-runtime')
+        
+        response = bedrock_runtime.apply_guardrail(
+            guardrailIdentifier='your-guardrail-id', # Replace with your actual guardrail ID
+            guardrailVersion='your-guardrail-version', # Replace with your actual version
+            source="INPUT",
+            content=[{"text": {"text": user_query}}]
+        )
+        
+        return response
+    except ClientError as e:
+        print(f"Error applying guardrail: {e}")
+        raise 
+ 
+Invoke tokenization service 
+The response from the ApplyGuadrail API includes the list of PII entities matching the sensitive information policy. Parse those entities and invoke the tokenization service to generate the tokens. 
+The following example code uses the Thales CipherTrust tokenization service: 
+ 
+ import json
+import requests
+from botocore.exceptions import ClientError
+def thales_ciphertrust_tokenizer(guardrail_response):
+  """
+  Process PII entities detected by the guardrail and tokenize them using Thales CipherTrust
+    
+  Args:
+      guardrail_response (dict): The response from the ApplyGuardrail API
+    
+  Returns:
+      list: List of dictionaries containing original values, types, and tokenized responses
+    
+  Raises:
+      ClientError: If there's an error invoking Thales CipherTrust.
+  """
+  try:
+    protected_results = []
+      
+    for assessment in guardrail_response.get("assessments", []):
+      pii_entities = assessment.get("sensitiveInformationPolicy", {}).get("piiEntities", [])
+            
+      for entity in pii_entities:
+          sensitive_value = entity.get("match")
+          entity_type = entity.get("type")
+                
+          if sensitive_value:
+              # Prepare payload for Thales CipherTrust tokenization service
+              crdp_payload = {
+                  "protection_policy_name": "plain-alpha-internal",
+                  "DATA_KEY": sensitive_value,
+              }
+                    
+              url_str = "http://your-ciphertrust-cname:8090/v1/protect"  # Replace with your actual CipherTrust URL
+              headers = {"Content-Type": "application/json"}
+                    
+              # Invoke the Thales CipherTrust tokenization service
+              response = requests.post(url_str, headers=headers, data=json.dumps(crdp_payload))
+              response.raise_for_status()
+              response_json = response.json()
+                    
+              protected_results.append({
+                   "original_value": sensitive_value,
+                   "type": entity_type,
+                   "protection_response": response_json
+              })
+        
+    return protected_results
+  except requests.RequestException as e:
+    print(f"Error invoking Thales CipherTrust: {e}")
+    raise ClientError(f"Error invoking Thales CipherTrust: {e}", "TokenizationError") 
+ 
+Replace guardrail masks with tokens 
+Next, substitute the generic guardrail masks with the tokens generated by the Thales CipherTrust tokenization service. This enables downstream applications to work with structurally valid data while maintaining security and reversibility. 
+ 
+ def process_guardrail_output(protected_results, guardrail_response):
+    """
+    Process guardrail output by replacing placeholders with protected values.
+    
+    Args:
+        protected_results (list): List of protected data tokenized by Thales CipherTrust.
+        guardrail_response (dict): Guardrail response dictionary.
+        
+    Returns:
+        list: List of modified output items with placeholders replaced by tokens.
+    
+    Raises:
+        ValueError: If input parameters are invalid.
+        Exception: For any unexpected errors during processing.
+    """
+    try:
+        # Validate input types
+        if not isinstance(protected_results, list) or not isinstance(guardrail_response, dict):
+            raise ValueError("Invalid input parameters")
+            
+        # Extract protection map
+        protection_map = {res['type'].upper(): res['protection_response']['protected_data'] 
+                          for res in protected_results}
+        # Process outputs 
+        modified_outputs = []
+        for output_item in guardrail_response.get('outputs', []):
+            if 'text' in output_item:
+                modified_text = output_item['text']
+                
+                # Replace all placeholders in one pass
+                for pii_type, protected_value in protection_map.items():
+                    modified_text = modified_text.replace(f"{{{pii_type}}}", protected_value)
+                
+                modified_outputs.append({"text": modified_text})
+        return modified_outputs
+    except (ValueError, KeyError) as e:
+        print(f"Error processing guardrail output: {e}")
+        raise
+    except Exception as e:
+        print(f"Unexpected error while processing guardrail output: {e}")
+        raise 
+ 
+The result of this process transforms user inputs containing information that match the sensitive information policy applied using Amazon Bedrock Guardrails into unique and reversible tokenized versions. 
+The following example input contains PII elements: 
+ 
+ "Hi, this is john.smith@example.com. Based on my last five transactions on acme.com, and my current balance of $2,342.18, should I consider their new credit card offer?" 
+ 
+The following is an example of the sanitized user input: 
+ 
+ "Hi, this is 1001000GC5gDh1.D8eK71@EjaWV.lhC. Based on my last five transactions on 1001000WcFzawG.Jc9Tfc, and my current balance of $2,342.18, should I consider their new credit card offer?" 
+ 
+Downstream application processing 
+The sanitized input is ready to be used by generative AI applications, including model invocations on Amazon Bedrock. In response to the tokenized input, an LLM invoked by the financial analysis engine would produce a relevant analysis that maintains the secure token format: 
+ 
+ "Based on your recent transactions at 1001000WcFzawG.Jc9Tfc and your current account status, I can confirm that the new credit card offer would provide approximately $33 in monthly rewards based on your spending patterns. With annual benefits of around $394 against the $55 annual fee, this card would be beneficial for your profile, 1001000GC5gDh1.D8eK71@EjaWV.lhC." 
+ 
+When authorized systems need to recover original values, tokens are detokenized. With Thales CipherTrust, this is accomplished using the Detokenize API, which requires the same parameters as in the previous tokenize action. This completes the secure data flow while preserving the ability to recover original information when needed. 
+Clean up 
+As you follow the approach described in this post, you will create new AWS resources in your account. To avoid incurring additional charges, delete these resources when you no longer need them. 
+To clean up your resources, complete the following steps: 
+ 
+ Delete the guardrails you created. For instructions, refer to Delete your guardrail. 
+ If you implemented the tokenization workflow using Lambda, API Gateway, or Step Functions as described in this post, remove the resources you created. 
+ This post assumes a tokenization solution is already available in your account. If you deployed a third-party tokenization solution (such as Thales CipherTrust) to test this implementation, refer to that solution’s documentation for instructions to properly decommission these resources and stop incurring charges. 
+ 
+Conclusion 
+This post demonstrated how to combine Amazon Bedrock Guardrails with tokenization to enhance handling of sensitive information in generative AI workflows. By integrating these technologies, organizations can protect PII during processing while maintaining data utility and reversibility for authorized downstream applications. 
+The implementation illustrated uses Thales CipherTrust Data Security Platform for tokenization, but the architecture supports many tokenization solutions. To learn more about a serverless approach to building custom tokenization capabilities, refer to Building a serverless tokenization solution to mask sensitive data. 
+This solution provides a practical framework for builders to use the full potential of generative AI with appropriate safeguards. By combining the content safety mechanisms of Amazon Bedrock Guardrails with the data reversibility of tokenization, you can implement responsible AI workflows that align with your application requirements and organizational policies while preserving the functionality needed for downstream systems. 
+To learn more about implementing responsible AI practices on AWS, see Transform responsible AI from theory into practice. 
+ 
+About the Authors 
+Nizar Kheir is a Senior Solutions Architect at AWS with more than 15 years of experience spanning various industry segments. He currently works with public sector customers in France and across EMEA to help them modernize their IT infrastructure and foster innovation by harnessing the power of the AWS Cloud. 
+Mark Warner is a Principal Solutions Architect for Thales, Cyber Security Products division. He works with companies in various industries such as finance, healthcare, and insurance to improve their security architectures. His focus is assisting organizations with reducing risk, increasing compliance, and streamlining data security operations to reduce the probability of a breach.
 • Rapid ML experimentation for enterprises with Amazon SageMaker AI and Comet
   This post was written with Sarah Ostermeier from Comet. 
 As enterprise organizations scale their machine learning (ML) initiatives from proof of concept to production, the complexity of managing experiments, tracking model lineage, and managing reproducibility grows exponentially. This is primarily because data scientists and ML engineers constantly explore different combinations of hyperparameters, model architectures, and dataset versions, generating massive amounts of metadata that must be tracked for reproducibility and compliance. As the ML model development scales across multiple teams and regulatory requirements intensify, tracking experiments becomes even more complex. With increasing AI regulations, particularly in the EU, organizations now require detailed audit trails of model training data, performance expectations, and development processes, making experiment tracking a business necessity and not just a best practice. 
@@ -1516,494 +1704,5 @@ Ready to build your own production-ready agent? Start with our complete end-to-e
  
 About the authors 
 Maira Ladeira Tanke is a Tech Lead for Agentic AI at AWS, where she enables customers on their journey to develop autonomous AI systems. With over 10 years of experience in AI/ML, Maira partners with enterprise customers to accelerate the adoption of agentic applications using Amazon Bedrock AgentCore and Strands Agents, helping organizations harness the power of foundation models to drive innovation and business transformation. In her free time, Maira enjoys traveling, playing with her cat, and spending time with her family someplace warm.
-• Scale visual production using Stability AI Image Services in Amazon Bedrock
-  This post was written with Alex Gnibus of Stability AI. 
-Stability AI Image Services are now available in Amazon Bedrock, offering ready-to-use media editing capabilities delivered through the Amazon Bedrock API. These image editing tools expand on the capabilities of Stability AI’s Stable Diffusion 3.5 models (SD3.5) and Stable Image Core and Ultra models, which are already available in Amazon Bedrock and have set new standards in image generation. 
-The professional creative production process consists of multiple editing steps to get the exact output needed. With Stability AI Image Services in Amazon Bedrock, you can modify, enhance, and transform existing images without jumping between multiple systems or sending files to external services. Everything runs through the same Amazon Bedrock experience you’re already using. The business impact can be immediate for teams that produce visual content at scale. 
-In this post, we explore examples of how these tools enable precise creative control to accelerate professional-grade visual content. 
-Editing tools now available in Amazon Bedrock 
-Stability AI Image Services span&nbsp;9 tools across two categories: Edit and Control. Each tool handles specific editing tasks that typically require specialized software or manual intervention. 
-Edit: Advanced capabilities for granular editing steps 
-The tools in the Edit category make complex editing tasks more accessible and efficient. 
-The suite begins with fundamental yet powerful retouching tools. The Erase Object tool, for example, removes unwanted elements from images while intelligently maintaining background consistency. The following animation showcases the Erase Object tool removing a mannequin from a product shot while preserving the background. The tool can transform a source image based on a mask image or derive the mask from the source image’s alpha channel. 
- 
-The Remove Background tool automatically isolates subjects with precision. This enables the creation of clean, professional product listings with consistent backgrounds or a variety of lifestyle settings, which is a game changer for ecommerce. 
-The following example illustrates the removal of an image background, while preserving details of a furniture product in the foreground. 
- 
-The Search and Recolor and Search and Replace tools target specific elements within images for modification. Search and Recolor changes object colors; for example, showing different colorways of a dress without new photoshoots. In the following illustration, Search and Recolor changes the color swatch on furniture. 
- 
-Search and Replace can swap objects entirely, which is useful for updating seasonal elements in marketing materials or replacing products. The following is an application of Search and Replace for virtual try-on experiences. 
- 
-The Inpaint tool intelligently modifies images by filling in or replacing specified areas with new content based on the content of a mask image. 
-Control: Structural and stylistic precision 
-This category of tools provides precise manipulation of image structure and style through three specialized tools. 
-The Sketch tool transforms sketch-style renderings into photorealistic concepts. Architecture firms might use this to convert conceptual drawings into realistic visualizations, and apparel brands to turn design sketches into product mockups. The tool helps accelerate the creative production process from initial concepts to final visual execution. 
-In this example, the Sketch tool transforms a building architecture drawing to help real estate developers visualize the concept against a cityscape. 
- 
-In another example, the Sketch tool transforms a mannequin drawing into a photorealistic model shot. 
- 
-The Structure tool maintains the structural elements of input images while allowing content modification. This tool helps preserve layouts, compositions, and spatial relationships while changing subjects or styles. Creative teams can use the Structure tool to recreate scenes with different subjects or render new characters while maintaining consistent framing. 
-The following example demonstrates the Structure tool transforming a workshop scene into a new scene while preserving the composition and spatial relationships. 
- 
-The Style Guide and Style Transfer tools help marketing teams produce new images that align with brand style and guidelines. The Style Guide tool takes artistic styles and colors from a reference style image and generates new images based on text prompts. 
-In the following example, the Style Guide tool takes clues from a brand’s color palette and textures and generates new images matching brand identity. 
- 
-The Style Transfer tool uses visual characteristics from reference images to transform existing images, while preserving the original composition. For example, a home decor retailer can transform product imagery from modern minimalist to traditional styles without new photography. Marketing teams could create seasonal variations by applying different visual styles to existing product catalogs. 
-Solution overview 
-To demonstrate Stability AI Image Services in Amazon Bedrock, let’s walk through an example using a Jupyter notebook found in the GitHub repo. 
-Prerequisites 
-To follow along, you must have the following prerequisites: 
- 
- An AWS account. 
- AWS credentials configured for creating and accessing Amazon Bedrock and Amazon SageMaker AI resources. 
- An AWS Identity and Access Management (IAM) execution role for SageMaker AI, which has the AmazonSageMakerFullAccess and AmazonBedrockLimitedAccess AWS managed policies attached. For more details, see How to use SageMaker AI execution roles. 
- A SageMaker notebook instance. 
- Stability AI Image Services model access, which you can request through the Amazon Bedrock console. Refer to Access Amazon Bedrock foundation models for more details. 
- 
-Create a SageMaker AI notebook instance 
-Complete the following steps to create a SageMaker AI notebook instance, which can be used to run the sample notebook: 
- 
- On the SageMaker AI console, in the navigation pane, under Applications and IDEs, choose Notebooks. 
- Choose Create notebook instance. 
- For Notebook instance name, enter a name for your notebook instance (for example, ai-images-notebook-instance). 
- For Notebook Instance type, choose ml.t2.medium. 
- For Platform identifier, choose Amazon Linux 2. 
- For IAM role, choose either an existing IAM role, which has the AmazonSageMakerFullAccess and AmazonBedrockLimitedAccess policies attached, or choose Create a new role. 
- Note the name of the IAM role that you chose. 
- Leave other settings as default and choose Create notebook instance. 
- 
-After a few minutes, SageMaker AI creates a notebook instance, and its status changes from Pending to InService. 
-Confirm the IAM role for the notebook instance has the necessary permissions 
-Complete the following steps to verify that the SageMaker AI execution role that you assigned to the notebook instance has the correct permissions: 
- 
- On the IAM console, in the navigation pane, under Access management, choose Roles. 
- In the Roles search bar, enter the name of the SageMaker AI execution role that you used when creating the notebook instance. 
- Choose the IAM role. 
- Under Permissions policies, verify that the AWS managed policies AmazonSageMakerFullAccess and AmazonBedrockLimitedAccess are present. 
- (Optional) If either policy is missing, choose Add permissions, then choose Attach policies to attach the missing policy. 
-   
-   In the Other permissions policies search bar, enter the policy name. 
-   Select the policy, then chose Add permissions. 
-    
- 
-Run the notebook 
-Complete the following steps to run the notebook: 
- 
- On the SageMaker AI console, in the navigation pane, under Applications and IDEs, choose Notebooks. 
- Choose the newly created ai-images-notebook-instance notebook instance. 
- Wait for the notebook to be in InService status. 
- Choose the Open JupyterLab link to launch JupyterLab in a new browser tab. 
- On the Git menu, choose Clone a Repository. 
- Enter the URI https://github.com/aws-samples/stabilityai-sample-notebooks.git and select Include submodules and Download the repository. 
- Choose Clone. 
- On the File menu, choose Open from path. 
- Enter the following: stabilityai-sample-notebooks/stability-ai-image-services/stability-ai-image-services-sample-notebook.ipynb 
- Choose Open. 
- When prompted, choose the kernel conda_python3, then choose Select. 
- Run through each notebook cell to experience Stability AI Image Services in Amazon Bedrock. 
- 
-Clean up 
-To avoid ongoing charges, stop the ai-images-notebook-instance SageMaker AI notebook instance that you created in this walkthrough: 
- 
- On the SageMaker AI console, in the navigation pane, under Applications and IDEs, choose Notebooks. 
- Choose the ai-images-notebook-instance SageMaker AI notebook instance that you created. 
- Choose Actions, then choose Stop. 
- 
-After a few minutes, the notebook instance transitions from Stopping to Stopped status. 
- 
- Choose Actions, then Delete. 
- 
-After a few seconds, SageMaker AI deletes the notebook instance. 
-For more details, refer to Clean up Amazon SageMaker notebook instance resources. 
-Conclusion 
-The availability of Stability AI Image Services in Amazon Bedrock is an exciting step forward for visual content creation and manipulation, with particularly time-saving implications for professional creative teams at enterprises. 
-For example, in media and entertainment, creators can rapidly enhance scenes and create special effects, and marketing teams can generate multiple campaign variations effortlessly. Retail and ecommerce businesses can streamline product photography and digital catalog creation, and gaming developers can prototype environments more efficiently. Architecture firms can visualize design concepts instantly, and educational institutions can create more engaging visual content. 
-With these tools, businesses of different sizes can produce professional-grade, highly engaging visual content with efficiency and creativity. These tools can streamline operations, reduce costs, and open new creative possibilities, helping brands tell their stories more effectively and engage customers in more compelling ways. 
-To get started, check out Stability AI models in Amazon Bedrock and the AWS Samples GitHub repo. 
- 
-About the authors 
-Alex Gnibus is a Product Marketing Manager at Stability AI, connecting the dots between cutting-edge research breakthroughs and practical use cases. With experience spanning from creative agencies to deep enterprise tech, Alex brings both technical expertise and an understanding of the challenges that professional creative teams can solve with generative AI. 
-Isha Dua is a Senior Solutions Architect based in the San Francisco Bay Area. She helps AWS Enterprise customers grow by understanding their goals and challenges and guiding them on how they can architect their applications in a cloud-based manner while making sure they are resilient and scalable. She’s passionate about machine learning technologies and environmental sustainability. 
-Fabio Branco is a Senior Customer Solutions Manager at Amazon Web Services (AWS) and strategic advisor helping customers achieve business transformation, drive innovation through generative AI and data solutions, and successfully navigate their cloud journeys. Prior to AWS, he held Product Management, Engineering, Consulting, and Technology Delivery roles across multiple Fortune 500 companies in industries, including retail and consumer goods, oil and gas, financial services, insurance, and aerospace and defense. 
-Suleman Patel is a Senior Solutions Architect at Amazon Web Services (AWS), with a special focus on machine learning and modernization. With expertise in both business and technology, Suleman helps customers design and build solutions that tackle real-world business problems. When he’s not immersed in his work, Suleman loves exploring the outdoors, taking road trips, and cooking up delicious dishes in the kitchen.
-• Prompting for precision with Stability AI Image Services in Amazon Bedrock
-  Amazon Bedrock now offers Stability AI Image Services: 9 tools that improve how businesses create and modify images. The technology extends Stable Diffusion and Stable Image models to give you precise control over image creation and editing. Clear prompts are critical—they provide art direction to the AI system. Strong prompts control specific elements like tone, texture, lighting, and composition to create the desired visual outcomes. This capability serves professional needs across product photography, concept, and marketing campaigns. 
-In this post, we expand on the post Understanding prompt engineering: Unlock the creative potential of Stability AI models on AWS. We show how to effectively use advanced prompting techniques to maximize image generation quality and precision for enterprise application using Stability AI Image Services in Amazon Bedrock. 
-Solution overview 
-Stability AI Image Services are available as APIs in Amazon Bedrock, featuring capabilities such as, in-painting, style transfer, recoloring, background removal, object removal, style guide, and much more. 
-In the following sections, we first discuss prompt structure for maximum control of image generation, then we provide advanced techniques of prompting for stylistic guidance. Code samples can be found in the following GitHub repository. 
-Prerequisites 
-To get started with Stability AI Image Services in Amazon Bedrock, follow the instructions in Getting started with the API to complete the following prerequisites: 
- 
- Set up your AWS account. 
- Acquire credentials to grant programmatic access. 
- Attach the Amazon Bedrock permission to an AWS Identity and Access Management (IAM) user or role. 
- Request access to the Amazon Bedrock models. 
- 
-Structure prompts that maximize control 
-To maximize the granular capabilities of Stability AI Image Services in Amazon Bedrock, you must construct prompts that enable fine-grained control. 
-This section outlines best practices for building effective prompts that produce the desired output. We demonstrate how prompt structure affects results and why more structured prompts typically yield more consistent and controllable outcomes. 
-Choose the right prompt type for your use case 
-Selecting the right prompt format helps the model better understand your intent. Three primary prompt formats deliver different levels of control and readability: 
- 
- Natural language maximizes readability and is best for general usage 
- Tag-based formats enable precise structural control and are ideal for technical application 
- Hybrid formats combine natural language and the structural elements of tags to provide even more control 
- 
-The following table provides examples of these three common ways to phrase your prompts. Each prompt format has its strengths depending on your goal or the interface you’re using. 
- 
-  
-   
-   Prompt type  
-   Prompt example  
-   Generated image using Stable Image Ultra in Amazon Bedrock 
-   Description and use case 
-   
-   
-   Basic Prompt (Natural Language) 
-   “A clean product photo of a perfume bottle on a marble countertop” 
-    
-   This is readable and intuitive. Great for exploration, conversational tools, and some model types. Stable Diffusion 3.5 responds best to this style. 
-   
-   
-   Tag-Based Prompt 
-   “perfume bottle, marble surface, soft light, high quality, product photo” 
-    
-   Used in many generation UIs or with models trained on datasets like LAION or Danbooru. Compact and good for stacking details. 
-   
-   
-   Hybrid Prompt 
-   “perfume bottle on marble counter, soft studio lighting, sharp focus, f/2.8lens” 
-    
-   Best of both worlds. Add emphasis with weighting syntax to influence the model’s priorities. 
-   
-  
- 
-Build modular prompts 
-Modular prompting enhances AI image generation effectiveness. This approach divides prompts into distinct components, each specifying what to draw and how it should appear. Modular structures provide several benefits: they help prevent conflicting or confusing instructions, allow for precise output control, and simplify prompt debugging. By isolating individual elements, you can quickly identify and adjust effective or ineffective parts of your prompts. This method ultimately leads to more refined and targeted AI-generated images. 
-The following table provides examples of modular prompt modules. Experiment with different prompt sequences for your desired outcome; for example, placing the style before the subject will give it a more visual weight. 
- 
-  
-   
-   Module 
-   Example 
-   Description 
-   
-   
-   Prefix 
-   “fashion editorial portrait of” 
-   Sets the tone and intent for a high-fashion styled portrait 
-   
-   
-   Subject 
-   “a woman with medium-brown skin and short coiled hair” 
-   Gives the model’s look and surface detail to help guide facial features 
-   
-   
-   Modifiers 
-   “wearing an asymmetrical black mesh top, metallic jewelry” 
-   Adds stylized clothing and accessories for visual interest 
-   
-   
-   Action 
-   “seated with her shoulders angled, eyes locked on camera, one arm lifted” 
-   Describes body language and pose to give dynamic composition 
-   
-   
-   Environment 
-   “bathed in intersecting beams of hard directional light through window slats” 
-   Adds context for dramatic light play and atmosphere 
-   
-   
-   Style 
-   “high-contrast chiaroscuro lighting, sculptural and abstract” 
-   Informs the aesthetic and mood (shadow-driven, moody, architectural) 
-   
-   
-   Camera/Lighting 
-   “shot on 85mm, studio setup, layered shadows and light falling across face and body” 
-   Adds technical precision and helps control realism and fidelity 
-   
-  
- 
-The following example illustrates how to use a modular prompt to generate the desired output. 
- 
-  
-   
-   Modular Prompt 
-   Generated Image Using Stable Image Ultra in Amazon Bedrock 
-   
-   
-   “fashion editorial portrait of a woman with medium-brown skin and short coiled hair, wearing an asymmetrical black mesh top and metallic jewelry, seated with shoulders angled and one arm lifted, eyes locked on camera, bathed in intersecting beams of hard directional light through window slats, layered shadows and highlights sculpting her face and body, high-contrast chiaroscuro lighting, abstract and bold, shot on 85mm in studio” 
-    
-   
-  
- 
-Use negative prompts for polished output 
-Negative prompts improve AI output quality by removing specific visual elements. Explicitly defining what not to include in the prompt guides the model’s output, typically leading to professional outputs. Negative prompts act like a retoucher’s checklist used to address aspects of an image to enhance quality and appeal. For example, “No weird hands. No blurry corners. No cartoon filters. Definitely no watermarks.” Negative prompts result in clean, confident, compositions, free of distracting element and distortions. 
-The following table provides examples of additional tokens that can be used in negative prompts. 
- 
-  
-   
-   Artifact Type 
-   Tokens to Use 
-   
-   
-   Low quality or noise 
-   blurry, lowres, jpeg artifacts, noisy 
-   
-   
-   Anatomy or model issues 
-   deformed, extra limbs, bad hands, missing fingers 
-   
-   
-   Style clashes 
-   cartoon, illustration, anime, painting 
-   
-   
-   Technical errors 
-   watermark, text, signature, overexposed 
-   
-   
-   General cleanup 
-   ugly, poorly drawn, distortion, worst quality 
-   
-  
- 
-The following example illustrates how a well-structured negative prompt can enhance photorealism. 
- 
-  
-   
-   Without Negative Prompt 
-    Prompt “(medium full shot) of (charming office cubicle) made of glass material, multiple colors, modern style, space-saving, upholstered seat, patina, gold trim, located in a modern garden, with sleek furniture, stylish decor, bright lighting, comfortable seating, Masterpiece, best quality, raw photo, realistic, very aesthetic, dark “ 
-    
-   
-   
-   With Negative Prompt 
-    Prompt “(medium full shot) of (charming office cubicle) made of glass material, multiple colors, modern style, space-saving, upholstered seat, patina, gold trim, located in a modern garden, with sleek furniture, stylish decor, bright lighting, comfortable seating, Masterpiece, best quality, raw photo, realistic, very aesthetic, dark” Negative Prompt “cartoon, 3d render, cgi, oversaturated, smooth plastic textures, unreal lighting, artificial, matte surface, painterly, dreamy, glossy finish, digital art, low detail background” 
-    
-   
-  
- 
-Emphasize or suppress elements with prompt weighting 
-Prompt weighting controls the influence of individual elements in AI image generation. These numerical weights prioritize specific prompt components over others. For example, to emphasize the character over the background, you can apply a 1.8 weight to “character” (character: 1.8) and 1.1 to “background” (background: 1.1), which makes sure the model prioritizes character detail while maintaining environmental context. This targeted emphasis produces more precise outputs by minimizing competition between prompt elements and clarifying the model’s priorities. 
-The syntax for prompt weights is (&lt;term&gt;:&lt;weight&gt;). You can also use a shorthand such as ((&lt;term&gt;)), where the number of parentheses represent the weight. Values between 0.0–1.0 deemphasize the term, and values between 1.1–2.0 emphasize the term.For example: 
- 
- (term:1.2): Emphasize 
- (term:0.8): Deemphasize 
- ((term)): Shorthand for (term:1.2) 
- (((((((((term)))))))): Shorthand for (term:1.8) 
- 
-The following example shows how prompt weights contribute to the generated output. 
- 
-  
-   
-    Prompt with weights “editorial product photo of (a translucent gel moisturizer jar:1.4) placed on a (frosted glass pedestal:1.2), surrounded by (dewy pink flower petals:1.1), with soft (diffused lighting:1.3), subtle water droplets, shallow depth of field” 
-    
-   
-   
-    Prompt without weights “editorial product photo of a translucent gel moisturizer jar placed on a frosted glass pedestal, surrounded by dewy pink flower petals, with soft, subtle water droplets, shallow depth of field” 
-    
-   
-  
- 
-You can also use weights in negative prompts to reduce how strongly the model avoids something. For example, “(text:0.5), (blurry:0.2), (lowres:0.1).” This tells the model to be especially sure to avoid generating blurry text or low-resolution content. 
-Giving specific stylistic guidance 
-Effective prompt writing when using Stability AI Image Services such as Style Transfer and Style Guide requires a good understanding of style matching and reference-driven prompting. These techniques help provide clear stylistic direction for both text-to-image and image-to-image creation. 
-Image-to-image style transfer extracts stylistic elements from an input image (control image) and uses it to guide the creation of an output image based on the prompt. Approach writing the prompt as if you’re directing a professional photographer or stylist. Focus on materials, lighting quality, and artistic intention—not just objects. For example, a well-structured prompt might read: “Close-up editorial photo of a translucent green lip gloss tube on crushed iridescent plastic, diffused colored lighting, shallow DOF, high fashion product styling.” 
-Style tag layering: Known aesthetic labels that align with brand identity 
-The art of crafting effective prompts often relies on incorporating established style tags that resonate with familiar visual languages and datasets. By strategically blending terms from recognized aesthetic categories (ranging from editorial photography and analog film to anime, cyberpunk cityscapes, and brutalist structures), creators can guide the AI toward specific visual outcomes that align with their brand identity. These style descriptors serve as powerful anchors in the prompt engineering process. The versatility of these tags extends further through their ability to be combined and weighted, allowing for nuanced control over the final aesthetic. For instance, a skincare brand might blend the clean lines of product photography with dreamy, surreal elements, whereas a tech company could merge brutalist structure with cyberpunk elements for a distinctive visual identity. This approach to style mixing helps creators improve their outputs while maintaining clear ties to recognizable visual genres that resonate with their target audience. The key is understanding how these style tags interact and using their combinations to create unique, yet culturally relevant, visual expressions that serve specific creative or commercial objectives. The following table provides examples of prompts for a desired aesthetic. 
- 
-  
-   
-   Desired aesthetic 
-   Prompt phrases 
-   Example use case 
-   
-   
-   Retro / Y2K 
-   2000s nostalgia, flash photography, candy tones, harsh lighting 
-   Metallic textures, thin fonts, early digital feel. 
-   
-   
-   Clean modern 
-   neutral tones, soft gradients, minimalist styling, editorial layout 
-   Great for wellness or skincare products. 
-   
-   
-   Bold streetwear 
-   urban background, oversized fit, strong pose, midday shadow 
-   Fashion photography and lifestyle ads. Prioritize outfit structure and location cues. 
-   
-   
-   Hyperreal surrealism 
-   dreamcore lighting, glossy textures, cinematic DOF, surreal shadows 
-   Plays well in music, fashion, or alt-culture campaigns. 
-   
-  
- 
-Invoke a named style as a reference 
-Some prompt structures benefit from invoking a named visual signature from a specific artist, especially when combined with your own stylistic phrasing or workflows, as shown in the following example. 
- 
-  
-   
-    Prompt “editorial studio portrait of a woman with glowing skin in minimalist glam makeup, high-contrast lighting, clean background, (depiction of Van Gogh style:1.3)” 
-    
-   
-  
- 
-The following is a more conceptual example. 
- 
-  
-   
-    Prompt “product shot of a silver hair oil bottle with soft reflections on curved chrome, (depiction of Wes Anderson style:1.2), under cold studio lighting” 
-    
-   
-  
- 
-These phrases function like calling on a genre; they imply choices around materials, lighting, layout, and color tonality. 
-Use reference images to guide style 
-Another useful technique is using a reference image to guide the pose, color, or composition of the output. For use cases like matching a pose from a lookbook image, transferring a color palette from a campaign still, or copying shadowplay from a photo shoot, you can extract and apply structure or style from reference images. 
-Stability AI Image Services support a variety of image-to-image workflows where you can use a reference image (control image) to guide the output, such as Structure, Sketch, and Style. Tools like ControlNet (a neural network architecture developed by Stability AI that enhances control), IP-Adapter (an image prompt adapter), or clip-based captioning also enable further control when paired with Stability AI models. 
-We will discuss ControlNet, IP-Adapter, and clip-based captioning in a subsequent post. 
-The following is an example of an image-to-image workflow: 
- 
- Find a high-quality editorial reference. 
- Use it with a depth, canny, or seg ControlNet to lock a pose. 
- Style with a prompt. 
- 
- 
-  
-   
-    Prompt “fashion editorial of a model in layered knitwear, dramatic colored lighting, strong shadows, high ISO texture” 
-    
-   
-  
- 
-Create the right mood with lighting control 
-In a prompt, lighting sets tone, adds dimensionality, and mimics the language of photography. It shouldn’t just be “bright vs. dark.” Lighting is often the style itself, especially for audiences like Gen Z, for instance TikTok, early-aughts flash, harsh backlight, and color gels. The following table provides some useful lighting style prompt terms. 
- 
-  
-   
-   Lighting style 
-   Prompt terms 
-   Example use case 
-   
-   
-   High-contrast studio 
-   hard directional light, deep shadows, controlled highlights 
-   Beauty, tech, fashion with punchy visuals 
-   
-   
-   Soft editorial 
-   diffused light, soft shadows, ambient glow, overcast 
-   Skincare, fashion, wellness 
-   
-   
-   Colored gel lighting 
-   blue and pink gel lighting, dramatic color shadows, rim lighting 
-   Nightlife, music-adjacent fashion, youth-forward styling 
-   
-   
-   Natural bounce 
-   golden hour, soft natural light, sun flare, warm tones 
-   Outdoors, lifestyle, brand-friendly minimalism 
-   
-  
- 
-Build intent with posing and framing terms 
-Good posing helps products feel aspirational and digital models more dynamic. With AI, you must be intentional. Framing and pose cues help avoid stiffness, anatomical errors, and randomness. The following table provides some useful posing and framing prompt terms. 
- 
-  
-   
-   Prompt cue 
-   Description 
-   Tip 
-   
-   
-   looking off camera 
-   Creates candid or editorial energy 
-   Useful for lookbooks or ad pages 
-   
-   
-   hands in motion 
-   Adds realism and fluidity 
-   Avoids awkward, static body posture 
-   
-   
-   seated with body turned 
-   Adds depth and twist to the torso 
-   Reduces symmetry, feels natural 
-   
-   
-   shot from low angle 
-   Power or status cue 
-   Works well for stylized streetwear or product hero shots 
-   
-  
- 
-Example: Putting it all together 
-The following example puts together what we’ve discussed in this post. 
- 
-  
-   
-    Prompt “studio portrait of a model with platinum hair in metallic cargo pants and a cropped mesh hoodie, seated with legs wide on (acrylic stairs:1.6), magenta and teal gel lighting from left and behind, dramatic contrast, shot on 50mm, streetwear editorial for Gen Z campaign” Negative prompt “blurry, extra limbs, watermark, cartoon, distorted face missing fingers, bad anatomy” 
-    
-   
-  
- 
-Let’s break down the preceding prompt. We direct the look of the subject (platinum hair, metallic clothes), specify their pose (seated wide-legged, confident, unposed), define the environment (acrylic stairs and studio setup, controlled, modern), state the lighting (mixed gel sources, bold stylization), designate the lens (50mm, portrait realism), and lastly detail the purpose (for Gen Z campaign, sets visual and cultural tone). Together, the prompt produces the desired result. 
-Best practices and troubleshooting 
-Prompting is rarely a one-and-done task, especially for creative use cases. Most great images come from refining an idea over multiple attempts. Consider the following methodology to iterate over your prompts: 
- 
- Keep a prompt log 
- Change one variable at a time 
- Save seeds and base images 
- Use comparison grids 
- 
-Sometimes things go wrong—maybe the model ignores your prompt, or the image looks messy. These issues are common and often quick to fix, and you can get sharper, cleaner, and more intentional outputs with every adjustment. The following table provides useful tips for troubleshooting your prompts. 
- 
-  
-   
-   Problem 
-   Cause of issue 
-   How to fix it 
-   
-   
-   Style feels random 
-   Model is confused or terms are vague 
-   Clarify style, add weight, remove conflicts 
-   
-   
-   Face gets warped 
-   Over-styled or lacks facial cues 
-   Add portrait of, headshot, or adjust pose or lighting 
-   
-   
-   Image is too dark 
-   Lighting not defined 
-   Add softbox from left, natural light, or time of day 
-   
-   
-   Repetitive poses 
-   Same seed or static structure 
-   Switch seed or change camera angle or subject action 
-   
-   
-   Lacks realism or feels “AI-ish” 
-   Wrong tone or artifacts 
-   Add negatives like cartoon, digital texture, distorted 
-   
-  
- 
-Conclusion 
-Mastering advanced prompting techniques can turn basic image generation into professional creative outputs. Stability AI Image Services in Amazon Bedrock provide precise control over visual creation and editing, helping businesses convert concepts into production-ready assets. The combination of technical expertise and creative intent can help creators achieve the precision and consistency required in professional settings. This control proves valuable across multiple applications, such as marketing campaigns, brand consistency, and product visualizations. This post demonstrated how to optimize Stability AI Image Services in Amazon Bedrock to produce high-quality imagery that aligns with your creative goals. 
-To implement these techniques, access Stability AI Image Services through Amazon Bedrock or explore Stability AI’s foundation models available in Amazon SageMaker JumpStart. You can also find practical code examples in our GitHub repository. 
- 
-About the authors 
-Maxfield Hulker is the VP of Community and Business Development at Stability AI. He is a longtime leader in the generative AI space. He has helped build creator-focused platforms like Civitai and Dream Studio. Maxfield regularly publishes guides and tutorials to make advanced AI techniques more accessible. 
-Suleman Patel is a Senior Solutions Architect at Amazon Web Services (AWS), with a special focus on machine learning and modernization. Leveraging his expertise in both business and technology, Suleman helps customers design and build solutions that tackle real-world business problems. When he’s not immersed in his work, Suleman loves exploring the outdoors, taking road trips, and cooking up delicious dishes in the kitchen. 
-Isha Dua is a Senior Solutions Architect based in the San Francisco Bay Area working with generative AI model providers and helping customer optimize their generative AI workloads on AWS. She helps enterprise customers grow by understanding their goals and challenges, and guides them on how they can architect their applications in a cloud-based manner while supporting resilience and scalability. She’s passionate about machine learning technologies and environmental sustainability. 
-Fabio Branco is a Senior Customer Solutions Manager at Amazon Web Services (AWS) and a strategic advisor, helping customers achieve business transformation, drive innovation through generative AI and data solutions, and successfully navigate their cloud journeys. Prior to AWS, he held Product Management, Engineering, Consulting, and Technology Delivery roles across multiple Fortune 500 companies in industries, including retail and consumer goods, oil and gas, financial services, insurance, and aerospace and defense.
 
 ⸻
