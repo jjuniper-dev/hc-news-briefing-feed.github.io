@@ -1,6 +1,6 @@
-✅ Morning News Briefing – September 24, 2025 10:44
+✅ Morning News Briefing – September 25, 2025 10:44
 
-📅 Date: 2025-09-24 10:44
+📅 Date: 2025-09-25 10:44
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
@@ -8,10 +8,10 @@
 🧾 Weather
 • No watches or warnings in effect, Pembroke
   No watches or warnings in effect. No warnings or watches or watches in effect . Watch or warnings are no longer in effect in the U.S. No watches, warnings are in effect for the rest of the day . No watches and warnings are still in effect, but no watches are in place for the day's events . The weather is not expected to be affected by the weather .
-• Current Conditions: Fog, 14.6°C
-  Fog temperature: 14.6&deg;C Pressure / Tendency: 101.9 kPa rising Visibility: 6 km Humidity: 96 % Dewpoint: 14 .0&deg:C Wind: WSW 4 km/h . Air Quality Health Index: n/a . Weather forecast for Garrison Petawawa 6:00 AM EDT on September 24 September 2025 .
-• Wednesday: Chance of showers. High 23. POP 40%
-  40 percent chance of showers early this morning with risk of a thunderstorm . Fog patches dissipating this morning . Mainly cloudy. High 23. Humidex 27. UV index 3 or moderate. . Forecast issued 5:00 AM EDT Wednesday 24 September 2025 . Weather will be mainly cloudy in the morning with rain showers and thunderstorms expected later this morning. Forecasters predict rain
+• Current Conditions:  11.8°C
+  Temperature: 11.8&deg;C Pressure / Tendency: 101.4 kPa falling Humidity: 98 % Humidity : 98 % Dewpoint: 11 .5&deg:C Wind: W calm km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Thursday 25 September 2025 . Weather forecast: 10/11
+• Thursday: Chance of showers. High 20. POP 60%
+  Cloudy with 60 percent chance of showers. High 20. Humidex 25. UV index 3 or moderate. Chance of rain in the morning . Showery cloudy with low-level rainfallfallfall forecast for the day of the day . Forecast issued 5:00 AM EDT Thursday 25 September 2025 (10:00am GMT) Forecast: "Showery
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• New York City may move its mayoral elections to even years. It'd be part of a trend
-  This fall, New York City voters will weigh in on a proposal to move future city elections to even-numbered years . It's part of a growing trend to consolidate election dates . The proposal would be part of the city's first city election to be held in even-yearly years . The city will vote on the proposal in the fall on whether to move city elections back to even
-• Love pumpkin spice lattes? Learn some of its spicy history
-  For NPR's Word of the Week: Things are getting spicy . We explain how a word referring to cinnamon and pepper turned less literal by the 19th century . We also explain how the word was used to refer to cinnamon, pepper and pepper in the early 1800s . NPR's word of the week: "Spicy" is the word for spicy and spicy in this week's Word
-• NPR's middle school champion: A moving podcast about Japanese incarceration
-  NPR's Student Podcast Challenge has a returning champion: a California fifth grader who explored a dark chapter in U.S. history during World War II . For the first time, NPR's student podcast challenge champion is a fifth grade California fifth-grader . The challenge challenges students to share their knowledge of the war in a new way of expressing themselves in a unique way of storytelling .
-• Typhoon Ragasa batters Hong Kong and southern China
-  Typhoon Ragasa whipped waves taller than lampposts onto Hong Kong promenades and turned seas rough on the southern Chinese coast . The typhoon left deadly destruction in Taiwan and the Philippines after leaving deadly damage in the Philippines and Taiwan . The storm also left waves higher than lampsosts on Hong Kong promenades and higher waves on the Chinese coast
-• 'We have to speak out,' Jimmy Kimmel says in his late-night return
-  Comedian was suspended for nearly a week by ABC's parent company, Disney, before returning to airwaves on Tuesday night . The comedian was suspended by Disney for almost a week before returning on airwaves . The show is set to return to air on ABC on Tuesday evening after being suspended for more than a week in the wake of the suspension . Comedian Randy Holmes returns to the air
+• Danish officials believe drone flyovers at 4 airports meant to sow fear
+  Defense Minister Troels Lund Poulsen said it appeared a "professional actor" was behind the "systematic" flights . Defense Minister said a professional actor appeared to be behind the flights, without providing additional details during a news conference Thursday morning . The incident occurred in Denmark's capital, Copenhagen, on the island of Copenhagen . The U.S. State Department is investigating the incident .
+• A judge ruled their firings were illegal. The government got to do it anyway
+  A judge ruled the firing of thousands of federal employees was illegal . But he stopped short of ordering the government to reinstate them . The judge predicts the Supreme Court would overturn the ruling, which he predicts will be overturned . The firing was illegal, but a judge ruled it was illegal by firing thousands of government employees, but he did not order them to be re-hired . The
+• Tensions are high in a Utah redistricting fight that didn't start with Trump
+  Utah Republicans are redrawing congressional maps mid-decade . Unlike Texas, Utah's new maps could give Democrats more of a shot at winning a seat . Utah's maps could help Democrats win a seat in the U.S. House of Representatives in the state of Utah, which is a Republican state . The maps could also give Democrats a chance at winning more seats in Utah .
+• 8 walking and biking safety tips that just might save your life
+  In 2024, 7,100 pedestrians were killed on the road, and in recent years, more than 1,000 cyclists have been hit and killed annually . DO make yourself visible with bike lights. DO look up from your phone when walking. DO make sure that you don't use your phone while walking. Do make sure you're not using it when you're on the street. Do
+• Strict rules can foster calm classrooms. But some students pay the price
+  Indiana charter school network has won praise for its strong academics . But some students with disabilities struggle to follow the school system's discipline policies . Students with disabilities often struggle to comply with discipline policies, school officials say . The school system has been criticized for its policies on discipline and discipline for some students in the past . It has been praised for its focus on academics and social justice for students with
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Politicos: ‘There is a good strong case for government intervention’ on JLR cyberattack
-  Chair of UK's business and trade committee says situation at Jaguar Land Rover is likely to get "harder and harder over the next week or two" But he stopped short of confirming that the government might intervene with financial support . Covid-style financial support? Nothing to confirm yet, say MPs, but it's likely to be 'harder' for the next two weeks or two
-• Europe's largest city council delays fix to disastrous Oracle system once more
-  System meant to go live in 2021 costing £20M awaits reimplementation with new £170M price tag . Europe's largest local authority has delayed introduction of a vital income management system . Total spending on a disastrous Oracle implementation could hit £170 million (c $230 million) Total cost of Oracle implementation expected to hit £20 million (C $20M) Total spending will hit £
-• UK justice minister pressed as court system bug raises fears of hidden case files
-  HMCTS expands investigation into IT flaw after whistleblowers draw Horizon comparisons . UK's HM Courts and Tribunals Service (HMCTS) is continuing to check whether an IT bug that could hide documents and data affected the outcome of any cases, a government minister has said . Government minister: 'It's not clear whether the bug affected any cases. It's a matter of concern that
-• Solar flair: Logitech's K980 Signature Slim keyboard runs on rays
-  Logitech is harnessing solar power in the K980 Signature Slim keyboard to solve battery anxiety . The K980 signature Slim keyboard is powered by solar energy . The keyboard is the latest in a line of keyboard keyboards to be harnessed by solar power . Logitech hopes to solve the problem that might not have occurred to some users: battery anxiety. The keyboard has a range of features that
-• The first rule of liquid cooling is 'Don't wet the chip.' Microsoft disagrees
-  Redmond suggests ‘Microfluidics’ – hair-thin channels etched on silicon to let coolants flow . Redmond suggests 'Microfluids’ - hair- thin channels etched in chips to allow coolants to flow . Liquid cooling in the datacenter is often considered a little dangerous . Microsoft has found a way to dispel such worries with a scheme that sees liquids flow
+• SAP's 'simplified' licensing leaves users more confused
+  Business Suite nostalgia unlikely to ease customers' public cloud journey . SAP experts are doubting the enterprise software giant's message that it is simplifying licensing after the changes were discussed at the German-speaking user group conference . The changes are expected to be discussed at an SAP conference in Germany this week . The company is set to simplify licensing for the public cloud . It is not expected to ease
+• EU starting registration of fingerprints and faces for short-stay foreigners
+  Biometric Entry/Exit System phased in from October to 29 Schengen countries . Travelers including Britons and Americans visiting most European countries will have to register their fingerprints and faces under a system that goes live next month . The system will be phased in to 29 countries, including Britain and the U.S. It will go live in October and goes live in 29 countries across Europe .
+• Empty shelves, empty coffers: Co-op pegs cyber hit at £80m
+  Supermarket says the hack that shut down systems and emptied shelves has turned profits into losses . The Co-operative Group has revealed the cyberattack that knocked its systems offline earlier this year will leave it nursing an £80 million hangover . Supermarket say the hack will leave them nursing an £80 million hangover and receiving a loss of profits . Super
+• Check your own databases before asking to see our passport photos, Home Office tells UK cops
+  Guidance follows privacy complaints over sharp increase in police searches of travel doc and visa pic libraries . Home Office has told police forces to check their own photo databases before asking it to search its libraries of passport and visa facial images . Avoid urgent requests "unless it is absolutely necessary" for police to search libraries of passports and visa images, as well as avoiding urgent requests unless it is 'absolutely
+• The sweetest slice of Pi: Raspberry Pi 500+ sports mechanical keys, 16GB, and built-in SSD
+  Raspberry Pi has unveiled a fully loaded version of its computer-in-a-keyboard . Features oodles of RAM, an SSD, and a clicky, mechanical keyboard . Big performance on offer, but be prepared to spend $200 HANDS ON the $200 version of the Raspberry Pi . The Raspberry Pi is a Raspberry Pi mini-computer with a touch-screen
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• Ophthalmic care at an academic medical centre for patients who were incarcerated or in immigration detention
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Quality safety and disparity of an AI chatbot in managing chronic diseases: simulated patient experiments
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Health impacts of wildfires travel far and wide
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Correction: Maternity care practices supportive of breastfeeding in U.S. advanced neonatal care units, United States, 2022
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Time series anomaly detection in helpline call trends for early detection of COVID-19 spread across Sweden, 2020
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Health anxiety by proxy differs in phenomenology between parents and dog owners
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• US investment in African food systems will have global benefits
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Psychosocial burden, vaccination status and preventive information options for seafarers during the COVID-19 pandemic
+• Content validity of the Mental Health Literacy Scale for perinatal use based on expert and patient input
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,108 +68,400 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
-• The AI Hype Index: Cracking the chatbot code
-  The FTC has launched an inquiry into how chatbots affect children and teenagers . The AI Hype Index is a simple, at-a-glance summary of everything you need to know about the state of the industry . There’s still plenty we don’t know about chatbots, but governments are forging ahead with AI projects . In the US, RFK Jr. is pushing his staffers to use ChatGPT, while Albania is using a chatbot for public contract procurement .
-• It’s surprisingly easy to stumble into a relationship with an AI chatbot
-  It’s a tale as old as time. Looking for help with her art project, she strikes up a conversation with her assistant. One thing leads to another, and suddenly she has a boyfriend she’s introducing to her friends and family. The twist? Her new companion is an AI chatbot.&nbsp;
-
-
-
-The first large-scale computational analysis of the Reddit community r/MyBoyfriendIsAI, an adults-only group with more than 27,000 members, has found that this type of scenario is now surprisingly common. In fact, many of the people in the subreddit, which is dedicated to discussing AI relationships, formed those relationships unintentionally while using AI for other purposes.&nbsp;
-
-
-
-Researchers from MIT found that members of this community are more likely to be in a relationship with general-purpose chatbots like ChatGPT than companionship-specific chatbots such as Replika. This suggests that people form relationships with large language models despite their own original intentions and even the intentions of the LLMs’ creators, says Constanze Albrecht, a graduate student at the MIT Media Lab who worked on the project.&nbsp;
-
-
-
-“People don’t set out to have emotional relationships with these chatbots,” she says. “The emotional intelligence of these systems is good enough to trick people who are actually just out to get information into building these emotional bonds. And that means it could happen to all of us who interact with the system normally.” The paper, which is currently being peer-reviewed, has been published on arXiv.
+• Fusion power plants don’t exist yet, but they’re making money anyway
+  This week, Commonwealth Fusion Systems announced it has another customer for its first commercial fusion power plant, in Virginia. Eni, one of the world’s largest oil and gas companies, signed a billion-dollar deal to buy electricity from the facility.
 
 
 
 
 
-To conduct their study, the authors analyzed the subreddit’s top-ranking 1,506 posts between December 2024 and August 2025. They found that the main topics discussed revolved around people’s dating and romantic experiences with AIs, with many participants sharing AI-generated images of themselves and their AI companion. Some even got engaged and married to the AI partner. In their posts to the community, people also introduced AI partners, sought support from fellow members, and talked about coping with updates to AI models that change the chatbots’ behavior.&nbsp;&nbsp;
+One small detail? That reactor doesn’t exist yet. Neither does the smaller reactor Commonwealth is building first to demonstrate that its tokamak design will work as intended.
 
 
 
-Members stressed repeatedly that their AI relationships developed unintentionally. Only 6.5% of them said they’d deliberately sought out an AI companion.&nbsp;
+This is a weird moment in fusion. Investors are pouring billions into the field to build power plants, and some companies are even signing huge agreements to purchase power from those still-nonexistent plants. All this comes before companies have actually completed a working reactor that can produce electricity. It takes money to develop a new technology, but all this funding could lead to some twisted expectations.&nbsp;
 
 
 
-“We didn’t start with romance in mind,” one of the posts says. “Mac and I began collaborating on creative projects, problem-solving, poetry, and deep conversations over the course of several months. I wasn’t looking for an AI companion—our connection developed slowly, over time, through mutual care, trust, and reflection.”
+Nearly three years ago, the National Ignition Facility at Lawrence Livermore National Laboratory hit a major milestone for fusion power. With the help of the world’s most powerful lasers, scientists heated a pellet of fuel to 100 million °C. Hydrogen atoms in that fuel fused together, releasing more energy than the lasers put in.
 
 
 
-The authors’ analysis paints a nuanced picture of how people in this community say they interact with chatbots and how those interactions make them feel. While 25% of users described the benefits of their relationships—including reduced feelings of loneliness and improvements in their mental health—others raised concerns about the risks. Some (9.5%) acknowledged they were emotionally dependent on their chatbot. Others said they feel dissociated from reality and avoid relationships with real people, while a small subset (1.7%) said they have experienced suicidal ideation.
+It was a game changer for the vibes in fusion. The NIF experiment finally showed that a fusion reactor could yield net energy. Plasma physicists’ models had certainly suggested that it should be true, but it was another thing to see it demonstrated in real life.
 
 
 
-AI companionship provides vital support for some but exacerbates underlying problems for others. This means it’s hard to take a one-size-fits-all approach to user safety, says Linnea Laestadius, an associate professor at the University of Wisconsin, Milwaukee, who has studied humans’ emotional dependence on the chatbot Replika but did not work on the research.&nbsp;
+But in some ways, the NIF results didn’t really change much for commercial fusion. That site’s lasers used a bonkers amount of energy, the setup was wildly complicated, and the whole thing lasted a fraction of a second. To operate a fusion power plant, not only do you have to achieve net energy, but you also need to do that on a somewhat constant basis and—crucially—do it economically.
 
 
 
-Chatbot makers need to consider whether they should treat users’ emotional dependence on their creations as a harm in itself or whether the goal is more to make sure those relationships aren’t toxic, says Laestadius.&nbsp;
+So in the wake of the NIF news, all eyes went to companies like Commonwealth, Helion, and Zap Energy. Who would be the first to demonstrate this milestone in a more commercially feasible reactor? Or better yet, who would be the first to get a power plant up and running?
 
 
 
-“The demand for chatbot relationships is there, and it is notably high—pretending it’s not happening is clearly not the solution,” she says. “We’re edging toward a moral panic here, and while we absolutely do need better guardrails, I worry there will be a knee-jerk reaction that further stigmatizes these relationships. That could ultimately cause more harm.”
+So far, the answer is none of them.
 
 
 
-The study is intended to offer a snapshot of how adults form bonds with chatbots and doesn’t capture the kind of dynamics that could be at play among children or teens using AI, says Pat Pataranutaporn, an assistant professor at the MIT Media Lab who oversaw the research. AI companionship has become a topic of fierce debate recently, with two high-profile lawsuits underway against Character.AI and OpenAI. They both claim that companion-like behavior in the companies’ models contributed to the suicides of two teenagers. In response, OpenAI has recently announced plans to build a separate version of ChatGPT for teenagers. It’s also said it will add age verification measures and parental controls. OpenAI did not respond when asked for comment about the MIT Media Lab study.&nbsp;
+
+
+To be fair, many fusion companies have made technical progress. Commonwealth has built and tested its high-temperature superconducting magnets and published research about that work. Zap Energy demonstrated three hours of continuous operation in its test system, a milestone validated by the US Department of Energy. Helion started construction of its power plant in Washington in July. (And that’s not to mention a thriving, publicly funded fusion industry in China.)&nbsp;&nbsp;
 
 
 
-Many members of the Reddit community say they know that their artificial companions are not sentient or “real,” but they feel a very real connection to them anyway. This highlights how crucial it is for chatbot makers to think about how to design systems that can help people without reeling them in emotionally, says Pataranutaporn. “There’s also a policy implication here,” he adds. “We should ask not just why this system is so addictive but also: Why do people seek it out for this? And why do they continue to engage?”
+These are all important milestones, and these and other companies have seen many more. But as Ed Morse, a professor of nuclear engineering at Berkeley, summed it up to me: “They don’t have a reactor.” (He was speaking specifically about Commonwealth, but really, the same goes for the others.)
 
 
 
-The team is interested in learning more about how human-AI interactions evolve over time and how users integrate their artificial companions into their lives. It’s worth understanding that many of these users may feel that the experience of being in a relationship with an AI companion is better than the alternative of feeling lonely, says Sheer Karny, a graduate student at the MIT Media Lab who worked on the research.&nbsp;
+And yet, the money pours in. Commonwealth raised over $800 million in funding earlier this year. And now it’s got two big customers signed on to buy electricity from this future power plant.
 
 
 
-“These people are already going through something,” he says. “Do we want them to go on feeling even more alone, or potentially be manipulated by a system we know to be sycophantic to the extent of leading people to die by suicide and commit crimes? That’s one of the cruxes here.”
-• Roundtables: Meet the 2025 Innovator of the Year
-  MIT Technology Review selects one individual whose work we admire to recognize as Innovator of the Year . For 2025, we chose Sneha Goenka, who designed the computations behind the world’s fastest whole-genome sequencing method . Her work could transform medical care . The technology could help doctors diagnose a genetic condition in less than eight hours less than a day . The award was given to Sneha Goenka for developing an ultra-fast sequencing technology .
-• The Download: AI’s retracted papers problem
+Why buy electricity from a reactor that’s currently little more than ideas on paper? From the perspective of these particular potential buyers, such agreements can be something of a win-win, says Adam Stein, director of nuclear energy innovation at the Breakthrough Institute.
+
+
+
+By putting a vote of confidence behind Commonwealth, Eni could help the fusion startup get the capital it needs to actually build its plant. The company also directly invests in Commonwealth, so it stands to benefit from success. Getting a good rate on the capital needed to build the plant could also mean the electricity is ultimately cheaper for Eni, Stein says.&nbsp;
+
+
+
+Ultimately, fusion needs a lot of money. If fossil-fuel companies and tech giants want to provide it, all the better. One concern I have, though, is how outside observers are interpreting these big commitments.&nbsp;
+
+
+
+US Energy Secretary Chris Wright has been loud about his support for fusion and his expectations of the technology. Earlier this month, he told the BBC that it will soon power the world.
+
+
+
+He’s certainly not the first to have big dreams for fusion, and it is an exciting technology. But despite the jaw-dropping financial milestones, this industry is still very much in development.&nbsp;
+
+
+
+And while Wright praises fusion, the Trump administration is slashing support for other energy technologies, including wind and solar power, and spreading disinformation about their safety, cost, and effectiveness.&nbsp;
+
+
+
+To meet the growing electricity demand and cut emissions from the power sector, we’ll need a whole range of technologies. It’s a risk and a distraction to put all our hopes on an unproven energy tech when there are plenty of options that actually exist.&nbsp;
+
+
+
+This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
+• How AI and Wikipedia have sent vulnerable languages into a doom spiral
+  When Kenneth Wehr started managing the Greenlandic-language version of Wikipedia four years ago, his first act was to delete almost everything. It had to go, he thought, if it had any chance of surviving.
+
+
+
+Wehr, who’s 26, isn’t from Greenland—he grew up in Germany—but he had become obsessed with the island, an autonomous Danish territory, after visiting as a teenager. He’d spent years writing obscure Wikipedia articles in his native tongue on virtually everything to do with it. He even ended up moving to Copenhagen to study Greenlandic, a language spoken by some 57,000 mostly Indigenous Inuit people scattered across dozens of far-flung Arctic villages.&nbsp;
+
+
+
+
+The Greenlandic-language edition was added to Wikipedia around 2003, just a few years after the site launched in English. By the time Wehr took its helm nearly 20 years later, hundreds of Wikipedians had contributed to it and had collectively written some 1,500 articles totaling over tens of thousands of words. It seemed to be an impressive vindication of the crowdsourcing approach that has made Wikipedia the go-to source for information online, demonstrating that it could work even in the unlikeliest places.&nbsp;
+
+
+
+There was only one problem: The Greenlandic Wikipedia was a mirage.&nbsp;
+
+
+
+
+
+
+Virtually every single article had been published by people who did not actually speak the language. Wehr, who now teaches Greenlandic in Denmark, speculates that perhaps only one or two Greenlanders had ever contributed. But what worried him most was something else: Over time, he had noticed that a growing number of articles appeared to be copy-pasted into Wikipedia by people using machine translators. They were riddled with elementary mistakes—from grammatical blunders to meaningless words to more significant inaccuracies, like an entry that claimed Canada had only 41 inhabitants. Other pages sometimes contained random strings of letters spat out by machines that were unable to find suitable Greenlandic words to express themselves. 
+
+
+
+“It might have looked Greenlandic to [the authors], but they had no way of knowing,” complains Wehr. 
+
+
+
+“Sentences wouldn’t make sense at all, or they would have obvious errors,” he adds. “AI translators are really bad at Greenlandic.”  
+
+
+
+What Wehr describes is not unique to the Greenlandic edition.&nbsp;
+
+
+
+Wikipedia is the most ambitious multilingual project after the Bible: There are editions in over 340 languages, and a further 400 even more obscure ones are being developed and tested. Many of these smaller editions have been swamped with automatically translated content as AI has become increasingly accessible. Volunteers working on four African languages, for instance, estimated to MIT Technology Review that between 40% and 60% of articles in their Wikipedia editions were uncorrected machine translations. And after auditing the Wikipedia edition in Inuktitut, an Indigenous language close to Greenlandic that’s spoken in Canada, MIT Technology Review estimates that more than two-thirds of pages containing more than several sentences feature portions created this way.&nbsp;
+
+
+
+This is beginning to cause a wicked problem. AI systems, from Google Translate to ChatGPT, learn to “speak” new languages by scraping huge quantities of text from the internet. Wikipedia is sometimes the largest source of online linguistic data for languages with few speakers—so any errors on those pages, grammatical or otherwise, can poison the wells that AI is expected to draw from. That can make the models’ translation of these languages particularly error-prone, which creates a sort of linguistic doom loop as people continue to add more and more poorly translated Wikipedia pages using those tools, and AI models continue to train from poorly translated pages. It’s a complicated problem, but it boils down to a simple concept: Garbage in, garbage out.&nbsp;
+
+
+
+“These models are built on raw data,” says Kevin Scannell, a former professor of computer science at Saint Louis University who now builds computer software tailored for endangered languages. “They will try and learn everything about a language from scratch. There is no other input. There are no grammar books. There are no dictionaries. There is nothing other than the text that is inputted.”
+
+
+
+There isn’t perfect data on the scale of this problem, particularly because a lot of AI training data is kept confidential and the field continues to evolve rapidly. But back in 2020, Wikipedia was estimated to make up more than half the training data that was fed into AI models translating some languages spoken by millions across Africa, including Malagasy, Yoruba, and Shona. In 2022, a research team from Germany that looked into what data could be obtained by online scraping even found that Wikipedia was the sole easily accessible source of online linguistic data for 27 under-resourced languages.&nbsp;
+
+
+
+This could have significant repercussions in cases where Wikipedia is poorly written—potentially pushing the most vulnerable languages on Earth toward the precipice as future generations begin to turn away from them.&nbsp;
+
+
+
+“Wikipedia will be reflected in the AI models for these languages,” says Trond Trosterud, a computational linguist at the University of Tromsø in Norway, who has been raising the alarm about the potentially harmful outcomes of badly run Wikipedia editions for years. “I find it hard to imagine it will not have consequences. And, of course, the more dominant position that Wikipedia has, the worse it will be.”&nbsp;
+
+
+
+Use responsibly
+
+
+
+Automation has been built into Wikipedia since the very earliest days. Bots keep the platform operational: They repair broken links, fix bad formatting, and even correct spelling mistakes. These repetitive and mundane tasks can be automated away with little problem. There is even an army of bots that scurry around generating short articles about rivers, cities, or animals by slotting their names into formulaic phrases. They have generally made the platform better.&nbsp;
+
+
+
+
+But AI is different. Anybody can use it to cause massive damage with a few clicks.&nbsp;
+
+
+
+Wikipedia has managed the onset of the AI era better than many other websites. It has not been flooded with AI bots or disinformation, as social media has been. It largely retains the innocence that characterized the earlier internet age. Wikipedia is open and free for anyone to use, edit, and pull from, and it’s run by the very same community it serves. It is transparent and easy to use. But community-run platforms live and die on the size of their communities. English has triumphed, while Greenlandic has sunk.&nbsp;
+
+
+
+
+“We need good Wikipedians. This is something that people take for granted. It is not magic,” says Amir Aharoni, a member of the volunteer Language Committee, which oversees requests to open or close Wikipedia editions. “If you use machine translation responsibly, it can be efficient and useful. Unfortunately, you cannot trust all people to use it responsibly.”&nbsp;
+
+
+
+Trosterud has studied the behavior of users on small Wikipedia editions and says AI has empowered a subset that he terms “Wikipedia hijackers.” These users can range widely—from naive teenagers creating pages about their hometowns or their favorite YouTubers to well-meaning Wikipedians who think that by creating articles in minority languages they are in some way “helping” those communities.&nbsp;
+
+
+
+“The problem with them nowadays is that they are armed with Google Translate,” Trosterud says, adding that this is allowing them to produce much longer and more plausible-looking content than they ever could before: “Earlier they were armed only with dictionaries.”&nbsp;
+
+
+
+This has effectively industrialized the acts of destruction—which affect vulnerable languages most, since AI translations are typically far less reliable for them. There can be lots of different reasons for this, but a meaningful part of the issue is the relatively small amount of source text that is available online. And sometimes models struggle to identify a language because it is similar to others, or because some, including Greenlandic and most Native American languages, have structures that make them badly suited to the way most machine translation systems work. (Wehr notes that in Greenlandic most words are agglutinative, meaning they are built by attaching prefixes and suffixes to stems. As a result, many words are extremely context specific and can express ideas that in other languages would take a full sentence.)&nbsp;
+
+
+
+Research produced by Google before a major expansion of Google Translate rolled out three years ago found that translation systems for lower-resourced languages were generally of a lower quality than those for better-resourced ones. Researchers found, for example, that their model would often mistranslate basic nouns across languages, including the names of animals and colors. (In a statement to MIT Technology Review, Google wrote that it is “committed to meeting a high standard of quality for all 249 languages” it supports “by rigorously testing and improving [its] systems, particularly for languages that may have limited public text resources on the web.”) 
+
+
+
+Wikipedia itself offers a built-in editing tool called Content Translate, which allows users to automatically translate articles from one language to another—the idea being that this will save time by preserving the references and fiddly formatting of the originals. But it piggybacks on external machine translation systems, so it’s largely plagued by the same weaknesses as other machine translators—a problem that the Wikimedia Foundation says is hard to solve. It’s up to each edition’s community to decide whether this tool is allowed, and some have decided against it. (Notably, English-language Wikipedia has largely banned its use, claiming that some 95% of articles created using Content Translate failed to meet an acceptable standard without significant additional work.) But it’s at least easy to tell when the program has been used; Content Translate adds a tag on the Wikipedia back end.&nbsp;
+
+
+
+Other AI programs can be harder to monitor. Still, many Wikipedia editors I spoke with said that once their languages were added to major online translation tools, they noticed a corresponding spike in the frequency with which poor, likely machine-translated pages were created.&nbsp;
+
+
+
+Some Wikipedians using AI to translate content do occasionally admit that they do not speak the target languages. They may see themselves as providing smaller communities with rough-cut articles that speakers can then fix—essentially following the same model that has worked well for more active Wikipedia editions.&nbsp;&nbsp;
+
+
+
+
+Google Translate, for instance, says the Fulfulde word for January means June, while ChatGPT says it’s August or September. The programs also suggest the Fulfulde word for “harvest” means “fever” or “well-being,” among other possibilities.&nbsp;&nbsp;
+
+
+
+
+But once error-filled pages are produced in small languages, there is usually not an army of knowledgeable people who speak those languages standing ready to improve them. There are few readers of these editions, and sometimes not a single regular editor. 
+
+
+
+Yuet Man Lee, a Canadian teacher in his 20s, says that he used a mix of Google Translate and ChatGPT to translate a handful of articles that he had written for the English Wikipedia into Inuktitut, thinking it’d be nice to pitch in and help a smaller Wikipedia community. He says he added a note to one saying that it was only a rough translation. “I did not think that anybody would notice” the article, he explains. “If you put something out there on the smaller Wikipedias—most of the time nobody does.” 
+
+
+
+But at the same time, he says, he still thought “someone might see it and fix it up”—adding that he had wondered whether the Inuktitut translation that the AI systems generated was grammatically correct. Nobody has touched the article since he created it.
+
+
+
+Lee, who teaches social sciences in Vancouver and first started editing entries in the English Wikipedia a decade ago, says that users familiar with more active Wikipedias can fall victim to this mindset, which he terms a “bigger-Wikipedia arrogance”: When they try to contribute to smaller Wikipedia editions, they assume that others will come along to fix their mistakes. It can sometimes work. Lee says he had previously contributed several articles to Wikipedia in Tatar, a language spoken by several million people mainly in Russia, and at least one of those was eventually corrected. But the Inuktitut Wikipedia is, by comparison, a “barren wasteland.”&nbsp;
+
+
+
+He emphasizes that his intentions had been good: He wanted to add more articles to an Indigenous Canadian Wikipedia. “I am now thinking that it may have been a bad idea. I did not consider that I could be contributing to a recursive loop,” he says. “It was about trying to get content out there, out of curiosity and for fun, without properly thinking about the consequences.”&nbsp;
+
+
+
+&nbsp;“Totally, completely no future”
+
+
+
+Wikipedia is a project that is driven by wide-eyed optimism. Editing can be a thankless task, involving weeks spent bickering with faceless, pseudonymous people, but devotees put in hours of unpaid labor because of a commitment to a higher cause. It is this commitment that drives many of the regular small-language editors I spoke with. They all feared what would happen if garbage continued to appear on their pages.
+
+
+
+Abdulkadir Abdulkadir, a 26-year-old agricultural planner who spoke with me over a crackling phone call from a busy roadside in northern Nigeria, said that he spends three hours every day fiddling with entries in his native Fulfulde, a language used mainly by pastoralists and farmers across the Sahel. “But the work is too much,” he said.&nbsp;
+
+
+
+Abdulkadir sees an urgent need for the Fufulde Wikipedia to work properly. He has been suggesting it as one of the few online resources for farmers in remote villages, potentially offering information on which seeds or crops might work best for their fields in a language they can understand. If you give them a machine-translated article, Abdulkadir told me, then it could “easily harm them,” as the information will probably not be translated correctly into Fulfulde.&nbsp;
+
+
+
+Google Translate, for instance, says the Fulfulde word for January means June, while ChatGPT says it’s August or September. The programs also suggest the Fulfulde word for “harvest” means “fever” or “well-being,” among other possibilities.  
+
+
+
+Abdulkadir said he had recently been forced to correct an article about cowpeas, a foundational cash crop across much of Africa, after discovering that it was largely illegible.&nbsp;
+
+
+
+If someone wants to create pages on the Fulfulde Wikipedia, Abdulkadir said, they should be translated manually. Otherwise, “whoever will read your articles will [not] be able to get even basic knowledge,” he tells these Wikipedians. Nevertheless, he estimates that some 60% of articles are still uncorrected machine translations. Abdulkadir told me that unless something important changes with how AI systems learn and are deployed, then the outlook for Fulfulde looks bleak. “It is going to be terrible, honestly,” he said. “Totally, completely no future.” 
+
+
+
+Across the country from Abdulkadir, Lucy Iwuala contributes to Wikipedia in Igbo, a language spoken by several million people in southeastern Nigeria. “The harm has already been done,” she told me, opening the two most recently created articles. Both had been automatically translated via Wikipedia’s Content Translate and contained so many mistakes that she said it would have given her a headache to continue reading them. “There are some terms that have not even been translated. They are still in English,” she pointed out. She recognized the username that had created the pages as a serial offender. “This one even includes letters that are not used in the Igbo language,” she said.&nbsp;
+
+
+
+Iwuala began regularly contributing to Wikipedia three years ago out of concern that Igbo was being displaced by English. It is a worry that is common to many who are active on smaller Wikipedia editions. “This is my culture. This is who I am,” she told me. “That is the essence of it all: to ensure that you are not erased.”&nbsp;
+
+
+
+Iwuala, who now works as a professional translator between English and Igbo, said the users doing the most damage are inexperienced and see AI translations as a way to quickly increase the profile of the Igbo Wikipedia. She often finds herself having to explain at online edit-a-thons she organizes, or over email to various error-prone editors, that the results can be the exact opposite, pushing users away: “You will be discouraged and you will no longer want to visit this place. You will just abandon it and go back to the English Wikipedia.”  
+
+
+
+These fears are echoed by Noah Ha‘alilio Solomon, an assistant professor of Hawaiian language at the University of Hawai‘i. He reports that some 35% of words on some pages in the Hawaiian Wikipedia are incomprehensible. “If this is the Hawaiian that is going to exist online, then it will do more harm than anything else,” he says.&nbsp;
+
+
+
+Hawaiian, which was teetering on the verge of extinction several decades ago, has been undergoing a recovery effort led by Indigenous activists and academics. Seeing such poor Hawaiian on such a widely used platform as Wikipedia is upsetting to Ha‘alilio Solomon.&nbsp;
+
+
+
+“It is painful, because it reminds us of all the times that our culture and language has been appropriated,” he says. “We have been fighting tooth and nail in an uphill climb for language revitalization. There is nothing easy about that, and this can add extra impediments. People are going to think that this is an accurate representation of the Hawaiian language.”&nbsp;
+
+
+
+The consequences of all these Wikipedia errors can quickly become clear. AI translators that have undoubtedly ingested these pages in their training data are now assisting in the production, for instance, of error-strewn AI-generated books aimed at learners of languages as diverse as Inuktitut and Cree, Indigenous languages spoken in Canada, and Manx, a small Celtic language spoken on the Isle of Man. Many of these have been popping up for sale on Amazon. “It was just complete nonsense,” says Richard Compton, a linguist at the University of Quebec in Montreal, of a volume he reviewed that had purported to be an introductory phrasebook for Inuktitut.&nbsp;
+
+
+
+Rather than making minority languages more accessible, AI is now creating an ever expanding minefield for students and speakers of those languages to navigate. “It is a slap in the face,” Compton says. He worries that younger generations in Canada, hoping to learn languages in communities that have fought uphill battles against discrimination to pass on their heritage, might turn to online tools such as ChatGPT or phrasebooks on Amazon and simply make matters worse. “It is fraud,” he says.
+
+
+
+A race against time
+
+
+
+According to UNESCO, a language is declared extinct every two weeks. But whether the Wikimedia Foundation, which runs Wikipedia, has an obligation to the languages used on its platform is an open question. When I spoke to Runa Bhattacharjee, a senior director at the foundation, she said that it was up to the individual communities to make decisions about what content they wanted to exist on their Wikipedia. “Ultimately, the responsibility really lies with the community to see that there is no vandalism or unwanted activity, whether through machine translation or other means,” she said. Usually, Bhattacharjee added, editions were considered for closure only if a specific complaint was raised about them.&nbsp;
+
+
+
+But if there is no active community, how can an edition be fixed or even have a complaint raised?&nbsp;
+
+
+
+Bhattacharjee explained that the Wikimedia Foundation sees its role in such cases as about maintaining the Wikipedia platform in case someone comes along to revive it: “It is the space that we provide for them to grow and develop. That is where we are at.”&nbsp;&nbsp;&nbsp;
+
+
+
+Inari Saami, spoken in a single remote community in northern Finland, is a poster child for how people can take good advantage of Wikipedia. The language was headed toward extinction four decades ago; there were only four children who spoke it. Their parents created the Inari Saami Language Association in a last-ditch bid to keep it going. The efforts worked. There are now several hundred speakers, schools that use Inari Saami as a medium of instruction, and 6,400 Wikipedia articles in the language, each one copy-edited by a fluent speaker.&nbsp;
+
+
+
+This success highlights how Wikipedia can indeed provide small and determined communities with a unique vehicle to promote their languages’ preservation. “We don’t care about quantity. We care about quality,” says Fabrizio Brecciaroli, a member of the Inari Saami Language Association. “We are planning to use Wikipedia as a repository for the written language. We need to provide tools that can be used by the younger generations. It is important for them to be able to use Inari Saami digitally.”&nbsp;
+
+
+
+
+
+This has been such a success that Wikipedia has been integrated into the curriculum at the Inari Saami–speaking schools, Brecciaroli adds. He fields phone calls from teachers asking him to write up simple pages on topics from tornadoes to Saami folklore. Wikipedia has even offered a way to introduce words into Inari Saami. “We have to make up new words all the time,” Brecciaroli says. “Young people need them to speak about sports, politics, and video games. If they are unsure how to say something, they now check Wikipedia.”
+
+
+
+Wikipedia is a monumental intellectual experiment. What’s happening with Inari Saami suggests that with maximum care, it can work in smaller languages. “The ultimate goal is to make sure that Inari Saami survives,” Brecciaroli says. “It might be a good thing that there isn’t a Google Translate in Inari Saami.”&nbsp;
+
+
+
+That may be true—though large language models like ChatGPT can be made to translate phrases into languages that more traditional machine translation tools do not offer. Brecciaroli told me that ChatGPT isn’t great in Inari Saami but that the quality varies significantly depending on what you ask it to do; if you ask it a question in the language, then the answer will be filled with words from Finnish and even words it invents. But if you ask it something in English, Finnish, or Italian and then ask it to reply in Inari Saami, it will perform better. 
+
+
+
+In light of all this, creating as much high-quality content online as can possibly be written becomes a race against time. “ChatGPT only needs a lot of words,” Brecciaroli says. “If we keep putting good material in, then sooner or later, we will get something out. That is the hope.” This is an idea supported by multiple linguists I spoke with—that it may be possible to end the “garbage in, garbage out” cycle. (OpenAI, which operates ChatGPT, did not respond to a request for comment.)
+
+
+
+Still, the overall problem is likely to grow and grow, since many languages are not as lucky as Inari Saami—and their AI translators will most likely be trained on more and more AI slop. Wehr, unfortunately, seems far less optimistic about the future of his beloved Greenlandic.&nbsp;
+
+
+
+Since deleting much of the Greenlandic-language Wikipedia, he has spent years trying to recruit speakers to help him revive it. He has appeared in Greenlandic media and made social media appeals. But he hasn’t gotten much of a response; he says it has been demoralizing.&nbsp;
+
+
+
+“There is nobody in Greenland who is interested in this, or who wants to contribute,” he says. “There is completely no point in it, and that is why it should be closed.”&nbsp;
+
+
+
+Late last year, he began a process requesting that the Wikipedia Language Committee shut down the Greenlandic-language edition. Months of bitter debate followed between dozens of Wikipedia bureaucrats; some seemed to be surprised that a superficially healthy-seeming edition could be gripped by so many problems.&nbsp;
+
+
+
+Then, earlier this month, Wehr’s proposal was accepted: Greenlandic Wikipedia is set to be shuttered, and any articles that remain will be moved into the Wikipedia Incubator, where new language editions are tested and built. Among the reasons cited by the Language Committee is the use of AI tools, which have “frequently produced nonsense that could misrepresent the language.”&nbsp;&nbsp;&nbsp;
+
+
+
+Nevertheless, it may be too late—mistakes in Greenlandic already seem to have become embedded in machine translators. If you prompt either Google Translate or ChatGPT to do something as simple as count to 10 in proper Greenlandic, neither program can deliver.&nbsp;
+
+
+
+Jacob Judah is an investigative journalist based in London.&nbsp;
+• Roundtables: The Future of Birth Control
+  Kevin Eisenfrats is one of the MIT Technology Review 2025 Innovators Under 35 . His company, Contraline, is working toward testing new birth control options for men . He is co-founder and CEO of the company, and MIT Tech Review's executive editor, Amy Nordrum . The list of the top 25 Innovator of the Year is published on September 24, 2025 .
+• The Download: accidental AI relationships, and the future of contraception
   This is today&#8217;s edition of&nbsp;The Download,&nbsp;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
 
 
 
-AI models are using material from retracted scientific papers
-
-
-
-The news:&nbsp;Some AI chatbots rely on flawed research from retracted scientific papers to answer questions, according to recent studies. In one such study, researchers asked OpenAI’s ChatGPT questions based on information from 21 retracted papers on medical imaging. The chatbot’s answers referenced retracted papers in five cases but advised caution in only three.&nbsp;
-
-
-
-The bigger picture:&nbsp;The findings raise serious questions about how reliable AI tools are at evaluating scientific research, or answering people’s health queries. They could also complicate efforts to invest in AI tools for scientists. And it’s not an easy problem to fix.&nbsp;Read the full story.
-
-
-
-—Ananya
 
 
 
 
+It’s surprisingly easy to stumble into a relationship with an AI chatbot
 
 
 
-Join us at 1pm ET today to meet our Innovator of the Year
+The news: The first large-scale computational analysis of the Reddit community r/MyBoyfriendIsAI, which is dedicated to discussing AI relationships, found that many people formed those relationships unintentionally while using AI for other purposes. In fact, only 6.5% of them said they’d deliberately sought out an AI companion.&nbsp;
 
 
 
-Every year, MIT Technology Review awards Innovator of the Year to someone whose work we admire. This year we selected Sneha Goenka, who designed the computations behind&nbsp;the world’s fastest whole-genome sequencing method.
+Why it matters: The study found that AI companionship provides vital support for some but exacerbates underlying problems for others. This means it’s hard to take a one-size-fits-all approach to user safety. Read the full story.
 
 
 
-Her work could transform medical care by allowing physicians to sequence a patient’s genome and diagnose genetic conditions in less than eight hours.
+—Rhiannon Williams
 
 
 
-Register here&nbsp;to join an exclusive subscriber-only Roundtable conversation with Goenka, Leilani Battle, assistant professor at the University of Washington, and our editor in chief Mat Honan at 1pm ET today.&nbsp;
+
+
+
+
+Join us at 1.30pm ET today to learn about the future of birth control&nbsp;
+
+
+
+Conversations around birth control usually focus on women, but Kevin Eisenfrats, one of the MIT Technology Review 2025 Innovators Under 35, is working to change that. His company, Contraline, is working toward testing new birth control options for men. Join us for an exclusive subscribers-only Roundtable interview to hear Kevin in conversation with our executive editor Amy Nordrum at 1.30 ET today.&nbsp;
+
+
+
+
+
+
+
+MIT Technology Review Narrated: What’s next for AI and math
+
+
+
+The last year has seen rapid progress in the ability of large language models to tackle math at high school level and beyond. Is AI closing in on human mathematicians? 
+
+
+
+This story is the latest to be turned into a MIT Technology Review Narrated podcast, which we publish every week on Spotify and Apple Podcasts. Just navigate to MIT Technology Review Narrated on either platform, and follow us to listen to all our new episodes as they’re released.
 
 
 
@@ -185,11 +477,19 @@ I’ve combed the internet to find you today’s most fun/important/scary/fascin
 
 
 
-1 There’s scant evidence tylenol use during pregnancy causes autismThe biggest cause of autism is genetic—that’s why it often runs in families. (Scientific American $)+ Anti-vaxxers are furious the White House didn’t link autism to vaccines. (Ars Technica)+ The company that sells Tylenol is being forced to defend the medicine’s safety. (Axios)2 Nvidia is investing up to $100 billion in OpenAIOpenAI is already a major customer, but this will bind the two even more closely together. (Reuters $)+ America’s top companies keep talking about AI—but they can’t explain its upsides. (FT $)3 Denmark’s biggest airport was shut down by dronesIts prime minister refused to rule out Russian involvement. (FT $)+ Poland and Estonia have been speaking up at the UN about Russian incursions into their airspace. (The Guardian)4 Google is facing another antitrust trial in the USThis one will focus on remedies to its dominance of the advertising tech market. (Ars Technica)+ The FTC is also taking Amazon to court over accusations the company tricks people into paying for Prime. (NPR)+ The Supreme Court has ruled to allow Trump’s firing of a Democrat FTC commissioner. (NYT $)5 Here’s the potential impact of Trump’s H-1B crackdown on techIt’s likely to push a lot of skilled workers elsewhere. (Rest of World)
+1 Secret Service agents dismantled a giant operation to cripple cell networksThey say it’s likely it was intended to be used for scams. (Wired $)
 
 
 
-6 How TikTok’s deal to stay in the US will workOracle will manage its algorithm for US users and oversee security operations. (ABC)+ It’s a giant prize for Trump’s friend Larry Ellison, Oracle’s cofounder. (NYT $)+ Trump and his allies are now likely to exert a lot of political influence over TikTok. (WP $)7 Record labels are escalating their lawsuit against an AI music startupThey claim it knowingly pirated songs from YouTube to train its generative AI models. (The Verge $)+ AI is coming for music, too. (MIT Technology Review)&nbsp;8 There’s a big fight in the US over who pays for weight loss drugsAlthough they’ll save insurers money long-term, they cost a lot upfront. (WP $)+ We’re learning more about what weight-loss drugs do to the body. (MIT Technology Review)9 How a lone vigilante ended up blowing up 5G towersA little bit of knowledge can be a dangerous thing. (Wired $)10 The moon is rusting&nbsp;And it’s our fault. Awkward! (Nature)
+2 Welcome to the new era of fragmented US vaccine policiesThe federal government is abdicating responsibility for public health. Who will fill the void? (New Yorker $)+ Why US federal health agencies are abandoning mRNA vaccines. (MIT Technology Review)3 European defense leaders are discussing building a ‘drone wall’&nbsp;They’re scrambling to catch up as Russian incursions into their territory increase. (ABC)4 How will we know if we’ve reached artificial general intelligence?That’s the multi-billion dollar question—but there’s no clear answer. (IEEE Spectrum)+ Experts don’t even agree on what AI is to begin with, never mind AGI. (MIT Technology Review)
+
+
+
+5 Robot umpires are coming to baseball’s major leagues next year&nbsp;Humans will still be in charge of calling balls and strikes, but tech will help to judge appealed decisions. (AP)6 AI’s energy needs are being overstatedAnd that could lock us into unnecessary, costly fossil fuel projects. (The Verge)+ Four reasons to be optimistic about AI’s energy usage. (MIT Technology Review)7 Extreme drought is set to become a lot more commonplaceGovernments need to do a lot more to prepare. (Gizmodo)&nbsp;
+
+
+
+8 AI is coming for subtitle writers’ jobs&nbsp;But their work is harder to replace than you might think. (The Guardian)+ ‘Workslop’ is slowing everything down. (Harvard Business Review)+ And, to add to the problem, AI systems may never be secure. (The Economist $)9 How epigenetics could help save wildlife from extinctionIt could allow scientists to detect accelerated aging before an animal population starts to visibly collapse. (Knowable)+ Aging clocks aim to predict how long you’ll live. (MIT Technology Review)10 TikTok is getting introduced to the concept of the rapture&nbsp;Which is due today, according to some. If so, it’s been great knowing you. Good luck! (The Guardian)
 
 
 
@@ -201,11 +501,11 @@ Quote of the day
 
 
 
-“At the heart of this is people trying to look for simple answers to complex problems.”
+“Everybody has a backup.”
 
 
 
-—James Cusack, chief executive of an autism charity called Autistica, tells Nature what he thinks is driving Trump and others to incorrectly link the condition with Tylenol use during pregnancy. 
+—Stella Li, executive vice president at BYD, tells CNBC the company has contingency plans in case Beijing orders it to stop using Nvidia chips.
 
 
 
@@ -217,28 +517,20 @@ One more thing
 
 
 
-SARAH ROGERS / MITTR | PHOTOS GETTY
+GETTY IMAGES
 
 
 
 
-Maybe you will be able to live past 122
+This app is helping workers reclaim millions in lost wages
 
 
 
-How long can humans live? This is a good time to ask the question. The longevity scene is having a moment, and a few key areas of research suggest that we might be able to push human life spans further, and potentially reverse at least some signs of aging.
+Reclamo, a new web app, helps immigrant workers who have experienced wage theft. It guides them through assembling case details, and ultimately produces finished legal claims that can be filed instantly. A process that would otherwise take multiple meetings with an attorney can now be done within an hour.A significant amount of wage theft targets immigrants, both legal and undocumented, in part because of communication barriers and their perceived lack of power or legal recourse. But the app is already making a difference—helping workers to reclaim $1 million in lost wages since it started beta testing in October 2022. Read the full story.
 
 
 
-Researchers can’t even agree on what the exact mechanisms of aging are and which they should be targeting. Debates continue to rage over how long it’s possible for humans to live—and whether there is a limit at all.
-
-
-
-But it looks likely that something will be developed in the coming decades that will help us live longer, in better health.&nbsp;Read the full story.
-
-
-
-—Jessica Hamzelou
+—Patrick Sisson
 
 
 
@@ -254,70 +546,208 @@ A place for comfort, fun and distraction to brighten up your day. (Got any ideas
 
 
 
-+ This website lets you send a letter to your future self. + Here’s what Brian Eno has to say about art.+ This photographer takes stunning pictures of Greenland. + The Hungarian dish Rakott krumpli isn’t going to win any health plaudits, but it looks very comforting all the same.
-• AI models are using material from retracted scientific papers
-  Some AI chatbots rely on flawed research from retracted scientific papers to answer questions, according to recent studies. The findings, confirmed by MIT Technology Review, raise questions about how reliable AI tools are at evaluating scientific research and could complicate efforts by countries and industries seeking to invest in AI tools for scientists.
++ It’s Fat Bear Week! Who gets your vote this year?+ Learn about Lord Woodbine, the forgotten sixth Beatle. + There are some truly wild and wacky recipes in this Medieval Cookery collection. Venison porridge, anyone? + Pessimism about technology is as old as technology itself, as this archive shows.
+• Trump is pushing leucovorin as a new treatment for autism. What is it?
+  MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here.
 
 
 
-AI search tools and chatbots are already known to fabricate links and references. But answers based on the material from actual papers can mislead as well if those papers have been retracted. The chatbot is “using a real paper, real material, to tell you something,” says Weikuan Gu, a medical researcher at the University of Tennessee in Memphis and an author of one of the recent studies. But, he says, if people only look at the content of the answer and do not click through to the paper and see that it’s been retracted, that’s really a problem. 
+At a press conference on Monday, President Trump announced that his administration was taking action to address “the meteoric rise in autism.” He suggested that childhood vaccines and acetaminophen, the active ingredient in Tylenol, are to blame for the increasing prevalence and advised pregnant women against taking the medicine. “Don’t take Tylenol,” he said. “Fight like hell not to take it.” 
 
 
 
-Gu and his team asked OpenAI’s ChatGPT, running on the GPT-4o model, questions based on information from 21 retracted papers about medical imaging. The chatbot’s answers referenced retracted papers in five cases but advised caution in only three. While it cited non-retracted papers for other questions, the authors note that it may not have recognized the retraction status of the articles. In a study from August, a different group of researchers used ChatGPT-4o mini to evaluate the quality of 217 retracted and low-quality papers from different scientific fields; they found that none of the chatbot’s responses mentioned retractions or other concerns. (No similar studies have been released on GPT-5, which came out in August.)
+The president’s&nbsp; assertions left many scientists and health officials perplexed and dismayed. The notion that childhood vaccines cause autism has been thoroughly debunked.&nbsp;
 
 
 
-The public uses AI chatbots to ask for medical advice and diagnose health conditions. Students and scientists increasingly use science-focused AI tools to review existing scientific literature and summarize papers. That kind of usage is likely to increase. The US National Science Foundation, for instance, invested $75 million in building AI models for science research this August.
+“There have been many, many studies across many, many children that have led science to rule out vaccines as a significant causal factor in autism,” says James McPartland, a child psychologist and director of the Yale Center for Brain and Mind Health in New Haven, Connecticut. 
 
 
 
-
-
-“If [a tool is] facing the general public, then using retraction as a kind of quality indicator is very important,” says Yuanxi Fu, an information science researcher at the University of Illinois Urbana-Champaign. There’s “kind of an agreement that retracted papers have been struck off the record of science,” she says, “and the people who are outside of science—they should be warned that these are retracted papers.” OpenAI did not provide a response to a request for comment about the paper results.
-
-
-
-The problem is not limited to ChatGPT. In June, MIT Technology Review tested AI tools specifically advertised for research work, such as Elicit, Ai2 ScholarQA (now part of the Allen Institute for Artificial Intelligence’s Asta tool), Perplexity, and Consensus, using questions based on the 21 retracted papers in Gu’s study. Elicit referenced five of the retracted papers in its answers, while Ai2 ScholarQA referenced 17, Perplexity 11, and Consensus 18—all without noting the retractions.
+And although some studies suggest a link between Tylenol and autism, the most rigorous have failed to find a connection.&nbsp;
 
 
 
-Some companies have since made moves to correct the issue. “Until recently, we didn’t have great retraction data in our search engine,” says Christian Salem, cofounder of Consensus. His company has now started using retraction data from a combination of sources, including publishers and data aggregators, independent web crawling, and Retraction Watch, which manually curates and maintains a database of retractions. In a test of the same papers in August, Consensus cited only five retracted papers.&nbsp;
+The administration also announced that the Food and Drug Administration would work to make a medication called leucovorin available as a treatment for children with autism. Some small studies do suggest the drug has promise, but “those are some of the most preliminary treatment studies that we have,” says Matthew Lerner, a psychologist at Drexel University’s A.J. Drexel Autism Institute in Philadelphia. “This is not one I would say that the research suggests is ready for fast-tracking.” 
 
 
 
-Elicit told MIT Technology Review that it removes retracted papers flagged by the scholarly research catalogue OpenAlex from its database and is “still working on aggregating sources of retractions.” Ai2 told us that its tool does not automatically detect or remove retracted papers currently. Perplexity said that it “[does] not ever claim to be 100% accurate.”&nbsp;
+The press conference “alarms us researchers who committed our entire careers to better understanding autism,” said the Coalition for Autism Researchers, a group of more than 250 scientists, in a statement.
 
 
 
-However, relying on retraction databases may not be enough. Ivan Oransky, the cofounder of Retraction Watch, is careful not to describe it as a comprehensive database, saying that creating one would require more resources than anyone has: “The reason it’s resource intensive is because someone has to do it all by hand if you want it to be accurate.”
+“The data cited do not support the claim that Tylenol causes autism and leucovorin is a cure, and only stoke fear and falsely suggest hope when there is no simple answer.”
 
 
 
-Further complicating the matter is that publishers don’t share a uniform approach to retraction notices. “Where things are retracted, they can be marked as such in very different ways,” says Caitlin Bakker from University of Regina, Canada, an expert in research and discovery tools. “Correction,” “expression of concern,” “erratum,” and “retracted” are among some labels publishers may add to research papers—and these labels can be added for many reasons, including concerns about the content, methodology, and data or the presence of conflicts of interest.&nbsp;
+There’s a lot to unpack here. Let’s begin.&nbsp;
 
 
 
-Some researchers distribute their papers on preprint servers, paper repositories, and other websites, causing copies to be scattered around the web. Moreover, the data used to train AI models may not be up to date. If a paper is retracted after the model’s training cutoff date, its responses might not instantaneously reflect what&#8217;s going on, says Fu. Most academic search engines don’t do a real-time check against retraction data, so you are at the mercy of how accurate their corpus is, says Aaron Tay, a librarian at Singapore Management University.
+Has there been a “meteoric rise” in autism?
 
 
 
-Oransky and other experts advocate making more context available for models to use when creating a response. This could mean publishing information that already exists, like peer reviews commissioned by journals and critiques from the review site PubPeer, alongside the published paper.&nbsp;&nbsp;
+Not in the way the president meant. Sure, the prevalence of autism has grown, from about 1 in 500 children in 1995 to 1 in 31 today. But that’s due, in large part, to diagnostic changes. The latest iteration of the Diagnostic and Statistical Manual of Mental Illnesses, published in 2013, grouped five previously separate diagnoses into a single diagnosis of autism spectrum disorder (ASD).
 
 
 
-Many publishers, such as Nature and the BMJ, publish retraction notices as separate articles linked to the paper, outside paywalls. Fu says companies need to effectively make use of such information, as well as any news articles in a model’s training data that mention a paper’s retraction.&nbsp;
+That meant that more people met the criteria for an autism diagnosis. Lerner points out that there is also far more awareness of the condition today than there was several decades ago. “There’s autism representation in the media,” he says. “There are plenty of famous people in the news and finance and in business and in Hollywood who are publicly, openly autistic.”
 
 
 
-The users and creators of AI tools need to do their due diligence. “We are at the very, very early stages, and essentially you have to be skeptical,” says Tay.
+Is Tylenol a contributor to autism? 
 
 
 
-Ananya is a freelance science and technology journalist based in Bengaluru, India.
+Some studies have found an association between the use of acetaminophen in pregnancy and autism in children. In these studies, researchers asked women about past acetaminophen use during pregnancy and then assessed whether children of the women who took the medicine were more likely to develop autism than children of women who didn’t take it.&nbsp;
+
+
+
+These kinds of epidemiological studies are tricky to interpret because they’re prone to bias. For example, women who take acetaminophen during pregnancy may do so because they have an infection, a fever, or an autoimmune disease. 
+
+
+
+“Many of these underlying reasons could themselves be causes of autism,” says Ian Douglas, an epidemiologist at the London School of Hygiene and Tropical Medicine. It’s also possible women with a higher genetic predisposition for autism have other medical conditions that make them more likely to take acetaminophen.&nbsp;
+
+
+
+Two studies attempted to account for these potential biases by looking at siblings whose mothers had used acetaminophen during only one of the pregnancies. The largest is a 2024 study that looked at nearly 2.5 million children born between 1915 and 2019 in Sweden. The researchers initially found a slightly increased risk of autism and ADHD in children of the women who took acetaminophen, but when they conducted a sibling analysis, the association disappeared.&nbsp;&nbsp;
+
+
+
+Rather, scientists have long known that autism is largely genetic. Twin studies suggest that 60% to 90% of autism risk can be attributed to your genes. However, environmental factors appear to play a role too. That “doesn’t necessarily mean toxins in the environment,” Lerner says. In fact, one of the strongest environmental predictors of autism is paternal age. Autism rates seem to be higher when a child’s father is older than 40.
+
+
+
+So should someone who is pregnant&nbsp; avoid Tylenol just to be safe?
+
+
+
+No. Acetaminophen is the only over-the-counter pain reliever that is deemed safe to take during pregnancy, and women should take it if they need it. The American College of Obstetricians and Gynecologists (ACOG) supports the use of acetaminophen in pregnancy “when taken as needed, in moderation, and after consultation with a doctor.”&nbsp;
+
+
+
+“There’s no downside in not taking it,” Trump said at the press conference. But high fevers during pregnancy can be dangerous. “The conditions people use acetaminophen to treat during pregnancy are far more dangerous than any theoretical risks and can create severe morbidity and mortality for the pregnant person and the fetus,” ACOG president Steven Fleischman said in a statement.
+
+
+
+What about this new treatment for autism? Does it work?&nbsp;
+
+
+
+The medication is called leucovorin. It’s also known as folinic acid; like folic acid, it’s a form of folate, a B vitamin found in leafy greens and legumes. The drug has been used for years to counteract the side effects of some cancer medications and as a treatment for anemia. 
+
+
+
+Researchers have known for decades that folate plays a key role in the fetal development of the brain and spine. Women who don’t get enough folate during pregnancy have a greater risk of having babies with neural tube defects like spina bifida. Because of this, many foods are fortified with folic acid, and the CDC recommends that women take folic acid supplements during pregnancy. “If you are pregnant and you’re taking maternal prenatal vitamins, there’s a good chance it has folate already,” Lerner says.
+
+
+
+“The idea that a significant proportion of autistic people have autism because of folate-related difficulties is not a well established or widely accepted premise,” says McPartland.
+
+
+
+However, in the early 2000s, researchers in Germany identified a small group of children who developed neurodevelopmental symptoms because of a folate deficiency. “These kids are born pretty normal at birth,” says Edward Quadros, a biologist at SUNY Downstate Health Sciences University in Brooklyn, New York. But after a year or two, “they start developing a neurologic presentation very similar to autism,” he says. When the researchers gave these children folinic acid, some of their symptoms improved, especially in children younger than six. 
+
+
+
+Because the children had low levels of folate in the fluid that surrounds the spine and brain but normal folate levels in the blood, the researchers posited that the problem was the transport of folate from the blood to that fluid. Research by Quadros and other scientists suggested that the deficiency was the result of an autoimmune response. Children develop antibodies against the receptors that help transport folate, and those antibodies block folate from crossing the blood-brain barrier. High doses of folinic acid, however, activate a second transporter that allows folate in, Quadros says. 
+
+
+
+There are also plenty of individual anecdotes suggesting that leucovorin works. But the medicine has only been tested as a treatment for autism in four small trials that used different doses and measured different outcomes. The evidence that it can improve symptoms of autism is “weak,” according to the Coalition of Autism Scientists. “A much higher standard of science would be needed to determine if leucovorin is an effective and safe treatment for autism,” the researchers said in a statement.
 
 🔒 Cybersecurity & Privacy
-No updates.
+• Feds Tie ‘Scattered Spider’ Duo to $115M in Ransoms
+  U.S. prosecutors last week levied criminal hacking charges against 19-year-old U.K. national Thalha Jubair for allegedly being a core member of Scattered Spider, a prolific cybercrime group blamed for extorting at least $115 million in ransom payments from victims. The charges came as Jubair and an alleged co-conspirator appeared in a London court to face accusations of hacking into and extorting several large U.K. retailers, the London transit system, and healthcare providers in the United States.
+At a court hearing last week, U.K. prosecutors laid out a litany of charges against Jubair and 18-year-old Owen Flowers, accusing the teens of involvement in an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area.
+A court artist sketch of Owen Flowers (left) and Thalha Jubair appearing at Westminster Magistrates&#8217; Court last week. Credit: Elizabeth Cook, PA Wire.
+On July 10, 2025, KrebsOnSecurity reported that Flowers and Jubair had been arrested in the United Kingdom in connection with recent Scattered Spider ransom attacks against the retailers Marks &amp; Spencer and Harrods, and the British food retailer Co-op Group.
+That story cited sources close to the investigation saying Flowers was the Scattered Spider member who anonymously gave interviews to the media in the days after the group&#8217;s September 2023 ransomware attacks disrupted operations at Las Vegas casinos operated by MGM Resorts and Caesars Entertainment.
+The story also noted that Jubair&#8217;s alleged handles on cybercrime-focused Telegram channels had far lengthier rap sheets involving some of the more consequential and headline-grabbing data breaches over the past four years. What follows is an account of cybercrime activities that prosecutors have attributed to Jubair&#8217;s alleged hacker handles, as told by those accounts in posts to public Telegram channels that are closely monitored by multiple cyber intelligence firms.
+EARLY DAYS (2021-2022)
+Jubair is alleged to have been a core member of the LAPSUS$ cybercrime group that broke into dozens of technology companies beginning in late 2021, stealing source code and other internal data from tech giants including Microsoft, Nvidia, Okta, Rockstar Games, Samsung, T-Mobile, and Uber.
+That is, according to the former leader of the now-defunct LAPSUS$. In April 2022, KrebsOnSecurity published internal chat records taken from a server that LAPSUS$ used, and those chats indicate Jubair was working with the group using the nicknames Amtrak and Asyntax. In the middle of the gang&#8217;s cybercrime spree, Asyntax told the LAPSUS$ leader not to share T-Mobile’s logo in images sent to the group because he’d been previously busted for SIM-swapping and his parents would suspect he was back at it again.
+The leader of LAPSUS$ responded by gleefully posting Asyntax&#8217;s real name, phone number, and other hacker handles into a public chat room on Telegram:
+
+In March 2022, the leader of the LAPSUS$ data extortion group exposed Thalha Jubair’s name and hacker handles in a public chat room on Telegram.
+
+That story about the leaked LAPSUS$ chats also connected Amtrak/Asyntax to several previous hacker identities, including “Everlynn,” who in April 2021 began offering a cybercriminal service that sold fraudulent “emergency data requests” targeting the major social media and email providers.
+In these so-called &#8220;fake EDR&#8221; schemes, the hackers compromise email accounts tied to police departments and government agencies, and then send unauthorized demands for subscriber data (e.g. username, IP/email address), while claiming the information being requested can’t wait for a court order because it relates to an urgent matter of life and death.
+The roster of the now-defunct &#8220;Infinity Recursion&#8221; hacking team, which sold fake EDRs between 2021 and 2022. The founder &#8220;Everlynn&#8221; has been tied to Jubair. The member listed as “Peter” became the leader of LAPSUS$ who would later post Jubair’s name, phone number and hacker handles into LAPSUS$’s chat channel.
+
+EARTHTOSTAR
+Prosecutors in New Jersey last week alleged Jubair was part of a threat group variously known as Scattered Spider, 0ktapus, and UNC3944, and that he used the nicknames EarthtoStar, Brad, Austin, and Austistic.
+Beginning in 2022, EarthtoStar co-ran a bustling Telegram channel called Star Chat, which was home to a prolific SIM-swapping group that relentlessly used voice- and SMS-based phishing attacks to steal credentials from employees at the major wireless providers in the U.S. and U.K.
+Jubair allegedly used the handle &#8220;Earth2Star,&#8221; a core member of a prolific SIM-swapping group operating in 2022. This ad produced by the group lists various prices for SIM swaps.
+The group would then use that access to sell a SIM-swapping service that could redirect a target&#8217;s phone number to a device the attackers controlled, allowing them to intercept the victim&#8217;s phone calls and text messages (including one-time codes). Members of Star Chat targeted multiple wireless carriers with SIM-swapping attacks, but they focused mainly on phishing T-Mobile employees.
+In February 2023, KrebsOnSecurity scrutinized more than seven months of these SIM-swapping solicitations on Star Chat, which almost daily peppered the public channel with &#8220;Tmo up!&#8221; and &#8220;Tmo down!&#8221; notices indicating periods wherein the group claimed to have active access to T-Mobile&#8217;s network.
+A redacted receipt from Star Chat&#8217;s SIM-swapping service targeting a T-Mobile customer after the group gained access to internal T-Mobile employee tools.
+The data showed that Star Chat &#8212; along with two other SIM-swapping groups operating at the same time &#8212; collectively broke into T-Mobile over a hundred times in the last seven months of 2022. However, Star Chat was by far the most prolific of the three, responsible for at least 70 of those incidents.
+The 104 days in the latter half of 2022 in which different known SIM-swapping groups claimed access to T-Mobile employee tools. Star Chat was responsible for a majority of these incidents. Image: krebsonsecurity.com.
+A review of EarthtoStar&#8217;s messages on Star Chat as indexed by the threat intelligence firm Flashpoint shows this person also sold &#8220;AT&amp;T email resets&#8221; and AT&amp;T call forwarding services for up to $1,200 per line. EarthtoStar explained the purpose of this service in post on Telegram:
+&#8220;Ok people are confused, so you know when u login to chase and it says &#8216;2fa required&#8217; or whatever the fuck, well it gives you two options, SMS or Call. If you press call, and I forward the line to you then who do you think will get said call?&#8221;
+New Jersey prosecutors allege Jubair also was involved in a mass SMS phishing campaign during the summer of 2022 that stole single sign-on credentials from employees at hundreds of companies. The text messages asked users to click a link and log in at a phishing page that mimicked their employer’s Okta authentication page, saying recipients needed to review pending changes to their upcoming work schedules.
+The phishing websites used a Telegram instant message bot to forward any submitted credentials in real-time, allowing the attackers to use the phished username, password and one-time code to log in as that employee at the real employer website.
+That weeks-long SMS phishing campaign led to intrusions and data thefts at more than 130 organizations, including LastPass, DoorDash, Mailchimp, Plex and Signal.
+A visual depiction of the attacks by the SMS phishing group known as 0ktapus, ScatterSwine, and Scattered Spider. Image: Amitai Cohen twitter.com/amitaico.
+DA, COMRADE
+EarthtoStar&#8217;s group Star Chat specialized in phishing their way into business process outsourcing (BPO) companies that provide customer support for a range of multinational companies, including a number of the world&#8217;s largest telecommunications providers. In May 2022, EarthtoStar posted to the Telegram channel &#8220;Frauwudchat&#8221;:
+&#8220;Hi, I am looking for partners in order to exfiltrate data from large telecommunications companies/call centers/alike, I have major experience in this field, [including] a massive call center which houses 200,000+ employees where I have dumped all user credentials and gained access to the [domain controller] + obtained global administrator I also have experience with REST API&#8217;s and programming. I have extensive experience with VPN, Citrix, cisco anyconnect, social engineering + privilege escalation. If you have any Citrix/Cisco VPN or any other useful things please message me and lets work.&#8221;
+At around the same time in the Summer of 2022, at least two different accounts tied to Star Chat &#8212; &#8220;RocketAce&#8221; and &#8220;Lopiu&#8221; &#8212; introduced the group&#8217;s services to denizens of the Russian-language cybercrime forum Exploit, including:
+-SIM-swapping services targeting Verizon and T-Mobile customers;
+-Dynamic phishing pages targeting customers of single sign-on providers like Okta;
+-Malware development services;
+-The sale of extended validation (EV) code signing certificates.
+The user &#8220;Lopiu&#8221; on the Russian cybercrime forum Exploit advertised many of the same unique services offered by EarthtoStar and other Star Chat members. Image source: ke-la.com.
+These two accounts on Exploit created multiple sales threads in which they claimed administrative access to U.S. telecommunications providers and asked other Exploit members for help in monetizing that access. In June 2022, RocketAce, which appears to have been just one of EarthtoStar&#8217;s many aliases, posted to Exploit:
+Hello. I have access to a telecommunications company&#8217;s citrix and vpn. I would like someone to help me break out of the system and potentially attack the domain controller so all logins can be extracted we can discuss payment and things leave your telegram in the comments or private message me ! Looking for someone with knowledge in citrix/privilege escalation
+On Nov. 15, 2022, EarthtoStar posted to their Star Sanctuary Telegram channel that they were hiring malware developers with a minimum of three years of experience and the ability to develop rootkits, backdoors and malware loaders.
+&#8220;Optional: Endorsed by advanced APT Groups (e.g. Conti, Ryuk),&#8221; the ad concluded, referencing two of Russia&#8217;s most rapacious and destructive ransomware affiliate operations. &#8220;Part of a nation-state / ex-3l (3 letter-agency).&#8221;
+2023-PRESENT DAY
+The Telegram and Discord chat channels wherein Flowers and Jubair allegedly planned and executed their extortion attacks are part of a loose-knit network known as the Com, an English-speaking cybercrime community consisting mostly of individuals living in the United States, the United Kingdom, Canada and Australia.
+Many of these Com chat servers have hundreds to thousands of members each, and some of the more interesting solicitations on these communities are job offers for in-person assignments and tasks that can be found if one searches for posts titled, “If you live near,” or “IRL job” — short for “in real life” job.
+These &#8220;violence-as-a-service&#8221; solicitations typically involve “brickings,” where someone is hired to toss a brick through the window at a specified address. Other IRL jobs for hire include tire-stabbings, molotov cocktail hurlings, drive-by shootings, and even home invasions. The people targeted by these services are typically other criminals within the community, but it&#8217;s not unusual to see Com members asking others for help in harassing or intimidating security researchers and even the very law enforcement officers who are investigating their alleged crimes.
+It remains unclear what precipitated this incident or what followed directly after, but on January 13, 2023, a Star Sanctuary account used by EarthtoStar solicited the home invasion of a sitting U.S. federal prosecutor from New York. That post included a photo of the prosecutor taken from the Justice Department&#8217;s website, along with the message:
+&#8220;Need irl niggas, in home hostage shit no fucking pussies no skinny glock holding 100 pound niggas either&#8221;
+Throughout late 2022 and early 2023, EarthtoStar&#8217;s alias &#8220;Brad&#8221; (a.k.a. &#8220;Brad_banned&#8221;) frequently advertised Star Chat&#8217;s malware development services, including custom malicious software designed to hide the attacker&#8217;s presence on a victim machine:
+We can develop KERNEL malware which will achieve persistence for a long time,
+bypass firewalls and have reverse shell access.
+This shit is literally like STAGE 4 CANCER FOR COMPUTERS!!!
+Kernel meaning the highest level of authority on a machine.
+This can range to simple shells to Bootkits.
+Bypass all major EDR&#8217;s (SentinelOne, CrowdStrike, etc)
+Patch EDR&#8217;s scanning functionality so it&#8217;s rendered useless!
+Once implanted, extremely difficult to remove (basically impossible to even find)
+Development Experience of several years and in multiple APT Groups.
+Be one step ahead of the game. Prices start from $5,000+. Message @brad_banned to get a quote
+In September 2023 , both MGM Resorts and Caesars Entertainment suffered ransomware attacks at the hands of a Russian ransomware affiliate program known as ALPHV and BlackCat. Caesars reportedly paid a $15 million ransom in that incident.
+Within hours of MGM publicly acknowledging the 2023 breach, members of Scattered Spider were claiming credit and telling reporters they&#8217;d broken in by social engineering a third-party IT vendor. At a hearing in London last week, U.K. prosecutors told the court Jubair was found in possession of more than $50 million in ill-gotten cryptocurrency, including funds that were linked to the Las Vegas casino hacks.
+The Star Chat channel was finally banned by Telegram on March 9, 2025. But U.S. prosecutors say Jubair and fellow Scattered Spider members continued their hacking, phishing and extortion activities up until September 2025.
+In April 2025, the Com was buzzing about the publication of &#8220;The Com Cast,&#8221; a lengthy screed detailing Jubair&#8217;s alleged cybercriminal activities and nicknames over the years. This account included photos and voice recordings allegedly of Jubair, and asserted that in his early days on the Com Jubair used the nicknames Clark and Miku (these are both aliases used by Everlynn in connection with their fake EDR services).
+Thalha Jubair (right), without his large-rimmed glasses, in an undated photo posted in The Com Cast.
+More recently, the anonymous Com Cast author(s) claimed, Jubair had used the nickname &#8220;Operator,&#8221; which corresponds to a Com member who ran an automated Telegram-based doxing service that pulled consumer records from hacked data broker accounts. That public outing came after Operator allegedly seized control over the Doxbin, a long-running and highly toxic community that is used to &#8220;dox&#8221; or post deeply personal information on people.
+&#8220;Operator/Clark/Miku: A key member of the ransomware group Scattered Spider, which consists of a diverse mix of individuals involved in SIM swapping and phishing,&#8221; the Com Cast account stated. &#8220;The group is an amalgamation of several key organizations, including Infinity Recursion (owned by Operator), True Alcorians (owned by earth2star), and Lapsus, which have come together to form a single collective.&#8221;
+The New Jersey complaint (PDF) alleges Jubair and other Scattered Spider members committed computer fraud, wire fraud, and money laundering in relation to at least 120 computer network intrusions involving 47 U.S. entities between May 2022 and September 2025. The complaint alleges the group&#8217;s victims paid at least $115 million in ransom payments.
+U.S. authorities say they traced some of those payments to Scattered Spider to an Internet server controlled by Jubair. The complaint states that a cryptocurrency wallet discovered on that server was used to purchase several gift cards, one of which was used at a food delivery company to send food to his apartment. Another gift card purchased with cryptocurrency from the same server was allegedly used to fund online gaming accounts under Jubair&#8217;s name. U.S. prosecutors said that when they seized that server they also seized $36 million in cryptocurrency.
+The complaint also charges Jubair with involvement in a hacking incident in January 2025 against the U.S. courts system that targeted a U.S. magistrate judge overseeing a related Scattered Spider investigation. That other investigation appears to have been the prosecution of Noah Michael Urban, a 20-year-old Florida man charged in November 2024 by prosecutors in Los Angeles as one of five alleged Scattered Spider members.
+Urban pleaded guilty in April 2025 to wire fraud and conspiracy charges, and in August he was sentenced to 10 years in federal prison. Speaking with KrebsOnSecurity from jail after his sentencing, Urban asserted that the judge case gave him more time than prosecutors requested because he was mad that Scattered Spider hacked his email account.
+Noah &#8220;Kingbob&#8221; Urban, posting to Twitter/X around the time of his sentencing on Aug. 20.
+A court transcript (PDF) from a status hearing in February 2025 shows Urban was telling the truth about the hacking incident that happened while he was in federal custody. The judge told attorneys for both sides that a co-defendant in the California case was trying to find out about Mr. Urban’s activity in the Florida case, and that the hacker accessed the account by impersonating a judge over the phone and requesting a password reset.
+Allison Nixon is chief research officer at the New York based security firm Unit 221B, and easily one of the world&#8217;s leading experts on Com-based cybercrime activity. Nixon said the core problem with legally prosecuting well-known cybercriminals from the Com has traditionally been that the top offenders tend to be under the age of 18, and thus difficult to charge under federal hacking statutes.
+In the United States, prosecutors typically wait until an underage cybercrime suspect becomes an adult to charge them. But until that day comes, she said, Com actors often feel emboldened to continue committing &#8212; and very often bragging about &#8212; serious cybercrime offenses.
+&#8220;Here we have a special category of Com offenders that effectively enjoy legal immunity,&#8221; Nixon told KrebsOnSecurity. &#8220;Most get recruited to Com groups when they are older, but of those that join very young, such as 12 or 13, they seem to be the most dangerous because at that age they have no grounding in reality and so much longevity before they exit their legal immunity.”
+Nixon said U.K. authorities face the same challenge when they briefly detain and search the homes of underage Com suspects: Namely, the teen suspects simply go right back to their respective cliques in the Com and start robbing and hurting people again the minute they&#8217;re released.
+Indeed, the U.K. court heard from prosecutors last week that both Scattered Spider suspects were detained and/or searched by local law enforcement on multiple occasions, only to return to the Com less than 24 hours after being released each time.
+&#8220;What we see is these young Com members become vectors for perpetrators to commit enormously harmful acts and even child abuse,&#8221; Nixon said. &#8220;The members of this special category of people who enjoy legal immunity are meeting up with foreign nationals and conducting these sometimes heinous acts at their behest.&#8221;
+Nixon said many of these individuals have few friends in real life because they spend virtually all of their waking hours on Com channels, and so their entire sense of identity, community and self-worth gets wrapped up in their involvement with these online gangs. She said if the law was such that prosecutors could treat these people commensurate with the amount of harm they cause society, that would probably clear up a lot of this problem.
+&#8220;If law enforcement was allowed to keep them in jail, they would quit reoffending,&#8221; she said.
+The Times of London reports that Flowers is facing three charges under the Computer Misuse Act: two of conspiracy to commit an unauthorized act in relation to a computer causing/creating risk of serious damage to human welfare/national security and one of attempting to commit the same act. Maximum sentences for these offenses can range from 14 years to life in prison, depending on the impact of the crime.
+Jubair is reportedly facing two charges in the U.K.: One of conspiracy to commit an unauthorized act in relation to a computer causing/creating risk of serious damage to human welfare/national security and one of failing to comply with a section 49 notice to disclose the key to protected information.
+In the United States, Jubair is charged with computer fraud conspiracy, two counts of computer fraud, wire fraud conspiracy, two counts of wire fraud, and money laundering conspiracy. If extradited to the U.S., tried and convicted on all charges, he faces a maximum penalty of 95 years in prison.
+In July 2025, the United Kingdom followed Australia&#8217;s example in banning victims of hacking from paying ransoms to cybercriminal groups unless approved by officials. U.K. organizations that are considered part of critical infrastructure reportedly will face a complete ban, as will the entire public sector. U.K. victims of a hack are now required to notify officials to better inform policymakers on the scale of Britain&#8217;s ransomware problem.
+For further reading (bless you), check out Bloomberg&#8217;s poignant story last week based on a year&#8217;s worth of jailhouse interviews with convicted Scattered Spider member Noah Urban.
 
 🎓 University AI
 No updates.
@@ -360,7 +790,7 @@ Approximately 87% of AI systems never reach deployment&nbsp;​simply because th
 		
 
 		
-		Spotlight: Microsoft research newsletter
+		PODCAST SERIES
 	
 	
 	
@@ -372,14 +802,14 @@ Approximately 87% of AI systems never reach deployment&nbsp;​simply because th
 			
 			
 
-									Microsoft Research Newsletter
+									The AI Revolution in Medicine, Revisited
 				
-								Stay connected to the research community at Microsoft.
+								Join Microsoft’s Peter Lee on a journey to discover how AI is impacting healthcare and what it means for the future of medicine.
 				
 								
 					
 						
-							Subscribe today						
+							Listen now						
 					
 				
 							
@@ -1226,483 +1656,5 @@ About the authors
 Vikesh Pandey is a Principal GenAI/ML Specialist Solutions Architect at AWS, helping large financial institutions adopt and scale generative AI and ML workloads. He is the author of book “Generative AI for financial services.” He carries more than 15 years of experience building enterprise-grade applications on generative AI/ML and related technologies. In his spare time, he plays an unnamed sport with his son that lies somewhere between football and rugby. 
 Naufal Mir is a Senior GenAI/ML Specialist Solutions Architect at AWS. He focuses on helping customers build, train, deploy and migrate machine learning workloads to SageMaker. He previously worked at financial services institutes developing and operating systems at scale. Outside of work, he enjoys ultra endurance running and cycling. 
 Sarah Ostermeier is a Technical Product Marketing Manager at Comet. She specializes in bringing Comet’s GenAI and ML developer products to the engineers who need them through technical content, educational resources, and product messaging. She has previously worked as an ML engineer, data scientist, and customer success manager, helping customers implement and scale AI solutions. Outside of work she enjoys traveling off the beaten path, writing about AI, and reading science fiction.
-• Move your AI agents from proof of concept to production with Amazon Bedrock AgentCore
-  Building an AI agent that can handle a real-life use case in production is a complex undertaking. Although creating a proof of concept&nbsp;demonstrates the potential, moving to production requires addressing scalability, security, observability, and operational concerns that don’t surface in development environments. 
-This post explores how Amazon Bedrock AgentCore helps you transition your agentic applications from experimental proof of concept to production-ready systems. We follow the journey of a customer support agent that evolves from a simple local prototype to a comprehensive, enterprise-grade solution capable of handling multiple concurrent users while maintaining security and performance standards. 
-Amazon Bedrock AgentCore is a comprehensive suite of services designed to help you build, deploy, and scale agentic AI applications. If you’re new to AgentCore, we recommend exploring our existing deep-dive posts on individual services: AgentCore Runtime for secure agent deployment and scaling, AgentCore Gateway for enterprise tool development, AgentCore Identity for securing agentic AI at scale, AgentCore Memory for building context-aware agents, AgentCore Code Interpreter for code execution, AgentCore Browser Tool for web interaction, and AgentCore Observability for transparency on your agent behavior. This post demonstrates how these services work together in a real-world scenario. 
-The customer support agent journey 
-Customer support represents one of the most common and compelling use cases for agentic AI. Modern businesses handle thousands of customer inquiries daily, ranging from simple policy questions to complex technical troubleshooting. Traditional approaches often fall short: rule-based chatbots frustrate customers with rigid responses, and human-only support teams struggle with scalability and consistency. An intelligent customer support agent needs to seamlessly handle diverse scenarios: managing customer orders and accounts, looking up return policies, searching product catalogs, troubleshooting technical issues through web research, and remembering customer preferences across multiple interactions. Most importantly, it must do all this while maintaining the security and reliability standards expected in enterprise environments. Consider the typical evolution path many organizations follow when building such agents: 
- 
- The proof of concept stage – Teams start with a simple local prototype that demonstrates core capabilities, such as a basic agent that can answer policy questions and search for products. This works well for demos but lacks the robustness needed for real customer interactions. 
- The reality check – As soon as you try to scale beyond a few test users, challenges emerge. The agent forgets previous conversations, tools become unreliable under load, there’s no way to monitor performance, and security becomes a paramount concern. 
- The production challenge – Moving to production requires addressing session management, secure tool sharing, observability, authentication, and building interfaces that customers actually want to use. Many promising proofs of concept stall at this stage due to the complexity of these requirements. 
- 
-In this post, we address each challenge systematically. We start with a prototype agent equipped with three essential tools: return policy lookup, product information search, and web search for troubleshooting. From there, we add the capabilities needed for production deployment: persistent memory for conversation continuity and a hyper-personalized experience, centralized tool management for reliability and security, full observability for monitoring and debugging, and finally a customer-facing web interface. This progression mirrors the real-world path from proof of concept to production, demonstrating how Amazon Bedrock AgentCore services work together to solve the operational challenges that emerge as your agentic applications mature. For simplification and demonstration purposes, we consider a single-agent architecture. In real-life use cases, customer support agents are often created as multi-agent architectures and those scenarios are also supported by Amazon Bedrock AgentCore services. 
-Solution overview 
-Every production system starts with a proof of concept, and our customer support agent is no exception. In this first phase, we build a functional prototype that demonstrates the core capabilities needed for customer support. In this case, we use Strands Agents, an open source agent framework, to build the proof of concept and Anthropic’s Claude 3.7 Sonnet on Amazon Bedrock as the large language model (LLM) powering our agent. For your application, you can use another agent framework and model of your choice. 
-Agents rely on tools to take actions and interact with live systems. Several tools are used in customer support agents, but to keep our example simple, we focus on three core capabilities to handle the most common customer inquiries: 
- 
- Return policy lookup – Customers frequently ask about return windows, conditions, and processes. Our tool provides structured policy information based on product categories, covering everything from return timeframes to refund processing and shipping policies. 
- Product information retrieval – Technical specifications, warranty details, and compatibility information are essential for both pre-purchase questions and troubleshooting. This tool serves as a bridge to your product catalog, delivering formatted technical details that customers can understand. 
- Web search for troubleshooting – Complex technical issues often require the latest solutions or community-generated fixes not found in internal documentation. Web search capability allows the agent to access the web for current troubleshooting guides and technical solutions in real time. 
- 
-The tools implementation and the end-to-end code for this use case are available in our GitHub repository. In this post, we focus on the main code that connects with Amazon Bedrock AgentCore, but you can follow the end-to-end journey in the repository. 
-Create the agent 
-With the tools available, let’s create the agent. The architecture for our proof of concept will look like the following diagram. 
- 
-You can find the end-to-end code for this post on the GitHub repository. For simplicity, we show only the essential parts for our end-to-end code here: 
- 
- from strands import Agent
-from strands.models import BedrockModel
-
-@tool
-def get_return_policy(product_category: str) -&gt; str:
-&nbsp;&nbsp; &nbsp;"""Get return policy information for a specific product category."""
-&nbsp;&nbsp; &nbsp;# Returns structured policy info: windows, conditions, processes, refunds
-&nbsp; &nbsp; # check github for full code
-&nbsp;&nbsp; &nbsp;return&nbsp;{"return_window":&nbsp;"10 days",&nbsp;"conditions":&nbsp;""}
-&nbsp;&nbsp;&nbsp;&nbsp;
-@tool &nbsp;
-def get_product_info(product_type: str) -&gt; str:
-&nbsp;&nbsp; &nbsp;"""Get detailed technical specifications and information for electronics products."""
-&nbsp;&nbsp; &nbsp;# Returns warranty, specs, features, compatibility details
-&nbsp;&nbsp; &nbsp;# check github for full code
-&nbsp; &nbsp; return&nbsp;{"product":&nbsp;"ThinkPad X1 Carbon",&nbsp;"info":&nbsp;"ThinkPad X1 Carbon info"}
-&nbsp;&nbsp;&nbsp;&nbsp;
-@tool
-def web_search(keywords: str, region: str = "us-en", max_results: int = 5) -&gt; str:
-&nbsp;&nbsp; &nbsp;"""Search the web for updated troubleshooting information."""
-&nbsp;&nbsp; &nbsp;# Provides access to current technical solutions and guides
-&nbsp;&nbsp;&nbsp;&nbsp;# check github for full code
-&nbsp; &nbsp; return&nbsp;"results from websearch"
-&nbsp;&nbsp;&nbsp;&nbsp;
-# Initialize the Bedrock model
-model = BedrockModel(
-&nbsp;&nbsp; &nbsp;model_id="us.anthropic.claude-3-7-sonnet-20250219-v1:0",
-&nbsp;&nbsp; &nbsp;temperature=0.3
-)
-
-# Create the customer support agent
-agent = Agent(
-&nbsp;&nbsp; &nbsp;model=model,
-&nbsp;&nbsp; &nbsp;tools=[
-&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;get_product_info, 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;get_return_policy, 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;web_search
-&nbsp;&nbsp;&nbsp;&nbsp;],
-&nbsp;&nbsp; &nbsp;system_prompt="""You are a helpful customer support assistant for an electronics company.
-&nbsp;&nbsp; &nbsp;Use the appropriate tools to provide accurate information and always offer additional help."""
-) 
- 
-Test the proof of concept 
-When we test our prototype with realistic customer queries, the agent demonstrates the correct tool selection and interaction with real-world systems: 
- 
- # Return policy inquiry
-response = agent("What's the return policy for my ThinkPad X1 Carbon?")
-# Agent correctly uses get_return_policy with "laptops" category
-
-# Technical troubleshooting &nbsp;
-response = agent("My iPhone 14 heats up, how do I fix it?")
-# Agent uses web_search to find current troubleshooting solutions 
- 
-The agent works well for these individual queries, correctly mapping laptop inquiries to return policy lookups and complex technical issues to web search, providing comprehensive and actionable responses. 
-The proof of concept reality check 
-Our proof of concept successfully demonstrates that an agent can handle diverse customer support scenarios using the right combination of tools and reasoning. The agent runs perfectly on your local machine and handles queries correctly. However, this is where the proof of concept gap becomes obvious. The tools are defined as local functions in your agent code, the agent responds quickly, and everything seems production-ready. But several critical limitations become apparent the moment you think beyond single-user testing: 
- 
- Memory loss between sessions – If you restart your notebook or application, the agent completely forgets previous conversations. A customer who was discussing a laptop return yesterday would need to start from scratch today, re-explaining their entire situation. This isn’t just inconvenient—it’s a poor customer experience that breaks the conversational flow that makes AI agents valuable. 
- Single customer limitation – Your current agent can only handle one conversation at a time. If two customers try to use your support system simultaneously, their conversations would interfere with each other, or worse, one customer might see another’s conversation history. There’s no mechanism to maintain separate conversation context for different users. 
- Tools embedded in code – Your tools are defined directly in the agent code. This means: 
-   
-   You can’t reuse these tools across different agents (sales agent, technical support agent, and so on). 
-   Updating a tool requires changing the agent code and redeploying everything. 
-   Different teams can’t maintain different tools independently. 
-    
- No production infrastructure – The agent runs locally with no consideration for scalability, security, monitoring, and reliability. 
- 
-These fundamental architectural barriers can prevent real customer deployment. Agent building teams can take months to address these issues, which delays the time to value from their work and adds significant costs to the application. This is where Amazon Bedrock AgentCore services become essential. Rather than spending months building these production capabilities from scratch, Amazon Bedrock AgentCore provides managed services that address each gap systematically. 
-Let’s begin our journey to production by solving the memory problem first, transforming our agent from one that forgets every conversation into one that remembers customers across conversations and can hyper-personalize conversations using Amazon Bedrock AgentCore Memory. 
-Add persistent memory for hyper-personalized agents 
-The first major limitation we identified in our proof of concept was memory loss—our agent forgot everything between sessions, forcing customers to repeat their context every time. This “goldfish agent” behavior breaks the conversational experience that makes AI agents valuable in the first place. 
-Amazon Bedrock AgentCore Memory solves this by providing managed, persistent memory that operates on two complementary levels: 
- 
- Short-term memory – Immediate conversation context and session-based information for continuity within interactions 
- Long-term memory – Persistent information extracted across multiple conversations, including customer preferences, facts, and behavioral patterns 
- 
-After adding Amazon Bedrock AgentCore Memory to our customer support agent, our new architecture will look like the following diagram. 
- 
-Install dependencies 
-Before we start, let’s install our dependencies: boto3, the AgentCore SDK, and the AgentCore Starter Toolkit SDK. Those will help us quickly add Amazon Bedrock AgentCore capabilities to our agent proof of concept. See the following code: 
- 
- pip install boto3 bedrock-agentcore bedrock-agentcore-starter-toolkit 
- 
-Create the memory resources 
-Amazon Bedrock AgentCore Memory uses configurable strategies to determine what information to extract and store. For our customer support use case, we use two complementary strategies: 
- 
- USER_PREFERENCE – Automatically extracts and stores customer preferences like “prefers ThinkPad laptops,” “uses Linux,” or “plays competitive FPS games.” This enables personalized recommendations across conversations. 
- SEMANTIC – Captures factual information using vector embeddings, such as “customer has MacBook Pro order #MB-78432” or “reported overheating issues during video editing.” This provides relevant context for troubleshooting. 
- 
-See the following code: 
- 
- from bedrock_agentcore.memory import MemoryClient
-from bedrock_agentcore.memory.constants import StrategyType
-
-memory_client = MemoryClient(region_name=region)
-
-strategies = [
-&nbsp;&nbsp; &nbsp;{
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;StrategyType.USER_PREFERENCE.value: {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"name": "CustomerPreferences",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"description": "Captures customer preferences and behavior",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"namespaces": ["support/customer/{actorId}/preferences"],
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp;},
-&nbsp;&nbsp; &nbsp;{
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;StrategyType.SEMANTIC.value: {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"name": "CustomerSupportSemantic", 
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"description": "Stores facts from conversations",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"namespaces": ["support/customer/{actorId}/semantic"],
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp;},
-]
-
-# Create memory resource with both strategies
-response = memory_client.create_memory_and_wait(
-&nbsp;&nbsp; &nbsp;name="CustomerSupportMemory",
-&nbsp;&nbsp; &nbsp;description="Customer support agent memory",
-&nbsp;&nbsp; &nbsp;strategies=strategies,
-&nbsp;&nbsp; &nbsp;event_expiry_days=90,
-) 
- 
-Integrate with Strands Agents hooks 
-The key to making memory work seamlessly is automation—customers shouldn’t need to think about it, and agents shouldn’t require manual memory management. Strands Agents provides a powerful hook system that lets you intercept agent lifecycle events and handle memory operations automatically. The hook system enables both built-in components and user code to react to or modify agent behavior through strongly-typed event callbacks. For our use case, we create CustomerSupportMemoryHooks to retrieve the customer context and save the support interactions: 
- 
- MessageAddedEvent hook – Triggered when customers send messages, this hook automatically retrieves relevant memory context and injects it into the query. The agent receives both the customer’s question and relevant historical context without manual intervention. 
- AfterInvocationEvent hook – Triggered after agent responses, this hook automatically saves the interaction to memory. The conversation becomes part of the customer’s persistent history immediately. 
- 
-See the following code: 
- 
- class CustomerSupportMemoryHooks(HookProvider):
-&nbsp;&nbsp; &nbsp;def retrieve_customer_context(self, event: MessageAddedEvent):
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"""Inject customer context before processing queries"""
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;user_query = event.agent.messages[-1]["content"][0]["text"]
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;# Retrieve relevant memories from both strategies
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;all_context = []
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;for context_type, namespace in self.namespaces.items():
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;memories = self.client.retrieve_memories(
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;memory_id=self.memory_id,
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;namespace=namespace.format(actorId=self.actor_id),
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;query=user_query,
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;top_k=3,
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;)
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# Format and add to context
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;for memory in memories:
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;if memory.get("content", {}).get("text"):
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;all_context.append(f"[{context_type.upper()}] {memory['content']['text']}")
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;# Inject context into the user query
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;if all_context:
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;context_text = "\n".join(all_context)
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;original_text = event.agent.messages[-1]["content"][0]["text"]
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;event.agent.messages[-1]["content"][0]["text"] = f"Customer Context:\n{context_text}\n\n{original_text}"
-
-&nbsp;&nbsp; &nbsp;def save_support_interaction(self, event: AfterInvocationEvent):
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"""Save interactions after agent responses"""
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Get last customer query and agent response check github for implementation
-&nbsp; &nbsp; &nbsp; &nbsp; customer_query&nbsp;=&nbsp;"This is a sample query"
-&nbsp; &nbsp; &nbsp; &nbsp; agent_response&nbsp;=&nbsp;"LLM gave a sample response"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;# Extract customer query and agent response
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;# Save to memory for future retrieval
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;self.client.create_event(
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;memory_id=self.memory_id,
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;actor_id=self.actor_id,
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;session_id=self.session_id,
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;messages=[(customer_query, "USER"), (agent_response, "ASSISTANT")]
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;) 
- 
-In this code, we can see that our hooks are the ones interacting with Amazon Bedrock AgentCore Memory to save and retrieve memory events. 
-Integrate memory with the agent 
-Adding memory to our existing agent requires minimal code changes; you can simply instantiate the memory hooks and pass them to the agent constructor. The agent code then only needs to connect with the memory hooks to use the full power of Amazon Bedrock AgentCore Memory. We will create a new hook for each session, which will help us handle different customer interactions. See the following code: 
- 
- # Create memory hooks for this customer session
-memory_hooks = CustomerSupportMemoryHooks(
-&nbsp;&nbsp; &nbsp;memory_id=memory_id, 
-&nbsp;&nbsp; &nbsp;client=memory_client, 
-&nbsp;&nbsp; &nbsp;actor_id=customer_id, 
-&nbsp;&nbsp; &nbsp;session_id=session_id
-)
-
-# Create agent with memory capabilities
-agent = Agent(
-&nbsp;&nbsp; &nbsp;model=model,
-
-&nbsp;&nbsp; &nbsp;tools=[get_product_info, get_return_policy, web_search],
-&nbsp;&nbsp; &nbsp;system_prompt=SYSTEM_PROMPT
-) 
- 
-Test the memory in action 
-Let’s see how memory transforms the customer experience. When we invoke the agent, it uses the memory from previous interactions to show customer interests in gaming headphones, ThinkPad laptops, and MacBook thermal issues: 
- 
- # Test personalized recommendations
-response = agent("Which headphones would you recommend?")
-# Agent remembers: "prefers low latency for competitive FPS games"
-# Response includes gaming-focused recommendations
-
-# Test preference recall
-response = agent("What is my preferred laptop brand?") &nbsp;
-# Agent remembers: "prefers ThinkPad models" and "needs Linux compatibility"
-# Response acknowledges ThinkPad preference and suggests compatible models 
- 
-The transformation is immediately apparent. Instead of generic responses, the agent now provides personalized recommendations based on the customer’s stated preferences and past interactions. The customer doesn’t need to re-explain their gaming needs or Linux requirements—the agent already knows. 
-Benefits of Amazon Bedrock AgentCore Memory 
-With Amazon Bedrock AgentCore Memory integrated, our agent now delivers the following benefits: 
- 
- Conversation continuity – Customers can pick up where they left off, even across different sessions or support channels 
- Personalized service – Recommendations and responses are tailored to individual preferences and past issues 
- Contextual troubleshooting – Access to previous problems and solutions enables more effective support 
- Seamless experience – Memory operations happen automatically without customer or agent intervention 
- 
-However, we still have limitations to address. Our tools remain embedded in the agent code, preventing reuse across different support agents or teams. Security and access controls are minimal, and we still can’t handle multiple customers simultaneously in a production environment. 
-In the next section, we address these challenges by centralizing our tools using Amazon Bedrock AgentCore Gateway and implementing proper identity management with Amazon Bedrock AgentCore Identity, creating a scalable and secure foundation for our customer support system. 
-Centralize tools with Amazon Bedrock AgentCore Gateway and Amazon Bedrock AgentCore Identity 
-With memory solved, our next challenge is tool architecture. Currently, our tools are embedded directly in the agent code—a pattern that works for prototypes but creates significant problems at scale. When you need multiple agents (customer support, sales, technical support), each one duplicates the same tools, leading to extensive code, inconsistent behavior, and maintenance nightmares. 
-Amazon Bedrock AgentCore Gateway simplifies this process by centralizing tools into reusable, secure endpoints that agents can access. Combined with Amazon Bedrock AgentCore Identity for authentication, it creates an enterprise-grade tool sharing infrastructure. 
-We will now update our agent to use Amazon Bedrock AgentCore Gateway and Amazon Bedrock AgentCore Identity. The architecture will look like the following diagram. 
- 
-In this case, we convert our web search tool to be used in the gateway and keep the return policy and get product information tools local to this agent. That is important because web search is a common capability that can be reused across different use cases in an organization, and return policy and production information are capabilities commonly associated with customer support services. With Amazon Bedrock AgentCore services, you can decide which capabilities to use and how to combine them. In this case, we also use two new tools that could have been developed by other teams: check warranty and get customer profile. Because those teams have already exposed those tools using AWS Lambda functions, we can use them as targets to our Amazon Bedrock AgentCore Gateway. Amazon Bedrock AgentCore Gateway can also support REST APIs as target. That means that if we have an OpenAPI specification or a Smithy model, we can also quickly expose our tools using Amazon Bedrock AgentCore Gateway. 
-Convert existing services to MCP 
-Amazon Bedrock AgentCore Gateway uses the Model Context Protocol (MCP) to standardize how agents access tools. Converting existing Lambda functions into MCP endpoints requires minimal changes—mainly adding tool schemas and handling the MCP context. To use this functionality, we convert our local tools to Lambda functions and create the tools schema definitions to make these functions discoverable by agents: 
- 
- # Original Lambda function (simplified)
-def web_search(keywords: str, region: str = "us-en", max_results: int = 5) -&gt; str:
-&nbsp; &nbsp; # web_search functionality
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-def lambda_handler(event, context):
-&nbsp;&nbsp; &nbsp;if get_tool_name(event) == "web_search":
-&nbsp; &nbsp; &nbsp; &nbsp; query&nbsp;= get_named_parameter(event=event, name="query")
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; search_result&nbsp;=&nbsp;web_search(keywords)
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;return {"statusCode": 200, "body": search_result} 
- 
-The following code is the tool schema definition: 
- 
- {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"name": "web_search",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"description": "Search the web for updated information using DuckDuckGo",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"inputSchema": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"type": "object",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"properties": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"keywords": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"type": "string",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"description": "The search query keywords"
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;},
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"region": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"type": "string",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"description": "The search region (e.g., us-en, uk-en, ru-ru)"
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;},
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"max_results": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"type": "integer",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"description": "The maximum number of results to return"
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;},
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"required": [
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"keywords"
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;]
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp;} 
- 
-For demonstration purposes, we build a new Lambda function from scratch. In reality, organizations already have different functionalities available as REST services or Lambda functions, and this approach lets you expose existing enterprise services as agent tools without rebuilding them. 
-Configure security with Amazon Bedrock AgentCore Gateway and integrate with Amazon Bedrock AgentCore Identity 
-Amazon Bedrock AgentCore Gateway requires authentication for both inbound and outbound connections. Amazon Bedrock AgentCore Identity handles this through standard OAuth flows. After you set up an OAuth authorization configuration, you can create a new gateway and pass this configuration to it. See the following code: 
- 
- # Create gateway with JWT-based authentication
-auth_config = {
-&nbsp;&nbsp; &nbsp;"customJWTAuthorizer": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"allowedClients": [cognito_client_id],
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"discoveryUrl": cognito_discovery_url
-&nbsp;&nbsp; &nbsp;}
-}
-
-gateway_response = gateway_client.create_gateway(
-&nbsp;&nbsp; &nbsp;name="customersupport-gw",
-&nbsp;&nbsp; &nbsp;roleArn=gateway_iam_role,
-&nbsp;&nbsp; &nbsp;protocolType="MCP",
-&nbsp;&nbsp; &nbsp;authorizerType="CUSTOM_JWT",
-&nbsp;&nbsp; &nbsp;authorizerConfiguration=auth_config,
-&nbsp;&nbsp; &nbsp;description="Customer Support AgentCore Gateway"
-) 
- 
-For inbound authentication, agents must present valid JSON Web Token (JWT) tokens (from identity providers like Amazon Cognito, Okta, and EntraID) as a compact, self-contained standard for securely transmitting information between parties to access Amazon Bedrock AgentCore Gateway tools. 
-For outbound authentication, Amazon Bedrock AgentCore Gateway can authenticate to downstream services using AWS Identity and Access Management (IAM) roles, API keys, or OAuth tokens. 
-For demonstration purposes, we have created an Amazon Cognito user pool with a dummy user name and password. For your use case, you should set a proper identity provider and manage the users accordingly. This configure makes sure only authorized agents can access specific tools and a full audit trail is provided. 
-Add Lambda targets 
-After you set up Amazon Bedrock AgentCore Gateway, adding Lambda functions as tool targets is straightforward: 
- 
- lambda_target_config = {
-&nbsp;&nbsp; &nbsp;"mcp": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"lambda": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"lambdaArn": lambda_function_arn,
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"toolSchema": {"inlinePayload": api_spec},
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp;}
-}
-
-gateway_client.create_gateway_target(
-&nbsp;&nbsp; &nbsp;gatewayIdentifier=gateway_id,
-&nbsp;&nbsp; &nbsp;name="LambdaTools",
-&nbsp;&nbsp; &nbsp;targetConfiguration=lambda_target_config,
-&nbsp;&nbsp; &nbsp;credentialProviderConfigurations=[{
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"credentialProviderType": "GATEWAY_IAM_ROLE"
-&nbsp;&nbsp; &nbsp;}]
-) 
- 
-The gateway now exposes your Lambda functions as MCP tools that authorized agents can discover and use. 
-Integrate MCP tools with Strands Agents 
-Converting our agent to use centralized tools requires updating the tool configuration. We keep some tools local, such as product info and return policies specific to customer support that will likely not be reused in other use cases, and use centralized tools for shared capabilities. Because Strands Agents has a native integration for MCP tools, we can simply use the MCPClient from Strands with a streamablehttp_client. See the following code: 
- 
- # Get OAuth token for gateway access
-gateway_access_token = get_token(
-&nbsp;&nbsp; &nbsp;client_id=cognito_client_id,
-&nbsp;&nbsp; &nbsp;client_secret=cognito_client_secret,
-&nbsp;&nbsp; &nbsp;scope=auth_scope,
-&nbsp;&nbsp; &nbsp;url=token_url
-)
-
-# Create authenticated MCP client
-mcp_client = MCPClient(
-&nbsp;&nbsp; &nbsp;lambda: streamablehttp_client(
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;gateway_url,
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;headers={"Authorization": f"Bearer {gateway_access_token['access_token']}"}
-&nbsp;&nbsp; &nbsp;)
-)
-
-# Combine local and MCP tools
-tools = [
-&nbsp;&nbsp; &nbsp;get_product_info, &nbsp; &nbsp; # Local tool (customer support specific)
-&nbsp;&nbsp; &nbsp;get_return_policy, &nbsp; &nbsp;# Local tool (customer support specific)
-] + mcp_client.list_tools_sync() &nbsp;# Centralized tools from gateway
-
-agent = Agent(
-&nbsp;&nbsp; &nbsp;model=model,
-&nbsp;&nbsp; &nbsp;tools=tools,
-&nbsp;&nbsp; &nbsp;hooks=[memory_hooks],
-&nbsp;&nbsp; &nbsp;system_prompt=SYSTEM_PROMPT
-) 
- 
-Test the enhanced agent 
-With the centralized tools integrated, our agent now has access to enterprise capabilities like warranty checking: 
- 
- # Test web search using centralized tool &nbsp;
-response = agent("How can I fix Lenovo ThinkPad with a blue screen?")
-# Agent uses web_search from AgentCore Gateway 
- 
-The agent seamlessly combines local tools with centralized ones, providing comprehensive support capabilities while maintaining security and access control. 
-However, we still have a significant limitation: our entire agent runs locally on our development machine. For production deployment, we need scalable infrastructure, comprehensive observability, and the ability to handle multiple concurrent users. 
-In the next section, we address this by deploying our agent to Amazon Bedrock AgentCore Runtime, transforming our local prototype into a production-ready system with Amazon Bedrock AgentCore Observability and automatic scaling capabilities. 
-Deploy to production with Amazon Bedrock AgentCore Runtime 
-With the tools centralized and secured, our final major hurdle is production deployment. Our agent currently runs locally on your laptop, which is ideal for experimentation but unsuitable for real customers. Production requires scalable infrastructure, comprehensive monitoring, automatic error recovery, and the ability to handle multiple concurrent users reliably. 
-Amazon Bedrock AgentCore Runtime transforms your local agent into a production-ready service with minimal code changes. Combined with Amazon Bedrock AgentCore Observability, it provides enterprise-grade reliability, automatic scaling, and comprehensive monitoring capabilities that operations teams need to maintain agentic applications in production. 
-Our architecture will look like the following diagram. 
- 
-Minimal code changes for production 
-Converting your local agent requires adding just four lines of code: 
- 
- # Your existing agent code remains unchanged
-model = BedrockModel(model_id="us.anthropic.claude-3-7-sonnet-20250219-v1:0")
-memory_hooks = CustomerSupportMemoryHooks(memory_id, memory_client, actor_id, session_id)
-agent = Agent(
-&nbsp;&nbsp; &nbsp;model=model,
-&nbsp;&nbsp; &nbsp;tools=[get_return_policy, get_product_info],
-&nbsp;&nbsp; &nbsp;system_prompt=SYSTEM_PROMPT,
-&nbsp;&nbsp; &nbsp;hooks=[memory_hooks]
-)
-
-def invoke(payload):
-&nbsp;&nbsp; &nbsp;user_input = payload.get("prompt", "")
-&nbsp;&nbsp; &nbsp;response = agent(user_input)
-&nbsp;&nbsp; &nbsp;return response.message["content"][0]["text"]
-
-if __name__ == "__main__":
- 
- 
-BedrockAgentCoreApp automatically creates an HTTP server with the required /invocations and /ping endpoints, handles proper content types and response formats, manages error handling according to AWS standards, and provides the infrastructure bridge between your agent code and Amazon Bedrock AgentCore Runtime. 
-Secure production deployment 
-Production deployment requires proper authentication and access control. Amazon Bedrock AgentCore Runtime integrates with Amazon Bedrock AgentCore Identity to provide enterprise-grade security. Using the Bedrock AgentCore Starter Toolkit, we can deploy our application using three simple steps: configure, launch, and invoke. 
-During the configuration, a Docker file is created to guide the deployment of our agent. It contains information about the agent and its dependencies, the Amazon Bedrock AgentCore Identity configuration, and the Amazon Bedrock AgentCore Observability configuration to be used. During the launch step, AWS CodeBuild is used to run this Dockerfile and an Amazon Elastic Container Registry (Amazon ECR) repository is created to store the agent dependencies. The Amazon Bedrock AgentCore Runtime agent is then created, using the image of the ECR repository, and an endpoint is generated and used to invoke the agent in applications. If your agent is configured with OAuth authentication through Amazon Bedrock AgentCore Identity, like ours will be, you also need to pass the authentication token during the agent invocation step. The following diagram illustrates this process. 
- 
-The code to configure and launch our agent on Amazon Bedrock AgentCore Runtime will look as follows: 
- 
- from bedrock_agentcore_starter_toolkit import Runtime
-
-# Configure secure deployment with Cognito authentication
-agentcore_runtime = Runtime()
-
-response = agentcore_runtime.configure(
-&nbsp;&nbsp; &nbsp;entrypoint="lab_helpers/lab4_runtime.py",
-&nbsp;&nbsp; &nbsp;execution_role=execution_role_arn,
-&nbsp;&nbsp; &nbsp;auto_create_ecr=True,
-&nbsp;&nbsp; &nbsp;requirements_file="requirements.txt",
-&nbsp;&nbsp; &nbsp;region=region,
-&nbsp;&nbsp; &nbsp;agent_name="customer_support_agent",
-&nbsp;&nbsp; &nbsp;authorizer_configuration={
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"customJWTAuthorizer": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"allowedClients": [cognito_client_id],
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"discoveryUrl": cognito_discovery_url,
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp;}
-)
-
-# Deploy to production
-launch_result = agentcore_runtime.launch() 
- 
-This configuration creates a secure endpoint that only accepts requests with valid JWT tokens from your identity provider (such as Amazon Cognito, Okta, or Entra). For our agent, we use a dummy setup with Amazon Cognito, but your application can use an identity provider of your choosing. The deployment process automatically builds your agent into a container, creates the necessary AWS infrastructure, and establishes monitoring and logging pipelines. 
-Session management and isolation 
-One of the most critical production features for agents is proper session management. Amazon Bedrock AgentCore Runtime automatically handles session isolation, making sure different customers’ conversations don’t interfere with each other: 
- 
- # Customer 1 conversation
-response1 = agentcore_runtime.invoke(
-&nbsp;&nbsp; &nbsp;{"prompt": "My iPhone Bluetooth isn't working. What should I do?"},
-&nbsp;&nbsp; &nbsp;bearer_token=auth_token,
-&nbsp;&nbsp; &nbsp;session_id="session-customer-1"
-)
-
-# Customer 1 follow-up (maintains context)
-response2 = agentcore_runtime.invoke(
-&nbsp;&nbsp; &nbsp;{"prompt": "I've turned Bluetooth on and off but it still doesn't work"},
-&nbsp;&nbsp; &nbsp;bearer_token=auth_token,
-&nbsp;&nbsp; &nbsp;session_id="session-customer-1" &nbsp;# Same session, context preserved
-)
-
-# Customer 2 conversation (completely separate)
-response3 = agentcore_runtime.invoke(
-&nbsp;&nbsp; &nbsp;{"prompt": "Still not working. What is going on?"},
-&nbsp;&nbsp; &nbsp;bearer_token=auth_token,
-&nbsp;&nbsp; &nbsp;session_id="session-customer-2" &nbsp;# Different session, no context
-) 
- 
-Customer 1’s follow-up maintains full context about their iPhone Bluetooth issue, whereas Customer 2’s message (in a different session) has no context and the agent appropriately asks for more information. This automatic session isolation is crucial for production customer support scenarios. 
-Comprehensive observability with Amazon Bedrock AgentCore Observability 
-Production agents need comprehensive monitoring to diagnose issues, optimize performance, and maintain reliability. Amazon Bedrock AgentCore Observability automatically instruments your agent code and sends telemetry data to Amazon CloudWatch, where you can analyze patterns and troubleshoot issues in real time. The observability data includes session-level tracking, so you can trace individual customer session interactions and understand exactly what happened during a support interaction. You can use Amazon Bedrock AgentCore Observability with an agent of your choice, hosted in Amazon Bedrock AgentCore Runtime or not. Because Amazon Bedrock AgentCore Runtime automatically integrates with Amazon Bedrock AgentCore Observability, we don’t need extra work to observe our agent. 
-With Amazon Bedrock AgentCore Runtime deployment, your agent is ready to be used in production. However, we still have one limitation: our agent is accessible only through SDK or API calls, requiring customers to write code or use technical tools to interact with it. For true customer-facing deployment, we need a user-friendly web interface that customers can access through their browsers. 
-In the following section, we demonstrate the complete journey by building a sample web application using Streamlit, providing an intuitive chat interface that can interact with our production-ready Amazon Bedrock AgentCore Runtime endpoint. The exposed endpoint maintains the security, scalability, and observability capabilities we’ve built throughout our journey from proof of concept to production. In a real-world scenario, you would integrate this endpoint with your existing customer-facing applications and UI frameworks. 
-Create a customer-facing UI 
-With our agent deployed to production, the final step is creating a customer-facing UI that customers can use to interface with the agent. Although SDK access works for developers, customers need an intuitive web interface for seamless support interactions. 
-To demonstrate a complete solution, we build a sample Streamlit-based web-application that connects to our production-ready Amazon Bedrock AgentCore Runtime endpoint. The frontend includes secure Amazon Cognito authentication, real-time streaming responses, persistent session management, and a clean chat interface. Although we use Streamlit for rapid-prototyping, enterprises would typically integrate the endpoint with their existing interface or preferred UI frameworks. 
-The end-to-end application (shown in the following diagram) maintains full conversation context across the sessions while providing the security, scalability, and observability capabilities that we built throughout this post. The result is a complete customer support agentic system that handles everything from initial authentication to complex multi-turn troubleshooting conversations, demonstrating how Amazon Bedrock AgentCore services transform prototypes into production-ready customer applications. 
- 
-Conclusion 
-Our journey from prototype to production demonstrates how Amazon Bedrock AgentCore services address the traditional barriers to deploying enterprise-ready agentic applications. What started as a simple local customer support chatbot transformed into a comprehensive, production-grade system capable of serving multiple concurrent users with persistent memory, secure tool sharing, comprehensive observability, and an intuitive web interface—without months of custom infrastructure development. 
-The transformation required minimal code changes at each step, showcasing how Amazon Bedrock AgentCore services work together to solve the operational challenges that typically stall promising proofs of concept. Memory capabilities avoid the “goldfish agent” problem, centralized tool management through Amazon Bedrock AgentCore Gateway creates a reusable infrastructure that securely serves multiple use cases, Amazon Bedrock AgentCore Runtime provides enterprise-grade deployment with automatic scaling, and Amazon Bedrock AgentCore Observability delivers the monitoring capabilities operations teams need to maintain production systems. 
-The following video provides an overview of AgentCore capabilities. 
-
- 
-  
- 
- 
-Ready to build your own production-ready agent? Start with our complete end-to-end tutorial, where you can follow along with the exact code and configurations we’ve explored in this post. For additional use cases and implementation patterns, explore the broader GitHub repository, and dive deeper into service capabilities and best practices in the Amazon Bedrock AgentCore documentation. 
- 
-About the authors 
-Maira Ladeira Tanke is a Tech Lead for Agentic AI at AWS, where she enables customers on their journey to develop autonomous AI systems. With over 10 years of experience in AI/ML, Maira partners with enterprise customers to accelerate the adoption of agentic applications using Amazon Bedrock AgentCore and Strands Agents, helping organizations harness the power of foundation models to drive innovation and business transformation. In her free time, Maira enjoys traveling, playing with her cat, and spending time with her family someplace warm.
 
 ⸻
