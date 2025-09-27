@@ -1,17 +1,17 @@
-✅ Morning News Briefing – September 26, 2025 10:43
+✅ Morning News Briefing – September 27, 2025 10:40
 
-📅 Date: 2025-09-26 10:43
+📅 Date: 2025-09-27 10:40
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• No watches or warnings in effect, Pembroke
-  No watches or warnings in effect. No warnings or watches or watches in effect . Watch or warnings are no longer in effect in the U.S. No watches, warnings are in effect for the rest of the day . No watches and warnings are still in effect, but no watches are in place for the day's events . The weather is not expected to be affected by the weather .
-• Current Conditions:  10.2°C
-  Temperature: 10.2&deg;C Pressure / Tendency: 100.7 kPa rising Humidity: 100 % Humidity is 100 % Dewpoint: 10 .2&degree . Wind: NW 3 km/h . Air Quality Health Index: n/a . Weather: Pembroke 6:00 AM EDT Friday 26 September 2025 . Weather forecast for Pem
-• Friday: Chance of showers. High 21. POP 40%
-  Fog patches dissipating this morning . 40 percent chance of showers this afternoon . Mainly cloudy. Mainly . cloudy . High 21 . Humidex 25 or moderate. UV index 5 or moderate . Forecast issued 5:00 AM EDT Friday 26 September 2025 . Weather will be mainly cloudy this morning, with rain likely to fall in the afternoon . Fog patches are dissipating today .
+• Current Conditions:  6.5°C
+  Temperature: 6.5-deg;C Pressure / Tendency: 101.5 kPa rising Humidity: 99 % Humidity : 99 % Dewpoint: 6 .4&deg:C Wind: NW 3 km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Saturday 27 September 2025 at 6.00 PM GMT .
+• Saturday: Chance of showers. High 21. POP 30%
+  Fog patches dissipating this morning . Mainly sunny this afternoon . Increasing cloudiness this afternoon then 30 percent chance of showers later this afternoon. High 21. Humidex 25. UV index 5 or moderate, with a slight risk of rain in the afternoon . Forecast issued 5:00 AM EDT Saturday 27 September 2025. For more information on the National Weather Service, visit http://
+• Saturday night: Chance of showers. Low 14. POP 30%
+  Partly cloudy. 30 percent chance of showers this evening . Low 14.50-60% chance of rain this evening. Low 14/60/60 . Forecast issued 5:00 AM EDT Saturday 27 September 2025. Forecast: Showery, cloudy, breezy, sunny, cloudy and breezy. Shakery, wet, cloudy. Wet, sunny. Wet
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• There was no rapture this week, so the quiz returns. Can you score a perfect 11?
-  This week, Jimmy Kimmel returned, a weird statue vanished and no one (to our knowledge) got snatched up to heaven . No one was snatched up from heaven . Jimmy Kimmel returns to the show on Wednesday night, but no one has ever been snatched up by heaven . Kimmel: "Jimmy Kimmel" is back and Jimmy Kimmel will be back in the next week's episode on "Jimmy
-• Trump's TikTok deal payment criticized as 'shake-down scheme' by experts
-  The U.S. government will collect a multibillion-dollar fee from the American investors who will take over TikTok . Some experts call the fee and other deals like it "extortion" Some experts say the fee is extortion and others call it extortion . TikTok is a mobile app that allows users to stream photos and videos from around the world, but not everyone is happy
-• Fired feds, Trump lovers and veterans: Meet the people applying for ICE jobs
-  At a recent DHS career expo in Provo, Utah, many attendees hoped to get hired to help with the Trump administration's deportation efforts . At the recent expo, many attendees hoped to be hired to work for the DHS in the U.S. Department of Immigration and Customs Enforcement . Many attendees hope to get jobs to help in the administration's efforts to deport illegal
-• What schools stand to lose in the battle over the next federal education budget
-  Budget proposals would impose steep cuts on some of the nation's most vulnerable students and disadvantaged school communities . Education researchers warn budget proposals from the White House and House Republicans would impose sharp cuts on vulnerable students, disadvantaged communities . The budget proposals are part of a bipartisan effort to cut spending on education in schools across the U.S. and around the world . The White House's budget proposal is
-• Trump's Tylenol warning echoes past misconceptions about mothers and autism
-  Medical scholars say efforts to find a singular cause for autism have historically led to scrutinizing parents and fueling stigma about autism . They say the stigma of autism has fueled scrutiny of parents and stigmatization of children with autism . Autism is a disorder that has been linked to autism in the U.S. for more than a decade . The autism disorder is an extremely rare disorder that can only be
+• 'Rocky Horror' is 50! We propose a toast. (You know what to do)
+  Rocky Horror aficionados used to attend screenings of the film over and over to take notes on the details . Accurately mirroring every line and dance move has gotten easier over time . The Rocky Horror Picture Show is now being released on Blu-Ray in the UK on September 26, 2015 . The film is set in London, London and New York, New York and Los Angeles
+• NPR-Ipsos poll: Americans don't broadly support Trump's National Guard deployments
+  Americans are concerned about crime, but don't broadly support President Trump's deployment of the National Guard to U.S. cities, according to a new NPR-IPSOS poll . Americans also don't support the deployment of National Guard forces in cities, the poll finds . Americans are also concerned about the state of the nation's largest cities, but not about the national guard's deployment .
+• How the beloved state fair grew from livestock showcases to cornucopias of amusement
+  The state fair dates back to the 1800s, and its agricultural roots go back even further . Ever since, states have been putting their own spin on the annual event while staying true to tradition . The annual state fair is held in every state in the United States every year, starting at 8 p.m. on June 4 . The state state fair has been held in the past five
+• How a Toledo tattoo artist helps turn scars into art
+  Brian Finn is a tattoo artist in Toledo, Ohio who has been offering free and discounted tattoos for people covering trauma scars for more than 10 years . Finn is offering free tattoos to people covered in trauma scars . He has been doing the same thing for 10 years, offering free, discounted tattoos to those covered in scars for over a decade . Finn's tattoo artist is also offering discounts for people
+• As federal funds wane, NPR ruefully clashes with CPB
+  NPR asked a federal judge to block CPB from awarding a $57.9 million grant to a new consortium of public media institutions to operate the satellite that connects the public radio system . CPB awarded the grant to the consortium to operate a new satellite that will connect the system with public radio . NPR is seeking to block the grant from the federal government from being awarded to a consortium of
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• UK and US security agencies order urgent fixes as Cisco firewall bugs exploited in wild
-  CISA gives feds 24 hours to patch, NCSC urges rapid action as flaws linked to ArcaneDoor spies . Cybersecurity agencies on both sides of the Atlantic are sounding the alarm over Cisco firewall vulnerabilities that are being exploited by an "advanced threat actor"……… CISA gave feds 24-hour to patch and NCSC urged rapid action . CISA: CISA give
-• UK to roll out mandatory digital ID for right to work by 2029
-  The UK government plans to issue all legal residents a digital identity by the end of the current Parliament . It could run until August 2029, with its use required to get a job . The scheme could also be used to get access to a job, with the use of the identity required to obtain a licence . The UK has been accused of over-reacting to past denials of
-• Brits warned as illegal robo-callers with offshored call centers fined half a million
-  UK's data protection watchdog fined two Brit businesses with offshore call centers £550,000 (c $735,000) over illegal automated marketing calls . The UK's Data Protection watchdog fined the two businesses £550k (c$735k) over the illegal calls . It’s amazing the number of calls Jo, Helen, and Ian get through the automated calls .
-• Microsoft agrees to 11th hour Win 10 end of life concessions
-  Consumer org forces Redmond to expunge list of requirements for free ESU in Euro Economic Area, just need a Microsoft account . Microsoft will give consumers in the European Economic Area no-strings extended support for the soon-to-be-EOL Windows 10 . ESU will be free to use in the region without a need for a subscription to the company's Windows 10 software .
-• Just using open source software isn't radical any more. Europe needs to dig deeper
-  Companies must realize they can be more than pure consumers, and public sector ought to go beyond 'promotion' Feature is 2025. Linux will turn 34 and the Free Software Foundation (FSF) 40. For the EU and Europe at large, which is famously experimental with government deployments of open source tech, it's a crunch point. It's a time for the public sector to go
+• Alibaba unveils $53B global AI plan – but it will need GPUs to back it up
+  Chinese giant maps out datacenters across Europe and beyond, yet US chip curbs cast a long shadow . Alibaba opened an AI war chest containing tens of billions of dollars . But it also prompted a flurry of questions over how it will achieve all this in an increasingly fragmented IT landscape, when critical resources are in short supply . Alibaba has plans for AI datacacenters in Europe and
+• Many employees are using AI to create 'workslop,' Stanford study says
+  Workers are getting lazy about using AI to do their jobs for them, and the results are both costly and increasing distrust in the workplace . Remember when AI was supposed to make us more productive, not hate each other? ai-pocalypse? Workers are becoming more reliant on AI to make them more productive and more distrustful of each other, says John Defterios . Workers are
+• Cyber threat-sharing law set to shut down, along with US government
+  US federal government would shut down on October 1 unless a continuing resolution passes . 2015 Cybersecurity Information Sharing Act would lapse at the same time, threatening what many consider a critical plank of U.S. cybersecurity policy . Act passed in 2015 is due to lapse unless a resolution passes - and that's unlikely . US cybersecurity policy is critical to the nation's ability to respond to cyberattacks .
+• If you can't use AI then it's bye bye, Accenture tells staff
+  Consultancy Accenture says machine learning advice is making bank ai-pocalypse . AI is proving to be a gold mine for mega tech consultancy Accenture . If staff can't use it, then it's time to pack up their desks, Accenture warns . Consultancy says machine-learning advice is becoming a 'golden mine' for the bank's staff . AI experts say
+• Federal agencies DOGE questions about what cost-cutting team is doing
+  A trio of federal executive agencies targeted by DOGE cost-cutters either don't know or won't say what the group is doing inside their operations . A Senate investigation concludes DOGe is acting without legal authority or oversight . Oversight efforts have been rebuffed, says Democratic report, 'putting Americans' personal data at risk'……… Oversight efforts are rebuffed .
 
 🏥 Public Health
 No updates.
 
 🔬 Science
-• Why is autism really on the rise? What the science says
+• “30 years of global collaboration in transplantation and cellular therapy: WMDA’s commitment to donor safety, ethical standards, and equitable access”
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Ophthalmic care at an academic medical centre for patients who were incarcerated or in immigration detention
+• Quantifying the impact of a broadly protective sarbecovirus vaccine in a future SARS-X pandemic
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Association of a high-protein and low-glycemic-index diet during pregnancy with offspring growth and obesity until the age of 18 years – a target trial emulation
+• Impact of capitation payment on vascular complications among treated diabetic patients in China
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Quality safety and disparity of an AI chatbot in managing chronic diseases: simulated patient experiments
+• Applying the SFIC synergistic governance model to analyze determinants of multisectoral collaborative chronic disease management in Beijing’s district H
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• The use of functional foods and its association to chronic and multimorbid conditions: a cross-sectional study among Bangladeshi people
+• Immediate effects of neuromuscular electrical stimulation on drop jump performance measured through kinematic analysis
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,123 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• US investigators are using AI to detect child abuse images made by AI
+  The Department of Homeland Security awarded a $150,000 contract to San Francisco-based Hive AI for its AI detection algorithms for child sexual abuse material . The filing quotes data from the National Center for Missing and Exploited Children that reported a 1,325% increase in incidents involving generative AI in 2024 . A tool that could successfully flag real victims would be a massive help when they try to prioritize cases .
+• The Download: shoplifter-chasing drones, and Trump’s TikTok deal
+  Shoplifters in the US could soon be chased down by drones
+
+
+
+The news: Flock Safety, whose drones were once reserved for police departments, is now offering them for private-sector security, the company has announced. Potential customers include businesses trying to curb shoplifting.&nbsp;
+
+
+
+How it works: If the security team at a store sees shoplifters leave, they can activate a camera-equipped drone. “The drone follows the people. The people get in a car. You click a button and you track the vehicle with the drone, and the drone just follows the car,” says Keith Kauffman, a former police chief who now directs Flock’s drone program. The video feed of that drone might go to the company’s security team, but it could also be automatically transmitted directly to police departments.&nbsp;
+
+
+
+The response: Flock’s expansion into private-sector security is “a logical step, but in the wrong direction,” says Rebecca Williams, senior strategist for the ACLU’s privacy and data governance unit. Read the full story.&nbsp;
+
+
+
+—James O’Donnell&nbsp;
+
+
+
+Read more of our stories about the latest in drone tech:
+
+
+
++ Why you’re about to see a lot more drones over America’s skies.
+
+
+
++ Meet Serhii “Flash” Beskrestnov, the radio-obsessed civilian shaping Ukraine’s drone defense. His work could help to determine the future of Ukraine, and wars far beyond it.+ We examined four big trends that show what’s next for drone technology.+ The defense tech startup Epirus has developed a cutting-edge, cost-efficient drone zapper that’s sparking the interest of the US military. Read our story about how it could change the future of war.
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 TikTok US is being valued at $14 billion by Trump’s dealThat’s shockingly low for a fast-growing social media company. (FT $)&nbsp;+ The deal is basically just Trump giving TikTok to his friends. (Vox $)+ Here’s what the sale means for you. (WP $)
+
+
+
+2 Microsoft has stopped letting Israel use its technology for surveillanceThe system was used to collect millions of Palestinian civilians&#8217; phone calls every day. (The Guardian)3 There are more robots working in China than the rest of the world combinedIt’s a trend that’ll further cement its status as the world’s leading manufacturer. (NYT $)+ China’s EV giants are betting big on humanoid robots. (MIT Technology Review)4 The inside story of what happened when DOGE came to townIf anything, this is even more grim and chaotic than you might imagine. (Wired $)
+
+
+
+5 Instagram’s teen safety features are flawedResearchers tested 47 of these features, and found that only 8 were fully effective. (Reuters $)+ There’s growing concern among lawmakers about the risks of kids forming bonds with chatbots. (MIT Technology Review)
+
+
+
+6 Brazil’s judicial system is adopting AI with gustoThe trouble is that rather than reducing the amount of work for judges and lawyers, AI seems to be increasing it. (Rest of World)+ Meet the early-adopter judges using AI. (MIT Technology Review)7 Amazon is refunding $1.5 billion to Prime subscribersThe deal with the FTC lets it avoid a trial over claims it tricked consumers into signing up. (WP $)8 These women are in love with AI&nbsp;Like it or not, these sorts of romances are becoming more common. (Slate $)+ It’s surprisingly easy to stumble into a relationship with an AI chatbot. (MIT Technology Review)&nbsp;9 Scientists are improving how we measure nothingResearchers are developing a vacuum-measurement tool that could unlock exciting new possibilities for science. (IEEE Spectrum)+ This quantum radar could image buried objects. (MIT Technology Review)10 Why does everything online feel so icky?&nbsp;Most of us will go to extreme lengths to avoid awkwardness IRL. On social media, it’s another matter entirely… (Vox $)+ China’s government has had enough of everyone being negative on its internet. (BBC)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“AI machines—in quite a literal sense—appear to be saving the US economy right now. In the absence of tech-related spending, the US would be close to, or in, recession this year.”
+
+
+
+—George Saravelos, global head of FX research at Deutsche Bank, warns that the AI boom is unsustainable in a note to clients, Fortune reports.
+
+
+
+
+
+
+
+One more thing
+
+
+
+COURTESY OF OPENAI
+
+
+
+
+The two people shaping the future of OpenAI’s research
+
+
+
+—Will Douglas HeavenFor the past couple of years, OpenAI has felt like a one-man brand. With his showbiz style and fundraising glitz, CEO Sam Altman overshadows all other big names on the firm’s roster.
+
+
+
+But Altman is not the one building the technology on which its reputation rests. That responsibility falls to OpenAI’s twin heads of research—chief research officer Mark Chen and chief scientist Jakub Pachocki. Between them, they share the role of making sure OpenAI stays one step ahead of powerhouse rivals like Google.
+
+
+
+I recently sat down with Chen and Pachocki for an exclusive conversation which covered everything from how they manage the inherent tension between research and product, to what they really mean when they talk about AGI, and what happened to OpenAI’s superalignment team. Read the full story.
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
++ Wherever you are, this website helps you discover the most interesting bars nearby. + Take a tour of Norway’s lighthouses.+ Inside London’s flourishing underground rave scene.+ Meaningful changes rarely occur instantly. Here’s how they do happen.
 • Shoplifters could soon be chased down by drones
   Flock Safety, whose drones were once reserved for police departments, is now offering them for private-sector security . The company says it’s in talks with large retailers but doesn’t yet have any signed contracts . Flock will pitch the drones to hospital campuses, warehouse sites, and oil and gas facilities . The ACLU says Flock's expansion into the private sector is “a logical step, but in the wrong direction”
 • The Download: growing threats to vulnerable languages, and fact-checking Trump’s medical claims
@@ -327,272 +444,6 @@ To meet the growing electricity demand and cut emissions from the power sector, 
 
 
 This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
-• How AI and Wikipedia have sent vulnerable languages into a doom spiral
-  When Kenneth Wehr started managing the Greenlandic-language version of Wikipedia four years ago, his first act was to delete almost everything. It had to go, he thought, if it had any chance of surviving.
-
-
-
-Wehr, who’s 26, isn’t from Greenland—he grew up in Germany—but he had become obsessed with the island, an autonomous Danish territory, after visiting as a teenager. He’d spent years writing obscure Wikipedia articles in his native tongue on virtually everything to do with it. He even ended up moving to Copenhagen to study Greenlandic, a language spoken by some 57,000 mostly Indigenous Inuit people scattered across dozens of far-flung Arctic villages.&nbsp;
-
-
-
-
-The Greenlandic-language edition was added to Wikipedia around 2003, just a few years after the site launched in English. By the time Wehr took its helm nearly 20 years later, hundreds of Wikipedians had contributed to it and had collectively written some 1,500 articles totaling over tens of thousands of words. It seemed to be an impressive vindication of the crowdsourcing approach that has made Wikipedia the go-to source for information online, demonstrating that it could work even in the unlikeliest places.&nbsp;
-
-
-
-There was only one problem: The Greenlandic Wikipedia was a mirage.&nbsp;
-
-
-
-
-
-
-Virtually every single article had been published by people who did not actually speak the language. Wehr, who now teaches Greenlandic in Denmark, speculates that perhaps only one or two Greenlanders had ever contributed. But what worried him most was something else: Over time, he had noticed that a growing number of articles appeared to be copy-pasted into Wikipedia by people using machine translators. They were riddled with elementary mistakes—from grammatical blunders to meaningless words to more significant inaccuracies, like an entry that claimed Canada had only 41 inhabitants. Other pages sometimes contained random strings of letters spat out by machines that were unable to find suitable Greenlandic words to express themselves.&nbsp;
-
-
-
-“It might have looked Greenlandic to [the authors], but they had no way of knowing,” complains Wehr. 
-
-
-
-“Sentences wouldn’t make sense at all, or they would have obvious errors,” he adds. “AI translators are really bad at Greenlandic.”&nbsp;&nbsp;
-
-
-
-What Wehr describes is not unique to the Greenlandic edition.&nbsp;
-
-
-
-Wikipedia is the most ambitious multilingual project after the Bible: There are editions in over 340 languages, and a further 400 even more obscure ones are being developed and tested. Many of these smaller editions have been swamped with automatically translated content as AI has become increasingly accessible. Volunteers working on four African languages, for instance, estimated to MIT Technology Review that between 40% and 60% of articles in their Wikipedia editions were uncorrected machine translations. And after auditing the Wikipedia edition in Inuktitut, an Indigenous language close to Greenlandic that’s spoken in Canada, MIT Technology Review estimates that more than two-thirds of pages containing more than several sentences feature portions created this way.&nbsp;
-
-
-
-This is beginning to cause a wicked problem. AI systems, from Google Translate to ChatGPT, learn to “speak” new languages by scraping huge quantities of text from the internet. Wikipedia is sometimes the largest source of online linguistic data for languages with few speakers—so any errors on those pages, grammatical or otherwise, can poison the wells that AI is expected to draw from. That can make the models’ translation of these languages particularly error-prone, which creates a sort of linguistic doom loop as people continue to add more and more poorly translated Wikipedia pages using those tools, and AI models continue to train from poorly translated pages. It’s a complicated problem, but it boils down to a simple concept: Garbage in, garbage out.&nbsp;
-
-
-
-“These models are built on raw data,” says Kevin Scannell, a former professor of computer science at Saint Louis University who now builds computer software tailored for endangered languages. “They will try and learn everything about a language from scratch. There is no other input. There are no grammar books. There are no dictionaries. There is nothing other than the text that is inputted.”
-
-
-
-There isn’t perfect data on the scale of this problem, particularly because a lot of AI training data is kept confidential and the field continues to evolve rapidly. But back in 2020, Wikipedia was estimated to make up more than half the training data that was fed into AI models translating some languages spoken by millions across Africa, including Malagasy, Yoruba, and Shona. In 2022, a research team from Germany that looked into what data could be obtained by online scraping even found that Wikipedia was the sole easily accessible source of online linguistic data for 27 under-resourced languages.&nbsp;
-
-
-
-This could have significant repercussions in cases where Wikipedia is poorly written—potentially pushing the most vulnerable languages on Earth toward the precipice as future generations begin to turn away from them.&nbsp;
-
-
-
-“Wikipedia will be reflected in the AI models for these languages,” says Trond Trosterud, a computational linguist at the University of Tromsø in Norway, who has been raising the alarm about the potentially harmful outcomes of badly run Wikipedia editions for years. “I find it hard to imagine it will not have consequences. And, of course, the more dominant position that Wikipedia has, the worse it will be.”&nbsp;
-
-
-
-Use responsibly
-
-
-
-Automation has been built into Wikipedia since the very earliest days. Bots keep the platform operational: They repair broken links, fix bad formatting, and even correct spelling mistakes. These repetitive and mundane tasks can be automated away with little problem. There is even an army of bots that scurry around generating short articles about rivers, cities, or animals by slotting their names into formulaic phrases. They have generally made the platform better.&nbsp;
-
-
-
-
-But AI is different. Anybody can use it to cause massive damage with a few clicks.&nbsp;
-
-
-
-Wikipedia has managed the onset of the AI era better than many other websites. It has not been flooded with AI bots or disinformation, as social media has been. It largely retains the innocence that characterized the earlier internet age. Wikipedia is open and free for anyone to use, edit, and pull from, and it’s run by the very same community it serves. It is transparent and easy to use. But community-run platforms live and die on the size of their communities. English has triumphed, while Greenlandic has sunk.&nbsp;
-
-
-
-
-“We need good Wikipedians. This is something that people take for granted. It is not magic,” says Amir Aharoni, a member of the volunteer Language Committee, which oversees requests to open or close Wikipedia editions. “If you use machine translation responsibly, it can be efficient and useful. Unfortunately, you cannot trust all people to use it responsibly.”&nbsp;
-
-
-
-Trosterud has studied the behavior of users on small Wikipedia editions and says AI has empowered a subset that he terms “Wikipedia hijackers.” These users can range widely—from naive teenagers creating pages about their hometowns or their favorite YouTubers to well-meaning Wikipedians who think that by creating articles in minority languages they are in some way “helping” those communities.&nbsp;
-
-
-
-“The problem with them nowadays is that they are armed with Google Translate,” Trosterud says, adding that this is allowing them to produce much longer and more plausible-looking content than they ever could before: “Earlier they were armed only with dictionaries.”&nbsp;
-
-
-
-This has effectively industrialized the acts of destruction—which affect vulnerable languages most, since AI translations are typically far less reliable for them. There can be lots of different reasons for this, but a meaningful part of the issue is the relatively small amount of source text that is available online. And sometimes models struggle to identify a language because it is similar to others, or because some, including Greenlandic and most Native American languages, have structures that make them badly suited to the way most machine translation systems work. (Wehr notes that in Greenlandic most words are agglutinative, meaning they are built by attaching prefixes and suffixes to stems. As a result, many words are extremely context specific and can express ideas that in other languages would take a full sentence.)&nbsp;
-
-
-
-Research produced by Google before a major expansion of Google Translate rolled out three years ago found that translation systems for lower-resourced languages were generally of a lower quality than those for better-resourced ones. Researchers found, for example, that their model would often mistranslate basic nouns across languages, including the names of animals and colors. (In a statement to MIT Technology Review, Google wrote that it is “committed to meeting a high standard of quality for all 249 languages” it supports “by rigorously testing and improving [its] systems, particularly for languages that may have limited public text resources on the web.”)&nbsp;
-
-
-
-Wikipedia itself offers a built-in editing tool called Content Translate, which allows users to automatically translate articles from one language to another—the idea being that this will save time by preserving the references and fiddly formatting of the originals. But it piggybacks on external machine translation systems, so it’s largely plagued by the same weaknesses as other machine translators—a problem that the Wikimedia Foundation says is hard to solve. It’s up to each edition’s community to decide whether this tool is allowed, and some have decided against it. (Notably, English-language Wikipedia has largely banned its use, claiming that some 95% of articles created using Content Translate failed to meet an acceptable standard without significant additional work.) But it’s at least easy to tell when the program has been used; Content Translate adds a tag on the Wikipedia back end.&nbsp;
-
-
-
-Other AI programs can be harder to monitor. Still, many Wikipedia editors I spoke with said that once their languages were added to major online translation tools, they noticed a corresponding spike in the frequency with which poor, likely machine-translated pages were created.&nbsp;
-
-
-
-Some Wikipedians using AI to translate content do occasionally admit that they do not speak the target languages. They may see themselves as providing smaller communities with rough-cut articles that speakers can then fix—essentially following the same model that has worked well for more active Wikipedia editions.&nbsp;&nbsp;
-
-
-
-
-Google Translate, for instance, says the Fulfulde word for January means June, while ChatGPT says it’s August or September. The programs also suggest the Fulfulde word for “harvest” means “fever” or “well-being,” among other possibilities.&nbsp;&nbsp;
-
-
-
-
-But once error-filled pages are produced in small languages, there is usually not an army of knowledgeable people who speak those languages standing ready to improve them. There are few readers of these editions, and sometimes not a single regular editor.&nbsp;
-
-
-
-Yuet Man Lee, a Canadian teacher in his 20s, says that he used a mix of Google Translate and ChatGPT to translate a handful of articles that he had written for the English Wikipedia into Inuktitut, thinking it’d be nice to pitch in and help a smaller Wikipedia community. He says he added a note to one saying that it was only a rough translation. “I did not think that anybody would notice [the article],” he explains. “If you put something out there on the smaller Wikipedias—most of the time nobody does.”&nbsp;
-
-
-
-But at the same time, he says, he still thought “someone might see it and fix it up”—adding that he had wondered whether the Inuktitut translation that the AI systems generated was grammatically correct. Nobody has touched the article since he created it.
-
-
-
-Lee, who teaches social sciences in Vancouver and first started editing entries in the English Wikipedia a decade ago, says that users familiar with more active Wikipedias can fall victim to this mindset, which he terms a “bigger-Wikipedia arrogance”: When they try to contribute to smaller Wikipedia editions, they assume that others will come along to fix their mistakes. It can sometimes work. Lee says he had previously contributed several articles to Wikipedia in Tatar, a language spoken by several million people mainly in Russia, and at least one of those was eventually corrected. But the Inuktitut Wikipedia is, by comparison, a “barren wasteland.”&nbsp;
-
-
-
-He emphasizes that his intentions had been good: He wanted to add more articles to an Indigenous Canadian Wikipedia. “I am now thinking that it may have been a bad idea. I did not consider that I could be contributing to a recursive loop,” he says. “It was about trying to get content out there, out of curiosity and for fun, without properly thinking about the consequences.”&nbsp;
-
-
-
-&nbsp;“Totally, completely no future”
-
-
-
-Wikipedia is a project that is driven by wide-eyed optimism. Editing can be a thankless task, involving weeks spent bickering with faceless, pseudonymous people, but devotees put in hours of unpaid labor because of a commitment to a higher cause. It is this commitment that drives many of the regular small-language editors I spoke with. They all feared what would happen if garbage continued to appear on their pages.
-
-
-
-Abdulkadir Abdulkadir, a 26-year-old agricultural planner who spoke with me over a crackling phone call from a busy roadside in northern Nigeria, said that he spends three hours every day fiddling with entries in his native Fulfulde, a language used mainly by pastoralists and farmers across the Sahel. “But the work is too much,” he said.&nbsp;
-
-
-
-Abdulkadir sees an urgent need for the Fulfulde Wikipedia to work properly. He has been suggesting it as one of the few online resources for farmers in remote villages, potentially offering information on which seeds or crops might work best for their fields in a language they can understand. If you give them a machine-translated article, Abdulkadir told me, then it could “easily harm them,” as the information will probably not be translated correctly into Fulfulde. 
-
-
-
-Google Translate, for instance, says the Fulfulde word for January means June, while ChatGPT says it’s August or September. The programs also suggest the Fulfulde word for “harvest” means “fever” or “well-being,” among other possibilities.&nbsp;&nbsp;
-
-
-
-Abdulkadir said he had recently been forced to correct an article about cowpeas, a foundational cash crop across much of Africa, after discovering that it was largely illegible.&nbsp;
-
-
-
-If someone wants to create pages on the Fulfulde Wikipedia, Abdulkadir said, they should be translated manually. Otherwise, “whoever will read your articles will [not] be able to get even basic knowledge,” he tells these Wikipedians. Nevertheless, he estimates that some 60% of articles are still uncorrected machine translations. Abdulkadir told me that unless something important changes with how AI systems learn and are deployed, then the outlook for Fulfulde looks bleak. “It is going to be terrible, honestly,” he said. “Totally, completely no future.”&nbsp;
-
-
-
-Across the country from Abdulkadir, Lucy Iwuala contributes to Wikipedia in Igbo, a language spoken by several million people in southeastern Nigeria. “The harm has already been done,” she told me, opening the two most recently created articles. Both had been automatically translated via Wikipedia’s Content Translate and contained so many mistakes that she said it would have given her a headache to continue reading them. “There are some terms that have not even been translated. They are still in English,” she pointed out. She recognized the username that had created the pages as a serial offender. “This one even includes letters that are not used in the Igbo language,” she said.&nbsp;
-
-
-
-Iwuala began regularly contributing to Wikipedia three years ago out of concern that Igbo was being displaced by English. It is a worry that is common to many who are active on smaller Wikipedia editions. “This is my culture. This is who I am,” she told me. “That is the essence of it all: to ensure that you are not erased.”&nbsp;
-
-
-
-Iwuala, who now works as a professional translator between English and Igbo, said the users doing the most damage are inexperienced and see AI translations as a way to quickly increase the profile of the Igbo Wikipedia. She often finds herself having to explain at online edit-a-thons she organizes, or over email to various error-prone editors, that the results can be the exact opposite, pushing users away: “You will be discouraged and you will no longer want to visit this place. You will just abandon it and go back to the English Wikipedia.”&nbsp;&nbsp;
-
-
-
-These fears are echoed by Noah Ha‘alilio Solomon, an assistant professor of Hawaiian language at the University of Hawai‘i. He reports that some 35% of words on some pages in the Hawaiian Wikipedia are incomprehensible. “If this is the Hawaiian that is going to exist online, then it will do more harm than anything else,” he says.&nbsp;
-
-
-
-Hawaiian, which was teetering on the verge of extinction several decades ago, has been undergoing a recovery effort led by Indigenous activists and academics. Seeing such poor Hawaiian on such a widely used platform as Wikipedia is upsetting to Ha‘alilio Solomon.&nbsp;
-
-
-
-“It is painful, because it reminds us of all the times that our culture and language has been appropriated,” he says. “We have been fighting tooth and nail in an uphill climb for language revitalization. There is nothing easy about that, and this can add extra impediments. People are going to think that this is an accurate representation of the Hawaiian language.”&nbsp;
-
-
-
-The consequences of all these Wikipedia errors can quickly become clear. AI translators that have undoubtedly ingested these pages in their training data are now assisting in the production, for instance, of error-strewn AI-generated books aimed at learners of languages as diverse as Inuktitut and Cree, Indigenous languages spoken in Canada, and Manx, a small Celtic language spoken on the Isle of Man. Many of these have been popping up for sale on Amazon. “It was just complete nonsense,” says Richard Compton, a linguist at the University of Quebec in Montreal, of a volume he reviewed that had purported to be an introductory phrasebook for Inuktitut.&nbsp;
-
-
-
-Rather than making minority languages more accessible, AI is now creating an ever expanding minefield for students and speakers of those languages to navigate. “It is a slap in the face,” Compton says. He worries that younger generations in Canada, hoping to learn languages in communities that have fought uphill battles against discrimination to pass on their heritage, might turn to online tools such as ChatGPT or phrasebooks on Amazon and simply make matters worse. “It is fraud,” he says.
-
-
-
-A race against time
-
-
-
-According to UNESCO, a language is declared extinct every two weeks. But whether the Wikimedia Foundation, which runs Wikipedia, has an obligation to the languages used on its platform is an open question. When I spoke to Runa Bhattacharjee, a senior director at the foundation, she said that it was up to the individual communities to make decisions about what content they wanted to exist on their Wikipedia. “Ultimately, the responsibility really lies with the community to see that there is no vandalism or unwanted activity, whether through machine translation or other means,” she said. Usually, Bhattacharjee added, editions were considered for closure only if a specific complaint was raised about them.&nbsp;
-
-
-
-But if there is no active community, how can an edition be fixed or even have a complaint raised?&nbsp;
-
-
-
-Bhattacharjee explained that the Wikimedia Foundation sees its role in such cases as about maintaining the Wikipedia platform in case someone comes along to revive it: “It is the space that we provide for them to grow and develop. That is where we are at.”&nbsp;&nbsp;&nbsp;
-
-
-
-Inari Saami, spoken in a single remote community in northern Finland, is a poster child for how people can take good advantage of Wikipedia. The language was headed toward extinction four decades ago; there were only four children who spoke it. Their parents created the Inari Saami Language Association in a last-ditch bid to keep it going. The efforts worked. There are now several hundred speakers, schools that use Inari Saami as a medium of instruction, and 6,400 Wikipedia articles in the language, each one copy-edited by a fluent speaker.&nbsp;
-
-
-
-This success highlights how Wikipedia can indeed provide small and determined communities with a unique vehicle to promote their languages’ preservation. “We don’t care about quantity. We care about quality,” says Fabrizio Brecciaroli, a member of the Inari Saami Language Association. “We are planning to use Wikipedia as a repository for the written language. We need to provide tools that can be used by the younger generations. It is important for them to be able to use Inari Saami digitally.”&nbsp;
-
-
-
-
-
-This has been such a success that Wikipedia has been integrated into the curriculum at the Inari Saami–speaking schools, Brecciaroli adds. He fields phone calls from teachers asking him to write up simple pages on topics from tornadoes to Saami folklore. Wikipedia has even offered a way to introduce words into Inari Saami. “We have to make up new words all the time,” Brecciaroli says. “Young people need them to speak about sports, politics, and video games. If they are unsure how to say something, they now check Wikipedia.”
-
-
-
-Wikipedia is a monumental intellectual experiment. What’s happening with Inari Saami suggests that with maximum care, it can work in smaller languages. “The ultimate goal is to make sure that Inari Saami survives,” Brecciaroli says. “It might be a good thing that there isn’t a Google Translate in Inari Saami.”&nbsp;
-
-
-
-That may be true—though large language models like ChatGPT can be made to translate phrases into languages that more traditional machine translation tools do not offer. Brecciaroli told me that ChatGPT isn’t great in Inari Saami but that the quality varies significantly depending on what you ask it to do; if you ask it a question in the language, then the answer will be filled with words from Finnish and even words it invents. But if you ask it something in English, Finnish, or Italian and then ask it to reply in Inari Saami, it will perform better.&nbsp;
-
-
-
-In light of all this, creating as much high-quality content online as can possibly be written becomes a race against time. “ChatGPT only needs a lot of words,” Brecciaroli says. “If we keep putting good material in, then sooner or later, we will get something out. That is the hope.” This is an idea supported by multiple linguists I spoke with—that it may be possible to end the “garbage in, garbage out” cycle. (OpenAI, which operates ChatGPT, did not respond to a request for comment.)
-
-
-
-Still, the overall problem is likely to grow and grow, since many languages are not as lucky as Inari Saami—and their AI translators will most likely be trained on more and more AI slop. Wehr, unfortunately, seems far less optimistic about the future of his beloved Greenlandic.&nbsp;
-
-
-
-Since deleting much of the Greenlandic-language Wikipedia, he has spent years trying to recruit speakers to help him revive it. He has appeared in Greenlandic media and made social media appeals. But he hasn’t gotten much of a response; he says it has been demoralizing.&nbsp;
-
-
-
-“There is nobody in Greenland who is interested in this, or who wants to contribute,” he says. “There is completely no point in it, and that is why it should be closed.”&nbsp;
-
-
-
-Late last year, he began a process requesting that the Wikipedia Language Committee shut down the Greenlandic-language edition. Months of bitter debate followed between dozens of Wikipedia bureaucrats; some seemed to be surprised that a superficially healthy-seeming edition could be gripped by so many problems.&nbsp;
-
-
-
-Then, earlier this month, Wehr’s proposal was accepted: Greenlandic Wikipedia is set to be shuttered, and any articles that remain will be moved into the Wikipedia Incubator, where new language editions are tested and built. Among the reasons cited by the Language Committee is the use of AI tools, which have “frequently produced nonsense that could misrepresent the language.”&nbsp;&nbsp;&nbsp;
-
-
-
-Nevertheless, it may be too late—mistakes in Greenlandic already seem to have become embedded in machine translators. If you prompt either Google Translate or ChatGPT to do something as simple as count to 10 in proper Greenlandic, neither program can deliver.&nbsp;
-
-
-
-Jacob Judah is an investigative journalist based in London.&nbsp;
-• Roundtables: The Future of Birth Control
-  Kevin Eisenfrats is one of the MIT Technology Review 2025 Innovators Under 35 . His company, Contraline, is working toward testing new birth control options for men . He is co-founder and CEO of the company, and MIT Tech Review's executive editor, Amy Nordrum . The list of the top 25 Innovator of the Year is published on September 24, 2025 .
 
 🔒 Cybersecurity & Privacy
 • Feds Tie ‘Scattered Spider’ Duo to $115M in Ransoms
@@ -682,7 +533,7 @@ Nixon said many of these individuals have few friends in real life because they 
 The Times of London reports that Flowers is facing three charges under the Computer Misuse Act: two of conspiracy to commit an unauthorized act in relation to a computer causing/creating risk of serious damage to human welfare/national security and one of attempting to commit the same act. Maximum sentences for these offenses can range from 14 years to life in prison, depending on the impact of the crime.
 Jubair is reportedly facing two charges in the U.K.: One of conspiracy to commit an unauthorized act in relation to a computer causing/creating risk of serious damage to human welfare/national security and one of failing to comply with a section 49 notice to disclose the key to protected information.
 In the United States, Jubair is charged with computer fraud conspiracy, two counts of computer fraud, wire fraud conspiracy, two counts of wire fraud, and money laundering conspiracy. If extradited to the U.S., tried and convicted on all charges, he faces a maximum penalty of 95 years in prison.
-In July 2025, the United Kingdom followed Australia&#8217;s example in banning victims of hacking from paying ransoms to cybercriminal groups unless approved by officials. U.K. organizations that are considered part of critical infrastructure reportedly will face a complete ban, as will the entire public sector. U.K. victims of a hack are now required to notify officials to better inform policymakers on the scale of Britain&#8217;s ransomware problem.
+In July 2025, the United Kingdom barred victims of hacking from paying ransoms to cybercriminal groups unless approved by officials. U.K. organizations that are considered part of critical infrastructure reportedly will face a complete ban, as will the entire public sector. U.K. victims of a hack are now required to notify officials to better inform policymakers on the scale of Britain&#8217;s ransomware problem.
 For further reading (bless you), check out Bloomberg&#8217;s poignant story last week based on a year&#8217;s worth of jailhouse interviews with convicted Scattered Spider member Noah Urban.
 
 🎓 University AI
@@ -726,7 +577,7 @@ Approximately 87% of AI systems never reach deployment&nbsp;​simply because th
 		
 
 		
-		PODCAST SERIES
+		Spotlight: Microsoft research newsletter
 	
 	
 	
@@ -738,14 +589,14 @@ Approximately 87% of AI systems never reach deployment&nbsp;​simply because th
 			
 			
 
-									The AI Revolution in Medicine, Revisited
+									Microsoft Research Newsletter
 				
-								Join Microsoft’s Peter Lee on a journey to discover how AI is impacting healthcare and what it means for the future of medicine.
+								Stay connected to the research community at Microsoft.
 				
 								
 					
 						
-							Listen now						
+							Subscribe today						
 					
 				
 							
@@ -862,6 +713,604 @@ Join us as we continue to explore the transformative potential of generative AI 
 
 
 Opens in a new tabThe post Using AI to assist in rare disease diagnosis appeared first on Microsoft Research.
+• Building health care agents using Amazon Bedrock AgentCore
+  This blog was co-authored with Kuldeep Singh, Head of AI Platform at Innovaccer. 
+The integration of agentic AI is ushering in a transformative era in health care, marking a significant departure from traditional AI systems. Agentic AI demonstrates autonomous decision-making capabilities and adaptive learning in complex medical environments, enabling it to monitor patient progress, coordinate care teams, and adjust treatment strategies in real time. These intelligent systems are becoming deeply embedded in healthcare operations, from enhancing diagnostic precision through advanced pattern recognition to optimizing clinical workflows and accelerating drug discovery processes. Agentic AI combines proactive problem-solving abilities with real-time adaptability so that healthcare professionals can focus on high-value, patient-centered activities while the AI handles routine tasks and complex data analysis. 
+Innovaccer, a pioneering healthcare AI company, recently launched Innovaccer Gravity, built using Amazon Bedrock AgentCore, a new healthcare intelligence platform set to revolutionize data integration and AI-driven healthcare transformation. Building on their impressive track record—where their existing solutions serve more than 1,600 US care locations, manage more than 80 million unified health records, and have generated $1.5B in cost savings—this exemplifies how AWS customers are leading the agentic AI evolution by creating intelligent solutions that transform healthcare delivery while delivering significant ROI. 
+Health care demands precision and accountability. AI agents operating within this domain must handle sensitive patient data securely, adhere to rigorous compliance regulations (like HIPAA), and maintain consistent interoperability across diverse clinical workflows. Standard, generalized protocols fall short when dealing with complex healthcare systems and patient data protection requirements. Healthcare organizations need a robust service to convert their existing APIs into Model Context Protocol (MCP) compatible tools that can scale effectively while providing built-in authentication, authorization, encryption, and comprehensive audit trails. Amazon Bedrock AgentCore Gateway offers health care providers and digital health companies a straightforward and secure way to build, deploy, discover, and connect to tools at scale that they can use to create AI-powered healthcare solutions while maintaining the highest standards of security and compliance. 
+Problem 
+Healthcare organizations face significant data silo challenges because of diverse electronic health record (EHR) formats across different systems, often maintaining multiple systems to serve specialized departmental needs and legacy systems. FHIR (Fast Healthcare Interoperability Resources) solves these interoperability challenges by standardizing healthcare data into exchangeable resources (like patient records and lab results), enabling seamless communication between different systems while maintaining security and improving care coordination. However, implementing FHIR presents its own challenges, including technical complexity in integrating with legacy systems and the need for specialized expertise in healthcare informatics and API development. 
+The implementation of AI agents introduces new layers of complexity, requiring careful design and maintenance of interfaces with existing systems. AI agents need secure access to the FHIR data and other healthcare tools with authentication (both inbound and outbound) and end-to-end encryption. MCP is a standardized communication framework that enables AI systems to seamlessly interact with external tools, data sources, and services through a unified interface. However, the development and scaling of MCP servers require substantial resources and expertise. Hosting these services demands ongoing development time and attention to maintain optimal performance and reliability. As healthcare organizations navigate this complex terrain, addressing these challenges becomes critical for achieving true interoperability and harnessing the full potential of modern healthcare technology. 
+Deploy, enhance, and monitor AI agents at scale using Amazon Bedrock AgentCore 
+By using Amazon Bedrock AgentCore, you can deploy and operate highly capable AI agents securely at scale. It offers infrastructure purpose-built for dynamic agent workloads, powerful tools to enhance agents, and essential controls for real-world deployment. Bedrock AgentCore offers a set of composable services with the services most relevant to the solution in this post mentioned in the following list. For more information, see the Bedrock AgentCore documentation. 
+ 
+ AgentCore Runtime provides a secure, serverless runtime purpose-built for deploying and scaling dynamic AI agents and tools using any open source framework, protocol, and model. Runtime was built to work for agentic workloads with industry-leading extended runtime support, fast cold starts, true session isolation, built-in identity, and support for multi-modal payloads. 
+ AgentCore Gateway provides a secure way for agents to discover and use tools along with straightforward transformation of APIs, AWS Lambda functions, and existing services into agent-compatible tools. Gateway speeds up custom code development, infrastructure provisioning, and security implementation so developers can focus on building innovative agent applications. 
+ AgentCore Identity provides a secure, scalable agent identity and access management capability accelerating AI agent development. It is compatible with existing identity providers, avoiding the need to migrate uses or rebuild authentication flows. 
+ AgentCore Observability helps developers trace, debug, and monitor agent performance in production through unified operational dashboards. With support for OpenTelemetry compatible telemetry and detailed visualizations of each step of the agent workflow. 
+ 
+In this solution, we demonstrate how the user (a parent) can interact with a Strands or LangGraph agent in conversational style and get information about the immunization history and schedule of their child, inquire about the available slots, and book appointments. With some changes, AI agents can be made event-driven so that they can automatically send reminders, book appointments, and so on. This reduces the administrative burden on healthcare organizations and the parents who no longer need to keep track of the paperwork or make multiple calls to book appointments. 
+ 
+As shown in the preceding diagram, the workflow for the healthcare appointment book built using Amazon Bedrock AgentCore is the following: 
+ 
+ User interacts with Strands or LangGraph agent: The solution contains both Strands and LangGraph agents. You can also use other frameworks such as AutoGen and CrewAI. 
+ Reasoning LLM from Amazon Bedrock: Claude 3.5 Sonnet large language model (LLM) is used from Amazon Bedrock. The model demonstrates advanced reasoning by grasping nuances and complex instructions, along with strong tool-calling capabilities that allow it to effectively integrate with external applications and services to automate various tasks such as web browsing, calculations, or data interactions. 
+ Tools exposed using AgentCore Gateway: AgentCore Gateway provides secure access to the necessary tools required for the Strands or LangGraph agent using standard MCP clients. In this solution, REST APIs are hosted on Amazon API Gateway and exposed as MCP tools using AgentCore Gateway. 
+ Ingress authentication for AgentCore Gateway: AgentCore Gateway is protected with oAuth 2.0 using Amazon Cognito as the identity provider. You can use other oAuth 2.0 compatible identity providers such as Auth0, and Keycloak as needed to fit your use case. 
+ OpenAPI specs converted into tools with AgentCore Gateway: Amazon API Gateway is used as the backend to expose the APIs. By importing the OpenAPI specs, AgentCore Gateway provides an MCP compatible server without additional configuration for tool metadata. The following are the tools used in the solution. 
+   
+   get_patient_emr(): Gets the parent’s and child’s demographics information. 
+   search_immunization_emr() – Gets the immunization history and schedule for the child. 
+   get_available_slots() – Gets the pediatrician’s schedule around parent’s preferred date. 
+   book_appointment() – Books an appointment and returns the confirmation number. 
+    
+ AWS Healthlake as the FHIR server: HealthLake is used to manage patient data related to demographics, immunization history, schedule and appointments, and so on. HealthLake is a HIPAA-eligible service offering healthcare companies a complete view of individual and patient population health data using FHIR API-based transactions to securely store and transform their data into a queryable format at petabyte scale, and further analyze this data using machine learning (ML) models. 
+ Egress authentication from AgentCore Gateway to tools: OAuth 2.0 with Amazon Cognito as the identity provider is used to do the authentication between AgentCore Gateway and the tools used in the solution. 
+ 
+Solution setup 
+ 
+  
+   
+   Important: The following code example is meant for learning and demonstration purposes only. For production implementations, it is recommended to add required error handling, input validation, logging, and security controls. 
+   
+  
+ 
+The code and instructions to set up and clean up this example solution are available on GitHub. When set up, the solution looks like the following and is targeted towards parents to use the for immunization related appointments. 
+ 
+Customizing the solution 
+The solution can be customized to extend the same or a different use case through the following mechanisms: 
+ 
+ OpenAPI specification: The solution uses a sample OpenAPI specification (named fhir-openapi-spec.yaml) with APIs hosted on API Gateway. The OpenAPI specification can be customized to add more tools or use entirely different tools by editing the YAML file. You must recreate the AgentCore gateway after making changes to the OpenAPI spec. 
+ Agent instructions and LLM: The strands_agent.py or langgraph_agent.py can be modified to make changes to the goal or instructions for the Agent or to work with a different LLM. 
+ 
+Future enhancements 
+We’re already looking forward and planning future enhancements for this solution. 
+ 
+ AgentCore Runtime: Host strands or a LangGraph agent on AgentCore Runtime. 
+ AgentCore Memory: Use AgentCore Memory to preserve session information in short-term (in session) as well as long-term (across sessions) to provide a more personalized experience to the agent users. 
+ 
+Innovaccer’s use case for Bedrock AgentCore 
+Innovaccer’s gravity platform includes more than 400 connectors to unify data from EHRs from sources such as Epic, Oracle Cerner, and MEDITECH, more than 20 pre-trained models, 15 pre-built AI agents, 100 FHIR resources, and 60 out-of-the-box solutions with role based access control, comprehensive audit trail, end-to-end encryption, and secure personal health information (PHI) handling. They also provide a low-code or no-code interface to build additional AI agents with the tools exposed using Healthcare Model Context Protocol (HMCP) servers. 
+Innovaccer uses Bedrock AgentCore for the following purposes: 
+ 
+ AgentCore Gateway to turn their OpenAPI specifications into HMCP compatible tools without the heavy lifting required to build, secure, or scale MCP servers. 
+ AgentCore Identity to handle the inbound and outbound authentication integrating with Innovaccer- or customer-provided OAuth servers. 
+ AgentCore Runtime to deploy and scale the AI agents with multi-agent collaboration, along with logging, traceability and ability to plug in custom guardrails. 
+ 
+Bedrock AgentCore supports enterprise-grade security with encryption in transit and at rest, complete session isolation, audit trails using AWS CloudTrail, and comprehensive controls to help Innovaccer agents operate reliably and securely at scale. 
+Pricing for Bedrock AgentCore Gateway: 
+AgentCore Gateway offers a consumption-based pricing model with billing based on API invocations (such as ListTools, InvokeTool and Search API), and indexing of tools. For more information, see the pricing page. 
+Conclusion 
+The integration of Amazon Bedrock AgentCore with healthcare systems represents a significant leap forward in the application of AI to improve patient care and streamline healthcare operations. By using the suite of services provided by Bedrock AgentCore, healthcare organizations can deploy sophisticated AI agents that securely interact with existing systems, adhere to strict compliance standards, and scale efficiently. 
+The solution architecture presented in this post demonstrates the practical application of these technologies, showcasing how AI agents can simplify complex processes such as immunization scheduling and appointment booking. This can reduce administrative burdens on healthcare providers and enhance the patient experience by providing straightforward access to critical health information and services. 
+As we look to the future, the potential for AI agents in the healthcare industry is vast. From improving diagnostic accuracy to personalizing treatment plans and streamlining clinical workflows, the possibilities are endless. Tools like Amazon Bedrock AgentCore can help healthcare organizations confidently navigate the complexities of implementing AI while maintaining the highest standards of security, compliance, and patient care. 
+The healthcare industry stands at the cusp of a transformative era, where AI agents will play an increasingly central role in delivering efficient, personalized, and high-quality care. By embracing these technologies and continuing to innovate, we can create a healthcare network that is more responsive, intelligent, and patient-centric than ever before. 
+ 
+About the Authors 
+Kamal Manchanda is a Senior Solutions Architect at AWS with 17 years of experience in cloud, data, and AI technologies. He works closely with C-level executives and technical teams of AWS customers to drive cloud adoption and digital transformation initiatives. Prior to AWS, he led global teams delivering cloud-centric systems, data-driven applications, and AI/ML solutions across consulting and product organizations. Kamal specializes in translating complex business challenges into scalable, secure solutions that deliver measurable business value. 
+Kuldeep Singh is AVP and Head of AI Platform at Innovaccer. He leads the work on AI agentic workflow layers for Gravity by Innovaccer, a healthcare intelligence platform designed to unify data, agents, and compliant workflows so health systems can deploy AI at scale. With deep experience in data engineering, AI, and product leadership, Kuldeep focuses on making healthcare more efficient, safe, and patient-centered. He plays a key role in building tools that allow care teams to automate complex, multi-step tasks (like integrating payer or EHR data, orchestrating clinical agents) without heavy engineering. He’s passionate about reducing clinician burnout, improving patient outcomes, and turning pilot projects into enterprise-wide AI solutions.
+• Build multi-agent site reliability engineering assistants with Amazon Bedrock AgentCore
+  Site reliability engineers (SREs) face an increasingly complex challenge in modern distributed systems. During production incidents, they must rapidly correlate data from multiple sources—logs, metrics, Kubernetes events, and operational runbooks—to identify root causes and implement solutions. Traditional monitoring tools provide raw data but lack the intelligence to synthesize information across these diverse systems, often leaving SREs to manually piece together the story behind system failures. 
+With a generative AI solution, SREs can ask their infrastructure questions in natural language. For example, they can ask “Why are the payment-service pods crash looping?” or “What’s causing the API latency spike?” and receive comprehensive, actionable insights that combine infrastructure status, log analysis, performance metrics, and step-by-step remediation procedures. This capability transforms incident response from a manual, time-intensive process into a time-efficient, collaborative investigation. 
+In this post, we demonstrate how to build a multi-agent SRE assistant using Amazon Bedrock AgentCore, LangGraph, and the Model Context Protocol (MCP). This system deploys specialized AI agents that collaborate to provide the deep, contextual intelligence that modern SRE teams need for effective incident response and infrastructure management. We walk you through the complete implementation, from setting up the demo environment to deploying on Amazon Bedrock AgentCore Runtime for production use. 
+Solution overview 
+This solution uses a comprehensive multi-agent architecture that addresses the challenges of modern SRE operations through intelligent automation. The solution consists of four specialized AI agents working together under a supervisor agent to provide comprehensive infrastructure analysis and incident response assistance. 
+The examples in this post use synthetically generated data from our demo environment. The backend servers simulate realistic Kubernetes clusters, application logs, performance metrics, and operational runbooks. In production deployments, these stub servers would be replaced with connections to your actual infrastructure systems, monitoring services, and documentation repositories. 
+The architecture demonstrates several key capabilities: 
+ 
+ Natural language infrastructure queries – You can ask complex questions about your infrastructure in plain English and receive detailed analysis combining data from multiple sources 
+ Multi-agent collaboration – Specialized agents for Kubernetes, logs, metrics, and operational procedures work together to provide comprehensive insights 
+ Real-time data synthesis – Agents access live infrastructure data through standardized APIs and present correlated findings 
+ Automated runbook execution – Agents retrieve and display step-by-step operational procedures for common incident scenarios 
+ Source attribution – Every finding includes explicit source attribution for verification and audit purposes 
+ 
+The following diagram illustrates the solution architecture. 
+ 
+The architecture demonstrates how the SRE support agent integrates seamlessly with Amazon Bedrock AgentCore components: 
+ 
+ Customer interface – Receives alerts about degraded API response times and returns comprehensive agent responses 
+ Amazon Bedrock AgentCore Runtime – Manages the execution environment for the multi-agent SRE solution 
+ SRE support agent – Multi-agent collaboration system that processes incidents and orchestrates responses 
+ Amazon Bedrock AgentCore Gateway – Routes requests to specialized tools through OpenAPI interfaces: 
+   
+   Kubernetes API for getting cluster events 
+   Logs API for analyzing log patterns 
+   Metrics API for analyzing performance trends 
+   Runbooks API for searching operational procedures 
+    
+ Amazon Bedrock AgentCore Memory – Stores and retrieves session context and previous interactions for continuity 
+ Amazon Bedrock AgentCore Identity – Handles authentication for tool access using Amazon Cognito integration 
+ Amazon Bedrock AgentCore Observability – Collects and visualizes agent traces for monitoring and debugging 
+ Amazon Bedrock LLMs – Powers the agent intelligence through Anthropic’s Claude large language models (LLMs) 
+ 
+The multi-agent solution uses a supervisor-agent pattern where a central orchestrator coordinates five specialized agents: 
+ 
+ Supervisor agent – Analyzes incoming queries and creates investigation plans, routing work to appropriate specialists and aggregating results into comprehensive reports 
+ Kubernetes infrastructure agent – Handles container orchestration and cluster operations, investigating pod failures, deployment issues, resource constraints, and cluster events 
+ Application logs agent – Processes log data to find relevant information, identifies patterns and anomalies, and correlates events across multiple services 
+ Performance metrics agent – Monitors system metrics and identifies performance issues, providing real-time analysis and historical trending 
+ Operational runbooks agent – Provides access to documented procedures, troubleshooting guides, and escalation procedures based on the current situation 
+ 
+Using Amazon Bedrock AgentCore primitives 
+The solution showcases the power of Amazon Bedrock AgentCore by using multiple core primitives. The solution supports two providers for Anthropic’s LLMs. Amazon Bedrock supports Anthropic’s Claude 3.7 Sonnet for AWS integrated deployments, and Anthropic API supports Anthropic’s Claude 4 Sonnet for direct API access. 
+The Amazon Bedrock AgentCore Gateway component converts the SRE agent’s backend APIs (Kubernetes, application logs, performance metrics, and operational runbooks) into Model Context Protocol (MCP) tools. This enables agents built with an open-source framework supporting MCP (such as LangGraph in this post) to seamlessly access infrastructure APIs. 
+Security for the entire solution is provided by Amazon Bedrock AgentCore Identity. It supports ingress authentication for secure access control for agents connecting to the gateway, and egress authentication to manage authentication with backend servers, providing secure API access without hardcoding credentials. 
+The serverless execution environment for deploying the SRE agent in production is provided by Amazon Bedrock AgentCore Runtime. It automatically scales from zero to handle concurrent incident investigations while maintaining complete session isolation. Amazon Bedrock AgentCore Runtime supports both OAuth and AWS Identity and Access Management (IAM) for agent authentication. Applications that invoke agents must have appropriate IAM permissions and trust policies. For more information, see Identity and access management for Amazon Bedrock AgentCore. 
+Amazon Bedrock AgentCore Memory transforms the SRE agent from a stateless system into an intelligent learning assistant that personalizes investigations based on user preferences and historical context. The memory component provides three distinct strategies: 
+ 
+ User preferences strategy (/sre/users/{user_id}/preferences) – Stores individual user preferences for investigation style, communication channels, escalation procedures, and report formatting. For example, Alice (a technical SRE) receives detailed systematic analysis with troubleshooting steps, whereas Carol (an executive) receives business-focused summaries with impact analysis. 
+ Infrastructure knowledge strategy (/sre/infrastructure/{user_id}/{session_id}) – Accumulates domain expertise across investigations, enabling agents to learn from past discoveries. When the Kubernetes agent identifies a memory leak pattern, this knowledge becomes available for future investigations, enabling faster root cause identification. 
+ Investigation memory strategy (/sre/investigations/{user_id}/{session_id}) – Maintains historical context of past incidents and their resolutions. This enables the solution to suggest proven remediation approaches and avoid anti-patterns that previously failed. 
+ 
+The memory component demonstrates its value through personalized investigations. When both Alice and Carol investigate “API response times have degraded 3x in the last hour,” they receive identical technical findings but completely different presentations. 
+Alice receives a technical analysis: 
+ 
+ memory_client.retrieve_user_preferences(user_id="Alice")
+# Returns: {"investigation_style": "detailed_systematic_analysis", "reports": "technical_exposition_with_troubleshooting_steps"} 
+ 
+Carol receives an executive summary: 
+ 
+ memory_client.retrieve_user_preferences(user_id="Carol") 
+# Returns: {"investigation_style": "business_impact_focused","reports": "executive_summary_without_technical_details"} 
+ 
+Adding observability to the SRE agent 
+Adding observability to an SRE agent deployed on Amazon Bedrock AgentCore Runtime is straightforward using the Amazon Bedrock AgentCore Observability primitive. This enables comprehensive monitoring through Amazon CloudWatch with metrics, traces, and logs. Setting up observability requires three steps: 
+ 
+ Add the OpenTelemetry packages to your pyproject.toml: 
+   
+   dependencies = [
+    # ... other dependencies ...
+    "opentelemetry-instrumentation-langchain",
+    "aws-opentelemetry-distro~=0.10.1",
+	] 
+    
+ Configure observability for your agents to enable metrics in CloudWatch. 
+ Start your container using the opentelemetry-instrument utility to automatically instrument your application. 
+ 
+The following command is added to the Dockerfile for the SRE agent: 
+ 
+ # Run application with OpenTelemetry instrumentation 
+CMD ["uv", "run", "opentelemetry-instrument", "uvicorn", "sre_agent.agent_runtime:app", "--host", "0.0.0.0", "--port", "8080"] 
+ 
+As shown in the following screenshot, with observability enabled, you gain visibility into the following: 
+ 
+ LLM invocation metrics – Token usage, latency, and model performance across agents 
+ Tool execution traces – Duration and success rates for each MCP tool call 
+ Memory operations – Retrieval patterns and storage efficiency 
+ End-to-end request tracing – Complete request flow from user query to final response 
+ 
+ 
+The observability primitive automatically captures these metrics without additional code changes, providing production-grade monitoring capabilities out of the box. 
+Development to production flow 
+The SRE agent follows a four-step structured deployment process from local development to production, with detailed procedures documented in Development to Production Flow in the accompanying GitHub repo: 
+ 
+The deployment process maintains consistency across environments: the core agent code (sre_agent/) remains unchanged, and the deployment/ folder contains deployment-specific utilities. The same agent works locally and in production through environment configuration, with Amazon Bedrock AgentCore Gateway providing MCP tools access across different stages of development and deployment. 
+Implementation walkthrough 
+In the following section, we focus on how Amazon Bedrock AgentCore Gateway, Memory, and Runtime work together to build this multi-agent collaboration solution and deploy it end-to-end with MCP support and persistent intelligence. 
+We start by setting up the repository and establishing the local runtime environment with API keys, LLM providers, and demo infrastructure. We then bring core AgentCore components online by creating the gateway for standardized API access, configuring authentication, and establishing tool connectivity. We add intelligence through AgentCore Memory, creating strategies for user preferences and investigation history while loading personas for personalized incident response. Finally, we configure individual agents with specialized tools, integrate memory capabilities, orchestrate collaborative workflows, and deploy to AgentCore Runtime with full observability. 
+Detailed instructions for each step are provided in the repository: 
+ 
+ Use Case Setup Guide – Backend deployment and development setup 
+ Deployment Guide – Production containerization and Amazon Bedrock AgentCore Runtime deployment 
+ 
+Prerequisites 
+You can find the port forwarding requirements and other setup instructions in the README file’s Prerequisites section. 
+Convert APIs to MCP tools with Amazon Bedrock AgentCore Gateway 
+Amazon Bedrock AgentCore Gateway demonstrates the power of protocol standardization by converting existing backend APIs into MCP tools that agent frameworks can consume. This transformation happens seamlessly, requiring only OpenAPI specifications. 
+Upload OpenAPI specifications 
+The gateway process begins by uploading your existing API specifications to Amazon Simple Storage Service (Amazon S3). The create_gateway.sh script automatically handles uploading the four API specifications (Kubernetes, Logs, Metrics, and Runbooks) to your configured S3 bucket with proper metadata and content types. These specifications will be used to create API endpoint targets in the gateway. 
+Create an identity provider and gateway 
+Authentication is handled seamlessly through Amazon Bedrock AgentCore Identity. The main.py script creates both the credential provider and gateway: 
+ 
+ # Create AgentCore Gateway with JWT authorization
+def create_gateway(
+    client: Any,
+    gateway_name: str,
+    role_arn: str,
+    discovery_url: str,
+    allowed_clients: list = None,
+    description: str = "AgentCore Gateway created via SDK",
+    search_type: str = "SEMANTIC",
+    protocol_version: str = "2025-03-26",
+) -&gt; Dict[str, Any]:
+    
+    # Build auth config for Cognito
+    auth_config = {"customJWTAuthorizer": {"discoveryUrl": discovery_url}}
+    if allowed_clients:
+        auth_config["customJWTAuthorizer"]["allowedClients"] = allowed_clients
+    
+    protocol_configuration = {
+        "mcp": {"searchType": search_type, "supportedVersions": [protocol_version]}
+    }
+
+    response = client.create_gateway(
+        name=gateway_name,
+        roleArn=role_arn,
+        protocolType="MCP",
+        authorizerType="CUSTOM_JWT",
+        authorizerConfiguration=auth_config,
+        protocolConfiguration=protocol_configuration,
+        description=description,
+        exceptionLevel='DEBUG'
+    )
+    return response 
+ 
+Deploy API endpoint targets with credential providers 
+Each API becomes an MCP target through the gateway. The solution automatically handles credential management: 
+ 
+ def create_api_endpoint_target(
+    client: Any,
+    gateway_id: str,
+    s3_uri: str,
+    provider_arn: str,
+    target_name_prefix: str = "open",
+    description: str = "API Endpoint Target for OpenAPI schema",
+) -&gt; Dict[str, Any]:
+    
+    api_target_config = {"mcp": {"openApiSchema": {"s3": {"uri": s3_uri}}}}
+
+    # API key credential provider configuration
+    credential_config = {
+        "credentialProviderType": "API_KEY",
+        "credentialProvider": {
+            "apiKeyCredentialProvider": {
+                "providerArn": provider_arn,
+                "credentialLocation": "HEADER",
+                "credentialParameterName": "X-API-KEY",
+            }
+        },
+    }
+    
+    response = client.create_gateway_target(
+        gatewayIdentifier=gateway_id,
+        name=target_name_prefix,
+        description=description,
+        targetConfiguration=api_target_config,
+        credentialProviderConfigurations=[credential_config],
+    )
+    return response 
+ 
+Validate MCP tools are ready for agent framework 
+Post-deployment, Amazon Bedrock AgentCore Gateway provides a standardized /mcp endpoint secured with JWT tokens. Testing the deployment with mcp_cmds.sh reveals the power of this transformation: 
+ 
+ Tool summary:
+================
+Total tools found: 21
+
+Tool names:
+• x_amz_bedrock_agentcore_search
+• k8s-api___get_cluster_events
+• k8s-api___get_deployment_status
+• k8s-api___get_node_status
+• k8s-api___get_pod_status
+• k8s-api___get_resource_usage
+• logs-api___analyze_log_patterns
+• logs-api___count_log_events
+• logs-api___get_error_logs
+• logs-api___get_recent_logs
+• logs-api___search_logs
+• metrics-api___analyze_trends
+• metrics-api___get_availability_metrics
+• metrics-api___get_error_rates
+• metrics-api___get_performance_metrics
+• metrics-api___get_resource_metrics
+• runbooks-api___get_common_resolutions
+• runbooks-api___get_escalation_procedures
+• runbooks-api___get_incident_playbook
+• runbooks-api___get_troubleshooting_guide
+• runbooks-api___search_runbooks 
+ 
+Universal agent framework compatibility 
+This MCP-standardized gateway can now be configured as a Streamable-HTTP server for MCP clients, including AWS Strands, Amazon’s agent development framework, LangGraph, the framework used in our SRE agent implementation, and CrewAI, a multi-agent collaboration framework. 
+The advantage of this approach is that existing APIs require no modification—only OpenAPI specifications. Amazon Bedrock AgentCore Gateway handles the following: 
+ 
+ Protocol translation – Between REST APIs to MCP 
+ Authentication – JWT token validation and credential injection 
+ Security – TLS termination and access control 
+ Standardization – Consistent tool naming and parameter handling 
+ 
+This means you can take existing infrastructure APIs (Kubernetes, monitoring, logging, documentation) and instantly make them available to AI agent frameworks that support MCP—through a single, secure, standardized interface. 
+Implement persistent intelligence with Amazon Bedrock AgentCore Memory 
+Whereas Amazon Bedrock AgentCore Gateway provides seamless API access, Amazon Bedrock AgentCore Memory transforms the SRE agent from a stateless system into an intelligent, learning assistant. The memory implementation demonstrates how a few lines of code can enable sophisticated personalization and cross-session knowledge retention. 
+Initialize memory strategies 
+The SRE agent memory component is built on Amazon Bedrock AgentCore Memory’s event-based model with automatic namespace routing. During initialization, the solution creates three memory strategies with specific namespace patterns: 
+ 
+ from sre_agent.memory.client import SREMemoryClient
+from sre_agent.memory.strategies import create_memory_strategies
+
+# Initialize memory client
+memory_client = SREMemoryClient(
+    memory_name="sre_agent_memory",
+    region="us-east-1"
+)
+
+# Create three specialized memory strategies
+strategies = create_memory_strategies()
+for strategy in strategies:
+    memory_client.create_strategy(strategy) 
+ 
+The three strategies each serve distinct purposes: 
+ 
+ User preferences (/sre/users/{user_id}/preferences) – Individual investigation styles and communication preferences 
+ Infrastructure Knowledge: /sre/infrastructure/{user_id}/{session_id} – Domain expertise accumulated across investigations 
+ Investigation Summaries: /sre/investigations/{user_id}/{session_id} – Historical incident patterns and resolutions 
+ 
+Load user personas and preferences 
+The solution comes preconfigured with user personas that demonstrate personalized investigations. The manage_memories.py script loads these personas: 
+ 
+ # Load Alice - Technical SRE Engineer
+alice_preferences = {
+    "investigation_style": "detailed_systematic_analysis",
+    "communication": ["#alice-alerts", "#sre-team"],
+    "escalation": {"contact": "alice.manager@company.com", "threshold": "15min"},
+    "reports": "technical_exposition_with_troubleshooting_steps",
+    "timezone": "UTC"
+}
+
+# Load Carol - Executive/Director
+carol_preferences = {
+    "investigation_style": "business_impact_focused",
+    "communication": ["#carol-executive", "#strategic-alerts"],
+    "escalation": {"contact": "carol.director@company.com", "threshold": "5min"},
+    "reports": "executive_summary_without_technical_details",
+    "timezone": "EST"
+}
+
+# Store preferences using memory client
+memory_client.store_user_preference("Alice", alice_preferences)
+memory_client.store_user_preference("Carol", carol_preferences) 
+ 
+Automatic namespace routing in action 
+The power of Amazon Bedrock AgentCore Memory lies in its automatic namespace routing. When the SRE agent creates events, it only needs to provide the actor_id—Amazon Bedrock AgentCore Memory automatically determines which namespaces the event belongs to: 
+ 
+ # During investigation, the supervisor agent stores context
+memory_client.create_event(
+    memory_id="sre_agent_memory-abc123",
+    actor_id="Alice",  # AgentCore Memory routes this automatically
+    session_id="investigation_2025_01_15",
+    messages=[("investigation_started", "USER")]
+)
+
+# Memory system automatically:
+# 1. Checks strategy namespaces &lt;!-- "all" is necessary here for technical accuracy --&gt;
+# 2. Matches actor_id "Alice" to /sre/users/Alice/preferences
+# 3. Stores event in User Preferences Strategy
+# 4. Makes event available for future retrievals 
+ 
+Validate the personalized investigation experience 
+The memory component’s impact becomes clear when both Alice and Carol investigate the same issue. Using identical technical findings, the solution produces completely different presentations of the same underlying content. 
+Alice’s technical report contains detailed systematic analysis for technical teams: 
+ 
+ Technical Investigation Summary
+
+Root Cause: Payment processor memory leak causing OOM kills
+
+Analysis:
+- Pod restart frequency increased 300% at 14:23 UTC
+- Memory utilization peaked at 8.2GB (80% of container limit)
+- JVM garbage collection latency spiked to 2.3s
+
+Next Step:
+1. Implement heap dump analysis (`kubectl exec payment-pod -- jmap`)
+2. Review recent code deployments for memory management changes
+3. Consider increasing memory limits and implementing graceful shutdown 
+ 
+Carol’s executive summary contains business impact focused for executive stakeholders: 
+ 
+ Business Impact Assessment
+Status: CRITICAL - Customer payment processing degraded
+Impact: 23% transaction failure rate, $47K revenue at risk
+Timeline: Issue detected 14:23 UTC, resolution ETA 45 minutes
+Business Actions: - Customer communication initiated via status page - Finance team alerted for revenue impact tracking - Escalating to VP Engineering if not resolved by 15:15 UTC 
+ 
+The memory component enables this personalization while continuously learning from each investigation, building organizational knowledge that improves incident response over time. 
+Deploy to production with Amazon Bedrock AgentCore Runtime 
+Amazon Bedrock AgentCore makes it straightforward to deploy existing agents to production. The process involves three key steps: containerizing your agent, deploying to Amazon Bedrock AgentCore Runtime, and invoking the deployed agent. 
+Containerize your agent 
+Amazon Bedrock AgentCore Runtime requires ARM64 containers. The following code shows the complete Dockerfile: 
+ 
+ # Use uv's ARM64 Python base image
+FROM --platform=linux/arm64 ghcr.io/astral-sh/uv:python3.12-bookworm-slim
+
+WORKDIR /app
+
+# Copy uv files
+COPY pyproject.toml uv.lock ./
+
+# Install dependencies
+RUN uv sync --frozen --no-dev
+
+# Copy SRE agent module
+COPY sre_agent/ ./sre_agent/
+
+# Set environment variables
+# Note: Set DEBUG=true to enable debug logging and traces
+ENV PYTHONPATH="/app" \
+    PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1
+
+# Expose port
+EXPOSE 8080
+
+# Run application with OpenTelemetry instrumentation
+CMD ["uv", "run", "opentelemetry-instrument", "uvicorn", "sre_agent.agent_runtime:app", "--host", "0.0.0.0", "--port", "8080"] 
+ 
+Existing agents just need a FastAPI wrapper (agent_runtime:app) to become compatible with Amazon Bedrock AgentCore, and we add opentelemetry-instrument to enable observability through Amazon Bedrock AgentCore. 
+Deploy to Amazon Bedrock AgentCore Runtime 
+Deploying to Amazon Bedrock AgentCore Runtime is straightforward with the deploy_agent_runtime.py script: 
+ 
+ import boto3
+
+# Create AgentCore client
+client = boto3.client('bedrock-agentcore', region_name=region)
+
+# Environment variables for your agent
+env_vars = {
+    'GATEWAY_ACCESS_TOKEN': gateway_access_token,
+    'LLM_PROVIDER': llm_provider,
+    'ANTHROPIC_API_KEY': anthropic_api_key  # if using Anthropic
+}
+
+# Deploy container to AgentCore Runtime
+response = client.create_agent_runtime(
+    agentRuntimeName=runtime_name,
+    agentRuntimeArtifact={
+        'containerConfiguration': {
+            'containerUri': container_uri  # Your ECR container URI
+        }
+    },
+    networkConfiguration={"networkMode": "PUBLIC"},
+    roleArn=role_arn,
+    environmentVariables=env_vars
+)
+
+print(f"Agent Runtime ARN: {response['agentRuntimeArn']}") 
+ 
+Amazon Bedrock AgentCore handles the infrastructure, scaling, and session management automatically. 
+Invoke your deployed agent 
+Calling your deployed agent is just as simple with invoke_agent_runtime.py: 
+ 
+ # Prepare your query with user_id and session_id for memory personalization
+payload = json.dumps({
+    "input": {
+        "prompt": "API response times have degraded 3x in the last hour",
+        "user_id": "Alice",  # User for personalized investigation
+        "session_id": "investigation-20250127-123456"  # Session for context
+    }
+})
+
+# Invoke the deployed agent
+response = agent_core_client.invoke_agent_runtime(
+    agentRuntimeArn=runtime_arn,
+    runtimeSessionId=session_id,
+    payload=payload,
+    qualifier="DEFAULT"
+)
+
+# Get the response
+response_data = json.loads(response['response'].read())
+print(response_data)  # Full response includes output with agent's investigation 
+ 
+Key benefits of Amazon Bedrock AgentCore Runtime 
+Amazon Bedrock AgentCore Runtime offers the following key benefits: 
+ 
+ Zero infrastructure management – No servers, load balancers, or scaling to configure 
+ Built-in session isolation – Each conversation is completely isolated 
+ AWS IAM integration – Secure access control without custom authentication 
+ Automatic scaling – Scales from zero to thousands of concurrent sessions 
+ 
+The complete deployment process, including building containers and handling AWS permissions, is documented in the Deployment Guide. 
+Real-world use cases 
+Let’s explore how the SRE agent handles common incident response scenarios with a real investigation. 
+When facing a production issue, you can query the system in natural language. The solution uses Amazon Bedrock AgentCore Memory to personalize the investigation based on your role and preferences: 
+ 
+ export USER_ID=Alice
+sre-agent --prompt "API response times have degraded 3x in the last hour" 
+ 
+The supervisor retrieves Alice’s preferences from memory (detailed systematic analysis style) and creates an investigation plan tailored to her role as a Technical SRE: 
+ 
+ Investigation Plan
+1. Use metrics_agent to analyze API performance metrics including response times, error rates, and resource utilization to identify the extent and pattern of slowdown
+2. Use logs_agent to examine application logs for errors related to slow API responses, focusing on database connection issues and memory errors
+3. Use kubernetes_agent to check pod status and resource constraints, especially for web-service and database pods, looking for CrashLoopBackOff states and missing ConfigMaps
+Complexity: Simple
+Auto-execute: Yes
+Agents involved: Metrics Agent, Logs Agent, Kubernetes Agent 
+ 
+The agents investigate sequentially according to the plan, each contributing their specialized analysis. The solution then aggregates these findings into a comprehensive executive summary: 
+ 
+ Executive Summary
+Key Insights
+- Root Cause: Database service failure due to missing ConfigMap 'database-config' in production namespace, causing database pod to crash repeatedly
+- Impact: Severe performance degradation with API response times increased from 150ms to 5000ms (33x slower)
+- Severity: High - Database unavailability, memory exhaustion (100%), and CPU saturation (95%) causing 75% error rate
+Next Steps
+1. Immediate (&lt; 1 hour): Create/update ConfigMap 'database-config' in production namespace and restart database pod
+2. Short-term (&lt; 24 hours): 
+   - Fix permissions on '/var/lib/postgresql/data' directory
+   - Increase Java heap space for web-service to address OutOfMemoryErrors
+   - Optimize UserService.loadAllUsers method causing memory issues
+3. Long-term (&lt; 1 week): 
+   - Implement resource monitoring with alerts for CPU (&gt;80%), memory (&gt;90%)
+   - Optimize slow database queries, particularly "SELECT * FROM users WHERE status='active'"
+   - Scale up resources or implement autoscaling for web-service
+Critical Alerts
+- Database pod (database-pod-7b9c4d8f2a-x5m1q) in CrashLoopBackOff state
+- Web-service experiencing OutOfMemoryErrors in UserService.loadAllUsers(UserService.java:45)
+- Node-3 experiencing memory pressure (&gt;85% usage)
+- Web-app-deployment showing readiness probe failures with 503 errors
+Troubleshooting Steps
+1. Verify ConfigMap status: `kubectl get configmap database-config -n production`
+2. Check database pod logs: `kubectl logs database-pod-7b9c4d8f2a-x5m1q -n production`
+3. Create/update ConfigMap: `kubectl create configmap database-config --from-file=database.conf -n production`
+4. Fix data directory permissions: `kubectl exec database-pod-7b9c4d8f2a-x5m1q -n production -- chmod -R 700 /var/lib/postgresql/data`
+5. Restart database pod: `kubectl delete pod database-pod-7b9c4d8f2a-x5m1q -n production` 
+ 
+This investigation demonstrates how Amazon Bedrock AgentCore primitives work together: 
+ 
+ Amazon Bedrock AgentCore Gateway – Provides secure access to infrastructure APIs through MCP tools 
+ Amazon Bedrock AgentCore Identity – Handles ingress and egress authentication 
+ Amazon Bedrock AgentCore Runtime – Hosts the multi-agent solution with automatic scaling 
+ Amazon Bedrock AgentCore Memory – Personalizes Alice’s experience and stores investigation knowledge for future incidents 
+ Amazon Bedrock AgentCore Observability – Captures detailed metrics and traces in CloudWatch for monitoring and debugging 
+ 
+The SRE agent demonstrates intelligent agent orchestration, with the supervisor routing work to specialists based on the investigation plan. The solution’s memory capabilities make sure each investigation builds organizational knowledge and provides personalized experiences based on user roles and preferences. 
+This investigation showcases several key capabilities: 
+ 
+ Multi-source correlation – It connects database configuration issues to API performance degradation 
+ Sequential investigation – Agents work systematically through the investigation plan while providing live updates 
+ Source attribution – Findings include the specific tool and data source 
+ Actionable insights – It provides a clear timeline of events and prioritized recovery steps 
+ Cascading failure detection – It can help show how one failure propagates through the system 
+ 
+Business impact 
+Organizations implementing AI-powered SRE assistance report significant improvements in key operational metrics. Initial investigations that previously took 30–45 minutes can now be completed in 5–10 minutes, providing SREs with comprehensive context before diving into detailed analysis. This dramatic reduction in investigation time translates directly to faster incident resolution and reduced downtime.The solution improves how SREs interact with their infrastructure. Instead of navigating multiple dashboards and tools, engineers can ask questions in natural language and receive aggregated insights from relevant data sources. This reduction in context switching enables teams to maintain focus during critical incidents and reduces cognitive load during investigations.Perhaps most importantly, the solution democratizes knowledge across the team. All team members can access the same comprehensive investigation techniques, reducing dependency on tribal knowledge and on-call burden. The consistent methodology provided by the solution makes sure investigation approaches remain uniform across team members and incident types, improving overall reliability and reducing the chance of missed evidence. 
+The automatically generated investigation reports provide valuable documentation for post-incident reviews and help teams learn from each incident, building organizational knowledge over time. Furthermore, the solution extends existing AWS infrastructure investments, working alongside services like Amazon CloudWatch, AWS Systems Manager, and other AWS operational tools to provide a unified operational intelligence system. 
+Extending the solution 
+The modular architecture makes it straightforward to extend the solution for your specific needs. 
+For example, you can add specialized agents for your domain: 
+ 
+ Security agent – For compliance checks and security incident response 
+ Database agent – For database-specific troubleshooting and optimization 
+ Network agent – For connectivity and infrastructure debugging 
+ 
+You can also replace the demo APIs with connections to your actual systems: 
+ 
+ Kubernetes integration – Connect to your cluster APIs for pod status, deployments, and events 
+ Log aggregation – Integrate with your log management service (Elasticsearch, Splunk, CloudWatch Logs) 
+ Metrics platform – Connect to your monitoring service (Prometheus, Datadog, CloudWatch Metrics) 
+ Runbook repository – Link to your operational documentation and playbooks stored in wikis, Git repositories, or knowledge bases 
+ 
+Clean up 
+To avoid incurring future charges, use the cleanup script to remove the billable AWS resources created during the demo: 
+ 
+ # Complete cleanup - deletes AWS resources and local files
+./scripts/cleanup.sh 
+ 
+This script automatically performs the following actions: 
+ 
+ Stop backend servers 
+ Delete the gateway and its targets 
+ Delete Amazon Bedrock AgentCore Memory resources 
+ Delete the Amazon Bedrock AgentCore Runtime 
+ Remove generated files (gateway URIs, tokens, agent ARNs, memory IDs) 
+ 
+For detailed cleanup instructions, refer to Cleanup Instructions. 
+Conclusion 
+The SRE agent demonstrates how multi-agent systems can transform incident response from a manual, time-intensive process into a time-efficient, collaborative investigation that provides SREs with the insights they need to resolve issues quickly and confidently. 
+By combining the enterprise-grade infrastructure of Amazon Bedrock AgentCore with standardized tool access in MCP, we’ve created a foundation that can adapt as your infrastructure evolves and new capabilities emerge. 
+The complete implementation is available in our GitHub repository, including demo environments, configuration guides, and extension examples. We encourage you to explore the solution, customize it for your infrastructure, and share your experiences with the community. 
+To get started building your own SRE assistant, refer to the following resources: 
+ 
+ Automate tasks in your application using AI agents 
+ Amazon Bedrock AgentCore Samples GitHub repository 
+ Model Context Protocol documentation 
+ LangGraph documentation 
+ 
+ 
+About the authors 
+Amit Arora is an AI and ML Specialist Architect at Amazon Web Services, helping enterprise customers use cloud-based machine learning services to rapidly scale their innovations. He is also an adjunct lecturer in the MS data science and analytics program at Georgetown University in Washington, D.C. 
+Dheeraj Oruganty is a Delivery Consultant at Amazon Web Services. He is passionate about building innovative Generative AI and Machine Learning solutions that drive real business impact. His expertise spans Agentic AI Evaluations, Benchmarking and Agent Orchestration, where he actively contributes to research advancing the field. He holds a master’s degree in Data Science from Georgetown University. Outside of work, he enjoys geeking out on cars, motorcycles, and exploring nature.
 • DoWhile loops now supported in Amazon Bedrock Flows
   Today, we are excited to announce support for DoWhile loops in Amazon Bedrock Flows. With this powerful new capability, you can create iterative, condition-based workflows directly within your Amazon Bedrock flows, using Prompt nodes, AWS Lambda functions, Amazon Bedrock Agents, Amazon Bedrock Flows inline code, Amazon Bedrock Knowledge Bases, Amazon Simple Storage Service (Amazon S3), and other Amazon Bedrock nodes within the loop structure. This feature avoids the need for complex workarounds, enabling sophisticated iteration patterns that use the full range of Amazon Bedrock Flows components. Tasks like content refinement, recursive analysis, and multi-step processing can now seamlessly integrate AI model calls, custom code execution, and knowledge retrieval in repeated cycles. By providing loop support with diverse node types, this feature simplifies generative AI application development and accelerates enterprise adoption of complex, adaptive AI solutions. 
 Organizations using Amazon Bedrock Flows can now use DoWhile loops to design and deploy workflows for building more scalable and efficient generative AI applications fully within the Amazon Bedrock environment while achieving the following: 
@@ -1139,284 +1588,5 @@ Lucas Dahan was the Head of Data &amp; AI at PropHero at the time of writing. He
  Dil Dolkun is the Data &amp; AI Engineer at PropHero’s tech team, and has been instrumental in designing data architectures and multi-agent workflows for PropHero’s generative AI property investment Advisor system. 
 Mathew Ng is a Technical Lead at PropHero, who architected and scaled PropHero’s cloud-native, high-performance software solution from early stage start up to successful Series A funding. 
 Aaron Su is a Solutions Architect at AWS, with a focus across AI and SaaS startups. He helps early-stage companies architect scalable, secure, and cost-effective cloud solutions.
-• Accelerate benefits claims processing with Amazon Bedrock Data Automation
-  In the benefits administration industry, claims processing is a vital operational pillar that makes sure employees and beneficiaries receive timely benefits, such as health, dental, or disability payments, while controlling costs and adhering to regulations like HIPAA and ERISA. Businesses aim to optimize the workflow—covering claim submission, validation, adjudication, payment, and appeals—to enhance employee satisfaction, strengthen provider relationships, and mitigate financial risks. The process includes specific steps like claim submission (through portals or paper), data validation (verifying eligibility and accuracy), adjudication (assessing coverage against plan rules), payment or denial (including check processing for reimbursements), and appeal handling. Efficient claims processing supports competitive benefits offerings, which is crucial for talent retention and employer branding, but requires balancing speed, accuracy, and cost in a highly regulated environment. 
-Despite its importance, claims processing faces significant challenges in many organizations. Most notably, the reliance on legacy systems and manual processes results in frustratingly slow resolution times, high error rates, and increased administrative costs. Incomplete or inaccurate claim submissions—such as those with missing diagnosis codes or eligibility mismatches—frequently lead to denials and rework, creating frustration for both employees and healthcare providers. Additionally, fraud, waste, and abuse continue to inflate costs, yet detecting these issues without delaying legitimate claims remains challenging. Complex regulatory requirements demand constant system updates, and poor integration between systems—such as Human Resource Information Systems (HRIS) and other downstream systems—severely limits scalability. These issues drive up operational expenses, erode trust in benefits programs, and overburden customer service teams, particularly during appeals processes or peak claims periods. 
-Generative AI can help address these challenges. With Amazon Bedrock Data Automation, you can automate generation of useful insights from unstructured multimodal content such as documents, images, audio, and video. Amazon Bedrock Data Automation can be used in benefits claims process to automate document processing by extracting and classifying documents from claims packets, policy applications, and supporting documents with industry-leading accuracy, reducing manual errors and accelerating resolution times. Amazon Bedrock Data Automation natural language processing capabilities interpret unstructured data, such as provider notes, supporting compliance with plan rules and regulations. By automating repetitive tasks and providing insights, Amazon Bedrock Data Automation helps reduce administrative burdens, enhance experiences for both employees and providers, and support compliance in a cost-effective manner. Furthermore, its scalable architecture enables seamless integration with existing systems, improving data flow across HRIS, claims systems, and provider networks, and advanced analytics help detect fraud patterns to optimize cost control. 
-In this post, we examine the typical benefit claims processing workflow and identify where generative AI-powered automation can deliver the greatest impact. 
-Benefit claims processing 
-When an employee or beneficiary pays out of pocket for an expense covered under their health benefits, they submit a claim for reimbursement. This process requires several supporting documents, including doctor’s prescriptions and proof of payment, which might include check images, receipts, or electronic payment confirmations. 
-The claims processing workflow involves several critical steps: 
- 
- Document intake and processing – The system receives and categorizes submitted documentation, including: 
-   
-   Medical records and prescriptions 
-   Proof of payment documentation 
-   Supporting forms and eligibility verification 
-    
- Payment verification processing – For check-based reimbursements, the system must complete the following steps: 
-   
-   Extract information from check images, including the account number and routing number contained in the MICR line 
-   Verify payee and payer names against the information provided during the claim submission process 
-   Confirm payment amounts match the claimed expenses 
-   Flag discrepancies for human review 
-    
- Adjudication and reimbursement – When verification is complete, the system performs several actions: 
-   
-   Determine eligibility based on plan rules and coverage limits 
-   Calculate appropriate reimbursement amounts 
-   Initiate payment processing through direct deposit or check issuance 
-   Provide notification to the claimant regarding the status of their reimbursement 
-    
- 
-In this post, we walk through a real-world scenario to make the complexity of this multi-step process clearer. The following example demonstrates how Amazon Bedrock Data Automation can streamline the claims processing workflow, from initial submission to final reimbursement. 
-Solution overview 
-Let’s consider a scenario where a benefit plan participant seeks treatment and pays out of pocket for the doctor’s fee using a check. They then buy the medications prescribed by the doctor at the pharmacy store. Later, they log in to their benefit provider’s portal and submit a claim along with the image of the check and payment receipt for the medications. 
-This solution uses Amazon Bedrock Data Automation to automate the two most critical and time-consuming aspects of this workflow: document intake and payment verification processing. The following diagram illustrates the benefits claims processing architecture. 
- 
-The end-to-end process works through four integrated stages: ingestion, extraction, validation, and integration. 
-Ingestion 
-When a beneficiary uploads supporting documents (check image and pharmacy receipt) through the company’s benefit claims portal, these documents are securely saved in an Amazon Simple Storage Service (Amazon S3) bucket, triggering the automated claims processing pipeline. 
-Extraction 
-After documents are ingested, the system immediately begins with intelligent data extraction: 
- 
- The S3 object upload triggers an AWS Lambda function, which invokes the Amazon Bedrock Data Automation project. 
- Amazon Bedrock Data Automation uses blueprints for file processing and extraction. Blueprints are artifacts used to configure file processing business logic by specifying a list of field names for data extraction, along with their desired data formats (string, number, or Boolean) and natural language context for data normalization and validation rules. Amazon Bedrock Data Automation provides a catalog of sample blueprints out of the box. You can create a custom blueprint for your unique document types that aren’t predefined in the catalog. This solution uses two blueprints designed for different document types, as shown in the following screenshot: 
-   
-   The catalog blueprint US-Bank-Check for check processing. 
-   The custom blueprint benefit-claims-pharmacy-receipt-blueprint for pharmacy-specific receipts. 
-    
- 
- 
-US-Bank-Check is a catalog blueprint provided out of the box by Amazon Bedrock Data Automation. The custom blueprint benefit-claims-pharmacy-receipt-blueprint is created using an AWS CloudFormation template to handle pharmacy receipt processing, addressing a specific document type that wasn’t available in the standard blueprint catalog. The benefit administrator wants to look for vendor-specific information such as name, address, and phone details for benefits claims processing. The custom blueprint schema contains natural language explanation of those fields, such as VendorName, VendorAddress, VendorPhone, and additional fields, explaining what the field represents, expected data types, and inference type for each extracted field (explained in Creating Blueprints for Extraction), as shown in the following screenshot. 
- 
-3. The two blueprints are added to the Amazon Bedrock Data Automation project. An Amazon Bedrock Data Automation project is a grouping of both standard and custom blueprints that you can use to process different types of files (like documents, audio, and images) using specific configuration settings, where you can control what kind of information you want to extract from each file type. When the project is invoked asynchronously, it automatically applies the appropriate blueprint, extracts information such as confidence scores and bounding box details for each field, and saves results in a separate S3 bucket. This intelligent classification alleviates the need for you to write complex document classification logic. 
-The following screenshot illustrates the document classification by the standard catalog blueprint US-Bank-Check. 
- 
-The following screenshot shows the document classification by the custom blueprint benefit-claims-pharmacy-receipt-blueprint. 
- 
-Validation 
-With the data extracted, the system moves to the validation and decision-making process using the business rules specific to each document type. 
-The business rules are documented in standard operating procedure documents (AnyCompany Benefit Checks Standard Operating procedure.docx and AnyCompany Benefit Claims Standard Operating procedure.docx) and uploaded to an S3 bucket. Then the system creates a knowledge base for Amazon Bedrock with the S3 bucket as the source, as shown in the following screenshot. 
- 
-When the extracted Amazon Bedrock Data Automation results are saved to the configured S3 bucket, a Lambda function is triggered automatically. Based on the business rules retrieved from the knowledge base for the specific document type and the extracted Amazon Bedrock Data Automation output, an Amazon Nova Lite large langue model (LLM) makes the automated approve/deny decision for claims. 
-The following screenshot shows the benefit claim adjudication automated decision for US-Bank-Check. 
- 
-The following screenshot shows the benefit claim adjudication automated decision for benefit-claims-pharmacy-receipt-blueprint. 
- 
-Integration 
-The system seamlessly integrates with existing business processes. 
-When validation is complete, an event is pushed to Amazon EventBridge, which triggers a Lambda function for downstream integration. In this implementation, we use an Amazon DynamoDB table and Amazon Simple Notification Service (Amazon SNS) email for downstream integration. A DynamoDB table is created as part of the deployment stack, which is used to populate details including document classification, extracted data, and automated decision. An email notification is sent for both check and receipts after the final decision is made by the system. The following screenshot shows an example email for pharmacy receipt approval. 
- 
-This flexible architecture helps you integrate with your existing applications through internal APIs or events to update claim status or trigger additional workflows when validation fails. 
-Reducing manual effort through intelligent business rules management 
-Beyond automating document processing, this solution addresses a common operational challenge: Traditionally, customers must write and maintain code for handling business rules around claims adjudication and processing. Every business rule change requires development effort and code updates, slowing time-to-market and increasing maintenance overhead. 
-Our approach converts business rules and standard operating procedures (SOPs) into knowledge bases using Amazon Bedrock Knowledge Bases, which you can use for automated decision-making. This approach can dramatically reduce time-to-market when business rules change, because updates can be made through knowledge management rather than code deployment. 
-In the following sections, we walk you through the steps to deploy the solution to your own AWS account. 
-Prerequisites 
-To implement the solution provided in this post, you must have the following: 
- 
- An AWS account 
- Access to Amazon Titan Text Embeddings V2 and Amazon Nova Lite foundation models (FMs) enabled in Amazon Bedrock 
- 
-This solution uses Python 3.13 with Boto3 1.38. or later version, and the AWS Serverless Application Model Command Line Interface (AWS SAM CLI) version 1.138.0. We assume that you have installed these in your local machine already. If not, refer to the following instructions: 
- 
- Python 3.13 installation 
- Install the AWS SAM CLI 
- 
-Set up code in your local machine 
-To set up the code, clone the GitHub repository. After you have cloned the repository to your local machine, the project folder structure will look like the following code, as mentioned in the README file: 
- 
-Deploy the solution in your account 
-The sample code comes with a CloudFormation template that creates necessary resources. To deploy the solution in your account, follow the deployment instructions in the README file. 
-Clean up 
-Deploying this solution in your account will incur costs. Follow the cleanup instructions in the README file to avoid charges when you are done. 
-Conclusion 
-Benefits administration companies can significantly enhance their operations by automating claims processing using the solution outlined in this post. This strategic approach directly addresses the industry’s core challenges and can deliver several key advantages: 
- 
- Enhanced processing efficiency through accelerated claims resolution times, reduced manual error rates, and higher straight-through processing rates that minimize the frustrating delays and manual rework plaguing legacy systems 
- Streamlined document integration and fraud detection capabilities, where adding new supporting documents becomes seamless through new Amazon Bedrock Data Automation blueprints, while AI-powered analytics identify suspicious patterns without delaying legitimate claims, avoiding traditional months-long development cycles and reducing costly fraud, waste, and abuse 
- Agile business rule management that enables rapid adaptation to changing HIPAA and ERISA requirements and modification of business rules, significantly reducing administrative costs and time-to-market while improving scalability and integration with existing HRIS and claims, ultimately enhancing employee satisfaction, strengthening provider relationships, and supporting competitive benefits offerings that are crucial for talent retention and employer branding 
- 
-To get started with this solution, refer to the GitHub repo. For more information about Amazon Bedrock Data Automation, refer to Transform unstructured data into meaningful insights using Amazon Bedrock Data Automation and try the Document Processing Using Amazon Bedrock Data Automation workshop. 
- 
-About the authors 
-Saurabh Kumar is a Senior Solutions Architect at AWS based out of Raleigh, NC, with expertise in Resilience Engineering, Chaos Engineering, and Generative AI solutions. He advises customers on fault-tolerance strategies and generative AI-driven modernization approaches, helping organizations build robust architectures while leveraging generative AI technologies to drive innovation. 
-Kiran Lakkireddy is a Principal Solutions Architect at AWS with expertise in Financial Services, Benefits Management and HR Services industries. Kiran provides technology and architecture guidance to customers in their business transformation, with a specialized focus on GenAI security, compliance, and governance. He regularly speaks to customer security leadership on GenAI security, compliance, and governance topics, helping organizations navigate the complex landscape of AI implementation while maintaining robust security standards. 
-Tamilmanam Sambasivam is a Solutions Architect and AI/ML Specialist at AWS. She helps enterprise customers to solve their business problems by recommending the right AWS solutions. Her strong back ground in Information Technology (24+ years of experience) helps customers to strategize, develop and modernize their business problems in AWS cloud. In the spare time, Tamil like to travel and gardening.
-• Running deep research AI agents on Amazon Bedrock AgentCore
-  AI agents are evolving beyond basic single-task helpers into more powerful systems that can plan, critique, and collaborate with other agents to solve complex problems. Deep Agents—a recently introduced framework built on LangGraph—bring these capabilities to life, enabling multi-agent workflows that mirror real-world team dynamics. The challenge, however, is not just building such agents but also running them reliably and securely in production. This is where Amazon Bedrock AgentCore Runtime comes in. By providing a secure, serverless environment purpose-built for AI agents and tools, Runtime makes it possible to deploy Deep Agents at enterprise scale without the heavy lifting of managing infrastructure. 
-In this post, we demonstrate how to deploy Deep Agents on AgentCore Runtime. As shown in the following figure, AgentCore Runtime scales any agent and provides session isolation by allocating a new microVM for each new session. 
- 
-What is Amazon Bedrock AgentCore? 
-Amazon Bedrock AgentCore is both framework-agnostic and model-agnostic, giving you the flexibility to deploy and operate advanced AI agents securely and at scale. Whether you’re building with Strands Agents, CrewAI, LangGraph, LlamaIndex, or another framework—and running them on a large language model (LLM)—AgentCore provides the infrastructure to support them. Its modular services are purpose-built for dynamic agent workloads, with tools to extend agent capabilities and controls required for production use. By alleviating the undifferentiated heavy lifting of building and managing specialized agent infrastructure, AgentCore lets you bring your preferred framework and model and deploy without rewriting code. 
-Amazon Bedrock AgentCore offers a comprehensive suite of capabilities designed to transform local agent prototypes into production-ready systems. These include persistent memory for maintaining context in and across conversations, access to existing APIs using Model Context Protocol (MCP), seamless integration with corporate authentication systems, specialized tools for web browsing and code execution, and deep observability into agent reasoning processes. In this post, we focus specifically on the AgentCore Runtime component. 
-Core capabilities of AgentCore Runtime 
-AgentCore Runtime provides a serverless, secure hosting environment specifically designed for agentic workloads. It packages code into a lightweight container with a simple, consistent interface, making it equally well-suited for running agents, tools, MCP servers, or other workloads that benefit from seamless scaling and integrated identity management.AgentCore Runtime offers extended execution times up to 8 hours for complex reasoning tasks, handles large payloads for multimodal content, and implements consumption-based pricing that charges only during active processing—not while waiting for LLM or tool responses. Each user session runs in complete isolation within dedicated micro virtual machines (microVMs), maintaining security and helping to prevent cross-session contamination between agent interactions. The runtime works with many frameworks (for example: LangGraph, CrewAI, Strands, and so on) and many foundation model providers, while providing built-in corporate authentication, specialized agent observability, and unified access to the broader AgentCore environment through a single SDK. 
-Real-world example: Deep Agents integration 
-In this post we’re going to deploy the recently released Deep Agents implementation example on AgentCore Runtime—showing just how little effort it takes to get the latest agent innovations up and running. 
- 
-The sample implementation in the preceding diagram includes: 
- 
- A research agent that conducts deep internet searches using the Tavily API 
- A critique agent that reviews and provides feedback on generated reports 
- A main orchestrator that manages the workflow and handles file operations 
- 
-Deep Agents uses LangGraph’s state management to create a multi-agent system with: 
- 
- Built-in task planning through a write_todos tool that helps agents break down complex requests 
- Virtual file system where agents can read/write files to maintain context across interactions 
- Sub-agent architecture allowing specialized agents to be invoked for specific tasks while maintaining context isolation 
- Recursive reasoning with high recursion limits (more than 1,000) to handle complex, multi-step workflows 
- 
-This architecture enables Deep Agents to handle research tasks that require multiple rounds of information gathering, synthesis, and refinement.The key integration points in our code showcase how agents work with AgentCore. The beauty is in its simplicity—we only need to add a couple of lines of code to make an agent AgentCore-compatible: 
- 
- # 1. Import the AgentCore runtime
-from bedrock_agentcore.runtime import BedrockAgentCoreApp
-app = BedrockAgentCoreApp()
-
-# 2. Decorate your agent function with @app.entrypoint
-@app.entrypoint
-async def langgraph_bedrock(payload):
-    # Your existing agent logic remains unchanged
-    user_input = payload.get("prompt")
-    
-    # Call your agent as before
-    stream = agent.astream(
-        {"messages": [HumanMessage(content=user_input)]},
-        stream_mode="values"
-    )
-    
-    # Stream responses back
-    async for chunk in stream:
-        yield(chunk)
-
-# 3. Add the runtime starter at the bottom
-if __name__ == "__main__":
-    app.run() 
- 
-That’s it! The rest of the code—model initialization, API integrations, and agent logic—remains exactly as it was. AgentCore handles the infrastructure while your agent handles the intelligence. This integration pattern works for most Python agent frameworks, making AgentCore truly framework-agnostic. 
-Deploying to AgentCore Runtime: Step-by-step 
-Let’s walk through the actual deployment process using the AgentCore Starter ToolKit, which dramatically simplifies the deployment workflow. 
-Prerequisites 
-Before you begin, make sure you have: 
- 
- Python 3.10 or higher 
- AWS credentials configured 
- Amazon Bedrock AgentCore SDK installed 
- 
-Step 1: IAM permissions 
-There are two different AWS Identity and Access Management (IAM) permissions you need to consider when deploying an agent in an AgentCore Runtime—the role you, as a developer use to create AgentCore resources and the execution role that an agent needs to run in an AgentCore Runtime. While the latter role can now be auto-created by the AgentCore Starter Toolkit (auto_create_execution_role=True), the former must be defined as described in IAM Permissions for AgentCore Runtime. 
-Step 2: Add a wrapper to your agent 
-As shown in the preceding Deep Agents example, add the AgentCore imports and decorator to your existing agent code. 
-Step 3: Deploy using the AgentCore starter toolkit 
-The starter toolkit provides a three-step deployment process: 
- 
- from bedrock_agentcore_starter_toolkit import Runtime
-
-# Step 1: Configure
-agentcore_runtime = Runtime()
-config_response = agentcore_runtime.configure(
-    entrypoint="hello.py", # contains the code we showed earlier in the post
-    execution_role=role_arn, # or auto-create
-    auto_create_ecr=True,
-    requirements_file="requirements.txt",
-    region="us-west-2",
-    agent_name="deepagents-research"
-)
-
-# Step 2: Launch
-launch_result = agentcore_runtime.launch()
-print(f"Agent deployed! ARN: {launch_result['agent_arn']}")
-
-# Step 3: Invoke
-response = agentcore_runtime.invoke({
-    "prompt": "Research the latest developments in quantum computing"
-}) 
- 
-Step 4: What happens behind the scenes 
-When you run the deployment, the starter kit automatically: 
- 
- Generates an optimized Docker file with Python 3.13-slim base image and OpenTelemetry instrumentation 
- Builds your container with the dependencies from requirements.txt 
- Creates an Amazon Elastic Container Registry (Amazon ECR) repository (if auto_create_ecr=True) and pushes your image 
- Deploys to AgentCore Runtime and monitors the deployment status 
- Configures networking and observability with Amazon CloudWatch and AWS X-Ray integration 
- 
-The entire process typically takes 2–3 minutes, after which your agent is ready to handle requests at scale. Each new session is launched in its own fresh AgentCore Runtime microVM, maintaining complete environment isolation. 
-The starter kit generates a configuration file (.bedrock_agentcore.yaml) that captures your deployment settings, making it straightforward to redeploy or update your agent later. 
-Invoking your deployed agent 
-After deployment, you have two options for invoking your agent: 
-Option 1: Using the start kit (shown in Step 3) 
- 
- response = agentcore_runtime.invoke({
-    "prompt": "Research the latest developments in quantum computing"
-})
- 
- 
-Option 2: Using boto3 SDK directly 
- 
- import boto3
-import json
-
-agentcore_client = boto3.client('bedrock-agentcore', region_name='us-west-2')
-response = agentcore_client.invoke_agent_runtime(
-    agentRuntimeArn=agent_arn,
-    qualifier="DEFAULT",
-    payload=json.dumps({
-        "prompt": "Analyze the impact of AI on healthcare in 2024"
-    })
-)
-
-# Handle streaming response
-for event in response['completion']:
-    if 'chunk' in event:
-        print(event['chunk']['bytes'].decode('utf-8')) 
- 
-Deep Agents in action 
-As the code executes in Bedrock AgentCore Runtime, the primary agent orchestrates specialized sub-agents—each with its own purpose, prompt, and tool access—to solve complex tasks more effectively. In this case, the orchestrator prompt (research_instructions) sets the plan: 
- 
- Write the question to question.txt 
- Fan out to one or more research-agent calls (each on a single sub-topic) using the internet_search tool 
- Synthesize findings into final_report.md 
- Call critique-agent to evaluate gaps and structure 
- Optionally loop back to more research/edits until quality is met 
- 
-Here it is in action: 
-
- 
-  
- 
- 
-Clean up 
-When finished, don’t forget to de-allocate provisioned AgentCore Runtime in addition to the container repository that was created during the process: 
- 
- agentcore_control_client = boto3.client(
-    'bedrock-agentcore-control', region_name=region )
-ecr_client = boto3.client('ecr',region_name=region )
-runtime_delete_response = agentcore_control_client.delete_agent_runtime(    agentRuntimeId=launch_result.agent_id,)
-response = ecr_client.delete_repository(
-    repositoryName=launch_result.ecr_uri.split('/')[1],force=True)
- 
- 
-Conclusion 
-Amazon Bedrock AgentCore represents a paradigm shift in how we deploy AI agents. By abstracting away infrastructure complexity while maintaining framework and model flexibility, AgentCore enables developers to focus on building sophisticated agent logic rather than managing deployment pipelines. Our Deep Agents deployment demonstrates that even complex, multi-agent systems with external API integrations can be deployed with minimal code changes. The combination of enterprise-grade security, built-in observability, and serverless scaling makes AgentCore the best choice for production AI agent deployments. Specifically for deep research agents, AgentCore offers the following unique capabilities that you can explore: 
- 
- AgentCore Runtime can handle asynchronous processing and long running (up to 8 hours) agents. Asynchronous tasks allow your agent to continue processing after responding to the client and handle long-running operations without blocking responses. Your background research sub-agent could be asynchronously researching for hours. 
- AgentCore Runtime works with AgentCore Memory, enabling capabilities such as building upon previous findings, remembering research preferences, and maintaining complex investigation context without losing progress between sessions. 
- You can use AgentCore Gateway to extend your deep research to include proprietary insights from enterprise services and data sources. By exposing these differentiated resources as MCP tools, your agents can quickly take advantage and combine that with publicly available knowledge. 
- 
-Ready to deploy your agents to production? Here’s how to get started: 
- 
- Install the AgentCore starter kit: pip install bedrock-agentcore-starter-toolkit 
- Experiment: Deploy your code by following this step by step guide. 
- 
-The era of production-ready AI agents is here. With AgentCore, the journey from prototype to production has never been shorter. 
- 
-About the authors 
-Vadim Omeltchenko is a Sr. AI/ML Solutions Architect who is passionate about helping AWS customers innovate in the cloud. His prior IT experience was predominantly on the ground. 
-Eashan Kaushik is a Specialist Solutions Architect AI/ML at Amazon Web Services. He is driven by creating cutting-edge generative AI solutions while prioritizing a customer-centric approach to his work. Before this role, he obtained an MS in Computer Science from NYU Tandon School of Engineering. Outside of work, he enjoys sports, lifting, and running marathons. 
-Shreyas Subramanian is a Principal data scientist and helps customers by using Machine Learning to solve their business challenges using the AWS platform. Shreyas has a background in large scale optimization and Machine Learning, and in use of Machine Learning and Reinforcement Learning for accelerating optimization tasks. 
-Mark Roy is a Principal Machine Learning Architect for AWS, helping customers design and build generative AI solutions. His focus since early 2023 has been leading solution architecture efforts for the launch of Amazon Bedrock, the flagship generative AI offering from AWS for builders. Mark’s work covers a wide range of use cases, with a primary interest in generative AI, agents, and scaling ML across the enterprise. He has helped companies in insurance, financial services, media and entertainment, healthcare, utilities, and manufacturing. Prior to joining AWS, Mark was an architect, developer, and technology leader for over 25 years, including 19 years in financial services. Mark holds six AWS Certifications, including the ML Specialty Certification.
 
 ⸻
