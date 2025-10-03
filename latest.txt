@@ -1,6 +1,6 @@
-✅ Morning News Briefing – October 02, 2025 10:41
+✅ Morning News Briefing – October 03, 2025 10:42
 
-📅 Date: 2025-10-02 10:41
+📅 Date: 2025-10-03 10:42
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
@@ -8,10 +8,10 @@
 🧾 Weather
 • No watches or warnings in effect, Pembroke
   No watches or warnings in effect. No warnings or watches or watches in effect . Watch or warnings are no longer in effect in the U.S. No watches, warnings are in effect for the rest of the day . No watches and warnings are still in effect, but no watches are in place for the day's events . The weather is not expected to be affected by the weather .
-• Current Conditions:  -0.5°C
-  Observed at: Pembroke 6:00 AM EDT Thursday 2 October 2025 Temperature: -0.5&deg;C Pressure / Tendency: 103.2 kPa rising Humidity: 98 % Humidity : 98 % Dewpoint: - 0.8&deg:C Wind: W calm km/h . Air Quality Health Index: n/a . Air
-• Thursday: Sunny. High 19.
-  Sunny. Sunny. High 19. UV index 5 or moderate . Sunny . Sunny. Humid cloudy. Sunny . Humid clouds . Sunny, breezy . Sunny morning . Sunny afternoon . Sunny night . Sunny day . Sunny and breezy evening . Sunny evening. Sunny day. Sunny night night. Sunny afternoon night. Humiliene afternoon. Sunny and sunny day for the rest
+• Current Conditions:  1.7°C
+  Temperature: 1.7&deg;C Pressure / Tendency: 102.4 kPa falling Humidity: 97 % Humidity : 97 % Dewpoint: 1 .2&deg:C Wind: SSW calm km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Friday 3 October 2025 . Weather forecast: Pem
+• Friday: Mainly sunny. High 25.
+  Sunny. Becoming a mix of sun and cloud this afternoon . High 25. Humidex 26. UV index 5 or moderate . High for most of the day with a high of 25.50 degrees Fahrenheit in the early hours of Friday morning . Forecast issued 5:00 AM EDT Friday 3 October 2025. For more information on the weather, visit http://www.cnn
 
 🌍 International News
 No updates.
@@ -20,31 +20,31 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Research, curriculum and grading: new data sheds light on how professors are using AI
-  More professors are using AI in the classroom . They say more guidance is needed on how to use the technology . Students say they want to be able to use AI to help students understand their subjects . Professor: More guidance needed to be given to students about how to take advantage of AI in classrooms . For more information, visit CNN iReport.com/professorshire.co.uk
-• From Madagascar to Morocco: Gen Z protests shake Africa
-  Gen Z-led protests in two diverse African countries highlight frustration over years of poor governance . Fueled by social media, these youth movements are demanding accountability . The youth movement is demanding accountability in Africa's most populous countries . The protests are in response to the government's failure to meet Gen Z's demands for accountability in recent years . It is the latest in a series of social media protests
-• Furloughs, closures and mass firings threats: What's next in the shutdown fight
-  On the first day of the government shutdown, Republicans and Democrats traded blame while a small bipartisan group of senators began to negotiate . The shutdown is the first of the year and the government is now in shutdown mode . The government shutdown began at 1.30am on January 1, 2013, with the shutdown set to last until January 31, 2013 . The federal government has been in shutdown since
-• Air traffic controllers helped end the last government shutdown, and may again
-  A shortage of air traffic controllers may have played a role in ending the last government shutdown in 2019 . U.S. airlines are once again bracing for possible delays in commercial aviation . A shortage may have been a factor in the end of the government shutdown, according to CNN.com's Brandon Bell.com.com/Travel.com for more information about the shutdown.com .
-• What Mississippi's infant mortality crisis says about the risks of Medicaid cuts
-  Mississippi recently declared a public health emergency because its infant mortality rate has surged . With Medicaid cuts coming, experts fear the crisis may worsen in other states . Experts fear that Medicaid cuts may worsen the crisis with other states also on the rise . Mississippi's infant mortality has surged in recent years, and experts fear that it will continue to rise in the coming years, as Medicaid cuts are coming .
+• Sarah Mullally named first woman Archbishop of Canterbury
+  Sarah Mullally has been named as the new Archbishop of Canterbury . She is the first woman to be chosen to lead the world's 85 million Anglicans . Mullally is also the first female to be named as Archbishop of the Canterbury Cathedral's first female head of the Anglican church . The archbishop will be in charge of the 85m Anglicans in the UK and the rest of
+• UK police release names of the 2 victims of the Manchester synagogue attack
+  Greater Manchester Police named Adrian Daulby, 53, and Melvin Cravitz, 66 as the victims of Thursday's attack . Three more remain hospitalized in serious condition in Manchester . Greater Manchester police named the two victims of the attack on Thursday's 23rd anniversary of the terrorist attack in which three people were killed and injured in the attack in a car bomb blast in the city centre .
+• What to know about former U.K. leader Tony Blair, tapped by Trump for postwar Gaza role
+  As Britain's prime minister, Tony Blair succeeded in negotiating peace in Northern Ireland in 1998 . Five years later, he joined the U.S.-led invasion of Iraq — sullying his reputation ever since . Blair's reputation has since been tarnished by the Iraq invasion, which he joined in the invasion of the country's oil-rich territory . Blair was prime minister of Northern Ireland
+• Even a government shutdown can't stop the quiz. Can you score 11?
+  This week's quiz also features bears . Check out the latest round of the weekly quiz to test your knowledge of bears . This week, please submit your answers to the quiz to the Daily Mail's weekly quiz . Back to the page you came from last week's version of this week's edition of The Daily Mail Online quiz . Please submit your quiz for next week's Newsquiz .
+• A public broadcaster's path after losing U.S. funds: Youth sports and less local news
+  South Dakota Public Broadcasting says there's an ironic result to President Trump's successful attack on public media: It will have to rely more on NPR programs . The state will rely more heavily on NPR shows than other public media programs, the state's public broadcasting network says . South Dakota's public media network says it will need to rely on NPR for more time in the coming years . President Trump
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Avio bags €40M ESA contract for reusable rocket stage, but don't hold your breath
-  Italian rocket company Avio has signed a €40 million contract with the European Space Agency to develop a reusable upper stage . The project is already drawing skepticism from industry watchers . Industry insiders whisper more about posturing than practical progress . The contract is expected to be worth around $100 million to Avio, which is worth around €400 million, according to the company's website . The
-• Cybercrims claim raid on 28,000 Red Hat repos, say they have sensitive customer files
-  Crimson Collective claims to have broken into Red Hat's GitHub repositories . 570GB of compressed data was exfiltrated, including sensitive documents belonging to customers . Red Hat says Crimson Collective broke into its private GitHub repositories to steal the data . The Crimson Collective says the data was stolen by the Crimson Collective . The group claims to be a hacker collective of hackers who broke into the company's GitHub
-• Ionos customers fume at mid-contract Plesk hike
-  Web host blames partner's license fee increase, but users say notice was too short and terms unfair . Ionos is hiking the price of its server instances, blaming an increase in Plesk license costs . Customers have a month to accept the increase or else disable Plesk on their account . Users say notice of the increase is too short, terms unfair and unfair to the host host company .
-• Irony alert: UK.gov Work dept hires IBM to aid AI projects
-  UK's pensions and benefits department has awarded IBM a contract that's worth up to £27 million . IBM will explore, deploy and support AI technologies to enhance its services . AI technology promises employment extinction for humanity for humanity . Some Big Blue sky thinking needed for tech that promises employment elimination for humanity that promises jobs extinction for humans . IBM's contract is worth £27million to explore and support
-• Lloyds Banking Group says 'digitization' will power more branch closures
-  Group promises sandboxing of AI money management tools with 1,000 branches remaining . Lloyds Banking Group promises to continue to use ‘digitization’ to power a program of branch closures . Bank says it will continue using ‘deteriorization” to power closing program of bank branches . Bank has £18.67 billion turnover UK-based bank says it has
+• Retro nerd hacks LEGO's Game Boy into the real deal
+  Modder crams working hardware into plastic shell and fires up Tetris . LEGO's new Game Boy creation, performed some suitably geeky magic, and turned it into a real Game Boy . LEGO’s new game Boy creation has been created by an enterprising nerd . It was created by a modder who used LEGO's plastic shell to create a Game Boy replica of the
+• Struggling to heat your home? How about 500 Raspberry Pi units?
+  UK Power Networks trials Thermify's HeatHub boilers, swapping gas flames for clustered compute . UKPN is installing mini datacenters powered by Raspberry Pi hardware in customers homes to provide heating for families struggling with energy costs . The network is taking an unusual approach, installing mini-datacenters in customers' homes to heat their homes for their own use of energy efficient technology .
+• Criminals take Renault UK customer data for a joyride
+  Names, numbers, and reg plates exposed in latest auto industry cyber-shunt . Renault UK customers are being warned their personal data may be in criminal hands after one of its supplier was hacked . Renault customers are warned their data may have been compromised . Names, number plates, reg plates and other data may also be in the hands of criminal criminals, it has been revealed . It is
+• How the ONS data-sharing dream ended in budget cuts and three rival platforms
+  UK Treasury called time on troubled integration scheme after £240M sunk Analysis . UK's Office for National Statistics (ONS) launched a plan to integrate government data and provide "high quality analysis that reflects the diversity of economic and social experience in our country" ONS provides data vital to form public sector policy and allocate resources in the UK . ONS: Data will be integrated into government data
+• Energy drink company punished ERP graybeard for going too fast
+  On-Call is the weekly reader-contributed column that shares your tales of trying to deliver speedy tech support . Techies may need a jolt of energy to get through the final day of the working week, so we deliver it in the form of a new instalment of On Call . On Call is a weekly feature of the weekly readers' stories of dealing with tech support
 
 🏥 Public Health
 No updates.
@@ -54,11 +54,11 @@ No updates.
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Unmasking hidden cardiovascular risk: masked hypertension, aortic stiffness and cardiac remodeling in women with prior preeclampsia
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Exclusive: ex-CDC director talks about why she was fired
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Monitoring changes in vitamin D levels during the COVID-19 pandemic with routinely-collected laboratory data
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Nurturing care group approach for improving animal faeces management in Ghana
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• The role of the patient in rheumatology
+• Organization and delivery of medical services at the 19th Asian Games in Hangzhou China
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,212 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• Microsoft says AI can create “zero day” threats in biology
+  A team at Microsoft says it used artificial intelligence to discover a &#8220;zero day&#8221; vulnerability in the biosecurity systems used to prevent the misuse of DNA.
+
+
+
+These screening systems are designed to stop people from purchasing genetic sequences that could be used to create deadly toxins or pathogens. But now researchers led by Microsoft’s chief scientist, Eric Horvitz, says they have figured out how to bypass the protections in a way previously unknown to defenders.&nbsp;
+
+
+
+The team described its work today in the journal Science.
+
+
+
+Horvitz and his team focused on generative AI algorithms that propose new protein shapes. These types of programs are already fueling the hunt for new drugs at well-funded startups like Generate Biomedicines and Isomorphic Labs, a spinout of Google.&nbsp;
+
+
+
+The problem is that such systems are potentially “dual use.” They can use their training sets to generate both beneficial molecules and harmful ones.
+
+
+
+Microsoft says it began a “red-teaming” test of AI’s dual-use potential in 2023 in order to determine whether “adversarial AI protein design” could help bioterrorists manufacture harmful proteins.&nbsp;
+
+
+
+The safeguard that Microsoft attacked is what’s known as biosecurity screening software. To manufacture a protein, researchers typically need to order a corresponding DNA sequence from a commercial vendor, which they can then install in a cell. Those vendors use screening software to compare incoming orders with known toxins or pathogens. A close match will set off an alert.
+
+
+
+
+
+To design its attack, Microsoft used several generative protein models (including its own, called EvoDiff) to redesign toxins—changing their structure in a way that let them slip past screening software but was predicted to keep their deadly function intact.
+
+
+
+The researchers say the exercise was entirely digital and they never produced any toxic proteins. That was to avoid any perception that the company was developing bioweapons.&nbsp;
+
+
+
+Before publishing the results, Microsoft says, it alerted the US government and software makers, who’ve already patched their systems, although some AI-designed molecules can still escape detection.&nbsp;
+
+
+
+“The patch is incomplete, and the state of the art is changing. But this isn’t a one-and-done thing. It’s the start of even more testing,” says Adam Clore, director of technology R&amp;D at Integrated DNA Technologies, a large manufacturer of DNA, who is a coauthor on the Microsoft report. “We’re in something of an arms race.”
+
+
+
+To make sure nobody misuses the research, the researchers say, they’re not disclosing some of their code and didn’t reveal what toxic proteins they asked the AI to redesign. However, some dangerous proteins are well known, like ricin—a poison found in castor beans—and the infectious prions that are the cause of mad-cow disease.
+
+
+
+“This finding, combined with rapid advances in AI-enabled biological modeling, demonstrates the clear and urgent need for enhanced nucleic acid synthesis screening procedures coupled with a reliable enforcement and verification mechanism,” says Dean Ball, a fellow at the Foundation for American Innovation, a think tank in San Francisco.
+
+
+
+Ball notes that the US government already considers screening of DNA orders a key line of security. Last May, in an executive order on biological research safety, President Trump called for an overall revamp of that system, although so far the White House hasn’t released new recommendations.
+
+
+
+Others doubt that commercial DNA synthesis is the best point of defense against bad actors. Michael Cohen, an AI-safety researcher at the University of California, Berkeley, believes there will always be ways to disguise sequences and that Microsoft could have made its test harder.
+
+
+
+“The challenge appears weak, and their patched tools fail a lot,” says Cohen. “There seems to be an unwillingness to admit that sometime soon, we’re going to have to retreat from this supposed choke point, so we should start looking around for ground that we can actually hold.”&nbsp;
+
+
+
+Cohen says biosecurity should probably be built into the AI systems themselves—either directly or via controls over what information they give.&nbsp;
+
+
+
+But Clore says monitoring gene synthesis is still a practical approach to detecting biothreats, since the manufacture of DNA in the US is dominated by a few companies that work closely with the government. By contrast, the technology used to build and train AI models is more widespread. “You can’t put that genie back in the bottle,” says Clore. “If you have the resources to try to trick us into making a DNA sequence, you can probably train a large language model.”
+• The Download: RIP EV tax credits, and OpenAI’s new valuation
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+EV tax credits are dead in the US. Now what?
+
+
+
+Federal EV tax credits in the US officially came to an end yesterday.Those credits, expanded and extended in the 2022 Inflation Reduction Act, gave drivers up to $7,500 toward the purchase of a new electric vehicle. They’ve been a major force in cutting the up-front costs of EVs, pushing more people toward purchasing them and giving automakers confidence that demand would be strong.The tax credits’ demise comes at a time when battery-electric vehicles still make up a small percentage of new vehicle sales in the country. So what’s next for the US EV market?
+
+
+
+—Casey Crownhart
+
+
+
+This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
+
+
+
+If you’re interested in reading more about EVs and clean energy, take a look at:
+
+
+
++ The US could really use an affordable electric truck. Ford recently announced plans for a $30,000 electric pickup, which could be the shot in the arm that the slowing US EV market needs. Read the full story.+ What role should oil and gas companies play in climate tech, really?+ China is an EV-building powerhouse. These three charts explain its energy dominance. Read the full story.+ Supporting new technologies like EVs can be expensive, but deciding when to wean the public off incentives can be a difficult balancing act. Read the full story.
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 OpenAI has become the world’s most valuable startupMove aside, SpaceX. (Bloomberg $)+ OpenAI is now valued at an eye-watering $500 billion. (FT $)+ The valuation came after workers sold around $6.6 billion in shares. (Reuters)
+
+
+
+2 Music labels are close to striking AI licensing dealsUniversal and Warner are trying their best to avoid the mis-steps of the internet era. (FT $)+ AI is coming for music, too. (MIT Technology Review)
+
+
+
+3 Facebook’s political ads are full of spam and scamsAnd deepfake technology is making them more convincing than ever. (NYT $)+ Meta will start using conversations with its chatbots to personalize ads. (WSJ $)4 China is forging ahead with integrating AI tools into children’s livesBut educators worry they’ll harm youngsters&#8217; learning and social skills. (Rest of World)+ Chinese universities want students to use more AI, not less. (MIT Technology Review)
+
+
+
+5 The batteries of the future could be created by AI Researchers including Microsoft are experimenting with materials suggested by models. (IEEE Spectrum)+ This startup wants to use the Earth as a massive battery. (MIT Technology Review)
+
+
+
+6 A historian claims to have used AI to identify an anonymous NaziDigital tools helped Jürgen Matthäus to pinpoint the person photographed beside a mass grave. (The Guardian)
+
+
+
+7 The Pentagon is interested in AI-powered machine guns that shoot dronesSteven Simoni’s Allen Control Systems is part of Silicon Valley’s new military pivot. (Reuters)+ We saw a demo of the new AI system powering Anduril’s vision for war. (MIT Technology Review)
+
+
+
+8 One of Saturn’s moons may have once hosted life Enceladus has all the necessary keystones to support life, and future missions could uncover it. (Scientific American $)+ Meanwhile, Blue Origin has won a NASA rover contract. (Wired $)+ The case against humans in space. (MIT Technology Review)
+
+
+
+9 Chatbots exercise all sorts of tricks to keep you talkingThey don’t want the conversation to end, a new study has found. (Wired $)
+
+
+
+10 What it’s like to become a viral memeDrew Scanlon, aka “Blinking Guy,” is leveraging his fame for a good cause. (SF Gate)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“I cannot overstate how disgusting I find this kind of ‘AI’ dog shit in the first place, never mind under these circumstances.”
+
+
+
+—Writer Luke O’Neil tells 404 Media his feelings about an AI-generated “biography” of journalist Kaleb Horton, who recently died.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+A day in the life of a Chinese robotaxi driver
+
+
+
+When Liu Yang started his current job, he found it hard to go back to driving his own car: “I instinctively went for the passenger seat. Or when I was driving, I would expect the car to brake by itself,” says the 33-year-old Beijing native, who joined the Chinese tech giant Baidu in January 2021 as a robotaxi driver.
+
+
+
+Liu is one of the hundreds of safety operators employed by Baidu, “driving” five days a week in Shougang Park. But despite having only worked for the company for 19 months, he already has to think about his next career move, as his job will likely be eliminated within a few years. Read the full story.
+
+
+
+—Zeyi Yang
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
+
+
+
++ Congratulations are in order for 32 Chunk, winner of this year’s highly prestigious Fat Bear Week competition + Here’s how 10 women artists got their days off to the best start possible.+ This Instagram account documenting the worldly travels of a cassette player is fab.+ Brb, I’m off to listen to Arctic Outpost Radio, spinning records from the very top of the world.
 • EV tax credits are dead in the US. Now what?
   On Wednesday, federal EV tax credits in the US officially came to an end.
 
@@ -99,7 +305,7 @@ Eventually, the government began pulling back the credits. Support for plug-in h
 
 
 
-Monthly sales data shows the fingerprints of those changes. In each case where there’s a contraction of public support, there’s a peak in sales just before a cutback, then a crash after. These short-term effects can be dramatic: There were about half as many battery-electric vehicles sold in Germany in January 2024 than there were in December 2023. 
+Monthly sales data shows the fingerprints of those changes. In each case where there’s a contraction of public support, there’s a peak in sales just before a cutback, then a crash after. These short-term effects can be dramatic: There were about half as many battery-electric vehicles sold in Germany in January 2024 than there were in December 2023.&nbsp;
 
 
 
@@ -121,11 +327,11 @@ When I spoke to experts (including Andrew) for a story last year, several told m
 
 
 
-EV growth did see a longer-term backslide in Germany after the end of the subsidies. Battery-electric vehicles made up 13.5% of new registrations in 2024, down from 18.5% the year before, and the UK also passed Germany to become Europe’s largest EV market. 
+EV growth did see a longer-term backslide in Germany after the end of the subsidies. Battery-electric vehicles made up 13.5% of new registrations in 2024, down from 18.5% the year before, and the UK also passed Germany to become Europe’s largest EV market.&nbsp;
 
 
 
-Things have improved this year, with sales in the first half beating records set in 2023. But growth would need to pick up significantly for Germany to reach its goal of getting 15 million battery-electric vehicles registered in the country by 2030. As of January 2025, that number was just 1.65 million. 
+Things have improved this year, with sales in the first half beating records set in 2023. But growth would need to pick up significantly for Germany to reach its goal of getting 15 million battery-electric vehicles registered in the country by 2030. As of January 2025, that number was just 1.65 million.&nbsp;
 
 
 
@@ -133,7 +339,7 @@ According to early projections, the end of tax credits in the US could significa
 
 
 
-Some US states still have their own incentive programs for people looking to buy electric vehicles. But without federal support, the US is likely to continue lagging behind global EV leaders like China. 
+Some US states still have their own incentive programs for people looking to buy electric vehicles. But without federal support, the US is likely to continue lagging behind global EV leaders like China.&nbsp;
 
 
 
@@ -146,238 +352,6 @@ This article is from The Spark, MIT Technology Review’s weekly climate newslet
   In late 2023, a long-trusted virtualization staple became the biggest open question on the enterprise IT roadmap . CIOs contending with pricing hikes and product roadmap opacity face a daunting choice: double‑down on a familiar but costlier stack, or use the disruption to rethink how—and where—critical workloads should run . Forrester predicted that one in five large VMware customers would begin moving away from the platform in 2024 .
 • Roundtables: Trump’s Impact on the Next Generation of Innovators
   MIT Technology Review has honored dozens of young researchers on our Innovators Under 35 list . We checked back in with recent honorees to see how they’re faring amid sweeping changes . Learn about the complex realities of what life has been like for those aiming to build their labs and companies in today’s political climate . This was the third event in a special, three-part Roundtables series that also included: The Future of Birth Control Control .
-• Unlocking AI’s full potential requires operational excellence
-  Talk of AI is inescapable. It’s often the main topic of discussion at board and executive meetings, at corporate retreats, and in the media. A record 58% of S&amp;P 500 companies mentioned AI in their second-quarter earnings calls, according to Goldman Sachs.
-
-
-
-
-
-
-
-But it’s difficult to walk the talk. Just 5% of generative AI pilots are driving measurable profit-and-loss impact, according to a recent MIT study. That means 95% of generative AI pilots are realizing zero return, despite significant attention and investment.
-
-
-
-Although we’re nearly three years past the watershed moment of ChatGPT’s public release, the vast majority of organizations are stalling out in AI. Something is broken. What is it?
-
-
-
-Date from Lucid’s AI readiness survey sheds some light on the tripwires that are making organizations stumble. Fortunately, solving these problems doesn’t require recruiting top AI talent worth hundreds of millions of dollars, at least for most companies. Instead, as they race to implement AI quickly and successfully, leaders need to bring greater rigor and structure to their operational processes.
-
-
-
-Operations are the gap between AI&#8217;s promise and practical adoption
-
-
-
-I can’t fault any leader for moving as fast as possible with their implementation of AI. In many cases, the existential survival of their company—and their own employment—depends on it. The promised benefits to improve productivity, reduce costs, and enhance communication are transformational, which is why speed is paramount.
-
-
-
-But while moving quickly, leaders are skipping foundational steps required for any technology implementation to be successful. Our survey research found that more than 60% of knowledge workers believe their organization’s AI strategy is only somewhat to not at all well aligned with operational capabilities.
-
-
-
-AI can process unstructured data, but AI will only create more headaches for unstructured organizations. As Bill Gates said, “The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency.”
-
-
-
-Where are the operations gaps in AI implementations? Our survey found that approximately half of respondents (49%) cite undocumented or ad-hoc processes impacting efficiency sometimes; 22% say this happens often or always.
-
-
-
-The primary challenge of AI transformation lies not in the technology itself, but in the final step of integrating it into daily workflows. We can compare this to the &#8220;last mile problem&#8221; in logistics: The most difficult part of a delivery is getting the product to the customer, no matter how efficient the rest of the process is.
-
-
-
-In AI, the &#8220;last mile&#8221; is the crucial task of embedding AI into real-world business operations. Organizations have access to powerful models but struggle to connect them to the people who need to use them. The power of AI is wasted if it&#8217;s not effectively integrated into business operations, and that requires clear documentation of those operations.
-
-
-
-Capturing, documenting, and distributing knowledge at scale is critical to organizational success with AI. Yet our survey showed only 16% of respondents say their workflows are extremely well-documented. The top barriers to proper documentation are a lack of time, cited by 40% of respondents, and a lack of tools, cited by 30%.
-
-
-
-The challenge of integrating new technology with old processes was perfectly illustrated in a recent meeting I had with a Fortune 500 executive. The company is pushing for significant productivity gains with AI, but it still relies on an outdated collaboration tool that was never designed for teamwork. This situation highlights the very challenge our survey uncovered: Powerful AI initiatives can stall if teams lack modern collaboration and documentation tools.
-
-
-
-This disconnect shows that AI adoption is about more than just the technology itself. For it to truly succeed enterprise-wide, companies need to provide a unified space for teams to brainstorm, plan, document, and make decisions. The fundamentals of successful technology adoption still hold true: You need the right tools to enable collaboration and documentation for AI to truly make an impact.
-
-
-
-Collaboration and change management are hidden blockers to AI implementation
-
-
-
-A company&#8217;s approach to AI is perceived very differently depending on an employee&#8217;s role. While 61% of C-suite executives believe their company&#8217;s strategy is well-considered, that number drops to 49% for managers and just 36% for entry-level employees, as our survey found.
-
-
-
-Just like with product development, building a successful AI strategy requires a structured approach. Leaders and teams need a collaborative space to come together, brainstorm, prioritize the most promising opportunities, and map out a clear path forward. As many companies have embraced hybrid or distributed work, supporting remote collaboration with digital tools becomes even more important.
-
-
-
-We recently used AI to streamline a strategic challenge for our executive team. A product leader used it to generate a comprehensive preparatory memo in a fraction of the typical time, complete with summaries, benchmarks, and recommendations.
-
-
-
-Despite this efficiency, the AI-generated document was merely the foundation. We still had to meet to debate the specifics, prioritize actions, assign ownership, and formally document our decisions and next steps.
-
-
-
-According to our survey, 23% of respondents reported that collaboration is frequently a bottleneck in complex work. Employees are willing to embrace change, but friction from poor collaboration adds risk and reduces the potential impact of AI.
-
-
-
-Operational readiness enhances your AI readiness
-
-
-
-Operations lacking structure are preventing many organizations from implementing AI successfully. We asked teams about their top needs to help them adapt to AI. At the top of their lists were document collaboration (cited by 37% of respondents), process documentation (34%), and visual workflows (33%).
-
-
-
-Notice that none of these requests are for more sophisticated AI. The technology is plenty capable already, and most organizations are still just scratching the surface of its full potential. Instead, what teams want most is ensuring the fundamentals around processes, documentation, and collaboration are covered.
-
-
-
-AI offers a significant opportunity for organizations to gain a competitive edge in productivity and efficiency. But moving fast isn’t a guarantee of success. The companies best positioned for successful AI adoption are those that invest in operational excellence, down to the last mile.
-
-
-
-This content was produced by Lucid Software. It was not written by MIT Technology Review’s editorial staff.
-• The Download: OpenAI’s caste bias problem, and how AI videos are made
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
-
-
-
-OpenAI is huge in India. Its models are steeped in caste bias.
-
-
-
-Caste bias is rampant in OpenAI’s products, including ChatGPT, according to an MIT Technology Review investigation. Though CEO Sam Altman boasted about India being its second-largest market during the launch of GPT-5 in August, we found that both this new model, which now powers ChatGPT, as well as Sora, OpenAI’s text-to-video generator, exhibit caste bias. This risks entrenching discriminatory views in ways that are currently going unaddressed. 
-
-
-
-Mitigating caste bias in AI models is more pressing than ever. In contemporary India, many caste-oppressed Dalit people have escaped poverty and have become doctors, civil service officers, and scholars; some have even risen to become the president of India. But AI models continue to reproduce socioeconomic and occupational stereotypes that render Dalits as dirty, poor, and performing only menial jobs. Read the full story.
-
-
-
-—Nilesh Christopher
-
-
-
-
-
-
-
-MIT Technology Review Narrated: how do AI models generate videos?
-
-
-
-It’s been a big year for video generation. The downside is that creators are competing with AI slop, and social media feeds are filling up with faked news footage. Video generation also uses up a huge amount of energy, many times more than text or image generation.With AI-generated videos everywhere, let&#8217;s take a moment to talk about the tech that makes them work.This is our latest story to be turned into a MIT Technology Review Narrated podcast, which we’re publishing each week on Spotify and Apple Podcasts. Just navigate to MIT Technology Review Narrated on either platform, and follow us to get all our new content as it’s released.
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 Taiwan has rejected America’s chip demandIt’s pushed back on a US request to move 50% of chip production to the States. (Bloomberg $)+ Taiwan said it never agreed to the commitment. (CNN)+ Taiwan’s “silicon shield” could be weakening. (MIT Technology Review)
-
-
-
-2 Chatbots may not be eliminating jobs after allA new labor market study has found little evidence they’re putting humans out of work. (FT $)+ People are worried that AI will take everyone’s jobs. We’ve been here before. (MIT Technology Review)
-
-
-
-3 OpenAI has released a new Sora video appIt’s the latest in a long line of attempts to make AI a social experience. (Axios)+ Copyright holders will have to request the removal of their property. (WSJ $)
-
-
-
-4 Scientists have made embryos from human skin cells for the first timeIt could allow people experiencing infertility and same-sex couples to have children. (BBC)+ How robots are changing the face of fertility science. (WP $)5 Elon Musk claims to be building a Wikipedia rivalWhich I’m sure will be entirely accurate and impartial. (Gizmodo)+ How AI and Wikipedia have sent vulnerable languages into a doom spiral. (MIT Technology Review)
-
-
-
-6 America’s chips resurgence has been thrown into chaosAfter funding was yanked from the multi-billion dollar initiative designed to revive the industry. (Politico)
-
-
-
-7 ICE wants to buy a phone location-tracking toolEven though it doesn’t have a warrant to do so. (404 Media)
-
-
-
-8 The trouble with scaling up EV manufacturingSolid-state batteries are the holy grail—but is full commercialization feasible? (Knowable Magazine)+ Why bigger EVs aren’t always better. (MIT Technology Review)
-
-
-
-9 DoorDash’s food delivery robot is coming to Arizona’s roadsOthers before it have failed. Can Dot succeed? (TechCrunch)
-
-
-
-10 What it’s like to give ChatGPT therapyIt’s very good at telling you what it thinks you want to hear. (New Yorker $)+ Therapists are secretly using ChatGPT. Clients are triggered. (MIT Technology Review)
-
-
-
-
-
-
-
-Quote of the day
-
-
-
-“Please treat adults like adults.&#8221;
-
-
-
-—An X user reacts angrily to OpenAI’s moves to restrict the topics ChatGPT will discuss, Ars Technica reports.
-
-
-
- 
-
-
-
-One more thing
-
-
-
-
-
-
-
-Africa fights rising hunger by looking to foods of the pastAfter falling steadily for decades, the prevalence of global hunger is now on the rise—nowhere more so than in sub-Saharan Africa, thanks to conflicts, economic fallout from the covid-19 pandemic, and extreme weather events.Africa’s indigenous crops are often more nutritious and better suited to the hot and dry conditions that are becoming more prevalent, yet many have been neglected by science, which means they tend to be more vulnerable to diseases and pests and yield well below their theoretical potential.Now the question is whether researchers, governments, and farmers can work together in a way that gets these crops onto plates and provides Africans from all walks of life with the energy and nutrition that they need to thrive, whatever climate change throws their way. Read the full story.
-
-
-
-—Jonathan W. Rosen
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+ The mighty Stonehenge is still keeping us guessing after all these years (4,600 of them).+ Björk&#8217;s VR experience looks typically bonkers.+ We may finally have an explanation for the will-o’-the-wisp phenomenon.+ How to build your very own Commodore 64 Cartridge.
 
 🔒 Cybersecurity & Privacy
 No updates.
@@ -386,6 +360,281 @@ No updates.
 No updates.
 
 🏢 Corporate AI
+• Enhance agentic workflows with enterprise search using Kore.ai and Amazon Q Business
+  This post was written with Meghana Chintalapudi and Surabhi Sankhla of Kore.ai. 
+As organizations struggle with exponentially growing volumes of data distributed across multiple repositories and applications, employees lose significant time—approximately 30% according to the International Data Corporation (IDC)—searching for information that could be spent on higher-value work. The complexity of modern enterprise data networks demands solutions that can efficiently integrate, process, and deliver actionable insights across disparate systems. 
+In this post, we demonstrate how organizations can enhance their employee productivity by integrating Kore.ai’s AI for Work platform with Amazon Q Business. We show how to configure AI for Work as a data accessor for Amazon Q index for independent software vendors (ISVs), so employees can search enterprise knowledge and execute end-to-end agentic workflows involving search, reasoning, actions, and content generation. We explore the key benefits of this integration, including advanced search capabilities across more than 90 enterprise connectors and how to extend agentic experiences on top of a search foundation. The post includes a step-by-step implementation guide to help you set up this integration in your environment. 
+Components of the integration 
+Kore.ai is a leading Enterprise AI platform consistently recognized by Gartner as a leader in conversational AI. With three key Kore.ai offerings, AI for Work, AI for Process, and AI for Service, enterprises can build and deploy AI solutions based on their business needs. The AI for Work platform helps employees be more productive by making it possible to search across applications, take context-aware actions, generate content, and automate repetitive tasks. The platform goes beyond standalone search to deliver comprehensive agentic orchestration and workflows, helping employees follow up with clients, send weekly updates, or research and write marketing content with a single command. With AI for Work, your employees can create simple no-code agents while your admins have the flexibility to create more advanced low-code or pro-code agents. AI for Process, on the other hand, automates knowledge-intensive business processes end-to-end. AI for Service helps organizations deliver differentiated customer service experiences through self-service, proactive outreach campaigns, and agent assistance. 
+Amazon Q index for ISVs is a powerful, managed vector search service that supports seamless integration of generative AI applications with customers’ enterprise data through a unified, secure index. ISVs can access and retrieve relevant content through the SearchRelevantContent API for cross-application data retrieval without needing direct access or individual indexing of each data source, while customers retain full control over data access and governance. 
+When combined with additional search connectors offered by AI for Work platform and its ability to create and orchestrate agents, organizations gain a complete solution that transforms how employees access enterprise data and execute tasks end-to-end. The following video shows one such agentic experience in action, where the AI for Work interface seamlessly orchestrates agents to help a sales executive prepare for a client meeting—compiling information from Amazon Q index and AI for Work connectors, summarizing talking points, and sending them as an email, all from a single query. 
+
+ 
+  
+ 
+ 
+Benefits for enterprises 
+Enterprises often struggle with fragmented data access and repetitive manual tasks that slow down critical business processes. For example, imagine a scenario where a product manager needs to compile quarterly feature requests—with the integration of Kore.ai’s AI for Work and Amazon Q index, they can instantly gather requests from Salesforce, support tickets, and JIRA; automatically generate a structured roadmap; and schedule stakeholder meetings, all with a single query. This seamless integration changes the way enterprises interact with enterprise systems, through multiple key advantages: 
+ 
+ Improved search capabilities – Amazon Q index augments the generative AI experience by providing semantically relevant enterprise content across connected systems through its distributed vector database, delivering query responses at enterprise scale. Now, together with AI for Work, your employees can search data from over 90 connectors, integrating with enterprise systems like Microsoft 365, Salesforce, and Workday while also connecting with custom internal knowledge systems and third-party search providers. AI for Work’s orchestrator manages complex query processing and agent routing across multiple data sources, resulting in contextually appropriate and actionable results that significantly reduce search time while also enabling intelligent automations that extend far beyond traditional search capabilities. 
+ Enhanced data processing – The system continuously ingests and analyzes data through the document processing pipeline in Amazon Q index, which automatically handles multiple formats using intelligent chunking algorithms that preserve semantic context. The AI for Work platform unifies search, content generation, and actions in a single interface, to support the creation of multi-step agentic experiences grounded in search. Through real-time incremental indexing that processes only changed content, the system maintains data freshness while converting siloed raw data into actionable insights and multi-step business processes that can be saved and reused across the organization. 
+ Cost optimization – Organizations can achieve significant cost savings by streamlining routine tasks through agents that reduce operational overhead and improve resource allocation. AI for Work supports a wide range of agent-building options, from no-code and low-code to pro-code, for both non-technical employees and technical experts to build agents for themselves and to share across the organization, so teams can accomplish more with existing resources and benefit from sustained productivity improvements. 
+ Security benefits – Security remains paramount, with Amazon Q index implementing vector-level security through end-to-end encryption using AWS Key Management Service (AWS KMS) customer managed keys and document-level access controls that filter search results based on user identity and group membership. The joint solution implements robust role-based access control and audit trails. This zero-trust security approach maintains compliance with industry standards while providing granular control over sensitive enterprise data, making sure users only see information from documents they have explicit permissions to access while maintaining complete data sovereignty. With AI for Work’s robust security and governance tools enterprises can manage permissions and agent access, monitor usage, and enforce guardrails for secure, enterprise-wide deployment of AI solutions at scale. 
+ 
+Solution overview 
+The Amazon Q Business data accessor provides a secure interface that integrates Kore.ai’s AI for Work platform with Amazon Q index. The integration delivers a robust solution that uses enterprise data across multiple systems to power intelligent agentic actions and content generation capabilities that transform how organizations handle routine tasks and automate complex processes end-to-end. 
+When a user submits a query through AI for Work, its orchestrator intelligently routes requests between Kore.ai’s native retrievers and Amazon Q index based on predefined routing rules and advanced intent recognition algorithms. For Amazon Q index requests, the architecture implements secure cross-account API calls using OAuth 2.0 tokens that transform into temporary AWS credentials, supporting both security and optimal performance while maintaining strict access controls throughout the entire system. With AI for Work’s agents, users can take follow up actions, such as drafting proposals or submitting tickets—directly on top of search results, for end-to-end task completion in a single interface. Users can also build personalized workflows of pre-defined steps and execute them from a single query to further save time. 
+This supports use cases such as automated roadmap generation, where a product manager can query feature requests across multiple systems and receive a structured roadmap complete with stakeholder notifications, or RFP response automation, where sales executives can generate comprehensive proposals by pulling compliance documentation and tailoring responses based on client requirements. 
+The following diagram illustrates the solution architecture. 
+ 
+Prerequisites 
+Before enabling the Amazon Q index integration with Kore.ai’s AI for Work, you must have the following components in place: 
+ 
+ An AWS account with appropriate service access 
+ Amazon Q Business set up with AWS IAM Identity Center for user authentication 
+ Access to Kore.ai’s AI for Work (as a workspace admin) 
+ 
+With these prerequisites met, you can complete the basic configuration steps on both the Amazon Q Business and Kore.ai consoles to get started. 
+Add Kore.ai as a data accessor 
+After creating an Amazon Q Business application with AWS IAM Identity Center, administrators can configure Kore.ai as a data accessor through the Amazon Q Business console. Complete the following steps: 
+ 
+ On the Amazon Q Business console, choose Data accessors in the navigation pane. 
+ Choose Add data accessor. 
+ Choose Kore.ai as your data accessor. You must retrieve tenantID, a unique identifier for your application tenant. Refer to Prerequisites for instructions to retrieve the TenantId for your application. Similar instructions are also listed later in this post. 
+ For Data source access, configure your level of access. You can select specific data sources from your Amazon Q index to be available through the data accessor. This makes it possible to control which content is surfaced in the AI for Work environment. 
+ For User access, specify which users or groups can access the Amazon Q index through the data accessor. This option makes it possible to configure granular permissions for data accessor accessibility and manage organizational access controls. 
+ 
+ 
+After you have added the data accessor, the Amazon Q Business console displays configuration details that you need to share with Kore.ai to complete the setup. 
+ 
+ Note down the following information for the next step: 
+   
+   Amazon Q Business application ID 
+   AWS Region of the Amazon Q Business application 
+   Amazon Q Business retriever ID 
+   Region for IAM Identity Center instance 
+    
+ 
+Configure Amazon Q index in Kore.ai’s AI for Work 
+Kore.ai’s AI for Work supports flexible integration with Amazon Q index based on your enterprise search needs. There are two configuration options: configuring Amazon Q index as the primary enterprise knowledge source or configuring it as a search agent. We provide instructions for both options in this post. 
+Option 1: Configure Amazon Q index as the primary enterprise knowledge source 
+If you want Amazon Q index to act as the primary fallback search layer, coming into play, complete the following steps: 
+ 
+ In AI for Work, go to Workspaces on the admin console. Then navigate to Enterprise Workspace, which is the default workspace. 
+ 
+ 
+ 
+ Choose Configure to configure an enterprise knowledge data source. 
+ On the Create New dropdown menu, choose Amazon Q. 
+ 
+ 
+ 
+ Enter a source name and brief description. 
+ Copy the tenant ID displayed—this is required during the setup of the data accessor in AWS, as described in the previous section. 
+ Enter the details captured earlier: 
+   
+   Amazon Q Business application ID 
+   Region of the Amazon Q Business application 
+   Amazon Q Business retriever ID 
+   Region for IAM Identity Center instance 
+    
+ Choose Continue to save and complete the configuration. 
+ 
+ 
+The new knowledge source now shows as Active. 
+ 
+Option 2: Configure Amazon Q index as a search agent 
+If you already have a primary search index, you can configure Amazon Q index as a search agent: 
+ 
+ In AI for Work, go to Workspaces on the admin console. 
+ Choose the workspace where you want to add Amazon Q index. (Enterprise Workspace is used by default). 
+ Under AI Agents in the navigation pane, choose Search Agent 
+ Choose Create agent. 
+ 
+ 
+ 
+ Provide an agent name and purpose. This helps define when the search agent should be invoked. 
+ Choose Continue to move to configuration. 
+ For Select Search Index, choose Amazon Q. 
+ 
+ 
+ 
+ Copy the tenant ID displayed—it is required during the setup of the data accessor in AWS. 
+ 
+ 
+ 
+ Preview and test the agent. 
+ After you have validated the agent, publish it to selected users or groups. 
+ 
+Your integration is now complete. You can now access the assistant application and start asking questions in the AI for Work console. If you’ve created a search agent, you can also access it from the list of agents and start interacting with it directly. 
+Clean up 
+When you are finished using this solution, clean up your resources to avoid additional costs: 
+ 
+ Disable the Amazon Q index configuration within AI for Work’s settings. 
+ Delete the Kore.ai data accessor from the Amazon Q Business console, which will remove permissions and access for users. 
+ Delete the Amazon Q Business application to remove the associated index and data source connectors, on your AWS account. 
+ 
+Conclusion 
+The combination of Kore.ai’s AI for Work and Amazon Q index offers enterprises a transformative approach to boost employee productivity leveraging comprehensive search capabilities while streamlining repetitive tasks and processes. By integrating Kore.ai’s advanced agentic platform with the robust search infrastructure of Amazon Q index, organizations can now execute context aware actions by accessing relevant information across disparate systems while maintaining data ownership and security. This supports faster problem-solving, enhanced productivity, and better collaboration across the organization. 
+In this post, we explored how enterprises can use the integration between Kore.ai’s AI for Work and Amazon Q Business to streamline their operational processes and unlock valuable productivity gains. We demonstrated how organizations can set up this integration using an Amazon Q data accessor, helping teams access critical information securely and cost-effectively. 
+Unlock the full potential of your organization’s data and agentic workflows today with the Amazon Q index and Kore.ai’s AI for Work’s unified solution by following the steps in Amazon Q integration with AI for Work. 
+ 
+About the authors 
+Siddhant Gupta is a Software Development Manager on the Amazon Q team based in Seattle, WA. He is driving innovation and development in cutting-edge AI-powered solutions. 
+Chinmayee Rane is a Generative AI Specialist Solutions Architect at AWS, with a core focus on generative AI. She helps ISVs accelerate the adoption of generative AI by designing scalable and impactful solutions. With a strong background in applied mathematics and machine learning, she specializes in intelligent document processing and AI-driven innovation. Outside of work, she enjoys salsa and bachata dancing. 
+Bobby Williams is a Senior Solutions Architect at AWS. He has decades of experience designing, building, and supporting enterprise software solutions that scale globally. He works on solutions across industry verticals and horizontals and is driven to create a delightful experience for every customer. 
+Santhosh Urukonda is a Senior PACE (Prototyping &amp; Cloud Engineering) Architect at AWSs with two decades of experience. He specializes in helping customers develop innovative, first-to-market solutions with a focus on generative AI. 
+Nikhil Kumar Goddeti is a Cloud Support Engineer II at AWS. He specializes in AWS Data Analytics services with emphasis on Amazon OpenSearch Service, Amazon Q Business, Amazon Kinesis, Amazon MSK, Amazon AppFlow, and Amazon Kendra. He is a Subject Matter Expert of OpenSearch. Outside of work, he enjoys travelling with his friends and playing cricket. 
+Meghana Chintalapudi is a Product Manager at Kore.ai, driving the development of search and agentic AI solutions for the AI for Work platform. She has led large-scale AI implementations for Fortune 500 clients, evolving from deterministic NLP and intent-detection models to advanced large language model deployments, with a strong emphasis on enterprise-grade security and scalability. Outside of work, Meghana is a dancer and takes movement workshops in Hyderabad, India. 
+Surabhi Sankhla is a VP of Product at Kore.ai, where she leads the AI for Work platform to help enterprises boost employee productivity. With over 13 years of experience in product management and technology, she has launched AI products from the ground up and scaled them to millions of users. At Kore.ai, she drives product strategy, client implementations, and go-to-market execution in partnership with cross-functional teams. Based in San Francisco, Surabhi is passionate about making AI accessible and impactful for all.
+• Accelerate development with the Amazon Bedrock AgentCore MCP server
+  Today, we’re excited to announce the Amazon Bedrock AgentCore Model Context Protocol (MCP) Server. With built-in support for runtime, gateway integration, identity management, and agent memory, the AgentCore MCP Server is purpose-built to speed up creation of components compatible with Bedrock AgentCore. You can use the AgentCore MCP server for rapid prototyping, production AI solutions, or to scale your agent infrastructure for your enterprise. 
+Agentic IDEs like Kiro, Claude Code, GitHub Copilot, and Cursor, along with sophisticated MCP servers are transforming how developers build AI agents. What typically takes significant time and effort, for example learning about Bedrock AgentCore services, integrating Runtime and Tools Gateway, managing security configurations, and deploying to production can now be completed in minutes through conversational commands with your coding assistant. 
+In this post we introduce the new AgentCore MCP server and walk through the installation steps so you can get started. 
+AgentCore MCP server capabilities 
+The AgentCore MCP server brings a new agentic development experience to AWS, providing specialized tools that automate the complete agent lifecycle, eliminate the steep learning curve, and reduce development friction that can slow innovation cycles.&nbsp;To address specific agent development challenges the AgentCore MCP server: 
+ 
+ Transforms agents for AgentCore Runtime integration by providing guidance to your coding assistant on the minimum functionality changes needed—adding Runtime library imports, updating dependencies, initializing apps with BedrockAgentCoreApp(), converting entrypoints to decorators, and changing direct agent calls to payload handling—while preserving your existing agent logic and Strands Agents features. 
+ Automates development environment provisioning by handling the complete setup process through your coding assistant: installing required dependencies (bedrock-agentcore SDK, bedrock-agentcore-starter-toolkit CLI helpers, strands-agents SDK), configuring AWS credentials and AWS Regions, defining execution roles with Bedrock AgentCore permissions, setting up ECR repositories, and creating .bedrock_agentcore.yaml configuration files. 
+ Simplifies tool integration with Bedrock AgentCore Gateway for seamless agent-to-tool communication in the cloud environment. 
+ Enables simple agent invocation and testing by providing natural language commands through your coding assistant to invoke provisioned agents on AgentCore Runtime and verify the complete workflow, including calls to AgentCore Gateway tools when applicable. 
+ 
+Layered approach 
+When using the AgentCore MCP server with your favorite client, we encourage you to consider a layered architecture designed to provide comprehensive AI agent development support: 
+ 
+ Layer 1: Agentic IDE or client – Use Kiro, Claude Code, Cursor, VS Code extensions, or another natural language interface for developers. For very simple tasks, agentic IDEs are equipped with the right tools to look up documentation and perform tasks specific to Bedrock AgentCore. However, with this layer alone, developers may observe sub-optimal performance across AgentCore developer paths. 
+ Layer 2: AWS service documentation – Install the AWS Documentation MCP Server&nbsp;for comprehensive AWS service documentation, including context about Bedrock AgentCore. 
+ Layer 3: Framework documentation – Install the Strands, LangGraph, or other framework docs MCP servers or use the llms.txt for framework-specific context. 
+ Layer 4: SDK documentation – Install the MCP or use the llms.txt for the Agent Framework SDK and Bedrock AgentCore SDK for a combined documentation layer that covers the Strands Agents SDK documentation and Bedrock AgentCore API references. 
+ Layer 5: Steering files – Task-specific guidance for more complex and repeated workflows. Each IDE has a different approach to using steering files (for example, see Steering in the Kiro documentation). 
+ 
+Each layer builds upon the previous one, providing increasingly specific context so your coding assistant can handle everything from basic AWS operations to complex agent transformations and deployments. 
+Installation 
+To get started with the Amazon Bedrock AgentCore MCP server you can use the one-click install on the Github repository. 
+Each IDE integrates with an MCP differently using the mcp.json file. Review the MCP documentation for your IDE, such as Kiro, Cursor, Q CLI, and Claude Code to determine the location of the mcp.json. 
+ 
+  
+   
+   Client 
+   Location of mcp.json 
+   Documentation 
+   
+   
+   Kiro 
+   .kiro/settings/mcp.json 
+   https://kiro.dev/docs/mcp/ 
+   
+   
+   Cursor 
+   .cursor/mcp.json 
+   https://cursor.com/docs/context/mcp 
+   
+   
+   Q CLI 
+   ~/.aws/amazonq/mcp.json 
+   https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/qdev-mcp.html 
+   
+   
+   Claude Code 
+   ~/.claude/mcp.json 
+   https://docs.claude.com/en/docs/claude-code/mcp 
+   
+  
+ 
+Use the following in your mcp.json: 
+ 
+ {
+&nbsp;&nbsp;"mcpServers": {
+&nbsp;&nbsp; &nbsp;"awslabs.amazon-bedrock-agentcore-mcp-server": {
+&nbsp;&nbsp; &nbsp; &nbsp;"command": "uvx",
+&nbsp;&nbsp; &nbsp; &nbsp;"args": ["awslabs.amazon-bedrock-agentcore-mcp-server@latest"],
+&nbsp;&nbsp; &nbsp; &nbsp;"env": {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"FASTMCP_LOG_LEVEL": "ERROR"
+&nbsp;&nbsp; &nbsp; &nbsp;},
+&nbsp;&nbsp; &nbsp; &nbsp;"disabled": false,
+&nbsp;&nbsp; &nbsp; &nbsp;"autoApprove": []
+&nbsp;&nbsp; &nbsp;}
+&nbsp;&nbsp;}
+} 
+ 
+For example, here is what the IDE looks like on Kiro, with the AgentCore MCP server and the two tools, search_agentcore_docs and fetch_agentcore_doc, connected: 
+ 
+Using the AgentCore MCP server for agent development 
+While we show demos for various use cases below using the Kiro IDE, the AgentCore MCP server has also been tested to work on Claude Code, Amazon Q CLI, Cursor, and the VS Code Q plugin. First, let’s take a look at a typical agent development lifecycle using AgentCore services (remember that this is only one example with the tools available, and you are free to explore more such use cases simply by instructing the agent in your favorite Agentic IDE): 
+ 
+The agent development lifecycle follows these steps: 
+ 
+ The user takes a local set of tools or MCP servers and 
+   
+   Creates a lambda target for AgentCore Gateway; or 
+   Deploys the MCP server as-is on AgentCore Runtime 
+    
+ The user prepares the actual agent code using a preferred framework like Strands Agents or LangGraph. The user can either: 
+   
+   Start from scratch (the server can fetch docs from the Strands Agents or LangGraph documentation) 
+   Start from fully or partially working agent code 
+    
+ The user asks the agent to transform the code into a format compatible with AgentCore Runtime with the intention to deploy the agent later. This causes the agent to: 
+   
+   Write an appropriate requirements.txt&nbsp;file 
+   import necessary libraries including bedrock_agentcore 
+   decorate the main handler (or create one) to access the core agent calling logic or input handler 
+    
+ The user may then ask the agent to deploy to AgentCore Runtime. The agent can look up documentation and can use the AgentCore CLI to deploy the agent code to Runtime 
+ The user can test the agent by asking the agent to do so. The AgentCore CLI command required for this is written and executed by the client 
+ The user then asks to modify the code to use the deployed AgentCore Gateway MCP server within this AgentCore Runtime agent. 
+   
+   The agent modifies the original code to add an MCP client that can call the deployed gateway 
+   The agent then deploys a new version v2 of the agent to Runtime 
+   The agent then tests this integration with a new prompt 
+    
+ 
+Here is a demo of the MCP server working with Cursor IDE. We see the agent perform the following steps: 
+ 
+ Transform the weather_agent.py to be compatible with AgentCore runtime 
+ Use the AgentCore CLI to deploy the agent 
+ Test the deployed agent with a successful prompt 
+ 
+ 
+
+ 
+  
+ 
+
+ 
+Here’s another example of deploying a LangGraph agent to AgentCore Runtime with the Cursor IDE performing similar steps as seen above. 
+
+ 
+  
+ 
+ 
+Clean up 
+If you’d like to uninstall the MCP server, follow the MCP documentation for your IDE, such as Kiro, Cursor, Q CLI, and Claude Code for instructions. 
+Conclusion 
+In this post, we showed how you can use the AgentCore MCP server with your favorite Agentic IDE of choice to speed up your development workflows. 
+We encourage you to review the Github repository, as well read through and use the following resources in your development: 
+ 
+ Amazon Bedrock AgentCore CLI documentation 
+ Strands Agents MCP Server 
+ LangGraph llms.txt 
+ 
+We encourage you to try out the AgentCore MCP server and provide any feedback through issues in our GitHub repository. 
+ 
+About the authors 
+ 
+  
+  
+   
+   
+  Shreyas Subramanian 
+  Shreyas is a Principal Data Scientist and helps customers by using Generative AI to solve their business challenges using the AWS platform. Shreyas has a background in large scale optimization and Deep Learning, and he is a researcher studying the use of Machine Learning and Reinforcement Learning for accelerating learning and optimization tasks. Shreyas is also an Amazon best-selling book author with several research papers and patents to his name. 
+  
+  
+  
+   
+   
+  Primo Mu 
+  Primo is a Software Development Engineer on the Agentic AI Foundation team at AWS, where he builds foundational systems and infrastructure that power intelligent AI applications. He has extensive experience working on backend stateless orchestration services behind products like Kiro and Q Dev CLI. He focuses on creating scalable frameworks and robust architectures that enable developers to build sophisticated agentic systems.
 • How Hapag-Lloyd improved schedule reliability with ML-powered vessel schedule predictions using Amazon SageMaker
   This post is cowritten with Thomas Voss and Bernhard Hersberger from Hapag-Lloyd. 
 Hapag-Lloyd is one of the world’s leading shipping companies with more than 308 modern vessels, 11.9 million TEUs (twenty-foot equivalent units) transported per year, and 16,700 motivated employees in more than 400 offices in 139 countries. They connect continents, businesses, and people through reliable container transportation services on the major trade routes across the globe. 
