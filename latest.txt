@@ -1,6 +1,6 @@
-✅ Morning News Briefing – October 04, 2025 10:39
+✅ Morning News Briefing – October 05, 2025 10:40
 
-📅 Date: 2025-10-04 10:39
+📅 Date: 2025-10-05 10:40
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
@@ -8,10 +8,10 @@
 🧾 Weather
 • No watches or warnings in effect, Pembroke
   No watches or warnings in effect. No warnings or watches or watches in effect . Watch or warnings are no longer in effect in the U.S. No watches, warnings are in effect for the rest of the day . No watches and warnings are still in effect, but no watches are in place for the day's events . The weather is not expected to be affected by the weather .
-• Current Conditions: Fog Patches, 8.1°C
-  Observed at Garrison Petawawa 6:00 AM EDT Saturday 4 October 2025 . Temperature: 8.1&deg;C Pressure: 102.2 kPa Visibility: 11 km Visibility : 11 km Humidity: 92 % Dewpoint: 6.8&deg:C Wind: WSW 4 km/h . Air Quality Health Index: n/a . Air
-• Saturday: Mainly sunny. High 27.
-  Mainly sunny. High 27. Humidex 31. UV index 5 or moderate. Mainly cloudy. High 28.50 degrees Fahrenheit in the early morning hours of Saturday morning . Forecast issued 5:00 AM EDT Saturday 4 October 2025. For the rest of the day, see www.jenn.com/jennennenn.org for the latest weather forecast .
+• Current Conditions:  12.0°C
+  Temperature: 12.0&deg;C Pressure / Tendency: 102.1 kPa rising Humidity: 97 % Humidity : 97 % Dewpoint: 11.5&deg:C Wind: E 2 km/h Air Quality Health Index: n/a . Observed at: Pembroke 6:00 AM EDT Sunday 5 October 2025 . Weather: P
+• Sunday: Sunny. High 29.
+  Sunny. High 29. Wind becoming southwest 20 km/h this afternoon . Humidex 32. UV index 5 or moderate for the area, with a high of 32.6 degrees Celsius or higher than the average of around 30 degrees Celsius in the area . Forecast issued 5:00 AM EDT Sunday 5 October 2025. For the rest of the day, see www.cnn
 
 🌍 International News
 No updates.
@@ -20,36 +20,38 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Lou Ye's acclaimed 'An Unfinished Film' remains unfinished
-  Lou Ye's An Unfinished Film is not a masterpiece, but why do so many seem to demand it to be? Why not so many demand it be a masterpiece? Lou Ye: 'An Unfinished film' is not an unfinished film, but it is a masterpiece . Lou Ye is a Chinese director and director of a German film company that specializes in Chinese films and Chinese films
-• Japan's ruling party elects Sanae Takaichi as leader, likely to become first female PM
-  Sanae Takaichi is a hard-line ultra-conservative and China hawk . She is likely to become the country's first female prime minister . Sanae is an ultra-hard-liners and China hawks who oppose China's influence in the country . She will likely become the first female Prime Minister of Japan, according to Japan's governing party . Japan's ruling party elected Sana
-• NPR's Student Podcast Challenge: Here are our fourth grade winners!
-  We heard fun and engaging podcasts on topics including how math teaching has evolved, what its like to disengage from technology, and, who has it better: kids or grownups? We also heard how math teacher has evolved and what it's like to engage in technology . Listen to the full transcript of each episode of this week's featured episodes of iReporters on CNN iReport .
-• The Federal Election Commission is down to 2 members. So its work is at a standstill
-  The FEC has been without a quorum for months, leaving the agency unable to do much of its work . The FEC regulates campaign finance, but it has lost another member . The agency has been unable to work for months because of the loss of a member of its quorum, which means it can't do so much of it's work on the issue of campaign finance and campaign finance
-• 8 low-effort ways to make Spooky Season feel cozy and festive
-  We've got a list of simple ideas to make your lead-up to Halloween feel warm, restful and eerie . Halloween is a great time to celebrate all the good things the season brings . We've also got some Halloween-themed ideas to help you celebrate the holiday with a little eerie decorating and Halloween-related activities in the lead up to the big day . The Halloween season
+• How apple cider vinegar cured everything — until it didn't
+  A headline-grabbing study touting apple cider vinegar for weight loss has been retracted . Other claims for the internet-famous remedy are also under fire . Apple cider vinegar is a popular remedy on the internet, but it has now been retracted by the University of Health of the United States . The study was published on the website of the National Institute of Health and Human Rights of the Red Cross
+• Why Gen Z protesters worldwide are flying an anime pirate flag
+  Gen Z protesters are rallying behind an unexpected banner: a grinning skull in a straw hat . Protesters are from Indonesia and Nepal to Madagascar and Morocco, rallying behind the banner . The banner is a sign of support for the Gen Z movement in Indonesia, Nepal, Madagascar, Morocco, Madagascar and Madagascar . The sign is a skull-in-a-head image of a Gen Z protester in
+• What to expect as Syria holds first parliamentary elections since Assad's ouster
+  Syria is holding parliamentary elections on Sunday for the first time since the fall of the country's longtime autocratic leader, Bashar Assad, who was unseated in a rebel offensive in December . Bashar Assad was ousted in December by a rebel group . Syria's parliamentary elections are being held in Syria for first time in more than a decade . Syria has been in the grip of a civil war since
+• Some Democrats share Trump's goal of forcing more homeless people into medical care
+  President Trump says one part of the answer to homelessness is civil commitment and forced medical care . Some Democrats agree . President Trump: Forced medical care and civil commitment is a key part of a solution to homelessness . President Obama says forced medical treatment is the only solution to the problem of homelessness in the U.S. Some Democrats say it's a good idea to help homeless people get medical care
+• Federal judge temporarily blocks Trump's National Guard deployment to Portland
+  A federal judge has temporarily blocked the Trump administration from deploying the National Guard to Portland, Ore., which the president had ordered over the objections of local leaders . The president ordered the Guard to be deployed in Portland, Oregon, after local leaders objected to the move . The judge has been temporarily blocked by a federal judge in Washington, D.C., citing the state's right to have the
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
+• Hacking contest kerfuffle over copied rules pits Wiz against ZDI
+  A new hacking contest has caused a social media kerfuffle over allegations of rule copying and plagiarism . 'Seems like you should at least run that through ChatGPT to reword it,' says one of the contest's founders . The contest is being run by the same company that launched the contest last year . It has been accused of plagiarism and rule copying in the past
+• Hacked Ford screens put anti-RTO slogan above CEO’s face
+  Conference-room screens at Ford's Dearborn HQ were briefly hijacked on Thursday to display a protest image in an apparent swipe at the carmaker's return-to-office policy . Carmaker confirms screen hijack, says probe underway . Ford says it is investigating the incident, which took place at the company's headquarters in Dearborn, Michigan, headquarters on Thursday . Ford: Screen hij
 • India's tech talent pipeline is sputtering
   Shubh Kumar graduated from IIT Patna, one of India's famed Institutes of Technology . The IITs attract millions of applicants but admit only 18,000 undergraduates . AI and new wave of offshoring mean graduates can't get gigs without a good education . The world's top universities attract millions applicants but only admit just 18,500 undergraduates per year . The
 • ICE plans to scour Facebook, TikTok, X, and even defunct Google+ for illegal immigration leads
   Draft solicitation calls for nearly 30 contractors to mine social media and other open-source data . US Immigration and Customs Enforcement (ICE) is seeking contractors to trawl social media for potential immigration enforcement leads . ICE hopes public posts can yield actionable intelligence, assuming public posts will yield intelligence . ICE: Social media posts should yield intelligence; public posts may yield leads to actionable information.…
 • Bezos plan for solar powered datacenters is out of this world… literally
   Aspiring Bond villain believes the best place to train our AI overlords is in orbit . Within two decades, gigawatt-scale datacenters powered by a continuous stream of photons from the sun will fill Earth's orbit . Amazon founder and executive chair Jeff Bezos says within two decades the datacomes will fill the world's orbit and be powered by the sun's solar rays .
-• No suds for you! Asahi brewery attack leaves Japanese drinkers dry
-  Ransomware has left Japan's biggest brewer struggling to ship beer . Asahi warning domestic customers to brace for patchy supplies while its core systems stay offline . One week after the blitz, beer biz is still stymied - one week after it was hit by the cyber-wansomware attack . Japan’s biggest brewer, Asahi, warns domestic customers of patch
-• 'Retired' cybercrime group demands $989M not to leak 1B Salesforce records
-  Scattered LAPSUS$ Hunters has reemerged with a data-leak site listing about 40 companies’ Salesforce environments . The group is demanding $989.45 to prevent what it claims is about 1 billion stolen records from being published online . CRM giant insists its platform wasn’t breached and says it’s not a breach of its platform . The
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• STRIPE partners in precision medicine: regulatory perspective
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Determinants of low fifth minute Apgar scores among newborns at North Shoa Zone Public Hospitals in Ethiopia
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • The primary hospitals should take gait speed as a routine test for elderly patients
@@ -57,8 +59,6 @@ No updates.
 • Quantifying population-level sexual risk behavior through HSV-2 transmission dynamics in the United States, 1950–2020
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Persistence and clearance of oral human papillomavirus among a multi-national cohort of men
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Application of machine learning models for predicting depression among older adults with non-communicable diseases in India
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
