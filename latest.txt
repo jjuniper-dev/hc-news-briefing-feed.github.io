@@ -1,17 +1,17 @@
-✅ Morning News Briefing – October 06, 2025 10:44
+✅ Morning News Briefing – October 07, 2025 10:43
 
-📅 Date: 2025-10-06 10:44
+📅 Date: 2025-10-07 10:43
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• No watches or warnings in effect, Pembroke
-  No watches or warnings in effect. No warnings or watches or watches in effect . Watch or warnings are no longer in effect in the U.S. No watches, warnings are in effect for the rest of the day . No watches and warnings are still in effect, but no watches are in place for the day's events . The weather is not expected to be affected by the weather .
-• Current Conditions:  13.5°C
-  Temperature: 13.5&deg;C Pressure / Tendency: 101.9 kPa rising Humidity: 91 % Dewpoint: 12.1&deg:C Wind: ENE 3 km/h Air Quality Health Index: n/a Observed at: Pembroke 6:00 AM EDT Monday 6 October 2025 Temperature: . . Pressure: . Tendency
-• Monday: Sunny. High 28.
-  Sunny. Sunny. High 28. Humidex 30. UV index 5 or moderate . High 28 degrees in the morning, with highs of 28 degrees below average . Forecast issued at 5:00am on Monday 6 October 2025, with rain expected to drop to 30 degrees in a few hours, with winds of up to 40 per cent in the afternoon . Rain is expected to be
+• Current Conditions:  17.5°C
+  Temperature: 17.5&deg;C Pressure / Tendency: 101.3 kPa falling Humidity: 81 % Dewpoint: 14.2&deg:C Wind: N 5 km/h Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Tuesday 7 October 2025 Temperature: . Temperature:  17.5/deg;
+• Tuesday: A few showers. High 19.
+  A few showers beginning early this morning and ending this afternoon . Risk of a thunderstorm this morning . Cloudy. High 19. UV index 2 or low. High 20.50/20/50/50 . Forecast issued 5:00 AM EDT Tuesday 7 October 2025. Forecast: Showery, rainy, thundery, windy, sunny, breezy,
+• Tuesday night: Clearing. Low plus 3.
+  Clearing late this evening. Partly cloudy. Clearing later this evening . Low plus 3.50 percent chance of rain in the morning's rainfall . Forecast issued 5:00 AM EDT Tuesday 7 October 2025. Weather forecast: Rainy, cold, cloudy, sunny, breezy, cloudy and breezy . Rainy showers expected to fall through the night, rainy
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• French Prime Minister resigns after less than a month in office
-  France's new prime minister Sébastien Lecornu resigned less than 24 hours after naming his government and after less than a month in office, plunging the country into a deep political crisis . Facing criticism from all sides, France's PM resigned after just 24 hours in office . France's prime minister resigned after a month of office, leaving the country in a deep
-• The medicine Nobel Prize goes to 3 scientists for work on peripheral immune tolerance
-  Mary E. Brunkow, Fred Ramsdell and Shimon Sakaguchi were honored for research into how the body helps the immune system avoid attacking your own tissues instead of foreign invaders . The researchers are studying how to help your body avoid attacking foreign invaders instead of attacking the body's own tissues . The scientists were honored at the event in New York City, New York, on
-• Amid funding cuts and public health battles, NIH issues autism research grants
-  Cornell University will receive $5.1 million as the Trump administration seeks to find a source and cure for autism . The Trump administration will spend the money to help find a cure for the condition . Cornell will receive the money as part of the search for a source of autism and a source for a cure . Cornell University is receiving the money from the federal government to help fund autism research .
-• CBS' next top editor to be Bari Weiss of The Free Press
-  CBS' parent company will buy The Free Press and install Bari Weiss, its contrarian founder, as editor in chief of CBS News . The Free press will become part of Skydance Media.'/> . CBS News will become the home of the contrarian, anti-establishment media outlet that has long been critical of the mainstream media establishment . CBS will install Weiss as the editor in
-• Civil rights jobs have been cut. Those ex-workers warn of ICE detention violations
-  After layoffs, it's unclear how many people are policing civil rights violations inside the Department of Homeland Security . The Trump administration is ramping up ICE detention as part of an effort to crack down on immigration . After layoffs it's not clear how many civil rights officers will be on the job at the Homeland Security, even as the Trump administration ramps up immigration detention . The agency has laid out
+• The Nobel Prize for physics is awarded for discoveries in quantum mechanical tunneling
+  Nobel committee: Nobel laureates' work provides opportunities to develop "next generation of quantum technology" Committee: Work provides opportunities for quantum cryptography, quantum computers, and quantum sensors . Nobel committee says work could lead to quantum computing, quantum cryptography and quantum computers . Nobel winners' work will be used to develop next generation of technology, committee says . Back to the page you came from. Share
+• With U.S. leadership in doubt, can its allies chart their own course?
+  U.S. allies in Europe and the Indo-Pacific are showing willingness to coordinate and cooperate across a wide range of shared interests, from trade to defense and alliance management to China . China is one of the world's most important allies in the Middle East and Asia, according to the U.N. Secretary of State Hillary Clinton . China's influence in the region has grown in recent
+• Why Democrats are casting the government shutdown as a health care showdown
+  Democrats are pressuring Republicans to extend billions of dollars in federal tax credits that have dramatically lowered premiums and contributed to record-low rates of uninsured Americans . The tax credits have helped reduce the number of Americans who are uninsured by lowering their premiums and contributing to record low rates . Democrats are pushing to extend the tax credits, which have helped drive down the rate of uninsured in the U.S.
+• The government has long researched high school experiences. Then DOGE cut the effort
+  The federal government has long surveyed high schoolers to help track how their academic choices may have influenced the course of their lives . The Trump administration put an end to that effort . The government has been trying to track how academic choices influenced the lives of high school students for more than a decade . The White House says it will no longer be able to survey students about how their choices affect their
+• A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut
+  Hopi Tribe received a multimillion-dollar federal grant to install solar panels and battery storage systems for hundreds of homes . But the Trump administration has canceled the funding . The Hopi tribe received a multi-million-dollar grant from the federal government to install panels and storage systems . Hopi tribal members say solar panels will be installed on hundreds of Hopi homes in the tribe's homes
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Jaguar Land Rover engines ready to roar again after weeks-long cyber stall
-  No confirmed date but workers expected to return in the coming days . Jaguar Land Rover is readying staff to resume manufacturing in coming days, a company spokesperson confirmed to The Reg . Company spokesperson confirmed that no confirmed date has been set for the return of workers . No confirmed return date for the rest of the production process has not yet been confirmed, spokesperson said . No confirmation date for when the
-• Clop crew hits Oracle E-Business Suite users with fresh zero-day
-  Big Red rushes out patch for 9.8-rated flaw after crooks exploit it for data theft and extortion . Oracle rushed out an emergency fix over the weekend for a zero-day vulnerability in its E-Business Suite (EBS) that criminal crew Clop has already abused . The flaw has been exploited by Clop, who has already been using it to steal and extort
-• Leak suggests US government is fibbing over FEMA security failings
-  FEMA fired its CISO, CIO, and 22 other staff for incompetence but insisted it wasn't in response to an online attack . New material suggests FEMA's claim may be false . Plus, PAN under attack, IT whistleblowers get a payout, and China kills online scammers . Infosec in brief: Plus, IT whistleblower gets a payout from the U.S. government .
-• AI: The ultimate slacker's dream come true
-  It has been less than three years since ChatGPT lit the fuse of the current explosion of AI everywhere . Productivity may not have gone up, but anxiety, confusion and annoyance most certainly have . AI years move even faster than internet years, so there's been time not only for the forcible injection of AI into the workplace courtesy of Microsoft, but the first scientific studies of the effect .
-• Qualcomm in the dock over 'patent tax' on smartphones
-  Which? says owners of Apple and Samsung devices overcharged by £480M . Qualcomm is facing a UK trial over allegations that it abused its dominant position in the smartphone chipset market to charge inflated license fees, ultimately driving up device prices for Brit consumers . Which?: Qualcomm is accused of overcharging customers by overcharging them by millions of pounds of licensing fees for their devices . Qualcomm says
+• No account? No Windows 11, Microsoft says as another loophole snaps shut
+  Workaround sent to the big OOBE in the sky with latest Insider builds . Microsoft is closing a popular loophole that allowed users to install Windows 11 without a Microsoft account . The loophole was closed by the end of a popular Windows 11 feature that allows you to install the new software without having an account with Microsoft . Microsoft Insider builds are now available in the wild for the first time .
+• Britain eyes satellite laser warning system and carrier-launched jet drones
+  Space sensors and UAVs at sea top MoD's list in new wave of cutting-edge projects . UK pressing ahead with research to protect satellites from laser attack . Technology demonstrator for a jet-powered drone to operate from Royal Navy carriers . MoD also developing technology for a technology demonstrator to operate on Royal Navy aircraft carriers . The UK is pressing ahead to develop a technology
+• UK Home Office opens wallet for £60M automated number plate project
+  Department eyes new app to tap national ANPR data for live alerts, searches, and integrations . UK's Home Office is inviting tech suppliers to take part in a £60 million "market engagement" for an application that uses data from automated number plate recognition (ANPR) systems . The application will use data from ANPR systems to make live alerts and search alerts available to the public
+• Google DeepMind minds the patch with AI flaw-fixing scheme
+  Google says its AI-powered security repair tool CodeMender has been helping secure open source projects through automated patch creation, subject to human approval . The tool has been generating fixes for vulnerabilities in open-source projects . Google says it has been working with the company to identify vulnerabilities in the open source software . It has been creating fixes for flaws in the software that can be fixed without human
+• Cerebras CEO insists dinner-plate-sized chip startup will still go public
+  AI chip startup Cerebras Systems pulled its S-1 IPO filing without so much as an explanation . Inference service launched a month before IPO filing turns out to have been a much bigger business than initially thought . AI chip chip startup pulled its $1.1 billion Series G funding round just days after announcing a $1 billion funding round, Cerebrs pulled its IPO filing .
 
 🏥 Public Health
 No updates.
 
 🔬 Science
-• STRIPE partners in precision medicine: regulatory perspective
+• A One Health framework for global and local stewardship across the antimicrobial lifecycle
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Determinants of low fifth minute Apgar scores among newborns at North Shoa Zone Public Hospitals in Ethiopia
+• Volunteer scientists work ‘nights and weekends’ to guide vaccine advice in US
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• The primary hospitals should take gait speed as a routine test for elderly patients
+• Exploring the role of green space in mitigating childhood opportunity across the U.S
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Quantifying population-level sexual risk behavior through HSV-2 transmission dynamics in the United States, 1950–2020
+• The association between preschoolers’ retinal microcirculation and the indoor microbial environment: results of the ENVIRONAGE birth cohort
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Persistence and clearance of oral human papillomavirus among a multi-national cohort of men
+• Large language models for autism: evaluating theory of mind tasks in a gamified environment
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,428 +68,464 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
-• Another effort to track ICE raids was just taken offline
-  People over Papers, a crowd-sourcing project that maps sightings of immigration agents, was taken offline yesterday by Padlet, the collaborative bulletin board platform on which it was built. It’s just the latest ICE-tracking initiative to be pulled by tech platforms in the past few days.&nbsp;
+• The three big unanswered questions about Sora
+  Last week OpenAI released Sora, a TikTok-style app that presents an endless feed of exclusively AI-generated videos, each up to 10 seconds long. The app allows you to create a “cameo” of yourself—a hyperrealistic avatar that mimics your appearance and voice—and insert other peoples’ cameos into your own videos (depending on what permissions they set).&nbsp;
 
 
 
-A Padlet customer service representative told Celeste, one of the project’s creators, that the map “was trashed due to violations of our Content Policy,” without specifying which policy was violated. Celeste has not disclosed her last name for safety reasons.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+To some people who believed earnestly in OpenAI’s promise to build AI that benefits all of humanity, the app is a punchline. A former OpenAI researcher who left to build an AI-for-science startup referred to Sora as an “infinite AI tiktok slop machine.”&nbsp;
 
 
 
-But days earlier, right-wing influencer Laura Loomer tweeted at Padlet’s CEO about the project. 
+That hasn’t stopped it from soaring to the top spot on Apple’s US App Store. After I downloaded the app, I quickly learned what types of videos are, at least currently, performing well: bodycam-style footage of police pulling over pets or various trademarked characters, including SpongeBob and Scooby Doo; deepfake memes of Martin Luther King Jr. talking about Xbox; and endless variations of Jesus Christ navigating our modern world.&nbsp;
 
 
 
-“Are you aware that @padlet is being used by radical left wing domestic terrorists, illegal aliens and their supporters to obstruct law enforcement operations and harass ICE agents?” she wrote, “PADLET’s Content Policy clearly notes that harassment, stalking, privacy violations, inciting violence, and any other unlawful activity are not on the platform.”&nbsp;
+Just as quickly, I had a bunch of questions about what’s coming next for Sora. Here’s what I’ve learned so far.
 
 
 
-In the same thread, Loomer claimed responsibility for the removal of several similar apps, including ICEBlock, from Apple and Google’s app stores last week.&nbsp;
+Can it last?
 
 
 
-Loomer’s remarks echo statements made by DHS and DOJ officials which claim that ICE-tracking projects are responsible for a “1000%” increase in assaults on ICE agents, including shootings at ICE facilities in Texas in July that injured two ICE agents, as well as people leaving trash at ICE agents’ homes in protest.&nbsp;
+OpenAI is betting that a sizable number of people will want to spend time on an app in which you can suspend your concerns about whether what you’re looking at is fake and indulge in a stream of raw AI. One reviewer put it this way: “It’s comforting because you know that everything you’re scrolling through isn’t real, where other platforms you sometimes have to guess if it’s real or fake. Here, there is no guessing, it’s all AI, all the time.&#8221;
 
 
 
-Secretary of Homeland Security Kristi Noem has described “violence” against ICE agents as “anything that threatens them and their safety, so it is doxing them, it’s videotaping them where they’re at when they’re out on operations,” while DHS assistant secretary for public affairs Tricia McLaughlin has indicated that the department “will prosecute those who illegally harass ICE agents to the fullest extent of the law.”
+This may sound like hell to some. But judging by Sora’s popularity, lots of people want it.&nbsp;
 
 
 
+So what’s drawing these people in? There are two explanations. One is that Sora is a flash-in-the-pan gimmick, with people lining up to gawk at what cutting-edge AI can create now (in my experience, this is interesting for about five minutes). The second, which OpenAI is betting on, is that we’re witnessing a genuine shift in what type of content can draw eyeballs, and that users will stay with Sora because it allows a level of fantastical creativity not possible in any other app.&nbsp;
 
 
-Padlet did not respond to MIT Technology Review’s request for comment on why they took the People over Papers project down.
 
+There are a few decisions down the pike that may shape how many people stick around: how OpenAI decides to implement ads, what limits it sets for copyrighted content (see below), and what algorithms it cooks up to decide who sees what.&nbsp;
 
 
-However, Celeste told us she rejects Loomer’s claims. “Nothing we are doing is unlawful and we will continue exercising our right to freedom of speech,” she said. “We do not condone any violence whatsoever.”
 
+Can OpenAI afford it?
 
 
 
+OpenAI is not profitable, but that’s not particularly strange given how Silicon Valley operates. What is peculiar, though, is that the company is investing in a platform for generating video, which is the most energy-intensive (and therefore expensive) form of AI we have. The energy it takes dwarfs the amount required to create images or answer text questions via ChatGPT.
 
 
 
-Transparency, or doxxing? 
+This isn’t news to OpenAI, which has joined a half-trillion-dollar project to build data centers and new power plants. But Sora—which currently allows you to generate AI videos, for free, without limits—raises the stakes: How much will it cost the company?&nbsp;
 
 
 
-Celeste started People over Papers in January, after connecting with other TikTok creators who were also sharing information about ICE raids in their communities. In the ten months since, it has received over 19 million unique visitors, and has been averaging between 200,000-300,000 users per day.&nbsp;
 
 
+OpenAI is making moves toward monetizing things (you can now buy products directly through ChatGPT, for example). On October 3, its CEO, Sam Altman, wrote in a blog post that “we are going to have to somehow make money for video generation,” but he didn’t get into specifics. One can imagine personalized ads and more in-app purchases.&nbsp;
 
-She came up with the idea of mapping the raids “to inform people of what is happening in their communities” and also “documenting history and gathering information about something that will likely be looked back on as an extremely dark time.”
 
 
+Still, it’s concerning to imagine the mountain of emissions might result if Sora becomes popular. Altman has accurately described the emissions burden of one query to ChatGPT as impossibly small. What he has not quantified is what that figure is for a 10-second video generated by Sora. It’s only a matter of time until AI and climate researchers start demanding it.&nbsp;
 
-Her project is among a number of volunteer-led efforts, including the ICEBlock app that was removed from app stores last week and the Stop ICE Raids Alert Network, that map anonymous reports on immigration enforcement agents conducting raids.&nbsp;
 
 
+How many lawsuits are coming?&nbsp;
 
-The maps play an important role in “offer[ing] protection, solidarity, and survival strategies in hostile territory,” Alissa Richardson, a scholar at the University of Southern California that studies how marginalized communities use social media, told MIT Technology Review this summer. They serve as “modern-day Green Books for immigrant communities. Just as Black travelers once used the Green Book to navigate safely through a landscape of racial terror, these digital tools help Latine families move through spaces marked by surveillance and risk,” she said.&nbsp;&nbsp;
 
 
+Sora is awash in copyrighted and trademarked characters. It allows you to easily deepfake deceased celebrities. Its videos use copyrighted music.&nbsp;
 
-Pressuring technology platforms to remove the maps is just one part of the administration’s strategy to stop efforts to track ICE or identify its masked agents conducting raids. In early September, the Department of Homeland Security subpoenaed Meta for Stop ICE Raids Alert Network’s Instagram account, as well as about a number of other non-profit organizations and rapid response networks; the subpoena has been temporarily blocked pending a court hearing.&nbsp;
 
 
+Last week, the Wall Street Journal reported that OpenAI has sent letters to copyright holders notifying them that they’ll have to opt out of the Sora platform if they don’t want their material included, which is not how these things usually work. The law on how AI companies should handle copyrighted material is far from settled, and it’d be reasonable to expect lawsuits challenging this.&nbsp;
 
-At least one person has allegedly lost their job in connection to these apps. Carolyn Feinstein, whose husband ran the ICEBlock app, was terminated from her job with the Department of Justice over the summer, which she says was in retaliation for her husband’s work.&nbsp;
 
 
+In last week’s blog post, Altman wrote that OpenAI is “hearing from a lot of rightsholders” who want more control over how their characters are used in Sora. He says that the company plans to give those parties more “granular control” over their characters. Still, “there may be some edge cases of generations that get through that shouldn’t,” he wrote.
 
-“Trying to blunt these efforts to hold federal officers accountable” has the effect of “chilling speech and activism,” says David Greene, the director of civil liberties at the Electronic Frontier Foundation. He says that identifying agents does not count as doxxing, because “the idea that law enforcement would be masked and and therefore unaccountable to the people they are serving is really anathema to American values.”&nbsp;&nbsp;
 
 
+But another issue is the ease with which you can use the cameos of real people. People can restrict who can use their cameo, but what limits will there be for what these cameos can be made to do in Sora videos?&nbsp;
 
-“Saying the doxing itself is an act of violence would require a different definition of violence than the one we&#8217;ve traditionally used in regards to legal issues,” says Peter Simi, a sociology professor at Chapman University who studies threats to public officials.&nbsp;
 
 
+This is apparently already an issue OpenAI is being forced to respond to. The head of Sora, Bill Peebles, posted on October 5 that users can now restrict how their cameo can be used—preventing it from appearing in political videos or saying certain words, for example. How well will this work? Is it only a matter of time until someone’s cameo is used for something nefarious, explicit, illegal, or at least creepy, sparking a lawsuit alleging that OpenAI is responsible? 
 
-For its part, the People over Papers map was back online six hours after it was removed from Padlet—and this time, on its own website, which Celeste’s team has been working on since May and had planned to launch next week.&nbsp;
 
 
+Overall, we haven’t seen what full-scale Sora looks like yet (OpenAI is still doling out access to the app via invite codes). When we do, I think it will serve as a grim test: Can AI create videos so fine-tuned for endless engagement that they’ll outcompete “real” videos for our attention? In the end, Sora isn’t just testing OpenAI’s technology—it’s testing us, and how much of our reality we’re willing to trade for an infinite scroll of simulation.
+• This company is planning a lithium empire from the shores of the Great Salt Lake
+  BOX ELDER COUNTY, Utah – On a bright afternoon in August, the shore on the North Arm of the Great Salt Lake looks like something out of a science fiction film set in a scorching alien world. The desert sun is blinding as it reflects off the white salt that gathers and crunches underfoot like snow at the water’s edge. In a part of the lake too shallow for boats, bacteria have turned the water a Pepto-Bismol pink. The landscape all around is ringed with jagged red mountains and brown brush. The only obvious sign of people is the salt-encrusted hose running from the water’s edge to a makeshift encampment of shipping containers and trucks a few hundred feet away.&nbsp;
 
-Celeste says she isn’t cowed. “I am personally super stubborn. The more someone tells me I can’t do something, the more I want to do it.”&nbsp;
 
 
+This otherworldly scene is the test site for a company called Lilac Solutions, which is developing a technology it says will shake up the United States’ efforts to pry control over the global supply of lithium, the so-called “white gold” needed for electric vehicles and batteries, away from China. Before tearing down its demonstration facility to make way for its first commercial plant, due online next year, the company invited me to be the first journalist to tour its outpost in this remote area, a roughly two-hour drive from Salt Lake City.
 
-Besides, “if this information isn&#8217;t posted on our platform, it will be posted on Facebook, Instagram, Tiktok and any other social media platform,” she says. “People will continue to inform each other one way or another.”
-• Enabling real-time responsiveness with event-driven architecture
+
+
+The startup is in a race to commercialize a new way to extract lithium from rocks, called direct lithium extraction (DLE). This approach is designed to reduce the environmental damage caused by the two most common traditional methods of mining lithium: hard-rock mining and brining.&nbsp;
+
+
+
+Australia, the world’s top producer of lithium, uses the first approach, scraping rocks laden with lithium out of the earth so they can be chemically processed into industrial-grade versions of the metal. Chile, the second-largest lithium source, uses the second: It floods areas of its sun-soaked Atacama Desert with water. This results in ponds rich in dissolved lithium, which are then allowed to dry off, leaving behind lithium salts that can be harvested and processed elsewhere.&nbsp;
+
+
+
+An intake hose, used to pump water to Lilac Solutions’ demonstration site, snakes into the pink-hued Great Salt Lake.ALEXANDER KAUFMAN
+
+
+
+
+The range of methods known as DLE use lithium brine too, but instead of water-intensive evaporation, they all involve advanced chemical or physical filtering processes that selectively separate out lithium ions. While DLE has yet to take off, its reduced need for water and land has made it a prime focus for companies and governments looking to ramp up production to meet the growing demand for lithium as electric vehicles take off and even bigger batteries are increasingly used to back up power grids. China, which processes more than two-thirds of the world’s mined lithium, is developing its own DLE to increase domestic production of the raw material. New approaches are still being researched, but nearly a dozen companies are actively looking to commercialize DLE technology now, and some industrial giants already offer basic off-the-shelf hardware.&nbsp;
+
+
+
+In August, Lilac completed its most advanced test yet of its technology, which the company says doesn’t just require far less water than traditional lithium extraction—it uses a fraction of what other DLE approaches demand.&nbsp;
+
+
+
+
+
+The company uses proprietary beads to draw lithium ions from water and says its process can extract lithium using a tenth as much water as the alumina sorbent technology that dominates the DLE industry. Lilac also highlights its all-American supply chain. Technology originally developed by Koch Industries, for example, uses some Chinese-made components. Lilac’s beads are manufactured at the company’s plant in Nevada.&nbsp;
+
+
+
+Lilac says the beads are particularly well suited to extracting lithium where concentrations are low. That doesn’t mean they could be deployed just anywhere—there won’t be lithium extraction on the Hudson River anytime soon. But Lilac’s tech could offer significant advantages over what’s currently on the market. And forgoing plans to become a major producer itself could enable the company to seize a decent slice of global production by appealing to lithium miners companies looking for the best equipment, says Milo McBride, a researcher at the Carnegie Endowment for International Peace who authored a recent report on DLE.&nbsp;
+
+
+
+If everything pans out, the pilot plant Lilac builds next to prove its technology at commercial scale could significantly increase domestic supply at a moment when the nation’s largest proposed lithium project, the controversial hard-rock Thacker Pass mine in Nevada, has faced fresh uncertainty. At the beginning of October, the Trump administration renegotiated a federal loan worth more than $2 billion to secure a 5% ownership stake for the US government.&nbsp;
+
+
+
+The blue tank on the left filters the brine from the Great Salt Lake to remove large particles before pumping the lithium-rich water into the ion-exchange systems located in the shipping containers.ALEXANDER KAUFMAN
+
+
+
+
+Despite bipartisan government support, the prospect of opening a deep gash in an unspoiled stretch of Nevada landscape has drawn fierce opposition from conservationists and lawsuits from ranchers and Native American tribes who say the Thacker Pass project would destroy the underground freshwater reservoirs on which they depend. Water shortages in the parched West have also made it difficult to plan on using additional evaporation ponds, the other traditional way of extracting lithium.&nbsp;
+
+
+
+Lilac is not the only company in the US pushing for DLE. In California’s Salton Sea, developers such as EnergySource Minerals are looking to build a geothermal power plant to power a DLE facility pulling lithium from the inland desert lake. And energy giants such as Exxon Mobil, Chevron, and Occidental Petroleum are racing to develop an area in southwestern Arkansas called the Smackover region, where researchers with the US Geological Survey have found as much as 19 million metric tons of untapped lithium in salty underground water. In between, both geographically and strategically, is Lilac: It’s looking to develop new technology like the California companies but sell its hardware to the energy giants in Arkansas.&nbsp;
+
+
+
+
+
+The Great Salt Lake isn’t an obvious place to develop a lithium mine. The Salton Sea boasts lithium concentrations of just under 200 parts per million. Argentina, where Lilac has another test facility, has resources of above 700 parts per million.&nbsp;
+
+
+
+Here on the Great Salt Lake? “It’s 70 parts per million,” Raef Sully, Lilac’s Australia-born chief executive, tells me. “So if you had a football stadium with 45,000 seats, this would be three people.”
+
+
+
+For Lilac, this is actually a feature of the location. “It’s a very, very good demonstration of the capability of our technology,” Sully says. Showing that Lilac’s hardware can extract lithium at high purity levels from a brine with low concentration, he says, proves its versatility. That wasn’t the reason Lilac selected the site, though. “Utah is a mining friendly state,” says Elizabeth Pond, the vice president of communications. And though the lake water has low concentrations of lithium, extracting the brine simply calls for running a hose into the water, whereas other locations would require digging a well at great cost.&nbsp;
+
+
+
+When I accompanied Sully to the test site during my tour, our route following unpaved county roads lined with fields of wild sunflowers. The facility itself is little more than an assortment of converted shipping containers and two mobile trailers, one to serve as the main office and the other as a field laboratory to test samples. It’s off the grid, relying on diesel generators that the company says will be replaced with propane units once this location is converted to a permanent facility but could eventually be swapped for geothermal technology tapping into a hot rock resource located nearby. (Solar panels, Sully clarifies, couldn’t supply the 24-7 power supply the facility will need.) But it depends on its connection to the Great Salt Lake via that lengthy hose.&nbsp;
+
+
+
+Hardened salt and impurities are encrusted on metal mesh that keeps larger materials out of Lilac’s water intake system.ALEXANDER KAUFMAN
+
+
+
+
+Pumped uphill, the lake water passes through a series of filters to remove solids until it ends up in a vessel filled with the company’s specially designed ceramic beads, made from a patented material that attracts lithium ions from the water. Once saturated, the beads are put through an acid wash to remove the lithium. The remaining brine is then repeatedly tested and, once deemed safe to release back into the lake, pumped back down to the shore through an outgoing tube in the hose. The lithium solution, meanwhile, is stockpiled in tanks on site before shipping off to a processing plant to be turned into battery-grade lithium carbonate, which is a white powder.&nbsp;
+
+
+
+“As a technology provider in the long term, if we’re going to have decades of lithium demand, they want to position their technology as something that can tap a bunch of markets,” McBride says. “To have a technology that can potentially economically recover different types of resources in different types of environments is an enticing proposition.”&nbsp;
+
+
+
+This testing ground won’t stay this way for long. During my visit, Lilac’s crew was starting to pack up the location after completing its demonstration testing. The results the company shared exclusively with me suggest a smashing success, particularly for such low-grade brine with numerous impurities: Lilac’s equipment recovered 87% of the available lithium, on average, with a purity rate of 99.97%.
+
+
+
+
+
+The next step will be to clear the area to make way for construction of Lilac’s first permanent commercial facility at the same site. To meet the stipulations of Utah state permits for the new plant, the company had to cease all operations at the demonstration project. If everything goes according to plan, Lilac’s first US facility will begin commercial production in the second half of 2027. The company has lined up about two-thirds of its funding for the project. That could make the plant the first new commercial source of lithium in the US to come online in years, and the first DLE facility ever.&nbsp;
+
+
+
+Once it’s fully online, the project should produce 5,000 tons per year—doubling annual US production of lithium. But a full-scale plant using Lilac’s technology would produce between three and five times that amount.&nbsp;
+
+
+
+There are some potential snags. Utah regulators this year started cracking down on mineral companies pumping water from the Great Salt Lake, which is shrinking amid worsening droughts. (Lilac says it’s largely immune to the restrictions since it returns the water to the lake.) While the relatively low concentrations of lithium in the water make for a good test case, full-scale commercial production would likely prove far more economical in a place with more of the metal.&nbsp;
+
+
+
+Wild sunflowers line the unpaved county roads that cut through ranching land en route to Lilac Solutions’ remote demonstration site.ALEXANDER KAUFMAN
+
+
+
+
+“The Great Salt Lake is probably the worst possible place to be doing this, because there are real challenges around pulling water from the lake,” says Ashley Zumwalt-Forbes, a mining engineer who previously served as the deputy director of battery minerals at the Department of Energy. “But if it’s just being used as a trial for the technology, that makes sense.”&nbsp;
+
+
+
+What makes Lilac stand out among its peers is that it has no plans to design and manufacture its own DLE equipment and produce actual lithium. Lilac wants instead to sell its technology to others. The pilot plant is just intended to test and debut its hardware. Sully tells me it’s being built under a separate limited-liability corporation to make a potential sale easier if it’s successful.&nbsp;
+
+
+
+It’s an unusual play in the lithium industry. Once most companies see success with their technology, “they go crazy and think they can vertically integrate and at the same time be a miner and an energy producer,” Kwasi Ampofo, the head of minerals and metals at the energy consultancy BloombergNEF, tells me.&nbsp;
+
+
+
+“Lilac is trying to be a technology vendor,” he says. “I wonder why a lot more people aren’t choosing that route.”&nbsp;
+
+
+
+If things work out the right way, Sully says, Lilac could become the vendor of choice to projects like the oil-backed sites in the Smackover and beyond.&nbsp;
+
+
+
+“We think our technology is the next generation,” he says. “And if we end up working with an Exxon or a Chevron or a Rio Tinto, we want to be the DLE technology provider in their lithium project.”
+• The Download: introducing the 10 climate tech companies to watch for 2025
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+Introducing: 10 climate tech companies to watch
+
+
+
+Every year, the MIT Technology Review newsroom produces a list of some of the most promising climate tech firms on the planet. It’s an exercise that we hope brings positive attention to companies working to decarbonize major sectors of the economy, whether by spinning up new, cleaner sources of energy or reinventing how we produce foods and distribute goods.Though the political and funding landscape has shifted dramatically in the US since last year, nothing has altered the urgency of the climate dangers the world now faces—we need to rapidly curb greenhouse gas emissions to avoid the most catastrophic impacts of climate change. This project highlights the firms making progress toward that end.Check out the third annual edition of the list, and learn more about why we selected these companies.
+
+
+
+
+
+
+
+Our best weapon against climate change is ingenuity
+
+
+
+—Bill Gates is a technologist, business leader, and philanthropist.It’s a foregone conclusion that the world will not meet the goals for limiting emissions and global warming laid out in the 2015 Paris Agreement. Many people want to blame politicians and corporations for this failure, but there’s an even more fundamental reason: We don’t have all the technological tools we need to do it, and many of the ones we do have are too expensive.
+
+
+
+But I don’t think this is a reason to be pessimistic. I see it as cause for optimism, because humans are very good at inventing things. In fact, we’ve already created many tools that are reducing emissions. And I am confident that more positive changes are coming. Read the full story.
+
+
+
+
+
+
+
+Another effort to track ICE raids was just taken offline
+
+
+
+People over Papers, a crowd-sourcing project that maps sightings of immigration agents, was taken offline yesterday by Padlet, the collaborative bulletin board platform on which it was built. 
+
+
+
+It’s just the latest ICE-tracking initiative to be pulled by tech platforms in the past few days, including the ICEBlock app that was removed from app stores last week and the Stop ICE Raids Alert Network. Read the full story.—Eileen Guo
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 ICE wants to build a social media surveillance squad Contractors will sift through social content searching for information to aid arrests and deportations. (Wired $)+ A US citizen with stage four cancer has been deported. (The Guardian)
+
+
+
+2 xAI is building massive data centers in MemphisWhich isn’t great news for disgruntled locals. (WSJ $)+ Data centers are big business in Europe right now. (Bloomberg $)+ The data center boom in the desert. (MIT Technology Review)
+
+
+
+3 Ukraine’s front lines are fighting deadly infectionsBacteria that are resistant to multiple antibiotics are infiltrating the country. (Knowable Magazine)+ Why tiny viruses could be our best bet against antimicrobial resistance. (MIT Technology Review)
+
+
+
+4 A Silicon Valley school asked its students to draft an AI policyMountain View High School thinks involving kids is the best way forward. (WP $)+ Elsewhere, a school in Texas is letting AI guide its entire curriculum. (CBS News)+ AI’s giants want to take over the classroom. (MIT Technology Review)
+
+
+
+5 These countries hope to benefit from the US visa crackdownSkilled engineers from overseas are looking beyond America for new opportunities. (FT $)+ India hopes its skilled workers living abroad will return home. (BBC)
+
+
+
+6 How an empty Chinese city became a self-driving testbedOrdos has everything that self-driving cars need—except humans. (Rest of World)+ Why China’s self-driving industry is pushing into Europe. (Reuters)
+
+
+
+7 How to talk to cows A wave of high-tech AI-powered collars is the closest we’ve got. (NYT $)+ Scientists are trying to get cows pregnant with synthetic embryos. (MIT Technology Review)
+
+
+
+8 Technology is full of fascinating records Strongest robotic arm, anyone? (IEEE Spectrum)
+
+
+
+9 Posting a simple Instagram photo is no longer enoughThe app keeps pushing us to ‘contentify’ everything. (The Verge)
+
+
+
+10 Japanese beer brand Asahi has resumed production After a huge cyber attack forced its breweries offline. (BBC)+ But we don’t know when its plants will return to full capacity. (Reuters)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“You’ll never have a human trafficked AI girl.”
+
+
+
+—Steve Jones, who runs an AI porn site, explains how he sees the ethics of his endeavor to the Guardian.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+The race to fix space-weather forecasting before next big solar storm hitsAs the number of satellites in space grows, and as we rely on them for increasing numbers of vital tasks on Earth, the need to better predict stormy space weather is becoming more and more urgent.Scientists have long known that solar activity can change the density of the upper atmosphere. But it’s incredibly difficult to precisely predict the sorts of density changes that a given amount of solar activity would produce.Now, experts are working on a model of the upper atmosphere to help scientists to improve their models of how solar activity affects the environment in low Earth orbit. If they succeed, they’ll be able to keep satellites safe even amid turbulent space weather, reducing the risk of potentially catastrophic orbital collisions. Read the full story.
+
+
+
+—Tereza Pultarova
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
+
+
+
++ I love this website showcasing madcap music genres (thanks Rachel!)+ It’s not just you—world records really are getting harder to beat.+ If you’ve ever wanted to play Snake in a url bar, now’s your chance (warning, it’s hard!)+ Fall is here, and the photos are already breathtaking ($)
+• 2025 Climate Tech Companies to Watch
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• The Download: using AI to discover “zero day” vulnerabilities, and Apple’s ICE app removal
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+• Bill Gates: Our best weapon against climate change is ingenuity
+  It’s a foregone conclusion that the world will not meet the goals for limiting emissions and global warming laid out in the 2015 Paris Agreement. Many people want to blame politicians and corporations for this failure, but there’s an even more fundamental reason: We don’t have all the technological tools we need to do it, and many of the ones we do have are too expensive.
 
 
 
-Microsoft says AI can create “zero day” threats in biology
+For all the progress the world has made on renewable energy sources, electric vehicles, and electricity storage, we need a lot more innovation on every front—from discovery to deployment—before we can hope to reach our ultimate goal of net-zero emissions.&nbsp;
 
 
 
-A team at Microsoft says it used artificial intelligence to discover a &#8220;zero day&#8221; vulnerability in the biosecurity systems used to prevent the misuse of DNA.These screening systems are designed to stop people from purchasing genetic sequences that could be used to create deadly toxins or pathogens. But now researchers say they have figured out how to bypass the protections in a way previously unknown to defenders. Read the full story.
+But I don’t think this is a reason to be pessimistic. I see it as cause for optimism, because humans are very good at inventing things. In fact, we’ve already created many tools that are reducing emissions. In just the past 10 years, energy breakthroughs have lowered the global forecast for emissions in 2040 by 40%. In other words, because of the human capacity to innovate, we are on course to reduce emissions substantially by 2040 even if nothing else changes.
 
 
 
-—Antonio Regalado
+And I am confident that more positive changes are coming. I’ve been learning about global warming and investing in ideas to stop it for the past 20 years. I’ve connected with unbiased scientists and innovators who are committed to preventing a climate disaster. Ten years ago, some of them joined me in creating Breakthrough Energy, an investment group whose sole purpose is to accelerate clean energy innovation. We’ve supported more than 150 companies so far, many of which have blossomed into major businesses such as Fervo Energy and Redwood Materials, two of this year’s Companies to Watch. [Editor’s note: Mr. Gates did not participate in the selection process of this year’s companies and was not aware that two Breakthrough investments had been selected when he agreed to write this essay.]
 
 
 
-If you’re interested in learning more about AI and biology, check out:
+Yet climate technologies offer more than just a public good. They will remake virtually every aspect of the world’s economy in the coming years, transforming energy markets, manufacturing, transportation, and many types of industry and food production. Some of these efforts will require long-term commitments, but it’s important that we act now. And what’s more, it’s already clear where the opportunities lie.&nbsp;
 
 
 
-+ AI-designed viruses are here and already killing bacteria. Read the full story.+ OpenAI is making a foray into longevity science with an AI built to help manufacture stem cells.+ AI is dreaming up drugs that no one has ever seen. Now we’ve got to see if they work.
+In the past decade, an ecosystem of thousands of innovators, investors, and industry leaders has emerged to work on every aspect of the problem. This&nbsp;year’s list of 10 Climate Tech Companies to Watch shows just a few of the many examples.
 
 
 
+Although much of this innovation ecosystem has matured on American shores, it has become a global movement that won’t be stopped by new obstacles in the US. It’s unfortunate that governments in the US and other countries have decided to cut funding for climate innovations and reverse some of the policies that help breakthrough ideas get to scale. In this environment, we need to be more rigorous than ever about spending our time, money, and ingenuity on efforts that will have the biggest impact.
 
 
 
+How do we figure out which ones those are? First, by understanding which activities are responsible for the most emissions. I group them into five categories: electricity generation, manufacturing, transportation, agriculture, and heating and cooling for buildings.
 
-The must-reads
 
 
 
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
 
 
 
-1 Apple removed an app for reporting ICE officer sightingsThe US Attorney General requested it take down ICEBlock—and Apple complied. (Insider $)+ Apple says the removal was down to the safety risk it posed. (Bloomberg $)+ The company had a similar explanation for removing a Hong Kong map app back in 2019. (The Verge)
+Of course, the zero-carbon tools we have today aren’t distributed evenly across these sectors. In some sectors, like electricity, we’ve made a great deal of progress. In others, like agriculture and manufacturing, we’ve made much less. To compare progress across the board, I use what I call the Green Premium, which is the difference in cost between the clean way of doing something and the conventional way that produces emissions.&nbsp;
 
 
 
-2 OpenAI’s parental controls are easily circumvented Its alerts about teenagers’ concerning conversations also took hours to deliver. (WP $)+ The looming crackdown on AI companionship. (MIT Technology Review)
+For example, sustainable aviation fuel now costs more than twice as much as conventional jet fuel, so it has a Green Premium of over 100%. Solar and wind power have grown quickly because in many cases they’re cheaper than conventional sources of electricity—that is, they have a negative Green Premium.&nbsp;
 
 
 
-3 VCs have sunk a record amount into AI startups this year To the tune of $192.7 billion so far. (Bloomberg $)+ The AI bubble is looking increasingly precarious, though. (FT $)+ How to fine-tune AI for prosperity. (MIT Technology Review)
+The Green Premium isn’t purely financial. To be competitive, clean alternatives also need to be as practical as what they’re replacing. Far more people will buy EVs once you can charge one up as quickly as you can fill your tank with gasoline.
 
 
 
-4 The US federal vaccination schedule is still waiting for an updateOfficials are yet to sign off on recommendations for this year&#8217;s updated Covid shots. (Ars Technica)+ Many people have been left unable to get vaccinated. (NPR)
 
 
 
-5 The US Department of Energy has canceled yet more clean energy projectsIn mostly blue states. (TechCrunch)+ More than 300 funding awards have been axed. (CNBC)+ How to make clean energy progress under Trump in the states. (MIT Technology Review)
 
+I think the Green Premium is the best way to identify areas of great impact. Where it’s high, as in the case of jet fuel, we need innovators and investors to jump on the problem. Where it’s low or even negative, we need to overcome the barriers that are keeping the technologies from reaching a global scale.
 
 
-6 TikTok recommends pornography to children’s accountsDespite activating its &#8220;restricted mode” to prevent sexualized content. (BBC)
 
+A new technology has to overcome a lot of challenges to beat the incumbents, but being able to compete on cost is absolutely essential. So if I could offer one piece of advice to every company working on zero-carbon technologies, it would be to focus on lowering and eliminating the Green Premium in whatever sector you’ve chosen. Think big. If your technology can be competitive enough to eventually eliminate at least 1% of global emissions per year—that’s 0.5 gigatons—you’re on the right track.
 
 
-7 China has launched a new skilled worker visa programIn the wake of the US H-1B visa clampdown. (Wired $)+ The initiative hasn’t gone down well with locals. (BBC)
 
+I’d encourage policymakers to bring this sector-by-sector focus on the Green Premium to their work, too. They should also protect funding for clean technologies and the policies that promote them. This is not just a public good: The countries that win the race to develop these breakthroughs will create jobs, hold enormous economic power for decades to come, and become more energy independent.
 
 
-8 Flights were grounded in Germany after several drone sightingsNATO members are worried about suspected Russian incursions in their skies. (WSJ $)+ It’s the latest in a string of airspace sightings. (FT $)
 
+In addition, young scientists and entrepreneurs should think about how they can put their skills toward these challenges. It’s an exciting time—the people who begin a career in clean technology today will have an enormous impact on human welfare. If you need pointers, the Climate Tech Atlas published last month by Breakthrough Energy and other partners is an excellent guide to the technologies that are essential for decarbonizing the economy and helping people adapt to a warmer climate.
 
 
-9 How YouTube is shaking up HollywoodIts powerful creators are starting to worry the entertainment establishment—and Netflix. (FT $)
 
+Finally, I’d encourage investors to put serious money into companies with technologies that can meaningfully reduce the Green Premium. Consider it an investment in what will be the biggest growth industry of the 21st century. Companies have made dramatic progress on better and cleaner solutions in every sector; what many of them need now is private-sector capital and partnerships to help them reach the scale at which they’ll have a real impact on emissions.
 
 
-10 Anti-robocall tools are getting betterCall screening features are a useful first line of defense. (NYT $)
 
+So if I could offer one piece of advice to every company working on zero-carbon technologies, it would be to focus on lowering and eliminating the Green Premium in whatever sector you’ve chosen. 
 
 
 
+Transforming the entire physical economy is an unprecedented task, and it can only be accomplished through markets—by supporting companies with breakthrough ideas that beat fossil fuels on cost and practicality. It’s going to take investors who are both patient and willing to accept the risk that some companies will fail. Of course, governments and nonprofits have a role in the energy transition too, but ultimately, our success will hinge on climate innovators’ ability to build profitable companies.&nbsp;
 
 
 
-Quote of the day
+If we get this right—and I believe we will—then in the next decade, we’ll see fewer news stories about missed emissions targets and more stories about how emissions are dropping fast because the world invented and deployed breakthrough ideas: clean liquid fuels that power passenger jets and cargo ships; neighborhoods built with zero-emissions steel and cement; fusion plants that generate an inexhaustible supply of clean electricity.&nbsp;
 
 
 
-“Capitulating to an authoritarian regime is never the right move.”
+Not only will emissions fall faster than most people expect, but hundreds of millions of people will be able to get affordable, reliable clean energy—with especially dramatic improvements for low-income countries. More people will have access to air-conditioning for extremely hot days. More children will have lights so they can do their homework at night. More health clinics will be able to keep their vaccines cold so they don’t spoil. We’ll have built an economy where everyone can prosper.
 
 
 
-—Joshua Aaron, the developer of ICEBlock, the app that crowdsources sightings of ICE officials, hits back at Apple’s decision to remove it from the App Store, 404 Media reports.
+Of course, climate change will still present many challenges. But the advances we make in the coming years can ensure that everyone gets a chance to live a healthy and productive life no matter where they’re born, and no matter what kind of climate they’re born into.
 
 
 
-
-
-
-
-One more thing
-
-
-
-
-
-
-
-How AI can help supercharge creativityExisting generative tools can automate a striking range of creative tasks and offer near-instant gratification—but at what cost? Some artists and researchers fear that such technology could turn us into passive consumers of yet more AI slop.And so they are looking for ways to inject human creativity back into the process: working on what’s known as co-­creativity or more-than-human creativity. The aim is to develop AI tools that augment our creativity rather than strip it from us. Read the full story.
-
-
-
-—Will Douglas Heaven
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+ Congratulations to Fizz, the very handsome UK cat of the year! + What it took to transform actor Jeremy Allan White into the one and only Boss in his new film, Deliver Me from Nowhere.+ Divers have salvaged more than 1,000 gold and silver coins from a 1715 shipwreck off the east coast of Florida.+ The internet is obsessed with crabs. But why?
-• Microsoft says AI can create “zero day” threats in biology
-  A team at Microsoft says it used artificial intelligence to discover a &#8220;zero day&#8221; vulnerability in the biosecurity systems used to prevent the misuse of DNA.
-
-
-
-These screening systems are designed to stop people from purchasing genetic sequences that could be used to create deadly toxins or pathogens. But now researchers led by Microsoft’s chief scientist, Eric Horvitz, say they have figured out how to bypass the protections in a way previously unknown to defenders. 
-
-
-
-The team described its work today in the journal Science.
-
-
-
-Horvitz and his team focused on generative AI algorithms that propose new protein shapes. These types of programs are already fueling the hunt for new drugs at well-funded startups like Generate Biomedicines and Isomorphic Labs, a spinout of Google.&nbsp;
-
-
-
-The problem is that such systems are potentially “dual use.” They can use their training sets to generate both beneficial molecules and harmful ones.
-
-
-
-Microsoft says it began a “red-teaming” test of AI’s dual-use potential in 2023 in order to determine whether “adversarial AI protein design” could help bioterrorists manufacture harmful proteins.&nbsp;
-
-
-
-The safeguard that Microsoft attacked is what’s known as biosecurity screening software. To manufacture a protein, researchers typically need to order a corresponding DNA sequence from a commercial vendor, which they can then install in a cell. Those vendors use screening software to compare incoming orders with known toxins or pathogens. A close match will set off an alert.
-
-
-
-
-
-To design its attack, Microsoft used several generative protein models (including its own, called EvoDiff) to redesign toxins—changing their structure in a way that let them slip past screening software but was predicted to keep their deadly function intact.
-
-
-
-The researchers say the exercise was entirely digital and they never produced any toxic proteins. That was to avoid any perception that the company was developing bioweapons.&nbsp;
-
-
-
-Before publishing the results, Microsoft says, it alerted the US government and software makers, who’ve already patched their systems, although some AI-designed molecules can still escape detection.&nbsp;
-
-
-
-“The patch is incomplete, and the state of the art is changing. But this isn’t a one-and-done thing. It’s the start of even more testing,” says Adam Clore, director of technology R&amp;D at Integrated DNA Technologies, a large manufacturer of DNA, who is a coauthor on the Microsoft report. “We’re in something of an arms race.”
-
-
-
-To make sure nobody misuses the research, the researchers say, they’re not disclosing some of their code and didn’t reveal what toxic proteins they asked the AI to redesign. However, some dangerous proteins are well known, like ricin—a poison found in castor beans—and the infectious prions that are the cause of mad-cow disease.
-
-
-
-“This finding, combined with rapid advances in AI-enabled biological modeling, demonstrates the clear and urgent need for enhanced nucleic acid synthesis screening procedures coupled with a reliable enforcement and verification mechanism,” says Dean Ball, a fellow at the Foundation for American Innovation, a think tank in San Francisco.
-
-
-
-Ball notes that the US government already considers screening of DNA orders a key line of security. Last May, in an executive order on biological research safety, President Trump called for an overall revamp of that system, although so far the White House hasn’t released new recommendations.
-
-
-
-Others doubt that commercial DNA synthesis is the best point of defense against bad actors. Michael Cohen, an AI-safety researcher at the University of California, Berkeley, believes there will always be ways to disguise sequences and that Microsoft could have made its test harder.
-
-
-
-“The challenge appears weak, and their patched tools fail a lot,” says Cohen. “There seems to be an unwillingness to admit that sometime soon, we’re going to have to retreat from this supposed choke point, so we should start looking around for ground that we can actually hold.”&nbsp;
-
-
-
-Cohen says biosecurity should probably be built into the AI systems themselves—either directly or via controls over what information they give.&nbsp;
-
-
-
-But Clore says monitoring gene synthesis is still a practical approach to detecting biothreats, since the manufacture of DNA in the US is dominated by a few companies that work closely with the government. By contrast, the technology used to build and train AI models is more widespread. “You can’t put that genie back in the bottle,” says Clore. “If you have the resources to try to trick us into making a DNA sequence, you can probably train a large language model.”
-• The Download: RIP EV tax credits, and OpenAI’s new valuation
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
-
-
-
-EV tax credits are dead in the US. Now what?
-
-
-
-Federal EV tax credits in the US officially came to an end yesterday.Those credits, expanded and extended in the 2022 Inflation Reduction Act, gave drivers up to $7,500 toward the purchase of a new electric vehicle. They’ve been a major force in cutting the up-front costs of EVs, pushing more people toward purchasing them and giving automakers confidence that demand would be strong.The tax credits’ demise comes at a time when battery-electric vehicles still make up a small percentage of new vehicle sales in the country. So what’s next for the US EV market?
-
-
-
-—Casey Crownhart
-
-
-
-This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
-
-
-
-If you’re interested in reading more about EVs and clean energy, take a look at:
-
-
-
-+ The US could really use an affordable electric truck. Ford recently announced plans for a $30,000 electric pickup, which could be the shot in the arm that the slowing US EV market needs. Read the full story.+ What role should oil and gas companies play in climate tech, really?+ China is an EV-building powerhouse. These three charts explain its energy dominance. Read the full story.+ Supporting new technologies like EVs can be expensive, but deciding when to wean the public off incentives can be a difficult balancing act. Read the full story.
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 OpenAI has become the world’s most valuable startupMove aside, SpaceX. (Bloomberg $)+ OpenAI is now valued at an eye-watering $500 billion. (FT $)+ The valuation came after workers sold around $6.6 billion in shares. (Reuters)
-
-
-
-2 Music labels are close to striking AI licensing dealsUniversal and Warner are trying their best to avoid the mis-steps of the internet era. (FT $)+ AI is coming for music, too. (MIT Technology Review)
-
-
-
-3 Facebook’s political ads are full of spam and scamsAnd deepfake technology is making them more convincing than ever. (NYT $)+ Meta will start using conversations with its chatbots to personalize ads. (WSJ $)4 China is forging ahead with integrating AI tools into children’s livesBut educators worry they’ll harm youngsters&#8217; learning and social skills. (Rest of World)+ Chinese universities want students to use more AI, not less. (MIT Technology Review)
-
-
-
-5 The batteries of the future could be created by AI Researchers including Microsoft are experimenting with materials suggested by models. (IEEE Spectrum)+ This startup wants to use the Earth as a massive battery. (MIT Technology Review)
-
-
-
-6 A historian claims to have used AI to identify an anonymous NaziDigital tools helped Jürgen Matthäus to pinpoint the person photographed beside a mass grave. (The Guardian)
-
-
-
-7 The Pentagon is interested in AI-powered machine guns that shoot dronesSteven Simoni’s Allen Control Systems is part of Silicon Valley’s new military pivot. (Reuters)+ We saw a demo of the new AI system powering Anduril’s vision for war. (MIT Technology Review)
-
-
-
-8 One of Saturn’s moons may have once hosted life Enceladus has all the necessary keystones to support life, and future missions could uncover it. (Scientific American $)+ Meanwhile, Blue Origin has won a NASA rover contract. (Wired $)+ The case against humans in space. (MIT Technology Review)
-
-
-
-9 Chatbots exercise all sorts of tricks to keep you talkingThey don’t want the conversation to end, a new study has found. (Wired $)
-
-
-
-10 What it’s like to become a viral memeDrew Scanlon, aka “Blinking Guy,” is leveraging his fame for a good cause. (SF Gate)
-
-
-
-
-
-
-
-Quote of the day
-
-
-
-“I cannot overstate how disgusting I find this kind of ‘AI’ dog shit in the first place, never mind under these circumstances.”
-
-
-
-—Writer Luke O’Neil tells 404 Media his feelings about an AI-generated “biography” of journalist Kaleb Horton, who recently died.
-
-
-
-
-
-
-
-One more thing
-
-
-
-
-
-
-
-A day in the life of a Chinese robotaxi driver
-
-
-
-When Liu Yang started his current job, he found it hard to go back to driving his own car: “I instinctively went for the passenger seat. Or when I was driving, I would expect the car to brake by itself,” says the 33-year-old Beijing native, who joined the Chinese tech giant Baidu in January 2021 as a robotaxi driver.
-
-
-
-Liu is one of the hundreds of safety operators employed by Baidu, “driving” five days a week in Shougang Park. But despite having only worked for the company for 19 months, he already has to think about his next career move, as his job will likely be eliminated within a few years. Read the full story.
-
-
-
-—Zeyi Yang
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+ Congratulations are in order for 32 Chunk, winner of this year’s highly prestigious Fat Bear Week competition + Here’s how 10 women artists got their days off to the best start possible.+ This Instagram account documenting the worldly travels of a cassette player is fab.+ Brb, I’m off to listen to Arctic Outpost Radio, spinning records from the very top of the world.
+Bill Gates is a technologist, business leader, and philanthropist. In 1975, he cofounded Microsoft with his childhood friend Paul Allen, and today he is chair of the Gates Foundation, a nonprofit fighting poverty, disease, and inequity around the world. Bill is the founder of Breakthrough Energy, an organization focused on advancing clean energy innovation, and TerraPower, a company developing groundbreaking nuclear energy and science technologies. He has three children.
 
 🔒 Cybersecurity & Privacy
 No updates.
@@ -498,6 +534,990 @@ No updates.
 No updates.
 
 🏢 Corporate AI
+• Ideas: More AI-resilient biosecurity with the Paraphrase Project
+  Behind every emerging technology is a great idea propelling it forward. In the Microsoft Research Podcast series Ideas, members of the research community at Microsoft discuss the beliefs that animate their research, the experiences and thinkers that inform it, and the positive human impact it targets.
+
+
+
+AI has been described as a “dual use” technology: the capabilities that can be leveraged for good can also potentially be used to cause harm. In this episode, Microsoft Chief Scientific Officer Eric Horvitz and his guests—Bruce Wittmann, a senior applied scientist at Microsoft; Tessa Alexanian (opens in new tab), a technical lead at the International Biosecurity and Biosafety Initiative for Science (IBBIS);&nbsp;and James Diggans (opens in new tab), a vice president at Twist Bioscience—explore this idea in the context of AI-powered protein design.
+
+
+
+With Horvitz at the lead, Alexanian, Diggans, and Wittmann were part of a cross-sector team that demonstrated toxic protein candidates could be designed with help from AI—and that they could bypass the systems in place to defend against their creation. The project, known as the Paraphrase Project, culminated in a cybersecurity-style response, a more robust protein screening system, and a modified approach to peer review with implications for how we think about and tackle AI risk more broadly. The work was recently published in Science.
+
+
+
+
+
+
+
+
+Learn more:
+
+
+
+
+Strengthening nucleic acid biosecurity screening against generative protein design toolsPublication | October 2025
+
+
+
+Toward AI-Resilient Screening of Nucleic Acid Synthesis Orders: Process, Results, and RecommendationsPreprint | December 2024
+
+
+
+The Paraphrase Project: Designing defense for an era of synthetic biologyMicrosoft Research Blog | October 2025
+
+
+
+When AI meets biology: Promise, risk, and responsibilityMicrosoft Research Blog | Eric Horvitz | October 2025
+
+
+
+Paraphrase ProjectProject homepage
+
+
+
+
+
+
+
+
+
+
+	
+		
+			Subscribe to the Microsoft Research Podcast:		
+		
+							
+					
+						  
+						Apple Podcasts
+					
+				
+			
+							
+					
+						
+						Email
+					
+				
+			
+							
+					
+						
+						Android
+					
+				
+			
+							
+					
+						
+						Spotify
+					
+				
+			
+							
+					
+						
+						RSS Feed
+					
+				
+					
+	
+
+
+
+
+	
+		
+			
+				
+					
+
+Transcript
+
+
+
+[MUSIC]
+
+
+
+ERIC HORVITZ: You’re&nbsp;listening to&nbsp;Ideas, a Microsoft Research Podcast that dives deep into the world of technology research and the profound questions behind the code.&nbsp;I’m&nbsp;Eric Horvitz, Microsoft’s chief scientific officer, and in this series, we explore the technologies shaping our future and the&nbsp;big ideas&nbsp;that propel them forward.
+
+
+
+[MUSIC FADES]
+
+
+
+Today,&nbsp;I’m&nbsp;excited to talk about the Paraphrase Project, an effort I co-led exploring how&nbsp;advances in&nbsp;AI tools&nbsp;for protein design&nbsp;might&nbsp;impact&nbsp;biosecurity. The results were reported in our recent paper,&nbsp;“Strengthening nucleic acid biosecurity screening against generative protein design tools,” (opens in new tab)&nbsp;published in&nbsp;Science&nbsp;on Oct. 2.&nbsp;
+
+
+
+Joining me are&nbsp;three&nbsp;of the larger set of&nbsp;coauthors on that paper:&nbsp;Bruce Wittmann, senior applied scientist at Microsoft;&nbsp;James&nbsp;Diggans, vice president at Twist Bioscience and chair of the board for the International Gene Synthesis Consortium;&nbsp;and Tessa Alexanian, technical lead at the International Biosecurity and Biosafety Initiative for Science, also known as IBBIS.&nbsp;
+
+
+
+				
+				
+					
+
+
+
+Now, let’s&nbsp;rewind two years.&nbsp;Almost to&nbsp;the day, Bruce and I uncovered a vulnerability. While preparing a case study for a workshop on AI and biosecurity, we discovered that open-source AI protein design tools could be used to redesign toxic proteins in ways that could bypass biosecurity screening systems, systems set up to&nbsp;identify&nbsp;incoming orders of concern.&nbsp;
+
+
+
+Now in that work, we&nbsp;created an AI pipeline from open-source tools that could&nbsp;essentially “paraphrase” the amino acid sequences—reformulating&nbsp;them while&nbsp;working to&nbsp;preserve&nbsp;their structure and potentially their function.&nbsp;
+
+
+
+These paraphrased sequences could evade the screening systems used by major DNA&nbsp;synthesis companies, and these are the systems that scientists rely on to safely produce AI-designed proteins.&nbsp;
+
+
+
+Now, experts in the field described this finding as the first “zero day” for AI and biosecurity.&nbsp;And this&nbsp;marked the beginning of a deep, two-year collaborative effort to investigate and address this challenge.&nbsp;
+
+
+
+With the help of a&nbsp;strong&nbsp;cross-sector team—including James, Tessa, Bruce, and many others—we worked behind the scenes to build AI biosecurity&nbsp;red-teaming approaches,&nbsp;probe for vulnerabilities, and to design practical fixes. These “patches,” akin to those in cybersecurity,&nbsp;have now been shared with&nbsp;organizations&nbsp;globally to strengthen biosecurity screening.&nbsp;
+
+
+
+This has been one of the most fascinating projects&nbsp;I’ve&nbsp;had the privilege to work on, for its technical complexity, its ethical and policy dimensions, and the remarkable collaboration across industry, government, and nonprofit sectors.&nbsp;
+
+
+
+The project highlights that the&nbsp;same AI tools capable of&nbsp;incredible&nbsp;good can also be misused, requiring us to be vigilant, thoughtful, and creative so we continue to get the most benefit out of AI tools while working to ensure&nbsp;that&nbsp;we avoid costly misuses.&nbsp;
+
+
+
+With that, let me officially welcome our guests.
+
+
+
+Bruce, James, Tessa, welcome to the podcast.
+
+
+
+BRUCE WITTMANN: Thanks, Eric.
+
+
+
+JAMES DIGGANS: Thanks for having us.
+
+
+
+HORVITZ: It&#8217;s been such a pleasure working closely with each of you, not only for your expertise but also for your deep commitment and passion about public health and global safety.
+
+
+
+Before we dive into the technical side of things, I&#8217;d like to ask each of you, how did you get into this field? What inspired you to become biologists and then pursue the implications of advances in AI for biosecurity? Bruce?
+
+
+
+WITTMANN:&nbsp;Well, I&#8217;ve always liked building things. That&#8217;s where I would say I come from. You know, my hobbies when I&#8217;m not working on biology or AI things—as you know, Eric—is, like, building things around the house, right. Doing construction. That kind of stuff.
+
+
+
+But my broader interests have always been biology, chemistry. So I originally got into organic chemistry. I found that was fascinating. From there, went to synthetic biology, particularly metabolic engineering, because that&#8217;s kind of like organic chemistry, but you&#8217;re wiring together different parts of an organism’s metabolism rather than different chemical reactions. And while I was working in that space, I, kind of, had the thought of there&#8217;s got to be an easier way to do this [LAUGHS] because it is really difficult to do any type of metabolic engineering. And that&#8217;s how I got into the AI space, trying to solve these very complicated biological problems, trying to build things that we don&#8217;t necessarily even understand using our understanding from data or deriving understanding from data.
+
+
+
+So, you know, that&#8217;s the roundabout way of how I got to where I am—the abstract way of how I got to where I am.
+
+
+
+HORVITZ: And, Tessa, what motivated you to jump into this area and zoom into biology and biosciences and helping us to avoid catastrophic outcomes?
+
+
+
+ALEXANIAN: Yeah, I mean, probably the origin of me being really excited about biology is actually a book called [The] Lives of [a] Cell (opens in new tab) by Lewis Thomas, which is an extremely beautiful book of essays that made me be like, Oh, wow, life is just incredible. I think I read it when I was, you know, 12 or 13, and I was like, Life is incredible. I want to work on this. This is the most beautiful science, right. And then I, in university, I was studying engineering, and I heard there was this engineering team for engineering biology—this iGEM (opens in new tab) team—and I joined it, and I thought, Oh, this is so cool. I really got to go work in this field of synthetic biology.
+
+
+
+And then I also tried doing the wet lab biology, and I was like, Oh, but I don&#8217;t like this part. I don&#8217;t actually, like, like babysitting microbes. [LAUGHTER] I think there&#8217;s a way … some people who are great wet lab biologists are made of really stern stuff. And they really enjoy figuring out how to redesign their negative controls so they can figure out whether it was contamination or whether it was, you know, temperature fluctuation. I&#8217;m not that, apparently.
+
+
+
+And so I ended up becoming a lab automation engineer because I could help the science happen, but I … but my responsibilities were the robots and the computers rather than the microbes, which I find a little bit intransigent.
+
+
+
+HORVITZ: Right. I was thinking of those tough souls; they also used their mouths to do pipetting and so on of these contaminated fluids …
+
+
+
+WITTMANN: Not anymore. ALEXANIAN: It&#8217;s true. [LAUGHTER]
+
+
+
+DIGGANS: Not anymore. [LAUGHS]
+
+
+
+ALEXANIAN: They used to be tougher. They used to be tougher.
+
+
+
+HORVITZ: James.
+
+
+
+DIGGANS: So I did my undergrad in computer science and microbiology, mostly because at the time, I couldn&#8217;t pick which of the two I liked more. I liked them both. And by the time I graduated, I was lucky enough that I realized that the intersection of the two could be a thing. And so I did a PhD in computational biology, and then I worked for five years at the MITRE Corporation. It’s a nonprofit. I got the chance to work with the US biodefense community and just found an incredible group of people working to protect forces and the population at large from biological threats and just learned a ton about both biology and also dual-use risk. And then so when Twist called me and asked if I wanted to join Twist and set up their biosecurity program, I leapt at the chance and have done that for the past 10 years.
+
+
+
+HORVITZ: Well, thanks everyone.
+
+
+
+I believe that AI-powered protein design in particular is one of the most exciting frontiers of modern science. It holds promise for breakthroughs in medicine, public health, even material science. We&#8217;re already seeing it lead to new vaccines, novel therapeutics, and—on the scientific front—powerful insights into the machinery of life.
+
+
+
+So there&#8217;s much more ahead, especially in how AI can help us promote wellness, longevity, and the prevention of disease. But before we get too far ahead, while some of our listeners work in bioscience, many may not have a good understanding of some of the foundations.
+
+
+
+So, Bruce, can you just give us a high-level overview of proteins? What are they? Why are they important? How do they figure into human-designed applications?
+
+
+
+WITTMANN: Sure. Yeah. Fortunately, I used to TA a class on AI for protein design, so it’s right in my wheelhouse. [LAUGHS]
+
+
+
+HORVITZ: Perfect, perfect background. [LAUGHS]
+
+
+
+WITTMANN:&nbsp;It&#8217;s perfect. Yeah. I got to go back to all of that. Yeah, so from the very basic level, proteins are the workhorses of life.
+
+
+
+Every chemical reaction that happens in our body—well, nearly every chemical reaction that happens in our body—most of the structure of our cells, you name it. Any life process, proteins are central to it.
+
+
+
+Now proteins are encoded by what are known as … well, I shouldn&#8217;t say encoded. They are constructed from what are called amino acids—there are 20 of them—and depending on the combination and order in which you string these amino acids together, you get a different protein sequence. So that&#8217;s what we mean when we say protein sequence.
+
+
+
+The sequence of a protein then determines what shape that protein folds into in a cell, and that shape determines what the protein does. So we will often say sequence determines structure, which determines function.
+
+
+
+Now the challenge that we face in engineering proteins is just how many possibilities there are. For all practical purposes, it&#8217;s infinite. So we have 20 building blocks. There are on average around 300 amino acids in a protein. So that&#8217;s 20 to the power of 300 possible combinations. And a common reference point is that it&#8217;s estimated there are around 10 to the 80 particles in the observable universe. So beyond astronomical numbers of possible combinations that we could have, and the job of a protein engineer is to find that one or a few of the proteins within that space that do what we want it to do.
+
+
+
+So when a human has an idea of, OK, here&#8217;s what I want a protein to do, we have various techniques of finding that desired protein, one of which is using artificial intelligence and trying to either sift through that milieu of potential proteins or, as we&#8217;ll talk about more in this podcast, physically generating them. So creating them in a way, sampling them out of some distribution of reasonable proteins.
+
+
+
+HORVITZ: Great. So I wanted to throw it to James now to talk about how protein design goes from computer to reality—from in silico to test tubes. What role does Twist Bioscience (opens in new tab) play in transforming digital protein designs into synthesized proteins? And maybe we can talk also about what safeguards are in place at your company and why do we need them.
+
+
+
+DIGGANS: So all of these proteins that Bruce has described are encoded in DNA. So the language that our cells use to kind of store the information about how to make these proteins is all encoded in DNA. And so if you as an engineer have designed a protein and you want to test it to see if it does what you think it does, the first step is to have the DNA that encodes that protein manufactured, and companies like Twist carry out that role.
+
+
+
+So we are cognizant also, however, that these are what are called dual-use technologies. So you can use DNA and proteins for an incredible variety of amazing applications. So drug development, agricultural improvements, bioindustrial manufacturing, all manner of incredible applications. But you could also potentially use those to cause harm so toxins or other, you know, sort of biological misuse.
+
+
+
+And so the industry has since at least 2010 recognized that they have a responsibility to make sure that when we&#8217;re asked to make some sequence of DNA that we understand what that thing is encoding and who we&#8217;re giving it for. So we&#8217;re screening both the customer that&#8217;s coming to us and we&#8217;re screening the sequence that they&#8217;re requesting.
+
+
+
+And so Twist has long invested in a very, sort of, complicated system for essentially reverse engineering the constructs that we&#8217;re asked to make so that we understand what they are. And then a system where we engage with our customers and make sure that they&#8217;re going to use those for legitimate purpose and responsibly.
+
+
+
+HORVITZ: And how do the emergence of these new generative AI tools influence how you think about risk?
+
+
+
+DIGGANS: A lot of the power of these AI tools is they allow us to make proteins or design proteins that have never existed before in nature to carry out functions that don&#8217;t exist in the natural world. That&#8217;s an extremely powerful capability.
+
+
+
+But the existing defensive tools that we use at DNA synthesis companies generally rely on what&#8217;s called homology, similarity to known naturally occurring sequences, to determine whether something might pose risk. And so AI tools kind of break the link between those two things.
+
+
+
+HORVITZ: Now you also serve as chair of the International Gene Synthesis Consortium (opens in new tab). Can you tell us a little bit more about the IGSC, its mission, how it supports global biosecurity?
+
+
+
+DIGGANS: Certainly. So the IGSC was founded in 2010[1] and right now has grown to more than 40 companies and organizations across 10 countries. And the IGSC is essentially a place where companies who might be diehard competitors in the market around nucleic acid synthesis come together and design and develop best practices around biosecurity screening to, kind of, support the shared interest we all have in making sure that these technologies are not subject to misuse.
+
+
+
+HORVITZ: Thanks, James. Now, Tessa, your organization, IBBIS (opens in new tab) is focused—it&#8217;s a beautiful mission—on advancing science while minimizing catastrophic risk, likelihood of catastrophic risk. When we say catastrophic risk, what do we really mean, Tessa, in the context of biology and AI? And how is that … do you view that risk landscape as evolving as AI capabilities are growing?
+
+
+
+ALEXANIAN: I think the … to be honest, as a person who&#8217;s been in biosecurity for a while, I&#8217;ve been surprised by how much of the conversation about the risks from advances in artificial intelligence has centered on the risk of engineered biological weapons and engineered pandemics.
+
+
+
+Even recently, there was a new discussion on introducing redlines for AI that came up at the UN General Assembly. And the very first item they list in their list of risks, if I&#8217;m not mistaken, was engineered pandemics, which is exactly the sort of thing that people fear could be done, could be done with these biological AI tools.
+
+
+
+Now, I think that when we talk about catastrophic risk, we talk about, you know, something that has an impact on a large percentage of humanity. And I think the reason that we think that biotechnologies pose a catastrophic risk is that we believe there, as we&#8217;ve seen with many historical pandemics, there&#8217;s a possibility for something to emerge or be created that is beyond our society&#8217;s ability to control.
+
+
+
+You know, there were a few countries in COVID that managed to more or less successfully do a zero-COVID policy, but that was not, that was not most countries. That was not any of the countries that I lived in. And, you know, we saw millions of people die. And I think we believe that with something like the 1918 influenza, which had a much higher case fatality rate, you could have far more people die.
+
+
+
+Now, why we think about this in the context of AI and where this connects to DNA synthesis is that, you know, there is a … these risks of both, sort of, public health risks, pandemic risks, and misuse risks—people deliberately trying to do harm with biology, as we&#8217;ve seen from the long history of biological weapons programs—you know, we think that those might be accelerated in a few different ways by AI technology, both the potential … and I say potential here because as everyone who has worked in a wet lab—which I think is everyone on this call—knows, engineering biology is really difficult. So there&#8217;s maybe a potential for it to become easier to develop biological technology for the purposes of doing harm, and there&#8217;s maybe also the potential to create novel threats.
+
+
+
+And so I think people talk about both of those, and people have been looking hard for possible safeguards. And I think one safeguard that exists in this biosecurity world that, for example, doesn&#8217;t exist as cleanly in the cybersecurity world is that none of these biological threats can do harm until they are realized in physical reality, until you actually produce the protein or produce the virus or the microorganism that could do harm. And so I think at this point of production, both in DNA synthesis and elsewhere, we have a chance to introduce safeguards that can have a really large impact on the amount of risk that we&#8217;re facing—as long as we develop those safeguards in a way that keeps pace with AI.
+
+
+
+HORVITZ: Well, thanks, Tessa. So, Bruce, our project began when I posed a challenge to you of the form: could current open-source AI tools be tasked with rewriting toxic protein sequences in a way that preserves their native structure, and might they evade today&#8217;s screening systems?
+
+
+
+And I was preparing for a global workshop on AI and biosecurity that I&#8217;d been organizing with Frances Arnold, David Baker, and Lynda Stuart, and I wanted a concrete case study to challenge attendees. And what we found was interesting and deeply concerning.
+
+
+
+So I wanted to dive in with you, Bruce, on the technical side. Can you describe some about the generative pipeline and how it works and what you did to build what we might call an AI and biosecurity red-teaming pipeline for testing and securing biosecurity screening tools?
+
+
+
+WITTMANN: Sure. Yeah. I think the best place to start with this is really by analogy.
+
+
+
+An analogy I often use in this case is the type of image generation AI tools we&#8217;re all familiar with now where I can tell the AI model, &#8220;Hey, give me a cartoonish picture of a dog playing fetch.&#8221; And it&#8217;ll do that, and it&#8217;ll give us back something that is likely never been seen before, right. That exact image is new, but the theme is still there. The theme is this dog.
+
+
+
+And that&#8217;s kind of the same technology that we&#8217;re using in this red-teaming pipeline. Only rather than using plain language, English, we&#8217;re passing in what we would call conditioning information that is relevant to a protein.
+
+
+
+So our AI models aren&#8217;t at the point yet where I can say, &#8220;Give me a protein that does x.&#8221; That would be the dream. We&#8217;re a long way from that. But what instead we do is we pass in things that match that theme that we&#8217;re interested in. So rather than saying, &#8220;Hey, give me back the theme on a dog,&#8221; we pass in information that we know will cause or at least push this generative model to create a protein that has the characteristics that we want.
+
+
+
+So in the case of that example you just mentioned, Eric, it would be the protein structure. Like I mentioned earlier, we usually say structure determines function. There&#8217;s obviously a lot of nuance to that, but we can, at a first approximation, say structure determines function. So if I ask an AI model, ”Hey, here&#8217;s this structure; give me a protein sequence that folds to this structure,” just like with that analogy with the dog, it&#8217;s going to give me something that matches that structure but that is likely still never been seen before. It&#8217;s going to be a new sequence.
+
+
+
+So you can imagine taking this one step further. In the red-teaming pipeline, what we would do is take a protein that should normally be captured by DNA synthesis screening—that would be captured by DNA synthesis screening—find its structure, pass it through one of these models, and get variants on the theme of that structure so these new sequences, these synthetic homologs that you mentioned, paraphrased, reformulated, whatever phrase we want to use to describe them.
+
+
+
+And they have a chance or a greater chance than not of maintaining the structure and so maintaining the function while being sufficiently different that they&#8217;re not detected by these tools anymore.
+
+
+
+So that&#8217;s the nuts and bolts of how the red-teaming pipeline comes together. We use more tools than just structure. I think structure is the easiest one to understand. But we have a suite of tools in there, each pass different conditioning information that causes the model to generate sequences that are paraphrased versions of potential proteins of concern.
+
+
+
+HORVITZ: But to get down to brass tacks, what Bruce did for the framing study was … we took the toxic, well-known toxic protein ricin, as we described in a framing paper that&#8217;s actually part of the appendix now to the Science publication, and we generated through this pipeline, composed of open-source tools, thousands of AI-rewritten versions of ricin.
+
+
+
+And this brings us to the next step of our project, way back when, at the early … in the early days of this effort, where Twist Bioscience was one of the companies we approached with what must have seemed like an unusual question to your CEO, in fact, James: would you be open to testing whether current screening systems could detect thousands of AI-rewritten versions of ricin, a well-known toxic protein?
+
+
+
+And your CEO quickly connected me with you, James. So, James, what were your first thoughts on hearing about this project, and how did you respond to our initial framing study?
+
+
+
+DIGGANS: I think my first response was gratitude and excitement. So it was fantastic that Microsoft had really leaned forward on this set of ideas and had produced this dataset. But to have it, you know, show up on our doorstep in a very concrete way with a partner that was ready to, sort of, help us try and address that, I think was a really … a valuable opportunity. And so we really leapt at that.
+
+
+
+HORVITZ: And the results were that both for you and another company, major producer IDT [Integrated DNA Technologies], those thousands of variants flew through … flew under the radar of the biosecurity screening software as we covered in that framing paper.
+
+
+
+Now, after our initial findings on this, we quietly shared the paper with a few trusted contacts, including some in government. Through my work with the White House Office of Science and Technology Policy, or OSTP, we connected up with biosecurity leads there, and it was an OSTP biosecurity lead who described our results as the first zero day in AI and biosecurity. And now in cybersecurity, a zero day is a vulnerability unknown to defenders generally, meaning there&#8217;s no time to respond before it could be exploited should it be known.
+
+
+
+In that vein, we took a cybersecurity approach. We stood up a CERT—C-E-R-T—a cybersecurity [computer] emergency response team approach used in responding to cybersecurity vulnerabilities, and we implemented this process to address what we saw as a vulnerability with AI-enabled challenges to biosecurity.
+
+
+
+At one point down the line, it was so rewarding to hear you say, James, “I&#8217;m really glad Microsoft got here first.” I&#8217;m curious how you think about this kind of AI-enabled vulnerability compared to other ones, biosecurity threats, you&#8217;ve encountered, and I&#8217;d love to hear your perspective on how we handled the situation from the early discovery to the coordination and outreach.
+
+
+
+DIGGANS: Yeah, I think in terms of comparison known threats, the challenge here is really there is no good basis on which we can just, sort of, say, Oh, I&#8217;ll build a new tool to detect this concrete universe of things, right. This was more a pattern of I&#8217;m going to use tools—and I love the name “Paraphrase”; it&#8217;s a fantastic name—I can paraphrase anything that I would normally think of as biological … as posing biological risk, and now that thing is harder to detect for existing tools. And so that really was a very eye-opening experience, and I think the practice of forming this CERT response, putting together a group of people who were well versed not just in the threat landscape but also in the defensive technologies, and then figuring out how to mitigate that risk and broaden that study, I think, was a really incredibly valuable response to the entire synthesis industry.
+
+
+
+HORVITZ: Yeah, and, Bruce, can you describe a little bit about the process by which we expanded the effort beyond our initial framing study to more toxins and then to a larger challenge set and then the results that we pursued and achieved?
+
+
+
+WITTMANN:&nbsp;Yeah, of course. So, you know, using machine learning lingo, you don&#8217;t want to overfit to a single example. So early on with this, as part of the framing study, we were able to show or I should say James and coworkers across the screening field were able to show that this could be patched, right. We needed to just make some changes to the tools,&nbsp;and we could at the very least detect ricin or reformulated versions of ricin.
+
+
+
+So the next step of course was then, OK, how generalizable are these patches? Can they detect other reformulated sequences, as well? So we had to expand the set of proteins that we had reformulated. We couldn&#8217;t just do 10s of thousands of ricins. We had to do 10s of thousands of name your other potentially hazardous …
+
+
+
+HORVITZ: I think we had 72, was it?
+
+
+
+WITTMANN:&nbsp;It was 72 in the end that we ended up at. I believe, James, it was you and maybe Jake, another one of the authors on the list … on the paper, who primarily put that list together &#8230;
+
+
+
+HORVITZ: This is Jacob Beal … Jacob Beal at Raytheon BBN.
+
+
+
+WITTMANN: I think James actually might be the better one to answer how this list was expanded.
+
+
+
+DIGGANS:&nbsp;Initially the focus [was] on ricin as a toxin so that list expanded to 62 sort of commonly controlled toxins that are subject to an export control restriction or other concern. And then on top of that, we added 10 viral proteins. So we didn&#8217;t really just want to look at toxins. We also wanted to look at viral proteins, largely because those proteins tend to have multiple functions. They have highly constrained structures. And so if we could work in a toxin context, could Paraphrase also do the same for viral proteins, as well.
+
+
+
+HORVITZ: And, Bruce, can you describe some about how we characterize the updates and the, we&#8217;ll say, the boost in capabilities of the patched screening tools?
+
+
+
+WITTMANN: So we had, like you said, Eric, 72 base proteins or template proteins. And for each of those, we had generated a few 100 to a couple thousand reformulated variants of them. The only way to really get any sense of validity of those sequences was to predict their structures. So we predicted protein structures for I think it was 70ish thousand protein structures in the end that we had to predict and score them using in silico metrics. So things like, how similar is this to that template, wild-type protein structure that we used as our conditioning information?
+
+
+
+We put them on a big grid. So we have two axes. We have on the x-axis—and this is a figure in our paper—the quality of the prediction. It&#8217;s essentially a confidence metric: how realistic is this protein sequence? And on the other axis is, how similar is the predicted structure of this variant to the original? And ultimately, what we were wanting to see was the proteins that scored well in both of those metrics, so that showed up in the top right of that diagram, were caught primarily, because these are again the ones that are most likely, having to say most likely, to retain function of the original.
+
+
+
+So when you compare the original tools—Tool Series A, right, the unpatched tools—what you&#8217;ll find is varying degrees of success in the top right. It varied by tool. But in some cases, barely anything being flagged as potentially hazardous. And so improvement is then in the next series—Series B, the patched version of tools—we have more flagged in that upper-right corner.
+
+
+
+HORVITZ: And we felt confident that we had a more AI-resilient screening solution across the companies, and, James, at this point, the whole team decided it was time to disclose the vulnerability as well as the patch details and pointers to where to go for the updated screening software and to communicate this to synthesis companies worldwide via the IGSC. This was probably July, I think, of 2024. What was that process like, and how did members respond?
+
+
+
+DIGGANS: I think members were really grateful and excited. To present to that group, to say, hey, this activity (a) has gone on, (b) was successful, and (c) was kept close hold until we knew how to mitigate this, I think everyone was really gratified by that and comforted by the fact that now they had kind of off-the-shelf solutions that they could use to improve their resilience against any incoming heavily engineered protein designs.
+
+
+
+HORVITZ: Thanks, James.
+
+
+
+Now, I know that we all understand this particular effort to be important but a piece of the biosecurity and AI problem. I&#8217;m just curious to … I’ll ask all three of you to just share some brief reflections.
+
+
+
+I know, Bruce, you&#8217;ve been on … you’ve stayed on this, and we’ve—all of us on the original team—have other projects going on that are pushing on the frontiers ahead of where we were with this paper when we published it.
+
+
+
+Let me start with Tessa in terms of, like, what new risks do you see emerging as AI accelerates and maybe couple that with thoughts about how do we proactively get ahead of them.
+
+
+
+ALEXANIAN: Yeah, I think with the Paraphrase’s work, as Bruce explained so well, you know, I sometimes use the metaphor of the previous response that the IGSC had to do, the synthesis screening community, where it used to be you could look for similarities to DNA sequences, and then everyone started doing synthetic biology where they were doing codon optimization so that proteins could express more efficiently in different host organisms, and now all of a sudden, well, you&#8217;ve scrambled your DNA sequence and it doesn&#8217;t look very similar even though your protein sequence actually still looks, you know, very similar or often the same once it&#8217;s been translated from DNA to protein, and so that was a, you know, many, many in the industry were already screening both DNA and protein, but they had to start screening … everybody had to start screening protein sequences even just to do the similarity testing as these codon optimization tools became universal.
+
+
+
+I feel like we&#8217;re, kind of, in a similar transition phase with protein-design, protein-rephrasing, tools where, you know, these tools are still in many cases drawing from the natural distribution of proteins. You know, I think some of the work we saw in, you know, designing novel CRISPR enzymes, you go, OK, yeah, it is novel; it&#8217;s very unlike any one CRISPR enzyme. But if you do a massive multiple sequence alignment of every CRISPR enzyme that we know about, you&#8217;re like, OK, this fits in the distribution of those enzymes. And so, you know, I think we&#8217;re not … we&#8217;re having to do a more flexible form of screening, where we look for things that are kind of within distribution of natural proteins.
+
+
+
+But I feel like broadly, all of the screening tools were able to respond by doing something like that. And I think &#8230; I still feel like the clock is ticking down on that and that as the AI tools get better at predicting function and designing, sort of, novel sequences to pursue a particular function, you know—you have tools now that can go from Gene Ontology terms to a potential structure or potential sequence that may again be much farther out of the distribution of natural protein—I think all of us on the screening side are going to have to be responding to that, as well.
+
+
+
+So I think I see this as a necessary ongoing engagement between people at the frontier of designing novel biology and people at the frontier of producing all of the materials that allow that novel biology to be tested in the lab. You know, I think this feels like the first, you know, detailed, comprehensive zero day disclosure and response. But I think that&#8217;s … I think we&#8217;re going to see more of those. And I think what I&#8217;m excited about doing at IBBIS is trying to encourage and set up more infrastructure so that you can, as an AI developer, disclose these new discoveries to the people who need to respond before the publication comes out.
+
+
+
+HORVITZ: Thank you, Tessa.
+
+
+
+The, the … Bruce, I mean, you and I are working on all sorts of dimensions. You&#8217;re leading up some efforts at Microsoft, for example, on the foundation model front and so on, among other directions. We&#8217;ve talked about new kinds of embedding models that might go beyond sequence and structure. Can you talk a little bit about just a few of the directions that just paint the larger constellation of the kinds of things that we talk about when we put our worry hats on?
+
+
+
+WITTMANN:&nbsp;I feel like that could have its own dedicated podcast, as well. There&#8217;s a lot … [LAUGHTER] there&#8217;s a lot to talk about.
+
+
+
+HORVITZ: Yeah. We want to make sure that we don&#8217;t tell the world that the whole problem is solved here.
+
+
+
+WITTMANN:&nbsp;Right, right, right. I think Tessa said it really, really well in that most of what we&#8217;re doing right now, it&#8217;s a variant on a known theme. I have to know the structure that does something bad to be able to pass it in as context. I have to know some existing sequence that does something bad to pass it in.
+
+
+
+And obviously the goal is to move away from that in benign applications, where when I&#8217;m designing something, I often want to design it because nothing exists [LAUGHS] that already does it. So we are going to be heading to this space where we don&#8217;t know what this protein does. It&#8217;s kind of a circular problem, right, where we&#8217;re going to need to be able to predict what some obscure protein sequence does in order to be able to still do our screening.
+
+
+
+Now, the way that I think about this, I often think about it beyond just DNA synthesis screening. It&#8217;s one line of defense, and there needs to be many lines of defense that come into play here that go beyond just relying on this one roadblock. It&#8217;s a very powerful roadblock. It&#8217;s a very powerful barrier. But we need to be proactively thinking about how we broaden the scope of defenses. And there are lots of conversations that are ongoing. I won&#8217;t go into the details of them. Again, that would be its own podcast.
+
+
+
+But primarily my big push—and I think this is emerging consensus in the field, though I don&#8217;t want to speak for everybody—is it needs to … any interventions we have need to come more at the systems level and less at the model level, primarily because this is such dual-use technology. If it can be used for good biological design, it can be used for bad biological design. Biology has no sense of morality. There is no bad protein. It&#8217;s just a protein.
+
+
+
+So we need to think about this differently than how we would maybe think about looking at the outputs of that image generator model that I spoke about earlier, where I can physically look at an image and say, don&#8217;t want my model producing that, do want my model producing that. I don&#8217;t have that luxury in this space. So it&#8217;s a totally different problem. It&#8217;s an evolving problem. Conversations are happening about it, but the work is very much not done.
+
+
+
+HORVITZ: And, James, I want to give you the same open question, but I&#8217;d like to apply what Bruce just said on system level and so on and in the spirit of the kind of things that you&#8217;re very much involved with internationally to also add to it, just get some comments on programs and policies that move beyond technical solutions for governance mechanisms—logging, auditing nucleic acid orders, transparency, various kinds—that might complement technical approaches like Paraphrase and their status today.
+
+
+
+DIGGANS: Yeah, I&#8217;m very gratified that Bruce said that we, the synthesis industry, should not be the sole bulwark against misuse. That is very comforting and correct.
+
+
+
+Yeah, so the US government published a guidance document in 2023 that essentially said you, the entire biotech supply chain, have a responsibility to make sure that you&#8217;re evaluating your customers. You should know your customer; you know that they&#8217;re legitimate. I think that&#8217;s an important practice.
+
+
+
+Export controls are designed to minimize the movement of equipment and materials that can be used in support of these kinds of misuse activities. And then governments have really been quite active in trying to incentivize, you know, sort of what we would think of as positive behavior, so screening, for example, in DNA synthesis companies. The US government created a framework in 2024, and it&#8217;s under a rewrite now to basically say US research dollars will only go to companies who make nucleic acid who do these good things. And so that is using, kind of, the government-funding carrot to, kind of, continue to build these layers of defense against potential misuse.
+
+
+
+HORVITZ: Thanks. Now, discussing risk, especially when it involves AI and biosecurity, isn&#8217;t always easy. As we&#8217;ve all been suggesting, some worry about alarming the public or arming bad actors. Others advocate for openness as a principle of doing science with integrity.
+
+
+
+A phase of our work as we prepared our paper was giving serious thought to both the benefits and the risks of transparency about what it was that we were doing. Some experts encouraged full disclosure as important for enhancing the science of biosecurity. Other experts, all experts, cautioned against what are called information hazards, the risk of sharing the details to enable malevolent actions with our findings or our approach.
+
+
+
+So we faced a real question: how can we support open science while minimizing the risk of misuse? And we took all the input we got, even if it was contradictory, very seriously. We carefully deliberated about a good balance, and even then, once we chose our balance and submitted our manuscript to Science, the peer reviewers came back and said they wanted some of the more sensitive details that we withheld with explanations as to why.
+
+
+
+So this provoked some thinking out of the box about a novel approach, and we came up with a perpetual gatekeeping strategy where requests for access to sensitive methods and data and even the software across different risk categories would be carefully reviewed by a committee and a process for access that would continue in perpetuity.
+
+
+
+Now, we brought the proposal to Tessa and her team at IBBIS—this is a great nonprofit group; look at their mission—and we worked with Tessa and her colleagues to refine a workable solution that was accepted by Science magazine as a new approach to handling information hazards as first demonstrated by our paper.
+
+
+
+So, Tessa, thank you again for helping us to navigate such a complex challenge. Can you share your perspective on information hazards? And then walk us through how our proposed system ensures responsible data and software sharing.
+
+
+
+ALEXANIAN: Yeah. And thanks, Eric.
+
+
+
+It&#8217;s all of the long discussions we had among the group of people on this podcast and the other authors on the paper and many people we engaged, you know, technical experts, people in various governments, you know, we heard a lot of contradictory advice.
+
+
+
+And I think it showed us that there isn&#8217;t a consensus right now on how to handle information hazards in biotechnology. You know, I think … I don&#8217;t want to overstate how much of a consensus there is in cybersecurity either. If you go to DEF CON, you&#8217;ll hear people about how they&#8217;ve been mistreated in their attempts to do responsible disclosure for pacemakers and whatnot. But I think we&#8217;re … we have even less of a consensus when it comes to handling biological information.
+
+
+
+You know, you have some people who say, oh, because the size of the consequences could be so catastrophic if someone, you know, releases an engineered flu or something, you know, we should just never share information about this. And then you have other people who say there&#8217;s no possibility of building defenses unless we share information about this. And we heard very strong voices with both of those perspectives in the process of conducting this study.
+
+
+
+And I think what we landed on that I&#8217;m really excited about and really excited to get feedback on now that the paper is out, you know, if you go and compare our preprint, which came out in December of 2024, and this paper in October 2025, you&#8217;ll see a lot of information got added back in.
+
+
+
+And I&#8217;m excited to see people&#8217;s reaction to that because even back in January 2025, talking with people who were signatories to the responsible biodesign commitments, they were really excited that this was such an empirically concrete paper because they&#8217;d maybe read a number of papers talking about biosecurity risks from AI that didn&#8217;t include a whole lot of data, you know, often, I think, because of concerns about information hazards. And they found the arguments in this paper are much more convincing because we are able to share data.
+
+
+
+So the process we underwent that I felt good about was trying to really clearly articulate, when we talk about an information hazard, what are we worried about being done with this data? And if we put this data in public, completely open source, does it shift the risk at all? You know, I think doing that kind of marginal contribution comparison is really important because it also let us make more things available publicly.
+
+
+
+But there were a few tiers of data that after a lot of discussion amongst the authors of the paper, we thought, OK, potentially someone who wanted to do harm, if they got access to this data, it might make it easier for them. Again, not necessarily saying it, you know, it opens the floodgates, but it might make it easier for them. And when we thought about that, we thought, OK, you know, giving all of those paraphrased protein sequences, maybe, maybe that, you know, compared to having to set up the whole pipeline with the open-source tools yourself, just giving you those protein sequences, maybe that makes your life a bit easier if you&#8217;re trying to do harm.
+
+
+
+And then we thought, OK, giving you those protein sequences plus whether or not they were successfully flagged, maybe that makes your life, you know, quite a bit easier. And then finally, we thought, OK, the code that we want to share with some people who might try to reproduce these results or might try to build new screening systems that are more robust, we want to share the code with them. But again, if you have that whole code pipeline just prepared for you, it might really help make your life easier if you&#8217;re trying to do harm.
+
+
+
+And so we, sort of, sorted the data into these three tiers and then went through a process actually very inspired by the existing customer screening processes in nucleic acid synthesis about how to determine, you know, we tried to take an approach not of what gets you in but what gets you out. You know, for the most part, we think it should be possible to access this data.
+
+
+
+You know, if you have an affiliation with a recognizable institution or some good explanation of why you don&#8217;t have one right now, you know, if you have a reason for accessing this data, it shouldn&#8217;t be too hard to meet those requirements, but we wanted to have some in place. And we wanted it to be possible to rule out some people from getting access to this data. And so we&#8217;ve tried to be extremely transparent about what those are. If you go through our data access process and for some reason you get rejected, you&#8217;ll get a list of, &#8220;Here&#8217;s the reasons we rejected you. If you don&#8217;t think that&#8217;s right, get back to us.&#8221;
+
+
+
+So I&#8217;m really excited to pilot this in part because I think, you know, we&#8217;re already in conversations with some other people handling potential bio-AI information hazard about doing a similar process for their data of, you know, tiering it, determining which gates to put in which tiers, but I really hope a number of people do get access through the process or if they try and they fail, they tell us why. Because I think as we move toward this world of potentially, you know, biology that is much easier to engineer, partly due to dual-use tools, you know, my dream is it&#8217;s, like, still hard to engineer harm with biology, even if it&#8217;s really easy to engineer biology. And I think these, kind of, new processes for managing access to things, this sort of like, you know, open but not completely public, I think those can be a big part of that layered defense.
+
+
+
+HORVITZ: Thanks, Tessa. So we&#8217;re getting close to closing, and I just thought I would ask each of you to just share some reflections on what we&#8217;ve learned, the process we&#8217;ve demonstrated, the tools, the policy work that we did, this idea of facing the dual-use dilemma with … even at the information hazard level, with sharing information versus withholding it. What do you think about how our whole end to end of the study, now reaching the two-year point, can help other fields facing dual-use dilemmas?
+
+
+
+Tessa, Bruce, James … James, have you ever thought about that? And we&#8217;ll go to Bruce and then Tessa.
+
+
+
+DIGGANS:&nbsp;Yeah, I think it was an excellent model. I would like to see a study like this repeated on a schedule, you know, every six months because from where I sit, you know, the tools that we used for this project are now two years old. And so capabilities have moved on. Is the picture the same in terms of defensive capability? And so using that model over time, I think, would be incredibly valuable. And then using the findings to chart, you know, how much should we be investing in alternative strategies for this kind of risk mitigation for AI tool … the products of AI tools?
+
+
+
+HORVITZ: Bruce.
+
+
+
+WITTMANN:&nbsp;Yeah, I think I would extend on what James said. The anecdote I like to point out about this project is, kind of, our schedule. We found the vulnerability and it was patched within a week, two weeks, on all major synthesis screening platforms. We wrote the paper within a month. We expanded on the paper within two months, and then we spent a year and a half to nearly two years [LAUGHS] trying to figure out what goes into the paper; how do we release this information; you know, how do we do this responsibly?
+
+
+
+And my hope is similar to what James said. We&#8217;ve made it easier for others to do this type of work. Not this exact work; it doesn&#8217;t have to necessarily do with proteins. But to do this type of work where you are dealing with potential hazards but there is also value in sharing and that hopefully that year and a half we spent figuring out how to appropriately share and what to share will not be a year and a half for other teams because these systems are in place or at least there is an example to follow up from. So that&#8217;s my takeaway.
+
+
+
+HORVITZ: Tessa, bring us home—bring us home! [LAUGHS]
+
+
+
+ALEXANIAN: Bring us home! Let&#8217;s do it faster next time. [LAUGHTER] Come talk to any of us if you&#8217;re dealing with this kind of stuff. You know, I think IBBIS, especially, we want to be a partner for building those layers of defense and, you know, having ripped out our hair as a collective over the past year and a half about the right process to follow here, I think we all really hope it&#8217;ll be faster next time.
+
+
+
+And I think, you know, the other thing I would encourage is if you&#8217;re an AI developer, I would encourage you to think about how your tool can strengthen screening and strengthen recognition of threats.
+
+
+
+I know James and I have talked before about how, you know, our Google search alerts each week send us dozens of cool AI bio papers, and it&#8217;s more like once a year or maybe once every six months, if we&#8217;re lucky, that we get something that&#8217;s like applying AI bio to biosecurity. So, you know, if you&#8217;re interested in these threats, I think we&#8217;d love to see more work that&#8217;s directly applied to facing these threats using the most modern technology.
+
+
+
+HORVITZ: Well said.
+
+
+
+Well, Bruce, James, Tessa, thank you so much for joining me today and for representing the many collaborators, both coauthors and beyond, who made this project possible.
+
+
+
+It&#8217;s been a true pleasure to work with you. I&#8217;m so excited about what we&#8217;ve accomplished, the processes and the models that we&#8217;re now sharing with the world. And I&#8217;m deeply grateful for the collective intelligence and dedication that really powered the effort from the very beginning. So thanks again.
+
+
+
+[MUSIC]
+
+
+
+WITTMANN: Thanks, Eric.
+
+
+
+DIGGANS: Thank you.
+
+
+
+ALEXANIAN: Thank you.
+
+
+
+[MUSIC FADES]
+
+				
+			
+			
+				Show more			
+		
+	
+
+
+
+
+
+
+
+
+[1] The original organization was founded in 2009 and became the International Gene Synthesis Consortium in 2010.
+Opens in a new tabThe post Ideas: More AI-resilient biosecurity with the Paraphrase Project appeared first on Microsoft Research.
+• When AI Meets Biology: Promise, Risk, and Responsibility
+  Advances in AI are opening extraordinary frontiers in biology. AI-assisted protein engineering holds the promise of new medicines, materials, and breakthroughs in scientific understandings. Yet these same technologies also introduce biosecurity risks and may lower barriers to designing harmful toxins or pathogens. This “dual-use” potential, where the same knowledge can be harnessed for good or misuse to cause harm, poses a critical dilemma for modern science.
+
+
+
+Great Promise—and Potential Threat
+
+
+
+I’m excited about the potential for AI-assisted protein design to drive breakthroughs in biology and medicine. At the same time, I’ve also studied how these tools could be misused. In computer-based studies, we found that AI protein design (AIPD) tools could generate modified versions of proteins of concern, such as ricin. Alarmingly, these reformulated proteins were able to evade the biosecurity screening systems used by DNA synthesis companies, which scientists rely on to synthesize AI-generated sequences for experimental use. 
+
+
+
+In our paper published in Science on October 2, “Strengthening nucleic acid biosecurity screening against generative protein design tools (opens in new tab),” we describe a two-year confidential project we began in late 2023 while preparing a case study for a workshop on AI and biosecurity.
+
+
+
+We worked confidentially with partners across organizations and sectors for 10 months to develop AI biosecurity “red-teaming” methods that allowed us to better understand vulnerabilities and craft practical solutions—&#8221;patches” that have now been adopted globally, making screening systems significantly more AI-resilient.
+
+
+
+Summary of AIPD red-teaming workflow.
+
+
+
+For structuring, methods, and process in our study, we took inspiration from the cybersecurity community, where “zero-day” vulnerabilities are kept confidential until a protective patch is developed and deployed. Following the acknowledgment by a small group of workshop attendees of a zero-day for AI in biology, we worked closely with stakeholders—including synthesis companies, biosecurity organizations, and policymakers—to rapidly create and distribute patches that improved detection of AI-redesigned protein sequences. We delayed public disclosure until protective measures were in place and widely adopted.
+
+
+
+Dilemma of Disclosure
+
+
+
+The dual use dilemma also complicates how we share information about vulnerabilities and safeguards. Across AI and other fields, researchers face a core question: 
+
+
+
+
+How can scientists share potentially risk-revealing methods and results in ways that enable progress without offering a roadmap for misuse?
+
+
+
+
+We recognized that our work itself—detailing methods and failure modes—could be exploited by malicious actors if published openly. To guide decisions about what to share, we held a multi-stakeholder deliberation involving government agencies, international biosecurity organizations, and policy experts. Opinions varied: some urged full transparency to maximize reproducibility—and to help others to build on our work; others stressed restraint to minimize risk. It was clear that a new model of scientific communication was needed, one that could balance openness and security.
+
+
+
+The Novel Framework
+
+
+
+The risk of sharing dangerous information through biological research has become a growing concern. We have participated in community-wide discussion on the challenges, including a recent National Academies of Science, Engineering, and Medicine workshop and study.&nbsp;
+
+
+
+In preparing our manuscript for publication, we worked on designing a process to limit the spread of dangerous information while still enabling scientific progress.&nbsp;
+
+
+
+To address the dual challenges, we devised a tiered access system for data and methods, implemented in partnership with the International Biosecurity and Biosafety Initiative for Science (IBBIS) (opens in new tab), a nonprofit dedicated to advancing science while reducing catastrophic risks. The system works as follows:
+
+
+
+
+Controlled access: Researchers can request access through IBBIS, providing their identity, affiliation, and intended use. Requests are reviewed by an expert biosecurity committee, ensuring that only legitimate scientists conducting relevant research gain access.
+
+
+
+Stratified tiers of information: Data and code are classified into several tiers according to their potential hazard, from low-risk summaries through sensitive technical data to critical software pipelines.
+
+
+
+Safeguards and agreements: Approved users sign tailored usage agreements, including non-disclosure terms, before receiving data.
+
+
+
+Resilience and longevity: Provisions are built in for declassification when risks subside, and for succession of stewardship to trusted organizations should IBBIS be unable to continue its operation.
+
+
+
+
+This framework allows replication and extension of our work while guarding against misuse. Rather than relying on secrecy, it provides a durable system of responsible access.
+
+
+
+To ensure continued funding for the storage and responsible distribution of sensitive data and software, and for the operation of the sharing program, we provided an endowment to IBBIS to support the program in perpetuity. This approach was modeled after the One Hundred Year Study on AI at Stanford, which is endowed to continue for the life of the university.
+
+
+
+An Important Step in Scientific Publishing
+
+
+
+We are pleased that the leadership at Science accepted our approach to handling information hazards. To our knowledge, this is the first time a leading scientific journal has formally endorsed a tiered-access approach to manage an information hazard. This recognition validates the idea that rigorous science and responsible risk management can coexist—and that journals, too, can play a role in shaping how sensitive knowledge is shared. We acknowledge the visionary leadership at Science, including editors, Michael Funk and Valda Vinson, and Editor-in-Chief, Holden Thorp.
+
+
+
+Beyond Biology: A Model for Sensitive Research
+
+
+
+While developed for AI-powered protein design, our approach offers a generalizable model for dual-use research of concern (DURC) across disciplines. Whether in biology, chemistry, or emerging technologies, scientists will increasingly confront situations where openness and security pull in opposite directions. Our experience shows that these values can be balanced: with creativity, coordination, and new institutional mechanisms, science can uphold both reproducibility and responsibility.
+
+
+
+We hope this framework becomes a template for future projects, offering a way forward for researchers who wish to share their insights without amplifying risks. By embedding resilience into how knowledge is communicated—not just what is communicated—we can ensure that scientific progress continues to serve humanity safely.
+
+
+
+The responsible management of information hazards is no longer a peripheral concern: it is central to how science will advance in the age of powerful technologies like AI. This approach to managing information hazards demonstrates a path forward, where novel frameworks for access and stewardship allow sensitive but vital research to be shared, scrutinized, and extended responsibly. Approaches like this will be critical to ensuring that scientific openness and societal safety advance hand-in-hand.
+
+
+
+
+
+
+
+Additional reading
+
+
+
+Strengthening nucleic acid biosecurity screening against generative protein design tools.
+
+
+
+The Age of AI in the Life Sciences: Benefits and Biosecurity Considerations, National Academies of Science, Engineering, and Medicine, 2025. (opens in new tab)
+
+
+
+Disseminating In Silico and Computational Biological Research: Navigating Benefits and Risks: Proceedings of a Workshop, National Academies of Science, Engineering, and Medicine, 2025. (opens in new tab)
+
+
+
+Protecting scientific integrity in an age of generative AI, Proceedings of the National Academy of Science, 2024. (opens in new tab)
+Opens in a new tabThe post When AI Meets Biology: Promise, Risk, and Responsibility appeared first on Microsoft Research.
+• Responsible AI: How PowerSchool safeguards millions of students with AI-powered content filtering using Amazon SageMaker AI
+  This post is cowritten with Gayathri Rengarajan and Harshit Kumar Nyati from PowerSchool. 
+PowerSchool is a leading provider of cloud-based software for K-12 education, serving over 60 million students in more than 90 countries and over 18,000 customers, including more than 90 of the top 100 districts by student enrollment in the United States. When we launched PowerBuddy, our AI assistant integrated across our multiple educational platforms, we faced a critical challenge: implementing content filtering sophisticated enough to distinguish between legitimate academic discussions and harmful content in educational contexts. 
+In this post, we demonstrate how we built and deployed a custom content filtering solution using Amazon SageMaker AI that achieved better accuracy while maintaining low false positive rates. We walk through our technical approach to fine tuning Llama 3.1 8B, our deployment architecture, and the performance results from internal validations. 
+PowerSchool’s PowerBuddy 
+PowerBuddy is an AI assistant that provides personalized insights, fosters engagement, and provides support throughout the educational journey. Educational leaders benefit from PowerBuddy being brought to their data and their users’ most common workflows within the PowerSchool ecosystem – such as Schoology Learning, Naviance CCLR, PowerSchool SIS, Performance Matters, and more – to ensure a consistent experience for students and their network of support providers at school and at home. 
+The PowerBuddy suite includes several AI solutions: PowerBuddy for Learning functions as a virtual tutor; PowerBuddy for College and Career provides insights for career exploration; PowerBuddy for Community simplifies access to district and school information, and others. The solution includes built-in accessibility features such as speech-to-text and text-to-speech functionality. 
+Content filtering for PowerBuddy 
+As an education technology provider serving millions of students—many of whom are minors—student safety is our highest priority. National data shows that approximately 20% of students ages 12–17 experience bullying, and 16% of high school students have reported seriously considering suicide. With PowerBuddy’s widespread adoption across K-12 schools, we needed robust guardrails specifically calibrated for educational environments. 
+The out-of-the-box content filtering and safety guardrails solutions available on the market didn’t fully meet PowerBuddy’s requirements, primarily because of the need for domain-specific awareness and fine-tuning within the education context. For example, when a high school student is learning about sensitive historical topics such as World War II or the Holocaust, it’s important that educational discussions aren’t mistakenly flagged for violent content. At the same time, the system must be able to detect and immediately alert school administrators to indications of potential harm or threats. Achieving this nuanced balance requires deep contextual understanding, which can only be enabled through targeted fine-tuning. 
+We needed to implement a sophisticated content filtering system that could intelligently differentiate between legitimate academic inquiries and truly harmful content—detecting and blocking prompts indicating bullying, self-harm, hate speech, inappropriate sexual content, violence, or harmful material not suitable for educational settings. Our challenge was finding a cloud solution to train and host a custom model that could reliably protect students while maintaining the educational functionality of PowerBuddy. 
+After evaluating multiple AI providers and cloud services that allow model customization and fine-tuning, we selected Amazon SageMaker AI as the most suitable platform based on these critical requirements: 
+ 
+ Platform stability: As a mission-critical service supporting millions of students daily, we require an enterprise-grade infrastructure with high availability and reliability. 
+ Autoscaling capabilities: Student usage patterns in education are highly cyclical, with significant traffic spikes during school hours. Our solution needed to handle these fluctuations without degrading performance. 
+ Control of model weights after fine-tuning: We needed control over our fine-tuned models to enable continuous refinement of our safety guardrails, enabling us to quickly respond to new types of harmful content that might emerge in educational settings. 
+ Incremental training capability: The ability to continually improve our content filtering model with new examples of problematic content was essential. 
+ Cost-effectiveness: We needed a solution that would allow us to protect students without creating prohibitive costs that would limit schools’ access to our educational tools. 
+ Granular control and transparency: Student safety demands visibility into how our filtering decisions are made, requiring a solution that isn’t a black box but provides transparency into model behavior and performance. 
+ Mature managed service: Our team needed to focus on educational applications rather than infrastructure management, making a comprehensive managed service with production-ready capabilities essential. 
+ 
+Solution overview 
+ 
+Our content filtering system architecture, shown in the preceding figure, consists of several key components: 
+ 
+ Data preparation pipeline: 
+   
+   Curated datasets of safe and unsafe content examples specific to educational contexts 
+   Data preprocessing and augmentation to ensure robust model training 
+   Secure storage in Amazon S3 buckets with appropriate encryption and access controls Note: All training data was fully anonymized and did not include personally identifiable student information 
+    
+ 
+ 
+ Model training infrastructure: 
+   
+   SageMaker training jobs for fine-tuning Llama 3.1 8B 
+    
+ 
+ 
+ Inference architecture: 
+   
+   Deployment on SageMaker managed endpoints with auto-scaling configured 
+   Integration with PowerBuddy through Amazon API Gateway for real-time content filtering 
+   Monitoring and logging through Amazon CloudWatch for continuous quality assessment 
+    
+ 
+ 
+ Continuous improvement loop: 
+   
+   Feedback collection mechanism for false positives/negatives 
+   Scheduled retraining cycles to incorporate new data and improve performance 
+   A/B testing framework to evaluate model improvements before full deployment 
+    
+ 
+Development process 
+After exploring multiple approaches to content filtering, we decided to fine-tune Llama 3.1 8B using Amazon SageMaker JumpStart. This decision followed our initial attempts to develop a content filtering model from scratch, which proved challenging to optimize for consistency across various types of harmful content. 
+SageMaker JumpStart significantly accelerated our development process by providing pre-configured environments and optimized hyperparameters for fine-tuning foundation models. The platform’s streamlined workflow allowed our team to focus on curating high-quality training data specific to educational safety concerns rather than spending time on infrastructure setup and hyperparameter tuning. 
+We fine-tuned Llama 3.1 8B model using Low Rank Adaptation (LoRA) technique on Amazon SageMaker AI training jobs, which allowed us to maintain full control over the training process. 
+After the fine-tuning was done, we deployed the model on SageMaker AI managed endpoint and integrated it as a critical safety component within our PowerBuddy architecture. 
+For our production deployment, we selected NVIDIA A10G GPUs available through ml.g5.12xlarge instances, which offered the ideal balance of performance and cost-effectiveness for our model size. The AWS team provided crucial guidance on selecting optimal model serving configuration for our use case. This advice helped us optimize both performance and cost by ensuring we weren’t over-provisioning resources. 
+Technical implementation 
+Below is the code snippet to fine-tune the model on the pre-processed dataset. Instruction tuning dataset is first converted into domain adaptation dataset format and scripts utilize Fully Sharded Data Parallel (FSDP) as well as Low Rank Adaptation (LoRA) method for fine-tuning the model. 
+We define an estimator object first. By default, these models train via domain adaptation, so you must indicate instruction tuning by setting the instruction_tuned hyperparameter to True. 
+ 
+ estimator = JumpStartEstimator(
+    model_id=model_id,
+    environment={"accept_eula": "true"},  
+    disable_output_compression=True,
+    hyperparameters={
+        "instruction_tuned": "True",
+        "epoch": "5",
+        "max_input_length": "1024",
+        "chat_dataset": "False"
+    },
+    sagemaker_session=session,
+    base_job_name = "CF-M-0219251"
+) 
+ 
+After we define the estimator, we are ready to start training: 
+estimator.fit({"training": train_data_location}) 
+After training, we created a model using the artifacts stored in S3 and deployed the model to a real-time endpoint for evaluation. We tested the model using our test dataset that covers key scenarios to validate performance and behavior. We calculated recall, F1, confusion matrix and inspected misclassifications. If needed, adjust hyperparameters/prompt template and retrain; otherwise proceed with production deployment. 
+You can also check out the sample notebook for fine tuning Llama 3 models on SageMaker JumpStart in SageMaker examples. 
+We used the Faster autoscaling on Amazon SageMaker realtime endpoints notebook to set up autoscaling on SageMaker AI endpoints. 
+Validation of solution 
+To validate our content filtering solution, we conducted extensive testing across multiple dimensions: 
+ 
+ Accuracy testing: In our internal validation testing, the model achieved ~93% accuracy in identifying harmful content across a diverse test set representing various forms of inappropriate material. 
+ False positive analysis: We worked to minimize instances where legitimate educational content was incorrectly flagged as harmful, achieving a false positive rate of less than 3.75% in test environments; results may vary by school context. 
+ Performance testing: Our solution maintained response times averaging 1.5 seconds. Even during peak usage periods simulating real classroom environments, the system consistently delivered seamless user experience with no failed transactions. 
+ Scalability and reliability validation: 
+   
+   Comprehensive load testing achieved 100% transaction success rate with consistent performance distribution, validating system reliability under sustained educational workload conditions. 
+   Transactions completed successfully without degradation in performance or accuracy, demonstrating the system’s ability to scale effectively for classroom-sized concurrent usage scenarios. 
+    
+ Production deployment: Initial rollout to a select group of schools showed consistent performance in real-world educational environments. 
+ Student safety outcomes: Schools reported a significant reduction in reported incidents of AI-enabled bullying or inappropriate content generation compared to other AI systems without specialized content filtering. 
+ 
+Fine-tuned model metrics compared to out-of-the-box content filtering solutions 
+The fine-tuned content filtering model demonstrated higher performance than generic, out-of-the-box filtering solutions in key safety metrics. It achieved a higher accuracy (0.93 compared to 0.89), and better F1-scores for both the safe (0.95 compared to 0.91) and unsafe (0.90 compared to 0.87) classes. The fine-tuned model also demonstrated a more balanced trade-off between precision and recall, indicating more consistent performance across classes. Importantly, it makes fewer false positive errors by misclassifying only 6 safe cases as unsafe, compared to 19 original responses in a test set of 160— a significant advantage in safety-sensitive applications. Overall, our fine-tuned content filtering model proved to be more reliable and effective. 
+Future plans 
+As the PowerBuddy suite evolves and is integrated into other PowerSchool products and agent flows, the content filter model will be continuously adapted and improved with fine tuning for other products with specific needs. 
+We plan to implement additional specialized adapters using the SageMaker AI multi-adapter inference feature alongside our content filtering model subject to feasibility and compliance consideration. The idea is to deploy fine-tuned small language models (SLMs) for specific problem solving in cases where large language models (LLMs) are huge and generic and don’t meet the need for narrower problem domains. For example: 
+ 
+ Decision making agents specific to the Education domain 
+ Data domain identification in cases of text to SQL queries 
+ 
+This approach will deliver significant cost savings by eliminating the need for separate model deployments while maintaining the specialized performance of each adapter. 
+The goal is to create an AI learning environment that is not only safe but also inclusive and responsive to diverse student needs across our global implementations, ultimately empowering students to learn effectively while being protected from harmful content. 
+Conclusion 
+The implementation of our specialized content filtering system on Amazon SageMaker AI has been transformative for PowerSchool’s ability to deliver safe AI experiences in educational settings. By building robust guardrails, we’ve addressed one of the primary concerns educators and parents have about introducing AI into classrooms—helping to ensure student safety. 
+As Shivani Stumpf, our Chief Product Officer, explains: “We’re now tracking around 500 school districts who’ve either purchased PowerBuddy or activated included features, reaching over 4.2 million students approximately. Our content filtering technology ensures students can benefit from AI-powered learning support without exposure to harmful content, creating a safe space for academic growth and exploration.” 
+The impact extends beyond just blocking harmful content. By establishing trust in our AI systems, we’ve enabled schools to embrace PowerBuddy as a valuable educational tool. Teachers report spending less time monitoring student interactions with technology and more time on personalized instruction. Students benefit from 24/7 learning support without the risks that might otherwise come with AI access. 
+For organizations requiring domain-specific safety guardrails, consider how the fine-tuning capabilities and managed endpoints of SageMaker AI can be adapted to your use case. 
+As we continue to expand PowerBuddy’s capabilities with the multi-adapter inference of SageMaker, we remain committed to maintaining the perfect balance between educational innovation and student safety—helping to ensure that AI becomes a positive force in education that parents, teachers, and students can trust. 
+ 
+About the authors 
+Gayathri Rengarajan is the Associate Director of Data Science at PowerSchool, leading the PowerBuddy initiative. Known for bridging deep technical expertise with strategic business needs, Gayathri has a proven track record of delivering enterprise-grade generative AI solutions from concept to production. 
+ Harshit Kumar Nyati is a Lead Software Engineer at PowerSchool with 10+ years of experience in software engineering and analytics. He specializes in building enterprise-grade Generative AI applications using Amazon SageMaker AI, Amazon Bedrock, and other cloud services. His expertise includes fine-tuning LLMs, training ML models, hosting them in production, and designing MLOps pipelines to support the full lifecycle of AI applications. 
+Anjali Vijayakumar is a Senior Solutions Architect at AWS with over 9 years of experience helping customers build reliable and scalable cloud solutions. Based in Seattle, she specializes in architectural guidance for EdTech solutions, working closely with Education Technology companies to transform learning experiences through cloud innovation. Outside of work, Anjali enjoys exploring the Pacific Northwest through hiking. 
+Dmitry Soldatkin&nbsp;is a Senior AI/ML Solutions Architect at Amazon Web Services (AWS), helping customers design and build AI/ML solutions. Dmitry’s work covers a wide range of ML use cases, with a primary interest in Generative AI, deep learning, and scaling ML across the enterprise. He has helped companies in many industries, including insurance, financial services, utilities, and telecommunications. You can connect with Dmitry on&nbsp;LinkedIn. 
+Karan Jain is a Senior Machine Learning Specialist at AWS, where he leads the worldwide Go-To-Market strategy for Amazon SageMaker Inference. He helps customers accelerate their generative AI and ML journey on AWS by providing guidance on deployment, cost-optimization, and GTM strategy. He has led product, marketing, and business development efforts across industries for over 10 years, and is passionate about mapping complex service features to customer solutions.
 • Unlock global AI inference scalability using new global cross-Region inference on Amazon Bedrock  with Anthropic’s Claude Sonnet 4.5
   Organizations are increasingly integrating generative AI capabilities into their applications to enhance customer experiences, streamline operations, and drive innovation. As generative AI workloads continue to grow in scale and importance, organizations face new challenges in maintaining consistent performance, reliability, and availability of their AI-powered applications. Customers are looking to scale their AI inference workloads across multiple AWS Regions to support consistent performance and reliability. 
 To address this need, we introduced cross-Region inference (CRIS) for Amazon Bedrock. This managed capability automatically routes inference requests across multiple Regions, enabling applications to handle traffic bursts seamlessly and achieve higher throughput without requiring developers to predict demand fluctuations or implement complex load-balancing mechanisms. CRIS works through inference profiles, which define a foundation model (FM) and the Regions to which requests can be routed. 
@@ -956,409 +1976,5 @@ Dhawal Patel is a Principal Machine Learning Architect at Amazon Web Services (A
 Sindhura Palakodety is a Senior Solutions Architect at Amazon Web Services (AWS) and Single-Threaded Leader (STL) for ISV Generative AI, where she is dedicated to empowering customers in developing enterprise-scale, Well-Architected solutions. She specializes in generative AI and data analytics domains, enabling organizations to leverage innovative technologies for transformative business outcomes. 
 Thomas Mathew Veppumthara is a Sr. Software Engineer at Amazon Web Services (AWS) with Amazon Bedrock AgentCore. He has previous generative AI leadership experience in Amazon Bedrock Agents and nearly a decade of distributed systems expertise across Amazon eCommerce Services and Amazon Elastic Block Store (Amazon EBS). He holds multiple patents in distributed systems, storage, and generative AI technologies. 
 June Won is a Principal Product Manager with Amazon SageMaker JumpStart. He focuses on making foundation models (FMs) easily discoverable and usable to help customers build generative AI applications. His experience at Amazon also includes mobile shopping applications and last-mile delivery.
-• Enhance agentic workflows with enterprise search using Kore.ai and Amazon Q Business
-  This post was written with Meghana Chintalapudi and Surabhi Sankhla of Kore.ai. 
-As organizations struggle with exponentially growing volumes of data distributed across multiple repositories and applications, employees lose significant time—approximately 30% according to the International Data Corporation (IDC)—searching for information that could be spent on higher-value work. The complexity of modern enterprise data networks demands solutions that can efficiently integrate, process, and deliver actionable insights across disparate systems. 
-In this post, we demonstrate how organizations can enhance their employee productivity by integrating Kore.ai’s AI for Work platform with Amazon Q Business. We show how to configure AI for Work as a data accessor for Amazon Q index for independent software vendors (ISVs), so employees can search enterprise knowledge and execute end-to-end agentic workflows involving search, reasoning, actions, and content generation. We explore the key benefits of this integration, including advanced search capabilities across more than 90 enterprise connectors and how to extend agentic experiences on top of a search foundation. The post includes a step-by-step implementation guide to help you set up this integration in your environment. 
-Components of the integration 
-Kore.ai is a leading Enterprise AI platform consistently recognized by Gartner as a leader in conversational AI. With three key Kore.ai offerings, AI for Work, AI for Process, and AI for Service, enterprises can build and deploy AI solutions based on their business needs. The AI for Work platform helps employees be more productive by making it possible to search across applications, take context-aware actions, generate content, and automate repetitive tasks. The platform goes beyond standalone search to deliver comprehensive agentic orchestration and workflows, helping employees follow up with clients, send weekly updates, or research and write marketing content with a single command. With AI for Work, your employees can create simple no-code agents while your admins have the flexibility to create more advanced low-code or pro-code agents. AI for Process, on the other hand, automates knowledge-intensive business processes end-to-end. AI for Service helps organizations deliver differentiated customer service experiences through self-service, proactive outreach campaigns, and agent assistance. 
-Amazon Q index for ISVs is a powerful, managed vector search service that supports seamless integration of generative AI applications with customers’ enterprise data through a unified, secure index. ISVs can access and retrieve relevant content through the SearchRelevantContent API for cross-application data retrieval without needing direct access or individual indexing of each data source, while customers retain full control over data access and governance. 
-When combined with additional search connectors offered by AI for Work platform and its ability to create and orchestrate agents, organizations gain a complete solution that transforms how employees access enterprise data and execute tasks end-to-end. The following video shows one such agentic experience in action, where the AI for Work interface seamlessly orchestrates agents to help a sales executive prepare for a client meeting—compiling information from Amazon Q index and AI for Work connectors, summarizing talking points, and sending them as an email, all from a single query. 
-
- 
-  
- 
- 
-Benefits for enterprises 
-Enterprises often struggle with fragmented data access and repetitive manual tasks that slow down critical business processes. For example, imagine a scenario where a product manager needs to compile quarterly feature requests—with the integration of Kore.ai’s AI for Work and Amazon Q index, they can instantly gather requests from Salesforce, support tickets, and JIRA; automatically generate a structured roadmap; and schedule stakeholder meetings, all with a single query. This seamless integration changes the way enterprises interact with enterprise systems, through multiple key advantages: 
- 
- Improved search capabilities – Amazon Q index augments the generative AI experience by providing semantically relevant enterprise content across connected systems through its distributed vector database, delivering query responses at enterprise scale. Now, together with AI for Work, your employees can search data from over 90 connectors, integrating with enterprise systems like Microsoft 365, Salesforce, and Workday while also connecting with custom internal knowledge systems and third-party search providers. AI for Work’s orchestrator manages complex query processing and agent routing across multiple data sources, resulting in contextually appropriate and actionable results that significantly reduce search time while also enabling intelligent automations that extend far beyond traditional search capabilities. 
- Enhanced data processing – The system continuously ingests and analyzes data through the document processing pipeline in Amazon Q index, which automatically handles multiple formats using intelligent chunking algorithms that preserve semantic context. The AI for Work platform unifies search, content generation, and actions in a single interface, to support the creation of multi-step agentic experiences grounded in search. Through real-time incremental indexing that processes only changed content, the system maintains data freshness while converting siloed raw data into actionable insights and multi-step business processes that can be saved and reused across the organization. 
- Cost optimization – Organizations can achieve significant cost savings by streamlining routine tasks through agents that reduce operational overhead and improve resource allocation. AI for Work supports a wide range of agent-building options, from no-code and low-code to pro-code, for both non-technical employees and technical experts to build agents for themselves and to share across the organization, so teams can accomplish more with existing resources and benefit from sustained productivity improvements. 
- Security benefits – Security remains paramount, with Amazon Q index implementing vector-level security through end-to-end encryption using AWS Key Management Service (AWS KMS) customer managed keys and document-level access controls that filter search results based on user identity and group membership. The joint solution implements robust role-based access control and audit trails. This zero-trust security approach maintains compliance with industry standards while providing granular control over sensitive enterprise data, making sure users only see information from documents they have explicit permissions to access while maintaining complete data sovereignty. With AI for Work’s robust security and governance tools enterprises can manage permissions and agent access, monitor usage, and enforce guardrails for secure, enterprise-wide deployment of AI solutions at scale. 
- 
-Solution overview 
-The Amazon Q Business data accessor provides a secure interface that integrates Kore.ai’s AI for Work platform with Amazon Q index. The integration delivers a robust solution that uses enterprise data across multiple systems to power intelligent agentic actions and content generation capabilities that transform how organizations handle routine tasks and automate complex processes end-to-end. 
-When a user submits a query through AI for Work, its orchestrator intelligently routes requests between Kore.ai’s native retrievers and Amazon Q index based on predefined routing rules and advanced intent recognition algorithms. For Amazon Q index requests, the architecture implements secure cross-account API calls using OAuth 2.0 tokens that transform into temporary AWS credentials, supporting both security and optimal performance while maintaining strict access controls throughout the entire system. With AI for Work’s agents, users can take follow up actions, such as drafting proposals or submitting tickets—directly on top of search results, for end-to-end task completion in a single interface. Users can also build personalized workflows of pre-defined steps and execute them from a single query to further save time. 
-This supports use cases such as automated roadmap generation, where a product manager can query feature requests across multiple systems and receive a structured roadmap complete with stakeholder notifications, or RFP response automation, where sales executives can generate comprehensive proposals by pulling compliance documentation and tailoring responses based on client requirements. 
-The following diagram illustrates the solution architecture. 
- 
-Prerequisites 
-Before enabling the Amazon Q index integration with Kore.ai’s AI for Work, you must have the following components in place: 
- 
- An AWS account with appropriate service access 
- Amazon Q Business set up with AWS IAM Identity Center for user authentication 
- Access to Kore.ai’s AI for Work (as a workspace admin) 
- 
-With these prerequisites met, you can complete the basic configuration steps on both the Amazon Q Business and Kore.ai consoles to get started. 
-Add Kore.ai as a data accessor 
-After creating an Amazon Q Business application with AWS IAM Identity Center, administrators can configure Kore.ai as a data accessor through the Amazon Q Business console. Complete the following steps: 
- 
- On the Amazon Q Business console, choose Data accessors in the navigation pane. 
- Choose Add data accessor. 
- Choose Kore.ai as your data accessor. You must retrieve tenantID, a unique identifier for your application tenant. Refer to Prerequisites for instructions to retrieve the TenantId for your application. Similar instructions are also listed later in this post. 
- For Data source access, configure your level of access. You can select specific data sources from your Amazon Q index to be available through the data accessor. This makes it possible to control which content is surfaced in the AI for Work environment. 
- For User access, specify which users or groups can access the Amazon Q index through the data accessor. This option makes it possible to configure granular permissions for data accessor accessibility and manage organizational access controls. 
- 
- 
-After you have added the data accessor, the Amazon Q Business console displays configuration details that you need to share with Kore.ai to complete the setup. 
- 
- Note down the following information for the next step: 
-   
-   Amazon Q Business application ID 
-   AWS Region of the Amazon Q Business application 
-   Amazon Q Business retriever ID 
-   Region for IAM Identity Center instance 
-    
- 
-Configure Amazon Q index in Kore.ai’s AI for Work 
-Kore.ai’s AI for Work supports flexible integration with Amazon Q index based on your enterprise search needs. There are two configuration options: configuring Amazon Q index as the primary enterprise knowledge source or configuring it as a search agent. We provide instructions for both options in this post. 
-Option 1: Configure Amazon Q index as the primary enterprise knowledge source 
-If you want Amazon Q index to act as the primary fallback search layer, coming into play, complete the following steps: 
- 
- In AI for Work, go to Workspaces on the admin console. Then navigate to Enterprise Workspace, which is the default workspace. 
- 
- 
- 
- Choose Configure to configure an enterprise knowledge data source. 
- On the Create New dropdown menu, choose Amazon Q. 
- 
- 
- 
- Enter a source name and brief description. 
- Copy the tenant ID displayed—this is required during the setup of the data accessor in AWS, as described in the previous section. 
- Enter the details captured earlier: 
-   
-   Amazon Q Business application ID 
-   Region of the Amazon Q Business application 
-   Amazon Q Business retriever ID 
-   Region for IAM Identity Center instance 
-    
- Choose Continue to save and complete the configuration. 
- 
- 
-The new knowledge source now shows as Active. 
- 
-Option 2: Configure Amazon Q index as a search agent 
-If you already have a primary search index, you can configure Amazon Q index as a search agent: 
- 
- In AI for Work, go to Workspaces on the admin console. 
- Choose the workspace where you want to add Amazon Q index. (Enterprise Workspace is used by default). 
- Under AI Agents in the navigation pane, choose Search Agent 
- Choose Create agent. 
- 
- 
- 
- Provide an agent name and purpose. This helps define when the search agent should be invoked. 
- Choose Continue to move to configuration. 
- For Select Search Index, choose Amazon Q. 
- 
- 
- 
- Copy the tenant ID displayed—it is required during the setup of the data accessor in AWS. 
- 
- 
- 
- Preview and test the agent. 
- After you have validated the agent, publish it to selected users or groups. 
- 
-Your integration is now complete. You can now access the assistant application and start asking questions in the AI for Work console. If you’ve created a search agent, you can also access it from the list of agents and start interacting with it directly. 
-Clean up 
-When you are finished using this solution, clean up your resources to avoid additional costs: 
- 
- Disable the Amazon Q index configuration within AI for Work’s settings. 
- Delete the Kore.ai data accessor from the Amazon Q Business console, which will remove permissions and access for users. 
- Delete the Amazon Q Business application to remove the associated index and data source connectors, on your AWS account. 
- 
-Conclusion 
-The combination of Kore.ai’s AI for Work and Amazon Q index offers enterprises a transformative approach to boost employee productivity leveraging comprehensive search capabilities while streamlining repetitive tasks and processes. By integrating Kore.ai’s advanced agentic platform with the robust search infrastructure of Amazon Q index, organizations can now execute context aware actions by accessing relevant information across disparate systems while maintaining data ownership and security. This supports faster problem-solving, enhanced productivity, and better collaboration across the organization. 
-In this post, we explored how enterprises can use the integration between Kore.ai’s AI for Work and Amazon Q Business to streamline their operational processes and unlock valuable productivity gains. We demonstrated how organizations can set up this integration using an Amazon Q data accessor, helping teams access critical information securely and cost-effectively. 
-Unlock the full potential of your organization’s data and agentic workflows today with the Amazon Q index and Kore.ai’s AI for Work’s unified solution by following the steps in Amazon Q integration with AI for Work. 
- 
-About the authors 
-Siddhant Gupta is a Software Development Manager on the Amazon Q team based in Seattle, WA. He is driving innovation and development in cutting-edge AI-powered solutions. 
-Chinmayee Rane is a Generative AI Specialist Solutions Architect at AWS, with a core focus on generative AI. She helps ISVs accelerate the adoption of generative AI by designing scalable and impactful solutions. With a strong background in applied mathematics and machine learning, she specializes in intelligent document processing and AI-driven innovation. Outside of work, she enjoys salsa and bachata dancing. 
-Bobby Williams is a Senior Solutions Architect at AWS. He has decades of experience designing, building, and supporting enterprise software solutions that scale globally. He works on solutions across industry verticals and horizontals and is driven to create a delightful experience for every customer. 
-Santhosh Urukonda is a Senior PACE (Prototyping &amp; Cloud Engineering) Architect at AWSs with two decades of experience. He specializes in helping customers develop innovative, first-to-market solutions with a focus on generative AI. 
-Nikhil Kumar Goddeti is a Cloud Support Engineer II at AWS. He specializes in AWS Data Analytics services with emphasis on Amazon OpenSearch Service, Amazon Q Business, Amazon Kinesis, Amazon MSK, Amazon AppFlow, and Amazon Kendra. He is a Subject Matter Expert of OpenSearch. Outside of work, he enjoys travelling with his friends and playing cricket. 
-Meghana Chintalapudi is a Product Manager at Kore.ai, driving the development of search and agentic AI solutions for the AI for Work platform. She has led large-scale AI implementations for Fortune 500 clients, evolving from deterministic NLP and intent-detection models to advanced large language model deployments, with a strong emphasis on enterprise-grade security and scalability. Outside of work, Meghana is a dancer and takes movement workshops in Hyderabad, India. 
-Surabhi Sankhla is a VP of Product at Kore.ai, where she leads the AI for Work platform to help enterprises boost employee productivity. With over 13 years of experience in product management and technology, she has launched AI products from the ground up and scaled them to millions of users. At Kore.ai, she drives product strategy, client implementations, and go-to-market execution in partnership with cross-functional teams. Based in San Francisco, Surabhi is passionate about making AI accessible and impactful for all.
-• Accelerate development with the Amazon Bedrock AgentCore MCP server
-  Today, we’re excited to announce the Amazon Bedrock AgentCore Model Context Protocol (MCP) Server. With built-in support for runtime, gateway integration, identity management, and agent memory, the AgentCore MCP Server is purpose-built to speed up creation of components compatible with Bedrock AgentCore. You can use the AgentCore MCP server for rapid prototyping, production AI solutions, or to scale your agent infrastructure for your enterprise. 
-Agentic IDEs like Kiro, Amazon Q Developer for CLI, Claude Code, GitHub Copilot, and Cursor, along with sophisticated MCP servers are transforming how developers build AI agents. What typically takes significant time and effort, for example learning about Bedrock AgentCore services, integrating Runtime and Tools Gateway, managing security configurations, and deploying to production can now be completed in minutes through conversational commands with your coding assistant. 
-In this post we introduce the new AgentCore MCP server and walk through the installation steps so you can get started. 
-AgentCore MCP server capabilities 
-The AgentCore MCP server brings a new agentic development experience to AWS, providing specialized tools that automate the complete agent lifecycle, eliminate the steep learning curve, and reduce development friction that can slow innovation cycles.&nbsp;To address specific agent development challenges the AgentCore MCP server: 
- 
- Transforms agents for AgentCore Runtime integration by providing guidance to your coding assistant on the minimum functionality changes needed—adding Runtime library imports, updating dependencies, initializing apps with BedrockAgentCoreApp(), converting entrypoints to decorators, and changing direct agent calls to payload handling—while preserving your existing agent logic and Strands Agents features. 
- Automates development environment provisioning by handling the complete setup process through your coding assistant: installing required dependencies (bedrock-agentcore SDK, bedrock-agentcore-starter-toolkit CLI helpers, strands-agents SDK), configuring AWS credentials and AWS Regions, defining execution roles with Bedrock AgentCore permissions, setting up ECR repositories, and creating .bedrock_agentcore.yaml configuration files. 
- Simplifies tool integration with Bedrock AgentCore Gateway for seamless agent-to-tool communication in the cloud environment. 
- Enables simple agent invocation and testing by providing natural language commands through your coding assistant to invoke provisioned agents on AgentCore Runtime and verify the complete workflow, including calls to AgentCore Gateway tools when applicable. 
- 
-Layered approach 
-When using the AgentCore MCP server with your favorite client, we encourage you to consider a layered architecture designed to provide comprehensive AI agent development support: 
- 
- Layer 1: Agentic IDE or client – Use Kiro, Amazon Q Developer for CLI, Claude Code, Cursor, VS Code extensions, or another natural language interface for developers. For very simple tasks, agentic IDEs are equipped with the right tools to look up documentation and perform tasks specific to Bedrock AgentCore. However, with this layer alone, developers may observe sub-optimal performance across AgentCore developer paths. 
- Layer 2: AWS service documentation – Install the AWS Documentation MCP Server&nbsp;for comprehensive AWS service documentation, including context about Bedrock AgentCore. 
- Layer 3: Framework documentation – Install the Strands, LangGraph, or other framework docs MCP servers or use the llms.txt for framework-specific context. 
- Layer 4: SDK documentation – Install the MCP or use the llms.txt for the Agent Framework SDK and Bedrock AgentCore SDK for a combined documentation layer that covers the Strands Agents SDK documentation and Bedrock AgentCore API references. 
- Layer 5: Steering files – Task-specific guidance for more complex and repeated workflows. Each IDE has a different approach to using steering files (for example, see Steering in the Kiro documentation). 
- 
-Each layer builds upon the previous one, providing increasingly specific context so your coding assistant can handle everything from basic AWS operations to complex agent transformations and deployments. 
-Installation 
-To get started with the Amazon Bedrock AgentCore MCP server you can use the one-click install on the Github repository. 
-Each IDE integrates with an MCP differently using the mcp.json file. Review the MCP documentation for your IDE, such as Kiro, Cursor, Amazon Q Developer for CLI, and Claude Code to determine the location of the mcp.json. 
- 
-  
-   
-   Client 
-   Location of mcp.json 
-   Documentation 
-   
-   
-   Kiro 
-   .kiro/settings/mcp.json 
-   https://kiro.dev/docs/mcp/ 
-   
-   
-   Cursor 
-   .cursor/mcp.json 
-   https://cursor.com/docs/context/mcp 
-   
-   
-   Amazon Q Developer for CLI 
-   ~/.aws/amazonq/mcp.json 
-   https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/qdev-mcp.html 
-   
-   
-   Claude Code 
-   ~/.claude/mcp.json 
-   https://docs.claude.com/en/docs/claude-code/mcp 
-   
-  
- 
-Use the following in your mcp.json: 
- 
- {
-&nbsp;&nbsp;"mcpServers": {
-&nbsp;&nbsp; &nbsp;"awslabs.amazon-bedrock-agentcore-mcp-server": {
-&nbsp;&nbsp; &nbsp; &nbsp;"command": "uvx",
-&nbsp;&nbsp; &nbsp; &nbsp;"args": ["awslabs.amazon-bedrock-agentcore-mcp-server@latest"],
-&nbsp;&nbsp; &nbsp; &nbsp;"env": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"FASTMCP_LOG_LEVEL": "ERROR"
-&nbsp;&nbsp; &nbsp; &nbsp;},
-&nbsp;&nbsp; &nbsp; &nbsp;"disabled": false,
-&nbsp;&nbsp; &nbsp; &nbsp;"autoApprove": []
-&nbsp;&nbsp; &nbsp;}
-&nbsp;&nbsp;}
-} 
- 
-For example, here is what the IDE looks like on Kiro, with the AgentCore MCP server and the two tools, search_agentcore_docs and fetch_agentcore_doc, connected: 
- 
-Using the AgentCore MCP server for agent development 
-While we show demos for various use cases below using the Kiro IDE, the AgentCore MCP server has also been tested to work on Claude Code, Amazon Q CLI, Cursor, and the VS Code Q plugin. First, let’s take a look at a typical agent development lifecycle using AgentCore services (remember that this is only one example with the tools available, and you are free to explore more such use cases simply by instructing the agent in your favorite Agentic IDE): 
- 
-The agent development lifecycle follows these steps: 
- 
- The user takes a local set of tools or MCP servers and 
-   
-   Creates a lambda target for AgentCore Gateway; or 
-   Deploys the MCP server as-is on AgentCore Runtime 
-    
- The user prepares the actual agent code using a preferred framework like Strands Agents or LangGraph. The user can either: 
-   
-   Start from scratch (the server can fetch docs from the Strands Agents or LangGraph documentation) 
-   Start from fully or partially working agent code 
-    
- The user asks the agent to transform the code into a format compatible with AgentCore Runtime with the intention to deploy the agent later. This causes the agent to: 
-   
-   Write an appropriate requirements.txt&nbsp;file 
-   import necessary libraries including bedrock_agentcore 
-   decorate the main handler (or create one) to access the core agent calling logic or input handler 
-    
- The user may then ask the agent to deploy to AgentCore Runtime. The agent can look up documentation and can use the AgentCore CLI to deploy the agent code to Runtime 
- The user can test the agent by asking the agent to do so. The AgentCore CLI command required for this is written and executed by the client 
- The user then asks to modify the code to use the deployed AgentCore Gateway MCP server within this AgentCore Runtime agent. 
-   
-   The agent modifies the original code to add an MCP client that can call the deployed gateway 
-   The agent then deploys a new version v2 of the agent to Runtime 
-   The agent then tests this integration with a new prompt 
-    
- 
-Here is a demo of the MCP server working with Cursor IDE. We see the agent perform the following steps: 
- 
- Transform the weather_agent.py to be compatible with AgentCore runtime 
- Use the AgentCore CLI to deploy the agent 
- Test the deployed agent with a successful prompt 
- 
- 
-
- 
-  
- 
-
- 
-Here’s another example of deploying a LangGraph agent to AgentCore Runtime with the Cursor IDE performing similar steps as seen above. 
-
- 
-  
- 
- 
-Clean up 
-If you’d like to uninstall the MCP server, follow the MCP documentation for your IDE, such as Kiro, Amazon Q Developer for CLI, Cursor, and Claude Code for instructions. 
-Conclusion 
-In this post, we showed how you can use the AgentCore MCP server with your favorite Agentic IDE of choice to speed up your development workflows. 
-We encourage you to review the Github repository, as well read through and use the following resources in your development: 
- 
- Amazon Bedrock AgentCore CLI documentation 
- Strands Agents MCP Server 
- LangGraph llms.txt 
- 
-We encourage you to try out the AgentCore MCP server and provide any feedback through issues in our GitHub repository. 
- 
-About the authors 
- 
-  
-  
-   
-   
-  Shreyas Subramanian 
-  Shreyas is a Principal Data Scientist and helps customers by using Generative AI to solve their business challenges using the AWS platform. Shreyas has a background in large scale optimization and Deep Learning, and he is a researcher studying the use of Machine Learning and Reinforcement Learning for accelerating learning and optimization tasks. Shreyas is also an Amazon best-selling book author with several research papers and patents to his name. 
-  
-  
-  
-   
-   
-  Primo Mu 
-  Primo is a Software Development Engineer on the Agentic AI Foundation team at AWS, where he builds foundational systems and infrastructure that power intelligent AI applications. He has extensive experience working on backend stateless orchestration services behind products like Kiro and Q Dev CLI. He focuses on creating scalable frameworks and robust architectures that enable developers to build sophisticated agentic systems.
-• How Hapag-Lloyd improved schedule reliability with ML-powered vessel schedule predictions using Amazon SageMaker
-  This post is cowritten with Thomas Voss and Bernhard Hersberger from Hapag-Lloyd. 
-Hapag-Lloyd is one of the world’s leading shipping companies with more than 308 modern vessels, 11.9 million TEUs (twenty-foot equivalent units) transported per year, and 16,700 motivated employees in more than 400 offices in 139 countries. They connect continents, businesses, and people through reliable container transportation services on the major trade routes across the globe. 
-In this post, we share how Hapag-Lloyd developed and implemented a machine learning (ML)-powered assistant predicting vessel arrival and departure times that revolutionizes their schedule planning. By using Amazon SageMaker AI and implementing robust MLOps practices, Hapag-Lloyd has enhanced its schedule reliability—a key performance indicator in the industry and quality promise to their customers. 
-For Hapag-Lloyd, accurate vessel schedule predictions are crucial for maintaining schedule reliability, where schedule reliability is defined as percentage of vessels arriving within 1 calendar day (earlier or later) of their estimated arrival time, communicated around 3 to 4 weeks before arrival. 
-Prior to developing the new ML solution, Hapag-Lloyd relied on simple rule-based and statistical calculations, based on historical transit patterns for vessel schedule predictions. While this statistical method provided basic predictions, it couldn’t effectively account for real-time conditions such as port congestion, requiring significant manual intervention from operations teams. 
-Developing a new ML solution to replace the existing system presented several key challenges: 
- 
- Dynamic shipping conditions – The estimated time of arrival (ETA) prediction model needs to account for numerous variables that affect journey duration, including weather conditions, port-related delays such as congestion, labor strikes, and unexpected events that force route changes. For example, when the Suez Canal was blocked by the Ever Given container ship in March 2021, vessels had to be rerouted around Africa, adding approximately 10 days to their journey times. 
- Data integration at scale – The development of accurate models requires integration of large volumes of historical voyage data with external real-time data sources including port congestion information and vessel position tracking (AIS). The solution needs to scale across 120 vessel services or lines and 1,200 unique port-to-port routes. 
- Robust MLOps infrastructure – A robust MLOps infrastructure is required to continuously monitor model performance and quickly deploy updates whenever needed. This includes capabilities for regular model retraining to adapt to changing patterns, comprehensive performance monitoring, and maintaining real-time inference capabilities for immediate schedule adjustments. 
- 
-Hapag-Llyod’s previous approach to schedule planning couldn’t effectively address these challenges. A comprehensive solution that could handle both the complexity of vessel schedule prediction and provide the infrastructure needed to sustain ML operations at global scale was needed. 
-The Hapag-Lloyd network consists of over 308 vessels and many more partner vessels that continuously circumnavigate the globe on predefined service routes, resulting in more than 3,500 port arrivals per month. Each vessel operates on a fixed service line, making regular round trips between a sequence of ports. For instance, a vessel might repeatedly sail a route from Southampton to Le Havre, Rotterdam, Hamburg, New York, and Philadelphia before starting the cycle again. For each port arrival, an ETA must be provided multiple weeks in advance to arrange critical logistics, including berth windows at ports and onward transportation of containers by sea, land or air transport. The following table shows an example where a vessel travels from Southampton to New York through Le Havre, Rotterdam, and Hamburg. The vessel’s time until arrival at the New York port can be calculated as the sum of ocean to port time to Southampton, and the respective berth times and port-to-port times for the intermediate ports called while sailing to New York. If this vessel encounters a delay in Rotterdam, it affects its arrival in Hamburg and cascades through the entire schedule, impacting arrivals in New York and beyond as shown in the following table. This ripple effect can disrupt carefully planned transshipment connections and require extensive replanning of downstream operations. 
- 
-  
-   
-   Port 
-   Terminal call 
-   Scheduled arrival 
-   Scheduled departure 
-   
-   
-   SOUTHAMPTON 
-   1 
-   2025-07-29 07:00 
-   2025-07-29 21:00 
-   
-   
-   LE HAVRE 
-   2 
-   2025-07-30 16:00 
-   2025-07-31 16:00 
-   
-   
-   ROTTERDAM 
-   3 
-   2025-08-03 18:00 
-   2025-08-05 03:00 
-   
-   
-   HAMBURG 
-   4 
-   2025-08-07 07:00 
-   2025-08-08 07:00 
-   
-   
-   NEW YORK 
-   5 
-   2025-08-18 13:00 
-   2025-08-21 13:00 
-   
-   
-   PHILADELPHIA 
-   6 
-   2025-08-22 06:00 
-   2025-08-24 16:30 
-   
-   
-   SOUTHAMPTON 
-   7 
-   2025-09-01 08:00 
-   2025-09-02 20:00 
-   
-  
- 
-When a vessel departs Rotterdam with a delay, new ETAs must be calculated for the remaining ports. For Hamburg, we only need to estimate the remaining sailing time from the vessel’s current position. However, for subsequent ports like New York, the prediction requires multiple components: the remaining sailing time to Hamburg, the duration of port operations in Hamburg, and the sailing time from Hamburg to New York. 
-Solution overview 
-As an input to the vessel ETA prediction, we process the following two data sources: 
- 
- Hapag-Lloyd’s internal data, which is stored in a data lake. This includes detailed vessel schedules and routes, port and terminal performance information, real-time port congestion and waiting times, and vessel characteristics datasets. This data is prepared for model training using AWS Glue jobs. 
- Automatic Identification System (AIS) data, which provides streaming updates on the vessel movements. This AIS data ingestion is batched every 20 minutes using AWS Lambda and includes crucial information such as latitude, longitude, speed, and direction of vessels. New batches are processed using AWS Glue and Iceberg to update the existing AIS database—currently holding around 35 million observations. 
- 
-These data sources are combined to create training datasets for the ML models. We carefully consider the timing of available data through temporal splitting to avoid data leakage. Data leakage occurs when using information that wouldn’t be available at prediction time in the real world. For example, when training a model to predict arrival time in Hamburg for a vessel currently in Rotterdam, we can’t use actual transit times that were only known after the vessel reached Hamburg. 
-A vessel’s journey can be divided into different legs, which led us to develop a multi-step solution using specialized ML models for each leg, which are orchestrated as hierarchical models to retrieve the overall ETA: 
- 
- The Ocean to Port (O2P) model predicts the time needed for a vessel to reach its next port from its current position at sea. The model uses features such as remaining distance to destination, vessel speed, journey progress metrics, port congestion data, and historical sea leg durations. 
- The Port to Port (P2P) model forecasts sailing time between any two ports for a given date, considering key features such as ocean distance between ports, recent transit time trends, weather, and seasonal patterns. 
- The Berth Time model estimates how long a vessel will spend at port. The model uses vessel characteristics (such as tonnage and load capacity), planned container load, and historical port performance. 
- The Combined model takes as input the predictions from the O2P, P2P, and Berth Time models, along with the original schedule. Rather than predicting absolute arrival times, it computes the expected deviation from the original schedule by learning patterns in historical prediction accuracy and specific voyage conditions. These computed deviations are then used to update ETAs for the upcoming ports in a vessel’s schedule. 
- 
- 
-All four models are trained using the XGBoost algorithm built into SageMaker, chosen for its ability to handle complex relationships in tabular data and its robust performance with mixed numerical and categorical features. Each model has a dedicated training pipeline in SageMaker Pipelines, handling data preprocessing steps and model training. The following diagram shows the data processing pipeline, which generates the input datasets for ML training. 
- 
-As an example, this diagram shows the training pipeline of the Berth model. The steps in the SageMaker training pipelines of the Berth, P2P, O2P, and Combined models are identical. Therefore, the training pipeline is implemented once as a blueprint and re-used across the other models, enabling a fast turn-around time of the implementation. 
- 
-Because the Combined model depends on outputs from the other three specialized models, we use AWS Step Functions to orchestrate the SageMaker pipelines for training. This helps ensure that the individual models are updated in the correct sequence and maintains prediction consistency across the system. The orchestration of the training pipelines is shown in the following pipeline architecture. 
- The individual workflow begins with a data processing pipeline that prepares the input data (vessel schedules, AIS data, port congestion, and port performance metrics) and splits it into dedicated datasets. This feeds into three parallel SageMaker training pipelines for our base models (O2P, P2P, and Berth), each following a standardized process of feature encoding, hyperparameter optimization, model evaluation, and registration using SageMaker Processing and hyperparameter turning jobs and SageMaker Model Registry. After training, each base model runs a SageMaker batch transform job to generate predictions that serve as input features for the combined model training. The performance of the latest Combined model version is tested on the last 3 months of data with known ETAs, and performance metrics (R², mean absolute error (MAE)) are computed. If the model’s performance is below a set MAE threshold, the entire training process fails and the model version is automatically discarded, preventing the deployment of models that don’t meet the minimum performance threshold. 
-All four models are versioned and stored as separate model package groups in the SageMaker Model Registry, enabling systematic version control and deployment. This orchestrated approach helps ensure that our models are trained in the correct sequence using parallel processing, resulting in an efficient and maintainable training process.The hierarchical model approach helps further ensure that a degree of explainability comparable to the current statistical and rule-based solution is maintained—avoiding ML black box behavior. For example, it becomes possible to highlight unusually long berthing time predictions when discussing predictions results with business experts. This helps increase transparency and build trust, which in turn increases acceptance within the company. 
-Inference solution walkthrough 
-The inference infrastructure implements a hybrid approach combining batch processing with real-time API capabilities as shown in Figure 5. Because most data sources update daily and require extensive preprocessing, the core predictions are generated through nightly batch inference runs. These pre-computed predictions are complemented by a real-time API that implements business logic for schedule changes and ETA updates. 
- 
- Daily batch Inference: 
-   
-   Amazon EventBridge triggers a Step Functions workflow every day. 
-   The Step Functions workflow orchestrates the data and inference process: 
-     
-     Lambda copies internal Hapag-Lloyd data from the data lake to Amazon Simple Storage Service (Amazon S3). 
-     AWS Glue jobs combine the different data sources and prepare inference inputs 
-     SageMaker inference executes in sequence: 
-       
-       Fallback predictions are computed from historical averages and written to Amazon Relational Database Service (Amazon RDS). Fallback predictions are used in case of missing data or a downstream inference failure. 
-       Preprocessing data for the four specialized ML models. 
-       O2P, P2P, and Berth model batch transforms. 
-       The Combined model batch transform generates final ETA predictions, which are written to Amazon RDS. 
-       Input features and output files are stored in Amazon S3 for analytics and monitoring. 
-        
-      
-   For operational reliability, any failures in the inference pipeline trigger immediate email notifications to the on-call operations team through Amazon Simple Email Service (Amazon SES). 
-    
- Real-time API: 
-   
-   Amazon API Gateway receives client requests containing the current schedule and an indication for which vessel-port combinations an ETA update is required. By receiving the current schedule through the client request, we can take care of intraday schedule updates while doing daily batch transform updates. 
-   The API Gateway triggers a Lambda function calculating the response. The Lambda function constructs the response by linking the ETA predictions (stored in Amazon RDS) with the current schedule using custom business logic, so that we can take care of short-term schedule changes unknown at inference time. Typical examples of short-term schedule changes are port omissions (for example, due to port congestion) and one-time port calls. 
-    
- 
-This architecture enables millisecond response times to custom requests while achieving a 99.5% availability (a maximum 3.5 hours downtime per month). 
- 
-Conclusion 
-Hapag Lloyd’s ML powered vessel scheduling assistant outperforms the current solution in both accuracy and response time. Typical API response times are in the order of hundreds of milliseconds, helping to ensure a real-time user experience and outperforming the current solution by more than 80%. Low response times are crucial because, in addition to fully automated schedule updates, business experts require low response times to work with the schedule assistant interactively. In terms of accuracy, the MAE of the ML-powered ETA predictions outperform the current solution by approximately 12%, which translates into climbing by two positions in the international ranking of schedule reliability on average. This is one of the key performance metrics in liner shipping, and this is a significant improvement within the industry. 
-To learn more about architecting and governing ML workloads at scale on AWS, see the AWS blog post Governing the ML lifecycle at scale, Part 1: A framework for architecting ML workloads using Amazon SageMaker and the accompanying AWS workshop AWS Multi-Account Data &amp; ML Governance Workshop. 
-Acknowledgement 
-We acknowledge the significant and valuable work of Michal Papaj and Piotr Zielinski from Hapag-Lloyd in the data science and data engineering areas of the project. 
-About the authors 
-Thomas Voss Thomas Voss works at Hapag-Lloyd as a data scientist. With his background in academia and logistics, he takes pride in leveraging data science expertise to drive business innovation and growth through the practical design and modeling of AI solutions. 
-Bernhard Hersberger Bernhard Hersberger works as a data scientist at Hapag-Lloyd, where he heads the AI Hub team in Hamburg. He is enthusiastic about integrating AI solutions across the company, taking comprehensive responsibility from identifying business issues to deploying and scaling AI solutions worldwide. 
-Gabija Pasiunaite At AWS, Gabija Pasiunaite was a Machine Learning Engineer at AWS Professional Services based in Zurich. She specialized in building scalable ML and data solutions for AWS Enterprise customers, combining expertise in data engineering, ML automation and cloud infrastructure. Gabija has contributed to the AWS MLOps Framework used by AWS customers globally. Outside work, Gabija enjoys exploring new destinations and staying active through hiking, skiing, and running. 
-Jean-Michel Lourier Jean-Michel Lourier is a Senior Data Scientist within AWS Professional Services. He leads teams implementing data driven applications side by side with AWS customers to generate business value out of their data. He’s passionate about diving into tech and learning about AI, machine learning, and their business applications. He is also an enthusiastic cyclist. 
-Mousam Majhi Mousam Majhi is a Senior ProServe Cloud Architect focusing on Data &amp; AI within AWS Professional Services. He works with Manufacturing and Travel, Transportation &amp; Logistics customers in DACH to achieve their business outcomes by leveraging data and AI powered solutions. Outside of work, Mousam enjoys hiking in the Bavarian Alps.
 
 ⸻
