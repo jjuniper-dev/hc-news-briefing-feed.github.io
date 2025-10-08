@@ -1,17 +1,17 @@
-✅ Morning News Briefing – October 07, 2025 10:43
+✅ Morning News Briefing – October 08, 2025 10:44
 
-📅 Date: 2025-10-07 10:43
+📅 Date: 2025-10-08 10:44
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  17.5°C
-  Temperature: 17.5&deg;C Pressure / Tendency: 101.3 kPa falling Humidity: 81 % Dewpoint: 14.2&deg:C Wind: N 5 km/h Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Tuesday 7 October 2025 Temperature: . Temperature:  17.5/deg;
-• Tuesday: A few showers. High 19.
-  A few showers beginning early this morning and ending this afternoon . Risk of a thunderstorm this morning . Cloudy. High 19. UV index 2 or low. High 20.50/20/50/50 . Forecast issued 5:00 AM EDT Tuesday 7 October 2025. Forecast: Showery, rainy, thundery, windy, sunny, breezy,
-• Tuesday night: Clearing. Low plus 3.
-  Clearing late this evening. Partly cloudy. Clearing later this evening . Low plus 3.50 percent chance of rain in the morning's rainfall . Forecast issued 5:00 AM EDT Tuesday 7 October 2025. Weather forecast: Rainy, cold, cloudy, sunny, breezy, cloudy and breezy . Rainy showers expected to fall through the night, rainy
+• Current Conditions: Partly Cloudy, 6.5°C
+  Observed at Garrison Petawawa 6:00 AM EDT Wednesday 8 October 2025 . Temperature: 6.5&deg;C Pressure: 101.9 kPa . Visibility: 16 km . Humidity: 95 % Dewpoint: 5.8&deg:C Wind: W 9 km/h . Air Quality Health Index: n/a . Health Index is n/
+• Wednesday: Chance of showers. High 12. POP 30%
+  30 percent chance of showers late this morning and this afternoon . Increasing cloudiness. High 12.5 degrees Celsius . UV index 3 or moderate. . High 12 degrees Celsius or higher than normal for most of the day . Forecast issued 5:00 AM EDT Wednesday 8 October 2025. Forecast: "Showery" and "Cloudy" with rain in New York City .
+• Wednesday night: A few clouds. Low minus 2.
+  Clear. Clear. Wind up to 15 km/h. Wind chill chill minus 5 overnight . Low minus 2.50°F . Wind chill will be minus 5°F overnight. Clear and wind chill will drop to minus 2°F in the morning . Forecast issued 5:00 AM EDT Wednesday 8 October 2025. Weather forecasters predict temperatures will be below zero in 2080
 
 🌍 International News
 No updates.
@@ -20,31 +20,31 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• The Nobel Prize for physics is awarded for discoveries in quantum mechanical tunneling
-  Nobel committee: Nobel laureates' work provides opportunities to develop "next generation of quantum technology" Committee: Work provides opportunities for quantum cryptography, quantum computers, and quantum sensors . Nobel committee says work could lead to quantum computing, quantum cryptography and quantum computers . Nobel winners' work will be used to develop next generation of technology, committee says . Back to the page you came from. Share
-• With U.S. leadership in doubt, can its allies chart their own course?
-  U.S. allies in Europe and the Indo-Pacific are showing willingness to coordinate and cooperate across a wide range of shared interests, from trade to defense and alliance management to China . China is one of the world's most important allies in the Middle East and Asia, according to the U.N. Secretary of State Hillary Clinton . China's influence in the region has grown in recent
-• Why Democrats are casting the government shutdown as a health care showdown
-  Democrats are pressuring Republicans to extend billions of dollars in federal tax credits that have dramatically lowered premiums and contributed to record-low rates of uninsured Americans . The tax credits have helped reduce the number of Americans who are uninsured by lowering their premiums and contributing to record low rates . Democrats are pushing to extend the tax credits, which have helped drive down the rate of uninsured in the U.S.
-• The government has long researched high school experiences. Then DOGE cut the effort
-  The federal government has long surveyed high schoolers to help track how their academic choices may have influenced the course of their lives . The Trump administration put an end to that effort . The government has been trying to track how academic choices influenced the lives of high school students for more than a decade . The White House says it will no longer be able to survey students about how their choices affect their
-• A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut
-  Hopi Tribe received a multimillion-dollar federal grant to install solar panels and battery storage systems for hundreds of homes . But the Trump administration has canceled the funding . The Hopi tribe received a multi-million-dollar grant from the federal government to install panels and storage systems . Hopi tribal members say solar panels will be installed on hundreds of Hopi homes in the tribe's homes
+• Why preorders are such a big deal for authors
+  Planet Money is available for preorder . The Planet Money book is available to preorder on Amazon.com.com/Planet Money . It is available in print and on sale for $100,000. Special gifts include a copy of the book and a Kindle version of this edition of this week’s edition of Planet Money . Back to the page you came from, comment on
+• Research on metal-organic frameworks gets the chemistry Nobel Prize
+  Susumu Kitagawa, Richard Robson and Omar M. Yaghi will share the prize . Their structures can "capture carbon dioxide, store toxic gases or catalyse chemical reactions," committee says . The structures can also be used to store toxic gas and store carbon dioxide or store gases, the committee said . The winners' structures will be unveiled on Friday at a ceremony
+• Famed polar exploration ship Endurance not as strong as legend held, researcher says
+  Ernest Shackleton's crew famously survived after the Endurance became stuck in ice in 1915 . Shackleton was aware the ship was ill-equipped for the voyage . A researcher says Shackleton knew he was going on the voyage and Shackleton would have been aware of the situation . The Endurance is believed to have been ill-prepared for the trip to the Antarctic in 1915. Shackleton died
+• Pumpkin: A favorite sign of fall, with a bit of shady history
+  The word "pumpkin" has been around for centuries, but the plant dates back thousands of years . Pumpkins are a harvest symbol and part of our nostalgia for a simpler time . The word 'pumpkins' has been used for centuries and is considered a symbol of the harvest . The plant is thought to have been used in Europe and Asia for more than a century .
+• Hundreds of hikers rescued from Mount Everest after severe snowstorm
+  About 900 hikers, guides and other staff stranded by a weekend snowstorm on the Chinese side of Mount Everest have reached safety, state media said . State media said late Tuesday that the stranded hikers and guides had reached safety . The snowstorm hit the Chinese mountain in a weekend storm on the China side of the world's highest mountain . The storm is the worst in the world, killing about
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• No account? No Windows 11, Microsoft says as another loophole snaps shut
-  Workaround sent to the big OOBE in the sky with latest Insider builds . Microsoft is closing a popular loophole that allowed users to install Windows 11 without a Microsoft account . The loophole was closed by the end of a popular Windows 11 feature that allows you to install the new software without having an account with Microsoft . Microsoft Insider builds are now available in the wild for the first time .
-• Britain eyes satellite laser warning system and carrier-launched jet drones
-  Space sensors and UAVs at sea top MoD's list in new wave of cutting-edge projects . UK pressing ahead with research to protect satellites from laser attack . Technology demonstrator for a jet-powered drone to operate from Royal Navy carriers . MoD also developing technology for a technology demonstrator to operate on Royal Navy aircraft carriers . The UK is pressing ahead to develop a technology
-• UK Home Office opens wallet for £60M automated number plate project
-  Department eyes new app to tap national ANPR data for live alerts, searches, and integrations . UK's Home Office is inviting tech suppliers to take part in a £60 million "market engagement" for an application that uses data from automated number plate recognition (ANPR) systems . The application will use data from ANPR systems to make live alerts and search alerts available to the public
-• Google DeepMind minds the patch with AI flaw-fixing scheme
-  Google says its AI-powered security repair tool CodeMender has been helping secure open source projects through automated patch creation, subject to human approval . The tool has been generating fixes for vulnerabilities in open-source projects . Google says it has been working with the company to identify vulnerabilities in the open source software . It has been creating fixes for flaws in the software that can be fixed without human
-• Cerebras CEO insists dinner-plate-sized chip startup will still go public
-  AI chip startup Cerebras Systems pulled its S-1 IPO filing without so much as an explanation . Inference service launched a month before IPO filing turns out to have been a much bigger business than initially thought . AI chip chip startup pulled its $1.1 billion Series G funding round just days after announcing a $1 billion funding round, Cerebrs pulled its IPO filing .
+• Telecoms wholesaler ICUK restores services after two-day DDoS pelting
+  ICUK is back on track after multi-day DDoS attack on its network and systems . No idea who's behind it, just happy it's over London-based wholesale telecoms biz ICUK . ICUK was attacked by a DDoS-attack on its networks and systems, but no-one knows who was behind it . The attack was the first time ICUK had
+• UK Home Office doubles down on Oracle with £54M cloud contract
+  UK's Home Office has signed a new deal with Oracle for around £54 million ($72 million) in cloud infrastructure and platform services . Home Office gears up as the centerpiece of a government shared services strategy based on Big Red . Department also wedded to Big Red in shared service applications . The Home Office is also keen on cloud infrastructure, platform services as it gears up to be the centerpiece
+• Brits sitting on £1.6B gold mine of Windows 10 junk as support ends
+  Recyclers reckon millions of obsolete PCs could yield a small fortune in precious metals . Millions of obsolete Windows 10 PCs could be worth millions of pounds of gold, they say . Recycling experts say millions of old PCs could make a fortune from their sale of precious metals in the U.S. They say they could also be worth a fortune in gold, silver and gold .
+• AI companion bots use emotional manipulation to boost usage
+  AI companion apps such as Character.ai and Replika commonly try to boost user engagement with emotional manipulation . Researchers argue that this dark pattern poses a legal risk AI apps like Replika pose legal risk . The practice is described as a practice that academics characterize as a dark pattern . The dark pattern is characterized as a pattern that has been characterized by academics as a 'dark pattern' and '
+• Teens arrested in London preschool ransomware attack
+  London police arrest two teenagers on suspicion of computer misuse and blackmail following a ransomware attack on a chain of London preschools . Both men, 17, taken into custody . The attack was carried out on the preschools in the capital capital, London, on Tuesday . Both teens, both 17, were arrested and are being held in custody in connection with the attack . They are accused of using
 
 🏥 Public Health
 No updates.
@@ -52,13 +52,13 @@ No updates.
 🔬 Science
 • A One Health framework for global and local stewardship across the antimicrobial lifecycle
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Volunteer scientists work ‘nights and weekends’ to guide vaccine advice in US
+• Rapid reagent free COVID19 detection using MEMS based FTIR spectroscopy and machine learning in NIR and MIR regions
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Exploring the role of green space in mitigating childhood opportunity across the U.S
+• Evaluation of large language models within GenAI in qualitative research
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• The association between preschoolers’ retinal microcirculation and the indoor microbial environment: results of the ENVIRONAGE birth cohort
+• Trends in the double burden of malnutrition among Indonesian adults, 2007 to 2023
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Large language models for autism: evaluating theory of mind tasks in a gamified environment
+• Clustering and time series analyses of hybrid immunity to SARS-COV-2 using data from the BQC19 biobank
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,164 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• The Trump administration may cut funding for two major direct-air capture plants
+  US Department of Energy appears poised to terminate funding for two large carbon-sucking factories . The projects were originally set to receive more than $1 billion in government grants . It's not clear if the termination of the initial grants would mean the full funding would also be canceled . A DOE spokesman stressed that no final decision has been made, saying it's "untrue" to suggest those two projects have been terminated .
+• AI toys are all the rage in China—and now they’re appearing on shelves in the US too
+  A recent report predicts that the AI toy industry will surpass ¥100 billion ($14 billion) by 2030 . According to the Chinese corporation registration database Qichamao, there are over 1,500 AI toy companies operating in China . A toy called BubblePal clips onto a child’s favorite stuffed animal and makes it “talk” It costs $149 and 200,000 units have been sold since it launched last summer . FoloToy allows parents to customize a bear, bunny, or cactus toy by training it to speak with their own voice and speech pattern .
+• The Download: extracting lithium, and what we still don’t know about Sora
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+This company is planning a lithium empire from the shores of the Great Salt Lake
+
+
+
+On a bright afternoon in August, the shore of Utah’s Great Salt Lake looks like something out of a science fiction film set in a scorching alien world.This otherworldly scene is the test site for a company called Lilac Solutions, which is developing a technology it says will shake up the United States’ efforts to pry control over the global supply of lithium, the so-called “white gold” needed for electric vehicles and batteries, away from China.The startup is in a race to commercialize a new, less environmentally-damaging way to extract lithium from rocks. If everything pans out, it could significantly increase domestic supply at a crucial moment for the nation’s lithium extraction industry. Read the full story.
+
+
+
+—Alexander C. Kaufman
+
+
+
+
+
+
+
+The three big unanswered questions about Sora
+
+
+
+Last week OpenAI released Sora, a TikTok-style app that presents an endless feed of exclusively AI-generated videos, each up to 10 seconds long. The app allows you to create a “cameo” of yourself—a hyperrealistic avatar that mimics your appearance and voice—and insert other peoples’ cameos into your own videos (depending on what permissions they set).&nbsp;
+
+
+
+In the days since, it soared to the top spot on Apple’s US App Store. But its explosive growth raises a bunch of questions: can its popularity last? Can OpenAI afford it? And how soon until we start seeing lawsuits over its use of copyrighted content? Here’s what we’ve learned so far.
+
+
+
+This story originally appeared in The Algorithm, our weekly newsletter about the latest in AI. To get stories like this in your inbox first, sign up here.
+
+
+
+—James O’Donnell
+
+
+
+
+
+
+
+2025 climate tech companies to watch: HiNa Battery Technology and its effort to commercialize salt cells
+
+
+
+Over the next few decades the world will need a lot more batteries to power electric cars and keep grids stable. Today most battery cells are made with lithium, so the mineral is expected to be in hyper demand. But a new technology has come on the scene, potentially disrupting the global battery industry.For decades, research of sodium-ion cell technology was abandoned due to the huge commercial success of lithium-ion cells. Now, HiNa Battery Technology is working to bring sodium back to the limelight—and to the mass market. Read the full story.
+
+
+
+—You Xiaoying
+
+
+
+HiNa Battery Technology is one of our 10 climate tech companies to watch—our annual list of some of the most promising climate tech firms on the planet. Check out the rest of the list here.
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 OpenAI has signed a major chip dealIt will collaborate with AMD in a challenge to Nvidia’s dominance. (WSJ $)+ The multi-billion dollar deal will play out over five years. (FT $)+ Just two weeks ago, OpenAI agreed a deal with Nvidia. (CNN)+ The data center boom in the desert. (MIT Technology Review)
+
+
+
+2 Google lost a US Supreme Court bidThe justices denied Google’s bid to pause changes to its app store. (Bloomberg $)+ It’s part of the lawsuit Epic Games brought against the tech giant. (Reuters)+ The dispute remains unsolved, so it may be handed back to the justices. (NYT $)
+
+
+
+3 You can now use some apps directly within ChatGPTIt’s all part of OpenAI’s ambitions to make it a one-stop-shop for all your needs. (The Verge)+ Sam Altman wants it to become your primary digital portal. (The Information $)
+
+
+
+4 Deloitte used AI to generate a report for the Australian governmentUnfortunately, it was littered with hallucinated mistakes. (Ars Technica)5 The Nobel prize for medicine has been awarded to three immunity researchersThe trio discovered an immune cell that helps stop the immune system attacking itself. (New Scientist $)6 Russians are using AI to create video memorials of their war deadA burgeoning industry has sprung up, and practitioners will generate clips for $30. (WP $)+ Deepfakes of your dead loved ones are a booming Chinese business. (MIT Technology Review)
+
+
+
+7 The dream of greener air travel is starting to die Hydrogen-powered planes are years away. So what now? (FT $)+ How new technologies could clean up air travel. (MIT Technology Review)
+
+
+
+8 How job hunters are trying to trick AI résumé-checkersInserting sneaky hidden prompts is becoming commonplace. (NYT $)
+
+
+
+9 The creator of the Friend AI pendant doesn’t care if you hate itThe backlash to its provocative ads is all part of the plan, apparently. (The Atlantic $)
+
+
+
+10 Taylor Swift’s fans really don’t like AIThey’ve accused the singer’s new videos, which appear to be AI-generated, of looking cheap and sloppy. (NY Mag $)+ AI text is out, moving pictures are in. (Economist $)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“When AI videos are just as good as normal videos, I wonder what that will do to YouTube and how it will impact the millions of creators currently making content for a living&#8230; scary times.”
+
+
+
+—YouTuber Jimmy Donaldson, aka MrBeast, reflects on AI videos infiltrating the internet, TechCrunch reports.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+
+
+
+
+The case against humans in spaceElon Musk and Jeff Bezos are bitter rivals in the commercial space race, but they agree on one thing: Settling space is an existential imperative. Space is the place. The final frontier. It is our human destiny to transcend our home world and expand our civilization to extraterrestrial vistas.This belief has been mainstream for decades, but its rise has been positively meteoric in this new gilded age of astropreneurs.But as visions of giant orbital stations and Martian cities dance in our heads, a case against human space colonization has found its footing in a number of recent books, from doubts about the practical feasibility of off-Earth communities, to realism about the harsh environment of space and the enormous tax it would exact on the human body. Read the full story.
+
+
+
+—Becky Ferreira
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)+ Wow: scientists have successfully reconstructed a million-year old skull + Take a trip back in time with this fun compilation of music from the very first Sims game.+ RIP ‘stomp clap hey’—music’s most misunderstood and simultaneously annoying genre.+ How to live a good life in a tough world.
 • The three big unanswered questions about Sora
   Last week OpenAI released Sora, a TikTok-style app that presents an endless feed of exclusively AI-generated videos, each up to 10 seconds long. The app allows you to create a “cameo” of yourself—a hyperrealistic avatar that mimics your appearance and voice—and insert other peoples’ cameos into your own videos (depending on what permissions they set).&nbsp;
 
@@ -284,251 +442,44 @@ If things work out the right way, Sully says, Lilac could become the vendor of c
 
 
 “We think our technology is the next generation,” he says. “And if we end up working with an Exxon or a Chevron or a Rio Tinto, we want to be the DLE technology provider in their lithium project.”
-• The Download: introducing the 10 climate tech companies to watch for 2025
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
-
-
-
-Introducing: 10 climate tech companies to watch
-
-
-
-Every year, the MIT Technology Review newsroom produces a list of some of the most promising climate tech firms on the planet. It’s an exercise that we hope brings positive attention to companies working to decarbonize major sectors of the economy, whether by spinning up new, cleaner sources of energy or reinventing how we produce foods and distribute goods.Though the political and funding landscape has shifted dramatically in the US since last year, nothing has altered the urgency of the climate dangers the world now faces—we need to rapidly curb greenhouse gas emissions to avoid the most catastrophic impacts of climate change. This project highlights the firms making progress toward that end.Check out the third annual edition of the list, and learn more about why we selected these companies.
-
-
-
-
-
-
-
-Our best weapon against climate change is ingenuity
-
-
-
-—Bill Gates is a technologist, business leader, and philanthropist.It’s a foregone conclusion that the world will not meet the goals for limiting emissions and global warming laid out in the 2015 Paris Agreement. Many people want to blame politicians and corporations for this failure, but there’s an even more fundamental reason: We don’t have all the technological tools we need to do it, and many of the ones we do have are too expensive.
-
-
-
-But I don’t think this is a reason to be pessimistic. I see it as cause for optimism, because humans are very good at inventing things. In fact, we’ve already created many tools that are reducing emissions. And I am confident that more positive changes are coming. Read the full story.
-
-
-
-
-
-
-
-Another effort to track ICE raids was just taken offline
-
-
-
-People over Papers, a crowd-sourcing project that maps sightings of immigration agents, was taken offline yesterday by Padlet, the collaborative bulletin board platform on which it was built. 
-
-
-
-It’s just the latest ICE-tracking initiative to be pulled by tech platforms in the past few days, including the ICEBlock app that was removed from app stores last week and the Stop ICE Raids Alert Network. Read the full story.—Eileen Guo
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 ICE wants to build a social media surveillance squad Contractors will sift through social content searching for information to aid arrests and deportations. (Wired $)+ A US citizen with stage four cancer has been deported. (The Guardian)
-
-
-
-2 xAI is building massive data centers in MemphisWhich isn’t great news for disgruntled locals. (WSJ $)+ Data centers are big business in Europe right now. (Bloomberg $)+ The data center boom in the desert. (MIT Technology Review)
-
-
-
-3 Ukraine’s front lines are fighting deadly infectionsBacteria that are resistant to multiple antibiotics are infiltrating the country. (Knowable Magazine)+ Why tiny viruses could be our best bet against antimicrobial resistance. (MIT Technology Review)
-
-
-
-4 A Silicon Valley school asked its students to draft an AI policyMountain View High School thinks involving kids is the best way forward. (WP $)+ Elsewhere, a school in Texas is letting AI guide its entire curriculum. (CBS News)+ AI’s giants want to take over the classroom. (MIT Technology Review)
-
-
-
-5 These countries hope to benefit from the US visa crackdownSkilled engineers from overseas are looking beyond America for new opportunities. (FT $)+ India hopes its skilled workers living abroad will return home. (BBC)
-
-
-
-6 How an empty Chinese city became a self-driving testbedOrdos has everything that self-driving cars need—except humans. (Rest of World)+ Why China’s self-driving industry is pushing into Europe. (Reuters)
-
-
-
-7 How to talk to cows A wave of high-tech AI-powered collars is the closest we’ve got. (NYT $)+ Scientists are trying to get cows pregnant with synthetic embryos. (MIT Technology Review)
-
-
-
-8 Technology is full of fascinating records Strongest robotic arm, anyone? (IEEE Spectrum)
-
-
-
-9 Posting a simple Instagram photo is no longer enoughThe app keeps pushing us to ‘contentify’ everything. (The Verge)
-
-
-
-10 Japanese beer brand Asahi has resumed production After a huge cyber attack forced its breweries offline. (BBC)+ But we don’t know when its plants will return to full capacity. (Reuters)
-
-
-
-
-
-
-
-Quote of the day
-
-
-
-“You’ll never have a human trafficked AI girl.”
-
-
-
-—Steve Jones, who runs an AI porn site, explains how he sees the ethics of his endeavor to the Guardian.
-
-
-
-
-
-
-
-One more thing
-
-
-
-
-
-
-
-The race to fix space-weather forecasting before next big solar storm hitsAs the number of satellites in space grows, and as we rely on them for increasing numbers of vital tasks on Earth, the need to better predict stormy space weather is becoming more and more urgent.Scientists have long known that solar activity can change the density of the upper atmosphere. But it’s incredibly difficult to precisely predict the sorts of density changes that a given amount of solar activity would produce.Now, experts are working on a model of the upper atmosphere to help scientists to improve their models of how solar activity affects the environment in low Earth orbit. If they succeed, they’ll be able to keep satellites safe even amid turbulent space weather, reducing the risk of potentially catastrophic orbital collisions. Read the full story.
-
-
-
-—Tereza Pultarova
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+ I love this website showcasing madcap music genres (thanks Rachel!)+ It’s not just you—world records really are getting harder to beat.+ If you’ve ever wanted to play Snake in a url bar, now’s your chance (warning, it’s hard!)+ Fall is here, and the photos are already breathtaking ($)
-• 2025 Climate Tech Companies to Watch
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Bill Gates: Our best weapon against climate change is ingenuity
-  It’s a foregone conclusion that the world will not meet the goals for limiting emissions and global warming laid out in the 2015 Paris Agreement. Many people want to blame politicians and corporations for this failure, but there’s an even more fundamental reason: We don’t have all the technological tools we need to do it, and many of the ones we do have are too expensive.
-
-
-
-For all the progress the world has made on renewable energy sources, electric vehicles, and electricity storage, we need a lot more innovation on every front—from discovery to deployment—before we can hope to reach our ultimate goal of net-zero emissions.&nbsp;
-
-
-
-But I don’t think this is a reason to be pessimistic. I see it as cause for optimism, because humans are very good at inventing things. In fact, we’ve already created many tools that are reducing emissions. In just the past 10 years, energy breakthroughs have lowered the global forecast for emissions in 2040 by 40%. In other words, because of the human capacity to innovate, we are on course to reduce emissions substantially by 2040 even if nothing else changes.
-
-
-
-And I am confident that more positive changes are coming. I’ve been learning about global warming and investing in ideas to stop it for the past 20 years. I’ve connected with unbiased scientists and innovators who are committed to preventing a climate disaster. Ten years ago, some of them joined me in creating Breakthrough Energy, an investment group whose sole purpose is to accelerate clean energy innovation. We’ve supported more than 150 companies so far, many of which have blossomed into major businesses such as Fervo Energy and Redwood Materials, two of this year’s Companies to Watch. [Editor’s note: Mr. Gates did not participate in the selection process of this year’s companies and was not aware that two Breakthrough investments had been selected when he agreed to write this essay.]
-
-
-
-Yet climate technologies offer more than just a public good. They will remake virtually every aspect of the world’s economy in the coming years, transforming energy markets, manufacturing, transportation, and many types of industry and food production. Some of these efforts will require long-term commitments, but it’s important that we act now. And what’s more, it’s already clear where the opportunities lie.&nbsp;
-
-
-
-In the past decade, an ecosystem of thousands of innovators, investors, and industry leaders has emerged to work on every aspect of the problem. This&nbsp;year’s list of 10 Climate Tech Companies to Watch shows just a few of the many examples.
-
-
-
-Although much of this innovation ecosystem has matured on American shores, it has become a global movement that won’t be stopped by new obstacles in the US. It’s unfortunate that governments in the US and other countries have decided to cut funding for climate innovations and reverse some of the policies that help breakthrough ideas get to scale. In this environment, we need to be more rigorous than ever about spending our time, money, and ingenuity on efforts that will have the biggest impact.
-
-
-
-How do we figure out which ones those are? First, by understanding which activities are responsible for the most emissions. I group them into five categories: electricity generation, manufacturing, transportation, agriculture, and heating and cooling for buildings.
-
-
-
-
-
-
-
-Of course, the zero-carbon tools we have today aren’t distributed evenly across these sectors. In some sectors, like electricity, we’ve made a great deal of progress. In others, like agriculture and manufacturing, we’ve made much less. To compare progress across the board, I use what I call the Green Premium, which is the difference in cost between the clean way of doing something and the conventional way that produces emissions.&nbsp;
-
-
-
-For example, sustainable aviation fuel now costs more than twice as much as conventional jet fuel, so it has a Green Premium of over 100%. Solar and wind power have grown quickly because in many cases they’re cheaper than conventional sources of electricity—that is, they have a negative Green Premium.&nbsp;
-
-
-
-The Green Premium isn’t purely financial. To be competitive, clean alternatives also need to be as practical as what they’re replacing. Far more people will buy EVs once you can charge one up as quickly as you can fill your tank with gasoline.
-
-
-
-
-
-
-
-I think the Green Premium is the best way to identify areas of great impact. Where it’s high, as in the case of jet fuel, we need innovators and investors to jump on the problem. Where it’s low or even negative, we need to overcome the barriers that are keeping the technologies from reaching a global scale.
-
-
-
-A new technology has to overcome a lot of challenges to beat the incumbents, but being able to compete on cost is absolutely essential. So if I could offer one piece of advice to every company working on zero-carbon technologies, it would be to focus on lowering and eliminating the Green Premium in whatever sector you’ve chosen. Think big. If your technology can be competitive enough to eventually eliminate at least 1% of global emissions per year—that’s 0.5 gigatons—you’re on the right track.
-
-
-
-I’d encourage policymakers to bring this sector-by-sector focus on the Green Premium to their work, too. They should also protect funding for clean technologies and the policies that promote them. This is not just a public good: The countries that win the race to develop these breakthroughs will create jobs, hold enormous economic power for decades to come, and become more energy independent.
-
-
-
-In addition, young scientists and entrepreneurs should think about how they can put their skills toward these challenges. It’s an exciting time—the people who begin a career in clean technology today will have an enormous impact on human welfare. If you need pointers, the Climate Tech Atlas published last month by Breakthrough Energy and other partners is an excellent guide to the technologies that are essential for decarbonizing the economy and helping people adapt to a warmer climate.
-
-
-
-Finally, I’d encourage investors to put serious money into companies with technologies that can meaningfully reduce the Green Premium. Consider it an investment in what will be the biggest growth industry of the 21st century. Companies have made dramatic progress on better and cleaner solutions in every sector; what many of them need now is private-sector capital and partnerships to help them reach the scale at which they’ll have a real impact on emissions.
-
-
-
-So if I could offer one piece of advice to every company working on zero-carbon technologies, it would be to focus on lowering and eliminating the Green Premium in whatever sector you’ve chosen. 
-
-
-
-Transforming the entire physical economy is an unprecedented task, and it can only be accomplished through markets—by supporting companies with breakthrough ideas that beat fossil fuels on cost and practicality. It’s going to take investors who are both patient and willing to accept the risk that some companies will fail. Of course, governments and nonprofits have a role in the energy transition too, but ultimately, our success will hinge on climate innovators’ ability to build profitable companies.&nbsp;
-
-
-
-If we get this right—and I believe we will—then in the next decade, we’ll see fewer news stories about missed emissions targets and more stories about how emissions are dropping fast because the world invented and deployed breakthrough ideas: clean liquid fuels that power passenger jets and cargo ships; neighborhoods built with zero-emissions steel and cement; fusion plants that generate an inexhaustible supply of clean electricity.&nbsp;
-
-
-
-Not only will emissions fall faster than most people expect, but hundreds of millions of people will be able to get affordable, reliable clean energy—with especially dramatic improvements for low-income countries. More people will have access to air-conditioning for extremely hot days. More children will have lights so they can do their homework at night. More health clinics will be able to keep their vaccines cold so they don’t spoil. We’ll have built an economy where everyone can prosper.
-
-
-
-Of course, climate change will still present many challenges. But the advances we make in the coming years can ensure that everyone gets a chance to live a healthy and productive life no matter where they’re born, and no matter what kind of climate they’re born into.
-
-
-
-Bill Gates is a technologist, business leader, and philanthropist. In 1975, he cofounded Microsoft with his childhood friend Paul Allen, and today he is chair of the Gates Foundation, a nonprofit fighting poverty, disease, and inequity around the world. Bill is the founder of Breakthrough Energy, an organization focused on advancing clean energy innovation, and TerraPower, a company developing groundbreaking nuclear energy and science technologies. He has three children.
 
 🔒 Cybersecurity & Privacy
-No updates.
+• ShinyHunters Wage Broad Corporate Extortion Spree
+  A cybercriminal group that used voice phishing attacks to siphon more than a billion records from Salesforce customers earlier this year has launched a website that threatens to publish data stolen from dozens of Fortune 500 firms if they refuse to pay a ransom. The group also claimed responsibility for a recent breach involving Discord user data, and for stealing terabytes of sensitive files from thousands of customers of the enterprise software maker Red Hat.
+The new extortion website tied to ShinyHunters (UNC6040), which threatens to publish stolen data unless Salesforce or individual victim companies agree to pay a ransom.
+In May 2025, a prolific and amorphous English-speaking cybercrime group known as ShinyHunters launched a social engineering campaign that used voice phishing to trick targets into connecting a malicious app to their organization&#8217;s Salesforce portal.
+The first real details about the incident came in early June, when the Google Threat Intelligence Group (GTIG) warned that ShinyHunters &#8212; tracked by Google as UNC6040 &#8212; was extorting victims over their stolen Salesforce data, and that the group was poised to launch a data leak site to publicly shame victim companies into paying a ransom to keep their records private. A month later, Google acknowledged that one of its own corporate Salesforce instances was impacted in the voice phishing campaign.
+Last week, a new victim shaming blog dubbed &#8220;Scattered LAPSUS$ Hunters&#8221; began publishing the names of companies that had customer Salesforce data stolen as a result of the May voice phishing campaign.
+&#8220;Contact us to negotiate this ransom or all your customers data will be leaked,&#8221; the website stated in a message to Salesforce. &#8220;If we come to a resolution all individual extortions against your customers will be withdrawn from. Nobody else will have to pay us, if you pay, Salesforce, Inc.&#8221;
+Below that message were more than three dozen entries for companies that allegedly had Salesforce data stolen, including Toyota, FedEx, Disney/Hulu, and UPS. The entries for each company specified the volume of stolen data available, as well as the date that the information was retrieved (the stated breach dates range between May and September 2025).
+Image: Mandiant.
+On October 5, the Scattered LAPSUS$ Hunters victim shaming and extortion blog announced that the group was responsible for a breach in September involving a GitLab server used by Red Hat that contained more than 28,000 Git code repositories, including more than 5,000 Customer Engagement Reports (CERs).
+&#8220;Alot of folders have their client&#8217;s secrets such as artifactory access tokens, git tokens, azure, docker (redhat docker, azure containers, dockerhub), their client&#8217;s infrastructure details in the CERs like the audits that were done for them, and a whole LOT more, etc.,&#8221; the hackers claimed.
+Their claims came several days after a previously unknown hacker group calling itself the Crimson Collective took credit for the Red Hat intrusion on Telegram.
+Red Hat disclosed on October 2 that attackers had compromised a company GitLab server, and said it was in the process of notifying affected customers.
+&#8220;The compromised GitLab instance housed consulting engagement data, which may include, for example, Red Hat’s project specifications, example code snippets, internal communications about consulting services, and limited forms of business contact information,&#8221; Red Hat wrote.
+Separately, Discord has started emailing users affected by another breach claimed by ShinyHunters. Discord said an incident on September 20 at a &#8220;third-party customer service provider&#8221; impacted a &#8220;limited number of users&#8221; who communicated with Discord customer support or Trust &amp; Safety teams. The information included Discord usernames, emails, IP address, the last four digits of any stored payment cards, and government ID images submitted during age verification appeals.
+The Scattered Lapsus$ Hunters claim they will publish data stolen from Salesforce and its customers if ransom demands aren&#8217;t paid by October 10. The group also claims it will soon begin extorting hundreds more organizations that lost data in August after a cybercrime group stole vast amounts of authentication tokens from Salesloft, whose AI chatbot is used by many corporate websites to convert customer interaction into Salesforce leads.
+In a communication sent to customers today, Salesforce emphasized that the theft of any third-party Salesloft data allegedly stolen by ShinyHunters did not originate from a vulnerability within the core Salesforce platform. The company also stressed that it has no plans to meet any extortion demands.
+&#8220;Salesforce will not engage, negotiate with, or pay any extortion demand,&#8221; the message to customers read. &#8220;Our focus is, and remains, on defending our environment, conducting thorough forensic analysis, supporting our customers, and working with law enforcement and regulatory authorities.&#8221;
+The GTIG tracked the group behind the Salesloft data thefts as UNC6395, and says the group has been observed harvesting the data for authentication tokens tied to a range of cloud services like Snowflake and Amazon&#8217;s AWS.
+Google catalogs Scattered Lapsus$ Hunters by so many UNC names (throw in UNC6240 for good measure) because it is thought to be an amalgamation of three hacking groups &#8212; Scattered Spider, Lapsus$ and ShinyHunters. The members of these groups hail from many of the same chat channels on the Com, a mostly English-language cybercriminal community that operates across an ocean of Telegram and Discord servers.
+The Scattered Lapsus$ Hunters darknet blog is currently offline. The outage appears to have coincided with the disappearance of the group&#8217;s new clearnet blog &#8212; breachforums[.]hn &#8212; which vanished after shifting its Domain Name Service (DNS) servers from DDoS-Guard to Cloudflare.
+But before it died, the websites disclosed that hackers were exploiting a critical zero-day vulnerability in Oracle&#8217;s E-Business Suite software. Oracle has since confirmed that a security flaw tracked as CVE-2025-61882 allows attackers to perform unauthenticated remote code execution, and is urging customers to apply an emergency update to address the weakness.
+Mandiant&#8217;s Charles Carmichael shared on LinkedIn that CVE-2025-61882 was initially exploited in August 2025 by the Clop ransomware gang to steal data from Oracle E-Business Suite servers. Bleeping Computer writes that news of the Oracle zero-day first surfaced on the Scattered Lapsus$ Hunters blog, which published a pair of scripts that were used to exploit vulnerable Oracle E-Business Suite instances.
+On Monday evening, KrebsOnSecurity received a malware-laced message from a reader that threatened physical violence unless their unstated demands were met. The missive, titled &#8220;Shiny hunters,&#8221; contained the hashtag $LAPSU$$SCATEREDHUNTER, and urged me to visit a page on limewire[.]com to view their demands.
+A screenshot of the phishing message linking to a malicious trojan disguised as a Windows screenshot file.
+KrebsOnSecurity did not visit this link, but instead forwarded it to Mandiant, which confirmed that similar menacing missives were sent to employees at Mandiant and other security firms around the same time.
+The link in the message fetches a malicious trojan disguised as a Windows screenshot file (Virustotal&#8217;s analysis on this malware is here). Simply viewing the booby-trapped screenshot image on a Windows PC is enough to cause the bundled trojan to launch in the background.
+Mandiant&#8217;s Austin Larsen said the trojan is a commercially available backdoor known as ASYNCRAT, which is a .NET-based backdoor that communicates using a custom binary protocol over TCP, and can execute shell commands and download plugins to extend its features.
+A scan of the malicious screenshot file at Virustotal.com shows it is detected as bad by nearly a dozen security and antivirus tools.
+&#8220;Downloaded plugins may be executed directly in memory or stored in the registry,&#8221; Larsen wrote in an analysis shared via email. &#8220;Capabilities added via plugins include screenshot capture, file transfer, keylogging, video capture, and cryptocurrency mining. ASYNCRAT also supports a plugin that targets credentials stored by Firefox and Chromium-based web browsers.&#8221;
+Malware-laced targeted emails are not out of character for certain members of the Scattered Lapsus$ Hunters, who have previously harassed and threatened security researchers and even law enforcement officials who are investigating and warning about the extent of their attacks.
+With so many big data breaches and ransom attacks now coming from cybercrime groups operating on the Com, law enforcement agencies on both sides of the pond are under increasing pressure to apprehend the criminal hackers involved. In late September, prosecutors in the U.K. charged two alleged Scattered Spider members aged 18 and 19 with extorting at least $115 million in ransom payments from companies victimized by data theft.
+U.S. prosecutors heaped their own charges on the 19 year-old in that duo &#8212; U.K. resident Thalha Jubair &#8212; who is alleged to have been involved in data ransom attacks against Marks &amp; Spencer and Harrods, the British foot retailer Co-op Group, and the 2023 intrusions at MGM Resorts and Caesars Entertainment. Jubair also was allegedly a key member of LAPSUS$, a cybercrime group that broke into dozens of technology companies beginning in late 2021.
+A Mastodon post by Kevin Beaumont, lamenting the prevalence of major companies paying millions to extortionist teen hackers, refers derisively to Thalha Jubair as a part of an APT threat known as &#8220;Advanced Persistent Teenagers.&#8221;
+In August, convicted Scattered Spider member and 20-year-old Florida man Noah Michael Urban was sentenced to 10 years in federal prison and ordered to pay roughly $13 million in restitution to victims.
+In April 2025, a 23-year-old Scottish man thought to be an early Scattered Spider member was extradited from Spain to the U.S., where he is facing charges of wire fraud, conspiracy and identity theft. U.S. prosecutors allege Tyler Robert Buchanan and co-conspirators hacked into dozens of companies in the United States and abroad, and that he personally controlled more than $26 million stolen from victims.
 
 🎓 University AI
 No updates.
@@ -1397,6 +1348,240 @@ Disseminating In Silico and Computational Biological Research: Navigating Benefi
 
 Protecting scientific integrity in an age of generative AI, Proceedings of the National Academy of Science, 2024. (opens in new tab)
 Opens in a new tabThe post When AI Meets Biology: Promise, Risk, and Responsibility appeared first on Microsoft Research.
+• Automate Amazon QuickSight data stories creation with agentic AI using Amazon Nova Act
+  Amazon QuickSight data stories support global customers by transforming complex data into interactive narratives for faster decisions. However, manual creation of multiple daily data stories consumes significant time and resources, delaying critical decisions and preventing teams from focusing on valuable analysis. 
+Each organization has multiple business units, and each business unit creates and operates multiple dashboards based on specific reporting requirements. Users create various data stories from these dashboards according to their needs. Currently, data story creation is a manual process that consumes significant time because users need to develop multiple narratives. By automating this process, organizations can dramatically improve productivity, so users can redirect their time toward making data-driven decisions. 
+In this post, we demonstrate how Amazon Nova Act automates QuickSight data story creation, saving time so you can focus on making critical, data-driven business decisions. 
+Amazon Nova Act modernizes web browser automation, which helps in performing complex, real-world tasks through web interfaces. Unlike traditional large language models (LLMs) focused on conversation, Amazon Nova Act emphasizes action-oriented capabilities by breaking down complex tasks into reliable atomic commands. This transformative technology advances autonomous automation with minimal human supervision, making it particularly valuable for business productivity and IT operations. 
+QuickSight data stories transform complex data into interactive presentations that guide viewers through insights. It automatically combines visualizations, text, and images to bridge the gap between analysts and stakeholders, helping organizations communicate data effectively and make faster decisions while maintaining professional standards. 
+With the automation capabilities of Amazon Nova Act, you can automatically generate data stories, reducing time-consuming manual efforts. Using browser automation, Amazon Nova Act seamlessly interacts with QuickSight to create customized data narratives. By combining the automation of Amazon Nova Act with the robust visualization capabilities of QuickSight, you can minimize repetitive tasks and accelerate data-driven decision-making across teams. 
+Solution overview 
+In our solution, QuickSight transforms complex data into interactive narratives through data stories, enabling faster decisions. Amazon Nova Act transforms web browser automation by enabling AI agents to execute complex tasks autonomously, streamlining operations for enhanced business productivity. 
+Prompt best practices 
+Amazon Nova Act achieves optimal results by breaking down prompts into distinct act() calls, similar to providing step-by-step instructions. At the time of writing, this is the recommended approach for building repeatable, reliable, simple-to-maintain workflows. In this section, we discuss some prompt best practices. 
+First, be prescriptive and succinct in what the agent should do. For example, don’t use the following code: 
+nova.act("Select the SaaS-Sales dataset") 
+We recommend the following prompt instead: 
+nova.act("Click on Datasets option on the left-hand side and then select SaaS-Sales dataset ") 
+Additionally, we recommend breaking up large actions into smaller ones. For example, don’t use the following code: 
+nova.act("Publish dashboard as ‘test-dashboard’") 
+The following prompt is broken up into separate actions: 
+nova.act("select Analyses on the left-hand side”) 
+nova.act("select the ‘SaaS-Sales analysis’ ") 
+nova.act("select ‘PUBLISH’ from the top right-hand corner") 
+nova.act("In the 'Publish dashboard' dialog box, locate the input field labeled 'Dashboard name'. Enter 'test_dashboard' into this field”) 
+nova.act(“Select PUBLISH DASHBOARD”) 
+Prerequisites 
+The following prerequisites are needed to create and publish a QuickSight data story using Amazon Nova Act: 
+ 
+ An API key for authentication. To generate an API key, refer to Amazon Nova Act. 
+ For Amazon Nova Act prerequisites and installation instructions, refer to the GitHub repo. 
+ A Pro user (author or reader) to create QuickSight data stories. 
+ A published QuickSight dashboard containing the visuals required for your QuickSight data story. 
+ 
+For Windows users, complete the following setup and installation steps in Windows PowerShell: 
+ 
+ Create a virtual environment: python -m venv venv. 
+ Activate the virtual environment: venv\Scripts\activate 
+ Set your API key as an environment variable: $Env:NOVA_ACT_API_KEY="your_api_key" 
+ Install Amazon Nova Act: pip install nova-act 
+ To run a script (Python file), use the following command, and specify the script name you want to run: python &lt;script_name&gt;.py 
+ 
+To keep it simple, we have hardcoded some of the values. You can implement programming logic using Python features to accept these values as input parameters. 
+There are multiple ways to write prompts. In the following sections, we provide examples demonstrating how to automate QuickSight data story creation and distribution. 
+Setup 
+Run the following code to import the NovaAct class from the nova_act module, create an Amazon Nova instance beginning at the QuickSight login page, and initiate an automated browser session: 
+ 
+ from nova_act import NovaAct
+
+nova = NovaAct(starting_page="https://quicksight.aws.amazon.com/")
+
+nova.start()
+ 
+ 
+Sign in with credentials After you have opened the QuickSight login page, complete the following steps to log in with your credentials: 
+ 
+ Enter your QuickSight account name and choose Next. (Specify the QuickSight account name in the following code, or implement programming logic to handle it as an input parameter.) nova.act("enter QuickSight account name &lt;Account Name&gt; and select Next") 
+ Enter your user name and move to the password field. (You can configure the user name as an input parameter using programming logic.) nova.act("Enter username and click on the password field") 
+ Collect the password from the command line and enter it using Playwright: nova.page.keyboard.type(getpass()) 
+ Now that user name and password are filled in, choose Sign in. nova.act("Click Sign in") 
+ 
+If the agent is unable to focus on the page element (in this case, the password field), you can use the following code: 
+nova.act("enter '' in the password field") 
+nova.page.keyboard.type(getpass()) 
+Create a new data story On the QuickSight console, choose Data stories in the navigation pane: 
+nova.act("Select Data stories on the left side menu") 
+nova.act("Select NEW DATA STORY"). 
+ 
+To build the data story, you must complete the following steps: 
+ 
+ Describe the data story 
+ Select visuals from the dashboard 
+ Build the data story 
+ 
+nova.act("Please enter ‘Country wide sales data story’ into the 'Describe your data story' field and Click on + ADD") 
+nova.act("select all the visuals and select BUILD") 
+time.sleep(300) 
+ 
+In this example, the script defaults to a single dashboard (Demo Dashboard). For multiple dashboards, include a prompt to select the specific dashboard and its visuals for the data story. Additionally, you can describe the data story according to your requirements. If there are multiple visuals, you can select the ones you want to include as part of the data story. Adjust the time.sleep duration based on dashboard data volume and the number of visuals being compiled. 
+To view your data story, choose Data stories in the navigation pane and choose your data story. 
+ 
+Clean up 
+Complete the following steps to delete the data story you created: 
+ 
+ Sign in to the QuickSight console. 
+ Choose Data stories in the navigation pane. 
+ Find the data story you want to delete. 
+ Choose the options menu icon (three dots) next to the story. 
+ Choose Delete from the dropdown menu. 
+ 
+Conclusion 
+In this post, we demonstrated how to create a QuickSight data story using Amazon Nova Act prompts. This solution showcases how Amazon Nova Act simplifies task automation, significantly boosting productivity and saving valuable time. 
+To learn more about Amazon Nova Act and QuickSight data stories, check out the following resources: 
+ 
+ Amazon Nova Act GitHub repo 
+ Introducing Amazon Nova Act 
+ Working with data stories in Amazon QuickSight 
+ 
+ 
+About the author 
+Satish Bhonsle is a Senior Technical Account Manager at AWS. He is passionate about customer success and technology. He loves working backwards by quickly understanding strategic customer objectives, aligning them to software capabilities and effectively driving customer success.
+• Implement automated monitoring for Amazon Bedrock batch inference
+  Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading AI companies through a single API, along with capabilities to build generative AI applications with security, privacy, and responsible AI. 
+Batch inference in Amazon Bedrock is for larger workloads where immediate responses aren’t critical. With a batch processing approach, organizations can analyze substantial datasets efficiently, with significant cost advantages: you can benefit from a 50% reduction in pricing compared to the on-demand option. This makes batch inference particularly valuable for handling extensive data to get inference from Amazon Bedrock FMs. 
+As organizations scale their use of Amazon Bedrock FMs for large-volume data processing, implementing effective monitoring and management practices for batch inference jobs becomes an important focus area for optimization. This solution demonstrates how to implement automated monitoring for Amazon Bedrock batch inference jobs using AWS serverless services such as AWS Lambda, Amazon DynamoDB, and Amazon EventBridge, reducing operational overhead while maintaining reliable processing of large-scale batch inference workloads. Through a practical example in the financial services sector, we show how to build a production-ready system that automatically tracks job status, provides real-time notifications, and maintains audit records of processing activities. 
+Solution overview 
+Consider a scenario where a financial services company manages millions of customer interactions and data points, including credit histories, spending patterns, and financial preferences. This company recognized the potential of using advanced AI capabilities to deliver personalized product recommendations at scale. However, processing such massive datasets in real time isn’t always necessary or cost-effective. 
+The solution presented in this post uses batch inference in Amazon Bedrock with automated monitoring to process large volumes of customer data efficiently using the following architecture. 
+ 
+This architecture workflow includes the following steps: 
+ 
+ The financial services company uploads customer credit data and product data to be processed to an Amazon Simple Storage Service (Amazon S3) bucket. 
+ The first Lambda function reads the prompt template and data from the S3 bucket, and creates a JSONL file with prompts for the customers along with their credit data and available financial products. 
+ The same Lambda function triggers a new Amazon Bedrock batch inference job using this JSONL file. 
+ In the prompt template, the FM is given a role of expert in recommendation systems within the financial services industry. This way, the model understands the customer and their credit information to intelligently recommend most suitable products. 
+ An EventBridge rule monitors the state changes of the batch inference job. When the job completes or fails, the rule triggers a second Lambda function. 
+ The second Lambda function creates an entry for the job with its status in a DynamoDB table. 
+ After a batch job is complete, its output files (containing personalized product recommendations) will be available in the S3 bucket’s inference_results folder. 
+ 
+This automated monitoring solution for Amazon Bedrock batch inference offers several key benefits: 
+ 
+ Real-time visibility – Integration of DynamoDB and EventBridge provides real-time visibility into the status of batch inference jobs, enabling proactive monitoring and timely decision-making 
+ Streamlined operations – Automated job monitoring and management minimizes manual overhead, reducing operational complexities so teams can focus on higher-value tasks like analyzing recommendation results 
+ Optimized resource allocation – Metrics and insights about token count and latency stored in DynamoDB help organizations optimize resource allocation, facilitating efficient utilization of batch inference capabilities and cost-effectiveness 
+ 
+Prerequisites 
+To implement this solution, you must have the following: 
+ 
+ An active AWS account with appropriate permissions to create resources, including S3 buckets, Lambda functions, and Amazon Bedrock resources. 
+ Access to your selected models hosted on Amazon Bedrock. Make sure the selected model has been enabled in Amazon Bedrock. 
+ 
+Additionally, make sure to deploy the solution in an AWS Region that supports batch inference. 
+Deploy solution 
+For this solution, we provide an AWS CloudFormation template that sets up the services included in the architecture, to enable repeatable deployments. This template creates the following resources: 
+ 
+ An S3 bucket to store the input and output 
+ AWS Identity and Access Management (IAM) roles for Lambda functions, EventBridge rule, and Amazon Bedrock batch inference job 
+ Amazon Bedrock Prompt Management template 
+ EventBridge rule to trigger the Lambda function 
+ DynamoDB table to store the job execution details 
+ 
+To deploy the CloudFormation template, complete the following steps: 
+ 
+ Sign in to the AWS Management Console. 
+ Open the template directly on the Create stack page of the CloudFormation console. 
+ Choose Next and provide the following details: 
+   
+   For Stack name, enter a unique name. 
+   For ModelId, enter the model ID that you need your batch job to run with. Only Anthropic Claude family models can be used with the CloudFormation template provided in this post. 
+    
+ Add optional tags, permissions, and other advanced settings if needed. 
+ Review the stack details, select I acknowledge that AWS CloudFormation might create AWS IAM resources, and choose Next. 
+ Choose Submit to initiate the deployment in your AWS account. The stack might take several minutes to complete. 
+ 
+ 
+ Choose the Resources tab to find the newly created S3 bucket after the deployment succeeds. 
+ Open the S3 bucket and confirm that there are two CSV files in your data folder.  
+ 
+ 
+ On the Amazon S3 console, go to the data folder and create two more folders manually. This will prepare your S3 bucket to store the prompts and batch inference job results.  
+ 
+ 
+ On the Lambda console, choose Functions in the navigation pane. 
+ Choose the function that has create-jsonl-file in its name.  
+ 
+ 
+ On the Test tab, choose Test to run the Lambda function.  The function reads the CSV files from the S3 bucket and the prompt template, and creates a JSONL file with prompts for the customers under the prompts folder of your S3 bucket. The JSONL file has 100 prompts using the customers and products data. Lastly, the function submits a batch inference job with the CreateModelInvocationJob API call using the JSONL file. 
+ On the Amazon Bedrock console, choose Prompt Management under Builder tools in the navigation pane. 
+ Choose the finance-product-recommender-v1 prompt to see the prompt template input for the FM. 
+ Choose Batch inference in the navigation pane under Inference and Assessment to find the submitted job.  
+ 
+The job progresses through different statuses: Submitted, Validating, In Progress, and lastly Completed, or Failed. You can leave this page and check the status after a few hours. 
+The EventBridge rule will automatically trigger the second Lambda function with event-bridge-trigger in its name on completion of the job. This function will add an entry in the DynamoDB table named bedrock_batch_job_status with details of the execution, as shown in the following screenshot. 
+ 
+This DynamoDB table functions as a state manager for Amazon Bedrock batch inference jobs, tracking the lifecycle of each request. The columns of the table are logically divided into the following categories: 
+ 
+ Job identification and core attributes (job_arn, job_name) – These columns provide the unique identifier and a human-readable name for each batch inference request, serving as the primary keys or core attributes for tracking. 
+ Execution and lifecycle management (StartTime, EndTime, last_processed_timestamp, TotalDuration) – This category captures the temporal aspects and the overall progression of the job, allowing for monitoring of its current state, start/end times, and total processing duration. last_processed_timestamp is crucial for understanding the most recent activity or checkpoint. 
+ Processing statistics and performance (TotalRecordCount, ProcessedRecordCount, SuccessRecordCount, ErrorRecordCount) – These metrics provide granular insights into the processing efficiency and outcome of the batch job, highlighting data volume, successful processing rates, and error occurrences. 
+ Cost and resource utilization metrics (InputTokenCount, OutputTokenCount) – Specifically designed for cost analysis, these columns track the consumption of tokens, which is a direct factor in Amazon Bedrock pricing, enabling accurate resource usage assessment. 
+ Data and location management (InputLocation, OutputLocation) – These columns link the inference job to its source and destination data within Amazon S3, maintaining traceability of the data involved in the batch processing. 
+ 
+View product recommendations 
+Complete the following steps to open the output file and view the recommendations for each customer generated by the FM: 
+ 
+ On the Amazon Bedrock console, open the completed batch inference job. 
+ Find the job Amazon Resource Name (ARN) and copy the text after model-invocation-job/, as illustrated in the following screenshot.  
+ 
+ 
+ Choose the link for S3 location under Output data. A new tab opens with the inference_results folder of the S3 bucket. 
+ 
+ 
+ Search for the job results folder using the text copied from the previous step. 
+ Open the folder to find two output files: 
+   
+   The file named manifest contains information like number of tokens, number of successful records, and number of errors. 
+   The second output file contains the recommendations. 
+    
+ Download the second output file and open it in a text editor like Visual Studio Code to find the recommendations against each customer. 
+ 
+The example in the following screenshot shows several recommended products and why the FM chose this product for the specific customer. 
+ 
+Best practices 
+To optimize or enhance your monitoring solution, consider the following best practices: 
+ 
+ Set up Amazon CloudWatch alarms for failed jobs to facilitate prompt attention to issues. For more details, see Amazon CloudWatch alarms. 
+ Use appropriate DynamoDB capacity modes based on your workload patterns. 
+ Configure relevant metrics and logging of batch job performance for operational visibility. Refer to Publish custom metrics for more details. The following are some useful metrics: 
+   
+   Average job duration 
+   Token throughput rate (inputTokenCount + outputTokenCount) / jobDuration) 
+   Error rates and types 
+    
+ 
+Estimated costs 
+The cost estimate of running this solution one time is less than $1. The estimate for batch inference jobs considers Anthropic’s Claude 3.5 sonnet V2 model. Refer to Model pricing details for batch job pricing of other models on Amazon Bedrock. 
+Clean up 
+If you no longer need this automated monitoring solution, follow these steps to delete the resources it created to avoid additional costs: 
+ 
+ On the Amazon S3 console, choose Buckets in the navigation pane. 
+ Select the bucket you created and choose Empty to delete its contents. 
+ On the AWS CloudFormation console, choose Stacks in the navigation pane. 
+ Select the created stack and choose Delete. 
+ 
+This automatically deletes the deployed stack and the resources created. 
+Conclusion 
+In this post, we demonstrated how a financial services company can use an FM to process large volumes of customer records and get specific data-driven product recommendations. We also showed how to implement an automated monitoring solution for Amazon Bedrock batch inference jobs. By using EventBridge, Lambda, and DynamoDB, you can gain real-time visibility into batch processing operations, so you can efficiently generate personalized product recommendations based on customer credit data. The solution addresses key challenges in managing batch inference operations: 
+ 
+ Alleviates the need for manual status checking or continuous polling 
+ Provides immediate notifications when jobs complete or fail 
+ Maintains a centralized record of job statuses 
+ 
+This automated monitoring approach significantly enhances the ability to process large amounts of financial data using batch inference for Amazon Bedrock. This solution offers a scalable, efficient, and cost-effective approach to do batch inference for a variety of use cases, such as generating product recommendations, identifying fraud patterns, or analyzing financial trends in bulk, with the added benefit of real-time operational visibility. 
+ 
+About the authors 
+Durga Prasad&nbsp;is a Senior Consultant at AWS, specializing in the Data and AI/ML. He has over 17 years of industry experience and is passionate about helping customers design, prototype, and scale Big Data and Generative AI applications using AWS native and open-source tech stacks. 
+Chanpreet Singh is a Senior Consultant at AWS with 18+ years of industry experience, specializing in Data Analytics and AI/ML solutions. He partners with enterprise customers to architect and implement cutting-edge solutions in Big Data, Machine Learning, and Generative AI using AWS native services, partner solutions and open-source technologies. A passionate technologist and problem solver, he balances his professional life with nature exploration, reading, and quality family time.
 • Responsible AI: How PowerSchool safeguards millions of students with AI-powered content filtering using Amazon SageMaker AI
   This post is cowritten with Gayathri Rengarajan and Harshit Kumar Nyati from PowerSchool. 
 PowerSchool is a leading provider of cloud-based software for K-12 education, serving over 60 million students in more than 90 countries and over 18,000 customers, including more than 90 of the top 100 districts by student enrollment in the United States. When we launched PowerBuddy, our AI assistant integrated across our multiple educational platforms, we faced a critical challenge: implementing content filtering sophisticated enough to distinguish between legitimate academic discussions and harmful content in educational contexts. 
@@ -1518,463 +1703,5 @@ Gayathri Rengarajan is the Associate Director of Data Science at PowerSchool, le
 Anjali Vijayakumar is a Senior Solutions Architect at AWS with over 9 years of experience helping customers build reliable and scalable cloud solutions. Based in Seattle, she specializes in architectural guidance for EdTech solutions, working closely with Education Technology companies to transform learning experiences through cloud innovation. Outside of work, Anjali enjoys exploring the Pacific Northwest through hiking. 
 Dmitry Soldatkin&nbsp;is a Senior AI/ML Solutions Architect at Amazon Web Services (AWS), helping customers design and build AI/ML solutions. Dmitry’s work covers a wide range of ML use cases, with a primary interest in Generative AI, deep learning, and scaling ML across the enterprise. He has helped companies in many industries, including insurance, financial services, utilities, and telecommunications. You can connect with Dmitry on&nbsp;LinkedIn. 
 Karan Jain is a Senior Machine Learning Specialist at AWS, where he leads the worldwide Go-To-Market strategy for Amazon SageMaker Inference. He helps customers accelerate their generative AI and ML journey on AWS by providing guidance on deployment, cost-optimization, and GTM strategy. He has led product, marketing, and business development efforts across industries for over 10 years, and is passionate about mapping complex service features to customer solutions.
-• Unlock global AI inference scalability using new global cross-Region inference on Amazon Bedrock  with Anthropic’s Claude Sonnet 4.5
-  Organizations are increasingly integrating generative AI capabilities into their applications to enhance customer experiences, streamline operations, and drive innovation. As generative AI workloads continue to grow in scale and importance, organizations face new challenges in maintaining consistent performance, reliability, and availability of their AI-powered applications. Customers are looking to scale their AI inference workloads across multiple AWS Regions to support consistent performance and reliability. 
-To address this need, we introduced cross-Region inference (CRIS) for Amazon Bedrock. This managed capability automatically routes inference requests across multiple Regions, enabling applications to handle traffic bursts seamlessly and achieve higher throughput without requiring developers to predict demand fluctuations or implement complex load-balancing mechanisms. CRIS works through inference profiles, which define a foundation model (FM) and the Regions to which requests can be routed. 
-We are excited to announce availability of global cross-Region inference with Anthropic’s Claude Sonnet 4.5 on Amazon Bedrock. Now, with cross-Region inference, you can choose either a geography-specific inference profile or a global inference profile. This evolution from geography-specific routing provides greater flexibility for organizations because Amazon Bedrock automatically selects the optimal commercial Region within that geography to process your inference request. Global CRIS further enhances cross-Region inference by enabling the routing of inference requests to supported commercial Regions worldwide, optimizing available resources and enabling higher model throughput. This helps support consistent performance and higher throughput, particularly during unplanned peak usage times. Additionally, global CRIS supports key Amazon Bedrock features, including prompt caching, batch inference, Amazon Bedrock Guardrails, Amazon Bedrock Knowledge Bases, and more. 
-In this post, we explore how global cross-Region inference works, the benefits it offers compared to Regional profiles, and how you can implement it in your own applications with Anthropic’s Claude Sonnet 4.5 to improve your AI applications’ performance and reliability. 
-Core functionality of global cross-Region inference 
-Global cross-Region inference helps organizations manage unplanned traffic bursts by using compute resources across different Regions. This section explores how this feature works and the technical mechanisms that power its functionality. 
-Understanding inference profiles 
-An inference profile in Amazon Bedrock defines an FM and one or more Regions to which it can route model invocation requests. The global cross-Region inference profile for Anthropic’s Claude Sonnet 4.5 extends this concept beyond geographic boundaries, allowing requests to be routed to one of the supported Amazon Bedrock commercial Regions globally, so you can prepare for unplanned traffic bursts by distributing traffic across multiple Regions. 
-Inference profiles operate on two key concepts: 
- 
- Source Region – The Region from which the API request is made 
- Destination Region – A Region to which Amazon Bedrock can route the request for inference 
- 
-At the time of writing, global CRIS supports over 20 source Regions, and the destination Region is a supported commercial Region dynamically chosen by Amazon Bedrock. 
-Intelligent request routing 
-Global cross-Region inference uses an intelligent request routing mechanism that considers multiple factors, including model availability, capacity, and latency, to route requests to the optimal Region. The system automatically selects the optimal available Region for your request without requiring manual configuration: 
- 
- Regional capacity – The system considers the current load and available capacity in each potential destination Region. 
- Latency considerations – Although the system prioritizes availability, it also takes latency into account. By default, the service attempts to fulfill requests from the source Region when possible, but it can seamlessly route requests to other Regions as needed. 
- Availability metrics – The system continuously monitors the availability of FMs across Regions to support optimal routing decisions. 
- 
-This intelligent routing system enables Amazon Bedrock to distribute traffic dynamically across the AWS global infrastructure, facilitating optimal availability for each request and smoother performance during high-usage periods. 
-Monitoring and logging 
-When using global cross-Region inference, Amazon CloudWatch and AWS CloudTrail continue to record log entries only in the source Region where the request originated. This simplifies monitoring and logging by maintaining all records in a single Region regardless of where the inference request is ultimately processed. To track which Region processed a request, CloudTrail events include an additionalEventData field with an inferenceRegion key that specifies the destination Region. Organizations can monitor and analyze the distribution of their inference requests across the AWS global infrastructure. 
-Data security and compliance 
-Global cross-Region inference maintains high standards for data security. Data transmitted during cross-Region inference is encrypted and remains within the secure AWS network. Sensitive information remains protected throughout the inference process, regardless of which Region processes the request. Because security and compliance is a shared responsibility, you must also consider legal or compliance requirements that come with processing inference request in a different geographic location. Because global cross-Region inference allows requests to be routed globally, organizations with specific data residency or compliance requirements can elect, based on their compliance needs, to use geography-specific inference profiles to make sure data remains within certain Regions. This flexibility helps businesses balance redundancy and compliance needs based on their specific requirements. 
-Implement global cross-Region inference 
-To use global cross-Region inference with Anthropic’s Claude Sonnet 4.5, developers must complete the following key steps: 
- 
- Use the global inference profile ID – When making API calls to Amazon Bedrock, specify the global Anthropic’s Claude Sonnet 4.5 inference profile ID (global.anthropic.claude-sonnet-4-5-20250929-v1:0) instead of a Region-specific model ID. This works with both InvokeModel and Converse APIs. 
- Configure IAM permissions – Grant appropriate AWS Identity and Access Management (IAM) permissions to access the inference profile and FMs in potential destination Regions. In the next section, we provide more details. You can also read more about prerequisites for inference profiles. 
- 
-Implementing global cross-Region inference with Anthropic’s Claude Sonnet 4.5 is straightforward, requiring only a few changes to your existing application code. The following is an example of how to update your code in Python: 
- 
- import boto3
-import json
-bedrock = boto3.client('bedrock-runtime', region_name='us-east-1')
-
-
-model_id = "global.anthropic.claude-sonnet-4-5-20250929-v1:0"&nbsp;&nbsp;
-
-
-
-response = bedrock.converse(
-&nbsp; &nbsp;&nbsp;messages=[{"role": "user", "content": [{"text": "Explain cloud computing in 2 sentences."}]}],
-&nbsp;&nbsp; &nbsp;modelId=model_id,
-)
-
-print("Response:", response['output']['message']['content'][0]['text'])
-print("Tokens used:", result.get('usage', {})) 
- 
-If you’re using the Amazon Bedrock InvokeModel API, you can quickly switch to a different model by changing the model ID, as shown in Invoke model code examples. 
-IAM policy requirements for global CRIS 
-In this section, we discuss the IAM policy requirements for global CRIS. 
-Enable global CRIS 
-To enable global CRIS for your users, you must apply a three-part IAM policy to the role. The following is an example IAM policy to provide granular control. You can replace &lt;REQUESTING REGION&gt; in the example policy with the Region you are operating in. 
- 
- {
-&nbsp;&nbsp; &nbsp;"Version": "2012-10-17",
-&nbsp;&nbsp; &nbsp;"Statement": [
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;{
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Sid": "GrantGlobalCrisInferenceProfileRegionAccess",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Effect": "Allow",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Action": "bedrock:InvokeModel",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Resource": [
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"arn:aws:bedrock:&lt;REQUESTING REGION&gt;:&lt;ACCOUNT&gt;:inference-profile/global.&lt;MODEL NAME&gt;"
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;],
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Condition": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"StringEquals": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"aws:RequestedRegion": "&lt;REQUESTING REGION&gt;"
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;},
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;{
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Sid": "GrantGlobalCrisInferenceProfileInRegionModelAccess",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Effect": "Allow",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Action": "bedrock:InvokeModel",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Resource": [
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"arn:aws:bedrock:&lt;REQUESTING REGION&gt;::foundation-model/&lt;MODEL NAME&gt;"
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;],
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Condition": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"StringEquals": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"aws:RequestedRegion": "&lt;REQUESTING REGION&gt;",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"bedrock:InferenceProfileArn": "arn:aws:bedrock:&lt;REQUESTING REGION&gt;:&lt;ACCOUNT&gt;:inference-profile/global.&lt;MODEL NAME&gt;"
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;},
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;{
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Sid": "GrantGlobalCrisInferenceProfileGlobalModelAccess",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Effect": "Allow",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Action": "bedrock:InvokeModel",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Resource": [
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"arn:aws:bedrock:::foundation-model/&lt;MODEL NAME&gt;"
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;],
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"Condition": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"StringEquals": {
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "aws:RequestedRegion":&nbsp;"unspecified",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"bedrock:InferenceProfileArn": "arn:aws:bedrock:&lt;REQUESTING REGION&gt;:&lt;ACCOUNT&gt;:inference-profile/global.&lt;MODEL NAME&gt;"
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp;]
-} 
- 
-The first part of the policy grants access to the Regional inference profile in your requesting Region. This policy allows users to invoke the specified global CRIS inference profile from their requesting Region. The second part of the policy provides access to the Regional FM resource, which is necessary for the service to understand which model is being requested within the Regional context. The third part of the policy grants access to the global FM resource, which enables the cross-Region routing capability that makes global CRIS function. When implementing these policies, make sure all three resource Amazon Resource Names (ARNs) are included in your IAM statements: 
- 
- The Regional inference profile ARN follows the pattern arn:aws:bedrock:REGION:ACCOUNT:inference-profile/global.MODEL-NAME. This is used to give access to the global inference profile in the source Region. 
- The Regional FM uses arn:aws:bedrock:REGION::foundation-model/MODEL-NAME. This is used to give access to the FM in the source Region. 
- The global FM requires arn:aws:bedrock:::foundation-model/MODEL-NAME. This is used to give access to the FM in different global Regions. 
- 
-The global FM ARN has no Region or account specified, which is intentional and required for the cross-Region functionality. 
-To simplify onboarding, global CRIS doesn’t require complex changes to an organization’s existing Service Control Policies (SCPs) that might deny access to services in certain Regions. When you opt in to global CRIS using this three-part policy structure, Amazon Bedrock will process inference requests across commercial Regions without validating against Regions denied in other parts of SCPs. This prevents workload failures that could occur when global CRIS routes inference requests to new or previously unused Regions that might be blocked in your organization’s SCPs. However, if you have data residency requirements, you should carefully evaluate your use cases before implementing global CRIS, because requests might be processed in any supported commercial Region. 
-Disable global CRIS 
-You can choose from two primary approaches to implement deny policies to global CRIS for specific IAM roles, each with different use cases and implications: 
- 
- Remove an IAM policy – The first method involves removing one or more of the three required IAM policies from user permissions. Because global CRIS requires all three policies to function, removing a policy will result in denied access. 
- Implement a deny policy – The second approach is to implement an explicit deny policy that specifically targets global CRIS inference profiles. This method provides clear documentation of your security intent and makes sure that even if someone accidentally adds the required allow policies later, the explicit deny will take precedence. The deny policy should use a StringEquals condition matching the pattern "aws:RequestedRegion": "unspecified". This pattern specifically targets inference profiles with the global prefix. 
- 
-When implementing deny policies, it’s crucial to understand that global CRIS changes how the aws:RequestedRegion field behaves. Traditional Region-based deny policies that use StringEquals conditions with specific Region names such as "aws:RequestedRegion": "us-west-2" will not work as expected with global CRIS because the service sets this field to global rather than the actual destination Region. However, as mentioned earlier, "aws:RequestedRegion": "unspecified" will result in the deny effect. 
-Note: To simplify customer onboarding, global CRIS has been designed to work without requiring complex changes to an organization’s existing SCPs that may deny access to services in certain Regions. When customers opt in to global CRIS using the three-part policy structure described above, Amazon Bedrock will process inference requests across supported AWS commercial Regions without validating against regions denied in any other parts of SCPs. This prevents workload failures that could occur when global CRIS routes inference requests to new or previously unused Regions that might be blocked in your organization’s SCPs. However, customers with data residency requirements should evaluate their use cases before implementing global CRIS, because requests may be processed in any supported commercial Regions. As a best practice, organizations who use geographic CRIS but want to opt out from global CRIS should implement the second approach. 
-Request limit increases for global CRIS with Anthropic’s Claude Sonnet 4.5 
-When using global CRIS inference profiles, it’s important to understand that service quota management is centralized in the US East (N. Virginia) Region. However, you can use global CRIS from over 20 supported source Regions. Because this will be a global limit, requests to view, manage, or increase quotas for global cross-Region inference profiles must be made through the Service Quotas console or AWS Command Line Interface (AWS CLI) specifically in the US East (N. Virginia) Region. Quotas for global CRIS inference profiles will not appear on the Service Quotas console or AWS CLI for other source Regions, even when they support global CRIS usage. This centralized quota management approach makes it possible to access your limits globally without estimating usage in individual Regions. If you don’t have access to US East (N. Virginia), reach out to your account teams or AWS support. 
-Complete the following steps to request a limit increase: 
- 
- Sign in to the Service Quotas console in your AWS account.  
- Make sure your selected Region is US East (N. Virginia). 
- In the navigation pane, choose AWS services. 
- From the list of services, find and choose Amazon Bedrock. 
- In the list of quotas for Amazon Bedrock, use the search filter to find the specific global CRIS quotas. For example: 
-   
-   Global cross-Region model inference tokens per day for Anthropic Claude Sonnet 4.5 V1 
-   Global cross-Region model inference tokens per minute for Anthropic Claude Sonnet 4.5 V1 
-    
- Select the quota you want to increase. 
- Choose Request increase at account level.  
- Enter your desired new quota value. 
- Choose Request to submit your request. 
- 
-Use global cross-Region inference with Anthropic’s Claude Sonnet 4.5 
-Claude Sonnet 4.5 is Anthropic’s most intelligent model (at the time of writing), and is best for coding and complex agents. Anthropic’s Claude Sonnet 4.5 demonstrates advancements in agent capabilities, with enhanced performance in tool handling, memory management, and context processing. The model shows marked improvements in code generation and analysis, including identifying optimal improvements and exercising stronger judgment in refactoring decisions. It particularly excels at autonomous long-horizon coding tasks, where it can effectively plan and execute complex software projects spanning hours or days while maintaining consistent performance and reliability throughout the development cycle. 
-Global cross-Region inference for Anthropic’s Claude Sonnet 4.5 delivers multiple advantages over traditional geographic cross-Region inference profiles: 
- 
- Enhanced throughput during peak demand – Global cross-Region inference provides improved resilience during periods of peak demand by automatically routing requests to Regions with available capacity. This dynamic routing happens seamlessly without additional configuration or intervention from developers. Unlike traditional approaches that might require complex client-side load balancing between Regions, global cross-Region inference handles traffic spikes automatically. This is particularly important for business-critical applications where downtime or degraded performance can have significant financial or reputational impacts. 
- Cost-efficiency – Global cross-Region inference for Anthropic’s Claude Sonnet 4.5 offers approximately 10% savings on both input and output token pricing compared to geographic cross-Region inference. The price is calculated based on the Region from which the request is made (source Region). This means organizations can benefit from improved resilience with even lower costs. This pricing model makes global cross-Region inference a cost-effective solution for organizations looking to optimize their generative AI deployments. By improving resource utilization and enabling higher throughput without additional costs, it helps organizations maximize the value of their investment in Amazon Bedrock. 
- Streamlined monitoring – When using global cross-Region inference, CloudWatch and CloudTrail continue to record log entries in your source Region, simplifying observability and management. Even though your requests are processed across different Regions worldwide, you maintain a centralized view of your application’s performance and usage patterns through your familiar AWS monitoring tools. 
- On-demand quota flexibility – With global cross-Region inference, your workloads are no longer limited by individual Regional capacity. Instead of being restricted to the capacity available in a specific Region, your requests can be dynamically routed across the AWS global infrastructure. This provides access to a much larger pool of resources, making it less complicated to handle high-volume workloads and sudden traffic spikes. 
- 
-If you’re currently using Anthropic’s Sonnet models on Amazon Bedrock, upgrading to Claude Sonnet 4.5 is a great opportunity to enhance your AI capabilities. It offers a significant leap in intelligence and capability, offered as a straightforward, drop-in replacement at a comparable price point as Sonnet 4. The primary reason to switch is Sonnet 4.5’s superior performance across critical, high-value domains. It is Anthropic’s most powerful model so far for building complex agents, demonstrating state-of-the-art performance in coding, reasoning, and computer use. Furthermore, its advanced agentic capabilities, such as extended autonomous operation and more effective use of parallel tool calls, enable the creation of more sophisticated AI workflows. 
-Conclusion 
-Amazon Bedrock global cross-Region inference for Anthropic’s Claude Sonnet 4.5 marks a significant evolution in AWS generative AI capabilities, enabling global routing of inference requests across the AWS worldwide infrastructure. With straightforward implementation and comprehensive monitoring through CloudTrail and CloudWatch, organizations can quickly use this powerful capability for their AI applications, high-volume workloads, and disaster recovery scenarios.We encourage you to try global cross-Region inference with Anthropic’s Claude Sonnet 4.5 in your own applications and experience the benefits firsthand. Start by updating your code to use the global inference profile ID, configure appropriate IAM permissions, and monitor your application’s performance as it uses the AWS global infrastructure to deliver enhanced resilience. 
-For more information about global cross-Region inference for Anthropic’s Claude Sonnet 4.5 in Amazon Bedrock, refer to Increase throughput with cross-Region inference, Supported Regions and models for inference profiles, and Use an inference profile in model invocation. 
- 
-About the authors 
-Melanie Li, PhD, is a Senior Generative AI Specialist Solutions Architect at AWS based in Sydney, Australia, where her focus is on working with customers to build solutions using state-of-the-art AI/ML tools. She has been actively involved in multiple generative AI initiatives across APJ, harnessing the power of LLMs. Prior to joining AWS, Dr. Li held data science roles in the financial and retail industries. 
-Saurabh Trikande&nbsp;is a Senior Product Manager for Amazon Bedrock and Amazon SageMaker Inference. He is passionate about working with customers and partners, motivated by the goal of democratizing AI. He focuses on core challenges related to deploying complex AI applications, inference with multi-tenant models, cost optimizations, and making the deployment of generative AI models more accessible. In his spare time, Saurabh enjoys hiking, learning about innovative technologies, following TechCrunch, and spending time with his family. 
-Derrick Choo&nbsp;is a Senior Solutions Architect at AWS who accelerates enterprise digital transformation through cloud adoption, AI/ML, and generative AI solutions. He specializes in full-stack development and ML, designing end-to-end solutions spanning frontend interfaces, IoT applications, data integrations, and ML models, with a particular focus on computer vision and multi-modal systems. 
-Satveer Khurpa&nbsp;is a Sr. WW Specialist Solutions Architect, Amazon Bedrock at Amazon Web Services. In this role, he uses his expertise in cloud-based architectures to develop innovative generative AI solutions for clients across diverse industries. Satveer’s deep understanding of generative AI technologies allows him to design scalable, secure, and responsible applications that unlock new business opportunities and drive tangible value. 
-Jared Dean is a Principal AI/ML Solutions Architect at AWS. Jared works with customers across industries to develop machine learning applications that improve efficiency. He is interested in all things AI, technology, and BBQ. 
-Jan Catarata is a software engineer working on Amazon Bedrock, where he focuses on designing robust distributed systems. When he’s not building scalable AI solutions, you can find him strategizing his next move with friends and family at game night.
-• Secure ingress connectivity to Amazon Bedrock AgentCore Gateway using interface VPC endpoints
-  Agentic AI applications represent a significant development in enterprise automation, where intelligent agents autonomously execute complex workflows, access sensitive datasets, and make real-time decisions across your organization’s infrastructure. Amazon Bedrock AgentCore accelerates enterprise AI transformation by providing fully managed services that remove infrastructure complexity, maintain session isolation, and enable seamless integration with enterprise tools so organizations can deploy trustworthy AI agents at scale. AgentCore Gateway, a modular service under AgentCore, simplifies integration by securely transforming APIs, AWS Lambda functions, and services into Model Context Protocol (MCP)-compatible tools and making them available to agents through a unified endpoint, with built-in authentication and serverless infrastructure that minimizes operational overhead. 
-In production environments, AI agents are typically deployed within virtual private clouds (VPCs) to maintain secure, isolated network access and to meet enterprise security and compliance requirements. Amazon Web Services (AWS) interface VPC endpoints can enhance agentic AI security by creating private connections between VPC-hosted agents and AgentCore Gateway, keeping sensitive communications within the secure infrastructure of AWS. These endpoints use dedicated network interfaces with private IP addresses to deliver reduced latency and superior performance through direct connectivity. Additionally, VPC interface endpoints offer granular access control through endpoint policies, streamline operations by avoiding proxy server management, reduce data transfer costs, and establish the secure foundation that autonomous AI systems require when processing confidential data in regulated environments at enterprise scale. 
-In this post, we demonstrate how to access AgentCore Gateway through a VPC interface endpoint from an Amazon Elastic Compute Cloud (Amazon EC2) instance in a VPC. We also show how to configure your VPC endpoint policy to provide secure access to the AgentCore Gateway while maintaining the principle of least privilege access. 
-Architecture overview 
-This architecture diagram illustrates a user accessing an application supported by backend agents deployed across various AWS compute services, including EC2 instances, Lambda functions, Amazon Elastic Kubernetes Service (Amazon EKS), or Amazon Elastic Container Service (Amazon ECS), all operating within a VPC environment. These agents communicate with AgentCore Gateway to discover, access, and invoke external tools and services that have been transformed into agent-compatible resources, such as enterprise APIs and Lambda functions. In the standard configuration, agent requests to AgentCore Gateway traverse the public internet. By implementing interface VPC endpoints, organizations can route these communications through the AWS secure internal network backbone instead, delivering significant benefits that can include enhanced security, reduced latency, and improved compliance alignment for regulated workloads that require strict network isolation and data protection standards. The solution follows this workflow: 
- 
- AI agent interaction – An agent running within the VPC obtains the required inbound authorization from identity providers, authenticates with Gateway, and sends a tool-use request (invokes the MCP tool) to the gateway through the interface VPC endpoint. 
- Gateway processing: Gateway manages OAuth authorization to make sure only valid users and agents can access tools and resources. The inbound request is authorized by Gateway. Converts agent requests using protocols like Model Context Protocol (MCP) into API requests and Lambda invocations 
- Secure access: The gateway handles credential injection for each tool, enabling agents to use tools with different authentication requirements seamlessly. It uses AgentCore Identity to securely access backend resources (the targets) on behalf of the agent. 
- Target execution: The gateway data plane invokes the target, which can be a Lambda function, an OpenAPI specification, or a Smithy model. 
- Monitoring: AgentCore Gateway provides built-in observability and auditing. Additionally, AWS PrivateLink publishes metrics to Amazon CloudWatch for monitoring interface endpoints. You can optionally enable VPC Flow Logs for logging IP traffic to AgentCore Gateway. 
- 
- 
-Be aware of the following key considerations: 
- 
- Private and public network communication – The interface VPC endpoint enables secure communication for inbound traffic from agents to AgentCore Gateway through AWS PrivateLink, making sure this traffic remains within the private network. However, authentication workflows—including OAuth access token retrieval and credential exchange processes between agents and external Identity Provider systems for both inbound and outbound flows—and outbound access from the gateway to MCP tools continue to require internet connectivity for establishing secure sessions with identity systems and external resources hosted outside the AWS environment. 
- Data plane scope – It’s important to understand that, currently, the interface VPC endpoint support is applicable only to the data plane endpoints of your gateway—the runtime endpoints where your applications interact with agent tools. To clarify the distinction: although you can now access your gateway’s runtime endpoint through the interface VPC endpoint, the control plane operations, such as creating gateways, managing tools, and configuring security settings, must still be performed through the standard public AgentCore control plane endpoint (for example, bedrock-agentcore-control.&lt;region&gt;.amazonaws.com) 
- 
-Prerequisites 
-To perform the solution, you need the following prerequisites: 
- 
- An AWS account with appropriate AWS Identity and Access Management (IAM) permissions for VPC and Amazon Elastic Compute Cloud (Amazon EC2) management 
- Existing VPC setup with subnet configuration and route tables 
- AgentCore Gateway already provisioned and configured in your AWS account 
- Basic understanding of VPC networking concepts and security group configurations 
- 
-Solution walkthrough 
-In the following sections, we demonstrate how to configure the interface VPC endpoint using the AWS Management Console and establish secure connectivity from a test EC2 instance within the VPC to AgentCore Gateway. 
-Create a security group for the EC2 instance 
-To create a security group for the EC2 instance, follow these steps, as shown in the following screenshot: 
- 
- Navigate to the Amazon EC2 console in your preferred AWS Region and choose Security Groups in the navigation pane under Network &amp; Security. 
- Choose Create security group. 
- For Security group name, enter a descriptive name such as ec2-agent-sg. 
- For Description, enter a meaningful description such as Security group for EC2 instances running AI agents. 
- For VPC, choose your target VPC. 
- Add relevant Inbound rules for the EC2 instance management such as SSH (port 22) from your management network or bastion host. 
- Leave Outbound rules as default (allows all outbound traffic) to make sure agents can communicate with necessary services. 
- Choose Create security group. 
- 
- 
-Create a security group for the interface VPC endpoint 
-To create a security group for the interface VPC endpoint, follow these steps: 
-Create a second security group named vpce-agentcore-sg that will be attached to the AgentCore Gateway interface VPC endpoint using similar steps to the preceding instructions and selecting the same VPC. For this security group, configure the following rules to enable secure and restricted access: 
- 
- Inbound rules – Allow HTTPS (port 443) for secure communication to the AgentCore Gateway 
- Source – Select the EC2 security group (ec2-agent-sg) you created in the preceding section to allow traffic only from authorized agent instances 
- Outbound rules – Leave as default (all traffic allowed) to support response traffic 
- 
-This security group configuration implements the principle of least privilege by making sure only EC2 instances with the agent security group can access the VPC endpoint while blocking unauthorized access from other resources in the VPC. These steps are illustrated by the following screenshot. 
- 
-Provision an EC2 instance within the VPC 
-Provision an EC2 instance in the same VPC and select an appropriate Availability Zone for your workload requirements. Configure the instance with the network settings shown in the following list, making sure you select the same VPC and note the chosen subnet for VPC endpoint configuration: 
- 
- VPC – Select your target VPC 
- Subnet – Choose a private subnet for enhanced security (note this subnet for VPC endpoint configuration) 
- Security group – Attach the EC2 security group (ec2-agent-sg) you created in the previous steps 
- IAM role – Configure an IAM role with necessary permissions for Amazon Bedrock and AgentCore Gateway access 
- Instance type – Choose an appropriate instance type based on your agent workload requirements 
- 
-Remember the chosen subnet because you’ll need to configure the VPC endpoint in the same subnet to facilitate optimal network routing and minimal latency. These configurations are shown in the following screenshot. 
- 
-Create an interface VPC endpoint 
-Create an interface VPC endpoint using Amazon Virtual Private Cloud (Amazon VPC) that automatically uses AWS PrivateLink technology, enabling secure communication from your EC2 instance to AgentCore Gateway without traversing the public internet. Follow these steps: 
- 
- Navigate to the Amazon VPC console and choose Endpoints in the navigation pane under the PrivateLink and Lattice section. 
- Choose Create endpoint. 
- For Name tag, enter a descriptive name (for example, vpce-agentcore-gateway). 
- For Service category, choose AWS services. 
- For Services, search for and choose com.amazonaws.&lt;region&gt;.bedrock-agentcore.gateway (replace &lt;region&gt; with your actual AWS Region). 
- 
-These settings are shown in the following screenshot. 
- 
- 
- Set the VPC to the same VPC you’ve been working with throughout this setup. 
- Select Enable DNS name to allow access to the AgentCore Gateway using its default domain name, which simplifies application configuration and maintains compatibility with existing code. 
- Specify the subnet where the EC2 instance is running to maintain optimal network routing and minimal latency, as shown in the following screenshot. 
- 
- 
- 
- Set the security group to the VPC endpoint security group (vpce-agentcore-sg) you created earlier to control access to the endpoint. 
- For initial testing, leave the policy set to Full access to allow agents within your VPC to communicate with AgentCore Gateway in your AWS account. In production environments, implement more restrictive policies based on the principle of least privilege. 
- 
- 
-After you create the endpoint, it will take approximately 2–5 minutes to become available. You can monitor the status on the Amazon VPC console, and when it shows as Available, you can proceed with testing the connection. 
-Test the connection 
-Log in to the EC2 instance to perform following the tests. 
-Check traffic flow over an interface VPC endpoint 
-To confirm the traffic flow through the Amazon Bedrock AgentCore Gateway endpoint, check the IP address of the source resource that connects to the AgentCore Gateway endpoint. When you set up an interface VPC endpoint, AWS deploys an elastic network interface with a private IP address in the subnet. This deployment allows communication with AgentCore Gateway from resources within the Amazon VPC and on-premises resources that connect to the interface VPC endpoint through AWS Direct Connect or AWS Site-to-Site VPN. It also allows communication with resources in other Amazon VPC endpoints when you use centralized interface VPC endpoint architecture patterns. 
-Check whether you turned on private DNS for the AgentCore Gateway endpoint. If you turn on private DNS, then AgentCore Gateway endpoints resolve to the private endpoint IP addresses. For AgentCore Gateway, enabling private DNS means your agents can continue using the standard gateway endpoint URL while benefiting from private network routing through the VPC endpoint. 
-Before VPC interface endpoint, as shown in the following example, the DNS resolves to a public IP address for AgentCore Gateway endpoint: 
- 
- nslookup gateway.bedrock-agentcoreamazonaws.com
-
-Non-authoritative answer:
-Name: gateway.bedrock-agentcore..amazonaws.com
-Address: 52.86.152.150 
- 
-After VPC interface endpoint creation with private DNS resolution, as shown in the following example, the DNS resolves to private IP address from the CIDR range of the subnet of the VPC in which the VPC endpoint was created. 
- 
- nslookup .gateway.bedrock-agentcore..amazonaws.com
-
-Non-authoritative answer:
-Name: .gateway.bedrock-agentcore..amazonaws.com
-Address: 172.31.91.174 
- 
-When you select Enable DNS name for AgentCore Gateway VPC interface endpoints, by default AWS turns on the Enable private DNS only for inbound endpoints option. 
-Private DNS enabled (cURL) (recommended) 
-When private DNS is enabled, your applications can seamlessly use the standard gateway URL endpoint in the format https://{gateway-id}.gateway.bedrock-agentcore.{region}.amazonaws.com while traffic automatically routes through the VPC endpoint. 
-The following is a sample cURL request to be executed from a resource within the VPC. The command sends a JSON-RPC POST request to retrieve available tools from the AgentCore Gateway: 
- 
- curl -sS -i -X POST https://&lt;gatewayid&gt;.gateway.bedrock-agentcore.&lt;region&gt;.amazonaws.com/mcp \
---header 'Content-Type: application/json' \ 
---header "Authorization: Bearer $TOKEN" \ 
---data '{
-"jsonrpc": "2.0",
-"id": "'"$UNIQUE_ID"'",
-"method": "tools/list",
-"params": {}
-}' 
-
- 
- 
-This cURL command sends a JSON-RPC 2.0 POST request to the AgentCore Gateway MCP endpoint to retrieve a list of available tools. It uses bearer token authentication and includes response headers in the output, calling the tools/list method to discover what tools are accessible through the gateway. 
-Private DNS disabled (Python) 
-When Private DNS is disabled, you can’t access the gateway directly through the standard AgentCore Gateway endpoint. Instead, you must route traffic through the VPC DNS name shown in the following screenshot and include the original gateway domain name in the Host header. 
- 
- 
- curl -sS -i -X POST https://&lt;vpce-dns-name&gt;/mcp \
-  --header 'Host: &lt;gatewayid&gt;.gateway.bedrock-agentcore.&lt;region&gt;.amazonaws.com \
-  --header 'Content-Type: application/json' \
-  --header "Authorization: Bearer $TOKEN" \
-  --data '{
-    "jsonrpc": "2.0",
-    "id": "'$UNIQUE_ID'",
-    "method": "tools/list",
-    "params": {}
-  }'
- 
- 
-The following steps below walk through executing a Python script that uses the Host header: 
- 
- Access your EC2 instance. Log in to your EC2 instance that has access to the VPC endpoint. 
- Configure the required environment variables for the connection: 
- GATEWAY_URL – The VPC endpoint URL used to access the AgentCore Gateway through your private network connection 
- TOKEN – Your authentication bearer token for accessing the gateway 
- GATEWAY_HOST – The original AgentCore Gateway domain name that must be included in the Host header when Private DNS is disabled 
- 
-For example: 
- 
- export GATEWAY_URL=https://&lt;vpce_id&gt;.gateway.bedrock-agentcore.ap-southeast-2.vpce.amazonaws.com/mcp
-export TOKEN=&lt;your-token-here&gt;
-export GATEWAY_HOST=&lt;gateway_id&gt;.gateway.bedrock-agentcore.ap-southeast-2.amazonaws.com
- 
- 
- 
- Create and execute the test script. 
-   
-   Copy the following Python code into a file named agent.py. This code tests the AgentCore Gateway workflow by discovering available tools, creating a Strands Agent with the tools, and then testing both conversational interactions (tool listing and weather queries) and direct MCP tool calls. Copy the code: 
-    
- 
- 
- from strands.models import BedrockModel
-from mcp.client.streamable_http import streamablehttp_client
-from strands.tools.mcp.mcp_client import MCPClient
-from strands import Agent
-import logging
-import os
-
-# Read authentication token and gateway URL from environment variables
-token = os.getenv('TOKEN')
-gatewayURL = os.getenv('GATEWAY_URL')  #vpc endpoint url
-gatewayHost = os.getenv('GATEWAY_HOST') #domain name of the agentcore gateway
-
-def create_streamable_http_transport():
-    """Create HTTP transport with proper authentication headers"""
-    return streamablehttp_client(
-        gatewayURL, 
-        headers={
-            "Authorization": f"Bearer {token}",
-            "Host":gatewayHost
-        }
-    )
-# Initialize MCP client with the transport
-client = MCPClient(create_streamable_http_transport)
-
-# Configure Bedrock model - ensure IAM credentials in ~/.aws/credentials have Bedrock access
-yourmodel = BedrockModel(
-    model_id="amazon.nova-pro-v1:0",
-    temperature=0.7,
-)
-
-# Configure logging for debugging and monitoring
-logging.getLogger("strands").setLevel(logging.INFO)
-logging.basicConfig(
-    format="%(levelname)s | %(name)s | %(message)s",
-    handlers=[logging.StreamHandler()]
-)
-
-# Test the complete agent workflow
-with client:
-    targetname = 'TestGatewayTarget36cb2ebf'
-    
-    # List available tools from the MCP server
-    tools = client.list_tools_sync()
-    
-    # Create an Agent with the model and available tools
-    agent = Agent(model=yourmodel, tools=tools)
-    print(f"Tools loaded in the agent: {agent.tool_names}")
-    
-    # Test agent with a simple query to list available tools
-    response1 = agent("Hi, can you list all tools available to you?")
-    print(f"Agent response for tool listing: {response1}")
-    
-    # Test agent with a tool invocation request
-    response2 = agent("Get the current weather for Seattle and show me the exact response from the tool")
-    print(f"Agent response for weather query: {response2}")
-    
-    # Direct MCP tool invocation for validation
-    result = client.call_tool_sync(
-        tool_use_id="get-weather-seattle-call-1",  # Unique identifier for this call
-        name=f"{targetname}___get_weather",  # Tool name format for Lambda targets
-        arguments={"location": "Seattle"}
-    )
-    print(f"Direct MCP tool response: {result}") 
- 
- 
- Invoke the script using the following command: 
- 
-python3 agent.py 
-Advanced configuration: VPC endpoint access policies 
-A VPC endpoint policy is a resource-based policy that controls access to AWS services through the endpoint. Unlike identity-based policies, endpoint policies provide an additional layer of access control at the network level. You can configure access policies for AgentCore Gateway VPC endpoints with specific considerations.When creating endpoint policies for AgentCore Gateway, consider these key elements: 
- 
- Principal configuration – The Principal field can’t be modified because AgentCore Gateway doesn’t use IAM for authentication. Authentication is handled through bearer tokens rather than IAM principals. 
- Resource specification – Clearly define the Resource field if you want to restrict access to specific gateway endpoints. Use the full Amazon Resource Name (ARN) format to target particular gateways within your account as shown in the following sample policy structure. 
- Action permissions – For the Action field, avoid specifying control plane operations. Use a wildcard (*) to allow the necessary data plane operations for gateway functionality. 
- 
-Here is a sample policy structure: 
- 
- {
-"Version": "2012-10-17",
-"Statement": [
-{
-"Principal": "*",
-"Effect": "Allow",
-"Action": "*",
-"Resource": "arn:aws:bedrock-agentcore:&lt;region&gt;:&lt;AWS_Account_ID&gt;:gateway/&lt;gateway_id&gt;"
-}
-]
-}
- 
- 
-When the VPC endpoint policy blocks a request, you will see error responses such as: 
- 
- {"jsonrpc":"2.0","id":2,"error":{"code":-32002,"message":"Authorization error - Insufficient permissions"}} 
- 
-Policy caching behavior 
-AgentCore Gateway implements a caching mechanism for access policies that introduces a delay of up to 15 minutes before policy changes take effect. Although this caching significantly improves gateway performance, it means that policy modifications might not be immediately reflected in access controls. To work effectively with this behavior, you should allow at least 15 minutes for policy changes to fully propagate throughout the system after making updates. When possible, schedule policy modifications during planned maintenance windows to minimize operational impact. Always test policy changes in nonproduction environments before applying them to production gateways and factor in the caching delay when diagnosing access-related issues to avoid premature troubleshooting efforts. 
-Advanced patterns 
-In a shared gateway, multiple agents pattern, multiple agents from different services access a single centralized gateway through a shared VPC endpoint, simplifying network architecture while maintaining security through token-based authentication. This pattern is illustrated in the following diagram. 
- 
-In a multi-gateway, multi-agent pattern, which is shown in the following diagram, multiple agents across different applications access multiple specialized gateways through dedicated VPC endpoints, providing maximum security isolation with access control per gateway. 
- 
-In a cross-VPC gateway access pattern, shown in the following diagram, agents in multiple VPCs can access AgentCore Gateway through VPC peering or AWS Transit Gateway connections, allowing centralized gateway access across network boundaries while maintaining isolation. 
- 
-In a hybrid cloud gateway pattern, on-premises agents can access cloud-based gateways through VPC endpoints with private DNS disabled, enabling hybrid cloud deployments through Direct Connect or VPN connections. The following diagram illustrates this pattern. 
- 
-Clean up 
-To avoid ongoing charges and maintain good resource hygiene, clean up your resources by completing the following steps in order:Delete the EC2 instance: 
- 
- Navigate to the Amazon EC2 console and select your test instance 
- Choose Instance state and Stop instance, then wait for it to stop 
- Choose Instance state and Terminate instance to permanently delete the instance 
- 
-Delete the VPC endpoint: 
- 
- Navigate to the Amazon VPC console and choose Endpoints 
- Select the VPC endpoint (vpce-agentcore-gateway) you created 
- Choose Actions and Delete VPC endpoints 
- Confirm the deletion 
- 
-Delete the security groups: 
- 
- Navigate to the Amazon EC2 console and choose Security groups 
- Select the EC2 security group (ec2-agent-sg) you created 
- Choose Actions and Delete security groups 
- Repeat for the VPC endpoint security group (vpce-agentcore-sg) 
- 
-Conclusion 
-In this post, we demonstrated how to establish secure, private connectivity between VPC-hosted resources and Amazon Bedrock AgentCore Gateway using VPC interface endpoints and AWS PrivateLink. This architecture delivers comprehensive benefits for enterprise agentic AI deployments by implementing networks that are isolated from the internet, providing enhanced security through dedicated private network paths. The solution implements a robust data perimeter through VPC endpoint policies, which create granular access controls that establish strict data boundaries around your AI resources. Additionally, the architecture enables private connectivity to Gateway endpoints for on-premises environments, supporting distributed AI architectures that span cloud and on-premises infrastructure. For organizations deploying autonomous AI systems at scale, implementing VPC interface endpoints creates the secure networking foundation necessary for efficient agent operations while delivering reduced latency through optimized network paths. This enterprise-grade approach helps enable your agentic AI applications to achieve improved performance and reduced response times while meeting security and compliance requirements. 
-To learn more about implementing these patterns and best practices, visit the Amazon Bedrock documentation and AWS PrivateLink documentation for comprehensive guidance on AI deployments. 
- 
-About the authors 
-Dhawal Patel is a Principal Machine Learning Architect at Amazon Web Services (AWS). He has worked with organizations ranging from large enterprises to midsized startups on problems related to distributed computing and AI. He focuses on deep learning, including natural language processing (NLP) and computer vision domains. He helps customers achieve high-performance model inference on Amazon SageMaker. 
-Sindhura Palakodety is a Senior Solutions Architect at Amazon Web Services (AWS) and Single-Threaded Leader (STL) for ISV Generative AI, where she is dedicated to empowering customers in developing enterprise-scale, Well-Architected solutions. She specializes in generative AI and data analytics domains, enabling organizations to leverage innovative technologies for transformative business outcomes. 
-Thomas Mathew Veppumthara is a Sr. Software Engineer at Amazon Web Services (AWS) with Amazon Bedrock AgentCore. He has previous generative AI leadership experience in Amazon Bedrock Agents and nearly a decade of distributed systems expertise across Amazon eCommerce Services and Amazon Elastic Block Store (Amazon EBS). He holds multiple patents in distributed systems, storage, and generative AI technologies. 
-June Won is a Principal Product Manager with Amazon SageMaker JumpStart. He focuses on making foundation models (FMs) easily discoverable and usable to help customers build generative AI applications. His experience at Amazon also includes mobile shopping applications and last-mile delivery.
 
 ⸻
