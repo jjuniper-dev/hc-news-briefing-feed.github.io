@@ -1,17 +1,17 @@
-✅ Morning News Briefing – October 10, 2025 10:43
+✅ Morning News Briefing – October 11, 2025 10:40
 
-📅 Date: 2025-10-10 10:43
+📅 Date: 2025-10-11 10:40
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  -3.8°C
-  Temperature: -3.8&deg;C Pressure / Tendency: 103.1 kPa falling Humidity: 92 % Wind Chill: -5 . Dewpoint: -4.9&deg:C Wind: SSE 3 km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Friday 10 October 2025 at Pem
-• Friday: Mainly sunny. High 15.
-  Sunny. Becoming a mix of sun and cloud this afternoon . Wind becoming south 20 km/h late this morning . High 15. UV index 4 or moderate . Windbecoming south 20km/h later this morning, with a high of 15.5 km/hr wind gusts of 20km (60 mph) High of 15° with a low of 14° high of
-• Friday night: Chance of showers. Low 6. POP 40%
-  Mainly cloudy with 40 percent chance of showers . Wind south 20 km/h becoming light this evening . Low 6.50C is expected to be mostly cloudy with rain in some areas . Forecast issued 5:00 AM EDT Friday 10 October 2025 . Forecasts issued for October 10, 2025: Showers, thunderstorms, rain, snow, wind, rain and thunderstorms .
+• Current Conditions:  8.5°C
+  Temperature: 8.5&deg;C Pressure / Tendency: 102.0 kPa rising Humidity: 92 % Dewpoint: 7.2&deg:C Wind: E 3 km/h Air Quality Health Index: n/a . Observed at: Pembroke 6:00 AM EDT Saturday 11 October 2025 Temperature: . . Temperature:. 8.
+• Saturday: A few showers. High 17.
+  A few showers ending this morning then cloudy then cloudy . High 17. UV index 2 or low. High 17 or low . Forecast issued 5:00 AM EDT Saturday 11 October 2025 . Weather forecast: Showery, cloudy, rainy, sunny, cloudy . Rainy, windy, breezy, sunny and breezy in the coming days. Forecast: Rainy
+• Saturday night: Partly cloudy. Low plus 4.
+  Fog patches developing after midnight . Clearing late this evening. Clearing later this evening . Forecast issued 5:00 AM EDT Saturday 11 October 2025 . Low plus 4.50% is below normal for rain, snow, rain, wind and snow . Forecasters predict snowfall in the early hours of Saturday morning. Forecasters say snowfall will be more likely in the morning .
 
 🌍 International News
 No updates.
@@ -20,36 +20,38 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Israel says it has begun a pull-back of troops in Gaza
-  Israeli forces have begun a pull-back of troops from Gaza Friday . Israel's cabinet approved a plan for a ceasefire aimed at ending the devastating two-year-old war . Israeli forces began pulling back troops Friday after Israel approved a ceasefire plan for ending the war . Israel has been involved in the Gaza conflict for more than two years and has been fighting Hamas in Gaza since 2008 . Israel
-• In the age of algorithms, one Irish town still does love the old-fashioned way
-  Most won't leave the town of Lisdoonvarna with a partner . But for a few nights each fall each fall, they find something rarer — company, ritual and the comfort of not looking for love alone . Most of the town's residents don't leave town with partners, but with company and ritual they find comfort in not looking to love alone each fall . Lisd
-• Venezuela's opposition leader María Corina Machado wins 2025 Nobel Peace Prize
-  Venezuela's opposition leader María Corina Machado has won this year's Nobel Peace Prize for her tireless work promoting democratic rights for the people of Venezuela . The opposition leader has been awarded the prize for her efforts to promote democratic rights in Venezuela . Machado is Venezuela's leader of the opposition party, which has been accused of corruption and human rights abuses in the country's violent crackdown
-• Unlike the government, our quiz writer is still at work. Can you ace her test?
-  If you're up on France, legacy media and authors both high- and low-brow, you'll get at least four questions right . It's Nobel season — but other stuff happened, too, too . If you know more about the Nobel Prize winners, please visit CNN.com/Heroes for more details . Have you got a sense of humor? Share it with us!
-• María Corina Machado of Venezuela awarded Nobel Peace Prize
-  Machado's work promoting democratic rights is "one of the most extraordinary examples of civilian courage in Latin America in recent times," the Norwegian Nobel Committee says . Machado is one of the "most extraordinary examples" of "civil courage" in Latin American history, the committee says . The Nobel committee says Machado was a "extraordinary example of courage" for Latin American democracy . Mach
+• Trump issues a Columbus Day proclamation to 'reclaim' the explorer's legacy
+  President Trump said "left-wing radicals" have tried to tarnish Columbus' legacy . Some experts say it's a way to erase the heritage of Native Americans . President Trump says the proclamation is a way of preserving the legacy of Columbus . President Obama said the proclamation will protect Columbus' historical legacy from the left-wing . The proclamation is expected to be signed by the U.S
+• Israel strikes south Lebanon, killing 1 and wounding 7
+  Israel carried out airstrikes on southern Lebanon early Saturday, killing one person, wounding seven . The airstrikes briefly cut a highway that links Beirut with parts of south Lebanon, the Health Ministry said . One person was killed, seven were wounded and a highway was briefly cut off from Beirut . Israel is believed to have carried out the airstrikes in southern Lebanon, Lebanon's health ministry said . Israel's airstrikes
+• She posted about Charlie Kirk's death. Within eight hours, she was fired
+  Alexandra described the online mob that got her fired as "state-sponsored censorship" Alexandra is one of many people who lost their jobs for posting about the conservative influencer's death . She described the mob as a state-sponsored "censorship" Alexandra was fired from her job after she posted about her friend's death on social media . Alexandra described her firing as an act of "state
+• India is forcibly deporting Muslims, including its own citizens, after Kashmir violence
+  In the aftermath of a deadly militant attack in Kashmir in April, authorities have expelled more than 1,500 Muslims from India, often at gunpoint . Authorities have expelled over 1,000 Muslims from Kashmir since the attack in April . In Kashmir, a militant attack killed more than 100 people, many of them in Kashmir, according to reports . The attack was the deadliest in the region since
+• Trump threatens tech export limits, new 100% tariff on Chinese imports
+  President Trump threatened to place an additional 100% tax on Chinese imports starting on Nov. 1 or sooner, potentially escalating tariff rates close to levels that in April fanned fears of a recession . President Trump has threatened to increase tariffs to 100% on imports from China . The U.S. has already raised the number of Chinese imports in the world by more than a quarter of a year
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Cops nuke BreachForums (again) amid cybercrime supergroup extortion blitz
-  US and French fuzz pull the plug on Scattered Lapsus$ Hunters' latest leak shop targeting Salesforce . BreachForums was recently reborn under the stewardship of the so-called Scattersus$ Hunter, with help from French cyber cops and the Paris prosecutor's office . US authorities seized the latest incarnation of BreachForum, the cybercriminal bazaar recently revived under the
-• UK techies' union warns members after breach exposes sensitive personal details
-  Prospect apologizes for cyber gaffe affecting up to 160K members . UK trade union Prospect is notifying members of a breach that involved data such as sexual orientation and disabilities . The breach involved data that included sexual orientation, disabilities and sexual orientation . Prospect apologised for the breach, saying it was a 'human error' that affected members of the 160K people affected by the gaffe .
-• Microsoft hypes PCs with NPUs, still can't offer a good reason to buy one
-  AI tech not on the hardware compatibility list for now, but future Windows will need it . Microsoft has talked up the role played by neural processing units (NPUs) in making Windows more "intelligent" Even though the silicon is not currently on the . hardware requirements list, the silicon isn't currently on . the hardware . requirements list for future Windows computers is not yet on the
-• Client defended engineer after oil baron-turned tech support entrepreneur lied about dodgy dealings
-  On Call is The Register's weekly reader-contributed column that shares your stories from the frontlines of tech support . Reputations earned over years of service can work wonders On Call . On Call: Reputations of service work wonders on the backlines of the tech support community . Back to On Call! Back to the page you came from: On Call. Share your stories with us
-• RondoDox botnet fires 'exploit shotgun' at nearly every router and internet-connected home device
-  56 bugs across routers, DVRs, CCTV systems, web servers … time to run for cover . RondoDox botnet campaign uses "exploit shotgun" - fire at everything, see what hits - to target 56 vulnerabilities across at least 30 different vendors' routers and CCTV systems . The botnet will infect the buggy gear with malware, infecting the gear with viruses .
+• Weird ideas welcome: VC fund looking to make science fiction factual
+  A venture capital fund is looking for ideas that are out of bounds for traditional investors . It seeding technology that may only come to fruition decades down the line, but where researchers can show real results in the lab . The fund will look at ideas that can be seeding technologies that can only be shown in labs, but can be developed in a lab . It will be funded by a
+• Who gets a Mac at work? Here's how companies decide
+  Deciding who gets a Mac in your organization involves balancing IT’s need for simplicity, finance's requirement to keep costs under control . Deciding whether to get a Mac involves balancing finance and users’ desire to work with their preferred tools . You can't always get what you want from a PC, but there's always a contingent of users who beg for Macs . The
+• Chinese phishing kit helps scammers who send fake texts impersonate TikTok, Coinbase, others
+  Researchers tracking 2,158 domains hosting YYlaiyu phishing pages . Phishing kit hosted on thousands of domains boasts 97 different brands to make criminals' scams look more believable . Security researchers tracked 2, 158 domains hosting the phishing kit . Phished kit is driving a surge in financial fraud around the globe, according to security researchers .…… Phishing kits are hosted on
+• OpenAI GPT-5: great taste, less filling, now with 30% less bias
+  OpenAI says GPT-5 has 30 percent less political bias than its prior AI models . AI model maker touts effort to depoliticize its product . OpenAI: GPT 5 has 30% less bias than previous AI models.……… and 30% more political bias. AI model makers say GPT5 is less biased than its previous models, less likely to
+• Managers are throwing entry-level workers under the bus in race to adopt AI
+  Business leaders are racing to jump aboard the AI bandwagon . 55% of business leaders say that adopting AI is worth the impact on workers ai-pocalypse . Young college grads are being hit hardest by AI, according to a new study from the British Standards Institute . Still, 55% say adopting AI will be worth the cost of it, and 55% think it will work .
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• The effect of ethnicity on the accuracy of fundal reflex referrals
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Rebuilding Gaza: don’t sideline Palestinian scientists, say experts
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Study on fatigue, sleep quality and PTSD symptoms and influencing factors among prevention and control workers during the COVID-19 outbreak in China
@@ -57,8 +59,6 @@ No updates.
 • Factors associated with malnutrition among children aged 6–59 months in Burao, Somaliland
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Effects of an egg production intervention with social behavioral change communication and subsidy on child dietary diversity in Ethiopia
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Normality of sagittal spinal alignment parameters reveals evolutionary signals in healthy adults across five countries
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,174 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• Building connected data ecosystems for AI at scale
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• The Download: our bodies’ memories, and Traton’s electric trucks
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+How do our bodies remember?
+
+
+
+“Like riding a bike” is shorthand for the remarkable way that our bodies remember how to move. Most of the time when we talk about muscle memory, we’re not talking about the muscles themselves but about the memory of a coordinated movement pattern that lives in the motor neurons, which control our muscles.Yet in recent years, scientists have discovered that our muscles themselves have a memory for movement and exercise. And the more we move, as with riding a bike or other kinds of exercise, the more those cells begin to make a memory of that exercise. Read the full story.
+
+
+
+—Bonnie Tsui
+
+
+
+This piece is part of MIT Technology Review Explains: our series untangling the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here.
+
+
+
+This story is also from our forthcoming print issue, which is all about the body. If you haven’t already, subscribe now to receive future issues once they land. Plus, you&#8217;ll also receive a free digital report on nuclear power.
+
+
+
+
+
+
+
+2025 climate tech companies to watch: Traton and its electric trucks
+
+
+
+Every day, trucks carry many millions of tons of cargo down roads and highways around the world. Nearly all run on diesel and make up one of the largest commercial sources of carbon emissions.Traton, a subsidiary of Volkswagen, is producing zero-emission trucks that could help clean up this sector, while also investing in a Europe-wide advanced charging network so other manufacturers can more easily follow suit. Read the full story.—Amy Nordrum
+
+
+
+Traton is one of our 10 climate tech companies to watch—our annual list of some of the most promising climate tech firms on the planet. Check out the rest of the list here.
+
+
+
+
+
+
+
+This test could reveal the health of your immune system
+
+
+
+We know surprisingly little about our immune health. The vast array of cells, proteins, and biomolecules that works to defend us from disease is mind-bogglingly complicated. Immunologists are still getting to grips with how it all works.
+
+
+
+Now, a new test is being developed to measure immune health, one that even gives you a score. But that’s a difficult thing to do, for several reasons. Read the full story.
+
+
+
+—Jessica Hamzelou
+
+
+
+This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, sign up here.
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 China is cracking down on imports of Nvidia’s AI chips Customs officers are combing shipments looking for the company’s China-specific chips. (FT $)+ US officials are investigating a firm that’s suspected of helping China sidestep export restrictions. (NYT $)
+
+
+
+2 Tesla’s ‘full self-driving’ feature is under investigationAfter multiple reports of vehicles using it ran red lights. (WP $)+ The company is slashing its prices to compete with Chinese giant BYD. (Rest of World)+ Elon Musk will still receive billions, even if he fails to achieve his ambitions goals. (Reuters)
+
+
+
+3 A data hoarder has created a searchable database of Epstein filesMaking it simple to find mentions of specific people and locations. (404 Media)
+
+
+
+4 OpenAI says GPT-5 is its least-biased model yetEven when proceeding with “challenging, emotionally charged prompts.” (Axios)
+
+
+
+5 The developers behind ICE-tracking apps aren’t giving upThey’re fighting Apple’s decision to remove their creations from its app store. (Wired $)+ Another effort to track ICE raids was just taken offline. (MIT Technology Review)
+
+
+
+6 The world’s biodiversity crisis is worseningMore than half of all bird species are in decline. (The Guardian)+ The short, strange history of gene de-extinction. (MIT Technology Review)
+
+
+
+7 YouTube is extending an olive branch to banned creatorsIt’s overturned a lifetime ban policy to give the people behind previously-banned channels a second chance. (CNBC)+ But users kicked off for copyright infringement or extremism aren’t eligible. (Bloomberg $)
+
+
+
+8 This startup wants to bring self-flying planes to our skies  Starting with military cargo flights. (WSJ $)
+
+
+
+9 Your plumber might be using ChatGPTThey’re increasingly using the chatbot to troubleshoot on the ground. (CNN)
+
+
+
+10 Do robots really need hands?Maybe not, but that’s not standing in the way of researchers trying to recreate them. (Fast Company $)+ Will we ever trust robots? (MIT Technology Review)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“Social media is a complete dumpster.”
+
+
+
+—Hany Farid, a professor of computer science at the University of California, Berkeley, describes the proliferation of AI slop videos infiltrating digital platforms to the New York Times.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+Who gets to decide who receives experimental medical treatments?There has been a trend toward lowering the bar for new medicines, and it is becoming easier for people to access treatments that might not help them—and could even harm them. Anecdotes appear to be overpowering evidence in decisions on drug approval. As a result, we’re ending up with some drugs that don’t work.We urgently need to question how these decisions are made. Who should have access to experimental therapies? And who should get to decide? Such questions are especially pressing considering how quickly biotechnology is advancing. We’re not just improving on existing classes of treatments—we’re creating entirely new ones. Read the full story.
+
+
+
+—Jessica Hamzelou
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
+
+
+
++ I love this crowd-sourced compendium of every known Wilhelm scream in all sorts of media.+ Happy birthday to pocket rocket Bruno Mars, who turned 40 this week.+ Here’s how to visit an interstellar interloper.+ Bumi the penguin is having the absolute time of their life with this bubble machine
 • How do our bodies remember?
   MIT Technology Review&nbsp;Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read&nbsp;more from the series here.
 
@@ -286,374 +454,63 @@ A place for comfort, fun and distraction to brighten up your day. (Got any ideas
 
 
 + What language did residents of the ancient Mesoamerican city of Teotihuacan speak? We&#8217;re finally starting to find out.+ If you’re unsure whether an animal is safe to pet, this handy guide is a good starting point.+ The Metropolitan Museum of Art’s new ancient Egypt exhibition sounds brilliant.+ This story digging into the psychology experiment behind Star Wars&#8216; special effects is completely bonkers.
-• 3 takeaways about climate tech right now
-  On Monday, we published our 2025 edition of Climate Tech Companies to Watch. This marks the third time we’ve put the list together, and it’s become one of my favorite projects to work on every year. 
-
-
-
-In the journalism world, it’s easy to get caught up in the latest news, whether it’s a fundraising round, research paper, or startup failure. Curating this list gives our team a chance to take a step back and consider the broader picture. What industries are making progress or lagging behind? Which countries or regions are seeing quick changes? Who’s likely to succeed?&nbsp;
-
-
-
-This year is an especially interesting moment in the climate tech world, something we grappled with while choosing companies. Here are three of my takeaways from the process of building this list.&nbsp;
-
-
-
-1. It’s hard to overstate China’s role in energy technology right now.&nbsp;
-
-
-
-To put it bluntly, China’s progress on cleantech is wild. The country is dominating in installing wind and solar power and building EVs, and it’s also pumping government money into emerging technologies like fusion energy.&nbsp;
-
-
-
-
-
-We knew we wanted this list to reflect China’s emergence as a global energy superpower, and we ended up including two Chinese firms in key industries: renewables and batteries.
-
-
-
-In 2024, China accounted for the top four wind turbine makers worldwide. Envision was in the second spot, with 19.3 gigawatts of new capacity added last year. But the company isn’t limited to wind; it’s working to help power heavy industries like steel and chemicals with technology like green hydrogen. 
-
-
-
-Batteries are also a hot industry in China, and we’re seeing progress in tech beyond the lithium-ion cells that currently dominate EVs and energy storage on the grid. We represent that industry with HiNa Battery Technology, a leading startup building sodium-ion batteries, which could be cheaper than today’s options. The company’s batteries are already being used in electric mopeds and grid installations. 
-
-
-
-2. Energy demand from data centers and AI is on everyone’s mind, especially in the US.&nbsp;
-
-
-
-Another trend we noticed this year was a fixation on the growing energy demand of data centers, including massive planned dedicated facilities that power AI models. (Here’s another nudge to check out our Power Hungry series on AI and energy, in case you haven’t explored it already.) 
-
-
-
-Even if their technology has nothing to do with data centers, companies are trying to show how they can be valuable in this age of rising energy demand. Some are signing lucrative deals with tech giants that could provide the money needed to help bring their product to market.&nbsp;
-
-
-
-Kairos Power hopes to be one such energy generator, building next-generation nuclear reactors. Last year, the company signed an agreement with Google that will see the company buy up to 500 megawatts of electricity from Kairos’s first reactors through 2035. 
-
-
-
-In a more direct play, Redwood Materials is stringing together used EV batteries to build microgrids that could power—you guessed it—data centers. The company’s first installation fired up this year, and while it’s small, it’s an interesting example of a new use for old technology. 
-
-
-
-3. Materials continue to be an area that’s ripe for innovation.&nbsp;
-
-
-
-In a new essay that accompanies the list, Bill Gates lays out the key role of innovation in making progress on climate technology. One thing that jumped out at me while I was reading that piece was a number: 30% of global greenhouse-gas emissions come from manufacturing, including cement and steel production. 
-
-
-
-
-
-I’ve obviously covered materials and heavy industry for years. But it still strikes me just how much innovation we still need in the most important materials we use to scaffold our world.&nbsp;
-
-
-
-Several companies on this year’s list focus on materials: We’ve once again represented cement, a material that accounts for 7% of global greenhouse-gas emissions. Cemvision is working to use alternative fuel sources and starting materials to clean up the dirty industry. 
-
-
-
-And Cyclic Materials is trying to reclaim and recycle rare earth magnets, a crucial technology that underpins everything from speakers to EVs and wind turbines. Today, only about 0.2% of rare earths from recycled devices are recycled, but the company is building multiple facilities in North America in hopes of changing that. 
-
-
-
-Our list of 10 Climate Tech Companies to Watch highlights businesses we think have a shot at helping the world address and adapt to climate change with the help of everything from established energy technologies to novel materials. It’s a representation of this moment, and I hope you enjoy taking a spin through it.
-• How healthy am I? My immunome knows the score.
-  The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live.
-
-
-
-It’s not often you get a text about the robustness of your immune system, but that’s what popped up on my phone last spring. Sent by John Tsang, an immunologist at Yale, the text came after his lab had put my blood through a mind-boggling array of newfangled tests. The result—think of it as a full-body, high-resolution CT scan of my immune system—would reveal more about the state of my health than any test I had ever taken. And it could potentially tell me far more than I wanted to know.
-
-
-
-“David,” the text read, “you are the red dot.”
-
-
-
-Tsang was referring to an image he had attached to the text that showed a graph with a scattering of black dots representing other people whose immune systems had been evaluated—and a lone red one. There also was a score: 0.35.
-
-
-
-I had no idea what any of this meant.
-
-
-
-The red dot was the culmination of an immuno-quest I had begun on an autumn afternoon a few months earlier, when a postdoc in Tsang’s lab drew several vials of my blood. It was also a significant milestone in a decades-long journey I’ve taken as a journalist covering life sciences and medicine. Over the years, I’ve offered myself up as a human guinea pig for hundreds of tests promising new insights into my health and mortality. In 2001, I was one of the first humans to have my DNA sequenced. Soon after, in the early 2000s, researchers tapped into my proteome—proteins circulating in my blood. Then came assessments of my microbiome, metabolome, and much more. I have continued to test-drive the latest protocols and devices, amassing tens of terabytes of data on myself, and I’ve reported on the results in dozens of articles and a book called Experimental Man. Over time, the tests have gotten better and more informative, but no test I had previously taken promised to deliver results more comprehensive or closer to revealing the truth about my underlying state of health than what John Tsang was offering.
-
-
-
-
-Over the years, I’ve offered myself up as a human guinea pig for hundreds of tests promising new insights into my health and mortality. But no test I had previously taken promised to deliver results more comprehensive or closer to revealing the truth about my underlying state of health.
-
-
-
-
-It also was not lost on me that I’m now 20-plus years older than I was when I took those first tests. Back in my 40s, I was ridiculously healthy. Since then, I’ve been battered by various pathogens, stresses, and injuries, including two bouts of covid and long covid—and, well, life.
-
-
-
-But I’d kept my apprehensions to myself as Tsang, a slim, perpetually smiling man who directs the Yale Center for Systems and Engineering Immunology, invited me into his office in New Haven to introduce me to something called the human immunome.
-
-
-
-John Tsang has helped create a new test for your immune system.
- JULIE BIDWELL
-
-
-
-
-Made up of 1.8 trillion cells and trillions more proteins, metabolites, mRNA, and other biomolecules, every person’s immunome is different, and it is constantly changing. It’s shaped by our DNA, past illnesses, the air we have breathed, the food we have eaten, our age, and the traumas and stresses we have experienced—in short, everything we have ever been exposed to physically and emotionally. Right now, your immune system is hard at work identifying and fending off viruses and rogue cells that threaten to turn cancerous—or maybe already have. And it is doing an excellent job of it all, or not, depending on how healthy it happens to be at this particular moment.
-
-
-
-
-
-Yet as critical as the immunome is to each of us, this universe of cells and molecules has remained largely beyond the reach of modern medicine—a vast yet inaccessible operating system that powerfully influences everything from our vulnerability to viruses and cancer to how well we age to whether we tolerate certain foods better than others.
-
-
-
-Now, thanks to a slew of new technologies and to scientists like Tsang, who is on the Steering Committee of the Chan Zuckerberg Biohub New York, understanding this vital and mysterious system is within our grasp, paving the way for powerful new tools and tests to help us better assess, diagnose and treat diseases.
-
-
-
-Already, new research is revealing patterns in the ways our bodies respond to stress and disease. Scientists are creating contrasting portraits of weak and robust immunomes—portraits that someday, it’s hoped, could offer new insights into patient care and perhaps detect illnesses before symptoms appear. There are plans afoot to deploy this knowledge and technology on a global scale, which would enable scientists to observe the effects of climate, geography, and countless other factors on the immunome. The results could transform what it means to be healthy and how we identify and treat disease.
-
-
-
-It all begins with a test that can tell you whether your immune system is healthy or not.
-
-
-
-Reading the immunome
-
-
-
-Sitting in his office last fall, Tsang—a systems immunologist whose expertise combines computer science and immunology— began my tutorial in immunomics by introducing me to a study that he and his team wrote up in a 2024 paper published in Nature Medicine. It described the results of measurements made on blood samples taken from 270 subjects—tests similar to the ones Tsang’s team would be running on me. In the study, Tsang and his colleagues looked at the immune systems of 228 patients diagnosed with a variety of genetic disorders and a control group of 42 healthy people.
-
-
-
-To help me visualize what my results might look like, Tsang opened his laptop to reveal several colorful charts from the study, punctuated by black dots representing each person evaluated. The results reminded me vaguely of abstract paintings by Joan Miró. But in place of colorful splotches, whirls, and circles were an assortment of scatter plots, Gantt charts, and heat maps tinted in greens, blues, oranges, and purples.
-
-
-
-It all looked like gibberish to me.
-
-
-
-Luckily, Tsang was willing to serve as my guide. Flashing his perpetually patient smile, he explained that these colorful jumbles depicted what his team had uncovered about each subject after taking blood samples and assessing the details of how well their immune cells, proteins, mRNA, and other immune system components were doing their job.
-
-
-
-IBRAHIM RAYINTAKATH
-
-
-
-
-The results placed people—represented by the individual dots—on a left-to-right continuum, ranging from those with unhealthy immunomes on the left to those with healthy immunomes on the right. Background colors, meanwhile, were used to identify people with different medical conditions affecting their immune systems. For example, olive-green indicated those with auto-immune disorders; orange backgrounds were designated for individuals with no known disease history. Tsang said he and his team would be placing me on a similar graph after they finished analyzing my blood.
-
-
-
-Tsang’s measurements go significantly beyond what can be discerned from the handful of immune biomarkers that people routinely get tested for today. “The main immune cell panel typically ordered by a physician is called a CBC differential,” he told me. CBC, which stands for “complete blood count,” is a decades-old type of analysis that counts levels of red blood cells, hemoglobin, and basic immune cell types (neutrophils, lymphocytes, monocytes, basophils, and eosinophils). Changes in these levels can indicate whether a person’s immune system might be reacting to a virus or other infection, cancer, or something else. Other blood tests—like one that looks for elevated levels of C-reactive protein, which can indicate inflammation associated with heart disease—are more specific than the CBC. But they still rely on blunt counting—in this case of certain proteins.
-
-
-
-Tsang’s assessment, by contrast, tests up to a million cells, proteins, mRNA and immune biomolecules—significantly more than the CBC and others. His protocol is designed to paint a more holistic portrait of a person’s immune system by not only counting cells and molecules but also by assessing their interactions. The CBC “doesn’t tell me as a physician what the cells being counted are doing,” says Rachel Sparks, a clinical immunologist who was the lead author of the Nature Medicine study and is now a translational medicine physician with the drug giant AstraZeneca. “I just know that there are more neutrophils than normal, which may or may not indicate that they’re behaving badly. We now have technology that allows us to see at a granular level what a cell is actually doing when a virus appears—how it’s changing and reacting.”
-
-
-
-
-Tsang’s measurements go significantly beyond what can be discerned from the handful of immune biomarkers that people routinely get tested for today. His assessment tests up to a million cells, proteins, mRNA and immune biomolecules.
-
-
-
-
-Such breakthroughs have been made possible thanks to a raft of new and improved technologies that have evolved over the past decade, allowing scientists like Tsang and Sparks to explore the intricacies of the immunome with newfound precision. These include devices that can count myriad different types of cells and biomolecules, as well as advanced sequencers that identify and characterize DNA, RNA, proteins, and other molecules. There are now instruments that also can measure thousands of changes and reactions that occur inside a single immune cell as it reacts to a virus or other threat.
-
-
-
-Tsang and Spark’s’ team used data generated by such measurements to identify and characterize a series of signals distinctive to unhealthy immune systems. Then they used the presence or absence of these signals to create a numerical assessment of the health of a person’s immunome—a score they call an “immune health metric,” or IHM.
-
-
-
-Clinical immunologist Rachel Sparks hopes new tests can improve medical care. JARED SOARES
-
-
-
-
-To make sense of the crush of data being collected, Tsang’s team used machine-learning algorithms that correlated the results of the many measurements with a patient’s known health status and age. They also used AI to compare their findings with immune system data collected elsewhere. All this allowed them to determine and validate an IHM score for each person, and to place it on their spectrum, identifying that person as healthy or not.
-
-
-
-It all came together for the first time with the publication of the Nature Medicine paper, in which Tsang and his colleagues reported the results from testing multiple immune variables in the 270 subjects. They also announced a remarkable discovery: Patients with different kinds of diseases reacted with similar disruptions to their immunomes. For instance, many showed a lower level of the aptly named natural killer immune cells, regardless of what they were suffering from. Critically, the immune profiles of those with diagnosed diseases tended to look very different from those belonging to the outwardly healthy people in the study. And, as expected, immune health declined in the older patients.
-
-
-
-
-
-But then the results got really interesting. In a few cases, the immune systems of &nbsp;unhealthy and healthy people looked similar, with some people appearing near the “healthy” area of the chart even though they were known to have diseases. Most likely this was because their symptoms were in remission and not causing an immune reaction at the moment when their blood was drawn, Tsang told me.&nbsp;
-
-
-
-In other cases, people without a known disease showed up on the chart closer to those who were known to be sick. “Some of these people who appear to be in good health are overlapping with pathology that traditional metrics can’t spot,” says Tsang, whose Nature Medicine paper reported that roughly half the healthy individuals in the study had IHM scores that overlapped with those of people known to be sick. Either these seemingly healthy people had normal immune systems that were busy fending off, say, a passing virus, or&nbsp; their immune systems had been impacted by aging and the vicissitudes of life. Potentially more worrisome, they were harboring an illness or stress that was not yet making them ill but might do so eventually.
-
-
-
-These findings have obvious implications for medicine. Spotting a low immune score in a seemingly healthy person could make it possible to identify and start treating an illness before symptoms appear, diseases worsen, or tumors grow and metastasize. IHM-style evaluations could also provide clues as to why some people respond differently to viruses like the one that causes covid, and why vaccines—which are designed to activate a healthy immune system—might not work as well in people whose immune systems are compromised.
-
-
-
-
-Spotting a low immune score in a seemingly healthy person could make it possible to identify and start treating an illness before symptoms appear, diseases worsen, or tumors grow and metastasize.
-
-
-
-
-“One of the more surprising things about the last pandemic was that all sorts of random younger people who seemed very healthy got sick and then they were gone,” says Mark Davis, a Stanford immunologist who helped pioneer the science being developed in labs like Tsang’s. “Some had underlying conditions like obesity and diabetes, but some did not. So the question is, could we have pointed out that something was off with these folks’ immune systems? Could we have diagnosed that and warned people to take extra precautions?”
-
-
-
-Tsang’s IHM test is designed to answer a simple question: What is the relative health of your immune system? But there are other assessments being developed to provide more detailed information on how the body is doing. Tsang’s own team is working on a panel of additional scores aimed at getting finer detail on specific immune conditions. These include a test that measures the health of a person’s bone marrow, which makes immune cells. “If you have a bone marrow stress or inflammatory condition in the bone marrow, you could have lower capacity to produce cells, which will be reflected by this score,” he says. Another detailed metric will measure protein levels to predict how a person will respond to a virus.
-
-
-
-Tsang hopes that an IHM-style test will one day be part of a standard physical exam—a snapshot of a patient’s immune system that could inform care. For instance, has a period of intense stress compromised the immune system, making it less able to fend off this season’s flu? Will someone’s score predict a better or worse response to a vaccine or a cancer drug? How does a person’s immune system change with age?
-
-
-
-Or, as I anxiously wondered while waiting to learn my own score, will the results reveal an underlying disorder or disease, silently ticking away until it shows itself?
-
-
-
-Toward a human immunome project&nbsp;&nbsp;
-
-
-
-The quest to create advanced tests like the IHM for the immune system began more than 15 years ago, when scientists like Mark Davis became frustrated with a field in which research—primarily in mice—was focused mostly on individual immune cells and proteins. In 2007 he launched the Stanford Human Immune Monitoring Center, one of the first efforts to conceptualize the human immunome as a holistic, body-wide network in human beings. Speaking by Zoom from his office in Palo Alto, California, Davis told me that the effort had spawned other projects, including a landmark twin study showing that a lot of immune variation is not genetic, which was then the prevailing theory, but is heavily influenced by environmental factors—a major shift in scientists’ understanding.
-
-
-
-Shai Shen-Orr sees a day when people will check their immune scores on an app. COURTESY OF SHAI SHEN-ORR
-
-
-
-
-Davis and others also laid the groundwork for tests like John Tsang’s by discovering how a T cell—among the most common and important immune players—can recognize pathogens, cancerous cells, and other threats, triggering defensive measures that can include destroying the threat. This and other discoveries have revealed many of the basic mechanics of how immune cells work, says Davis, “but there’s still a lot we have to learn.”
-
-
-
-One researcher working with Davis in those early days was Shai Shen-Orr, who is now director of the Zimin Institute for AI Solutions in Healthcare at the Technion-Israel Institute of Technology, based in Haifa, Israel. (He’s also a frequent collaborator with Tsang.) Shen-Orr, like Tsang, is a systems immunologist. He recalls that in 2007, when he was a postdoc in Davis’s lab, immunologists had identified around 100 cell types and a similar number of cytokines—proteins that act as messengers in the immune system. But they weren’t able to measure them simultaneously, which limited visibility into how the immune system works as a whole. Today, Shen-Orr says, immunologists can measure hundreds of cell types and thousands of proteins and watch them interact.
-
-
-
-Shen-Orr’s current lab has developed its own version of an immunome test that he calls IMM-AGE (short for “immune age”), the basics of which were published in a 2019 paper in Nature Medicine. IMM-AGE looks at the composition of people’s immune systems—how many of each type of immune cell they have and how these numbers change as they age. His team has used this information primarily to ascertain a person’s risk of heart disease.
-
-
-
-Shen-Orr also has been a vociferous advocate for expanding the pool of test samples, which now come mostly from Americans and Europeans. “We need to understand why different people in different environments react differently and how that works,” he says. “We also need to test a lot more people—maybe millions.”
-
-
-
-Tsang has seen why a limited sample size can pose problems. In 2013, he says, researchers at the National Institutes of Health came up with a malaria vaccine that was effective for almost everyone who got it during clinical trials conducted in Maryland. “But in Africa,” he says, “it only worked for about 25% of the people.” He attributes this to the significant differences in genetics, diet, climate, and other environmental factors that cause people’s immunomes to develop differently. “Why?” he asks. “What exactly was different about the immune systems in Maryland and Tanzania? That’s what we need to understand so we can design personalized vaccines and treatments.”
-
-
-
-“What exactly was different about the immune systems in Maryland and Tanzania? That’s what we need to understand so we can design personalized vaccines and treatments.”John Tsang
-
-
-
-For several years, Tsang and Shen-Orr have advocated going global with testing, “but there has been resistance,” Shen-Orr says. “Look, medicine is conservative and moves slowly, and the technology is expensive and labor intensive.” They finally got the audience they needed at a 2022 conference in La Jolla, California, convened by the Human Immunome Project, or HIP. (The organization was originally founded in 2016 to create more effective vaccines but had recently changed its name to emphasize a pivot from just vaccines to the wider field of immunome science.) It was in La Jolla that they met HIP’s then-new chairperson, Jane Metcalfe, a cofounder of Wired magazine, who saw what was at stake.
-
-
-
-“We’ve got all of these advanced molecular immunological profiles being developed,” she said, “but we can’t begin to predict the breadth of immune system variability if we’re&nbsp; only testing small numbers of people in Palo Alto or Tel Aviv. And that’s when the big aha moment struck us that we need sites everywhere to collect that information so we can build proper computer models and a predictive understanding of the human immune system.”
-
-
-
-IBRAHIM RAYINTAKATH
-
-
-
-
-Following that meeting, HIP created a new scientific plan, with Tsang and Shen-Orr as chief science officers. The group set an ambitious goal of raising around $3 billion over the next 10 years—a goal Tsang and Metcalfe say will be met by working in conjunction with a broad network of public and private supporters. Cutbacks in federal funding for biomedical research in the US may limit funds from this traditional source, but HIP plans to work with government agencies outside the US too, with the goal of creating a comprehensive global immunological database.
-
-
-
-HIP’s plan is to first develop a pilot version based on Tsang’s test, which it will call the Immune Monitoring Kit, to test a few thousand people in Africa, Australia, East Asia, Europe, the US, and Israel. The initial effort, according to Metcalfe, is expected to begin by the end of the year. &nbsp;
-
-
-
-After that, HIP would like to expand to some 150 sites around the world, eventually assessing about 250,000 people and collecting a vast cache of data and insights that Tsang believes will profoundly affect—even revolutionize—clinical medicine, public health, and drug development.
-
-
-
-My immune health metric score is …
-
-
-
-As HIP develops its pilot study to take on the world, John Tsang, for better or worse, has added one more North American Caucasian male to the small number of people who have received an IHM score to date. That would be me.
-
-
-
-It took a long time to get my score, but Tsang didn’t leave me hanging once he pinged me the red dot. “We plotted you with other participants who are clinically quite healthy,” he texted, referring to a cluster of black dots on the grid he had sent, although he cautioned that the group I’m being compared with includes only a few dozen people. “Higher IHM means better immune health,” he wrote, referring to my 0.35 score, which he described as a number on an arbitrary scale. “As you can see, your IHM is right in the middle of a bunch of people 20 years younger.”
-
-
-
-This was a relief, given that our immune system, like so many other bodily functions, declines with age—though obviously at different rates. Yet I also felt a certain disappointment. To be honest, I had expected more granular detail after having a million or so cells and markers tested—like perhaps some insights on why I got long covid (twice) and others didn’t. Tsang and other scientists are working on ways to extract more specific information from the tests. Still, he insists that the single score itself is a powerful tool to understand the general state of our immunomes, indicating the absence or presence of underlying health issues that might not be revealed in traditional testing.
-
-
-
-
-To be honest, I had expected more granular detail after having a million or so cells and markers tested—like perhaps some insights on why I got long covid (twice) and others didn’t.
-
-
-
-
-I asked Tsang what my score meant for my future. “Your score is always changing depending on what you’re exposed to and due to age,” he said, adding that the IHM is still so new that it’s hard to know exactly what the score means until researchers do more work—and until HIP can evaluate and compare thousands or hundreds of thousands of people. They also need to keep testing me over time to see how my immune system changes as it’s exposed to new perturbations and stresses.
-
-
-
-For now, I’m left with a simple number. Though it tells me little about the detailed workings of my immune system, the good news is that it raises no red flags. My immune system, it turns out, is pretty healthy.
-
-
-
-A few days after receiving my score from Tsang, I heard from Shen-Orr about more results. Tsang had shared my data with his lab so that he could run his IMM-AGE protocol on my immunome and provide me with another score to worry about. Shen-Orr’s result put the age of my immune system at around 57—still 10 years younger than my true age.
-
-
-
-The coming age of the immunome
-
-
-
-Shai Shen-Orr imagines a day when people will be able to check their advanced IHM and IMM-AGE scores—or their HIP Immune Monitoring Kit score—on an app after a blood draw, the way they now check health data such as heart rate and blood pressure. Jane Metcalfe talks about linking IHM-type measurements and analyses with rising global temperatures and steamier days and nights to study how global warming might affect the immune system of, say, a newborn or a pregnant woman. “This could be plugged into other people’s models and really help us understand the effects of pollution, nutrition, or climate change on human health,” she says.
-
-
-
-“I think [in 10 years] I’ll be able to use this much more granular understanding of what the immune system is doing at the cellular level in my patients. And hopefully we could target our therapies more directly to those cells or pathways that are contributing to disease.”Rachel Sparks
-
-
-
-Other clues could also be on the horizon. “At some point we’ll have IHM scores that can provide data on who will be most affected by a virus during a pandemic,” Tsang says. Maybe that will help researchers engineer an immune system response that shuts down the virus before it spreads. He says it’s possible to run a test like that now, but it remains experimental and will take years to fully develop, test for safety and accuracy, and establish standards and protocols for use as a tool of global public health. “These things take a long time,” he says.&nbsp;
-
-
-
-The same goes for bringing IHM-style tests into the exam room, so doctors like Rachel Sparks can use the results to help treat their patients. “I think in 10 years, with some effort, we really could have something useful,” says Stanford’s Mark Davis. Sparks agrees. “I think by then I’ll be able to use this much more granular understanding of what the immune system is doing at the cellular level in my patients,” she says. “And hopefully we could target our therapies more directly to those cells or pathways that are contributing to disease.”
-
-
-
-Personally, I’ll wait for more details with a mix of impatience, curiosity, and at least a hint of concern. I wonder what more the immune circuitry deep inside me might reveal about whether I’m healthy at this very moment, or will be tomorrow, or next month, or years from now.&nbsp;
-
-
-
-David Ewing Duncan&nbsp;is an award-winning science writer. For more information on this story check out his&nbsp;Futures Column on Substack.
 
 🔒 Cybersecurity & Privacy
+• DDoS Botnet Aisuru Blankets US ISPs in Record DDoS
+  The world&#8217;s largest and most disruptive botnet is now drawing a majority of its firepower from compromised Internet-of-Things (IoT) devices hosted on U.S. Internet providers like AT&amp;T, Comcast and Verizon, new evidence suggests. Experts say the heavy concentration of infected devices at U.S. providers is complicating efforts to limit collateral damage from the botnet&#8217;s attacks, which shattered previous records this week with a brief traffic flood that clocked in at nearly 30 trillion bits of data per second.
+Since its debut more than a year ago, the Aisuru botnet has steadily outcompeted virtually all other IoT-based botnets in the wild, with recent attacks siphoning Internet bandwidth from an estimated 300,000 compromised hosts worldwide.
+The hacked systems that get subsumed into the botnet are mostly consumer-grade routers, security cameras, digital video recorders and other devices operating with insecure and outdated firmware, and/or factory-default settings. Aisuru&#8217;s owners are continuously scanning the Internet for these vulnerable devices and enslaving them for use in distributed denial-of-service (DDoS) attacks that can overwhelm targeted servers with crippling amounts of junk traffic.
+As Aisuru&#8217;s size has mushroomed, so has its punch. In May 2025, KrebsOnSecurity was hit with a near-record 6.35 terabits per second (Tbps) attack from Aisuru, which was then the largest assault that Google&#8217;s DDoS protection service Project Shield had ever mitigated. Days later, Aisuru shattered that record with a data blast in excess of 11 Tbps.
+By late September, Aisuru was publicly flexing DDoS capabilities topping 22 Tbps. Then on October 6, its operators heaved a whopping 29.6 terabits of junk data packets each second at a targeted host. Hardly anyone noticed because it appears to have been a brief test or demonstration of Aisuru&#8217;s capabilities: The traffic flood lasted less only a few seconds and was pointed at an Internet server that was specifically designed to measure large-scale DDoS attacks.
+A measurement of an Oct. 6 DDoS believed to have been launched through multiple botnets operated by the owners of the Aisuru botnet. Image: DDoS Analyzer Community on Telegram.
+Aisuru&#8217;s overlords aren&#8217;t just showing off. Their botnet is being blamed for a series of increasingly massive and disruptive attacks. Although recent assaults from Aisuru have targeted mostly ISPs that serve online gaming communities like Minecraft, those digital sieges often result in widespread collateral Internet disruption.
+For the past several weeks, ISPs hosting some of the Internet&#8217;s top gaming destinations have been hit with a relentless volley of gargantuan attacks that experts say are well beyond the DDoS mitigation capabilities of most organizations connected to the Internet today.
+Steven Ferguson is principal security engineer at Global Secure Layer (GSL), an ISP in Brisbane, Australia. GSL hosts TCPShield, which offers free or low-cost DDoS protection to more than 50,000 Minecraft servers worldwide. Ferguson told KrebsOnSecurity that on October 8, TCPShield was walloped with a blitz from Aisuru that flooded its network with more than 15 terabits of junk data per second.
+Ferguson said that after the attack subsided, TCPShield was told by its upstream provider OVH that they were no longer welcome as a customer.
+&#8220;This was causing serious congestion on their Miami external ports for several weeks, shown publicly via their weather map,&#8221; he said, explaining that TCPShield is now solely protected by GSL.
+Traces from the recent spate of crippling Aisuru attacks on gaming servers can be still seen at the website blockgametracker.gg, which indexes the uptime and downtime of the top Minecraft hosts. In the following example from a series of data deluges on the evening of September 28, we can see an Aisuru botnet campaign briefly knocked TCPShield offline.
+An Aisuru botnet attack on TCPShield (AS64199) on Sept. 28  can be seen in the giant downward spike in the middle of this uptime graphic. Image: grafana.blockgametracker.gg.
+Paging through the same uptime graphs for other network operators listed shows almost all of them suffered brief but repeated outages around the same time. Here is the same uptime tracking for Minecraft servers on the network provider Cosmic (AS30456), and it shows multiple large dips that correspond to game server outages caused by Aisuru.
+Multiple DDoS attacks from Aisuru can be seen against the Minecraft host Cosmic on Sept. 28. The sharp downward spikes correspond to brief but enormous attacks from Aisuru. Image: grafana.blockgametracker.gg.
+BOTNETS R US
+Ferguson said he&#8217;s been tracking Aisuru for about three months, and recently he noticed the botnet&#8217;s composition shifted heavily toward infected systems at ISPs in the United States. Ferguson shared logs from an attack on October 8 that indexed traffic by the total volume sent through each network provider, and the logs showed that 11 of the top 20 traffic sources were U.S. based ISPs.
+AT&amp;T customers were by far the biggest U.S. contributors to that attack, followed by botted systems on Charter Communications, Comcast, T-Mobile and Verizon, Ferguson found. He said the volume of data packets per second coming from infected IoT hosts on these ISPs is often so high that it has started to affect the quality of service that ISPs are able to provide to adjacent (non-botted) customers.
+&#8220;The impact extends beyond victim networks,&#8221; Ferguson said. &#8220;For instance we have seen 500 gigabits of traffic via Comcast&#8217;s network alone. This amount of egress leaving their network, especially being so US-East concentrated, will result in congestion towards other services or content trying to be reached while an attack is ongoing.&#8221;
+Roland Dobbins is principal engineer at Netscout. Dobbins said Ferguson is spot on, noting that while most ISPs have effective mitigations in place to handle large incoming DDoS attacks, many are far less prepared to manage the inevitable service degradation caused by large numbers of their customers suddenly using some or all available bandwidth to attack others.
+&#8220;The outbound and cross-bound DDoS attacks can be just as disruptive as the inbound stuff,&#8221; Dobbin said. &#8220;We&#8217;re now in a situation where ISPs are routinely seeing terabit-per-second plus outbound attacks from their networks that can cause operational problems.&#8221;
+&#8220;The crying need for effective and universal outbound DDoS attack suppression is something that is really being highlighted by these recent attacks,&#8221; Dobbins continued. &#8220;A lot of network operators are learning that lesson now, and there&#8217;s going to be a period ahead where there&#8217;s some scrambling and potential disruption going on.&#8221;
+KrebsOnSecurity sought comment from the ISPs named in Ferguson&#8217;s report. Charter Communications pointed to a recent blog post on protecting its network, stating that Charter actively monitors for both inbound and outbound attacks, and that it takes proactive action wherever possible.
+&#8220;In addition to our own extensive network security, we also aim to reduce the risk of customer connected devices contributing to attacks through our Advanced WiFi solution that includes Security Shield, and we make Security Suite available to our Internet customers,&#8221; Charter wrote in an emailed response to questions. &#8220;With the ever-growing number of devices connecting to networks, we encourage customers to purchase trusted devices with secure development and manufacturing practices, use anti-virus and security tools on their connected devices, and regularly download security patches.&#8221;
+A spokesperson for Comcast responded, &#8220;Currently our network is not experiencing impacts and we are able to handle the traffic.&#8221;
+9 YEARS OF MIRAI
+Aisuru is built on the bones of malicious code that was leaked in 2016 by the original creators of the Mirai IoT botnet. Like Aisuru, Mirai quickly outcompeted all other DDoS botnets in its heyday, and obliterated previous DDoS attack records with a 620 gigabit-per-second siege that sidelined this website for nearly four days in 2016.
+The Mirai botmasters likewise used their crime machine to attack mostly Minecraft servers, but with the goal of forcing Minecraft server owners to purchase a DDoS protection service that they controlled. In addition, they rented out slices of the Mirai botnet to paying customers, some of whom used it to mask the sources of other types of cybercrime, such as click fraud.
+A depiction of the outages caused by the Mirai botnet attacks against the internet infrastructure firm Dyn on October 21, 2016. Source: Downdetector.com.
+Dobbins said Aisuru&#8217;s owners also appear to be renting out their botnet as a distributed proxy network that cybercriminal customers anywhere in the world can use to anonymize their malicious traffic and make it appear to be coming from regular residential users in the U.S.
+&#8220;The people who operate this botnet are also selling (it as) residential proxies,&#8221; he said. &#8220;And that&#8217;s being used to reflect application layer attacks through the proxies on the bots as well.&#8221;
+The Aisuru botnet harkens back to its predecessor Mirai in another intriguing way. One of its owners is using the Telegram handle &#8220;9gigsofram,&#8221; which corresponds to the nickname used by the co-owner of a Minecraft server protection service called Proxypipe that was heavily targeted in 2016 by the original Mirai botmasters.
+Robert Coelho co-ran Proxypipe back then along with his business partner Erik &#8220;9gigsofram&#8221; Buckingham, and has spent the past nine years fine-tuning various DDoS mitigation companies that cater to Minecraft server operators and other gaming enthusiasts. Coelho said he has no idea why one of Aisuru&#8217;s botmasters chose Buckingham&#8217;s nickname, but added that it might say something about how long this person has been involved in the DDoS-for-hire industry.
+&#8220;The Aisuru attacks on the gaming networks these past seven day have been absolutely huge, and you can see tons of providers going down multiple times a day,&#8221; Coelho said.
+Coelho said the 15 Tbps attack this week against TCPShield was likely only a portion of the total attack volume hurled by Aisuru at the time, because much of it would have been shoved through networks that simply couldn&#8217;t process that volume of traffic all at once. Such outsized attacks, he said, are becoming increasingly difficult and expensive to mitigate.
+&#8220;It&#8217;s definitely at the point now where you need to be spending at least a million dollars a month just to have the network capacity to be able to deal with these attacks,&#8221; he said.
+RAPID SPREAD
+Aisuru has long been rumored to use multiple zero-day vulnerabilities in IoT devices to aid its rapid growth over the past year. XLab, the Chinese security company that was the first to profile Aisuru&#8217;s rise in 2024, warned last month that one of the Aisuru botmasters had compromised the firmware distribution website for Totolink, a maker of low-cost routers and other networking gear.
+&#8220;Multiple sources indicate the group allegedly compromised a router firmware update server in April and distributed malicious scripts to expand the botnet,&#8221; XLab wrote on September 15. &#8220;The node count is currently reported to be around 300,000.&#8221;
+A malicious script implanted into a Totolink update server in April 2025. Image: XLab.
+Aisuru&#8217;s operators received an unexpected boost to their crime machine in August when the U.S. Department Justice charged the alleged proprietor of Rapper Bot, a DDoS-for-hire botnet that competed directly with Aisuru for control over the global pool of vulnerable IoT systems.
+Once Rapper Bot was dismantled, Aisuru&#8217;s curators moved quickly to commandeer vulnerable IoT devices that were suddenly set adrift by the government&#8217;s takedown, Dobbins said.
+&#8220;Folks were arrested and Rapper Bot control servers were seized and that&#8217;s great, but unfortunately the botnet&#8217;s attack assets were then pieced out by the remaining botnets,&#8221; he said. &#8220;The problem is, even if those infected IoT devices are rebooted and cleaned up, they will still get re-compromised by something else generally within minutes of being plugged back in.&#8221;
+A screenshot shared by XLabs showing the Aisuru botmasters recently celebrating a record-breaking 7.7 Tbps DDoS. The user at the top has adopted the name &#8220;Ethan J. Foltz&#8221; in a mocking tribute to the alleged Rapper Bot operator who was arrested and charged in August 2025.
+BOTMASTERS AT LARGE
+XLab&#8217;s September blog post cited multiple unnamed sources saying Aisuru is operated by three cybercriminals: &#8220;Snow,&#8221; who&#8217;s responsible for botnet development; &#8220;Tom,&#8221; tasked with finding new vulnerabilities; and &#8220;Forky,&#8221; responsible for botnet sales.
+KrebsOnSecurity interviewed Forky in our May 2025 story about the record 6.3 Tbps attack from Aisuru. That story that identified Forky as a 21-year-old man from Sao Paulo, Brazil who has been extremely active in the DDoS-for-hire scene since at least 2022. The FBI has seized Forky&#8217;s DDoS-for-hire domains several times over the years.
+
+Like the original Mirai botmasters, Forky also operates a DDoS mitigation service called Botshield. Forky declined to discuss the makeup of his ISP’s clientele, or to clarify whether Botshield was more of a hosting provider or a DDoS mitigation firm. However, Forky has posted on Telegram about Botshield successfully mitigating large DDoS attacks launched against other DDoS-for-hire services.
+In our previous interview, Forky acknowledged being involved in the development and marketing of Aisuru, but denied participating in attacks launched by the botnet.
+Reached for comment earlier this month, Forky continued to maintain his innocence, claiming that he also is still trying to figure out who the current Aisuru botnet operators are in real life (Forky said the same thing in our May interview).
+But after a week of promising juicy details, Forky came up empty-handed once again. Suspecting that Forky was merely being coy, I asked him how someone so connected to the DDoS-for-hire world could still be mystified on this point, and suggested that his inability or unwillingness to blame anyone else for Aisuru would not exactly help his case.
+At this, Forky verbally bristled at being pressed for more details, and abruptly terminated our interview.
+&#8220;I&#8217;m not here to be threatened with ignorance because you are stressed,&#8221; Forky replied. &#8220;They&#8217;re blaming me for those new attacks. Pretty much the whole world (is) due to your blog.&#8221;
 • ShinyHunters Wage Broad Corporate Extortion Spree
   A cybercriminal group that used voice phishing attacks to siphon more than a billion records from Salesforce customers earlier this year has launched a website that threatens to publish data stolen from dozens of Fortune 500 firms if they refuse to pay a ransom. The group also claimed responsibility for a recent breach involving Discord user data, and for stealing terabytes of sensitive files from thousands of customers of the enterprise software maker Red Hat.
 The new extortion website tied to ShinyHunters (UNC6040), which threatens to publish stolen data unless Salesforce or individual victim companies agree to pay a ransom.
