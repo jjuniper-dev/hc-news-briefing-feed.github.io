@@ -1,17 +1,17 @@
-✅ Morning News Briefing – October 11, 2025 10:40
+✅ Morning News Briefing – October 12, 2025 10:43
 
-📅 Date: 2025-10-11 10:40
+📅 Date: 2025-10-12 10:43
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  8.5°C
-  Temperature: 8.5&deg;C Pressure / Tendency: 102.0 kPa rising Humidity: 92 % Dewpoint: 7.2&deg:C Wind: E 3 km/h Air Quality Health Index: n/a . Observed at: Pembroke 6:00 AM EDT Saturday 11 October 2025 Temperature: . . Temperature:. 8.
-• Saturday: A few showers. High 17.
-  A few showers ending this morning then cloudy then cloudy . High 17. UV index 2 or low. High 17 or low . Forecast issued 5:00 AM EDT Saturday 11 October 2025 . Weather forecast: Showery, cloudy, rainy, sunny, cloudy . Rainy, windy, breezy, sunny and breezy in the coming days. Forecast: Rainy
-• Saturday night: Partly cloudy. Low plus 4.
-  Fog patches developing after midnight . Clearing late this evening. Clearing later this evening . Forecast issued 5:00 AM EDT Saturday 11 October 2025 . Low plus 4.50% is below normal for rain, snow, rain, wind and snow . Forecasters predict snowfall in the early hours of Saturday morning. Forecasters say snowfall will be more likely in the morning .
+• Current Conditions:  1.3°C
+  Temperature: 1.3&deg;C Pressure / Tendency: 102.5 kPa rising Humidity: 97 % Dewpoint: 0.9&deg:C Wind: W 4 km/h Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Sunday 12 October 2025 Temperature: . 1.2°C Pressure: . 102.
+• Sunday: Sunny. High 18.
+  Fog patches dissipating this morning. Sunny. High 18. UV index 4 or moderate. . High 18 or moderate for the afternoon . Forecast issued 5:00 AM EDT Sunday 12 October 2025. For the rest of the year, see www.dailymailonline.com/news/newsknew/our-look-at-risk-in-the-newsletter-
+• Sunday night: Clear. Low plus 3.
+  Fog patches developing after midnight . Clear. Clear. Low plus 3.70s . Clear skies . Fog patches will be seen after midnight. Clear skies. Clear seaside fog patches . Forecast issued 5:00 AM EDT Sunday 12 October 2025 . Forecasts: October 12, 2025. Forecast: "Clear, Clear, Clear. Tomorrow, Thursday, Friday, Saturday, October
 
 🌍 International News
 No updates.
@@ -20,21 +20,23 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Trump issues a Columbus Day proclamation to 'reclaim' the explorer's legacy
-  President Trump said "left-wing radicals" have tried to tarnish Columbus' legacy . Some experts say it's a way to erase the heritage of Native Americans . President Trump says the proclamation is a way of preserving the legacy of Columbus . President Obama said the proclamation will protect Columbus' historical legacy from the left-wing . The proclamation is expected to be signed by the U.S
-• Israel strikes south Lebanon, killing 1 and wounding 7
-  Israel carried out airstrikes on southern Lebanon early Saturday, killing one person, wounding seven . The airstrikes briefly cut a highway that links Beirut with parts of south Lebanon, the Health Ministry said . One person was killed, seven were wounded and a highway was briefly cut off from Beirut . Israel is believed to have carried out the airstrikes in southern Lebanon, Lebanon's health ministry said . Israel's airstrikes
-• She posted about Charlie Kirk's death. Within eight hours, she was fired
-  Alexandra described the online mob that got her fired as "state-sponsored censorship" Alexandra is one of many people who lost their jobs for posting about the conservative influencer's death . She described the mob as a state-sponsored "censorship" Alexandra was fired from her job after she posted about her friend's death on social media . Alexandra described her firing as an act of "state
-• India is forcibly deporting Muslims, including its own citizens, after Kashmir violence
-  In the aftermath of a deadly militant attack in Kashmir in April, authorities have expelled more than 1,500 Muslims from India, often at gunpoint . Authorities have expelled over 1,000 Muslims from Kashmir since the attack in April . In Kashmir, a militant attack killed more than 100 people, many of them in Kashmir, according to reports . The attack was the deadliest in the region since
-• Trump threatens tech export limits, new 100% tariff on Chinese imports
-  President Trump threatened to place an additional 100% tax on Chinese imports starting on Nov. 1 or sooner, potentially escalating tariff rates close to levels that in April fanned fears of a recession . President Trump has threatened to increase tariffs to 100% on imports from China . The U.S. has already raised the number of Chinese imports in the world by more than a quarter of a year
+• Preparations begin to ramp up aid in Gaza as ceasefire brings hope for end to 2-year war
+  Preparations are underway for the release of Israeli hostages held in Gaza and Palestinian prisoners held in Israel . Preparations were also underway Sunday for release of prisoners held by Palestinians and Israeli hostages . Palestinian prisoners are also expected to be released by Israel in the coming days . The release of Palestinian prisoners is expected to take place in the next few days, Arafat said in a statement released Sunday .
+• Hollywood's quirky leading lady, Diane Keaton, dies aged 79
+  Diane Keaton was one of Hollywood's quirkiest and most beloved actors decades after her Academy Award-winning performance in the movie Annie Hall . Keaton won the Academy Award for her role in Annie Hall, which won her Oscar for best actress in the film . She died at the age of 79 on Monday, aged 79, from complications from her injuries in a car accident in June
+• 16 people died in a blast at a Tennessee explosives factory early Friday, sheriff says
+  A blast leveled an explosives plant in rural Tennessee killed 16 people and left no survivors, authorities said . The blast leveled the explosives plant and was felt for miles around . Authorities said no survivors were able to be found in the blast . The explosion leveled the plant and leveled the area, leaving no survivors in the wake of the blast, officials said . No survivors survived the blast which leveled the
+• Diane Keaton, Oscar-winning star of 'Annie Hall' and 'The Godfather,' dies at 79
+  The actor, known for her quirky manner and depth, was 79 . Across her decades-long career, she worked with prominent filmmakers including Francis Ford Coppola, Woody Allen and Nancy Meyers . She worked with many of the world's most famous directors, including Woody Allen, among whom she worked for decades . The actor died at the age of 79 on Sunday, October 4 .
+• Trump slashes mental health agency as shutdown drags on
+  Sources tell NPR that more than 100 employees have been laid off at the Substance Abuse and Mental Health Agency . The Centers for Disease Control and Prevention had some cuts reversed late Saturday . The agency is under the control of the CDC, the National Institute for Mental Health and Substance Abuse Prevention, according to NPR. The agency had some of the cuts reversed on Saturday night, sources tell NPR . The
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
+• Inside the belly of the beast: A technical walk through Intel's 18A production facility at Fab52
+  Former Intel CEO Pat Gelsinger announced an ambitious plan to reinvent the chipmaker as a contract semiconductor manufacturing powerhouse . Lip Bu Tan is hoping to find a willing customer to deep dive deep dive into the company's semiconductor chip manufacturing capabilities . Now if Lipbu Tan can just find the customer deep dive, he'll have to find another chipmaker willing to buy a chipmaker .
 • Weird ideas welcome: VC fund looking to make science fiction factual
   A venture capital fund is looking for ideas that are out of bounds for traditional investors . It seeding technology that may only come to fruition decades down the line, but where researchers can show real results in the lab . The fund will look at ideas that can be seeding technologies that can only be shown in labs, but can be developed in a lab . It will be funded by a
 • Who gets a Mac at work? Here's how companies decide
@@ -43,8 +45,6 @@ No updates.
   Researchers tracking 2,158 domains hosting YYlaiyu phishing pages . Phishing kit hosted on thousands of domains boasts 97 different brands to make criminals' scams look more believable . Security researchers tracked 2, 158 domains hosting the phishing kit . Phished kit is driving a surge in financial fraud around the globe, according to security researchers .…… Phishing kits are hosted on
 • OpenAI GPT-5: great taste, less filling, now with 30% less bias
   OpenAI says GPT-5 has 30 percent less political bias than its prior AI models . AI model maker touts effort to depoliticize its product . OpenAI: GPT 5 has 30% less bias than previous AI models.……… and 30% more political bias. AI model makers say GPT5 is less biased than its previous models, less likely to
-• Managers are throwing entry-level workers under the bus in race to adopt AI
-  Business leaders are racing to jump aboard the AI bandwagon . 55% of business leaders say that adopting AI is worth the impact on workers ai-pocalypse . Young college grads are being hit hardest by AI, according to a new study from the British Standards Institute . Still, 55% say adopting AI will be worth the cost of it, and 55% think it will work .
 
 🏥 Public Health
 No updates.
@@ -553,869 +553,6 @@ Update, Oct. 8, 8:59 a.m. ET: A previous version of this story incorrectly refer
 No updates.
 
 🏢 Corporate AI
-• Ideas: More AI-resilient biosecurity with the Paraphrase Project
-  Behind every emerging technology is a great idea propelling it forward. In the Microsoft Research Podcast series Ideas, members of the research community at Microsoft discuss the beliefs that animate their research, the experiences and thinkers that inform it, and the positive human impact it targets.
-
-
-
-AI has been described as a “dual use” technology: the capabilities that can be leveraged for good can also potentially be used to cause harm. In this episode, Microsoft Chief Scientific Officer Eric Horvitz and his guests—Bruce Wittmann, a senior applied scientist at Microsoft; Tessa Alexanian (opens in new tab), a technical lead at the International Biosecurity and Biosafety Initiative for Science (IBBIS);&nbsp;and James Diggans (opens in new tab), a vice president at Twist Bioscience—explore this idea in the context of AI-powered protein design.
-
-
-
-With Horvitz at the lead, Alexanian, Diggans, and Wittmann were part of a cross-sector team that demonstrated toxic protein candidates could be designed with help from AI—and that they could bypass the systems in place to defend against their creation. The project, known as the Paraphrase Project, culminated in a cybersecurity-style response, a more robust protein screening system, and a modified approach to peer review with implications for how we think about and tackle AI risk more broadly. The work was recently published in Science.
-
-
-
-
-
-
-
-
-Learn more:
-
-
-
-
-Strengthening nucleic acid biosecurity screening against generative protein design toolsPublication | October 2025
-
-
-
-Toward AI-Resilient Screening of Nucleic Acid Synthesis Orders: Process, Results, and RecommendationsPreprint | December 2024
-
-
-
-The Paraphrase Project: Designing defense for an era of synthetic biologyMicrosoft Research Blog | October 2025
-
-
-
-When AI meets biology: Promise, risk, and responsibilityMicrosoft Research Blog | Eric Horvitz | October 2025
-
-
-
-Paraphrase ProjectProject homepage
-
-
-
-
-
-
-
-
-
-
-	
-		
-			Subscribe to the Microsoft Research Podcast:		
-		
-							
-					
-						  
-						Apple Podcasts
-					
-				
-			
-							
-					
-						
-						Email
-					
-				
-			
-							
-					
-						
-						Android
-					
-				
-			
-							
-					
-						
-						Spotify
-					
-				
-			
-							
-					
-						
-						RSS Feed
-					
-				
-					
-	
-
-
-
-
-	
-		
-			
-				
-					
-
-Transcript
-
-
-
-[MUSIC]
-
-
-
-ERIC HORVITZ: You’re&nbsp;listening to&nbsp;Ideas, a Microsoft Research Podcast that dives deep into the world of technology research and the profound questions behind the code.&nbsp;I’m&nbsp;Eric Horvitz, Microsoft’s chief scientific officer, and in this series, we explore the technologies shaping our future and the&nbsp;big ideas&nbsp;that propel them forward.
-
-
-
-[MUSIC FADES]
-
-
-
-Today,&nbsp;I’m&nbsp;excited to talk about the Paraphrase Project, an effort I co-led exploring how&nbsp;advances in&nbsp;AI tools&nbsp;for protein design&nbsp;might&nbsp;impact&nbsp;biosecurity. The results were reported in our recent paper,&nbsp;“Strengthening nucleic acid biosecurity screening against generative protein design tools,” (opens in new tab)&nbsp;published in&nbsp;Science&nbsp;on Oct. 2.&nbsp;
-
-
-
-Joining me are&nbsp;three&nbsp;of the larger set of&nbsp;coauthors on that paper:&nbsp;Bruce Wittmann, senior applied scientist at Microsoft;&nbsp;James&nbsp;Diggans, vice president at Twist Bioscience and chair of the board for the International Gene Synthesis Consortium;&nbsp;and Tessa Alexanian, technical lead at the International Biosecurity and Biosafety Initiative for Science, also known as IBBIS.&nbsp;
-
-
-
-				
-				
-					
-
-
-
-Now, let’s&nbsp;rewind two years.&nbsp;Almost to&nbsp;the day, Bruce and I uncovered a vulnerability. While preparing a case study for a workshop on AI and biosecurity, we discovered that open-source AI protein design tools could be used to redesign toxic proteins in ways that could bypass biosecurity screening systems, systems set up to&nbsp;identify&nbsp;incoming orders of concern.&nbsp;
-
-
-
-Now in that work, we&nbsp;created an AI pipeline from open-source tools that could&nbsp;essentially “paraphrase” the amino acid sequences—reformulating&nbsp;them while&nbsp;working to&nbsp;preserve&nbsp;their structure and potentially their function.&nbsp;
-
-
-
-These paraphrased sequences could evade the screening systems used by major DNA&nbsp;synthesis companies, and these are the systems that scientists rely on to safely produce AI-designed proteins.&nbsp;
-
-
-
-Now, experts in the field described this finding as the first “zero day” for AI and biosecurity.&nbsp;And this&nbsp;marked the beginning of a deep, two-year collaborative effort to investigate and address this challenge.&nbsp;
-
-
-
-With the help of a&nbsp;strong&nbsp;cross-sector team—including James, Tessa, Bruce, and many others—we worked behind the scenes to build AI biosecurity&nbsp;red-teaming approaches,&nbsp;probe for vulnerabilities, and to design practical fixes. These “patches,” akin to those in cybersecurity,&nbsp;have now been shared with&nbsp;organizations&nbsp;globally to strengthen biosecurity screening.&nbsp;
-
-
-
-This has been one of the most fascinating projects&nbsp;I’ve&nbsp;had the privilege to work on, for its technical complexity, its ethical and policy dimensions, and the remarkable collaboration across industry, government, and nonprofit sectors.&nbsp;
-
-
-
-The project highlights that the&nbsp;same AI tools capable of&nbsp;incredible&nbsp;good can also be misused, requiring us to be vigilant, thoughtful, and creative so we continue to get the most benefit out of AI tools while working to ensure&nbsp;that&nbsp;we avoid costly misuses.&nbsp;
-
-
-
-With that, let me officially welcome our guests.
-
-
-
-Bruce, James, Tessa, welcome to the podcast.
-
-
-
-BRUCE WITTMANN: Thanks, Eric.
-
-
-
-JAMES DIGGANS: Thanks for having us.
-
-
-
-HORVITZ: It&#8217;s been such a pleasure working closely with each of you, not only for your expertise but also for your deep commitment and passion about public health and global safety.
-
-
-
-Before we dive into the technical side of things, I&#8217;d like to ask each of you, how did you get into this field? What inspired you to become biologists and then pursue the implications of advances in AI for biosecurity? Bruce?
-
-
-
-WITTMANN:&nbsp;Well, I&#8217;ve always liked building things. That&#8217;s where I would say I come from. You know, my hobbies when I&#8217;m not working on biology or AI things—as you know, Eric—is, like, building things around the house, right. Doing construction. That kind of stuff.
-
-
-
-But my broader interests have always been biology, chemistry. So I originally got into organic chemistry. I found that was fascinating. From there, went to synthetic biology, particularly metabolic engineering, because that&#8217;s kind of like organic chemistry, but you&#8217;re wiring together different parts of an organism’s metabolism rather than different chemical reactions. And while I was working in that space, I, kind of, had the thought of there&#8217;s got to be an easier way to do this [LAUGHS] because it is really difficult to do any type of metabolic engineering. And that&#8217;s how I got into the AI space, trying to solve these very complicated biological problems, trying to build things that we don&#8217;t necessarily even understand using our understanding from data or deriving understanding from data.
-
-
-
-So, you know, that&#8217;s the roundabout way of how I got to where I am—the abstract way of how I got to where I am.
-
-
-
-HORVITZ: And, Tessa, what motivated you to jump into this area and zoom into biology and biosciences and helping us to avoid catastrophic outcomes?
-
-
-
-ALEXANIAN: Yeah, I mean, probably the origin of me being really excited about biology is actually a book called [The] Lives of [a] Cell (opens in new tab) by Lewis Thomas, which is an extremely beautiful book of essays that made me be like, Oh, wow, life is just incredible. I think I read it when I was, you know, 12 or 13, and I was like, Life is incredible. I want to work on this. This is the most beautiful science, right. And then I, in university, I was studying engineering, and I heard there was this engineering team for engineering biology—this iGEM (opens in new tab) team—and I joined it, and I thought, Oh, this is so cool. I really got to go work in this field of synthetic biology.
-
-
-
-And then I also tried doing the wet lab biology, and I was like, Oh, but I don&#8217;t like this part. I don&#8217;t actually, like, like babysitting microbes. [LAUGHTER] I think there&#8217;s a way … some people who are great wet lab biologists are made of really stern stuff. And they really enjoy figuring out how to redesign their negative controls so they can figure out whether it was contamination or whether it was, you know, temperature fluctuation. I&#8217;m not that, apparently.
-
-
-
-And so I ended up becoming a lab automation engineer because I could help the science happen, but I … but my responsibilities were the robots and the computers rather than the microbes, which I find a little bit intransigent.
-
-
-
-HORVITZ: Right. I was thinking of those tough souls; they also used their mouths to do pipetting and so on of these contaminated fluids …
-
-
-
-WITTMANN: Not anymore. ALEXANIAN: It&#8217;s true. [LAUGHTER]
-
-
-
-DIGGANS: Not anymore. [LAUGHS]
-
-
-
-ALEXANIAN: They used to be tougher. They used to be tougher.
-
-
-
-HORVITZ: James.
-
-
-
-DIGGANS: So I did my undergrad in computer science and microbiology, mostly because at the time, I couldn&#8217;t pick which of the two I liked more. I liked them both. And by the time I graduated, I was lucky enough that I realized that the intersection of the two could be a thing. And so I did a PhD in computational biology, and then I worked for five years at the MITRE Corporation. It’s a nonprofit. I got the chance to work with the US biodefense community and just found an incredible group of people working to protect forces and the population at large from biological threats and just learned a ton about both biology and also dual-use risk. And then so when Twist called me and asked if I wanted to join Twist and set up their biosecurity program, I leapt at the chance and have done that for the past 10 years.
-
-
-
-HORVITZ: Well, thanks everyone.
-
-
-
-I believe that AI-powered protein design in particular is one of the most exciting frontiers of modern science. It holds promise for breakthroughs in medicine, public health, even material science. We&#8217;re already seeing it lead to new vaccines, novel therapeutics, and—on the scientific front—powerful insights into the machinery of life.
-
-
-
-So there&#8217;s much more ahead, especially in how AI can help us promote wellness, longevity, and the prevention of disease. But before we get too far ahead, while some of our listeners work in bioscience, many may not have a good understanding of some of the foundations.
-
-
-
-So, Bruce, can you just give us a high-level overview of proteins? What are they? Why are they important? How do they figure into human-designed applications?
-
-
-
-WITTMANN: Sure. Yeah. Fortunately, I used to TA a class on AI for protein design, so it’s right in my wheelhouse. [LAUGHS]
-
-
-
-HORVITZ: Perfect, perfect background. [LAUGHS]
-
-
-
-WITTMANN:&nbsp;It&#8217;s perfect. Yeah. I got to go back to all of that. Yeah, so from the very basic level, proteins are the workhorses of life.
-
-
-
-Every chemical reaction that happens in our body—well, nearly every chemical reaction that happens in our body—most of the structure of our cells, you name it. Any life process, proteins are central to it.
-
-
-
-Now proteins are encoded by what are known as … well, I shouldn&#8217;t say encoded. They are constructed from what are called amino acids—there are 20 of them—and depending on the combination and order in which you string these amino acids together, you get a different protein sequence. So that&#8217;s what we mean when we say protein sequence.
-
-
-
-The sequence of a protein then determines what shape that protein folds into in a cell, and that shape determines what the protein does. So we will often say sequence determines structure, which determines function.
-
-
-
-Now the challenge that we face in engineering proteins is just how many possibilities there are. For all practical purposes, it&#8217;s infinite. So we have 20 building blocks. There are on average around 300 amino acids in a protein. So that&#8217;s 20 to the power of 300 possible combinations. And a common reference point is that it&#8217;s estimated there are around 10 to the 80 particles in the observable universe. So beyond astronomical numbers of possible combinations that we could have, and the job of a protein engineer is to find that one or a few of the proteins within that space that do what we want it to do.
-
-
-
-So when a human has an idea of, OK, here&#8217;s what I want a protein to do, we have various techniques of finding that desired protein, one of which is using artificial intelligence and trying to either sift through that milieu of potential proteins or, as we&#8217;ll talk about more in this podcast, physically generating them. So creating them in a way, sampling them out of some distribution of reasonable proteins.
-
-
-
-HORVITZ: Great. So I wanted to throw it to James now to talk about how protein design goes from computer to reality—from in silico to test tubes. What role does Twist Bioscience (opens in new tab) play in transforming digital protein designs into synthesized proteins? And maybe we can talk also about what safeguards are in place at your company and why do we need them.
-
-
-
-DIGGANS: So all of these proteins that Bruce has described are encoded in DNA. So the language that our cells use to kind of store the information about how to make these proteins is all encoded in DNA. And so if you as an engineer have designed a protein and you want to test it to see if it does what you think it does, the first step is to have the DNA that encodes that protein manufactured, and companies like Twist carry out that role.
-
-
-
-So we are cognizant also, however, that these are what are called dual-use technologies. So you can use DNA and proteins for an incredible variety of amazing applications. So drug development, agricultural improvements, bioindustrial manufacturing, all manner of incredible applications. But you could also potentially use those to cause harm so toxins or other, you know, sort of biological misuse.
-
-
-
-And so the industry has since at least 2010 recognized that they have a responsibility to make sure that when we&#8217;re asked to make some sequence of DNA that we understand what that thing is encoding and who we&#8217;re giving it for. So we&#8217;re screening both the customer that&#8217;s coming to us and we&#8217;re screening the sequence that they&#8217;re requesting.
-
-
-
-And so Twist has long invested in a very, sort of, complicated system for essentially reverse engineering the constructs that we&#8217;re asked to make so that we understand what they are. And then a system where we engage with our customers and make sure that they&#8217;re going to use those for legitimate purpose and responsibly.
-
-
-
-HORVITZ: And how do the emergence of these new generative AI tools influence how you think about risk?
-
-
-
-DIGGANS: A lot of the power of these AI tools is they allow us to make proteins or design proteins that have never existed before in nature to carry out functions that don&#8217;t exist in the natural world. That&#8217;s an extremely powerful capability.
-
-
-
-But the existing defensive tools that we use at DNA synthesis companies generally rely on what&#8217;s called homology, similarity to known naturally occurring sequences, to determine whether something might pose risk. And so AI tools kind of break the link between those two things.
-
-
-
-HORVITZ: Now you also serve as chair of the International Gene Synthesis Consortium (opens in new tab). Can you tell us a little bit more about the IGSC, its mission, how it supports global biosecurity?
-
-
-
-DIGGANS: Certainly. So the IGSC was founded in 2010[1] and right now has grown to more than 40 companies and organizations across 10 countries. And the IGSC is essentially a place where companies who might be diehard competitors in the market around nucleic acid synthesis come together and design and develop best practices around biosecurity screening to, kind of, support the shared interest we all have in making sure that these technologies are not subject to misuse.
-
-
-
-HORVITZ: Thanks, James. Now, Tessa, your organization, IBBIS (opens in new tab) is focused—it&#8217;s a beautiful mission—on advancing science while minimizing catastrophic risk, likelihood of catastrophic risk. When we say catastrophic risk, what do we really mean, Tessa, in the context of biology and AI? And how is that … do you view that risk landscape as evolving as AI capabilities are growing?
-
-
-
-ALEXANIAN: I think the … to be honest, as a person who&#8217;s been in biosecurity for a while, I&#8217;ve been surprised by how much of the conversation about the risks from advances in artificial intelligence has centered on the risk of engineered biological weapons and engineered pandemics.
-
-
-
-Even recently, there was a new discussion on introducing redlines for AI that came up at the UN General Assembly. And the very first item they list in their list of risks, if I&#8217;m not mistaken, was engineered pandemics, which is exactly the sort of thing that people fear could be done, could be done with these biological AI tools.
-
-
-
-Now, I think that when we talk about catastrophic risk, we talk about, you know, something that has an impact on a large percentage of humanity. And I think the reason that we think that biotechnologies pose a catastrophic risk is that we believe there, as we&#8217;ve seen with many historical pandemics, there&#8217;s a possibility for something to emerge or be created that is beyond our society&#8217;s ability to control.
-
-
-
-You know, there were a few countries in COVID that managed to more or less successfully do a zero-COVID policy, but that was not, that was not most countries. That was not any of the countries that I lived in. And, you know, we saw millions of people die. And I think we believe that with something like the 1918 influenza, which had a much higher case fatality rate, you could have far more people die.
-
-
-
-Now, why we think about this in the context of AI and where this connects to DNA synthesis is that, you know, there is a … these risks of both, sort of, public health risks, pandemic risks, and misuse risks—people deliberately trying to do harm with biology, as we&#8217;ve seen from the long history of biological weapons programs—you know, we think that those might be accelerated in a few different ways by AI technology, both the potential … and I say potential here because as everyone who has worked in a wet lab—which I think is everyone on this call—knows, engineering biology is really difficult. So there&#8217;s maybe a potential for it to become easier to develop biological technology for the purposes of doing harm, and there&#8217;s maybe also the potential to create novel threats.
-
-
-
-And so I think people talk about both of those, and people have been looking hard for possible safeguards. And I think one safeguard that exists in this biosecurity world that, for example, doesn&#8217;t exist as cleanly in the cybersecurity world is that none of these biological threats can do harm until they are realized in physical reality, until you actually produce the protein or produce the virus or the microorganism that could do harm. And so I think at this point of production, both in DNA synthesis and elsewhere, we have a chance to introduce safeguards that can have a really large impact on the amount of risk that we&#8217;re facing—as long as we develop those safeguards in a way that keeps pace with AI.
-
-
-
-HORVITZ: Well, thanks, Tessa. So, Bruce, our project began when I posed a challenge to you of the form: could current open-source AI tools be tasked with rewriting toxic protein sequences in a way that preserves their native structure, and might they evade today&#8217;s screening systems?
-
-
-
-And I was preparing for a global workshop on AI and biosecurity that I&#8217;d been organizing with Frances Arnold, David Baker, and Lynda Stuart, and I wanted a concrete case study to challenge attendees. And what we found was interesting and deeply concerning.
-
-
-
-So I wanted to dive in with you, Bruce, on the technical side. Can you describe some about the generative pipeline and how it works and what you did to build what we might call an AI and biosecurity red-teaming pipeline for testing and securing biosecurity screening tools?
-
-
-
-WITTMANN: Sure. Yeah. I think the best place to start with this is really by analogy.
-
-
-
-An analogy I often use in this case is the type of image generation AI tools we&#8217;re all familiar with now where I can tell the AI model, &#8220;Hey, give me a cartoonish picture of a dog playing fetch.&#8221; And it&#8217;ll do that, and it&#8217;ll give us back something that is likely never been seen before, right. That exact image is new, but the theme is still there. The theme is this dog.
-
-
-
-And that&#8217;s kind of the same technology that we&#8217;re using in this red-teaming pipeline. Only rather than using plain language, English, we&#8217;re passing in what we would call conditioning information that is relevant to a protein.
-
-
-
-So our AI models aren&#8217;t at the point yet where I can say, &#8220;Give me a protein that does x.&#8221; That would be the dream. We&#8217;re a long way from that. But what instead we do is we pass in things that match that theme that we&#8217;re interested in. So rather than saying, &#8220;Hey, give me back the theme on a dog,&#8221; we pass in information that we know will cause or at least push this generative model to create a protein that has the characteristics that we want.
-
-
-
-So in the case of that example you just mentioned, Eric, it would be the protein structure. Like I mentioned earlier, we usually say structure determines function. There&#8217;s obviously a lot of nuance to that, but we can, at a first approximation, say structure determines function. So if I ask an AI model, ”Hey, here&#8217;s this structure; give me a protein sequence that folds to this structure,” just like with that analogy with the dog, it&#8217;s going to give me something that matches that structure but that is likely still never been seen before. It&#8217;s going to be a new sequence.
-
-
-
-So you can imagine taking this one step further. In the red-teaming pipeline, what we would do is take a protein that should normally be captured by DNA synthesis screening—that would be captured by DNA synthesis screening—find its structure, pass it through one of these models, and get variants on the theme of that structure so these new sequences, these synthetic homologs that you mentioned, paraphrased, reformulated, whatever phrase we want to use to describe them.
-
-
-
-And they have a chance or a greater chance than not of maintaining the structure and so maintaining the function while being sufficiently different that they&#8217;re not detected by these tools anymore.
-
-
-
-So that&#8217;s the nuts and bolts of how the red-teaming pipeline comes together. We use more tools than just structure. I think structure is the easiest one to understand. But we have a suite of tools in there, each pass different conditioning information that causes the model to generate sequences that are paraphrased versions of potential proteins of concern.
-
-
-
-HORVITZ: But to get down to brass tacks, what Bruce did for the framing study was … we took the toxic, well-known toxic protein ricin, as we described in a framing paper that&#8217;s actually part of the appendix now to the Science publication, and we generated through this pipeline, composed of open-source tools, thousands of AI-rewritten versions of ricin.
-
-
-
-And this brings us to the next step of our project, way back when, at the early … in the early days of this effort, where Twist Bioscience was one of the companies we approached with what must have seemed like an unusual question to your CEO, in fact, James: would you be open to testing whether current screening systems could detect thousands of AI-rewritten versions of ricin, a well-known toxic protein?
-
-
-
-And your CEO quickly connected me with you, James. So, James, what were your first thoughts on hearing about this project, and how did you respond to our initial framing study?
-
-
-
-DIGGANS: I think my first response was gratitude and excitement. So it was fantastic that Microsoft had really leaned forward on this set of ideas and had produced this dataset. But to have it, you know, show up on our doorstep in a very concrete way with a partner that was ready to, sort of, help us try and address that, I think was a really … a valuable opportunity. And so we really leapt at that.
-
-
-
-HORVITZ: And the results were that both for you and another company, major producer IDT [Integrated DNA Technologies], those thousands of variants flew through … flew under the radar of the biosecurity screening software as we covered in that framing paper.
-
-
-
-Now, after our initial findings on this, we quietly shared the paper with a few trusted contacts, including some in government. Through my work with the White House Office of Science and Technology Policy, or OSTP, we connected up with biosecurity leads there, and it was an OSTP biosecurity lead who described our results as the first zero day in AI and biosecurity. And now in cybersecurity, a zero day is a vulnerability unknown to defenders generally, meaning there&#8217;s no time to respond before it could be exploited should it be known.
-
-
-
-In that vein, we took a cybersecurity approach. We stood up a CERT—C-E-R-T—a cybersecurity [computer] emergency response team approach used in responding to cybersecurity vulnerabilities, and we implemented this process to address what we saw as a vulnerability with AI-enabled challenges to biosecurity.
-
-
-
-At one point down the line, it was so rewarding to hear you say, James, “I&#8217;m really glad Microsoft got here first.” I&#8217;m curious how you think about this kind of AI-enabled vulnerability compared to other ones, biosecurity threats, you&#8217;ve encountered, and I&#8217;d love to hear your perspective on how we handled the situation from the early discovery to the coordination and outreach.
-
-
-
-DIGGANS: Yeah, I think in terms of comparison known threats, the challenge here is really there is no good basis on which we can just, sort of, say, Oh, I&#8217;ll build a new tool to detect this concrete universe of things, right. This was more a pattern of I&#8217;m going to use tools—and I love the name “Paraphrase”; it&#8217;s a fantastic name—I can paraphrase anything that I would normally think of as biological … as posing biological risk, and now that thing is harder to detect for existing tools. And so that really was a very eye-opening experience, and I think the practice of forming this CERT response, putting together a group of people who were well versed not just in the threat landscape but also in the defensive technologies, and then figuring out how to mitigate that risk and broaden that study, I think, was a really incredibly valuable response to the entire synthesis industry.
-
-
-
-HORVITZ: Yeah, and, Bruce, can you describe a little bit about the process by which we expanded the effort beyond our initial framing study to more toxins and then to a larger challenge set and then the results that we pursued and achieved?
-
-
-
-WITTMANN:&nbsp;Yeah, of course. So, you know, using machine learning lingo, you don&#8217;t want to overfit to a single example. So early on with this, as part of the framing study, we were able to show or I should say James and coworkers across the screening field were able to show that this could be patched, right. We needed to just make some changes to the tools,&nbsp;and we could at the very least detect ricin or reformulated versions of ricin.
-
-
-
-So the next step of course was then, OK, how generalizable are these patches? Can they detect other reformulated sequences, as well? So we had to expand the set of proteins that we had reformulated. We couldn&#8217;t just do 10s of thousands of ricins. We had to do 10s of thousands of name your other potentially hazardous …
-
-
-
-HORVITZ: I think we had 72, was it?
-
-
-
-WITTMANN:&nbsp;It was 72 in the end that we ended up at. I believe, James, it was you and maybe Jake, another one of the authors on the list … on the paper, who primarily put that list together &#8230;
-
-
-
-HORVITZ: This is Jacob Beal … Jacob Beal at Raytheon BBN.
-
-
-
-WITTMANN: I think James actually might be the better one to answer how this list was expanded.
-
-
-
-DIGGANS:&nbsp;Initially the focus [was] on ricin as a toxin so that list expanded to 62 sort of commonly controlled toxins that are subject to an export control restriction or other concern. And then on top of that, we added 10 viral proteins. So we didn&#8217;t really just want to look at toxins. We also wanted to look at viral proteins, largely because those proteins tend to have multiple functions. They have highly constrained structures. And so if we could work in a toxin context, could Paraphrase also do the same for viral proteins, as well.
-
-
-
-HORVITZ: And, Bruce, can you describe some about how we characterize the updates and the, we&#8217;ll say, the boost in capabilities of the patched screening tools?
-
-
-
-WITTMANN: So we had, like you said, Eric, 72 base proteins or template proteins. And for each of those, we had generated a few 100 to a couple thousand reformulated variants of them. The only way to really get any sense of validity of those sequences was to predict their structures. So we predicted protein structures for I think it was 70ish thousand protein structures in the end that we had to predict and score them using in silico metrics. So things like, how similar is this to that template, wild-type protein structure that we used as our conditioning information?
-
-
-
-We put them on a big grid. So we have two axes. We have on the x-axis—and this is a figure in our paper—the quality of the prediction. It&#8217;s essentially a confidence metric: how realistic is this protein sequence? And on the other axis is, how similar is the predicted structure of this variant to the original? And ultimately, what we were wanting to see was the proteins that scored well in both of those metrics, so that showed up in the top right of that diagram, were caught primarily, because these are again the ones that are most likely, having to say most likely, to retain function of the original.
-
-
-
-So when you compare the original tools—Tool Series A, right, the unpatched tools—what you&#8217;ll find is varying degrees of success in the top right. It varied by tool. But in some cases, barely anything being flagged as potentially hazardous. And so improvement is then in the next series—Series B, the patched version of tools—we have more flagged in that upper-right corner.
-
-
-
-HORVITZ: And we felt confident that we had a more AI-resilient screening solution across the companies, and, James, at this point, the whole team decided it was time to disclose the vulnerability as well as the patch details and pointers to where to go for the updated screening software and to communicate this to synthesis companies worldwide via the IGSC. This was probably July, I think, of 2024. What was that process like, and how did members respond?
-
-
-
-DIGGANS: I think members were really grateful and excited. To present to that group, to say, hey, this activity (a) has gone on, (b) was successful, and (c) was kept close hold until we knew how to mitigate this, I think everyone was really gratified by that and comforted by the fact that now they had kind of off-the-shelf solutions that they could use to improve their resilience against any incoming heavily engineered protein designs.
-
-
-
-HORVITZ: Thanks, James.
-
-
-
-Now, I know that we all understand this particular effort to be important but a piece of the biosecurity and AI problem. I&#8217;m just curious to … I’ll ask all three of you to just share some brief reflections.
-
-
-
-I know, Bruce, you&#8217;ve been on … you’ve stayed on this, and we’ve—all of us on the original team—have other projects going on that are pushing on the frontiers ahead of where we were with this paper when we published it.
-
-
-
-Let me start with Tessa in terms of, like, what new risks do you see emerging as AI accelerates and maybe couple that with thoughts about how do we proactively get ahead of them.
-
-
-
-ALEXANIAN: Yeah, I think with the Paraphrase’s work, as Bruce explained so well, you know, I sometimes use the metaphor of the previous response that the IGSC had to do, the synthesis screening community, where it used to be you could look for similarities to DNA sequences, and then everyone started doing synthetic biology where they were doing codon optimization so that proteins could express more efficiently in different host organisms, and now all of a sudden, well, you&#8217;ve scrambled your DNA sequence and it doesn&#8217;t look very similar even though your protein sequence actually still looks, you know, very similar or often the same once it&#8217;s been translated from DNA to protein, and so that was a, you know, many, many in the industry were already screening both DNA and protein, but they had to start screening … everybody had to start screening protein sequences even just to do the similarity testing as these codon optimization tools became universal.
-
-
-
-I feel like we&#8217;re, kind of, in a similar transition phase with protein-design, protein-rephrasing, tools where, you know, these tools are still in many cases drawing from the natural distribution of proteins. You know, I think some of the work we saw in, you know, designing novel CRISPR enzymes, you go, OK, yeah, it is novel; it&#8217;s very unlike any one CRISPR enzyme. But if you do a massive multiple sequence alignment of every CRISPR enzyme that we know about, you&#8217;re like, OK, this fits in the distribution of those enzymes. And so, you know, I think we&#8217;re not … we&#8217;re having to do a more flexible form of screening, where we look for things that are kind of within distribution of natural proteins.
-
-
-
-But I feel like broadly, all of the screening tools were able to respond by doing something like that. And I think &#8230; I still feel like the clock is ticking down on that and that as the AI tools get better at predicting function and designing, sort of, novel sequences to pursue a particular function, you know—you have tools now that can go from Gene Ontology terms to a potential structure or potential sequence that may again be much farther out of the distribution of natural protein—I think all of us on the screening side are going to have to be responding to that, as well.
-
-
-
-So I think I see this as a necessary ongoing engagement between people at the frontier of designing novel biology and people at the frontier of producing all of the materials that allow that novel biology to be tested in the lab. You know, I think this feels like the first, you know, detailed, comprehensive zero day disclosure and response. But I think that&#8217;s … I think we&#8217;re going to see more of those. And I think what I&#8217;m excited about doing at IBBIS is trying to encourage and set up more infrastructure so that you can, as an AI developer, disclose these new discoveries to the people who need to respond before the publication comes out.
-
-
-
-HORVITZ: Thank you, Tessa.
-
-
-
-The, the … Bruce, I mean, you and I are working on all sorts of dimensions. You&#8217;re leading up some efforts at Microsoft, for example, on the foundation model front and so on, among other directions. We&#8217;ve talked about new kinds of embedding models that might go beyond sequence and structure. Can you talk a little bit about just a few of the directions that just paint the larger constellation of the kinds of things that we talk about when we put our worry hats on?
-
-
-
-WITTMANN:&nbsp;I feel like that could have its own dedicated podcast, as well. There&#8217;s a lot … [LAUGHTER] there&#8217;s a lot to talk about.
-
-
-
-HORVITZ: Yeah. We want to make sure that we don&#8217;t tell the world that the whole problem is solved here.
-
-
-
-WITTMANN:&nbsp;Right, right, right. I think Tessa said it really, really well in that most of what we&#8217;re doing right now, it&#8217;s a variant on a known theme. I have to know the structure that does something bad to be able to pass it in as context. I have to know some existing sequence that does something bad to pass it in.
-
-
-
-And obviously the goal is to move away from that in benign applications, where when I&#8217;m designing something, I often want to design it because nothing exists [LAUGHS] that already does it. So we are going to be heading to this space where we don&#8217;t know what this protein does. It&#8217;s kind of a circular problem, right, where we&#8217;re going to need to be able to predict what some obscure protein sequence does in order to be able to still do our screening.
-
-
-
-Now, the way that I think about this, I often think about it beyond just DNA synthesis screening. It&#8217;s one line of defense, and there needs to be many lines of defense that come into play here that go beyond just relying on this one roadblock. It&#8217;s a very powerful roadblock. It&#8217;s a very powerful barrier. But we need to be proactively thinking about how we broaden the scope of defenses. And there are lots of conversations that are ongoing. I won&#8217;t go into the details of them. Again, that would be its own podcast.
-
-
-
-But primarily my big push—and I think this is emerging consensus in the field, though I don&#8217;t want to speak for everybody—is it needs to … any interventions we have need to come more at the systems level and less at the model level, primarily because this is such dual-use technology. If it can be used for good biological design, it can be used for bad biological design. Biology has no sense of morality. There is no bad protein. It&#8217;s just a protein.
-
-
-
-So we need to think about this differently than how we would maybe think about looking at the outputs of that image generator model that I spoke about earlier, where I can physically look at an image and say, don&#8217;t want my model producing that, do want my model producing that. I don&#8217;t have that luxury in this space. So it&#8217;s a totally different problem. It&#8217;s an evolving problem. Conversations are happening about it, but the work is very much not done.
-
-
-
-HORVITZ: And, James, I want to give you the same open question, but I&#8217;d like to apply what Bruce just said on system level and so on and in the spirit of the kind of things that you&#8217;re very much involved with internationally to also add to it, just get some comments on programs and policies that move beyond technical solutions for governance mechanisms—logging, auditing nucleic acid orders, transparency, various kinds—that might complement technical approaches like Paraphrase and their status today.
-
-
-
-DIGGANS: Yeah, I&#8217;m very gratified that Bruce said that we, the synthesis industry, should not be the sole bulwark against misuse. That is very comforting and correct.
-
-
-
-Yeah, so the US government published a guidance document in 2023 that essentially said you, the entire biotech supply chain, have a responsibility to make sure that you&#8217;re evaluating your customers. You should know your customer; you know that they&#8217;re legitimate. I think that&#8217;s an important practice.
-
-
-
-Export controls are designed to minimize the movement of equipment and materials that can be used in support of these kinds of misuse activities. And then governments have really been quite active in trying to incentivize, you know, sort of what we would think of as positive behavior, so screening, for example, in DNA synthesis companies. The US government created a framework in 2024, and it&#8217;s under a rewrite now to basically say US research dollars will only go to companies who make nucleic acid who do these good things. And so that is using, kind of, the government-funding carrot to, kind of, continue to build these layers of defense against potential misuse.
-
-
-
-HORVITZ: Thanks. Now, discussing risk, especially when it involves AI and biosecurity, isn&#8217;t always easy. As we&#8217;ve all been suggesting, some worry about alarming the public or arming bad actors. Others advocate for openness as a principle of doing science with integrity.
-
-
-
-A phase of our work as we prepared our paper was giving serious thought to both the benefits and the risks of transparency about what it was that we were doing. Some experts encouraged full disclosure as important for enhancing the science of biosecurity. Other experts, all experts, cautioned against what are called information hazards, the risk of sharing the details to enable malevolent actions with our findings or our approach.
-
-
-
-So we faced a real question: how can we support open science while minimizing the risk of misuse? And we took all the input we got, even if it was contradictory, very seriously. We carefully deliberated about a good balance, and even then, once we chose our balance and submitted our manuscript to Science, the peer reviewers came back and said they wanted some of the more sensitive details that we withheld with explanations as to why.
-
-
-
-So this provoked some thinking out of the box about a novel approach, and we came up with a perpetual gatekeeping strategy where requests for access to sensitive methods and data and even the software across different risk categories would be carefully reviewed by a committee and a process for access that would continue in perpetuity.
-
-
-
-Now, we brought the proposal to Tessa and her team at IBBIS—this is a great nonprofit group; look at their mission—and we worked with Tessa and her colleagues to refine a workable solution that was accepted by Science magazine as a new approach to handling information hazards as first demonstrated by our paper.
-
-
-
-So, Tessa, thank you again for helping us to navigate such a complex challenge. Can you share your perspective on information hazards? And then walk us through how our proposed system ensures responsible data and software sharing.
-
-
-
-ALEXANIAN: Yeah. And thanks, Eric.
-
-
-
-It&#8217;s all of the long discussions we had among the group of people on this podcast and the other authors on the paper and many people we engaged, you know, technical experts, people in various governments, you know, we heard a lot of contradictory advice.
-
-
-
-And I think it showed us that there isn&#8217;t a consensus right now on how to handle information hazards in biotechnology. You know, I think … I don&#8217;t want to overstate how much of a consensus there is in cybersecurity either. If you go to DEF CON, you&#8217;ll hear people about how they&#8217;ve been mistreated in their attempts to do responsible disclosure for pacemakers and whatnot. But I think we&#8217;re … we have even less of a consensus when it comes to handling biological information.
-
-
-
-You know, you have some people who say, oh, because the size of the consequences could be so catastrophic if someone, you know, releases an engineered flu or something, you know, we should just never share information about this. And then you have other people who say there&#8217;s no possibility of building defenses unless we share information about this. And we heard very strong voices with both of those perspectives in the process of conducting this study.
-
-
-
-And I think what we landed on that I&#8217;m really excited about and really excited to get feedback on now that the paper is out, you know, if you go and compare our preprint, which came out in December of 2024, and this paper in October 2025, you&#8217;ll see a lot of information got added back in.
-
-
-
-And I&#8217;m excited to see people&#8217;s reaction to that because even back in January 2025, talking with people who were signatories to the responsible biodesign commitments, they were really excited that this was such an empirically concrete paper because they&#8217;d maybe read a number of papers talking about biosecurity risks from AI that didn&#8217;t include a whole lot of data, you know, often, I think, because of concerns about information hazards. And they found the arguments in this paper are much more convincing because we are able to share data.
-
-
-
-So the process we underwent that I felt good about was trying to really clearly articulate, when we talk about an information hazard, what are we worried about being done with this data? And if we put this data in public, completely open source, does it shift the risk at all? You know, I think doing that kind of marginal contribution comparison is really important because it also let us make more things available publicly.
-
-
-
-But there were a few tiers of data that after a lot of discussion amongst the authors of the paper, we thought, OK, potentially someone who wanted to do harm, if they got access to this data, it might make it easier for them. Again, not necessarily saying it, you know, it opens the floodgates, but it might make it easier for them. And when we thought about that, we thought, OK, you know, giving all of those paraphrased protein sequences, maybe, maybe that, you know, compared to having to set up the whole pipeline with the open-source tools yourself, just giving you those protein sequences, maybe that makes your life a bit easier if you&#8217;re trying to do harm.
-
-
-
-And then we thought, OK, giving you those protein sequences plus whether or not they were successfully flagged, maybe that makes your life, you know, quite a bit easier. And then finally, we thought, OK, the code that we want to share with some people who might try to reproduce these results or might try to build new screening systems that are more robust, we want to share the code with them. But again, if you have that whole code pipeline just prepared for you, it might really help make your life easier if you&#8217;re trying to do harm.
-
-
-
-And so we, sort of, sorted the data into these three tiers and then went through a process actually very inspired by the existing customer screening processes in nucleic acid synthesis about how to determine, you know, we tried to take an approach not of what gets you in but what gets you out. You know, for the most part, we think it should be possible to access this data.
-
-
-
-You know, if you have an affiliation with a recognizable institution or some good explanation of why you don&#8217;t have one right now, you know, if you have a reason for accessing this data, it shouldn&#8217;t be too hard to meet those requirements, but we wanted to have some in place. And we wanted it to be possible to rule out some people from getting access to this data. And so we&#8217;ve tried to be extremely transparent about what those are. If you go through our data access process and for some reason you get rejected, you&#8217;ll get a list of, &#8220;Here&#8217;s the reasons we rejected you. If you don&#8217;t think that&#8217;s right, get back to us.&#8221;
-
-
-
-So I&#8217;m really excited to pilot this in part because I think, you know, we&#8217;re already in conversations with some other people handling potential bio-AI information hazard about doing a similar process for their data of, you know, tiering it, determining which gates to put in which tiers, but I really hope a number of people do get access through the process or if they try and they fail, they tell us why. Because I think as we move toward this world of potentially, you know, biology that is much easier to engineer, partly due to dual-use tools, you know, my dream is it&#8217;s, like, still hard to engineer harm with biology, even if it&#8217;s really easy to engineer biology. And I think these, kind of, new processes for managing access to things, this sort of like, you know, open but not completely public, I think those can be a big part of that layered defense.
-
-
-
-HORVITZ: Thanks, Tessa. So we&#8217;re getting close to closing, and I just thought I would ask each of you to just share some reflections on what we&#8217;ve learned, the process we&#8217;ve demonstrated, the tools, the policy work that we did, this idea of facing the dual-use dilemma with … even at the information hazard level, with sharing information versus withholding it. What do you think about how our whole end to end of the study, now reaching the two-year point, can help other fields facing dual-use dilemmas?
-
-
-
-Tessa, Bruce, James … James, have you ever thought about that? And we&#8217;ll go to Bruce and then Tessa.
-
-
-
-DIGGANS:&nbsp;Yeah, I think it was an excellent model. I would like to see a study like this repeated on a schedule, you know, every six months because from where I sit, you know, the tools that we used for this project are now two years old. And so capabilities have moved on. Is the picture the same in terms of defensive capability? And so using that model over time, I think, would be incredibly valuable. And then using the findings to chart, you know, how much should we be investing in alternative strategies for this kind of risk mitigation for AI tool … the products of AI tools?
-
-
-
-HORVITZ: Bruce.
-
-
-
-WITTMANN:&nbsp;Yeah, I think I would extend on what James said. The anecdote I like to point out about this project is, kind of, our schedule. We found the vulnerability and it was patched within a week, two weeks, on all major synthesis screening platforms. We wrote the paper within a month. We expanded on the paper within two months, and then we spent a year and a half to nearly two years [LAUGHS] trying to figure out what goes into the paper; how do we release this information; you know, how do we do this responsibly?
-
-
-
-And my hope is similar to what James said. We&#8217;ve made it easier for others to do this type of work. Not this exact work; it doesn&#8217;t have to necessarily do with proteins. But to do this type of work where you are dealing with potential hazards but there is also value in sharing and that hopefully that year and a half we spent figuring out how to appropriately share and what to share will not be a year and a half for other teams because these systems are in place or at least there is an example to follow up from. So that&#8217;s my takeaway.
-
-
-
-HORVITZ: Tessa, bring us home—bring us home! [LAUGHS]
-
-
-
-ALEXANIAN: Bring us home! Let&#8217;s do it faster next time. [LAUGHTER] Come talk to any of us if you&#8217;re dealing with this kind of stuff. You know, I think IBBIS, especially, we want to be a partner for building those layers of defense and, you know, having ripped out our hair as a collective over the past year and a half about the right process to follow here, I think we all really hope it&#8217;ll be faster next time.
-
-
-
-And I think, you know, the other thing I would encourage is if you&#8217;re an AI developer, I would encourage you to think about how your tool can strengthen screening and strengthen recognition of threats.
-
-
-
-I know James and I have talked before about how, you know, our Google search alerts each week send us dozens of cool AI bio papers, and it&#8217;s more like once a year or maybe once every six months, if we&#8217;re lucky, that we get something that&#8217;s like applying AI bio to biosecurity. So, you know, if you&#8217;re interested in these threats, I think we&#8217;d love to see more work that&#8217;s directly applied to facing these threats using the most modern technology.
-
-
-
-HORVITZ: Well said.
-
-
-
-Well, Bruce, James, Tessa, thank you so much for joining me today and for representing the many collaborators, both coauthors and beyond, who made this project possible.
-
-
-
-It&#8217;s been a true pleasure to work with you. I&#8217;m so excited about what we&#8217;ve accomplished, the processes and the models that we&#8217;re now sharing with the world. And I&#8217;m deeply grateful for the collective intelligence and dedication that really powered the effort from the very beginning. So thanks again.
-
-
-
-[MUSIC]
-
-
-
-WITTMANN: Thanks, Eric.
-
-
-
-DIGGANS: Thank you.
-
-
-
-ALEXANIAN: Thank you.
-
-
-
-[MUSIC FADES]
-
-				
-			
-			
-				Show more			
-		
-	
-
-
-
-
-
-
-
-
-[1] The original organization was founded in 2009 and became the International Gene Synthesis Consortium in 2010.
-Opens in a new tabThe post Ideas: More AI-resilient biosecurity with the Paraphrase Project appeared first on Microsoft Research.
-• When AI Meets Biology: Promise, Risk, and Responsibility
-  Advances in AI are opening extraordinary frontiers in biology. AI-assisted protein engineering holds the promise of new medicines, materials, and breakthroughs in scientific understandings. Yet these same technologies also introduce biosecurity risks and may lower barriers to designing harmful toxins or pathogens. This “dual-use” potential, where the same knowledge can be harnessed for good or misuse to cause harm, poses a critical dilemma for modern science.
-
-
-
-Great Promise—and Potential Threat
-
-
-
-I’m excited about the potential for AI-assisted protein design to drive breakthroughs in biology and medicine. At the same time, I’ve also studied how these tools could be misused. In computer-based studies, we found that AI protein design (AIPD) tools could generate modified versions of proteins of concern, such as ricin. Alarmingly, these reformulated proteins were able to evade the biosecurity screening systems used by DNA synthesis companies, which scientists rely on to synthesize AI-generated sequences for experimental use. 
-
-
-
-In our paper published in Science on October 2, “Strengthening nucleic acid biosecurity screening against generative protein design tools (opens in new tab),” we describe a two-year confidential project we began in late 2023 while preparing a case study for a workshop on AI and biosecurity.
-
-
-
-We worked confidentially with partners across organizations and sectors for 10 months to develop AI biosecurity “red-teaming” methods that allowed us to better understand vulnerabilities and craft practical solutions—&#8221;patches” that have now been adopted globally, making screening systems significantly more AI-resilient.
-
-
-
-Summary of AIPD red-teaming workflow.
-
-
-
-For structuring, methods, and process in our study, we took inspiration from the cybersecurity community, where “zero-day” vulnerabilities are kept confidential until a protective patch is developed and deployed. Following the acknowledgment by a small group of workshop attendees of a zero-day for AI in biology, we worked closely with stakeholders—including synthesis companies, biosecurity organizations, and policymakers—to rapidly create and distribute patches that improved detection of AI-redesigned protein sequences. We delayed public disclosure until protective measures were in place and widely adopted.
-
-
-
-Dilemma of Disclosure
-
-
-
-The dual use dilemma also complicates how we share information about vulnerabilities and safeguards. Across AI and other fields, researchers face a core question: 
-
-
-
-
-How can scientists share potentially risk-revealing methods and results in ways that enable progress without offering a roadmap for misuse?
-
-
-
-
-We recognized that our work itself—detailing methods and failure modes—could be exploited by malicious actors if published openly. To guide decisions about what to share, we held a multi-stakeholder deliberation involving government agencies, international biosecurity organizations, and policy experts. Opinions varied: some urged full transparency to maximize reproducibility—and to help others to build on our work; others stressed restraint to minimize risk. It was clear that a new model of scientific communication was needed, one that could balance openness and security.
-
-
-
-The Novel Framework
-
-
-
-The risk of sharing dangerous information through biological research has become a growing concern. We have participated in community-wide discussion on the challenges, including a recent National Academies of Science, Engineering, and Medicine workshop and study.&nbsp;
-
-
-
-In preparing our manuscript for publication, we worked on designing a process to limit the spread of dangerous information while still enabling scientific progress.&nbsp;
-
-
-
-To address the dual challenges, we devised a tiered access system for data and methods, implemented in partnership with the International Biosecurity and Biosafety Initiative for Science (IBBIS) (opens in new tab), a nonprofit dedicated to advancing science while reducing catastrophic risks. The system works as follows:
-
-
-
-
-Controlled access: Researchers can request access through IBBIS, providing their identity, affiliation, and intended use. Requests are reviewed by an expert biosecurity committee, ensuring that only legitimate scientists conducting relevant research gain access.
-
-
-
-Stratified tiers of information: Data and code are classified into several tiers according to their potential hazard, from low-risk summaries through sensitive technical data to critical software pipelines.
-
-
-
-Safeguards and agreements: Approved users sign tailored usage agreements, including non-disclosure terms, before receiving data.
-
-
-
-Resilience and longevity: Provisions are built in for declassification when risks subside, and for succession of stewardship to trusted organizations should IBBIS be unable to continue its operation.
-
-
-
-
-This framework allows replication and extension of our work while guarding against misuse. Rather than relying on secrecy, it provides a durable system of responsible access.
-
-
-
-To ensure continued funding for the storage and responsible distribution of sensitive data and software, and for the operation of the sharing program, we provided an endowment to IBBIS to support the program in perpetuity. This approach was modeled after the One Hundred Year Study on AI at Stanford, which is endowed to continue for the life of the university.
-
-
-
-An Important Step in Scientific Publishing
-
-
-
-We are pleased that the leadership at Science accepted our approach to handling information hazards. To our knowledge, this is the first time a leading scientific journal has formally endorsed a tiered-access approach to manage an information hazard. This recognition validates the idea that rigorous science and responsible risk management can coexist—and that journals, too, can play a role in shaping how sensitive knowledge is shared. We acknowledge the visionary leadership at Science, including editors, Michael Funk and Valda Vinson, and Editor-in-Chief, Holden Thorp.
-
-
-
-Beyond Biology: A Model for Sensitive Research
-
-
-
-While developed for AI-powered protein design, our approach offers a generalizable model for dual-use research of concern (DURC) across disciplines. Whether in biology, chemistry, or emerging technologies, scientists will increasingly confront situations where openness and security pull in opposite directions. Our experience shows that these values can be balanced: with creativity, coordination, and new institutional mechanisms, science can uphold both reproducibility and responsibility.
-
-
-
-We hope this framework becomes a template for future projects, offering a way forward for researchers who wish to share their insights without amplifying risks. By embedding resilience into how knowledge is communicated—not just what is communicated—we can ensure that scientific progress continues to serve humanity safely.
-
-
-
-The responsible management of information hazards is no longer a peripheral concern: it is central to how science will advance in the age of powerful technologies like AI. This approach to managing information hazards demonstrates a path forward, where novel frameworks for access and stewardship allow sensitive but vital research to be shared, scrutinized, and extended responsibly. Approaches like this will be critical to ensuring that scientific openness and societal safety advance hand-in-hand.
-
-
-
-
-
-
-
-Additional reading
-
-
-
-Strengthening nucleic acid biosecurity screening against generative protein design tools.
-
-
-
-The Age of AI in the Life Sciences: Benefits and Biosecurity Considerations, National Academies of Science, Engineering, and Medicine, 2025. (opens in new tab)
-
-
-
-Disseminating In Silico and Computational Biological Research: Navigating Benefits and Risks: Proceedings of a Workshop, National Academies of Science, Engineering, and Medicine, 2025. (opens in new tab)
-
-
-
-Protecting scientific integrity in an age of generative AI, Proceedings of the National Academy of Science, 2024. (opens in new tab)
-Opens in a new tabThe post When AI Meets Biology: Promise, Risk, and Responsibility appeared first on Microsoft Research.
 • Use Amazon SageMaker HyperPod and Anyscale for next-generation distributed computing
   This post was written with Dominic Catalano from Anyscale. 
 Organizations building and deploying large-scale AI models often face critical infrastructure challenges that can directly impact their bottom line: unstable training clusters that fail mid-job, inefficient resource utilization driving up costs, and complex distributed computing frameworks requiring specialized expertise. These factors can lead to unused GPU hours, delayed projects, and frustrated data science teams. This post demonstrates how you can address these challenges by providing a resilient, efficient infrastructure for distributed AI workloads. 
@@ -2018,5 +1155,269 @@ About the Authors
    
     
    Cyril Ovely, CTO and co-founder of Vxceed Software Solutions, leads the company’s SaaS-based logistics solutions for CPG brands. With 33 years of experience, including 22 years at Vxceed, he previously worked in analytical and process control instrumentation. An engineer by training, Cyril architects Vxceed’s SaaS offerings and drives innovation from his base in Auckland, New Zealand.
+• Implement a secure MLOps platform based on Terraform and GitHub
+  Machine learning operations (MLOps) is the combination of people, processes, and technology to productionize ML use cases efficiently. To achieve this, enterprise customers must develop MLOps platforms to support reproducibility, robustness, and end-to-end observability of the ML use case’s lifecycle. Those platforms are based on a multi-account setup by adopting strict security constraints, development best practices such as automatic deployment using continuous integration and delivery (CI/CD) technologies, and permitting users to interact only by committing changes to code repositories. For more information about MLOps best practices, refer to the MLOps foundation roadmap for enterprises with Amazon SageMaker. 
+Terraform by HashiCorp has been embraced by many customers as the main infrastructure as code (IaC) approach to develop, build, deploy, and standardize AWS infrastructure for multi-cloud solutions. Furthermore, development repositories and CI/CD technologies such as GitHub and GitHub Actions, respectively, have been adopted widely by the DevOps and MLOps community across the world. 
+In this post, we show how to implement an MLOps platform based on Terraform using GitHub and GitHub Actions for the automatic deployment of ML use cases. Specifically, we deep dive on the necessary infrastructure and show you how to utilize custom Amazon SageMaker Projects templates, which contain example repositories that help data scientists and ML engineers deploy ML services (such as an Amazon SageMaker endpoint or batch transform job) using Terraform. You can find the source code in the following GitHub repository. 
+Solution overview 
+The MLOps architecture solution creates the necessary resources to build a comprehensive training pipeline, registering the models in the Amazon SageMaker Model Registry, and its deployment to preproduction and production environments. This foundational infrastructure enables a systematic approach to ML operations, providing a robust framework that streamlines the journey from model development to deployment. 
+The end-users (data scientists or ML engineers) will select the organization SageMaker Project template that fits their use case. SageMaker Projects helps organizations set up and standardize developer environments for data scientists and CI/CD systems for MLOps engineers. The project deployment creates, from the GitHub templates, a GitHub private repository and CI/CD resources that data scientists can customize according to their use case. Depending on the chosen SageMaker project, other project-specific resources will also be created. 
+ 
+Custom SageMaker Project template 
+SageMaker projects deploys the associated AWS CloudFormation template of the AWS Service Catalog product to provision and manage the infrastructure and resources required for your project, including the integration with a source code repository. 
+At the time of writing, four custom SageMaker Projects templates are available for this solution: 
+ 
+ MLOps template for LLM training and evaluation – An MLOps pattern that shows a simple one-account Amazon SageMaker Pipelines setup for large language models (LLMs) This template supports fine-tuning and evaluation. 
+ MLOps template for model building and training – An MLOps pattern that shows a simple one-account SageMaker Pipelines setup. This template supports model training and evaluation. 
+ MLOps template for model building, training, and deployment – An MLOps pattern to train models using SageMaker Pipelines and deploy the trained model into preproduction and production accounts. This template supports real-time inference, batch inference pipelines, and bring-your-own-containers (BYOC). 
+ MLOps template for promoting the full ML pipeline across environments – An MLOps pattern to show how to take the same SageMaker pipeline across environments from dev to prod. This template supports a pipeline for batch inference. 
+ 
+Each SageMaker project template has associated GitHub repository templates that are cloned to be used for your use case: 
+ 
+ 
+ MLOps template for LLM training and evaluation – Associated with the LLM training repository. 
+ MLOps template for model building and training – Associated with the model training repository. 
+ MLOps template for model building, training, and deployment – Associated with the BYOC repository (optional), model training repository, and real time inference repository or batch inference repository. 
+ MLOps template for promoting the full ML pipeline across environments – Associated with pipeline promotion repository. 
+ 
+When a custom SageMaker project is deployed by a data scientist, the associated GitHub template repositories are cloned through an invocation of the AWS Lambda function &lt;prefix&gt;_clone_repo_lambda, which creates a new GitHub repository for your project. 
+ 
+Infrastructure Terraform modules 
+The Terraform code, found under base-infrastructure/terraform, is structured with reusable modules that are used across different deployment environments. Their instantiation will be found for each environment under base-infrastructure/terraform/&lt;ENV&gt;/main.tf. There are seven key reusable modules: 
+ 
+ KMS – Creates an AWS Key Management Service (AWS KMS) key 
+ Lambda – Creates a Lambda function and Amazon CloudWatch log group 
+ Networking – Creates a virtual private cloud (VPC), various subnets, security group, NAT gateway, internet gateway, route table and routes, and multiple VPC endpoints for the networking setup for Amazon SageMaker Studio 
+ S3 – Creates an Amazon Simple Storage Service (Amazon S3) bucket 
+ SageMaker – Creates SageMaker Studio and SageMaker users 
+ SageMaker Roles – Creates AWS Identity and Access Management (IAM) roles for SageMaker Studio 
+ Service Catalog – Creates Service Catalog products from a CloudFormation template 
+ 
+There are also some environment-specific resources, which can be found directly under base-infrastructure/terraform/&lt;ENV&gt;. 
+ 
+Prerequisites 
+Before you start the deployment process, complete the following three steps: 
+ 
+ Prepare AWS accounts to deploy the platform. We recommend using three AWS accounts for three typical MLOps environments: experimentation, preproduction, and production. However, you can deploy the infrastructure to just one account for testing purposes. 
+ Create a GitHub organization. 
+ Create a personal access token (PAT). It is recommended to create a service or platform account and use its PAT. 
+ 
+Bootstrap your AWS accounts for GitHub and Terraform 
+Before we can deploy the infrastructure, the AWS accounts you have vended need to be bootstrapped. This is required so that Terraform can manage the state of the resources deployed. Terraform backends enable secure, collaborative, and scalable infrastructure management by streamlining version control, locking, and centralized state storage. Therefore, we deploy an S3 bucket and Amazon DynamoDB table for storing states and locking consistency checking. 
+Bootstrapping is also required so that GitHub can assume a deployment role in your account, therefore we deploy an IAM role and OpenID Connect (OIDC) identity provider (IdP). As an alternative to employing long-lived IAM user access keys, organizations can implement an OIDC IdP within your AWS account. This configuration facilitates the utilization of IAM roles and short-term credentials, enhancing security and adherence to best practices. 
+You can choose from two options to bootstrap your account: a bootstrap.sh Bash script and a bootstrap.yaml CloudFormation template, both stored at the root of the repository. 
+Bootstrap using a CloudFormation template 
+Complete the following steps to use the CloudFormation template: 
+ 
+ Make sure the AWS Command Line Interface (AWS CLI) is installed and credentials are loaded for the target account that you want to bootstrap. 
+ Identify the following: 
+   
+   Environment type of the account: dev, preprod, or prod. 
+   Name of your GitHub organization. 
+   (Optional) Customize the S3 bucket name for Terraform state files by choosing a prefix. 
+   (Optional) Customize the DynamoDB table name for state locking. 
+    
+ Run the following command, updating the details from Step 2: 
+ 
+ 
+ # Update
+export ENV=xxx
+export GITHUB_ORG=xxx
+# Optional
+export TerraformStateBucketPrefix=terraform-state
+export TerraformStateLockTableName=terraform-state-locks
+
+aws cloudformation create-stack \
+  --stack-name YourStackName \
+  --template-body file://bootstrap.yaml \
+  --capabilities CAPABILITY_IAM CAPABILITY_NAMED_IAM \
+  --parameters ParameterKey=Environment,ParameterValue=$ENV \
+               ParameterKey=GitHubOrg,ParameterValue=$GITHUB_ORG \
+               ParameterKey=OIDCProviderArn,ParameterValue="" \
+               ParameterKey=TerraformStateBucketPrefix,ParameterValue=$TerraformStateBucketPrefix \
+               ParameterKey=TerraformStateLockTableName,ParameterValue=$TerraformStateLockTableName 
+ 
+Bootstrap using a Bash script 
+Complete the following steps to use the Bash script: 
+ 
+ Make sure the AWS CLI is installed and credentials are loaded for the target account that you want to bootstrap. 
+ Identify the following: 
+   
+   Environment type of the account: dev, preprod, or prod. 
+   Name of your GitHub organization. 
+   (Optional) Customize the S3 bucket name for Terraform state files by choosing a prefix. 
+   (Optional) Customize the DynamoDB table name for state locking. 
+    
+ Run the script (bash ./bootstrap.sh) and input the details from Step 2 when prompted. You can leave most of these options as default. 
+ 
+If you change the TerraformStateBucketPrefix or TerraformStateLockTableName parameters, you must update the environment variables (S3_PREFIX and DYNAMODB_PREFIX) in the deploy.yml file to match. 
+Set up your GitHub organization 
+In the final step before infrastructure deployment, you must configure your GitHub organization by cloning code from this example into specific locations. 
+Base infrastructure 
+Create a new repository in your organization that will contain the base infrastructure Terraform code. Give your repository a unique name, and move the code from this example’s base-infrastructure folder into your newly created repository. Make sure the .github folder is also moved to the new repository, which stores the GitHub Actions workflow definitions. GitHub Actions make it possible to automate, customize, and execute your software development workflows right in your repository. In this example, we use GitHub Actions as our preferred CI/CD tooling. 
+Next, set up some GitHub secrets in your repository. Secrets are variables that you create in an organization, repository, or repository environment. The secrets that you create are available to use in our GitHub Actions workflows. Complete the following steps to create your secrets: 
+ 
+ Navigation to the base infrastructure repository. 
+ Choose Settings, Secrets and Variables, and Actions. 
+ Create two secrets: 
+   
+   AWS_ASSUME_ROLE_NAME – This is created in the bootstrap script with the default name aws-github-oidc-role, and should be updated in the secret with whichever role name you choose. 
+   PAT_GITHUB – This is your GitHub PAT token, created in the prerequisite steps. 
+    
+ 
+Template repositories 
+The template-repos folder of our example contains multiple folders with the seed code for our SageMaker Projects templates. Each folder should be added to your GitHub organization as a private template repository. Complete the following steps: 
+ 
+ Create the repository with the same name as the example folder, for every folder in the template-repos directory. 
+ Choose Settings in each newly created repository. 
+ Select the Private Template option. 
+ 
+Make sure you move all the code from the example folder to your private template, including the .github folder. 
+Update the configuration file 
+At the root of the base infrastructure folder is a config.json file. This file enables the multi-account, multi-environment mechanism. The example JSON structure is as follows: 
+ 
+ {
+  "environment_name": {
+    "region": "X",
+    "dev_account_number": "XXXXXXXXXXXX",
+    "preprod_account_number": "XXXXXXXXXXXX",
+    "prod_account_number": "XXXXXXXXXXXX"
+  }
+} 
+ 
+For your MLOps environment, simply change the name of environment_name to your desired name, and update the AWS Region and account numbers accordingly. Note the account numbers will correspond to the AWS accounts you bootstrapped. This config.json permits you to vend as many MLOps platforms as you desire. To do so, simply create a new JSON object in the file with the respective environment name, Region, and bootstrapped account numbers. Then locate the GitHub Actions deployment workflow under .github/workflows/deploy.yaml and add your new environment name inside each list object in the matrix key. When we deploy our infrastructure using GitHub Actions, we use a matrix deployment to deploy to all our environments in parallel. 
+Deploy the infrastructure 
+Now that you have set up your GitHub organization, you’re ready to deploy the infrastructure into the AWS accounts. Changes to the infrastructure will deploy automatically when changes are made to the main branch, therefore when you make changes to the config file, this should trigger the infrastructure deployment. To launch your first deployment manually, complete the following steps: 
+ 
+ Navigate to your base infrastructure repository. 
+ Choose the Actions tab. 
+ Choose Deploy Infrastructure. 
+ Choose Run Workflow and choose your desired branch for deployment. 
+ 
+This will launch the GitHub Actions workflow for deploying the experimentation, preproduction, and production infrastructure in parallel. You can visualize these deployments on the Actions tab. 
+Now your AWS accounts will contain the necessary infrastructure for your MLOps platform. 
+End-user experience 
+The following demonstration illustrates the end-user experience. 
+
+ 
+  
+ 
+ 
+Clean up 
+To delete the multi-account infrastructure created by this example and avoid further charges, complete the following steps: 
+ 
+ In the development AWS account, manually delete the SageMaker projects, SageMaker domain, SageMaker user profiles, Amazon Elastic File Service (Amazon EFS) storage, and AWS security groups created by SageMaker. 
+ In the development AWS account, you might need to provide additional permissions to the launch_constraint_role IAM role. This IAM role is used as a launch constraint. Service Catalog will use this permission to delete the provisioned products. 
+ In the development AWS account, manually delete the resources like repositories (Git), pipelines, experiments, model groups, and endpoints created by SageMaker Projects. 
+ For preproduction and production AWS accounts, manually delete the S3 bucket ml-artifacts-&lt;region&gt;-&lt;account-id&gt; and the model deployed through the pipeline. 
+ After you complete these changes, trigger the GitHub workflow for destroying. 
+ If the resources aren’t deleted, manually delete the pending resources. 
+ Delete the IAM user that you created for GitHub Actions. 
+ Delete the secret in AWS Secrets Manager that stores the GitHub personal access token. 
+ 
+Conclusion 
+In this post, we walked through the process of deploying an MLOps platform based on Terraform and using GitHub and GitHub Actions for the automatic deployment of ML use cases. This solution effectively integrates four custom SageMaker Projects templates for model building, training, evaluation and deployment with specific SageMaker pipelines. In our scenario, we focused on deploying a multi-account and multi-environment MLOps platform. For a comprehensive understanding of the implementation details, visit the GitHub repository. 
+ 
+About the authors 
+Jordan Grubb is a DevOps Architect at AWS, specializing in MLOps. He enables AWS customers to achieve their business outcomes by&nbsp;delivering automated, scalable, and secure cloud architectures. Jordan is also an inventor, with two patents within software engineering. Outside of work, he enjoys playing most sports, traveling, and has a passion for health and wellness. 
+Irene Arroyo Delgado is an AI/ML and GenAI Specialist Solution at AWS. She focuses on bringing out the potential of generative AI for each use case and productionizing ML workloads, to achieve customers’ desired business outcomes by automating end-to-end ML lifecycles. In her free time, Irene enjoys traveling and hiking.
+• Automate Amazon QuickSight data stories creation with agentic AI using Amazon Nova Act
+  Amazon QuickSight data stories support global customers by transforming complex data into interactive narratives for faster decisions. However, manual creation of multiple daily data stories consumes significant time and resources, delaying critical decisions and preventing teams from focusing on valuable analysis. 
+Each organization has multiple business units, and each business unit creates and operates multiple dashboards based on specific reporting requirements. Users create various data stories from these dashboards according to their needs. Currently, data story creation is a manual process that consumes significant time because users need to develop multiple narratives. By automating this process, organizations can dramatically improve productivity, so users can redirect their time toward making data-driven decisions. 
+In this post, we demonstrate how Amazon Nova Act automates QuickSight data story creation, saving time so you can focus on making critical, data-driven business decisions. 
+Amazon Nova Act modernizes web browser automation, which helps in performing complex, real-world tasks through web interfaces. Unlike traditional large language models (LLMs) focused on conversation, Amazon Nova Act emphasizes action-oriented capabilities by breaking down complex tasks into reliable atomic commands. This transformative technology advances autonomous automation with minimal human supervision, making it particularly valuable for business productivity and IT operations. 
+QuickSight data stories transform complex data into interactive presentations that guide viewers through insights. It automatically combines visualizations, text, and images to bridge the gap between analysts and stakeholders, helping organizations communicate data effectively and make faster decisions while maintaining professional standards. 
+With the automation capabilities of Amazon Nova Act, you can automatically generate data stories, reducing time-consuming manual efforts. Using browser automation, Amazon Nova Act seamlessly interacts with QuickSight to create customized data narratives. By combining the automation of Amazon Nova Act with the robust visualization capabilities of QuickSight, you can minimize repetitive tasks and accelerate data-driven decision-making across teams. 
+Solution overview 
+In our solution, QuickSight transforms complex data into interactive narratives through data stories, enabling faster decisions. Amazon Nova Act transforms web browser automation by enabling AI agents to execute complex tasks autonomously, streamlining operations for enhanced business productivity. 
+Prompt best practices 
+Amazon Nova Act achieves optimal results by breaking down prompts into distinct act() calls, similar to providing step-by-step instructions. At the time of writing, this is the recommended approach for building repeatable, reliable, simple-to-maintain workflows. In this section, we discuss some prompt best practices. 
+First, be prescriptive and succinct in what the agent should do. For example, don’t use the following code: 
+nova.act("Select the SaaS-Sales dataset") 
+We recommend the following prompt instead: 
+nova.act("Click on Datasets option on the left-hand side and then select SaaS-Sales dataset ") 
+Additionally, we recommend breaking up large actions into smaller ones. For example, don’t use the following code: 
+nova.act("Publish dashboard as ‘test-dashboard’") 
+The following prompt is broken up into separate actions: 
+nova.act("select Analyses on the left-hand side”) 
+nova.act("select the ‘SaaS-Sales analysis’ ") 
+nova.act("select ‘PUBLISH’ from the top right-hand corner") 
+nova.act("In the 'Publish dashboard' dialog box, locate the input field labeled 'Dashboard name'. Enter 'test_dashboard' into this field”) 
+nova.act(“Select PUBLISH DASHBOARD”) 
+Prerequisites 
+The following prerequisites are needed to create and publish a QuickSight data story using Amazon Nova Act: 
+ 
+ An API key for authentication. To generate an API key, refer to Amazon Nova Act. 
+ For Amazon Nova Act prerequisites and installation instructions, refer to the GitHub repo. 
+ A Pro user (author or reader) to create QuickSight data stories. 
+ A published QuickSight dashboard containing the visuals required for your QuickSight data story. 
+ 
+For Windows users, complete the following setup and installation steps in Windows PowerShell: 
+ 
+ Create a virtual environment: python -m venv venv. 
+ Activate the virtual environment: venv\Scripts\activate 
+ Set your API key as an environment variable: $Env:NOVA_ACT_API_KEY="your_api_key" 
+ Install Amazon Nova Act: pip install nova-act 
+ To run a script (Python file), use the following command, and specify the script name you want to run: python &lt;script_name&gt;.py 
+ 
+To keep it simple, we have hardcoded some of the values. You can implement programming logic using Python features to accept these values as input parameters. 
+There are multiple ways to write prompts. In the following sections, we provide examples demonstrating how to automate QuickSight data story creation and distribution. 
+Setup 
+Run the following code to import the NovaAct class from the nova_act module, create an Amazon Nova instance beginning at the QuickSight login page, and initiate an automated browser session: 
+ 
+ from nova_act import NovaAct
+
+nova = NovaAct(starting_page="https://quicksight.aws.amazon.com/")
+
+nova.start()
+ 
+ 
+Sign in with credentials After you have opened the QuickSight login page, complete the following steps to log in with your credentials: 
+ 
+ Enter your QuickSight account name and choose Next. (Specify the QuickSight account name in the following code, or implement programming logic to handle it as an input parameter.) nova.act("enter QuickSight account name &lt;Account Name&gt; and select Next") 
+ Enter your user name and move to the password field. (You can configure the user name as an input parameter using programming logic.) nova.act("Enter username and click on the password field") 
+ Collect the password from the command line and enter it using Playwright: nova.page.keyboard.type(getpass()) 
+ Now that user name and password are filled in, choose Sign in. nova.act("Click Sign in") 
+ 
+If the agent is unable to focus on the page element (in this case, the password field), you can use the following code: 
+nova.act("enter '' in the password field") 
+nova.page.keyboard.type(getpass()) 
+Create a new data story On the QuickSight console, choose Data stories in the navigation pane: 
+nova.act("Select Data stories on the left side menu") 
+nova.act("Select NEW DATA STORY"). 
+ 
+To build the data story, you must complete the following steps: 
+ 
+ Describe the data story 
+ Select visuals from the dashboard 
+ Build the data story 
+ 
+nova.act("Please enter ‘Country wide sales data story’ into the 'Describe your data story' field and Click on + ADD") 
+nova.act("select all the visuals and select BUILD") 
+time.sleep(300) 
+ 
+In this example, the script defaults to a single dashboard (Demo Dashboard). For multiple dashboards, include a prompt to select the specific dashboard and its visuals for the data story. Additionally, you can describe the data story according to your requirements. If there are multiple visuals, you can select the ones you want to include as part of the data story. Adjust the time.sleep duration based on dashboard data volume and the number of visuals being compiled. 
+To view your data story, choose Data stories in the navigation pane and choose your data story. 
+ 
+Clean up 
+Complete the following steps to delete the data story you created: 
+ 
+ Sign in to the QuickSight console. 
+ Choose Data stories in the navigation pane. 
+ Find the data story you want to delete. 
+ Choose the options menu icon (three dots) next to the story. 
+ Choose Delete from the dropdown menu. 
+ 
+Conclusion 
+In this post, we demonstrated how to create a QuickSight data story using Amazon Nova Act prompts. This solution showcases how Amazon Nova Act simplifies task automation, significantly boosting productivity and saving valuable time. 
+To learn more about Amazon Nova Act and QuickSight data stories, check out the following resources: 
+ 
+ Amazon Nova Act GitHub repo 
+ Introducing Amazon Nova Act 
+ Working with data stories in Amazon QuickSight 
+ 
+ 
+About the author 
+Satish Bhonsle is a Senior Technical Account Manager at AWS. He is passionate about customer success and technology. He loves working backwards by quickly understanding strategic customer objectives, aligning them to software capabilities and effectively driving customer success.
 
 ⸻
