@@ -1,17 +1,17 @@
-✅ Morning News Briefing – October 14, 2025 10:45
+✅ Morning News Briefing – October 15, 2025 10:46
 
-📅 Date: 2025-10-14 10:45
+📅 Date: 2025-10-15 10:46
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  8.6°C
-  Temperature: 8.6&deg;C Pressure / Tendency: 102.3 kPa falling Humidity: 96 % Humidity is 96 % Dewpoint: 8 .0&deg:C Wind: W 4 km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Tuesday 14 October 2025 . Weather forecast: 10/11
-• Tuesday: A mix of sun and cloud. High 19.
-  Fog patches dissipating this morning . Wind becoming northwest 30 km/h this afternoon . A mix of sun and cloud with a mix of rain and wind . High 19. UV index 4 or moderate . Forecast issued 5:00 AM EDT Tuesday 14 October 2025 . Weather forecast: Sunny and sunny with a high of 19.5 degrees in the morning of Tuesday 14.10am .
-• Tuesday night: Chance of showers. Low plus 2. POP 30%
-  Clear this evening then partly cloudy with 30 percent chance of showers before morning . Wind north 30 km/h gusting to 50 mph . Low plus 2.50°F is expected to be the coldest night of the year . Forecast issued 5:00 AM EDT Tuesday 14 October 2025 . Weather forecasters predict temperatures will drop to minus 2°F in the early hours of Tuesday
+• Current Conditions:  6.5°C
+  Temperature: 6.5&deg;C Pressure / Tendency: 102.4 kPa rising Humidity: 62 % Dewpoint: -0.2&deg:C Wind: NNW 14 km/h Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Wednesday 15 October 2025 Temperature: . Temperature:  6.5/
+• Wednesday: Mainly sunny. High 11.
+  Clearing. Clearing . Wind northwest 20 km/h gusting to 40 . High 11. UV index 3 or moderate . Clearing and sunny sunny skies. Wind gusts to 40 mph in some areas . Forecast issued 5:00 AM EDT Wednesday 15 October 2025 . Weather forecast: Thursday, Friday, Saturday, Sunday, October 15, and Friday, October 16, 2025
+• Wednesday night: Clear. Low zero.
+  Clear. Clear . Wind north 30 km/h becoming light after midnight . Low zero. Clear. Low zero . Clear. High winds north 30km/h . Low winds will be windy. Low winds north to 40km/hr . Forecast issued 5:00 AM EDT Wednesday 15 October 2025. Low wind gusts could gust up to 40 km/hr. Forecast
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Data centers are booming. But there are big energy and environmental risks
-  How tech companies and government officials handle local impacts will shape the industry's future in the U.S. The tech industry will continue to grow in the United States as a result of local impacts on the economy . Tech companies and officials will be looking to shape the future of the tech industry in the country, especially in the state of New York and Washington, D.C., according to
-• Opinion: Why I'm handing in my Pentagon press pass
-  Tom Bowman has held his Pentagon press pass for 28 years . Bowman says the Pentagon's new media policy makes it impossible to be a journalist . Bowman: Find out what's really going on behind the scenes and not accepting wholesale what any government or administration says . He says it's important to not accept wholesale what the government or administration has said. Bowman: It's important not to
-• In reading, the nation's students are still stuck in a pandemic slump
-  New 2025 testing data shows third- through eighth-graders scored far below 2019 levels in reading . In math, some grades have made gains, but all are lagging compared to before the pandemic . New 2025 test data shows students are still lagging in reading, math, reading and math tests in the U.S. Third through eighth graders are far behind 2019 levels .
-• Death toll from torrential rains in Mexico rises to 64 as search expands
-  Helicopters have ferried food and water to 200 some communities that remained cut off by ground . Mexico has deployed some 10,000 troops in addition to civilian rescue teams . Helicopter has ferried water and food to the 200 communities that remain cut off from each other by ground. Helicopter helicopters have also ferried supplies to the remaining areas of Mexico's worst-hit communities .
-• SpaceX launches 11th test flight of its mega Starship rocket with another win
-  Starship, the biggest and most powerful rocket ever built, thundered into the evening sky from the southern tip of Texas . Starship is the biggest rocket ever made and the most powerful ever built . Starship was launched from Texas's southern tip, the state's largest rocket ever launched . The rocket was the largest and largest ever built rocket in the history of the rocket launch industry, launching from
+• Israel keeps Gaza border crossing closed while reducing aid deliveries
+  The ceasefire on Wednesday was largely holding, although Hamas described Israeli attacks in Gaza as violations of the agreement . Hamas described Israel's attack in Gaza in violation of the ceasefire agreement . The ceasefire is largely holding despite Hamas describing Israeli attacks on Gaza as violating the agreement, according to Hamas . Hamas says Israeli strikes in Gaza violate the ceasefire, but Israel says it is not violating the ceasefire deal .
+• U.S. charges Cambodian tycoon in massive alleged cryptocurrency scam
+  U.S. prosecutors charge the founder of a Cambodian conglomerate in a massive cryptocurrency scam . The scam bilked would-be investors out of billions of dollars, prosecutors say . The indictment was unsealed in federal court in an indictment unsealed by federal prosecutors in a federal court . The Cambodian businessman is accused of bilking people out of millions of dollars by scamming them out
+• Thousands of federal employees are getting laid off. Will a judge intervene?
+  Unions representing federal employees have asked a federal judge in San Francisco to halt the Trump administration's latest round of layoffs . The layoffs are coming amid the government shutdown, which is currently being affected by the shutdown . Unions represent federal employees in the U.S. have asked for a halt of the layoffs . A federal judge is expected to hear the case in a San Francisco court on
+• Scientists are modifying wildlife DNA. Should these species be released into nature?
+  Scientists are researching ways to genetically modify plants and animals to be more resistant to threats like climate change . The IUCN is voting on whether those species should be allowed in nature . Scientists are working on genetically modified species to be resistant to climate change threats . The vote will be held in the U.S. and the world's largest conservation group, the International Union of Conservationists,
+• 'Broadcasting' has its roots in agriculture. Here's how it made its way into media
+  The word 'broadcasting' dates back centuries, and originally described a method of sowing seeds . But it took on a new meaning with the rise of radio in the 1920s . 'Broadcasting' was originally used to refer to a method that was used to sow seeds . It took on new meaning when radio was first used in broadcasting in 1920s, when it was first
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Ofcom refuses to bite over Openreach's fiber freebies
-  Watchdog says it sees no case to investigate discounted FTTP upgrade offer – but will keep an eye on it . Ofcom declined to intervene after smaller network providers complained that a special upgrade offer from Openreach could threaten competition in the broadband market . Openreach has been accused of threatening competition in broadband market with a discounted upgrade offer . Watchdog said it saw no case for investigation but will
-• Brit AI boffins making bank with £560K average pay packet at Anthropic
-  UK units of some US tech companies are paying average salaries of well into six figures . Google, DeepMind, Microsoft also shower UK staff with six-figure salaries . Some more than matching that with share-based payments, according to Companies House . Companies House annual accounts published by Companies House have been published by companies House . Google and DeepMind are among the companies that have paid UK staff
-• Ubuntu 25.10 lands: Rustier and Wayland-ier, but Flatpak is broken
-  Canonical's Questing Quokka waddles in at 5.7 GB with AppArmor woes . This isn't a long-term release, yet many of its differences will be in 26.04 next year . The latest interim release of Ubuntu is here, showcasing some significant changes . Many of the changes will be made in the next version of the operating system in 2015 .
-• Unwary SAP private cloud users face 10% renewal hikes, warns Gartner
-  SAP customers opting for private cloud have seen price increases of 10 percent or more on renewal proposals if they fail to negotiate a renewal price cap in the original deal . On-prem discounts drying up as ERP giant sends 'mixed signals' on pricing . Gartner has reported that SAP customers opted to opt out of SAP's cloud-based ERP cloud service for a price increase
-• EU biometric border system launches, suffers teeting problems
-  European Union's new biometric Exit/Entry System (EES) got off to a chaotic start at Prague's international airport . Malfunctioning equipment and manual processing cause 90-minute waits . The EES is the first biometric exit/entry system to be implemented in the EU . The new system is being trialled in Prague's Prague International International Airport, Prague Airport Airport .
+• Schleswig-Holstein waves auf Wiedersehen to Microsoft stack
+  Germany's northernmost state bins Outlook – and tens of thousands of Redmond licenses . Schleswig-Holstein has finally concluded one element of a long-running project to eject Microsoft from its infrastructure by giving Exchange Server the boot . Exchange Server is the latest in a series of Microsoft products to be thrown out of Germany's IT infrastructure by the state . The state has given up tens of
+• Trump's anti-sustainability agenda comes to Eurozone
+  US President Donald Trump released a wrecking ball that smashed through environmental, social, and governance (ESG) policies stateside – and it's now swinging across the Atlantic, analysts say . ESG kicked like a 'toxic political football' amid greenwashing Canalys Forums 2025, Canalys Forum 2025 . Canalys forums 2025: Canalys. 2025: US President Trump released wreck
+• UK government's £45B AI savings pitch built on broad-brush guesswork, MPs told
+  Think tank cautions that without job cuts or capital savings, the math doesn't add up . UK government's plans to save £45 billion through the application of AI in the public sector lack clarity and are based on broad-brush assumptions, Members of Parliament have heard . Without job cuts, capital savings or job cuts the math isn't adding up, the think tank says . Think tank
+• AI is the flying car of the mind: An irresistible idea nobody knows how to land or manage
+  Steve Jobs described a personal computer as a "bicycle for the mind" Jobs' point was that both tools help us to go further, faster, with just a little extra effort . And which will crash, repeatedly, until users learn how to handle it safely, will crash again if they learn to use it safely . Steve Jobs: Both tools can help us go further and faster,
+• Salesforce pumps the dream of AI agents as helpers, not replacements
+  Salesforce CEO Marc Benioff heralded the arrival of the agentic era during his keynote at the CRM giant's annual Dreamforce conference . In the Agentic Enterprise, 'AI doesn’t replace people, it elevates them,' he said . Salesforce: In the future, AI doesn't replace people. It's the future of the 'agentic enterprise'
 
 🏥 Public Health
 No updates.
 
 🔬 Science
-• The probiotic home: where microbes are welcome guests
+• Germany’s national genomDE strategy
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Exposure to ambient air pollution and onset of Parkinson’s disease in a large cohort study
+• Effects of scarcity on women’s cognitive ability to manage mental health and substance use after prison release
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Maternal sedentary behavior and physical activity levels in early to mid-pregnancy and obstetric outcomes: a cohort study
+• Japan declares a flu epidemic — what this means for other nations
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Multiple myeloma incidence, transplant utilization, and mortality- impact of social vulnerability
+• Adverse drug reaction profiles of histone deacetylase inhibitors
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Sustainability practices made easy
+• A health and economic evaluation of the spatial spillover effect from measles resurgence
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,885 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• The quest to find out how our bodies react to extreme temperatures
+  It’s the 25th of June and I’m shivering in my lab-issued underwear in Fort Worth, Texas. Libby Cowgill, an anthropologist in a furry parka, has wheeled me and my cot into a metal-walled room set to 40 °F. A loud fan pummels me from above and siphons the dregs of my body heat through the cot’s mesh from below. A large respirator fits snug over my nose and mouth. The device tracks carbon dioxide in my exhales—a proxy for how my metabolism speeds up or slows down throughout the experiment. Eventually Cowgill will remove my respirator to slip a wire-thin metal temperature probe several pointy inches into my nose.
+
+
+
+Cowgill and a graduate student quietly observe me from the corner of their so-called “climate chamber.” Just a few hours earlier I’d sat beside them to observe as another volunteer, a 24-year-old personal trainer, endured the cold. Every few minutes, they measured his skin temperature with a thermal camera, his core temperature with a wireless pill, and his blood pressure and other metrics that hinted at how his body handles extreme cold. He lasted almost an hour without shivering; when my turn comes, I shiver aggressively on the cot for nearly an hour straight.
+
+
+
+I’m visiting Texas to learn about this experiment on how different bodies respond to extreme climates. “What’s the record for fastest to shiver so far?” I jokingly ask Cowgill as she tapes biosensing devices to my chest and legs. After I exit the cold, she surprises me: “You, believe it or not, were not the worst person we’ve ever seen.”
+
+
+
+
+Climate change forces us to reckon with the knotty science of how our bodies interact with the environment.
+
+
+
+
+Cowgill is a 40-something anthropologist at the University of Missouri who powerlifts and teaches CrossFit in her spare time. She’s small and strong, with dark bangs and geometric tattoos. Since 2022, she’s spent the summers at the University of North Texas Health Science Center tending to these uncomfortable experiments. Her team hopes to revamp the science of thermoregulation.&nbsp;
+
+
+
+While we know in broad strokes how people thermoregulate, the science of keeping warm or cool is mottled with blind spots. “We have the general picture. We don’t have a lot of the specifics for vulnerable groups,” says Kristie Ebi, an epidemiologist with the University of Washington who has studied heat and health for over 30 years. “How does thermoregulation work if you’ve got heart disease?”&nbsp;
+
+
+
+
+
+“Epidemiologists have particular tools that they’re applying for this question,” Ebi continues. “But we do need more answers from other disciplines.”
+
+
+
+Climate change is subjecting vulnerable people to temperatures that push their limits. In 2023, about 47,000 heat-related deaths are believed to have occurred in Europe. Researchers estimate that climate change could add an extra 2.3 million European heat deaths this century. That’s heightened the stakes for solving the mystery of just what happens to bodies in extreme conditions.&nbsp;
+
+
+
+Extreme temperatures already threaten large stretches of the world. Populations across the Middle East, Asia, and sub-­Saharan Africa regularly face highs beyond widely accepted levels of human heat tolerance. Swaths of the southern US, northern Europe, and Asia now also endure unprecedented lows: The 2021 Texas freeze killed at least 246 people, and a 2023 polar vortex sank temperatures in China’s northernmost city to a hypothermic record of –63.4 °F.&nbsp;
+
+
+
+This change is here, and more is coming. Climate scientists predict that limiting emissions can prevent lethal extremes from encroaching elsewhere. But if emissions keep course, fierce heat and even cold will reach deeper into every continent. About 2.5 billion people in the world’s hottest places don’t have air-­conditioning. When people do, it can make outdoor temperatures even worse, intensifying the heat island effect in dense cities. And neither AC nor radiators are much help when heat waves and cold snaps capsize the power grid.
+
+
+
+COURTESY OF MAX G. LEVY
+
+
+
+
+
+
+
+COURTESY OF MAX G. LEVY
+
+
+
+
+
+
+COURTESY OF MAX G. LEVY
+
+
+
+
+
+
+“You, believe it or not, were not the worst person we’ve ever seen,” the author was told after enduring Cowgill’s “climate chamber.”
+
+
+
+
+Through experiments like Cowgill’s, researchers around the world are revising rules about when extremes veer from uncomfortable to deadly. Their findings change how we should think about the limits of hot and cold—and how to survive in a new world.&nbsp;
+
+
+
+Embodied change
+
+
+
+Archaeologists have known for some time that we once braved colder temperatures than anyone previously imagined. Humans pushed into Eurasia and North America well before the last glacial period ended about 11,700 years ago. We were the only hominins to make it out of this era. Neanderthals, Denisovans, and Homo floresiensis all went extinct. We don’t know for certain what killed those species. But we do know that humans survived thanks to protection from clothing, large social networks, and physiological flexibility. Human resilience to extreme temperature is baked into our bodies, behavior, and genetic code. We wouldn’t be here without it.&nbsp;
+
+
+
+“Our bodies are constantly in communication with the environment,” says Cara Ocobock, an anthropologist at the University of Notre Dame who studies how we expend energy in extreme conditions. She has worked closely with Finnish reindeer herders and Wyoming mountaineers.&nbsp;
+
+
+
+But the relationship between bodies and temperature is surprisingly still a mystery to scientists. In 1847, the anatomist Carl Bergmann observed that animal species grow larger in cold climates. The zoologist Joel Asaph Allen noted in 1877 that cold-dwellers had shorter appendages. Then there’s the nose thing: In the 1920s, the British anthropologist Arthur Thomson theorized that people in cold places have relatively long, narrow noses, the better to heat and humidify the air they take in. These theories stemmed from observations of animals like bears and foxes, and others that followed stemmed from studies comparing the bodies of cold-accustomed Indigenous populations with white male control groups. Some, like those having to do with optimization of surface area, do make sense: It seems reasonable that a tall, thin body increases the amount of skin available to dump excess heat. The problem is, scientists have never actually tested this stuff in humans.&nbsp;
+
+
+
+
+“Our bodies are constantly in communication with the environment.”
+Cara Ocobock, anthropologist, University of Notre Dame
+
+
+
+Some of what we know about temperature tolerance thus far comes from century-old race science or assumptions that anatomy controls everything. But science has evolved. Biology has matured. Childhood experiences, lifestyles, fat cells, and wonky biochemical feedback loops can contribute to a picture of the body as more malleable than anything imagined before. And that’s prompting researchers to change how they study it.
+
+
+
+“If you take someone who’s super long and lanky and lean and put them in a cold climate, are they gonna burn more calories to stay warm than somebody who’s short and broad?” Ocobock says. “No one’s looked at that.”
+
+
+
+Ocobock and Cowgill teamed up with Scott Maddux and Elizabeth Cho at the Center for Anatomical Sciences at the University of North Texas Health Fort Worth. All four are biological anthropologists who have also puzzled over whether the rules Bergmann, Allen, and Thomson proposed are actually true.&nbsp;
+
+
+
+For the past four years, the team has been studying how factors like metabolism, fat, sweat, blood flow, and personal history control thermoregulation.&nbsp;
+
+
+
+
+
+Your native climate, for example, may influence how you handle temperature extremes. In a unique study of mortality statistics from 1980s Milan, Italians raised in warm southern Italy were more likely to survive heat waves in the northern part of the country.&nbsp;
+
+
+
+Similar trends have appeared in cold climes. Researchers often measure cold tolerance by a person’s “brown adipose,” a type of fat that is specialized for generating heat (unlike white fat, which primarily stores energy). Brown fat is a cold adaptation because it delivers heat without the mechanism of shivering. Studies have linked it to living in cold climates, particularly at young ages. Wouter van Marken Lichtenbelt, the physiologist at Maastricht University who with colleagues discovered brown fat in adults, has shown that this tissue can further activate with cold exposure and even help regulate blood sugar and influence how the body burns other fat.&nbsp;
+
+
+
+That adaptability served as an early clue for the Texas team. They want to know how a person’s response to hot and cold correlates with height, weight, and body shape. What is the difference, Maddux asks, between “a male who’s 6 foot 6 and weighs 240 pounds” and someone else in the same environment “who’s 4 foot 10 and weighs 89 pounds”? But the team also wondered if shape was only part of the story.&nbsp;
+
+
+
+Their multi-year experiment uses tools that anthropologists couldn’t have imagined a century ago—devices that track metabolism in real time and analyze genetics. Each participant gets a CT scan (measuring body shape), a DEXA scan (estimating percentages of fat and muscle), high-resolution 3D scans, and DNA analysis from saliva to examine ancestry genetically.&nbsp;
+
+
+
+Volunteers lie on a cot in underwear, as I did, for about 45 minutes in each climate condition, all on separate days. There’s dry cold, around 40 °F, akin to braving a walk-in refrigerator. Then dry heat and humid heat: 112 °F with 15% humidity and 98&nbsp;°F with 85% humidity. They call it “going to Vegas” and “going to Houston,” says Cowgill. The chamber session is long enough to measure an effect, but short enough to be safe.&nbsp;
+
+
+
+Before I traveled to Texas, Cowgill told me she suspected the old rules would fall. Studies linking temperature tolerance to race and ethnicity, for example, seemed tenuous because biological anthropologists today reject the concept of distinct races. It’s a false premise, she told me: “No one in biological anthropology would argue that human beings do not vary across the globe—that’s obvious to anyone with eyes. [But] you can’t draw sharp borders around populations.”&nbsp;
+
+
+
+She added, “I think there’s a substantial possibility that we spend four years testing this and find out that really, limb length, body mass, surface area […] are not the primary things that are predicting how well you do in cold and heat.”&nbsp;
+
+
+
+Adaptable to a degree
+
+
+
+In July 1995, a week-long heat wave pushed Chicago above 100 °F, killing roughly 500 people. Thirty years later, Ollie Jay, a physiologist at the University of Sydney, can duplicate the conditions of that exceptionally humid heat wave in a climate chamber at his laboratory.&nbsp;
+
+
+
+“We can simulate the Chicago heat wave of ’95. The Paris heat wave of 2003. The heat wave [in early July of this year]&nbsp; in Europe,” Jay says. “As long as we’ve got the temperature and humidity information, we can re-create those conditions.”
+
+
+
+“Everybody has quite an intimate experience of feeling hot, so we’ve got 8 billion experts on how to keep cool,” he says. Yet our internal sense of when heat turns deadly is unreliable. Even professional athletes overseen by experienced medics have died after missing dangerous warning signs. And little research has been done to explore how vulnerable populations such as elderly people, those with heart disease, and low-income communities with limited access to cooling respond to extreme heat.&nbsp;
+
+
+
+Jay’s team researches the most effective strategies for surviving it. He lambastes air-conditioning, saying it demands so much energy that it can aggravate climate change in “a vicious cycle.” Instead, he has monitored people’s vital signs while they use fans and skin mists to endure three hours in humid and dry heat. In results published last year, his research found that fans reduced cardiovascular strain by 86% for people with heart disease in the type of humid heat familiar in Chicago.&nbsp;
+
+
+
+
+
+Dry heat was a different story. In that simulation, fans not only didn’t help but actually doubled the rate at which core temperatures rose in healthy older people.
+
+
+
+Heat kills. But not without a fight. Your body must keep its internal temperature in a narrow window flanking 98 °F by less than two degrees. The simple fact that you’re alive means you are producing heat. Your body needs to export that heat without amassing much more. The nervous system relaxes narrow blood vessels along your skin. Your heart rate increases, propelling more warm blood to your extremities and away from your organs. You sweat. And when that sweat evaporates, it carries a torrent of body heat away with it.&nbsp;
+
+
+
+This thermoregulatory response can be trained. Studies by van Marken Lichtenbelt have shown that exposure to mild heat increases sweat capacity, decreases blood pressure, and drops resting heart rate. Long-term studies based on Finnish saunas suggest similar correlations.&nbsp;
+
+
+
+The body may adapt protectively to cold, too. In this case, body heat is your lifeline. Shivering and exercise help keep bodies warm. So can clothing. Cardiovascular deaths are thought to spike in cold weather. But people more adapted to cold seem better able to reroute their blood flow in ways that keep their organs warm without dropping their temperature too many degrees in their extremities.&nbsp;
+
+
+
+Earlier this year, the biological anthropologist Stephanie B. Levy (no relation) reported that New Yorkers who experienced lower average temperatures had more productive brown fat, adding evidence for the idea that the inner workings of our bodies adjust to the climate throughout the year and perhaps even throughout our lives. “Do our bodies hold a biological memory of past seasons?” Levy wonders. “That’s still an open question. There’s some work in rodent models to suggest that that’s the case.”
+
+
+
+Although people clearly acclimatize with enough strenuous exposures to either cold or heat, Jay says, “you reach a ceiling.” Consider sweat: Heat exposure can increase the amount you sweat only until your skin is completely saturated. It’s a non­negotiable physical limit. Any additional sweat just means leaking water without carrying away any more heat. “I’ve heard people say we’ll just find a way of evolving out of this—we’ll biologically adapt,” Jay says. “Unless we’re completely changing our body shape, then that’s not going to happen.”
+
+
+
+And body shape may not even sway thermoregulation as much as previously believed. The subject I observed, a personal trainer, appeared outwardly adapted for cold: his broad shoulders didn’t even fit in a single CT scan image. Cowgill supposed that this muscle mass insulated him. When he emerged from his session in the 40 °F environment, though, he had finally started shivering—intensely. The researchers covered him in a heated blanket. He continued shivering. Driving to lunch over an hour later in a hot car, he still mentioned feeling cold. An hour after that, a finger prick drew no blood, a sign that blood vessels in his extremities remained constricted. His body temperature fell about half a degree C in the cold session—a significant drop—and his wider build did not appear to shield him from the cold as well as my involuntary shivering protected me. 
+
+
+
+I asked Cowgill if perhaps there is no such thing as being uniquely predisposed to hot or cold. “Absolutely,” she said.&nbsp;
+
+
+
+A hot mess
+
+
+
+So if body shape doesn’t tell us much about how a person maintains body temperature, and acclimation also runs into limits, then how do we determine how hot is too hot?&nbsp;
+
+
+
+In 2010 two climate change researchers, Steven Sherwood and Matthew Huber, argued that regions around the world become uninhabitable at wet-bulb temperatures of 35 °C, or 95 °F. (Wet-bulb measurements are a way to combine air temperature and relative humidity.) Above 35 °C, a person simply wouldn’t be able to dissipate heat quickly enough. But it turns out that their estimate was too optimistic.&nbsp;
+
+
+
+Researchers “ran with” that number for a decade, says Daniel Vecellio, a bioclimatologist at the University of Nebraska, Omaha. “But the number had never been actually empirically tested.” In 2021 a Pennsylvania State University physiologist, W. Larry Kenney, worked with Vecellio and others to test wet-bulb limits in a climate chamber. Kenney’s lab investigates which combinations of temperature, humidity, and time push a person’s body over the edge.&nbsp;
+
+
+
+Not long after, the researchers came up with their own wet-bulb limit of human tolerance: below 31 °C in warm, humid conditions for the youngest cohort, people in their thermoregulatory prime. Their research suggests that a day reaching 98 °F and 65% humidity, for example, poses danger in a matter of hours, even for healthy people.&nbsp;
+
+
+
+JUSTIN CLEMONS
+
+
+
+
+
+
+
+JUSTIN CLEMONS
+
+
+
+
+
+
+JUSTIN CLEMONS
+
+
+
+
+
+
+Cowgill and her colleagues Elizabeth Cho (top) and Scott Maddux prepare graduate student Joanna Bui for a “room-temperature test.”
+
+
+
+
+In 2023, Vecellio and Huber teamed up, combining the growing arsenal of lab data with state-of-the-art climate simulations to predict where heat and humidity most threatened global populations: first the Middle East and South Asia, then sub-Saharan Africa and eastern China. And assuming that warming reaches 3 to 4 °C over preindustrial levels this century, as predicted, parts of North America, South America, and northern and central Australia will be next.&nbsp;
+
+
+
+Last June, Vecellio, Huber, and Kenney co-published an article revising the limits that Huber had proposed in 2010. “Why not 35 °C?” explained why the human limits have turned out to be lower than expected. Those initial estimates overlooked the fact that our skin temperature can quickly jump above 101 °F in hot weather, for example, making it harder to dump internal heat.
+
+
+
+The Penn State team has published deep dives on how heat tolerance changes with sex and age. Older participants’ wet-bulb limits wound up being even lower—between 27 and 28 °C in warm, humid conditions—and varied more from person to person than they did in young people. “The conditions that we experience now—especially here in North America and Europe, places like that—are well below the limits that we found in our research,” Vecellio says. “We know that heat kills now.” &nbsp;
+
+
+
+What this fast-growing body of research suggests, Vecellio stresses, is that you can’t define heat risk by just one or two numbers. Last year, he and researchers at Arizona State University pulled up the hottest 10% of hours between 2005 and 2020 for each of 96 US cities. They wanted to compare recent heat-health research with historical weather data for a new perspective: How frequently is it so hot that people’s bodies can’t compensate for it? Over 88% of those “hot hours” met that criterion for people in full sun. In the shade, most of those heat waves became meaningfully less dangerous.&nbsp;
+
+
+
+“There’s really almost no one who ‘needs’ to die in a heat wave,” says Ebi, the epidemiologist. “We have the tools. We have the understanding. Essentially all [those] deaths are preventable.”
+
+
+
+More than a number
+
+
+
+A year after visiting Texas, I called Cowgill to hear what she was thinking after four summers of chamber experiments. She told me that the only rule about hot and cold she currently stands behind is … well, none.
+
+
+
+She recalled a recent participant—the smallest man in the study, weighing 114 pounds. “He shivered like a leaf on a tree,” Cowgill says. Normally, a strong shiverer warms up quickly. Core temperature may even climb a little. “This [guy] was just shivering and shivering and shivering and not getting any warmer,” she says. She doesn’t know why this happened. “Every time I think I get a picture of what’s going on in there, we’ll have one person come in and just kind of be a complete exception to the rule,” she says, adding that you can’t just gloss over how much human bodies vary inside and out.
+
+
+
+
+
+
+The same messiness complicates physiology studies.&nbsp;
+
+
+
+Jay looks to embrace bodily complexities by improving physiological simulations of heat and the human strain it causes. He’s piloted studies that input a person’s activity level and type of clothing to predict core temperature, dehydration, and cardiovascular strain based on the particular level of heat. One can then estimate the person’s risk on the basis of factors like age and health. He’s also working on physiological models to identify vulnerable groups, inform early-warning systems ahead of heat waves, and possibly advise cities on whether interventions like fans and mists can help protect residents. “Heat is an all-of-­society issue,” Ebi says. Officials could better prepare the public for cold snaps this way too.
+
+
+
+
+“Death is not the only thing we’re concerned about,” Jay adds.&nbsp; Extreme temperatures bring morbidity and sickness and strain hospital systems: “There’s all these community-level impacts that we’re just completely missing.”
+
+
+
+Climate change forces us to reckon with the knotty science of how our bodies interact with the environment. Predicting the health effects is a big and messy matter.&nbsp;
+
+
+
+The first wave of answers from Fort Worth will materialize next year. The researchers will analyze thermal images to crunch data on brown fat. They’ll resolve whether, as Cowgill suspects, your body shape may not sway temperature tolerance as much as previously assumed. “Human variation is the rule,” she says, “not the exception.”&nbsp;
+
+
+
+Max G. Levy is an independent journalist who writes about chemistry, public health, and the environment.
+• AI is changing how we quantify pain
+  For years at Orchard Care Homes, a 23‑facility dementia-care chain in northern England, Cheryl Baird watched nurses fill out the Abbey Pain Scale, an observational methodology used to evaluate pain in those who can’t communicate verbally. Baird, a former nurse who was then the facility’s director of quality, describes it as “a tick‑box exercise where people weren’t truly considering pain indicators.”
+
+
+
+As a result, agitated residents were assumed to have behavioral issues, since the scale does not always differentiate well between pain and other forms of suffering or distress. They were often prescribed psychotropic sedatives, while the pain itself went untreated.
+
+
+
+Then, in January 2021, Orchard Care Homes began a trial of PainChek, a smartphone app that scans a resident’s face for microscopic muscle movements and uses artificial intelligence to output an expected pain score. Within weeks, the pilot unit saw fewer prescriptions and had calmer corridors. “We immediately saw the benefits: ease of use, accuracy, and identifying pain that wouldn’t have been spotted using the old scale,” Baird recalls.
+
+
+
+
+In nursing homes, neonatal units, and ICU wards, researchers are racing to turn pain into something a camera or sensor can score as reliably as blood pressure.
+
+
+
+
+This kind of technology-assisted diagnosis hints at a bigger trend. In nursing homes, neonatal units, and ICU wards, researchers are racing to turn pain—medicine’s most subjective vital sign—into something a camera or sensor can score as reliably as blood pressure. The push has already produced PainChek, which has been cleared by regulators on three continents and has logged more than 10 million pain assessments. Other startups are beginning to make similar inroads in care settings.
+
+
+
+The way we assess pain may finally be shifting, but when algorithms measure our suffering, does that change the way we understand and treat it?
+
+
+
+Science already understands certain aspects of pain. We know that when you stub your toe, for example, microscopic alarm bells called nociceptors send electrical impulses toward your spinal cord on “express” wires, delivering the first stab of pain, while a slower convoy follows with the dull throb that lingers. At the spinal cord, the signal meets a microscopic switchboard scientists call the gate. Flood that gate with friendly touches—say, by rubbing the bruise—or let the brain return an instruction born of panic or calm, and the gate might muffle or magnify the message before you even become aware of it.
+
+
+
+
+
+The gate can either let pain signals pass through or block them, depending on other nerve activity and instructions from your brain. Only the signals that succeed in getting past this gate travel up to your brain’s sensory map to help locate the damage, while others branch out to emotion centers that decide how bad it feels. Within milliseconds, those same hubs in the brain shoot fresh orders back down the line, releasing built-in painkillers or stoking the alarm. In other words, pain isn’t a straightforward translation of damage or sensation but a live negotiation between the body and the brain.
+
+
+
+But much of how that negotiation plays out is still a mystery. For instance, scientists cannot predict what causes someone to slip from a routine injury into years-long hypersensitivity; the molecular shift from acute to chronic pain is still largely unknown. Phantom-limb pain remains equally puzzling: About two-thirds of amputees feel agony in a part of their body that no longer exists, yet competing theories—cortical remapping, peripheral neuromas, body-schema mismatch—do not explain why they suffer while the other third feel nothing.
+
+
+
+The first serious attempt at a system for quantifying pain was introduced in 1921. Patients marked their degree of pain as a point on a blank 10‑centimeter line and clinicians scored the distance in millimeters, converting lived experience into a 0–100 ladder. By 1975, psychologist Ronald Melzack’s McGill Pain Questionnaire offered 78 adjectives like “burning,” “stabbing,” and “throbbing,” so that pain’s texture could join intensity in the chart. Over the past few decades, hospitals have ultimately settled on the 0–10 Numeric Rating Scale.
+
+
+
+Yet pain is stubbornly subjective. Feedback from the brain in the form of your reaction can send instructions back down the spinal cord, meaning that expectation and emotion can change how much the same injury hurts. In one trial, volunteers who believed they had received a pain relief cream reported a stimulus as 22% less painful than those who knew the cream was inactive—and a functional magnetic resonance image of their brains showed that the drop corresponded with decreased activity in the parts of the brain that report pain, meaning they really did feel less hurt.
+
+
+
+What’s more, pain can also be affected by a slew of external factors. In one study, experimenters applied the same calibrated electrical stimulus to volunteers from Italy, Sweden, and Saudi Arabia, and the ratings varied dramatically. Italian women recorded the highest scores on the 0–10 scale, while Swedish and Saudi participants judged the identical burn several points lower, implying that culture can amplify or dampen the felt intensity of the same experience.
+
+
+
+Bias inside the clinic can drive different responses even to the same pain score. A 2024 analysis of discharge notes found that women’s scores were recorded 10% less often than men’s. At a large pediatric emergency department, Black children presenting with limb fractures were roughly 39% less likely to receive an opioid analgesic than their white non-Hispanic peers, even after the researchers controlled for pain score and other clinical factors. Together these studies make clear that an “8 out of 10” does not always result in the same reaction or treatment. And many patients cannot self-report their pain at all—for example, a review of bedside studies concludes that about 70% of intensive-care patients have pain that goes unrecognized or undertreated, a problem the authors link to their impaired communication due to sedation or intubation.
+
+
+
+These issues have prompted a search for a better, more objective way to understand and assess pain. Progress in artificial intelligence has brought a new dimension to that hunt.
+
+
+
+Research groups are pursuing two broad routes. The first listens underneath the skin. Electrophysiologists strap electrode nets to volunteers and look for neural signatures that rise and fall with administered stimuli. A 2024 machine-learning study reported that one such algorithm could tell with over 80% accuracy, using a few minutes of resting-state EEG, which subjects experienced chronic pain and which were pain-free control participants. Other researchers combine EEG with galvanic skin response and heart-rate variability, hoping a multisignal “pain fingerprint” will provide more robust measurements.
+
+
+
+
+
+One example of this method is the PMD-200 patient monitor from Medasense, which uses AI-based tools to output pain scores. The device uses physiological patterns like heart rate, sweating, or peripheral temperature changes as the input and focuses on surgical patients, with the goal of helping anesthesiologists adjust doses during operations. In a 2022 study of 75 patients undergoing major abdominal surgery, use of the monitor resulted in lower self-reported pain scores after the operation—a median score of 3 out of 10, versus 5 out of 10 in controls—without an increase in opioid use. The device is authorized by the US Food and Drug Administration and is in use in the United States, the European Union, Canada, and elsewhere.
+
+
+
+The second path is behavioral. A grimace, a guarded posture, or a sharp intake of breath correlates with various levels of pain. Computer-vision teams have fed high-speed video of patients’ changing expressions into neural networks trained on the Face Action Coding System (FACS), which was introduced in the late 1970s with the goal of creating an objective and universal system to analyze such expressions—it’s the Rosetta stone of 44 facial micro-movements. In lab tests, those models can flag frames indicating pain from the data set with over 90% accuracy, edging close to the consistency of expert human assessors. Similar approaches mine posture and even sentence fragments in clinical notes, using natural-language processing, to spot phrases like “curling knees to chest” that often correlate with high pain.
+
+
+
+PainChek is one of these behavioral models, and it acts like a camera‑based thermometer, but for pain: A care worker opens the app and holds a phone 30 centimeters from a person’s face. For three seconds, a neural network looks for nine particular microscopic movements—upper‑lip raise, brow pinch, cheek tension, and so on—that research has linked most strongly to pain. Then the screen flashes a score of 0 to 42. “There’s a catalogue of ‘action‑unit codes’—facial expressions common to all humans. Nine of those are associated with pain,” explains Kreshnik Hoti, a senior research scientist with PainChek and a co-inventor of the device. This system is built directly on the foundation of FACS. After the scan, the app walks the user through a yes‑or‑no checklist of other signs, like groaning, “guarding,” and sleep disruption, and stores the result on a cloud dashboard that can show trends.
+
+
+
+Linking the scan to a human‑filled checklist was, Hoti admits, a late design choice. “Initially, we thought AI should automate everything, but now we see [that] hybrid use—AI plus human input—is our major strength,” he says. Care aides, not nurses, complete most assessments, freeing clinicians to act on the data rather than gather it.
+
+
+
+PainChek was cleared by Australia’s Therapeutic Goods Administration in 2017, and national rollout funding from Canberra helped embed it in hundreds of nursing homes in the country. The system has also won authorization in the UK—where expansion began just before covid-19 started spreading and resumed as lockdowns eased—and in Canada and New Zealand, which are running pilot programs. In the US, it’s currently awaiting an FDA decision. Company‑wide data show “about a 25% drop in anti­psychotic use and, in Scotland, a 42% reduction in falls,” Hoti says.
+
+
+
+PainChek is a mobile app that estimates pain scores by applying artificial intelligence to facial scans.COURTESY OF PAINCHEK
+
+
+
+
+Orchard Care Homes is one of its early adopters. Baird, then the facility’s director of quality, remembers the pre‑AI routine that was largely done “to prove compliance,” she says.
+
+
+
+PainChek added an algorithm to that workflow, and the hybrid approach has paid off. Orchard’s internal study of four care homes tracked monthly pain scores, behavioral incidents, and prescriptions. Within weeks, psychotropic scripts fell and residents’ behavior calmed. The ripple effects went beyond pharmacy tallies. Residents who had skipped meals because of undetected dental pain “began eating again,” Baird notes, and “those who were isolated due to pain began socializing.”
+
+
+
+Inside Orchard facilities, a cultural shift is underway. When Baird trained new staff, she likened pain “to measuring blood pressure or oxygen,” she says. “We wouldn’t guess those, so why guess pain?” The analogy lands, but getting people fully on board is still a slog. Some nurses insist their clinical judgment is enough; others balk at another login and audit trail. “The sector has been slow to adopt technology, but it’s changing,” Baird says. That’s helped by the fact that administering a full Abbey Pain Scale takes 20 minutes, while a PainChek scan and checklist take less than five.
+
+
+
+Engineers at PainChek are now adapting the code for the very youngest patients. PainChek Infant targets babies under one year, whose grimaces flicker faster than adults’. The algorithm, retrained on neonatal faces, detects six validated facial action units based on the well-established Baby Facial Action Coding System. PainChek Infant is starting limited testing in Australia while the company pursues a separate regulatory pathway.
+
+
+
+Skeptics raise familiar red flags about these devices. Facial‑analysis AI has a history of skin‑tone bias, for example. Facial analysis may also misread grimaces stemming from nausea or fear. The tool is only as good as the yes‑or‑no answers that follow the scan; sloppy data entry can skew results in either direction. Results lack the broader clinical and interpersonal context a caregiver is likely to have from interacting with individual patients regularly and understanding their medical history. It’s also possible that clinicians might defer too strongly to the algorithm, over-relying on outside judgment and eroding their own.
+
+
+
+If PainChek is approved by the FDA this fall, it will be part of a broader effort to create a system of new pain measurement technology. Other startups are pitching EEG headbands for neuropathic pain, galvanic skin sensors that flag breakthrough cancer pain, and even language models that comb nursing notes for evidence of hidden distress. Still, quantifying pain with an external device could be rife with hidden issues, like bias or inaccuracies, that we will uncover only after significant use.
+
+
+
+For Baird, the issue is fairly straightforward nonetheless. “I’ve lived with chronic pain and had a hard time getting people to believe me. [PainChek] would have made a huge difference,” she says. If artificial intelligence can give silent sufferers a numerical voice—and make clinicians listen—then adding one more line to the vital‑sign chart might be worth the screen time.
+
+
+
+Deena Mousa is a researcher, grantmaker, and journalist focused on global health, economic development, and scientific and technological progress.
+
+
+
+Mousa is employed as lead researcher by Open Philanthropy, a funder and adviser focused on high-impact causes, including global health and the potential risks posed by AI. The research team investigates new causes of focus and is not involved in work related to pain management. Mousa has not been involved with any grants related to pain management, although Open Philanthropy has funded research in this area in the past.
+• Big Tech’s big bet on a controversial carbon removal tactic
+  Over the last century, much of the US pulp and paper industry crowded into the southeastern corner of the nation, setting up mills amid sprawling timber forests to strip the fibers from juvenile loblolly, long leaf, and slash pine trees.
+
+
+
+Today, after the factories chip the softwood and digest it into pulp, the leftover lignin, spent chemicals, and remaining organic matter form a dark, syrupy by-product known as black liquor. It’s then concentrated into a biofuel and burned, which heats the towering boilers that power the facility—and releases carbon dioxide into the air.
+
+
+
+Microsoft, JP MorganChase, and a tech company consortium that includes Alphabet, Meta, Shopify, and Stripe have all recently struck multimillion-dollar deals to pay paper mill owners to capture at least hundreds of thousands of tons of this greenhouse gas by installing carbon scrubbing equipment in their facilities.
+
+
+
+The captured carbon dioxide will then be piped down into saline aquifers more than a mile underground, where it should be sequestered permanently.
+
+
+
+Big Tech is suddenly betting big on this form of carbon removal, known as bioenergy with carbon capture and storage, or BECCS. The sector also includes biomass-fueled power plants, waste incinerators, and biofuel refineries that add carbon capturing equipment to their facilities.Since trees and other plants absorb carbon dioxide through photosynthesis and these factories will trap emissions that would have gone into the air, together they can theoretically remove more greenhouse gas from the atmosphere than was released, achieving what’s known as “negative emissions.”
+
+
+
+The companies that pay for this removal can apply that reduction in carbon dioxide to cancel out a share of their own corporate pollution. BECCS now accounts for nearly 70% of the announced contracts in carbon removal, a popularity due largely to the fact that it can be tacked onto industrial facilities already operating on large scales.
+
+
+
+“If we’re balancing cost, time to market, and ultimate scale potential, BECCS offers a really attractive value proposition across all three of those,” says Brian Marrs, senior director of energy and carbon removal at Microsoft, which has become by far the largest buyer of carbon removal credits as it races to balance out its ongoing emissions by the end of the decade.
+
+
+
+But experts have raised a number of concerns about various approaches to BECCS, stressing they may inflate the climate benefits of the projects, conflate prevented emissions with carbon removal, and extend the life of facilities that pollute in other ways. It could also create greater financial incentives to log forests or convert them to agricultural land.&nbsp;
+
+
+
+When greenhouse-gas sources and sinks are properly tallied across all the fields, forests, and factories involved, it’s highly difficult to achieve negative emissions with many approaches to BECCS, says Tim Searchinger, a senior research scholar at Princeton University. That undermines the logic of dedicating more of the world’s limited land, crops, and woods to such projects, he argues.
+
+
+
+“I call it a ‘BECCS and switch,’” he says, adding later: “It’s folly at some level.”
+
+
+
+The logic of BECCS
+
+
+
+For a biomass-fueled power plant, BECCS works like this:A tree captures carbon dioxide from the atmosphere as it grows, sequestering the carbon in its bark, trunk, branches, and roots while releasing the oxygen. Someone then cuts it down, converts it into wood pellets, and delivers it to a power plant that, in turn, burns the wood to produce heat or electricity.
+
+
+
+Usually, that facility will produce carbon dioxide as the wood incinerates. But under both European Union and US rules, the burning of the wood is generally treated as carbon neutral, so long as the timber forests are managed in sustainable ways and the various operations abide by other regulations. The argument is that the tree pulled CO2 out of the air in the first place, and new plant growth will bring that emissions debt back into balance over time.&nbsp;
+
+
+
+If that same power plant now captures a significant share of the greenhouse gas produced in the process and pumps it underground, the process can potentially go from carbon neutral to carbon negative.
+
+
+
+But the starting assumption that biomass is carbon neutral is fundamentally flawed, because it doesn’t fully take into account other ways that emissions are released throughout the process, according to Searchinger.
+
+
+
+Among other things, a proper analysis must also ask: How much carbon is left behind in roots or branches on the forest floor that will begin to decompose and release greenhouse gases after the plant is removed? How much fossil fuel was burned in the process of cutting, collecting, and distributing the biomass? How much greenhouse gas was produced while converting timber into wood pellets and shipping them elsewhere? And how long will it take to grow back the trees or plants that would have otherwise continued capturing and storing carbon?
+
+
+
+“If you’re harvesting wood, it’s essentially impossible to get negative emissions,” Searchinger says.
+
+
+
+Burning biomass, or the biofuels created from it, can also produce other forms of pollution that can harm human health, including particulate matter, volatile organic compounds, sulfur dioxide, and carbon monoxide.
+
+
+
+Preventing carbon dioxide emissions at a given factory may necessitate capturing certain other pollutants as well, notably sulfur dioxide. But it doesn’t necessarily filter out all the other pollution floating out of the flue stack, notes Emily Grubert, an associate professor of sustainable energy policy at the University of Notre Dame who focuses on carbon management issues and the transition away from fossil fuels.&nbsp;
+
+
+
+Driving demand
+
+
+
+The idea that we might be able to use biomass to generate energy and suck down carbon dates back decades. But as global temperatures and emissions both continued to rise, climate modelers found that more and more BECCS or other types of carbon removal would be needed to prevent the planet from tipping past increasingly dangerous warming thresholds.
+
+
+
+In addition to dramatic cuts in emissions, the world may need to suck down 11 billion tons of carbon dioxide per year by 2050 and 20 billion by 2100 to limit warming to 2 °C over preindustrial levels, according to a 2022 UN climate panel report. That’s a threshold we’re increasingly likely to blow past.
+
+
+
+These grave climate warnings sparked growing interest and investments in ways to draw carbon dioxide out of the atmosphere. Companies sprang up offering to sink seaweed, bury biomass, develop carbon-sucking direct air capture factories, and add alkaline substances to agricultural fields or the oceans.&nbsp;
+
+
+
+But BECCS purchases have dwarfed those other approaches.
+
+
+
+
+
+
+
+For companies with fast-approaching climate deadlines, BECCS is one of the few options for removing hundreds of thousands of tons over the next few years, says Robert Höglund, who cofounded CDR.fyi, ​​a public-benefit corporation that analyzes the carbon removal sector.
+
+
+
+“If you have a target you want to meet in 2030 and you want durable carbon removal, that’s the thing you can buy,” he says.
+
+
+
+That’s chiefly because these projects can harness the infrastructure of existing industries. At least for now, you don’t have to finance, permit, and develop new facilities.
+
+
+
+“They’re not that hard to build, because it’s often a retrofitting of an existing plant,” Höglund says.&nbsp;
+
+
+
+BECCS is also substantially less expensive for buyers than, say, direct air capture, with weighted average prices of $210 a ton compared with $490 among the deals to date, according to CDR.fyi. That’s in part because capturing the carbon dioxide from, say, a pulp and paper mill, where it makes up around 15% of flue gas, takes far less energy than plucking CO2 molecules out of the open air, where they account for just 0.04%.
+
+
+
+Microsoft’s big BECCS bet
+
+
+
+In 2020, Microsoft announced plans to become carbon negative by the end of this decade and, by midcentury, to remove all the emissions the company generated directly and from electricity use throughout its corporate history.&nbsp;
+
+
+
+It’s leaning particularly heavily on BECCS to meet those climate commitments, with the category accounting for 76% of its known carbon removal purchases to date.
+
+
+
+In April, the company announced it would purchase 3.7 million tons of carbon dioxide that a paper and pulp mill, located at some unspecified site in the southern US, will eventually capture and store over a 12-year period. It reached the deal through CO280, a startup based in Vancouver, British Columbia, that is forming joint ventures with paper and pulp mill companies in the US and Canada, to finance, develop, and operate the projects.&nbsp;
+
+
+
+It was the biggest carbon removal purchase on record—until four days later, when Microsoft revealed it had agreed to buy 6.75 million tons of carbon removal from AtmosClear, CDR.fyi noted. That company is building a biomass power plant at the Port of Greater Baton Rouge in Louisiana, which will run largely on sugarcane bagasse (a by-product of sugar production) and forest trimmings. AtmosClear says the facility will be able to capture 680,000 tons of carbon dioxide per year.
+
+
+
+“What we’ve seen is a lot of these BECCS projects have been very helpful, if not transformational, for providing investment in rural economies,” Marrs says. “We look at our BECCS deals, in Louisiana with AtmosClear and some other Gulf State providers, like CO280, as a real means of helping support these economies, while at the same time promoting sustainable forestry practices.”
+
+
+
+In earlier quarters, Microsoft also made substantial purchases from Orsted, which operates power plants that burn wood pellets; Gaia, which runs facilities that convert municipal waste into energy; and Arbor, whose plants are fueled by “overgrown brush, crop residues, and food waste.”&nbsp;
+
+
+
+Don’t let waste go to waste
+
+
+
+Notably, at least three of these projects rely on some form of waste, a category distinct from fresh-cut timber or crops grown for the purpose of fueling BECCS projects. Solid waste, agricultural residues, logging leftovers, and plant material removed from forests to prevent fires present some of the ripest opportunities for BECCS—as well as some difficult questions of carbon accounting.
+
+
+
+A 2019 report from the National Academy of Sciences estimated that the US could achieve more than 500 million tons of carbon removal a year through BECCS by 2040, while the world could exceed 3.5 billion tons, by relying just on agricultural by-products, logging residues, and organic waste—without needing to grow crops dedicated to energy.
+
+
+
+Roger Aines, chief scientist of the energy program at Lawrence Livermore National Laboratory, argues we should at least be putting these sources to use rather than burning them or leaving them to decompose in fields. (Aines coauthored a similar analysis focused on California’s waste biomass and contributed to a 2022 lab report prepared for Microsoft to evaluate costs and options for carbon removal purchases.)
+
+
+
+He stresses that the BECCS sector can learn a lot from using that waste material. For example, it should help to provide a sharper sense of whether the carbon math will work if more land, forests, and crops are dedicated to these sorts of purposes.
+
+
+
+“The point is you won’t grow new material to do this in most cases, and won’t have to for a very long time, because there’s so much waste available,” Aines says. “If we get to that point, long into the future, we can address that then.”
+
+
+
+Wonky accounting
+
+
+
+But the critical question that emerges with waste is: Would it otherwise have been burned or allowed to decompose, or might some of it have been used in some other way that kept the carbon out of the atmosphere?&nbsp;
+
+
+
+Sugarcane bagasse, for instance, is or could also be used to produce recyclable packaging and paper, biodegradable food packaging and cutlery, building materials, or soil amendments that add nutrients back to agricultural fields.
+
+
+
+“A lot of the time those materials are being used for something else already, so the accounting gets wonky really quickly,” Grubert says.&nbsp;
+
+
+
+Some fear that the financial incentives to pursue BECCS could also compel companies to trim away more trees and plants than is truly necessary to, say, manage forests or prevent fires—particularly as more and more BECCS plants create greater and greater demand for the limited supplies of such materials.
+
+
+
+“Once you start capturing waste, you create an incentive to produce waste, so you have to be very careful about the perverse incentives,” says Danny Cullenward, a researcher and senior fellow at the Kleinman Center for Energy Policy at the University of Pennsylvania who studies carbon markets.
+
+
+
+Due diligence&nbsp;
+
+
+
+Like other big tech companies, Microsoft has lost some momentum when it comes to its climate goals, in large part because of the surging energy demands of its AI data centers.&nbsp;
+
+
+
+But the company has generally earned a reputation for striving to clean up its direct emissions where possible and for seeking out high-quality approaches to carbon removal. It has consulted extensively with critically minded researchers at advisory firms like Carbon Direct and demonstrated a willingness to pay higher prices to support more credible projects.
+
+
+
+Marrs says the company has extended that scrutiny to its BECCS deals.
+
+
+
+“We want as much positive environmental impact as possible from every project,” he says.
+
+
+
+“We’re doing months and months of technical due diligence with teams that visit the site, that interview stakeholders, that produce a report for us that we go through in depth with a third-party engineering provider or technical perspective provider,” he adds.
+
+
+
+In a follow-up statement, Microsoft stressed that it strives to validate that every BECCS project it supports will achieve negative emissions, whatever the fuel source.
+
+
+
+“Across all of these projects, we conducted substantial due diligence to ensure that BECCS feedstocks would otherwise return carbon to the atmosphere in a few years,” the company said.&nbsp;
+
+
+
+Likewise, Jonathan Rhone, the cofounder and chief executive of CO280, stresses that they’ve worked with consultants, carbon market registries, and pulp and paper mills “to make sure we’re adopting the best standards.” He says they strive to conservatively assess the release and uptake of greenhouse gases across the supply chain of the mills they work with, taking into account the type of biomass used by a given plant, the growth rate of the forests it’s harvested from, the distance trucks drive to ship the timber or sawmill residues, the total emissions of the facility, and more.
+
+
+
+Rhone says its typical projects will capture and store away on the order of 850,000 to 900,000 tons of carbon dioxide per year. How much that would make up of the plant’s total emissions would vary, based in part on how much of the facility’s energy comes from by-product biomatter and how much comes from fossil fuels. For its first projects, the company will aim to capture 50% to 65% of the CO2 emissions at the pulp and paper mills, but it eventually hopes to exceed 90%.&nbsp;
+
+
+
+In a follow-up email, Rhone said the carbon capture equipment at the mills it works with will also prevent “substantial levels” of particulate matter and sulfur dioxide emissions and might reduce emissions of other pollutants as well.
+
+
+
+The company is in active discussions with 10 pulp and paper mills in the Gulf Coast and Canada. Each carbon capture and storage project could cost hundreds of millions of dollars.&nbsp;
+
+
+
+“What we’re trying to do at CO280 is show and demonstrate that we can create a stable, repeatable playbook for developing projects that are low risk and provide the market with what it wants, with what it needs,” Rhone says.&nbsp;
+
+
+
+Proponents of BECCS say we could leverage biomass to deliver substantial volumes of carbon removal, so long as appropriate industry standards are put in place to prevent, or at least minimize, bad behavior.
+
+
+
+The question is whether that will be the case—or whether, as the BECCS sector matures, it will veer closer to the pattern of carbon offset markets.&nbsp;
+
+
+
+Studies and investigations have consistently shown that loosely regulated or poorly designed carbon credit and offset programs have allowed, if not invited, companies to significantly exaggerate the climate benefits of tree planting, forest preservation, and similar projects.&nbsp;
+
+
+
+“It appears to me to be something that will be manageable but that we’ll always have to keep an eye on,” Aines says.&nbsp;
+
+
+
+Magic
+
+
+
+Even with all these carbon accounting complexities, BECCS projects can often deliver climate benefits, particularly for existing plants.
+
+
+
+Adding carbon capture to an operating paper and pulp mill, power plant, or refinery is at least an improvement over the status quo from a climate perspective, insofar as it prevents emissions that would otherwise have continued.
+
+
+
+But ambitions for BECCS are already growing beyond existing plants: Last year Drax, the controversial UK power giant, announced plans to launch a Houston-based division tasked with developing enough new BECCS projects to deliver 6 million tons of carbon removal per year, in the US or elsewhere.
+
+
+
+Numerous other companies have also built or proposed biomass power plants in recent years, with or without carbon capture systems—decisions driven in part by policies that classify them as carbon neutral.But if biomass isn’t carbon neutral, as Searchinger and others argue it can’t be in many applications, then these new unfiltered power plants are just adding more emissions to the atmosphere—and BECCS projects aren’t drawing any out of the air. And if that’s the case, it raises tough questions about corporate climate claims that depend on its doing so and the societal trade-offs involved in building lots of new plants dedicated to these purposes.
+
+
+
+That’s because crops grown for energy require land, fertilizer, insecticides, and human labor that might otherwise go toward producing food for an expanding global population. And greater demand for wood invites the timber industry to chop down more and more of the world’s forests, which are already sucking up and storing away vast amounts of carbon dioxide and providing homes for immense varieties of plants and animals.
+
+
+
+If these projects are merely preventing greenhouse gas from floating into the atmosphere but not drawing any down, we’re better off adding carbon capture and storage (CCS) equipment to an existing natural-gas plant instead, Searchinger argues.
+
+
+
+Companies may think that harnessing nature to draw carbon dioxide out of the sky sounds better than cutting the emissions of a fossil-fuel turbine. But the electricity from the latter plant would cost dramatically less, the carbon capture system would reduce emissions more for the amount of same energy generated, and it would avoid the added pressures to cut down trees, he says.
+
+
+
+“People think some magic happens—this magic combination of using biomass and CCS creates something bigger than its parts,” Searchinger says. “But it’s not magic; it’s simply the sum of the two.”
+• The Download: aging clocks, and repairing the internet
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+How aging clocks can help us understand why we age—and if we can reverse it
+
+
+
+Wrinkles and gray hairs aside, it can be difficult to know how well—or poorly—someone’s body is truly aging. A person who develops age-related diseases earlier in life, or has other biological changes associated with aging, might be considered “biologically older” than a similar-age person who doesn’t have those changes. Some 80-year-olds will be weak and frail, while others are fit and active.Over the past decade, scientists have been uncovering new methods of looking at the hidden ways our bodies are aging. And what they’ve found is changing our understanding of aging itself. Read the full story.
+
+
+
+—Jessica Hamzelou
+
+
+
+
+
+
+
+Can we repair the internet?
+
+
+
+From addictive algorithms to exploitative apps, data mining to misinformation, the internet today can be a hazardous place. New books by three influential figures—the intellect behind “net neutrality,” a former Meta executive, and the web’s own inventor—propose radical approaches to fixing it. But are these luminaries the right people for the job? Read the full story.
+
+
+
+—Nathan Smith
+
+
+
+Both these stories are from our forthcoming print issue, which is all about the body. If you haven’t already, subscribe now to receive future issues once they land. Plus, you&#8217;ll also receive a free digital report on nuclear power.
+
+
+
+
+
+
+
+2025 climate tech companies to watch: Cyclic Materials and its rare earth recycling tech
+
+
+
+Rare earth magnets are essential for clean energy, but only a tiny fraction of the metals inside them are ever recycled. Cyclic Materials aims to change that by opening one of the largest rare earth magnet recycling operations outside of China next year.&nbsp;
+
+
+
+By collecting a wide range of devices and recycling multiple metals, the company seeks to overcome the economic challenges that have long held back such efforts. Read the full story.
+
+
+
+—Maddie Stone
+
+
+
+Cyclic Materials is one of our 10 climate tech companies to watch—our annual list of some of the most promising climate tech firms on the planet. Check out the rest of the list here.
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 California’s AI safety bill has been signed into law   It holds AI companies legally accountable if their chatbots fail to protect users. (TechCrunch)+ It also requires chatbots to remind young users that they’re not human. (The Verge)+ Gavin Newsom also green-lit measures for social media warning labels. (The Hill)
+
+
+
+2 Satellites are leaking unencrypted dataIncluding civilian text messages, plus military and law enforcement communications. (Wired $)+ It’s getting mighty crowded up there too. (Space)3 Defense startups are reviving manufacturing in quiet US townsThe weapons of the future are being built in Delaware, Michigan and Ohio. (NYT $)+ Phase two of military AI has arrived. (MIT Technology Review)
+
+
+
+4 Europe is worried about becoming an AI “colony”The bloc is too dependent on US tech, experts fear. (FT $)+ The US is locked in a bind with China. (Rest of World)5 Vast chunks of human knowledge are missing from the web And AI is poised to make the problem even worse. (Aeon)+ How AI and Wikipedia have sent vulnerable languages into a doom spiral. (MIT Technology Review)
+
+
+
+6 How mega batteries are unlocking an energy revolutionVast battery units are helping to shore up grids and extend the use of clean power. (FT $)+ This startup wants to use the Earth as a massive battery. (MIT Technology Review)
+
+
+
+7 A new chemical detection technique reveals what’s making wildlife illIt’s a small step toward a healthier future for all animals—including humans. (Knowable Magazine)+ We’re inhaling, eating, and drinking toxic chemicals. Now we need to figure out how they’re affecting us. (MIT Technology Review)
+
+
+
+8 The world is growing more food crops than ever beforeBut hunger still hasn’t been eradicated. (Vox)+ Africa fights rising hunger by looking to foods of the past. (MIT Technology Review)
+
+
+
+9 Google is starting to hide sponsored search resultsOnly after you’ve seen them first. (The Verge)+ Is Google playing catchup on search with OpenAI? (MIT Technology Review)
+
+
+
+10 Indonesia’s film industry is embracing AITo the detriment of artists and storyboarders. (Rest of World)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“It is attempting to solve a problem that wasn’t a problem before AI showed up, or before big tech showed up.”
+
+
+
+—Greg Loudon, a certified beer judge and brewery sales manager, tells 404 Media why he’s so unimpressed by a prominent competition using AI to judge the quality of beer.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+The lucky break behind the first CRISPR treatmentThe world’s first commercial gene-editing treatment is set to start changing the lives of people with sickle-cell disease. It’s called Casgevy, and it was approved in November 2022 in the UK.The treatment, which will be sold in the US by Vertex Pharmaceuticals, employs CRISPR, which can be easily programmed by scientists to cut DNA at precise locations they choose.But where do you aim CRISPR, and how did the researchers know what DNA to change? That’s the lesser-known story of the sickle-cell breakthrough. Read more about it.
+
+
+
+—Antonio Regalado
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
+
+
+
++ Why you should consider adopting a “coffee name.”+ Where does your favorite Star Wars character rank in this ultimate list? (Number one is correct.)+ Steve McQueen, you will always be cool.+ The compelling argument for adopting an ethical diet.
 • How aging clocks can help us understand why we age—and if we can reverse it
   Be honest: Have you ever looked up someone from your childhood on social media with the sole intention of seeing how they’ve aged?&nbsp;
 
@@ -434,387 +1313,30 @@ Whole-body rejuvenation might be some way off, but scientists are still hopeful 
 
 
 “We have the machinery to reset our epigenetic clock to a more youthful state,” says White. “That means we have the ability to turn the clock backwards.”
-• Can we repair the internet?
-  From addictive algorithms to exploitative apps, data mining to misinformation, the internet today can be a hazardous place. Books by three influential figures—the intellect behind “net neutrality,” a former Meta executive, and the web’s own inventor—propose radical approaches to fixing it. But are these luminaries the right people for the job? Though each shows conviction, and even sometimes inventiveness, the solutions they present reveal blind spots.
-
-
-
-The Age of Extraction: How Tech Platforms Conquered the Economy and Threaten Our Future ProsperityTim WuKNOPF, 2025
-
-
-
-
-In The Age of Extraction: How Tech Platforms Conquered the Economy and Threaten Our Future Prosperity, Tim Wu argues that a few platform companies have too much concentrated power and must be dismantled. Wu, a prominent Columbia professor who popularized the principle that a free internet requires all online traffic to be treated equally, believes that existing legal mechanisms, especially anti-monopoly laws, offer the best way to achieve this goal.
-
-
-
-Pairing economic theory with recent digital history, Wu shows how platforms have shifted from giving to users to extracting from them. He argues that our failure to understand their power has only encouraged them to grow, displacing competitors along the way. And he contends that convenience is what platforms most often exploit to keep users entrapped. “The human desire to avoid unnecessary pain and inconvenience,” he writes, may be “the strongest force out there.”
-
-
-
-He cites Google’s and Apple’s “ecosystems” as examples, showing how users can become dependent on such services as a result of their all-­encompassing seamlessness. To Wu, this isn’t a bad thing in itself. The ease of using Amazon to stream entertainment, make online purchases, or help organize day-to-day life delivers obvious gains. But when powerhouse companies like Amazon, Apple, and Alphabet win the battle of convenience with so many users—and never let competitors get a foothold—the result is “industry dominance” that must now be reexamined.
-
-
-
-The measures Wu advocates—and that appear the most practical, as they draw on existing legal frameworks and economic policies—are federal anti-monopoly laws, utility caps that limit how much companies can charge consumers for service, and “line of business” restrictions that prohibit companies from operating in certain industries.
-
-
-
-
-Columbia University’s Tim Wu shows how platforms have shifted from giving to users to extracting from them. He argues that our failure to understand their power has only encouraged them to grow.
-
-
-
-
-Anti-monopoly provisions and antitrust laws are effective weapons in our armory, Wu contends, pointing out that they have been successfully used against technology companies in the past. He cites two well-known cases. The first is the 1960s antitrust case brought by the US government against IBM, which helped create competition in the computer software market that enabled companies like Apple and Microsoft to emerge. The 1982 AT&amp;T case that broke the telephone conglomerate up into several smaller companies is another instance. In each, the public benefited from the decoupling of hardware, software, and other services, leading to more competition and choice in a technology market.
-
-
-
-
-
-But will past performance predict future results? It’s not yet clear whether these laws can be successful in the platform age. The 2025 antitrust case against Google—in which a judge ruled that the company did not have to divest itself of its Chrome browser as the US Justice Department had proposed—reveals the limits of pursuing tech breakups through the law. The 2001 antitrust case brought against Microsoft likewise failed to separate the company from its web browser and mostly kept the conglomerate intact. Wu noticeably doesn’t discuss the Microsoft case when arguing for antitrust action today.
-
-
-
-Nick Clegg, until recently Meta’s president of global affairs and a former deputy prime minister of the UK, takes a position very different from Wu’s: that trying to break up the biggest tech companies is misguided and would degrade the experience of internet users. In How to Save the Internet: The Threat to Global Connection in the Age of AI and Political Conflict, Clegg acknowledges Big Tech’s monopoly over the web. But he believes punitive legal measures like antitrust laws are unproductive and can be avoided by means of regulation, such as rules for what content social media can and can’t publish. (It’s worth noting that Meta is facing its own antitrust case, involving whether it should have been allowed to acquire Instagram and WhatsApp.)
-
-
-
-How to Save the Internet: The Threat to Global Connection in the Age of AI and Political ConflictNick CleggBODLEY HEAD, 2025
-
-
-
-
-Clegg also believes Silicon Valley should take the initiative to reform itself. He argues that encouraging social media networks to “open up the books” and share their decision-making power with users is more likely to restore some equilibrium than contemplating legal action as a first resort.
-
-
-
-But some may be skeptical of a former Meta exec and politician who worked closely with Mark Zuckerberg and still wasn’t able to usher in such changes to social media sites while working for one. What will only compound this skepticism is the selective history found in Clegg’s book, which briefly acknowledges some scandals (like the one surrounding Cambridge Analytica’s data harvesting from Facebook users in 2016) but refuses to discuss other pertinent ones. For example, Clegg laments the “fractured” nature of the global internet today but fails to acknowledge Facebook’s own role in this splintering.
-
-
-
-Breaking up Big Tech through antitrust laws would hinder innovation, says Clegg, arguing that the idea “completely ignores the benefits users gain from large network effects.” Users stick with these outsize channels because they can find “most of what they’re looking for,” he writes, like friends and content on social media and cheap consumer goods on Amazon and eBay.
-
-
-
-Wu might concede this point, but he would disagree with Clegg’s claims that maintaining the status quo is beneficial to users. “The traditional logic of antitrust law doesn’t work,” Clegg insists. Instead, he believes less sweeping regulation can help make Big Tech less dangerous while ensuring a better user experience.
-
-
-
-Clegg has seen both sides of the regulatory coin: He worked in David Cameron’s government passing national laws for technology companies to follow and then moved to Meta to help the company navigate those types of nation-specific obligations. He bemoans the hassle and complexity Silicon Valley faces in trying to comply with differing rules across the globe, some set by “American federal agencies” and others by “Indian nationalists.”
-
-
-
-But with the resources such companies command, surely they are more than equipped to cope? Given that Meta itself has previously meddled in access to the internet (such as in India, whose telecommunications regulator ultimately blocked its Free Basics internet service for violating net neutrality rules), this complaint seems suspect coming from Clegg. What should be the real priority, he argues, is not any new nation-specific laws but a global “treaty that protects the free flow of data between signatory countries.”
-
-
-
-
-What the former Meta executive Nick Clegg advocates—unsurprisingly—is not a breakup of Big Tech but a push for it to become “radically transparent.”
-
-
-
-
-Clegg believes that these nation-specific technology obligations—a recent one is Australia’s ban on social media for people under 16—usually reflect fallacies about the technology’s human impact, a subject that can be fraught with anxiety. Such laws have proved ineffective and tend to taint the public’s understanding of social networks, he says. There is some truth to his argument here, but reading a book in which a former Facebook executive dismisses techno-determinism—that is, the argument that technology makes people do or think certain things—may be cold comfort to those who have seen the harm technology can do.
-
-
-
-In any case, Clegg’s defensiveness about social networks may not gain much favor from users themselves. He stresses the need for more personal responsibility, arguing that Meta doesn’t ever intend for users to stay on Facebook or Instagram endlessly: “How long you spend on the app in a single session is not nearly as important as getting you to come back over and over again.” Social media companies want to serve you content that is “meaningful to you,” he claims, not “simply to give you a momentary dopamine spike.” All this feels disingenuous at best.
-
-
-
-What Clegg advocates—unsurprisingly—is not a breakup of Big Tech but a push for it to become “radically transparent,” whether on its own or, if necessary, with the help of federal legislators. He also wants platforms to bring users more into their governance processes (by using Facebook’s model of community forums to help improve their apps and products, for example). Finally, Clegg also wants Big Tech to give users more meaningful control of their data and how companies such as Meta can use it.
-
-
-
-Here Clegg shares common ground with the inventor of the web, Tim Berners-Lee, whose own proposal for reform advances a technically specific vision for doing just that. In his memoir/manifesto This Is for Everyone: The Unfinished Story of the World Wide Web, Berners-Lee acknowledges that his initial vision—of a technology he hoped would remain open-source, collaborative, and completely decentralized—is a far cry from the web that we know today.
-
-
-
-This Is for Everyone: The Unfinished Story of the World Wide WebTim Berners-LeeFARRAR, STRAUS &#038; GIROUX, 2025
-
-
-
-
-If there’s any surviving manifestation of his original project, he says, it’s Wikipedia, which remains “probably the best single example of what I wanted the web to be.” His best idea for moving power from Silicon Valley platforms into the hands of users is to give them more data control. He pushes for a universal data “pod” he helped develop, known as “Solid” (an abbreviation of “social linked data”).
-
-
-
-The system—which was originally developed at MIT—would offer a central site where people could manage data ranging from credit card information to health records to social media comment history. “Rather than have all this stuff siloed off with different providers across the web, you’d be able to store your entire digital information trail in a single private repository,” Berners-Lee writes.
-
-
-
-The Solid product may look like a kind of silver bullet in an age when data harvesting is familiar and data breaches are rampant. Placing greater control with users and enabling them to see “what data [i]s being generated about them” does sound like a tantalizing prospect.
-
-
-
-But some people may have concerns about, for example, merging their confidential health records with data from personal devices (like heart rate info from a smart watch). No matter how much user control and decentralization Berners-Lee may promise, recent data scandals (such as cases in which period-tracking apps misused clients’ data) may be on people’s minds.
-
-
-
-
-
-Berners-Lee believes that centralizing user data in a product like Solid could save people time and improve daily life on the internet. “An alien coming to Earth would think it was very strange that I had to tell my phone the same things again and again,” he complains about the experience of using different airline apps today.
-
-
-
-With Solid, everything from vaccination records to credit card transactions could be kept within the digital vault and plugged into different apps. Berners-Lee believes that AI could also help people make more use of this data—for example, by linking meal plans to grocery bills. Still, if he’s optimistic on how AI and Solid could coordinate to improve users’ lives, he is vague on how to make sure that chatbots manage such personal data sensitively and safely.
-
-
-
-Berners-Lee generally opposes regulation of the web (except in the case of teenagers and social media algorithms, where he sees a genuine need). He believes in internet users’ individual right to control their own data; he is confident that a product like Solid could “course-correct” the web from its current “exploitative” and extractive direction.
-
-
-
-Of the three writers’ approaches to reform, it is Wu’s that has shown some effectiveness of late. Companies like Google have been forced to give competitors some advantage through data sharing, and they have now seen limits on how their systems can be used in new products and technologies. But in the current US political climate, will antitrust laws continue to be enforced against Big Tech?
-
-
-
-Clegg may get his way on one issue: limiting new nation-specific laws. President Donald Trump has confirmed that he will use tariffs to penalize countries that ratify their own national laws targeting US tech companies. And given the posture of the Trump administration, it doesn’t seem likely that Big Tech will see more regulation in the US. Indeed, social networks have seemed emboldened (Meta, for example, removed fact-checkers and relaxed content moderation rules after Trump’s election win). In any case, the US hasn’t passed a major piece of federal internet legislation since 1996.
-
-
-
-If using anti-monopoly laws through the courts isn’t possible, Clegg’s push for a US-led omnibus deal—setting consensual rules for data and acceptable standards of human rights—may be the only way to make some more immediate improvements.
-
-
-
-In the end, there is not likely to be any single fix for what ails the internet today. But the ideas the three writers agree on—greater user control, more data privacy, and increased accountability from Silicon Valley—are surely the outcomes we should all fight for.
-
-
-
-Nathan Smith is a writer whose work has appeared in the Washington Post, the Economist, and the Los Angeles Times.
-• Transforming commercial pharma with agentic AI
-  Rising cost of raw materials and supply chain disruptions are squeezing pharma companies . A wave of expiring patents threatens around $300 billion in potential lost sales by 2030 . McKinsey estimates cost per launch is growing 8% each year, reaching $4 billion in 2022 . Patients and health-care providers are seeking more personalized services, leading to greater demand for precision drugs . Personalization, real-time communication channels offer a way of building trust and reaching HCPs in an increasingly competitive market .
-• The Download: planet hunting, and India’s e-scooters
-  This is today&#8217;s edition of&nbsp;The Download,&nbsp;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
-
-
-
-An Earthling’s guide to planet hunting
-
-
-
-The pendant on Rebecca Jensen-Clem’s necklace is composed of 36 silver hexagons entwined in a honeycomb mosaic. At the Keck Observatory, in Hawaii, just as many segments make up a mirror that spans 33 feet, reflecting images of uncharted worlds for her to study.
-
-
-
-Jensen-Clem, an astronomer at the University of California, Santa Cruz, works with the Keck Observatory to try to detect new planets without leaving our own. It’s a pursuit that faces a vast array of obstacles, for example wind, and fluctuations in atmospheric density and temperature.&nbsp;
-
-
-
-At her lab among the redwoods, Jensen-Clem and her students experiment with new technologies and software to help overcome the challenges, and see into space more clearly. Read more about her and her work.&nbsp;
-
-
-
-—Jenna Ahart
-
-
-
-This story is from the forthcoming print issue of MIT Technology Review, which is all about the body. If you’re not already a subscriber, sign up now to receive issues as soon as they land.
-
-
-
-
-
-
-
-2025 climate tech companies to watch: Ather Energy and its premium e-scooters
-
-
-
-While sales of Tesla or BYD cars drove electric vehicle adoption elsewhere in the world, two-wheelers have led the green energy transition in India.As one of the earliest “pure play” e-scooter makers, Ather Energy has helped drive micromobility EV penetration throughout India and boosted the shift away from carbon-emitting vehicles. Read the full story.
-
-
-
-—Nilesh Christopher
-
-
-
-Ather Energy is one of our 10 climate tech companies to watch—our annual list of some of the most promising climate tech firms on the planet. Check out the rest of the list here.
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 The Trump administration has laid off thousands of federal health workersIt’s blaming the government shutdown—but labor unions are suing. (Reuters&nbsp;$)+&nbsp;The firings will decimate parts of the CDC that work on disease surveillance.&nbsp;(STAT)2 AI videos of dead celebrities are upsetting their familiesOpenAI is coming under mounting pressure to restrict what its video generator Sora 2 can create. (WP&nbsp;$)+&nbsp;Sora was downloaded over a million times in less than five days—a rate even faster than ChatGPT.&nbsp;(BBC)3 The Dutch government has taken control of a Chinese-owned chipmakerThe move comes after Beijing tightened restrictions on the export of rare earth elements, which could hurt Europe’s car industry. (CNBC)4 Why some developers reject AI coding toolsEven at their best, they introduce bugs into the code base that can be tricky to spot. (The Information&nbsp;$)+&nbsp;The second wave of AI coding is here.&nbsp;(MIT Technology Review)
-
-
-
-5 Police are begging teens to stop pulling the AI homeless man prankKids are using AI to create images of a disheveled person in their home, then sending that to their parents. (The Verge)
-
-
-
-6 How Elon Musk’s embrace of Trump continues to hurt TeslaThe result is that his cars are now more expensive and less desirable. (The Atlantic&nbsp;$)+&nbsp;China might force Tesla to redesign its door handles.&nbsp;(Wired&nbsp;$)+&nbsp;How did China come to dominate the world of electric cars?&nbsp;(MIT Technology Review)&nbsp;7 What happened after schools in Australia banned phones?Both students and staff say the impact has been overwhelmingly positive. (The Guardian)8 AI is fantastic at detecting small earthquakes&nbsp;But the really big prize is seeing if it can help with predicting them, too. (Ars Technica)+&nbsp;What we can learn from Japan’s “megaquake” preparations.&nbsp;(MIT Technology Review)9 Climate change is creating new hybrid speciesThe “grue jay” is half-blue jay, half-green jay. It’s also a sign of the times we live in. (Nautilus)+&nbsp;How a breakthrough gene-editing tool will help the world cope with climate change. (MIT Technology Review)10 How people gamify Hinge to get the dates they want&nbsp;It puts people’s most promising matches behind a paywall—but they’re finding workarounds. (The Cut&nbsp;$)+&nbsp;There’s now a term for daters who use AI to boost their appeal : chatfishers.&nbsp;(The Guardian)
-
-
-
-
-
-
-
-Quote of the day
-
-
-
-“It’s as emotionally devastating as it is dangerous to the American public.”
-
-
-
-—An employee at the Centers for Disease Control and Prevention tells STAT about the impact of the Trump administration’s decision to carry out mass layoffs at the agency. 
-
-
-
-
-
-
-
-One more thing
-
-
-
-GETTY IMAGES
-
-
-
-
-How the federal government is tracking changes in the supply of street drugsIn 2021, the Maryland Department of Health and the state police were confronting a crisis: Fatal drug overdoses in the state were at an all-time high, and authorities didn’t know why.Seeking answers, Maryland officials turned to scientists at the National Institute of Standards and Technology, the national metrology institute for the United States, which defines and maintains standards of measurement essential to a wide range of industrial sectors and health and security applications.There, a research chemist named Ed Sisco and his team had developed methods for detecting trace amounts of drugs, explosives, and other dangerous materials—techniques that could protect law enforcement officials and others who had to collect these samples. And a pilot uncovered new, critical information almost immediately. Read the full story.—Adam Bluestein
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+ This spicy tea is exactly what you need when you’re under the weather. + Just a man, jamming with his cat. + Empathy is not a fixed trait—you can grow it. Here’s how.+ There’s something very soothing about João Bernardino’s photos of Portugal.
-• An Earthling’s guide to planet hunting
-  The pendant on Rebecca Jensen-Clem’s necklace is only about an inch wide, composed of 36 silver hexagons entwined in a honeycomb mosaic. At the Keck Observatory, in Hawaii, just as many segments make up a mirror that spans 33 feet, reflecting images of uncharted worlds for her to study.&nbsp;
-
-
-
-Jensen-Clem, an astronomer at the University of California, Santa Cruz, works with the Keck Observatory to figure out how to detect new planets without leaving our own. Typically, this pursuit faces an array of obstacles: Wind, fluctuations in atmospheric density and temperature, or even a misaligned telescope mirror can create a glare from a star’s light that obscures the view of what’s around it, rendering any planets orbiting the star effectively invisible. And what light Earth’s atmosphere doesn’t obscure, it absorbs. That’s why researchers who study these distant worlds often work with space telescopes that circumvent Earth’s pesky atmosphere entirely, such as the $10 billion James Webb Space Telescope.&nbsp;
-
-
-
-
-
-But there’s another way over these hurdles. At her lab among the redwoods, Jensen-Clem and her students experiment with new technologies and software to help Keck’s primary honeycomb mirror and its smaller, “deformable” mirror see more clearly. Using measurements from atmospheric sensors, deformable mirrors are designed to adjust shape rapidly, so they can correct for distortions caused by Earth’s atmosphere on the fly.&nbsp;
-
-
-
-This general imaging technique, called adaptive optics, has been common practice since the 1990s. But Jensen-Clem is looking to level up the game with extreme adaptive optics technologies, which are aimed to create the highest image quality over a small field of view. Her group, in particular, does so by tackling issues involving wind or the primary mirror itself. The goal is to focus starlight so precisely that a planet can be visible even if its host star is a million to a billion times brighter.
-
-
-
-In April, she and her former collaborator Maaike van Kooten were named co-recipients of the Breakthrough Prize Foundation’s New Horizons in Physics Prize. The prize announcement says they earned this early-career research award for their potential “to enable the direct detection of the smallest exo­planets” through a repertoire of methods the two women have spent their careers developing.&nbsp;
-
-
-
-In July, Jensen-Clem was also announced as a member of a new committee for the Habitable Worlds Observatory, a concept for a NASA space telescope that would spend its career on the prowl for signs of life in the universe. She’s tasked with defining the mission’s scientific goals by the end of the decade.
-
-
-
-The Keck Observatory’s 10-meter primary mirror features a honeycomb structure with 36 individual mirror segments.ETHAN TWEEDIE
-
-
-
-
-“In adaptive optics, we spend a lot of time on simulations, or in the lab,” Jensen-Clem says. “It’s been a long road to see that I’ve actually made things better at the observatory in the past few years.”
-
-
-
-Jensen-Clem has long appreciated astronomy for its more mind-bending qualities. In seventh grade, she became fascinated by how time slows down near a black hole when her dad, an aerospace engineer, explained that concept to her. After starting her bachelor’s degree at MIT in 2008, she became taken with how a distant star can seem to disappear—either suddenly winking out or gently fading away, depending on the kind of object that passes in front of it. “It wasn’t quite exoplanet science, but there was a lot of overlap,” she says.
-
-
-
-
-“If you just look up at the night sky and see stars twinkling, it’s happening fast. So we have to go fast too.”
-
-
-
-
-During this time, Jensen-Clem began sowing the seeds for one of her prize-winning methods after her teaching assistant recommended that she apply for an internship at NASA’s Jet Propulsion Laboratory. There, she worked on a setup that could perfect the orientation of a large mirror. Such mirrors are more difficult to realign than the smaller, deformable ones, whose shape-changing segments cater to Earth’s fluctuating atmosphere.
-
-
-
-“At the time, we were saying, ‘Oh, wouldn’t it be really cool to install one of these at Keck Observatory?’” Jensen-Clem says. The idea stuck around. She even wrote about it in a fellowship application when she was gearing up to start her graduate work at Caltech. And after years of touch-and-go development, Jensen-Clem succeeded in installing the system—which uses a technology called a Zernike wavefront sensor—on Keck’s primary mirror about a year ago. “My work as a college intern is finally done,” she says.&nbsp;
-
-
-
-
-
-The system, which is currently used for occasional recalibrations rather than continuous adjustments, includes a special kind of glass plate that bends the light rays from the mirror to reveal a specific pattern. The detector can pick up a hairbreadth misalignment in that picture: If one hexagon is pushed too far back or forward, its brightness changes. Even the tiniest misalignment is important to correct, because “when you’re studying a faint object, suddenly you’re much more susceptible to little mistakes,” Jensen-Clem says.
-
-
-
-She has also been working to perfect the craft of molding Keck’s deformable mirror. This instrument, which reflects light that’s been rerouted from the primary mirror, is much smaller—only six inches wide—and is designed to reposition as often as 2,000 times a second to combat atmospheric turbulence and create the clearest picture possible. “If you just look up at the night sky and see stars twinkling, it’s happening fast. So we have to go fast too,” Jensen-Clem says.&nbsp;
-
-
-
-Even at this rapid rate of readjustment, there’s still a lag. The deformable mirror is usually about one millisecond behind the actual outdoor conditions at any given time. “When the [adaptive optics] system can’t keep up,&nbsp;then you aren’t going to get the best resolution,” says van Kooten, Jensen-Clem’s former collaborator, who is now at the National Research Council Canada. This lag has proved especially troublesome on windy nights.&nbsp;
-
-
-
-Jensen-Clem thought it was an unsolvable problem. “The reason we have that delay is because we need to run computations and then move the deformable mirror,” she says. “You’re never going to do those things instantaneously.”
-
-
-
-
-
-But while she was still a postdoc at UC Berkeley, she came across a paper that posited a solution. Its authors proposed that using previous measurements and simple algebra to predict how the atmosphere will change, rather than trying to keep up with it in real time, would yield better results. She wasn’t able to test the idea at the time, but coming to UCSC and working with Keck presented the perfect opportunity.&nbsp;
-
-
-
-Around this time, Jensen-Clem invited van Kooten to join her team at UCSC as a postdoc because of their shared interest in the predictive software. “I didn’t have a place to live at first, so she put me up in her guest room,” van Kooten says. “She’s just so supportive at every level.”
-
-
-
-After creating experimental software to try out at Keck, the team compared the predictive version with the more standard adaptive optics, examining how well each imaged an exoplanet without its drowning in starlight. They found that the predictive software could image even faint exoplanets two to three times more clearly. The results, which Jensen-Clem published in 2022, were part of what earned her the New Horizons in Physics Prize.&nbsp;
-
-
-
-Thayne Currie, an astronomer at the University of Texas, San Antonio, says that these new techniques will become especially vital as researchers build bigger and bigger ground-based facilities to capture images of exoplanets—including upcoming projects such as the Extremely Large Telescope at the European Southern Observatory and the Giant Magellan Telescope in Chile. “There’s an incredible amount that we’re learning&nbsp;about the universe, and it is really driven by technology advances that are very, very&nbsp;new,” Currie says. “Dr. Jensen-Clem’s work is an example of that kind of innovation.”
-
-
-
-In May, one of Jensen-Clem’s graduate students went back to Hawaii to reinstall the predictive software at Keck. This time, the program isn’t just a trial run; it’s there to stay. The new software has shown it can refocus artificial starlight. Next, it will have to prove it can handle the real thing.&nbsp;
-
-
-
-
-
-And in about a year, Jensen-Clem and her students and colleagues will brace themselves for a flood of observations from the European Space Agency’s Gaia mission, which recently finished measuring the motion, temperature, and composition of billions of stars over more than a decade.&nbsp;
-
-
-
-When the project releases its next set of data—slated for December 2026—Jensen-Clem’s team aims to hunt for new exoplanetary systems using clues like the wobbles in a star’s motion caused by the gravitational tugs of planets orbiting around it. Once a system has been identified, exoplanet photographers will then be able to shoot the hidden planets using a new instrument at Keck that can reveal more about their atmospheres and temperatures.&nbsp;
-
-
-
-There will be a mountain of data to sort through, and an even steeper supply of starlight to refocus. Thankfully, Jensen-Clem has spent more than a decade refining just the techniques she’ll need: “This time next year,” she says, “we’ll be racing to throw all our adaptive optics tricks at these systems and detect as many of these objects as possible.”
-
-
-
-Jenna Ahart is a science journalist specializing in the physical sciences.&nbsp;
 
 🔒 Cybersecurity & Privacy
+• Patch Tuesday, October 2025 ‘End of 10’ Edition
+  Microsoft today released software updates to plug a whopping 172 security holes in its Windows operating systems, including at least two vulnerabilities that are already being actively exploited. October&#8217;s Patch Tuesday also marks the final month that Microsoft will ship security updates for Windows 10 systems. If you&#8217;re running a Windows 10 PC and you&#8217;re unable or unwilling to migrate to Windows 11, read on for other options.
+
+The first zero-day bug addressed this month (CVE-2025-24990) involves a third-party modem driver called Agere Modem that&#8217;s been bundled with Windows for the past two decades. Microsoft responded to active attacks on this flaw by completely removing the vulnerable driver from Windows.
+The other zero-day is CVE-2025-59230, an elevation of privilege vulnerability in Windows Remote Access Connection Manager (also known as RasMan), a service used to manage remote network connections through virtual private networks (VPNs) and dial-up networks.
+&#8220;While RasMan is a frequent flyer on Patch Tuesday, appearing more than 20 times since January 2022, this is the first time we&#8217;ve seen it exploited in the wild as a zero day,&#8221; said Satnam Narang, senior staff research engineer at Tenable.
+Narang notes that Microsoft Office users should also take note of CVE-2025-59227 and CVE-2025-59234, a pair of remote code execution bugs that take advantage of &#8220;Preview Pane,” meaning that the target doesn’t even need to open the file for exploitation to occur. To execute these flaws, an attacker would social engineer a target into previewing an email with a malicious Microsoft Office document.
+Speaking of Office, Microsoft quietly announced this week that Microsoft Word will now automatically save documents to OneDrive, Microsoft&#8217;s cloud platform. Users who are uncomfortable saving all of their documents to Microsoft&#8217;s cloud can change this in Word&#8217;s settings; ZDNet has a useful how-to on disabling this feature.
+Kev Breen, senior director of threat research at Immersive, called attention to CVE-2025-59287, a critical remote code execution bug in the Windows Server Update Service  (WSUS) &#8212; the very same Windows service responsible for downloading security patches for Windows Server versions. Microsoft says there are no signs this weakness is being exploited yet. But with a threat score of 9.8 out of possible 10 and marked &#8220;exploitation more likely,&#8221; CVE-2025-59287 can be exploited without authentication and is an easy &#8220;patch now&#8221; candidate.
+&#8220;Microsoft provides limited information, stating that an unauthenticated attacker with network access can send untrusted data to the WSUS server, resulting in deserialization and code execution,&#8221; Breen wrote. &#8220;As WSUS is a trusted Windows service that is designed to update privileged files across the file system, an attacker would have free rein over the operating system and could potentially bypass some EDR detections that ignore or exclude the WSUS service.&#8221;
+For more on other fixes from Redmond today, check out the SANS Internet Storm Center monthly roundup, which indexes all of the updates by severity and urgency.
+Windows 10 isn&#8217;t the only Microsoft OS that is reaching end-of-life today; Exchange Server 2016, Exchange Server 2019, Skype for Business 2016, Windows 11 IoT Enterprise Version 22H2, and Outlook 2016 are some of the other products that Microsoft is sunsetting today.
+
+If you&#8217;re running any Windows 10 systems, you&#8217;ve probably already determined whether your PC meets the technical hardware specs recommended for the Windows 11 OS. If you&#8217;re reluctant or unable to migrate a Windows 10 system to Windows 11, there are alternatives to simply continuing to use Windows 10 without ongoing security updates.
+One option is to pay for another year&#8217;s worth of security updates through Microsoft&#8217;s Extended Security Updates (ESU) program. The cost is just $30 if you don&#8217;t have a Microsoft account, and apparently free if you register the PC to a Microsoft account. This video breakdown from Ask Your Computer Guy does a good job of walking Windows 10 users through this process. Microsoft emphasizes that ESU enrollment does not provide other types of fixes, feature improvements or product enhancements. It also does not come with technical support.
+If your Windows 10 system is associated with a Microsoft account and signed in when you visit Windows Update, you should see an option to enroll in extended updates. Image: https://www.youtube.com/watch?v=SZH7MlvOoPM
+Windows 10 users also have the option of installing some flavor of Linux instead. Anyone seriously considering this option should check out the website endof10.org, which includes a plethora of tips and a DIY installation guide.
+Linux Mint is a great option for Linux newbies. Like most modern Linux versions, Mint will run on anything with a 64-bit CPU that has at least 2GB of memory, although 4GB is recommended. In other words, it will run on almost any computer produced in the last decade.
+Linux Mint also is likely to be the most intuitive interface for regular Windows users, and it is largely configurable without any fuss at the text-only command-line prompt. Mint and other flavors of Linux come with LibreOffice, which is an open source suite of tools that includes applications similar to Microsoft Office, and it can open, edit and save documents as Microsoft Office files.
+If you’d prefer to give Linux a test drive before installing it on a Windows PC, you can always just download it to a removable USB drive. From there, reboot the computer (with the removable drive plugged in) and select the option at startup to run the operating system from the external USB drive. If you don’t see an option for that after restarting, try restarting again and hitting the F8 button, which should open a list of bootable drives. Here’s a fairly thorough tutorial that walks through exactly how to do all this.
+And if this is your first time trying out Linux, relax and have fun: The nice thing about a “live” version of Linux (as it’s called when the operating system is run from a removable drive such as a CD or a USB stick) is that none of your changes persist after a reboot. Even if you somehow manage to break something, a restart will return the system back to its original state.
+As ever, if you experience any difficulties during or after applying this month&#8217;s batch of patches, please leave a note about it in the comments below.
 • DDoS Botnet Aisuru Blankets US ISPs in Record DDoS
   The world&#8217;s largest and most disruptive botnet is now drawing a majority of its firepower from compromised Internet-of-Things (IoT) devices hosted on U.S. Internet providers like AT&amp;T, Comcast and Verizon, new evidence suggests. Experts say the heavy concentration of infected devices at U.S. providers is complicating efforts to limit collateral damage from the botnet&#8217;s attacks, which shattered previous records this week with a brief traffic flood that clocked in at nearly 30 trillion bits of data per second.
 Since its debut more than a year ago, the Aisuru botnet has steadily outcompeted virtually all other IoT-based botnets in the wild, with recent attacks siphoning Internet bandwidth from an estimated 300,000 compromised hosts worldwide.
@@ -875,6 +1397,117 @@ At this, Forky verbally bristled at being pressed for more details, and abruptly
 No updates.
 
 🏢 Corporate AI
+• Build a device management agent with Amazon Bedrock AgentCore
+  The proliferation of Internet of Things (IoT) devices has transformed how we interact with our environments, from homes to industrial settings. However, as the number of connected devices grows, so does the complexity of managing them. Traditional device management interfaces often require navigating through multiple applications, each with its own UI and learning curve. This fragmentation creates friction for users trying to monitor and control their IoT environment. 
+In this post, we explore how to build a conversational device management system using Amazon Bedrock AgentCore. With this solution, users can manage their IoT devices through natural language, using a UI for tasks like checking device status, configuring WiFi networks, and monitoring user activity. To learn more about how Amazon Bedrock AgentCore enables deploying and operating highly effective agents securely at scale using a variety of frameworks and models, refer to Enabling customers to deliver production-ready AI agents at scale. 
+The challenge of device management 
+Managing a modern IoT environment involves navigating numerous challenges that can hinder user experience and technology adoption. Interface fragmentation forces users to juggle multiple applications and management tools for different devices, and technical complexity can make even basic configuration tasks intimidating for non-specialists. Adding to these difficulties are visibility limitations that prevent comprehensive monitoring of device status, and inadequate user management capabilities that make it difficult to track device usage patterns. 
+Together, these pain points create significant friction for users trying to implement and maintain IoT solutions effectively. 
+Solution overview 
+The conversational AI solution using agents offers a comprehensive approach to IoT complexity through its unified conversational interface that consolidates device management tasks into a single access point. Users can perform sophisticated operations through natural language interaction instead of navigating technical menus, while gaining comprehensive visibility across connected devices and transforming complex configuration tasks into straightforward conversations. The system delivers essential capabilities, including device management for inventory control and status monitoring, WiFi network management for simplified network configuration, user management for access control, and activity tracking for temporal analysis of user interactions. This seamless management experience minimizes monitoring vulnerabilities and provides valuable insights into usage patterns and potential security concerns, effectively removing the typical barriers to successful IoT implementation while maintaining appropriate system authorization throughout the network. 
+Architecture overview 
+ 
+The device management system follows a modular architecture that uses several AWS services. The architecture consists of the following components: 
+ 
+ User and application interface – Users interact with the system through a web application that serves as the frontend interface. 
+ Foundation models – This system uses various foundation models (FMs) in Amazon Bedrock to power natural language understanding and generation capabilities. 
+ Amazon Bedrock AgentCore Gateway – This feature acts as the secure entry point for authenticated requests, validating bearer tokens before routing requests to the appropriate target. 
+ Amazon Bedrock AgentCore Identity – This feature manages agent identity and permissions, controlling what actions the agent can perform on behalf of users. 
+ Amazon Bedrock AgentCore Memory – This feature supports both short-term and long-term memory, maintaining immediate conversation context within a session and storing persistent insights and preferences across sessions. This enables agents to provide consistent, context-aware responses without developers needing to manage complex memory infrastructure. 
+ Amazon Bedrock AgentCore Observability – This feature monitors agent performance, tracks metrics, and provides insights into system usage and behavior for debugging and optimization. 
+ Amazon Bedrock AgentCore Runtime – This secure, serverless environment supports AI agents built with open source frameworks. It maintains complete session isolation by dedicating isolated containers per user session, enabling scalable and secure management of long-running, stateful interactions. 
+ Amazon Cognito – Amazon Cognito handles user authentication through bearer token generation and validation, facilitating secure access to the system. 
+ Amazon DynamoDB – Amazon DynamoDB stores system data across five tables. 
+ AWS Lambda – The solution connects the gateway to AWS Lambda functions that execute specific device management operations. Lambda contains the business logic for device management, implementing seven core tools. 
+ 
+This architecture enables a seamless flow from user query to response: the user submits a natural language request through the application, which is authenticated through Amazon Cognito and processed by Amazon Bedrock AgentCore Runtime. The runtime determines the appropriate tool to invoke and sends the request through the gateway to the Lambda function, which queries or updates DynamoDB as needed. The result flows back through the same path, with the runtime generating a natural language response based on the data retrieved. 
+Refer to the GitHub repository for detailed deployment instructions. 
+Key functionalities of the device management agent 
+The device management system uses Lambda to implement seven essential tools for device management, including listing devices, retrieving settings, managing WiFi networks, and monitoring user activity, all invoked by the agent as needed. This functionality is supported by our flexible NoSQL database architecture in DynamoDB, which comprises five distinct tables—Devices, DeviceSettings, WifiNetworks, Users, and UserActivities—storing specialized data to maintain comprehensive system records. Together, these components create a robust foundation that enables efficient device management while maintaining detailed audit trails of system activities. 
+Key features showcase 
+
+ 
+  
+ 
+ 
+Performance and security considerations 
+The solution balances robust concurrent processing capabilities with comprehensive protection measures. The device management system efficiently handles multiple simultaneous requests through automatically scaling Lambda functions, consistent DynamoDB performance regardless of data volume, and intelligent retry logic with exponential backoff when encountering rate limitations. To scale across hundreds of tools, the semantic search capability in Amazon Bedrock AgentCore Gateway enables efficient and relevant discovery of tools by meaning, facilitating quick and accurate responses even at large scale. 
+The system implements industry-leading security practices, including Amazon Cognito authentication, Amazon Bedrock AgentCore Identity, layered access control through gateway and Lambda level permission verification, comprehensive data encryption at rest and in transit, and Amazon Bedrock Guardrails to help prevent prompt injection attacks while maintaining interaction safety. 
+Conclusion 
+The device management system presented in this post uses Amazon Bedrock AgentCore to transform IoT management through conversational AI, creating an intuitive interface where complex device operations become simple dialogue. Its composable, reusable, and decoupled agentic architecture alleviates undifferentiated heavy lifting by providing built-in features for secure, scalable deployment and seamless integration. By combining large language models with an AWS infrastructure, the solution provides enterprise-grade capabilities without burdening developers with infrastructure management. Key benefits include simplified user experiences through natural language interaction, operational efficiency with unified interfaces, comprehensive device visibility, and future-proof architecture that evolves with AI advancements. The system’s model-agnostic approach supports continuous improvement as new FMs emerge, and robust security and observability features help organizations confidently deploy scalable, next-generation device management solutions tailored to their specific IoT environments. 
+To implement this solution, refer to the GitHub repository. 
+ 
+About the Author 
+Godwin Sahayaraj Vincent is an Enterprise Solutions Architect at AWS who is passionate about Machine Learning and providing guidance to customers to design, deploy and manage their AWS workloads and architectures. In his spare time, he loves to play cricket with his friends and tennis with his three kids. 
+Ramesh Kumar Venkatraman is a Senior Solutions Architect at AWS who is passionate about Generative AI, Containers and Databases. He works with AWS customers to design, deploy and manage their AWS workloads and architectures. In his spare time, he loves to play with his two kids and follows cricket. 
+Chhavi Kaushik is an AWS Solutions Architect specializing in cloud-native architectures and digital transformation. She is passionate about helping customers harness the power of Generative AI, designing and implementing enterprise-scale solutions that combine AWS’s cutting-edge AI/ML services. Outside of her professional life, Chhavi enjoys exploring the California outdoors, making the most of the Bay Area’s beautiful weather and lifestyle.
+• How Amazon Bedrock Custom Model Import streamlined LLM deployment for Salesforce
+  This post is cowritten by Salesforce’s AI Platform team members Srikanta Prasad, Utkarsh Arora, Raghav Tanaji, Nitin Surya, Gokulakrishnan Gopalakrishnan, and Akhilesh Deepak Gotmare. 
+Salesforce’s Artificial Intelligence (AI) platform team runs customized large language models (LLMs)—fine-tuned versions of Llama, Qwen, and Mistral—for agentic AI applications like Agentforce. Deploying these models creates operational overheads: teams spend months optimizing instance families, serving engines, and configurations. This process is time-consuming, hard to maintain with frequent releases, and expensive due to GPU capacity reservations for peak usage. 
+Salesforce solved this by adopting Amazon Bedrock Custom Model Import. With Amazon Bedrock Custom Model Import, teams can import and deploy customized models through a unified API, minimizing infrastructure management while integrating with Amazon Bedrock features like Amazon Bedrock Knowledge Bases, Amazon Bedrock Guardrails, and Amazon Bedrock Agents. This shift lets Salesforce focus on models and business logic instead of infrastructure. 
+This post shows how Salesforce integrated Amazon Bedrock Custom Model Import into their machine learning operations (MLOps) workflow, reused existing endpoints without application changes, and benchmarked scalability. We share key metrics on operational efficiency and cost optimization gains, and offer practical insights for simplifying your deployment strategy. 
+Integration approach 
+Salesforce’s transition from Amazon SageMaker Inference to Amazon Bedrock Custom Model Import required careful integration with their existing MLOps pipeline to avoid disrupting production workloads. The team’s primary goal was to maintain their current API endpoints and model serving interfaces, keeping zero downtime and no required changes to downstream applications. With this approach, they could use the serverless capabilities of Amazon Bedrock while preserving the investment in their existing infrastructure and tooling. The integration strategy focused on creating a seamless bridge between their current deployment workflows and Amazon Bedrock managed services, enabling gradual migration without additional operational risk. 
+As shown in the following deployment flow diagram, Salesforce enhanced their existing model delivery pipeline with a single additional step to use Amazon Bedrock Custom Model Import. After their continuous integration and continuous delivery (CI/CD) process saves model artifacts to their model store (an Amazon Simple Storage Service (Amazon S3) bucket), they now call the Amazon Bedrock Custom Model Import API to register the model with Amazon Bedrock. This control plane operation is lightweight because Amazon Bedrock pulls the model directly from Amazon S3, adding minimal overhead (5–7 mins, depending on model size) to their deployment timeline—their overall model release process remains at approximately 1 hour. The integration delivered an immediate performance benefit: SageMaker no longer needs to download weights at container startup because Amazon Bedrock preloads the model. The main configuration changes involved granting Amazon Bedrock permissions to allow cross-account access to their S3 model bucket and updating AWS Identity and Access Management (IAM) policies to allow inference clients to invoke Amazon Bedrock endpoints. 
+ 
+The following inference flow diagram illustrates how Salesforce maintained their existing application interfaces while using Amazon Bedrock serverless capabilities. Client requests flow through their established preprocessing layer for business logic like prompt formatting before reaching Amazon Bedrock, with postprocessing applied to the raw model output. To handle complex processing requirements, they deployed lightweight SageMaker CPU containers that act as intelligent proxies—running their custom model.py logic while forwarding the actual inference to Amazon Bedrock endpoints. This hybrid architecture preserves their existing tooling framework: their prediction service continues calling SageMaker endpoints without routing changes, and they retain mature SageMaker monitoring and logging for preprocessing and postprocessing logic. The trade-off involves an additional network hop adding 5–10 millisecond latency and the cost of always-on CPU instances, but this approach delivers backward-compatibility with existing integrations while keeping the GPU-intensive inference fully serverless through Amazon Bedrock. 
+ 
+Scalability benchmarking 
+To validate the performance capabilities of Amazon Bedrock Custom Model Import, Salesforce conducted comprehensive load testing across various concurrency scenarios. Their testing methodology focused on measuring how the transparent auto scaling behavior of Amazon Bedrock—where the service automatically spins up model copies on-demand and scales out under heavy load—would impact real-world performance. Each test involved sending standardized payloads containing model IDs and input data through their proxy containers to Amazon Bedrock endpoints, measuring latency and throughput under different load patterns. Results (see the following table) show that at low concurrency, Amazon Bedrock achieved 44% lower latency than the ml.g6e.xlarge baseline (bf16 precision). Under higher loads, Amazon Bedrock Custom Model Import maintained consistent throughput with acceptable latency (less than 10 milliseconds), demonstrating the serverless architecture’s ability to handle production workloads without manual scaling. 
+ 
+  
+   
+   Concurrency (Count) 
+   P95 Latency (in Seconds) 
+   Throughput (Request per Minute) 
+   
+   
+   1 
+   7.2 
+   11 
+   
+   
+   4 
+   7.96 
+   41 
+   
+   
+   16 
+   9.35 
+   133 
+   
+   
+   32 
+   10.44 
+   232 
+   
+  
+ 
+The results show P95 latency and throughput performance of the ApexGuru model (fine-tuned QWEN-2.5 13B) at varying concurrency levels. Amazon Bedrock Custom Model Import auto scaled from one to three copies as concurrency reached 32. Each model copy used 1 model unit. 
+Results and metrics 
+Beyond scalability improvements, Salesforce evaluated Amazon Bedrock Custom Model Import across two critical business dimensions: operational efficiency and cost optimization. The operational efficiency gains were substantial—the team achieved a 30% reduction in time to iterate and deploy models to production. This improvement stemmed from alleviating complex decision-making around instance selection, parameter tuning, and choosing between serving engines like vLLM vs. TensorRT-LLM. The streamlined deployment process allowed developers to focus on model performance rather than infrastructure configuration. 
+Cost optimization delivered even more dramatic results, with Salesforce achieving up to 40% cost reduction through Amazon Bedrock. This savings was primarily driven by their diverse traffic patterns across generative AI applications—ranging from low to high production traffic—where they previously had to reserve GPU capacity for peak workloads. The pay-per-use model proved especially beneficial for development, performance testing, and staging environments that only required GPU resources during active development cycles, avoiding the need for round-the-clock reserved capacity that often sat idle. 
+Lessons learned 
+Salesforce’s journey with Amazon Bedrock Custom Model Import revealed several key insights that can guide other organizations considering a similar approach. First, although Amazon Bedrock Custom Model Import supports popular open source model architectures (Qwen, Mistral, Llama) and expands its portfolio frequently based on demand, teams working with cutting-edge architectures might need to wait for support. However, organizations fine-tuning with the latest model architectures should verify compatibility before committing to the deployment timeline. 
+For pre- and post-inference processing, Salesforce evaluated alternative approaches using Amazon API Gateway and AWS Lambda functions, which offer complete serverless scaling and pay-per-use pricing down to milliseconds of execution. However, they found this approach less backward-compatible with existing integrations and observed cold start impacts when using larger libraries in their processing logic. 
+Cold start latency emerged as a critical consideration, particularly for larger (over 7B parameter) models. Salesforce observed cold start delays of a couple of minutes with 26B parameter models, with latency varying based on model size. For latency-sensitive applications that can’t tolerate such delays, they recommend keeping endpoints warm by maintaining at least one model copy active through health check invocations every 14 minutes. This approach balances cost-efficiency with performance requirements for production workloads. 
+Conclusion 
+Salesforce’s adoption of Amazon Bedrock Custom Model Import shows how to simplify LLM deployment without sacrificing scalability or performance. They achieved 30% faster deployments and 40% cost savings while maintaining backward-compatibility through their hybrid architecture using SageMaker proxy containers alongside Amazon Bedrock serverless inference. For highly customized models or unsupported architectures, Salesforce continues using SageMaker AI as a managed ML solution. 
+Their success came from methodical execution: thorough load testing, and gradual migration starting with non-critical workloads. The results prove serverless AI deployment works for production, especially with variable traffic patterns. ApexGuru is now deployed in their production environment. 
+For teams managing LLMs at scale, this case study provides a clear blueprint. Check your model architecture compatibility, plan for cold starts with larger models, and preserve existing interfaces. Amazon Bedrock Custom Model Import offers a proven path to serverless AI that can reduce overhead, speed deployment, and cut costs while meeting performance requirements. 
+To learn more about pricing for Amazon Bedrock, refer to Optimizing cost for using foundational models with Amazon Bedrock and Amazon Bedrock pricing. 
+For help choosing between Amazon Bedrock and SageMaker AI, see Amazon Bedrock or Amazon SageMaker AI? 
+For more information about Amazon Bedrock Custom Model Import, see How to configure cross-account model deployment using Amazon Bedrock Custom Model Import. 
+For more details about ApexGuru, refer to Get AI-Powered Insights for Your Apex Code with ApexGuru. 
+ 
+About the authors 
+Srikanta Prasad is a Senior Manager in Product Management specializing in generative AI solutions at Salesforce. He leads Model Hosting and Inference initiatives, focusing on LLM inference serving, LLMOps, and scalable AI deployments.  
+Utkarsh Arora is an Associate Member of Technical Staff at Salesforce, combining strong academic grounding from IIIT Delhi with early career contributions in ML engineering and research.&nbsp;  
+Raghav Tanaji is a Lead Member of Technical Staff at Salesforce, specializing in machine learning, pattern recognition, and statistical learning. He holds an M.Tech from IISc Bangalore. 
+Akhilesh Deepak Gotmare is a Senior Research Staff Member at Salesforce Research, based in Singapore. He is an AI Researcher focusing on deep learning, natural language processing, and code-related applications 
+Gokulakrishnan Gopalakrishnan is a Principal Software Engineer at Salesforce, where he leads engineering efforts on ApexGuru. With 15+ years of experience, including at Microsoft, he specializes in building scalable software systems 
+Nitin Surya is a Lead Member of Technical Staff at Salesforce with 8+ years in software/ML engineering. He holds a B.Tech in CS from VIT University and MS in CS (AI/ML focus) from University of Illinois Chicago. 
+Hrushikesh Gangur is a Principal Solutions Architect at AWS based in San Francisco, California. He specializes in generative and agentic AI, helping startups and ISVs build and deploy AI applications.
 • Transforming the physical world with AI: the next frontier in intelligent automation
   The convergence of artificial intelligence with physical systems marks a pivotal moment in technological evolution. Physical AI, where algorithms transcend digital boundaries to perceive, understand, and manipulate the tangible world, will fundamentally transform how enterprises operate across industries. These intelligent systems bridge the gap between digital intelligence and physical reality, unlocking unprecedented opportunities for efficiency and innovation. For many organizations, this opens the door to entirely new ways to delight their customers and, in turn, transform entire industries. 
 To accelerate this transformation, the AWS Generative AI Innovation Center, MassRobotics, and NVIDIA launched the Physical AI Fellowship, providing crucial support to startups developing next-generation robotics and automation solutions. We are pleased to be working with our first cohort fellows: 
@@ -1205,339 +1838,5 @@ About the authors
 Chethan Shriyan is a Principal Product Manager – Technical at AWS. He has 12+ years of experience in product and business management. Chethan is passionate about building and delivering technology products that create meaningful impact in customers’ lives. 
 Ajay Nyamati is the co-founder and CEO of Kitsa – a healthtech company using AI and data automation to transform clinical trials. With 20+ years of Sales &amp; Strategy in global companies, Ajay has spent 10+ years in the Digital Health space across payors, providers and pharma. Before co-founding Kitsa, he was the business leader for clinical trials solutions in Amazon Web Services. 
 Reagan Rosario brings over a decade of technical expertise to his role as a Sr. Specialist Solutions Architect in Generative AI at AWS. Reagan transforms enterprise systems through strategic implementation of AI-powered cloud solutions, automated workflows, and innovative architecture design. His specialty lies in guiding organizations through digital evolution—preserving core business value while implementing cutting-edge generative AI capabilities that dramatically enhance operations and create new possibilities.
-• Connect Amazon Quick Suite to enterprise apps and agents with MCP
-  Organizations need solutions for people and AI agents to securely collaborate through a single interface to the organization’s data and take actions across enterprise applications to improve productivity. The ability of an AI agent to securely and seamlessly connect with organizational knowledge bases, enterprise applications, and other AI agents is foundational to drive adoption and use of AI solutions.&nbsp;Model Context Protocol (MCP)&nbsp;provides a more secure, standardized and simple mechanism for such connectivity, alleviating the need for complex custom integrations. 
-In this blog post, you will learn how to use Amazon Quick Suite MCP Actions integrations to connect with hosted MCP servers for enterprise applications such as Asana, Atlassian’s Jira and Confluence, Box, Canva, HubSpot,&nbsp;HuggingFace, Intercom, Linear, Monday, Notion, PagerDuty, Workato and Zapier as well as your existing enterprise solutions and AI agents using&nbsp;Amazon Bedrock AgentCore Gateway. We will cover specific Actions setup examples for Atlassian Jira and Confluence,&nbsp;AWS Knowledge MCP Server, and Amazon Bedrock AgentCore Gateway. 
-Solution overview 
-With the Amazon Quick Suite MCP client, you can connect to remote hosted MCP servers or your own hosted MCP servers. The Amazon Quick Suite service includes an MCP client that can be used to securely connect Amazon Quick Suite with AI agents and applications through MCP servers. The Amazon Quick Suite MCP client supports server-sent events (SSE) and streamable HTTP for transport, and several authentication mechanisms including three-legged OAuth (3LO), two-legged OAuth (2LO), and No Auth. Amazon Quick Suite supports OAuth 2.0 Dynamic Client Registration protocol to obtain OAuth client IDs without user interaction. 
-You can connect Amazon Quick Suite using the MCP client to create integrations with AWS Knowledge MCP Server and the Atlassian MCP server, as shown in the following diagram. 
- 
-Prerequisites 
-Verify that you meet the following prerequisites to deploy the solution in your own AWS account using the step-by-step instructions in this blog post. Before you begin, make sure that you have the following: 
- 
- An AWS account 
- Amazon Quick Suite set up with Author Pro subscription 
- An Atlassian account with Jira and Confluence access 
- Permission to create AWS resources and&nbsp;AWS Identity and Access Management (IAM) roles and policies 
- Basic knowledge of AWS&nbsp;services 
- For the Amazon Bedrock AgentCore setup: 
-   
-   Access to a command line environment with AWS SDK and Python installed 
-   Knowledge of AWS CLI and Python 
-   Amazon Bedrock with access enabled for Anthropic models 
-    
- 
-Amazon Quick Suite Actions integration with Atlassian MCP server 
-In this section, you will create an Amazon Quick Suite Actions integration with the Atlassian MCP server to connect with your Atlassian cloud instance, and then you will use your Amazon Quick Suite Chat Agent to invoke actions defined by this integration. 
- 
- Sign on to Amazon Quick Suite using credentials with an Author Pro role using your web browser. 
- From the Amazon Quick Suite Home screen,&nbsp;select Integrations from the Connections section on the left navigation panel and then select the Actions tab in the main panel. Select the plus (+) sign in the Model Context Protocol tile in the Set up a new integration section, as shown in the following screenshot. 
- 
- 
- 
- On the Create integration screen, enter the Name and Description for your Atlassian integration. For MCP server endpoint, enter the URL of Atlassian hosted MCP server as https://mcp.atlassian.com/v1/sse,&nbsp;as shown in the following screenshot, then choose Next. 
- 
- 
- 
- The Atlassian MCP server supports dynamic client registration and three-legged OAuth (3LO). The Amazon Quick Suite MCP client gets further information required for the connection from the Atlassian MCP server. On the next screen and choose&nbsp;Create and continue. 
- 
- 
- 
- In the pop-up window from Atlassian MCP server with a request to approve authorization for the Amazon Quick Suite MCP client. Choose Approve. 
- 
- 
- 
- Enter your Atlassian credentials. You will get a request from the Atlassian MCP to access to your Atlassian account. 
- Select a specific instance, and then choose&nbsp;Accept. Note: The administrator of the Atlassian instance might need to allowlist the dynamic OAuth client. 
- 
- 
-Amazon Quick Suite MCP client works to establish a connection with Atlassian MCP server and retrieving the actions or tools supported by it. It can take a couple of minutes. 
- 
- When the actions are retrieved and display on your screen, choose Next. 
- 
- 
- 
- Optionally, you can share the integration with other users and groups. Because Atlassian MCP server supports 3LO, the users with whom you share the connection will only be able to invoke the actions, retrieve the content, and take the actions that they are authorized to access on Atlassian Confluence and Jira. Select&nbsp;Done. 
- 
- 
-Your Actions integration for Atlassian MCP server is now available for use. 
- 
- 
-  
-   
-   Invoke the atlassian-mcp Actions integration from an Amazon Quick Suite Chat Agent, such as My Assistant, using a simple prompt such as List the Confluence spaces and Jira projects I am authorized to access. This will request a sign-in for you to authorize atlassian-mcp Actions integration to connect with Atlassian MCP server on your behalf, a part of the 3LO authentication. 
-    
- 
- 
- 
- The response to your prompt will be similar to the response in the following screenshot, and it will include the details of the Jira projects and Confluence pages you are authorized to access. 
- 
- 
-Using Atlassian MCP connection 
-To illustrate the Atlassian MCP server Actions integration, let’s take the use case of a team manager at a fictitious company, AnyOrgApp Corp, who is preparing to welcome a new employee to the team with help from the Amazon Quick Suite default Chat Agent, My Assistant. The Atlassian instance used for this illustration has a Confluence space with the content about AnyOrgApp Corp and a Jira project for this team. Based on the contents of your Confluence spaces and Jira projects, you can also experiment with similar use cases. 
- 
- The manager finds the new team member onboarding checklist for the AnyOrgApp project using the following prompt. The response to this prompt includes the checklist of onboarding activities for a new team member. 
- 
- 
- Find new team member checklist for the AnyOrgApp project from Confluence 
- 
- 
- 
- The manager converts the checklist to tasks for the new team member, creates these tasks in a Jira project and assigns those to the new team member using this prompt: 
- 
- 
- Make a list of tasks with start date and due date for a new team member Mateo Jackson 
-joining the team on Monday October 6th, 2025. Create these tasks in Jira project 
-"&lt;replace-with-jira-project-name&gt;" with start date and due date and assign those to 
-&lt;replace-with-email-address-for-mateo&gt; 
- 
- 
- When the atlassian-mcp Actions integration wants to invoke mutable actions such as creating a Jira issue, it requests an action review. The Chat Agent prompts for action review for each Jira issue being created. 
- 
- 
- 
- After creating the tasks, a response with the newly created tasks assigned to the new team member will display. 
- 
- 
- 
- Review the Jira project to verify that the tasks were created. 
- 
- 
- 
- The manager requests a detailed email welcoming the new team member along with the tasks assigned using the context in the conversation. The response to this prompt is a detailed email welcoming the new team member along with a prioritized list of onboarding tasks and information about how to get help from fellow team members. 
- 
- 
- Write a detailed email welcoming Mateo Jackson to the team based on this thread. 
-Use warm and helpful tone. 
- 
- 
-Connecting to the AWS Knowledge MCP Server 
-AWS Knowledge MCP Server is a fully managed remote MCP server that provides up-to-date documentation, code samples, and other official AWS content. 
- 
- To configure the AWS Knowledge Server as an MCP Actions integration, choose Integrations from the Home screen, and the Actions. In Create new integration, select Model Context Protocol as we did for configuring Atlassian MCP server in the previous section. 
- On the Create integration screen, use the AWS Knowledge Server hosted MCP server URL,&nbsp;https://knowledge-mcp.global.api.aws, then choose Next. 
- 
- 
- 
- This MCP server does not require authentication, so the MCP Client has the information needed to create the integration. Choose Create and continue. 
- 
- 
- 
- When the actions made available to you by AWS Knowledge Server appear, choose Next, to complete the Actions integration creation. 
- 
- 
- 
- After the aws-knowledge-server-mcp Actions integration status is available, use the default Chat Agent, My Assistant, to start asking information about AWS. You can use prompts such as this one:. 
- 
- 
- Get details of the AWS Well-Architected framework from AWS Knowledge MCP Server and 
-summarize for a CXO presentation in the context of the new SaaS application your 
-company is building on AWS. Use 200 words or fewer. 
- 
- 
- 
- You can also invoke multiple Actions integrations in one prompt such as this one, where the Actions integrations with the AWS Knowledge MCP Server and the Atlassian MCP server are used: 
- 
- 
- Get details of Well-Architected Framework from AWS Knowledge MCP Server and the details 
-of the AnyOrgApp project from Confluence. Prepare well-architected tenets for the 
-AnyOrgApp project team. Be crisp. 
- 
- 
-Connect with solutions&nbsp;and agents using Amazon Bedrock AgentCore Gateway 
-Amazon Bedrock AgentCore Gateway is a centralized tools server with a unified interface where agents can discover, access, and invoke tools with native support for MCP. You can connect your enterprise solutions and agents as targets behind an Amazon Bedrock AgentCore Gateway endpoint. The Amazon Quick Suite MCP client can connect to Amazon Bedrock AgentCore Gateway through Actions Integrations, making the tools available to the chat agents and automation workflows configured on Amazon Quick Suite. 
-Let’s take an example (shown in the following diagram) where we need to connect to an IT agent implemented using Amazon Bedrock Agent with an Amazon Kendra index that has IT help content, and an HR agent setup on OpenAI needs to be made available to Amazon Quick Suite users. 
- 
-The architecture includes an Amazon Bedrock AgentCore Gateway configured with an AWS Lambda function as a target along with an MCP schema that specifies the tools it implements. The AWS Lambda function implements the InvokeAgent API to invoke the Bedrock Agent to perform an Amazon Kendra index search, which then triggers a Lambda function to call the Amazon Kendra Retrieve API to search and retrieve content from the enterprise Amazon Kendra index with IT help content, and the OpenAI Responses API to invoke the HR agent based on OpenAI. The AgentCore Gateway uses Amazon Cognito as its inbound identity provider. The Amazon Quick Suite MCP client is configured using a 2LO authentication, allowing inbound connections to the AgentCore Gateway endpoint. 
-Create an Amazon Bedrock AgentCore Gateway instance and connect it with solutions 
- 
- Create an Amazon Bedrock AgentCore Gateway instance with an Amazon Cognito authorizer and a default AWS Lambda target using&nbsp;Quick Start with creating and using a gateway. 
- Open the Amazon Cognito user pool in a tab of the AWS Management Console and select&nbsp;App clients in the left navigation panel. 
- 
- 
- 
- Create a new App client for use with the Amazon Quick Suite MCP client. Choose Create app client, then select Machine-to-machine application, and then choose Create app client. 
- 
- 
- 
- For the new App client you just created, note the Client ID, the Client secret, and the token URL. You will need these parameters in subsequent steps. 
- 
- 
- 
- Open Amazon Bedrock AgentCore in the AWS Management Console on a new tab in your browser. Select Gateways in the left navigation panel, and then select the gateway you just created. Note the Gateway resource URL. 
- 
- 
- 
- On the Edit Gateway screen, select Use existing identity provider configurations, choose Add client, and then add the Client ID of the Cognito App client you created in a previous step to the list of allowed clients. 
- 
- 
- 
- Note the&nbsp;Lambda ARN and review the inline schema in the&nbsp;Inline schema editor window. Choose&nbsp;Save. 
- 
- 
- 
- You can modify the schema and the lambda functions to add your solutions and agents to the AgentCore gateway. The schema used for the example in this blog is in the following code snippet. For the example used in this blog, the Lambda function is also updated with the InvokeAgent API to invoke the Bedrock Agent that implements the IT agent, and the OpenAI Responses API to invoke the HR agent powered by OpenAI. If you are just experimenting, you can continue with the sample tools, get_weather and get_time, created as part of Quick Start with creating and using a Gateway. 
- 
- 
- [
-  {
-    "description": "Get weather for a location",
-    "inputSchema": {
-      "properties": {
-        "location": {
-          "type": "string"
-        }
-      },
-      "required": [
-        "location"
-      ],
-      "type": "object"
-    },
-    "name": "get_weather"
-  },
-  {
-    "description": "Get time for a timezone",
-    "inputSchema": {
-      "properties": {
-        "timezone": {
-          "type": "string"
-        }
-      },
-      "required": [
-        "timezone"
-      ],
-      "type": "object"
-    },
-    "name": "get_time"
-  },
-  {
-    "description": "Get help from IT Agent for questions related to email, networking, computer hardware and password trouble",
-    "inputSchema": {
-      "properties": {
-        "query": {
-          "description": "question related to email, networking, computer hardware and password troubleshooting",
-          "type": "string"
-        }
-      },
-      "required": [
-        "query"
-      ],
-      "type": "object"
-    },
-    "name": "get_help_from_it_agent"
-  },
-  {
-    "description": "Get help from HR Agent for questions related to employee benefits and leave policies",
-    "inputSchema": {
-      "properties": {
-        "request": {
-          "description": "help query related to employee benefits and leave policies",
-          "type": "string"
-        }
-      },
-      "required": [
-        "request"
-      ],
-      "type": "object"
-    },
-    "name": "get_help_from_hr_agent"
-  }
-] 
- 
-Amazon Bedrock AgentCore Gateway is now ready for integration with the Amazon Quick Suite MCP client or other MCP clients. 
-Create an Amazon Quick Suite MCP Actions integration with Amazon Bedrock AgentCore Gateway 
- 
- As with earlier steps, set up a new MCP integration by entering a a Name, Description, and the Gateway resource URL of your Amazon AgentCore gateway (noted earlier as the MCP server endpoint). Choose Next. The Description includes details of the features the Actions integration provides. Amazon Quick Suite uses this description to decide the Actions to be invoked for a user prompt. 
- 
- 
- 
- Select Service authentication in Authentication settings&nbsp;or&nbsp;2LO authentication. The users with whom this Actions integration is shared will use these credentials as the inbound credentials for Amazon Bedrock AgentCore Gateway. You can create 3LO authentication using identity providers such as Okta or Entra ID. Enter the&nbsp;Client ID, Client secret and&nbsp;Token URL of the Amazon Cognito user pool App client you created earlier. Choose Create and continue. 
- 
- 
- 
- Review the Actions made available as MCP tools by the Amazon Bedrock AgentCore Gateway. 
- 
- 
- 
- Optionally, share the integration with other users, then choose Done. 
- 
- 
-Your Actions integration with the Amazon Bedrock AgentCore gateway is now ready for use. 
- 
- You can now test the Amazon Quick Suite Actions integration by opening the newly created integration and choosing Test action APIs. 
- 
- 
- 
- From the&nbsp;Action drop-down menu, select the API you want to test, enter the API parameters — Location for this example–and select Submit. If successful, the API response will display. 
- 
- 
-Explore the Amazon Quick Suite MCP Actions integration with Amazon Bedrock AgentCore Gateway 
-You can start using the Actions integration from your Chat Agents. The following examples use My Assistant, the default Chat Agent. 
- 
- To start, invoke an OpenAI-powered HR agent using the following prompt. You will get the employee eligibility criteria in response from the HR agent: 
- 
- 
- What are the eligibility criteria for an employee to receive health benefits? 
- 
- 
- 
- Now invoke the IT agent implemented using an Amazon Bedrock Agent with an Amazon Kendra index-based IT help search by using the following prompt. In response you will get the troubleshooting help from the IT agent: 
- 
- 
- My computer is not connecting to network. Please help. 
- 
- 
-Conclusion 
-In this blog post, you experienced how the Amazon Quick Suite MCP client supports secure, seamless, and wide connectivity with remote hosted MCP servers such as those by Atlassian, Box, and AWS Knowledge MCP Server. You also saw how Amazon Bedrock AgentCore provides a straightforward mechanism to connect with existing solutions and agents, and how the Amazon Quick Suite MCP client connects with Amazon Bedrock AgentCore Gateway for a collaborative environment for users and AI agents on Amazon Quick Suite. 
-For more information on Amazon Quick Suite, and how you can get started, please refer to the blog post Announcing Amazon Quick Suite: your agentic teammate for answering questions and taking action. To know more about Amazon Bedrock AgentCore, please refer to the blog post Introducing Amazon Bedrock AgentCore Gateway: Transforming enterprise AI agent tool development. 
- 
-About the authors 
-Abhinav Jawadekar is a Principal Solutions Architect in the Amazon Quick Suite service team at AWS. Abhinav works with AWS customers and partners to help them build agentic AI solutions on AWS. 
-Vignesh Subramanian is a Senior Software Development Engineer at AWS, specializing in application security, fraud prevention, agentic AI, and model-tool interaction frameworks. He currently provides technical leadership for the Amazon Quick Suite and has been building at Amazon for over nine years. Outside of work, he enjoys experimenting with Rust, chasing sunsets, and hiking across the Pacific Northwest. You can connect with him on LinkedIn.
-• Make agents a reality with Amazon Bedrock AgentCore: Now generally available
-  Get agents out of prototype purgatory and into production with security, scalability, and reliability 
-When we launched AWS in 2006, we believed that cloud computing would transform how organizations build and scale technology. We’re now at a similar inflection point with AI agents. We envision a world where billions of agents work together, transforming everything from daily operations to complex business processes. However, making this a reality requires more than frameworks or low-code builder tools. Agents that companies are willing to bet their business on need an enterprise-grade operational foundation—one that is secure, reliable, scalable, and purpose-built for the non-deterministic nature of agents. Drawing on our experience building mission-critical systems, Amazon Bedrock AgentCore is a comprehensive agentic platform that enables organizations to get to production with confidence. 
-AgentCore: Get agents to production fast 
-AgentCore, now generally available, makes it possible for every developer to get agents from pilots to full-scale production fast. AgentCore gives you the complete foundation you need to build, deploy, and operate agents. You can easily equip agents with tools, memory, and data to handle complex workflows. You can deploy agents with a few lines of code on one of the most secure and scalable runtimes available today. And you can operate those agents with the controls and access management required for enterprise deployments. You can do all of this without any infrastructure management, and it’s easy to get started using any model or agent framework of your choice. 
-The AgentCore SDK has been downloaded over a million times by customers of all sizes across multiple industries. Some of the early customers include Clearwater Analytics (CWAN), Cox Automotive, Druva, Ericsson, Experian, Heroku, National Australia Bank, Sony, Thomson Reuters, and many more. Supported by AWS Partners, including Accenture, Cisco, Deloitte, and Salesforce, AgentCore is already delivering transformative results. 
-AgentCore: A comprehensive agentic platform 
- 
-Building agents can be hard – you need to figure out how to integrate with identity providers, how to build memory and observability, and integrate with tools. Our agentic platform offers fully-managed services across the agent development lifecycle from build to deploy to operate. You can mix and match, use any model or framework, offering maximum flexibility with access to enterprise-grade infrastructure and tools. Let’s look at its core capabilities. 
-Build the way you want: The agent landscape is evolving rapidly, with new frameworks, models, and protocols emerging almost weekly. You can build the way you want with composable AgentCore services that can be used together or independently. Your organization can choose which AgentCore services the team needs while using their preferred frameworks (including CrewAI, Google ADK, LangGraph, LlamaIndex, OpenAI Agents SDK, and Strands Agents) and models (including those available on Amazon Bedrock or models available outside Bedrock including OpenAI and Gemini), so you stay free to build the way you want. 
-Foundational tools for agent success: Agents create value with concrete actions – writing and executing code, connecting to company systems, and navigating the web. AgentCore provides these essential services: AgentCore Code Interpreter enables agents to generate and execute code securely in isolated environments, and AgentCore Browser allows agents to interact with web applications at scale. Meanwhile, AgentCore Gateway transforms your existing APIs and AWS Lambda functions into agent-compatible tools, connects to existing MCP servers, and provides seamless integration with essential third-party business tools and services (such as Jira, Asana, and Zendesk). This unified access point enables secure integration across your enterprise systems. With AgentCore Identity, agents can securely access and operate across these tools with proper authentication and authorization using OAuth standards. 
-Context-aware agents with intelligent memory: For agents to be truly effective, they need to maintain context and learn from interactions over time. Consider a sales support agent helping a customer explore enterprise software options – it should remember the customer’s industry, budget constraints, and technical requirements across multiple conversations, eliminating repetitive questions and delivering increasingly personalized recommendations. Similarly, when assisting with complex technical troubleshooting, an agent should recall previous debugging attempts and their outcomes to provide more targeted solutions. AgentCore Memory helps developers create these sophisticated, context-aware experiences without managing complex memory infrastructure, helping agents build and maintain detailed understanding of user preferences, historical interactions, and relevant context that enriches every conversation. 
-Comprehensive observability for trustworthy agents: Because agents reason in real-time and non-deterministically perform actions, you need complete visibility into the reasoning and actions of agents. AgentCore Observability provides comprehensive monitoring through real-time dashboards and detailed audit trails. Organizations can track every agent action, debug issues quickly, and continuously optimize performance. Through OpenTelemetry (OTEL) compatibility, AgentCore Observability integrates with existing monitoring tools, such as Dynatrace, Datadog, Arize Phoenix, LangSmith, and Langfuse. 
-Industry-leading reliability at any scale: Unlike traditional applications, agent workload durations can be inherently unpredictable. AgentCore Runtime is designed for this variability, automatically scaling from zero to thousands of sessions as needed, and it offers an industry-leading runtime of eight hours for long running tasks. 
-Enterprise-grade agent security: Agents need to securely access multiple systems and handle sensitive data while acting on behalf of users, making robust security and regulatory compliance non-negotiable. AgentCore embeds security across every service to help agents operate safely. It supports virtual private cloud (VPC) environments and AWS PrivateLink to keep network traffic private and secure. Most importantly, AgentCore Runtime provides industry-leading security through microVM technology, giving each agent session its own isolated computing environment to prevent data leaks and maintain the integrity of every interaction. 
-With AgentCore, speed, scale, and security get along: AgentCore makes it easy to build production-ready agents through its MCP server, which works with integrated development environments (IDEs) like Kiro or Cursor AI. While it takes just minutes to get started, these aren’t simplified tools – they’re full-featured, production-ready solutions that can immediately scale from zero to thousands of sessions while maintaining robust security. This means your team can move quickly from idea to deployment with confidence, knowing your agents are built on a proven foundation. 
-Making the promise of AI agents a reality: Customer stories 
-Pioneering organizations—from Cohere Health’s regulated healthcare environment to Ericsson’s complex technical systems to Sony’s global transformation—demonstrate how AgentCore is driving the next wave of AI innovation across industries. The organizations that succeed in the AI era won’t be those who perfectly predict the future, but those who build on proven foundations while maintaining the flexibility to evolve. When you build on AgentCore, you’re not just getting specialized services to deploy and operate agents, you’re getting a partner with nearly two decades of experience helping companies transform securely at global scale. Here are some stories that demonstrate customer impact: 
- 
-  
- 
-Watch how Epsilon, part of the world’s largest advertising company Publicis Groupe, is using AgentCore to revolutionize campaign personalization for large brands. Their Intelligent Campaign Automation solution enables automated campaign design, audience targeting, and real-time optimization across multiple channels – delivering faster execution times and improved customer targeting precision at scale. 
-Transforming manufacturing with intelligent workflow automation 
-Amazon Devices Operations &amp; Supply Chain team is using AgentCore to develop an agentic manufacturing approach. As part of this new approach, AI agents work together using product specifications to automate manual processes. One agent reads the product requirements and creates detailed test procedures for quality control, while another agent trains the vision systems that robots need on the manufacturing line. As a result, fine-tuning an object detection model, which used to take days of engineering time, can now be done in under an hour with high precision. This proof-of-concept is just the beginning of their vision for smarter manufacturing, where AI agents will streamline the journey from initial product requirements to final production. 
-Accelerating healthcare decisions with agents 
-In healthcare, every minute matters. Cohere Health® is a clinical intelligence company focused on strengthening payer-provider collaboration as well as improving the speed and accuracy of clinical decision-making, both pre- and post-care. The company’s clinically trained AI helps accelerate access to patient care, improve patient outcomes, reduce administrative burden for providers, and improve healthcare economics across the care continuum. 
-Using AgentCore, Cohere Health built Cohere Review Resolve, an AI-powered copilot that optimizes the accuracy and efficiency of health plan medical necessity reviews. Cohere Review Resolve analyzes both structured and unstructured data–such as clinical records, patient notes, and faxes, quickly identifying and surfacing evidence to validate the medical necessity of a requested treatment. The copilot will provide health plans’ reviewers with complete clinical context for prior authorization requests and respond intelligently to reviewers’ queries. 
-Cohere Health chose AgentCore because they needed enterprise-grade infrastructure for their first production deployment of agentic AI in a highly regulated healthcare environment. The comprehensive audit trails, extended session support, and ability to maintain history throughout complex multi-hour workflows available in AgentCore are essential for their healthcare use case. 
-Cohere Health expects that Review Resolve will reduce review times by 30-40%, helping them to meet critical, mandated turnaround times. For patients, quicker decision-making will accelerate care access, increase adherence to therapy, improve outcomes and reduce costs. Review Resolve will also help health plans improve the accuracy of clinical determinations by approximately 30%, thereby improving medical expense savings and patient outcomes. 
-Agents in telecommunications: simplifying complex systems 
-Ericsson, a global leader in telecommunications technology, has used AgentCore to tackle its primary challenge in deploying agents. Dag Lindbo, Head of AI and Emerging Technologies in Business Area Networks at Ericsson says “At Ericsson, our 3G/4G/5G/6G systems span millions of lines of code across thousands of interconnected subsystems, representing decades of engineering innovation at the scale of nation-wide critical infrastructure. AgentCore powers our crucial fusion of data and information to deliver AI agents of unprecedented capability in real-world R&amp;D, scaling to double-digit gains across a workforce in the tens of thousands. AgentCore also lets us use any agent framework, which is critical to help us scale across many teams and use cases.” 
-Agents in entertainment: achieving security, observability and scalability 
-At Sony Group, one of the world’s leading technology and entertainment companies, AgentCore is already having an impact. “Agentic AI, which enables a new level of advanced operational efficiency and sophistication, is an essential technology for our AI transformation journey,” notes Masahiro Oba, Senior General Manager of AI Acceleration Division, Digital &amp; Technology Platform for Sony Group Corporation. “However, it is also true that it presents many technical challenges. By leveraging Amazon Bedrock AgentCore, we built a group-wide Agentic AI Platform, achieving enterprise-level security, observability and scalability, along with seamless cross-platform connectivity to AI resources—a critical capability for us. By placing Amazon Bedrock AgentCore at the core of our agentic AI ecosystem, we gain the ability to govern and share vast amounts of AI, enabling us to accelerate AI transformation with confidence and security.” 
-Building the foundation for the AI agent era at AWS 
-AgentCore is now generally available in nine AWS Regions to support global deployment needs, including Asia Pacific (Mumbai), Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), Europe (Dublin), Europe (Frankfurt), US East (N. Virginia), US East (Ohio), and US West (Oregon). Organizations can accelerate time-to-value with pre-built agents and tools from AWS Marketplace that are designed to work on AgentCore. 
-Get started with AgentCore today – Visit aws.amazon.com/bedrock/agentcore/ to start building your agentic future! 
-Learn more: 
- 
- Accelerate development with the Amazon Bedrock AgentCore MCP server (by Shreyas Subramanian&nbsp;and&nbsp;Primo Mu, AWS ML Blog, 10/02/2025) 
- Introducing Amazon Bedrock AgentCore: Securely deploy and operate AI agents at any scale (preview) (by Danilo Poccia, AWS News Blog, 7/16/2025) 
- AWS announces new innovations for building AI agents at AWS Summit New York 2025 (Amazon news summary, 7/16/2025) 
- 
- 
-About the author 
-Swami Sivasubramanian is Vice President for Agentic AI at Amazon Web Services (AWS). At AWS, Swami has led the development and growth of leading AI services like Amazon DynamoDB, Amazon SageMaker, Amazon Bedrock, and Amazon Q. His team’s mission is to provide the scale, flexibility, and value that customers and partners require to innovate using agentic AI with confidence and build agents that are not only powerful and efficient, but also trustworthy and responsible. Swami also served from May 2022 through May 2025 as a member of the National Artificial Intelligence Advisory Committee, which was tasked with advising the President of the United States and the National AI Initiative Office on topics related to the National AI Initiative.
 
 ⸻
