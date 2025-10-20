@@ -1,17 +1,17 @@
-✅ Morning News Briefing – October 19, 2025 10:40
+✅ Morning News Briefing – October 20, 2025 10:47
 
-📅 Date: 2025-10-19 10:40
+📅 Date: 2025-10-20 10:47
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  13.0°C
-  Temperature: 13.0&deg;C Pressure / Tendency: 100.6 kPa falling Humidity: 72 % Dewpoint: 8.1&deg:C Wind: ESE 16 km/h Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Sunday 19 October 2025 . Weather forecast: 20,000 years in the future .
-• Sunday: Chance of showers. High 22. POP 40%
-  40 percent chance of showers early this morning . Wind becoming southeast 20 km/h gusting to 40 near noon . High 22. Humidex 25. UV index 3 or moderate, with a high of 25 degrees in the mid-90s or low of 90s in mid-80s . Rainy showers expected early Sunday morning, with highs of 22.50 degrees Celsius .
-• Sunday night: A few showers. Low 10.
-  Cloudy. A few showers beginning this evening . Local amount 10 to 15 mm . Wind southeast 20 km/h gusting to 40. Low 10.50mm . Rainy. Cloudy . Showery . Cloudy and rainy in the morning, with a few showers expected later this morning . Forecast issued 5:00 AM EDT Sunday 19 October 2025 . Weather forecast
+• Current Conditions:  14.0°C
+  Temperature: 14.0&deg;C Pressure / Tendency: 100.1 kPa rising Humidity: 95 % Dewpoint: 13.3&deg:C Wind: S 2 km/h Air Quality Health Index: n/a . Observed at: Pembroke 6:00 AM EDT Monday 20 October 2025 . Weather: 14-14.0/
+• Monday: Showers. High 12.
+  Showers ending this afternoon then cloudy then cloudy . Wind becoming northwest 20 km/h gusting to 40 near noon . High 12.5 degrees Celsius . UV index 1 or low, with low-visibility factor of 1 in the UV index of 1 or 0 . Forecast issued 5:00 AM EDT Monday 20 October 2025 . Weather forecasters predict temperatures will reach 12 degrees Celsius
+• Monday night: Mainly cloudy. Low plus 4.
+  Cloudy. Becoming partly cloudy this evening. Wind northwest 20 km/h becoming light late this evening . Low plus 4.50C is expected to be cloudy in the early hours of tomorrow morning . Forecast issued 5:00 AM EDT Monday 20 October 2025 . Forecasts issued 5,000C to 5,500C for Monday 20 Oct. 20 Oct 2025. Forecast
 
 🌍 International News
 No updates.
@@ -20,36 +20,38 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• 3 takeaways from the second No Kings day of nationwide protests
-  Organizers said some 2,600 protests were planned in the U.S. on Saturday . Demonstrators united in their stated aim to safeguard the country's democratic values . The protests were largely peaceful, as demonstrators united in a united effort to safeguard their democratic values, organizers said . The protesters were mostly peaceful, with some of the most peaceful protests being held in the United States .
-• Photos: Scenes from the No Kings Protests
-  People gathered for pro-democracy protests across the country today . Pro-democracy protesters gathered in the streets of the country . People gathered in support of democracy protesters in the wake of the anti-government protests in the U.S. People gathered to take part in the protests in a bid to protect their freedom of speech and freedom of expression in the United States . The protests were held in
-• 2 survivors of suspected drug vessel will be sent to home countries, Trump says
-  The two survivors of an American military strike on a suspected drug-carrying vessel in the Caribbean will be sent to Ecuador and Colombia, their home countries, President Trump said . President Trump: The survivors of the strike will be moved to Ecuador, Colombia and Ecuador . The survivors will be returned to their native countries, the president said . The strike was carried out on an alleged drug-
-• These voters want to overturn Missouri's new gerrymandered congressional map
-  A Missouri group is working to overturn the map that gives the state one more Republican seat in Congress . If they get enough signatures, the map cannot take effect unless Missourians approve them . Missourians must approve the map before it can take effect if it is approved by Missourians . The map will give the state a Republican seat, but Missourians will have to approve it before it is
-• Opinion: Susan Stamberg gave NPR its voice
-  Susan Stamberg was the first woman to host a national news broadcast and set the tone, pace, and scope of the network . Stamberg died Thursday at the age of 85 . She was the only woman to have hosted national news on NPR and hosted a national broadcast for more than 30 years . NPR has lost a singular, distinctive radio journalist: Stamberg, who died on Thursday .
+• As deadline for Trump's colleges compact looms, schools signal dissent
+  Of the original nine schools that received the Trump administration's Compact for Academic Excellence in Higher Education, the majority have indicated they are not planning on signing . The majority of those schools have indicated that they will not sign the Compact . The Compact is part of a larger effort to improve the quality of higher education in America's higher education . The compact was created by the Obama administration in 2009 .
+• Can collagen supplements improve your skin? Here's what the research shows
+  In wellness circles, the buzz is that collagen supplements can help with wrinkles, joint pain and joint pain . But are these claims something you should swallow? Are you ready to swallow the collagen supplements? Share your thoughts with CNN iReport.com . Back to the page you came from: http://www.dailymailonline.com/news/newsnet/newsport/com/
+• Centrist Rodrigo Paz wins Bolivia's presidential runoff, topping right-wing rival
+  Centrist senator Rodrigo Paz won Bolivia's presidency with 54% of the vote . Paz ended 20 years of rule by the Movement Toward Socialism party amid economic turmoil . Centrist Paz ends 20 years in power of the party's former government amid economic woes . Rodrigo won the presidency in Bolivia's first presidential election since 1992 . Paza's victory ends 20-year rule by
+• Trump announces tariffs and an end to U.S. aid to Colombia amid clash over drug trade
+  The U.S. will slash assistance to Colombia and enact tariffs on its exports because the country's leader, Gustavo Petro, "does nothing to stop" drug production, President Donald Trump said Sunday . President Trump: Colombia's leader does nothing to "stop" production of drugs . Colombia's drug production has been a major source of cocaine production in the country, the president said .
+• Sam Rivers, bassist and founding member of Limp Bizkit, dies aged 48
+  Limp Bizkit: "Sam Rivers wasn't just our bass player — he was pure magic" "The pulse beneath every song, the calm in the chaos, the soul in the sound," the band said in a social media post Saturday . Limp said Rivers was "pure magic" and "purely magic" Rivers died at the age of 50 on Saturday at age of
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Ruby Central tries to make peace after 'hostile takeover'
-  Ruby Central is transferring ownership of RubyGems and Bundler to the Ruby core team . The move appears to be an attempt to mollify the Ruby community following a divisive power grab . But it does not restore the control of those tools to the maintainers who previously oversaw them . Ruby Central recently seized some Ruby open source tools from maintainers . The non-profit that recently seized
-• Meta convinces Blue Owl to cut $30B check for its Hyperion AI super cluster
-  Facebook parent Meta has managed to convince private equity firm Blue Owl Capital to finance its 2.2 gigawatt datacenter project in Richland Parish, Louisiana . The deal keeps debt off the Social Media empire's books, keeping it off the books . It is the first time Facebook has secured a deal with a private equity company to finance a project in the state of Louisiana, Louisiana
-• Amazon spills plan to nuke Washington...with X-Energy mini-reactors
-  Amazon remains convinced that small modular reactors (SMRs) are the answer to the cloud titan's power woes . Now they just need to get regulatory approval . Amazon is convinced that SMRs will solve the cloud giant's power problems . SMRs could be the answer for Amazon's cloud giant, which has struggled to find a way to power in recent years . The cloud giant says SMRs
-• American Airlines subsidiary Envoy caught in Clop's Oracle EBS raid
-  American Airlines subsidiary Big Red Envoy Air confirmed it was among the dozens of organizations compromised via Oracle E-Business Suite (EBS) security flaws . Clop extortionists had claimed that its parent company was one of its victims . American Airlines confirmed that it had been compromised by Oracle EBS security flaws, following claims by Clop that the company was a victim of the extortionists .
-• Thou shalt not let AI run amok: Vatican wants global rules
-  Salesforce CEO Marc Benioff warned investors to avoid the "false prophets" of AI . The Pope hosted a Vatican seminar that called for global AI regulation and fair distribution of the technology's benefits . 'AI is a tool', Pope tells attendees at the Vatican seminar . The pontiff also called for regulation of global AI regulations and the distribution of its benefits to be fair and transparent .
+• The real insight behind measuring Copilot usage is Microsoft's desperation
+  The quantum theory of management includes an analogy for the physical law of the observer effect, where observing a system changes its state . When you make a metric a target, it is not useful as a metric . Instead of reflecting what underlying behavior it was intended to measure, the metric becomes a measure of how well the benchmark is being gamed . Citizen! You are falling short in your AI
+• Major AWS outage across US-East region breaks half the internet
+  Amazon reports DNS issues hitting DynamoDB, leaving services from Roblox to McDonald's struggling . Even Amazon's own web page reported to be offline . Dozens of other online services and websites affected, including disruption in the UK . Amazon Web Services (AWS) reported to have been affected by the issue, with even the company's web page offline . Amazon reports problems with DynamoDB and
+• A simple AI prompt saved a developer from this job interview scam
+  Engineer David Dodda says he was just "30 seconds away" from running malware on his own computer . Dodda nearly fell victim to a North Korea-style job interview scam with a "legitimate" blockchain company . Plus: Ransomware posing as Teams installer, Cisco 0-day exploit to drop rootkit, and European cops bust SIM-box service INFOSEC in Europe
+• Tribunal wonders if Microsoft has found a legal hero after pivot to copyright gambit
+  ValueLicensing dispute probes whether Office counts as a creative work . Microsoft's attempt to make the case about copyright has taken another turn . Microsoft and Value Licensing are locked in a long-running legal battle over the resale of software licenses . Microsoft is trying to argue that Office is not a work that should be licensed to use in a commercial way . Value licensing and Microsoft are
+• UK calls up Armed Forces veterans for digital ID soft launch
+  Armed Forces veterans tasked with proving the government can successfully roll out a digital ID card scheme . The UK's armed forces veterans are being tasked with one last mission – proving the scheme can be successfully rolled out . The scheme will be rolled out across the UK for the first time in five years . It will be the first attempt to roll out digital ID cards in the UK's Armed Forces .
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• RNA replicon vaccination confers long-lasting protection against H5N1 avian influenza in 23 zoo bird species
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Factors associated with willingness to use ecological sanitation toilets in Katine sub county Soroti district Uganda: a cross sectional study
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Perceptions of targeted sexual healthcare among French MSM based on HPV vaccination policy in France
@@ -57,8 +59,6 @@ No updates.
 • Global landscape of kidney health across Indigenous populations
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Cardiovascular disease prevention in China: challenges and opportunities in the artificial intelligence-enabled digital health era
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Bacterial sexually transmitted infections and related antibiotic use among individuals eligible for doxycycline post-exposure prophylaxis in the United States
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,131 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• AI could predict who will have a heart attack
+  For all the modern marvels of cardiology, we struggle to predict who will have a heart attack. Many people never get screened at all. Now, startups like Bunkerhill Health, Nanox.AI, and HeartLung Technologies are applying AI algorithms to screen millions of CT scans for early signs of heart disease. This technology could be a breakthrough for public health, applying an old tool to uncover patients whose high risk for a heart attack is hiding in plain sight. But it remains unproven at scale while raising thorny questions about implementation and even how we define disease. 
+
+
+
+Last year, an estimated 20 million Americans had chest CT scans done, after an event like a car accident or to screen for lung cancer. Frequently, they show evidence of coronary artery calcium (CAC), a marker for heart attack risk, that is buried or not mentioned in a radiology report focusing on ruling out bony injuries, life-threatening internal trauma, or cancer.
+
+
+
+
+
+Dedicated testing for CAC remains an underutilized method of predicting heart attack risk. Over decades, plaque in heart arteries moves through its own life cycle, hardening from lipid-rich residue into calcium. Heart attacks themselves typically occur when younger, lipid-rich plaque unpredictably ruptures, kicking off a clotting cascade of inflammation that ultimately blocks the heart’s blood supply. Calcified plaque is generally stable, but finding CAC suggests that younger, more rupture-prone plaque is likely present too.&nbsp;
+
+
+
+Coronary artery calcium can often be spotted on chest CTs, and its concentration can be subjectively described. Normally, quantifying a person’s CAC score involves obtaining a heart-specific CT scan. Algorithms that calculate CAC scores from routine chest CTs, however, could massively expand access to this metric. In practice, these algorithms could then be deployed to alert patients and their doctors about abnormally high scores, encouraging them to seek further care. Today, the footprint of the startups offering AI-derived CAC scores is not large, but it is growing quickly. As their use grows, these algorithms may identify high-risk patients who are traditionally missed or who are on the margins of care.&nbsp;
+
+
+
+Historically, CAC scans were believed to have marginal benefit and were marketed to the worried well. Even today, most insurers won’t cover them. Attitudes, though, may be shifting. More expert groups are endorsing CAC scores as a way to refine cardiovascular risk estimates and persuade skeptical patients to start taking statins.&nbsp;
+
+
+
+The promise of AI-derived CAC scores is part of a broader trend toward mining troves of medical data to spot otherwise undetected disease. But while it seems promising, the practice raises plenty of questions. For example, CAC scores ­haven’t proved useful as a blunt instrument for universal screening. A 2022 Danish study evaluating a population-based program, for example, showed no benefit in mortality rates for patients who had undergone CAC screening tests. If AI delivered this information automatically, would the calculus really shift?&nbsp;
+
+
+
+And with widespread adoption, abnormal CAC scores will become common. Who follows up on these findings? “Many health systems aren’t yet set up to act on incidental calcium findings at scale,” says Nishith Khandwala, the cofounder of Bunkerhill Health. Without a standard procedure for doing so, he says, “you risk creating more work than value.”&nbsp;
+
+
+
+
+
+There’s also the question of whether these AI-generated scores would actually improve patient care. For a symptomatic patient, a CAC score of zero may offer false reassurance. For the asymptomatic patient with a high CAC score, the next steps remain uncertain. Beyond statins, it isn’t clear if these patients would benefit from starting costly cholesterol-lowering drugs such as Repatha or other PCSK9-inhibitors. It may encourage some to pursue unnecessary but costly downstream procedures that could even end up doing harm. Currently, AI-derived CAC scoring is not reimbursed as a separate service by Medicare or most insurers. The business case for this technology today, effectively, lies in these potentially perverse incentives.&nbsp;
+
+
+
+At a fundamental level, this approach could actually change how we define disease. Adam Rodman, a hospitalist and AI expert at Beth Israel Deaconess Medical Center in Boston, has observed that AI-derived CAC scores share similarities with the “incidentaloma,” a term coined in the 1980s to describe unexpected findings on CT scans. In both cases, the normal pattern of diagnosis—in which doctors and patients deliberately embark on testing to figure out what’s causing a specific problem—were fundamentally disrupted. But, as Rodman notes, incidentalomas were still found by humans reviewing the scans.&nbsp;
+
+
+
+Now, he says, we are entering an era of “machine-based nosology,” where algorithms define diseases on their own terms. As machines make more diagnoses, they may catch things we miss. But Rodman and I began to wonder if a two-tiered diagnostic future may emerge, where “haves” pay for brand-name algorithms while “have-nots” settle for lesser alternatives.&nbsp;
+
+
+
+For patients who have no risk factors or are detached from regular medical care, an AI-derived CAC score could potentially catch problems earlier and rewrite the script. But how these scores reach people, what is done about them, and whether they can ultimately improve patient outcomes at scale remain open questions. For now—holding the pen as they toggle between patients and algorithmic outputs—clinicians still matter.&nbsp;
+
+
+
+Vishal Khetpal is a fellow in cardiovascular disease. The views expressed in this article do not represent those of his employers.&nbsp;
+• Flowers of the future
+  Flowers play a key role in most landscapes, from urban to rural areas. There might be dandelions poking through the cracks in the pavement, wildflowers on the highway median, or poppies covering a hillside. We might notice the time of year they bloom and connect that to our changing climate. Perhaps we are familiar with their cycles: bud, bloom, wilt, seed. Yet flowers have much more to tell in their bright blooms: The very shape they take is formed by local and global climate conditions.&nbsp;
+
+
+
+The form of a flower is a visual display of its climate, if you know what to look for. In a dry year, its petals’ pigmentation may change. In a warm year, the flower might grow bigger. The flower’s ultraviolet-absorbing pigment increases with higher ozone levels. As the climate changes in the future, how might flowers change?&nbsp;
+
+
+
+Anthocyanins are red or indigo pigments that supply antioxidants and photoprotectants, which help a plant tolerate climate-related stresses such as droughts.© 2021 SULLIVAN CN, KOSKI MH
+
+
+
+
+An artistic research project called Plant Futures imagines how a single species of flower might evolve in response to climate change between 2023 and 2100—and invites us to reflect on the complex, long-term impacts of our warming world. The project has created one flower for every year from 2023 to 2100. The form of each one is data-driven, based on climate projections and research into how climate influences flowers’ visual attributes.&nbsp;
+
+
+
+More ultraviolet pigment protects flowers’ pollen against increasing ozone levels.MARCO TODESCO
+
+
+
+
+Under unpredictable weather conditions, the speculative flowers grow a second layer of petals. In botany, a second layer is called a “double bloom” and arises from random mutations.COURTESY OF ANNELIE BERNER
+
+
+
+
+Plant Futures began during an artist residency in Helsinki, where I worked closely with the biologist Aku Korhonen to understand how climate change affected the local ecosystem. While exploring the primeval Haltiala forest, I learned of the Circaea alpina, a tiny flower that was once rare in that area but has become more common as temperatures have risen in recent years. Yet its habitat is delicate: The plant requires shade and a moist environment, and the spruce population that provides those conditions is declining in the face of new forest pathogens. I wondered: What if the Circaea alpina could survive in spite of climate uncertainty? If the dark, shaded bogs turn into bright meadows and the wet ground dries out, how might the flower adapt in order to survive? This flower’s potential became the project’s grounding point.&nbsp;
+
+
+
+The author studying historical Circaea samples in the Luomus Botanical Collections.COURTESY OF ANNELIE BERNER
+
+
+
+
+Outside the forest, I worked with botanical experts in the Luomus Botanical Collections. I studied samples of Circaea flowers from as far back as 1906, and I researched historical climate conditions in an attempt to understand how flower size and color related to a year’s temperature and precipitation patterns.&nbsp;
+
+
+
+I researched how other flowering plants respond to changes to their climate conditions and wondered how the Circaea would need to adapt to thrive in a future world. If such changes happened, what would the Circaea look like in 2100?&nbsp;
+
+
+
+We designed the future flowers through a combination of data-driven algorithmic mapping and artistic control. I worked with the data artist Marcin Ignac from Variable Studio to create 3D flowers whose appearance was connected to climate data. Using Nodes.io, we made a 3D model of the Circaea alpina based on its current morphology and then mapped how those physical parameters might shift as the climate changes. For example, as the temperature rises and precipitation decreases in the data set, the petal color shifts toward red, reflecting how flowers protect themselves with an increase in anthocyanins. Changes in temperature, carbon dioxide levels, and precipitation rates combine to affect the flowers’ size, density of veins, UV pigments, color, and tendency toward double bloom.
+
+
+
+2025: Circaea alpina is ever so slightly larger than usual owing to a warmer summer, but it is otherwise close to the typical Circaea flower in size, color, and other attributes.
+
+
+
+2064: We see a bigger flower with more petals, given an increase in carbon dioxide levels and temperature. The bull’s-eye pattern, composed of UV pigment, is bigger and messier because of an increase in ozone and solar radiation. A second tier of petals reflects uncertainty in the climate model.
+
+
+
+2074: The flower becomes pinker, an antioxidative response to the stress of consecutive dry days and higher temperatures. Its size increases, primarily because of higher levels of carbon dioxide. The double bloom of petals persists as the climate model’s projections increase in uncertainty.
+
+
+
+2100: The flower’s veins are densely packed, which could signal appropriation of a technique leaves use to improve water transport during droughts. It could also be part of a strategy to attract pollinators in the face of worsening air quality that degrades the transmission of scents.
+
+
+
+2023—2100: Each year, the speculative flower changes. Size, color, and form shift in accordance with the increased temperature and carbon dioxide levels and the changes in precipitation patterns.
+
+
+
+In this 10-centimeter cube of plexiglass, the future flowers are “preserved,” allowing the viewer to see them in a comparative, layered view.COURTESY OF ANNELIE BERNER
+
+
+
+
+Based in Copenhagen, Annelie Berner is a designer, researcher, teacher, and artist specializing in data visualization.
 • The Download: the rehabilitation of AI art, and the scary truth about antimicrobial resistance
   This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
 
@@ -325,36 +450,10 @@ Since launching earlier this year, Mireta, which is based in Cambridge, Massachu
 
 
 Elissaveta M. Brandon is an independent journalist interested in how design, culture, and technology shape the way we live.
-• Take our quiz: How much do you know about antimicrobial resistance?
-  A growing number of harmful bacteria and fungi are becoming resistant to antibiotics . The WHO report shows that the problem is surging around the world . How much do you know about microbes, antibiotics, and the scale of the problem? Test your knowledge below to see how much you've heard about the AMR threat in this week’s Checkup . Read our weekly biotech newsletter from MIT Technology Review .
-• Unlocking the potential of SAF with book and claim in air freight
-  Leaders discuss the urgency for reducing air freight emissions for freight forwarders and shippers . They also explain how companies can best make use of the book and claim model to support their emissions reduction strategies . In its neat form, SAF has the potential to reduce life cycle GHG emissions by up to 80% compared to conventional jet fuel . This webcast is presented by MIT Technology Review Insights in association with Avelia .
 
 🔒 Cybersecurity & Privacy
 • Email Bombs Exploit Lax Authentication in Zendesk
   Cybercriminals are abusing a widespread lack of authentication in the customer service platform Zendesk to flood targeted email inboxes with menacing messages . The Washington Post, Tinder, CapCom, CompTIA, Discord, GMAC, NordVPN and NordVPN are among the victims of the abuse . The abusive missives can include any subject line chosen by the abusers, such as a supposed law enforcement investigation involving KrebsOnSecurity.com .
-• Patch Tuesday, October 2025 ‘End of 10’ Edition
-  Microsoft today released software updates to plug a whopping 172 security holes in its Windows operating systems, including at least two vulnerabilities that are already being actively exploited. October&#8217;s Patch Tuesday also marks the final month that Microsoft will ship security updates for Windows 10 systems. If you&#8217;re running a Windows 10 PC and you&#8217;re unable or unwilling to migrate to Windows 11, read on for other options.
-
-The first zero-day bug addressed this month (CVE-2025-24990) involves a third-party modem driver called Agere Modem that&#8217;s been bundled with Windows for the past two decades. Microsoft responded to active attacks on this flaw by completely removing the vulnerable driver from Windows.
-The other zero-day is CVE-2025-59230, an elevation of privilege vulnerability in Windows Remote Access Connection Manager (also known as RasMan), a service used to manage remote network connections through virtual private networks (VPNs) and dial-up networks.
-&#8220;While RasMan is a frequent flyer on Patch Tuesday, appearing more than 20 times since January 2022, this is the first time we&#8217;ve seen it exploited in the wild as a zero day,&#8221; said Satnam Narang, senior staff research engineer at Tenable.
-Narang notes that Microsoft Office users should also take note of CVE-2025-59227 and CVE-2025-59234, a pair of remote code execution bugs that take advantage of &#8220;Preview Pane,” meaning that the target doesn’t even need to open the file for exploitation to occur. To execute these flaws, an attacker would social engineer a target into previewing an email with a malicious Microsoft Office document.
-Speaking of Office, Microsoft quietly announced this week that Microsoft Word will now automatically save documents to OneDrive, Microsoft&#8217;s cloud platform. Users who are uncomfortable saving all of their documents to Microsoft&#8217;s cloud can change this in Word&#8217;s settings; ZDNet has a useful how-to on disabling this feature.
-Kev Breen, senior director of threat research at Immersive, called attention to CVE-2025-59287, a critical remote code execution bug in the Windows Server Update Service  (WSUS) &#8212; the very same Windows service responsible for downloading security patches for Windows Server versions. Microsoft says there are no signs this weakness is being exploited yet. But with a threat score of 9.8 out of possible 10 and marked &#8220;exploitation more likely,&#8221; CVE-2025-59287 can be exploited without authentication and is an easy &#8220;patch now&#8221; candidate.
-&#8220;Microsoft provides limited information, stating that an unauthenticated attacker with network access can send untrusted data to the WSUS server, resulting in deserialization and code execution,&#8221; Breen wrote. &#8220;As WSUS is a trusted Windows service that is designed to update privileged files across the file system, an attacker would have free rein over the operating system and could potentially bypass some EDR detections that ignore or exclude the WSUS service.&#8221;
-For more on other fixes from Redmond today, check out the SANS Internet Storm Center monthly roundup, which indexes all of the updates by severity and urgency.
-Windows 10 isn&#8217;t the only Microsoft OS that is reaching end-of-life today; Exchange Server 2016, Exchange Server 2019, Skype for Business 2016, Windows 11 IoT Enterprise Version 22H2, and Outlook 2016 are some of the other products that Microsoft is sunsetting today.
-
-If you&#8217;re running any Windows 10 systems, you&#8217;ve probably already determined whether your PC meets the technical hardware specs recommended for the Windows 11 OS. If you&#8217;re reluctant or unable to migrate a Windows 10 system to Windows 11, there are alternatives to simply continuing to use Windows 10 without ongoing security updates.
-One option is to pay for another year&#8217;s worth of security updates through Microsoft&#8217;s Extended Security Updates (ESU) program. The cost is just $30 if you don&#8217;t have a Microsoft account, and apparently free if you register the PC to a Microsoft account. This video breakdown from Ask Your Computer Guy does a good job of walking Windows 10 users through this process. Microsoft emphasizes that ESU enrollment does not provide other types of fixes, feature improvements or product enhancements. It also does not come with technical support.
-If your Windows 10 system is associated with a Microsoft account and signed in when you visit Windows Update, you should see an option to enroll in extended updates. Image: https://www.youtube.com/watch?v=SZH7MlvOoPM
-Windows 10 users also have the option of installing some flavor of Linux instead. Anyone seriously considering this option should check out the website endof10.org, which includes a plethora of tips and a DIY installation guide.
-Linux Mint is a great option for Linux newbies. Like most modern Linux versions, Mint will run on anything with a 64-bit CPU that has at least 2GB of memory, although 4GB is recommended. In other words, it will run on almost any computer produced in the last decade.
-Linux Mint also is likely to be the most intuitive interface for regular Windows users, and it is largely configurable without any fuss at the text-only command-line prompt. Mint and other flavors of Linux come with LibreOffice, which is an open source suite of tools that includes applications similar to Microsoft Office, and it can open, edit and save documents as Microsoft Office files.
-If you’d prefer to give Linux a test drive before installing it on a Windows PC, you can always just download it to a removable USB drive. From there, reboot the computer (with the removable drive plugged in) and select the option at startup to run the operating system from the external USB drive. If you don’t see an option for that after restarting, try restarting again and hitting the F8 button, which should open a list of bootable drives. Here’s a fairly thorough tutorial that walks through exactly how to do all this.
-And if this is your first time trying out Linux, relax and have fun: The nice thing about a “live” version of Linux (as it’s called when the operating system is run from a removable drive such as a CD or a USB stick) is that none of your changes persist after a reboot. Even if you somehow manage to break something, a restart will return the system back to its original state.
-As ever, if you experience any difficulties during or after applying this month&#8217;s batch of patches, please leave a note about it in the comments below.
 
 🎓 University AI
 No updates.
