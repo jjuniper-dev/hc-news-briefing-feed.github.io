@@ -1,17 +1,17 @@
-✅ Morning News Briefing – October 20, 2025 10:47
+✅ Morning News Briefing – October 21, 2025 10:45
 
-📅 Date: 2025-10-20 10:47
+📅 Date: 2025-10-21 10:45
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  14.0°C
-  Temperature: 14.0&deg;C Pressure / Tendency: 100.1 kPa rising Humidity: 95 % Dewpoint: 13.3&deg:C Wind: S 2 km/h Air Quality Health Index: n/a . Observed at: Pembroke 6:00 AM EDT Monday 20 October 2025 . Weather: 14-14.0/
-• Monday: Showers. High 12.
-  Showers ending this afternoon then cloudy then cloudy . Wind becoming northwest 20 km/h gusting to 40 near noon . High 12.5 degrees Celsius . UV index 1 or low, with low-visibility factor of 1 in the UV index of 1 or 0 . Forecast issued 5:00 AM EDT Monday 20 October 2025 . Weather forecasters predict temperatures will reach 12 degrees Celsius
-• Monday night: Mainly cloudy. Low plus 4.
-  Cloudy. Becoming partly cloudy this evening. Wind northwest 20 km/h becoming light late this evening . Low plus 4.50C is expected to be cloudy in the early hours of tomorrow morning . Forecast issued 5:00 AM EDT Monday 20 October 2025 . Forecasts issued 5,000C to 5,500C for Monday 20 Oct. 20 Oct 2025. Forecast
+• Current Conditions:  5.4°C
+  Temperature: 5.4&deg;C Pressure / Tendency: 100.9 kPa falling Humidity: 77 % Dewpoint: 1.7&deg:C Wind: WNW 10 km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Tuesday 21 October 2025 . Weather forecast: 5/4°C Pem
+• Tuesday: Chance of showers. High 13. POP 60%
+  Increasing cloudiness this morning then 60 percent chance of showers late this afternoon . Mainly sunny this morning . High 13.5 degrees in the morning . UV index 3 or moderate. UV index 1 or lower . Showers will be mainly sunny in the afternoon . Forecast issued 5:00 AM EDT Tuesday 21 October 2025 . Weather will be mostly sunny this afternoon. High 13 degrees in
+• Tuesday night: Chance of showers. Low plus 5. POP 40%
+  Mainly cloudy with 40 percent chance of showers . Low plus 5.70s is expected to be mostly cloudy with low-60s chance of rain . Forecast issued 5:00 AM EDT Tuesday 21 October 2025 for the U.S. Low 60s is forecast for the rest of the week . Low 50s is predicted to be below 40s for the next few days .
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• As deadline for Trump's colleges compact looms, schools signal dissent
-  Of the original nine schools that received the Trump administration's Compact for Academic Excellence in Higher Education, the majority have indicated they are not planning on signing . The majority of those schools have indicated that they will not sign the Compact . The Compact is part of a larger effort to improve the quality of higher education in America's higher education . The compact was created by the Obama administration in 2009 .
-• Can collagen supplements improve your skin? Here's what the research shows
-  In wellness circles, the buzz is that collagen supplements can help with wrinkles, joint pain and joint pain . But are these claims something you should swallow? Are you ready to swallow the collagen supplements? Share your thoughts with CNN iReport.com . Back to the page you came from: http://www.dailymailonline.com/news/newsnet/newsport/com/
-• Centrist Rodrigo Paz wins Bolivia's presidential runoff, topping right-wing rival
-  Centrist senator Rodrigo Paz won Bolivia's presidency with 54% of the vote . Paz ended 20 years of rule by the Movement Toward Socialism party amid economic turmoil . Centrist Paz ends 20 years in power of the party's former government amid economic woes . Rodrigo won the presidency in Bolivia's first presidential election since 1992 . Paza's victory ends 20-year rule by
-• Trump announces tariffs and an end to U.S. aid to Colombia amid clash over drug trade
-  The U.S. will slash assistance to Colombia and enact tariffs on its exports because the country's leader, Gustavo Petro, "does nothing to stop" drug production, President Donald Trump said Sunday . President Trump: Colombia's leader does nothing to "stop" production of drugs . Colombia's drug production has been a major source of cocaine production in the country, the president said .
-• Sam Rivers, bassist and founding member of Limp Bizkit, dies aged 48
-  Limp Bizkit: "Sam Rivers wasn't just our bass player — he was pure magic" "The pulse beneath every song, the calm in the chaos, the soul in the sound," the band said in a social media post Saturday . Limp said Rivers was "pure magic" and "purely magic" Rivers died at the age of 50 on Saturday at age of
+• A theory why the internet is going down the toilet
+  A new book diagnoses a sickness affecting some of America's biggest companies . The book is called 'The Sickness of Fortune 500' and focuses on companies like Amazon, Google and Facebook . It is the first time a book has been published that focuses on the sickness of some of the biggest companies in the U.S. The book will be released on Friday at 8 p.m
+• 'Cancer doesn't care': Patients pushed past divisive politics to lobby Congress
+  Hundreds of volunteer advocates put partisan differences aside and pressed Congress to help people with cancer . The advocacy came just before the stalemate that has shut down the federal government . It came just days before the government shut down in the federal shutdown, the advocacy came before the end of the government's funding debate . It's not the first time the government has been forced to shut down by the shutdown
+• Blue New Jersey is expecting a very close race for governor this November
+  President Trump and former President Obama have endorsed the two candidates locked in a tight race for New Jersey governor . Republican Jack Ciattarelli and Democrat Mikie Sherrill are currently tied in the race for governor of New Jersey . Former President Obama has endorsed the Republican candidate for governor in New Jersey's gubernatorial race . President Trump has endorsed both candidates for the next New Jersey Governor's office .
+• Karine Jean-Pierre on why she left the Democrats — and calls herself independent
+  Former Biden press secretary Karine Jean-Pierre writes that party infighting, bias and disloyalty drove her to leave the Democratic Party . In her new book Independent, she writes that she left the party because of the party's infighting and bias . The book, Independent, is out now and is being published by Simon Simon, a Pulitzer Prize-winning Democratic journalist and author of
+• Middle East Institute's Natan Sachs on Israel and the future of the ceasefire deal
+  Natan Sachs with the Middle East Institute talks about the future of the ceasefire deal from Israel's perspective . Sachs talks with Leila Fadel about Israel's role in the ceasefire agreement . Sachs: The deal is a good one for Israel and Israel, but it's not a bad one for the U.S., it's a good for Israel, Israel and the world's future .
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• The real insight behind measuring Copilot usage is Microsoft's desperation
-  The quantum theory of management includes an analogy for the physical law of the observer effect, where observing a system changes its state . When you make a metric a target, it is not useful as a metric . Instead of reflecting what underlying behavior it was intended to measure, the metric becomes a measure of how well the benchmark is being gamed . Citizen! You are falling short in your AI
-• Major AWS outage across US-East region breaks half the internet
-  Amazon reports DNS issues hitting DynamoDB, leaving services from Roblox to McDonald's struggling . Even Amazon's own web page reported to be offline . Dozens of other online services and websites affected, including disruption in the UK . Amazon Web Services (AWS) reported to have been affected by the issue, with even the company's web page offline . Amazon reports problems with DynamoDB and
-• A simple AI prompt saved a developer from this job interview scam
-  Engineer David Dodda says he was just "30 seconds away" from running malware on his own computer . Dodda nearly fell victim to a North Korea-style job interview scam with a "legitimate" blockchain company . Plus: Ransomware posing as Teams installer, Cisco 0-day exploit to drop rootkit, and European cops bust SIM-box service INFOSEC in Europe
-• Tribunal wonders if Microsoft has found a legal hero after pivot to copyright gambit
-  ValueLicensing dispute probes whether Office counts as a creative work . Microsoft's attempt to make the case about copyright has taken another turn . Microsoft and Value Licensing are locked in a long-running legal battle over the resale of software licenses . Microsoft is trying to argue that Office is not a work that should be licensed to use in a commercial way . Value licensing and Microsoft are
-• UK calls up Armed Forces veterans for digital ID soft launch
-  Armed Forces veterans tasked with proving the government can successfully roll out a digital ID card scheme . The UK's armed forces veterans are being tasked with one last mission – proving the scheme can be successfully rolled out . The scheme will be rolled out across the UK for the first time in five years . It will be the first attempt to roll out digital ID cards in the UK's Armed Forces .
+• Feds flag active exploitation of patched Windows SMB vuln
+  CISA adds high-severity flaw to KEV list, urges swift updating . Uncle Sam's cyber wardens warn flaw in Microsoft's Windows SMB client is now being actively exploited – months after it was patched . CISA: 'Flaw is now actively being exploited' CISA also urges swift updates to fix flaw in SMB clients that were patched months ago . Microsoft's
+• Trust the AI, says new coding manifesto by Kim and Yegge
+  DevOps guru and ex-Googler says vibes beat reading diffs but there are risks . "Accept All. Always. Don't read the diffs anymore," he says . DevOps expert: "Don't read diffs now. Acceptance All. Means "Always. Accept All. Don’t read thediffs anymore" DevOps gurus say vib
+• A shot in the dark: Can malware vaccines stop ransomware's rampage?
+  Security pros explore whether infection-spoofing code can immunize Windows systems against attack Feature: What's better, prevention or cure? For a long time the global cybersecurity industry has operated by reacting to attacks and computer viruses . But given that ransomware has continued to escalate, more proactive action is needed, says security expert . Security pros: More proactive action needed to be done to combat the
+• Mobian makes Debian's latest 'Trixie' release pocket-sized
+  Mobian, an edition of Linux aimed at mobile devices, is based on the latest version of the latest edition of the software . The Reg attempts to disentangle the options in Mobian . Mobian is a version of "Trixie" based on a version based on "Tricie" and "Trapie" The Reg attempted to understand the implications of Mobian
+• Anti-fraud body leaks dozens of email addresses in invite mishap
+  Calendar cock-up exposed recipients' details . Anti-fraud nonprofit Cifas left red-faced after sending out a calendar invite that exposed the email addresses of dozens of individuals working across the fraud space . Calendar invite exposed emails of people working across fraud space working in fraud space.……… Calendar invite sent out to dozens of people who worked in fraud-related fraud space exposed
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• A community cross-sectional study on oral health status among rural and urban inhabitants of Zambia
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Association of repeated high serum osmolarity with cognitive function in older Japanese adults in a KOBE study subanalysis
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Impact of health education on knowledge and perception of cervical cancer and screening among rural women in Bangladesh
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Creativity keeps the brain young
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • RNA replicon vaccination confers long-lasting protection against H5N1 avian influenza in 23 zoo bird species
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Factors associated with willingness to use ecological sanitation toilets in Katine sub county Soroti district Uganda: a cross sectional study
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Perceptions of targeted sexual healthcare among French MSM based on HPV vaccination policy in France
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Global landscape of kidney health across Indigenous populations
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Cardiovascular disease prevention in China: challenges and opportunities in the artificial intelligence-enabled digital health era
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,153 +68,493 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
-• AI could predict who will have a heart attack
-  For all the modern marvels of cardiology, we struggle to predict who will have a heart attack. Many people never get screened at all. Now, startups like Bunkerhill Health, Nanox.AI, and HeartLung Technologies are applying AI algorithms to screen millions of CT scans for early signs of heart disease. This technology could be a breakthrough for public health, applying an old tool to uncover patients whose high risk for a heart attack is hiding in plain sight. But it remains unproven at scale while raising thorny questions about implementation and even how we define disease. 
+• New noninvasive endometriosis tests are on the rise
+  Shantana Hazel often thought her insides might fall out during menstruation. It took 14 years of stabbing pain before she ultimately received a diagnosis of endometriosis, an inflammatory disease where tissue similar to the uterine lining implants outside the uterus and bleeds with each cycle. The results can include painful periods and damaging scar tissue. Hazel, now 50 and the founder of the endometriosis advocacy organization Sister Girl Foundation, was once told by a surgeon that her internal organs were “fused together” by lesions resembling Laffy Taffy. After 16 surgeries, she had a hysterectomy at age 30.&nbsp;
 
 
 
-Last year, an estimated 20 million Americans had chest CT scans done, after an event like a car accident or to screen for lung cancer. Frequently, they show evidence of coronary artery calcium (CAC), a marker for heart attack risk, that is buried or not mentioned in a radiology report focusing on ruling out bony injuries, life-threatening internal trauma, or cancer.
+Hazel is far from alone. Endometriosis inflicts debilitating pain and heavy bleeding on more than 11% of reproductive-­age women in the United States. Diagnosis takes nearly 10 years on average, partly because half the cases don’t show up on scans, and surgery is required to obtain tissue samples.
 
 
 
+But a new generation of noninvasive tests are emerging that could help accelerate diagnosis and improve management of this poorly understood condition.&nbsp;
 
 
-Dedicated testing for CAC remains an underutilized method of predicting heart attack risk. Over decades, plaque in heart arteries moves through its own life cycle, hardening from lipid-rich residue into calcium. Heart attacks themselves typically occur when younger, lipid-rich plaque unpredictably ruptures, kicking off a clotting cascade of inflammation that ultimately blocks the heart’s blood supply. Calcified plaque is generally stable, but finding CAC suggests that younger, more rupture-prone plaque is likely present too.&nbsp;
 
+Within the next year, several companies, including Hera Biotech, Proteomics International, NextGen Jane, and Ziwig, aim to launch endometriosis diagnostics in the United States. Their tests analyze biomarkers—biological molecules (in this case, mRNA, proteins, or miRNA) that signal a disease or process like inflammation—in samples of endometrial tissue, blood, menstrual blood, and saliva.&nbsp;
 
 
-Coronary artery calcium can often be spotted on chest CTs, and its concentration can be subjectively described. Normally, quantifying a person’s CAC score involves obtaining a heart-specific CT scan. Algorithms that calculate CAC scores from routine chest CTs, however, could massively expand access to this metric. In practice, these algorithms could then be deployed to alert patients and their doctors about abnormally high scores, encouraging them to seek further care. Today, the footprint of the startups offering AI-derived CAC scores is not large, but it is growing quickly. As their use grows, these algorithms may identify high-risk patients who are traditionally missed or who are on the margins of care.&nbsp;
 
+Ziwig Lab, headquartered in France, hopes to have their test approved for use in the United States soon.COURTESY MM PRODUCTION – MAGALI MEIRA
 
 
-Historically, CAC scans were believed to have marginal benefit and were marketed to the worried well. Even today, most insurers won’t cover them. Attitudes, though, may be shifting. More expert groups are endorsing CAC scores as a way to refine cardiovascular risk estimates and persuade skeptical patients to start taking statins.&nbsp;
 
 
+These tests could help patients get an accurate diagnosis quickly and noninvasively, speeding access to endometriosis treatments and management strategies, including surgery, hormonal medications, and pelvic floor physical therapy. Early identification could also help doctors manage conditions for which people with endometriosis face increased risk, including cardiovascular disease, heart attack, and stroke. Endometriosis can also make it difficult to become pregnant. Because half of women with infertility have endometriosis, identifying and managing the condition sooner may improve fertility and IVF outcomes.&nbsp;
 
-The promise of AI-derived CAC scores is part of a broader trend toward mining troves of medical data to spot otherwise undetected disease. But while it seems promising, the practice raises plenty of questions. For example, CAC scores ­haven’t proved useful as a blunt instrument for universal screening. A 2022 Danish study evaluating a population-based program, for example, showed no benefit in mortality rates for patients who had undergone CAC screening tests. If AI delivered this information automatically, would the calculus really shift?&nbsp;
 
 
 
-And with widespread adoption, abnormal CAC scores will become common. Who follows up on these findings? “Many health systems aren’t yet set up to act on incidental calcium findings at scale,” says Nishith Khandwala, the cofounder of Bunkerhill Health. Without a standard procedure for doing so, he says, “you risk creating more work than value.”&nbsp;
 
+Endometriosis biomarker tests rely on a range of technologies, including single-cell RNA sequencing and mass spectrometry that can identify thousands of proteins simultaneously. “These instruments are very good at precisely identifying a molecule, in [our] case a protein. And what’s changed over the last five or 10 years is they’ve gotten more sensitive,” says Proteomics cofounder Richard Lipscombe. Machine learning can also now efficiently sift through large quantities of the resulting data.&nbsp;
 
 
 
+So far only Ziwig has a test on the market. It uses a saliva sample to identify biomarkers in people with endometriosis symptoms and is currently sold in 30 countries. In France, where the company is based, the cost is fully covered by national health insurance.&nbsp;
 
-There’s also the question of whether these AI-generated scores would actually improve patient care. For a symptomatic patient, a CAC score of zero may offer false reassurance. For the asymptomatic patient with a high CAC score, the next steps remain uncertain. Beyond statins, it isn’t clear if these patients would benefit from starting costly cholesterol-lowering drugs such as Repatha or other PCSK9-inhibitors. It may encourage some to pursue unnecessary but costly downstream procedures that could even end up doing harm. Currently, AI-derived CAC scoring is not reimbursed as a separate service by Medicare or most insurers. The business case for this technology today, effectively, lies in these potentially perverse incentives.&nbsp;
 
 
+Some researchers are concerned that Ziwig’s test might not be accurate when it’s used in larger and more diverse populations; its interim validation study included just 200 people. “I’m not saying this doesn’t work. I just would want to see more validation,” says Kathryn Terry, an associate professor of epidemiology and gynecology at Harvard. Company representatives say they’re preparing to publish results on 1,000 patients in the near future, adding that French authorities had access to the full data set before approving government reimbursements.
 
-At a fundamental level, this approach could actually change how we define disease. Adam Rodman, a hospitalist and AI expert at Beth Israel Deaconess Medical Center in Boston, has observed that AI-derived CAC scores share similarities with the “incidentaloma,” a term coined in the 1980s to describe unexpected findings on CT scans. In both cases, the normal pattern of diagnosis—in which doctors and patients deliberately embark on testing to figure out what’s causing a specific problem—were fundamentally disrupted. But, as Rodman notes, incidentalomas were still found by humans reviewing the scans.&nbsp;
 
 
+COURTESY MM PRODUCTION – MAGALI MEIRA
 
-Now, he says, we are entering an era of “machine-based nosology,” where algorithms define diseases on their own terms. As machines make more diagnoses, they may catch things we miss. But Rodman and I began to wonder if a two-tiered diagnostic future may emerge, where “haves” pay for brand-name algorithms while “have-nots” settle for lesser alternatives.&nbsp;
 
 
 
-For patients who have no risk factors or are detached from regular medical care, an AI-derived CAC score could potentially catch problems earlier and rewrite the script. But how these scores reach people, what is done about them, and whether they can ultimately improve patient outcomes at scale remain open questions. For now—holding the pen as they toggle between patients and algorithmic outputs—clinicians still matter.&nbsp;
+These tests are emerging as momentum is building to tackle endometriosis. Over the past five years, France, Australia, the United Kingdom, and Canada have launched ambitious endometriosis initiatives.&nbsp;
 
 
 
-Vishal Khetpal is a fellow in cardiovascular disease. The views expressed in this article do not represent those of his employers.&nbsp;
-• Flowers of the future
-  Flowers play a key role in most landscapes, from urban to rural areas. There might be dandelions poking through the cracks in the pavement, wildflowers on the highway median, or poppies covering a hillside. We might notice the time of year they bloom and connect that to our changing climate. Perhaps we are familiar with their cycles: bud, bloom, wilt, seed. Yet flowers have much more to tell in their bright blooms: The very shape they take is formed by local and global climate conditions.&nbsp;
+The potential benefits are not just on the individual level: In 2025, the World Economic Forum estimated that earlier diagnosis and improved treatment to address the chronic pain, infertility, and depression caused by endometriosis could add at least $12 billion to global GDP by 2040.
 
 
 
-The form of a flower is a visual display of its climate, if you know what to look for. In a dry year, its petals’ pigmentation may change. In a warm year, the flower might grow bigger. The flower’s ultraviolet-absorbing pigment increases with higher ozone levels. As the climate changes in the future, how might flowers change?&nbsp;
+As these biomarker tests are further developed, it’s possible their results could inform such treatments. Today surgery is often used to excise the lesions. The process can take as long as seven hours, and even then, lesions frequently form again. Jason Abbott, chair of Australia’s&nbsp;National Endometriosis Clinical and Scientific&nbsp;Trials Network, compares endometriosis management today to breast cancer care 30 years ago. Whereas doctors once prescribed surgery for all breast cancer patients, targeted treatments now address the underlying cell processes that help tumors grow and spread. Endometriosis tests could likewise help researchers categorize the condition’s distinct subsets and understand their underlying inflammatory pathways—information drugmakers could use to develop targeted treatments that keep it in remission.
 
 
 
-Anthocyanins are red or indigo pigments that supply antioxidants and photoprotectants, which help a plant tolerate climate-related stresses such as droughts.© 2021 SULLIVAN CN, KOSKI MH
+Colleen de Bellefonds is a science journalist based in Paris.
+• The astonishing embryo models of Jacob Hanna
+  When the Palestinian stem-cell scientist Jacob Hanna was stopped while entering the US last May, airport customs agents took him aside and held him for hours in “secondary,” a back office where you don’t have your passport and can’t use your phone. There were two young Russian women and a candy machine in the room with him. Hanna, who has a trim beard and glasses and holds an Israeli passport, accepted the scrutiny. “It’s almost like you are under arrest, but in a friendly way,” he says. He agreed to turn over his phone and social media for inspection.&nbsp;&nbsp;
 
 
 
+“They said, ‘You have the right to refuse,’” he recalls, “and I said, ‘No, no, it’s an open book.’”
 
-An artistic research project called Plant Futures imagines how a single species of flower might evolve in response to climate change between 2023 and 2100—and invites us to reflect on the complex, long-term impacts of our warming world. The project has created one flower for every year from 2023 to 2100. The form of each one is data-driven, based on climate projections and research into how climate influences flowers’ visual attributes.&nbsp;
 
 
 
-More ultraviolet pigment protects flowers’ pollen against increasing ozone levels.MARCO TODESCO
 
 
+The agents scrolling through his feeds would have learned that Hanna is part of Israel’s small Arab Christian minority, a nonbinary LGBTQ-rights advocate, and an outspoken critic of the Gaza occupation, who uses his social media accounts to post images of atrocities and hold up a mirror to scientific colleagues including those at the Weizmann Institute of Science, the pure-science powerhouse where he works—Israel’s version of Caltech or Rockefeller University. In his luggage, they would have found his keffiyeh, or traditional headscarf, which Hanna last year vowed to wear at lecture podiums on his many trips abroad.
 
 
-Under unpredictable weather conditions, the speculative flowers grow a second layer of petals. In botany, a second layer is called a “double bloom” and arises from random mutations.COURTESY OF ANNELIE BERNER
 
+Hanna had been stopped before; he knew the routine. Anything to declare? Any biological samples? But this time the agents’ questions touched on a specific new topic: embryos.
 
 
 
-Plant Futures began during an artist residency in Helsinki, where I worked closely with the biologist Aku Korhonen to understand how climate change affected the local ecosystem. While exploring the primeval Haltiala forest, I learned of the Circaea alpina, a tiny flower that was once rare in that area but has become more common as temperatures have risen in recent years. Yet its habitat is delicate: The plant requires shade and a moist environment, and the spruce population that provides those conditions is declining in the face of new forest pathogens. I wondered: What if the Circaea alpina could survive in spite of climate uncertainty? If the dark, shaded bogs turn into bright meadows and the wet ground dries out, how might the flower adapt in order to survive? This flower’s potential became the project’s grounding point.&nbsp;
+Weeks earlier, a Harvard University researcher had been arrested for having frog embryos in her luggage and sent to a detention center in Louisiana. Hanna didn’t have any specimens from his lab, but if he had, it would have been surprisingly hard to say what they were. That’s because his lab specializes in creating synthetic embryo models, structures that resemble real embryos but don’t involve sperm, eggs, or fertilization.&nbsp;
 
 
 
-The author studying historical Circaea samples in the Luomus Botanical Collections.COURTESY OF ANNELIE BERNER
+Instead of relying on the same old recipe biology has followed for a billion years, give or take, Hanna is coaxing the beginnings of animal bodies directly from stem cells. Join these cells together in the right way, and they will spontaneously attempt to organize into an embryo—a feat that’s opening up the earliest phases of development to scientific scrutiny and may lead to a new source of tissue for transplant medicine.
 
 
 
 
-Outside the forest, I worked with botanical experts in the Luomus Botanical Collections. I studied samples of Circaea flowers from as far back as 1906, and I researched historical climate conditions in an attempt to understand how flower size and color related to a year’s temperature and precipitation patterns.&nbsp;
+Soon it could be difficult to distinguish between a real human embryo—the kind with legal protections—and one conjured from stem cells.
 
 
 
-I researched how other flowering plants respond to changes to their climate conditions and wondered how the Circaea would need to adapt to thrive in a future world. If such changes happened, what would the Circaea look like in 2100?&nbsp;
 
+In 2022, working with mice, Hanna reported he’d used the technique to produce synthetic embryos with beating hearts and neural folds—growing them inside small jars connected to a gas mixer, a type of artificial womb. The next year, he repeated the trick using human cells. This time the structures were not so far developed, still spherical in shape. Nonetheless, they were incredibly realistic mimics of a two-week-old human embryo, including cells destined to form the placenta.&nbsp;
 
 
-We designed the future flowers through a combination of data-driven algorithmic mapping and artistic control. I worked with the data artist Marcin Ignac from Variable Studio to create 3D flowers whose appearance was connected to climate data. Using Nodes.io, we made a 3D model of the Circaea alpina based on its current morphology and then mapped how those physical parameters might shift as the climate changes. For example, as the temperature rises and precipitation decreases in the data set, the petal color shifts toward red, reflecting how flowers protect themselves with an increase in anthocyanins. Changes in temperature, carbon dioxide levels, and precipitation rates combine to affect the flowers’ size, density of veins, UV pigments, color, and tendency toward double bloom.
 
+These sorts of models aren’t yet the same as embryos. It’s rare that they form correctly—it takes a hundred tries to make one—and they skip past normal steps before popping into existence. Yet to scientists like the French biologist Denis Duboule, Hanna’s creations are “entirely astonishing and very disturbing.” Soon, Duboule expects, it could be difficult to distinguish between a real human embryo—the kind with legal protections—and one conjured from stem cells.&nbsp;
 
 
-2025: Circaea alpina is ever so slightly larger than usual owing to a warmer summer, but it is otherwise close to the typical Circaea flower in size, color, and other attributes.
 
+Hanna is the vanguard of a wider movement that’s fusing advanced methods in genetics, stem-cell biology, and still-­primitive artificial wombs to create bodies where they’ve never grown before—outside the uterus. Joining the chase are researchers at Caltech, the University of Cambridge, and Rockefeller in New York, as well as a growing cadre of startup companies with commercial aims. There’s Renewal Bio, a startup Hanna cofounded, which hopes to grow synthetic embryos as a source of youthful replacement cells, such as bits of liver or even eggs. In Europe, Dawn Bio has started placing a type of embryo model called a blastoid on uterine tissue. That will light up a pregnancy test and could, the company thinks, provide new insights into IVF medicine. Patent offices in the US and Europe are seeing a flood of claims as universities grasp for exclusive commercial control over these new types of beings.&nbsp;
 
 
-2064: We see a bigger flower with more petals, given an increase in carbon dioxide levels and temperature. The bull’s-eye pattern, composed of UV pigment, is bigger and messier because of an increase in ozone and solar radiation. A second tier of petals reflects uncertainty in the climate model.
 
+Jacob Hanna leads a team at the Weizmann Institute of Science in Rehovot, Israel, that is studying how to create embryos without using sperm, eggs, or fertilization. He’s cofounded a startup company, Renewal Bio, that has plans to use these synthetic embryo models as bioprinters to produce youthful tissue, but ethical questions surround the project.AHMAD GHARABLI/GETTY IMAGES
 
 
-2074: The flower becomes pinker, an antioxidative response to the stress of consecutive dry days and higher temperatures. Its size increases, primarily because of higher levels of carbon dioxide. The double bloom of petals persists as the climate model’s projections increase in uncertainty.
 
 
+Hanna declined a request to discuss his research for this story. But for the last three years, MIT Technology Review has followed Hanna across online presentations, lecture halls, and two in-person ethics meetings, both organized by the Global Observatory for Genome Editing, a public consultation project where he agreed to engage with religious scholars, bioethicists, and other experts. What emerged is a remarkable picture of a scientist working at a Nobel Prize level but whose research, though approved by his institution, raises serious long-term ethical questions.
 
-2100: The flower’s veins are densely packed, which could signal appropriation of a technique leaves use to improve water transport during droughts. It could also be part of a strategy to attract pollinators in the face of worsening air quality that degrades the transmission of scents.
 
 
+Exactly how far Hanna has taken his models of the human embryo is an open question. According to public comments from Renewal Bio, the answer is at least 28 days. But it’s possibly further. One scientist in contact with the company said he thought they’d reached close to day 40, a point where you would see the beginning of eyes and budding limbs. Renewal did not respond to a request for comment.
 
-2023—2100: Each year, the speculative flower changes. Size, color, and form shift in accordance with the increased temperature and carbon dioxide levels and the changes in precipitation patterns.
 
 
+But even if he hasn’t gotten that far yet, Hanna intends to. His team is “trying to make entities at more advanced stages—depending on the goal, it could be day 30 in development, day 40, or day 70,” he told an audience last May in Cambridge, Massachusetts, where he’d traveled to join a panel discussion involving religious scholars and social scientists at the Global Observatory’s annual summit. The more advanced versions would be similar in size and development to a fetus in the third month of pregnancy.&nbsp;
 
-In this 10-centimeter cube of plexiglass, the future flowers are “preserved,” allowing the viewer to see them in a comparative, layered view.COURTESY OF ANNELIE BERNER
 
 
 
 
-Based in Copenhagen, Annelie Berner is a designer, researcher, teacher, and artist specializing in data visualization.
-• The Download: the rehabilitation of AI art, and the scary truth about antimicrobial resistance
+O. Carter Snead, a bioethicist from the University of Notre Dame who led the panel featuring Hanna, approached me afterward to ask if I’d heard what the scientist had said. Snead was surprised that Hanna had so frankly disclosed his goals and that no one had objected, or maybe even grasped what it meant. Perhaps, Snead thinks, this technology won’t sink in until people can see it with their own eyes. “If you had one of these spinning bottles with something that looked like a human fetus inside it, I think you’d get people’s attention,” he says. “That’s going to be like, whoa—what are we doing?”
+
+
+
+Snead, a Catholic who sits on a panel that advises the Vatican, also was not comforted by Hanna’s plan to make sure his models, if they advance to later stages of development, will pass ethical scrutiny. That plan involves blocking the formation of the head, brain, or perhaps heart of the synthetic structures, by means including genetic modification. If there’s no brain, Hanna’s reasoning goes, there’s no awareness, no person, and no foul. Just a clump of organs.
+
+
+
+Snead says that’s not the same standard of humanity he knows, which treats all humans the same, regardless of their intellectual capacity or anything else. “What is considered human? Who is considered human?” wonders Snead. “It’s who’s in and who’s out. There is a dramatic consequence of being in versus out of the boundaries of humanity.”
+
+
+
+The beginnings of bodies
+
+
+
+Each of us—me, you the reader, and Jacob Hanna—started as a fertilized egg, a single cell that’s able to divide and dynamically carry out a program to build a complete body with all its organs and billions of specialized cells. Science has long sought ways to seize on that dramatic potential. A first step came in the 1990s, when scientists were able to isolate powerful stem cells from five-day-old embryos created through in vitro fertilization—and keep them growing in their labs. These embryonic stem cells had the inherent potential to become any other type of cell. If they could be directed in the lab to form, for example, neurons or the insulin-making cells that diabetics need, that would open up a way to treat disease using cell transplants.&nbsp;
+
+
+
+A side-by-side comparison of synthetic (left) and natural (right) mouse embryos shows similar formation of the brain and heart.AMADEI AND HANDFORD/UNIVERSITY OF CAMBRIDGE
+
+
+
+
+But these lab recipes are often unsuccessful, which explains the general lack of new stem-cell treatments. “The sad truth is that over 25 years that we’ve been working on this problem, there are about 10 cell types you make that have reasonable function,” says Chad Cowan, chief scientific officer of the stem-cell company Century Therapeutics. If we think of the body as a car, he explains, “we’ve got only spark plugs. We maybe have some tires.” The body’s most potent blood-forming cells in particular “never appear,” according to Cowan, even though biotech companies have spent millions trying to make them.
+
+
+
+
+Hanna’s startup plans to use synthetic embryos as a kind of “bioprinter,” producing medically valuable cells in cases where other methods have failed.
+
+
+
+
+It turns out, though, that stem cells retain a natural urge to work together. Scientists began to notice that, when left alone, the cells would join into blobs, tubes, and cavities—some of which resembled parts of an embryo.&nbsp;
+
+
+
+Early versions of these structures were crude, even just a swirling film of cells on a glass slide. But each year, they have grown more realistic. By 2023, Hanna was describing what he called a “bona fide” human embryo model that was “fully integrated,” with all the major parts arranged in an architecture that was hard to distinguish from the real thing.&nbsp;
+
+
+
+His company, Renewal, plans to use these synthetic embryos as a kind of “bioprinter,” producing medically valuable cells in cases where other methods have failed. This could be particularly valuable if the synthetic embryos are a perfect match with a patient’s DNA. And that’s possible too: These days reprogramming anyone’s skin cells into stem cells is easily done. Hanna has tried it on himself, transforming his own cells into synthetic embryos.&nbsp;
+
+
+
+Hanna’s research, and that of other groups, has at times collided with a powerful scientific body called the International Society for Stem Cell Research, or ISSCR, a self-governance organization that sets boundaries about what research can and can’t be published and what terminology to use. That’s to shield scientists from sensational headlines, public backlash, or the reach of actual regulators.&nbsp;
+
+
+
+The organization has taken a particularly categorical position on structures made from stem cells, saying they are mere “models.” According to a statement it fired off in 2023, “embryo models are neither synthetic nor embryos”—and, it added, they “cannot and will not develop to the equivalent of postnatal stage human.”&nbsp;
+
+
+
+Many scientists, including Hanna, agree no one should ever try to make a stem-cell baby. But he is fairly certain these structures will become more realistic and can grow further. In fact, that may be the real test of what an embryo is: whether it can dynamically keep reaching new stages of development, especially organogenesis, or the first emergence of organs. The language in the ISSCR statement, he complained, was “brainwashing.”&nbsp;
+
+
+
+Replacement parts
+
+
+
+Most of the commercial projects involving synthetic embryos are doomed to a short and fitful life as the technology proves too difficult or undeveloped. But the idea isn’t going away. Instead, there are signals it’s getting bigger, and weirder. In an editorial published in March by MIT Technology Review, a group of Stanford scientists put forward a proposal for what they called “bodyoids,” arguing that stem cells and artificial wombs may lead to an “unlimited source” of nonsentient human bodies for use in drug research or as organ donors. One of its authors, Henry Greely, among the foremost bioethicists in the US, posted on Bluesky that even though the idea gives him “some creeps,” he added his name because he feels it is plausible enough to need discussion, and “soon.”
+
+
+
+
+
+Especially in the Bay Area, headless bodies are having a moment. The Stanford biologist Hiro Nakauchi, another “bodyoids” author, said the editorial provided a surprise entrée for him into a world of stealth startups already pursuing synthetic embryos, artificial wombs, and body-part “replacement.” He met the CEO of Hanna’s company, signing on as an advisor. But other teams have still more radical plans. One venture capitalist introduced him to a longevity entrepreneur tinkering with a plan for head transplants. The idea: Swap your aged head onto the body of a younger clone. That company claims to have a facility on a Caribbean island “just like Jurassic Park,” Nakauchi says.&nbsp;&nbsp;&nbsp;
+
+
+
+These sorts of plans—real or rumored—have gotten the attention of the stem-cell police, the ISSCR. This June, an ethics committee led by Amander Clark, a fetal specialist at UCLA and a past president of the society, wrote that it had become aware of “commercial and other groups raising the possibility of building an embryo in vitro” and bringing it to viability inside “artificial systems.” Though the ISSCR had previously decreed that embryo models “cannot and will not” develop to term, it now declared efforts aiming at viability “unsafe and unethical,” placing them in a “prohibited” category. It added that the ban would cover “any purpose: reproductive, research, or commercial.”&nbsp;
+
+
+
+Blurred boundaries
+
+
+
+Clark and her colleagues are right that, for the foreseeable future, no one is going to decant a full-term baby out of a bottle. That’s still science fiction. But there’s a pressing issue that needs to be dealt with right now. And that’s what to do about synthetic embryo models that develop just part of the way—say for a few weeks, or months, as Hanna proposes.&nbsp;
+
+
+
+Because right now, hardly any laws or policies apply to synthetic embryos. One reason is their unnatural origin: Because these entities don’t start with conception and grow in labs, most existing laws won’t cover them. That includes the Fetus Farming Prohibition Act, legislation passed unanimously in 2006 by the US Congress, which sought to prevent anyone from growing a fetus for its organs. But that law references “a human pregnancy” and a “uterus”—and there would be neither if a synthetic embryo were grown in a mechanical vessel.&nbsp;
+
+
+
+
+
+Another policy under pressure is the “14-day rule,” a widely employed convention that natural embryos should not be grown longer than two weeks in the lab. Though it’s a mostly arbitrary stopping point, it’s been convenient for laboratory scientists to know where their limit is. But that rule isn’t being applied to the embryo models. For instance, even though the United Kingdom has a 14-day rule enshrined in law, that legislation doesn’t define what an embryo is. To scientists working on models, that’s a critical loophole. If the structures aren’t considered true embryos, then the rule doesn’t apply. &nbsp;
+
+
+
+Last year, the University of Cambridge, in the UK, described the situation as a “grey area” and said it “has left scientists and research organisations uncertain about the acceptable boundaries of their work, both legally and ethically.”&nbsp;
+
+
+
+Researchers at the university, which is a hot spot for human embryo models, have been working with one that has advanced features, including beating heart cells. But the appearance of distinctive features under their microscopes is unsettling—even to scientists. “I was scared, honestly,” Jitesh Neupane, who led that work, told the Guardian in 2023. “I had to look down and look back again.”&nbsp;
+
+
+
+That particular stem-cell model isn’t complete—it entirely lacks placenta cells and a brain. So it’s not a real embryo. But it could get ever trickier to insist the models don’t count, given the accelerating race to make them more realistic. To Duboule, scientists are caught in a “fool’s paradox” and a “rather unstable situation.”
+
+
+
+Even incomplete models raise the question of where to draw the line. Should you stop when it can feel pain? When it’s just too human-looking for comfort? Scientific leaders may soon have to decide if there are “morally significant” human features—like hands or a face—that should be avoided, whether the structure has a brain or not. “I personally think there should be regulation, and many in the field believe this too,” says Alejandro De Los Angeles, a stem-cell biologist affiliated with the University of Central Florida.&nbsp;
+
+
+
+
+“I always live in fear that I might find myself embroiled in some kind of a scandal … Things can shift very quickly for political reasons.”
+Jacob Hanna
+
+
+
+Hanna says he has all the necessary approvals in Israel to carry his work forward. But he also worries that the ground rules could change. “I’m almost the only one [in Israel] doing these kinds of experiments, and I always live in fear that I might find myself embroiled in some kind of a scandal,” he says. “Things can shift very quickly for political reasons.”&nbsp;
+
+
+
+And his statements about the situation in Gaza have made him a target. He’s gotten voicemails wondering why a Weizmann professor is so sympathetic to Palestine, and once when he returned from a trip, someone had tucked an Israeli army beret into the door handle of his car. Last year, he says, political opponents even went after his science by filing a complaint that his research was illegal.
+
+
+
+What is clear is that Hanna, who is gregarious and attentive, has worked to cultivate a large group of friends and allies, including religious authorities—all part of a campaign to explain the science and hear out other views. He says he got a perfect grade in a bioethics class with a rabbi, conferenced with a priest from his hometown in Galilee, and even paid his respects to an Orthodox professor at a conservative hospital in Jerusalem. “It was unofficial. I didn’t have to get a permit from him,” Hanna says. “But … what does he think? Can I get him on board? Do I get a different opinion?”&nbsp;
+
+
+
+“I really do think it’s admirable that he is willing to ask these hard questions about what it is that he’s doing. I think that makes him different,” says Snead. “But if you are cynical, you could ask if his focus on the ethical dimension of this is more of a branding exercise.” Perhaps, Snead says, it’s a way to market the structures as the “green, sustainable alternative to embryos.”
+
+
+
+A heartbeat in a jar
+
+
+
+To admirers, Hanna is a doctor and researcher “heads above the rest,” according to Eli Adashi, the former dean of Brown University’s medical school. “He’s very unusual, very special, and is making major discoveries that can’t be ignored,” Adashi says. “He’s one of those unusually talented people that exceed the capacity of us mortals, and it all emanates from a town in Galilee that no one knows exists.”
+
+
+
+
+
+While it is something of a rarity for a Palestinian to rise so high in Israel’s ivory tower, in reality Hanna has an elite background—he’s from a family of MDs, and an uncle, Nabil Hanna, co-developed the first antibody drug for cancer, the blockbuster rituximab.
+
+
+
+Since the October 7 attack on Israel by Hamas, Israel has been at war in Gaza, and Hanna’s team has felt the effects. One young scientist dropped his pipette to don an IDF uniform. Another trainee, who is from Gaza, had a brother and other family members struck dead by an Israeli missile that hit near a church where people were sheltering. Then, this June, an Iranian ballistic missile hit the grounds of the Weizmann Institute, shattering windows and walls and sending Hanna’s students scrambling to save research.&nbsp;
+
+
+
+Despite delays in his research due to the ongoing conflict, Hanna’s ideas and technologies are being exported—and emulated. One place to see a version of the artificial womb is at the Janelia Research Campus, in Virginia, where one of Hanna’s former students, Alejandro Aguilera Castrejón, now operates a lab of his own. Aguilera Castrejón, for whom science was a ticket out of the poor outskirts of Mexico City, has tattoos from his wrists to his elbows; the newest depicts a hydra, a sea polyp noted for being able to regenerate itself from a few cells.
+
+
+
+During a visit in June, Aguilera Castrejón flipped aside a black cover to reveal the incubator: a metal wheel that slowly turned, gently agitating jars filled with blood serum. Inside one, a mouse embryo drifted—a tiny, translucent shape, curved like a comma. Then, awesomely, a red-colored blob expanded in its center. A heartbeat.&nbsp;
+
+
+
+That day, it was a normal mouse embryo in the jar—it had been transferred there to see how far it would grow. Aguilera Castrejón has the goal of eventually birthing a mouse from an incubator, a process called ectogenesis. But the stem-cell embryos don’t grow as well or as long, he says. The problem isn’t just the challenge of growing them in culture jars. There’s probably some kind of fundamental disorganization. They aren’t entirely normal—not yet true embryos.
+
+
+
+A rotating bioreactor, developed in Israel, is used to grow synthetic embryos in small jars of blood serum.GETTY IMAGES
+
+
+
+
+Aguilera Castrejón, who spent eight years at Weizmann contributing to Hanna’s research, is skeptical that the human version of the technology is ready for commercialization. For one thing, it’s inefficient. In every 100 attempts to make a synthetic embryo, the desired structure will form only once or twice. The rest are disorganized blobs—closer to “huevos fritos” than real embryos, he says. “I do think the human embryo model will go further, but it could take years,” he adds.
+
+
+
+In Aguilera Castrejón’s view, Hanna is well placed to lead that work. One reason is that Israel offers a relatively permissive environment—and so does Jewish thought. In the Talmud, the embryo is considered “mere water” until the 40th day. Plus, Hanna is already successful. “Some people aren’t allowed to do it. And some people want to do it, but they can’t,” says Aguilera Castrejón. “Jacob wants to make it as realistic as possible and go as far as possible—that is his aim. He’s very ambitious and wants to tackle very big things people don’t dare to do. He really wants to do something big. His main aim is always to grow them as far as you can.”&nbsp;
+
+
+
+The first payoff of a technology for mimicking embryos this way is a new view of the unfolding human no one has ever had before. Real human embryos are rarely seen at the early stages, since they’re inside the womb—and at four or five weeks, many people don’t even know they’re pregnant. It’s been a black box. But synthetic models of the embryo can be made in the thousands (depending on the type), studied closely, inspected with modern microscopes, and subjected to dyes and genetic engineering tools, all while they’re still alive. Add a known toxic chemical that causes birth defects, like thalidomide, and you can closely trace the effects. “Since we don’t have a way to peer into the uterus, this allows us to watch things as if they are intrauterine but are not,” says Adashi, the former Brown dean and a fertility doctor.&nbsp;
+
+
+
+What’s more, a synthetic embryo may be able to make cells correctly—just as a real one does—and make all types at once, expanding on the limited few that scientists can create from stem cells today. While not all embryonic material is useful to medicine, the blood-forming cells in an embryo are known to be particularly potent. In mice, they can be extracted and multiplied—and if transplanted into a mouse subjected to lethal radiation, they will save it.&nbsp;
+
+
+
+Hanna imagines a cancer patient who needs a bone marrow transplant but can’t find a match. Could blood-forming cells be harvested from, say, 100 or 500 embryo-stage clones of that person, providing perfectly matched tissue?&nbsp;
+
+
+
+In his cost-benefit analysis, he believes the chance to save lives outweighs the moral risk of growing embryo models for a month, which is about how long it takes for key blood cells to form. At that stage, says Hanna, he thinks “there is still no personification of the embryo” and it’s permissible to use them in research.
+
+
+
+Young everything
+
+
+
+Hanna cofounded Renewal in 2022 with Omri Amirav-Drory, a venture capitalist whose fund, NFX, raised about $9 million for the company and purchased rights to Weizmann patents. The startup’s idea is to create synthetic embryos from the cells of patients, allowing them to grow for weeks or months to produce what Amirav-Drory calls “perfect cells” for transplant. That is because the synthetic structure, as a clone, would contain “young, genetically identical everything.”
+
+
+
+Speaking at an event for tech futurists last year near San Francisco, Amirav-Drory flashed a picture of pregnancy tests used on the synthetic embryos. “We even went to CVS,” he said, “and by day eight it’s already triggering a pregnancy test. So it’s alive.” &nbsp;
+
+
+
+Amirav-Drory is a fan of Peter F. Hamilton, the science fiction author whose Commonwealth series features a society where space colonists transfer their minds into cloned bodies, attaining second lives. And he’s pitched Hanna’s technology along related lines, as a new type of longevity medicine based on replacing old cells with young ones. He is convinced Hanna’s work is “magic” that’s sure to win a Nobel.
+
+
+
+
+“The importance of getting rid of the head is all ethical. It just means we can make all these bodies and organ structures without having to cross ethical lines or harm sentient living beings.”
+Carsten Charlesworth, researcher, Stanford University
+
+
+
+But he knows the startup has both technical and ethical challenges. The technical challenge is that once the synthetic embryos reach a certain size and age, the incubator can’t support them any longer. That’s because they lack a blood supply and need to absorb oxygen and nutrients from their surroundings; they starve once they get too big. One idea being considered is to add a feeding tube, but that involves microsurgery and isn’t easily scalable. The ethical issue is also age related: The more developed they become, the more they will be recognizably human, with the beginnings of organs and small, webbed fingers and toes. “No one has a problem with day 14, but the further we go, the further it looks like a baby, and we get into trouble. So how do we solve that?” Amirav-Drory asked a different audience, in Menlo Park.
+
+
+
+The solution, so far, is a neural knockout—genetic changes made to the embryoids so they don’t develop a brain. The group has already tried out the concept on mice, removing a gene called LIM-1. That yielded a headless mouse, which looks a bit like a pink thumb, except with little claws and a tail. Those mice won’t live after birth, but they can develop in the womb. “We got synthetic mouse embryos growing with no head, with no brain,” Amirav-Drory said in Menlo Park. “It’s just to show you where we can go to solve both technical and ethical issues.”&nbsp;
+
+
+
+The idea of brain removal is a surprisingly active area of research—suggesting that it’s no sideshow. Working with mice, for example, Nakauchi’s team at Stanford is currently testing several different genetic changes to see if they can consistently yield an animal with no brain or head, but whose other tissues are normal. “The importance of getting rid of the head is all ethical. It just means we can make all these bodies and organ structures without having to cross ethical lines or harm sentient living beings,” says Carsten Charlesworth, a researcher in Nakauchi’s lab. He says the group is working toward a “genetic software package” it can add to mouse embryos to create a “reproducible phenotype.”
+
+
+
+
+
+
+
+It may seem surprising that a technique designed to call forth a living being from stem cells is, simultaneously, being paired with a tactic to diminish that being. To Douglas Kysar, a professor at Yale Law School, that’s part of a broader trend toward what he calls “life that is not life,” which includes innovations like lab-grown meat. In the areas of animal-rights law Kysar studies, commercial biotech projects have begun to explore what he terms “disenhancement” and “disengineering.” That is the use of genetics to reduce the capacity of animals to suffer, feel pain, or have conscious experience at all, typically as part of a program to increase the efficiency and ethics of food production.&nbsp;
+
+
+
+For humans, of course, the worry around genetic engineering is usually that it will be used for enhancement—creating a baby with advantages. It’s much harder to think of examples where genetic disenhancements get pointed at the human embryo. John Evans, who co-directs the Institute of Applied Ethics at the University of California, San Diego, told me he can think of one, in literature. Hanna’s plans remind him of Bokanovsky’s Process, the fictional method of producing clones of different intelligence levels in the 1932 novel Brave New World.
+
+
+
+
+
+That may not be a complete turnoff to investors. Lately, the plots of science fiction dystopias—Jurassic Park, Gattaca—seem to be getting repurposed at hot biotech properties. There’s Colossal, the company that wants to re-create extinct animals. Aguilera Castrejón says he’s already had a high-dollar offer to pack up his academic lab and join a startup company that wants to build an artificial womb. And when Hanna was at the Global Observatory meeting near Boston ​earlier this year, he was being shadowed by Matt Krisiloff, CEO of the Silicon Valley company Conception, which was set up to try to manufacture human eggs in the lab and has funding from OpenAI leader Sam Altman.
+
+
+
+Eggs are another cell type that has proved difficult to generate from a stem cell in the lab. But a growing fetus will&nbsp; form millions of immature egg cells. So just imagine: Someone too old to conceive gives some blood, which is converted into stem cells and then into a clone, from which the fetal gonad is dissected. Maybe the reproductive cells found there could be matured further in the lab. Or maybe those young and perfectly matched ovaries—her ovaries, really, not anyone else’s—could be returned to her body to finish developing. A fertility expert, David Albertini, told me it might just be possible.
+
+
+
+During the ethics meeting he traveled to the US in May to attend, Hanna participated on a panel whose topic was “sources of moral authority.” Hanna’s authority comes from the possible benefits the science of synthetic embryos may bring. But he also wields his moral credibility. Early in his remarks, Hanna had framed the whole matter in a way that made worrying about what’s in the petri dish start to sound silly. Wearing a keffiyeh around his shoulders, he said: “I’d like to start and, you know, just remind everyone, unfortunately, that there is a genocide ongoing right now in Gaza, where children are being starved intentionally. And it is relevant, because we’re sitting here and we’re discussing human dignity, we’re discussing the status of an embryo, and we’re discussing the status of a fetus. But what about the life of the children, and adults, and innocent adults? How does it relate?”
+• Why AI should be able to “hang up” on you
+  Chatbots today are everything machines. If it can be put into words—relationship advice, work documents, code—AI will produce it, however imperfectly. But the one thing that almost no chatbot will ever do is stop talking to you.&nbsp;
+
+
+
+That might seem reasonable. Why should a tech company build a feature that reduces the time people spend using its product?&nbsp;&nbsp;
+
+
+
+The answer is simple: AI’s ability to generate endless streams of humanlike, authoritative, and helpful text can facilitate delusional spirals, worsen mental-health crises, and otherwise harm vulnerable people. Cutting off interactions with those who show signs of problematic chatbot use could serve as a powerful safety tool (among others), and the blanket refusal of tech companies to use it is increasingly untenable.
+
+
+
+Let’s consider, for example, what’s been called AI psychosis, where AI models amplify delusional thinking. A team led by psychiatrists at King’s College London recently analyzed more than a dozen such cases reported this year. In conversations with chatbots, people—including some with no history of psychiatric issues—became convinced that imaginary AI characters were real or that they had been chosen by AI as a messiah. Some stopped taking prescribed medications, made threats, and ended consultations with mental-health professionals.
+
+
+
+
+
+In many of these cases, it seems AI models were reinforcing, and potentially even creating, delusions with a frequency and intimacy that people do not experience in real life or through other digital platforms.
+
+
+
+The three-quarters of US teens who have used AI for companionship also face risks. Early research suggests that longer conversations might correlate with loneliness. Further, AI chats “can tend toward overly agreeable or even sycophantic interactions, which can be at odds with best mental-health practices,” says Michael Heinz, an assistant professor of psychiatry at Dartmouth’s Geisel School of Medicine.
+
+
+
+Let’s be clear: Putting a stop to such open-ended interactions would not be a cure-all. “If there is a dependency or extreme bond that it’s created,” says Giada Pistilli, chief ethicist at the AI platform Hugging Face, “then it can also be dangerous to just stop the conversation.” Indeed, when OpenAI discontinued an older model in August, it left users grieving. Some hang ups might also push the boundaries of the principle, voiced by Sam Altman, to “treat adult users like adults” and err on the side of allowing rather than ending conversations.
+
+
+
+Currently, AI companies prefer to redirect potentially harmful conversations, perhaps by having chatbots decline to talk about certain topics or suggest that people seek help. But these redirections are easily bypassed, if they even happen at all.
+
+
+
+When 16-year-old Adam Raine discussed his suicidal thoughts with ChatGPT, for example, the model did direct him to crisis resources. But it also discouraged him from talking with his mom, spent upwards of four hours per day in conversations with him that featured suicide as a regular theme, and provided feedback about the noose he ultimately used to hang himself, according to the lawsuit Raine’s parents have filed against OpenAI. (ChatGPT recently added parental controls in response.)
+
+
+
+There are multiple points in Raine’s tragic case where the chatbot could have terminated the conversation. But given the risks of making things worse, how will companies know when cutting someone off is best? Perhaps it’s when an AI model is encouraging a user to shun real-life relationships, Pistilli says, or when it detects delusional themes. Companies would also need to figure out how long to block users from their conversations.
+
+
+
+Writing the rules won’t be easy, but with companies facing rising pressure, it’s time to try. In September, California’s legislature passed a law requiring more interventions by AI companies in chats with kids, and the Federal Trade Commission is investigating whether leading companionship bots pursue engagement at the expense of safety. 
+
+
+
+A spokesperson for OpenAI told me the company has heard from experts that continued dialogue might be better than cutting off conversations, but that it does remind users to take breaks during long sessions.&nbsp;
+
+
+
+Only Anthropic has built a tool that lets its models end conversations completely. But it’s for cases where users supposedly “harm” the model—Anthropic has explored whether AI models are conscious and therefore can suffer—by sending abusive messages. The company does not have plans to deploy this to protect people.Looking at this landscape, it’s hard not to conclude that AI companies aren’t doing enough. Sure, deciding when a conversation should end is complicated. But letting that—or, worse, the shameless pursuit of engagement at all costs—allow them to go on forever is not just negligence. It’s a choice.
+• Fold your own tessellation
+  Download the pattern for Dancing Ribbons here.
+
+
+
+
+
+Yoder recommends printing the pattern on paper in between normal printer paper and cardstock in weight, making sure it folds in straight lines (not too thick), folds back and forth easily on the same line (not too thin), and is crisp enough to make a satisfying snapping noise when you shake it. Her favorite paper isSkytone, which is commonly used to print certificates and fancy envelopes.
+
+
+
+Watch the video tutorial on folding Dancing Ribbons here.
+
+
+
+Yoder’s detailed folding instructions:
+
+
+
+Once you have your crease pattern on a sheet of paper, cut out the hexagon that contains the pattern. Yoder recommends using a straightedge and blade on a cutting mat instead of scissors, whether that means an X-Acto knife and a ruler on a sheet of cardboard or a quilting ruler and rotary cutter on a fabric cutting mat.
+
+
+
+The next step is folding the background grid of black lines that the pattern uses as references. Assuming you’ve cut out your hexagon precisely, you can use the edge of the hexagon and the printed lines to make your creases, or you can fold as if there were no lines printed by folding the hexagon in half (edge to opposite edge) and then folding those edges in to the center to make quarter lines, first in one direction and then in the other two. After each set of folds, it’s a good idea to fold the new lines back the other way to make the paper easier to work with later. After folding the quarters, fold the eighths in each direction, and finally the 16ths. Yoder presses the creases with a bone folder to make them easier to work with and to minimize stress on her hands.
+
+
+
+
+You can choose at this point whether to fold the pattern one twist at a time or to precrease the off-grid creases (just crease the short segments that have been printed, folded as mountains on the printed side of the pattern) and collapse everything all at once. Beginning folders may find it helpful to precrease the triangle and rhombus twists, to make the squashing process easier, even if you plan to fold the pattern one twist at a time. Solid red lines in the crease pattern represent mountain folds, and dashed blue lines represent valley folds. The faded lines inside the twists are helper folds used to set up the twists; they will not be used in the final pattern.
+
+
+
+The central closed hexagon twist will be the first twist folded, and it’ll be made on the blank side of the paper. All the mountain folds for this twist (as viewed on the blank side of the paper) will be on grid lines going to the corners of the hexagon, and the valley folds will be one grid spacing above the mountains on the right-hand side of the paper. To fold the twist, set up both the mountain and valley folds of one pleat; then pass that pleat counterclockwise into your other hand before setting up both folds of the next pleat. Keep all pleats folded and the center of the paper elevated as you work your way around the center, eventually folding all six pleats (use your table to keep the pleats folded, or use clips at the edge of the paper) and forming a hexagonal tower in the center of the paper. Make the pleats more flat, working from the edges in, until this hexagon tower is two grid spacings high. Then grab the tower and give it a sharp counterclockwise twist to get it to lie flat. This twist almost never lies down completely flat right away, so lift each pleat slightly to make sure the valley folds have stayed on grid lines to help the central hexagon to smooth out.
+
+
+
+Once the hexagon has been folded, flip the paper over to the printed side. Take the mountain fold of one pleat and split it into a three-way intersection of mountain folds evenly spaced around a point two grid spacings out from the closed hexagon hole. This point is the center of the closed triangle twist, which can be squashed to create the triangle of off-grid creases once the two new pleats are folded over in a clockwise direction (as printed). To squash the triangle twist, press gently on each of the three pleats just outside the point where the valley fold of one pleat contacts the mountain fold of the next pleat. This will start to flatten the central triangle, which can then be pressed from the top to smooth it out and finalize the new creases.
+
+
+
+Fold each of the triangle twists in the same way (causing pleats to overlap with pleats from other triangles), in a counterclockwise order around the central hexagon (this order makes the overlapping pleats easier to work with later).
+
+
+
+Once the triangles have all been folded, find a place where two pleats from triangle twists are overlapping and open up the overlap so you can see all the parts of the paper (leaving the triangle twists folded). Use the printed folds to set up a rhombus twist, and then press the twist flat from the top once all the folds in the pleats are set up.
+
+
+
+Repeat this step with all six of the pleat overlaps (if you followed the recommended sequence for the triangles, only one overlap will be in a different order from the rest) to complete the pattern.
+• The Download: a promising retina implant, and how climate change affects flowers
   This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
 
 
 
-From slop to Sotheby’s? AI art enters a new phase
+This retina implant lets people with vision loss do a crossword puzzle
 
 
 
-In this era of AI slop, the idea that generative AI tools like Midjourney and Runway could be used to make art can seem absurd.&nbsp;
+The news: Science Corporation—a competitor to Neuralink founded by the former president of Elon Musk&#8217;s brain-interface venture—has leapfrogged its rival after acquiring a vision implant in advanced testing for a fire-sale price. The implant produces a form of “artificial vision” that lets some patients read text and do crosswords, according to a report published in The New England Journal of Medicine today.How it works: The implant is a microelectronic chip placed under the retina. Using signals from a camera mounted on a pair of glasses, the chip emits bursts of electricity in order to bypass photoreceptor cells damaged by macular degeneration, the leading cause of vision loss in the elderly. Read the full story.
 
 
 
-But amid all the muck, there are people using AI tools with real consideration and intent. Some of them are finding notable success as AI artists: They are gaining huge online followings, selling their work at auction, and even having it exhibited in galleries and museums. Read the full story.
-
-
-
-—Grace Huckins
-
-
-
-This story is from our forthcoming print issue, which is all about the body. If you haven’t already, subscribe now to receive future issues once they land. Plus, you&#8217;ll also receive a free digital report on nuclear power.
+—Antonio Regalado
 
 
 
@@ -222,19 +562,27 @@ This story is from our forthcoming print issue, which is all about the body. If 
 
 
 
-Take our quiz: How much do you know about antimicrobial resistance?
+How will flowers respond to climate change?
 
 
 
-This week we had some terrifying news from the World Health Organization: Antibiotics are failing us. A growing number of bacterial infections aren’t responding to these medicines—including common ones that affect the blood, gut, and urinary tract. Get infected with one of these bugs, and there’s a fair chance antibiotics won’t help.You’ve probably heard about antimicrobial resistance before, but how much do you know about it? Here’s our attempt to put the “fun” in “fundamental threat to modern medicine.” Test your knowledge here!
+Flowers play a key role in most landscapes, from urban to rural areas. Yet flowers have much more to tell in their bright blooms: The very shape they take is formed by local and global climate conditions.&nbsp;
 
 
 
-—Jessica Hamzelou
+The form of a flower is a visual display of its climate, if you know what to look for. In a dry year, its petals’ pigmentation may change. In a warm year, the flower might grow bigger. The flower’s ultraviolet-absorbing pigment increases with higher ozone levels.
 
 
 
-This article appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, sign up here.
+Now, a new artistic project sets out to answer the question: As the climate changes in the future, how might flowers change? Read the full story.
+
+
+
+—Annelie Berner
+
+
+
+This story is from our forthcoming print issue, which is all about the body. If you haven’t already, subscribe now to receive future issues once they land.
 
 
 
@@ -242,11 +590,19 @@ This article appeared in The Checkup, MIT Technology Review’s weekly biotech n
 
 
 
-2025 climate tech companies to watch: Envision Energy and its “smart” wind turbines
+2025 climate tech companies to watch: Redwood Materials and its new AI microgrids
 
 
 
-Envision Energy, one of China’s biggest wind turbine makers, has expanded into batteries, green hydrogen, and industrial parks designed to run heavy industry on clean power.With flagship projects in Inner Mongolia and new ventures planned abroad, the company is testing whether renewables can decarbonize sectors that electricity alone can’t reach. Read the full story.Envision Energy is one of our 10 climate tech companies to watch—our annual list of some of the most promising climate tech firms on the planet. Check out the rest of the list here.
+Over the past few years, Redwood Materials has become one of the top US battery recyclers, joining forces with the likes of Volkswagen, BMW, and Toyota to process old electric-vehicle batteries and recover materials that can be used to make new ones.Now it&#8217;s moving into reuse as well. Redwood Energy, a new branch of the company, incorporates used EV batteries into microgrids to power energy-hungry AI data centers. Read the full story.
+
+
+
+—Peter Hall
+
+
+
+Redwood Materials is one of our 10 climate tech companies to watch—our annual list of some of the most promising climate tech firms on the planet. Check out the rest of the list here.
 
 
 
@@ -262,39 +618,35 @@ I’ve combed the internet to find you today’s most fun/important/scary/fascin
 
 
 
-1 ICE is beefing up its surveillance capabilities It’s recently bought iris-scanning technology, spyware and location tracking software. (WP $)+ Viral ICE videos are shaping how Americans feel about the agency. (Vox)+ Protestors in Chicago are fighting back after mass arrests in the city. (New Yorker $)
+1 AWS is recovering from a major outage It’s racing to get hundreds of apps and services back online. (The Verge)+ Snapchat, Roblox and banking services are among those affected. (The Guardian)2 OpenAI made—then retracted—a claim it had made a major math breakthroughAfter math experts and rival AI firms ridiculed its poorly-worded declaration. (TechCrunch)+ What’s next for AI and math. (MIT Technology Review)
 
 
 
-2 OpenAI has stopped people from generating videos of MLK JrAfter some people used Sora to create “disrespectful depictions” of the civil rights activist. (TechCrunch)+ It’s not the first time AI’s depiction of public figures has been criticized. (The Information $)3 A teenager is suing the owners of “nudifying” app ClothOffA classmate used an image of the New Jersey student to generate fake nudes. (WSJ $)+ Meet the 15-year-old deepfake victim pushing Congress into action. (MIT Technology Review)
+3 The grave costs of Trump’s war on climate scienceIt’s affecting the accuracy of forecasting systems globally, not just in the US. (FT $)+ Trump himself led an effort to derail plans to tax shipping pollution. (Politico $)+ How to make clean energy progress under Trump in the states. (MIT Technology Review)
 
 
 
-4 Amazon’s Ring camera arm is signing deals with law enforcementIt’s working with Flock Safety and Axon to share footage with criminal investigations. (CNBC)+ A division of ICE has used Flock’s AI-powered surveillance network. (404 Media)+ How Amazon Ring uses domestic violence to market doorbell cameras. (MIT Technology Review)
+4 China claims the US is behind a cyberattack on its national time centerIt says it has years’ worth of irrefutable evidence of data stealing. (Reuters)+ US experts allegedly exploited vulnerabilities in mobile phones belonging to National Time Service Center workers. (Bloomberg $)5 Is AI-generated art real art?It’s a question gallery and museum curators across the world are debating. (NYT $)+ Artisan craftmakers are happy to resist the pull of AI. (FT $)+ This tool claims to trace how much of an AI image has been drawn from existing material. (The Guardian)+ From slop to Sotheby’s? AI art enters a new phase. (MIT Technology Review)
 
 
 
-5 Plug-in hybrids pollute almost as much as diesel carsA new report has found that pollution levels are well above official estimates. (The Guardian)+ What to expect if you’re expecting a plug-in hybrid. (MIT Technology Review)
+6 Chipmaker Nexperia has accused its ousted CEO of spreading falsehoodsZhang Xuezheng reportedly claimed it was operating independently in China. (Bloomberg $)
 
 
 
-6 South Korea is prohibiting its citizens from travelling to CambodiaIt says hundreds of its nationals have been kidnapped and forced into scam complexes. (FT $)+ Inside a romance scam compound—and how people get tricked into being there. (MIT Technology Review)
+7 This whistleblower raised concerns about the safety of US data under DOGEAnd says the hostile reception to his complaint led to him leaving his dream job. (WP $)+ DOGE’s tech takeover threatens the safety and stability of our critical data. (MIT Technology Review)
 
 
 
-7 What it’s like to be trans online in 2025The internet once helped trans people to connect—now it’s being weaponized against them. (The Verge)
+8 Aid agencies have been criticized for using AI “poverty porn”But the NGOs say its use protects the identities of real people in social media campaigns. (The Guardian)
 
 
 
-8 Generative AI will make you the star of adsCompanies have to make returns on all that AI investment somehow. (NY Mag $)
+9 EVs lose their value much faster than gas-powered carsWhich isn’t exactly an incentive for prospective first-time buyers. (Rest of World)
 
 
 
-9 San Francisco’s AI companies are pushing up housing pricesRents are rising in a city already renowned for a staggeringly high cost of living. (NYT $)
-
-
-
-10 Samsung is making a tri-folding phoneBut attendees at the event it’s being shown off at won’t be allowed to touch it. (Bloomberg $)
+10 What happens to our brains when we dream We’re learning more about the many liminal states they can slip through. (Quanta Magazine)
 
 
 
@@ -306,11 +658,11 @@ Quote of the day
 
 
 
-“Grandma will be thrown off the Internet because Junior illegally downloaded a few songs on a visit.”
+“Hoisted by their own GPTards.”
 
 
 
-—US broadband provider Cox Communications details a potential scenario in a legal case filed by major record labels, which have accused Cox of failing to disconnect people who are illegally downloading music, Ars Technica reports.&nbsp;
+—Meta’s chief AI scientist Yann LeCun pokes fun at OpenAI after the company walked back its claim it had made a major math breakthrough in a post on X.
 
 
 
@@ -326,11 +678,11 @@ One more thing
 
 
 
-An AI startup made a hyperrealistic deepfake of me that’s so good it’s scaryUntil now, AI-generated videos of people have tended to have some stiffness, glitchiness, or other unnatural elements that make them pretty easy to differentiate from reality.For the past several years, AI video startup Synthesia has produced these kinds of AI-generated avatars. But back in April 2024, it launched a new generation, its first to take advantage of the latest advancements in generative AI, and they are more realistic and expressive than anything we&#8217;ve seen before. 
+One option for electric vehicle fires? Let them burn.Although there isn’t solid data on the frequency of EV battery fires, it’s no secret that these fires are happening.Despite that, manufacturers offer no standardized steps on how to fight them or avoid them in the first place. What’s more, with EVs, it’s never entirely clear whether the fire is truly out.Patrick Durham, the owner of one of a growing number of private companies helping first responders learn how to deal with lithium-ion battery safety, has a solution. He believes that the best way to manage EV fires right now is to let them burn. But such an approach not only goes against firefighters’ instincts—it’d require a significant cultural shift. Read the full story.
 
 
 
-We tested it out by making an AI clone of Melissa Heikkilä, our former senior AI reporter. Read the full story and check out the synthetic version of Melissa.
+—Maya L. Kapoor
 
 
 
@@ -346,110 +698,7 @@ A place for comfort, fun and distraction to brighten up your day. (Got any ideas
 
 
 
-+ As support winds down for Windows 10 this week, did you know its blue Windows icon desktop image was taken from a real photograph? Take a look behind the scenes.+ Rest in power Ace Frehley, Kiss cofounder and undisputed guitar hero.+ A week spent eating along France’s 385-mile food trail? Yes please.+ As we get into the Halloween spirit, dare you tour America’s spookiest cities?
-• From slop to Sotheby’s? AI art enters a new phase
-  In this era of AI slop, the idea that generative AI tools like Midjourney and Runway could be used to make art can seem absurd: What possible artistic value is there to be found in the likes of Shrimp Jesus and Ballerina Cappuccina? But amid all the muck, there are people using AI tools with real consideration and intent. Some of them are finding notable success as AI artists: They are gaining huge online followings, selling their work at auction, and even having it exhibited in galleries and museums.&nbsp;
-
-
-
-
-
-“Sometimes you need a camera, sometimes AI, and sometimes paint or pencil or any other medium,” says Jacob Adler, a musician and composer who won the top prize at the generative video company Runway’s third annual AI Film Festival for his work Total Pixel Space. “It’s just one tool that is added to the creator’s toolbox.” 
-
-
-
-One of the most conspicuous features of generative AI tools is their accessibility. With no training and in very little time, you can create an image of whatever you can imagine in whatever style you desire. That’s a key reason AI art has attracted so much criticism: It’s now trivially easy to clog sites like Instagram and TikTok with vapid nonsense, and companies can generate images and video themselves instead of hiring trained artists.
-
-
-
-Henry Daubrez created these visuals for a bitcoin NFT titled The Order of Satoshi, which sold at Sotheby’s for $24,000.COURTESY OF THE ARTIST
-
-
-
-
-Henry Daubrez, an artist and designer who created the AI-generated visuals for a bitcoin NFT that sold for $24,000 at Sotheby’s and is now Google’s first filmmaker in residence, sees that accessibility as one of generative AI’s most positive attributes. People who had long since given up on creative expression, or who simply never had the time to master a medium, are now creating and sharing art, he says. 
-
-
-
-But that doesn’t mean the first AI-generated masterpiece could come from just anyone. “I don’t think [generative AI] is going to create an entire generation of geniuses,” says Daubrez, who has described himself as an “AI-assisted artist.” Prompting tools like DALL-E and Midjourney might not require technical finesse, but getting those tools to create something interesting, and then evaluating whether the results are any good, takes both imagination and artistic sensibility, he says: “I think we’re getting into a new generation which is going to be driven by taste.”&nbsp;
-
-
-
-Kira Xonorika’s Trickster is the first piece to use generative AI in the Denver Art Museum’s permanent collection.COURTESY OF THE ARTIST
-
-
-
-
-Even for artists who do have experience with other media, AI can be more than just a shortcut. Beth Frey, a trained fine artist who shares her AI art on an Instagram account with over 100,000 followers, was drawn to early generative AI tools because of the uncanniness of their creations—she relished the deformed hands and haunting depictions of eating. Over time, the models’ errors have been ironed out, which is part of the reason she hasn’t posted an AI-generated piece on Instagram in over a year. “The better it gets, the less interesting it is for me,” she says. “You have to work harder to get the glitch now.”
-
-
-
-Beth Frey’s Instagram account @sentientmuppetfactory features uncanny AI creations.COURTESY OF THE ARTIST
-
-
-
-
-Making art with AI can require relinquishing control—to the companies that update the tools, and to the tools themselves. For Kira Xonorika, a self-described “AI-collaborative artist” whose short film Trickster is the first generative AI piece in the Denver Art Museum’s permanent collection, that lack of control is part of the appeal. “[What] I really like about AI is the element of unpredictability,” says Xonorika, whose work explores themes such as indigeneity and nonhuman intelligence. “If you’re open to that, it really enhances and expands ideas that you might have.”
-
-
-
-But the idea of AI as a co-creator—or even simply as an artistic medium—is still a long way from widespread acceptance. To many people, “AI art” and “AI slop” remain synonymous. And so, as grateful as Daubrez is for the recognition he has received so far, he’s found that pioneering a new form of art in the face of such strong opposition is an emotional mixed bag. “As long as it’s not really accepted that AI is just a tool like any other tool and people will do whatever they want with it—and some of it might be great, some might not be—it’s still going to be sweet [and] sour,” he says.
-• This startup thinks slime mold can help us design better cities
-  It is a yellow blob with no brain, yet some researchers believe a curious organism known as slime mold could help us build more resilient cities.
-
-
-
-Humans have been building cities for 6,000 years, but slime mold has been around for 600 million. The team behind a new startup called Mireta wants to translate the organism’s biological superpowers into algorithms that might help improve transit times, alleviate congestion, and minimize climate-related disruptions in cities worldwide.
-
-
-
-Mireta’s algorithm mimics how slime mold efficiently distributes resources through branching networks. The startup’s founders think this approach could help connect subway stations, design bike lanes, or optimize factory assembly lines. They claim its software can factor in flood zones, traffic patterns, budget constraints, and more.
-
-
-
-“It’s very rational to think that some [natural] systems or organisms have actually come up with clever solutions to problems we share,” says Raphael Kay, Mireta’s cofounder and head of design, who has a background in architecture and mechanical engineering and is currently a PhD candidate in materials science and mechanical engineering at Harvard University.
-
-
-
-As urbanization continues—about 60% of the global population will live in metropolises by 2030—cities must provide critical services while facing population growth, aging infrastructure, and extreme weather caused by climate change. Kay, who has also studied how microscopic sea creatures could help researchers design zero-energy buildings, believes nature’s time-tested solutions may offer a path toward more adaptive urban systems.
-
-
-
-
-
-Officially known as Physarum polycephalum, slime mold is neither plant, animal, nor fungus but a single-­celled organism older than dinosaurs. When searching for food, it extends tentacle-like projections in multiple directions simultaneously. It then doubles down on the most efficient paths that lead to food while abandoning less productive routes. This process creates optimized networks that balance efficiency with resilience—a sought-after quality in transportation and infrastructure systems.
-
-
-
-The organism’s ability to find the shortest path between multiple points while maintaining backup connections has made it a favorite among researchers studying network design. Most famously, in 2010 researchers at Hokkaido University reported results from an experiment in which they dumped a blob of slime mold onto a detailed map of Tokyo’s railway system, marking major stations with oat flakes. At first the brainless organism engulfed the entire map. Days later, it had pruned itself back, leaving behind only the most efficient pathways. The result closely mirrored Tokyo’s actual rail network.
-
-
-
-Since then, researchers worldwide have used slime mold to solve mazes and even map the dark matter holding the universe together. Experts across Mexico, Great Britain, and the Iberian peninsula have tasked the organism with redesigning their roadways—though few of these experiments have translated into real-world upgrades.
-
-
-
-Historically, researchers working with the organism would print a physical map and add slime mold onto it. But Kay believes that Mireta’s approach, which replicates slime mold’s pathway-building without requiring actual organisms, could help solve more complex problems. Slime mold is visible to the naked eye, so Kay’s team studied how the blobs behave in the lab, focusing on the key behaviors that make these organisms so good at creating efficient networks. Then they translated these behaviors into a set of rules that became an algorithm.
-
-
-
-Some experts aren’t convinced. According to Geoff Boeing, an associate professor at the University of Southern California’s Department of Urban Planning and Spatial Analysis, such algorithms don’t address “the messy realities of entering a room with a group of stakeholders and co-visioning a future for their community.” Modern urban planning problems, he says, aren’t solely technical issues: “It’s not that we don’t know how to make infrastructure networks efficient, resilient, connected—it’s that it’s politically challenging to do so.”
-
-
-
-Michael Batty, a professor emeritus at University College London’s Centre for Advanced Spatial Analysis, finds the concept more promising. “There is certainly potential for exploration,” he says, noting that humans have long drawn parallels between biological systems and cities. For decades now, designers have looked to nature for ideas—think ventilation systems inspired by termite mounds or bullet trains modeled after the kingfisher’s beak.&nbsp;
-
-
-
-Like Boeing, Batty worries that such algorithms could reinforce top-down planning when most cities grow from the bottom up. But for Kay, the algorithm’s beauty lies in how it mimics bottom-up biological growth—like the way slime mold starts from multiple points and connects organically rather than following predetermined paths.&nbsp;
-
-
-
-Since launching earlier this year, Mireta, which is based in Cambridge, Massachusetts, has worked on about five projects. And slime mold is just the beginning. The team is also looking at algorithms inspired by ants, which leave chemical trails that strengthen with use and have their own decentralized solutions for network optimization. “Biology has solved just about every network problem you can imagine,” says Kay.
-
-
-
-Elissaveta M. Brandon is an independent journalist interested in how design, culture, and technology shape the way we live.
++ It looks as though the sumo wrestlers who visited London last week had the best time.+ The Chicago rat hole may not have been made by a rat after all.+ Finally, a good use for AI—to help me pick a perfectly ripe avocado + Keith Richards, we love you!
 
 🔒 Cybersecurity & Privacy
 • Email Bombs Exploit Lax Authentication in Zendesk
