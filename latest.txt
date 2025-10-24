@@ -1,17 +1,17 @@
-✅ Morning News Briefing – October 23, 2025 10:45
+✅ Morning News Briefing – October 24, 2025 10:46
 
-📅 Date: 2025-10-23 10:45
+📅 Date: 2025-10-24 10:46
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  5.4°C
-  Temperature: 5.4&deg;C Pressure / Tendency: 100.3 kPa rising Humidity: 95 % Dewpoint: 4.7&deg:C Wind: WSW 6 km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Thursday 23 October 2025 . Weather forecast: 5/4°C Pem
-• Thursday: Chance of showers. High 9. POP 30%
-  A few showers beginning early this morning and ending near noon then 30 percent chance of showers this afternoon . Cloudy. Wind becoming northwest 30 km/h gusting to 50 this morning . High 9. UV index 2 or low, with a low of UV index of 2 or a low in the afternoon . Forecast issued 5:00 AM EDT Thursday 23 October 2025. For more information
-• Thursday night: Chance of rain showers or flurries. Low zero. POP 30%
-  Mainly cloudy. 30 percent chance of rain showers changing to 30% chance of flurries or rain showers overnight . Wind west 30 km/h becoming light this evening. Low zero. Mainly . cloudy. Low 0.50°F . Forecast issued 5:00 AM EDT Thursday 23 October 2025. Forecast: Snow, rain, snowfall, rain and flur
+• Current Conditions:  0.1°C
+  Observed at: Pembroke 6:00 AM EDT Friday 24 October 2025 Temperature: 0.1&deg;C Pressure / Tendency: 101.6 kPa rising Humidity: 98 % Dewpoint: -0.2&deg:C Wind: WSW 5 km/h . Air Quality Health Index: n/a . Air quality Health Index is n
+• Friday: Chance of rain showers or flurries. High 8. POP 30%
+  Cloudy with 30 percent chance of flurries early this morning and 30 percent . chance of rain showers this afternoon . Wind becoming northwest 20 km/h late this morning . High 8.5C with a low UV index 2 or low . Forecast issued 5:00 AM EDT Friday 24 October 2025 . Snowfall expected to continue throughout the day . Snow expected to fall overnight .
+• Friday night: Chance of showers. Low minus 1. POP 30%
+  Cloudy. 30 percent chance of showers this evening . Low minus 1.50 degrees Fahrenheit . Cloudy, with rain likely of rain in the morning . Showers are possible in the afternoon . Forecast issued 5:00 AM EDT Friday 24 October 2025 . Weather forecasters predict temperatures will drop to minus 1 degrees Fahrenheit in the early hours of Friday morning and Saturday night. Forecasters
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• This 'magical' dinosaur specimen emerged from the ground like a polished jewel
-  The word rinpoche is Tibetan for "precious one" and refers to the domed skull . The new pachycephalosaur was officially named Zavacephale rin pachycephale, a new species of dinosaur that was found in the Himalayan region of Tibet . It was discovered in the journal Nature, which has published a number of scientific journals
-• Your ballot or other mail may not get postmarked by USPS the day it's dropped off
-  To make sure it gets a postmark on time under the latest USPS changes, you may want to send it early or visit a post office . You may also want to check your ballot, tax return or legal document on time to make sure your postmark is on time . The new USPS changes are changing the rules on how to post your tax returns, tax returns and legal documents .
-• Starter homes are scarce. But homebuyers can improve their odds
-  Construction of smaller, entry-level homes has been has been falling for decades . But there are ways to find an affordable first home, and the changing market may help . The market is changing, and it's changing how to find a first home in the U.S. For decades, construction of smaller entry level homes has fallen, but there are still ways to get a home .
-• Antidepressant side effects differ greatly depending on the drug, study finds
-  Researchers studied 30 different antidepressants and found side effects vary from drug to drug . Millions of Americans take antidepressants and they come with side effects . Side effects vary between drug and drug depending on the medication . Researchers say side effects of antidepressants vary from the drug to the drug and the side effects are similar to those of other drugs . Back to Mail Online home .Back to the page you came from
-• What Jared Kushner brings to the negotiating table in the Middle East
-  President Trump's son-in-law says his relationships in the Middle East helped him broker a deal between Hamas and Israel . But his business ties also present a potential conflict, he says . Trump's business ties present a potentially conflict between his business and his relationship with business partners in Israel and the U.S. President Barack Obama is expected to make a speech at the White House on
+• Boo to spooky chocolate prices! It's the year of chewy, fruity Halloween treats
+  Sales of non-chocolate candy are growing faster than those of chocolate . With cocoa in shortage, manufacturers are changing pack sizes, adding fillers and dipping candy in "white creme" Manufacturers are adding fillingers, adding candy in white creme, dipping candy into "whithered creme," according to the candy industry . Sales of chocolate candy have increased in recent years
+• It's supposed to be payday for many federal workers. Instead, they're getting nothing
+  Roughly 1.4 million federal workers are going without pay due to the government shutdown . About half of them are furloughed, while the other half has been deemed essential and is working without pay . Roughly half of the federal workers have been deemed 'essential' and are not receiving their paychecks . The government shutdown is the longest in the history of the U.S
+• No historic museums were harmed in the making of this quiz. Can you score 11?
+  From brazen jewel heists to internet meltdowns, this week brought travesties galore . This week's travesty included jewel thefts, jewel thefts and online meltdowns . From jewel thefts to internet meltsdowns, the week was full of travestys galore in the news this week . Read the rest of the week's featured news stories here: CNN iReport.com
+• Here's what experts say 'A House of Dynamite' gets wrong (and right) about nuclear war
+  A House of Dynamite is available online for streaming on October 24 . Experts say the sets, such as the White House situation room's watch floor, are "scarily authentic" Some praised realistic elements like the depiction of the situation room . But others said parts of the plot didn't ring true, and that some parts of it didn't seem to ring true . The series is available
+• Not sure how to support a friend with cancer? Survivors have advice
+  To help a loved one with cancer, think about what you're good at — and what they need . Are you organized? Plan their meals? Go with them to appointments? Plan meals? Plan appointments? Share ideas with CNN iReport.com/Cancer.com: Share your help with your loved ones with cancer. Back to Mail Online home . Back to the page you came
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Microsoft threatens to ram Copilot into Exchange Server on-prem
-  Survey probes interest in AI assistance for locally hosted email setups . Microsoft's mission to "Copilot all the things" has reached Exchange Server, with a survey asking if admins want the AI assistant on-prem.……… Survey also asks if administrators want the assistant to be in-premised, locally-hosted email setups, with the help of an AI assistant in-built
-• SpaceX pulls plug on 2,500 Starlink terminals tied to Myanmar fraud farms
-  Criminal outfits had been using the broadband beacons to run cyber-slavery scams across Southeast Asia . SpaceX says it has shut down thousands of Starlink terminals that were powering Myanmar's notorious scam compounds after its satellite network was found to be keeping human trafficking and cyber-fraud operations online in the country's lawless border zones . The move comes after it was found that human trafficking
-• Microsoft finance slang defines the eternal optimist: The 'hockey stick on wheels'
-  The wheels on Copilot's hockey stick must be giving off smoke by now . Microsoft's finance division has a term for an overly optimistic projection that seems to march backward year after year: the hockey stick on wheels . Copilot is Microsoft's version of a hockey stick with wheels on wheels, but the wheels on the wheels are giving off a lot of smoke . Microsoft: "Copilot
-• OpenBSD 7.8 out now, and you're not seeing double, 9front releases 'Release'
-  New version includes multithreaded TCP/IP and Raspberry Pi 5 support . The 59th version of the OpenBSD operating system is here, six months after 7.7, with multiple improvements in various areas . The new version of OpenBOS is based on the open-source software OpenBASB 7.8, which was released in December . It is the first version
-• UK.gov vows to hack through regulation to get benefit from AI
-  The UK government is pushing ahead with AI "sandboxing" and backing a raft of projects it claims could benefit from red-tape cutting . Civil services claims 75,000 days could be saved by the tech each year . Meanwhile, civil services claims the tech could be used to save the country's days by cutting red tape . The government is backing a range of projects that could benefit
+• BBC probe finds AI chatbots mangle nearly half of news summaries
+  Four of the most popular AI chatbots routinely serve up inaccurate or misleading news content to users, according to a wide-reaching investigation . Google Gemini worst offender with 76% error rate with 76%. Google Gemini is the worst offender, with the worst rate of error rate at least 76% . The investigation was carried out by Google, Facebook, Google and Microsoft . The results come from a
+• How do you solve a problem like Discovery?
+  Request For Ideas: How would you move a retired orbiter across the US? The White House's Office of Management and Budget is grappling with how to transport Space Shuttle Discovery from the Smithsonian Museum in Virginia to Space Center Houston . How would it move the shuttle from Virginia to Houston? Do you know what you would do? Share your ideas with CNN.com/Heroes and others .
+• Shield AI shows off not-at-all-terrifying autonomous VTOL combat drone
+  US defense technology biz Shield AI claims it can build a jet-powered vertical take-off and landing (VTOL) autonomous fighter drone that doesn't need a runway to operate . Shield AI: Where we're going, we don't need runways to operate.……… Where we are going, where we don’t need to runways? Shield AI says it
+• Britain's Ministry of Justice just signed up to ChatGPT Enterprise
+  OpenAI has signed up the UK's Ministry of Justice as the latest public sector customer for ChatGPT Enterprise . OpenAI sweetens the deal with data residency with the government's data residency . The company has also signed up a contract with the Department of Justice in the UK to use its own data residency data to make its data residency available to the public sector . The move is the
+• New boss took charge of project code and sent two billion unwanted emails
+  Techie summoned at 02:00am to sort things out sent another 2 billion trying to fix it . Techie summons at 02-00am sent another two billion trying a fix it out . On Call is The Register's weekly wander through your tales of tech support . Read the latest instalment of On Call from The Register . Back to the page you came from, read it
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• Reducing annotation burden in physical activity research using vision language models
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Association of dietary omega-3 fatty acids intake with all-cause and cardiovascular disease-specific mortality among individuals with cardiovascular disease
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Volume‒outcome relationships in bariatric surgery: a rapid review
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Ambient biothermal stress, preconceptional thyrotropin abnormalities, and the risk of preterm birth: a nationwide Chinese cohort study
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Predicting hypotension, syncope, and fracture risk in patients indicated for antihypertensive treatment: the STRATIFY models
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• We need more than good science to fight infectious disease
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• A guide to the Nature Index
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Measles, polio, tuberculosis: what’s causing spikes in infectious diseases?
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,164 +68,308 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
-• What a massive thermal battery means for energy storage
-  ‘I’ve been following the way’s not the way, and this is the way that its first full-scale system is to show that it can’t be ‘can’n’v’m not the first of the ‘virus’ and ‘t’h’ can be a member of the public’ ‘vila’ will be able to bring up a new ‘m’ rather than a member’ of the company that the company has the responsibility to make the public, and not the company, that the public should have the responsibility for the public to look for the future, and that it is not the public that it should look at the future of the nation, and the public can look for a future and the future .
-• This startup is about to conduct the biggest real-world test of aluminum as a zero-carbon fuel
-  The crushed-up soda can disappears in a cloud of steam and—though it’s not visible—hydrogen gas. “I can just keep this reaction going by adding more water,” says Peter Godart, squirting some into the steaming beaker. “This is room-temperature water, and it’s immediately boiling. Doing this on your stove would be slower than this.”&nbsp;
+• An AI app to measure pain is here
+  How are you feeling?
 
 
 
-Godart is the founder and CEO of Found Energy, a startup in Boston that aims to harness the energy in scraps of aluminum metal to power industrial processes without fossil fuels. Since 2022, the company has worked to develop ways to rapidly release energy from aluminum on a small scale. Now it’s just switched on a much larger version of its aluminum-powered engine, which Godart claims is the largest aluminum-water reactor ever built.&nbsp;
+I’m genuinely interested in the well-being of all my treasured Checkup readers, of course. But this week I’ve also been wondering how science and technology can help answer that question—especially when it comes to pain. In the latest issue of MIT Technology Review magazine, Deena Mousa describes how an AI-powered smartphone app is being used to assess how much pain a person is in.
 
 
 
-Early next year, it will be installed to supply heat and hydrogen to a tool manufacturing facility in the southeastern US, using the aluminum waste produced by the plant itself as fuel. (The manufacturer did not want to be named until the project is formally announced.)
+The app, and other tools like it, could help doctors and caregivers. They could be especially useful in the care of people who aren’t able to tell others how they are feeling.
 
 
 
-If everything works as planned, this technology, which uses a catalyst to unlock the energy stored within aluminum metal, could transform a growing share of aluminum scrap into a zero-carbon fuel. The high heat generated by the engine could be especially valuable to reduce the substantial greenhouse-gas emissions generated by industrial processes, like cement production and metal refining, that are difficult to power with electricity directly.
+But they are far from perfect. And they open up all kinds of thorny questions about how we experience, communicate, and even treat pain.
 
 
 
-“We invented the fuel, which is a blessing and a curse,” says Godart, surrounded by the pipes and wires of the experimental reactor. “It’s a huge opportunity for us, but it also means we do have to develop all of the systems around us. We’re redefining what even is an engine.”
 
 
+Pain can be notoriously difficult to describe, as almost everyone who has ever been asked to will know. At a recent medical visit, my doctor asked me to rank my pain on a scale from 1 to 10. I found it incredibly difficult to do. A 10, she said, meant “the worst pain imaginable,” which brought back unpleasant memories of having appendicitis.
 
-Engineers have long eyed using aluminum as a fuel thanks to its superior energy density. Once it has been refined and smelted from ore, aluminum metal contains more than twice as much energy as diesel fuel by volume and almost eight times as much as hydrogen gas. When it reacts with oxygen in water or air, it forms aluminum oxides. This reaction releases heat and hydrogen gas, which can be tapped for zero-carbon power.
 
 
+A short while before the problem that brought me in, I’d broken my toe in two places, which had hurt like a mother—but less than appendicitis. If appendicitis was a 10, breaking a toe was an 8, I figured. If that was the case, maybe my current pain was a 6. As a pain score, it didn’t sound as bad as I actually felt. I couldn’t help wondering if I might have given a higher score if my appendix were still intact. I wondered, too, how someone else with my medical issue might score their pain.
 
-Liquid metal
 
 
+In truth, we all experience pain in our own unique ways. Pain is subjective, and it is influenced by our past experiences, our moods, and our expectations. The way people describe their pain can vary tremendously, too.
 
-The trouble with aluminum as a fuel—and the reason your soda can doesn’t spontaneously combust—is that as soon as the metal starts to react, an oxidized layer forms across its surface that prevents the rest of it from reacting. It’s like a fire that puts itself out as it generates ash. “People have tried it and abandoned this idea many, many times,” says Godart.
 
 
+We’ve known this for ages. In the 1940s, the anesthesiologist Henry Beecher noted that wounded soldiers were much less likely to ask for pain relief than similarly injured people in civilian hospitals. Perhaps they were putting on a brave face, or maybe they just felt lucky to be alive, given their circumstances. We have no way of knowing how much pain they were really feeling.
 
-Some believe using aluminum as a fuel remains a fool’s errand. “This potential use of aluminum crops up every few years and has no possibility of success even if aluminum scrap is used as the fuel source,” says Geoff Scamans, a metallurgist at Brunel University of London who spent a decade working on using aluminum to power vehicles in the 1980s. He says the aluminum-water reaction isn’t efficient enough for the metal to make sense as a fuel given how much energy it takes to refine and smelt aluminum from ore to begin with: “A crazy idea is always a crazy idea.”
 
 
+Given this messy picture, I can see the appeal of a simple test that can score pain and help medical professionals understand how best to treat their patients. That’s what is being offered by PainChek, the smartphone app Deena wrote about. The app works by assessing small facial movements, such as lip raises or brow pinches. A user is then required to fill a separate checklist to identify other signs of pain the patient might be displaying. It seems to work well, and it is already being used in hospitals and care settings.
 
-But Godart believes he and his company have found a way to make it work. “The real breakthrough was thinking about catalysis in a different way,” he says: Instead of trying to speed up the reaction by bringing water and aluminum together onto a catalyst, they “flipped it around” and “found a material that we could actually dissolve into the aluminum.”
 
 
 
-JAMES DINNEEN
 
+But the app is judged against subjective reports of pain. It might be useful for assessing the pain of people who can’t describe it themselves—perhaps because they have dementia, for example—but it won’t add much to assessments from people who can already communicate their pain levels.
 
 
 
-The liquid metal catalyst at the heart of the company’s approach “permeates the microstructure” of the aluminum, says Godart. As the aluminum reacts with water, the catalyst forces the metal to froth and split open, exposing more unreacted aluminum to the water. 
+There are other complications. Say a test could spot that a person was experiencing pain. What can a doctor do with that information? Perhaps prescribe pain relief—but most of the pain-relieving drugs we have were designed to treat acute, short-term pain. If a person is grimacing from a chronic pain condition, the treatment options are more limited, says Stuart Derbyshire, a pain neuroscientist at the National University of Singapore.
 
 
 
-The composition of the catalyst is proprietary, but Godart says it is a “low-melting-point liquid metal that’s not mercury.” His dissertation research focused on using a liquid mixture of gallium and indium as the catalyst, and he says the principle behind the current material is the same.
+The last time I spoke to Derbyshire was back in 2010, when I covered work by researchers in London who were using brain scans to measure pain. That was 15 years ago. But pain-measuring brain scanners are yet to become a routine part of clinical care.
 
 
 
-During a visit in early October, Godart demonstrated the central reaction in the Found R&amp;D lab, which after the company’s $12 million seed round last year now fills the better part of two floors of an industrial building in Boston’s Charlestown neighborhood. Using a pair of tongs to avoid starting the reaction with the moisture on his fingers, he placed a pellet of aluminum treated with the secret catalyst in a beaker and then added water. Immediately, the metal began to bubble with hydrogen. Then the water steamed away, leaving behind a frothing gray mass of aluminum hydroxide.
+That scoring system was also built on subjective pain reports. Those reports are, as Derbyshire puts it, “baked into the system.” It’s not ideal, but when it comes down to it, we must rely on these wobbly, malleable, and sometimes incoherent self-descriptions of pain. It’s the best we have.
 
 
 
+Derbyshire says he doesn’t think we’ll ever have a “pain-o-meter” that can tell you what a person is truly experiencing. “Subjective report is the gold standard, and I think it always will be,” he says.
 
 
 
+This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, sign up here.
+• What’s next for carbon removal?
+  MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here.In the early 2020s, a little-known aquaculture company in Portland, Maine, snagged more than $50 million by pitching a plan to harness nature to fight back against climate change. The company, Running Tide, said it could sink enough kelp to the seafloor to sequester a billion tons of carbon dioxide by this year, according to one of its early customers.
 
 
 
-“One of the impediments to this technology taking off is that [the aluminum-water reaction] was just too sluggish,” says Godart. “But you can see here we’re making steam. We just made a boiler.”
+Instead, the business shut down its operations last summer, marking the biggest bust to date in the nascent carbon removal sector.
 
 
 
-From Europa to Earth
+Its demise was the most obvious sign of growing troubles and dimming expectations for a space that has spawned hundreds of startups over the last few years. A handful of other companies have shuttered, downsized, or pivoted in recent months as well. Venture investments have flagged. And the collective industry hasn’t made a whole lot more progress toward that billion-ton benchmark.The hype phase is over and the sector is sliding into the turbulent business trough that follows, warns Robert Höglund, cofounder of CDR.fyi, a public-benefit corporation that provides data and analysis on the carbon removal industry.
 
 
 
-Godart was a scientist at NASA when he first started thinking about fresh ways to unlock the energy stored in aluminum. He was working on building aluminum robots that could consume themselves for fuel when roving on Jupiter’s icy moon Europa. But that work was cut short when Congress reduced funding for the mission.
+“We’re past the peak of expectations,” he says. “And with that, we could see a lot of companies go out of business, which is natural for any industry.”
 
 
 
-“I was sort of having this little mini crisis where I was like, I need to do something about climate change, about Earth problems,” says Godart. “And I was like, you know—I bet this aluminum technology would be even better for Earth applications.” After completing a dissertation on aluminum fuels at MIT, he started Found Energy in his house in Cambridge in 2022 (the next year, he earned a place on MIT Technology Review’s annual 35 Innovators under 35 list).
+The open question is: If the carbon removal sector is heading into a painful if inevitable clearing-out cycle, where will it go from there?&nbsp;
 
 
 
-Until this year, the company was working at a tiny scale, tweaking the catalyst and testing different conditions within a small 10-kilowatt reactor to make the reaction release more heat and hydrogen more quickly. Then, in January, it began designing an engine that’s 10 times larger, big enough to supply a useful amount of power for industrial processes beyond the lab.
+The odd quirk of carbon removal is that it never made a lot of sense as a business proposition: It’s an atmospheric cleanup job, necessary for the collective societal good of curbing climate change. But it doesn’t produce a service or product that any individual or organization strictly needs—or is especially eager to pay for.
 
 
 
-This larger engine took up most of the lab on the second floor. The reactor vessel resembled a water boiler turned on its side, with piping and wires connected to monitoring equipment that took up almost as much space as the engine itself. On one end, there was a pipe to inject water and a piston to deliver pellets of aluminum fuel into the reactor at variable rates. On the other end, outflow pipes carried away the reaction products: steam, hydrogen gas, aluminum hydroxide, and the recovered catalyst. Godart says none of the catalyst is lost in the reaction, so it can be used again to make more fuel.
+To date, a number of businesses have voluntarily agreed to buy tons of carbon dioxide that companies intend to eventually suck out of the air. But whether they’re motivated by sincere climate concerns or pressures from investors, employees, or customers, corporate do-goodism will only scale any industry so far.&nbsp;
 
 
 
-FOUND ENERGY
+Most observers argue that whether carbon removal continues to bobble along or transforms into something big enough to make a dent in climate change will depend largely on whether governments around the world decide to pay for a whole, whole lot of it—or force polluters to.&nbsp;
 
 
 
+“Private-sector purchases will never get us there,” says Erin Burns, executive director of Carbon180, a nonprofit that advocates for the removal and reuse of carbon dioxide. “We need policy; it has to be policy.”
 
-The company first switched on the engine to begin testing in July. In September, it managed to power it up to its targeted power of 100 kilowatts—roughly as much as can be supplied by the diesel engine in a small pickup truck. In early 2026, it plans to install the 100-kilowatt engine to supply heat and hydrogen to the tool manufacturing facility. This pilot project is meant to serve as the proof of concept needed to raise the money for a 1-megawatt reactor, 10 times larger again.
 
 
+What’s the problem?
 
-The initial pilot will use the engine to supply hot steam and hydrogen. But the energy released in the reactor could be put to use in a variety of ways across a range of temperatures, according to Godart. The hot steam could spin a turbine to produce electricity, or the hydrogen could produce electricity in a fuel cell. By burning the hydrogen within the steam, the engine can produce superheated steam as hot as 1,300 °C, which could be used to generate electricity more efficiently or refine chemicals. Burning the hydrogen alone could generate temperatures of 2,400 °C, hot enough to make steel.
 
 
+The carbon removal sector began to scale up in the early part of this decade, as increasingly grave climate studies revealed the need to dramatically cut emissions and suck down vast amounts of carbon dioxide to keep global warming in check.
 
-Picking up scrap
 
 
+Specifically, nations may have to continually remove as much as 11 billion tons of carbon dioxide per year by around midcentury to have a solid chance of keeping the planet from warming past 2 °C over preindustrial levels, according to a UN climate panel report in 2022.
 
-Godart says he and his colleagues hope the engine will eventually power many different industrial processes, but the initial target is the aluminum refining and recycling industry itself, as it already handles scrap metal and aluminum oxide supply chains. “Aluminum recyclers are coming to us, asking us to take their aluminum waste that’s difficult to recycle and then turn that into clean heat that they can use to re-melt other aluminum,” he says. “They are begging us to implement this for them.”
 
 
+A number of startups sprang up to begin developing the technology and building the infrastructure that would be needed, trying out a variety of approaches like sinking seaweed or building carbon-dioxide-sucking factories.
 
-Citing nondisclosure agreements, he wouldn’t name any of the companies offering up their unrecyclable aluminum, which he says is something of a “dirty secret” for an industry that’s supposed to be recycling all it collects. But estimates from the International Aluminium Institute, an industry group, suggest that globally a little over 3 million metric tons of aluminum collected for recycling currently goes unrecycled each year; another 9 million metric tons isn’t collected for recycling at all or is incinerated with other waste. Together, that’s a little under a third of the estimated 43 million metric tons of aluminum scrap that currently gets recycled each year.
 
 
 
-Even if all that unused scrap was recovered for fuel, it would still supply only a fraction of the overall industrial demand for heat, let alone the overall industrial demand for energy. But the plan isn’t to be limited by available scrap. Eventually, Godart says, the hope is to “recharge” the aluminum hydroxide that comes out of the reactor by using clean electricity to convert it back into aluminum metal and react it again. According to the company’s estimates, this “closed loop” approach could supply all global demand for industrial heat by using and reusing a total of around 300 million metric tons of aluminum—around 4% of Earth’s abundant aluminum reserves.&nbsp;
 
+And they soon attracted customers. Companies including Stripe, Google, Shopify, Microsoft, and others began agreeing to pre-purchase tons of carbon removal, hoping to stand up the nascent industry and help offset their own climate emissions. Venture investments also flooded into the space, peaking in 2023 at nearly $1 billion, according to data provided by PitchBook.
 
 
-However, all that recharging would require a lot of energy. “If you’re doing that, [aluminum fuel] is an energy storage technology, not so much an energy providing technology,” says Jeffrey Rissman, who studies industrial decarbonization at Energy Innovation, a think tank in California. As with other forms of energy storage like thermal batteries or green hydrogen, he says, that could still make sense if the fuel can be recharged using low-cost, clean electricity. But that will be increasingly hard to come by amid the scramble for clean power for everything from AI data centers to heat pumps.
 
+From early on, players in the emerging sector sought to draw a sharp distinction between conventional carbon offset projects, which studies have shown frequently exaggerate climate benefits, and “durable” carbon removal that could be relied upon to suck down and store away the greenhouse gas for decades to centuries. There’s certainly a big difference in the price: While buying carbon offsets through projects that promise to preserve forests or plant trees might cost a few dollars per ton, a ton of carbon removal can run hundreds to thousands of dollars, depending on the approach.&nbsp;
 
 
-Despite these obstacles, Godart is confident his company will find a way to make it work. The existing engine may already be able to squeeze out more power from aluminum than anticipated. “We actually believe this can probably do half a megawatt,” he says. “We haven’t fully throttled it.”
 
+That high price, however, brings big challenges. Removing 10 billion tons of carbon dioxide a year at, say, $300 a ton adds up to a global price tag of $3 trillion—a year.&nbsp;
 
 
-James Dinneen is a science and environmental journalist based in New York City.&nbsp;
-• Introducing: the body issue
+
+Which brings us back to the fundamental question: Who should or would foot the bill to develop and operate all the factories, pipelines, and wells needed to capture, move, and bury billions upon billions of tons of carbon dioxide?
+
+
+
+The state of the market
+
+
+
+The market is still growing, as companies voluntarily purchase tons of carbon removal to make strides toward their climate goals. In fact, sales reached an all-time high in the second quarter of this year, mostly thanks to several massive purchases by Microsoft.
+
+
+
+
+
+But industry sources fear that demand isn’t growing fast enough to support a significant share of the startups that have formed or even the projects being built, undermining the momentum required to scale the sector up to the size needed by midcentury.
+
+
+
+To date, all those hundreds of companies that have spun up in recent years have disclosed deals to sell some 38 million tons of carbon dioxide pulled from the air, according to CDR.fyi. That’s roughly the amount the US pumps out in energy-related emissions every three days.&nbsp;
+
+
+
+And they’ve only delivered around 940,000 tons of carbon removal. The US emits that much carbon dioxide in less than two hours. (Not every transaction is publicly announced or revealed to CDR.fyi, so the actual figures could run a bit higher.)
+
+
+
+Another concern is that the same handful of big players continue to account for the vast majority of the overall purchases, leaving the health and direction of the market dependent on their whims and fortunes.&nbsp;
+
+
+
+Most glaringly, Microsoft has agreed to buy 80% of all the carbon removal purchased to date, according to&nbsp; CDR.fyi. The second-biggest buyer is Frontier, a coalition of companies that includes Google, Meta, Stripe, and Shopify, which has committed to spend $1 billion.
+
+
+
+If you strip out those two buyers, the market shrinks from 16 million tons under contract during the first half of this year to just 1.2 million, according to data provided to MIT Technology Review by CDR.fyi.&nbsp;
+
+
+
+Signs of trouble
+
+
+
+Meanwhile, the investor appetite for carbon removal is cooling. For the 12-month period ending in the second quarter of 2025, venture capital investments in the sector fell more than 13% from the same period last year, according to data provided by PitchBook. That tightening funding will make it harder and harder for companies that aren’t bringing in revenue to stay afloat.
+
+
+
+Companies that have already shut down also include the carbon removal marketplace Noya and Alkali Earth, which was attempting to use industrial by-products to tie up carbon dioxide.
+
+
+
+Still other businesses are struggling. Climeworks, one of the first companies to build direct-air-capture (DAC) factories, announced it was laying off 10% of its staff in May, as it grapples with challenges on several fronts.
+
+
+
+The company’s plans to collaborate on the development of a major facility in the US have been at least delayed as the Trump administration has held back tens of millions of dollars in funding granted in 2023 under the Department of Energy’s Regional Direct Air Capture Hubs program. It now appears the government could terminate the funding altogether, along with perhaps tens of billions of dollars’ worth of additional grants previously awarded for a variety of other US carbon removal and climate tech projects.
+
+
+
+“Market rumors have surfaced, and Climeworks is prepared for all scenarios,” Christoph Gebald, one of the company’s co-CEOs, said in a previous statement to MIT Technology Review. “The need for DAC is growing as the world falls short of its climate goals and we’re working to achieve the gigaton capacity that will be needed.”
+
+
+
+But purchases from direct-air-capture projects fell nearly 16% last year and account for just 8% of all carbon removal transactions to date. Buyers are increasingly looking to categories that promise to deliver tons faster and for less money, notably including burying biochar or installing carbon capture equipment on bioenergy plants. (Read more in my recent story on that method of carbon removal, known as BECCS, here.)
+
+
+
+CDR.fyi recently described the climate for direct air capture in grim terms: “The sector has grown rapidly, but the honeymoon is over: Investment and sales are falling, while deployments are delayed across almost every company.”“Most DAC companies,” the organization added, “will fold or be acquired.”
+
+
+
+What’s next?
+
+
+
+In the end, most observers believe carbon removal isn’t really going to take off unless governments bring their resources and regulations to bear. That could mean making direct purchases, subsidizing these sectors, or getting polluters to pay the costs to do so—for instance, by folding carbon removal into market-based emissions reductions mechanisms like cap-and-trade systems.&nbsp;
+
+
+
+More government support does appear to be on the way. Notably, the European Commission recently proposed allowing “domestic carbon removal” within its EU Emissions Trading System after 2030, integrating the sector into one of the largest cap-and-trade programs. The system forces power plants and other polluters in member countries to increasingly cut their emissions or pay for them over time, as the cap on pollution tightens and the price on carbon rises.&nbsp;
+
+
+
+That could create incentives for more European companies to pay direct-air-capture or bioenergy facilities to draw down carbon dioxide as a means of helping them meet their climate obligations.
+
+
+
+There are also indications that the International Civil Aviation Organization, a UN organization that establishes standards for the aviation industry, is considering incorporating carbon removal into its market-based mechanism for reducing the sector’s emissions. That might take several forms, including allowing airlines to purchase carbon removal to offset their use of traditional jet fuel or requiring the use of carbon dioxide obtained through direct air capture in some share of sustainable aviation fuels.
+
+
+
+Meanwhile, Canada has committed to spend $10 million on carbon removal and is developing a protocol to allow direct air capture in its national offsets program. And Japan will begin accepting several categories of carbon removal in its emissions trading system.&nbsp;
+
+
+
+Despite the Trump administration’s efforts to claw back funding for the development of carbon-sucking projects, the US does continue to subsidize storage of carbon dioxide, whether it comes from power plants, ethanol refineries, direct-air-capture plants, or other facilities. The so-called 45Q tax credit, which is worth up to $180 a ton, was among the few forms of government support for climate-tech-related sectors that survived in the 2025 budget reconciliation bill. In fact, the subsidies for putting carbon dioxide to other uses increased.
+
+
+
+Even in the current US political climate, Burns is hopeful that local or federal legislators will continue to enact policies that support specific categories of carbon removal in the regions where they make the most sense, because the projects can provide economic growth and jobs as well as climate benefits.
+
+
+
+“I actually think there are lots of models for what carbon removal policy can look like that aren’t just things like tax incentives,” she says. “And I think that this particular political moment gives us the opportunity in a unique way to start to look at what those regionally specific and pathway specific policies look like.”
+
+
+
+The dangers ahead
+
+
+
+But even if more nations do provide the money or enact the laws necessary to drive the business of durable carbon renewal forward, there are mounting concerns that a sector conceived as an alternative to dubious offset markets could increasingly come to replicate their problems.
+
+
+
+Various incentives are pulling in that direction.
+
+
+
+Financial pressures are building on suppliers to deliver tons of carbon removal. Corporate buyers are looking for the fastest and most affordable way of hitting their climate goals. And the organizations that set standards and accredit carbon removal projects often earn more money as the volume of purchases rises, creating clear conflicts of interest.
+
+
+
+Some of the same carbon registries that have long signed off on carbon offset projects have begun creating standards or issuing credits for various forms of carbon removal, including Verra and Gold Standard.
+
+
+
+
+
+“Reliable assurance that a project’s declared ton of carbon savings equates to a real ton of emissions removed, reduced, or avoided is crucial,” Cynthia Giles, a senior EPA advisor under President Biden, and Cary Coglianese, a law professor at the University of Pennsylvania, wrote in a recent editorial in Science. “Yet extensive research from many contexts shows that auditors selected and paid by audited organizations often produce results skewed toward those entities’ interests.”
+
+
+
+Noah McQueen, the director of science and innovation at Carbon180, has stressed that the industry must strive to counter the mounting credibility risks, noting in a recent LinkedIn post: “Growth matters, but growth without integrity isn’t growth at all.”
+
+
+
+In an interview, McQueen said that heading off the problem will require developing and enforcing standards to truly ensure that carbon removal projects deliver the climate benefits promised. McQueen added that to gain trust, the industry needs to earn buy-in from the communities in which these projects are built and avoid the environmental and health impacts that power plants and heavy industry have historically inflicted on disadvantaged communities.
+
+
+
+Getting it right will require governments to take a larger role in the sector than just subsidizing it, argues David Ho, a professor at the University of Hawaiʻi at Mānoa who focuses&nbsp; on ocean-based carbon removal.
+
+
+
+He says there should be a massive, multinational research drive to determine the most effective ways of mopping up the atmosphere with minimal environmental or social harm, likening it to a Manhattan Project (minus the whole nuclear bomb bit).
+
+
+
+“If we’re serious about doing this, then let’s make it a government effort,” he says, “so that you can try out all the things, determine what works and what doesn’t, and you don’t have to please your VCs or concentrate on developing [intellectual property] so you can sell yourself to a fossil-fuel company.”
+
+
+
+Ho adds that there’s a moral imperative for the world’s historically biggest climate polluters to build and pay for the carbon-sucking and storage infrastructure required to draw down billions of tons of greenhouse gas. That’s because the world’s poorest, hottest nations, which have contributed the least to climate change, will nevertheless face the greatest dangers from intensifying heat waves, droughts, famines, and sea-level rise.
+
+
+
+“It should be seen as waste management for the waste we’re going to dump on the Global South,” he says, “because they’re the people who will suffer the most from climate change.”
+• Redefining data engineering in the age of AI
+  MIT Technology Review Insights: Data engineers play a pivotal role in their organizations as enablers of AI . The share of time data engineers spend each day on AI projects has nearly doubled in the past two years, from an average of 19% in 2023 to 37% in 2025 . Data engineers are being asked to do more today than ever before, and that’s not likely to change .
+• The Download: aluminium’s potential as a zero-carbon fuel, and what’s next for energy storage
   This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
 
 
 
-Introducing: the body issue
+This startup is about to conduct the biggest real-world test of aluminum as a zero-carbon fuel
 
 
 
-We’re thrilled to share the latest edition of MIT Technology Review magazine, digging into the future of the human body, and how it could change in the years ahead thanks to scientific and technological tinkering.The below stories are just a taste of what you can expect from this fascinating issue. To read the full thing, subscribe now if you haven’t already.
+Found Energy, a startup in Boston, aims to harness the energy in scraps of aluminum metal to power industrial processes without fossil fuels. Since 2022, the company has worked to develop ways to rapidly release energy from aluminum on a small scale.Now it’s just switched on a much larger version of its aluminum-powered engine, which it claims is the largest aluminum-water reactor ever built.Early next year, it will be installed to supply heat and hydrogen to a tool manufacturing facility in the southeastern US, using the aluminum waste produced by the plant itself as fuel.If everything works as planned, this technology, which uses a catalyst to unlock the energy stored within aluminum metal, could transform a growing share of aluminum scrap into a zero-carbon fuel. Read the full story.
 
 
 
-+ A new field of science claims to be able to predict aesthetic traits, intelligence, and even moral&nbsp;
-
-
-
-character in embryos. But is this the next step in human evolution or something more dangerous? Read the full story.
-
-
-
-+ How aging clocks can help us understand why we age—and if we could ever reverse it. Read the full story.
-
-
-
-+ Instead of relying on the same old recipe biology follows, stem-cell scientist Jacob Hanna is coaxing the beginnings of animal bodies directly from stem cells. But should he?
-
-
-
-+ The more we move, the more our muscle cells begin to make a memory of that exercise. Bonnie Tsui’s piece digs into how our bodies learn to remember.
+—James Dinneen
 
 
 
@@ -233,23 +377,27 @@ character in embryos. But is this the next step in human evolution or something 
 
 
 
-MIT Technology Review Narrated: How Antarctica’s history of isolation is ending—thanks to Starlink
+What a massive thermal battery means for energy storage
 
 
 
-“This is one of the least visited places on planet Earth and I got to open the door,” Matty Jordan, a construction specialist at New Zealand’s Scott Base in Antarctica, wrote in the caption to the video he posted to Instagram and TikTok in October 2023.&nbsp;
+Rondo Energy just turned on what it says is the world’s largest thermal battery, an energy storage system that can take in electricity and provide a consistent source of heat.
 
 
 
-In the video, he guides viewers through the hut, pointing out where the men of Ernest Shackleton’s 1907 expedition lived and worked.&nbsp;
+The concept behind a thermal battery is overwhelmingly simple: Use electricity to heat up some cheap, sturdy material (like bricks) and keep it hot until you want to use that heat later, either directly in an industrial process or to produce electricity. 
 
 
 
-The video has racked up millions of views from all over the world. It’s also kind of a miracle: until very recently, those who lived and worked on Antarctic bases had no hope of communicating so readily with the outside world. That’s starting to change, thanks to Starlink, the satellite constellation developed by Elon Musk’s company SpaceX to service the world with high-speed broadband internet.
+Thermal batteries could be a major tool in cutting emissions: 20% of total energy demand today is used to provide heat for industrial processes, and most of that is generated by burning fossil fuels. But the company is using its battery for enhanced oil recovery—a process that critics argue keep polluting infrastructure running longer. Read the full story.
 
 
 
-This is our latest story to be turned into a MIT Technology Review Narrated podcast, which we’re publishing each week on Spotify and Apple Podcasts. Just navigate to MIT Technology Review Narrated on either platform, and follow us to get all our new content as it’s released.
+—Casey Crownhart
+
+
+
+This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
 
 
 
@@ -265,35 +413,35 @@ I’ve combed the internet to find you today’s most fun/important/scary/fascin
 
 
 
-1 OpenAI has launched its own web browser  Atlas has an Ask ChatGPT sidebar and an agent mode to complete certain tasks. (TechCrunch)+ It runs on Chromium, the open-source engine that powers Google&#8217;s Chrome. (Axios)+ OpenAI believes the future of web browsing will involve chatting to its interface. (Ars Technica)+ AI means the end of internet search as we’ve known it. (MIT Technology Review)
+1 ChatGPT’s suicide discussion rules were loosened twice before a teen took his own life    The parents of Adam Raine claim the changes OpenAI made equate to a weakening in its suicide protection for users. (WSJ $)+ It did so to increase use of the chatbot, they allege in an amended lawsuit. (FT $)+ The family is accusing OpenAI of intentional misconduct rather than reckless indifference. (Rolling Stone $)2 Google claims its new quantum algorithm outperforms a supercomputerIt could accelerate advances in drug discovery and new building materials. (Ars Technica)+ Its Willow chip is at the heart of the advance. (NYT $)+ But real-world use of quantum computing is still likely to be years away. (The Guardian)
 
 
 
-2 China is demanding US chip firms share their sales dataIt’s conducting a probe into American suppliers, and it wants answers. (Bloomberg $)3 AI pioneers are among those calling for a ban on superintelligent systemsIncluding Geoffrey Hinton and Yoshua Bengio. (The Guardian)+ Prominent Chinese scientists have also signed the statement. (FT $)+ Read our interview with Hinton on why he’s now scared of AI. (MIT Technology Review)
+3 Reddit is suing AI search engine PerplexityFor allegedly illegally scraping its data to train the model powering Perplexity&#8217;s engine. (FT $)+ Reddit’s also seeking a permanent injunction on companies selling its data. (Engadget)+ What comes next for AI copyright lawsuits? (MIT Technology Review)
 
 
 
-4 Anthropic promises its AI is not wokeDespite what the Trump administration’s “AI Czar” says. (404 Media)+ Its CEO insists the company shares the same goals as the Trump administration. (CNBC)+ Why it’s impossible to build an unbiased AI language model. (MIT Technology Review)
+4 China has a five-year plan to become technologically self-reliantAnd semiconductors and AI will play key roles. (Bloomberg $)+ China is winning the trade war with America. (Economist $)5 DeepSeek is taking off in AfricaIts decision to make its AI cheaper and less power-intensive is paying off. (Bloomberg $)+ How DeepSeek ripped up the AI playbook. (MIT Technology Review)
 
 
 
-5 Climate scientists expect we’ll see more solar geoengineering attemptsBut it’s a risky intervention with potentially huge repercussions. (New Scientist $)+ The hard lessons of Harvard’s failed geoengineering experiment. (MIT Technology Review)6 Why Silicon Valley is so fixated on ChinaIt marvels at the country’s ability to move fast and break things—but should it?(NYT $)+ How Trump is helping China extend its massive lead in clean energy. (MIT Technology Review)
+6 Elon Musk is building a robot armyHe envisions his Optimus robot becoming an “incredible surgeon.” (Wired $)+ Will we ever trust robots? (MIT Technology Review)
 
 
 
-7 YouTube has launched a likeness detector to foil AI doppelgängersBut that doesn’t guarantee that the fake videos will be removed. (Ars Technica)
+7 Apple has pulled a pair of controversial dating apps from the App StoreTea and TeaOnHer fell short of its privacy and content moderation rules. (TechCrunch)
 
 
 
-8 Bots are threatening Reddit’s status as an oasis of human chatCan it keep fighting off the proliferation of AI slop? (WP $)+ It’s not just Reddit either—employers are worried about ‘workslop’ too. (FT $)+ AI trained on AI garbage spits out AI garbage. (MIT Technology Review)
+8 Tesla’s profits are massively downEven though it sold more cars than during its previous quarter. (NYT $)+ The company has been forced to recall tens of thousands of Cybertrucks. (Reuters)+ What happens when your EV becomes obsolete? (The Atlantic $)
 
 
 
-9 This AI-powered pet toy is surprisingly cuteMoflin is a guinea pig-like creature that learns to become more expressive. (TechCrunch)+ AI toys are all the rage in China—and now they’re appearing on shelves in the US too. (MIT Technology Review)
+9 An unexpected victim of the AWS outage? Smart beds Some unlucky owners’ beds blared alarms and became unbearably warm. (WP $)+ If the internet stays the way it is, more bed outages could be on their way. (The Atlantic $)
 
 
 
-10 You don’t need to know a lot about AI to get a job in AIMake of that what you will. (Fast Company $)
+10 The appeal of incredibly basic softwareApple’s TextEdit does exactly what it says on the tin. (New Yorker $)
 
 
 
@@ -305,11 +453,11 @@ Quote of the day
 
 
 
-“It&#8217;s wild that Google wrote the Transformers paper (that birthed GPTs) AND open sourced Chromium, both of which will (eventually) lead to the downfall of their search monopoly. History lesson in there somewhere.”
+“I’m very excited that nerds are having our moment.”
 
 
 
-—Investor Nikunj Kothari ponders the future of Google’s empire in the wake of the announcement of OpenAI’s new web browser in a post on X.
+—Madhavi Sewak, a Google DeepMind researcher, says she’s glad that AI experts are being recognized, the Wall Street Journal reports.
 
 
 
@@ -325,11 +473,11 @@ One more thing
 
 
 
-The quest to protect farmworkers from extreme heatEven as temperatures rise each summer, the people working outdoors to pick fruits, vegetables, and flowers have to keep laboring.The consequences can be severe, leading to illnesses such as heat exhaustion, heatstroke and even acute kidney injury.Now, researchers are developing an innovative sensor that tracks multiple vital signs with a goal of anticipating when a worker is at risk of developing heat illness and issuing an alert. If widely adopted and consistently used, it could represent a way to make workers safer on farms even without significant heat protections. Read the full story.
+Inside the hunt for new physics at the world’s largest particle colliderIn 2012, using data from CERN’s Large Hadron Collider, researchers discovered a particle called the Higgs boson. In the process, they answered a nagging question: Where do fundamental particles, such as the ones that make up all the protons and neutrons in our bodies, get their mass?When the particle was finally found, scientists celebrated with champagne. A Nobel for two of the physicists who predicted the Higgs boson soon followed.More than a decade later, there is a sense of unease. That’s because there are still so many unanswered questions about the fundamental constituents of the universe.So researchers are trying something new. They are repurposing detectors to search for unusual-looking particles, squeezing what they can out of the data with machine learning, and planning for entirely new kinds of colliders. Read the full story.
 
 
 
-—Kalena Thomhave
+—Dan Garisto
 
 
 
@@ -341,15 +489,9 @@ We can still have nice things
 
 
 
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+ Netflix is making a film based on the hit board game Catan, for some reason.+ Why it’s time to embrace the beauty of slow running.+ The Satellite Crayon Project takes colors from the natural world and turns them into vibrant drawing implements.+ Mamma Mia has never sounded better.
-• 3 Things Stephanie Arnett is into right now
-  The latest version of the birding app Merlin helps ease the transition to birding . The app can analyze which birds are singing in real time with step-by-step questions, photos, or audio . It's open-source and files are stored on my device, so I don't have to worry about whether I’m sharing my private thoughts with a company that might scrape them for AI .
-• Dispatch: Partying at one of Africa’s largest AI gatherings
-  Deep Learning Indaba is an annual AI conference where Africans present their research and technologies they’ve built . The event began in 2017 from a nucleus of 300 people gathered in Johannesburg, South Africa . This year, nearly 3,000 people applied to join the Indaba; about 1,300 were accepted . The main ‘prize’ for many attendees is to be hired by a tech company or accepted into a PhD program, says Nyalleng Moorosi .
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)+ Mexico City is already getting into the Halloween spirit: its annual zombie parade took place over the weekend.+ Everything you need to know before travelling to Japan.+ The most stylish people alive? I’ll be the judge of that.+ Here’s something you don’t expect archeologists to uncover: Neolithic chewing gum.
+• What a massive thermal battery means for energy storage
+  Rondo Energy just turned on what it says is the world’s largest thermal battery, an energy storage system that can take in electricity and provide a consistent source of heat . The company announced last week that its first full-scale system is operational, with 100 megawatt-hours of capacity . The battery is being used for enhanced oil recovery, a process where steam is injected down into wells to get stubborn oil out of the ground .
 
 🔒 Cybersecurity & Privacy
 • Canada Fines Cybercrime Friendly Cryptomus $176M
@@ -376,7 +518,7 @@ To address this, we are introducing&nbsp;SentinelStep (opens in new tab),&nbsp;a
 		
 
 		
-		PODCAST SERIES
+		Spotlight: AI-POWERED EXPERIENCE
 	
 	
 	
@@ -388,14 +530,14 @@ To address this, we are introducing&nbsp;SentinelStep (opens in new tab),&nbsp;a
 			
 			
 
-									AI Testing and Evaluation: Learnings from Science and Industry
+									Microsoft research copilot experience
 				
-								Discover how Microsoft is learning from other domains to advance evaluation and testing as a pillar of AI governance.
+								Discover more about research at Microsoft through our AI-powered experience
 				
 								
 					
 						
-							Listen now						
+							Start now						
 					
 				
 							
@@ -500,6 +642,331 @@ We’ve open-sourced SentinelStep as part of Magentic-UI, available on GitHub (o
 
 Our goal is to&nbsp;make it easier to implement agents that can&nbsp;handle&nbsp;long-running&nbsp;monitoring&nbsp;tasks&nbsp;and&nbsp;lay&nbsp;the groundwork for&nbsp;systems that&nbsp;anticipate, adapt, and&nbsp;evolve&nbsp;to meet real-world needs.&nbsp;
 Opens in a new tabThe post Tell me when: Building agents that can wait, monitor, and act appeared first on Microsoft Research.
+• Generate Gremlin queries using Amazon Bedrock models
+  Graph databases have revolutionized how organizations manage complex, interconnected data. However, specialized query languages such as Gremlin often create a barrier for teams looking to extract insights efficiently. Unlike traditional relational databases with well-defined schemas, graph databases lack a centralized schema, requiring deep technical expertise for effective querying. 
+To address this challenge, we explore an approach that converts natural language to Gremlin queries, using Amazon Bedrock models such as Amazon Nova Pro. This approach helps business analysts, data scientists, and other non-technical users access and interact with graph databases seamlessly. 
+In this post, we outline our methodology for generating Gremlin queries from natural language, comparing different techniques and demonstrating how to evaluate the effectiveness of these generated queries using large language models (LLMs) as judges. 
+Solution overview 
+Transforming natural language queries into Gremlin queries requires a deep understanding of graph structures and the domain-specific knowledge encapsulated within the graph database. To achieve this, we divided our approach into three key steps: 
+ 
+ Understanding and extracting graph knowledge 
+ Structuring the graph similar to text-to-SQL processing 
+ Generating and executing Gremlin queries 
+ 
+The following diagram illustrates this workflow. 
+ 
+Step 1: Extract graph knowledge 
+A successful query generation framework must integrate both graph knowledge and domain knowledge to accurately translate natural language queries. Graph knowledge encompasses structural and semantic information extracted directly from the graph database. Specifically, it includes: 
+ 
+ Vertex labels and properties – A listing of vertex types, names, and their associated attributes 
+ Edge labels and properties – Information about edge types and their attributes 
+ One-hop neighbors for each vertex – Capturing local connectivity information, such as direct relationships between vertices 
+ 
+With this graph-specific knowledge, the framework can effectively reason about the heterogeneous properties and complex connections inherent to graph databases. 
+Domain knowledge captures additional context that augments the graph knowledge and is tailored specifically to the application domain. It is sourced in two ways: 
+ 
+ Customer-provided domain knowledge – For example, the customer kscope.ai helped specify those vertices that represent metadata and should never be queried. Such constraints are encoded to guide the query generation process. 
+ LLM-generated descriptions – To enhance the system’s understanding of vertex labels and their relevance to specific questions, we use an LLM to generate detailed semantic descriptions of vertex names, properties, and edges. These descriptions are stored within the domain knowledge repository and provide additional context to improve the relevance of the generated queries. 
+ 
+Step 2: Structure the graph as a text-to-SQL schema 
+To improve the model’s comprehension of graph structures, we adopt an approach similar to text-to-SQL processing, where we construct a schema representing vertex types, edges, and properties. This structured representation enhances the model’s ability to interpret and generate meaningful queries. 
+The question processing component transforms natural language input into structured elements for query generation. It operates in three stages: 
+ 
+ Entity recognition and classification – Identifies key database elements in the input question (such as vertices, edges, and properties) and categorizes the question based on its intent 
+ Context enhancement – Enriches the question with relevant information from the knowledge component, so both graph-specific and domain-specific context is properly captured 
+ Query planning – Maps the enhanced question to specific database elements needed for query execution 
+ 
+The context generation component makes sure the generated queries accurately reflect the underlying graph structure by assembling the following: 
+ 
+ Element properties – Retrieves attributes of vertices and edges along with their data types 
+ Graph structure – Facilitates alignment with the database’s topology 
+ Domain rules – Applies business constraints and logic 
+ 
+Step 3: Generate and execute Gremlin queries 
+The final step is query generation, where the LLM constructs a Gremlin query based on the extracted context. The process follows these steps: 
+ 
+ The LLM generates an initial Gremlin query. 
+ The query is executed within a Gremlin engine. 
+ If the execution is successful, results are returned. 
+ If execution fails, an error message parsing mechanism analyzes the returned errors and refines the query using LLM-based feedback. 
+ 
+This iterative refinement makes sure the generated queries align with the database’s structure and constraints, improving overall accuracy and usability. 
+Prompt template 
+Our final prompt template is as follows: 
+ 
+ ## Request
+Please write a gremlin query to answer the given question:
+{{question}}
+You will be provided with couple relevant vertices, together with their 
+schema and other information.
+Please choose the most relevant vertex according to its schema and other 
+information to make the gremlin query correct.
+
+
+## Instructions
+1. Here are related vertices and their details:
+{{schema}}
+2. Don't rename properties.
+3. Don't change lines (using slash n) in the generated query.
+
+
+## IMPORTANT
+Return the results in the following XML format:
+
+&lt;Results&gt;
+    &lt;Query&gt;INSERT YOUR QUERY HERE&lt;/Query&gt;
+    &lt;Explanation&gt;
+        PROVIDE YOUR EXPLANATION ON HOW THIS QUERY WAS GENERATED 
+        AND HOW THE PROVIDED SCHEMA WAS LEVERAGED
+    &lt;/Explanation&gt;
+&lt;/Results&gt; 
+ 
+Comparing LLM-generated queries to ground truth 
+We implemented an LLM-based evaluation system using Anthropic’s Claude 3.5 Sonnet on Amazon Bedrock as a judge to assess both query generation and execution results for Amazon Nova Pro and a benchmark model. The system operates in two key areas: 
+ 
+ Query evaluation – Assesses correctness, efficiency, and similarity to ground-truth queries; calculates exact matching component percentages; and provides an overall rating based on predefined rules developed with domain experts 
+ Execution evaluation – Initially used a single-stage approach to compare generated results with ground truth, then enhanced to a two-stage evaluation process: 
+   
+   Item-by-item verification against ground truth 
+   Calculation of overall match percentage 
+    
+ 
+Testing across 120 questions demonstrated the framework’s ability to effectively distinguish correct from incorrect queries. The two-stage approach particularly improved the reliability of execution result evaluation by conducting thorough comparison before scoring. 
+Experiments and results 
+In this section, we discuss the experiments we conducted and their results. 
+Query similarity 
+In the query evaluation case, we propose two metrics: query exact match and query overall rating. An exact match score is calculated by identifying matching vs. non-matching components between generated and ground truth queries. The following table summarizes the scores for query exact match. 
+ 
+  
+   
+    
+   Easy 
+   Medium 
+   Hard 
+   Overall 
+   
+   
+   Amazon Nova Pro 
+   82.70% 
+   61% 
+   46.60% 
+   70.36% 
+   
+   
+   Benchmark Model  
+   92.60% 
+   68.70% 
+   56.20% 
+   78.93% 
+   
+  
+ 
+An overall rating is provided after considering factors including query correctness, efficiency, and completeness as instructed in the prompt. The overall rating is on scale 1–10. The following table summarizes the scores for query overall rating. 
+ 
+  
+   
+    
+   Easy 
+   Medium 
+   Hard 
+   Overall 
+   
+   
+   Amazon Nova Pro 
+   8.7 
+   7 
+   5.3 
+   7.6 
+   
+   
+   Benchmark Model 
+   9.7 
+   8 
+   6.1 
+   8.5 
+   
+  
+ 
+One limitation in the current query evaluation setup is that we rely solely on the LLM’s ability to compare ground truth against LLM-generated queries and arrive at the final scores. As a result, the LLM can fail to align with human preferences and under- or over-penalize the generated query. To address this, we recommend working with a subject matter expert to include domain-specific rules in the evaluation prompt. 
+Execution accuracy 
+To calculate accuracy, we compare the results of the LLM-generated Gremlin queries against the results of ground truth queries. If the results from both queries match exactly, we count the instance as correct; otherwise, it is considered incorrect. Accuracy is then computed as the ratio of correct query executions to the total number of queries tested. This metric provides a straightforward evaluation of how well the model-generated queries retrieve the expected information from the graph database, facilitating alignment with the intended query logic. 
+The following table summarizes the scores for execution results count match. 
+ 
+  
+   
+    
+   Easy 
+   Medium 
+   Hard 
+   Overall 
+   
+   
+   Amazon Nova Pro 
+   80% 
+   50% 
+   10% 
+   60.42% 
+   
+   
+   Benchmark Model 
+   90% 
+   70% 
+   30% 
+   74.83% 
+   
+  
+ 
+Query execution latency 
+In addition to accuracy, we evaluate the efficiency of generated queries by measuring their runtime and comparing it with the ground truth queries. For each query, we record the runtime in milliseconds and analyze the difference between the generated query and the corresponding ground truth query. A lower runtime indicates a more optimized query, whereas significant deviations might suggest inefficiencies in query structure or execution planning. By considering both accuracy and runtime, we gain a more comprehensive assessment of query quality, making sure the generated queries are correct and performant within the graph database. The following box plot showcases query execution latency with respect to time for the ground truth query and the query generated by Amazon Nova Pro. As illustrated, all three types of queries exhibit comparable runtimes, with similar median latencies and overlapping interquartile ranges. Although the ground truth queries display a slightly wider range and a higher outlier, the median values across all three groups remain close. This suggests that the model-generated queries are at the same level as human-written ones in terms of execution efficiency, supporting the claim that AI-generated queries are of similar quality and don’t incur additional latency overhead. 
+ 
+Query generation latency and cost 
+Finally, we compare the time taken to generate each query and calculate the cost based on token consumption. More specifically, we measure the query generation time and track the number of tokens used, because most LLM-based APIs charge based on token usage. By analyzing both the generation speed and token cost, we can determine whether the model is efficient and cost-effective. These results provide insights in selecting the optimal model that balances query accuracy, execution efficiency, and economic feasibility. 
+As shown in the following plots, Amazon Nova Pro consistently outperforms the benchmark model in both generation latency and cost. In the left plot, which depicts query generation latency, Amazon Nova Pro demonstrates a significantly lower median generation time, with most values clustered between 1.8–4 seconds, compared to the benchmark model’s broader range from around 5–11 seconds. The right plot, illustrating query generation cost, shows that Amazon Nova Pro maintains a much smaller cost per query—centered well below $0.005—whereas the benchmark model incurs higher and more variable costs, reaching up to $0.025 in some cases. These results highlight Amazon Nova Pro’s advantage in terms of both speed and affordability, making it a strong candidate for deployment in time-sensitive or large-scale systems. 
+ 
+Conclusion 
+We experimented with all 120 ground truth queries provided to us by kscope.ai and achieved an overall accuracy of 74.17% in generating correct results. The proposed framework demonstrates its potential by effectively addressing the unique challenges of graph query generation, including handling heterogeneous vertex and edge properties, reasoning over complex graph structures, and incorporating domain knowledge. Key components of the framework, such as the integration of graph and domain knowledge, the use of Retrieval Augmented Generation (RAG) for query plan creation, and the iterative error-handling mechanism for query refinement, have been instrumental in achieving this performance. 
+In addition to improving accuracy, we are actively working on several enhancements. These include refining the evaluation methodology to handle deeply nested query results more effectively and further optimizing the use of LLMs for query generation. Moreover, we are using the RAGAS-faithfulness metric to improve the automated evaluation of query results, resulting in greater reliability and consistency in assessing the framework’s outputs. 
+ 
+About the authors 
+Mengdie (Flora) Wang is a Data Scientist at AWS Generative AI Innovation Center, where she works with customers to architect and implement scalable Generative AI solutions that address their unique business challenges. She specializes in model customization techniques and agent-based AI systems, helping organizations harness the full potential of generative AI technology. Prior to AWS, Flora earned her Master’s degree in Computer Science from the University of Minnesota, where she developed her expertise in machine learning and artificial intelligence. 
+Jason Zhang&nbsp;has expertise in machine learning, reinforcement learning, and generative AI. He earned his Ph.D. in Mechanical Engineering in 2014, where his research focused on applying reinforcement learning to real-time optimal control problems. He began his career at Tesla, applying machine learning to vehicle diagnostics, then advanced NLP research at Apple and Amazon Alexa. At AWS, he worked as a Senior Data Scientist on generative AI solutions for customers. 
+Rachel Hanspal is a Deep Learning Architect at AWS Generative AI Innovation Center, specializing in end-to-end GenAI solutions with a focus on frontend architecture and LLM integration. She excels in translating complex business requirements into innovative applications, leveraging expertise in natural language processing, automated visualization, and secure cloud architectures. 
+Zubair Nabi is the CTO and Co-Founder of Kscope, an Integrated Security Posture Management (ISPM) platform. His expertise lies at the intersection of Big Data, Machine Learning, and Distributed Systems, with over a decade of experience building software, data, and AI platforms. Zubair is also an adjunct faculty member at George Washington University and the author of Pro Spark Streaming: The Zen of Real-Time Analytics Using Apache Spark. He holds an MPhil from the University of Cambridge. 
+Suparna Pal  – CEO &amp; Co-Founder of kscope.ai – 20+ years of journey of building innovative platforms &amp; solutions for Industrial, Health Care and IT operations at PTC, GE, and Cisco. 
+Wan Chen is an Applied Science Manager at AWS Generative AI Innovation Center. As a ML/AI veteran in tech industry, she has wide range of expertise on traditional machine learning, recommender system, deep learning and Generative AI. She is a stronger believer of Superintelligence and is very passionate to push the boundary of AI research and application to enhance human life and drive business growth. She holds Ph.D in Applied Mathematics from University of British Columbia and had worked as postdoctoral fellow in Oxford University. 
+Mu Li is a Principal Solutions Architect with AWS Energy. He’s also the Worldwide Tech Leader for the AWS Energy &amp; Utilities Technical Field Community (TFC), a community of 300+ industry and technical experts. Li is passionate about working with customers to achieve business outcomes using technology. Li has worked with customers to migrate all-in to AWS from on-prem and Azure, launch the Production Monitoring and Surveillance industry solution, deploy ION/OpenLink Endur on AWS, and implement AWS-based IoT and machine learning workloads. Outside of work, Li enjoys spending time with his family, investing, following Houston sports teams, and catching up on business and technology.
+• Incorporating responsible AI into generative AI project prioritization
+  Over the past two years, companies have seen an increasing need to develop a project prioritization methodology for generative AI. There is no shortage of generative AI use cases to consider. Rather, companies want to evaluate the business value against the cost, level of effort, and other concerns, for a large number of potential generative AI projects. One new concern for generative AI compared to other domains is considering issues like hallucination, generative AI agents making incorrect decisions and then acting on those decisions through tool calls to downstream systems, and dealing with the rapidly changing regulatory landscape. In this post we describe how to incorporate responsible AI practices into a prioritization method to systematically address these types of concerns. 
+Responsible AI overview 
+The AWS Well-Architected Framework defines responsible AI as “the practice of designing, developing, and using AI technology with the goal of maximizing benefits and minimizing risks.” The AWS responsible AI framework begins by defining eight dimensions of responsible AI: fairness, explainability, privacy and security, safety, controllability, veracity and robustness, governance, and transparency. At key points in the development lifecycle, a generative AI team should consider the possible harms or risks for each dimension (inherent and residual risks), implements risk mitigations, and monitors risk on an ongoing basis. Responsible AI applies across the entire development lifecycle and should be considered during initial project prioritization. That’s especially true for generative AI projects, where there are novel types of risks to consider, and mitigations might not be as well understood or researched. Considering responsible AI up front gives a more accurate picture of project risk and mitigation level of effort and reduces the chance of costly rework if risks are uncovered later in the development lifecycle. In addition to potentially delayed projects due to rework, unmitigated concerns might also harm customer trust, result in representational harm, or fail to meet regulatory requirements. 
+Generative AI prioritization 
+While most companies have their own prioritization methods, here we’ll demonstrate how to use the weighted shortest job first (WSJF) method from the Scaled Agile system. WSJF assigns a priority using this formula: 
+Priority = (cost of delay) / (job size) 
+The cost of delay is a measure of business value. It includes the direct value (for example, additional revenue or cost savings), the timeliness (such as, is shipping this project worth a lot more today than a year from now), and the adjacent opportunities (such as, would delivering this project open up other opportunities down the road). 
+The job size is where you consider the level of effort to deliver the project. That normally includes direct development costs and paying for any infrastructure or software you need. The job size is where you can include the results of the initial responsible AI risk assessment and expected mitigations. For example, if the initial assessment uncovers three risks that require mitigation, you include the development cost for those mitigations in the job size. You can also qualitatively assess that a project with ten high-priority risks is more complex than a project with only two high-priority risks. 
+Example scenario 
+Now, let’s walk through a prioritization exercise that compares two generative AI projects. The first project uses a large language model (LLM) to generate product descriptions. A marketing team will use this application to automatically create production descriptions that go into the online product catalog website. The second project uses a text-to-image model to generate new visuals for advertising campaigns and the product catalog. The marketing team will use this application to more quickly create customized brand assets. 
+First pass prioritization 
+First, we’ll go through the prioritization method without considering responsible AI, assigning a score of 1–5 for each part of the WSJF formula. The specific scores vary by organization. Some companies prefer to use t-shirt sizing (S, M, L, and XL), others prefer a score of 1–5, and others will use a more granular score. A score of 1–5 is a common and straightforward way to start. For example, the direct value scores can be calculated as: 
+1 = no direct value 
+2 = 20% improvement in KPI (time to create high-quality descriptions) 
+3 = 40% improvement in KPI 
+4 = 80% improvement in KPI 
+5 = 100% or more improvement in KPI 
+ 
+  
+   
+    
+   Project 1: Automated product descriptions (scored from 1–5) 
+   Project 2: Creating visual brand assets (scored from 1–5) 
+   
+   
+   Direct value 
+   3: Helps marketing team create higher quality descriptions more quickly 
+   3: Helps marketing team create higher quality assets more quickly 
+   
+   
+   Timeliness 
+   2: Not particularly urgent 
+   4: New ad campaign planned this quarter; without this project, cannot create enough brand assets without hiring a new agency to supplement the team 
+   
+   
+   Adjacent opportunities 
+   2: Might be able to reuse for similar scenarios) 
+   3: Experience gained in image generation will build competence for future projects 
+   
+   
+   Job size 
+   2: Basic, well-known pattern 
+   2: Basic, well-known pattern 
+   
+   
+   Score 
+   (3+2+2)/2 = 3.5 
+   (3+4+3)/2 = 5 
+   
+  
+ 
+At first glance, it looks like Project 2 is more compelling. Intuitively that makes sense—it takes people a lot longer to make high-quality visuals than to create textual product descriptions. 
+Risk assessment 
+Now let’s go through a risk assessment for each project. The following table lists a brief overview of the outcome of a risk assessment along each of the AWS responsible AI dimensions, along with a t-shirt size (S, M, L, and XL) severity level. The table also includes suggested mitigations. 
+ 
+  
+   
+    
+   Project 1: Automated product descriptions 
+   Project 2: Creating visual brand assets 
+   
+   
+   Fairness 
+   L: Are descriptions appropriate in terms of gender and demographics? Mitigate using guardrails. 
+   L: Images must not portray particular demographics in a biased way. Mitigate using human and automated checks. 
+   
+   
+   Explainability 
+   No risks identified. 
+   No risks identified. 
+   
+   
+   Privacy and security 
+   L: Some product information is proprietary and cannot be listed on a public site. Mitigate using data governance. 
+   L: Model must not be trained on any images that contain proprietary information. Mitigate using data governance. 
+   
+   
+   Safety 
+   M: Language must be age-appropriate and not cover offensive topics. Mitigate using guardrails. 
+   L: Images must not contain adult content or images of drugs, alcohol, or weapons. Mitigate using guardrails. 
+   
+   
+   Controllability 
+   S: Need to track customer feedback on the descriptions. Mitigate using customer feedback collection. 
+   L: Do images align to our brand guidelines? Mitigate using human and automated checks. 
+   
+   
+   Veracity and robustness 
+   M: Will the system hallucinate and imply product capabilities that aren’t real? Mitigate using guardrails. 
+   L: Are images realistic enough to avoid uncanny valley effects? Mitigate using human and automated checks. 
+   
+   
+   Governance 
+   M: Prefer LLM providers that offer copyright indemnification. Mitigate using LLM provider selection. 
+   L: Require copyright indemnification and image source attribution. Mitigate using model provider selection. 
+   
+   
+   Transparency 
+   S: Disclose that descriptions are AI generated. 
+   S: Disclose that descriptions are AI generated. 
+   
+  
+ 
+The risks and mitigations are use-case specific. The preceding table is for illustrative purposes only. 
+Second pass prioritization 
+How does the risk assessment affect the prioritization? 
+ 
+  
+   
+    
+   Project 1: Automated product descriptions (scored from 1–5) 
+   Project 2: Creating visual brand assets (scored from 1–5) 
+   
+   
+   Job size 
+   3: Basic, well-known pattern; requires fairly standard guardrails, governance, and feedback collection. 
+   5: Basic, well-known pattern. Requires advanced image guardrails with human oversight, and a more expensive commercial model. Research spike needed. 
+   
+   
+   Score 
+   (3+2+2)/3 = 2.3 
+   (3+4+3)/5 = 2 
+   
+  
+ 
+Now it looks like Project 1 is a better one to start with. Intuitively, after you consider responsible AI, that makes sense. Poorly crafted or offensive images are more noticeable and have a larger impact than a poorly phrased product description. And the guardrails you can use for maintaining image safety are less mature than the equivalent guardrails for text, particularly in ambiguous cases like adhering to brand guidelines. In fact, an image guardrail system might require training a monitoring model or using people to spot-check some percentage of the output. You might need to dedicate a small science team to study this problem first. 
+Conclusion 
+In this post, you saw how to include responsible AI considerations in a generative AI project prioritization method. You saw how conducting a responsible AI risk assessment in the initial prioritization phase can change the outcome by uncovering a substantial amount of mitigation work. Moving forward, you should develop your own responsible AI policy and start adopting responsible AI practices for generative AI projects. You can find additional details and resources at Transform responsible AI from theory into practice. 
+ 
+About the author 
+Randy DeFauw is a Sr. Principal Solutions Architect at AWS. He has over 20 years of experience in technology, starting with his university work on autonomous vehicles. He has worked with and for customers ranging from startups to Fortune 50 companies, launching Big Data and Machine Learning applications. He holds an MSEE and an MBA, serves as a board advisor to K-12 STEM education initiatives, and has spoken at leading conferences including Strata and GlueCon. He is the co-author of the books SageMaker Best Practices and Generative AI Cloud Solutions. Randy currently acts as a technical advisor to AWS’ director of technology in North America.
 • Build scalable creative solutions for product teams with Amazon Bedrock
   Creative teams and product developers are constantly seeking ways to streamline their workflows and reduce time to market while maintaining quality and brand consistency. This post demonstrates how to use AWS services, particularly Amazon Bedrock, to transform your creative processes through generative AI. You can implement a secure, scalable solution that accelerates your creative workflow, such as managing product launches, creating marketing campaigns, or developing multimedia content. 
 This post examines how product teams can deploy a generative AI application that enables rapid content iteration across formats. The solution addresses comprehensive needs—from product descriptions and marketing copy to visual concepts and video content for social media. By integrating with brand guidelines and compliance requirements, teams can significantly reduce time to market while maintaining creative quality and consistency. 
@@ -905,855 +1372,5 @@ Try out this cost management approach for your own use case, and share your feed
  
 About the Author 
 Jason Salcido is a Startups Senior Solutions Architect with nearly 30 years of experience pioneering innovative solutions for organizations from startups to enterprises. His expertise spans cloud architecture, serverless computing, machine learning, generative AI, and distributed systems. Jason combines deep technical knowledge with a forward-thinking approach to design scalable solutions that drive value, while translating complex concepts into actionable strategies.
-• Build a proactive AI cost management system for Amazon Bedrock – Part 1
-  As organizations embrace generative AI powered by Amazon Bedrock, they face the challenge of managing costs associated with the token-based pricing model. Amazon Bedrock offers a pay-as-you-go pricing structure that can potentially lead to unexpected and excessive bills if usage is not carefully monitored. Traditional methods of cost monitoring, such as budget alerts and cost anomaly detection, can help spot unexpectedly high usage but are reactive in nature. To address costs proactively, it is vital to use both leading and trailing indicators. 
-Leading indicators are predictive signals that help you anticipate future trends or potential issues before they fully materialize. These indicators provide proactive insights that allow for timely intervention. In contrast, trailing indicators are retrospective measurements that confirm what has already occurred. By understanding and tracking both types of indicators, organizations can develop more strategic and responsive decision-making processes. 
-In this two-part series, we introduce a comprehensive solution for proactively managing Amazon Bedrock inference costs. Our approach features a cost sentry mechanism designed to establish and enforce token usage limits, providing organizations with a robust framework for controlling generative AI expenses. In this post, we focus on core architecture, cost sentry design, token usage tracking, and initial budget enforcement strategies. In Part 2, we explore advanced monitoring techniques, custom tagging, reporting, and long-term cost optimization best practices. The goal is to deliver a predictable, cost-effective approach to Amazon Bedrock deployments that aligns with organizational financial constraints. 
-Solution overview 
-Amazon Bedrock is billed on a token usage-based policy with charges based on the input and output tokens used. The rate charged depends on the model used and AWS Region where inference is performed. Developers must implement robust token management strategies in their applications to help prevent runaway costs, making sure generative AI applications include circuit breakers and consumption limits that align with budgetary constraints. 
-To address this, you can configure Amazon CloudWatch alarms or monitor costs with billing alerts and budgets, but these mechanisms look at incurred costs or usage after the fact. Another option is the Generative AI Gateway Solution in the AWS Solutions Library, which uses LiteLLM to enforce budgetary limits for Amazon Bedrock and other model providers. 
-This solution was developed to identify a proactive, centralized mechanism that could limit the generative AI usage to a specific budget that can be adjusted. This approach uses serverless workflows and native Amazon Bedrock integration that offers less operational complexity while providing large-scale performance and scaling. 
-When building applications with Amazon Bedrock, it is common practice to access the service through a developed API, either synchronously through a REST API or asynchronously through a queuing system. The following diagram compares these architectures. 
- 
-For synchronous interactions, clients make direct REST API calls to Amazon Bedrock, passing in the necessary parameters. In an asynchronous architecture, clients submit inference requests to a queue or message broker, such as Amazon Simple Queue Service (Amazon SQS). A backend processing system, often implemented as a serverless function or a containerized application, continuously monitors the queue and processes incoming requests. This approach decouples the client from the inference processing, enabling scalability and resilience in handling bursts of requests. 
-This solution is a centralized mechanism that can be used to interact with Amazon Bedrock to serve as a proactive cost sentry. It is designed using a serverless architecture that uses AWS Step Functions to orchestrate a workflow that validates token usage against configured limits before allowing Amazon Bedrock inference requests to proceed. This solution makes sure that generative AI applications stay within predefined budgetary boundaries, providing cost predictability and control. 
-The following diagram illustrates the architecture we build in this post. 
- 
-The core components of this solution include: 
- 
- Rate limiter workflow – A Step Functions workflow that retrieves current token usage metrics from CloudWatch, compares them against predefined limits stored in Amazon DynamoDB, and determines whether to proceed with or deny the Amazon Bedrock inference request. 
- Amazon Bedrock model router – A separate Step Functions state machine that acts as a centralized gateway for invoking various Amazon Bedrock models. This component abstracts the complexity of handling different I/O parameters required by each model. 
- Token usage tracking – Uses CloudWatch metrics integration with Amazon Bedrock to retrieve current token usage data for input and output tokens across all or specific models. 
- Budget configuration – Allows setting token usage limits on a per-model basis by storing the desired budget values in DynamoDB. A default limit can also be set to apply to models without specific budgets defined. 
- Cost and usage visibility – Provides visibility for AI usage with CloudWatch dashboards and cost over time reporting in AWS Cost Explorer. 
- 
-The solution follows a serverless architecture approach, using managed AWS services like Step Functions, AWS Lambda, DynamoDB, and CloudWatch to provide a scalable, extensible, and cost-effective implementation. 
-The goal is to provide a proactive method of setting generative AI usage limits that operate as a leading indicator to limit usage: 
- 
- Proactive budgeting – Enforces token usage limits before allowing inference requests, helping prevent accidental overspending 
- Model-specific budgets – Supports setting individual budgets for different Amazon Bedrock models based on their pricing and usage patterns 
- Default budget fallback – If no specific budget is defined for a model, a default limit can be applied to enable cost control 
- Monitoring – Uses CloudWatch metrics integration to track token usage, enabling accurate budget enforcement 
- Serverless architecture – Uses Step Functions, Lambda, DynamoDB, and CloudWatch for a scalable and cost-effective solution 
- Extensibility – The modular design allows for seamless integration of additional Amazon Bedrock models or alternative inference methods 
- 
-Step Functions workflows 
-In this section, we explore how the solution uses Step Functions to implement rate limiting and model routing workflows. 
-Rate limiting workflow 
-The rate limiting workflow is designed to take a minimal JSON document as input with the following format: 
- 
- {
-&nbsp; "modelId": "string", &nbsp; &nbsp; &nbsp;&nbsp;// e.g. "anthropic.claude-3-sonnet-20240229-v1:0"
-&nbsp;&nbsp;"prompt": {
-&nbsp;&nbsp; &nbsp;"messages": [
-&nbsp;&nbsp; &nbsp; &nbsp;{
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"role": "string", &nbsp; &nbsp;// "system", "user", or "assistant"
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"content": "string"
-&nbsp;&nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp;]
-&nbsp; }
-} 
- 
-This workflow is the core component that enforces budgetary controls. The key steps are as follows: 
- 
- A Lambda function retrieves the start and end dates for the current month, which is used to query token usage metrics for the appropriate time range. 
- The workflow queries CloudWatch to retrieve the current month’s token usage metrics for the specified Amazon Bedrock model. 
- The workflow retrieves the configured token usage limit for the specified Amazon Bedrock model from DynamoDB. If no specific limit is found, it falls back to retrieving the default limit. 
- The workflow compares the current token usage against the configured limit to determine if the budget has been exceeded or not. 
- If the token usage is within the budget, this step invokes the Amazon Bedrock model router state machine to perform the actual inference request. 
- Depending on the outcome of the budget check, the workflow returns either the formatted inference result or an error indicating that the budget has been exceeded. 
- 
-The following diagram illustrates the Step Functions workflow. 
- 
-Amazon Bedrock model router workflow 
-The Amazon Bedrock model router workflow is a separate Step Functions state machine responsible for invoking the appropriate Amazon Bedrock model based on the request parameters. It abstracts the complexity of handling different I/O formats required by various Amazon Bedrock models and combines the result into a standardized format. 
-The key steps in the workflow include: 
- 
- Based on the provided model ID, the workflow determines the specific Amazon Bedrock model to be invoked. 
- The workflow calls the appropriate Amazon Bedrock model with the required input parameters. 
- The workflow normalizes the output from the Amazon Bedrock model to a consistent format for further processing or returning to the client. 
- The workflow returns the transformed inference result to the calling workflow (budget sentry workflow). 
- 
-The following diagram illustrates the Step Functions workflow. 
- 
-You can implement additional steps to handle error conditions and format the output appropriately. In this example, the Anthropic flow includes error processing. 
-Token usage tracking with CloudWatch metrics 
-The Amazon Bedrock cost sentry uses the CloudWatch integration with Amazon Bedrock to retrieve current token usage metrics. These metrics are used to enforce budgetary limits proactively. For example, see the following query: 
- 
- {
-&nbsp;&nbsp; &nbsp;"sparkline": false,
-&nbsp;&nbsp; &nbsp;"metrics": [
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;[ { "expression": "SEARCH('{AWS/Bedrock} MetricName=\"InputTokenCount\"', 'Sum', 60)", "region": "us-east-1" } ],
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;[ { "expression": "SEARCH('{AWS/Bedrock} MetricName=\"OutputTokenCount\"', 'Sum', 60)", "region": "us-east-1" } ]
-&nbsp;&nbsp; &nbsp;],
-&nbsp;&nbsp; &nbsp;"legend": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"position": "right"
-&nbsp;&nbsp; &nbsp;},
-&nbsp;&nbsp; &nbsp;"title": "InputTokenCount, OutputTokenCount",
-&nbsp;&nbsp; &nbsp;"region": "us-east-1",
-&nbsp;&nbsp; &nbsp;"liveData": true,
-&nbsp;&nbsp; &nbsp;"view": "gauge",
-&nbsp;&nbsp; &nbsp;"stacked": false,
-&nbsp;&nbsp; &nbsp;"period": 2592000,
-&nbsp;&nbsp; &nbsp;"table": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"summaryColumns": [
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"SUM"
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;]
-&nbsp;&nbsp; &nbsp;},
-&nbsp;&nbsp; &nbsp;"yAxis": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"left": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"min": 0,
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"max": 1000000
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp;},
-&nbsp;&nbsp; &nbsp;"setPeriodToTimeRange": true,
-&nbsp;&nbsp; &nbsp;"trend": false,
-&nbsp;&nbsp; &nbsp;"startTime": "2024-05-01T00:00:00Z",
-&nbsp;&nbsp; &nbsp;"endTime": "2024-05-30T23:59:59Z"
-} 
- 
-This CloudWatch metric query retrieves the total input and output token counts for a specified time range, allowing the rate limiter workflow to accurately enforce budgets based on real-time usage data. 
-Budget configuration with DynamoDB 
-The Amazon Bedrock cost sentry stores token usage limits in a DynamoDB table, providing seamless configuration and updates to individual model budgets or the default limit. For example, see the following code: 
- 
- {
-&nbsp;&nbsp; &nbsp;"modelId": "anthropic.claude-3-sonnet-20240229-v1:0",
-&nbsp;&nbsp; &nbsp;"limit": {
-&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;"input": 1000000,
-&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;"output": 3000000
-&nbsp;&nbsp; &nbsp;}
-} 
- 
-In this example, the token usage limit for the specified Amazon Bedrock model (anthropic.claude-3-sonnet-20240229-v1:0) is set to 1,000,000 input tokens and 3,000,000 output tokens. 
-Administrators can quickly update these limits by modifying the corresponding DynamoDB records, providing flexibility in adjusting budgets as needed. 
-Performance analysis of the rate limiter workflow 
-To assess the performance impact of introducing the workflow, we used an array of inference requests. Test cases included various prompts designed to generate responses ranging from concise answers to detailed explanations over 500 words, effectively testing the workflow’s performance across different output token sizes. The workflow demonstrated exceptional performance characteristics across 501 successful executions, handling a diverse set of inference requests from brief responses to extensive content generation. 
-The workflow maintains consistent execution patterns while processing requests ranging from 6.76 seconds to 32.24 seconds in total duration, with the variation primarily reflecting the different output token requirements of each request: 
- 
- Quick responses (under 10 seconds) – Typically handling concise answers and simple queries 
- Medium-length content (11–22 seconds) – Common for detailed explanations and multi-paragraph responses 
- Extended generation (up to 32 seconds) – Handling comprehensive responses requiring more than 500 words 
- 
-The following diagram illustrates our time distribution findings. 
- 
-The time distribution analysis reveals highly optimized resource utilization: 
- 
- Amazon Bedrock model router – 5.80–31.99 seconds (98.26% of runtime) 
- Other workflow steps – 0.11–4.74 seconds (1.65% of runtime) 
- System overhead – 0.02 seconds average (0.09% of runtime) 
- 
-This performance profile aligns with best practices for workflow orchestration, where minimizing overhead and maintaining consistent execution patterns are crucial for reliability. The workflow’s efficiency is evidenced by its remarkably low system overhead of just 0.09%, demonstrating effective use of the built-in controls and state management capabilities of Step Functions regardless of the response size being generated. 
-The execution consistency is particularly noteworthy, with a predictable event pattern of 47–49 events per execution, regardless of the inference request complexity or output size. This predictability is essential for workload management and resource planning, especially when handling varied request complexities and token outputs. 
-These metrics indicate a well-architected workflow that effectively uses Step Functions Express workflow capabilities for high-volume event processing while maintaining minimal overhead and consistent performance characteristics across both simple queries and complex, token-intensive inference requests. 
-Cost analysis 
-To analyze the cost implications, estimates were generated using the AWS Pricing Calculator for both Standard and Express Step Functions workflows, assuming 100,000 requests per month. The following table summarizes these estimates. 
- 
-  
-   
-   Detailed Estimate 
-    
-    
-    
-    
-    
-    
-    
-   
-   
-   Region 
-   Description 
-   Service 
-   Upfront 
-   Monthly 
-   First 12 Months Total 
-   Currency 
-   Configuration Summary 
-   
-   
-   US East (Ohio) 
-   Step Functions Standard 
-   Step Functions – Standard Workflows 
-   0 
-   $37.40 
-   $448.80 
-   USD 
-   Workflow requests (100,000 per month)State transitions per workflow (15) 
-   
-   
-   US East (Ohio) 
-   Step Functions Express 
-   Step Functions – Express Workflows 
-   0 
-   $3.75 
-   $45 
-   USD 
-   Duration of each workflow (35,000)Memory consumed by each workflow (64 MB)Workflow requests (100,000 per month) 
-   
-  
- 
-The cost analysis revealed that the Step Functions Express workflow offers a more cost-effective solution compared to the Standard workflow, with potential cost savings of up to 90% for the same workload. There is a potential for cost reduction for Standard if the number of steps can be optimized. For example, a few formatting pass steps could potentially be removed, but these steps help format the downstream input to later steps. 
-Consult the AWS Pricing Calculator for more details on pricing and to run your own scenario. 
-Conclusion 
-In this solution, we used Step Functions to build a system that serves as a leading indicator because it tracks rate limiting and token usage, warning us immediately when we’re approaching our usage limits. In Part 2, we discuss combining this with trailing indicators to stay aware of usage and costs. 
- 
-About the author 
-Jason Salcido is a Startups Senior Solutions Architect with nearly 30 years of experience pioneering innovative solutions for organizations from startups to enterprises. His expertise spans cloud architecture, serverless computing, machine learning, generative AI, and distributed systems. Jason combines deep technical knowledge with a forward-thinking approach to design scalable solutions that drive value, while translating complex concepts into actionable strategies.
-• Streamline code migration using Amazon Nova Premier with an agentic workflow
-  Many enterprises are burdened with mission-critical systems built on outdated technologies that have become increasingly difficult to maintain and extend. 
-This post demonstrates how you can use the Amazon Bedrock Converse API with Amazon Nova Premier within an agentic workflow to systematically migrate legacy C code to modern Java/Spring framework applications. By breaking down the migration process into specialized agent roles and implementing robust feedback loops, organizations can accomplish the following: 
- 
- Reduce migration time and cost – Automation handles repetitive conversion tasks while human engineers focus on high-value work. 
- Improve code quality – Specialized validation agents make sure the migrated code follows modern best practices. 
- Minimize risk – The systematic approach prevents critical business logic loss during migration. 
- Enable cloud integration – The resulting Java/Spring code can seamlessly integrate with AWS services. 
- 
-Challenges 
-Code migration from legacy systems to modern frameworks presents several significant challenges that require a balanced approach combining AI capabilities with human expertise: 
- 
- Language paradigm differences – Converting C code to Java involves navigating fundamental differences in memory management, error handling, and programming paradigms. C’s procedural nature and direct memory manipulation contrast sharply with Java’s object-oriented approach and automatic memory management. Although AI can handle many syntactic transformations automatically, developers must review and validate the semantic correctness of these conversions. 
- Architectural complexity – Legacy systems often feature complex interdependencies between components that require human analysis and planning. In our case, the C code base contained intricate relationships between modules, with some TPs (Transaction Programs) connected to as many as 12 other modules. Human developers must create dependency mappings and determine migration order, typically starting from leaf nodes with minimal dependencies. AI can assist in identifying these relationships, but the strategic decisions about migration sequencing require human judgment. 
- Maintaining business logic – Making sure critical business logic is accurately preserved during translation requires continuous human oversight. Our analysis showed that although automatic migration is highly successful for simple, well-structured code, complex business logic embedded in larger files (over 700 lines) requires careful human review and often manual refinement to prevent errors or omissions. 
- Inconsistent naming and structures – Legacy code often contains inconsistent naming conventions and structures that must be standardized during migration. AI can handle many routine transformations—converting alphanumeric IDs in function names, transforming C-style error codes to Java exceptions, and converting C structs into Java classes—but human developers must establish naming standards and review edge cases where automated conversion may be ambiguous. 
- Integration complexity – After converting individual files, human-guided integration is essential for creating a cohesive application. Variable names that were consistent across the original C files often become inconsistent during individual file conversion, requiring developers to perform reconciliation work and facilitate proper inter-module communication. 
- Quality assurance – Validating that converted code maintains functional equivalence with the original requires a combination of automated testing and human verification. This is particularly critical for complex business logic, where subtle differences can lead to significant issues. Developers must design comprehensive test suites and perform thorough code reviews to ensure migration accuracy. 
- 
-These challenges necessitate a systematic approach that combines the pattern recognition capabilities of large language models (LLMs) with structured workflows and essential human oversight to produce successful migration outcomes. The key is using AI to handle routine transformations while keeping humans in the loop for strategic decisions, complex logic validation, and quality assurance. 
-Solution overview 
-The solution employs the Amazon Bedrock Converse API with Amazon Nova Premier to convert legacy C code to modern Java/Spring framework code through a systematic agentic workflow. This approach breaks down the complex migration process into manageable steps, allowing for iterative refinement and handling of token limitations. The solution architecture consists of several key components: 
- 
- Code analysis agent – Analyzes C code structure and dependencies 
- Conversion agent – Transforms C code to Java/Spring code 
- Security assessment agent – Identifies vulnerabilities in legacy and migrated code 
- Validation agent – Verifies conversion completeness and accuracy 
- Refine agent – Rewrites the code based on the feedback from the validation agent 
- Integration agent – Combines individually converted files 
- 
-Our agentic workflow is implemented using a Strands Agents framework combined with the Amazon Bedrock Converse API for robust agent orchestration and LLM inference. The architecture (as shown in the following diagram) uses a hybrid approach that combines Strands’s session management capabilities with custom BedrockInference handling for token continuation. 
- 
-The solution uses the following core technologies: 
- 
- Strands Agents framework (v1.1.0+) – Provides agent lifecycle management, session handling, and structured agent communication 
- Amazon Bedrock Converse API – Powers the LLM inference with Amazon Nova Premier model 
- Custom BedrockInference class – Handles token limitations through text prefilling and response continuation 
- Asyncio-based orchestration – Enables concurrent processing and non-blocking agent execution 
- 
-The workflow consists of the following steps: 
-1. Code analysis: 
- 
- Code analysis agent – Performs input code analysis to understand the conversion requirements. Examines C code base structure, identifies dependencies, and assesses complexity. 
- Framework integration – Uses Strands for session management while using BedrockInference for analysis. 
- Output – JSON-structured analysis with dependency mapping and conversion recommendations. 
- 
-2. File categorization and metadata creation: 
- 
- Implementation – FileMetadata data class with complexity assessment. 
- Categories – Simple (0–300 lines), Medium (300–700 lines), Complex (over 700 lines). 
- File types – Standard C files, header files, and database I/O (DBIO) files. 
- 
-3. Individual file conversion: 
- 
- Conversion agent – Performs code migration on individual files based on the information from the code analysis agent. 
- Token handling – Uses the stitch_output() method for handling large files that exceed token limits. 
- 
-4. Security assessment phase: 
- 
- Security assessment agent – Performs comprehensive vulnerability analysis on both legacy C code and converted Java code. 
- Risk categorization – Classifies security issues by severity (Critical, High, Medium, Low). 
- Mitigation recommendations – Provides specific code fixes and security best practices. 
- Output – Detailed security report with actionable remediation steps. 
- 
-5. Validation and feedback loop: 
- 
- Validation agent – Analyzes conversion completeness and accuracy. 
- Refine agent – Applies iterative improvements based on validation results. 
- Iteration control – Maximum five feedback iterations with early termination on satisfactory results. 
- Session persistence – Strands framework maintains conversation context across iterations. 
- 
-6. Integration and finalization: 
- 
- Integration agent – Attempts to combine individually converted files. 
- Consistency resolution – Standardizes variable naming and provides proper dependencies. 
- Output generation – Creates cohesive Java/Spring application structure. 
- 
-7. DBIO conversion (specialized) 
- 
- Purpose – Converts SQL DBIO C source code to MyBatis XML mapper files. 
- Framework – Uses the same Strands and BedrockInference hybrid approach for consistency. 
- 
-The solution consists of the following key orchestration features: 
- 
- Session persistence – Each conversion maintains session state across agent interactions. 
- Error recovery – Comprehensive error handling with graceful degradation. 
- Performance tracking – Built-in metrics for processing time, iteration counts, and success rates. 
- Token continuation – Seamless handling of large files through response stitching. 
- 
-This framework-specific implementation facilitates reliable, scalable code conversion while maintaining the flexibility to handle diverse C code base structures and complexities. 
-Prerequisites 
-Before implementing this code conversion solution, make sure you have the following components configured: 
- 
- AWS environment: 
-   
-   AWS account with appropriate permissions for Amazon Bedrock with Amazon Nova Premier model access 
-   Amazon Elastic Compute Cloud (Amazon EC2) instance (t3.medium or larger) for development and testing or development environment in local machine 
-    
- Development setup: 
-   
-   Python 3.10+ installed with Boto3 SDK and Strands Agents 
-   AWS Command Line Interface (AWS CLI) configured with appropriate credentials and AWS Region 
-   Git for version control of legacy code base and converted code 
-   Text editor or integrated development environment (IDE) capable of handling both C and Java code bases 
-    
- Source and target code base requirements: 
-   
-   C source code organized in a structured directory format 
-   Java 11+ and Maven/Gradle build tools 
-   Spring Framework 5.x or Spring Boot 2.x+ dependencies 
-    
- 
-The source code and prompts used in the post can be found in the GitHub repo. 
-Agent-based conversion process 
-The solution uses a sophisticated multi-agent system implemented using the Strands framework, where each agent specializes in a specific aspect of the code conversion process. This distributed approach provides thorough analysis, accurate conversion, and comprehensive validation while maintaining the flexibility to handle diverse code structures and complexities. 
-Strands framework integration 
-Each agent extends the BaseStrandsConversionAgent class, which provides a hybrid architecture combining Strands session management with custom BedrockInference capabilities: 
- 
- class BaseStrandsConversionAgent(ABC):
-&nbsp;&nbsp; &nbsp;def (self, name: str, bedrock_inference, system_prompt: str):
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;self.name = name
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;self.bedrock = bedrock_inference &nbsp;# Custom BedrockInference for token handling
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;self.system_prompt = system_prompt
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;# Create strands agent for session management
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;self.strands_agent = Agent(name=name, system_prompt=system_prompt)
-&nbsp;&nbsp; &nbsp;
-&nbsp;&nbsp; &nbsp;async def execute_async(self, context: ConversionContext) -&gt; Dict[str, Any]:
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;# Implemented by each specialized agent
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;pass 
- 
-Code analysis agent 
-The code analysis agent examines the structure of the C code base, identifying dependencies between files and determining the optimal conversion strategy. This agent helps prioritize which files to convert first and identifies potential challenges. The following is the prompt template for the code analysis agent: 
- 
- You are a Code Analysis Agent with expertise in legacy C codebases and modern Java/Spring architecture.
-
-&lt;c_codebase&gt;
-{c_code}
-&lt;/c_codebase&gt;
-
-## TASK
-Your task is to analyze the provided C code to prepare for migration.
-
-Perform a comprehensive analysis and provide the following:
-## INSTRUCTIONS
-
-1. DEPENDENCY ANALYSIS:
-&nbsp;&nbsp; - Identify all file dependencies (which files include or reference others)
-&nbsp;&nbsp; - Map function calls between files
-&nbsp;&nbsp; - Detect shared data structures and global variables
-
-2. COMPLEXITY ASSESSMENT:
-&nbsp;&nbsp; - Categorize each file as Simple (0-300 lines), Medium (300-700 lines), or Complex (700+ lines)
-&nbsp;&nbsp; - Identify files with complex control flow, pointer manipulation, or memory management
-&nbsp;&nbsp; - Flag any platform-specific or hardware-dependent code
-
-3. CONVERSION PLANNING:
-&nbsp;&nbsp; - Recommend a conversion sequence (which files to convert first)
-&nbsp;&nbsp; - Suggest logical splitting points for large files
-&nbsp;&nbsp; - Identify common patterns that can be standardized during conversion
-
-4. RISK ASSESSMENT:
-&nbsp;&nbsp; - Highlight potential conversion challenges (e.g., pointer arithmetic, bitwise operations)
-&nbsp;&nbsp; - Identify business-critical sections requiring special attention
-&nbsp;&nbsp; - Note any undocumented assumptions or behaviors
-
-5. ARCHITECTURE RECOMMENDATIONS:
-&nbsp;&nbsp; - Suggest appropriate Java/Spring components for each C module
-&nbsp;&nbsp; - Recommend DTO structure and service organization
-&nbsp;&nbsp; - Propose database access strategy using a persistence framework
-
-Format your response as a structured JSON document with these sections. 
- 
-Conversion agent 
-The conversion agent handles the actual transformation of C code to Java/Spring code. This agent is assigned the role of a senior software developer with expertise in both C and Java/Spring frameworks. The prompt template for the conversion agent is as follows: 
- 
- You are a Senior Software Developer with 15+ years of experience in both C and Java Spring framework. 
-
-&lt;c_file&gt;
-{c_code}
-&lt;/c_file&gt;
-
-## TASK
-Your task is to convert legacy C code to modern Java Spring code with precision and completeness.
-
-## CONVERSION GUIDELINES:
-
-1. CODE STRUCTURE:
-&nbsp;&nbsp; - Create appropriate Java classes (Service, DTO, Mapper interfaces)
-&nbsp;&nbsp; - Preserve original function and variable names unless they conflict with Java conventions
-&nbsp;&nbsp; - Use Spring annotations appropriately (@Service, @Repository, etc.)
-&nbsp;&nbsp; - Implement proper package structure based on functionality
-
-2. JAVA BEST PRACTICES:
-&nbsp;&nbsp; - Use Lombok annotations (@Data, @Slf4j, @RequiredArgsConstructor) to reduce boilerplate
-&nbsp;&nbsp; - Implement proper exception handling instead of error codes
-&nbsp;&nbsp; - Replace pointer operations with appropriate Java constructs
-&nbsp;&nbsp; - Convert C-style arrays to Java collections where appropriate
-
-3. SPRING FRAMEWORK INTEGRATION:
-&nbsp;&nbsp; - Use dependency injection instead of global variables
-&nbsp;&nbsp; - Implement a persistence framework mappers for database operations
-&nbsp;&nbsp; - Replace direct SQL calls with mapper interfaces
-&nbsp;&nbsp; - Use Spring's transaction management
-
-4. SPECIFIC TRANSFORMATIONS:
-&nbsp;&nbsp; - Replace PFM_TRY/PFM_CATCH with Java try-catch blocks
-&nbsp;&nbsp; - Convert mpfmdbio calls to a persistence framework mapper method calls
-&nbsp;&nbsp; - Replace mpfm_dlcall with appropriate Service bean injections
-&nbsp;&nbsp; - Convert NGMHEADER references to input.getHeaderVo() calls
-&nbsp;&nbsp; - Replace PRINT_ and PFM_DBG macros with SLF4J logging
-&nbsp;&nbsp; - Convert ngmf_ methods to CommonAPI.ngmf method calls
-
-5. DATA HANDLING:
-&nbsp;&nbsp; - Create separate DTO classes for input and output structures
-&nbsp;&nbsp; - Use proper Java data types (String instead of char arrays, etc.)
-&nbsp;&nbsp; - Implement proper null handling and validation
-&nbsp;&nbsp; - Remove manual memory management code
-
-## OUTPUT FORMAT:
-&nbsp;&nbsp; - Include filename at the top of each Java file: #filename: [filename].java
-&nbsp;&nbsp; - Place executable Java code inside &lt;java&gt;&lt;/java&gt; tags
-&nbsp;&nbsp; - Organize multiple output files clearly with proper headers
-
-Generate complete, production-ready Java code that fully implements all functionality from the original C code. 
- 
-Security assessment agent 
-The security assessment agent performs comprehensive vulnerability analysis on the original C code and the converted Java code, identifying potential security risks and providing specific mitigation strategies. This agent is crucial for making sure security vulnerabilities are not carried forward during migration and new code follows security best practices. The following is the prompt template for the security assessment agent: 
- 
- You are a Security Assessment Agent with expertise in identifying vulnerabilities in both C and Java codebases, specializing in secure code migration practices.
-
-ORIGINAL C CODE:
-&lt;c_code&gt;
-{c_code}
-&lt;/c_code&gt;
-
-CONVERTED JAVA CODE:
-&lt;java_code&gt;
-{java_code}
-&lt;/java_code&gt;
-
-## TASK
-Your task is to perform comprehensive security analysis on both the legacy C code and converted Java code, identifying vulnerabilities and providing specific mitigation recommendations.
-
-## SECURITY ANALYSIS FRAMEWORK
-
-1. **LEGACY C CODE VULNERABILITIES:**
-&nbsp;&nbsp; - Buffer overflow risks (strcpy, strcat, sprintf usage)
-&nbsp;&nbsp; - Memory management issues (dangling pointers, memory leaks)
-&nbsp;&nbsp; - Integer overflow/underflow vulnerabilities
-&nbsp;&nbsp; - Format string vulnerabilities
-&nbsp;&nbsp; - Race conditions in multi-threaded code
-&nbsp;&nbsp; - Improper input validation and sanitization
-&nbsp;&nbsp; - SQL injection risks in database operations
-&nbsp;&nbsp; - Insecure cryptographic implementations
-
-2. **JAVA CODE SECURITY ASSESSMENT:**
-&nbsp;&nbsp; - Input validation and sanitization gaps
-&nbsp;&nbsp; - SQL injection vulnerabilities in persistence framework queries
-&nbsp;&nbsp; - Improper exception handling that leaks sensitive information
-&nbsp;&nbsp; - Authentication and authorization bypass risks
-&nbsp;&nbsp; - Insecure deserialization vulnerabilities
-&nbsp;&nbsp; - Cross-site scripting (XSS) prevention in web endpoints
-&nbsp;&nbsp; - Logging of sensitive data
-&nbsp;&nbsp; - Dependency vulnerabilities in Spring framework usage
-
-3. **MIGRATION-SPECIFIC RISKS:**
-&nbsp;&nbsp; - Security assumptions that don't translate between languages
-&nbsp;&nbsp; - Privilege escalation through improper Spring Security configuration
-&nbsp;&nbsp; - Data exposure through overly permissive REST endpoints
-&nbsp;&nbsp; - Session management vulnerabilities
-&nbsp;&nbsp; - Configuration security (hardcoded credentials, insecure defaults)
-
-4. **COMPLIANCE AND BEST PRACTICES:**
-&nbsp;&nbsp; - OWASP Top 10 compliance assessment
-&nbsp;&nbsp; - Spring Security best practices implementation
-&nbsp;&nbsp; - Secure coding standards adherence
-&nbsp;&nbsp; - Data protection and privacy considerations
-
-## OUTPUT FORMAT
-Provide your analysis as a structured JSON with these fields:
-- "critical_vulnerabilities": array of critical security issues requiring immediate attention
-- "security_risk_issues": array of security concerns
-- "secure_code_recommendations": specific code changes to implement security fixes
-- "spring_security_configurations": recommended Spring Security configurations
-- "compliance_gaps": areas where code doesn't meet security standards
-- "migration_security_notes": security considerations specific to the C-to-Java migration
-
-For each vulnerability, include:
-- Description of the security risk
-- Potential impact and attack vectors
-- Specific line numbers or code sections affected
-- Detailed remediation steps with code examples
-- Priority level and recommended timeline for fixes
-
-Be thorough in identifying both obvious and subtle security issues that could be exploited in production environments. 
- 
-Validation agent 
-The validation agent reviews the converted code to identify missing or incorrectly converted components. This agent provides detailed feedback that is used in subsequent conversion iterations. The prompt template for the validation agent is as follows: 
- 
- You are a Code Validation Agent specializing in verifying C to Java/Spring migrations.
-
-ORIGINAL C CODE:
-&lt;c_code&gt;
-{c_code}
-&lt;/c_code&gt;
-
-CONVERTED JAVA CODE:
-&lt;java_code&gt;
-{java_code}
-&lt;/java_code&gt;
-
-## TASK
-Your task is to thoroughly analyze the conversion quality and identify any issues or omissions.
-Perform a comprehensive validation focusing on these aspects:
-
-## INSTRUCTIONS
-1. COMPLETENESS CHECK:
-&nbsp;&nbsp; - Verify all functions from C code are implemented in Java
-&nbsp;&nbsp; - Confirm all variables and data structures are properly converted
-&nbsp;&nbsp; - Check that all logical branches and conditions are preserved
-&nbsp;&nbsp; - Ensure all error handling paths are implemented
-
-2. CORRECTNESS ASSESSMENT:
-&nbsp;&nbsp; - Identify any logical errors in the conversion
-&nbsp;&nbsp; - Verify proper transformation of C-specific constructs (pointers, structs, etc.)
-&nbsp;&nbsp; - Check for correct implementation of memory management patterns
-&nbsp;&nbsp; - Validate proper handling of string operations and byte manipulation
-
-3. SPRING FRAMEWORK COMPLIANCE:
-&nbsp;&nbsp; - Verify appropriate use of Spring annotations and patterns
-&nbsp;&nbsp; - Check proper implementation of dependency injection
-&nbsp;&nbsp; - Validate correct use of persistence framework mappers
-&nbsp;&nbsp; - Ensure proper service structure and organization
-
-4. CODE QUALITY EVALUATION:
-&nbsp;&nbsp; - Assess Java code quality and adherence to best practices
-&nbsp;&nbsp; - Check for proper exception handling
-&nbsp;&nbsp; - Verify appropriate logging implementation
-&nbsp;&nbsp; - Evaluate overall code organization and readability
-
-## OUTPUT FORMAT
-Provide your analysis as a structured JSON with these fields:
-- "complete": boolean indicating if conversion is complete
-- "missing_elements": array of specific functions, variables, or logic blocks that are missing
-- "incorrect_transformations": array of elements that were incorrectly transformed
-- "spring_framework_issues": array of Spring-specific implementation issues
-- "quality_concerns": array of code quality issues
-- "recommendations": specific, actionable recommendations for improvement
-
-Be thorough and precise in your analysis, as your feedback will directly inform the next iteration of the conversion process. 
- 
-Feedback loop implementation with refine agent 
-The feedback loop is a critical component that enables iterative refinement of the converted code. This process involves the following steps: 
- 
- Initial conversion by the conversion agent. 
- Security assessment by the security assessment agent. 
- Validation by the validation agent. 
- Feedback incorporation by the refine agent (incorporating both validation and security feedback). 
- Repeat until satisfactory results are achieved. 
- 
-The refine agent incorporates security vulnerability fixes alongside functional improvements, and security assessment results are provided to development teams for final review and approval before production deployment. The following code is the prompt template for code refinement: 
- 
- You are a Senior Software Developer specializing in C to Java/Spring migration with expertise in secure coding practices.
-ORIGINAL C CODE:
-&lt;c_code&gt;
-{c_code}
-&lt;/c_code&gt;
-
-YOUR PREVIOUS JAVA CONVERSION:
-&lt;previous_java&gt;
-{previous_java_code}
-&lt;/previous_java&gt;
-
-VALIDATION FEEDBACK:
-&lt;validation_feedback&gt;
-{validation_feedback}
-&lt;/validation_feedback&gt;
-
-SECURITY ASSESSMENT:
-&lt;security_feedback&gt;
-{security_feedback}
-&lt;/security_feedback&gt;
-
-## TASK
-You've previously converted C code to Java, but validation and security assessment have identified issues that need to be addressed. Your task is to improve the conversion by addressing all identified functional and security issues while maintaining complete functionality.
-## INSTRUCTIONS
-1. ADDRESSING MISSING ELEMENTS:
-&nbsp;&nbsp; - Implement any functions, variables, or logic blocks identified as missing
-&nbsp;&nbsp; - Ensure all control flow paths from the original code are preserved
-&nbsp;&nbsp; - Add any missing error handling or edge cases
-2. CORRECTING TRANSFORMATIONS:
-&nbsp;&nbsp; - Fix any incorrectly transformed code constructs
-&nbsp;&nbsp; - Correct any logical errors in the conversion
-&nbsp;&nbsp; - Properly implement C-specific patterns in Java
-3. IMPLEMENTING SECURITY FIXES:
-&nbsp;&nbsp; - Address all critical and high-risk security vulnerabilities identified
-&nbsp;&nbsp; - Implement secure coding practices (input validation, parameterized queries, etc.)
-&nbsp;&nbsp; - Replace insecure patterns with secure Java/Spring alternatives
-&nbsp;&nbsp; - Add proper exception handling that does not leak sensitive information
-4. IMPROVING SPRING IMPLEMENTATION:
-&nbsp;&nbsp; - Correct any issues with Spring annotations or patterns
-&nbsp;&nbsp; - Ensure proper dependency injection and service structure
-&nbsp;&nbsp; - Fix persistence framework mapper implementations if needed
-&nbsp;&nbsp; - Implement Spring Security configurations as recommended
-5. MAINTAINING CONSISTENCY:
-&nbsp;&nbsp; - Ensure naming conventions are consistent throughout the code
-&nbsp;&nbsp; - Maintain consistent patterns for similar operations
-&nbsp;&nbsp; - Preserve the structure of the original code where appropriate
-## OUTPUT FORMAT
-Output the improved Java code inside &lt;java&gt;&lt;/java&gt; tags, with appropriate file headers. Ensure all security vulnerabilities are addressed while maintaining complete functionality from the original C code. 
- 
-Integration agent 
-The integration agent combines individually converted Java files into a cohesive application, resolving inconsistencies in variable naming and providing proper dependencies. The prompt template for the integration agent is as follows: 
- 
- You are an Integration Agent specializing in combining individually converted Java files into a cohesive Spring application. 
-
-CONVERTED JAVA FILES:
-&lt;converted_files&gt;
-{converted_java_files}
-&lt;/converted_files&gt;
-
-ORIGINAL FILE RELATIONSHIPS:
-&lt;relationships&gt;
-{file_relationships}
-&lt;/relationships&gt;
-
-## TASK
-Your task is to integrate multiple Java files that were converted from C, ensuring they work together properly.
-
-Perform the following integration tasks:
-## INSTRUCTIONS
-1. DEPENDENCY RESOLUTION:
-&nbsp;&nbsp; - Identify and resolve dependencies between services and components
-&nbsp;&nbsp; - Ensure proper autowiring and dependency injection
-&nbsp;&nbsp; - Verify that service method signatures match their usage across files
-
-2. NAMING CONSISTENCY:
-&nbsp;&nbsp; - Standardize variable and method names that should be consistent across files
-&nbsp;&nbsp; - Resolve any naming conflicts or inconsistencies
-&nbsp;&nbsp; - Ensure DTO field names match across related classes
-
-3. PACKAGE ORGANIZATION:
-&nbsp;&nbsp; - Organize classes into appropriate package structure
-&nbsp;&nbsp; - Group related functionality together
-&nbsp;&nbsp; - Ensure proper import statements across all files
-
-4. SERVICE COMPOSITION:
-&nbsp;&nbsp; - Implement proper service composition patterns
-&nbsp;&nbsp; - Ensure services interact correctly with each other
-&nbsp;&nbsp; - Verify that data flows correctly between components
-
-5. COMMON COMPONENTS:
-&nbsp;&nbsp; - Extract and standardize common utility functions
-&nbsp;&nbsp; - Ensure consistent error handling across services
-&nbsp;&nbsp; - Standardize logging patterns
-
-6. CONFIGURATION:
-&nbsp;&nbsp; - Create necessary Spring configuration classes
-&nbsp;&nbsp; - Set up appropriate bean definitions
-&nbsp;&nbsp; - Configure any required properties or settings
-
-Output the integrated Java code as a set of properly organized files, each with:
-- Appropriate package declarations
-- Correct import statements
-- Proper Spring annotations
-- Clear file headers (#filename: [filename].java)
-
-Place each file's code inside &lt;java&gt;&lt;/java&gt; tags. Ensure the integrated application maintains all functionality from the individual components while providing a cohesive structure. 
- 
-DBIO conversion agent 
-This specialized agent handles the conversion of SQL DBIO C source code to XML files compatible with persistence framework in the Java Spring framework. The following is the prompt template for the DBIO conversion agent: 
- 
- You are a Database Integration Specialist with expertise in converting C-based SQL DBIO code to persistence framework XML mappings for Spring applications. 
-
-SQL DBIO C SOURCE CODE:
-&lt;sql_dbio&gt;
-{sql_dbio_code}
-&lt;/sql_dbio&gt;
-
-## TASK
-Your task is to transform the provided SQL DBIO C code into properly structured persistence framework XML files.
-
-Perform the conversion following these guidelines:
-
-## INSTRUCTIONS
-1. XML STRUCTURE:
-&nbsp;&nbsp; - Create a properly formatted persistence framework mapper XML file
-&nbsp;&nbsp; - Include appropriate namespace matching the Java mapper interface
-&nbsp;&nbsp; - Set correct resultType or resultMap attributes for queries
-&nbsp;&nbsp; - Use proper persistence framework XML structure and syntax
-
-2. SQL TRANSFORMATION:
-&nbsp;&nbsp; - Preserve the exact SQL logic from the original code
-&nbsp;&nbsp; - Convert any C-specific SQL parameter handling to persistence framework parameter markers
-&nbsp;&nbsp; - Maintain all WHERE clauses, JOIN conditions, and other SQL logic
-&nbsp;&nbsp; - Preserve any comments explaining SQL functionality
-
-3. PARAMETER HANDLING:
-&nbsp;&nbsp; - Convert C variable bindings to persistence framework parameter references (#{param})
-&nbsp;&nbsp; - Handle complex parameters using appropriate persistence framework techniques
-&nbsp;&nbsp; - Ensure parameter types match Java equivalents (String instead of char[], etc.)
-
-4. RESULT MAPPING:
-&nbsp;&nbsp; - Create appropriate resultMap elements for complex result structures
-&nbsp;&nbsp; - Map column names to Java DTO property names
-&nbsp;&nbsp; - Handle any type conversions needed between database and Java types
-
-5. DYNAMIC SQL:
-&nbsp;&nbsp; - Convert any conditional SQL generation to persistence framework dynamic SQL elements
-&nbsp;&nbsp; - Use &lt;if&gt;, &lt;choose&gt;, &lt;where&gt;, and other dynamic elements as appropriate
-&nbsp;&nbsp; - Maintain the same conditional logic as the original code
-
-6. ORGANIZATION:
-&nbsp;&nbsp; - Group related queries together
-&nbsp;&nbsp; - Include clear comments explaining the purpose of each query
-&nbsp;&nbsp; - Follow persistence framework best practices for mapper organization
-
-## OUTPUT FORMAT
-Output the converted persistence framework XML inside &lt;xml&gt;&lt;/xml&gt; tags. Include a filename comment at the top: #filename: [EntityName]Mapper.xml
-
-Ensure the XML is well-formed, properly indented, and follows persistence framework conventions for Spring applications. 
- 
-Handling token limitations 
-To address token limitations in the Amazon Bedrock Converse API, we implemented a text prefilling technique that allows the model to continue generating code where it left off. This approach is particularly crucial for large files that exceed the model’s context window and represents a key technical innovation in our Strands-based implementation. 
-Technical implementation 
-The following code implements the BedrockInference class with continuation support: 
- 
- class BedrockInference:
-&nbsp;&nbsp; &nbsp;def __init__(self, region_name: str = "us-east-1", model_id: str = "us.amazon.nova-premier-v1:0"):
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;self.config = Config(read_timeout=300)
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;self.client = boto3.client("bedrock-runtime", config=self.config, region_name=region_name)
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;self.model_id = model_id
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;self.continue_prompt = {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"role": "user",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"content": [{"text": "Continue the code conversion from where you left off."}]
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp;
-&nbsp;&nbsp; &nbsp;def run_converse_inference_with_continuation(self, prompt: str, system_prompt: str) -&gt; List[str]:
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"""Run inference with continuation handling for large outputs"""
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;ans_list = []
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;messages = [{"role": "user", "content": [{"text": prompt}]}]
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;response, stop = self.generate_conversation([{'text': system_prompt}], messages)
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;ans = response['output']['message']['content'][0]['text']
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;ans_list.append(ans)
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;while stop == "max_tokens":
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;logger.info("Response truncated, continuing generation...")
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;messages.append(response['output']['message'])
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;messages.append(self.continue_prompt)
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# Extract last few lines for continuation context
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;sec_last_line = '\n'.join(ans.rsplit('\n', 3)[1:-1]).strip()
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;messages.append({"role": "assistant", "content": [{"text": sec_last_line}]})
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;response, stop = self.generate_conversation([{'text': system_prompt}], messages)
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ans = response['output']['message']['content'][0]['text']
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;del messages[-1] &nbsp;# Remove the prefill message
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ans_list.append(ans)
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;return ans_list 
- 
-Continuation strategy details 
-The continuation strategy consists of the following steps: 
- 
- Response monitoring: 
-   
-   The system monitors the stopReason field in Amazon Bedrock responses. 
-   When stopReason equals max_tokens, continuation is triggered automatically. This makes sure no code generation is lost due to token limitations. 
-    
- Context preservation: 
-   
-   The system extracts the last few lines of generated code as continuation context. 
-   It uses text prefilling to maintain code structure and formatting. It preserves variable names, function signatures, and code patterns across continuations. 
-    
- Response stitching: 
- 
- 
- def stitch_output(self, prompt: str, system_prompt: str, tag: str = "java") -&gt; str:
-&nbsp;&nbsp; &nbsp;"""Stitch together multiple responses and extract content within specified tags"""
-&nbsp;&nbsp; &nbsp;ans_list = self.run_converse_inference_with_continuation(prompt, system_prompt)
-&nbsp;&nbsp; &nbsp;
-&nbsp;&nbsp; &nbsp;if len(ans_list) == 1:
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;final_ans = ans_list[0]
-&nbsp;&nbsp; &nbsp;else:
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;final_ans = ans_list[0]
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;for i in range(1, len(ans_list)):
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# Seamlessly combine responses by removing overlap
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;final_ans = final_ans.rsplit('\n', 1)[0] + ans_list[i]
-&nbsp;&nbsp; &nbsp;
-&nbsp;&nbsp; &nbsp;# Extract content within specified tags (java, xml, etc.)
-&nbsp;&nbsp; &nbsp;if f'&lt;{tag}&gt;' in final_ans and f'&lt;/{tag}&gt;' in final_ans:
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;final_ans = final_ans.split(f'&lt;{tag}&gt;')[-1].split(f'&lt;/{tag}&gt;')[0].strip()
-&nbsp;&nbsp; &nbsp;
-&nbsp;&nbsp; &nbsp;return final_ans 
- 
-Optimizing conversion quality 
-Through our experiments, we identified several factors that significantly impact conversion quality: 
- 
- File size management – Files with more than 300 lines of code benefit from being broken into smaller logical units before conversion. 
- Focused conversion – Converting different file types (C, header, DBIO) separately yields better results as each file type has distinct conversion patterns. During conversion, C functions are transformed into Java methods within classes, and C structs become Java classes. However, because files are converted individually without cross-file context, achieving optimal object-oriented design might require human intervention to consolidate related functionality, establish proper class hierarchies, and facilitate appropriate encapsulation across the converted code base. 
- Iterative refinement – Multiple feedback loops (4–5 iterations) produce more comprehensive conversions. 
- Role assignment – Assigning the model a specific role (senior software developer) improves output quality. 
- Detailed instructions – Providing specific transformation rules for common patterns improves consistency. 
- 
-Assumptions 
-This migration strategy makes the following key assumptions: 
- 
- Code quality – Legacy C code follows reasonable coding practices with discernible structure. Obfuscated or poorly structured code might require preprocessing before automated conversion. 
- Scope limitations – This approach targets business logic conversion rather than low-level system code. C code with hardware interactions or platform-specific features might require manual intervention. 
- Test coverage – Comprehensive test cases exist for the legacy application to validate functional equivalence after migration. Without adequate tests, additional validation steps are necessary. 
- Domain knowledge – Although the agentic workflow reduces the need for expertise in both C and Java, access to subject matter experts who understand the business domain is required to validate preservation of critical business logic. 
- Phased migration – The approach assumes an incremental migration strategy is acceptable, where components can be converted and validated individually rather than a full project level migration. 
- 
-Results and performance 
-To evaluate the effectiveness of our migration approach powered by Amazon Nova Premier, we measured performance across enterprise-grade code bases representing typical customer scenarios. Our assessment focused on two success factors: structural completeness (preservation of all business logic and functions) and framework compliance (adherence to Spring Boot best practices and conventions). 
-Migration accuracy by code base complexity 
-The agentic workflow demonstrated varying effectiveness based on file complexity, with all results validated by subject matter experts. The following table summarizes the results. 
- 
-  
-   
-   File Size Category 
-   Structural Completeness 
-   Framework Compliance 
-   Average Processing Time 
-   
-   
-   Small (0–300 lines) 
-   93% 
-   100% 
-   30 –40 seconds 
-   
-   
-   Medium (300–700 lines) 
-   81%* 
-   91%* 
-   7 minutes 
-   
-   
-   Large (more than 700 lines) 
-   62%* 
-   84%* 
-   21 minutes 
-   
-  
- 
-*After multiple feedback cycles 
-Key insights for enterprise adoption 
-These results reveal an important pattern: the agentic approach excels at handling the bulk of migration work (small to medium files) while still providing significant value for complex files that require human oversight. This creates a hybrid approach where AI handles routine conversions and security assessments, and developers focus on integration and architectural decisions. 
-Conclusion 
-Our solution demonstrates that the Amazon Bedrock Converse API with Amazon Nova Premier, when implemented within an agentic workflow, can effectively convert legacy C code to modern Java/Spring framework code. The approach handles complex code structures, manages token limitations, and produces high-quality conversions with minimal human intervention. The solution breaks down the conversion process into specialized agent roles, implements robust feedback loops, and handles token limitations through continuation techniques. This approach accelerates the migration process, improves code quality, and reduces the potential for errors. Try out the solution for your own use case, and share your feedback and questions in the comments. 
- 
-About the authors 
-Aditya Prakash&nbsp;is a Senior Data Scientist at the Amazon Generative AI Innovation Center. He helps customers leverage AWS AI/ML services to solve business challenges through generative AI solutions. Specializing in code transformation, RAG systems, and multimodal applications, Aditya enables organizations to implement practical AI solutions across diverse industries. 
-Jihye Seo&nbsp;is a Senior Deep Learning Architect who specializes in designing and implementing generative AI solutions. Her expertise spans model optimization, distributed training, RAG systems, AI agent development, and real-time data pipeline construction across manufacturing, healthcare, gaming, and e-commerce sectors. As an AI/ML consultant, Jihye has delivered production-ready solutions for clients, including smart factory control systems, predictive maintenance platforms, demand forecasting models, recommendation engines, and MLOps frameworks 
-Yash Shah&nbsp;is a Science Manager in the AWS Generative AI Innovation Center. He and his team of applied scientists, architects and engineers work on a range of machine learning use cases from healthcare, sports, automotive and manufacturing, helping customers realize art of the possible with GenAI. Yash is a graduate of Purdue University, specializing in human factors and statistics. Outside of work, Yash enjoys photography, hiking and cooking.
 
 ⸻
