@@ -1,17 +1,17 @@
-✅ Morning News Briefing – October 25, 2025 10:41
+✅ Morning News Briefing – October 26, 2025 10:41
 
-📅 Date: 2025-10-25 10:41
+📅 Date: 2025-10-26 10:41
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  -1.7°C
-  Temperature: -1.7&deg;C Pressure / Tendency: 102.7 kPa rising Humidity: 98 % Wind Chill: -3 . Dewpoint: -2.0&deg:C Wind: WNW 4 km/h Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Saturday 25 October 2025 Temperature: 0.
-• Saturday: A mix of sun and cloud. High 7.
-  A mix of sun and cloud. High 7. UV index 2 or low. A mixture of sun, cloud, rain and rain . UV index two or low for most of the day . Forecast issued 5:00 AM EDT Saturday 25 October 2025. For the rest of the year, see www.dailymailonline.com/news/newsknew2525 for the rest
-• Saturday night: Mainly cloudy. Low minus 2.
-  Mainly cloudy with wind up to 15 km/h. Wind chill chill minus 4 overnight . Low minus 2.50°F . Wind chill minus 2°F overnight . Wind chiller minus 4°F in the morning, with low wind chill below zero . Forecast issued at 5:00 AM EDT Saturday 25 October 2025 for the rest of the year . Weather forecasters predict
+• Current Conditions:  2.5°C
+  Temperature: 2.5&deg;C Pressure / Tendency: 103.2 kPa rising Humidity: 85 % Dewpoint: 0.3&deg:C Wind: WNW 5 km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Sunday 26 October 2025 . Weather: Pemroke 6/11/
+• Sunday: A mix of sun and cloud. High 8.
+  A mix of sun and cloud this morning, with wind chill minus 6 this morning . Clearing this afternoon . Wind up to 15 km/h. High 8. UV index 2 or low. Clearing today afternoon, with a high of 8.5 degrees F.7 degrees C.E. Gynynson says it will be sunny and sunny in the morning . Temperatures
+• Sunday night: Clear. Low minus 4.
+  Fog patches developing after midnight . Clear. Clear. Wind up to 15 km/h. Low minus 4. Wind chill chill minus 8 overnight. Clear . Low minus 5C overnight. Fog patches expected to develop after midnight. Wind chiller minus 8 in wind chill minus 6C overnight . Forecast issued 5:00 AM EDT Sunday 26 October 2025. Weather forecasters predict snowfall
 
 🌍 International News
 No updates.
@@ -20,16 +20,16 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• What are your unique holiday traditions? NPR wants to know
-  NPR wants to hear from your most unique holiday traditions . What makes celebrating this time of year feel special for you? What is your favorite holiday tradition? Share it with us at iReport.com/next Friday at 9 p.m. ET . Back to the page you came from.com for all the latest from NPR iReport: Share your holiday traditions with us.com .
-• 3 culinary tricks that might get you to eat more veggies, according to chef Roy Choi
-  The Choi of Cooking: Flavor-Packed, Rule-Breaking Recipes for a Delicious Life . Roy Choi, known for his Korean-Mexican fusion food trucks, focuses on veggie-forward dishes in a new cookbook . He shares techniques to get you excited about your greens, plus 3 flavorful sauces . This dish uses the Sweet Garlic Teriyaki Sauce you can find below
-• Trade tensions hang over Trump's Asia trip, but he still aims to make a deal
-  President Trump plans to attend a summit in Malaysia before meeting the new Japanese prime minister in Tokyo and talking to Chinese President Xi Jinping in Korea . President Trump also plans to meet the new Japan PM in Tokyo, Korea and China's President Xi Xi Jinping . Trump will attend the Malaysia summit before a meeting with the new Prime Minister of Japan and the new President of China in Japan . The summit
-• Blue Jays rout Dodgers 11-4 in World Series opener
-  Addison Barger launched the first pinch-hit grand slam in World Series history . The Toronto Blue Jays overwhelmed the defending champion Los Angeles Dodgers in the opener Friday night in Toronto . The Dodgers won the World Series 4-2 in the opening game of the series . The Blue Jays beat the Dodgers 3-1 in Game 1 on Friday night at Dodger Field in Toronto, Ontario .
-• U.S. sends aircraft carrier to South America in major escalation of military firepower
-  The deployment and the quickening pace of U.S. strikes raises new speculation about how far the Trump administration may go in operations it says are targeted at drug trafficking . The deployment raises questions about the speed of the strikes, including one Friday, raising new speculation . The strikes have raised questions about whether the administration will continue to go further in the fight against drug trafficking in the U.
+• Suspects arrested over the theft of crown jewels from Paris' Louvre museum
+  The Paris prosecutor said on Sunday that a number of suspects have been arrested over the theft of the crown jewels from Paris' Louvre museum last weekend . The Louvre's crown jewels were stolen from the museum's main museum in the city of Paris, Paris, last week . The museum was robbed of its crown jewels by vandals at the Louvre in Paris last weekend, police said
+• Shooting leaves 1 dead and 6 hurt at historically Black university's homecoming fest in Pennsylvania
+  One person was killed and six more wounded in a shooting Saturday night at Pennsylvania's Lincoln University . Six more were wounded in the shooting at Lincoln University in Pennsylvania . Lincoln University is located in the state's largest university, Lincoln University, located in Lancaster County, Pennsylvania . The shooting took place at around 8 p.m. Saturday night, killing one person and injuring six more people . Lincoln
+• Trump attends ceasefire ceremony with Thailand and Cambodia during Malaysia visit
+  Thailand and Cambodia have signed an expanded ceasefire agreement during a ceremony attended by President Donald Trump . Cambodia and Thailand have signed a new ceasefire agreement . The two countries signed the expanded agreement in a ceremony at the U.S. embassy in Washington DC on Monday . Cambodia has signed an extended ceasefire agreement with Thailand and Thailand . Cambodia is the only country to sign a new agreement with the two countries
+• How the craft flour movement could be a boon to farmers and Indian Country
+  U.S. wheat farmers face painful losses in the global market due to President Trump's policies . One domestic flour mill on a reservation in Oregon is expanding its production twelvefold . Cairnspring Mills is expanding production 12fold in response to the president's anti-global trade policies . The mill is located in Oregon and is located on a Native American heritage heritage heritage site in the
+• Category 4 Hurricane Melissa threatens catastrophic flooding in Jamaica and Haiti
+  Melissa has intensified into a category 4 hurricane and could become a category 5 hurricane as it approaches Jamaica . Melissa could develop further to become a Category 5 hurricane . Melissa is expected to reach as far north as Jamaica on Sunday night and could be the strongest hurricane in the Atlantic Ocean . The storm is a tropical cyclical hurricane with a sustained intensity of more than 100mph winds and sustained sustained sustained
 
 🧠 Artificial Intelligence
 No updates.
@@ -542,7 +542,7 @@ To address this, we are introducing&nbsp;SentinelStep (opens in new tab),&nbsp;a
 		
 
 		
-		Spotlight: Microsoft research newsletter
+		PODCAST SERIES
 	
 	
 	
@@ -554,14 +554,14 @@ To address this, we are introducing&nbsp;SentinelStep (opens in new tab),&nbsp;a
 			
 			
 
-									Microsoft Research Newsletter
+									The AI Revolution in Medicine, Revisited
 				
-								Stay connected to the research community at Microsoft.
+								Join Microsoft’s Peter Lee on a journey to discover how AI is impacting healthcare and what it means for the future of medicine.
 				
 								
 					
 						
-							Subscribe today						
+							Listen now						
 					
 				
 							
