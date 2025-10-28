@@ -1,17 +1,17 @@
-✅ Morning News Briefing – October 27, 2025 10:47
+✅ Morning News Briefing – October 28, 2025 10:47
 
-📅 Date: 2025-10-27 10:47
+📅 Date: 2025-10-28 10:47
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  2.9°C
-  Temperature: 2.9&deg;C Pressure / Tendency: 103.3 kPa rising Humidity: 81 % Dewpoint: 0.0&deg:C Wind: WNW 5 km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Monday 27 October 2025 . Weather forecast: 0/2.9/deg
-• Monday: A mix of sun and cloud. High 8.
-  Fog patches dissipating this morning. Cloudy. Becoming a mix of sun and cloud this morning . High 8. UV index 3 or moderate. High 8 or moderate . Forecast issued 5:00 AM EDT Monday 27 October 2025. Weather will be mostly sunny and breezy in the morning of October 27, 2025. Forecast also expected to be sunny and sunny in the afternoon
-• Monday night: Clear. Low minus 5.
-  Fog patches developing after midnight . Clear. Clear. Low minus 5.50 degrees Fahrenheit . Clear skies expected to be clear . Fog patches expected to develop after midnight; low minus 5 degrees Fahrenheit Fahrenheit . Forecast issued 5:00 AM EDT Monday 27 October 2025 . Weather forecasters predict temperatures will drop to minus 6 degrees Fahrenheit over the next few days . Forecasters predict snowfall in
+• Current Conditions:  -4.4°C
+  Temperature: -4.4&deg;C Pressure / Tendency: 103.3 kPa rising Humidity: 95 % Wind Chill: -5 . Dewpoint: 5.1.1&deg:C Wind: NW 2 km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Tuesday 28 October 2025 temperature: -
+• Tuesday: Sunny. High 10.
+  Fog patches dissipating this morning. Sunny. High 10.5C in the morning . Sunny. UV index 3 or moderate in the afternoon . Forecast issued 5:00 AM EDT Tuesday 28 October 2025. For the rest of the year, see www.jenn.com/jennifera.org for the latest update on the weather . For the latest in-depth
+• Tuesday night: Clear. Low minus 4.
+  Fog patches developing after midnight . Clear. Clear. Low minus 4.50 degrees Fahrenheit . Low minus 5 degrees Fahrenheit for Tuesday morning . Clear skies expected to be sunny and breezy on Wednesday night . Forecast issued 5:00 AM EDT Tuesday 28 October 2025 for the year on October 28, 2025 for most of the year . For the year, the National Weather Service will issue the
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Why public media giants NPR and CPB are fighting in court this week
-  NPR is accusing the Corporation for Public Broadcasting in federal court of reneging on a contract to appease the White House . NPR is accused of violating a contract with the federal government . The White House is also suing NPR for violating its contract . NPR says it is suing the government for $1 billion in damages and millions of dollars in legal fees . The lawsuit is expected to reach a total
-• Sheep, soldiers, and grains: Studying the physics of crowds
-  In Pamplona, where the bulls run, a scientist studies the physics of crowds . The bull run is a popular event in Spain, where it takes place in the middle of the year's biggest festival in the country's fiestiest city . The bulls run is one of the biggest events in the world to take place in Spain and the world's most famous cities, Pampl
-• Out-of-network and on your own? What to do if your insurer drops your doctors
-  Patients sometimes find themselves scrambling for affordable care when their insurer and hospital get into a contract dispute . Here are six things to know if that happens to you if you're in a dispute with your insurer or hospital . The dispute is often a dispute between insurers and hospitals over who pays for what they want to pay for their medical bills and what they think they are owed . For confidential support call
-• Melissa strengthens to a Category 5 hurricane as it nears Jamaica
-  Melissa is forecast to make landfall on the island of Jamaica Tuesday, with up to 30 inches of rain and a life-threatening storm surge . The storm is expected to be a Category 5 hurricane, the highest on the Saffir-Simpson scale . Melissa is the highest-level Category 5 storm in the world, with a storm surge of up to a storm-force force .
-• How one teacher's kindness changed a grieving teenager's life
-  Eric Schwartz was 15 when his mother died . The first day back at school after the loss was difficult, but one teacher's kindness changed his experience of the day and the rest of his life . Eric Schwartz's mother died when he was 15, but he says she was a good teacher . Schwartz says he was shocked by the kindness of a teacher who helped him cope with the loss of
+• America's immigration crackdown is disrupting the global remittance market
+  America's immigration crackdown might have serious financial consequences for a range of countries . U.S. immigration crackdown has serious financial implications for a host of countries, including the U.K. It could also have serious implications for the rest of the world's economies . The U.N. government is cracking down on the issue of illegal immigration in the wake of the Obama administration's crackdown .
+• 'Washington Post' editorials omit a key disclosure: Bezos' financial ties
+  Editorials at the 'Washington Post' failed to disclose that they focused on matters in which owner Jeff Bezos had a material interest . Three times in the past two weeks, editorials at Washington Post didn't disclose Bezos' interest in matters that he has a material stake in . The Washington Post has been accused of over-indeflecting its editorial decisions in favor of Jeff Bezos .
+• Fight over government layoffs continues as shutdown drags on
+  A federal judge in San Francisco will consider whether to indefinitely halt the thousands of layoffs of federal employees announced by the Trump administration since Oct. 1 . Federal employees have been laid off by the administration since October 1 . A judge will decide whether to halt the layoffs indefinitely . The judge is expected to make a decision on whether to temporarily halt the layoff . The federal government has announced thousands of
+• Volunteers foster literacy by reading to children and giving them books
+  Volunteers with the LiTEArary society read to children who live in "book deserts" and bring them their own books . Volunteers read books to children living in book deserts and bring books to them . Volunteers also read books for children who have no access to books in their homes . The LiTEARARary society is raising money to help children in "Book deserts" through donations .
+• As Trump talks of designating antifa a foreign terrorist group, experts see danger
+  Domestic terrorism expert says designation would have a "cascading effect across civil society," including social media organizations, civic organizations and everything in between" The designation could have a huge impact on civil society, including social networks and civic organizations, experts say . The designation is expected to have "a cascading effect," one expert says of the designation of domestic terror groups in the U.S
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Everything you know about last week's AWS outage is wrong
-  AWS put out a hefty analysis of its October 20 outage, and it's apparently written in a continuing stream of consciousness before the Red Bull wore off and the author passed out after 36 straight hours of writing . AI wasn't the cause, and multi-cloud is for rubes Column Columnists say it's a good readout of the outage, but it's not the cause of it
-• Machine learning saves £4.4M in UK.gov work and pensions fraud detection
-  National Audit Office says DWP saved £4.4 million over three years by using machine learning to tackle fraud . Poor data standards across government hamper scaling, says spending watchdog . DWP's ability to expand work is limited by fragmented IT systems and poor cross-government data standards, says NAO . Department for Work and Pensions is using machine-learning to combat fraud, says
-• The Chinese Box and Turing Test: Is AI really intelligent?
-  ChatGPT is just good at mass-production copy and paste . Chatbots don't think – they've just gotten exponentially better at pretending . The 1966 chatbot from MIT's AI Lab convinced countless people it was intelligent using nothing but simple pattern matching and canned responses. Nearly 60 years later, ChatGpt has people making the same mistake. ChatGTT is just a mass-
-• The perfect AWS storm has blown over, but the climate is only getting worse
-  When it rains, it pours – and nobody packed an umbrella . Amazon's cloud infrastructure has been a disaster for some of the world's biggest tech companies . When it comes to a cab driver, you're asked: "What's this AWS thing, then?" Amazon has been accused of being a disaster in the world of cloud computing, writes Andrew Hammond . He says it's a
-• Frustrated consultant 'went full Hulk' and started smashing hardware
-  Who, Me? is The Register's weekly reader-contributed column that tells tales of your greatest misses, and how you rebuilt a career afterward . For the uninitiitiated, it's The Register’s weekly readers' weekly column that tell tales of their greatest misses and how they rebuilt their careers .……… Four back-to-back weekends of work – and
+• Google says reports of a Gmail breach have been greatly exaggerated
+  Panic spread faster than a phishing email on Tuesday after claims of a massive Gmail breach hit the headlines . But Google says it's all nonsense . Ad and cloud biz rubbishes claims that 183 million accounts were broken into . Google says the claims are all nonsense and that Gmail accounts were hacked into the wrong way of answering questions about the breach . The breach is believed to be the
+• Chatbots parrot Putin's propaganda about the illegal invasion of Ukraine
+  Fake views from Moscow's pet media outlets appear in about one in five responses . Popular chatbots powered by large language models cited links to Russian state-attributed sources in up to a quarter of answers about the war in Ukraine . AI risks undermining efforts to enforce sanctions on Moscow-backed media, raising fresh questions over whether AI could undermine efforts to impose sanctions on Russia-backed news .
+• UK government inflates G-Cloud framework to £14B
+  UK government launches competition for cloud services worth up to £14 billion over four years . Nearly triple £4.8 billion over 18 months announced in an earlier market engagement . Procurement delays and lock-in fears see framework balloon in size and scope . UK government has launched competition for services worth £14bn over 4 years – nearly triple the £4bn announced in earlier engagement .
+• Marks &amp; Spencer swaps out TCS for fresh helpdesk deal
+  Move follows months-long procurement process as retailer refreshes parts of its IT support setup . Marks &amp; Spencer replaced Tata Consultancy Services as its IT service desk provider following procurement process that began in January . Retailer says it has replaced its IT services desk provider after a procurement process started in January, which began months earlier this year, following months of procurement process which began in February
+• IBM Cloud stops signing and seeking new customers for its VMware service
+  IBM has announced it will stop marketing its VMware on IBM Cloud service to new customers . Blames Broadcom’s licensing changes that haven’t caused other hyperscalers to pull the pin . IBM: Broadcom's licensing changes haven't caused other companies to pull away from the IBM Cloud Service to stop marketing the service to a new customer base . The company says it will
 
 🏥 Public Health
 No updates.
 
 🔬 Science
-• Identifying missed prevention opportunities: maternal and congenital syphilis in hospital records and birth certificates in California from 2011 to 2021
+• Cost effectiveness analysis of low dose computed tomography lung cancer screening in Chinese population
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Alarming rates of malnutrition among preschoolers in Gaza
+• This ‘minor’ bird flu strain has potential to spark human pandemic
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Growing burden of early-onset pancreatic cancer without increasing risk: what is the trick
+• Evaluating voluntary care seeking effects on COVID-19 outcomes and health system costs
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Pre-existing comorbidities and hospitalization for COVID-19 are associated with post-COVID conditions in the U.S. veteran population
+• Applying machine learning to predict quality ANC determinants in Bangladesh: a BDHS-2022 cross-sectional study
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Reducing annotation burden in physical activity research using vision language models
+• Perceptions of air pollution from stubble burning and its health risks in Punjab, India
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,134 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• An AI adoption riddle
+  A few weeks ago, a report found 95% of generative AI pilots were failing, causing a brief stock market panic . But the companies that took these developments as a sign to perhaps not go all in on AI were nowhere to be found . The speed of AI progress and adoption has made me think industries are more sensitive to news than they perhaps should be . The question remains unanswered: Are there companies out there rethinking how much their bets on AI will pay off?
+• The Download: what to make of OpenAI’s Atlas browser, and how to make climate progress
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+I tried OpenAI’s new Atlas browser but I still don’t know what it’s for
+
+
+
+—Mat Honan
+
+
+
+OpenAI rolled out a new web browser last week called Atlas. It comes with ChatGPT built in, along with an agent, so that you can browse, get answers, and have automated tasks performed on your behalf all at the same time.
+
+
+
+I’ve spent the past several days tinkering with Atlas. I’ve used it to do all my normal web browsing, and also tried to take advantage of the ChatGPT functions—plus I threw some weird agentic tasks its way to see how it did with those.My impression is that Atlas is…&nbsp; fine? But my big takeaway is that it’s pretty pointless for anyone not employed by OpenAI. In fact, Atlas seems to be little more than cynicism masquerading as software. Read the full story.
+
+
+
+This review first appeared in The Debrief, Mat Honan&#8217;s weekly subscriber-only newsletter.
+
+
+
+
+
+
+
+Seeking climate solutions in turbulent times
+
+
+
+Despite recent political shifts in the US, companies are continuing to pursue exciting new climate solutions. Tomorrow we’re holding an exclusive subscriber-only Roundtable event digging into the most promising technologies of the moment drawing from our recently released 10 Climate Tech Companies to Watch list.This conversation will give subscribers insight into where tangible climate progress is happening today, and how recent political changes are reshaping the path toward a more sustainable future. Join us at 1pm ET on Tuesday October 28—register here!
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 Donald Trump says a TikTok deal could be reached this week Perhaps on Thursday, when he’s due to meet Xi Jinping. (CNBC)+ US treasury secretary Scott Bessent appeared to jump the gun when he said the deal had already been done. (The Guardian)
+
+
+
+2 Covid vaccines helped to prolong the life of cancer patientsThe findings raise hopes a universal vaccine could help patients with different cancers. (WP $)+ Why US federal health agencies are abandoning mRNA vaccines. (MIT Technology Review)
+
+
+
+3 How developing nations benefit from “AI decolonization”Rules forcing Silicon Valley’s giants to process data locally has helped to spread the AI boom’s wealth. (WSJ $)+ Meanwhile, Saudi Arabia wants to be known as the “AI exporter.” (NYT $)+ Inside India’s scramble for AI independence. (MIT Technology Review)4 Those rising electricity costs aren’t just down to AICostly electrical equipment and disaster prep are bigger factors pushing up prices. (WP $)+ Amazon considered concealing its data centers&#8217; water usage. (The Guardian)+ AI is changing the grid. Could it help more than it harms? (MIT Technology Review)
+
+
+
+5 California State wants to become America’s largest “AI-empowered” UniversityIt’s teaming up with Amazon, OpenAI and Nvidia to prepare its students for increasingly AI-driven careers. (NYT $)+ How do technologies change our abilities to learn skills? (The Atlantic $)+ Why the ultra-wealthy are sending their kids to High Point University. (WSJ $)+ The job market is tough right now, but we’ve weathered this kind of storm before. (Insider $)
+
+
+
+6 This new startup sells AI bot interactions to manipulate social mediaEven though it violates every major platforms’ policies. (404 Media)
+
+
+
+7 Even real estate isn’t safe from AI slop House hunters are being forced to wade through AI-enhanced listings. (Wired $)
+
+
+
+8 Why we’re so obsessed with sleepmaxxing Yes, sleep is good for you. But does the tech that tracks it really do the job it claims to? (The Atlantic $)+ I tried to hack my insomnia with technology. Here’s what worked. (MIT Technology Review)
+
+
+
+9 It’s probably not worth buying an Ultra-HD TVSo feel free to ignore all that persuasive marketing jargon. (The Guardian)10 Sneaky employees are using AI to fake their expense receipts So expense firms are in turn deploying AI to try and detect the fakes. (FT $)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“I’m skeptical of all of the hype around AI right now. This is not my first bubble.”
+
+
+
+—Jay Goldberg, a senior analyst at Seaport Global Securities, is no stranger to the hysteria that surrounds overhyped technologies, he tells Bloomberg.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+Inside Clear’s ambitions to manage your identity beyond the airportClear Secure is the most visible biometric identity company in the United States. Best known for its line-jumping service in airports, it’s also popping up at sports arenas and stadiums all over the country. You can also use its identity verification platform to rent tools at Home Depot, put your profile in front of recruiters on LinkedIn, and, as of this month, verify your identity as a rider on Uber.And soon enough, if Clear has its way, it may also be in your favorite retailer, bank, and even doctor’s office—or anywhere else that you currently have to pull out a wallet (or wait in line).While the company has been building toward this sweeping vision for years, it now seems its time has finally come. But as biometrics go mainstream, what—and who—bears the cost? Read the full story. —Eileen Guo
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
+
+
+
++ Ancient manuscripts are jam packed with weird and wonderful beasts.+ Horror writers tell us the spooky stories that send a shiver down their respective spines.+ Here’s why living on a red dwarf isn’t quite as crazy as it sounds.+ Kiki the sheep may not be able to walk, but she isn’t letting it get in the way of her getting around  (thanks Amy!)
 • I tried OpenAI’s new Atlas browser but I still don’t know what it’s for
   OpenAI rolled out a new web browser last week called Atlas . It comes with ChatGPT built in, along with an agent, so that you can browse, get direct answers, and have automated tasks performed on your behalf all at the same time . In some cases, the built-in chatbot was worse and dumber . The real user is the company collecting data about what Atlas is browsing websites, it's collecting data .
 • Stand Up for Research, Innovation, and Education
@@ -230,296 +358,9 @@ We can still have nice things
 
 
 A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)+  Middle aged men are getting into cliff-jumping. Should you?+ Pumpkin spice chocolate chip cookies sounds like a great idea to me.+ Christmas Island’s crabs are on the move! + Watch out if you’re taking the NY subway today: you might bump into these terrifying witches.
-• An AI app to measure pain is here
-  How are you feeling?
-
-
-
-I’m genuinely interested in the well-being of all my treasured Checkup readers, of course. But this week I’ve also been wondering how science and technology can help answer that question—especially when it comes to pain. In the latest issue of MIT Technology Review magazine, Deena Mousa describes how an AI-powered smartphone app is being used to assess how much pain a person is in.
-
-
-
-The app, and other tools like it, could help doctors and caregivers. They could be especially useful in the care of people who aren’t able to tell others how they are feeling.
-
-
-
-But they are far from perfect. And they open up all kinds of thorny questions about how we experience, communicate, and even treat pain.
-
-
-
-
-
-Pain can be notoriously difficult to describe, as almost everyone who has ever been asked to will know. At a recent medical visit, my doctor asked me to rank my pain on a scale from 1 to 10. I found it incredibly difficult to do. A 10, she said, meant “the worst pain imaginable,” which brought back unpleasant memories of having appendicitis.
-
-
-
-A short while before the problem that brought me in, I’d broken my toe in two places, which had hurt like a mother—but less than appendicitis. If appendicitis was a 10, breaking a toe was an 8, I figured. If that was the case, maybe my current pain was a 6. As a pain score, it didn’t sound as bad as I actually felt. I couldn’t help wondering if I might have given a higher score if my appendix were still intact. I wondered, too, how someone else with my medical issue might score their pain.
-
-
-
-In truth, we all experience pain in our own unique ways. Pain is subjective, and it is influenced by our past experiences, our moods, and our expectations. The way people describe their pain can vary tremendously, too.
-
-
-
-We’ve known this for ages. In the 1940s, the anesthesiologist Henry Beecher noted that wounded soldiers were much less likely to ask for pain relief than similarly injured people in civilian hospitals. Perhaps they were putting on a brave face, or maybe they just felt lucky to be alive, given their circumstances. We have no way of knowing how much pain they were really feeling.
-
-
-
-Given this messy picture, I can see the appeal of a simple test that can score pain and help medical professionals understand how best to treat their patients. That’s what is being offered by PainChek, the smartphone app Deena wrote about. The app works by assessing small facial movements, such as lip raises or brow pinches. A user is then required to fill a separate checklist to identify other signs of pain the patient might be displaying. It seems to work well, and it is already being used in hospitals and care settings.
-
-
-
-
-
-But the app is judged against subjective reports of pain. It might be useful for assessing the pain of people who can’t describe it themselves—perhaps because they have dementia, for example—but it won’t add much to assessments from people who can already communicate their pain levels.
-
-
-
-There are other complications. Say a test could spot that a person was experiencing pain. What can a doctor do with that information? Perhaps prescribe pain relief—but most of the pain-relieving drugs we have were designed to treat acute, short-term pain. If a person is grimacing from a chronic pain condition, the treatment options are more limited, says Stuart Derbyshire, a pain neuroscientist at the National University of Singapore.
-
-
-
-The last time I spoke to Derbyshire was back in 2010, when I covered work by researchers in London who were using brain scans to measure pain. That was 15 years ago. But pain-measuring brain scanners are yet to become a routine part of clinical care.
-
-
-
-That scoring system was also built on subjective pain reports. Those reports are, as Derbyshire puts it, “baked into the system.” It’s not ideal, but when it comes down to it, we must rely on these wobbly, malleable, and sometimes incoherent self-descriptions of pain. It’s the best we have.
-
-
-
-Derbyshire says he doesn’t think we’ll ever have a “pain-o-meter” that can tell you what a person is truly experiencing. “Subjective report is the gold standard, and I think it always will be,” he says.
-
-
-
-This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, sign up here.
-• What’s next for carbon removal?
-  MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here.In the early 2020s, a little-known aquaculture company in Portland, Maine, snagged more than $50 million by pitching a plan to harness nature to fight back against climate change. The company, Running Tide, said it could sink enough kelp to the seafloor to sequester a billion tons of carbon dioxide by this year, according to one of its early customers.
-
-
-
-Instead, the business shut down its operations last summer, marking the biggest bust to date in the nascent carbon removal sector.
-
-
-
-Its demise was the most obvious sign of growing troubles and dimming expectations for a space that has spawned hundreds of startups over the last few years. A handful of other companies have shuttered, downsized, or pivoted in recent months as well. Venture investments have flagged. And the collective industry hasn’t made a whole lot more progress toward that billion-ton benchmark.The hype phase is over and the sector is sliding into the turbulent business trough that follows, warns Robert Höglund, cofounder of CDR.fyi, a public-benefit corporation that provides data and analysis on the carbon removal industry.
-
-
-
-“We’re past the peak of expectations,” he says. “And with that, we could see a lot of companies go out of business, which is natural for any industry.”
-
-
-
-The open question is: If the carbon removal sector is heading into a painful if inevitable clearing-out cycle, where will it go from there?&nbsp;
-
-
-
-The odd quirk of carbon removal is that it never made a lot of sense as a business proposition: It’s an atmospheric cleanup job, necessary for the collective societal good of curbing climate change. But it doesn’t produce a service or product that any individual or organization strictly needs—or is especially eager to pay for.
-
-
-
-To date, a number of businesses have voluntarily agreed to buy tons of carbon dioxide that companies intend to eventually suck out of the air. But whether they’re motivated by sincere climate concerns or pressures from investors, employees, or customers, corporate do-goodism will only scale any industry so far.&nbsp;
-
-
-
-Most observers argue that whether carbon removal continues to bobble along or transforms into something big enough to make a dent in climate change will depend largely on whether governments around the world decide to pay for a whole, whole lot of it—or force polluters to.&nbsp;
-
-
-
-“Private-sector purchases will never get us there,” says Erin Burns, executive director of Carbon180, a nonprofit that advocates for the removal and reuse of carbon dioxide. “We need policy; it has to be policy.”
-
-
-
-What’s the problem?
-
-
-
-The carbon removal sector began to scale up in the early part of this decade, as increasingly grave climate studies revealed the need to dramatically cut emissions and suck down vast amounts of carbon dioxide to keep global warming in check.
-
-
-
-Specifically, nations may have to continually remove as much as 11 billion tons of carbon dioxide per year by around midcentury to have a solid chance of keeping the planet from warming past 2 °C over preindustrial levels, according to a UN climate panel report in 2022.
-
-
-
-A number of startups sprang up to begin developing the technology and building the infrastructure that would be needed, trying out a variety of approaches like sinking seaweed or building carbon-dioxide-sucking factories.
-
-
-
-
-
-And they soon attracted customers. Companies including Stripe, Google, Shopify, Microsoft, and others began agreeing to pre-purchase tons of carbon removal, hoping to stand up the nascent industry and help offset their own climate emissions. Venture investments also flooded into the space, peaking in 2023 at nearly $1 billion, according to data provided by PitchBook.
-
-
-
-From early on, players in the emerging sector sought to draw a sharp distinction between conventional carbon offset projects, which studies have shown frequently exaggerate climate benefits, and “durable” carbon removal that could be relied upon to suck down and store away the greenhouse gas for decades to centuries. There’s certainly a big difference in the price: While buying carbon offsets through projects that promise to preserve forests or plant trees might cost a few dollars per ton, a ton of carbon removal can run hundreds to thousands of dollars, depending on the approach.&nbsp;
-
-
-
-That high price, however, brings big challenges. Removing 10 billion tons of carbon dioxide a year at, say, $300 a ton adds up to a global price tag of $3 trillion—a year.&nbsp;
-
-
-
-Which brings us back to the fundamental question: Who should or would foot the bill to develop and operate all the factories, pipelines, and wells needed to capture, move, and bury billions upon billions of tons of carbon dioxide?
-
-
-
-The state of the market
-
-
-
-The market is still growing, as companies voluntarily purchase tons of carbon removal to make strides toward their climate goals. In fact, sales reached an all-time high in the second quarter of this year, mostly thanks to several massive purchases by Microsoft.
-
-
-
-
-
-But industry sources fear that demand isn’t growing fast enough to support a significant share of the startups that have formed or even the projects being built, undermining the momentum required to scale the sector up to the size needed by midcentury.
-
-
-
-To date, all those hundreds of companies that have spun up in recent years have disclosed deals to sell some 38 million tons of carbon dioxide pulled from the air, according to CDR.fyi. That’s roughly the amount the US pumps out in energy-related emissions every three days.&nbsp;
-
-
-
-And they’ve only delivered around 940,000 tons of carbon removal. The US emits that much carbon dioxide in less than two hours. (Not every transaction is publicly announced or revealed to CDR.fyi, so the actual figures could run a bit higher.)
-
-
-
-Another concern is that the same handful of big players continue to account for the vast majority of the overall purchases, leaving the health and direction of the market dependent on their whims and fortunes.&nbsp;
-
-
-
-Most glaringly, Microsoft has agreed to buy 80% of all the carbon removal purchased to date, according to&nbsp; CDR.fyi. The second-biggest buyer is Frontier, a coalition of companies that includes Google, Meta, Stripe, and Shopify, which has committed to spend $1 billion.
-
-
-
-If you strip out those two buyers, the market shrinks from 16 million tons under contract during the first half of this year to just 1.2 million, according to data provided to MIT Technology Review by CDR.fyi.&nbsp;
-
-
-
-Signs of trouble
-
-
-
-Meanwhile, the investor appetite for carbon removal is cooling. For the 12-month period ending in the second quarter of 2025, venture capital investments in the sector fell more than 13% from the same period last year, according to data provided by PitchBook. That tightening funding will make it harder and harder for companies that aren’t bringing in revenue to stay afloat.
-
-
-
-Other companies that have already shut down include the carbon removal marketplace Nori, the direct air capture company Noya and Alkali Earth, which was attempting to use industrial by-products to tie up carbon dioxide.
-
-
-
-Still other businesses are struggling. Climeworks, one of the first companies to build direct-air-capture (DAC) factories, announced it was laying off 10% of its staff in May, as it grapples with challenges on several fronts.
-
-
-
-The company’s plans to collaborate on the development of a major facility in the US have been at least delayed as the Trump administration has held back tens of millions of dollars in funding granted in 2023 under the Department of Energy’s Regional Direct Air Capture Hubs program. It now appears the government could terminate the funding altogether, along with perhaps tens of billions of dollars’ worth of additional grants previously awarded for a variety of other US carbon removal and climate tech projects.
-
-
-
-“Market rumors have surfaced, and Climeworks is prepared for all scenarios,” Christoph Gebald, one of the company’s co-CEOs, said in a previous statement to MIT Technology Review. “The need for DAC is growing as the world falls short of its climate goals and we’re working to achieve the gigaton capacity that will be needed.”
-
-
-
-But purchases from direct-air-capture projects fell nearly 16% last year and account for just 8% of all carbon removal transactions to date. Buyers are increasingly looking to categories that promise to deliver tons faster and for less money, notably including burying biochar or installing carbon capture equipment on bioenergy plants. (Read more in my recent story on that method of carbon removal, known as BECCS, here.)
-
-
-
-CDR.fyi recently described the climate for direct air capture in grim terms: “The sector has grown rapidly, but the honeymoon is over: Investment and sales are falling, while deployments are delayed across almost every company.”“Most DAC companies,” the organization added, “will fold or be acquired.”
-
-
-
-What’s next?
-
-
-
-In the end, most observers believe carbon removal isn’t really going to take off unless governments bring their resources and regulations to bear. That could mean making direct purchases, subsidizing these sectors, or getting polluters to pay the costs to do so—for instance, by folding carbon removal into market-based emissions reductions mechanisms like cap-and-trade systems.&nbsp;
-
-
-
-More government support does appear to be on the way. Notably, the European Commission recently proposed allowing “domestic carbon removal” within its EU Emissions Trading System after 2030, integrating the sector into one of the largest cap-and-trade programs. The system forces power plants and other polluters in member countries to increasingly cut their emissions or pay for them over time, as the cap on pollution tightens and the price on carbon rises.&nbsp;
-
-
-
-That could create incentives for more European companies to pay direct-air-capture or bioenergy facilities to draw down carbon dioxide as a means of helping them meet their climate obligations.
-
-
-
-There are also indications that the International Civil Aviation Organization, a UN organization that establishes standards for the aviation industry, is considering incorporating carbon removal into its market-based mechanism for reducing the sector’s emissions. That might take several forms, including allowing airlines to purchase carbon removal to offset their use of traditional jet fuel or requiring the use of carbon dioxide obtained through direct air capture in some share of sustainable aviation fuels.
-
-
-
-Meanwhile, Canada has committed to spend $10 million on carbon removal and is developing a protocol to allow direct air capture in its national offsets program. And Japan will begin accepting several categories of carbon removal in its emissions trading system.&nbsp;
-
-
-
-Despite the Trump administration’s efforts to claw back funding for the development of carbon-sucking projects, the US does continue to subsidize storage of carbon dioxide, whether it comes from power plants, ethanol refineries, direct-air-capture plants, or other facilities. The so-called 45Q tax credit, which is worth up to $180 a ton, was among the few forms of government support for climate-tech-related sectors that survived in the 2025 budget reconciliation bill. In fact, the subsidies for putting carbon dioxide to other uses increased.
-
-
-
-Even in the current US political climate, Burns is hopeful that local or federal legislators will continue to enact policies that support specific categories of carbon removal in the regions where they make the most sense, because the projects can provide economic growth and jobs as well as climate benefits.
-
-
-
-“I actually think there are lots of models for what carbon removal policy can look like that aren’t just things like tax incentives,” she says. “And I think that this particular political moment gives us the opportunity in a unique way to start to look at what those regionally specific and pathway specific policies look like.”
-
-
-
-The dangers ahead
-
-
-
-But even if more nations do provide the money or enact the laws necessary to drive the business of durable carbon renewal forward, there are mounting concerns that a sector conceived as an alternative to dubious offset markets could increasingly come to replicate their problems.
-
-
-
-Various incentives are pulling in that direction.
-
-
-
-Financial pressures are building on suppliers to deliver tons of carbon removal. Corporate buyers are looking for the fastest and most affordable way of hitting their climate goals. And the organizations that set standards and accredit carbon removal projects often earn more money as the volume of purchases rises, creating clear conflicts of interest.
-
-
-
-Some of the same carbon registries that have long signed off on carbon offset projects have begun creating standards or issuing credits for various forms of carbon removal, including Verra and Gold Standard.
-
-
-
-
-
-“Reliable assurance that a project’s declared ton of carbon savings equates to a real ton of emissions removed, reduced, or avoided is crucial,” Cynthia Giles, a senior EPA advisor under President Biden, and Cary Coglianese, a law professor at the University of Pennsylvania, wrote in a recent editorial in Science. “Yet extensive research from many contexts shows that auditors selected and paid by audited organizations often produce results skewed toward those entities’ interests.”
-
-
-
-Noah McQueen, the director of science and innovation at Carbon180, has stressed that the industry must strive to counter the mounting credibility risks, noting in a recent LinkedIn post: “Growth matters, but growth without integrity isn’t growth at all.”
-
-
-
-In an interview, McQueen said that heading off the problem will require developing and enforcing standards to truly ensure that carbon removal projects deliver the climate benefits promised. McQueen added that to gain trust, the industry needs to earn buy-in from the communities in which these projects are built and avoid the environmental and health impacts that power plants and heavy industry have historically inflicted on disadvantaged communities.
-
-
-
-Getting it right will require governments to take a larger role in the sector than just subsidizing it, argues David Ho, a professor at the University of Hawaiʻi at Mānoa who focuses&nbsp; on ocean-based carbon removal.
-
-
-
-He says there should be a massive, multinational research drive to determine the most effective ways of mopping up the atmosphere with minimal environmental or social harm, likening it to a Manhattan Project (minus the whole nuclear bomb bit).
-
-
-
-“If we’re serious about doing this, then let’s make it a government effort,” he says, “so that you can try out all the things, determine what works and what doesn’t, and you don’t have to please your VCs or concentrate on developing [intellectual property] so you can sell yourself to a fossil-fuel company.”
-
-
-
-Ho adds that there’s a moral imperative for the world’s historically biggest climate polluters to build and pay for the carbon-sucking and storage infrastructure required to draw down billions of tons of greenhouse gas. That’s because the world’s poorest, hottest nations, which have contributed the least to climate change, will nevertheless face the greatest dangers from intensifying heat waves, droughts, famines, and sea-level rise.
-
-
-
-“It should be seen as waste management for the waste we’re going to dump on the Global South,” he says, “because they’re the people who will suffer the most from climate change.”Correction (October 24): An earlier version of this article referred to Noya as a carbon removal marketplace. It was a direct air capture company.
 
 🔒 Cybersecurity & Privacy
-• Canada Fines Cybercrime Friendly Cryptomus $176M
-  Financial regulators in Canada this week levied $176 million in fines against Cryptomus, a digital payments platform that supports dozens of Russian cryptocurrency exchanges and websites hawking cybercrime services . The penalties for violating Canada&#8217;s anti money-laundering laws come ten months after KrebsOnSecurity noted the Vancouver address was home to dozens of foreign currency dealers, money transfer businesses, and cryptocurrency exchanges .
+No updates.
 
 🎓 University AI
 No updates.
@@ -1029,222 +870,5 @@ In this post, you saw how to include responsible AI considerations in a generati
  
 About the author 
 Randy DeFauw is a Sr. Principal Solutions Architect at AWS. He has over 20 years of experience in technology, starting with his university work on autonomous vehicles. He has worked with and for customers ranging from startups to Fortune 50 companies, launching Big Data and Machine Learning applications. He holds an MSEE and an MBA, serves as a board advisor to K-12 STEM education initiatives, and has spoken at leading conferences including Strata and GlueCon. He is the co-author of the books SageMaker Best Practices and Generative AI Cloud Solutions. Randy currently acts as a technical advisor to AWS’ director of technology in North America.
-• Build scalable creative solutions for product teams with Amazon Bedrock
-  Creative teams and product developers are constantly seeking ways to streamline their workflows and reduce time to market while maintaining quality and brand consistency. This post demonstrates how to use AWS services, particularly Amazon Bedrock, to transform your creative processes through generative AI. You can implement a secure, scalable solution that accelerates your creative workflow, such as managing product launches, creating marketing campaigns, or developing multimedia content. 
-This post examines how product teams can deploy a generative AI application that enables rapid content iteration across formats. The solution addresses comprehensive needs—from product descriptions and marketing copy to visual concepts and video content for social media. By integrating with brand guidelines and compliance requirements, teams can significantly reduce time to market while maintaining creative quality and consistency. 
-Solution overview 
-Consider a product development team at an ecommerce company creating multimedia marketing campaigns for their seasonal product launches. Their traditional workflow has bottlenecks due to lengthy revisions, manual compliance reviews, and complex coordination across creative teams. The team is exploring solutions to rapidly iterate through creative concepts, generate multiple variations of marketing materials. 
-By using Amazon Bedrock and Amazon Nova models, the team can transform its creative process. Amazon Nova models enable the generation of product descriptions and marketing copy. The team creates concept visuals and product mockups with Amazon Nova Canvas, and uses Amazon Nova Reel to produce engaging video content for social media presence. Amazon Bedrock Guardrails can help the team maintain consistent brand guidelines with configurable safeguards and governance for its generative AI applications at scale. 
-The team can further enhance its brand consistency with Amazon Bedrock Knowledge Bases, which can serve as a centralized repository for brand style guides, visual identity documentation, and successful campaign materials. This comprehensive knowledge base makes sure generated content is informed by the organization’s historical success and established brand standards. Product specifications, market research, and approved messaging are seamlessly integrated into the creative process, enabling more relevant and effective content generation. 
-With this solution, the team can simultaneously develop materials for multiple channels while maintaining consistent brand voice across their content. Creative professionals can now focus their energy on strategic decisions rather than repetitive tasks, leading to higher-quality outputs and improved team satisfaction. 
-The following sample application creates a scalable environment that streamlines the creative workflow. It helps product teams move seamlessly from initial concept to market-ready materials with automated systems handling compliance and consistency checks throughout the journey. 
- 
-The solution’s workflow begins with the application engineer’s setup: 
- 
- Creative assets and brand guidelines are securely stored in encrypted Amazon Simple Storage Service (Amazon S3) buckets. This content is then indexed in Amazon OpenSearch Service to create a comprehensive knowledge base. 
- Guardrails are configured to enforce brand standards and compliance requirements. 
- 
-The user experience flows from authentication to content delivery: 
- 
- Creative team members access the interface through a secure portal hosted in Amazon S3. 
- Authentication is managed through Amazon Cognito. 
- Team members’ submitted creative briefs or requirements are routed to Amazon API Gateway. 
- An AWS Lambda function queries relevant brand guidelines and assets from the knowledge base. 
- The Lambda function sends the contextual information from the knowledge base to Amazon Bedrock, along with the user’s creative briefs. 
- The prompt and generated response are filtered through Amazon Bedrock Guardrails. 
- Amazon Polly converts text into lifelike speech, generating audio streams that can be played immediately and stored in S3 buckets for later use. 
- The models’ generated content is delivered to the user. 
- Chat history stored in Amazon DynamoDB. 
- 
-Prerequisites 
-The following prerequisites are required before continuing: 
- 
- An AWS account 
- An AWS Identity and Access Management (IAM) role with permission to manage AWS Marketplace subscriptions and AWS services 
- AWS services: 
-   
-   AWS CloudFormation 
-   Amazon API Gateway 
-   AWS CloudFormation 
-   Amazon Cognito 
-   Amazon DynamoDB 
-   Amazon Polly 
-   Amazon S3 
-   Amazon Virtual Private Cloud (Amazon VPC) with two public subnets 
-    
- Amazon Bedrock models enabled: 
-   
-   Amazon Nova Canvas 
-   Amazon Nova Reels 
-   Amazon Nova Pro 
-   Amazon Nova Lite 
-    
- Anthropic models (optional): 
-   
-   Anthropic’s Claude 3 Sonnet 
-    
- 
-Select the Models to Use in Amazon Bedrock 
-When working with Amazon Bedrock for generative AI applications, one of the ﬁrst steps is selecting which foundation models you want to access. Amazon Bedrock oﬀers a variety of models from diﬀerent providers, and you’ll need to explicitly enable the ones we plan to use in this blog. 
- 
- In the Amazon Bedrock console, find and select Model access from the navigation menu on the left. 
- Click the Modify model access button to begin selecting your models. 
- Select the following Amazon models: 
-   
-   Nova Canvas 
-   Nova Premier Cross-region inference Nova Pro 
-   Titan Embeddings G1 – Text 
-   Titan Text Embeddings V2 
-    
- Select the Anthropic Claude 3.7 Sonnet model. 
- Choose Next. 
- Review your selections carefully on the summary page, then choose&nbsp;Submit to confirm your choices. 
- 
-Set up the CloudFormation template 
-We use a use a CloudFormation template to deploy all necessary solution resources. Follow these steps to prepare your installation files: 
- 
- Clone the GitHub repository: 
-   
-   git clone https://github.com/aws-samples/aws-service-catalog-reference-architectures.git
- 
-    
- Navigate to the solution directory: 
-   
-   cd aws-service-catalog-reference-architectures/blog_content/bedrock_genai
- 
-   (Make note of this location as you’ll need it in the following steps) 
- Sign in to your AWS account with administrator privileges to ensure you can create all required AWS resources. 
- Create an S3 bucket in the AWS Region where you plan to deploy this solution. Remember the bucket name for later steps. 
- Upload the entire content folder to your newly created S3 bucket. 
- Navigate to the content/genairacer/src folder in your S3 bucket. 
- Copy the URL for the content/genairacer/src/genairacer_setup.json file. You’ll need this URL for the deployment phase. 
- 
-Deploy the CloudFormation template 
-Complete the following steps to use the provided CloudFormation template to automatically create and configure the application components within your AWS account: 
- 
- On the CloudFormation console, choose Stacks in navigation pane. 
- Choose Create stack and select with new resources (standard). 
- On the Create stack page, under Specify template, for Object URL, enter the URL copied from the previous step, then choose Next. 
- On the Specify stack details page, enter a stack name. 
- Under Parameters, choose Next. 
- On the Configure stack options page, choose Next. 
- On the Review page, select the acknowledgement check boxes and choose Submit. 
- 
-Sign in to the Amazon Bedrock generative AI application 
-Accessing your newly deployed application is simple and straightforward. Follow these steps to log in for the ﬁrst time and start exploring the Amazon Bedrock generative AI interface. 
- 
- On the CloudFormation console, select the stack you deployed and select the Outputs tab. 
- Find the FrontendURL value and open the provided link. 
- When the sign-in screen displays, enter the username you speciﬁed during the CloudFormation deployment process. 
- Enter the temporary password that was sent to the email address you provided during setup. 
- After you sign in, follow the prompts to change your password. 
- Choose Send to conﬁrm your new credentials. 
- 
-Once authenticated, you’ll be directed to the main Amazon Bedrock generative AI dashboard, where you can begin exploring all the features and capabilities of your new application. 
-Using the application 
-Now that the application has been deployed, you can use it for text, image, and audio management. In the following sections, we explore some sample use cases. 
-Text generation 
-The creative team at the ecommerce company wants to draft compelling product descriptions. By inputting the basic product features and desired tone, the LLM generates engaging and persuasive text that highlights the unique selling points of each item, making sure the online store’s product pages are both informative and captivating for potential customers. 
-To use the text generation feature and perform actions with the supported text models using Amazon Bedrock, follow these steps: 
- 
- On the AWS CloudFormation console, go to the stack you created. 
- Choose the Outputs tab. 
- Choose the link for FrontendURL. 
- Log in using the credentials sent to the email you provided during the stack deployment process. 
- On the Text tab, enter your desired prompt in the input field. 
- Choose the specific model ID you want Amazon Bedrock to use from the available options. 
- Choose Run. 
- 
-Repeat this process for any additional prompts you want to process. 
- 
-Image generation 
-The creative team can now conceptualize and produce stunning product images. By describing the desired scene, style, and product placement, they can enhance the online shopping experience and increase the likelihood of customer engagement and purchase.To use the image generation feature, follow these steps: 
- 
- In the UI, choose the Images tab. 
- Enter your desired text-to-image prompt in the input field. 
- Choose the specific model ID you want Amazon Bedrock to utilize from the available options. 
- Optionally, choose the desired style of the image from the provided style options. 
- Choose Generate Image. 
- 
-Repeat this process for any additional prompts you want to process. 
-  
-Audio generation 
-The ecommerce company’s creative team wants to develop audio content for marketing campaigns. By specifying the message, brand voice, target demographic, and audio components, they can compose scripts and generate voiceovers for promotional videos and audio ads, resulting in consistent and professional audio materials that effectively convey the brand’s message and values.To use the audio generation feature, follow these steps: 
- 
- In the UI, choose the Audio tab. 
- Enter your desired prompt in the input field. 
- Choose Run. An audio file will appear and start to play. 
- Choose the file (right-click) and choose Save Audio As to save the file. 
- 
- 
-Amazon Bedrock Knowledge Bases 
-With Amazon Bedrock Knowledge Bases, you can provide foundation models (FMs) and agents with contextual information from your organization’s private data sources, to deliver more relevant, accurate, and tailored responses. It is a powerful and user-friendly implementation of the Retrieval Augmented Generation (RAG) approach. The application showcased in this post uses the Amazon Bedrock components in the backend, simplifying the process to merely uploading a document using the application’s GUI, and then entering a prompt that will query the documents you upload. 
-For our example use case, the creative team now needs to research information about internal processes and customer data, which are typically stored in documentation. When this documentation is stored in the knowledge base, they can query it on the KnowledgeBase tab. The queries executed on this tab will search the documents for the specific information they are looking for. 
-Manage documents 
-The documents you have uploaded will be listed on the KnowledgeBase tab. To add more, complete the following steps: 
- 
- In the UI, choose the KnowledgeBase tab. 
- Choose Manage Document. 
- Choose Browse, then choose a file. 
- Choose Upload. 
- 
-You will see a message confirming that the file was uploaded successfully.The Amazon Bedrock Knowledge Bases syncing process is triggered when the file is uploaded. The application will be ready for queries against the new document within a minute. 
-Query the knowledge base 
-To query the knowledge base, complete the following steps: 
- 
- In the UI, choose the KnowledgeBase tab. 
- Enter your query in the input field. 
- For Model, choose the model you want Amazon Bedrock to use for performing the query. 
- Choose Run. 
- 
-The generated text response from Amazon Bedrock will appear. 
-Amazon Bedrock guardrails 
-You can use the Guardrails tab to manage your guardrails, and create and remove guardrails as needed. Guardrails are used on the Text tab when performing queries. 
-Create a guardrail 
-Complete the following steps to create a new guardrail: 
- 
- In the UI, choose the Guardrails tab. 
- Enter the required fields or choose the appropriate options. 
- Choose the type of guardrail under Content Filter Type. 
- Choose Create Guardrail. 
- 
-The newly created guardrail will appear in the right pane. 
-Delete a guardrail 
-Complete the following steps to delete a guardrail: 
- 
- In the UI, choose the Guardrails tab. 
- Choose the guardrail you want to delete in the right pane. 
- Choose the X icon next to the guardrail. 
- 
-By following these steps, you can effectively manage your guardrails, for a seamless and controlled experience when performing queries in the Text tab. 
-Use guardrails 
-The creative team requires access to information about internal processes and customer data, which are securely stored in documentation within the knowledge base. To enforce compliance with personally identifiable information (PII) guardrails, queries executed using the Text tab are designed to search documents for specific, non-sensitive information while preventing the exposure or inclusion of PII in both prompts and answers. This approach helps the team retrieve necessary data without compromising privacy or security standards. 
-To use the guardrails feature, complete the following steps: 
- 
- In the UI, choose the Text tab. 
- Enter your prompt in the input field. 
- For Model ID, choose the specific model ID you want Amazon Bedrock to use. 
- Turn on Guardrails. 
- For Select Filter, choose the guardrail you want to use. 
- Choose Run. 
- 
-The generated text from Amazon Bedrock will appear within a few seconds. Repeat this process for any additional prompts you want to process. 
- 
-Clean up 
-To avoid incurring costs, delete resources that are no longer needed. If you no longer need the solution, complete the following steps to delete all resources you created from your AWS account: 
- 
- On the AWS CloudFormation console, choose Stacks in the navigation pane. 
- Select the stack you deployed and choose Delete. 
- 
-Conclusion 
-By combining Amazon Bedrock, Knowledge Bases, and Guardrails with Cognito, API Gateway, and Lambda, organizations can give employees powerful AI tools for text, image, and data work. This serverless approach integrates generative AI into daily workflows securely and scalably, boosting productivity and innovation across teams.. 
-For more information about generative AI and Amazon Bedrock, refer to the Amazon Bedrock category in the AWS News Blog. 
- 
-About the authors 
- Kenneth Walsh is a Senior AI Acceleration Architect based in New York who transforms AWS builder productivity through innovative generative AI automation tools. With a strategic focus on standardized frameworks, Kenneth accelerates partner adoption of generative AI technologies at scale. As a trusted advisor, he guides customers through their GenAI journeys with both technical expertise and genuine passion. Outside the world of artiﬁcial intelligence, Kenneth enjoys crafting culinary creations, immersing himself in audiobooks, and cherishing quality time with his family and dog. 
-Wanjiko Kahara is a New York–based Solutions Architect with a interest area in generative AI. Wanjiko is excited about learning new technology to help her customers be successful. Outside of work, Wanjiko loves to travel, explore the outdoors, and read. 
-Greg Medard is a Solutions Architect with AWS. Greg guides clients in architecting, designing, and developing cloud-optimized infrastructure solutions. His drive lies in fostering cultural shifts by embracing DevOps principles that overcome organizational hurdles. Beyond work, he cherishes quality time with loved ones, tinkering with the latest tech gadgets, or embarking on adventures to discover new destinations and culinary delights. 
-Bezuayehu Wate is a Specialist Solutions Architect at AWS, with a focus on big data analytics. Passionate about helping customers design, build, and modernize their cloud-based analytics solutions, she ﬁnds joy in learning and exploring new technologies. Outside of work, Bezuayehu enjoys quality time with family and traveling. 
-Nicole Murray is a generative AI Senior Solutions Architect at AWS, specializing in MLOps and Cloud Operations for AI startups. With 17 years of experience—including helping government agencies design secure, compliant applications on AWS—she now partners with startup founders to build and scale innovative AI/ML solutions. Nicole helps teams navigate secure cloud management, technical strategy, and regulatory best practices in the generative AI space, and is also a passionate speaker and educator known for making complex cloud and AI topics accessible.
 
 ⸻
