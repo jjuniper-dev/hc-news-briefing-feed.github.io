@@ -1,17 +1,17 @@
-✅ Morning News Briefing – October 29, 2025 10:47
+✅ Morning News Briefing – October 30, 2025 10:45
 
-📅 Date: 2025-10-29 10:47
+📅 Date: 2025-10-30 10:45
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  -3.9°C
-  Temperature: -3.9&deg;C Pressure / Tendency: 102.7 kPa falling Humidity: 97 % Wind Chill: -5 . Dewpoint: -4.3&deg:C Wind: WNW 2 km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Wednesday 29 October 2025 temperature: -
-• Wednesday: Sunny. High 11.
-  Fog patches dissipating this morning, with wind chill chill minus 6 this morning . High 11.5 degrees Celsius . Fog patches are dissipating today, with winds up to 15 km/h. UV index 3 or moderate. High 11 degrees Celsius, with low wind chill of minus 6 degrees Celsius in the morning . Forecast issued 5:00 AM EDT Wednesday 29 October 2025, with
-• Wednesday night: A few clouds. Low minus 2.
-  A few clouds. Wind up to 15 km/h. Wind chill chill minus 6 overnight. Low minus 2.50°F . Wind chill will drop to minus 2°F overnight. Wind chiller minus 6°F tomorrow morning. Low to minus 5°F in the morning's forecast. Forecast issued 5:00 AM EDT Wednesday 29 October 2025. Weather forecasters predict
+• RAINFALL WARNING, Pembroke
+  Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions . People in or around this area are advised to take necessary precautions . Weather conditions are expected to be adverse in the area for the duration of this period . People should be aware of the weather conditions at this time of the year 2025. Weather conditions should be expected to worsen in the region
+• Current Conditions:  -2.5°C
+  Temperature: -2.5&deg;C Pressure / Tendency: 101.8 kPa falling Humidity: 97 % Humidity : 97 % Dewpoint: 2.9&deg:C Wind: SSW calm km/h . Air Quality Health Index: n/a . Pembroke 6:00 AM EDT Thursday 30 October 2025 . Weather: Pem
+• Thursday: Rain. High 6.
+  Mainly cloudy. 40 percent chance of showers late this morning . Rain beginning early this afternoon . High 6.5 mm. UV index 2 or low . Rainfall expected to fall to 5 mm. Rainfall could fall to 6mm. Rain expected to drop to 5mm in the coming days of the year. Rain likely to fall as low as 5mm. Chance of rain in
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Trump says he's confident of a deal ahead of Xi meeting
-  President Trump has confidently predicted striking a deal with China's leader, who he's set to meet Thursday . President Trump is scheduled to meet with the Chinese leader in Beijing on Thursday . Trump has said he will make a good deal with President Xi Jinping, who is expected to make a bad deal with the U.S. President Xi Xi Jinping is a strong ally of China's president .
-• An Alzheimer's pill appears to protect some in a high-risk population
-  A new study is reviving hope that a twice-daily pill can slow down Alzheimer's in people whose genes put them at high risk for the disease . The pill could be used to slow down the disease in people who have genes at risk for Alzheimer's . The drug could also be used in people with genes at high levels of Alzheimer's risk . The study is being carried out in
-• This furloughed IRS lawyer is living out his dream of being a hot dog vendor
-  Isaac Stein is fulfilling a childhood dream and passion project as a hot dog vendor . Stein is on furlough from his job at the Naval Reserve in San Diego, California . Stein has a passion project to fulfill his childhood dream of selling hot dogs at hot dog vendors . Stein says he is proud to be a Navy SEAL SEAL SEAL Team One in Washington, D.C., who is
-• Schools close and island life is under threat as Greece reckons with low birth rates
-  In Greece, fewer babies means difficult decisions, especially on remote islands . Low birth rates are forcing some schools to close and raising questions about the future of island culture . Some schools in remote islands are closing because of low birth rates, raising concerns about the island's future of culture . Schools in remote Greek islands have been forced to close because of the population's low birth rate, raising questions
-• Camouflaging cars and swapping license plates: How agents make immigration arrests
-  Immigration enforcement officers are sometimes forgoing license plates or otherwise masking their cars while apprehending migrants across the U.S. They sometimes mask their cars to avoid detection of illegal immigrants . Officers are sometimes not wearing license plates, masks or masks when they are apprehending illegal immigrants in the United States . They are often forgoing plates or masks in their vehicles to apprehend illegal immigrants across the
+• Trump rates meeting with China's Xi '12 out of 10', lowers tariffs
+  President Trump said he and Chinese leader Xi Jinping "agreed to almost everything" in their nearly two-hour meeting in South Korea . Trump said the meeting was "friendly" in which he and Xi Jinping agreed to "almost everything" The two leaders met for nearly two hours in Seoul, South Korea, which Trump said was friendly and friendly . Trump: "Almost everything" was agreed
+• Trump suggests the U.S. will resume testing nuclear weapons
+  President Donald Trump appeared to suggest the U.S. will resume testing nuclear weapons for the first time in three decades . He said it would be on an "equal basis" with Russia and China . Trump said the tests would take place on an equal basis with the two countries involved in the nuclear arms tests . The tests will take place in the United States and Russia, he said .
+• Why car insurance costs have soared (and what drivers are doing about it)
+  Car insurance premiums have increased at twice the rate of overall inflation . They've stabilized, at least for now, but more than half of Americans say the costs are painful . More than half say they're painful, and more say it's hard to pay for car insurance . The cost of car insurance has stabilized, but it's still painful for Americans to have to pay it out of pocket
+• Trump keeps flirting with the idea of a third term. That would be unconstitutional
+  A recent interview with Steve Bannon reignited chatter about whether President Trump would try to run in 2028, despite the 22nd Amendment . Steve Bannon's interview with President Trump reignited speculation about whether he would run for President Trump in the 2028 election . The 22nd amendment was passed by the Constitution in 1996, but the amendment was repealed in 1998 . President Trump is expected to run
+• What to watch for during Casey Means' confirmation hearing for surgeon general
+  While she completed medical school, she never finished residency in residency . She is likely to face tough questions from senators about her qualifications and views on vaccines . She will also likely face questions about her medical qualifications and her views on vaccine vaccines . The vaccine debate is set to be debated by the US Senate on Tuesday night at 10 p.m. ET on the Senate floor of the chamber .
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Bolt Graphics unveils Zeus GPU built on RISC-V and path tracing tech
-  Bolt Graphics's Zeus graphics accelerator hardware is unlike any conventional GPUs . Onboard cores use a Linux stack based on Ubuntu Ubuntu Summit 25.10 . These are very unlike conventional GPUs – or indeed anything else . Bolt Graphics' Zeus accelerator hardware will be on sale at the end of the year at a price of $99,000 (£100,000) Bolt Graphics has a range of processors
-• UK government on the lookout for bargain-priced CTO
-  UK government is on the hunt for a new CTO after incumbent David Knott announced his departure, citing family reasons . UK government Dangles £100K for someone to fix £23B tech mess . UK CTO is seeking a new leader after incumbent Knott said he was leaving the UK for 'family reasons' UK government on hunt for new CEO after Knott's departure .
-• Zen Internet loses unfair dismissal appeal case with former CEO
-  Judges agree broadband biz didn't follow its own procedures when booting boss Paul Stobart . UK ISP Zen Internet loses appeal against ruling that it unfairly dismissed former CEO Paul Stoart . Zen Internet has lost an appeal against a ruling that the company unfairly dismissed Stoar . The broadband firm has lost its appeal against the ruling against the decision . The decision was overturned by a
-• 9 in 10 Exchange servers in Germany still running out-of-support software
-  92 percent of the nation's Exchange boxes are still running out-of-support software . Microsoft axed versions 2016 and 2019 versions of Exchange boxes . BISI urges organizations to upgrade or risk total network compromise . Germany's infosec office (BSI) is sounding the alarm after finding that 92% of the country's Exchange Boxes are running out of support software . B
-• Starlink tells the world it has over 150 sextillion IPv6 addresses
-  Internetworking wonks have investigated Starlink’s use of IP addresses and found some interesting facts . But the data describing where they're used - which is used - isn't very useful - isn’t very useful . Starlink's IP addresses help to fight crime - but the data is not useful to the public . The data is based on the IP addresses used by Star
+• France jacks into the Matrix for state messaging – and pays too
+  Decentralized communications network Matrix is hoping to be the beneficiary as European public and private sector organizations ponder alternatives to the messaging status quo . Governments eye comms alternatives as sovereignty worries mount . Matrix hopes to be one of the beneficiaries as European governments consider alternatives to messaging system . Matrix is based on a decentralised communications network in the U.S., Europe's largest-ever network .
+• There's mushroom for improvement in fungal computing
+  Ohio State boffins coax shiitake and button varieties into behaving like memristors . Early tests indicate edible mushrooms can function as organic memory devices . But significant challenges remain before the lab experiment can be turned into something practical . Ohio State University researchers claim early tests have shown edible mushrooms are capable of turning them into organic memories . They say they can be used in the lab to
+• DNS downing clouds is boring: IBM Cloud is experiencing a quantum computer outage
+  IBM has one-upped AWS and Microsoft by reporting an outage in one of its cloudy quantum computers . We're guessing that turning it off and on again won’t help given qubits can be on and off at the same time . We’re not sure how long the outage will affect IBM’s quantum computers, which can be turned off and off again .
+• Samsung picks fights with Google and Qualcomm
+  Samsung has signaled it intends to take on Google and Qualcomm and Qualcomm . Brings its largely unloved browser to PCs and promises to make its Exynos SoCs more competitive . Samsung's browser browser will be available in tablets and smartphones, but not tablets, tablets, phones and tablets will also be launched this year . Samsung also plans to launch a tablet and smartphone line-up with
+• AI is making Google and Meta even stronger and richer
+  Pundits predicted it would be bad news for Google and Meta as nimble AI-powered rivals found new ways to capture netizens’ attention and monetize it . So they’re increasing spending on infrastructure to keep it that way . Google says it’s not going to be a game changer for the likes of Google or Meta as rivals find ways to monet
 
 🏥 Public Health
 No updates.
 
 🔬 Science
-• Cost effectiveness analysis of low dose computed tomography lung cancer screening in Chinese population
+• Single antivenom protects against 17 different snakebites
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• This ‘minor’ bird flu strain has potential to spark human pandemic
+• Author Correction: Characteristics of pediatric SARS-CoV-2 infection and potential evidence for persistent fecal viral shedding
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Evaluating voluntary care seeking effects on COVID-19 outcomes and health system costs
+• Academic freedom and meaningful international cooperation are needed to safeguard good health and well-being globally
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Applying machine learning to predict quality ANC determinants in Bangladesh: a BDHS-2022 cross-sectional study
+• Wildfire smoke and its harmful effects will worsen with climate change
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Perceptions of air pollution from stubble burning and its health risks in Punjab, India
+• Evidence is building for genomic newborn screening
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,290 +68,1182 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
-• The AI Hype Index: Data centers’ neighbors are pivoting to power blackouts
-  Separating AI reality from hyped-up fiction isn't always easy . The AI Hype Index is a simple, at-a-glance summary of everything you need to know about the state of the industry . For most of AI companies’ eager customers, the hundreds of billions of dollars they’re pumping into the industry aren’t adding up. And maybe they never will.
-• DeepSeek may have found a new way to improve AI’s ability to remember
-  An AI model released by Chinese AI company DeepSeek uses new techniques that could significantly improve AI’s ability to “remember.”
+• It’s never been easier to be a conspiracy theorist
+  The timing was eerie.
 
 
 
-Released last week, the optical character recognition (OCR) model works by extracting text from an image and turning it into machine-readable words. This is the same technology that powers scanner apps, translation of text in photos, and many accessibility tools.&nbsp;
+On November 21, 1963, Richard Hofstadter delivered the annual Herbert Spencer Lecture at Oxford University. Hofstadter was a professor of American history at Columbia University who liked to use social psychology to explain political history, the better to defend liberalism from extremism on both sides. His new lecture was titled “The Paranoid Style in American Politics.”&nbsp;
 
 
 
-OCR is already a mature field with numerous high-performing systems, and according to the paper and some early reviews, DeepSeek’s new model performs on par with top models on key benchmarks.
+“I call it the paranoid style,” he began, “simply because no other word adequately evokes the qualities of heated exaggeration, suspiciousness, and conspiratorial fantasy that I have in mind.”
 
 
 
-But researchers say the model’s main innovation lies in how it processes information—specifically, how it stores and retrieves memories. Improving how AI models “remember” information could reduce how much computing power they need to run, thus mitigating AI’s large (and growing) carbon footprint.&nbsp;
+Then, barely 24 hours later, President John F. Kennedy was assassinated in Dallas. This single, shattering event, and subsequent efforts to explain it, popularized a term for something that is clearly the subject of Hofstadter’s talk though it never actually figures in the text: “conspiracy theory.”
 
 
 
 
 
-Currently, most large language models break text down into thousands of tiny units called tokens. This turns the text into representations that models can understand. However, these tokens quickly become expensive to store and compute with as conversations with end users grow longer. When a user chats with an AI for lengthy periods, this challenge can cause the AI to forget things the user has already told it and get information muddled, a problem some call “context rot.”
 
 
 
-The new methods developed by DeepSeek (and published in its latest paper) could help to overcome this issue. Instead of storing words as tokens, its system packs written information into image form, almost as if it’s taking a picture of pages from a book. This allows the model to retain nearly the same information while using far fewer tokens, the researchers found.&nbsp;
+This story is part of MIT Technology Review’s series “The New Conspiracy Age,” on how the present boom in conspiracy theories is reshaping science and technology.
 
 
 
-Essentially, the OCR model is a testbed for these new methods that permit more information to be packed into AI models more efficiently.&nbsp;
 
 
 
-Besides using visual tokens instead of just text ones, the model is built on a type of tiered compression that is not unlike how human memories fade: Older or less critical content is stored in a slightly more blurry form in order to save space. Despite that, the paper’s authors argue that this compressed content can still remain accessible in the background, while maintaining a high level of system efficiency.
 
 
+Hofstadter’s lecture was later revised into what remains an essential essay, even after decades of scholarship on conspiracy theories, because it lays out, with both rigor and concision, a historical continuity of conspiracist politics. “The paranoid style is an old and recurrent phenomenon in our public life which has been frequently linked with movements of suspicious discontent,” he writes, tracing the phenomenon back to the early years of the republic. Though each upsurge in conspiracy theories feels alarmingly novel—new narratives disseminated through new technologies on a new scale—they all conform to a similar pattern. As Hofstadter demonstrated, the names may change, but the fundamental template remains the same.
 
-Text tokens have long been the default building block in AI systems. Using visual tokens instead is unconventional, and as a result, DeepSeek’s model is quickly capturing researchers’ attention. Andrej Karpathy, the former Tesla AI chief and a founding member of OpenAI, praised the paper on X, saying that images may ultimately be better than text as inputs for LLMs. Text tokens might be “wasteful and just terrible at the input,” he wrote.&nbsp;
 
 
+His psychological reading of politics has been controversial, but it is psychology, rather than economics or other external circumstances, that best explains the flourishing of conspiracy theories. Subsequent research has indeed shown that we are prone to perceive intentionality and patterns where none exist—and that this helps us feel like a person of consequence. To identify and expose a secret plot is to feel heroic and gain the illusion of control over the bewildering mess of life.&nbsp;
 
-Manling Li, an assistant professor of computer science at Northwestern University, says the paper offers a new framework for addressing the existing challenges in AI memory. “While the idea of using image-based tokens for context storage isn’t entirely new, this is the first study I’ve seen that takes it this far and shows it might actually work,” Li says.
 
 
 
-The method could open up new possibilities in AI research and applications, especially in creating more useful AI agents, says Zihan Wang, a PhD candidate at Northwestern University. He believes that since conversations with AI are continuous, this approach could help models remember more and assist users more effectively.
 
+Like many pioneering theories exposed to the cold light of hindsight, Hofstadter’s has flaws and blind spots. His key oversight was to downplay&nbsp; the paranoid style’s role in mainstream politics up to that point and underrate its potential to spread in the future.
 
 
-The technique can also be used to produce more training data for AI models. Model developers are currently grappling with a severe shortage of quality text to train systems on. But the DeepSeek paper says that the company’s OCR system can generate over 200,000 pages of training data a day on a single GPU.
 
+In 1963, conspiracy theories were still a fringe phenomenon, not because they were inherently unusual but because they had limited reach and were stigmatized by people in power. Now that neither factor holds true, it is obvious how infectious they are. Hofstadter could not, of course, have imagined the information technologies that have become stitched into our lives, nor the fractured media ecosystem of the 21st century, both of which have allowed conspiracist thinking to reach more and more people—to morph, and to bloom like mold. And he could not have predicted that a serial conspiracy theorist would be elected president, twice, and that he would staff his second administration with fellow proponents of the paranoid style.&nbsp;
 
 
-The model and paper, however, are only an early exploration of using image tokens rather than text tokens for AI memorization. Li says she hopes to see visual tokens applied not just to memory storage but also to reasoning. Future work, she says, should explore how to make AI’s memory fade in a more dynamic way, akin to how we can recall a life-changing moment from years ago but forget what we ate for lunch last week. Currently, even with DeepSeek’s methods, AI tends to forget and remember in a very linear way—recalling whatever was most recent, but not necessarily what was most important, she says.&nbsp;
 
+But Hofstadter’s concept of the paranoid style remains useful—and ever relevant—because it also describes a way of reading the world. As he put it, “The distinguishing thing about the paranoid style is not that its exponents see conspiracies or plots here or there in history, but they regard a ‘vast’ or ‘gigantic’ conspiracy as the motive force in historical events. History is a conspiracy, set in motion by demonic forces of almost transcendent power, and what is felt to be needed to defeat it is not the usual methods of political give-and-take, but an all-out crusade.”
 
 
-Despite its attempts to keep a low profile, DeepSeek, based in Hangzhou, China, has built a reputation for pushing the frontier in AI research. The company shocked the industry at the start of this year with the release of DeepSeek-R1, an open-source reasoning model that rivaled leading Western systems in performance despite using far fewer computing resources.&nbsp;
-• Roundtables: Seeking Climate Solutions in Turbulent Times
-  Drawing from MIT Technology Review’s 10 Climate Tech Companies to Watch list, this session highlights the most promising technologies . Companies are pursuing climate solutions amid shifting U.S. politics and economic uncertainty . Speakers: Casey Crownhart, James Temple, Mary Beth Griggs, Science Editor Mary Beth Griggs, Casey Crownhart, James Temple, Mary griggs and Casey Crownhart .
-• Finding return on AI investments across industries
-  The market is officially three years post ChatGPT and many of the pundit bylines have shifted to using terms like “bubble” to suggest reasons behind generative AI not realizing material returns outside a handful of technology suppliers.&nbsp;
 
+Needless to say, this mystically unified version of history is not just untrue but impossible. It doesn’t make sense on any level. So why has it proved so alluring for so long—and why does it seem to be getting more popular every day?
 
 
-In September, the MIT NANDA report made waves because the soundbite every author and influencer picked up on was that 95% of all AI pilots failed to scale or deliver clear and measurable ROI. McKinsey earlier published a similar trend indicating that agentic AI would be the way forward to achieve huge operational benefits for enterprises. At The Wall Street Journal’s Technology Council Summit, AI technology leaders recommended CIOs stop worrying about AI’s return on investment because measuring gains is difficult and if they were to try, the measurements would be wrong.&nbsp;
 
+What is a conspiracy theory, anyway?&nbsp;
 
 
 
+The first person to define the “conspiracy theory” as a widespread phenomenon was the Austrian-British philosopher Karl Popper, in his 1948 lecture “Towards a Rational Theory of Tradition.” He was not referring to a theory about an individual conspiracy. He was interested in “the conspiracy theory of society”: a particular way of interpreting the course of events.&nbsp;
 
 
 
-This places technology leaders in a precarious position–robust tech stacks already sustain their business operations, so what is the upside to introducing new technology?&nbsp;
+He later defined it as “the view that an explanation of a social phenomenon consists in the discovery of the men or groups who are interested in the occurrence of this phenomenon (sometimes it is a hidden interest which has first to be revealed), and who have planned and conspired to bring it about.”
 
 
 
-For decades, deployment strategies have followed a consistent cadence where tech operators avoid destabilizing business-critical workflows to swap out individual components in tech stacks. For example, a better or cheaper technology is not meaningful if it puts your disaster recovery at risk. 
+Take an unforeseen catastrophe that inspires fear, anger, and pain—a financial crash, a devastating fire, a terrorist attack, a war. The conventional historian will try to unpick a tangle of different factors, of which malice is only one, and one that may be less significant than dumb luck.
 
 
 
-While the price might increase when a new buyer takes over mature middleware, the cost of losing part of your enterprise data because you are mid-way through transitioning your enterprise to a new technology is way more severe than paying a higher price for a stable technology that you’ve run your business on for 20 years.
+The conspiracist, however, will perceive only sinister calculation behind these terrible events—a fiendishly intricate plot conceived and executed to perfection. Intent is everything. Popper’s observation chimes with Hofstadter’s: “The paranoid’s interpretation of history is … distinctly personal: decisive events are not taken as part of the stream of history, but as the consequences of someone’s will.”
 
 
 
-So, how do enterprises get a return on investing in the latest tech transformation?
+A Culture of ConspiracyMichael BarkunUNIVERSITY OF CALIFORNIA PRESS, 2013
 
 
 
-First principle of AI: Your data is your value
 
+According to Michael Barkun in the 2003 book A Culture of Conspiracy, the conspiracist interpretation of events rests on three assumptions: Everything is connected, everything is premeditated, and nothing is as it seems. Following that third law means that widely accepted and documented history is, by definition, suspect and alternative explanations, however outré, are more likely to be true. As Hannah Arendt wrote in The Origins of Totalitarianism, the purpose of conspiracy theories in 20th-century dictatorships “was always to reveal official history as a joke, to demonstrate a sphere of secret influences in which the visible, traceable, and known historical reality was only the outward façade erected explicitly to fool the people.” (Those dictators, of course, were conspirators themselves, projecting their own love of secret plots onto others.)
 
 
-Most of the articles about AI data relate to engineering tasks to ensure that an AI model infers against business data in repositories that represent past and present business realities. 
 
 
+Still, it’s important to remember that “conspiracy theory” can mean different things. Barkun describes three varieties, nesting like Russian dolls.&nbsp;
 
-However, one of the most widely-deployed use cases in enterprise AI begins with prompting an AI model by uploading file attachments into the model. This step narrows an AI model’s range to the content of the uploaded files, accelerating accurate response times and reducing the number of prompts required to get the best answer.&nbsp;
 
 
+The “event conspiracy theory” concerns a specific, contained catastrophe, such as the Reichstag fire of 1933 or the origins of covid-19. These theories are relatively plausible, even if they can not be proved.&nbsp;
 
-This tactic relies upon sending your proprietary business data into an AI model, so there are two important considerations to take in parallel with data preparation: first, governing your system for appropriate confidentiality; and second, developing a deliberate negotiation strategy with the model vendors, who cannot advance their frontier models without getting access to non-public data, like your business’ data. 
 
 
+The “systemic conspiracy theory” is much more ambitious, purporting to explain numerous events as the poisonous fruit of a clandestine international plot. Far-fetched though they are, they do at least fixate on named groups, whether the Illuminati or the World Economic Forum.&nbsp;
 
-Recently, Anthropic and OpenAI completed massive deals with enterprise data platforms and owners because there is not enough high-value primary data publicly available on the internet.&nbsp;
 
 
 
-Most enterprises would automatically prioritize confidentiality of their data and design business workflows to maintain trade secrets. From an economic value point of view, especially considering how costly every model API call really is, exchanging selective access to your data for services or price offsets may be the right strategy. Rather than approaching model purchase/onboarding as a typical supplier/procurement exercise, think through the potential to realize mutual benefits in advancing your suppliers’ model and your business adoption of the model in tandem.
 
+It is increasingly clear that “conspiracy theory” is a misnomer and what we are really dealing with is conspiracy belief.
 
 
-Second principle of AI: Boring by design
 
 
+Finally, the “superconspiracy theory” is that impossible fantasy in which history itself is a conspiracy, orchestrated by unseen forces of almost supernatural power and malevolence. The most extreme variants of QAnon posit such a universal conspiracy. It seeks to encompass and explain nothing less than the entire world.
 
-According to Information is Beautiful, in 2024 alone, 182 new generative AI models were introduced to the market. When GPT5 came into the market in 2025, many of the models from 12 to 24 months prior were rendered unavailable until subscription customers threatened to cancel. Their previously stable AI workflows were built on models that no longer worked. Their tech providers thought the customers would be excited about the newest models and did not realize the premium that business workflows place on stability. Video gamers are happy to upgrade their custom builds throughout the entire lifespan of the system components in their gaming rigs, and will upgrade the entire system just to play a newly released title.&nbsp;
 
 
+These are very different genres of storytelling. If the first resembles a detective story, then the other two are more akin to fables. Yet one can morph into the other. Take the theories surrounding the Kennedy assassination. The first wave of amateur investigators created event conspiracy theories—relatively self-contained plots with credible assassins such as Cubans or the Mafia.&nbsp;
 
-However, behavior does not translate to business run rate operations. While many employees may use the latest models for document processing or generating content, back-office operations can’t sustain swapping a tech stack three times a week to keep up with the latest model drops. The back-office work is boring by design.
 
 
+But over time, event conspiracy theories have come to seem parochial. By the time of Oliver Stone’s 1991 movie JFK, once-popular plots had been eclipsed by elaborate fictions of gigantic long-running conspiracies in which the murder of the president was just one component. One of Stone’s primary sources was the journalist Jim Marrs, who went on to write books about the Freemasons and UFOs.&nbsp;
 
-The most successful AI deployments have focused on deploying AI on business problems unique to their business, often running in the background to accelerate or augment mundane but mandated tasks. Relieving legal or expense audits from having to manually cross check individual reports but putting the final decision in a humans’ responsibility zone combines the best of both.&nbsp;
 
 
+Why limit yourself to a laboriously researched hypothesis about a single event when one giant, dramatic plot can explain them all?&nbsp;
 
-The important point is that none of these tasks require constant updates to the latest model to deliver that value. This is also an area where abstracting your business workflows from using direct model APIs can offer additional long-term stability while maintaining options to update or upgrade the underlying engines at the pace of your business.
 
 
+The theory of everything&nbsp;
 
-Third principle of AI: Mini-van economics
 
 
+In every systemic or superconspiracy theory, the world is corrupt and unjust and getting worse. An elite cabal of improbably powerful individuals, motivated by pure malignancy, is responsible for most of humanity’s misfortunes. Only through the revelation of hidden knowledge and the cracking of codes by a righteous minority can the malefactors be unmasked and defeated. The morality is as simplistic as the narrative is complex: It is a battle between good and evil.
 
-The best way to avoid upside-down economics is to design systems to align to the users rather than vendor specs and benchmarks. 
 
 
+Notice anything? This is not the language of democratic politics but that of myth and of religion. In fact, it is the fundamental message of the Book of Revelation. Conspiracist thinking can be seen as an offshoot, often but not always secularized, of apocalyptic Christianity, with its alluring web of prophecies, signs, and secrets and its promise of violent resolution. After studying several millenarian sects for his 1957 book The Pursuit of the Millennium, the historian Norman Cohn itemized some common traits, among them “the megalomaniac view of oneself as the Elect, wholly good, abominably persecuted yet assured of ultimate triumph; the attribution of gigantic and demonic powers to the adversary; the refusal to accept the ineluctable limitations and imperfections of human experience.”
 
-Too many businesses continue to fall into the trap of buying new gear or new cloud service types based on new supplier-led benchmarks rather than starting their AI journey from what their business can consume, at what pace, on the capabilities they have deployed today.&nbsp;
 
 
+Popper similarly considered the conspiracy theory of society “a typical result of the secularization of religious superstition,” adding: “The gods are abandoned. But their place is filled by powerful men or groups … whose wickedness is responsible for all the evils we suffer from.”&nbsp;
 
-While Ferrari marketing is effective and those automobiles are truly magnificent, they drive the same speed through school zones and lack ample trunk space for groceries. Keep in mind that every remote server and model touched by a user layers on the costs and design for frugality by reconfiguring workflows to minimize spending on third-party services. 
 
 
+QAnon’s mutation from a conspiracy theory on an internet message board into a movement with the characteristics of a cult makes explicit the kinship between conspiracy theories and apocalyptic religion.
 
-Too many companies have found that their customer support AI workflows add millions of dollars of operational run rate costs and end up adding more development time and cost to update the implementation for OpEx predictability. Meanwhile, the companies that decided that a system running at the pace a human can read—less than 50 tokens per second—were able to successfully deploy scaled-out AI applications with minimal additional overhead.
 
 
+This way of thinking facilitates the creation of dehumanized scapegoats—one of the oldest and most consistent features of a conspiracy theory. During the Middle Ages and beyond, political and religious leaders routinely flung the name “Antichrist” at their opponents. During the Crusades, Christians falsely accused Europe’s Jewish communities of collaborating with Islam or poisoning wells and put them to the sword. Witch-hunters implicated tens of thousands of innocent women in a supposed satanic conspiracy that was said to explain everything from illness to crop failure. “Conspiracy theories are, in the end, not so much an explanation of events as they are an effort to assign blame,” writes Anna Merlan in the 2019 book Republic of Lies.
 
-There are so many aspects of this new automation technology to unpack—the best guidance is to start practical, design for independence in underlying technology components to keep from disrupting stable applications long term, and to leverage the fact that AI technology makes your business data valuable to the advancement of your tech suppliers&#8217; goals.
 
 
+Republic of Lies: American Conspiracy Theorists and Their Surprising Rise to PowerAnna MerlanMETROPOLITAN PUBLISHERS, 2019
 
-This content was produced by Intel. It was not written by MIT Technology Review’s editorial staff.
-• The Download: Microsoft’s stance on erotic AI, and an AI hype mystery
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
 
 
 
-“We will never build a sex robot,” says Mustafa Suleyman
+But the systemic conspiracy theory as we know it—that is, the ostensibly secular variety—was established three centuries later, with remarkable speed. Some horrified opponents of the French Revolution could not accept that such an upheaval could be simply a popular revolt and needed to attribute it to sinister, unseen forces. They settled on the Illuminati, a Bavarian secret society of Enlightenment intellectuals influenced in part by the rituals and hierarchy of Freemasonry.&nbsp;
 
 
 
-Mustafa Suleyman, CEO of Microsoft AI, is trying to walk a fine line. On the one hand, he thinks that the industry is taking AI in a dangerous direction by building chatbots that present as human: He worries that people will be tricked into seeing life instead of lifelike behavior.On the other hand, Suleyman runs a product shop that must compete with those peers. Last week, Microsoft announced a string of updates to its Copilot chatbot designed to make Copilot more expressive, engaging, and helpful.Will Douglas Heaven, our senior AI editor, talked to Suleyman about the tension at play when it comes to designing our interactions with chatbots and his ultimate vision for what this new technology should be. Read the full story.
+The group was founded by a young law professor named Adam Weishaupt, who used the alias Brother Spartacus. In reality, the Illuminati were few in number, fractious, powerless, and, by the time of the revolution in 1789, defunct. But in the imaginations of two influential writers who published “exposés” of the Illuminati in 1797—Scotland’s John Robison and France’s Augustin Barruel—they were everywhere. Each man erected a wobbling tower of wild supposition and feverish nonsense on a platform of plausible claims and verifiable facts. Robison alleged that the revolution was merely part of “one great and wicked project” whose ultimate aim was to “abolish all religion, overturn every government, and make the world a general plunder and a wreck.”&nbsp;&nbsp;
 
 
 
+The Illuminati’s bogeyman status faded during the 19th century, but the core narrative persisted and proceeded to underpin the notorious hoax The Protocols of the Elders of Zion, first published in a Russian newspaper in 1903. The document’s anonymous author reinvented antisemitism by grafting it onto the story of the one big plot and positing Jews as the secret rulers of the world. In this account, the Elders orchestrate every war, recession, and so on in order to destabilize the world to the point where they can impose tyranny.&nbsp;
 
 
 
+You might ask why, if they have such world-bending power already, they would require a dictatorship. You might also wonder how one group could be responsible for both communism and monopoly capitalism, anarchism and democracy, the theory of evolution, and much more besides. But the vast, self-contradicting incoherence of the plot is what made it impossible to disprove. Nothing was ruled out, so every development could potentially be taken as evidence of the Elders at work.
 
-An AI adoption riddle
 
 
+In 1921, the Protocols were exposed as what the London Times called a “clumsy forgery,” plagiarized from two obscure 19th-century novels, yet they remained the key text of European antisemitism—essentially “true” despite being demonstrably false. “I believe in the inner, but not the factual, truth of the Protocols,” said Joseph Goebbels, who would become Hitler’s minister of propaganda. In Mein Kampf, Hitler claimed that efforts to debunk the Protocols were actually “evidence in favor of their authenticity.” He alleged that Jews, if not stopped, would “one day devour the other nations and become lords of the earth.” Popper and Hofstadter both used the Holocaust as an example of what happens when a conspiracy theorist gains power and makes the paranoid style a governing principle.
 
-—James O’Donnell, senior AI reporter 
 
 
+STEPHANIE ARNETT/MIT TECHNOLOGY REVIEW | PUBLIC DOMAIN
 
-A few weeks ago, I set out on what I thought would be a straightforward reporting journey.After years of momentum for AI, hype had been slightly punctured. First there was the underwhelming release of GPT-5 in August. Then a report released two weeks later found that 95% of generative AI pilots were failing, which caused a brief stock market panic. I wanted to know: Which companies are spooked enough to scale back their AI spending?But if AI’s hype has indeed been punctured, I couldn’t find a company willing to talk about it. So what should we make of my failed quest?
 
 
 
-This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.
+The prominent role of Jewish Bolsheviks like Leon Trotsky and Grigory Zinoviev in the Russian Revolution of 1917 enabled a merger of antisemitism and anticommunism that survived the fascist era. Cold War red-baiters such as Senator Joseph McCarthy and the John Birch Society assigned to communists uncanny degrees of malice and ubiquity, far beyond the real threat of Soviet espionage. In fact, they presented this view as the only logical one. McCarthy claimed that a string of national security setbacks could be explained only if George C. Marshall, the secretary of defense and former secretary of state, was literally a Soviet agent. “How can we account for our present situation unless we believe that men high in this government are concerting to deliver us to disaster?” he asked in 1951. “This must be the product of a great conspiracy so immense as to dwarf any previous such venture in the history of man.”
 
 
 
+This continuity between antisemitism, anticommunism, and 18th-century paranoia about secret societies isn’t hard to see. General Francisco Franco, Spain’s right-wing dictator, claimed to be fighting a “Judeo-Masonic-Bolshevik” conspiracy. The Nazis persecuted Freemasons alongside Jews and communists. Nesta Webster, the British fascist sympathizer who laundered the Protocols through the British press, revived interest in Robison and Barruel’s books about the Illuminati, which the pro-Nazi Baptist preacher Gerald Winrod then promoted in the US. Even Winston Churchill was briefly persuaded by Webster’s work, citing it in his claims of a “world-wide conspiracy for the overthrow of civilization … from the days of Spartacus-Weishaupt to the days of Karl Marx.”
 
 
 
+To follow the chain further, Webster and Winrod’s stew of anticommunism, antisemitism, and anti-Illuminati conspiracy theories influenced the John Birch Society, whose publications would light a fire decades later under the Infowars founder Alex Jones, perhaps the most consequential conspiracy theorist of the early 21st century. 
 
-The must-reads
 
 
+The villains behind the one big plot might be the Illuminati, the Elders of Zion, the communists, or the New World Order, but they are always essentially the same people, aspiring to officially dominate a world that they already secretly control. The names can be swapped around without much difficulty. While Winrod maintained that “the real conspirators behind the Illuminati were Jews,” the anticommunist William Guy Carr conversely argued that antisemitic paranoia “plays right into the hands of the Illuminati.” These days, it might be the World Economic Forum or George Soros; liberal internationalists with aspirations to change the world are easily cast as the new Illuminati, working toward establishing one world government.
 
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
 
 
+Finding connection
 
-1 Hundreds of thousands of ChatGPT users exhibit severe mental health symptomsThat’s according to estimates from OpenAI, which says it has tweaked GPT-5 to respond more effectively to users in distress. (Wired $)+ OpenAI won’t lock access to force users to take a break, though. (Gizmodo)+ Why AI should be able to “hang up” on you. (MIT Technology Review)
 
 
+The main reason that conspiracy theorists have lost interest in the relatively hard work of micro-conspiracies in favor of grander schemes is that it has become much easier to draw lines between objectively unrelated people and events. Information technology is, after all, also misinformation technology. That’s nothing new.&nbsp;
 
-2 Elon Musk has launched his answer to WikipediaGrokipedia’s right-leaning entries reflect the way the billionaire sees the world. (WP $)+ Several pages perpetuate historical inaccuracies and conservative views. (Wired $)+ The AI-generated encyclopedia briefly crashed shortly after it launched. (Engadget)3 Surgeons have removed a pig kidney from a patientIt was the longest-functioning genetically engineered pig kidney so far. (Wired $)+ “Spare” living human bodies might provide us with organs for transplantation. (MIT Technology Review)
 
 
+The witch craze could not have traveled as far or lasted as long without the printing press. Malleus Maleficarum (Hammer of the Witches), a 1486 screed by the German witch-hunter Heinrich Kramer, became the best-selling witch-hunter’s handbook, going through 28 editions by 1600. Similarly, it was the books and pamphlets “exposing” the Illuminati that allowed those ideas to spread everywhere following the French Revolution. And in the early 20th century, the introduction of the radio facilitated fascist propaganda. During the 1930s, the Nazi-sympathizing Catholic priest and radio host Charles Coughlin broadcast his antisemitic conspiracy theories to tens of millions of Americans on dozens of stations.&nbsp;
 
-4 Amazon is planning to cut up to 30,000 corporate jobsPartly in response to staff’s reluctance to return to the office five days a week. (Reuters)+ The company is planning yet another round of layoffs in January. (NYT $)
 
 
+The internet has, of course, vastly accelerated and magnified the spread of conspiracy theories. It is hard to recall now, but in the early days it was sweetly assumed that the internet would improve the world by democratizing access to information. While this initial idealism survives in doughty enclaves such as Wikipedia, most of us vastly underestimated the human appetite for false information that confirms the consumer’s biases.
 
-5 Older people can’t get enough of screensTheir digital habits mirror the high usage typically observed among teenagers. (Economist $)
 
 
+Politicians, too, were slow to recognize the corrosive power of free-flowing conspiracy theories. For a long time, the more fantastical assertions of McCarthy and the Birchers were kept at arm’s length from the political mainstream, but that distance began to diminish rapidly during the 1990s, as right-wing activists built a cottage industry of outrageous claims about Bill and Hillary Clinton to advance the idea that they were not just corrupt or dishonest but actively evil and even satanic. This became an article of faith in the information ecosystem of internet message boards and talk radio, which expanded over time to include Fox News, blogs, and social media. So when Democrats nominated Hillary Clinton in 2016, a significant portion of the American public saw a monster at the heart of an organized crime ring whose activities included human trafficking and murder.
 
-6 A British cyclist has been given a 3D-printed faceDave Richards received severe third-degree burns to his head after being struck by a drunk driver. (The Guardian)
 
 
+Nobody could make the same mistake about misinformation today. One could hardly design a more fertile breeding ground for conspiracy theories than social media. The algorithms of YouTube, Facebook, TikTok, and X, which operate on the principle that rage is engaging, have turned into radicalization machines. When these platforms took off during the second half of the 2010s, they offered a seamless system in which people were able to come across exciting new information, share it, connect it to other strands of misinformation, and weave them into self-contained, self-affirming communities, all without leaving the house.
 
-7 The twitter.com domain is being shut downMake sure you re-enroll your security and passkeys before the big switch-off. (Fast Company $)+ It means the abandoned accounts could be sold on. (The Verge)+ But 2FA apps should be fine—in theory. (The Register)
 
 
+It’s not hard to see how the problem will continue to grow as AI burrows ever deeper into our everyday lives. Elon Musk has tinkered with the AI chatbot Grok to produce information that conforms to his personal beliefs rather than to actual facts. This outcome does not even have to be intentional. Chatbots have been shown to validate and intensify some users’ beliefs, even if they’re rooted in paranoia or hubris. If you believe that you’re the hero in an epic battle between good and evil, then your chatbot is inclined to agree with you.
 
-8 When is a moon not a moon?Believe it or not, we don’t have an official definition. (The Atlantic $)+ Astronomers have spotted a “quasi-moon” hovering near Earth. (BBC)+ The moon is just the beginning for this waterless concrete. (MIT Technology Review)
 
 
+It’s all this digital noise that has brought about the virtual collapse of the event conspiracy theory. The industry produced by the JFK assassination may have been pseudo-scholarship, but at least researchers went through the motions of scrutinizing documents, gathering evidence, and putting forward a somewhat consistent hypothesis. However misguided the conclusions, that kind of conspiracy theory required hard work and commitment.&nbsp;
 
-9 Threads’ ghost posts will disappear after 24 hoursIf anyone saw them in the first place, that is. (TechCrunch)10 In the metaverse, anyone can be a K-pop superstarVirtual idols are gaining huge popularity, before crossing over into real-world fame. (Rest of World)+ Meta’s former metaverse head has been moved into its AI team. (FT $)
 
 
+CARL MYDANS/THE LIFE PICTURE COLLECTION/SHUTTERSTOCK
 
 
 
 
+Today’s online conspiracy theorists, by contrast, are shamelessly sloppy. Events such as the attack on Paul Pelosi, husband of former US House Speaker Nancy Pelosi, in October 2022, or the murders of Minnesota House speaker Melissa Hortman and her husband Mark in June 2025, or even more recently the killing of Charlie Kirk, have inspired theories overnight, which then evaporate just as quickly. The point of such theories, if they even merit that label, is not to seek the truth but to defame political opponents and turn victims into villains.
 
-Quote of the day
 
 
+Before he even ran for office, Trump was notorious for promoting false stories about Barack Obama’s birthplace or vaccine safety. Heir to Joseph McCarthy, Barry Goldwater, and the John Birch Society, he is the lurid incarnation of the paranoid style. He routinely damns his opponents as “evil” or “very bad people” and speaks of America’s future in apocalyptic terms. It is no surprise, then, that every member of the administration must subscribe to Trump’s false claim that the 2020 election was stolen from him, or that celebrity conspiracy theorists are now in charge of national intelligence, public health, and the FBI. Former Democrats who hold such roles, like Tulsi Gabbard and Robert F. Kennedy Jr., have entered Trump’s orbit through the gateway of conspiracy theories. They illustrate how this mindset can create counterintuitive alliances that collapse conventional political distinctions and scramble traditional notions of right and left.&nbsp;
 
-“The impulse to control knowledge is as old as knowledge itself. Controlling what gets written is a way to gain or keep power.”
 
 
+The antidemocratic implications of what’s happening today are obvious. “Since what is at stake is always a conflict between absolute good and absolute evil, the quality needed is not a willingness to compromise but the will to fight things out to the finish,” Hofstadter wrote. “Nothing but complete victory will do.”&nbsp;
 
-—Ryan McGrady, senior research fellow at the University of Massachusetts Amherst, reflects on Elon Musk’s desire to create his own online encyclopedia to the New York Times.
 
 
+Meeting the moment
 
 
 
+It’s easy to feel helpless in the face of this epistemic chaos. Because one other foundational feature of religious prophecy is that it can be disproved without being discredited: Perhaps the world does not come to an end on the predicted day, but that great day will still come. The prophet is never wrong—he is just not proven right yet.&nbsp;
 
 
-One more thing
 
+The same flexibility is enjoyed by systemic conspiracy theories. The plotters never actually succeed, nor are they ever decisively exposed, yet the theory remains intact. Recently, claims that covid-19 was either exaggerated or wholly fabricated in order to crush civil liberties did not wither away once lockdown restrictions were lifted. Surely the so-called “plandemic” was a complete disaster? No matter. This type of conspiracy theory does not have to make sense.
 
 
 
+Scholars who have attempted to methodically repudiate conspiracy theories about the 9/11 attacks or the JFK assassination have found that even once all the supporting pillars have been knocked away, the edifice still stands. It is increasingly clear that “conspiracy theory” is a misnomer and what we are really dealing with is conspiracy belief—as Hofstadter suggested, a worldview buttressed with numerous cognitive biases and impregnable to refutation. As Goebbels implied, the “factual truth” pales in comparison to the “inner truth,” which is whatever somebody believes it be.
 
 
 
-Inside Amsterdam’s high-stakes experiment to create fair welfare AIAmsterdam thought it was on the right track. City officials in the welfare department believed they could build technology that would prevent fraud while protecting citizens’ rights. They followed these emerging best practices and invested a vast amount of time and money in a project that eventually processed live welfare applications. But in their pilot, they found that the system they’d developed was still not fair and effective. Why?Lighthouse Reports, MIT Technology Review, and the Dutch newspaper Trouw have gained unprecedented access to the system to try to find out. Read about what we discovered.
+But at the very least, what we can do is identify the entirely different realities constructed by believers and recognize and internalize their common roots, tropes, and motives.&nbsp;
 
 
 
-—Eileen Guo, Gabriel Geiger &amp; Justin-Casimir Braun
+Those different realities, after all, have proved remarkably consistent in shape if not in their details. What we saw then, we see now. The Illuminati were Enlightenment idealists whose liberal agenda to “dispel the clouds of superstition and of prejudice,” in Weishaupt’s words, was demonized as wicked and destructive. If they could be shown to have fomented the French Revolution, then the whole revolution was a sham. Similarly, today’s radical right recasts every plank of progressive politics as an anti-American conspiracy. The far-right Great Replacement Theory, for instance, posits that immigration policy is a calculated effort by elites to supplant the native population with outsiders. This all flows directly from what thinkers such as Hofstadter, Popper, and Arendt diagnosed more than 60 years ago.&nbsp;
 
 
 
+What is dangerously novel, at least in democracies, is conspiracy theories’ ubiquity, reach, and power to affect the lives of ordinary citizens. So understanding the paranoid style better equips us to counteract it in our daily existence. At minimum, this knowledge empowers us to spot the flaws and biases in our own thinking and stop ourselves from tumbling down dangerous rabbit holes.&nbsp;
 
 
 
+The Paranoid Style in American Politics and Other EssaysRichard HofstadterVINTAGE BOOKS, 1967
 
-We can still have nice things
 
 
 
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
+On November 18, 1961, President Kennedy—almost exactly two years before Hofstadter’s lecture and his own assassination—offered his own definition of the paranoid style in a speech to the Democratic Party of California. “There have always been those on the fringes of our society who have sought to escape their own responsibility by finding a simple solution, an appealing slogan, or a convenient scapegoat,” he said. “At times these fanatics have achieved a temporary success among those who lack the will or the wisdom to face unpleasant facts or unsolved problems. But in time the basic good sense and stability of the great American consensus has always prevailed.”&nbsp;
 
 
 
-+ Happy 70th birthday to Bill Gates, who is not revered enough for his chair-jumping skills.+ Bring back Guitar Hero—the iconic game that convinced us all we were capable of knocking out Heart’s Barracuda (note: the majority of us were not.)+ Even the swankiest parts of London aren’t immune to rumours of ghostly hauntings.+ Justice for medieval frogs and their unfair reputation!
+We can only hope that the consensus begins to see the rolling chaos and naked aggression of Trump’s two administrations as weighty evidence against the conspiracy theory of society. The notion that any group could successfully direct the larger mess of this moment in the world, let alone the course of history for decades, undetected, is palpably absurd. The important thing is not that the details of this or that conspiracy theory are wrong; it is that the entire premise behind this worldview is false.&nbsp;
+
+
+
+Not everything is connected, not everything is premeditated, and many things are in fact just as they seem.&nbsp;
+
+
+
+Dorian Lynskey is the author of several books, including The Ministry of Truth: The Biography of George Orwell’s 1984 and Everything Must Go: The Stories We Tell About the End of the World. He cohosts the podcast Origin Story and co-writes the Origin Story books with Ian Dunt.&nbsp;
+• Can “The Simpsons” really predict the future?
+  According to internet listicles, the animated sitcom The Simpsons has predicted the future anywhere from 17 to 55 times.&nbsp;
+
+
+
+“As you know, we’ve inherited quite a budget crunch from President Trump,” the newly sworn-in President Lisa Simpson declared way back in 2000, 17 years before the real estate mogul was inaugurated as the 45th leader of the United States. Earlier, in 1993, an episode of the show featured the “Osaka flu,” which some felt was eerily prescient of the coronavirus pandemic. And—somehow!—Simpsons writers just knew that the US Olympic curling team would beat Sweden eight whole years before they did it.
+
+
+
+After Team USA wins, Principal Skinner&#8217;s mother gloats to the Swedish curling team, “Tell me how my ice tastes.”THE SIMPSONS  &#038; © 20TH TELEVISION
+
+
+
+
+The 16th-century seer Nostradamus made 942 predictions. To date, there have been some 800 episodes of The Simpsons. How does it feel to be a showrunner turned soothsayer? What’s it like when the world combs your jokes for prophecies and thinks you knew about 9/11 four years before it happened?&nbsp;
+
+
+
+
+
+
+
+
+This story is part of MIT Technology Review’s series “The New Conspiracy Age,” on how the present boom in conspiracy theories is reshaping science and technology.
+
+
+
+
+
+
+
+
+Al Jean has worked on The Simpsons on and off since 1989; he is the cartoon’s longest-serving showrunner. Here, he reflects on the conspiracy theories that have sprung from these apparent prophecies.&nbsp;
+
+
+
+When did you first start hearing rumblings about The Simpsons having predicted the future?
+
+
+
+It definitely got huge when Donald Trump was elected president in 2016 after we “predicted” it in an episode from 2000. The original pitch for the line was Johnny Depp and that was in for a while, but it was decided that it wasn’t as funny as Trump.&nbsp;
+
+
+
+What people don’t remember is that in the year 2000, it wasn’t such a crazy name to pick, because Trump was talking about running as a Reform Party candidate. So, like a lot of our “predictions,” it’s an educated guess. I won’t comment on whether it’s a good thing that it happened, but I will say that it’s not the most illogical person you could have picked for that joke. And we did say that following him was Lisa, and now that he’s been elected again, we could still have Lisa next time—that’s my hope!&nbsp;
+
+
+
+How did it make you feel that people thought you were a prophet?&nbsp;
+
+
+
+Again, apart from the election’s impact on the free world, I would say that we were amused that we had said something that came true. Then we made a short video called “Trumptastic Voyage” in 2015 that predicted he would run in 2016, 2020, 2024, and 2028, so we’re three-quarters of the way through that arduous prediction.
+
+
+
+
+
+
+
+
+
+But I like people thinking that I know something about the future. It’s a good reputation to have. You only need half a dozen things that were either on target or even uncanny to be considered an oracle. Or maybe we’re from the future—I’ll let you decide!&nbsp;
+
+
+
+Why do you think people are so drawn to the idea that The Simpsons is prophetic?&nbsp;
+
+
+
+Maybe it slightly satisfies a yearning people have for meaning, certainly when life is now so random.
+
+
+
+Would you say that most of your predictions have logical explanations?&nbsp;
+
+
+
+It’s cherry-picking—there are 35 years of material. How many of the things that we said came true versus how many of the many things we said did not come true?&nbsp;
+
+
+
+In 2014, we predicted Germany would win the World Cup in Brazil. It’s because we wanted a joke where the Brazilians were sad and they were singing a sad version of the “Olé, olé” song. So we had to think about who would be likely to win if Brazil lost, and Germany was the number two, so they did win, but it wasn’t the craziest prediction. In the same episode, we predicted that FIFA would be corrupt, which is a very easy prediction! So a lot of them fall under that category.&nbsp;
+
+
+
+In one scene I wrote, Marge holds a book called Curious George and the Ebola Virus—people go, “Oh my God! He predicted that!” Well, Ebola existed when I wrote the joke. I’d seen a movie about it called Outbreak. It’s like predicting the Black Death.&nbsp;
+
+
+
+But have any of your so-called “predictions” made even you pause?&nbsp;
+
+
+
+There are a couple of really bizarre coincidences. There was a brochure in a New York episode [which aired in 1997] that said “New York, $9” next to a picture of the trade towers looking like an 11. That was nuts. It still sends chills down me. The writer of that episode, Ian Maxtone-Graham, was nonplussed. He really couldn’t believe it.&nbsp;
+
+
+
+THE SIMPSONS  &#038; © 20TH TELEVISION
+
+
+
+
+It’s not like we would’ve made that knowing what was going to come, which we didn’t. And people have advanced conspiracy theories that we’re all Ivy League writers who knew … it’s preposterous stuff that people say. There’s also a thing people do that we don’t really love, which is they fake predictions. So after something happens, they’ll concoct a Simpsons frame, and it’s not something that ever aired. [Editor’s note: People faked Simpsons screenshots seeming to predict the 2024 Baltimore bridge collapse and the 2019 Notre-Dame fire. Images from the real “Osaka flu” episode were also edited to include the word “coronavirus.”]&nbsp;
+
+
+
+How does that make you feel? Is it frustrating?
+
+
+
+It shows you how you can really convince people of something that’s not the case. Our small denial doesn’t get as much attention.&nbsp;
+
+
+
+As far as internet conspiracies go, where would you rate the idea that The Simpsons can predict the future?&nbsp;
+
+
+
+I hope it’s harmless. I think it’s really lodged in the internet very well. I don’t think it’s disappearing anytime soon. I’m sure for the rest of my life I’ll be hearing about what a group of psychics and seers I was part of. If we really could predict that well, we’d all be retired from betting on football. Although, advice to readers: Don’t bet on football.&nbsp;
+
+
+
+THE SIMPSONS  &#038; © 20TH TELEVISION
+
+
+
+
+Still, it is a tiny part of a trend that is alarming, which is people being unable to distinguish fact from fiction. And I have that trouble too. You read something, and your natural inclination has always been, “Well, I read it—it’s true.” And you have to really be skeptical about that.&nbsp;
+
+
+
+Can I ask you to predict a solution to all of this?
+
+
+
+I think my only solution is: Look at your phone less and read more books.
+
+
+
+This interview has been edited for length and clarity.&nbsp;
+
+
+
+Amelia Tait is a London-based freelance features journalist who writes about culture, trends, and unusual phenomena.&nbsp;
+• How conspiracy theories infiltrated the doctor’s office
+  As anyone who has googled their symptoms and convinced themselves that they’ve got a brain tumor will attest, the internet makes it very easy to self-(mis)diagnose your health problems. And although social media and other digital forums can be a lifeline for some people looking for a diagnosis or community, when that information is wrong, it can put their well-being and even lives in danger.
+
+
+
+Unfortunately, this modern impulse to “do your own research” became even more pronounced during the coronavirus pandemic.
+
+
+
+
+
+
+
+
+This story is part of MIT Technology Review’s series “The New Conspiracy Age,” on how the present boom in conspiracy theories is reshaping science and technology.
+
+
+
+
+
+
+
+
+We asked a number of health-care professionals about how this shifting landscape is changing their profession. They told us that they are being forced to adapt how they treat patients. It’s a wide range of experiences: Some say patients tell them they just want more information about certain treatments because they’re concerned about how effective they are. Others hear that their patients just don’t trust the powers that be. Still others say patients are rejecting evidence-based medicine altogether in favor of alternative theories they’ve come across online. 
+
+
+
+
+These are their stories, in their own words.
+
+
+
+Interviews have been edited for length and clarity.
+
+
+
+
+
+
+
+
+The physician trying to set shared goals&nbsp;
+
+
+
+
+
+
+
+David Scales
+
+
+
+Internal medicine hospitalist and assistant professor of medicine, Weill Cornell Medical CollegeNew York City
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Every one of my colleagues has stories about patients who have been rejective of care, or had very peculiar perspectives on what their care should be. Sometimes that’s driven by religion. But I think what has changed is people, not necessarily with a religious standpoint, having very fixed beliefs that are sometimes—based on all the evidence that we have—in contradiction with their health goals. And that is a very challenging situation.&nbsp;
+
+
+
+I once treated a patient with a connective tissue disease called Ehlers-Danlos syndrome. While there’s no doubt that the illness exists, there’s a lot of doubt and uncertainty over which symptoms can be attributed to Ehlers-Danlos. This means it can fall into what social scientists call a “contested illness.”&nbsp;
+
+
+
+Contested illnesses used to be causes for arguably fringe movements, but they have become much more prominent since the rise of social media in the mid-2010s. Patients often search for information that resonates with their experience.&nbsp;
+
+
+
+This patient was very hesitant about various treatments, and it was clear she was getting her information from, I would say, suspect sources. She’d been following people online who were not necessarily trustworthy, so I sat down with her and we looked them up on Quackwatch, a site that lists health myths and misconduct.&nbsp;
+
+
+
+&#8220;She was extremely knowledgeable, and had done a lot of her own research, but she struggled to tell the difference between good and bad sources.&#8221;
+
+
+
+She was still accepting of treatment, and was extremely knowledgeable, and had done a lot of her own research, but she struggled to tell the difference between good and bad sources and fixed beliefs that overemphasize particular things—like what symptoms might be attributable to other stuff.
+
+
+
+Physicians have the tools to work with patients who are struggling with these challenges. The first is motivational interviewing, a counseling technique that was developed for people with substance-use disorders. It’s a nonjudgmental approach that uses open-ended questions to draw out people’s motivations, and to find where there’s a mismatch between their behaviors and their beliefs. It’s highly effective in treating people who are vaccine-hesitant.
+
+
+
+Another is an approach called shared decision-making. First we work out what the patient’s goals are and then figure out a way to align those with what we know about the evidence-based way to treat them. It’s something we use for end-of-life care, too.
+
+
+
+What’s concerning to me is that it seems as though there’s a dynamic of patients coming in with a fixed belief of how to diagnose their illness, how their symptoms should be treated, and how to treat it in a way that’s completely divorced from the kinds of medicine you’d find in textbooks—and that the same dynamic is starting to extend to other illnesses, too.
+
+
+
+
+
+
+
+The therapist committed to being there when the conspiracy fever breaks&nbsp;
+
+
+
+
+
+
+
+Damien Stewart
+
+
+
+PsychologistWarsaw, Poland
+
+
+
+
+
+
+
+Before covid, I hadn’t really had any clients bring up conspiracy theories into my practice. But once the pandemic began, they went from being fun or harmless to something dangerous.In my experience, vaccines were the topic where I first really started to see some militancy—people who were looking down the barrel of losing their jobs because they wouldn’t get vaccinated. At one point, I had an out-and-out conspiracy theorist say to me, “I might as well wear a yellow star like the Jews during the Holocaust, because I won’t get vaccinated.”&nbsp;
+
+
+
+I felt pure anger, and I reached a point in my therapeutic journey I didn’t know would ever occur—I’d found that I had a line that could be crossed by a client that I could not tolerate. I spoke in a very direct manner he probably wasn’t used to and challenged his conspiracy theory. He got very angry and hung up the call.&nbsp;&nbsp;
+
+
+
+It made me figure out how I was going to deal with this in future, and to develop an approach—which was to not challenge the conspiracy theory, but to gently talk through it, to provide alternative points of view and ask questions. I try to find the therapeutic value in the information, in the conversations we’re having. My belief is and evidence seems to show that people believe in conspiracy theories because there’s something wrong in their life that is inexplicable, and they need something to explain what’s happening to them. And even if I have no belief or agreement whatsoever in what they’re saying, I think I need to sit here and have this conversation, because one day this person might snap out of it, and I need to be here when that happens.
+
+
+
+As a psychologist, you have to remember that these people who believe in these things are extremely vulnerable. So my anger around these conspiracy theories has changed from being directed toward the deliverer—the person sitting in front of me saying these things—to the people driving the theories.
+
+
+
+
+
+
+
+The emergency room doctor trying to get patients to reconnect with the evidence
+
+
+
+
+
+
+
+Luis Aguilar Montalvan
+
+
+
+Attending emergency medicine physician&nbsp;Queens, New York
+
+
+
+
+
+
+
+The emergency department is essentially the pulse of what is happening in society. That’s what really attracted me to it. And I think the job of the emergency doctor, particularly within shifting political views or belief in Western medicine, is to try to reconnect with someone. To just create the experience that you need to prime someone to hopefully reconsider their relationship with this evidence-based medicine.
+
+
+
+When I was working in the pediatrics emergency department a few years ago, we saw a resurgence of diseases we thought we had eradicated, like measles. I typically framed it by saying to the child’s caregiver: “This is a disease we typically use vaccines for, and it can prevent it in the majority of people.”&nbsp;
+
+
+
+&#8220;The doctor is now more like a consultant or a customer service provider than the authority. &#8230; The power dynamic has changed.&#8221;
+
+
+
+The sentiment among my adult patients who are reluctant to get vaccinated or take certain medications seems to be from a mistrust of the government or “The System” rather than from anything Robert F. Kennedy Jr. says directly, for example. I’m definitely seeing more patients these days asking me what they can take to manage a condition or pain that’s not medication. I tell them that the knowledge I have is based on science, and explain the medications I’d typically give other people in their situation. I try to give them autonomy while reintroducing the idea of sticking with the evidence, and for the most part they’re appreciative and courteous.
+
+
+
+The role of doctor has changed in recent years—there’s been a cultural change. My understanding is that back in the day, what the doctor said, the patient did. Some doctors used to shame parents who hadn’t vaccinated their kids. Now we’re shifting away from that, and the doctor is now more like a consultant or a customer service provider than the authority. I think that could be because we’ve seen a lot of bad actors in medicine, so the power dynamic has changed.&nbsp;&nbsp;
+
+
+
+I think if we had a more unified approach at a national level, if they had an actual unified and transparent relationship with the population, that would set us up right. But I’m not sure we’ve ever had it.
+
+
+
+STEPHANIE ARNETT/MIT TECHNOLOGY REVIEW | PUBLIC DOMAIN
+
+
+
+
+
+
+
+
+The psychologist who supported severely mentally ill patients through the pandemic&nbsp;
+
+
+
+
+
+
+
+Michelle Sallee
+
+
+
+Psychologist, board certified in serious mental illness psychologyOakland, California
+
+
+
+
+
+
+
+I’m a clinical psychologist who only works with people who have been in the hospital three or more times in the last 12 months. I do both individual therapy and a lot of group work, and several years ago during the pandemic, I wrote a 10-week program for patients about how to cope with sheltering in place, following safety guidelines, and their concerns about vaccines.
+
+
+
+My groups were very structured around evidence-based practice, and I had rules for the groups. First, I would tell people that the goal was not to talk them out of their conspiracy theory; my goal was not to talk them into a vaccination. My goal was to provide a safe place for them to be able to talk about things that were terrifying to them. We wanted to reduce anxiety, depression, thoughts of suicide, and the need for psychiatric hospitalizations. 
+
+
+
+Half of the group was pro–public health requirements, and their paranoia and fear for safety was around people who don’t get vaccinated; the other half might have been strongly opposed to anyone other than themselves deciding they need a vaccination or a mask. Both sides were fearing for their lives—but from each other.
+
+
+
+I wanted to make sure everybody felt heard, and it was really important to be able to talk about what they believed—like, some people felt like the government was trying to track us and even kill us—without any judgment from other people. My theory is that if you allow people to talk freely about what&#8217;s on their mind without blocking them with your own opinions or judgment, they will find their way eventually. And a lot of times that works.&nbsp;
+
+
+
+People have been stuck on their conspiracy theory or their paranoia has been stuck on it for a long time because they&#8217;re always fighting with people about it, everyone&#8217;s telling them that this is not true. So we would just have an open discussion about these things.&nbsp;
+
+
+
+&#8220;People have been stuck on their conspiracy theory for a long time because they&#8217;re always fighting with people about it, everyone&#8217;s telling them that this is not true.&#8221;
+
+
+
+I ran the program four times for a total of 27 people, and the thing that I remember the most was how respectful and tolerant and empathic, but still honest about their feelings and opinions, everybody was. At the end of the program, most participants reported a decrease in pandemic-related stress. Half reported a decrease in general perceived stress, and half reported no change.
+
+
+
+I’d say that the rate of how much vaccines are talked about now is significantly lower, and covid doesn’t really come up anymore. But other medical illnesses come up—patients saying, “My doctor said I need to get this surgery, but I know who they’re working for.” Everybody has their concerns, but when a person with psychosis has concerns, it becomes delusional, paranoid, and psychotic.
+
+
+
+I’d like to see more providers be given more training around severe mental illness. These are not just people who just need to go to the hospital to get remedicated for a couple of days. There’s a whole life that needs to get looked at here, and they deserve that. I’d like to see more group settings with a combination of psychoeducation, evidence-based research, skills training, and process, because the research says that’s the combination that’s really important.
+
+
+
+Editor’s note: Sallee works for a large HMO psychiatry department, and her account here is not on behalf of, endorsed by, or speaking for any larger organization.
+
+
+
+
+
+
+
+The epidemiologist rethinking how to bridge differences in culture and community&nbsp;
+
+
+
+
+
+
+
+John Wright
+
+
+
+Clinician and epidemiologistBradford, United Kingdom
+
+
+
+
+
+
+
+I work in Bradford, the fifth-biggest city in the UK. It has a big South Asian population and high levels of deprivation. Before covid, I’d say there was growing awareness about conspiracies. But during the pandemic, I think that lockdown, isolation, fear of this unknown virus, and then the uncertainty about the future came together in a perfect storm to highlight people’s latent attraction to alternative hypotheses and conspiracies—it was fertile ground. I’ve been a National Health Service doctor for almost 40 years, and until recently, the NHS had a great reputation, with great trust, and great public support. The pandemic was the first time that I started seeing that erode.
+
+
+
+It wasn’t just conspiracies about vaccines or new drugs, either—it was also an undermining of trust in public institutions. I remember an older woman who had come into the emergency department with covid. She was very unwell, but she just wouldn’t go into hospital despite all our efforts, because there were conspiracies going around that we were killing patients in hospital. So she went home, and I don’t know what happened to her.
+
+
+
+The other big change in recent years has been social media and social networks that have obviously amplified and accelerated alternative theories and conspiracies. That’s been the tinder that’s allowed the wildfires to spread with these sort of conspiracy theories. In Bradford, particularly among ethnic minority communities, there’s been stronger links between them—allowing this to spread quicker—but also a more structural distrust.&nbsp;
+
+
+
+Vaccination rates have fallen since the pandemic, and we’re seeing lower uptake of the meningitis and HPV vaccines in schools among South Asian families. Ultimately, this needs a bigger societal approach than individual clinicians putting needles in arms. We started a project called Born in Bradford in 2007 that’s following more than 13,000 families, including around 20,000 teenagers as they grow up. One of the biggest focuses for us is how they use social media and how it links to their mental health, so we’re asking them to donate their digital media to us so we can examine it in confidence. We’re hoping it could allow us to explore conspiracies and influences.
+
+
+
+The challenge for the next generation of resident doctors and clinicians is: How do we encourage health literacy in young people about what’s right and what’s wrong without being paternalistic? We also need to get better at engaging with people as health advocates to counter some of the online narratives. The NHS website can’t compete with how engaging content on TikTok is.
+
+
+
+
+
+
+
+The pediatrician who worries about the confusing public narrative on vaccines
+
+
+
+
+
+
+
+Jessica Weisz
+
+
+
+PediatricianWashington, DC
+
+
+
+
+
+
+
+I’m an outpatient pediatrician, so I do a lot of preventative care, checkups, and sick visits, and treating coughs and colds—those sorts of things. I’ve had specific training in how to support families in clinical decision-making related to vaccines, and every family wants what’s best for their child, and so supporting them is part of my job.
+
+
+
+I don’t see specific articulation of conspiracy theories, but I do think there’s more questions about vaccines in conversations I’ve not typically had to have before. I’ve found that parents and caregivers do ask general questions about the risks and benefits of vaccines. We just try to reiterate that vaccines have been studied, that they are intentionally scheduled to protect an immature immune system when it’s the most vulnerable, and that we want everyone to be safe, healthy, and strong. That’s how we can provide protection.
+
+
+
+&#8220;I think what’s confusing is that distress is being sowed in headlines when most patients, families, and caregivers are motivated and want to be vaccinated.&#8221;
+
+
+
+I feel that the narrative in the public space is unfairly confusing to families when over 90% of families still want their kids to be vaccinated. The families who are not as interested in that, or have questions—it typically takes multiple conversations to support that family in their decision-making. It’s very rarely one conversation.
+
+
+
+I think what’s confusing is that distress is being sowed in headlines when most patients, families, and caregivers are motivated and want to be vaccinated. For example, some of the headlines around recent changes the CDC are making make it sound like they’re making a huge clinical change, when it’s actually not a huge change from what people are typically doing. In my standard clinical practice, we don’t give the combined MMRV vaccine to children under four years old, and that’s been standard practice in all of the places I’ve worked on the Eastern Seaboard. [Editor’s note: In early October, the CDC updated its recommendation that young children receive the varicella vaccine separately from the combined vaccine for measles, mumps, and rubella. Many practitioners, including Weisz, already offer the shots separately.]
+
+
+
+If you look at public surveys, pediatricians are still the most trusted [among health-care providers], and I do live in a jurisdiction with pretty strong policy about school-based vaccination. I think that people are getting information from multiple sources, but at the end of the day, in terms of both the national rates and also what I see in clinical practice, we really are seeing most families wanting vaccines.
+• Why it’s so hard to bust the weather control conspiracy theory
+  It was October 2024, and Hurricane Helene had just devastated the US Southeast. Representative Marjorie Taylor Greene of Georgia found an abstract target on which to pin the blame: “Yes they can control the weather,” she posted on X. “It’s ridiculous for anyone to lie and say it can’t be done.”&nbsp;
+
+
+
+There was no word on who “they” were, but maybe it was better that way.&nbsp;
+
+
+
+She was repeating what’s by now a pretty familiar and popular conspiracy theory: that shadowy forces are out there, wielding unknown technology to control the weather and wreak havoc on their supposed enemies. This claim, fundamentally preposterous from a scientific standpoint, has grown louder and more common in recent years. It pops up over and over when extreme weather strikes: in Dubai in April 2024, in Australia in July 2022, in the US after California floods and hurricanes like Helene and Milton. In the UK, conspiracy theorists claimed that the government had fixed the weather to be sunny and rain-free during the first covid lockdown in March 2020. Most recently, the theories spread again when disastrous floods hit central Texas this past July. The idea has even inspired some antigovernment extremists to threaten and try to destroy weather radar towers.&nbsp;
+
+
+
+
+
+
+
+
+This story is part of MIT Technology Review’s series “The New Conspiracy Age,” on how the present boom in conspiracy theories is reshaping science and technology.
+
+
+
+
+
+
+
+
+But here’s the thing: While Greene and other believers are not correct, this conspiracy theory—like so many others—holds a kernel of much more modest truth behind the grandiose claims. 
+
+
+
+Sure, there is no current way for humans to control the weather. We can’t cause major floods or redirect hurricanes or other powerful storm systems, simply because the energy involved is far too great for humans to alter significantly.&nbsp;
+
+
+
+But there are ways we can modify the weather. The key difference is the scale of what is possible.&nbsp;
+
+
+
+The most common weather modification practice is called cloud seeding, and it involves injecting small amounts of salts or other materials into clouds with the goal of juicing levels of rain or snow. This is typically done in dry areas that lack regular precipitation. Research shows that it can in fact work, though advances in technology reveal that its impact is modest—coaxing maybe 5% to 10% more moisture out of otherwise stubborn clouds.
+
+
+
+But the fact that humans can influence weather at all gives conspiracy theorists a foothold in the truth. Add to this a spotty history of actual efforts by governments and militaries to control major storms, as well as other emerging but not-yet-deployed-at-any-scale technologies that aim to address climate change … and you can see where things get confusing. 
+
+
+
+So while more sweeping claims of weather control are ultimately ridiculous from a scientific standpoint, they can’t be dismissed as entirely stupid.
+
+
+
+This all helped make the conspiracy theories swirling after the recent Texas floods particularly loud and powerful. Just days earlier, 100 miles away from the epicenter of the floods, in a town called Runge, the cloud-seeding company Rainmaker had flown a single-engine plane and released about 70 grams of silver iodide into some clouds; a modest drizzle of less than half a centimeter of rain followed. But once the company saw a storm front in the forecast, it suspended its work; there was no need to seed with rain already on the way.
+
+
+
+
+
+“We conducted an operation on July 2, totally within the scope of what we were regulatorily permitted to do,” Augustus Doricko, Rainmaker’s founder and CEO, recently told me. Still, when as much as 20 inches of rain fell soon afterward not too far away, and more than 100 people died, the conspiracy theory machine whirred into action.&nbsp;
+
+
+
+As Doricko told the Washington Post in the tragedy’s aftermath, he and his company faced “nonstop pandemonium” on social media; eventually someone even posted photos from outside Rainmaker’s office, along with its address. Doricko told me a few factors played into the pile-on, including a lack of familiarity with the specifics of cloud seeding, as well as what he called “deliberately inflammatory messaging from politicians.” Indeed, theories about Rainmaker and cloud seeding spread online via prominent figures including Greene and former national security advisor Mike Flynn.&nbsp;
+
+
+
+Unfortunately, all this is happening at the same time as the warming climate is making heavy rainfall and the floods that accompany it more and more likely. “These events will become more frequent,” says Emily Yeh, a professor of geography at the University of Colorado who has examined approaches and reactions to weather modification around the world. “There is a large, vocal group of people who are willing to believe anything but climate change as the reason for Texas floods, or hurricanes.”
+
+
+
+Worsening extremes, increasing weather modification activity, improving technology, a sometimes shady track record—the conditions are perfect for an otherwise niche conspiracy theory to spread to anyone desperate for tidy explanations of increasingly disastrous events.
+
+
+
+Here, we break down just what’s possible and what isn’t—and address some of the more colorful reasons why people may believe things that go far beyond the facts.&nbsp;
+
+
+
+What we can do with the weather—and who is doing it
+
+
+
+
+The basic concepts behind cloud seeding have been around for about 80 years, and government interest in the topic goes back even longer than that.&nbsp;
+
+
+
+The primary practice involves using planes, drones, or generators on the ground to inject tiny particles of stuff, usually silver iodide, into existing clouds. The particles act as nuclei around which moisture can build up, forming ice crystals that can get heavy enough to fall out of the cloud as snow or rain.
+
+
+
+
+“Weather modification is an old field; starting in the 1940s there was a lot of excitement,” says David Delene, a research professor of atmospheric sciences at the University of North Dakota and an expert on cloud seeding. In a US Senate report from 1952 to establish a committee to study weather modification, authors noted that a small amount of extra rain could “produce electric power worth hundreds of thousands of dollars” and “greatly increase crop yields.” It also cited potential uses like “reducing soil erosion,” “breaking up hurricanes,” and even “cutting holes in clouds so that aircraft can operate.”&nbsp;
+
+
+
+LIBRARY OF CONGRESS
+
+
+
+
+
+But, as Delene adds, “that excitement … was not realized.”
+
+
+
+Through the 1980s, extensive research often funded or conducted by Washington yielded a much better understanding of atmospheric science and cloud physics, though it proved extremely difficult to actually demonstrate the efficacy of the technology itself. In other words, scientists learned the basic principles behind cloud seeding, and understood on a theoretical level that it should work—but it was hard to tell how big an impact it was having on rainfall.
+
+
+
+
+There is huge variability between one cloud and another, one storm system and another, one mountain or valley and another; for decades, the tools available to researchers did not really allow for firm conclusions on exactly how much extra moisture, if any, they were getting out of any given operation. Interest in the practice died down to a low hum by the 1990s.
+
+
+
+But over the past couple of decades, the early excitement has returned.
+
+
+
+Cloud seeding can enhance levels of rain and snow&nbsp;
+
+
+
+While the core technology has largely stayed the same, several projects launched in the US and abroad starting in the 2000s have combined statistical modeling with new and improved aircraft-based measurements, ground-based radar, and more to provide better answers on what results are actually achievable when seeding clouds.
+
+
+
+“I think we’ve identified unequivocally that we can indeed modify the cloud,” says Jeff French, an associate professor and head of the University of Wyoming’s Department of Atmospheric Science, who has worked for years on the topic. But even as scientists have come to largely agree that the practice can have an impact on precipitation, they also largely recognize that the impact probably has some fairly modest upper limits—far short of massive water surges.&nbsp;
+
+
+
+“There is absolutely no evidence that cloud seeding can modify a cloud to the extent that would be needed to cause a flood,” French says. Floods require a few factors, he adds—a system with plenty of moisture available that stays localized to a certain spot for an extended period. “All of these things which cloud seeding has zero effect on,” he says.&nbsp;
+
+
+
+The technology simply operates on a different level. “Cloud seeding really is looking at making an inefficient system a little bit more efficient,” French says.&nbsp;
+
+
+
+As Delene puts it: “Originally [researchers] thought, well, we could, you know, do 50%, 100% increases in precipitation,” but “I think if you do a good program you’re not going to get more than a 10% increase.”&nbsp;
+
+
+
+Asked for his take on a theoretical limit, French was hesitant—“I don’t know if I’m ready to stick my neck out”—but agreed on “maybe 10-ish percent” as a reasonable guess.
+
+
+
+Another cloud seeding expert, Katja Friedrich from the University of Colorado–Boulder, says that any grander potential would be obvious by this point: We wouldn’t have “spent the last 100 years debating—within the scientific community—if cloud seeding works,” she writes in an email. “It would have been easy to separate the signal (from cloud seeding) from the noise (natural precipitation).”
+
+
+
+It can also (probably) suppress precipitation
+
+
+
+Sometimes cloud seeding is used not to boost rain and snow but rather to try to reduce its severity—or, more specifically, to change the size of individual rain droplets or hailstones. 
+
+
+
+One of the most prominent examples has been in parts of Canada, where hailstorms can be devastating; a 2024 event in Calgary, for instance, was the country’s second-most-expensive disaster ever, with over $2 billion in damages. 
+
+
+
+Insurance companies in Alberta have been working together for nearly three decades on a cloud seeding program that’s aimed at reducing some of that damage. In these cases, the silver iodide or other particles are meant to act essentially as competition for other “embryos” inside the cloud, increasing the total number of hailstones and thus reducing each individual stone’s average size.&nbsp;
+
+
+
+Smaller hailstones means less damage when they reach the ground. The insurance companies—which continue to pay for the program—say losses have been cut by 50% since the program started, though scientists aren’t quite as confident in its overall success. A 2023 study published in Atmospheric Research examined 10 years of cloud seeding efforts in the province and found that the practice did appear to reduce potential for damage in about 60% of seeded storms—while in others, it had no effect or was even associated with increased hail (though the authors said this could have been due to natural variation).
+
+
+
+Similar techniques are also sometimes deployed to try to improve the daily forecast just a bit. During the 2008 Olympics, for instance, China engaged in a form of cloud seeding aimed at reducing rainfall. As MIT Technology Review detailed back then, officials with the Beijing Weather Modification Office planned to use a liquid-nitrogen-based coolant that could increase the number of water droplets in a cloud while reducing their size; this can get droplets to stay aloft a little longer instead of falling out of the cloud. Though it is tough to prove that it definitively would have rained without the effort, the targeted opening ceremony did stay dry.
+
+
+
+So, where is this happening?&nbsp;
+
+
+
+The United Nations’ World Meteorological Organization says that some form of weather modification is taking place in “more than 50 countries” and that “demand for these weather modification activities is increasing steadily due to the incidence of droughts and other calamities.”
+
+
+
+The biggest user of cloud-seeding tech is arguably China. Following the work around the Olympics, the country announced a huge expansion of its weather modification program in 2020, claiming it would eventually run operations for agricultural relief and other functions, including hail suppression, over an area about the size of India and Algeria combined. Since then, China has occasionally announced bits of progress—including updates to weather modification aircraft and the first use of drones for artificial snow enhancement. Overall, it spends billions on the practice, with more to come.
+
+
+
+
+
+
+
+Elsewhere, desert countries have taken an interest. In 2024, Saudi Arabia announced an expanded research program on cloud seeding—Delene, of the University of North Dakota, was part of a team that conducted experiments in various parts of that country in late 2023. Its neighbor the United Arab Emirates began “rain enhancement” activities back in 1990; this program too has faced outcry, especially after more than a typical year’s worth of rain fell in a single day in 2024, causing massive flooding. (Bloomberg recently published a story about persistent questions regarding the country’s cloud seeding program; in response to the story, French wrote in an email that the “best scientific understanding is still that cloud seeding CANNOT lead to these types of events.” Other experts we asked agreed.)&nbsp;
+
+
+
+In the US, a 2024 Government Accountability Office report on cloud seeding said that at least nine states have active programs. These are sometimes run directly by the state and sometimes contracted out through nonprofits like the South Texas Weather Modification Association to private companies, including Doricko’s Rainmaker and North Dakota–based Weather Modification. In August, Doricko told me that Rainmaker had grown to 76 employees since it launched in 2023. It now runs cloud seeding operations in Utah, Idaho, Oregon, California, and Texas, as well as forecasting services in New Mexico and Arizona. And in an answer that may further fuel the conspiracy fire, he added they are also operating in one Middle Eastern country; when I asked which one, he’d only say, “Can’t tell you.”
+
+
+
+What we cannot do
+
+
+
+The versions of weather modification that the conspiracy theorists envision most often—significantly altering monsoons or hurricanes or making the skies clear and sunny for weeks at a time—have so far proved impossible to carry out. But that’s not necessarily for lack of trying.
+
+
+
+The US government attempted to alter a hurricane in 1947 as part of a program dubbed Project Cirrus. In collaboration with GE, government scientists seeded clouds with pellets of dry ice, the idea being that the falling pellets could induce supercooled liquid in the clouds to crystallize into ice. After they did this, the storm took a sharp left turn and struck the area around Savannah, Georgia. This was a significant moment for budding conspiracy theories, since a GE scientist who had been working with the government said he was “99% sure” the cyclone swerved because of their work. Other experts disagreed and showed that such storm trajectories are, in reality, perfectly possible without intervention. Perhaps unsurprisingly, public outrage and threats of lawsuits followed.
+
+
+
+It took some time for the hubbub to die down, after which several US government agencies continued—unsuccessfully—trying to alter and weaken hurricanes with a long-running cloud seeding program called Project Stormfury. Around the same time, the US military joined the fray with Operation Popeye, essentially trying to harness weather as a weapon in the Vietnam War—engaging in cloud seeding efforts over Vietnam, Cambodia, and Laos in the late 1960s and early 1970s, with an eye toward increasing monsoon rains and bogging down the enemy. Though it was never really clear whether these efforts worked, the Nixon administration tried to deny them, going so far as to lie to the public and even to congressional committees.
+
+
+
+
+
+
+
+More recently and less menacingly, there have been experiments with Dyn-O-Gel—a Florida company’s super-absorbent powder, intended to be dropped into storm clouds to sop up their moisture. In the early 2000s, the company carried out experiments with the stuff in thunderstorms, and it had grand plans to use it to weaken tropical cyclones. But according to one former NOAA scientist, you would need to drop almost 38,000 tons of it, requiring nearly 380 individual plane trips, in and around even a relatively small cyclone’s eyewall to really affect the storm’s strength. And then you would have to do that again an hour and a half later, and so on. Reality tends to get in the way of the biggest weather modification ideas.
+
+
+
+Beyond trying to control storms, there are some other potential weather modification technologies out there that are either just getting started or have never taken off. Swiss researchers have tried to use powerful lasers to induce cloud formation, for example; in Australia, where climate change is imperiling the Great Barrier Reef, artificial clouds created when ship-based nozzles spray moisture into the sky have been used to try to protect the vital ecosystem. In each case, the efforts remain small, localized, and not remotely close to achieving the kinds of control the conspiracy theorists allege.
+
+
+
+What is not weather modification—but gets lumped in with it
+
+
+
+Further worsening weather control conspiracies is that there is a tendency to conflate cloud seeding and other promising weather modification research with concepts such as chemtrails—a full-on conspiracist fever dream about innocuous condensation trails left by jets—and solar geoengineering, a theoretical stopgap to cool the planet that has been subject to much discussion and modeling research but has never been deployed in any large-scale way.
+
+
+
+One controversial form of solar geoengineering, known as stratospheric aerosol injection, would involve having high-altitude jets drop tiny aerosol particles—sulfur dioxide, most likely—into the stratosphere to act essentially as tiny mirrors. They would reflect a small amount of sunlight back into space, leaving less energy to reach the ground and contribute to warming. To date, attempts to launch physical experiments in this space have been shouted down, and only tiny—though still controversial—commercial efforts have taken place.&nbsp;
+
+
+
+
+
+One can see why it gets lumped in with cloud seeding: bits of stuff, dumped into the sky, with the aim of altering what happens down below. But the aims are entirely separate; geoengineering would alter the global average temperature rather than having measurable effects on momentary cloudbursts or hailstorms. Some research has suggested that the practice could alter monsoon patterns, a significant issue given their importance to much of the world’s agriculture, but it remains a fundamentally different practice from cloud seeding.
+
+
+
+Still, the political conversation around supposed weather control often reflects this confusion. Greene, for instance, introduced a bill in July called the Clear Skies Act, which would ban all weather modification and geoengineering activities. (Greene’s congressional office did not respond to a request for comment.) And last year, Tennessee became the first state to enact a law to prohibit the “intentional injection, release, or dispersion, by any means, of chemicals, chemical compounds, substances, or apparatus … into the atmosphere with the express purpose of affecting temperature, weather, or the intensity of the sunlight.” Florida followed suit, with Governor Ron DeSantis signing SB 56 into law in June of this year for the same stated purpose.
+
+
+
+Also this year, lawmakers in more than 20 other states have also proposed some version of a ban on weather modification, often lumping it in with geoengineering, even though caution on the latter is more widely accepted or endorsed. “It’s not a conspiracy theory,” one Pennsylvania lawmaker who cosponsored a similar bill told NBC News. “All you have to do is look up.”
+
+
+
+Oddly enough, as Yeh of the University of Colorado points out, the places where bans have passed are states where weather modification isn’t really happening. “In a way, it’s easy for them to ban it, because, you know, nothing actually has to be done,” she says. In general, neither Florida nor Tennessee—nor any other part of the Southeast—needs any help finding rain. Basically, all weather modification activity in the US happens in the drier areas west of the Mississippi.&nbsp;
+
+
+
+Finding a culprit
+
+
+
+Doricko told me that in the wake of the Texas disaster, he has seen more people become willing to learn about the true capabilities of cloud seeding and move past the more sinister theories about it.&nbsp;
+
+
+
+I asked him, though, about some of his company’s flashier branding: Until recently, visitors to the Rainmaker website were greeted right up top with the slogan “Making Earth Habitable.” Might this level of hype contribute to public misunderstanding or fear?&nbsp;
+
+
+
+He said he is indeed aware that Earth is, currently, habitable, and called the slogan a “tongue-in-cheek, deliberately provocative statement.” Still, in contrast to the academics who seem more comfortable acknowledging weather modification’s limits, he has continued to tout its revolutionary potential. “If we don’t produce more water, then a lot of the Earth will become less habitable,” he said. “By producing more water via cloud seeding, we’re helping to conserve the ecosystems that do currently exist, that are at risk of collapse.”&nbsp;
+
+
+
+While other experts cited that 10% figure as a likely upper limit of cloud seeding’s effectiveness, Doricko said they could eventually approach 20%, though that might be years away. “Is it literally magic? Like, can I snap my fingers and turn the Sahara green? No,” he said. “But can it help make a greener, verdant, and abundant world? Yeah, absolutely.”&nbsp;
+
+
+
+
+
+
+
+It’s not all that hard to see why people still cling to magical thinking here. The changing climate is, after all, offering up what’s essentially weaponized weather, only with a much broader and long-term mechanism behind it. There is no single sinister agency or company with its finger on the trigger, though it can be tempting to look for one; rather, we just have an atmosphere capable of holding more moisture and dropping it onto ill-prepared communities, and many of the people in power are doing little to mitigate the impacts.
+
+
+
+“Governments are not doing a good job of responding to the climate crisis; they are often captured by fossil-fuel interests, which drive policy, and they can be slow and ineffective when responding to disasters,” Naomi Smith, a lecturer in sociology at the University of the Sunshine Coast in Australia who has written about conspiracy theories and weather events, writes in an email. “It’s hard to hold all this complexity, and conspiracy theorizing is one way of making it intelligible and understandable.”&nbsp;&nbsp;
+
+
+
+“Conspiracy theories give us a ‘big bad’ to point the finger at, someone to blame and a place to put our feelings of anger, despair, and grief,” she writes. “It’s much less satisfying to yell at the weather, or to engage in the sustained collective action we actually need to tackle climate change.”
+
+
+
+The sinister “they” in Greene’s accusations is, in other words, a far easier target than the real culprit.&nbsp;
+
+
+
+Dave Levitan is an independent journalist, focused on science, politics, and policy. Find his work at davelevitan.com and subscribe to his newsletter at gravityisgone.com.&nbsp;
+• Chatbots are surprisingly effective at debunking conspiracy theories
+  It’s become a truism that facts alone don’t change people’s minds. Perhaps nowhere is this more clear than when it comes to conspiracy theories: Many people believe that you can’t talk conspiracists out of their beliefs.&nbsp;
+
+
+
+But that’s not necessarily true. It turns out that many conspiracy believers do respond to evidence and arguments—information that is now easy to deliver in the form of a tailored conversation with an AI chatbot.
+
+
+
+In research we published in the journal Science this year, we had over 2,000 conspiracy believers engage in a roughly eight-minute conversation with DebunkBot, a model we built on top of OpenAI’s GPT-4 Turbo (the most up-to-date GPT model at that time). Participants began by writing out, in their own words, a conspiracy theory that they believed and the evidence that made the theory compelling to them. Then we instructed the AI model to persuade the user to stop believing in that conspiracy and adopt a less conspiratorial view of the world. A three-round back-and-forth text chat with the AI model (lasting 8.4 minutes on average) led to a 20% decrease in participants’ confidence in the belief, and about one in four participants—all of whom believed the conspiracy theory beforehand—indicated that they did not believe it after the conversation. This effect held true for both classic conspiracies (think the JFK assassination or the moon landing hoax) and more contemporary politically charged ones (like those related to the 2020 election and covid-19).
+
+
+
+
+
+
+
+
+This story is part of MIT Technology Review’s series “The New Conspiracy Age,” on how the present boom in conspiracy theories is reshaping science and technology.
+
+
+
+
+
+
+
+
+This is good news, given the outsize role that unfounded conspiracy theories play in today’s political landscape. So while there are widespread and legitimate concerns that generative AI is a potent tool for spreading disinformation, our work shows that it can also be part of the solution.&nbsp;
+
+
+
+Even people who began the conversation absolutely certain that their conspiracy was true, or who indicated that it was highly important to their personal worldview, showed marked decreases in belief. Remarkably, the effects were very durable; we followed up with participants two months later and saw just as big a reduction in conspiracy belief as we did immediately after the conversations.&nbsp;
+
+
+
+Our experiments indicate that many believers are relatively rational but misinformed, and getting them timely, accurate facts can have a big impact. Conspiracy theories can make sense to reasonable people who have simply never heard clear, non-conspiratorial explanations for the events they’re fixated on. This may seem surprising. But many conspiratorial claims, while wrong, seem reasonable on the surface and require specialized, esoteric knowledge to evaluate and debunk.&nbsp;
+
+
+
+
+
+For example, 9/11 deniers often point to the claim that jet fuel doesn’t burn hot enough to melt steel as evidence that airplanes were not responsible for bringing down the Twin Towers—but the chatbot responds by pointing out that although this is true, the American Institute of Steel Construction says jet fuel does burn hot enough to reduce the strength of steel by over 50%, which is more than enough to cause such towers to collapse.&nbsp;
+
+
+
+Although we have greater access to factual information than ever before, it is extremely difficult to search that vast corpus of knowledge efficiently. Finding the truth that way requires knowing what to google—or who to listen to—and being sufficiently motivated to seek out conflicting information. There are large time and skill barriers to conducting such a search every time we hear a new claim, and so it’s easy to take conspiratorial content you stumble upon at face value. And most would-be debunkers at the Thanksgiving table make elementary mistakes that AI avoids: Do you know the melting point and tensile strength of steel offhand? And when your relative calls you an idiot while trying to correct you, are you able to maintain your composure?&nbsp;
+
+
+
+With enough effort, humans would almost certainly be able to research and deliver facts like the AI in our experiments. And in a follow-up experiment, we found that the AI debunking was just as effective if we told participants they were talking to an expert rather than an AI. So it’s not that the debunking effect is AI-specific. Generally speaking, facts and evidence delivered by humans would also work. But it would require a lot of time and concentration for a human to come up with those facts. Generative AI can do the cognitive labor of fact-checking and rebutting conspiracy claims much more efficiently.&nbsp;
+
+
+
+In another large follow-up experiment, we found that what drove the debunking effect was specifically the facts and evidence the model provided: Factors like letting people know the chatbot was going to try to talk them out of their beliefs didn’t reduce its efficacy, whereas telling the model to try to persuade its chat partner without using facts and evidence totally eliminated the effect.&nbsp;
+
+
+
+Although the foibles and hallucinations of these models are well documented, our results suggest that debunking efforts are widespread enough on the internet to keep the conspiracy-focused conversations roughly accurate. When we hired a professional fact-checker to evaluate GPT-4’s claims, they found that over 99% of the claims were rated as true (and not politically biased). Also, in the few cases where participants named conspiracies that turned out to be true (like MK Ultra, the CIA’s human experimentation program from the 1950s), the AI chatbot confirmed their accurate belief rather than erroneously talking them out of it.
+
+
+
+To date, largely by necessity, interventions to combat conspiracy theorizing have been mainly prophylactic—aiming to prevent people from going down the rabbit hole rather than trying to pull them back out. Now, thanks to advances in generative AI, we have a tool that can change conspiracists’ minds using evidence.&nbsp;
+
+
+
+Bots prompted to debunk conspiracy theories could be deployed on social media platforms to engage with those who share conspiratorial content—including other AI chatbots that spread conspiracies. Google could also link debunking AI models to search engines to provide factual answers to conspiracy-related queries. And instead of arguing with your conspiratorial uncle over the dinner table, you could just pass him your phone and have him talk to AI.&nbsp;
+
+
+
+Of course, there are much deeper implications here for how we as humans make sense of the world around us. It is widely argued that we now live in a “post-truth” world, where polarization and politics have eclipsed facts and evidence. By that account, our passions trump truth, logic-based reasoning is passé, and the only way to effectively change people’s minds is via psychological tactics like presenting compelling personal narratives or changing perceptions of the social norm. If so, the typical, discourse-based work of living together in a democracy is fruitless.
+
+
+
+But facts aren’t dead. Our findings about conspiracy theories are the latest—and perhaps most extreme—in an emerging body of research demonstrating the persuasive power of facts and evidence. For example, while it was once believed that correcting falsehoods that aligns with one’s politics would just cause people to dig in and believe them even more, this idea of a “backfire” has itself been debunked: Many studies consistently find that corrections and warning labels reduce belief in, and sharing of, falsehoods—even among those who most distrust the fact-checkers making the corrections. Similarly, evidence-based arguments can change partisans’ minds on political issues, even when they are actively reminded that the argument goes against their party leader’s position. And simply reminding people to think about whether content is accurate before they share it can substantially reduce the spread of misinformation.&nbsp;
+
+
+
+And if facts aren’t dead, then there’s hope for democracy—though this arguably requires a consensus set of facts from which rival factions can work. There is indeed widespread partisan disagreement on basic facts, and a disturbing level of belief in conspiracy theories. Yet this doesn’t necessarily mean our minds are inescapably warped by our politics and identities. When faced with evidence—even inconvenient or uncomfortable evidence—many people do shift their thinking in response. And so if it’s possible to disseminate accurate information widely enough, perhaps with the help of AI, we may be able to reestablish the factual common ground that is missing from society today.
+
+
+
+You can try our debunking bot yourself at at debunkbot.com.&nbsp;
+
+
+
+Thomas Costello is an assistant professor in social and decision sciences at Carnegie Mellon University. His research integrates psychology, political science, and human-computer interaction to examine where our viewpoints come from, how they differ from person to person, and why they change—as well as the sweeping impacts of artificial intelligence on these processes.
+
+
+
+Gordon Pennycook is the Dorothy and Ariz Mehta Faculty Leadership Fellow and associate professor of psychology at Cornell University. He examines the causes and consequences of analytic reasoning, exploring how intuitive versus deliberative thinking shapes decision-making to understand errors underlying issues such as climate inaction, health behaviors, and political polarization.
+
+
+
+David Rand is a professor of information science, marketing and management communication, and psychology at Cornell University. He uses approaches from computational social science and cognitive science to explore how human-AI dialogue can correct inaccurate beliefs, why people share falsehoods, and how to reduce political polarization and promote cooperation.
 
 🔒 Cybersecurity & Privacy
 • Aisuru Botnet Shifts from DDoS to Residential Proxies
@@ -415,20 +1307,20 @@ One of IPidea&#8217;s core brands is 922S5Proxy, which is a not-so-subtle nod to
 That 2022 story named Yunhe Wang from Beijing as the apparent owner and/or manager of the 911S5 proxy service. In May 2024, the U.S. Department of Justice arrested Mr Wang, alleging that his network was used to steal billions of dollars from financial institutions, credit card issuers, and federal lending programs. At the same time, the U.S. Treasury Department announced sanctions against Wang and two other Chinese nationals for operating 911S5Proxy.
 The website for 922Proxy.
 DATA SCRAPING FOR AI
-In recent months, multiple experts who track botnet and proxy activity have shared that a great deal of content scraping which ultimate benefits AI companies is now leveraging these proxy networks to further obfuscate their aggressive data-slurping activity. That&#8217;s because by routing it through residential IP addresses, content scraping firms can make their traffic far trickier to filter out.
+In recent months, multiple experts who track botnet and proxy activity have shared that a great deal of content scraping which ultimately benefits AI companies is now leveraging these proxy networks to further obfuscate their aggressive data-slurping activity. That&#8217;s because by routing it through residential IP addresses, content scraping firms can make their traffic far trickier to filter out.
 &#8220;It&#8217;s really difficult to block, because there&#8217;s a risk of blocking real people,&#8221; Spur&#8217;s Kilmer said of the LLM scraping activity that is fed through individual residential IP addresses, which are often shared by multiple customers at once.
 Kilmer says the AI industry has brought a veneer of legitimacy to residential proxy business, which has heretofore mostly been associated with sketchy affiliate money making programs, automated abuse, and unwanted Internet traffic.
 &#8220;Web crawling and scraping has always been a thing, but AI made it like a commodity, data that had to be collected,&#8221; Kilmer said. &#8220;Everybody wanted to monetize their own data pots, and how they monetize that is different across the board.&#8221;
 Kilmer said many LLM-related scrapers rely on residential proxies in cases where the content provider has restricted access to their platform in some way, such as forcing interaction through an app, or keeping all content behind a login page with multi-factor authentication.
 &#8220;Where the cost of data is out of reach &#8212; there is some exclusivity or reason they can&#8217;t access the data &#8212; they&#8217;ll turn to residential proxies so they look like a real person accessing that data,&#8221; Kilmer said of the content scraping efforts.
 Aggressive AI crawlers increasingly are overloading community-maintained infrastructure, causing what amounts to persistent DDoS attacks on vital public resources. A report earlier this year from LibreNews found some open-source projects now see as much as 97 percent of their traffic originating from AI company bots, dramatically increasing bandwidth costs, service instability, and burdening already stretched-thin maintainers.
-Cloudflare is now experimenting with tools that will allow content creators to charge a fee to AI crawlers to scrape their websites. The company&#8217;s &#8220;pay-per-crawl&#8221; feature is currently in a private beta, but it lets publishers set their own prices that bots must pay before scraping content.
+Cloudflare is now experimenting with tools that will allow content creators to charge a fee to AI crawlers to scrape their websites. The company&#8217;s &#8220;pay-per-crawl&#8221; feature is currently in a private beta, and it lets publishers set their own prices that bots must pay before scraping content.
 On October 22, the social media and news network Reddit sued Oxylabs (PDF) and several other proxy providers, alleging that their systems enabled the mass-scraping of Reddit user content even though Reddit had taken steps to block such activity.
 &#8220;Recognizing that Reddit denies scrapers like them access to its site, Defendants scrape the data from Google’s search results instead,&#8221; the lawsuit alleges. &#8220;They do so by masking their identities, hiding their locations, and disguising their web scrapers as regular people (among other techniques) to circumvent or bypass the security restrictions meant to stop them.&#8221;
 Denas Grybauskas, chief governance and strategy officer at Oxylabs, said the company was shocked and disappointed by the lawsuit.
 &#8220;Reddit has made no attempt to speak with us directly or communicate any potential concerns,&#8221; Grybauskas said in a written statement. &#8220;Oxylabs has always been and will continue to be a pioneer and an industry leader in public data collection, and it will not hesitate to defend itself against these allegations. Oxylabs’ position is that no company should claim ownership of public data that does not belong to them. It is possible that it is just an attempt to sell the same public data at an inflated price.&#8221;
 As big and powerful as Aisuru may be, it is hardly the only botnet that is contributing to the overall broad availability of residential proxies. For example, on June 5 the FBI’s Internet Crime Complaint Center warned that an IoT malware threat dubbed BADBOX 2.0 had compromised millions of smart-TV boxes, digital projectors, vehicle infotainment units, picture frames, and other IoT devices.
-In July 2025, Google filed a lawsuit in New York federal court against the Badbox botnet&#8217;s alleged perpetrators. Google said the Badbox 2.0 botnet &#8220;compromised more than 10 million uncertified devices running Android&#8217;s open-source software, which lacks Google&#8217;s security protections. Cybercriminals infected these devices with pre-installed malware and exploited them to conduct large-scale ad fraud and other digital crimes.&#8221;
+In July, Google filed a lawsuit in New York federal court against the Badbox botnet&#8217;s alleged perpetrators. Google said the Badbox 2.0 botnet &#8220;compromised more than 10 million uncertified devices running Android&#8217;s open-source software, which lacks Google&#8217;s security protections. Cybercriminals infected these devices with pre-installed malware and exploited them to conduct large-scale ad fraud and other digital crimes.&#8221;
 A FAMILIAR DOMAIN NAME
 Brundage said the Aisuru botmasters have their own SDK, and for some reason part of its code tells many newly-infected systems to query the domain name fuckbriankrebs[.]com. This may be little more than an elaborate &#8220;screw you&#8221; to this site&#8217;s author: One of the botnet&#8217;s alleged partners goes by the handle &#8220;Forky,&#8221; and was identified in June by KrebsOnSecurity as a young man from Sao Paulo, Brazil.
 Brundage noted that only systems infected with Aisuru&#8217;s Android SDK will be forced to resolve the domain. Initially, there was some discussion about whether the domain might have some utility as a &#8220;kill switch&#8221; capable of disrupting the botnet&#8217;s operations, although Brundage and others interviewed for this story say that is unlikely.
@@ -649,184 +1541,5 @@ Derrick Choo is a Senior AI/ML Specialist Solutions Architect at AWS who acceler
 Tim Ma is a Principal Specialist in Generative AI at AWS, where he collaborates with customers to design and deploy cutting-edge machine learning solutions. He also leads go-to-market strategies for generative AI services, helping organizations harness the potential of advanced AI technologies. 
 Curt Lockhart is an AI Solutions Architect at NVIDIA, where he helps customers deploy language and vision models to build end to end AI workflows using NVIDIA’s tooling on AWS. He enjoys making complex AI feel approachable and spending his time exploring the art, music, and outdoors of the Pacific Northwest. 
 Francesco Ciannella is a senior engineer at NVIDIA, where he works on conversational AI solutions built around large language models (LLMs) and audio language models (ALMs). He holds a M.S. in engineering of telecommunications from the University of Rome “La Sapienza” and an M.S. in language technologies from the School of Computer Science at Carnegie Mellon University.
-• Responsible AI design in healthcare and life sciences
-  Generative AI has emerged as a transformative technology in healthcare, driving digital transformation in essential areas such as patient engagement and care management. It has shown potential to revolutionize how clinicians provide improved care through automated systems with diagnostic support tools that provide timely, personalized suggestions, ultimately leading to better health outcomes. For example, a study reported in BMC Medical Education that medical students who received large language model (LLM)-generated feedback during simulated patient interactions significantly improved their clinical decision-making compared to those who did not. 
-At the center of most generative AI systems are LLMs capable of generating remarkably natural conversations, enabling healthcare customers to build products across billing, diagnosis, treatment, and research that can perform tasks and operate independently with human oversight. However, the utility of generative AI requires an understanding of the potential risks and impacts on healthcare service delivery, which necessitates the need for careful planning, definition, and execution of a system-level approach to building safe and responsible generative AI-infused applications. 
-In this post, we focus on the design phase of building healthcare generative AI applications, including defining system-level policies that determine the inputs and outputs. These policies can be thought of as guidelines that, when followed, help build a responsible AI system. 
-Designing responsibly 
-LLMs can transform healthcare by reducing the cost and time required for considerations such as quality and reliability. As shown in the following diagram, responsible AI considerations can be successfully integrated into an LLM-powered healthcare application by considering quality, reliability, trust, and fairness for everyone. The goal is to promote and encourage certain responsible AI functionalities of AI systems. Examples include the following: 
- 
- Each component’s input and output is aligned with clinical priorities to maintain alignment and promote controllability 
- Safeguards, such as guardrails, are implemented to enhance the safety and reliability of your AI system 
- Comprehensive AI red-teaming and evaluations are applied to the entire end-to-end system to assess safety and privacy-impacting inputs and outputs 
- 
-Conceptual architecture 
-The following diagram shows a conceptual architecture of a generative AI application with an LLM. The inputs (directly from an end-user) are mediated through input guardrails. After the input has been accepted, the LLM can process the user’s request using internal data sources. The output of the LLM is again mediated through guardrails and can be shared with end-users. 
- 
-Establish governance mechanisms 
-When building generative AI applications in healthcare, it’s essential to consider the various risks at the individual model or system level, as well as at the application or implementation level. The risks associated with generative AI can differ from or even amplify existing AI risks. Two of the most important risks are confabulation and bias: 
- 
- Confabulation — The model generates confident but erroneous outputs, sometimes referred to as hallucinations. This could mislead patients or clinicians. 
- Bias — This refers to the risk of exacerbating historical societal biases among different subgroups, which can result from non-representative training data. 
- 
-To mitigate these risks, consider establishing content policies that clearly define the types of content your applications should avoid generating. These policies should also guide how to fine-tune models and which appropriate guardrails to implement. It is crucial that the policies and guidelines are tailored and specific to the intended use case. For instance, a generative AI application designed for clinical documentation should have a policy that prohibits it from diagnosing diseases or offering personalized treatment plans. 
-Additionally, defining clear and detailed policies that are specific to your use case is fundamental to building responsibly. This approach fosters trust and helps developers and healthcare organizations carefully consider the risks, benefits, limitations, and societal implications associated with each LLM in a particular application. 
-The following are some example policies you might consider using for your healthcare-specific applications. The first table summarizes the roles and responsibilities for human-AI configurations. 
- 
-  
-   
-   Action ID 
-   Suggested Action 
-   Generative AI Risks 
-   
-   
-   GV-3.2-001 
-   Policies are in place to bolster oversight of generative AI systems with independent evaluations or assessments of generative AI models or systems where the type and robustness of evaluations are proportional to the identified risks. 
-   CBRN Information or Capabilities; Harmful Bias and Homogenization 
-   
-   
-   GV-3.2-002 
-   Consider adjustment of organizational roles and components across lifecycle stages of large or complex generative AI systems, including: test and evaluation, validation, and red-teaming of generative AI systems; generative AI content moderation; generative AI system development and engineering; increased accessibility of generative AI tools, interfaces, and systems; and incident response and containment. 
-   Human-AI Configuration; Information Security; Harmful Bias and Homogenization 
-   
-   
-   GV-3.2-003 
-   Define acceptable use policies for generative AI interfaces, modalities, and human-AI configurations (for example, for AI assistants and decision-making tasks), including criteria for the kinds of queries generative AI applications should refuse to respond to. 
-   Human-AI Configuration 
-   
-   
-   GV-3.2-004 
-   Establish policies for user feedback mechanisms for generative AI systems that include thorough instructions and any mechanisms for recourse. 
-   Human-AI Configuration 
-   
-   
-   GV-3.2-005 
-   Engage in threat modeling to anticipate potential risks from generative AI systems. 
-   CBRN Information or Capabilities; Information Security 
-   
-  
- 
-The following table summarizes policies for risk management in AI system design. 
- 
-  
-   
-   Action ID 
-   Suggested Action 
-   Generative AI Risks 
-   
-   
-   GV-4.1-001 
-   Establish policies and procedures that address continual improvement processes for generative AI risk measurement. Address general risks associated with a lack of explainability and transparency in generative AI systems by using ample documentation and techniques such as application of gradient-based attributions, occlusion or term reduction, counterfactual prompts and prompt engineering, and analysis of embeddings. Assess and update risk measurement approaches at regular cadences. 
-   Confabulation 
-   
-   
-   GV-4.1-002 
-   Establish policies, procedures, and processes detailing risk measurement in context of use with standardized measurement protocols and structured public feedback exercises such as AI red-teaming or independent external evaluations. 
-   CBRN Information and Capability; Value Chain and Component Integration 
-   
-  
- 
-Transparency artifacts 
-Promoting transparency and accountability throughout the AI lifecycle can foster trust, facilitate debugging and monitoring, and enable audits. This involves documenting data sources, design decisions, and limitations through tools like model cards and offering clear communication about experimental features. Incorporating user feedback mechanisms further supports continuous improvement and fosters greater confidence in AI-driven healthcare solutions. 
-AI developers and DevOps engineers should be transparent about the evidence and reasons behind all outputs by providing clear documentation of the underlying data sources and design decisions so that end-users can make informed decisions about the use of the system. Transparency enables the tracking of potential problems and facilitates the evaluation of AI systems by both internal and external teams. Transparency artifacts guide AI researchers and developers on the responsible use of the model, promote trust, and help end-users make informed decisions about the use of the system. 
-The following are some implementation suggestions: 
- 
- When building AI features with experimental models or services, it’s essential to highlight the possibility of unexpected model behavior so healthcare professionals can accurately assess whether to use the AI system. 
- Consider publishing artifacts such as Amazon SageMaker model cards or AWS system cards. Also, at AWS we provide detailed information about our AI systems through AWS AI Service Cards, which list intended use cases and limitations, responsible AI design choices, and deployment and performance optimization best practices for some of our AI services. AWS also recommends establishing transparency policies and processes for documenting the origin and history of training data while balancing the proprietary nature of training approaches. Consider creating a hybrid document that combines elements of both model cards and service cards, because your application likely uses foundation models (FMs) but provides a specific service. 
- Offer a feedback user mechanism. Gathering regular and scheduled feedback from healthcare professionals can help developers make necessary refinements to improve system performance. Also consider establishing policies to help developers allow for user feedback mechanisms for AI systems. These should include thorough instructions and consider establishing policies for any mechanisms for recourse. 
- 
-Security by design 
-When developing AI systems, consider security best practices at each layer of the application. Generative AI systems might be vulnerable to adversarial attacks suck as prompt injection, which exploits the vulnerability of LLMs by manipulating their inputs or prompt. These types of attacks can result in data leakage, unauthorized access, or other security breaches. To address these concerns, it can be helpful to perform a risk assessment and implement guardrails for both the input and output layers of the application. As a general rule, your operating model should be designed to perform the following actions: 
- 
- Safeguard patient privacy and data security by implementing personally identifiable information (PII) detection, configuring guardrails that check for prompt attacks 
- Continually assess the benefits and risks of all generative AI features and tools and regularly monitor their performance through Amazon CloudWatch or other alerts 
- Thoroughly evaluate all AI-based tools for quality, safety, and equity before deploying 
- 
-Developer resources 
-The following resources are useful when architecting and building generative AI applications: 
- 
- Amazon Bedrock Guardrails helps you implement safeguards for your generative AI applications based on your use cases and responsible AI policies. You can create multiple guardrails tailored to different use cases and apply them across multiple FMs, providing a consistent user experience and standardizing safety and privacy controls across your generative AI applications. 
- The AWS responsible AI whitepaper serves as an invaluable resource for healthcare professionals and other developers that are developing AI applications in critical care environments where errors could have life-threatening consequences. 
- AWS AI Service Cards explains the use cases for which the service is intended, how machine learning (ML) is used by the service, and key considerations in the responsible design and use of the service. 
- 
-Conclusion 
-Generative AI has the potential to improve nearly every aspect of healthcare by enhancing care quality, patient experience, clinical safety, and administrative safety through responsible implementation. When designing, developing, or operating an AI application, try to systematically consider potential limitations by establishing a governance and evaluation framework grounded by the need to maintain the safety, privacy, and trust that your users expect. 
-For more information about responsible AI, refer to the following resources: 
- 
- NIST Trustworthy and Responsible AI 
- OWASP Top 10 for Large Language Model applications 
- 
- 
- 
-About the authors 
-Tonny Ouma is an Applied AI Specialist at AWS, specializing in generative AI and machine learning. As part of the Applied AI team, Tonny helps internal teams and AWS customers incorporate leading-edge AI systems into their products. In his spare time, Tonny enjoys riding sports bikes, golfing, and entertaining family and friends with his mixology skills. 
-Simon Handley, PhD, is a Senior AI/ML Solutions Architect in the Global Healthcare and Life Sciences team at Amazon Web Services. He has more than 25 years’ experience in biotechnology and machine learning and is passionate about helping customers solve their machine learning and life sciences challenges. In his spare time, he enjoys horseback riding and playing ice hockey.
-• Beyond pilots: A proven framework for scaling AI to production
-  The era of perpetual AI pilots is over. This year, 65% of AWS Generative AI Innovation Center customer projects moved from concept to production—some launching in just 45 days, as AWS VP Swami Sivasubramanian shared on LinkedIn. These results come from insights gained across more than one thousand customer implementations. 
-The Generative AI Innovation Center pairs organizations across industries with AWS scientists, strategists, and engineers to implement practical AI solutions that drive measurable outcomes. These initiatives transform diverse sectors worldwide. For example, through a cross-functional AWS collaboration, we supported the National Football League (NFL) to create a generative AI-powered solution that obtains statistical game insights within 30 seconds. This helps their media and production teams locate video content six times faster. Similarly, we helped Druva’s DruAI system streamline customer support and data protection through natural language processing, reducing investigation time from hours to minutes. 
-These achievements reflect a broader pattern of success, driven by a powerful methodology: The Five V’s Framework for AI Implementation. 
- 
-This framework takes projects from initial testing to full deployment by focusing on concrete business outcomes and operational excellence. It’s grounded in two of Amazon’s Leadership Principles, Customer Obsession and Deliver Results. By starting with what customers actually need and working backwards, we’ve helped companies across industries modernize their operations and better serve their customers. 
-The Five V’s Framework: A foundation for success 
-Every successful AI deployment begins with groundwork. In our experience, projects thrive when organizations first identify specific challenges they need to solve, align key stakeholders around these goals, and establish clear accountability for results. The Five V’s Framework helps guide organizations through a structured process: 
- 
- Value: Target high-impact opportunities aligned with your strategic priorities 
- Visualize: Define clear success metrics that link directly to business outcomes 
- Validate: Test solutions against real-world requirements and constraints 
- Verify: Create a scalable path to production that delivers sustainable results 
- Venture: Secure the resources and support needed for long-term success 
- 
-Value: The critical first step 
-The Value phase emphasizes working backwards from your most pressing business challenges. By starting with existing pain points and collaborating across technical and business teams, organizations can develop solutions that deliver meaningful return on investment (ROI). This focused approach helps direct resources where they’ll have the greatest impact. 
-Visualize: Defining success through measurement 
-The next step requires translating the potential benefits—cost reduction, revenue growth, risk mitigation, improved customer experience, and competitive advantage—into clear, measurable performance indicators. A comprehensive measurement framework starts with baseline metrics using historical data where available. These metrics should address both technical aspects like accuracy and response time, as well as business outcomes such as productivity gains and customer satisfaction. 
-The Visualize phase examines data availability and quality to support proper measurement while working with stakeholders to define success criteria that align with strategic objectives. This dual focus helps organizations track not just the performance of the AI solution, but its actual impact on business goals. 
-Validate: Where ambition meets reality 
-The Validate phase focuses on testing solutions against real-world conditions and constraints. Our approach integrates strategic vision with implementation expertise from day one. As Sri Elaprolu, Director of the Generative AI Innovation Center, explains: “Effective validation creates alignment between vision and execution. We unite diverse perspectives—from scientists to business leaders—so that solutions deliver both technical excellence and measurable business impact.” 
-This process involves systematic integration testing, stress testing for expected loads, verifying compliance requirements, and gathering end-user feedback. Security specialists shape the core architecture. Industry subject matter experts define the operational processes and decision logic that guide prompt design and model refinement. Change management strategies are integrated early to ensure alignment and adoption. 
-The Generative AI Innovation Center partnered with SparkXGlobal, an AI-driven marketing-technology company, to validate their new solution through comprehensive testing. Their platform, Xnurta, provides business analytics and reporting for Amazon merchants, demonstrating impressive results: report processing time dropped from 6-8 hours to just 8 minutes while maintaining 95% accuracy. This successful validation established a foundation for SparkXGlobal’s continued innovation and enhanced AI capabilities. 
-Working with the Generative AI Innovation Center, the U.S. Environmental Protection Agency (EPA) created an intelligent document processing solution powered by Anthropic models on Amazon Bedrock. This solution helped EPA scientists accelerate chemical risk assessments and pesticide reviews through transparent, verifiable, and human-controlled AI practices. The impact has been substantial: document processing time decreased by 85%, evaluation costs dropped by 99%, and more than 10,000 regulatory applications have advanced faster to protect public health. 
-Verify: The path to production 
-Moving from pilot to production requires more than proof of concept—it demands scalable solutions that integrate with existing systems and deliver consistent value. While demos can seem compelling, verification reveals the true complexity of enterprise-wide deployment. This critical stage maps the journey from prototype to production, establishing a foundation for sustainable success. 
-Building production-ready AI solutions brings together several key elements. Robust governance structures must facilitate responsible AI deployment and oversight, managing risk and compliance in an evolving regulatory landscape. Change management prepares teams and processes for new ways of working, driving organization-wide adoption. Operational readiness assessments evaluate existing workflows, integration points, and team capabilities to facilitate smooth implementation. 
-Architectural decisions in the verification phase balance scale, reliability, and operability, with security and compliance woven into the solution’s fabric. This often involves practical trade-offs based on real-world constraints. A simpler solution aligned to existing team capabilities may prove more valuable than a complex one requiring specialized expertise. Similarly, meeting strict latency requirements might necessitate choosing a streamlined model over a more sophisticated one, as model selection requires a balance of performance, accuracy, and computational costs based on the use case. 
-Generative AI Innovation Center Principal Data Scientist, Isaac Privitera, captures this philosophy: “When building a generative AI solution, we focus primarily on three things: measurable business impact, production readiness from day one, and sustained operational excellence. This trinity drives solutions that thrive in real-world conditions.” 
-Effective verification demands both technical expertise and practical wisdom from real-world deployments. It requires proving not just that a solution works in principle, but that it can operate at scale within existing systems and team capabilities. By systematically addressing these factors, we help make sure deployments deliver sustainable, long-term value. 
-Venture: Securing long-term success 
-Long-term success in AI also requires mindful resource planning across people, processes, and funding. The Venture phase maps the full journey from implementation through sustained organizational adoption. 
-Financial viability starts with understanding the total cost of ownership, from initial development through deployment, integration, training, and ongoing operations. Promising projects can stall mid-implementation due to insufficient resource planning. Success requires strategic budget allocation across all phases, with clear ROI milestones and the flexibility to scale. 
-Successful ventures demand organizational commitment through executive sponsorship, stakeholder alignment, and dedicated teams for ongoing optimization and maintenance. Organizations must also account for both direct and indirect costs—from infrastructure and development, to team training, process adaptation, and change management. A blend of sound financial planning and flexible resource strategies allows teams to accelerate and adjust as opportunities and challenges arise. 
-From there, the solution must integrate seamlessly into daily operations with clear ownership and widespread adoption. This transforms AI from a project into a core organizational capability. 
-Adopting the Five V’s Framework in your enterprise 
-The Five V’s Framework shifts AI focus from technical capabilities to business results, replacing ‘What can AI do?’ with ‘What do we need AI to do?’. Successful implementation requires both an innovative culture and access to specialized expertise. 
- 
-AWS resources to support your journey 
-AWS offers a variety of resources to help you scale your AI to production. 
-Expert guidance 
-The AWS Partnership Network (APN) offers multiple pathways to access specialized expertise, while AWS Professional Services brings proven methodologies from its own successful AI implementations. Certified partners, including Generative AI Partner Innovation Alliance members who receive direct enablement training from the Generative AI Innovation Center team, extend this expertise across industries. AWS Generative AI Competency Partners bring use case-specific success, while specialized partners focus on model customization and evaluation. 
-Self-service learning 
-For teams building internal capabilities, AWS provides technical blogs with implementation guides based on real-world experience, GitHub repositories with production-ready code, and AWS Workshop Studio for hands-on learning that bridges theory and practice. 
-Balancing learning and innovation 
-Even with the right framework and resources, not every AI project will reach production. These initiatives still provide valuable lessons that strengthen your overall program. Organizations can build lasting AI capabilities through three key principles: 
- 
- Embracing a portfolio approach: Treat AI initiatives as an investment portfolio where diversification drives risk management and value creation. Balance quick wins (delivering value within months), strategic initiatives (driving longer-term transformation), and moonshot projects (potentially revolutionizing your business). 
- Creating a culture of safe experimentation: Organizations thrive with AI when teams can innovate boldly. In rapidly evolving fields, the cost of inaction often exceeds the risk of calculated experiments. 
- Learning from “productive failures”: Capture insights systematically across projects. Technical challenges reveal capability gaps, data issues expose information needs, and organizational readiness concerns illuminate broader transformation requirements – all shaping future initiatives. 
- 
-The path forward 
-The next 12-18 months present a pivotal opportunity for organizations to harness generative AI and agentic AI to solve previously intractable problems, establish competitive advantages, and explore entirely new frontiers of business possibility. Those who successfully move from pilot to production will help define what’s possible within their industries and beyond. 
-Are you ready to move your AI initiatives into production? 
- 
- Learn more about the AWS Generative AI Innovation Center and contact your AWS Account Manager to be connected to our expert guidance and support. 
- Join our AWS Builder community to connect with others on a similar AI journey. 
- 
- 
- 
-About the authors 
-Sri Elaprolu serves as Director of the AWS Generative AI Innovation Center, where he leverages nearly three decades of technology leadership experience to drive artificial intelligence and machine learning innovation. In this role, he leads a global team of machine learning scientists and engineers who develop and deploy advanced generative and agentic AI solutions for enterprise and government organizations facing complex business challenges. Throughout his nearly 13-year tenure at AWS, Sri has held progressively senior positions, including leadership of ML science teams that partnered with high-profile organizations such as the NFL, Cerner, and NASA. These collaborations enabled AWS customers to harness AI and ML technologies for transformative business and operational outcomes. Prior to joining AWS, he spent 14 years at Northrop Grumman, where he successfully managed product development and software engineering teams. Sri holds a Master’s degree in Engineering Science and an MBA with a concentration in general management, providing him with both the technical depth and business acumen essential for his current leadership role. 
- Dr. Diego Socolinsky is currently the North America Head of the Generative AI Innovation Center at Amazon Web Services (AWS). With over 25 years of experience at the intersection of technology, machine learning, and computer vision, he has built a career driving innovation from cutting-edge research to production-ready solutions. Dr. Socolinsky holds a Ph.D. in Mathematics from The Johns Hopkins University and has been a pioneer in various fields including thermal imaging biometrics, augmented/mixed reality, and generative AI initiatives. His technical expertise spans from optimizing low-level embedded systems to architecting complex real-time deep learning solutions, with particular focus on generative AI platforms, large-scale unstructured data classification, and advanced computer vision applications. He is known for his ability to bridge the gap between technical innovation and strategic business objectives, consistently delivering transformative technology that solves complex real-world problems. 
-Sabine Khan is a Strategic Initiatives Leader with the AWS Generative AI Innovation Center, where she implements delivery and strategy initiatives focused on scaling enterprise-grade Generative AI solutions. She specializes in production-ready AI systems and drives agentic AI projects from concept to deployment. With over twenty years of experience in software delivery and a strong focus on AI/ML during her tenure at AWS, she has established a track record of successful enterprise implementations. Prior to AWS, she led digital transformation initiatives and held product development and software engineering leadership roles in Houston’s energy sector. Sabine holds a Master’s degree in GeoScience and an MBA. 
-Andrea Jimenez is a dual master’s candidate at the Massachusetts Institute of Technology, pursuing an M.S. in Computer Science from the School of Engineering and an MBA from the Sloan School of Management. As a GenAI Lead Graduate Fellow at the MIT GenAI Innovation Center, she researches agentic AI systems and the economic implications of generative AI technologies, while leveraging her background in artificial intelligence, product development, and startup innovation to lead teams at the intersection of technology and business strategy. Her work focuses on advancing human-AI collaboration and translating cutting-edge research into scalable, high-impact solutions. Prior to AWS and MIT, she led product and engineering teams in the tech industry and founded and sold a startup that helped early-stage companies build and launch SaaS products. 
-Randi Larson connects AI innovation with executive strategy for the AWS Generative AI Innovation Center, shaping how organizations understand and translate technical breakthroughs into business value. She combines strategic storytelling with data-driven insight through global keynotes, Amazon’s first tech-for-good podcast, and conversations with industry and Amazon leaders on AI transformation. Before Amazon, Randi refined her analytical precision as a Bloomberg journalist and advisor to economic institutions, think tanks, and family offices on technology initiatives. Randi holds an MBA from Duke University’s Fuqua School of Business and a B.S. in Journalism and Spanish from Boston University.
 
 ⸻
