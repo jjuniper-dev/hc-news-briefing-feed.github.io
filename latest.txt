@@ -1,17 +1,17 @@
-✅ Morning News Briefing – October 31, 2025 10:45
+✅ Morning News Briefing – November 01, 2025 10:41
 
-📅 Date: 2025-10-31 10:45
+📅 Date: 2025-11-01 10:41
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• RAINFALL WARNING, Pembroke
-  Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions . People in or around this area are advised to take necessary precautions . Weather conditions are expected to worsen in the coming years of this year's winter storms . The weather is expected to be more unsettled than normal weather conditions in the U.S. This year's weather will be the
-• Current Conditions:  5.0°C
-  Temperature: 5.0&deg;C Pressure / Tendency: 99.3 kPa falling Humidity: 96 % Dewpoint: 4.4&deg:C Wind: NNW 17 km/h Air Quality Health Index: n/a Observed at: Pembroke 6:00 AM EDT Friday 31 October 2025 . Wind: 17 km-h Wind:
-• Friday: Periods of rain. High plus 5.
-  Periods of rain 15 to 25 mm. Amount of rain to 25mm. Wind northwest 30 km/h gusting to 50 . High plus 5. UV index 1 or low. High is expected to be high plus 5 on October 31, 2025 . Forecast issued 5:00 AM EDT Friday 31 October 2025, with rain expected to fall in the afternoon . Rain expected in the
+• No watches or warnings in effect, Pembroke
+  No watches or warnings in effect. No warnings or watches or watches in effect . Watch or warnings are no longer in effect in the U.S. No watches, warnings are in effect for the rest of the day . No watches and warnings are still in effect, but no watches are in place for the day's events . The weather is not expected to be affected by the weather .
+• Current Conditions:  3.0°C
+  Observed at: Pembroke 6:00 AM EDT Saturday 1 November 2025 Temperature: 3.0&deg;C Pressure / Tendency: 100.7 kPa rising Humidity: 80 % Dewpoint: -0.1&deg:C Wind: NW 12 km/h Air Quality Health Index: n/a . Observed in the UK at 6:
+• Saturday: Cloudy. High 6.
+  Cloudy. High 6. UV index 2 or low . Cloudy . High 6 or low for the rest of the day . Forecast issued 5:00 AM EDT Saturday 1 November 2025 . Weather will be mostly sunny and breezy in the afternoon . Forecasters predict the weather will be cooler in the next few days . For the most recent forecast, see www.wbbbb
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Five key takeaways from Trump's week in Asia
-  President Trump is back in Washington after spending a week in Asia . He attended the ASEAN summit in Kuala Lumpur, addressed U.S. troops in Japan and met with China's President Xi Jinping in South Korea . He also attended the South Korean summit and addressed troops in the United States in Japan . Trump is now in Washington, D.C., after a week of Asia .
-• What has 11 questions and makes you feel smart? Our news quiz!
-  The weekly news quiz tests your knowledge of stories you saw on CNN iReport . Follow CNN Living on Facebook and Twitter . Have you got a copy of the weekly Newsquiz? Send it to mail it to iReport.com or tweet it to tell us what you think about this week's top 10 news stories you need to read . Submit your newsquiz to test your knowledge
-• Shopping for ACA health plans this open enrollment? Here's what to know
-  This year, with Congress in a stalemate about subsidies, Affordable Care Act marketplace consumers will need to be more informed than ever to navigate their health coverage choices . Congress in stalemate over subsidies, Obamacare marketplace consumers need to navigate health coverage options, says Patrick Sison . Sison: This year's Obamacare marketplace will be the year for consumers to navigate the health care landscape . Sisons
-• The American dream feels impossible for many young voters, who see no political fix
-  We asked readers whether young Americans today can still have a better life than their parents . They responded with stories of economic hardship and growing disillusionment with leaders in Washington . Readers responded to the question: Whether young Americans can still live a good life? They responded to stories of hardship and disillusionment in Washington, Washington, in the U.S., in the past, and in the future
-• Automakers take a hit from tariffs, but some still see strong earnings
-  Automakers have been paying billions of dollars in tariffs on imported cars, parts and materials . But on earnings calls this month, some carmakers reported that they're performing well anyway . Some carmakers have been reporting that they've performed well anyway, despite the tariffs . Automakers are paying billions in tariffs, but they say they're doing well anyway anyway . The tariffs are expected to hit
+• How a great-grandmother helped researchers unravel a dinosaur mummy mystery
+  A paleontologist was trying to locate the site of a famous 1908 discovery when a rancher in Wyoming shared an important clue . The discovery was made in 1908 when the discovery was discovered by a scientist in 1908 . A rancher shared a key clue to the discovery of a dinosaur in Wyoming, Wyoming, a century before the discovery made famous discovery of the fossil car car-sized dinosaur
+• In redistricting vote, some Californians fear losing out, others want to face Trump
+  California's vote on redistricting congressional seats could be important in determining who controls Congress after the 2026 midterm elections . California will vote Tuesday on whether to redistrict congressional seats in the state . The vote could determine who controls the House of Representatives after the midterms in 2026 . The state will hold a vote on the redistricting issue on Tuesday . The California vote could help determine who
+• As SNAP benefits run dry, 'grocery buddies' are footing their neighbors' food bills
+  With federal food aid frozen during the government shutdown, there has been a wave of people rushing to help . People are sending gift cards or buying groceries for SNAP recipients in their community . The government shutdown has frozen food aid for some of the country's SNAP recipients . People have been rushing to send gift cards, buy groceries or send groceries to those in need of food assistance in their communities .
+• Could smaller families 'rewild' the planet — and make humans happier?
+  Many economists and business leaders are raising alarms about falling birthrates . But advocates for lower human populations say a less crowded world will be happier and more sustainable . Advocates for a world of fewer people say it will be more sustainable and less crowded than the world's current population growth rate is too much to blame . The world's population will need to be less densely populated, less crowded,
+• Fewer students are missing school. These state policies may have helped
+  A new study says several states are doing the right things to get students to show up to school regularly . Study: States are doing what they need to do to keep students in school on the weekends . The study says students need to be in school regularly on time to get ready for school in order to get back to school . The report says students should be encouraged to attend school on time
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Linux vendors are getting into Ubuntu – and Snap
-  Ubuntu's much-maligned format may be finally reaching critical mass Ubuntu Summit . More than one Linux-adjacent vendor presented at the Ubuntu Summit, and a small but recurring theme is offering official Snap packages . Snap packages will be available at the end of the year at Ubuntu's Summit in New York City, New York, on June 28 . The Summit is the first of its kind
-• VodafoneThree to offshore UK network jobs to India
-  VodafoneThree has told some staff their roles may be offshored to India under new contracts with Ericsson and Nokia – and that employment protections won't apply . The move is a push to meet post-merger rollout targets amid a push for the company to meet its rollout targets . The deal is expected to be worth around £1billion to VodfoneThree
-• England's local government shake-up promises to be a massive tech headache
-  Surrey to be divided into two new councils in first phase of countrywide reorg . UK government will replace Surrey County Council and its 11 borough and district councils with two new unitary councils . Unitary councils will provide most local services to the area's 1.2 million residents . Surrey will be replaced by two new units, which will provide services to 1.3 million residents of the
-• O2 cranks prices mid-contract, essentially telling customers to like it or lump it
-  Ofcom 'disappointed' by decision that 'goes against the spirit of our rules' O2 'exploited loophole in rules designed to end unpredictable mid-contract increases' Regulator says O2 is exploiting loophole to raise prices beyond what customers agreed to . Ofcom: 'We are disappointed with O2's decision that goes against spirit of its rules' Ofcom says
-• NHS left with sick PCs as suppliers resist Windows 11 treatment
-  Hospitals told to upgrade, but some medical device makers haven't prescribed compatibility yet . Some suppliers have yet to make their medical devices compatible with Microsoft's latest operating system . Hospitals are being blocked from fully upgrading to Windows 11 by a small number of suppliers . Microsoft's new operating system is being rolled out to hospitals across the world . It has been criticised for being too slow to make
+• Robotic lawnmower uses AI to dodge cats, toys
+  The Sunseeker Elite X5 can mow on its own, but it doesn't come cheap . We tested the robotic mower to see what happens when artificial intelligence meets whirling blades of doom . The mower uses machine learning to steer around your lawn, and it's cheaper to buy than a lawnmower . It's the latest in a series of robotic lawnmowers
+• AI blew open software security, now OpenAI wants to fix it with an agent called Aardvark
+  OpenAI has thrown a bone to cyber defenders . AI promises to find bugs and gaps in your apps . AI services are prone to data poisoning and prompt injection . OpenAI's OpenAI says its AI services can be used to identify bugs in apps and find gaps in apps . The company has launched an AI service called OpenAI, which will be available in the U.S. for
+• Datacenter biz and nuke startup join forces for Texas AI ranch
+  Texas is set to get another nuclear-powered datacenter project thanks to Blue Energy and Crusoe . The bit barn will run on gas power first, but any atomic action isn't likely until the next decade . Blue Energy: Texas will be the first state to build a nuclear power facility in the state to be powered by natural gas . The project is expected to be completed in the
+• Ransomware gang runs ads for Microsoft Teams to pwn victims
+  You click and think you're getting a download page, but get malware instead . The Rhysida ransomware gang has been placing fake ads for Microsoft Teams in search engines and then infecting victims who make the mistake of clicking them . The group has stolen millions of people's info, including millions of users' info, and has been using malware to infect millions of them . You click click
+• YouTube's AI moderator pulls Windows 11 workaround videos, calls them dangerous
+  YouTube has started pulling videos that show users how to sidestep Microsoft's setup restrictions . YouTube's AI moderation system seems to think installing Windows 11 with a local account or on unsupported hardware is harmful or dangerous . Users can install Windows 11 on their local accounts or using unsupported hardware on unsupported PCs, or on Windows 11 without having to install it on the same account or using it on unsupported
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• Longer walks beat shorter strolls for heart health
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Prevalence and predictors of burnout in critical care health workers in palestine
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • The nature of the relationship between obesity and mental health: an IMI2 SOPHIA qualitative study
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• A prospective cohort analysis from Germany shows transition into adulthood is an underestimated vulnerable period for children with overweight/obesity
+• Assessment of knowledge, attitudes and behaviors related to self-medication practices among the adult population during the COVID-19 pandemic in Italy
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• An integrated approach for rare disease detection and classification in Spanish pediatric medical reports
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Characterizing social behavior relevant for infectious disease transmission in four low- and middle-income countries, 2021-2023
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Reduced postural stability in men and women aged 55–65 following 14 days of head-down bed rest
+• A moderated mediation approach to enhancing autonomous learning in university physical education
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,256 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• Here’s the latest company planning for gene-edited babies
+  A West Coast biotech entrepreneur says he’s secured $30 million to form a public-benefit company to study how to safely create genetically edited babies, marking the largest known investment into the taboo technology.&nbsp;&nbsp;
+
+
+
+The new company, called Preventive, is being formed to research so-called “heritable genome editing,” in which the DNA of embryos would be modified by correcting harmful mutations or installing beneficial genes. The goal would be to prevent disease.
+
+
+
+Preventive was founded by the gene-editing scientist Lucas Harrington, who described his plans yesterday in a blog post announcing the venture. Preventive, he said, will not rush to try out the technique but instead will dedicate itself “to rigorously researching whether heritable genome editing can be done safely and responsibly.”
+
+
+
+Creating genetically edited humans remains controversial, and the first scientist to do it, in China, was imprisoned for three years. The procedure remains illegal in many countries, including the US, and doubts surround its usefulness as a form of medicine.
+
+
+
+
+
+Still, as gene-editing technology races forward, the temptation to shape the future of the species may prove irresistible, particularly to entrepreneurs keen to put their stamp on the human condition. In theory, even small genetic tweaks could create people who never get heart disease or Alzheimer’s, and who would pass those traits on to their own offspring.
+
+
+
+According to Harrington, if the technique proves safe, it “could become one of the most important health technologies of our time.” He has estimated that editing an embryo would cost only about $5,000 and believes regulations could change in the future.&nbsp;
+
+
+
+Preventive is the third US startup this year to say it is pursuing technology to produce gene-edited babies. The first, Bootstrap Bio, based in California, is reportedly seeking seed funding and has an interest in enhancing intelligence. Another, Manhattan Genomics, is also in the formation stage but has not announced funding yet.
+
+
+
+As of now, none of these companies have significant staff or facilities, and they largely lack any credibility among mainstream gene-editing scientists. Reached by email, Fyodor Urnov, an expert in gene editing at the University of California, Berkeley, where Harrington studied, said he believes such ventures should not move forward.
+
+
+
+Urnov has been a pointed critic of the concept of heritable genome editing, calling it dangerous, misguided, and a distraction from the real benefits of gene editing to treat adults and children.&nbsp;
+
+
+
+In his email, Urnov said the launch of still another venture into the area made him want to “howl with pain.”&nbsp;&nbsp;
+
+
+
+
+
+Harrinton’s venture was incorporated in Delaware in May 2025,under the name Preventive Medicine PBC. As a public-benefit corporation, it is organized to put its public mission above profits. “If our research shows [heritable genome editing] cannot be done safely, that conclusion is equally valuable to the scientific community and society,” Harrington wrote in his post.
+
+
+
+Harrington is a cofounder of Mammoth Biosciences, a gene-editing company pursuing drugs for adults, and remains a board member there.
+
+
+
+In recent months, Preventive has sought endorsements from leading figures in genome editing, but according to its post, it had secured only one—from Paula Amato, a fertility doctor at Oregon Health Sciences University, who said she had agreed to act as an advisor to the company.
+
+
+
+Amato is a member of a US team that has researched embryo editing in the country since 2017, and she has promoted the technology as a way to increase IVF success. That could be the case if editing could correct abnormal embryos, making more available for use in trying to create a pregnancy.
+
+
+
+It remains unclear where Preventive’s funding is coming from. Harrington said the $30 million was gathered from “private funders who share our commitment to pursuing this research responsibly.” But he declined to identify those investors other than SciFounders, a venture firm he runs with his personal and business partner Matt Krisiloff, the CEO of the biotech company Conception, which aims to create human eggs from stem cells.
+
+
+
+That’s yet another technology that could change reproduction, if it works. Krisiloff is listed as a member of Preventive’s founding team.
+
+
+
+The idea of edited babies has received growing attention from figures in the cryptocurrency business. These include Brian Armstrong, the billionaire founder of Coinbase, who has held a series of off-the-record dinners to discuss the technology (which Harrington attended). Armstrong previously argued that the “time is right” for a startup venture in the area.
+
+
+
+
+
+Will Harborne, a crypto entrepreneur and partner at LongGame Ventures, says he’s “thrilled” to see Preventive launch. If the technology proves safe, he argues, “widespread adoption is inevitable,” calling its use a “societal obligation.”
+
+
+
+Harborne’s fund has invested in Herasight, a company that uses genetic tests to rank IVF embryos for future IQ and other traits. That’s another hotly debated technology, but one that has already reached the market, since such testing isn’t strictly regulated. Some have begun to use the term “human enhancement companies” to refer to such ventures.
+
+
+
+What’s still lacking is evidence that leading gene-editing specialists support these ventures. Preventive was unsuccessful in establishing a collaboration with at least one key research group, and Urnov says he had harsh words for Manhattan Genomics when that company reached out to him about working together. “I encourage you to stop,” he wrote back. “You will cause zero good and formidable harm.”
+
+
+
+Harrington thinks Preventive could change such attitudes, if it shows that it is serious about doing responsible research. “Most scientists I speak with either accept embryo editing as inevitable or are enthusiastic about the potential but hesitate to voice these opinions publicly,” he told MIT Technology Review earlier this year. “Part of being more public about this is to encourage others in the field to discuss this instead of ignoring it.”
+• The Download: down the Mandela effect rabbit hole, and the promise of a vaccine for colds
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+Why do so many people think the Fruit of the Loom logo had a cornucopia?
+
+
+
+Quick question: Does the Fruit of the Loom logo feature a cornucopia?Many of us have been wearing the company’s T-shirts for decades, and yet the question of whether there is a woven brown horn of plenty on the logo is surprisingly contentious.According to a 2022 poll, 55% of Americans believe the logo does include a cornucopia, 25% are unsure, and only 21% are confident that it doesn’t, even though this last group is correct.There’s a name for what’s happening here: the “Mandela effect,” or collective false memory, so called because a number of people misremember that Nelson Mandela died in prison. Yet while many find it easy to let their unconfirmable beliefs go, some spend years seeking answers—and vindication. Read the full story.
+
+
+
+—Amelia Tait
+
+
+
+This story is part of MIT Technology Review’s series “The New Conspiracy Age,” on how the present boom in conspiracy theories is reshaping science and technology.
+
+
+
+
+
+
+
+Here’s why we don’t have a cold vaccine. Yet.
+
+
+
+For those of us in the Northern Hemisphere, it’s the season of the sniffles. As the weather turns, we’re all spending more time indoors. The kids have been back at school for a couple of months. And cold germs are everywhere.
+
+
+
+So why can’t we get a vaccine to protect us against the common cold? Scientists have been working on this for decades, but it turns out that creating a cold vaccine is hard. Really hard. But not impossible. There’s still hope. Read the full story.
+
+
+
+—Jessica Hamzelou
+
+
+
+This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, sign up here.
+
+
+
+
+
+
+
+Inside the archives of the NASA Ames Research Center
+
+
+
+At the southern tip of San Francisco Bay, surrounded by the tech giants Google, Apple, and Microsoft, sits the historic NASA Ames Research Center. Its rich history includes a grab bag of fascinating scientific research involving massive wind tunnels, experimental aircraft, supercomputing, astrobiology, and more.A collection of 5,000 images from NASA Ames’s archives paints a vivid picture of bleeding-edge work at the heart of America’s technology hub. Read the full story.—Jon Keegan
+
+
+
+This story is from the latest print issue of MIT Technology Review magazine, which is full of stories about the body. If you haven’t already, subscribe now to receive future issues once they land.
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 The US government is considering banning TP-Link routersAn investigation has raised concerns over the company’s links to China. (WP $)+ Lawmakers are worried its equipment is vulnerable to hacking. (Bloomberg $)2 ICE has proposed building a deportation network in TexasThe 24/7 operation would transfer detained immigrants into holding facilities. (Wired $)+ But US citizens keep being detained, too. (NY Mag $)+ Inside the operation giving ICE a run for its money. (Slate $)+ Another effort to track ICE raids was just taken offline. (MIT Technology Review)
+
+
+
+3 Ukrainian drone teams are gamifying their war effortsOfficials say rewarding soldiers for successful attacks keeps them motivated. (NYT $)+ A Peter Thiel-backed drone startup crashed and burned during military trials. (FT $)+ Meet the radio-obsessed civilian shaping Ukraine’s drone defense. (MIT Technology Review)
+
+
+
+4 Meta has denied torrenting porn to train its AI modelsInstead, it claims, the downloads were for someone’s “private personal use.” (Ars Technica)
+
+
+
+5 Bird flu is getting harder to keep tabs onThe virus has wreaked havoc on the US poultry industry for close to four years. (Vox)+ A new biosensor can detect bird flu in five minutes. (MIT Technology Review)
+
+
+
+6 AI browsers are a cybersecurity nightmareThey’re a hotbed of known—and unknown—risks. (The Verge)+ I tried OpenAI’s new Atlas browser but I still don’t know what it’s for. (MIT Technology Review)
+
+
+
+7 Robots are starting to do more jobs across AmericaBut they’re still proving buggy and expensive to run. (WSJ $)+ When you might start speaking to robots. (MIT Technology Review)
+
+
+
+8 These are the jobs that AI builtFrom conversation designer to adoption strategist. (WP $)+ if you fancy landing a job in quantum computing, here’s how to do it. (IEEE Spectrum)
+
+
+
+9 Computer vision is getting much, much better Their blind spots are rapidly being eliminated. (Knowable Magazine)
+
+
+
+10 A lock-cracking YouTuber is being sued by a lockmaking company  It’s arguing he defamed the company, even though he didn’t say a word during the clip. (Ars Technica)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“Yes, we’ve been to the Moon before… six times!”
+
+
+
+—NASA’s acting administrator Sean Duffy reacts to Kim Kardashian’s belief that man has never set foot on the moon, the Guardian reports.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+What happens when you donate your body to science
+
+
+
+Rebecca George doesn’t mind the vultures that complain from the trees that surround the Western Carolina University body farm. Her arrival has interrupted their breakfast. George studies human decomposition, and part of decomposing is becoming food. Scavengers are welcome.
+
+
+
+In the US, about 20,000 people or their families donate their bodies to scientific research and education each year. Whatever the reason, the decision becomes a gift. Western Carolina’s FOREST is among the places where watchful caretakers know that the dead and the living are deeply connected, and the way you treat the first reflects how you treat the second. Read the full story.
+
+
+
+—Abby Ohlheiser
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)+ Zoo animals across the world are getting into the Halloween spirit with some tasty pumpkins.+ If you’re stuck for something suitably spooky to watch tonight, this list is a great place to start.+ New York’s historic Morris-Jumel Mansion is seriously beautiful—and seriously haunted.+ Salem’s Lucipurr is on the prowl!
 • Here’s why we don’t have a cold vaccine. Yet.
   For those of us in the Northern Hemisphere, it’s the season of the sniffles. As the weather turns, we’re all spending more time indoors. The kids have been back at school for a couple of months. And cold germs are everywhere.
 
@@ -154,7 +404,7 @@ At the end of our Zoom call, perhaps after reading the disappointed expression o
 
 
 This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, sign up here.
-• The Download: Introducing: the new conspiracy age
+• The Download: Introducing the new conspiracy age
   This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
 
 
@@ -298,381 +548,6 @@ A place for comfort, fun and distraction to brighten up your day. (Got any ideas
 + 2025’s Comedy Wildlife Award winners and finalists are classics of the genre.+ This Instagram account shared the same video of Thomas the Tank Engine’s daring railway stunts every day, and I think that’s just beautiful.+ How to get more of that elusive deep sleep.+ Here’s an interesting take on why we still find dragons so fascinating
 • Leveraging the clinician’s expertise with agentic AI
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Four thoughts from Bill Gates on climate tech
-  Bill Gates doesn’t shy away or pretend modesty when it comes to his stature in the climate world today. “Well, who’s the biggest funder of climate innovation companies?” he asked a handful of journalists at a media roundtable event last week. “If there’s someone else, I’ve never met them.”
-
-
-
-The former Microsoft CEO has spent the last decade investing in climate technology through Breakthrough Energy, which he founded in 2015. Ahead of the UN climate meetings kicking off next week, Gates published a memo outlining what he thinks activists and negotiators should focus on and how he’s thinking about the state of climate tech right now. Let’s get into it.&nbsp;
-
-
-
-Are we too focused on near-term climate goals?
-
-
-
-One of the central points Gates made in his new memo is that he thinks the world is too focused on near-term emissions goals and national emissions reporting.
-
-
-
-So in parallel with the national accounting structure for emissions, Gates argues, we should have high-level climate discussions at events like the UN climate conference. Those discussions should take a global view on how to reduce emissions in key sectors like energy and heavy industry.
-
-
-
-“The way everybody makes steel, it’s the same. The way everybody makes cement, it’s the same. The way we make fertilizer, it’s all the same,” he says.
-
-
-
-As he noted in one recent essay for MIT Technology Review, he sees innovation as the key to cutting the cost of clean versions of energy, cement, vehicles, and so on. And once products get cheaper, they can see wider adoption.
-
-
-
-What’s most likely to power our grid in the future?
-
-
-
-“In the long run, probably either fission or fusion will be the cheapest way to make electricity,” he says. (It should be noted that, as with most climate technologies, Gates has investments in both fission and fusion companies through Breakthrough Energy Ventures, so he has a vested interest here.)
-
-
-
-
-
-He acknowledges, though, that reactors likely won’t come online quickly enough to meet rising electricity demand in the US: “I wish I could deliver nuclear fusion, like, three years earlier than I can.”
-
-
-
-He also spoke to China’s leadership in both nuclear fission and fusion energy. “The amount of money they’re putting [into] fusion is more than the rest of the world put together times two. I mean, it’s not guaranteed to work. But name your favorite fusion approach here in the US—there’s a Chinese project.”
-
-
-
-Can carbon removal be part of the solution?
-
-
-
-I had my colleague James Temple’s recent story on what’s next for carbon removal at the top of my mind, so I asked Gates if he saw carbon credits or carbon removal as part of the problematic near-term thinking he wrote about in the memo.
-
-
-
-Gates buys offsets to cancel out his own personal emissions, to the tune of about $9 million a year, he said at the roundtable, but doesn’t expect many of those offsets to make a significant dent in climate progress on a broader scale: “That stuff, most of those technologies, are a complete dead end. They don’t get you cheap enough to be meaningful.
-
-
-
-“Carbon sequestration at $400, $200, $100, can never be a meaningful part of this game. If you have a technology that starts at $400 and can get to $4, then hallelujah, let’s go. I haven’t seen that one. There are some now that look like they can get to $40 or $50, and that can play somewhat of a role.”
-
-
-
-&nbsp;Will AI be good news for innovation?&nbsp;
-
-
-
-During the discussion, I started a tally in the corner of my notebook, adding a tick every time Gates mentioned AI. Over the course of about an hour, I got to six tally marks, and I definitely missed making a few.
-
-
-
-Gates acknowledged that AI is going to add electricity demand, a challenge for a US grid that hasn’t seen net demand go up for decades. But so too will electric cars and heat pumps.&nbsp;
-
-
-
-I was surprised at just how positively he spoke about AI’s potential, though:
-
-
-
-“AI will accelerate every innovation pipeline you can name: cancer, Alzheimer&#8217;s, catalysts in material science, you name it. And we&#8217;re all trying to figure out what that means. That is the biggest change agent in the world today, moving at a pace that is very, very rapid … every breakthrough energy company will be able to move faster because of using those tools, some very dramatically.”
-
-
-
-I’ll add that, as I’ve noted here before, I’m skeptical of big claims about AI’s potential to be a silver bullet across industries, including climate tech. (If you missed it, check out this story about AI and the grid from earlier this year.) 
-
-
-
-This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
-• It’s never been easier to be a conspiracy theorist
-  The timing was eerie.
-
-
-
-On November 21, 1963, Richard Hofstadter delivered the annual Herbert Spencer Lecture at Oxford University. Hofstadter was a professor of American history at Columbia University who liked to use social psychology to explain political history, the better to defend liberalism from extremism on both sides. His new lecture was titled “The Paranoid Style in American Politics.”&nbsp;
-
-
-
-“I call it the paranoid style,” he began, “simply because no other word adequately evokes the qualities of heated exaggeration, suspiciousness, and conspiratorial fantasy that I have in mind.”
-
-
-
-Then, barely 24 hours later, President John F. Kennedy was assassinated in Dallas. This single, shattering event, and subsequent efforts to explain it, popularized a term for something that is clearly the subject of Hofstadter’s talk though it never actually figures in the text: “conspiracy theory.”
-
-
-
-
-
-
-
-
-This story is part of MIT Technology Review’s series “The New Conspiracy Age,” on how the present boom in conspiracy theories is reshaping science and technology.
-
-
-
-
-
-
-
-
-Hofstadter’s lecture was later revised into what remains an essential essay, even after decades of scholarship on conspiracy theories, because it lays out, with both rigor and concision, a historical continuity of conspiracist politics. “The paranoid style is an old and recurrent phenomenon in our public life which has been frequently linked with movements of suspicious discontent,” he writes, tracing the phenomenon back to the early years of the republic. Though each upsurge in conspiracy theories feels alarmingly novel—new narratives disseminated through new technologies on a new scale—they all conform to a similar pattern. As Hofstadter demonstrated, the names may change, but the fundamental template remains the same.
-
-
-
-His psychological reading of politics has been controversial, but it is psychology, rather than economics or other external circumstances, that best explains the flourishing of conspiracy theories. Subsequent research has indeed shown that we are prone to perceive intentionality and patterns where none exist—and that this helps us feel like a person of consequence. To identify and expose a secret plot is to feel heroic and gain the illusion of control over the bewildering mess of life.&nbsp;
-
-
-
-
-
-Like many pioneering theories exposed to the cold light of hindsight, Hofstadter’s has flaws and blind spots. His key oversight was to downplay&nbsp; the paranoid style’s role in mainstream politics up to that point and underrate its potential to spread in the future.
-
-
-
-In 1963, conspiracy theories were still a fringe phenomenon, not because they were inherently unusual but because they had limited reach and were stigmatized by people in power. Now that neither factor holds true, it is obvious how infectious they are. Hofstadter could not, of course, have imagined the information technologies that have become stitched into our lives, nor the fractured media ecosystem of the 21st century, both of which have allowed conspiracist thinking to reach more and more people—to morph, and to bloom like mold. And he could not have predicted that a serial conspiracy theorist would be elected president, twice, and that he would staff his second administration with fellow proponents of the paranoid style.&nbsp;
-
-
-
-But Hofstadter’s concept of the paranoid style remains useful—and ever relevant—because it also describes a way of reading the world. As he put it, “The distinguishing thing about the paranoid style is not that its exponents see conspiracies or plots here or there in history, but they regard a ‘vast’ or ‘gigantic’ conspiracy as the motive force in historical events. History is a conspiracy, set in motion by demonic forces of almost transcendent power, and what is felt to be needed to defeat it is not the usual methods of political give-and-take, but an all-out crusade.”
-
-
-
-Needless to say, this mystically unified version of history is not just untrue but impossible. It doesn’t make sense on any level. So why has it proved so alluring for so long—and why does it seem to be getting more popular every day?
-
-
-
-What is a conspiracy theory, anyway?&nbsp;
-
-
-
-The first person to define the “conspiracy theory” as a widespread phenomenon was the Austrian-British philosopher Karl Popper, in his 1948 lecture “Towards a Rational Theory of Tradition.” He was not referring to a theory about an individual conspiracy. He was interested in “the conspiracy theory of society”: a particular way of interpreting the course of events.&nbsp;
-
-
-
-He later defined it as “the view that an explanation of a social phenomenon consists in the discovery of the men or groups who are interested in the occurrence of this phenomenon (sometimes it is a hidden interest which has first to be revealed), and who have planned and conspired to bring it about.”
-
-
-
-Take an unforeseen catastrophe that inspires fear, anger, and pain—a financial crash, a devastating fire, a terrorist attack, a war. The conventional historian will try to unpick a tangle of different factors, of which malice is only one, and one that may be less significant than dumb luck.
-
-
-
-The conspiracist, however, will perceive only sinister calculation behind these terrible events—a fiendishly intricate plot conceived and executed to perfection. Intent is everything. Popper’s observation chimes with Hofstadter’s: “The paranoid’s interpretation of history is … distinctly personal: decisive events are not taken as part of the stream of history, but as the consequences of someone’s will.”
-
-
-
-A Culture of ConspiracyMichael BarkunUNIVERSITY OF CALIFORNIA PRESS, 2013
-
-
-
-
-According to Michael Barkun in the 2003 book A Culture of Conspiracy, the conspiracist interpretation of events rests on three assumptions: Everything is connected, everything is premeditated, and nothing is as it seems. Following that third law means that widely accepted and documented history is, by definition, suspect and alternative explanations, however outré, are more likely to be true. As Hannah Arendt wrote in The Origins of Totalitarianism, the purpose of conspiracy theories in 20th-century dictatorships “was always to reveal official history as a joke, to demonstrate a sphere of secret influences in which the visible, traceable, and known historical reality was only the outward façade erected explicitly to fool the people.” (Those dictators, of course, were conspirators themselves, projecting their own love of secret plots onto others.)
-
-
-
-
-Still, it’s important to remember that “conspiracy theory” can mean different things. Barkun describes three varieties, nesting like Russian dolls.&nbsp;
-
-
-
-The “event conspiracy theory” concerns a specific, contained catastrophe, such as the Reichstag fire of 1933 or the origins of covid-19. These theories are relatively plausible, even if they can not be proved.&nbsp;
-
-
-
-The “systemic conspiracy theory” is much more ambitious, purporting to explain numerous events as the poisonous fruit of a clandestine international plot. Far-fetched though they are, they do at least fixate on named groups, whether the Illuminati or the World Economic Forum.&nbsp;
-
-
-
-
-
-It is increasingly clear that “conspiracy theory” is a misnomer and what we are really dealing with is conspiracy belief.
-
-
-
-
-Finally, the “superconspiracy theory” is that impossible fantasy in which history itself is a conspiracy, orchestrated by unseen forces of almost supernatural power and malevolence. The most extreme variants of QAnon posit such a universal conspiracy. It seeks to encompass and explain nothing less than the entire world.
-
-
-
-These are very different genres of storytelling. If the first resembles a detective story, then the other two are more akin to fables. Yet one can morph into the other. Take the theories surrounding the Kennedy assassination. The first wave of amateur investigators created event conspiracy theories—relatively self-contained plots with credible assassins such as Cubans or the Mafia.&nbsp;
-
-
-
-But over time, event conspiracy theories have come to seem parochial. By the time of Oliver Stone’s 1991 movie JFK, once-popular plots had been eclipsed by elaborate fictions of gigantic long-running conspiracies in which the murder of the president was just one component. One of Stone’s primary sources was the journalist Jim Marrs, who went on to write books about the Freemasons and UFOs.&nbsp;
-
-
-
-Why limit yourself to a laboriously researched hypothesis about a single event when one giant, dramatic plot can explain them all?&nbsp;
-
-
-
-The theory of everything&nbsp;
-
-
-
-In every systemic or superconspiracy theory, the world is corrupt and unjust and getting worse. An elite cabal of improbably powerful individuals, motivated by pure malignancy, is responsible for most of humanity’s misfortunes. Only through the revelation of hidden knowledge and the cracking of codes by a righteous minority can the malefactors be unmasked and defeated. The morality is as simplistic as the narrative is complex: It is a battle between good and evil.
-
-
-
-Notice anything? This is not the language of democratic politics but that of myth and of religion. In fact, it is the fundamental message of the Book of Revelation. Conspiracist thinking can be seen as an offshoot, often but not always secularized, of apocalyptic Christianity, with its alluring web of prophecies, signs, and secrets and its promise of violent resolution. After studying several millenarian sects for his 1957 book The Pursuit of the Millennium, the historian Norman Cohn itemized some common traits, among them “the megalomaniac view of oneself as the Elect, wholly good, abominably persecuted yet assured of ultimate triumph; the attribution of gigantic and demonic powers to the adversary; the refusal to accept the ineluctable limitations and imperfections of human experience.”
-
-
-
-Popper similarly considered the conspiracy theory of society “a typical result of the secularization of religious superstition,” adding: “The gods are abandoned. But their place is filled by powerful men or groups … whose wickedness is responsible for all the evils we suffer from.”&nbsp;
-
-
-
-QAnon’s mutation from a conspiracy theory on an internet message board into a movement with the characteristics of a cult makes explicit the kinship between conspiracy theories and apocalyptic religion.
-
-
-
-This way of thinking facilitates the creation of dehumanized scapegoats—one of the oldest and most consistent features of a conspiracy theory. During the Middle Ages and beyond, political and religious leaders routinely flung the name “Antichrist” at their opponents. During the Crusades, Christians falsely accused Europe’s Jewish communities of collaborating with Islam or poisoning wells and put them to the sword. Witch-hunters implicated tens of thousands of innocent women in a supposed satanic conspiracy that was said to explain everything from illness to crop failure. “Conspiracy theories are, in the end, not so much an explanation of events as they are an effort to assign blame,” writes Anna Merlan in the 2019 book Republic of Lies.
-
-
-
-Republic of Lies: American Conspiracy Theorists and Their Surprising Rise to PowerAnna MerlanMETROPOLITAN PUBLISHERS, 2019
-
-
-
-
-But the systemic conspiracy theory as we know it—that is, the ostensibly secular variety—was established three centuries later, with remarkable speed. Some horrified opponents of the French Revolution could not accept that such an upheaval could be simply a popular revolt and needed to attribute it to sinister, unseen forces. They settled on the Illuminati, a Bavarian secret society of Enlightenment intellectuals influenced in part by the rituals and hierarchy of Freemasonry.&nbsp;
-
-
-
-The group was founded by a young law professor named Adam Weishaupt, who used the alias Brother Spartacus. In reality, the Illuminati were few in number, fractious, powerless, and, by the time of the revolution in 1789, defunct. But in the imaginations of two influential writers who published “exposés” of the Illuminati in 1797—Scotland’s John Robison and France’s Augustin Barruel—they were everywhere. Each man erected a wobbling tower of wild supposition and feverish nonsense on a platform of plausible claims and verifiable facts. Robison alleged that the revolution was merely part of “one great and wicked project” whose ultimate aim was to “abolish all religion, overturn every government, and make the world a general plunder and a wreck.”&nbsp;&nbsp;
-
-
-
-The Illuminati’s bogeyman status faded during the 19th century, but the core narrative persisted and proceeded to underpin the notorious hoax The Protocols of the Elders of Zion, first published in a Russian newspaper in 1903. The document’s anonymous author reinvented antisemitism by grafting it onto the story of the one big plot and positing Jews as the secret rulers of the world. In this account, the Elders orchestrate every war, recession, and so on in order to destabilize the world to the point where they can impose tyranny.&nbsp;
-
-
-
-You might ask why, if they have such world-bending power already, they would require a dictatorship. You might also wonder how one group could be responsible for both communism and monopoly capitalism, anarchism and democracy, the theory of evolution, and much more besides. But the vast, self-contradicting incoherence of the plot is what made it impossible to disprove. Nothing was ruled out, so every development could potentially be taken as evidence of the Elders at work.
-
-
-
-In 1921, the Protocols were exposed as what the London Times called a “clumsy forgery,” plagiarized from two obscure 19th-century novels, yet they remained the key text of European antisemitism—essentially “true” despite being demonstrably false. “I believe in the inner, but not the factual, truth of the Protocols,” said Joseph Goebbels, who would become Hitler’s minister of propaganda. In Mein Kampf, Hitler claimed that efforts to debunk the Protocols were actually “evidence in favor of their authenticity.” He alleged that Jews, if not stopped, would “one day devour the other nations and become lords of the earth.” Popper and Hofstadter both used the Holocaust as an example of what happens when a conspiracy theorist gains power and makes the paranoid style a governing principle.
-
-
-
-STEPHANIE ARNETT/MIT TECHNOLOGY REVIEW | PUBLIC DOMAIN
-
-
-
-
-The prominent role of Jewish Bolsheviks like Leon Trotsky and Grigory Zinoviev in the Russian Revolution of 1917 enabled a merger of antisemitism and anticommunism that survived the fascist era. Cold War red-baiters such as Senator Joseph McCarthy and the John Birch Society assigned to communists uncanny degrees of malice and ubiquity, far beyond the real threat of Soviet espionage. In fact, they presented this view as the only logical one. McCarthy claimed that a string of national security setbacks could be explained only if George C. Marshall, the secretary of defense and former secretary of state, was literally a Soviet agent. “How can we account for our present situation unless we believe that men high in this government are concerting to deliver us to disaster?” he asked in 1951. “This must be the product of a great conspiracy so immense as to dwarf any previous such venture in the history of man.”
-
-
-
-This continuity between antisemitism, anticommunism, and 18th-century paranoia about secret societies isn’t hard to see. General Francisco Franco, Spain’s right-wing dictator, claimed to be fighting a “Judeo-Masonic-Bolshevik” conspiracy. The Nazis persecuted Freemasons alongside Jews and communists. Nesta Webster, the British fascist sympathizer who laundered the Protocols through the British press, revived interest in Robison and Barruel’s books about the Illuminati, which the pro-Nazi Baptist preacher Gerald Winrod then promoted in the US. Even Winston Churchill was briefly persuaded by Webster’s work, citing it in his claims of a “world-wide conspiracy for the overthrow of civilization … from the days of Spartacus-Weishaupt to the days of Karl Marx.”
-
-
-
-To follow the chain further, Webster and Winrod’s stew of anticommunism, antisemitism, and anti-Illuminati conspiracy theories influenced the John Birch Society, whose publications would light a fire decades later under the Infowars founder Alex Jones, perhaps the most consequential conspiracy theorist of the early 21st century. 
-
-
-
-The villains behind the one big plot might be the Illuminati, the Elders of Zion, the communists, or the New World Order, but they are always essentially the same people, aspiring to officially dominate a world that they already secretly control. The names can be swapped around without much difficulty. While Winrod maintained that “the real conspirators behind the Illuminati were Jews,” the anticommunist William Guy Carr conversely argued that antisemitic paranoia “plays right into the hands of the Illuminati.” These days, it might be the World Economic Forum or George Soros; liberal internationalists with aspirations to change the world are easily cast as the new Illuminati, working toward establishing one world government.
-
-
-
-Finding connection
-
-
-
-The main reason that conspiracy theorists have lost interest in the relatively hard work of micro-conspiracies in favor of grander schemes is that it has become much easier to draw lines between objectively unrelated people and events. Information technology is, after all, also misinformation technology. That’s nothing new.&nbsp;
-
-
-
-The witch craze could not have traveled as far or lasted as long without the printing press. Malleus Maleficarum (Hammer of the Witches), a 1486 screed by the German witch-hunter Heinrich Kramer, became the best-selling witch-hunter’s handbook, going through 28 editions by 1600. Similarly, it was the books and pamphlets “exposing” the Illuminati that allowed those ideas to spread everywhere following the French Revolution. And in the early 20th century, the introduction of the radio facilitated fascist propaganda. During the 1930s, the Nazi-sympathizing Catholic priest and radio host Charles Coughlin broadcast his antisemitic conspiracy theories to tens of millions of Americans on dozens of stations.&nbsp;
-
-
-
-The internet has, of course, vastly accelerated and magnified the spread of conspiracy theories. It is hard to recall now, but in the early days it was sweetly assumed that the internet would improve the world by democratizing access to information. While this initial idealism survives in doughty enclaves such as Wikipedia, most of us vastly underestimated the human appetite for false information that confirms the consumer’s biases.
-
-
-
-Politicians, too, were slow to recognize the corrosive power of free-flowing conspiracy theories. For a long time, the more fantastical assertions of McCarthy and the Birchers were kept at arm’s length from the political mainstream, but that distance began to diminish rapidly during the 1990s, as right-wing activists built a cottage industry of outrageous claims about Bill and Hillary Clinton to advance the idea that they were not just corrupt or dishonest but actively evil and even satanic. This became an article of faith in the information ecosystem of internet message boards and talk radio, which expanded over time to include Fox News, blogs, and social media. So when Democrats nominated Hillary Clinton in 2016, a significant portion of the American public saw a monster at the heart of an organized crime ring whose activities included human trafficking and murder.
-
-
-
-Nobody could make the same mistake about misinformation today. One could hardly design a more fertile breeding ground for conspiracy theories than social media. The algorithms of YouTube, Facebook, TikTok, and X, which operate on the principle that rage is engaging, have turned into radicalization machines. When these platforms took off during the second half of the 2010s, they offered a seamless system in which people were able to come across exciting new information, share it, connect it to other strands of misinformation, and weave them into self-contained, self-affirming communities, all without leaving the house.
-
-
-
-It’s not hard to see how the problem will continue to grow as AI burrows ever deeper into our everyday lives. Elon Musk has tinkered with the AI chatbot Grok to produce information that conforms to his personal beliefs rather than to actual facts. This outcome does not even have to be intentional. Chatbots have been shown to validate and intensify some users’ beliefs, even if they’re rooted in paranoia or hubris. If you believe that you’re the hero in an epic battle between good and evil, then your chatbot is inclined to agree with you.
-
-
-
-It’s all this digital noise that has brought about the virtual collapse of the event conspiracy theory. The industry produced by the JFK assassination may have been pseudo-scholarship, but at least researchers went through the motions of scrutinizing documents, gathering evidence, and putting forward a somewhat consistent hypothesis. However misguided the conclusions, that kind of conspiracy theory required hard work and commitment.&nbsp;
-
-
-
-CARL MYDANS/THE LIFE PICTURE COLLECTION/SHUTTERSTOCK
-
-
-
-
-Today’s online conspiracy theorists, by contrast, are shamelessly sloppy. Events such as the attack on Paul Pelosi, husband of former US House Speaker Nancy Pelosi, in October 2022, or the murders of Minnesota House speaker Melissa Hortman and her husband Mark in June 2025, or even more recently the killing of Charlie Kirk, have inspired theories overnight, which then evaporate just as quickly. The point of such theories, if they even merit that label, is not to seek the truth but to defame political opponents and turn victims into villains.
-
-
-
-Before he even ran for office, Trump was notorious for promoting false stories about Barack Obama’s birthplace or vaccine safety. Heir to Joseph McCarthy, Barry Goldwater, and the John Birch Society, he is the lurid incarnation of the paranoid style. He routinely damns his opponents as “evil” or “very bad people” and speaks of America’s future in apocalyptic terms. It is no surprise, then, that every member of the administration must subscribe to Trump’s false claim that the 2020 election was stolen from him, or that celebrity conspiracy theorists are now in charge of national intelligence, public health, and the FBI. Former Democrats who hold such roles, like Tulsi Gabbard and Robert F. Kennedy Jr., have entered Trump’s orbit through the gateway of conspiracy theories. They illustrate how this mindset can create counterintuitive alliances that collapse conventional political distinctions and scramble traditional notions of right and left.&nbsp;
-
-
-
-The antidemocratic implications of what’s happening today are obvious. “Since what is at stake is always a conflict between absolute good and absolute evil, the quality needed is not a willingness to compromise but the will to fight things out to the finish,” Hofstadter wrote. “Nothing but complete victory will do.”&nbsp;
-
-
-
-Meeting the moment
-
-
-
-It’s easy to feel helpless in the face of this epistemic chaos. Because one other foundational feature of religious prophecy is that it can be disproved without being discredited: Perhaps the world does not come to an end on the predicted day, but that great day will still come. The prophet is never wrong—he is just not proven right yet.&nbsp;
-
-
-
-The same flexibility is enjoyed by systemic conspiracy theories. The plotters never actually succeed, nor are they ever decisively exposed, yet the theory remains intact. Recently, claims that covid-19 was either exaggerated or wholly fabricated in order to crush civil liberties did not wither away once lockdown restrictions were lifted. Surely the so-called “plandemic” was a complete disaster? No matter. This type of conspiracy theory does not have to make sense.
-
-
-
-Scholars who have attempted to methodically repudiate conspiracy theories about the 9/11 attacks or the JFK assassination have found that even once all the supporting pillars have been knocked away, the edifice still stands. It is increasingly clear that “conspiracy theory” is a misnomer and what we are really dealing with is conspiracy belief—as Hofstadter suggested, a worldview buttressed with numerous cognitive biases and impregnable to refutation. As Goebbels implied, the “factual truth” pales in comparison to the “inner truth,” which is whatever somebody believes it be.
-
-
-
-But at the very least, what we can do is identify the entirely different realities constructed by believers and recognize and internalize their common roots, tropes, and motives.&nbsp;
-
-
-
-Those different realities, after all, have proved remarkably consistent in shape if not in their details. What we saw then, we see now. The Illuminati were Enlightenment idealists whose liberal agenda to “dispel the clouds of superstition and of prejudice,” in Weishaupt’s words, was demonized as wicked and destructive. If they could be shown to have fomented the French Revolution, then the whole revolution was a sham. Similarly, today’s radical right recasts every plank of progressive politics as an anti-American conspiracy. The far-right Great Replacement Theory, for instance, posits that immigration policy is a calculated effort by elites to supplant the native population with outsiders. This all flows directly from what thinkers such as Hofstadter, Popper, and Arendt diagnosed more than 60 years ago.&nbsp;
-
-
-
-What is dangerously novel, at least in democracies, is conspiracy theories’ ubiquity, reach, and power to affect the lives of ordinary citizens. So understanding the paranoid style better equips us to counteract it in our daily existence. At minimum, this knowledge empowers us to spot the flaws and biases in our own thinking and stop ourselves from tumbling down dangerous rabbit holes.&nbsp;
-
-
-
-The Paranoid Style in American Politics and Other EssaysRichard HofstadterVINTAGE BOOKS, 1967
-
-
-
-
-On November 18, 1961, President Kennedy—almost exactly two years before Hofstadter’s lecture and his own assassination—offered his own definition of the paranoid style in a speech to the Democratic Party of California. “There have always been those on the fringes of our society who have sought to escape their own responsibility by finding a simple solution, an appealing slogan, or a convenient scapegoat,” he said. “At times these fanatics have achieved a temporary success among those who lack the will or the wisdom to face unpleasant facts or unsolved problems. But in time the basic good sense and stability of the great American consensus has always prevailed.”&nbsp;
-
-
-
-We can only hope that the consensus begins to see the rolling chaos and naked aggression of Trump’s two administrations as weighty evidence against the conspiracy theory of society. The notion that any group could successfully direct the larger mess of this moment in the world, let alone the course of history for decades, undetected, is palpably absurd. The important thing is not that the details of this or that conspiracy theory are wrong; it is that the entire premise behind this worldview is false.&nbsp;
-
-
-
-Not everything is connected, not everything is premeditated, and many things are in fact just as they seem.&nbsp;
-
-
-
-Dorian Lynskey is the author of several books, including The Ministry of Truth: The Biography of George Orwell’s 1984 and Everything Must Go: The Stories We Tell About the End of the World. He cohosts the podcast Origin Story and co-writes the Origin Story books with Ian Dunt.&nbsp;
 
 🔒 Cybersecurity & Privacy
 • Aisuru Botnet Shifts from DDoS to Residential Proxies
@@ -766,6 +641,788 @@ Domaintools.com finds that in 2015, fuckbriankrebs[.]com was registered to an em
 No updates.
 
 🏢 Corporate AI
+• Build reliable AI systems with Automated Reasoning on Amazon Bedrock – Part 1
+  Enterprises in regulated industries often need mathematical certainty that every AI response complies with established policies and domain knowledge. Regulated industries can’t use traditional quality assurance methods that test only a statistical sample of AI outputs and make probabilistic assertions about compliance. When we launched Automated Reasoning checks in Amazon Bedrock Guardrails in preview at AWS re:Invent 2024, it offered a novel solution by applying formal verification techniques to systematically validate AI outputs against encoded business rules and domain knowledge. These techniques make the validation output transparent and explainable. 
+Automated Reasoning checks are being used in workflows across industries. Financial institutions verify AI-generated investment advice meets regulatory requirements with mathematical certainty. Healthcare organizations make sure patient guidance aligns with clinical protocols. Pharmaceutical companies confirm marketing claims are supported by FDA-approved evidence. Utility companies validate emergency response protocols during disasters, while legal departments verify AI tools capture mandatory contract clauses. 
+With the general availability of Automated Reasoning, we have increased document handling and added new features like scenario generation, which automatically creates examples that demonstrate your policy rules in action. With the enhanced test management system, domain experts can build, save, and automatically execute comprehensive test suites to maintain consistent policy enforcement across model and application versions. 
+In the first part of this two-part technical deep dive, we’ll explore the technical foundations of Automated Reasoning checks in Amazon Bedrock Guardrails and demonstrate how to implement this capability to establish mathematically rigorous guardrails for generative AI applications. 
+In this post, you will learn how to: 
+ 
+ Understand the formal verification techniques that enable mathematical validation of AI outputs 
+ Create and refine an Automated Reasoning policy from natural language documents 
+ Design and implement effective test cases to validate AI responses against business rules 
+ Apply policy refinement through annotations to improve policy accuracy 
+ Integrate Automated Reasoning checks into your AI application workflow using Bedrock Guardrails, following AWS best practices to maintain high confidence in generated content 
+ 
+By following this implementation guide, you can systematically help prevent factual inaccuracies and policy violations before they reach end users, a critical capability for enterprises in regulated industries that require high assurance and mathematical certainty in their AI systems. 
+Core capabilities of Automated Reasoning checks 
+In this section, we explore the capabilities of Automated Reasoning checks, including the console experience for policy development, document processing architecture, logical validation mechanisms, test management framework, and integration patterns. Understanding these core components will provide the foundation for implementing effective verification systems for your generative AI applications. 
+Console experience 
+The Amazon Bedrock Automated Reasoning checks console organizes policy development into logical sections, guiding you through the creation, refinement, and testing process. The interface includes clear rule identification with unique IDs and direct use of variable names within the rules, making complex policy structures understandable and manageable. 
+Document processing capacity 
+Document processing supports up to 120K tokens (approximately 100 pages), so you can encode substantial knowledge bases and complex policy documents into your Automated Reasoning policies. Organizations can incorporate comprehensive policy manuals, detailed procedural documentation, and extensive regulatory guidelines. With this capacity you can work with complete documents within a single policy. 
+Validation capabilities 
+The validation API includes ambiguity detection that identifies statements requiring clarification, counterexamples for invalid findings that demonstrate why validation failed, and satisfiable findings with both valid and invalid examples to help understand boundary conditions. These features provide context around validation results, to help you understand why specific responses were flagged and how they can be improved. The system can also express its confidence in translations between natural language and logical structures to set appropriate thresholds for specific use cases. 
+Iterative feedback and refinement process 
+Automated Reasoning checks provide detailed, auditable findings that explain why a response failed validation, to support an iterative refinement process instead of simply blocking non-compliant content. This information can be fed back to your foundation model, allowing it to adjust responses based on specific feedback until they comply with policy rules. This approach is particularly valuable in regulated industries where factual accuracy and compliance must be mathematically verified rather than estimated. 
+ 
+Finding types using a policy example 
+Consider the example of a policy for determining days off. When implementing Automated Reasoning checks, a policy consists of both a schema of variables (defining concepts like employee type, years of service, and available leave days) and a set of logical rules that establish relationships between these variables (such as eligibility conditions for different types of time off). During validation, the system uses this schema and rule structure to evaluate whether foundation model responses comply with your defined policy constraints. 
+We want to validate the following input that a user asked the foundation model (FM) powered application and the generated output. 
+ 
+ Input:
+"Is Thursday a day off if it's a public holiday?"
+
+Output:
+"Yes, Thursday would be a day off if it's a public holiday, since all public holidays are considered days off regardless of the day of the week." 
+ 
+Premises are statements from which a conclusion is drawn and the claim is an assertion of the truth. In this example, the premises inferred are day is equal to “Thursday” and is_public_holiday is true, and the claim is made that is_day_off is true. 
+This reasoning follows the automated reasoning policy: 
+ 
+ Days Off Policy:
+-&nbsp;All weekend days (Saturday and Sunday) are days off
+-&nbsp;All public holidays are days off
+- A day is considered a day off if it is either a weekend day or a public holiday
+ 
+ 
+With general availability, Automated Reasoning checks now produces seven distinct finding types that offer precise insights into the validation process of a FM generated response: 
+ 
+VALID: Confirms Input&nbsp;and&nbsp;Output&nbsp;fully aligns with policy rules, providing confidence that the information in the generated response is correct according to your defined policies. The claims are inferred from the premises and validated by the AR policy to be true, and there are no alternative answers that contradict these claims. 
+ 
+ Input:
+Today is Sunday, do I have the day off? 
+
+Output:
+Yes, Sunday is a weekend day, you have the day off.
+
+Premises:
+day: Sunday
+is_weekend: true
+
+Claim:
+is_day_off: true
+
+Explanation:
+Given the assigned variables and policy rules that weekends are days off, the only possible answer is that it is a day off. 
+ 
+SATISFIABLE: Recognizes that Input&nbsp;and Output could be true or false depending on specific assumptions. These findings help you understand boundary conditions where a response is valid only under certain conditions, so that you can decide whether those assumptions are reasonable in your context. If the required assumptions are false, then an alternative claim consistent with the premises may exist. 
+ 
+ Input:
+Today is Tuesday, do I have the day off?
+
+Output:
+Yes
+Premises:
+day: Tuesday
+
+Claim:
+is_day_off: true
+
+Explanation: 
+If we assume is_public_holiday=true, this is correct, but if we assume is_public_holiday=false, the answer would be incorrect since Tuesday is not a weekend. 
+ 
+INVALID: Identifies Input and Output have policy inaccuracies or factual errors, enhanced with counter-examples that explicitly demonstrate why the validation failed. The claims are not implied by the premises and AR policy, and there exist different claims that would be consistent with the premises and AR policy. 
+ 
+ Input:
+Today is Sunday, do I have the day off?
+
+Output:
+No you do&nbsp;not have the day off.
+
+Premises:
+day: Sunday
+
+Claim:
+is_day_off: false
+
+Explanation:
+This is invalid because the policy states weekends are days off. The correct claim would be is_day_off = true since Sunday is a weekend day 
+ 
+IMPOSSIBLE: Indicates when no valid&nbsp;Claims&nbsp;can be generated because the premises conflict with the AR policy or the policy contains internal contradictions. This finding occurs when the constraints defined in the policy create a logical impossibility. 
+ 
+ Input: 
+Today is Sunday and not a weekend day, do I have the day off?
+
+Output:
+Yes
+
+Premises:
+day: Sunday
+is_weekend: false
+
+Claim:
+is_day_off: true
+
+Explanation: 
+Sunday is always a weekend day, so the premises contain a contradiction. No valid claim can exist given these contradictory premises. 
+ 
+NO_TRANSLATIONS: Occurs when the Input and Output contains no information that can be translated into relevant data for the AR policy evaluation. This typically happens when the text is entirely unrelated to the policy domain or contains no actionable information. 
+ 
+ Input: 
+How many legs does the average cat have?
+
+Output:
+Less than 4
+
+Explanation:
+The AR policy is about days off, so there is no relevant translation for content about cats. The input has no connection to the policy domain. 
+ 
+TRANSLATION_AMBIGUOUS: Identifies when ambiguity in the Input&nbsp;and Output prevents definitive translation into logical structures. This finding suggests that additional context or follow-up questions may be needed to proceed with validation. 
+ 
+ Input: 
+I won! Today is Winsday, do I get the day off?
+
+Output:
+Yes, you get the day off!
+
+Explanation: 
+"Winsday" is not a recognized day in the AR policy, creating ambiguity. Automated reasoning cannot proceed without clarification of what day is being referenced. 
+ 
+TOO_COMPLEX: Signals that the Input&nbsp;and Output contains too much information to process within latency limits. This finding occurs with extremely large or complex inputs that exceed the system’s current processing capabilities. 
+ 
+ Input:
+Can you tell me which days are off for all 50 states plus territories for the next 3 years, accounting for federal, state, and local holidays? Include exceptions for floating holidays and special observances.
+
+Output:
+I have analyzed the holiday calendars for all 50 states. In Alabama, days off include...
+
+Explanation: 
+This use case contains too many variables and conditions for AR checks to process while maintaining accuracy and response time requirements. 
+ 
+Scenario generation 
+You can now generate scenarios directly from your policy, which creates test samples that conform to your policy rules, helps identify edge cases, and supports verification of your policy’s business logic implementation. With this capability policy authors can see concrete examples of how their rules work in practice before deployment, reducing the need for extensive manual testing. The scenario generation also highlights potential conflicts or gaps in policy coverage that might not be apparent from examining individual rules. 
+Test management system 
+A new test management system allows you to save and annotate policy tests, build test libraries for consistent validation, execute tests automatically to verify policy changes, and maintain quality assurance across policy versions. This system includes versioning capabilities that track test results across policy iterations, making it easier to identify when changes might have unintended consequences. You can now also export test results for integration into existing quality assurance workflows and documentation processes. 
+Expanded options with direct guardrail integration 
+Automated Reasoning checks now integrates with Amazon Bedrock APIs, enabling validation of AI generated responses against established policies throughout complex interactions. This integration extends to both the Converse and RetrieveAndGenerate actions, allowing policy enforcement across different interaction modalities. Organizations can configure validation confidence thresholds appropriate to their domain requirements, with options for stricter enforcement in regulated industries or more flexible application in exploratory contexts. 
+Solution – AI-powered hospital readmission risk assessment system 
+Now that we have explained the capabilities of Automated Reasoning checks, let’s work through a solution by considering the use case of an AI-powered hospital readmission risk assessment system. This AI system automates hospital readmission risk assessment by analyzing patient data from electronic health records to classify patients into risk categories (Low, Intermediate, High) and recommends personalized intervention plans based on CDC-style guidelines. The objective of this AI system is to reduce the 30-day hospital readmission rates by supporting early identification of high-risk patients and implementing targeted interventions. This application is an ideal candidate for Automated Reasoning checks because the healthcare provider prioritizes verifiable accuracy and explainable recommendations that can be mathematically proven to comply with medical guidelines, supporting both clinical decision-making and satisfying the strict auditability requirements common in healthcare settings. 
+Note: The referenced policy document is an example created for demonstration purposes only and should not be used as an actual medical guideline or for clinical decision-making. 
+Prerequisites 
+To use Automated Reasoning checks in Amazon Bedrock, verify you have met the following prerequisites: 
+ 
+ An active AWS account 
+ Confirmation of AWS Regions where Automated Reasoning checks is available 
+ Appropriate IAM permissions to create, test, and invoke Automated Reasoning policies (Note: The IAM policy should be fine-grained and limited to necessary resources using proper ARN patterns for production usage): 
+ 
+ 
+  {  
+  "Sid": "OperateAutomatedReasoningChecks",  
+  "Effect": "Allow",  
+  "Action": [  
+    "bedrock:CancelAutomatedReasoningPolicyBuildWorkflow",  
+    "bedrock:CreateAutomatedReasoningPolicy",
+    "bedrock:CreateAutomatedReasoningPolicyTestCase",  
+    "bedrock:CreateAutomatedReasoningPolicyVersion",
+    "bedrock:CreateGuardrail",
+    "bedrock:DeleteAutomatedReasoningPolicy",  
+    "bedrock:DeleteAutomatedReasoningPolicyBuildWorkflow",  
+    "bedrock:DeleteAutomatedReasoningPolicyTestCase",
+    "bedrock:ExportAutomatedReasoningPolicyVersion",  
+    "bedrock:GetAutomatedReasoningPolicy",  
+    "bedrock:GetAutomatedReasoningPolicyAnnotations",  
+    "bedrock:GetAutomatedReasoningPolicyBuildWorkflow",  
+    "bedrock:GetAutomatedReasoningPolicyBuildWorkflowResultAssets",  
+    "bedrock:GetAutomatedReasoningPolicyNextScenario",  
+    "bedrock:GetAutomatedReasoningPolicyTestCase",  
+    "bedrock:GetAutomatedReasoningPolicyTestResult",
+    "bedrock:InvokeAutomatedReasoningPolicy",  
+    "bedrock:ListAutomatedReasoningPolicies",  
+    "bedrock:ListAutomatedReasoningPolicyBuildWorkflows",  
+    "bedrock:ListAutomatedReasoningPolicyTestCases",  
+    "bedrock:ListAutomatedReasoningPolicyTestResults",
+    "bedrock:StartAutomatedReasoningPolicyBuildWorkflow",  
+    "bedrock:StartAutomatedReasoningPolicyTestWorkflow",
+    "bedrock:UpdateAutomatedReasoningPolicy",  
+    "bedrock:UpdateAutomatedReasoningPolicyAnnotations",  
+    "bedrock:UpdateAutomatedReasoningPolicyTestCase",
+    "bedrock:UpdateGuardrail"
+  ],  
+  "Resource": [
+  "arn:aws:bedrock:\${aws:region}:\${aws:accountId}:automated-reasoning-policy/*",
+  "arn:aws:bedrock:\${aws:region}:\${aws:accountId}:guardrail/*"
+]
+} 
+ 
+ 
+ Key service limits: Be aware of the service limits when implementing Automated Reasoning checks. 
+ With Automated Reasoning checks, you pay based on the amount of text processed. For more information, see Amazon Bedrock pricing. For more information, see Amazon Bedrock pricing. 
+ 
+Use case and policy dataset overview 
+The full policy document used in this example can be accessed from the Automated Reasoning GitHub repository.&nbsp; To validate the results from Automated Reasoning checks, being familiar with the policy is helpful. Moreover, refining the policy that is created by Automated Reasoning is key in achieving a soundness of over 99%. 
+Let’s review the main details of the sample medical policy that we are using in this post. As we start validating responses, it is helpful to verify it against the source document. 
+ 
+ Risk assessment and stratification:&nbsp;Healthcare facilities must implement a standardized risk scoring system based on demographic, clinical, utilization, laboratory, and social factors, with patients classified into Low (0-3 points), Intermediate (4-7 points), or High Risk (8+ points) categories. 
+ Mandatory interventions:&nbsp;Each risk level requires specific interventions, with higher risk levels incorporating lower-level interventions plus additional measures, while certain conditions trigger automatic High Risk classification regardless of score. 
+ Quality metrics and compliance:&nbsp;Facilities must achieve specific completion rates including 95%+ risk assessment within 24 hours of admission and 100% completion before discharge, with High Risk patients requiring documented discharge plans. 
+ Clinical oversight:&nbsp;While the scoring system is standardized, attending physicians maintain override authority with proper documentation and approval from the discharge planning coordinator. 
+ 
+Create and test an Automated Reasoning checks’ policy&nbsp;using the Amazon Bedrock console 
+The first step is to encode your knowledge—in this case, the sample medical policy—into an Automated Reasoning policy. Complete the following steps to create an Automated Reasoning policy: 
+ 
+ On the Amazon Bedrock console, choose Automated Reasoning under Build in the navigation pane. 
+ Choose Create policy.  
+ 
+ 
+ Provide a policy name and policy description.  
+ 
+ 
+ Add source content from which Automated Reasoning will generate your policy. You can either upload document (pdf, txt) or enter text as the ingest method.   
+ Include a description of the intent of the Automated Reasoning policy you’re creating. The intent is optional but provides valuable information to the Large Language Models that are translating the natural language based document into a set of rules that can be used for mathematical verification. For the sample policy, you can use the following intent: This logical policy validates claims about the clinical practice guideline providing evidence-based recommendations for healthcare facilities to systematically assess and mitigate hospital readmission risk through a standardized risk scoring system, risk-stratified interventions, and quality assurance measures, with the goal of reducing 30-day readmissions by 15-23% across participating healthcare systems.
+
+Following is an example patient profile and the corresponding classification.
+
+&lt;Patient Profile&gt;Age: 82 years
+
+Length of stay: 10 days
+
+Has heart failure
+
+One admission within last 30 days
+
+Lives alone without caregiver
+
+&lt;Classification&gt; High Risk  
+ Once the policy has been created, we can inspect the definitions to see which rules, variables and types have been created from the natural language document to represent the knowledge into logic. 
+ 
+ 
+ You may see differences in the number of rules, variables, and types generated compared to what is shown in this example. This is due to the non-deterministic processing of the supplied document. To address this, the recommended guidance is to perform a human-in-the-loop review of the generated information in the policy before using it with other systems. 
+Exploring the Automated Reasoning checks’ definition 
+A Variable in automated reasoning for policy documents is a named container that holds a specific type of information (like Integer, Real Number, or Boolean) and represents a distinct concept or measurement from the policy. Variables act as building blocks for rules and can be used to track, measure, and evaluate policy requirements. From the image below, we can see examples like admissionsWithin30Days&nbsp;(an Integer variable tracking previous hospital admissions), ageRiskPoints&nbsp;(an Integer variable storing age-based risk scores), and conductingMonthlyHighRiskReview (a Boolean variable indicating whether monthly reviews are being performed). Each variable has a clear description of its purpose and the specific policy concept it represents, making it possible to use these variables within rules to enforce policy requirements and measure compliance. Issues also highlight that some variables are unused. It is particularly important to verify which concepts these variables represent and to identify if rules are missing. 
+ 
+In the Definitions, we see ‘Rules’, ‘Variables’ and ‘Types’. A rule is an unambiguous logical statement that Automated Reasoning extracts from your source document. Consider this simple rule that has been created:&nbsp;followupAppointmentsScheduledRate is at least 90.0&nbsp; – This rule has been created from the Section III A Process Measures, which states that healthcare facilities should monitor various process indications, requiring that follow up appointments scheduled prior to discharge should be 90% or higher. 
+Let’s look at a more complex rule: 
+ 
+ comorbidityRiskPoints is equal to(ite&nbsp;hasDiabetesMellitus&nbsp;1 0) + (ite hasHeartFailure 2 0) + (ite&nbsp;hasCOPD&nbsp;1 0) + (ite hasChronicKidneyDisease 1 0) 
+ 
+ 
+ Where “ite” is “If then else” 
+ 
+This rule calculates a patient’s risk points based on their existing medical conditions (comorbidities) as specified in the policy document. When evaluating a patient, the system checks for four specific conditions: diabetes mellitus of any type (worth 1 point), heart failure of any classification (worth 2 points), chronic obstructive pulmonary disease (worth 1 point), and chronic kidney disease stages 3-5 (worth 1 point). The rule adds these points together by using boolean logic – meaning it multiplies each condition (represented as true=1 or false=0) by its assigned point value, then sums all values to generate a total comorbidity risk score. For instance, if a patient has both heart failure and diabetes, they would receive 3 total points (2 points for heart failure plus 1 point for diabetes). This comorbidity score then becomes part of the larger risk assessment framework used to determine the patient’s overall readmission risk category. 
+ 
+The Definitions also include custom variable types.&nbsp;Custom variable types, also known as enumerations (ENUMs), are specialized data structures that define a fixed set of allowable values for specific policy concepts.&nbsp;These custom types maintain consistency and accuracy in data collection and rule enforcement by limiting values to predefined options that align with the policy requirements. In the sample policy, we can see that four custom variable types have been identified: 
+ 
+ AdmissionType: This defines the possible types of hospital admissions (MEDICAL, SURGICAL, MIXED_MEDICAL_SURGICAL, PSYCHIATRIC) that determine whether a patient is eligible for the readmission risk assessment protocol. 
+ HealthcareFacilityType: This specifies the types of healthcare facilities (ACUTE_CARE_HOSPITAL_25PLUS, CRITICAL_ACCESS_HOSPITAL) where the readmission risk assessment protocol may be implemented. 
+ LivingSituation: This categorizes a patient’s living arrangement (LIVES_ALONE_NO_CAREGIVER, LIVES_ALONE_WITH_CAREGIVER) which is a critical factor in determining social support and risk levels. 
+ RiskCategory: This defines the three possible risk stratification levels (LOW_RISK, INTERMEDIATE_RISK, HIGH_RISK) that can be assigned to a patient based on their total risk score. 
+ 
+ 
+An important step in improving soundness (accuracy of Automated Reasoning checks when it says VALID), is the policy refinement step of making sure that the rules, variable, and types that are captured best represent the source of truth. In order to do this, we will head over to the test suite and explore how to add tests, generate tests and use the results from the tests to apply annotations that will update the rules. 
+Testing the Automated Reasoning policy and policy refinement 
+The test suite in Automated Reasoning provides test capabilities for two purposes: First, we want to run different scenarios and test the various rules and variables in the Automated Reasoning policy and refine them so that they accurately represent the ground truth. This policy refinement step is important to improving the soundness of Automated Reasoning checks. Second, we want metrics to understand how well the Automated Reasoning checks performs for the defined policy and the use case. To do so, we can open the Tests tab on Automated Reasoning console. 
+ 
+Test samples can be added manually by using the Add button. To scale up the testing, we can generate tests from the policy rules. This testing approach helps verify both the semantic correctness of your policy (making sure rules accurately represent intended policy constraints) and the natural language translation capabilities (confirming the system can correctly interpret the language your users will use when interacting with your application). In the image below, we can see a test sample generated and before adding it to the test suite, the SME should indicate if this test sample is possible (thumbs up) or not possible (thumbs up). The test sample can then be saved to the test suite. 
+ 
+ 
+Once the test sample is created, it possible to run this test sample alone, or all the test samples in the test suite by choosing on Validate all tests. Upon executing, we see that this test passed successfully. 
+ 
+You can manually create tests by providing an input (optional) and output. These are translated into logical representations before validation occurs. 
+How translation works: 
+Translation converts your natural language tests into logical representations that can be mathematically verified against your policy rules: 
+ 
+ Automated Reasoning Checks uses multiple LLMs to translate your input/output into logical findings 
+ Each translation receives a confidence vote indicating translation quality 
+ You can set a confidence threshold to control which findings are validated and returned 
+ 
+Confidence threshold behavior: 
+The confidence threshold controls which translations are considered reliable enough for validation, balancing strictness with coverage: 
+ 
+ Higher threshold: Greater certainty in translation accuracy but also higher chance of no findings being validated. 
+ Lower threshold: &nbsp;Greater chance of getting validated findings returned, but potentially less certain translations 
+ Threshold = 0: All findings are validated and returned regardless of confidence 
+ 
+Ambiguous results: 
+When no finding meets your confidence threshold, Automated Reasoning Checks returns “Translation Ambiguous,” indicating uncertainty in the content’s logical interpretation.The test case we will create and validate is: 
+ 
+ Input:
+Patient A
+Age: 82
+Length of stay: 16 days
+Diabetes Mellitus: Yes
+Heart Failure: Yes
+Chronic Kidney Disease: Yes
+Hemoglobin: 9.2 g/dL
+eGFR: 28 ml/min/1.73m^2
+Sodium: 146 mEq/L
+Living Situation: Lives alone without caregiver
+Has established PCP: No
+Insurance Status: Medicaid
+Admissions within 30 days: 1
+
+Output:
+Final&nbsp;Classification:&nbsp;INTERMEDIATE RISK 
+ 
+ 
+We see that this test passed upon running it, the result of ‘INVALID’ matches our expected results. Additionally Automated Reasoning checks also shows that 12 rules were contradicting the premises and claims, which lead to the output of the test sample being ‘INVALID’ 
+ 
+Let’s examine some of the visible contradicting rules: 
+ 
+ Age risk: Patient is 82 years old 
+   
+   Rule triggers: “if patientAge is at least 80, then ageRiskPoints is equal to 3” 
+    
+ Length of stay risk: Patient stayed 16 days 
+   
+   Rule triggers: “if lengthOfStay is greater than 14, then lengthOfStayRiskPoints is equal to 3” 
+    
+ Comorbidity risk: Patient has multiple conditions 
+   
+   Rule calculates: “comorbidityRiskPoints = (hasDiabetesMellitus × 1) + (hasHeartFailure × 2) + (hasCOPD × 1) + (hasChronicKidneyDisease × 1)” 
+    
+ Utilization risk: Patient has 1 admission within 30 days 
+   
+   Rule triggers: “if admissionsWithin30Days is at least 1, then utilizationRiskPoints is at least 3” 
+    
+ Laboratory risk: Patient’s eGFR is 28 
+   
+   Rule triggers: “if eGFR is less than 30.0, then laboratoryRiskPoints is at least 2” 
+    
+ 
+These rules are likely producing conflicting risk scores, making it impossible for the system to determine a valid final risk category. These contradictions show us which rules where used to determine that the input text of the test is INVALID. 
+ 
+Let’s add another test to the test suite, as shown in the screenshot below: 
+ 
+ Input:
+Patient&nbsp;profile
+Age: 83
+Length of stay: 16 days
+Diabetes Mellitus: Yes
+Heart Failure: Yes
+Chronic Kidney Disease: Yes
+Hemoglobin: 9.2 g/dL
+eGFR: 28 ml/min/1.73m^2
+Sodium: 146 mEq/L
+Living Situation: Lives alone without caregiver
+Has established PCP: No
+Insurance Status: Medicaid
+Admissions within 30 days: 1
+Admissions within 90 days:&nbsp;2
+
+Output:
+Final&nbsp;Classification:&nbsp;HIGH RISK 
+ 
+ 
+ 
+When this test is executed, we see that each of the patient details are extracted as premises, to validate the claim that the risk of readmission if high. We see that 8 rules have been applied to verify this claim. The key rules and their validations include: 
+ 
+ Age risk: Validates that patient age ≥ 80 contributes 3 risk points 
+ Length of stay risk: Confirms that stay &gt;14 days adds 3 risk points 
+ Comorbidity risk: Calculated based on presence of&nbsp;Diabetes Mellitus, Heart Failure, Chronic Kidney Disease 
+ Utilization risk: Evaluates admissions history 
+ Laboratory risk: Evaluates risk based on&nbsp;Hemoglobin level of 9.2 and eGFR of 28 
+ 
+Each premise was evaluated as true, with multiple risk factors present (advanced age, extended stay, multiple comorbidities, concerning lab values, living alone without caregiver, and lack of PCP), supporting the overall Valid classification of this HIGH RISK assessment. 
+ 
+Moreover, the Automated Reasoning engine performed an extensive validation of this test sample using 93 different assignments to increase the soundness that the HIGH RISK classification is correct.&nbsp;Various related rules from the Automated Reasoning policy are used to validate the samples against 93 different scenarios and variable combinations. In this manner, Automated Reasoning checks confirms that there is no possible situation under which this patient’s HIGH RISK classification could be invalid. This thorough verification process affirms the reliability of the risk assessment for this elderly patient with multiple chronic conditions and complex care needs.In the event of a test sample failure, the 93 assignments would serve as an important diagnostic tool, pinpointing specific variables and their interactions that conflict with the expected outcome, thereby enabling subject matter experts (SMEs) to analyze the relevant rules and their relationships to determine if adjustments are needed in either the clinical logic or risk assessment criteria. In the next section, we will look at policy refinement and how SMEs can apply annotations to improve and correct the rules, variables, and custom types of the Automated Reasoning policy. 
+Policy refinement through annotations 
+Annotations provide a powerful improvement mechanism for Automated Reasoning policies when tests fail to produce expected results. Through annotations, SMEs can systematically refine policies by: 
+ 
+ Correcting problematic rules by modifying their logic or conditions 
+ Adding missing variables essential to the policy definition 
+ Updating variable descriptions for greater precision and clarity 
+ Resolving translation issues where original policy language was ambiguous 
+ Deleting redundant or conflicting elements from the policy 
+ 
+This iterative process of testing, annotating, and updating creates increasingly robust policies that accurately encode domain expertise. As shown in the figure below, annotations can be applied to modify various policy elements, after which the refined policy can be exported as a JSON file for deployment. 
+ 
+In the following figure, we can see how annotations are being applied, and rules are deleted in the policy. Similarly, additions and updates can be made to rules, variables, or the custom types. 
+ 
+ 
+When the subject matter expert has validated the Automated Reasoning policy through testing, applying annotations, and validating the rules, it is possible to export the policy as a JSON file. 
+ 
+Using Automated Reasoning checks at inference 
+To use the Automated Reasoning checks with the created policy, we can now navigate to Amazon Bedrock&nbsp;Guardrails,&nbsp;and create a new guardrail by entering the name, description, and the messaging that will be displayed when the guardrail intervenes and blocks a prompt or a output from the AI system. 
+ 
+Now, we can attach Automated Reasoning check by using the toggle to Enable Automated Reasoning policy. We can set a confidence threshold, which determines how strictly the policy should be enforced. This threshold ranges from 0.00 to 1.00, with 1.00 being the default and most stringent setting. Each guardrail can accommodate up to two separate automated reasoning policies for enhanced validation flexibility. In the following figure, we are attaching the draft version of the medical policy related to patient hospital readmission risk assessment. 
+ 
+Now we can create the guardrail. Once you’ve established the guardrail and linked your automated reasoning policies, verify your setup by reviewing the guardrail details page to confirm all policies are properly attached. 
+ 
+Clean up 
+When you’re finished with your implementation, clean up your resources by deleting the guardrail and automated reasoning policies you created. Before deleting a guardrail, be sure to disassociate it from all resources or applications that use it. 
+Conclusion 
+In this first part of our blog, we explored how Automated Reasoning checks in Amazon Bedrock Guardrails help maintain the reliability and accuracy of generative AI applications through mathematical verification. You can use increased document processing capacity, advanced validation mechanisms, and comprehensive test management features to validate AI outputs against business rules and domain knowledge. This approach addresses key challenges facing enterprises deploying generative AI systems, particularly in regulated industries where factual accuracy and policy compliance are essential. Our hospital readmission risk assessment demonstration shows how this technology supports the validation of complex decision-making processes, helping transform generative AI into systems suitable for critical business environments. You can use these capabilities through both the AWS Management Console and APIs to establish quality control processes for your AI applications. 
+To learn more, and build secure and safe AI applications, see the technical documentation and the GitHub code samples, or access to the Amazon Bedrock console. 
+ 
+About the authors 
+Adewale Akinfaderin&nbsp;is a Sr. Data Scientist–Generative AI, Amazon Bedrock, where he contributes to cutting edge innovations in foundational models and generative AI applications at AWS. His expertise is in reproducible and end-to-end AI/ML methods, practical implementations, and helping global customers formulate and develop scalable solutions to interdisciplinary problems. He has two graduate degrees in physics and a doctorate in engineering. 
+Bharathi Srinivasan is a Generative AI Data Scientist at the AWS Worldwide Specialist Organization. She works on developing solutions for Responsible AI, focusing on algorithmic fairness, veracity of large language models, and explainability. Bharathi guides internal teams and AWS customers on their responsible AI journey. She has presented her work at various learning conferences. 
+Nafi Diallo &nbsp;is a Senior Automated Reasoning Architect at Amazon Web Services, where she advances innovations in AI safety and Automated Reasoning systems for generative AI applications. Her expertise is in formal verification methods, AI guardrails implementation, and helping global customers build trustworthy and compliant AI solutions at scale. She holds a PhD in Computer Science with research in automated program repair and formal verification, and an MS in Financial Mathematics from WPI.
+• Custom Intelligence: Building AI that matches your business DNA
+  In 2024, we launched the Custom Model Program within the AWS Generative AI Innovation Center to provide comprehensive support throughout every stage of model customization and optimization. Over the past two years, this program has delivered exceptional results by partnering with global enterprises and startups across diverse industries—including legal, financial services, healthcare and life sciences, software development, telecommunications, and manufacturing. These partnerships have produced tailored AI solutions that capture each organization’s unique data expertise, brand voice, and specialized business requirements. They operate more efficiently than off-the-shelf alternatives, delivering increased alignment and relevance with significant cost savings on inference operations. 
+ 
+As organizations mature past proof-of-concept projects and basic chatbots, we’re seeing increased adoption of advanced personalization and optimization strategies beyond prompt engineering and retrieval augmented generation (RAG). Our approach encompasses creating specialized models for specific tasks and brand alignment, distilling larger models into smaller, faster, more cost-effective versions, implementing deeper adaptations through mid-training modifications, and optimizing hardware and accelerators to increase throughput while reducing costs. 
+Strategic upfront investment pays dividends throughout a model’s production lifecycle, as demonstrated by Cosine AI’s results. Cosine AI is the developer of an AI developer platform and software engineering agent designed to integrate seamlessly into their users’ workflows. They worked with the Innovation Center to fine-tune Nova Pro, an Amazon Nova foundation model, using Amazon SageMaker AI for their AI engineering assistant, Genie, achieving remarkable results including a 5x increase in A/B testing capability, a 10x faster developer iterations, and a 4x overall project speed improvement. The return on investment becomes even more compelling as companies transition toward agentic systems and workflows, where latency task specificity, performance, and depth are critical and compound across complex processes. 
+In this post, we’ll share key learnings and actionable strategies for leaders looking to use customization for maximum ROI while avoiding common implementation pitfalls. 
+Five tips for maximizing value from training and tuning generative AI models 
+The Innovation Center recommends the following top tips to maximize value from training and tuning AI models: 
+1. Don’t start from a technical approach; work backwards from business goals 
+This may seem obvious, but after working with over a thousand customers, we’ve found that working backwards from business goals is a critical factor in why projects supported by the Innovation Center achieve a 65% production success rate, with some launching within 45 days. We apply this same strategy to every customization project by first identifying and prioritizing tangible business outcomes that a technical solution will drive. Success must be measurable and deliver real business value, helping avoid flashy experiments that end up sitting on a shelf instead of producing results. In the Custom Model Program, many customers initially approach us seeking specific technical solutions—such as jumping directly into model pre-training or continued pre-training—without having defined downstream use cases, data strategies, or evaluation plans. By starting with clear business objectives first, we make sure that technical decisions align with strategic goals and create meaningful impact for the organization. 
+2. Pick the right customization approach 
+Start with a baseline customization approach and exhaust simpler approaches before diving into deep model customization. The first question we ask customers seeking custom model development is “What have you already tried?” We recommend establishing this baseline with prompt engineering and RAG before exploring more complex techniques. While there’s a spectrum of model optimization approaches that can achieve higher performance, sometimes the simplest solution is the most effective. Once you establish this baseline, identify remaining gaps and opportunities to determine whether advancing to the next level makes strategic sense. 
+ 
+Customization options range from lightweight approaches like supervised fine-tuning to ground-up model development. We typically advise starting with lighter-weight solutions that require smaller amounts of data and compute, then progressing to more complex techniques only when specific use cases or remaining gaps justify the investment: 
+ 
+ Supervised fine-tuning sharpens the model’s focus for specific use cases, for example delivering consistent customer service responses or adapting to your organization’s preferred phrasing, structure and reasoning patterns. Volkswagen, one of the world’s largest automobile manufacturers, achieved an “improvement in AI-powered brand consistency checks, increasing accuracy in identifying on-brand images from 55% to 70%,” notes Dr. Philip Trempler, Technical Lead AI &amp; Cloud Engineering at Volkswagen Group Services. 
+ Model efficiency and deployment tuning supports organizations like Robin AI, a leader in AI-powered legal contract technology, to create tailored models that speed up human verification. Organizations can also use techniques like quantization, pruning, and system optimizations to improve model performance and reduce infrastructure costs. 
+ Reinforcement learning uses reward functions or preference data to align models to preferred behavior. This approach is often combined with supervised fine-tuning so organizations like Cosine AI can refine their models’ decision making to match organizational preferences. 
+ Continued pre-training allow organizations like Athena RC, a leading research center in Greece, to build Greek-first foundation models that expand language capabilities beyond English. By continually pre-training large language models on extensive Greek data, Athena RC strengthens the models’ core understanding of the Greek language, culture, and usage – not just their domain knowledge. Their Meltemi-7B and Llama-Krikri-8B models demonstrate how continued pre-training and instruction tuning can create open, high-quality Greek models for applications across research, education, industry, and society. 
+ Domain-specific foundation model development enables organizations like TGS, a leading energy data, insights, and technology provider, to build custom AI models from scratch, ideal for those with highly specialized requirements and substantial volume of proprietary data. TGS helps energy companies make smarter exploration and development decisions by solving some of the industry’s toughest challenges in understanding what lies beneath the Earth’s surface. TGS has enhanced its Seismic Foundation Models (SFMs) to more reliably detect underground geological structures—such as faults and reservoirs—that indicate potential oil and gas deposits. The benefit is clear: operators can reduce uncertainty, lower exploration costs, and make faster investment decisions. 
+ 
+Data quality and accessibility will be a major consideration in determining feasibility of each customization technique. Clean, high-quality data is essential both for model improvement and measuring progress. While some Innovation Center customers achieve performance gains with relatively smaller volumes of fine-tuning training pairs on instruction-tuned foundation models, approaches like continued pre-training typically require large volumes of training tokens. This reinforces the importance of starting simple—as you test lighter-weight model tuning, you can collect and process larger data volumes in parallel for future phases. 
+3. Define measures for what good looks like 
+Success needs to be measurable, regardless of which technical approach you choose. It’s critical to establish clear methods for measuring both overall business outcomes and the technical solution’s performance. At the model or application level, teams typically optimize across some combination of relevance, latency, and cost. However, the metrics for your production application won’t be general leaderboard metrics—they must be unique to what matters for your business. 
+Customers developing content generation systems prioritize metrics like relevance, clarity, style, and tone. Consider this example from Volkswagen Group: “We fine-tuned Nova Pro in SageMaker AI using our marketing experts’ knowledge. This improved the model’s ability to identify on-brand images, achieving stronger alignment with Volkswagen’s brand guidelines,” according to Volkswagen’s Dr. Trempler. “We are building on these results to enable Volkswagen Group’s vision to scale high-quality, brand-compliant content creation across our diverse automotive markets worldwide using generative AI.” Developing an automated evaluation process is critical for supporting iterative solution improvements. 
+For qualitative use cases, it’s essential to align automated evaluations with human experts, particularly in specialized domains. A common solution involves using LLM as judge to review another model or system responses. For instance, when fine-tuning a generation model for a RAG application, you might use an LLM judge to compare the fine-tuned model response to your existing baseline. However, LLM judges come with intrinsic biases and may not align with your internal team’s human preferences or domain expertise. Robin AI partnered with the Innovation Center to develop Legal LLM-as-Judge, an AI model for legal contract review. Emulating expert methodology and creating “a panel of trained judges” using fine-tuning techniques, they obtained smaller and faster models that maintain accuracy while reviewing documents ranging from NDAs to merger agreements. The solution achieved an 80% faster contract review process, enabling lawyers to focus on strategic work while AI handles detailed analysis. 
+4. Consider hardware-level optimizations for training and inference 
+If you’re using a managed service like Amazon Bedrock, you can take advantage of built-in optimizations out of the box. However, if you have a more bespoke solution or are operating at a lower level of the technology stack, there are several areas to consider for optimization and efficiency gains. For instance, TGS’s SFMs process massive 3D seismic images (essentially giant CAT scans of the Earth) that can cover tens of thousands of square kilometers. Each dataset is measured in petabytes, far beyond what traditional manual or even semi-automated interpretation methods can handle. By rebuilding their AI models on AWS’s high-performance GPU training infrastructure, TGS achieved near-linear scaling, meaning that adding more computing power results in almost proportional speed increases while maintaining &gt;90% GPU efficiency. As a result, TGS can now deliver actionable subsurface insights, such as identifying drilling targets or de-risking exploration zones, to customers in days instead of weeks. 
+Over the life of a model, resource requirements are generally driven by inference requests, and any efficiency gains you can achieve will pay dividends during the production phase. One approach to reduce inference demands is model distillation to reduce the model size itself, but in some cases, there are additional gains to be had by digging deeper into the infrastructure. A recent example is Synthesia, the creator of a leading video generation platform where users can create professional videos without the need for mics, cameras, or actors. Synthesia is continually looking for ways to elevate their user experience, including by decreasing generation times for content. They worked with the Innovation Center to optimize the Variational Autoencoder decoder of their already efficient video generation pipeline. Strategic optimization of the model’s causal convolution layers unlocked powerful compiler performance gains, while asynchronous video chunk writing eliminated GPU idle time – together delivering a dramatic reduction in end-to-end latency and a 29% increase in decoding throughput. 
+5. One size doesn’t fit all 
+The one size doesn’t fit all principle applies to both model size and family. Some models excel out of the box for specific tasks like code generation, tool usage, document processing, or summarization. With the rapid pace of innovation, the best foundation model for a given use case today likely won’t be the best tomorrow. Model size corresponds to the number of parameters and often determines its ability to complete a broad set of general tasks and capabilities. However, larger models require more compute resources at inference time and can be expensive to run at production scale. Many applications don’t need a model that excels at everything but rather one that performs exceptionally well at a more limited set of tasks or domain-specific capabilities. 
+Even within a single application, optimization may require using multiple model providers depending on the specific task, complexity level, and latency requirements. In agentic applications, you might use a lightweight model for specialized agent tasks while requiring a more powerful generalist model to orchestrate and supervise those agents. Architecting your solution to be modular and resilient to changing model providers or versions helps you adapt quickly and capitalize on improvements. Services like Amazon Bedrock facilitate this approach by providing a unified API experience across a broad range of model families, including custom versions of many models. 
+How the Innovation Center can help 
+The Custom Model Program by the Innovation Center provides end-to-end expert support from model selection to customization, delivering performance improvements, and reducing time-to-market and value realization. Our process works backwards from customer business needs, strategy and goals, and starts with a use case and generative AI capability review by an experienced generative AI strategist. Specialist hands-on-keyboard applied scientists and engineers embed with customer teams to train and tune models for customers and integrate into applications without data ever needing to leave customer VPCs. This end-to-end support has helped organizations across industries successfully transform their AI vision into real business outcomes. 
+ 
+Want to learn more? Contact your account manager to learn more about the Innovation Center or come see us at re:Invent at the AWS Village in the Expo. 
+ 
+About the authors 
+Sri Elaprolu serves as Director of the AWS Generative AI Innovation Center, where he leverages nearly three decades of technology leadership experience to drive artificial intelligence and machine learning innovation. In this role, he leads a global team of machine learning scientists and engineers who develop and deploy advanced generative and agentic AI solutions for enterprise and government organizations facing complex business challenges. Throughout his nearly 13-year tenure at AWS, Sri has held progressively senior positions, including leadership of ML science teams that partnered with high-profile organizations such as the NFL, Cerner, and NASA. These collaborations enabled AWS customers to harness AI and ML technologies for transformative business and operational outcomes. Prior to joining AWS, he spent 14 years at Northrop Grumman, where he successfully managed product development and software engineering teams. Sri holds a Master’s degree in Engineering Science and an MBA with a concentration in general management, providing him with both the technical depth and business acumen essential for his current leadership role. 
+Hannah Marlowe leads the Model Customization and Optimization program for the AWS Generative AI Innovation Center. Her global team of strategists, specialized scientists, and engineers embeds directly with AWS customers, developing custom model solutions optimized for relevance, latency, and cost to drive business outcomes and capture ROI. Previous roles at Amazon include Senior Practice Manager for Advanced Computing and Principal Lead for Computer Vision and Remote Sensing. Dr. Marlowe completed her PhD in Physics at the University of Iowa in modeling and simulation of astronomical X-ray sources and instrumentation development for satellite-based payloads. 
+ Rohit Thekkanal serves as ML Engineering Manager for Model Customization at the AWS Generative AI Innovation Center, where he leads the development of scalable generative AI applications focused on model optimization. With nearly a decade at Amazon, he has contributed to machine learning initiatives that significantly impact Amazon’s retail catalog. Rohit holds an MBA from The University of Chicago Booth School of Business and a Master’s degree from Carnegie Mellon University. 
+Alexandra Fedorova leads Growth for the Model Customization and Optimization program for the AWS Generative AI Innovation Center. Previous roles at Amazon include Global GenAI Startups Practice Leader with the AWS Generative AI Innovation Center, and Global Leader, Startups Strategic Initiatives and Growth. Alexandra holds an MBA degree from Southern Methodist University, and BS in Economics and Petroleum Engineering from Gubkin Russian State University of Oil and Gas.
+• Clario streamlines clinical trial software configurations using Amazon Bedrock
+  This post was co-written with Kim Nguyen and Shyam Banuprakash from Clario. 
+Clario is a leading provider of endpoint data solutions for systematic collection, management, and analysis of specific, predefined outcomes (endpoints) to evaluate a treatment’s safety and effectiveness in the clinical trials industry, generating high-quality clinical evidence for life sciences companies seeking to bring new therapies to patients. Since Clario’s founding more than 50 years ago, the company’s endpoint data solutions have supported clinical trials more than 30,000 times with over 700 regulatory approvals across more than 100 countries. 
+This post builds upon our previous post discussing how Clario developed an AI solution powered by Amazon Bedrock to accelerate clinical trials. Since then, Clario has further enhanced their AI capabilities, focusing on innovative solutions that streamline the generation of software configurations and artifacts for clinical trials while delivering high-quality clinical evidence. 
+Business challenge 
+In clinical trials, designing and customizing various software systems configurations to manage and optimize the different stages of a clinical trial efficiently is critical. These configurations can range from basic study setup to more advanced features like data collection customization and integration with other systems. Clario uses data from multiple sources to build specific software configurations for clinical trials. The traditional workflow involved manual extraction of necessary data from individual forms. These forms contained vital information about exams, visits, conditions, and interventions. Additionally, the process required the need to incorporate study-related information such as study plans, participation criteria, sponsors, collaborators, and standardized exam protocols from multiple enterprise data providers. 
+The manual nature of this process created several challenges: 
+ 
+ Manual data extraction – Team members manually review PDF documents to extract structured data. 
+ Transcript challenges&nbsp;– The manual transfer of data from source forms into configuration documents presents opportunities for improvement, particularly in reducing transcription inconsistencies and enhancing standardization. 
+ Version control challenges – When studies required iterations or updates, maintaining consistency between documents and systems became increasingly complicated. 
+ Fragmented information flow – Data existed in disconnected silos, including PDFs, study detail database records, and other standalone documents. 
+ Software build timelines – The configuration process directly impacted the timeline for generating the necessary software builds. 
+ 
+For clinical trials where timing is essential and accuracy is non-negotiable, Clario has implemented rigorous quality control measures to minimize the risks associated with manual processes. While these efforts are substantial, they underscore a business challenge of ensuring precision and consistency across complex study configurations. 
+Solution overview 
+To address the business challenge, Clario developed a generative AI-powered solution that Clario refers to as the Clario’s Genie AI Service on AWS. This solution uses the capabilities of large language models (LLMs), specifically Anthropic’s Claude 3.7 Sonnet on Amazon Bedrock. The process is orchestrated using Amazon Elastic Container Service (Amazon ECS) to transform how Clario handled software configuration for clinical trials. 
+Clario’s approach uses a custom data parser using Amazon Bedrock to automatically structure information from PDF transmittal forms into validated tables. The Genie AI Service centralizes data from multiple sources, including transmittal forms, study details, standard exam protocols, and additional configuration parameters. An interactive review dashboard helps stakeholders verify AI-extracted information and make necessary corrections before finalizing the validated configuration. Post-validation, the system automatically generates a Software Configuration Specification (SCS) document as a comprehensive record of the software configuration. The process culminates with generative AI-powered XML generation, which is then released into Clario’s proprietary medical imaging software for study builds, creating an end-to-end solution that drastically reduces manual effort while improving accuracy in clinical trial software configurations. 
+The Genie AI Service architecture consists of several interconnected components that work together in a clear workflow sequence, as illustrated in the following diagram. 
+ 
+The workflow consists of the following steps: 
+ 
+ Initiate the study and collect data. 
+ Extract the data using Amazon Bedrock. 
+ Review and validate the AI-generated output. 
+ Generate essential documentation and code artifacts. 
+ 
+In the following sections, we discuss the workflow steps in more detail. 
+Study initiation and data collection 
+The workflow begins with gathering essential study information through multiple integrated steps: 
+ 
+ Study code lookup – Users begin by entering a study code that uniquely identifies the clinical trial. 
+ API integration with study database – The study lookup operation makes an API call to fetch study details such as such as study plan, participation criteria, sponsors, collaborators, and more from the study database, establishing the foundation for the configuration. 
+ Transmittal form processing – Users upload transmittal forms containing study parameters such as information about exams, visits, conditions, and interventions to the Genie AI Service using the web UI through a secure AWS Direct Connect network. 
+ Data structuring – The system organizes information into key categories: 
+   
+   Visit information (scheduling, procedures) 
+   Exam specifications (protocols, requirements) 
+   Study-specific custom fields (vitals, dosing information, and so on) 
+    
+ 
+Data extraction 
+The solution uses Anthropic’s Claude Sonnet on Amazon Bedrock through API calls to perform the following actions: 
+ 
+ Parse and extract structured data from transmittal forms 
+ Identify key fields and tables within the documents 
+ Organize the information into standardized formats 
+ Apply domain-specific rules to properly categorize clinical trial visits 
+ Extract and validate demographic fields while maintaining proper data types and formats 
+ Handle specialized formatting rules for medical imaging parameters 
+ Manage document-specific adaptations (such as different processing for phantom vs. subject scans) 
+ 
+Review and validation 
+The solution provides a comprehensive review interface for stakeholders to validate and refine the AI-generated configurations through the following steps: 
+ 
+ Interactive review process – Reviewers access the Genie AI Service interface to perform the following actions: 
+   
+   Examine the AI-generated output 
+   Make corrections or adjustments to the data as necessary 
+   Add comments and highlight adjustments made as a feedback mechanism 
+   Validate the configuration accuracy 
+    
+ Data storage – Reviewed and approved software configurations are saved to Clario’s Genie Database, creating a central, authoritative, auditable source of configuration data 
+ 
+Document and code generation 
+After the configuration data is validated, the solution automates the creation of essential documentation and code artifacts through a structured workflow: 
+ 
+ SCS document creation – Reviewers access the Genie AI Service interface to finalize the software configurations by generating an SCS document using the validated data. 
+ XML generation workflow – After the SCS document is finalized, the workflow completes the following steps: 
+   
+   The workflow fetches the configuration details from the Genie database. 
+   The SCSXMLConverter, an internal microservice of the Genie AI Service, processes both SCS document and study configurations. This microservice invokes Anthropic’s Claude 3.7 Sonnet through API calls to generate a standardized SCS XML file. 
+   Validation checks are performed on the generated XML to make sure it meets the structural and content requirements of Clario’s clinical study software. 
+   The final XML output is created for use in the software build process with detailed logs of the conversion process. 
+    
+ 
+Benefits and results 
+The solution enhanced data extraction quality while providing teams with a streamlined dashboard that accelerates the validation process. 
+By implementing consistent extraction logic and minimizing manual data entry, the solution has reduced potential transcription errors. Additionally, built-in validation safeguards now help identify potential issues early in the process, preventing problems from propagating downstream. 
+The solution has also transformed how teams collaborate. By providing centralized review capabilities and giving cross-functional teams access to the same solution, communication has become more transparent and efficient. The standardized workflows have created clearer channels for information sharing and decision-making. 
+From an operational perspective, the new approach offers greater scalability across studies while supporting iterations as studies evolve. This standardization has laid a strong foundation for expanding these capabilities to other operational areas within the organization. 
+Importantly, the solution maintains strong compliance and auditability through complete audit trails and reproducible processes. Key outcomes include: 
+ 
+ Study configuration execution time has been reduced while improving overall quality 
+ Teams can focus more on value-added activities like study design optimization. 
+ 
+Lessons learned 
+Clario’s journey to transform software configuration through generative AI has taught them valuable lessons that will inform future initiatives. 
+Generative AI implementation insights 
+The following key learnings emerged specifically around working with generative AI technology: 
+ 
+ Prompt engineering is foundational – Few-shot prompting with domain knowledge is essential. The team discovered that providing detailed examples and explicit business rules in the prompts was necessary for success. Rather than simple instructions, Clario’s prompts include comprehensive business logic, edge case handling, and exact output formatting requirements to guide the AI’s understanding of clinical trial configurations. 
+ Prompt engineering requires iteration – The quality of data extraction depends heavily on well-crafted prompts that encode domain expertise. Clario’s team spent significant time refining these prompts through multiple iterations and testing different approaches to capture complex business rules about visit sequencing, demographic requirements, and field formatting. 
+ Human oversight within a validation workflow – Although generative AI dramatically accelerates extraction, human review remains necessary within a structured validation workflow. The Genie AI Service interface was specifically designed to highlight potential inconsistencies and provide convenient editing capabilities for reviewers to apply their expertise efficiently. 
+ 
+Integration challenges 
+Some important challenges surfaced during system integration: 
+ 
+ Two-system synchronization – One of the biggest challenges has been verifying that changes made in the SCS documents are reflected in the solution. This bidirectional integration is still being refined. 
+ System transition strategy – Moving from the proof-of-concept scripts to fully integrated solution functionality requires careful planning to avoid disruption. 
+ 
+Process adaptation 
+The team identified the following key factors for successful process change: 
+ 
+ Phased Implementation – Clario rolled out the solution in stages, beginning with pilot teams who could validate functionality and serve as internal advocates to help teams transition from familiar document-centric workflows to the new solution. 
+ Workflow optimization is iterative – The initial workflow design has evolved based on user feedback and real-world usage patterns. 
+ Training requirements – Even with an intuitive interface, proper training makes sure users can take full advantage of the solution’s capabilities. 
+ 
+Technical considerations 
+Implementation revealed several important technical aspects to consider: 
+ 
+ Data formatting variability – Transmittal forms vary significantly across different therapeutic areas (oncology, neurology, and so on) and even between studies within the same area. This variability creates challenges when the AI model encounters form structures or terminology it hasn’t seen before. Clario’s prompt engineering requires continuous iteration as they discover new patterns and edge cases in transmittal forms, creating a feedback loop where human experts identify missed or misinterpreted data points that inform future prompt refinements. 
+ Performance optimization – Processing times for larger documents required optimization to maintain a smooth user experience. 
+ Error handling robustness – Building resilient error handling into the generative AI processing flow was essential for production reliability. 
+ 
+Strategic insights 
+The project yielded valuable strategic lessons that will inform future initiatives: 
+ 
+ Start with well-defined use cases – Beginning with the software configuration process gave Clario a concrete, high-value target for demonstrating generative AI benefits. 
+ Build for extensibility – Designing the architecture with future expansion in mind has positioned them well for extending these capabilities to other areas. 
+ Measure concrete outcomes – Tracking specific metrics like processing time and error rates has helped quantify the return on the generative AI investment. 
+ 
+These lessons have been invaluable for refining the current solution and informing the approach to future generative AI implementations across the organization. 
+Conclusion 
+The transformation of the software configuration process through generative AI represents more than just a technical achievement for Clario—it reflects a fundamental shift in how the company approaches data processing and knowledge work in clinical trials. By combining the pattern recognition and processing power of LLMs available in Amazon Bedrock with human expertise for validation and decision-making, Clario created a hybrid workflow that delivers the best of both worlds, orchestrated through Amazon ECS for reliable, scalable execution. 
+The success of this initiative demonstrates how generative AI on AWS is a practical tool that can deliver tangible benefits. By focusing on specific, well-defined processes with clear pain points, Clario has implemented the solution Genie AI Service powered by Amazon Bedrock in a way that creates immediate value while establishing a foundation for broader transformation. 
+For organizations considering similar transformations, the experience highlights the importance of starting with concrete use cases, building for human-AI collaboration and maintaining a focus on measurable business outcomes. With these principles in mind, generative AI can become a genuine catalyst for organizational evolution. 
+ 
+About the authors 
+ Kim Nguyen serves as the Sr Director of Data Science at Clario, where he leads a team of data scientists in developing innovative AI/ML solutions for the healthcare and clinical trials industry. With over a decade of experience in clinical data management and analytics, Kim has established himself as an expert in transforming complex life sciences data into actionable insights that drive business outcomes. His career journey includes leadership roles at&nbsp;Clario and Gilead Sciences, where he consistently pioneered data automation and standardization initiatives across multiple functional teams. Kim holds a Master’s degree in Data Science and Engineering from UC San Diego and a Bachelor’s degree from the University of California, Berkeley, providing him with the technical foundation to excel in developing predictive models and data-driven strategies. Based in San Diego, California, he leverages his expertise to drive forward-thinking approaches to data science in the clinical research space. 
+Shyam Banuprakash serves as the Senior Vice President of Data Science and Delivery at Clario, where he leads complex analytics programs and develops innovative data solutions for the medical imaging sector. With nearly 12 years of progressive experience at Clario, he has demonstrated exceptional leadership in data-driven decision making and business process improvement. His expertise extends beyond his primary role, as he contributes his knowledge as an Advisory Board Member for both Modal and UC Irvine’s Customer Experience Program. Shyam holds a Master of Advanced Study in Data Science and Engineering from UC San Diego, complemented by specialized training from MIT in data science and big data analytics. His career exemplifies the powerful intersection of healthcare, technology, and data science, positioning him as a thought leader in leveraging analytics to transform clinical research and medical imaging. 
+Praveen Haranahalli is a Senior Solutions Architect at Amazon Web Services (AWS), where he architects secure, scalable cloud solutions and provides strategic guidance to diverse enterprise customers. With nearly two decades of IT experience including over a decade specializing in cloud computing, Praveen has delivered transformative implementations across multiple industries. As a trusted technical advisor, Praveen partners with customers to implement robust DevSecOps pipelines, establish comprehensive security guardrails, and develop innovative AI/ML solutions. He is passionate about solving complex business challenges through cutting-edge cloud architectures and empowering organizations to achieve successful digital transformations powered by artificial intelligence and machine learning.
+• Introducing Amazon Bedrock cross-Region inference for Claude Sonnet 4.5 and Haiku 4.5 in Japan and Australia
+  こんにちは, G’day. 
+The recent launch of Anthropic’s Claude Sonnet 4.5 and Claude Haiku 4.5, now available on Amazon Bedrock, marks a significant leap forward in generative AI models. These state-of-the-art models excel at complex agentic tasks, coding, and enterprise workloads, offering enhanced capabilities to developers. Along with the new models, we are&nbsp;thrilled to announce that customers in Japan and Australia can now access Anthropic Claude Sonnet 4.5 and Anthropic Claude Haiku 4.5 in Amazon Bedrock while processing the data in their specific geography by using Cross-Region inference (CRIS). This can be useful when customers need to meet the requirements to process data locally. 
+This post will explore the new geographic-specific cross-Region inference profile in Japan and Australia for Claude Sonnet 4.5 and Claude Haiku 4.5. We will delve into the details of these geographic-specific CRIS profiles, provide guidance for migrating from older models, and show you how to get started with this new capability to unlock the full potential of these models for your generative AI applications. 
+Japan and Australia Cross-Region inference 
+With Japan and Australia cross-Region inference you can make calls to Anthropic Claude Sonnet 4.5 or Claude Haiku 4.5 within your local geography. By using CRIS Amazon Bedrock processes the inference requests within the geographic boundaries, either Japan or Australia, through the entire inference request lifecycle. 
+How Cross-Region inference works 
+Cross-Region inference in Amazon Bedrock operates through the AWS Global Network with end-to-end encryption for data in transit and at rest. When a customer submits an inference request in the source AWS Region, Amazon Bedrock automatically evaluates available capacity in each&nbsp;potential destination Region and routes their request to the optimal destination Region. The traffic flows exclusively over the AWS Global Network without traversing the public internet between Regions listed as destination for your source Region, using the AWS internal service-to-service communication patterns. Following the same design, the Japan and Australia GEO CRIS use the secure AWS Global Network to automatically route traffic between Regions within their respective geographies – between Tokyo and Osaka in Japan, and between Sydney and Melbourne in Australia. CRIS uses intelligent routing that distributes traffic dynamically across multiple Regions within the same geography, without requiring manual user configuration or intervention. 
+Cross-Region inference configuration 
+The CRIS configurations for Japan and Australia are described in the following tables. 
+Japan CRIS:&nbsp;For organizations operating within Japan, the CRIS system provides routing between Tokyo and Osaka Regions. 
+ 
+  
+   
+   Source Region 
+   Destination Region 
+   Description 
+   
+   
+   ap-northeast-1 (Tokyo) 
+   ap-northeast-1 (Tokyo)ap-northeast-3 (Osaka) 
+   Requests from the Tokyo Region can be automatically routed to either Tokyo or Osaka Regions. 
+   
+   
+   ap-northeast-3 (Osaka) 
+   ap-northeast-1 (Tokyo)ap-northeast-3 (Osaka) 
+   Requests from the Osaka Region can be automatically routed to either Tokyo or Osaka Regions. 
+   
+  
+ 
+Australia CRIS:&nbsp;For organizations operating within Australia, the CRIS system provides routing between Sydney and Melbourne Regions. 
+ 
+  
+   
+   Source Region 
+   Destination Region 
+   Description 
+   
+   
+   ap-southeast-2 (Sydney) 
+   ap-southeast-2 (Sydney)ap-southeast-4 (Melbourne) 
+   Requests from the Sydney Region can be automatically routed to either Sydney or Melbourne Regions. 
+   
+   
+   ap-southeast-4 (Melbourne) 
+   ap-southeast-2 (Sydney)ap-southeast-4 (Melbourne) 
+   Requests from the&nbsp;Melbourne Region can be automatically routed to either Sydney or Melbourne Regions. 
+   
+  
+ 
+Note: A list of destination Regions is listed for each source Region within your inference profile. 
+Getting started 
+To get started with Australia or Japan CRIS, follow these steps using&nbsp;Amazon Bedrock&nbsp;inference profiles. 
+ 
+ Configure IAM Permission: Verify your IAM role or user has the necessary permissions to invoke Amazon Bedrock models using a cross-Region inference profile. To allow an IAM user or role to invoke a geographic-specific cross-Region inference profile, you can use the following example policy.The first statement in the policy allows Amazon Bedrock InvokeModel&nbsp;API access to the GEO specific cross-Region inference profile resource for requests originating from the nominated Region. GEO specific inference profiles are prefix by the Region code (“jp” for Japan and “au” for Australia). In this example, the nominated requesting Region is ap-northeast-1 (Tokyo)&nbsp;and the inference profile is&nbsp;jp.anthropic.claude-sonnet-4-5-20250929-v1:0.The second statement allows the GEO specific cross-Region inference profile to access and invoke the matching foundation models in the Region where the GEO specific inference profile will route to. In this example, the Japan cross-Region inference profiles can route to either ap-northeast-1 (Tokyo) or ap-northeast-3 (Osaka). 
+   
+   {
+    "Version":"2012-10-17",                   
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "bedrock:InvokeModel*"
+            ],
+            "Resource": [
+                "arn:aws:bedrock:ap-northeast-1:&lt;your-account-id&gt;:inference-profile/jp.anthropic.claude-sonnet-4-5-20250929-v1:0"
+            ]
+        },
+        {
+            "Effect": "Allow",
+            "Action": [
+                "bedrock:InvokeModel*"
+            ],
+            "Resource": [
+                "arn:aws:bedrock:ap-northeast-1::foundation-model/anthropic.claude-sonnet-4-5-20250929-v1:0",
+                "arn:aws:bedrock:ap-northeast-3::foundation-model/anthropic.claude-sonnet-4-5-20250929-v1:0"
+            ],
+            "Condition": {
+                "StringLike": {
+                    "bedrock:InferenceProfileArn": "arn:aws:bedrock:ap-northeast-1:&lt;your-account-id&gt;:inference-profile/jp.anthropic.claude-sonnet-4-5-20250929-v1:0"
+                }
+            }
+        }
+    ]
+} 
+    
+ Use cross-Region inference profile: Configure your application to use the relevant inference profile ID. This works for both the InvokeModel&nbsp;and Converse&nbsp;APIs. 
+ 
+Inference Profiles for Anthropic Claude Sonnet 4.5 
+ 
+  
+   
+   Region 
+   Inference Profile ID 
+   
+   
+   Australia 
+   au.anthropic.claude-sonnet-4-5-20250929-v1:0 
+   
+   
+   Japan 
+   jp.anthropic.claude-sonnet-4-5-20250929-v1:0 
+   
+  
+ 
+Inference Profiles for Anthropic Claude Haiku 4.5 
+ 
+  
+   
+   Region 
+   Inference Profile ID 
+   
+   
+   Australia 
+   au.anthropic.claude-haiku-4-5-20251001-v1:0 
+   
+   
+   Japan 
+   jp.anthropic.claude-haiku-4-5-20251001-v1:0 
+   
+  
+ 
+Example Code 
+Using the Converse API (Python) with Japan CRIS inference profile. 
+ 
+ import boto3
+
+# Initialize Bedrock Runtime client
+bedrock_runtime = boto3.client(
+&nbsp;&nbsp; &nbsp;service_name="bedrock-runtime",
+&nbsp;&nbsp; &nbsp;region_name="ap-northeast-1"&nbsp;&nbsp;# Your originating Region
+)
+
+# Define the inference profile ID
+inference_profile_id = "jp.anthropic.claude-sonnet-4-5-20250929-v1:0"
+
+# Prepare the conversation
+response = bedrock_runtime.converse(
+&nbsp;&nbsp; &nbsp;modelId=inference_profile_id,
+&nbsp;&nbsp; &nbsp;messages=[
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;{
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"role": "user",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"content": [{"text": "What is Amazon Bedrock?"}]
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
+&nbsp;&nbsp; &nbsp;],
+&nbsp;&nbsp; &nbsp;inferenceConfig={
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"maxTokens": 512,
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"temperature": 0.7
+&nbsp;&nbsp; &nbsp;}
+)
+
+# Print the response
+print(f"Response: {response['output']['message']['content'][0]['text']}") 
+ 
+Quota management 
+When using CRIS, it is important to understand how quotas are managed. For geographic-specific CRIS, quota management is performed at the source Region level. This means that quota increases requested from the source Region will only apply to requests originating from that Region. For example, if you request a quota increase from the Tokyo (ap-northeast-1) Region, it will only apply to requests that originate from the Tokyo Region. Similarly, quota increase requests from Osaka only apply to requests originating from Osaka. When requesting a quota increase, organizations should consider their regional usage patterns and request increases in the appropriate source Regions through the AWS Service Quotas console. This Region-specific quota management allows for more granular control over resource allocation while maintaining data local processing requirements. 
+Requesting a quota increase 
+For requesting quota increases for CRIS in Japan and Australia, organizations should use the AWS Service Quotas console in their respective source Regions (Tokyo/Osaka for Japan, and Sydney/Melbourne for Australia). Organizations and customers can search for specific quotas related to Claude Sonnet 4.5 or Claude Haiku 4.5 model inference tokens (per day and per minute) and submit increase requests based on their workload requirements in the specific Region. 
+ 
+Quota management best practices 
+To manage your quotas, follow these best practices: 
+ 
+ Request increase proactively: Each organization receives default quota allocations based on their account history and usage patterns. These quotas are measured in tokens per minute (TPM) and requests per minute (RPM).&nbsp;For Claude Sonnet 4.5 and Claude Haiku 4.5, quotas typically start at conservative levels and can be increased based on demonstrated need and usage patterns. If you anticipate high usage, request quota increase through the AWS Service Quotas console before your deployment. 
+ Monitor utilization: Implement monitoring of your quota usage to minimize the chances of reaching quota limits to help prevent service interruptions and optimize resource allocation. AWS provides CloudWatch metrics that track quota utilization in real-time, allowing organizations to set up alerts when usage approaches defined thresholds. The monitoring system should track both current usage and historical patterns to identify trends and predict future quota needs. This data is essential for planning quota increase requests and optimizing application behavior to work within available limits. Organizations should also monitor quota usage across different time periods to identify peak usage patterns and plan accordingly. 
+ Test at scale: Before production deployment, conduct load testing to understand your quota requirements under realistic conditions. Testing at scale requires establishing realistic scenarios that mirror production traffic patterns, including peak usage periods and concurrent user loads.&nbsp;Implement progressive load testing while&nbsp;monitoring response times, error rates, and quota utilization. 
+ 
+Important: When&nbsp;calculating your required quota increase, you need to take into account for the burndown rate, defined as the rate at which input and output tokens are converted into token quota usage for the throttling system. The following models have a 5x burn down rate for output tokens&nbsp;(1 output token consumes 5 tokens from your quotas): 
+ 
+ Anthropic Claude Opus 4 
+ Anthropic Claude Sonnet 4.5 
+ Anthropic Claude Sonnet 4 
+ Anthropic Claude 3.7 Sonnet 
+ 
+For other models, the burndown rate is 1:1 (1 output token consumes 1 token from your quota). For input tokens, the token to quota ratio is 1:1. The calculation for the total number of tokens per request is as follows: 
+Input token count + Cache write input tokens + (Output token count x Burndown rate) 
+Migrating from Claude 3.5 to Claude 4.5 
+Organizations currently using Claude Sonnet 3.5 (v1 and v2) and Claude Haiku 3.5 models should plan their migration to Claude Sonnet 4.5 and Claude Haiku 4.5 respectively. Claude Sonnet 4.5 and Haiku 4.5 are hybrid reasoning models that represents a substantial advancement over its predecessors. They feature advanced capabilities in tool handling with improvements in memory management and context processing. This migration presents an opportunity to use enhanced capabilities while maintaining compliance with data local processing requirements through CRIS. 
+Key Migration Considerations 
+The transition from Claude 3.5 to 4.5 involves several critical factors beyond simple model replacement. 
+ 
+ Performance benchmarking should be your first priority, as Claude 4.5 demonstrates significant improvements in agentic tasks, coding capabilities, and enterprise workloads compared to its predecessors. Organizations should establish standardized benchmarks specific to their use cases to make sure the new model meets or exceeds current performance requirements. 
+ Claude 4.5 introduces several advanced technical capabilities. The enhanced context processing enables more sophisticated prompt optimization, requiring organizations to refine their existing prompts to fully leverage the model’s capabilities. The model supports more complex tool integration patterns and demonstrates improved performance in multi-modal tasks. 
+ Cost optimization represents another crucial consideration. Organizations should conduct thorough cost-benefit analysis including potential quota increases and capacity planning requirements. 
+ 
+For more technical implementation guidance, organizations should reference the AWS blog post, Migrate from Anthropic’s Claude 3.5 Sonnet to Claude 4 Sonnet on Amazon Bedrock, which provides essential best practices that are also valid for the migration to the new Claude Sonnet 4.5 model. Additionally, Anthropic’s migration documentation offers model-specific optimization strategies and considerations for transitioning to Claude 4.5 models. 
+Given the accelerated pace of generative AI model evolution, organizations should adopt agile migration processes. Industry standards now expect model migrations every six to twelve months, making it essential to develop systematic approaches rather than over-optimizing for specific model versions. 
+Choosing between Global Cross-Region inference or GEO Cross-Region inference 
+Amazon Bedrock offers two types of cross-Region inference profile to help you scale AI workflows during high demand. While both automatically distribute traffic across multiple Regions, they differ in their geographical scope and pricing models. 
+For customers who need to process data locally within specific geographical boundaries, GEO CRIS is the recommended option, as it makes sure inference processing stays within the geography boundaries of the specified GEO. 
+For customers without data residency or cross-GEO constraints, Global CRIS scales and routes to supported AWS commercial Regions for customers who need higher throughput at a lower price for Claude 4.5 models compared to GEO CRIS. 
+Conclusion 
+In this post, we introduced the availability of Anthropic’s Claude Sonnet 4.5 and Claude Haiku 4.5 on Amazon Bedrock with cross-Region inference capabilities for Japan and Australia. We discussed how organizations can harness advanced AI capabilities while adhering to local data processing requirements, making sure the inference requests remain within geographical boundaries. This new feature is recommended for sectors such as financial institutions, healthcare providers, and government agencies handling sensitive data. We also provided guidance on how to get started and covered quota management strategies, as well as migration guidance from older Claude models to Claude 4.5 models. To understand more of the pricing for Claude Sonnet 4.5 and Claude Haiku 4.5 on Bedrock, please refer to Amazon Bedrock pricing. 
+Through this capability, organizations can now confidently implement production applications with Claude Sonnet 4.5 and Claude Haiku 4.5 that not only meet their performance requirements but also the local data processing requirements, marking a significant advancement in the responsible deployment of AI technology in these countries. 
+ 
+About the authors 
+Derrick Choo&nbsp;is a Senior Solutions Architect at AWS who accelerates enterprise digital transformation through cloud adoption, AI/ML, and generative AI solutions. He specializes in full-stack development and ML, designing end-to-end solutions spanning frontend interfaces, IoT applications, data integrations, and ML models, with a particular focus on computer vision and multi-modal systems. 
+Melanie Li, PhD, is a Senior Generative AI Specialist Solutions Architect at AWS based in Sydney, Australia, where her focus is on working with customers to build solutions using state-of-the-art AI/ML tools. She has been actively involved in multiple generative AI initiatives across APJ, harnessing the power of LLMs. Prior to joining AWS, Dr. Li held data science roles in the financial and retail industries. 
+Saurabh Trikande&nbsp;is a Senior Product Manager for Amazon Bedrock and Amazon SageMaker Inference. He is passionate about working with customers and partners, motivated by the goal of democratizing AI. He focuses on core challenges related to deploying complex AI applications, inference with multi-tenant models, cost optimizations, and making the deployment of generative AI models more accessible. In his spare time, Saurabh enjoys hiking, learning about innovative technologies, following TechCrunch, and spending time with his family. 
+Jared Dean is a Principal AI/ML Solutions Architect at AWS. Jared works with customers across industries to develop machine learning applications that improve efficiency. He is interested in all things AI, technology, and BBQ. 
+Stephanie Zhao is a Generative AI GTM &amp; Capacity Lead for AWS in Asia Pacific and Japan. She champions the voice of the customer to drive the roadmap for AWS Generative AI services including Amazon Bedrock and Amazon EC2 GPUs across AWS Regions in APJ. Outside of work, she enjoys using Generative AI creative models to make portraits of her shiba inu and cat. 
+Kazuki Motohashi, Ph.D. is an AI/ML GTM Specialist Solutions Architect at AWS Japan. He has been working in the AI/ML field for more than 8 years and currently supports Japanese enterprise customers and partners who utilize AWS generative AI/ML services in their businesses. He’s seeking time to play Final Fantasy Tactics, but hasn’t even started it yet.
 • Reduce CAPTCHAs for AI agents browsing the web with Web Bot Auth (Preview) in Amazon Bedrock AgentCore Browser
   AI agents need to browse the web on your behalf. When your agent visits a website to gather information, complete a form, or verify data, it encounters the same defenses designed to stop unwanted bots: CAPTCHAs, rate limits, and outright blocks. 
 Today, we are excited to share that AWS has a solution. Amazon Bedrock AgentCore Browser, our secure, cloud-based browser for AI agents to interact with websites, now supports Web Bot Auth (in preview), a draft IETF protocol that gives agents verifiable cryptographic identities. 
@@ -823,215 +1480,11 @@ Protocol development
 The Web Bot Auth protocol is gaining industry momentum because it solves a real problem: legitimate automation is indistinguishable from abuse without verifiable identity. You can read the draft protocol specification, HTTP Message Signatures for automated traffic Architecture. The architecture defines how agents generate signatures, how WAFs verify them, and how key directories enable discovery. Amazon is working with Cloudflare and many popular WAF providers to help finalize the customer-specific key directory format and work towards finalizing the draft. 
 Conclusion 
 Amazon Bedrock AgentCore Browser is generally available, with the Web Bot Auth feature available in preview. AgentCore Browser signing requests using the Web Bot Auth protocol help reduce friction with CAPTCHA across domains that allow verified bots. As the protocol finalizes, AgentCore Browser intends to issue customer-specific keys and directories, so you can prove your agent’s identity to specific websites and establish trust relationships directly with the domains you need to access. 
-Web Bot Auth enables agents to prove their identity when challenged, reduces operational friction in automated workflows, and gives website owners control over which agents access their resources. Amazon Bedrock AgentCore Browser support for Web Bot Auth (Preview) provides the infrastructure layer that makes this possible. 
+Web Bot Auth enables agents to prove their identity when challenged, reduces operational friction in automated workflows, and gives website owners control over which agents access their resources. Amazon Bedrock AgentCore Browser support for Web Bot Auth (Preview) provides the infrastructure layer that makes this possible. Try out AgentCore Browser in your account, with our&nbsp;samples on Github. 
  
 About the authors 
 Veda Raman is a Senior Specialist Solutions Architect for generative AI and machine learning at AWS. Veda works with customers to help them architect efficient, secure, and scalable machine learning applications. Veda specializes in generative AI services like Amazon Bedrock and Amazon SageMaker. 
 Kosti Vasilakakis is a Principal PM at AWS on the Agentic AI team, where he has led the design and development of several Bedrock AgentCore services from the ground up, including Runtime, Browser, Code Interpreter, and Identity. He previously worked on Amazon SageMaker since its early days, launching AI/ML capabilities now used by thousands of companies worldwide. Earlier in his career, Kosti was a data scientist. Outside of work, he builds personal productivity automations, plays tennis, and enjoys life with his wife and kids. 
 Joshua Samuel is a Senior AI/ML Specialist Solutions Architect at AWS who accelerates enterprise transformation through AI/ML, and generative AI solutions, based in Melbourne, Australia. A passionate disrupter, he specializes in agentic AI and coding techniques – Anything that makes builders faster and happier.
-• Hosting NVIDIA speech NIM models on Amazon SageMaker AI: Parakeet ASR
-  This post was written with NVIDIA and the authors would like to thank Adi Margolin, Eliuth Triana, and Maryam Motamedi for their collaboration. 
-Organizations today face the challenge of processing large volumes of audio data–from customer calls and meeting recordings to podcasts and voice messages–to unlock valuable insights. Automatic Speech Recognition (ASR) is a critical first step in this process, converting speech to text so that further analysis can be performed. However, running ASR at scale is computationally intensive and can be expensive. This is where asynchronous inference on Amazon SageMaker AI comes in. By deploying state-of-the-art ASR models (like NVIDIA Parakeet models) on SageMaker AI with asynchronous endpoints, you can handle large audio files and batch workloads efficiently. With asynchronous inference, long-running requests can be processed in the background (with results delivered later); it also supports auto-scaling to zero when there’s no work and handles spikes in demand without blocking other jobs. 
-In this blog post, we’ll explore how to host the NVIDIA Parakeet ASR model on SageMaker AI and integrate it into an asynchronous pipeline for scalable audio processing. We’ll also highlight the benefits of Parakeet’s architecture and the NVIDIA Riva toolkit for speech AI, and discuss how to use NVIDIA NIM for deployment on AWS. 
-NVIDIA speech AI technologies: Parakeet ASR and Riva Framework 
-NVIDIA offers a comprehensive suite of speech AI technologies, combining high-performance models with efficient deployment solutions. At its core, the Parakeet ASR model family represents state-of-the-art speech recognition capabilities, achieving industry-leading accuracy with low word error rates (WERs) . The model’s architecture uses the Fast Conformer encoder with the CTC or transducer decoder, enabling 2.4× faster processing than standard Conformers while maintaining accuracy. 
-NVIDIA speech NIM is a collection of GPU-accelerated microservices for building customizable speech AI applications. NVIDIA Speech models deliver accurate transcription accuracy and natural, expressive voices in over 36 languages–ideal for customer service, contact centers, accessibility, and global enterprise workflows. Developers can fine-tune and customize models for specific languages, accents, domains, and vocabularies, supporting accuracy and brand voice alignment. 
-Seamless integration with LLMs and the NVIDIA Nemo Retriever make NVIDIA models ideal for agentic AI applications, helping your organization stand out with more secure, high-performing, voice AI. The NIM framework delivers these services as containerized solutions, making deployment straightforward through Docker containers that include the necessary dependencies and optimizations. 
-This combination of high-performance models and deployment tools provides organizations with a complete solution for implementing speech recognition at scale. 
-Solution overview 
-The architecture illustrated in the diagram showcases a comprehensive asynchronous inference pipeline designed specifically for ASR and summarization workloads. The solution provides a robust, scalable, and cost-effective processing pipeline. 
- 
-Architecture components 
-The architecture consists of five key components working together to create an efficient audio processing pipeline. At its core, the SageMaker AI asynchronous endpoint hosts the Parakeet ASR model with auto scaling capabilities that can scale to zero when idle for cost optimization. 
- 
- The data ingestion process begins when audio files are uploaded to Amazon Simple Storage Service (Amazon S3), triggering AWS Lambda functions that process metadata and initiate the workflow. 
- For event processing, the SageMaker endpoint automatically sends out Amazon Simple Notification Service (Amazon SNS) success and failure notifications through separate queues, enabling proper handling of transcriptions. 
- Successfully transcribed content on Amazon S3 moves to Amazon Bedrock LLMs for intelligent summarization and additional processing like classification and insights extraction. 
- Finally, a comprehensive tracking system using Amazon DynamoDB stores workflow status and metadata, enabling real-time monitoring and analytics of the entire pipeline. 
- 
-Detailed implementation walkthrough 
-In this section, we will provide the detailed walkthrough of the solution implementation. 
-SageMaker asynchronous endpoint prerequisites 
-To run the example notebooks, you need an AWS account with an AWS Identity and Access Management (IAM) role with least-privilege permissions to manage resources created. For details, refer to Create an AWS account. You might need to request a service quota increase for the corresponding SageMaker async hosting instances. In this example, we need one ml.g5.xlarge SageMaker async hosting instance and a ml.g5.xlarge SageMaker notebook instance. You can also choose a different integrated development environment (IDE), but make sure the environment contains GPU compute resources for local testing. 
-SageMaker asynchronous endpoint configuration 
-When you deploy a custom model like Parakeet, SageMaker has a couple of options: 
- 
- Use a NIM container provided by NVIDIA 
- Use a large model inference (LMI) container 
- Use a prebuilt PyTorch container 
- 
-We’ll provide examples for all three approaches. 
-Using an NVIDIA NIM container 
-NVIDIA NIM provides a streamlined approach to deploying optimized AI models through containerized solutions. Our implementation takes this concept further by creating a unified SageMaker AI endpoint that intelligently routes between HTTP and gRPC protocols to help maximize both performance and capabilities while simplifying the deployment process. 
-Innovative dual-protocol architecture 
-The key innovation is the combined HTTP + gRPC architecture that exposes a single SageMaker AI endpoint with intelligent routing capabilities. This design addresses the common challenge of choosing between protocol efficiency and feature completeness by automatically selecting the optimal transport method. The HTTP route is optimized for simple transcription tasks with files under 5MB, providing faster processing and lower latency for common use cases. Meanwhile, the gRPC route supports larger files (SageMaker AI real-time endpoints support a max payload of 25MB) and advanced features like speaker diarization with precise word-level timing information. The system’s auto-routing functionality analyzes incoming requests to determine file size and requested features, then automatically selects the most appropriate protocol without requiring manual configuration. For applications that need explicit control, the endpoint also supports forced routing through /invocations/http for simple transcription or /invocations/grpc when speaker diarization is required. This flexibility allows both automated optimization and fine-grained control based on specific application requirements. 
-Advanced speech recognition and speaker diarization capabilities 
-The NIM container enables a comprehensive audio processing pipeline that seamlessly combines speech recognition with speaker identification through the NVIDIA Riva integrated capabilities. The container handles audio preprocessing, including format conversion and segmentation, while ASR and speaker diarization processes run concurrently on the same audio stream. Results are automatically aligned using overlapping time segments, with each transcribed segment receiving appropriate speaker labels (for example, Speaker_0, Speaker_1). The inference handler processes audio files through the complete pipeline, initializing both ASR and speaker diarization services, running them in parallel, and aligning transcription segments with speaker labels. The output includes the full transcription, timestamped segments with speaker attribution, confidence scores, and total speaker count in a structured JSON format. 
-Implementation and deployment 
-The implementation extends NVIDIA parakeet-1-1b-ctc-en-us NIM container as the foundation, adding a Python aiohttp server that seamlessly manages the complete NIM lifecycle by automatically starting and monitoring the service. The server handles protocol adaptation by translating SageMaker inference requests to appropriate NIM APIs, implements the intelligent routing logic that analyzes request characteristics, and provides comprehensive error handling with detailed error messages and fallback mechanisms for robust production deployment. The containerized solution streamlines deployment through standard Docker and AWS CLI commands, featuring a pre-configured Docker file with the necessary dependencies and optimizations. The system accepts multiple input formats including multipart form-data (recommended for maximum compatibility), JSON with base64 encoding for simple integration scenarios, and raw binary uploads for direct audio processing. 
-For detailed implementation instructions and working examples, teams can reference the complete implementation and deployment notebook in the AWS samples repository, which provides comprehensive guidance on deploying Parakeet ASR with NIM on SageMaker AI using the bring your own container (BYOC) approach. For organizations with specific architectural preferences, separate HTTP-only and gRPC-only implementations are also available, providing simpler deployment models for teams with well-defined use cases while the combined implementation offers maximum flexibility and automatic optimization. 
-AWS customers can deploy these models either as production-grade NVIDIA NIM containers directly from SageMaker Marketplace or JumpStart, or open source NVIDIA models available on Hugging Face, which can be deployed through custom containers on SageMaker or Amazon Elastic Kubernetes Service (Amazon EKS). This allows organizations to choose between fully managed, enterprise-tier endpoints with auto-scaling and security, or flexible open-source development for research or constrained use cases. 
-Using an AWS LMI container 
-LMI containers are designed to simplify hosting large models on AWS. These containers include optimized inference engines like vLLM, FasterTransformer, or TensorRT-LLM that can automatically handle things like model parallelism, quantization, and batching for large models. The LMI container is essentially a pre-configured Docker image that runs an inference server (for example a Python server with these optimizations) and allows you to specify model parameters by using environment variables. 
-To use the LMI container for Parakeet, we would typically: 
- 
- Choose the appropriate LMI image: AWS provides different LMI images for different frameworks. For Parakeet , we might use the DJLServing image for efficient inference. Alternatively, NVIDIA Triton Inference Server (which Riva uses) is an option if we package the model in ONNX or TensorRT format. 
- Specify the model configuration: With LMI, we often provide a model_id (if pulling from Hugging Face Hub) or a path to our model, along with configuration for how to load it (number of GPUs, tensor parallel degree, quantization bits). The container then downloads the model and initializes it with the specified settings. We can also download our own model files from Amazon S3 instead of using the Hub. 
- Define the inference handler: The LMI container might require a small handler script or configuration to tell it how to process requests. For ASR, this might involve reading the audio input, passing it to the model, and returning text. 
- 
-AWS LMI containers deliver high performance and scalability through advanced optimization techniques, including continuous batching, tensor parallelism, and state-of-the-art quantization methods. LMI containers integrate multiple inference backends (vLLM, TensorRT-LLM through a single unified configuration), helping users seamlessly experiment and switch between frameworks to find the optimal performance stack for your specific use case. 
-Using a SageMaker PyTorch container 
-SageMaker offers PyTorch Deep Learning Containers (DLCs) that come with PyTorch and many common libraries pre-installed. In this example, we demonstrated how to extend our prebuilt container to install necessary packages for the model. You can download the model directly from Hugging Face during the endpoint creation or download the Parakeet model artifacts, packaging it with necessary configuration files into a model.tar.gz archive, and uploading it to Amazon S3. Along with the model artifacts, an inference.py script is required as the entry point script to define model loading and inference logic, including audio preprocessing and transcription handling. When using the SageMaker Python SDK to create a PyTorchModel, the SDK will automatically repackage the model archive to include the inference script under /opt/ml/model/code/inference.py, while keeping model artifacts in /opt/ml/model/ on the endpoint. Once the endpoint is deployed successfully, it can be invoked through the predict API by sending audio files as byte streams to get transcription results. 
-For the SageMaker real-time endpoint, we currently allow a maximum of 25MB for payload size. Make sure you have set up the container to also allow the maximum request size. However, if you are planning to use the same model for the asynchronous endpoint, the maximum file size that the async endpoint supports is 1GB and the response time is up to 1 hour. Accordingly, you should setup the container to be prepared for this payload size and timeout. When using the PyTorch containers, here are some key configuration parameters to consider: 
- 
- SAGEMAKER_MODEL_SERVER_WORKERS: Set the number of torch workers that will load the number of models copied into GPU memory. 
- TS_DEFAULT_RESPONSE_TIMEOUT: Set the time out setting for Torch server workers; for long audio processing, you can set it to a higher number 
- TS_MAX_REQUEST_SIZE: Set the byte size values for requests to 1G for async endpoints. 
- TS_MAX_RESPONSE_SIZE: Set the byte size values for response. 
- 
-In the example notebook, we also showcase how to leverage the SageMaker local session provided by the SageMaker Python SDK. It helps you create estimators and run training, processing, and inference jobs locally using Docker containers instead of managed AWS infrastructure, providing a fast way to test and debug your machine learning scripts before scaling to production. 
-CDK pipeline prerequisites 
-Before deploying this solution, make sure you have: 
- 
- AWS CLI configured with appropriate permissions – Installation Guide 
- AWS Cloud Development Kit (AWS CDK) installed – Installation Guide 
- Node.js 18+ and Python 3.9+ installed 
- Docker – Installation Guide 
- SageMaker endpoint deployed with your ML model (Parakeet ASR models or similar) 
- Amazon SNS topics created for success and failure notifications 
- 
-CDK pipeline setup 
-The solution deployment begins with provisioning the necessary AWS resources using Infrastructure as Code (IaC) principles. AWS CDK creates the foundational components including: 
- 
- DynamoDB Table: Configured for on-demand capacity to track invocation metadata, processing status, and results 
- S3 Buckets: Secure storage for input audio files, transcription outputs, and summarization results 
- SNS topics: Separate queues for success and failure event handling 
- Lambda functions: Serverless functions for metadata processing, status updates, and workflow orchestration 
- IAM roles and policies: Appropriate permissions for cross-service communication and resource access 
- 
-Environment setup 
-Clone the repository and install dependencies: 
- 
- # Install degit, a library for downloading specific sub directories
-npm install -g degit
-
-# Clone just the specific folder
-npx degit aws-samples/genai-ml-platform-examples/infrastructure/automated-speech-recognition-async-pipeline-sagemaker-ai/sagemaker-async-batch-inference-cdk sagemaker-async-batch-inference-cdk
-
-# Navigate to folder
-cd sagemaker-async-batch-inference-cdk
-
-# Install Node.js dependencies
-npm install
-
-# Set up Python virtual environment
-python3 -m venv .venv
-source .venv/bin/activate
-
-# On Windows:
-.venv\Scripts\activate
-pip install -r requirements.txt 
- 
-Configuration 
-Update the SageMaker endpoint configuration in bin/aws-blog-sagemaker.ts: 
- 
-  
-  vim bin/aws-blog-sagemaker.ts 
-
-# Change the endpoint name 
-sageMakerConfig: { 
-    endpointName: 'your-sagemaker-endpoint-name',     
-    enableSageMakerAccess: true 
-} 
-  
- 
-If you have followed the notebook to deploy the endpoint, you should have created the two SNS topics. Otherwise, make sure you create the correct SNS topics using CLI: 
- 
- # Create SNS topics
-aws sns create-topic --name success-inf
-aws sns create-topic --name failed-inf 
- 
-Build and deploy 
-Before you deploy the AWS CloudFormation template, make sure Docker is running. 
- 
- # Compile TypeScript to JavaScript
-npm run build
-
-# Bootstrap CDK (first time only)
-npx cdk bootstrap
-
-# Deploy the stack
-npx cdk deploy 
- 
-Verify deployment 
-After successful deployment, note the output values: 
- 
- DynamoDB table name for status tracking 
- Lambda function ARNs for processing and status updates 
- SNS topic ARNs for notifications 
- 
-Submit audio file for processing 
-Processing Audio Files 
-Update the upload_audio_invoke_lambda.sh 
- 
- LAMBDA_ARN="YOUR_LAMBDA_FUNCTION_ARN"
-S3_BUCKET="YOUR_S3_BUCKET_ARN" 
- 
-Run the Script: 
-AWS_PROFILE=default ./scripts/upload_audio_invoke_lambda.sh 
-This script will: 
- 
- Download a sample audio file 
- Upload the audio file to your s3 bucket 
- Send the bucket path to Lambda and trigger the transcription and summarization pipeline 
- 
-Monitoring progress 
-You can check the result in DynamoDB table using the following command: 
- 
- aws dynamodb scan --table-name YOUR_DYNAMODB_TABLE_NAME 
- 
-Check processing status in the DynamoDB table: 
- 
- submitted: Successfully queued for inference 
- completed: Transcription completed successfully 
- failed: Processing encountered an error 
- 
-Audio processing and workflow orchestration 
-The core processing workflow follows an event-driven pattern: 
-Initial processing and metadata extraction: When audio files are uploaded to S3, the triggered Lambda function analyzes the file metadata, validates format compatibility, and creates detailed invocation records in DynamoDB. This facilitates comprehensive tracking from the moment audio content enters the system. 
-Asynchronous Speech Recognition: Audio files are processed through the SageMaker endpoint using optimized ASR models. The asynchronous process can handle various file sizes and durations without timeout concerns. Each processing request is assigned a unique identifier for tracking purposes. 
-Success path processing: Upon successful transcription, the system automatically initiates the summarization workflow. The transcribed text is sent to Amazon Bedrock, where advanced language models generate contextually appropriate summaries based on configurable parameters such as summary length, focus areas, and output format. 
-Error handling and recovery: Failed processing attempts trigger dedicated Lambda functions that log detailed error information, update processing status, and can initiate retry logic for transient failures. This robust error handling results in minimal data loss and provides clear visibility into processing issues. 
-Real-world applications 
-Customer service analytics: Organizations can process thousands of customer service call recordings to generate transcriptions and summaries, enabling sentiment analysis, quality assurance, and insights extraction at scale. 
-Meeting and conference processing: Enterprise teams can automatically transcribe and summarize meeting recordings, creating searchable archives and actionable summaries for participants and stakeholders. 
-Media and content processing: Media companies can process podcast episodes, interviews, and video content to generate transcriptions and summaries for improved accessibility and content discoverability. 
-Compliance and legal documentation: Legal and compliance teams can process recorded depositions, hearings, and interviews to create accurate transcriptions and summaries for case preparation and documentation. 
-Cleanup 
-Once you have used the solution, remove the SageMaker endpoints to prevent incurring additional costs. You can use the provided code to delete real-time and asynchronous inference endpoints, respectively: 
- 
- # Delete real-time inference
-endpointreal_time_predictor.delete_endpoint()
-
-# Delete asynchronous inference
-endpointasync_predictor.delete_endpoint() 
- 
-You should also delete all the resources created by the CDK stack. 
- 
- # Delete CDK Stack
-cdk destroy 
- 
-Conclusion 
-The integration of powerful NVIDIA speech AI technologies with AWS cloud infrastructure creates a comprehensive solution for large-scale audio processing. By combining Parakeet ASR’s industry-leading accuracy and speed with NVIDIA Riva’s optimized deployment framework on the Amazon SageMaker asynchronous inference pipeline, organizations can achieve both high-performance speech recognition and cost-effective scaling. The solution leverages the managed services of AWS (SageMaker AI, Lambda, S3, and Bedrock) to create an automated, scalable pipeline for processing audio content. With features like auto scaling to zero, comprehensive error handling, and real-time monitoring through DynamoDB, organizations can focus on extracting business value from their audio content rather than managing infrastructure complexity. Whether processing customer service calls, meeting recordings, or media content, this architecture delivers reliable, efficient, and cost-effective audio processing capabilities. To experience the full potential of this solution, we encourage you to explore the solution and reach out to us if you have any specific business requirements and would like to customise the solution for your use case. 
- 
-About the authors 
-Melanie Li, PhD, is a Senior Generative AI Specialist Solutions Architect at AWS based in Sydney, Australia, where her focus is on working with customers to build solutions using state-of-the-art AI/ML tools. She has been actively involved in multiple generative AI initiatives across APJ, harnessing the power of LLMs. Prior to joining AWS, Dr. Li held data science roles in the financial and retail industries. 
-Tony Trinh is a Senior AI/ML Specialist Architect at AWS. With 13+ years of experience in the IT industry, Tony specializes in architecting scalable, compliance-driven AI and ML solutions—particularly in generative AI, MLOps, and cloud-native data platforms. As part of his PhD, he’s doing research in Multimodal AI and Spatial AI. In his spare time, Tony enjoys hiking, swimming and experimenting with home improvement. 
-Alick Wong is a Senior Solutions Architect at Amazon Web Services, where he helps startups and digital-native businesses modernize, optimize, and scale their platforms in the cloud. Drawing on his experience as a former startup CTO, he works closely with founders and engineering leaders to drive growth and innovation on AWS. 
-Andrew Smith is a Sr. Cloud Support Engineer in the SageMaker, Vision &amp; Other team at AWS, based in Sydney, Australia. He supports customers using many AI/ML services on AWS with expertise in working with Amazon SageMaker. Outside of work, he enjoys spending time with friends and family as well as learning about different technologies. 
-Derrick Choo is a Senior AI/ML Specialist Solutions Architect at AWS who accelerates enterprise digital transformation through cloud adoption, AI/ML, and generative AI solutions. He specializes in full-stack development and ML, designing end-to-end solutions spanning frontend interfaces, IoT applications, data integrations, and ML models, with a particular focus on computer vision and multi-modal systems. 
-Tim Ma is a Principal Specialist in Generative AI at AWS, where he collaborates with customers to design and deploy cutting-edge machine learning solutions. He also leads go-to-market strategies for generative AI services, helping organizations harness the potential of advanced AI technologies. 
-Curt Lockhart is an AI Solutions Architect at NVIDIA, where he helps customers deploy language and vision models to build end to end AI workflows using NVIDIA’s tooling on AWS. He enjoys making complex AI feel approachable and spending his time exploring the art, music, and outdoors of the Pacific Northwest. 
-Francesco Ciannella is a senior engineer at NVIDIA, where he works on conversational AI solutions built around large language models (LLMs) and audio language models (ALMs). He holds a M.S. in engineering of telecommunications from the University of Rome “La Sapienza” and an M.S. in language technologies from the School of Computer Science at Carnegie Mellon University.
 
 ⸻
