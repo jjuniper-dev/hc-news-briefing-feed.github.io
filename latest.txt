@@ -1,6 +1,6 @@
-✅ Morning News Briefing – November 03, 2025 10:47
+✅ Morning News Briefing – November 04, 2025 10:49
 
-📅 Date: 2025-11-03 10:47
+📅 Date: 2025-11-04 10:49
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
@@ -8,10 +8,10 @@
 🧾 Weather
 • No watches or warnings in effect, Pembroke
   No watches or warnings in effect. No warnings or watches or watches in effect . Watch or warnings are no longer in effect in the U.S. No watches, warnings are in effect for the rest of the day . No watches and warnings are still in effect, but no watches are in place for the day's events . The weather is not expected to be affected by the weather .
-• Current Conditions:  3.2°C
-  Temperature: 3.2&deg;C Pressure / Tendency: 101.3 kPa falling Humidity: 90 % Dewpoint: 1.7&deg:C Wind: SSE 7 km/h . Air Quality Health Index: n/a . Pembroke 5:00 AM EST Monday 3 November 2025 Temperature: . 3/2/3 November 2025 .
-• Monday: Chance of showers. High 9 with temperature falling to 6 this afternoon. POP 70%
-  Cloudy with 70 percent chance of showers this afternoon . Wind southwest 30 km/h gusting to 50 . High 9 with temperature falling to 6 this afternoon. UV index 1 or low with low UV index at 6 or low . Forecast issued 5:00 AM EST Monday 3 November 2025 . Weather forecasters predict temperatures will drop to 6 degrees in the morning of November 3, 2025
+• Current Conditions:  2.8°C
+  Temperature: 2.8&deg;C Pressure / Tendency: 101.3 kPa rising Humidity: 90 % Dewpoint: 1.2&deg:C Wind: WNW 7 km/h Air Quality Health Index: n/a . Pembroke 5:00 AM EST Tuesday 4 November 2025 Temperature: . 2.7 degrees Celsius (C) Pressure
+• Tuesday: Chance of showers. High 10. POP 40%
+  40 percent chance of showers early this morning . A mix of sun and cloud . Wind west 30 km/h gusting to 50 becoming light early this afternoon . High 10. UV index 2 or low, with a high of 10.5C, UV index at 10C, or with a low of 2C, with low UV index of 10C or 2C in the morning
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Gender inequality accelerates Japan's rural depopulation
-  Akita Prefecture has Japan's most aged population, lowest birthrate and fastest declining population . Rigid gender roles are prompting young women to leave rural areas like this for opportunities elsewhere . Women are leaving rural areas to find opportunities elsewhere in Japan . Akita prefecture has the lowest birth rate, lowest population and fastest decline rate in the country's history, according to Japan's population .
-• Trump's National Guard deployments aren't random. They were planned years ago
-  President Trump and several others now high up in his second administration have been talking about using the National Guard to help with mass deportations . Now, those plans might be playing out . The Insurrection Act could be used to help deport illegal immigrants from the U.S. Now, it's not clear if the Guard will be able to use it to assist with deportations in the U
-• To optimize health, sync your habits with your body clock. Here's how
-  Scientists say the return to "standard time" is good for our health . But the time change can be disruptive and we must adjust to more winter darkness . Syncing our habits to our body clock helps. Syncing your habits to your body clock is key to your health, scientists say . We need to adapt to the return of winter darkness and more darkness in order to keep up with
-• Democratic voters say California's Prop 50 gives them a way to 'counteract' Trump
-  Many voters told NPR they like that California's redistricting measure provides the Democratic-leaning state a rare opportunity to directly counteract President Trump and other Republicans . Many voters said they like the measure, which allows the state to redistricting redistricting to counteract the Republican Party . California is a Democratic leaning state with a strong majority of voters, according to NPR's NPR poll . The state's redist
-• Andrew Cuomo fights for his political life and his version of the Democratic Party
-  Former N.Y. Gov. Andrew Cuomo has a long list of accomplishments, many of them progressive . In the race for New York City mayor, that experience hasn't given him the boost he wanted . Cuomo is a former governor of New York and a former mayor of the city . Cuomo has been in the mayoral race for eight years . He is a Democrat and a Republican . Cuomo
+• When SNAP benefits will arrive is still in flux. Here's what communities are doing to fill the gap
+  NPR journalists are covering the uncertainty and lapse in benefits in states across the country . Reporters from the NPR Network have been covering the situation in the U.S. Reporters are also reporting on the uncertainty in some states . NPR's Eli Imadali is on a mission to help Americans understand the impact of the lapse of benefits on the federal tax on health care . He says the
+• Searching 'weight' can bring up Ozempic in results. It's a drug advertising loophole
+  A new study shows there's a lot more wiggle room when companies pay to sponsor online search results . There are strict rules about what drug companies can say in TV or print ads, but there is a lot of wiggle-room when companies sponsor online searches . The study was published in the New York Review of Medicine in New York City, New York, on Monday, October 8
+• How one tech startup is giving cash to SNAP recipients
+  Propel makes a free app for people on food stamps . Now it's giving some of them $50 each . Some private companies, nonprofits, and individuals scramble to help . Propel gives some of its users a $50 gift to each other, as some private companies scramble to get help . The app is free for food stamps, but Propel is giving some $50 to each
+• From California to NYC: 4 races to watch this Election Day
+  Four races highlight this year's elections: a redistricting referendum in California, governor's races in New Jersey and Virginia and mayoral contest in New York City . The mayoral contest is a result of a race between New York and New Jersey's mayor and governor's race in Virginia and New York's governor . The elections will be held in California and New England, Virginia, New Jersey, New
+• The Dalai Lama created a Tibetan capital in exile in India. It's shrinking
+  For decades, Tibetans built a capital in exile in Dharamshala, India, and sent their kids to a school founded by the Dalai Lama . That's now changing, with Tibetans now living in exile, living in a new capital in India's capital in the Himalayan capital . The Dalai Lama's school is now located in the city of Dharamsala,
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• The race to shore up Europe’s power grids against cyberattacks and sabotage
-  A massive power outage suddenly rippled across Spain, Portugal, and parts of southwestern France in April . Tens of millions of people were left without electricity for hours . Ukraine first to deploy open source security platform to isolate incidents, stop lateral movement Feature  Feature   was a sunny morning in late April when a massive power outages suddenly struck across Spain and Portugal, leaving tens of millions
-• Students using ChatGPT beware: Real learning takes legwork, study finds
-  Boffins say outsourcing your homework leaves you sounding less knowledgeable, short on facts . A study of how people use ChatGPT for research has confirmed something most of us learned the hard way in school . To be a subject matter expert, you've got to spend time swotting up. To be an expert, it's important to learn more about your subject matter experts. Chat
-• Snap out of it: Canonical on Flatpak friction, Core Desktop, and the future of Ubuntu
-  The Register FOSS desk sat down with Canonical's vice-president for engineering, Jon Seager, during Ubuntu Summit earlier this month . This is a heavily condensed version of our conversation with Seager . The Reg talks exclusively to The Reg at the Ubuntu Summit in London, London, New York, London and New York . Seager is the VP of Engineering at Canonical, and
-• From Intel to the infinite, Pat Gelsinger wants Christian AI to change the world
-  Pat Gelsinger is firmly back on the tech leadership pony . He's done hardware with Intel, software with VMWare. This time, it's faithware. Taking belief in LLMs very literally indeed indeed indeed . This time it's not been a year since his ouster as Intel's CEO, but he's back in the saddle again. He's back at the top
-• ‘ERP down for emergency maintenance’ was code for ‘You deleted what?’
-  Who, Me? is a reader-contributed confessional column in which you admit to making mistakes, and explain how you made it out alive afterwards . One SQL slip-up is survivable. Not learning from the first mess meant change meant change . Not learning the first mistake meant change. Not being able to learn how to use the language you use. Not having to learn from
+• AI's trillion dollar deal wheel bubbling around Nvidia, OpenAI
+  In late 2025, a series of multi-billion-dollar deals in the artificial intelligence sector is causing déjà vu among industry veterans . Money, computer chips, and cloud credits are rotating in a closed loop among a handful of companies: Nvidia, OpenAI, Microsoft, Oracle, AMD, CoreWeave, xAI, and a few others . This has fueled a trillion-
+• Ministry of Defence's F-35 blunder: £57B and counting
+  Government spending watchdog eviscerates penny wise, pound foolish approach . MoD criticized for undermining F-35 stealth fighter program through years of short-term budget decisions that have increased long-term costs and left the fleet understrength and undercapable . Britain's Ministry of Defence (MoD) is being criticized for failing to invest in the program . The MoD is accused of
+• Google Cloud suspended customer's account three times, for three different reasons
+  Founder of SSL certificate service says Google Cloud has suspended his account three times without good reason . G-Cloud has suspended him three times and he recommends not using it for serious workloads . Founder: 'I cannot rely on having a Google account for production use cases' Google Cloud 'has suspended me three times, without reason,' he says . Google Cloud also suspended him from his account for
+• China's president Xi Jinping jokes about backdoors in Xiaomi smartphones
+  Chinese president Xi Jinping joked that smartphones from Xiaomi might include backdoors . South Korea's president laughed, so perhaps it was funny? Unlike China's censorship and snooping, it's not the government's censorship, but perhaps it might be funny? Xi joked that backdoors might be included in Xiaomi's smartphones, but South Korean president laughed at the joke, perhaps it's funny .
+• LLMs are lousy at reading Asian languages, finds Singapore’s Grab
+  Singaporean super-app company Grab built its own model to do the job right . Grab chased Uber away from the app giant from Uber . Grab says large language models are bad at interpreting Asian languages . Grab is now using its own language model instead of big language models to interpret its app's content . The company says Grab is building its own way of interpreting its content in Asian language .
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• Safeguards for virology must be designed in partnership with the public
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Applying lessons learned from public health crises to expand peer support specialists in youth mental health services
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Community opioid dispensing prevalence and patterns in adults with spinal cord injury in Queensland: a retrospective data linkage study
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Establishing and validating syndromic surveillance of gastrointestinal infections using routine emergency department data, Germany, 2019–2023
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Long-term susceptible fractions in networked epidemic models and their relation to the basic reproduction number
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Assessing electronic medical record usage in private healthcare facilities of Amhara region, Ethiopia
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Dynapenic abdominal obesity is associated with long-term cognitive trajectories and mild cognitive impairment
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Longer walks beat shorter strolls for heart health
+• Alzheimer’s decline slows with just a few thousand steps a day
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,355 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• The State of AI: Is China about to win the race?
+  The State of AI is a collaboration between the Financial Times &amp; MIT Technology Review examining the ways in which AI is reshaping global power. Every Monday for the next six weeks, writers from both publications will debate one aspect of the generative AI revolution reshaping global power.
+
+
+
+In this conversation, the FT’s tech columnist and Innovation Editor&nbsp;John Thornhill and MIT Technology Review’s Caiwei Chen consider the battle between Silicon Valley and Beijing for technological supremacy.
+
+
+
+
+
+
+
+John Thornhill writes:
+
+
+
+Viewed from abroad, it seems only a matter of time before China emerges as the AI superpower of the 21st century.&nbsp;
+
+
+
+Here in the West, our initial instinct is to focus on America’s significant lead in semiconductor expertise, its cutting-edge AI research, and its vast investments in data centers. The legendary investor Warren Buffett once warned: “Never bet against America.” He is right that for more than two centuries, no other “incubator for unleashing human potential” has matched the US.
+
+
+
+Today, however, China has the means, motive, and opportunity to commit the equivalent of technological murder. When it comes to mobilizing the whole-of-society resources needed to develop and deploy AI to maximum effect, it may be just as rash to bet against.&nbsp;
+
+
+
+The data highlights the trends. In AI publications and patents, China leads. By 2023, China accounted for 22.6% of all citations, compared with 20.9% from Europe and 13% from the US, according to Stanford University&#8217;s Artificial Intelligence Index Report 2025. As of 2023, China also accounted for 69.7% of all AI patents. True, the US maintains a strong lead in the top 100 most cited publications (50 versus 34 in 2023), but its share has been steadily declining.&nbsp;
+
+
+
+Similarly, the US outdoes China in top AI research talent, but the gap is narrowing. According to a report from the US Council of Economic Advisers, 59% of the world’s top AI researchers worked in the US in 2019, compared with 11% in China. But by 2022 those figures were 42% and 28%.&nbsp;
+
+
+
+
+
+
+
+The Trump administration’s tightening of restrictions for foreign H-1B visa holders may well lead more Chinese AI researchers in the US to return home. The talent ratio could move further in China’s favor.
+
+
+
+Regarding the technology itself, US-based institutions produced 40 of the world’s most notable AI models in 2024, compared with 15 from China. But Chinese researchers have learned to do more with less, and their strongest large language models—including the open-source DeepSeek-V3 and Alibaba&#8217;s Qwen 2.5-Max—surpass the best US models in terms of algorithmic efficiency.
+
+
+
+Where China is really likely to excel in future is in applying these open-source models. The latest report from Air Street Capital shows that China has now overtaken the US in terms of monthly downloads of AI models. In AI-enabled fintech, e-commerce, and logistics, China already outstrips the US.&nbsp;
+
+
+
+Perhaps the most intriguing—and potentially the most productive—applications of AI may yet come in hardware, particularly in drones and industrial robotics. With the research field evolving toward embodied AI, China’s advantage in advanced manufacturing will shine through.
+
+
+
+Dan Wang, the tech analyst and author of Breakneck, has rightly highlighted the strengths of China’s engineering state in developing manufacturing process knowledge—even if he has also shown the damaging effects of applying that engineering mentality in the social sphere. “China has been growing technologically stronger and economically more dynamic in all sorts of ways,” he told me. “But repression is very real. And it is getting worse in all sorts of ways as well.”
+
+
+
+I’d be fascinated to hear from you, Caiwei, about your take on the strengths and weaknesses of China’s AI dream. To what extent will China’s engineered social control hamper its technological ambitions?&nbsp;
+
+
+
+Caiwei Chen responds:
+
+
+
+Hi, John!
+
+
+
+You’re right that the US still holds a clear lead in frontier research and infrastructure. But “winning” AI can mean many different things. Jeffrey Ding, in his book Technology and the Rise of Great Powers, makes a counterintuitive point: For a general-purpose technology like AI, long-term advantage often comes down to how widely and deeply technologies spread across society. And China is in a good position to win that race (although “murder” might be pushing it a bit!).
+
+
+
+Chips will remain China’s biggest bottleneck. Export restrictions have throttled access to top GPUs, pushing buyers into gray markets and forcing labs to recycle or repair banned Nvidia stock. Even as domestic chip programs expand, the performance gap at the very top still stands.
+
+
+
+Yet those same constraints have pushed Chinese companies toward a different playbook: pooling compute, optimizing efficiency, and releasing open-weight models. DeepSeek-V3’s training run, for example, used just 2.6 million GPU-hours—far below the scale of US counterparts. But Alibaba’s Qwen models now rank among the most downloaded open-weights globally, and companies like Zhipu and MiniMax are building competitive multimodal and video models.&nbsp;
+
+
+
+China’s industrial policy means new models can move from lab to implementation fast. Local governments and major enterprises are already rolling out reasoning models in administration, logistics, and finance.&nbsp;
+
+
+
+Education is another advantage. Major Chinese universities are implementing AI literacy programs in their curricula, embedding skills before the labor market demands them. The Ministry of Education has also announced plans to integrate AI training for children of all school ages. I’m not sure the phrase “engineering state” fully captures China’s relationship with new technologies, but decades of infrastructure building and top-down coordination have made the system unusually effective at pushing large-scale adoption, often with far less social resistance than you’d see elsewhere. The use at scale, naturally, allows for faster iterative improvements.
+
+
+
+Meanwhile, Stanford HAI’s 2025 AI Index found Chinese respondents to be the most optimistic in the world about AI’s future—far more optimistic than populations in the US or the UK. It’s striking, given that China’s economy has slowed since the pandemic for the first time in over two decades. Many in government and industry now see AI as a much-needed spark. Optimism can be powerful fuel, but whether it can persist through slower growth is still an open question.
+
+
+
+Social control remains part of the picture, but a different kind of ambition is taking shape. The Chinese AI founders in this new generation are the most globally minded I’ve seen, moving fluidly between Silicon Valley hackathons and pitch meetings in Dubai. Many are fluent in English and in the rhythms of global venture capital. Having watched the last generation wrestle with the burden of a Chinese label, they now build companies that are quietly transnational from the start.
+
+
+
+The US may still lead in speed and experimentation, but China could shape how AI becomes part of daily life, both at home and abroad. Speed matters, but speed isn’t the same thing as supremacy.
+
+
+
+John Thornhill replies:
+
+
+
+You’re right, Caiwei, that speed is not the same as supremacy (and “murder” may be too strong a word). And you’re also right to amplify the point about China’s strength in open-weight models and the US preference for proprietary models. This is not just a struggle between two different countries’ economic models but also between two different ways of deploying technology.&nbsp;&nbsp;
+
+
+
+Even OpenAI’s chief executive, Sam Altman, admitted earlier this year: “We have been on the wrong side of history here and need to figure out a different open-source strategy.” That’s going to be a very interesting subplot to follow. Who’s called that one right?
+
+
+
+Further reading on the US-China competition
+
+
+
+There’s been a lot of talk about how people may be using generative AI in their daily lives. This story from the FT’s visual story team explores the reality&nbsp;
+
+
+
+From China, FT reporters ask how long Nvidia can maintain its dominance over Chinese rivals
+
+
+
+When it comes to real-world uses, toys and companions devices are a novel but emergent application of AI that is gaining traction in China—but is also heading to the US. This MIT Technology Review story explored it.
+
+
+
+The once-frantic data center buildout in China has hit walls, and as the sanctions and AI demands shift, this MIT Technology Review story took an on-the-ground look at how stakeholders are figuring it out.
+• The Download: gene-edited babies, and cleaning up copper
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+Here’s the latest company planning for gene-edited babies
+
+
+
+The news: A West Coast biotech entrepreneur says he’s secured $30 million to form a public-benefit company to study how to safely create genetically edited babies, marking the largest known investment into the taboo technology.&nbsp;&nbsp;
+
+
+
+How they’re doing it: The new company, called Preventive, is being formed to research so-called “heritable genome editing,” in which the DNA of embryos would be modified by correcting harmful mutations or installing beneficial genes. The goal would be to prevent disease.
+
+
+
+Why it’s contentious: Creating genetically edited humans remains controversial. The first scientist to do it, in China, was imprisoned for three years. The procedure remains illegal in many countries, including the US, and doubts surround its usefulness as a form of medicine. Read the full story.
+
+
+
+—Antonio Regalado
+
+
+
+
+
+
+
+This startup wants to clean up the copper industry
+
+
+
+Demand for copper is surging, as is pollution from its dirty production processes. The founders of one startup, Still Bright, think they have a better, cleaner way to generate the copper the world needs.&nbsp;
+
+
+
+The company uses water-based reactions, based on battery chemistry technology, to purify copper in a process that could be less polluting than traditional smelting. And the hope is that this alternative will also help ease growing strain on the copper supply chain. Read the full story.
+
+
+
+—Casey Crownhart
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 The FDA’s top drug regulator has resignedGeorge Tidmarsh allegedly abused his position to inflict financial harm on a former associate. (STAT)+ He’s only been in the post since July. (WP $)+ It’s just the latest in a long line of slapdash leadership changes at the agency. (AP News)+ Here’s what food and drug regulation might look like under the Trump administration. (MIT Technology Review)
+
+
+
+2 America’s nuclear weapons testing won’t involve explosionsSo don’t expect to see mushroom clouds any time soon. (BBC)+ The tests will involve “the other parts of a nuclear weapon,” apparently. (NYT $)+ The US is working to modernize its nuclear stockpile too. (The Hill)
+
+
+
+3 Mustafa Suleyman wants researchers to stop pursuing conscious AI The Microsoft AI boss believes consciousness is reserved for biological beings only. (CNBC)+ Here’s what the man who coined the term AGI has to say. (Wired $)+ “We will never build a sex robot,” says Mustafa Suleyman. (MIT Technology Review) 4 Elon Musk may relinquish control of TeslaIf the company’s shareholders decide against awarding him close to $1 trillion in stock. (NYT $)+ One major investor has already said it won’t be supporting the pay package. (Gizmodo)
+
+
+
+5 The hottest job in AI right now? Forward-deployed engineersThey’re specialists who help AI companies’ customers adopt their models. (FT $)
+
+
+
+6 Hackers are stealing cargo shipments from transportation firmsThey’re successfully infecting networks with remote access tools. (Bloomberg $)
+
+
+
+7 OpenAI’s o1 model can analyze languages like a human expertExperts suggest linguistic analysis is a key testbed for assessing the extent to which these models can reason like we can. (Quanta Magazine)
+
+
+
+8 US obesity rates have started to dropAnd weight-loss drugs are highly likely to be the reason why. (Vox)+ We’re learning more about what weight-loss drugs do to the body. (MIT Technology Review)
+
+
+
+9 Why it’s so tricky to make a good grocery list appNotes just won’t cut it. (The Verge)10 Many robots make light workLots of machines working in tandem can achieve what they’d struggle to do alone. (WSJ $)+ Tiny robots inspired by spiders could help deliver diagnoses. (IEEE Spectrum)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“You can check if there’s a backdoor.”
+
+
+
+—China’s leader Xi Jinping jokes about the security of two Chinese-made cellphones he gifted to South Korea’s President Lee Jae Myung, the New York Times reports.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+Digital twins of human organs are here. They’re set to transform medical treatment.“Digital twins” are the same size and shape as the human organs they’re designed to mimic. They work in the same way. But they exist only virtually. Scientists can do virtual surgery on virtual hearts, figuring out the best course of action for a patient’s condition.After decades of research, models like these are now entering clinical trials and starting to be used for patient care. The eventual goal is to create digital versions of our bodies—computer copies that could help researchers and doctors figure out our risk of developing various diseases and determine which treatments might work best.But the budding technology will need to be developed very carefully. Read the full story to learn why.—Jessica Hamzelou
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
+
+
+
++ The Empire State Building Run-Up race sounds amazing, if completely gruelling.+ Very cool: each year, the scientific staff of the Amundsen–Scott South Pole Station screen horror classic The Thing to prepare themselves for the long, isolated winter ahead.+ How caterpillars spin their protective little cocoons.+ One-pot chicken sounds like a great winter warmer of a recipe.
+• This startup wants to clean up the copper industry
+  Demand for copper is surging, as is pollution from its dirty production processes. The founders of one startup, Still Bright, think they have a better, cleaner way to generate the copper the world needs.&nbsp;
+
+
+
+The company uses water-based reactions, based on battery chemistry technology, to purify copper in a process that could be less polluting than traditional smelting. The hope is that this alternative will also help ease growing strain on the copper supply chain.
+
+
+
+
+
+“We’re really focused on addressing the copper supply crisis that’s looming ahead of us,” says Randy Allen, Still Bright’s cofounder and CEO.
+
+
+
+Copper is a crucial ingredient in everything from electrical wiring to cookware today. And clean energy technologies like solar panels and electric vehicles are introducing even more demand for the metal. Global copper demand is expected to grow by 40% between now and 2040. 
+
+
+
+As demand swells, so do the climate and environmental impacts of copper extraction, the process of refining ore into a pure metal. There’s also growing concern about the geographic concentration of the copper supply chain. Copper is mined all over the world, and historically, many of those mines had smelters on-site to process what they extracted. (Smelters form pure copper metal by essentially burning concentrated copper ore at high temperatures.) But today, the smelting industry has consolidated, with many mines shipping copper concentrates to smelters in Asia, particularly China.
+
+
+
+That’s partly because smelting uses a lot of energy and chemicals, and it can produce sulfur-containing emissions that can harm air quality. “They shipped the environmental and social problems elsewhere,” says Simon Jowitt, a professor at the University of Nevada, Reno, and director of the Nevada Bureau of Mines and Geology.
+
+
+
+It’s possible to scrub pollution out of a smelter’s emissions, and smelters are much cleaner than they used to be, Jowitt says. But overall, smelting centers aren’t exactly known for environmental responsibility.&nbsp;
+
+
+
+So even countries like the US, which have plenty of copper reserves and operational mines, largely ship copper concentrates, which contain up to around 30% copper, to China or other countries for smelting. (There are just two operational ore smelters in the US today.)
+
+
+
+Still Bright avoids the pyrometallurgic process that smelters use in favor of a chemical approach, partially inspired by devices called vanadium flow batteries.
+
+
+
+In the startup’s reactor, vanadium reacts with the copper compounds in copper concentrates. The copper metal remains a solid, leaving many of the impurities behind in the liquid phase. The whole thing takes between 30 and 90 minutes. The solid, which contains roughly 70% copper after this reaction, can then be fed into another, established process in the mining industry, called solvent extraction and electrowinning, to make copper that’s over 99% pure.&nbsp;
+
+
+
+This is far from the first attempt to use a water-based, chemical approach to processing copper. Today, some copper ore is processed with acid, for example, and Ceibo, a startup based in Chile, is trying to use a version of that process on the type of copper that’s traditionally smelted. The difference here is the particular chemistry, particularly the choice to use vanadium.
+
+
+
+One of Still Bright’s founders, Jon Vardner, was researching copper reactions and vanadium flow batteries when he came up with the idea to marry a copper extraction reaction with an electrical charging step that could recycle the vanadium.
+
+
+
+COURTESY OF STILL BRIGHT
+
+
+
+
+After the vanadium reacts with the copper, the liquid soup can be fed into an electrolyzer, which uses electricity to turn the vanadium back into a form that can react with copper again. It’s basically the same process that vanadium flow batteries use to charge up.&nbsp;
+
+
+
+While other chemical processes for copper refining require high temperatures or extremely acidic conditions to get the copper into solution and force the reaction to proceed quickly and ensure all the copper gets reacted, Still Bright’s process can run at ambient temperatures.
+
+
+
+One of the major benefits to this approach is cutting the pollution from copper refining.&nbsp; Traditional smelting heats the target material to over 1,200 °C (2,000 °F), forming sulfur-containing gases that are released into the atmosphere.&nbsp;
+
+
+
+Still Bright’s process produces hydrogen sulfide gas as a by-product instead. It’s still a dangerous material, but one that can be effectively captured and converted into useful side products, Allen says.
+
+
+
+Another source of potential pollution is the sulfide minerals left over after the refining process, which can form sulfuric acid when exposed to air and water (this is called acid mine drainage, common in mining waste). Still Bright’s process will also produce that material, and the company plans to carefully track it, ensuring that it doesn’t leak into groundwater.&nbsp;
+
+
+
+The company is currently testing its process in the lab in New Jersey and designing a pilot facility in Colorado, which will have the capacity to make about two tons of copper per year. Next will be a demonstration-scale reactor, which will have a 500-ton annual capacity and should come online in 2027 or 2028 at a mine site, Allen says. Still Bright recently raised an $18.7 million seed round to help with the scale-up process.
+
+
+
+How scale up goes will be a crucial test of the technology and whether the typically conservative mining industry will jump on board, UNR’s Jowitt says: “You want to see what happens on an industrial scale. And I think until that happens, people might be a little reluctant to get into this.”
 • Here’s the latest company planning for gene-edited babies
   A West Coast biotech entrepreneur says he’s secured $30 million to form a public-benefit company to study how to safely create genetically edited babies, marking the largest known investment into the taboo technology.&nbsp;&nbsp;
 
@@ -318,236 +667,6 @@ We can still have nice things
 
 
 A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)+ Zoo animals across the world are getting into the Halloween spirit with some tasty pumpkins.+ If you’re stuck for something suitably spooky to watch tonight, this list is a great place to start.+ New York’s historic Morris-Jumel Mansion is seriously beautiful—and seriously haunted.+ Salem’s Lucipurr is on the prowl!
-• Here’s why we don’t have a cold vaccine. Yet.
-  For those of us in the Northern Hemisphere, it’s the season of the sniffles. As the weather turns, we’re all spending more time indoors. The kids have been back at school for a couple of months. And cold germs are everywhere.
-
-
-
-My youngest started school this year, and along with artwork and seedlings, she has also been bringing home lots of lovely bugs to share with the rest of her family. As she coughed directly into my face for what felt like the hundredth time, I started to wonder if there was anything I could do to stop this endless cycle of winter illnesses. We all got our flu jabs a month ago. Why couldn’t we get a vaccine to protect us against the common cold, too?
-
-
-
-
-
-Scientists have been working on this for decades. It turns out that creating a cold vaccine is hard. Really hard.
-
-
-
-But not impossible. There’s still hope. Let me explain.
-
-
-
-Technically, colds are infections that affect your nose and throat, causing symptoms like sneezing, coughing, and generally feeling like garbage. Unlike some other infections,—covid-19, for example—they aren’t defined by the specific virus that causes them.
-
-
-
-That’s because there are a lot of viruses that cause colds, including rhinoviruses, adenoviruses, and even seasonal coronaviruses (they don’t all cause covid!). Within those virus families, there are many different variants.
-
-
-
-Take rhinoviruses, for example. These viruses are thought to be behind most colds. They’re human viruses—over the course of evolution, they have become perfectly adapted to infecting us, rapidly multiplying in our noses and airways to make us sick. There are around 180 rhinovirus variants, says Gary McLean, a molecular immunologist at Imperial College London in the UK.
-
-
-
-Once you factor in the other cold-causing viruses, there are around 280 variants all told. That’s 280 suspects behind the cough that my daughter sprayed into my face. It’s going to be really hard to make a vaccine that will offer protection against all of them.
-
-
-
-The second challenge lies in the prevalence of those variants.
-
-
-
-Scientists tailor flu and covid vaccines to whatever strain happens to be circulating. Months before flu season starts, the World Health Organization advises countries on which strains their vaccines should protect against. Early recommendations for the Northern Hemisphere can be based on which strains seem to be dominant in the Southern Hemisphere, and vice versa.
-
-
-
-
-
-That approach wouldn’t work for the common cold, because all those hundreds of variants are circulating all the time, says McLean.
-
-
-
-That’s not to say that people haven’t tried to make a cold vaccine. There was a flurry of interest in the 1960s and ’70s, when scientists made valiant efforts to develop vaccines for the common cold. Sadly, they all failed. And we haven’t made much progress since then.
-
-
-
-In 2022, a team of researchers reviewed all the research that had been published up to that year. They only identified one clinical trial—and it was conducted back in 1965.
-
-
-
-Interest has certainly died down since then, too. Some question whether a cold vaccine is even worth the effort. After all, most colds don’t require much in the way of treatment and don’t last more than a week or two. There are many, many more dangerous viruses out there we could be focusing on.
-
-
-
-And while cold viruses do mutate and evolve, no one really expects them to cause the next pandemic, says McLean. They’ve evolved to cause mild disease in humans—something they’ve been doing successfully for a long, long time. Flu viruses—which can cause serious illness, disability, or even death—pose a much bigger risk, so they probably deserve more attention.
-
-
-
-But colds are still irritating, disruptive, and potentially harmful. Rhinoviruses are considered to be the leading cause of human infectious disease. They can cause pneumonia in children and older adults. And once you add up doctor visits, medication, and missed work, the economic cost of colds is pretty hefty: a 2003 study put it at $40 billion per year for the US alone.
-
-
-
-So it’s reassuring that we needn’t abandon all hope: Some scientists are making progress! McLean and his colleagues are working on ways to prepare the immune systems of people with asthma and lung diseases to potentially protect them from cold viruses. And a team at Emory University has developed a vaccine that appears to protect monkeys from around a third of rhinoviruses.
-
-
-
-There’s still a long way to go. Don’t expect a cold vaccine to materialize in the next five years, at least. “We’re not quite there yet,” says Michael Boeckh, an infectious-disease researcher at Fred Hutch Cancer Center in Seattle, Washington. “But will it at some point happen? Possibly.”
-
-
-
-At the end of our Zoom call, perhaps after reading the disappointed expression on my sniffling, cold-riddled face (yes, I did end up catching my daughter’s cold), McLean told me he hoped he was “positive enough.” He admitted that he used to be more optimistic about a cold vaccine. But he hasn’t given up hope. He’s even running a trial of a potential new vaccine in people, although he wouldn’t reveal the details.
-
-
-
-“It could be done,” he said.
-
-
-
-This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, sign up here.
-• The Download: Introducing the new conspiracy age
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
-
-
-
-Introducing: the new conspiracy age
-
-
-
-Everything is a conspiracy theory now. Conspiracists are all over the White House, turning fringe ideas into dangerous policy. America’s institutions are crumbling under the weight of deep suspicion and the lasting effects of covid isolation. Online echo chambers are getting harder to escape, and generative AI is altering the fabric of truth. A mix of technology and politics has given an unprecedented boost to once-fringe ideas—but they are pretty much the same fantasies that have been spreading for hundreds of years.
-
-
-
-MIT Technology Review helps break down how this moment is changing science and technology—and how we can make it through. We’re thrilled to present The New Conspiracy Age, a new series digging into how the present boom in conspiracy theories is reshaping science and technology.&nbsp;
-
-
-
-To kick us off, check out Dorian Lynskey’s fascinating piece explaining why it’s never been easier to be a conspiracy theorist. And stay tuned—we’ll be showcasing a different story from the package each day in the next few editions of The Download!
-
-
-
-
-
-
-
-Four thoughts from Bill Gates on climate tech
-
-
-
-Bill Gates doesn’t shy away or pretend modesty when it comes to his stature in the climate world today. “Well, who’s the biggest funder of climate innovation companies?” he asked a handful of journalists at a media roundtable event last week. “If there’s someone else, I’ve never met them.”
-
-
-
-The former Microsoft CEO has spent the last decade investing in climate technology through Breakthrough Energy, which he founded in 2015. Ahead of the UN climate meetings kicking off next week, Gates published a memo outlining what he thinks activists and negotiators should focus on and how he’s thinking about the state of climate tech right now. Here’s what he had to say.
-
-
-
-—Casey Crownhart
-
-
-
-This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 US Homeland Security shared false videos of immigration operationsThey claimed to show recent operations but used footage that was old, or recorded thousands of miles away. (WP $)+ ICE is scanning pedestrians’ faces to verify their citizenship. (404 Media)
-
-
-
-2 Character.AI is banning under-18s from talking to its virtual companionsIt’s currently facing several lawsuits from families who claim its chatbots have harmed their children. (NYT $)+ The company says it’s introducing age assurance functionality. (FT $)+ Teenage boys are using chatbots to roleplay as girlfriends. (The Guardian)+ The looming crackdown on AI companionship. (MIT Technology Review)
-
-
-
-3 Trump directed the Pentagon to resume nuclear weapons testingAmerica hasn’t conducted such tests for more than 30 years. (BBC)+ The US President made multiple incorrect assertions in his statement. (The Verge)+ He doesn’t seem to even know why he wants to resume the tests himself. (The Atlantic $)
-
-
-
-4 A Google DeepMind AI model accurately predicted Hurricane Melissa’s severityIt’s the first time the US National Hurricane Center has deployed it. (Nature $)+ Here’s how to actually help the people affected by its extensive damage. (Vox)+ Google DeepMind’s new AI model is the best yet at weather forecasting. (MIT Technology Review)
-
-
-
-5 A major record label has signed a deal with AI music firm UdioUniversal Music Group had previously sued it for copyright infringement. (WSJ $)+ AI is coming for music, too. (MIT Technology Review)6 Are companies using AI as a fig leaf to lay workers off?It’s sure starting to look that way. (NBC News)+ Big Tech is going to keep spending billions on AI, regardless. (WP $)
-
-
-
-7 Meta Ray-Ban users are filming themselves in massage parlorsThey’re harassing workers, who appear unaware they’re being recorded. (404 Media)+ China’s smart glasses makers are keen to capture the market. (FT $)
-
-
-
-8 Just three countries dominate the world’s space launchesWhat will it take to get some other nations in the mix? (Rest of World)
-
-
-
-9 Why you shouldn’t hire an AI agentTheir freelancing capabilities are… limited. (Wired $)+ The people paid to train AI are outsourcing their work… to AI. (MIT Technology Review)
-
-
-
-10 This app’s AI-generated podcasting dog videos are a big hit But DogPack wants to make sure viewers know it’s not trying to trick them. (Insider $)
-
-
-
-
-
-
-
-Quote of the day
-
-
-
-“Zuck spent five years and $70 billion dollars to build a business that loses $4.4 billion/year to create only $470 million in revenue. So bad you can&#8217;t give it away, I guess.”
-
-
-
-—Greg Linden, a former data scientist at Microsoft, pokes fun at Meta’s beleaguered Reality Labs’ earnings in a post on Bluesky.
-
-
-
-
-
-
-
-One more thing
-
-
-
-
-
-
-
-How scientists want to make you young againA little over 15 years ago, scientists at Kyoto University in Japan made a remarkable discovery. When they added just four proteins to a skin cell and waited about two weeks, some of the cells underwent an unexpected and astounding transformation: they became young again. They turned into stem cells almost identical to the kind found in a days-old embryo, just beginning life’s journey.At least in a petri dish, researchers using the procedure can take withered skin cells from a 101-year-old and rewind them so they act as if they’d never aged at all.Now, after more than a decade of studying and tweaking so-called cellular reprogramming, a number of biotech companies and research labs say they have tantalizing hints that the process could be the gateway to an unprecedented new technology for age reversal. Read the full story. 
-
-
-
-—Antonio Regalado
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+ 2025’s Comedy Wildlife Award winners and finalists are classics of the genre.+ This Instagram account shared the same video of Thomas the Tank Engine’s daring railway stunts every day, and I think that’s just beautiful.+ How to get more of that elusive deep sleep.+ Here’s an interesting take on why we still find dragons so fascinating
-• Leveraging the clinician’s expertise with agentic AI
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🔒 Cybersecurity & Privacy
 • Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody
@@ -583,6 +702,49 @@ Image: https://www.bbc.co.uk/programmes/w3ct89y8
 No updates.
 
 🏢 Corporate AI
+• How Switchboard, MD automates real-time call transcription in clinical contact centers with Amazon Nova Sonic
+  In high-volume healthcare contact centers, every patient conversation carries both clinical and operational significance, making accurate real-time transcription necessary for automated workflows. Accurate, instant transcription enables intelligent automation without sacrificing clarity or care, so that teams can automate electronic medical record (EMR) record matching, streamline workflows, and eliminate manual data entry. By removing routine process steps, staff can stay fully focused on patient conversations, improving both the experience and the outcome. As healthcare systems seek to balance efficiency with empathy, real-time transcription has become a capability for delivering responsive, high-quality care at scale. 
+Switchboard, MD is a physician-led AI and data science company with a mission to prioritize the human connection in medicine. Its service improves patient engagement and outcomes, while reducing inefficiency and burnout. By designing and deploying clinically relevant solutions, Switchboard, MD helps providers and operators collaborate more effectively to deliver great experiences for both patients and staff. One of its key solutions is streamlining the contact center using AI voice automation, real-time medical record matching, and suggested next steps, which has led to significant reductions in queue times and call abandonment rates. 
+With more than 20,000 calls handled each month, Switchboard, MD supports healthcare providers in delivering timely, personalized communication at scale. Its AI platform is already helping reduce call queue times, improve patient engagement, and streamline contact center operations for clinics and health systems. Customers using Switchboard have seen outcomes such as: 
+ 
+ 75% reduction in queue times 
+ 59% reduction in call abandonment rate 
+ 
+Despite these early successes, Switchboard faced a critical challenge: their existing transcription approach couldn’t scale economically while maintaining the accuracy required for clinical workflows. Cost and word error rate (WER) weren’t just operational metrics—they were critical enablers for scaling automation and expanding Switchboard’s impact across more patient interactions. 
+In this post, we examine the specific challenges Switchboard, MD faced with scaling transcription accuracy and cost-effectiveness in clinical environments, their evaluation process for selecting the right transcription solution, and the technical architecture they implemented using Amazon Connect and Amazon Kinesis Video Streams. This post details the impressive results achieved and demonstrates how they were able to use this foundation to automate EMR matching and give healthcare staff more time to focus on patient care. Finally, we’ll look at the broader implications for healthcare AI automation and how other organizations can implement similar solutions using Amazon Bedrock. 
+Choosing an accurate, scalable, and cost-effective transcription model for contact center automation 
+Switchboard, MD needed a transcription solution that delivered high accuracy at a sustainable cost. In clinical settings, transcription accuracy is critical because errors can compromise EMR record matching, affect recommended treatment plans, and disrupt automated workflows. At the same time, scaling support for thousands of calls each week meant that inference costs couldn’t be ignored. 
+Switchboard initially explored multiple paths, including evaluating open source models such as Open AI’s Whisper model hosted locally. But these options presented tradeoffs—either in performance, cost, or integration complexity. 
+After testing, the team determined that Amazon Nova Sonic provided the right combination of transcription quality and efficiency needed to support their healthcare use case. The model performed reliably across live caller audio, even in noisy or variable conditions.&nbsp;It delivered: 
+ 
+ 80–90% lower transcription costs 
+ A word error rate of 4% on Switchboard’s proprietary evaluation dataset 
+ Low-latency output that aligned with their need for real-time processing 
+ 
+ 
+Equally important, Nova Sonic integrated smoothly into Switchboard’s existing architecture, minimizing engineering lift and accelerating deployment. With this foundation, the team reduced manual transcription steps and scaled accurate, real-time automation across thousands of patient interactions. 
+
+ “Our vision is to restore the human connection in medicine by removing administrative barriers that get in the way of meaningful interaction. Nova Sonic gave us the speed and accuracy we needed to transcribe calls in real time—so our customers can focus on what truly matters: the patient conversation.&nbsp;By reducing our transcription costs by 80–90%, it’s also made real-time automation sustainable at scale.” – Dr. Blake Anderson, Founder, CEO, and CTO, Switchboard, MD
+ 
+Architecture and implementation 
+Switchboard’s architecture uses Amazon Connect to capture live audio from both patients and representatives. Switchboard processes audio streams through Amazon Kinesis Video Streams , which handles the real-time media conversion before routing the data to containerized&nbsp;AWS Lambda&nbsp;functions. Switchboard’s Lambda functions establish bidirectional streaming connections with Amazon Nova Sonic using BedrockRuntimeClient’s InvokeModelWithBidirectionalStream&nbsp;API.&nbsp; This novel architecture creates separate transcription streams for each conversation participant, which Switchboard recombines to create the complete transcription record. The entire processing pipeline runs in a serverless environment, providing scalable operation designed to handle thousands of concurrent calls while using Nova Sonic’s real-time speech-to-text capabilities for immediate transcription processing. 
+Nova Sonic integration: Real-time speech processing 
+Harnessing Amazon Nova Sonic’s advanced audio streaming and processing, Switchboard developed and built the capability of separating and recombining speakers’ streams and transcripts. This makes Amazon Nova Sonic particularly effective for Switchboard’s healthcare applications, where accurate transcription and speaker identification are crucial. 
+Amazon Nova Sonic offers configurable settings that can be optimized for different healthcare use cases, with the flexibility to prioritize either transcription or speech generation based on specific needs. A key cost-optimization feature is the ability to adjust speech output tokens – organizations can set lower token values when primarily focused on transcription, resulting in significant cost savings while maintaining high accuracy. This versatility and cost flexibility makes Amazon Nova Sonic a valuable tool for healthcare organizations like Switchboard looking to implement voice-enabled solutions. 
+Why serverless: Strategic advantages for healthcare innovation 
+Switchboard’s choice of a serverless architecture using Amazon Connect, Amazon Kinesis Video Streams, and containerized Lambda functions represents a strategic decision that maximizes operational efficiency while minimizing infrastructure overhead. The serverless approach eliminates the need to provision, manage, and monitor underlying infrastructure, so that Switchboard’s engineering team can focus on developing clinical automation features rather than server management. This architecture provides built-in fault tolerance and high availability for critical healthcare communications without requiring extensive configuration from Switchboard’s team. 
+Switchboard’s event-driven architecture, shown in the following figure, enables the system to scale from handling dozens to thousands of concurrent calls, with AWS automatically managing capacity provisioning behind the scenes. The pay-as-you-go billing model helps Switchboard pay only for compute resources used during call processing, optimizing costs while eliminating the risk of over-provisioning servers that would sit idle during low-volume periods. 
+ 
+Conclusion 
+Switchboard, MD’s implementation of Amazon Nova Sonic demonstrates how the right transcription technology can transform healthcare operations. By achieving 80–90% cost reductions while maintaining clinical-grade accuracy, they’ve created a sustainable foundation for scaling AI-powered patient interactions across the healthcare industry. 
+By building on Amazon Bedrock, Switchboard now has the flexibility to expand automation across more use cases and provider networks. Their success exemplifies how healthcare innovators can combine accuracy, speed, and efficiency to transform how care teams connect with patients—one conversation at a time. 
+Get started with Amazon Nova on the Amazon Bedrock console. Learn more about Amazon Nova models at the Amazon Nova product page. 
+ 
+About the authors 
+ Tanner Jones is a Technical Account Manager in AWS Enterprise Support, where he helps customers navigate and optimize their production applications on AWS. He specializes in helping customers develop applications that incorporate AI agents, with a particular focus on building safe multi-agent systems. 
+Anuj Jauhari&nbsp;is a Sr. Product Marketing Manager at AWS, where he helps customers innovate and drive business impact with generative AI solutions built on Amazon Nova models. 
+Jonathan Woods is a Solutions Architect at AWS based in Nashville currently working with SMB customers. He has a passion for communicating AWS technology to businesses in a relevant way making it easy for customers to innovate. Outside of work, he tries keeping up with his three kids.   
+Nauman Zulfiqar&nbsp;is a senior account manager based in New York working with SMB clients. He loves building and maintaining strong customer relationships, understanding their business challenges and serving as the customer’s primary business advocate within AWS.
 • Build reliable AI systems with Automated Reasoning on Amazon Bedrock – Part 1
   Enterprises in regulated industries often need mathematical certainty that every AI response complies with established policies and domain knowledge. Regulated industries can’t use traditional quality assurance methods that test only a statistical sample of AI outputs and make probabilistic assertions about compliance. When we launched Automated Reasoning checks in Amazon Bedrock Guardrails in preview at AWS re:Invent 2024, it offered a novel solution by applying formal verification techniques to systematically validate AI outputs against encoded business rules and domain knowledge. These techniques make the validation output transparent and explainable. 
 Automated Reasoning checks are being used in workflows across industries. Financial institutions verify AI-generated investment advice meets regulatory requirements with mathematical certainty. Healthcare organizations make sure patient guidance aligns with clinical protocols. Pharmaceutical companies confirm marketing claims are supported by FDA-approved evidence. Utility companies validate emergency response protocols during disasters, while legal departments verify AI tools capture mandatory contract clauses. 
@@ -1363,70 +1525,7 @@ Derrick Choo&nbsp;is a Senior Solutions Architect at AWS who accelerates enterpr
 Melanie Li, PhD, is a Senior Generative AI Specialist Solutions Architect at AWS based in Sydney, Australia, where her focus is on working with customers to build solutions using state-of-the-art AI/ML tools. She has been actively involved in multiple generative AI initiatives across APJ, harnessing the power of LLMs. Prior to joining AWS, Dr. Li held data science roles in the financial and retail industries. 
 Saurabh Trikande&nbsp;is a Senior Product Manager for Amazon Bedrock and Amazon SageMaker Inference. He is passionate about working with customers and partners, motivated by the goal of democratizing AI. He focuses on core challenges related to deploying complex AI applications, inference with multi-tenant models, cost optimizations, and making the deployment of generative AI models more accessible. In his spare time, Saurabh enjoys hiking, learning about innovative technologies, following TechCrunch, and spending time with his family. 
 Jared Dean is a Principal AI/ML Solutions Architect at AWS. Jared works with customers across industries to develop machine learning applications that improve efficiency. He is interested in all things AI, technology, and BBQ. 
-Stephanie Zhao is a Generative AI GTM &amp; Capacity Lead for AWS in Asia Pacific and Japan. She champions the voice of the customer to drive the roadmap for AWS Generative AI services including Amazon Bedrock and Amazon EC2 GPUs across AWS Regions in APJ. Outside of work, she enjoys using Generative AI creative models to make portraits of her shiba inu and cat. 
+Stephanie Chiao is a Generative AI GTM &amp; Capacity Lead for AWS in Asia Pacific and Japan. She champions the voice of the customer to drive the roadmap for AWS Generative AI services including Amazon Bedrock and Amazon EC2 GPUs across AWS Regions in APJ. Outside of work, she enjoys using Generative AI creative models to make portraits of her shiba inu and cat. 
 Kazuki Motohashi, Ph.D. is an AI/ML GTM Specialist Solutions Architect at AWS Japan. He has been working in the AI/ML field for more than 8 years and currently supports Japanese enterprise customers and partners who utilize AWS generative AI/ML services in their businesses. He’s seeking time to play Final Fantasy Tactics, but hasn’t even started it yet.
-• Reduce CAPTCHAs for AI agents browsing the web with Web Bot Auth (Preview) in Amazon Bedrock AgentCore Browser
-  AI agents need to browse the web on your behalf. When your agent visits a website to gather information, complete a form, or verify data, it encounters the same defenses designed to stop unwanted bots: CAPTCHAs, rate limits, and outright blocks. 
-Today, we are excited to share that AWS has a solution. Amazon Bedrock AgentCore Browser, our secure, cloud-based browser for AI agents to interact with websites, now supports Web Bot Auth (in preview), a draft IETF protocol that gives agents verifiable cryptographic identities. 
-CAPTCHA friction 
-Customers tell us that CAPTCHA friction is one of the biggest obstacles to reliable browser-based agentic workflows. Your agent halts mid-task, waiting for human intervention to solve a puzzle that proves you’re not a bot – except your agent is a bot, and that’s the point. CAPTCHAs exist for good reason. Websites face constant challenges protecting their content, inventory and reviews. Web Application Firewalls (WAFs) and bot detection services protect these sites, but they treat nearly all automated traffic as suspicious because they have no reliable way to distinguish legitimate agents from malicious ones. 
-Some automation providers try to solve CAPTCHAs programmatically – using computer vision models to read distorted text or clicking through image grids until the puzzle clears. This approach is brittle, expensive, and is bypassing controls that domain owners intended for their content. Other approaches rely on IP allowlists or User-Agent strings. IP allowlists break when you run agents in cloud environments where addresses change frequently. User-Agent strings can be spoofed by anyone, so they provide no verification, and pose a risk of people emulating well trusted strings. Both methods require manual coordination with every website you want to access, which does not scale. 
-Web Bot Auth: Cryptographic identity for agents browsing the web 
-Web Bot Auth is a draft IETF protocol that gives agents verifiable cryptographic identities. When you enable Web Bot Auth in AgentCore Browser, we issue cryptographic credentials that websites can verify. The agent presents these credentials with every request. The WAF may now additionally check the signature, confirm it matches a trusted directory, and allow the request through if verified bots are allowed by the domain owner and other WAF checks are clear. 
-AgentCore is working with Cloudflare, HUMAN Security, and Akamai Technologies to support this verification flow. These providers protect millions of websites. When you create an AgentCore Browser with signing enabled in the configuration, we automatically register your agent’s signature directory with these providers. Many domains already configure their WAFs to allow verified bots by default, which means you can see immediate CAPTCHA reduction without additional setup in the cases that this happens. 
-How domain owners control access 
-WAF providers give website owners three levels of control using Web Bot Auth: 
- 
- Block all bots – Some sites choose to block automated traffic entirely. Web Bot Auth does not bypass this – if a domain wants no automation, that choice is respected. 
- Allow verified bots – Many domains configure their WAF to allow any bot that presents a valid cryptographic signature. This is the default policy for a growing number of sites protected by Cloudflare, HUMAN Security, and Akamai Technologies. When you enable signing, as a parameter in the AgentCore Browser configuration, this policy will apply to your agents. 
- Allow specific verified bots to conduct only specific actions – For example, a financial services company automating vendor portal access can share its unique directory with those vendors. The vendor can create rules like “allow FinCo agents at 100 requests per minute, don’t allow them to create new accounts, and block all other signed agents.” This gives websites granular control while preserving the benefits of cryptographic verification. 
- 
-Today’s preview release of Web Both Auth support in AgentCore Browser helps reduce friction with CAPTCHAs on domains that allow verified bots, by making your agent appear as a verified bot. Once the Web Bot Auth protocol is finalized, AgentCore intends to transition to customer-specific keys, so AgentCore users can use the tier of control that allows only specified verified bots. 
-Using the Web Bot Auth protocol 
-To enable the browser to sign requests using the Web Bot Auth protocol, create a browser tool with the browserSigning configuration: 
- 
- import boto3
-cp_client = boto3.client('bedrock-agentcore-control')
-response = cp_client.create_browser(
-    name="signed_browser",
-    description="Browser tool with Web Bot Auth enabled",
-    networkConfiguration={
-        "networkMode": "PUBLIC"
-    },
-    executionRoleArn="arn:aws:iam::123456789012:role/AgentCoreExecutionRole",
-    browserSigning={
-        "enabled": True
-    }
-)
-browserId = response['browserId']
- 
- 
-Pass the browser identifier to your agent framework. Here is an example using Strands Agents: 
- 
- from strands import Agent
-from strands_tools.browser import AgentCoreBrowser
-agent_core_browser = AgentCoreBrowser(
-    region="us-west-2",
-    identifier=browserId
-)
-strands_agent = Agent(
-    tools=[agent_core_browser.browser],
-    model="anthropic.claude-4-5-haiku-20251001-v1:0",
-    system_prompt="You are a website analyst. Use the browser tool efficiently."
-)
-result = strands_agent("Analyze the website at &lt;https://example.com/&gt;")
- 
- 
-The agent is now configured to use the new browser tool that signs every HTTP request. Websites protected by Cloudflare, HUMAN Security, or Akamai Technologies can verify the signature and allow the request through without presenting a CAPTCHA, if the domain owner allows verified bots. 
-Protocol development 
-The Web Bot Auth protocol is gaining industry momentum because it solves a real problem: legitimate automation is indistinguishable from abuse without verifiable identity. You can read the draft protocol specification, HTTP Message Signatures for automated traffic Architecture. The architecture defines how agents generate signatures, how WAFs verify them, and how key directories enable discovery. Amazon is working with Cloudflare and many popular WAF providers to help finalize the customer-specific key directory format and work towards finalizing the draft. 
-Conclusion 
-Amazon Bedrock AgentCore Browser is generally available, with the Web Bot Auth feature available in preview. AgentCore Browser signing requests using the Web Bot Auth protocol help reduce friction with CAPTCHA across domains that allow verified bots. As the protocol finalizes, AgentCore Browser intends to issue customer-specific keys and directories, so you can prove your agent’s identity to specific websites and establish trust relationships directly with the domains you need to access. 
-Web Bot Auth enables agents to prove their identity when challenged, reduces operational friction in automated workflows, and gives website owners control over which agents access their resources. Amazon Bedrock AgentCore Browser support for Web Bot Auth (Preview) provides the infrastructure layer that makes this possible. Try out AgentCore Browser in your account, with our&nbsp;samples on Github. 
- 
-About the authors 
-Veda Raman is a Senior Specialist Solutions Architect for generative AI and machine learning at AWS. Veda works with customers to help them architect efficient, secure, and scalable machine learning applications. Veda specializes in generative AI services like Amazon Bedrock and Amazon SageMaker. 
-Kosti Vasilakakis is a Principal PM at AWS on the Agentic AI team, where he has led the design and development of several Bedrock AgentCore services from the ground up, including Runtime, Browser, Code Interpreter, and Identity. He previously worked on Amazon SageMaker since its early days, launching AI/ML capabilities now used by thousands of companies worldwide. Earlier in his career, Kosti was a data scientist. Outside of work, he builds personal productivity automations, plays tennis, and enjoys life with his wife and kids. 
-Joshua Samuel is a Senior AI/ML Specialist Solutions Architect at AWS who accelerates enterprise transformation through AI/ML, and generative AI solutions, based in Melbourne, Australia. A passionate disrupter, he specializes in agentic AI and coding techniques – Anything that makes builders faster and happier.
 
 ⸻
