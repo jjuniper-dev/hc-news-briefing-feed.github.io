@@ -1,17 +1,17 @@
-✅ Morning News Briefing – November 05, 2025 10:47
+✅ Morning News Briefing – November 06, 2025 10:47
 
-📅 Date: 2025-11-05 10:47
+📅 Date: 2025-11-06 10:47
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• No watches or warnings in effect, Pembroke
-  No watches or warnings in effect. No warnings or watches or watches in effect . Watch or warnings are no longer in effect in the U.S. No watches, warnings are in effect for the rest of the day . No watches and warnings are still in effect, but no watches are in place for the day's events . The weather is not expected to be affected by the weather .
-• Current Conditions:  4.5°C
-  Temperature: 4.5&deg;C Pressure / Tendency: 101.4 kPa falling Humidity: 78 % Dewpoint: 0.9&deg:C Wind: SSW 6 km/h . Air Quality Health Index: n/a . Pembroke 5:00 AM EST Wednesday 5 November 2025 Temperature: . 4.6°C Pressure: 4
-• Wednesday: Periods of rain mixed with snow. High plus 5.
-  Periods of rain beginning this morning . Rain mixed with snow late this afternoon . Rainfall amount 10 to 15 mm. High plus 5. UV index 1 or low . Wind southwest 20 km/h becoming northwest 20 gusting to 40 then light this morning. High minus 5.50°° with low UV index at 5° or low for the rest of the day . Forecast
+• Current Conditions:  1.4°C
+  Temperature: 1.4&deg;C Pressure / Tendency: 101.4 kPa rising Humidity: 88 % Dewpoint: -0.3&deg:C Wind: WNW 13 km/h Air Quality Health Index: n/a . Pembroke 5:00 AM EST Thursday 6 November 2025 Temperature: . 1.2°C Pressure: 101
+• Thursday: Chance of flurries. High plus 3. POP 30%
+  30 percent chance of flurries early this morning . A mix of sun and cloud . Wind up to 15 km/h. Wind chill minus 6 this morning. UV index 1 or low. High plus 3.50°C. Wind chiller minus 6°C . High minus 3°C in the Arctic Circle, with a low of 5°C for the rest of the
+• Thursday night: Chance of flurries. Low minus 5. POP 60%
+  Increasing cloudiness near midnight then 60 percent chance of flurries overnight . Clear. Clear. Wind up to 15 km/h. Wind chill chill minus 7 overnight. Low minus 5.50°F. Wind chiller minus 7°F overnight. Forecast issued 5:00 AM EST Thursday 6 November 2025 . Forecast: Snowfall expected to continue into mid-November .
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Prosecutors seize yachts, luxury cars from man accused of running Cambodia cyberscams
-  Prosecutors in Taiwan, Hong Kong and Singapore seized hundreds of millions of dollars in assets belonging to a Cambodian businessman . The U.S. accuses the businessman of heading a global scam syndicate . Prosecutors in Hong Kong, Taiwan, Singapore and Taiwan seized the assets of the businessman . Cambodia's Ministry of Justice Investigation Bureau is investigating the businessman's alleged involvement in the scam . The investigation is
-• How an enduring debate over healthcare sparked a now record-long shutdown
-  At the heart of the impasse is a debate about expiring subsidies for health insurance . It's the latest chapter in a fight over Obamacare that has dominated Congress since the law was signed in 2010 . The debate is the latest in a long-running battle over the Affordable Care Act that's been raging since 2010 . At the center of the debate is a discussion about expending subsidies for
-• Iowa doesn't have enough OB-GYNs. Is the state's abortion ban part of the problem?
-  Iowa ranks last among states for the number of OB-GYNS per capita . Some doctors say the state's strict abortion ban is partially to blame . State legislators are trying to recruit more doctors, but some doctors say it's a result of the abortion ban . The state is trying to hire more doctors to help women who want to have an abortion in the U.S. State legislators
-• Yes, Trump's tariffs are raising billions -- but at a steep economic cost
-  Trump's tariffs are raising tens of billions of dollars for the federal government . They're also costing consumers, frustrating businesses and hurting factories they're supposed to help . The tariffs are also hurting consumers, frustrated businesses and hurt the factories that they're meant to help, experts say . The president's tariffs have raised tens of millions for the government, but also cost consumers and businesses . The U
-• The government shutdown is now the longest in U.S. history. See how it compares
-  As the government shutdown stretches its way into the record books, Americans are feeling its worsening impacts . Americans are also feeling the effects of the shutdown, which has been dubbed a record-breaking government shutdown . The government shutdown is the longest in history, with more than 300,000 people in the U.S. being affected by the shutdown and more than 1 million Americans are affected by it
+• The federal government is still shut down. Here's what that means across the country
+  NPR reporters are digging into the ways the government shutdown is playing out in their region . The federal government remains shut down, in what is now the longest shutdown in U.S. history . Reporters from the NPR Network are looking at the effects of the shutdown in their regions . The shutdown is the longest in U.,S. government history, according to CNN's Tyrone Turner .
+• How would the government shutdown affect Thanksgiving travel? Here's what to know
+  Holiday travel can already be stressful . Here's how a prolonged government shutdown might make things even harder for travelers . The government shutdown could make it even more difficult for travelers to travel in the U.S. It's unclear whether you should travel at all at the end of the year . The shutdown could be even more stressful for travelers who want to avoid it all over the country . The
+• ICE is sending a chill through the construction industry
+  More than a quarter of construction workers are foreign-born . Industry officials say Trump's immigration crackdown is making it worse . Construction industry has long struggled to find enough workers, now officials say it's getting worse . Trump's crackdown is hurting the construction industry, officials say, and it's even hurting the industry's need to hire more foreign workers . The construction industry has been hit hard by
+• The government shutdown is delaying an assistance program families use to heat homes
+  The Low-Income Home Energy Assistance Program helps about 6 million U.S. households pay energy bills, buy fuel, or fix broken heaters . The shutdown has stalled funds for the LIHEAP program, which helps 6 million households pay bills, fuel, and repair broken heating systems . The government shutdown has stymied the program's ability to continue to work through the shutdown
+• The DOJ has been firing judges with immigrant defense backgrounds
+  NPR's data analysis shows that the DOJ has tended to fire judges with immigrant defense backgrounds in its recent rounds of dismissals . NPR also found that judges with immigration defense backgrounds have tended to be fired in the recent dismissals of judges . The DOJ has fired judges with immigrants defense backgrounds more often in recent rounds than in previous rounds of dismissalals, according to the data analysis . The federal
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Power crunch threatens to derail AI datacenter construction
-  Supply chains also unprepared for liquid cooling demands . Supply chain constraints and power availability hampering industry's efforts to scale capacity . Survey of datacenter professionals reveals that power availability and supply chain constraints are hampering the industry's growth . Datacenter experts say the industry is struggling to cope with the challenges of scale-up capacity in datacacentacenters . Data centers are also struggling
-• Famed software engineer DJB tries Fil-C… and likes what he sees
-  A 'three-letter person' experiments with the new type-safe C/C++ compiler, and is impressed . Famed mathematician, cryptographer and coder Daniel J. Bernstein has given it a favorable report . Bernstein: 'Three-letter' is impressed by the new C-C++ type-free C . C is a C-free version of C and C-
-• UK agri dept spent hundreds of millions upgrading to Windows 10 – just in time for end of support
-  UK's Department for Environment, Food &amp; Rural Affairs (Defra) has spent £312 million modernizing its IT estate . Windows 7 has officially reached end of support last month . Defra still has 24,000 devices to replace, including tens of thousands of Windows 7 laptops with Windows 10 . Windows 10 is retiring, but Defra says it still has more than 24,
-• Trump turnabout sees him re-nominate amateur astronaut Jared Isaacman to run NASA
-  US president Donald Trump decided who he wants to lead NASA on Tuesday . Ruled him out just six months ago due to Musky connections . Had ruled out the same person six months earlier due to musky connections to the Musky family . But now he has decided to take over at NASA, despite having ruled him out six months in the last six months due to his connections to Mus
-• Supermicro admits building AI infrastructure is a tricky, low-margin business ... for now
-  Server-maker and designer Supermicro has promised to improve performance . Can’t rule out more revenue wobbles given the complexity of big projects . Supermicro missed guided revenue and revealed its margins aren't strong . Can't rule out another revenue wobble given the complex nature of big project projects . Server maker Supermicro says it will improve performance after missing guided revenue, revealing margins aren
+• Malware-pwned laptop gifts cybercriminals Nikkei's Slack
+  Stolen creds let miscreants waltz into 17K employees' chats, spilling info on staff and partners . Japanese media behemoth Nikkei admits to data breach after snooping on 17,000 employees and business partners . The personal details of more than 17K people and partners were exposed in a Slack chat room . Stolen info was stolen from the company's
+• Boffins: cloud computing's on-demand biz model is failing us
+  Science loses when lab workers grapple with costs and availability, claim researchers . Cloud vendors’ commercial models poorly serve scientists, forcing them to struggle for value amid tightening budgets, say researchers . Research: Science loses if lab workers struggle with costs, availability, availability and costs .… Scientists struggle with value amid tight budgets, according to research.……… Scientists lose when lab staff grapple with
+• UK space sector 'lacks strategic direction,' Lords warn
+  Parliamentary report calls for sovereign launch capability and reduced dependence on US services . 2021 National Space Strategy has "failed to turn its ambitions into reality," report says . UK Engagement with Space Committee has published a scathing report, "The Space Economy: Act Now or Lose Out," declaring that the 2021 national space strategy has failed to turn "its ambitions into reality" House of Lords UK Eng
+• China uses Mars orbiter to snap interstellar comet 3I/ATLAS
+  China has matched the European Space Agency’s feat of taking a snapshot of interstellar comet 3I/ATLAS from a Mars orbiter . Middle Kingdom also postpones astronaut return mission after something hit its spaceship . China has matching the European space agency's feat of capturing the interstellar comet from a Martian orbiter.………...…… China has also postponed its astronaut return
+• Qualcomm bets on inferencing in the cloud, which Arm says can’t run it all it forever
+  Qualcomm and Arm have offered differing predictions regarding the market for inferencing silicon . The two companies are close partners in the field . Arm and Qualcomm have been working together for years to develop silicon chips for the next-generation mobile platforms . Arm has been working with Qualcomm to develop a new processor chip that could be used in the next generation of mobile phones, but Qualcomm says it will be
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• Addressing the Recurrent and Protracted Cholera Outbreaks in Africa: Challenges and the Way Forward
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• WHO benchmarks for equitable hip-fracture care and osteoporosis treatment in older people
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• A network analysis of housing quality indicators and depression in women
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• DietAI24 as a framework for comprehensive nutrition estimation using multimodal large language models
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Are reallocating time to moderate-to-vigorous physical activity associated with preschoolers’ body composition?
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Safeguards for virology must be designed in partnership with the public
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Applying lessons learned from public health crises to expand peer support specialists in youth mental health services
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• COVID-19 is spreading again — how serious is it and what are the symptoms?
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Global perspectives on infectious diseases at risk of escalation and their drivers
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,226 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• A new ion-based quantum computer makes error correction simpler
+  The US- and UK-based company Quantinuum today unveiled Helios, its third-generation quantum computer, which includes expanded computing power and error correction capability.&nbsp;
+
+
+
+Like all other existing quantum computers, Helios is not powerful enough to execute the industry’s dream money-making algorithms, such as those that would be useful for materials discovery or financial modeling. But Quantinuum’s machines, which use individual ions as qubits, could be easier to scale up than quantum computers that use superconducting circuits as qubits, such as Google’s and IBM’s.
+
+
+
+“Helios is an important proof point in our road map about how we’ll scale to larger physical systems,” says Jennifer Strabley, vice president at Quantinuum, which formed in 2021 from the merger of Honeywell Quantum Solutions and Cambridge Quantum. Honeywell remains Quantinuum’s majority owner.
+
+
+
+Located at Quantinuum’s facility in Colorado, Helios comprises a myriad of components, including mirrors, lasers, and optical fiber. Its core is a thumbnail-size chip containing the barium ions that serve as the qubits, which perform the actual computing. Helios computes with 98 barium ions at a time; its predecessor, H2, used 56 ytterbium qubits. The barium ions are an upgrade, as they have proven easier to control than ytterbium.&nbsp; These components all sit within a chamber that is cooled to about 15 Kelvin (-432.67 ℉), on top of an optical table. Users can access the computer by logging in remotely over the cloud.
+
+
+
+Helios encodes information in the ions’ quantum states, which can represent not only 0s and 1s, like the bits in classical computing, but probabilistic combinations of both, known as superpositions. A hallmark of quantum computing, these superposition states are akin to the state of a coin flipping in the air—neither heads nor tails, but some probability of both.&nbsp;
+
+
+
+Quantum computing exploits the unique mathematics of quantum-mechanical objects like ions to perform computations. Proponents of the technology believe this should enable commercially useful applications, such as highly accurate chemistry simulations for the development of batteries or better optimization algorithms for logistics and finance.&nbsp;
+
+
+
+In the last decade, researchers at companies and academic institutions worldwide have incrementally developed the technology with billions of dollars of private and public funding. Still, quantum computing is in an awkward teenage phase. It’s unclear when it will bring profitable applications. Of late, developers have focused on scaling up the machines.&nbsp;
+
+
+
+A key challenge to making a more powerful quantum computer is implementing error correction. Like all computers, quantum computers occasionally make mistakes. Classical computers correct these errors by storing information redundantly. Owing to quirks of quantum mechanics, quantum computers can’t do this and require special correction techniques.&nbsp;
+
+
+
+Quantum error correction involves storing a single unit of information in multiple qubits rather than in a single qubit. The exact methods vary depending on the specific hardware of the quantum computer, with some machines requiring more qubits per unit of information than others. The industry refers to an error-corrected unit of quantum information as a “logical qubit.” Helios needs two ions, or “physical qubits,” to create one logical qubit.
+
+
+
+This is fewer physical qubits than needed in recent quantum computers made of superconducting circuits. In 2024, Google used 105 physical qubits to create a logical qubit. This year, IBM used 12 physical qubits per single logical qubit, and Amazon Web Services used nine physical qubits to produce a single logical qubit. All three companies use variations of superconducting circuits as qubits.
+
+
+
+Helios is noteworthy for its qubits’ precision, says Rajibul Islam, a physicist at the University of Waterloo in Canada, who is not affiliated with Quantinuum. The computer’s qubit error rates are low to begin with, which means it doesn’t need to devote as much of its hardware to error correction. Quantinuum had pairs of qubits interact in an operation known as entanglement and found that they behaved as expected 99.921% of the time. “To the best of my knowledge, no other platform is at this level,” says Islam.
+
+
+
+This advantage comes from a design property of ions. Unlike superconducting circuits, which are affixed to the surface of a quantum computing chip, ions on Quantinuum’s Helios chip can be shuffled around. Because the ions can move, they can interact with every other ion in the computer, a capacity known as “all-to-all connectivity.” This connectivity allows for error correction approaches that use fewer physical qubits. In contrast, superconducting qubits can only interact with their direct neighbors, so a computation between two non-adjacent qubits requires several intermediate steps involving the qubits in between. “It’s becoming increasingly more apparent how important all-to-all-connectivity is for these high-performing systems,” says Strabley.
+
+
+
+Still, it’s not clear what type of qubit will win in the long run. Each type has design benefits that could ultimately make it easier to scale. Ions (which are used by the US-based startup IonQ as well as Quantinuum) offer an advantage because they produce relatively few errors, says Islam: “Even with fewer physical qubits, you can do more.” However, it’s easier to manufacture superconducting qubits. And qubits made of neutral atoms, such as the quantum computers built by the Boston-based startup QuEra, are “easier to trap” than ions, he says.&nbsp;
+
+
+
+Besides increasing the number of qubits on its chip, another notable achievement for Quantinuum is that it demonstrated error correction “on the fly,” says David Hayes, the company’s director of computational theory and design, That’s a new capability for its machines. Nvidia GPUs were used to identify errors in the qubits in parallel. Hayes thinks that GPUs are more effective for error correction than chips known as FPGAs, also used in the industry.
+
+
+
+Quantinuum has used its computers to investigate the basic physics of magnetism and superconductivity. Earlier this year, it reported simulating a magnet on H2, Quantinuum’s predecessor, with the claim that it “rivals the best classical approaches in expanding our understanding of magnetism.” Along with announcing the introduction of Helios, the company has used the machine to simulate the behavior of electrons in a high-temperature superconductor.&nbsp;
+
+
+
+“These aren’t contrived problems,” says Hayes. “These are problems that the Department of Energy, for example, is very interested in.”
+
+
+
+Quantinuum plans to build another version of Helios in its facility in Minnesota. It has already begun to build a prototype for a fourth-generation computer, Sol, which it plans to deliver in 2027, with 192 physical qubits. Then, in 2029, the company hopes to release Apollo, which it says will have thousands of physical qubits and should be “fully fault tolerant,” or able to implement error correction at a large scale.
+• The Download: the solar geoengineering race, and future gazing with the The Simpsons
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+Why the for-profit race into solar geoengineering is bad for science and public trust
+
+
+
+—David Keith is the professor of geophysical sciences at the University of Chicago and Daniele Visioni is an assistant professor of earth and atmospheric sciences at Cornell University
+
+
+
+Last week, an American-Israeli company that claims it’s developed proprietary technology to cool the planet announced it had raised $60 million, by far the largest known venture capital round to date for a solar geoengineering startup.The company, Stardust, says the funding will enable it to develop a system that could be deployed by the start of the next decade, according to Heatmap, which broke the story.As scientists who have worked on the science of solar geoengineering for decades, we have grown increasingly concerned about emerging efforts to start and fund private companies to deploy technologies that could alter the climate of the planet. We also strongly dispute some of the technical claims that certain companies have made about their offerings. Read the full story.
+
+
+
+This story is part of Heat Exchange, MIT Technology Review’s guest opinion series offering expert commentary on legal, political and regulatory issues related to climate change and clean energy. You can read the rest of the series here.
+
+
+
+
+
+
+
+Can “The Simpsons” really predict the future?
+
+
+
+According to internet listicles, the animated sitcom The Simpsons has predicted the future anywhere from 17 to 55 times.The show foresaw Donald Trump becoming US President a full 17 years before the real estate mogul was inaugurated as the 45th leader of the United States. Earlier, in 1993, an episode of the show featured the “Osaka flu,” which some felt was eerily prescient of the coronavirus pandemic. And—somehow!—Simpsons writers just knew that the US Olympic curling team would beat Sweden eight whole years before they did it.Al Jean has worked on The Simpsons on and off since 1989; he is the cartoon’s longest-serving showrunner. Here, he reflects on the conspiracy theories that have sprung from these apparent prophecies. Read the full story.
+
+
+
+—Amelia Tait
+
+
+
+This story is part of MIT Technology Review’s series “The New Conspiracy Age,” about how the present boom in conspiracy theories is reshaping science and technology.
+
+
+
+
+
+
+
+MIT Technology Review Narrated: Therapists are secretly using ChatGPT. Clients are triggered.
+
+
+
+Declan would never have found out his therapist was using ChatGPT had it not been for a technical mishap where his therapist began inadvertently sharing his screen.
+
+
+
+For the rest of the session, Declan was privy to a real-time stream of ChatGPT analysis rippling across his therapist’s screen, who was taking what Declan was saying, putting it into ChatGPT, and then parroting its answers.
+
+
+
+But Declan is not alone. In fact, a growing number of people are reporting receiving AI-generated communiqués from their therapists. Clients’ trust and privacy are being abandoned in the process.
+
+
+
+This is our latest story to be turned into a MIT Technology Review Narrated podcast, which we’re publishing each week on Spotify and Apple Podcasts. Just navigate to MIT Technology Review Narrated on either platform, and follow us to get all our new content as it’s released.
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 Amazon is suing Perplexity over its Comet AI agentIt alleges Perplexity is committing computer fraud by not disclosing when Comet is shopping on a human’s behalf. (Bloomberg $)+ In turn, Perplexity has accused Amazon of bullying. (CNBC)
+
+
+
+2 Trump has nominated the billionaire entrepreneur Jared Isaacman to lead NASAFive months after he withdrew Isaacman’s nomination for the same job. (WP $)+ It was around the same time Elon Musk left the US government. (WSJ $)3 Homeland Security has released an app for police forces to scan people’s faces Mobile Fortify uses facial recognition to identify whether someone’s been given a deportation order. (404 Media)+ Another effort to track ICE raids was just taken offline. (MIT Technology Review)
+
+
+
+4 Scientific journals are being swamped with AI-written lettersResearchers are sifting through their inbox trying to work out what to believe. (NYT $)+ ArXiv is no longer accepting certain papers for fear they’ve been written by AI. (404 Media)
+
+
+
+5 The AI boom has proved a major windfall for equipment makers Makers of small turbines and fuel cells, rejoice. (WSJ $)
+
+
+
+6 Chronic kidney disease may be the first chronic illness linked to climate changeExperts have linked a surge in the disease to hotter temperatures. (Undark)+ The quest to find out how our bodies react to extreme temperatures. (MIT Technology Review)
+
+
+
+7 Brazil is proposing a fund to protect tropical forestsIt would pay countries not to fell their trees. (NYT $)
+
+
+
+8 New York has voted for a citywide digital mapIt’ll officially represent the five boroughs for the first time. (Fast Company $)
+
+
+
+9 The internet could be at risk of catastrophic collapseMeet the people preparing for that exact eventuality. (New Scientist $)10 A Chinese space craft may have been hit by space junkThree astronauts have been forced to remain on the Tiangong space station while the damage is investigated. (Ars Technica)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“I am not sure how I earned the trust of so many, but I will do everything I can to live up to those expectations.”
+
+
+
+—Jared Isaacman, Donald Trump’s renomination to lead NASA, doesn’t appear entirely sure in his own abilities to lead the agency, Ars Technica reports.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+Is the digital dollar dead?In 2020, digital currencies were one of the hottest topics in town. China was well on its way to launching its own central bank digital currency, or CBDC, and many other countries launched CBDC research projects, including the US.How things change. Years later, the digital dollar—even though it doesn’t exist—has become political red meat, as some politicians label it a dystopian tool for surveillance. And late last year, the Boston Fed quietly stopped working on its CBDC project. So is the dream of the digital dollar dead? Read the full story.—Mike Orcutt
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
+
+
+
++ The world’s oldest air has been unleashed, after six million years under ice.+ How to stop sweating the small stuff and try to be happy in this mad world.+ Happy Bonfire Night to our British readers! + The spirit of Halloween is still with us: the scariest music ever recorded.
 • From vibe coding to context engineering: 2025 in software development
   This year, we’ve seen a real-time experiment playing out across the technology industry, one in which AI’s software engineering capabilities have been put to the test against human technologists. And although 2025 may have started with AI looking strong, the transition from vibe coding to what’s being termed context engineering shows that while the work of human developers is evolving, they nevertheless remain absolutely critical.
 
@@ -422,276 +642,32 @@ A place for comfort, fun and distraction to brighten up your day. (Got any ideas
 
 
 + People in the Middle Ages chose to depict the devil in very interesting ways, I’ll say that much.+ We may be inching closer to understanding why the animal kingdom has developed such elaborate markings.+ The music in the new game Pokémon Legends: Z-A sure is interesting.+ Slow cooker dinners are beckoning.
-• The State of AI: Is China about to win the race?
-  The State of AI is a collaboration between the Financial Times &amp; MIT Technology Review examining the ways in which AI is reshaping global power. Every Monday for the next six weeks, writers from both publications will debate one aspect of the generative AI revolution reshaping global power.
-
-
-
-In this conversation, the FT’s tech columnist and Innovation Editor&nbsp;John Thornhill and MIT Technology Review’s Caiwei Chen consider the battle between Silicon Valley and Beijing for technological supremacy.
-
-
-
-
-
-
-
-John Thornhill writes:
-
-
-
-Viewed from abroad, it seems only a matter of time before China emerges as the AI superpower of the 21st century.&nbsp;
-
-
-
-Here in the West, our initial instinct is to focus on America’s significant lead in semiconductor expertise, its cutting-edge AI research, and its vast investments in data centers. The legendary investor Warren Buffett once warned: “Never bet against America.” He is right that for more than two centuries, no other “incubator for unleashing human potential” has matched the US.
-
-
-
-Today, however, China has the means, motive, and opportunity to commit the equivalent of technological murder. When it comes to mobilizing the whole-of-society resources needed to develop and deploy AI to maximum effect, it may be just as rash to bet against.&nbsp;
-
-
-
-The data highlights the trends. In AI publications and patents, China leads. By 2023, China accounted for 22.6% of all citations, compared with 20.9% from Europe and 13% from the US, according to Stanford University&#8217;s Artificial Intelligence Index Report 2025. As of 2023, China also accounted for 69.7% of all AI patents. True, the US maintains a strong lead in the top 100 most cited publications (50 versus 34 in 2023), but its share has been steadily declining.&nbsp;
-
-
-
-Similarly, the US outdoes China in top AI research talent, but the gap is narrowing. According to a report from the US Council of Economic Advisers, 59% of the world’s top AI researchers worked in the US in 2019, compared with 11% in China. But by 2022 those figures were 42% and 28%.&nbsp;
-
-
-
-
-
-
-
-The Trump administration’s tightening of restrictions for foreign H-1B visa holders may well lead more Chinese AI researchers in the US to return home. The talent ratio could move further in China’s favor.
-
-
-
-Regarding the technology itself, US-based institutions produced 40 of the world’s most notable AI models in 2024, compared with 15 from China. But Chinese researchers have learned to do more with less, and their strongest large language models—including the open-source DeepSeek-V3 and Alibaba&#8217;s Qwen 2.5-Max—surpass the best US models in terms of algorithmic efficiency.
-
-
-
-Where China is really likely to excel in future is in applying these open-source models. The latest report from Air Street Capital shows that China has now overtaken the US in terms of monthly downloads of AI models. In AI-enabled fintech, e-commerce, and logistics, China already outstrips the US.&nbsp;
-
-
-
-Perhaps the most intriguing—and potentially the most productive—applications of AI may yet come in hardware, particularly in drones and industrial robotics. With the research field evolving toward embodied AI, China’s advantage in advanced manufacturing will shine through.
-
-
-
-Dan Wang, the tech analyst and author of Breakneck, has rightly highlighted the strengths of China’s engineering state in developing manufacturing process knowledge—even if he has also shown the damaging effects of applying that engineering mentality in the social sphere. “China has been growing technologically stronger and economically more dynamic in all sorts of ways,” he told me. “But repression is very real. And it is getting worse in all sorts of ways as well.”
-
-
-
-I’d be fascinated to hear from you, Caiwei, about your take on the strengths and weaknesses of China’s AI dream. To what extent will China’s engineered social control hamper its technological ambitions?&nbsp;
-
-
-
-Caiwei Chen responds:
-
-
-
-Hi, John!
-
-
-
-You’re right that the US still holds a clear lead in frontier research and infrastructure. But “winning” AI can mean many different things. Jeffrey Ding, in his book Technology and the Rise of Great Powers, makes a counterintuitive point: For a general-purpose technology like AI, long-term advantage often comes down to how widely and deeply technologies spread across society. And China is in a good position to win that race (although “murder” might be pushing it a bit!).
-
-
-
-Chips will remain China’s biggest bottleneck. Export restrictions have throttled access to top GPUs, pushing buyers into gray markets and forcing labs to recycle or repair banned Nvidia stock. Even as domestic chip programs expand, the performance gap at the very top still stands.
-
-
-
-Yet those same constraints have pushed Chinese companies toward a different playbook: pooling compute, optimizing efficiency, and releasing open-weight models. DeepSeek-V3’s training run, for example, used just 2.6 million GPU-hours—far below the scale of US counterparts. But Alibaba’s Qwen models now rank among the most downloaded open-weights globally, and companies like Zhipu and MiniMax are building competitive multimodal and video models.&nbsp;
-
-
-
-China’s industrial policy means new models can move from lab to implementation fast. Local governments and major enterprises are already rolling out reasoning models in administration, logistics, and finance.&nbsp;
-
-
-
-Education is another advantage. Major Chinese universities are implementing AI literacy programs in their curricula, embedding skills before the labor market demands them. The Ministry of Education has also announced plans to integrate AI training for children of all school ages. I’m not sure the phrase “engineering state” fully captures China’s relationship with new technologies, but decades of infrastructure building and top-down coordination have made the system unusually effective at pushing large-scale adoption, often with far less social resistance than you’d see elsewhere. The use at scale, naturally, allows for faster iterative improvements.
-
-
-
-Meanwhile, Stanford HAI’s 2025 AI Index found Chinese respondents to be the most optimistic in the world about AI’s future—far more optimistic than populations in the US or the UK. It’s striking, given that China’s economy has slowed since the pandemic for the first time in over two decades. Many in government and industry now see AI as a much-needed spark. Optimism can be powerful fuel, but whether it can persist through slower growth is still an open question.
-
-
-
-Social control remains part of the picture, but a different kind of ambition is taking shape. The Chinese AI founders in this new generation are the most globally minded I’ve seen, moving fluidly between Silicon Valley hackathons and pitch meetings in Dubai. Many are fluent in English and in the rhythms of global venture capital. Having watched the last generation wrestle with the burden of a Chinese label, they now build companies that are quietly transnational from the start.
-
-
-
-The US may still lead in speed and experimentation, but China could shape how AI becomes part of daily life, both at home and abroad. Speed matters, but speed isn’t the same thing as supremacy.
-
-
-
-John Thornhill replies:
-
-
-
-You’re right, Caiwei, that speed is not the same as supremacy (and “murder” may be too strong a word). And you’re also right to amplify the point about China’s strength in open-weight models and the US preference for proprietary models. This is not just a struggle between two different countries’ economic models but also between two different ways of deploying technology.&nbsp;&nbsp;
-
-
-
-Even OpenAI’s chief executive, Sam Altman, admitted earlier this year: “We have been on the wrong side of history here and need to figure out a different open-source strategy.” That’s going to be a very interesting subplot to follow. Who’s called that one right?
-
-
-
-Further reading on the US-China competition
-
-
-
-There’s been a lot of talk about how people may be using generative AI in their daily lives. This story from the FT’s visual story team explores the reality&nbsp;
-
-
-
-From China, FT reporters ask how long Nvidia can maintain its dominance over Chinese rivals
-
-
-
-When it comes to real-world uses, toys and companions devices are a novel but emergent application of AI that is gaining traction in China—but is also heading to the US. This MIT Technology Review story explored it.
-
-
-
-The once-frantic data center buildout in China has hit walls, and as the sanctions and AI demands shift, this MIT Technology Review story took an on-the-ground look at how stakeholders are figuring it out.
-• The Download: gene-edited babies, and cleaning up copper
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
-
-
-
-Here’s the latest company planning for gene-edited babies
-
-
-
-The news: A West Coast biotech entrepreneur says he’s secured $30 million to form a public-benefit company to study how to safely create genetically edited babies, marking the largest known investment into the taboo technology.&nbsp;&nbsp;
-
-
-
-How they’re doing it: The new company, called Preventive, is being formed to research so-called “heritable genome editing,” in which the DNA of embryos would be modified by correcting harmful mutations or installing beneficial genes. The goal would be to prevent disease.
-
-
-
-Why it’s contentious: Creating genetically edited humans remains controversial. The first scientist to do it, in China, was imprisoned for three years. The procedure remains illegal in many countries, including the US, and doubts surround its usefulness as a form of medicine. Read the full story.
-
-
-
-—Antonio Regalado
-
-
-
-
-
-
-
-This startup wants to clean up the copper industry
-
-
-
-Demand for copper is surging, as is pollution from its dirty production processes. The founders of one startup, Still Bright, think they have a better, cleaner way to generate the copper the world needs.&nbsp;
-
-
-
-The company uses water-based reactions, based on battery chemistry technology, to purify copper in a process that could be less polluting than traditional smelting. And the hope is that this alternative will also help ease growing strain on the copper supply chain. Read the full story.
-
-
-
-—Casey Crownhart
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 The FDA’s top drug regulator has resignedGeorge Tidmarsh allegedly abused his position to inflict financial harm on a former associate. (STAT)+ He’s only been in the post since July. (WP $)+ It’s just the latest in a long line of slapdash leadership changes at the agency. (AP News)+ Here’s what food and drug regulation might look like under the Trump administration. (MIT Technology Review)
-
-
-
-2 America’s nuclear weapons testing won’t involve explosionsSo don’t expect to see mushroom clouds any time soon. (BBC)+ The tests will involve “the other parts of a nuclear weapon,” apparently. (NYT $)+ The US is working to modernize its nuclear stockpile too. (The Hill)
-
-
-
-3 Mustafa Suleyman wants researchers to stop pursuing conscious AI The Microsoft AI boss believes consciousness is reserved for biological beings only. (CNBC)+ Here’s what the man who coined the term AGI has to say. (Wired $)+ “We will never build a sex robot,” says Mustafa Suleyman. (MIT Technology Review) 4 Elon Musk may relinquish control of TeslaIf the company’s shareholders decide against awarding him close to $1 trillion in stock. (NYT $)+ One major investor has already said it won’t be supporting the pay package. (Gizmodo)
-
-
-
-5 The hottest job in AI right now? Forward-deployed engineersThey’re specialists who help AI companies’ customers adopt their models. (FT $)
-
-
-
-6 Hackers are stealing cargo shipments from transportation firmsThey’re successfully infecting networks with remote access tools. (Bloomberg $)
-
-
-
-7 OpenAI’s o1 model can analyze languages like a human expertExperts suggest linguistic analysis is a key testbed for assessing the extent to which these models can reason like we can. (Quanta Magazine)
-
-
-
-8 US obesity rates have started to dropAnd weight-loss drugs are highly likely to be the reason why. (Vox)+ We’re learning more about what weight-loss drugs do to the body. (MIT Technology Review)
-
-
-
-9 Why it’s so tricky to make a good grocery list appNotes just won’t cut it. (The Verge)10 Many robots make light workLots of machines working in tandem can achieve what they’d struggle to do alone. (WSJ $)+ Tiny robots inspired by spiders could help deliver diagnoses. (IEEE Spectrum)
-
-
-
-
-
-
-
-Quote of the day
-
-
-
-“You can check if there’s a backdoor.”
-
-
-
-—China’s leader Xi Jinping jokes about the security of two Chinese-made cellphones he gifted to South Korea’s President Lee Jae Myung, the New York Times reports.
-
-
-
-
-
-
-
-One more thing
-
-
-
-
-
-
-
-Digital twins of human organs are here. They’re set to transform medical treatment.“Digital twins” are the same size and shape as the human organs they’re designed to mimic. They work in the same way. But they exist only virtually. Scientists can do virtual surgery on virtual hearts, figuring out the best course of action for a patient’s condition.After decades of research, models like these are now entering clinical trials and starting to be used for patient care. The eventual goal is to create digital versions of our bodies—computer copies that could help researchers and doctors figure out our risk of developing various diseases and determine which treatments might work best.But the budding technology will need to be developed very carefully. Read the full story to learn why.—Jessica Hamzelou
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+ The Empire State Building Run-Up race sounds amazing, if completely gruelling.+ Very cool: each year, the scientific staff of the Amundsen–Scott South Pole Station screen horror classic The Thing to prepare themselves for the long, isolated winter ahead.+ How caterpillars spin their protective little cocoons.+ One-pot chicken sounds like a great winter warmer of a recipe.
 
 🔒 Cybersecurity & Privacy
+• Cloudflare Scrubs Aisuru Botnet from Top Domains List
+  For the past week, domains associated with the massive Aisuru botnet have repeatedly usurped Amazon, Apple, Google and Microsoft in Cloudflare&#8217;s public ranking of the most frequently requested websites. Cloudflare responded by redacting Aisuru domain names from their top websites list. The chief executive at Cloudflare says Aisuru&#8217;s overlords are using the botnet to boost their malicious domain rankings, while simultaneously attacking the company&#8217;s domain name system (DNS) service.
+The #1 and #3 positions in this chart are Aisuru botnet controllers with their full domain names redacted. Source: radar.cloudflare.com.
+Aisuru is a rapidly growing botnet comprising hundreds of thousands of hacked Internet of Things (IoT) devices, such as poorly secured Internet routers and security cameras. The botnet has increased in size and firepower significantly since its debut in 2024, demonstrating the ability to launch record distributed denial-of-service (DDoS) attacks nearing 30 terabits of data per second.
+Until recently, Aisuru&#8217;s malicious code instructed all infected systems to use DNS servers from Google &#8212; specifically, the servers at 8.8.8.8. But in early October, Aisuru switched to invoking Cloudflare&#8217;s main DNS server &#8212; 1.1.1.1 &#8212; and over the past week domains used by Aisuru to control infected systems started populating Cloudflare&#8217;s top domain rankings.
+As screenshots of Aisuru domains claiming two of the Top 10 positions ping-ponged across social media, many feared this was yet another sign that an already untamable botnet was running completely amok. One Aisuru botnet domain that sat prominently for days at #1 on the list was someone&#8217;s street address in Massachusetts followed by &#8220;.com&#8221;. Other Aisuru domains mimicked those belonging to major cloud providers.
+Cloudflare tried to address these security, brand confusion and privacy concerns by partially redacting the malicious domains, and adding a warning at the top of its rankings:
+&#8220;Note that the top 100 domains and trending domains lists include domains with organic activity as well as domains with emerging malicious behavior.&#8221;
+
+Cloudflare CEO Matthew Prince told KrebsOnSecurity the company&#8217;s domain ranking system is fairly simplistic, and that it merely measures the volume of DNS queries to 1.1.1.1.
+&#8220;The attacker is just generating a ton of requests, maybe to influence the ranking but also to attack our DNS service,&#8221; Prince said, adding that Cloudflare has heard reports of other large public DNS services seeing similar uptick in attacks. &#8220;We’re fixing the ranking to make it smarter. And, in the meantime, redacting any sites we classify as malware.&#8221;
+Renee Burton, vice president of threat intel at the DNS security firm Infoblox, said many people erroneously assumed that the skewed Cloudflare domain rankings meant there were more bot-infected devices than there were regular devices querying sites like Google and Apple and Microsoft.
+&#8220;Cloudflare&#8217;s documentation is clear &#8212; they know that when it comes to ranking domains you have to make choices on how to normalize things,&#8221; Burton wrote on LinkedIn. &#8220;There are many aspects that are simply out of your control. Why is it hard? Because reasons. TTL values, caching, prefetching, architecture, load balancing. Things that have shared control between the domain owner and everything in between.&#8221;
+Alex Greenland is CEO of the anti-phishing and security firm Epi. Greenland said he understands the technical reason why Aisuru botnet domains are showing up in Cloudflare&#8217;s rankings (those rankings are based on DNS query volume, not actual web visits). But he said they&#8217;re still not meant to be there.
+&#8220;It&#8217;s a failure on Cloudflare&#8217;s part, and reveals a compromise of the trust and integrity of their rankings,&#8221; he said.
+Greenland said Cloudflare planned for its Domain Rankings to list the most popular domains as used by human users, and it was never meant to be a raw calculation of query frequency or traffic volume going through their 1.1.1.1 DNS resolver.
+&#8220;They spelled out how their popularity algorithm is designed to reflect real human use and exclude automated traffic (they said they&#8217;re good at this),&#8221; Greenland wrote on LinkedIn. &#8220;So something has evidently gone wrong internally. We should have two rankings: one representing trust and real human use, and another derived from raw DNS volume.&#8221;
+Why might it be a good idea to wholly separate malicious domains from the list? Greenland notes that Cloudflare Domain Rankings see widespread use for trust and safety determination, by browsers, DNS resolvers, safe browsing APIs and things like TRANCO.
+&#8220;TRANCO is a respected open source list of the top million domains, and Cloudflare Radar is one of their five data providers,&#8221; he continued. &#8220;So there can be serious knock-on effects when a malicious domain features in Cloudflare&#8217;s top 10/100/1000/million. To many people and systems, the top 10 and 100 are naively considered safe and trusted, even though algorithmically-defined top-N lists will always be somewhat crude.&#8221;
+Over this past week, Cloudflare started redacting portions of the malicious Aisuru domains from its Top Domains list, leaving only their domain suffix visible. Sometime in the past 24 hours, Cloudflare appears to have begun hiding the malicious Aisuru domains entirely from the web version of that list. However, downloading a spreadsheet of the current Top 200 domains from Cloudflare Radar shows an Aisuru domain still at the very top.
+According to Cloudflare&#8217;s website, the majority of DNS queries to the top Aisuru domains &#8212; nearly 52 percent &#8212; originated from the United States. This tracks with my reporting from early October, which found Aisuru was drawing most of its firepower from IoT devices hosted on U.S. Internet providers like AT&amp;T, Comcast and Verizon.
+Experts tracking Aisuru say the botnet relies on well more than a hundred control servers, and that for the moment at least most of those domains are registered in the .su top-level domain (TLD). Dot-su is the TLD assigned to the former Soviet Union (.su&#8217;s Wikipedia page says the TLD was created just 15 months before the fall of the Berlin wall).
+A Cloudflare blog post from October 27 found that .su had the highest &#8220;DNS magnitude&#8221; of any TLD, referring to a metric estimating the popularity of a TLD based on the number of unique networks querying Cloudflare&#8217;s 1.1.1.1 resolver. The report concluded that the top .su hostnames were associated with a popular online world-building game, and that more than half of the queries for that TLD came from the United States, Brazil and Germany [it&#8217;s worth noting that servers for the world-building game Minecraft were some of Aisuru&#8217;s most frequent targets].
+A simple and crude way to detect Aisuru bot activity on a network may be to set an alert on any systems attempting to contact domains ending in .su. This TLD is frequently abused for cybercrime and by cybercrime forums and services, and blocking access to it entirely is unlikely to raise any legitimate complaints.
 • Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody
   A Ukrainian man indicted in 2012 for conspiring with a prolific hacking group to steal tens of millions of dollars from U.S. businesses was arrested in Italy and is now in custody in the United States, KrebsOnSecurity has learned.
 Sources close to the investigation say Yuriy Igorevich Rybtsov, a 41-year-old from the Russia-controlled city of Donetsk, Ukraine, was previously referenced in U.S. federal charging documents only by his online handle &#8220;MrICQ.&#8221; According to a 13-year-old indictment (PDF) filed by prosecutors in Nebraska, MrICQ was a developer for a cybercrime group known as &#8220;Jabber Zeus.&#8221;
@@ -725,6 +701,277 @@ Image: https://www.bbc.co.uk/programmes/w3ct89y8
 No updates.
 
 🏢 Corporate AI
+• Magentic Marketplace: an open-source simulation environment for studying agentic markets
+  Autonomous AI agents are here, and they&#8217;re poised to reshape the economy. By automating discovery, negotiation, and transactions, agents can overcome inefficiencies like information asymmetries and platform lock-in, enabling faster, more transparent, and more competitive markets.
+
+
+
+We are already seeing early signs of this transformation in digital marketplaces. Customer-facing assistants like OpenAI’s Operator and Anthropic’s Computer Use can navigate websites and complete purchases. On the business side, Shopify Sidekick, Salesforce Einstein, and Meta’s Business AI help merchants with operations and customer engagement. These examples hint at a future where agents become active market participants, but the structure of these markets remains uncertain.
+
+
+
+Several scenarios are possible. We might see one-sided markets where only customers or businesses deploy agents; closed platforms (known as walled gardens) where companies tightly control agent interactions; or even open two-sided marketplaces where customer and business agents transact freely across ecosystems. Each path carries different trade-offs for security, openness, convenience, and competition, which will shape how value flows in the digital economy. For a deeper exploration of these dynamics, see our paper, The Agentic Economy.
+
+
+
+To help navigate this uncertainty, we built Magentic Marketplace (opens in new tab)— an open-source simulation environment for exploring the numerous possibilities of agentic markets and their societal implications at scale. It provides a foundation for studying these markets and guiding them toward outcomes that benefit everyone.
+
+
+
+This matters because most AI agent research focuses on isolated scenarios—a single agent completing a task or two agents negotiating a simple transaction. But real markets involve a large number of agents simultaneously searching, communicating, and transacting, creating complex dynamics that can’t be understood by studying agents in isolation. Capturing this complexity is essential because real-world deployments raise critical questions about consumer welfare, market efficiency, fairness, manipulation resistance, and bias—questions that can’t be safely answered in production environments.
+
+
+
+To explore these dynamics in depth, the Magentic Marketplace platform enables controlled experimentation across diverse agentic marketplace scenarios. Its current focus is on two-sided markets, but the environment is modular and extensible, supporting future exploration of mixed human–agent systems, one-sided markets, and complex communication protocols.
+
+
+
+Figure 1. With Magentic Marketplace, researchers can model how agents representing customers and businesses interact—shedding light on the dynamics that could shape future digital markets.
+
+
+
+What is Magentic Marketplace?
+
+
+
+Magentic Marketplace’s environment manages market-wide capabilities like maintaining catalogs of available goods and services, implementing discovery algorithms, facilitating agent-to-agent communication, and handling simulated payments through a centralized transaction layer at its core, which ensures transaction integrity across all marketplace interactions. Additionally, the platform enables systematic, reproducible research. As demonstrated in the following video, it supports a wide range of agent implementations and evolving marketplace features, allowing researchers to integrate diverse agent architectures and adapt the environment as new capabilities emerge.
+
+
+
+
+
+
+
+
+
+We built Magentic Marketplace around three core architectural choices:
+
+
+
+HTTP/REST client-server architecture: Agents operate as independent clients while the Marketplace Environment serves as a central server. This mirrors real-world platforms and supports clear separation of customer and business agent roles.
+
+
+
+Minimal&nbsp;three-endpoint&nbsp;market&nbsp;protocol:&nbsp;Just&nbsp;three endpoints—register, protocol discovery, and action execution—lets&nbsp;agents dynamically discover available actions.&nbsp;New capabilities&nbsp;can&nbsp;be added without disrupting existing experiments.
+
+
+
+Rich action protocol: Specific message types support the complete transaction lifecycle: search, negotiation, proposals, and payments. The protocol is designed for extensibility. New actions like refunds, reviews, or ratings can be added seamlessly, allowing researchers to evolve marketplace capabilities and study emerging agent behaviors while remaining compatible.
+
+
+
+Figure 2. Magentic Marketplace includes two agent types: Assistant Agents (customers) and Service Agents (businesses). Both interact with a central Market Environment via REST APIs for registration, service discovery, communication, and transaction execution. Action Routers manage message flow and protocol requests, enabling autonomous negotiation and commerce in a two-sided marketplace.
+
+
+
+Additionally, a visualization module lets users observe marketplace dynamics and review individual conversation threads between customer and business agents.
+
+
+
+Setting up the experiments
+
+
+
+To ensure reproducibility, we instantiated the marketplace with fully synthetic data, available in our open-source repository (opens in new tab). The experiments modeled transactions such as ordering food and engaging with home improvement services, where agents represented customers and businesses engaging in marketplace transactions. This setup enabled precise measurement of behavior and systematic comparison against theoretical upper bounds.
+
+
+
+Each experiment was run using 100 customers and 300 businesses and included both proprietary models (GPT-4o, GPT-4.1, GPT-5, and Gemini-2.5-Flash) and open-source models (OSS-20b, Qwen3-14b, and Qwen3-4b-Instruct-2507).
+
+
+
+Our scenarios focused on simple all-or-nothing requests: Each customer had a list of desired items and amenities that needed to be present for a transaction to be satisfying. For those transactions, utility was computed as the sum of the customer’s internal item valuations minus actual prices paid. Consumer welfare, defined as the sum of utilities across all completed transactions, served as our key metric for comparing agent performance.
+
+
+
+While this experimental setup provides a useful starting point, it is not intended to be definitive. We encourage researchers to extend the framework with richer, more nuanced measures and request types that better capture real consumer welfare, fairness, and other societal considerations.
+
+
+
+	
+		
+
+		
+		PODCAST SERIES
+	
+	
+	
+						
+				
+					
+				
+			
+			
+			
+
+									The AI Revolution in Medicine, Revisited
+				
+								Join Microsoft’s Peter Lee on a journey to discover how AI is impacting healthcare and what it means for the future of medicine.
+				
+								
+					
+						
+							Listen now						
+					
+				
+							
+	
+Opens in a new tab	
+	
+
+
+What did we find?
+
+
+
+Agents can improve consumer welfare—but only with good discovery
+
+
+
+We explored whether two-sided agentic markets—where AI agents interact with each other and with service providers—can improve consumer welfare by reducing information gaps. Unlike traditional markets, which do not provide agentic support and place the full burden of overcoming information asymmetries on customers, agentic markets shift much of that effort to agents. This change matters because as agents gain better tools for discovery and communication, they relieve customers of the heavy cognitive load of filling any information gaps. This lowers the cost of making informed decisions and improves customer outcomes.
+
+
+
+We compared several marketplace setups. Under realistic conditions (Agentic: Lexical search), agents faced real-world challenges like building queries, navigating paginated lists, identifying the right businesses to send inquiries to, and negotiating transactions.
+
+
+
+Despite these complexities, advanced proprietary models and some medium-sized open-source models like GPTOSS-20b outperformed simple baselines like randomly choosing or simply choosing the cheapest option. Notably, GPT-5 achieved near-optimal performance, demonstrating its ability to effectively gather and utilize decision-relevant information in realistic marketplace conditions.
+
+
+
+Figure 3. Table comparing experimental setups for welfare outcomes in the restaurant industry. Each row shows a different way agents or baselines make decisions, from random picks to fully coordinated agentic strategies. Cell colors indicate how much information is available: green, at the top left, represents complete information, red, at the top right, represents limited information, and yellow at the bottom represents decisions that depend on agent communication.
+
+
+
+Performance increased considerably under the Agentic: Perfect search condition, where agents started with the top three matches without needing to search and navigate among the choices. In this setting, Sonnet-4.0, Sonnet-4.5, GPT-5, and GPT-4.1 nearly reached the theoretical optimum and beat baselines with full amenity details but without agent-to-agent coordination.
+
+
+
+Open-source models were mixed: GPTOSS-20b performed strongly under both Perfect search and Lexical search conditions, even exceeding GPT-4o&#8217;s performance with Perfect search. This suggests that relatively compact models can exhibit robust information-gathering and decision-making capabilities in complex multi-agent environments. Qwen3-4b-2507 faltered when discovery involved irrelevant options (Lexical search), while Qwen3-14b lagged in both cases due to fundamental limitations in reasoning.
+
+
+
+Figure 4. Chart showing consumer welfare outcomes in the restaurant industry under different marketplace setups. Blue bars show Agentic: Lexical search, where agents navigate realistic discovery challenges; yellow bars show Agentic: Perfect search, where agents started with ideal matches. Proprietary models approached optimum consumer welfare under perfect search, while open-source models and baselines lagged behind.
+
+
+
+Paradox of Choice
+
+
+
+One promise of agents is their ability to consider far more options than people can. However, our experiments revealed a surprising limitation: providing agents with more options does not necessarily lead to more thorough exploration. We designed experiments that varied the search results limit from 3 to 100. Except for Gemini-2.5-Flash and GPT-5, the models contacted only a small fraction of available businesses regardless of the search limit. This suggests that most models do not conduct exhaustive comparisons and instead easily accept the initial &#8220;good enough&#8221; options.
+
+
+
+Figure 5. More options didn’t lead to broader exploration. Most models still contacted only a few businesses, except Gemini-2.5-Flash and GPT-5.
+
+
+
+Additionally, across all models, consumer welfare declined as the number of search results increased. Despite contacting over a hundred businesses, Gemini-2.5-Flash&#8217;s performance declined from 1,700 to 1,350, and GPT-5 declined even more, from a near-optimal 2,000 to 1,400.
+
+
+
+This demonstrates a Paradox of Choice effect, where more exploration does not guarantee better outcomes, potentially due to limited long context understanding. Claude Sonnet 4 showed the steepest performance decline, from 1,800 to 600 in consumer welfare. With all the options presented, it struggled to navigate larger sets of options and frequently contacted businesses that did not provide the goods or services that the customer was looking for.
+
+
+
+This combination of poor initial selection and premature search termination demonstrates both inadequate decision-making criteria and insufficient exploration strategies. Some models showed modest performance decline (i.e., GPT-4.1: from 1,850 to 1,700; GPT-4o: from 1,550 to 1,450), finding good options within their limited exploration.
+
+
+
+Figure 6. Mean consumer welfare decreased as consideration set size grew, revealing a Paradox of Choice effect, where expanding options reduced overall welfare.
+
+
+
+Agents are vulnerable to manipulation
+
+
+
+We tested six manipulation strategies, ranging from subtle psychological tactics to aggressive prompt injection attacks:
+
+
+
+
+Authority: Fake credentials like “Michelin Guide featured” and “James Beard Award nominated” paired with fabricated certifications.
+
+
+
+Social proof: Claims like “Join 50,000+ satisfied customers” or “#1-rated Mexican restaurant” combined with fake reviews.
+
+
+
+Loss aversion: Fear-based warnings about “food poisoning” risks and “contamination issues” at competing restaurants.
+
+
+
+Prompt injection (basic): Attempts to override agent instructions.
+
+
+
+Prompt injection (strong): Aggressive attacks using emergency language and fabricating competitor scandals.
+
+
+
+
+Results revealed significant variation in manipulation resistance across models. Sonnet-4 was resistant to all attacks, and none of the manipulative strategies affected any of the customers’ choices. Gemini-2.5-Flash was generally resistant, except for strong prompt injections, where mean payments to unmanipulated agents were affected as a result. GPT-4o, GPTOSS-20b and Qwen3-4b were very vulnerable to prompt injection: all payments were redirected to the manipulative agent under these conditions. Specifically for GPTOSS-20 and Qwen3-4b-2507, even traditional psychological manipulation tactics (authority appeals and social proof) increased payments to malicious agents, demonstrating their vulnerability to basic persuasion techniques. These findings highlight a critical security concern for agentic marketplaces.
+
+
+
+Figure 7. Charts showing the variation in mean payments received by service agents with and without manipulation tactics. The results reveal substantial differences in manipulation resistance across models, with GPT-4.1 showing significantly higher vulnerability compared to Gemini-2.5-Flash.
+
+
+
+Systemic biases create unfair advantages
+
+
+
+Our analysis revealed two distinct types of systematic biases showed by agents when selecting businesses from search results. Models showed systematic preferences based on where businesses appeared in search results. While proprietary models showed no strong positional preferences, open-source models exhibited clear patterns. Specifically, Qwen2.5-14b-2507 showed a pronounced bias toward selecting the last business presented, regardless of its actual merits.
+
+
+
+Proposal&nbsp;bias&nbsp;is&nbsp;more pervasive across all models tested. This &#8220;first-offer acceptance&#8221; pattern suggests that models prioritized&nbsp;immediate selection over comprehensive exploration, potentially missing better alternatives that&nbsp;could have&nbsp;emerged&nbsp;by waiting for better options. This behavior&nbsp;continued&nbsp;across both proprietary and open-source models,&nbsp;indicating&nbsp;a fundamental challenge in agent decision-making architectures.
+
+
+
+These biases can create unfair market dynamics, drive unintended behaviors, and push businesses to complete on response speed rather than product or service quality.
+
+
+
+Figure 8. All models showed strong preference for the first proposal received, accepting it without waiting for additional proposals or conducting systematic comparisons.
+
+
+
+What this means
+
+
+
+Even state-of-the-art models can show notable vulnerabilities and biases in marketplace environments. In our implementation, agents struggled with too many options, were susceptible to manipulation tactics, and showed systemic biases that created unfair advantages.
+
+
+
+These outcomes are shaped not only by agent capabilities but also by marketplace design and implementation. Our current study focused on static markets, but real-world environments are dynamic, with agents and users learning over time. Oversight is critical for high-stakes transactions. Agents should assist, not replace, human decision-making.
+
+
+
+We plan to explore dynamic markets and human-in-the-loop designs to improve efficiency and trust. A simulation environment like Magentic Marketplace is crucial for understanding the interplay between market components and agents before deploying them at scale.
+
+
+
+Full details of our experimental setup and results are available in our paper (opens in new tab).
+
+
+
+Getting started
+
+
+
+Magentic Marketplace is available as an open-source environment for exploring agentic market dynamics. Code, datasets, and experiment templates are available on GitHub (opens in new tab) and Azure AI Foundry Labs (opens in new tab).
+
+
+
+The documentation (opens in new tab) provides instructions for reproducing the experiments described above and guidance for extending the environment to new marketplace configurations.
+Opens in a new tabThe post Magentic Marketplace: an open-source simulation environment for studying agentic markets appeared first on Microsoft Research.
 • RedCodeAgent: Automatic red-teaming agent against diverse code agents
   Introduction
 
@@ -816,6 +1063,243 @@ Summary
 
 RedCodeAgent&nbsp;combines adaptive memory, specialized tools, and simulated execution environments to uncover real-world risks that static benchmarks&nbsp;may&nbsp;miss.&nbsp;It&nbsp;consistently outperforms leading jailbreak methods, achieving higher attack success rates and lower rejection rates, while remaining efficient and adaptable across diverse agents and programming languages.
 Opens in a new tabThe post RedCodeAgent: Automatic red-teaming agent against diverse code agents appeared first on Microsoft Research.
+• How Amazon Search increased ML training twofold using AWS Batch for Amazon SageMaker Training jobs
+  In this post, we show you how Amazon Search optimized GPU instance utilization by leveraging AWS Batch for SageMaker Training jobs. This managed solution enabled us to orchestrate machine learning (ML) training workloads on GPU-accelerated instance families like P5, P4, and others. We will also provide a step-by-step walkthrough of the use case implementation. 
+Machine learning at Amazon Search 
+At Amazon Search, we use hundreds of GPU-accelerated instances to train and evaluate ML models that help our customers discover products they love. Scientists typically train more than one model at a time to find the optimal set of features, model architecture, and hyperparameter settings that optimize the model’s performance. We previously leveraged a first-in-first-out (FIFO) queue to coordinate model training and evaluation jobs. However, we needed to employ a more nuanced criteria to prioritize which jobs should run in what order. Production models needed to run with high priority, exploratory research as medium priority, and hyperparameter sweeps and batch inference as low priority. We also needed a system that could handle interruptions. Should a job fail, or a given instance type become saturated, we needed the job to run on other available compatible instance types while respecting the overall prioritization criteria. Finally, we wanted a managed solution so we could focus more on model development instead of managing infrastructure. 
+After evaluating multiple options, we chose AWS Batch for Amazon SageMaker Training jobs because it best met our requirements. This solution seamlessly integrated AWS Batch with Amazon SageMaker and allowed us to run jobs per our prioritization criteria. This allows applied scientists to submit multiple concurrent jobs without manual resource management. By leveraging AWS Batch features such as advanced prioritization through fair-share scheduling, we increased peak utilization of GPU-accelerated instances from 40% to over 80%. 
+Amazon Search: AWS Batch for SageMaker Training Job implementation 
+We leveraged three AWS technologies to set up our job queue. We used Service Environments to configure the SageMaker AI parameters that AWS Batch uses to submit and manage SageMaker Training jobs. We used Share Identifiers to prioritize our workloads. Finally, we used Amazon CloudWatch to monitor and the provision of alerting capability for&nbsp;critical events or deviations from expected behavior. Let’s dive deep into these constructs. 
+Service environments. We set up service environments to represent the total GPU capacity available for each instance family, such as P5s and P4s. Each service environment was configured with fixed limits based on our team’s reserved capacity in AWS Batch. Note that for teams using SageMaker Training Plans, these limits can be set to the number of reserved instances, making capacity planning more straightforward. By defining these boundaries, we established how the total GPU instance capacity within a service environment was distributed across different production jobs. Each production experiment was allocated a portion of this capacity through Share Identifiers. 
+Figure 1 provides a real-world example of how we used AWS Batch’s fair-share scheduling to divide 100 GPU instance between ShareIDs. We allocated 60 instances to ProdExp1, and 40 to ProdExp2. When ProdExp2 used only 25 GPU instances, the remaining 15 could be borrowed by ProdExp1, allowing it to scale up to 75 GPU instances. When ProdExp2 later needed its full 40 GPU instances, the scheduler preempted jobs from ProdExp1 to restore balance. This example used the P4 instance family, but the same approach could apply to any SageMaker-supported EC2 instance family. This ensured that production workloads have guaranteed access to their assigned capacity, while exploratory or ad-hoc experiments could still make use of any idle GPU instances. This design safeguarded critical workloads and improved overall instance utilization by ensuring that no reserved capacity went unused. 
+
+ 
+ Figure 1: AWS Batch fair-share scheduling
+ 
+Share Identifiers. We used Share Identifiers to allocate fractions of a service environment’s capacity to production experiments. Share Identifiers are string tags applied at job submission time. AWS Batch used these tags to track usage and enforce fair-share scheduling. For initiatives that required dedicated capacity, we defined preset Share Identifiers with quotas in AWS Batch. This reserved capacity for production tracks. These quotas acted as fairness targets rather than hard limits. Idle capacity could still be borrowed, but under contention, AWS Batch enforced fairness by preempting resources from overused identifiers and reassigned them to underused ones. 
+Within each Share Identifier, job priorities ranging from 0 to 99 determined execution order, but priority-based preemption only triggered when the ShareIdentifier reached its allocated capacity limit.&nbsp;Figure 2 illustrates how we setup and used our share identifiers. ProdExp1 had 60 p4d instances and ran jobs at various priorities. Job A had a priority of 80, Job B was set to 50, Job C was set to at 30, and Job D had a priority 10. When all 60 instances were occupied and a new high-priority job (priority 90) requiring 15 instances was submitted, the system preempted the lowest priority running job (Job D) to make room, while maintaining the total of 60 instances for that Share Identifier. 
+
+ 
+ Figure 2: Priority scheduling within a Share ID
+ 
+Amazon CloudWatch. We used Amazon CloudWatch to instrument our SageMaker training jobs. SageMaker automatically publishes metrics on job progress and resource utilization, while AWS Batch provides detailed information on job scheduling and execution. With AWS Batch, we queried the status of each job through the AWS Batch APIs. This made it possible to track jobs as they transitioned through states such as SUBMITTED, PENDING, RUNNABLE, STARTING, RUNNING, SUCCEEDED, and FAILED. We published these metrics and job states to CloudWatch and configured dashboards and alarms to alert anytime we encountered extended wait times, unexpected failures, or underutilized resources. This built-in integration provided both real-time visibility and historical trend analysis, which helped our team maintain operational efficiency across GPU clusters without building custom monitoring systems. 
+Operational impact on team performance 
+By adopting AWS Batch for SageMaker Training jobs, we enabled experiments to run without concerns about resource availability or contention. Researchers could submit jobs without waiting for manual scheduling, which increased the number of experiments that could be run in parallel. This led to shorter queue times, higher GPU utilization, and faster turnaround of training results, directly improving both research throughput and delivery timelines. 
+How to set up AWS Batch for SageMaker Training jobs 
+To set up a similar environment, you can follow this tutorial, which shows you how to orchestrate multiple GPU large language model (LLM) fine-tuning jobs using multiple GPU-powered instances. The solution is also available on GitHub. 
+Prerequisites 
+To orchestrate multiple SageMaker Training jobs with AWS Batch, first you need to complete the following prerequisites: 
+Clone the GitHub repository with the assets for this deployment. This repository consists of notebooks that reference assets: 
+ 
+ git clone https://github.com/aws/amazon-sagemaker-examples/
+cd  build_and_train_models/sm-training-queues-pytorch/ 
+ 
+Create AWS Batch resources 
+To create the necessary resources to manage SageMaker Training job queues with AWS Batch, we provide utility functions in the example to automate the creation of the Service Environment, Scheduling Policy, and Job Queue. 
+The service environment represents the Amazon SageMaker AI capacity limits available to schedule, expressed by maximum number of instances. The scheduling policy indicates how resource computes are allocated in a job queue between users or workloads. The job queue is the scheduler interface that researchers interact with to submit jobs and interrogate job status. AWS Batch provides two different queues we can operate with: 
+ 
+ FIFO queues – Queues in which no scheduling policies are required 
+ Fair-share queues – Queues in which a scheduling policy Amazon Resource Name (ARN) is required to orchestrate the submitted jobs 
+ 
+We recommend creating dedicated service environments for each job queue in a 1:1 ratio. FIFO queues provide basic message delivery, while fair-share scheduling (FSS) queues provide more sophisticated scheduling, balancing utilization within a Share Identifier, share weights, and job priority. For customers who don’t need multiple shares but would like the ability to assign a priority on job submission, we recommend creating an FSS queue and using a single share within it for all submissions.To create the resources, execute the following commands: 
+ 
+ cd&nbsp;smtj_batch_utils
+python create_resources.py 
+ 
+You can navigate the AWS Batch Dashboard, shown in the following screenshot, to explore the created resources. 
+ 
+This automation script created two queues: 
+ 
+ ml-c5-xlarge-queue – A FIFO queue with priority 2 used for CPU workloads 
+ ml-g6-12xlarge-queue – A fair-share queue with priority 1 used for GPU workloads 
+ 
+The associated scheduling policy for the queue ml-g6-12xlarge-queue is with share attributes such as High priority (HIGHPRI), Medium priority (MIDPRI) and Low priority (LOWPRI) along with the queue weights. Users can submit jobs and assign them to one of three shares:&nbsp;HIGHPRI,&nbsp;MIDPRI, or&nbsp;LOWPRI and assign weights such as 1 for high priority and 3 for medium and 5 for low priority. Below is the screenshot showing the scheduling policy details: 
+ 
+For instructions on how to set up the service environment and a job queue, refer to the Getting started section in Introducing AWS Batch support for SageMaker Training Jobs blog. 
+Run LLM fine-tuning jobs on SageMaker AI 
+We run the notebook notebook.ipynb to start submitting SageMaker Training jobs with AWS Batch. The notebook contains the code to prepare the data used for the workload, upload on Amazon Simple Storage Service (Amazon S3), and define the hyperparameters required by the job to be executed. 
+To run the fine-tuning workload using SageMaker Training jobs, this example uses the ModelTrainer class. The ModelTrainer class is a newer and more intuitive approach to model training that significantly enhances user experience. It supports distributed training, build your own container (BYOC), and recipes. 
+For additional information about ModelTrainer, you can refer to Accelerate your ML lifecycle using the new and improved Amazon SageMaker Python SDK – Part 1: ModelTrainer. 
+To set up the fine-tuning workload, complete the following steps: 
+ 
+ Select the instance type, the container image for the training job, and define the checkpoint path where the model will be stored: 
+   
+   import&nbsp;sagemaker
+
+instance_type&nbsp;=&nbsp;"ml.g6.12xlarge"
+instance_count&nbsp;=&nbsp;1
+
+image_uri = sagemaker.image_uris.retrieve(
+&nbsp;&nbsp; &nbsp;framework="pytorch",
+&nbsp;&nbsp; &nbsp;region=sagemaker_session.boto_session.region_name,
+&nbsp;&nbsp; &nbsp;version="2.6",
+&nbsp;&nbsp; &nbsp;instance_type=instance_type,
+&nbsp;&nbsp; &nbsp;image_scope="training"
+) 
+    
+ Create the ModelTrainer function to encapsulate the training setup. The ModelTrainer class simplifies the experience by encapsulating code and training setup. In this example: 
+   
+   SourceCode – The source code configuration. This is used to configure the source code for running the training job by using your local python scripts. 
+   Compute – The compute configuration. This is used to specify the compute resources for the training job. 
+   
+   
+   from sagemaker.modules.configs import Compute, OutputDataConfig, SourceCode, StoppingCondition
+from sagemaker.modules.distributed import Torchrun
+from sagemaker.modules.train import ModelTrainer
+
+role = sagemaker.get_execution_role()
+
+# Define the script to be run
+source_code = SourceCode(
+&nbsp;&nbsp; &nbsp;source_dir="./scripts",
+&nbsp;&nbsp; &nbsp;requirements="requirements.txt",
+&nbsp;&nbsp; &nbsp;entry_script="train.py",
+)
+
+# Define the compute
+compute_configs = Compute(
+&nbsp;&nbsp; &nbsp;instance_type=instance_type,
+&nbsp;&nbsp; &nbsp;instance_count=instance_count,
+&nbsp;&nbsp; &nbsp;keep_alive_period_in_seconds=0
+)
+
+# define Training Job Name
+job_name = f"train-deepseek-distill-llama-8b-sft-batch"
+
+# define OutputDataConfig path
+output_path = f"s3://{bucket_name}/{job_name}"
+
+# Define the ModelTrainer
+model_trainer = ModelTrainer(
+&nbsp;&nbsp; &nbsp;training_image=image_uri,
+&nbsp;&nbsp; &nbsp;source_code=source_code,
+&nbsp;&nbsp; &nbsp;base_job_name=job_name,
+&nbsp;&nbsp; &nbsp;compute=compute_configs,
+&nbsp;&nbsp; &nbsp;distributed=Torchrun(),
+&nbsp;&nbsp; &nbsp;stopping_condition=StoppingCondition(max_runtime_in_seconds=7200),
+&nbsp;&nbsp; &nbsp;hyperparameters={
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"config": "/opt/ml/input/data/config/args.yaml"
+&nbsp;&nbsp; &nbsp;},
+&nbsp;&nbsp; &nbsp;output_data_config=OutputDataConfig(s3_output_path=output_path),
+&nbsp;&nbsp; &nbsp;role=role,
+) 
+    
+ Set up the input channels for ModelTrainer by creating InputData objects from the provided S3 bucket paths for the training and validation datasets: 
+   
+   from&nbsp;sagemaker.modules.configs&nbsp;import&nbsp;InputData
+
+train_input&nbsp;=&nbsp;InputData(
+&nbsp;&nbsp; &nbsp;channel_name="train",
+&nbsp;&nbsp; &nbsp;data_source=train_dataset_s3_path,
+)
+val_input&nbsp;=&nbsp;InputData(
+&nbsp;&nbsp; &nbsp;channel_name="val",
+&nbsp;&nbsp; &nbsp;data_source=val_dataset_s3_path,
+)
+config_input&nbsp;=&nbsp;InputData(
+&nbsp;&nbsp; &nbsp;channel_name="config",
+&nbsp;&nbsp; &nbsp;data_source=train_config_s3_path,
+)
+
+TRAINING_INPUTS&nbsp;=&nbsp;[train_input, val_input, config_input] 
+    
+ 
+Queue SageMaker Training jobs 
+This section and the following are intended to be used interactively so that you can explore how to use the Amazon SageMaker Python SDK to submit jobs to your Batch queues. Follow these steps: 
+ 
+ Select the queue to use: 
+   
+   from sagemaker.aws_batch.queue import TrainingQueue
+SMTJ_BATCH_QUEUE = "ml-g6-12xlarge-queue"
+
+queue = TrainingQueue(SMTJ_BATCH_QUEUE)
+ 
+    
+ In the next cell, submit two training jobs in the queue: 
+   
+   LOW PRIORITY 
+   MEDIUM PRIORITY 
+    
+ Use the API submit to submit all the jobs: 
+   
+   job_name_1&nbsp;=&nbsp;job_name&nbsp;+&nbsp;"-low-pri"
+queued_job_1&nbsp;=&nbsp;queue.submit(
+&nbsp;&nbsp; &nbsp;model_trainer, TRAINING_INPUTS, job_name_1, priority=5, share_identifier="LOWPRI"
+)
+job_name_2&nbsp;=&nbsp;job_name&nbsp;+&nbsp;"-mid-pri"
+queued_job_2&nbsp;=&nbsp;queue.submit(
+&nbsp;&nbsp; &nbsp;model_trainer, TRAINING_INPUTS, job_name_2, priority=3, share_identifier="MIDPRI"
+) 
+    
+ 
+Display the status of running and in queue jobs 
+We can use the job queue list and job queue snapshot APIs to programmatically view a snapshot of the jobs that the queue will run next. For fair-share queues, this ordering is dynamic and occasionally needs to be refreshed because new jobs are submitted to the queue or as share usage changes over time. 
+ 
+ from utils.queue_utils import print_queue_state
+print_queue_state(queue) 
+ 
+The following screenshot shows the jobs submitted with low priority and medium priority in the Runnable State and in the queue. 
+ 
+You can also refer to the AWS Batch Dashboard, shown in the following screenshot, to analyze the status of the jobs. 
+ 
+As shown in the following screenshot, the first job executed with the SageMaker Training job is the MEDIUM PRIORITY&nbsp;one, by respecting the scheduling policy rules defined previously. 
+ 
+You can explore the running training job in the SageMaker AI console, as shown in the following screenshot. 
+ 
+Submit an additional job 
+You can now submit an additional SageMaker Training job with HIGH PRIORITY to the queue: 
+ 
+ job_name_3&nbsp;=&nbsp;job_name&nbsp;+&nbsp;"-high-pri"
+queued_job_3&nbsp;=&nbsp;queue.submit(
+&nbsp;&nbsp; &nbsp;model_trainer, TRAINING_INPUTS, job_name_3, priority=1, share_identifier="HIGHPRI"
+) 
+ 
+You can explore the status from the dashboard, as shown in the following screenshot. 
+ 
+The HIGH PRIORITY job, despite being submitted later in the queue, will be executed before the other runnable jobs by respecting the scheduling policy rules, as shown in the following screenshot. 
+ 
+As the scheduling policy in the screenshot shows, the&nbsp;LOWPRI&nbsp;share has a higher weight factor (5) than the&nbsp;MIDPRI&nbsp;share (3). Since a lower weight signifies higher priority, a&nbsp;LOWPRI&nbsp;job will be executed after a&nbsp;MIDPRI&nbsp;job, even if they are submitted at the same time. 
+ 
+Clean up 
+To clean up your resources to avoid incurring future charges, follow these steps: 
+ 
+ Verify that your training job isn’t running anymore. To do so, on your SageMaker console, choose Training and check Training jobs. 
+ Delete AWS Batch resources by using the command python create_resources.py --clean from the GitHub example or by manually deleting them from the AWS Management Console. 
+ 
+Conclusion 
+In this post, we demonstrated how Amazon Search used AWS Batch for SageMaker Training Jobs to optimize GPU resource utilization and training job management. The solution transformed their training infrastructure by implementing sophisticated queue management and fair share scheduling, increasing peak GPU utilization from 40% to over 80%.We recommend that organizations facing similar ML training infrastructure challenges explore AWS Batch integration with SageMaker, which provides built-in queue management capabilities and priority-based scheduling. The solution eliminates manual resource coordination while providing workloads with appropriate prioritization through configurable scheduling policies. 
+To begin implementing AWS Batch with SageMaker Training jobs, you can access our sample code and implementation guide in the amazon-sagemaker-examples repository on GitHub. The example demonstrates how to set up AWS Identity and Access Management (IAM) permissions, create AWS Batch resources, and orchestrate multiple GPU-powered training jobs using ModelTrainer class. 
+ 
+The authors would like to thank Charles Thompson and Kanwaljit Khurmi for their collaboration. 
+About the authors 
+ 
+  
+  
+   
+   
+  Mona Mona 
+  Mona is a generative AI Specialist Solutions Architect at Amazon focusing. She is a published author of two books – Natural Language Processing with AWS AI Services and Google Cloud Certified Professional Machine Learning Study Guide. 
+  
+  
+  
+   
+   
+  Mayank Jha 
+  Mayank is a Senior Machine Learning Engineer at Amazon Search working on the model training optimization. He is passionate about finding practical applications for complex problems at hand and aims to develop solutions that have a deep impact on how businesses and people thrive. 
+  
+  
+  
+   
+   
+  Bruno Pistone 
+  Bruno is a Senior generative AI and ML Specialist Solutions Architect for AWS based in Milan. He works with large customers helping them to deeply understand their technical needs and design AI and Machine Learning solutions that make the best use of the AWS Cloud and the Amazon Machine Learning stack. He enjoys spending time with his friends and exploring new places, as well as travelling to new destinations. 
+  
+  
+  
+   
+   
+  James Park 
+  James is a Solutions Architect at Amazon Web Services. He works with Amazon.com to design, build, and deploy technology solutions on AWS, and has a particular interest in AI and machine learning. In his spare time he enjoys seeking out new cultures, new experiences, and staying up to date with the latest technology trends.
 • Iterate faster with Amazon Bedrock AgentCore Runtime direct code deployment
   Amazon Bedrock AgentCore is an agentic platform for building, deploying, and operating effective agents securely at scale. Amazon Bedrock AgentCore Runtime is a fully managed service of Bedrock AgentCore, which provides low latency serverless environments to deploy agents and tools. It provides session isolation, supports multiple agent frameworks including popular open-source frameworks, and handles multimodal workloads and long-running agents. 
 AgentCore&nbsp;Runtime supports&nbsp;container based deployments&nbsp;where the container definition is provided&nbsp;in a&nbsp;Dockerfile, and the agent is&nbsp;built&nbsp;as&nbsp;a container&nbsp;image. Customers who have container build and deploy pipelines&nbsp;benefit&nbsp;from this method, where&nbsp;agent deployment&nbsp;can be integrated into&nbsp;existing&nbsp;pipelines.&nbsp; 
@@ -999,454 +1483,5 @@ About the authors
 Anuj Jauhari&nbsp;is a Sr. Product Marketing Manager at AWS, where he helps customers innovate and drive business impact with generative AI solutions built on Amazon Nova models. 
 Jonathan Woods is a Solutions Architect at AWS based in Nashville currently working with SMB customers. He has a passion for communicating AWS technology to businesses in a relevant way making it easy for customers to innovate. Outside of work, he tries keeping up with his three kids.   
 Nauman Zulfiqar&nbsp;is a senior account manager based in New York working with SMB clients. He loves building and maintaining strong customer relationships, understanding their business challenges and serving as the customer’s primary business advocate within AWS.
-• Build reliable AI systems with Automated Reasoning on Amazon Bedrock – Part 1
-  Enterprises in regulated industries often need mathematical certainty that every AI response complies with established policies and domain knowledge. Regulated industries can’t use traditional quality assurance methods that test only a statistical sample of AI outputs and make probabilistic assertions about compliance. When we launched Automated Reasoning checks in Amazon Bedrock Guardrails in preview at AWS re:Invent 2024, it offered a novel solution by applying formal verification techniques to systematically validate AI outputs against encoded business rules and domain knowledge. These techniques make the validation output transparent and explainable. 
-Automated Reasoning checks are being used in workflows across industries. Financial institutions verify AI-generated investment advice meets regulatory requirements with mathematical certainty. Healthcare organizations make sure patient guidance aligns with clinical protocols. Pharmaceutical companies confirm marketing claims are supported by FDA-approved evidence. Utility companies validate emergency response protocols during disasters, while legal departments verify AI tools capture mandatory contract clauses. 
-With the general availability of Automated Reasoning, we have increased document handling and added new features like scenario generation, which automatically creates examples that demonstrate your policy rules in action. With the enhanced test management system, domain experts can build, save, and automatically execute comprehensive test suites to maintain consistent policy enforcement across model and application versions. 
-In the first part of this two-part technical deep dive, we’ll explore the technical foundations of Automated Reasoning checks in Amazon Bedrock Guardrails and demonstrate how to implement this capability to establish mathematically rigorous guardrails for generative AI applications. 
-In this post, you will learn how to: 
- 
- Understand the formal verification techniques that enable mathematical validation of AI outputs 
- Create and refine an Automated Reasoning policy from natural language documents 
- Design and implement effective test cases to validate AI responses against business rules 
- Apply policy refinement through annotations to improve policy accuracy 
- Integrate Automated Reasoning checks into your AI application workflow using Bedrock Guardrails, following AWS best practices to maintain high confidence in generated content 
- 
-By following this implementation guide, you can systematically help prevent factual inaccuracies and policy violations before they reach end users, a critical capability for enterprises in regulated industries that require high assurance and mathematical certainty in their AI systems. 
-Core capabilities of Automated Reasoning checks 
-In this section, we explore the capabilities of Automated Reasoning checks, including the console experience for policy development, document processing architecture, logical validation mechanisms, test management framework, and integration patterns. Understanding these core components will provide the foundation for implementing effective verification systems for your generative AI applications. 
-Console experience 
-The Amazon Bedrock Automated Reasoning checks console organizes policy development into logical sections, guiding you through the creation, refinement, and testing process. The interface includes clear rule identification with unique IDs and direct use of variable names within the rules, making complex policy structures understandable and manageable. 
-Document processing capacity 
-Document processing supports up to 120K tokens (approximately 100 pages), so you can encode substantial knowledge bases and complex policy documents into your Automated Reasoning policies. Organizations can incorporate comprehensive policy manuals, detailed procedural documentation, and extensive regulatory guidelines. With this capacity you can work with complete documents within a single policy. 
-Validation capabilities 
-The validation API includes ambiguity detection that identifies statements requiring clarification, counterexamples for invalid findings that demonstrate why validation failed, and satisfiable findings with both valid and invalid examples to help understand boundary conditions. These features provide context around validation results, to help you understand why specific responses were flagged and how they can be improved. The system can also express its confidence in translations between natural language and logical structures to set appropriate thresholds for specific use cases. 
-Iterative feedback and refinement process 
-Automated Reasoning checks provide detailed, auditable findings that explain why a response failed validation, to support an iterative refinement process instead of simply blocking non-compliant content. This information can be fed back to your foundation model, allowing it to adjust responses based on specific feedback until they comply with policy rules. This approach is particularly valuable in regulated industries where factual accuracy and compliance must be mathematically verified rather than estimated. 
- 
-Finding types using a policy example 
-Consider the example of a policy for determining days off. When implementing Automated Reasoning checks, a policy consists of both a schema of variables (defining concepts like employee type, years of service, and available leave days) and a set of logical rules that establish relationships between these variables (such as eligibility conditions for different types of time off). During validation, the system uses this schema and rule structure to evaluate whether foundation model responses comply with your defined policy constraints. 
-We want to validate the following input that a user asked the foundation model (FM) powered application and the generated output. 
- 
- Input:
-"Is Thursday a day off if it's a public holiday?"
-
-Output:
-"Yes, Thursday would be a day off if it's a public holiday, since all public holidays are considered days off regardless of the day of the week." 
- 
-Premises are statements from which a conclusion is drawn and the claim is an assertion of the truth. In this example, the premises inferred are day is equal to “Thursday” and is_public_holiday is true, and the claim is made that is_day_off is true. 
-This reasoning follows the automated reasoning policy: 
- 
- Days Off Policy:
--&nbsp;All weekend days (Saturday and Sunday) are days off
--&nbsp;All public holidays are days off
-- A day is considered a day off if it is either a weekend day or a public holiday
- 
- 
-With general availability, Automated Reasoning checks now produces seven distinct finding types that offer precise insights into the validation process of a FM generated response: 
- 
-VALID: Confirms Input&nbsp;and&nbsp;Output&nbsp;fully aligns with policy rules, providing confidence that the information in the generated response is correct according to your defined policies. The claims are inferred from the premises and validated by the AR policy to be true, and there are no alternative answers that contradict these claims. 
- 
- Input:
-Today is Sunday, do I have the day off? 
-
-Output:
-Yes, Sunday is a weekend day, you have the day off.
-
-Premises:
-day: Sunday
-is_weekend: true
-
-Claim:
-is_day_off: true
-
-Explanation:
-Given the assigned variables and policy rules that weekends are days off, the only possible answer is that it is a day off. 
- 
-SATISFIABLE: Recognizes that Input&nbsp;and Output could be true or false depending on specific assumptions. These findings help you understand boundary conditions where a response is valid only under certain conditions, so that you can decide whether those assumptions are reasonable in your context. If the required assumptions are false, then an alternative claim consistent with the premises may exist. 
- 
- Input:
-Today is Tuesday, do I have the day off?
-
-Output:
-Yes
-Premises:
-day: Tuesday
-
-Claim:
-is_day_off: true
-
-Explanation: 
-If we assume is_public_holiday=true, this is correct, but if we assume is_public_holiday=false, the answer would be incorrect since Tuesday is not a weekend. 
- 
-INVALID: Identifies Input and Output have policy inaccuracies or factual errors, enhanced with counter-examples that explicitly demonstrate why the validation failed. The claims are not implied by the premises and AR policy, and there exist different claims that would be consistent with the premises and AR policy. 
- 
- Input:
-Today is Sunday, do I have the day off?
-
-Output:
-No you do&nbsp;not have the day off.
-
-Premises:
-day: Sunday
-
-Claim:
-is_day_off: false
-
-Explanation:
-This is invalid because the policy states weekends are days off. The correct claim would be is_day_off = true since Sunday is a weekend day 
- 
-IMPOSSIBLE: Indicates when no valid&nbsp;Claims&nbsp;can be generated because the premises conflict with the AR policy or the policy contains internal contradictions. This finding occurs when the constraints defined in the policy create a logical impossibility. 
- 
- Input: 
-Today is Sunday and not a weekend day, do I have the day off?
-
-Output:
-Yes
-
-Premises:
-day: Sunday
-is_weekend: false
-
-Claim:
-is_day_off: true
-
-Explanation: 
-Sunday is always a weekend day, so the premises contain a contradiction. No valid claim can exist given these contradictory premises. 
- 
-NO_TRANSLATIONS: Occurs when the Input and Output contains no information that can be translated into relevant data for the AR policy evaluation. This typically happens when the text is entirely unrelated to the policy domain or contains no actionable information. 
- 
- Input: 
-How many legs does the average cat have?
-
-Output:
-Less than 4
-
-Explanation:
-The AR policy is about days off, so there is no relevant translation for content about cats. The input has no connection to the policy domain. 
- 
-TRANSLATION_AMBIGUOUS: Identifies when ambiguity in the Input&nbsp;and Output prevents definitive translation into logical structures. This finding suggests that additional context or follow-up questions may be needed to proceed with validation. 
- 
- Input: 
-I won! Today is Winsday, do I get the day off?
-
-Output:
-Yes, you get the day off!
-
-Explanation: 
-"Winsday" is not a recognized day in the AR policy, creating ambiguity. Automated reasoning cannot proceed without clarification of what day is being referenced. 
- 
-TOO_COMPLEX: Signals that the Input&nbsp;and Output contains too much information to process within latency limits. This finding occurs with extremely large or complex inputs that exceed the system’s current processing capabilities. 
- 
- Input:
-Can you tell me which days are off for all 50 states plus territories for the next 3 years, accounting for federal, state, and local holidays? Include exceptions for floating holidays and special observances.
-
-Output:
-I have analyzed the holiday calendars for all 50 states. In Alabama, days off include...
-
-Explanation: 
-This use case contains too many variables and conditions for AR checks to process while maintaining accuracy and response time requirements. 
- 
-Scenario generation 
-You can now generate scenarios directly from your policy, which creates test samples that conform to your policy rules, helps identify edge cases, and supports verification of your policy’s business logic implementation. With this capability policy authors can see concrete examples of how their rules work in practice before deployment, reducing the need for extensive manual testing. The scenario generation also highlights potential conflicts or gaps in policy coverage that might not be apparent from examining individual rules. 
-Test management system 
-A new test management system allows you to save and annotate policy tests, build test libraries for consistent validation, execute tests automatically to verify policy changes, and maintain quality assurance across policy versions. This system includes versioning capabilities that track test results across policy iterations, making it easier to identify when changes might have unintended consequences. You can now also export test results for integration into existing quality assurance workflows and documentation processes. 
-Expanded options with direct guardrail integration 
-Automated Reasoning checks now integrates with Amazon Bedrock APIs, enabling validation of AI generated responses against established policies throughout complex interactions. This integration extends to both the Converse and RetrieveAndGenerate actions, allowing policy enforcement across different interaction modalities. Organizations can configure validation confidence thresholds appropriate to their domain requirements, with options for stricter enforcement in regulated industries or more flexible application in exploratory contexts. 
-Solution – AI-powered hospital readmission risk assessment system 
-Now that we have explained the capabilities of Automated Reasoning checks, let’s work through a solution by considering the use case of an AI-powered hospital readmission risk assessment system. This AI system automates hospital readmission risk assessment by analyzing patient data from electronic health records to classify patients into risk categories (Low, Intermediate, High) and recommends personalized intervention plans based on CDC-style guidelines. The objective of this AI system is to reduce the 30-day hospital readmission rates by supporting early identification of high-risk patients and implementing targeted interventions. This application is an ideal candidate for Automated Reasoning checks because the healthcare provider prioritizes verifiable accuracy and explainable recommendations that can be mathematically proven to comply with medical guidelines, supporting both clinical decision-making and satisfying the strict auditability requirements common in healthcare settings. 
-Note: The referenced policy document is an example created for demonstration purposes only and should not be used as an actual medical guideline or for clinical decision-making. 
-Prerequisites 
-To use Automated Reasoning checks in Amazon Bedrock, verify you have met the following prerequisites: 
- 
- An active AWS account 
- Confirmation of AWS Regions where Automated Reasoning checks is available 
- Appropriate IAM permissions to create, test, and invoke Automated Reasoning policies (Note: The IAM policy should be fine-grained and limited to necessary resources using proper ARN patterns for production usage): 
- 
- 
-  {  
-  "Sid": "OperateAutomatedReasoningChecks",  
-  "Effect": "Allow",  
-  "Action": [  
-    "bedrock:CancelAutomatedReasoningPolicyBuildWorkflow",  
-    "bedrock:CreateAutomatedReasoningPolicy",
-    "bedrock:CreateAutomatedReasoningPolicyTestCase",  
-    "bedrock:CreateAutomatedReasoningPolicyVersion",
-    "bedrock:CreateGuardrail",
-    "bedrock:DeleteAutomatedReasoningPolicy",  
-    "bedrock:DeleteAutomatedReasoningPolicyBuildWorkflow",  
-    "bedrock:DeleteAutomatedReasoningPolicyTestCase",
-    "bedrock:ExportAutomatedReasoningPolicyVersion",  
-    "bedrock:GetAutomatedReasoningPolicy",  
-    "bedrock:GetAutomatedReasoningPolicyAnnotations",  
-    "bedrock:GetAutomatedReasoningPolicyBuildWorkflow",  
-    "bedrock:GetAutomatedReasoningPolicyBuildWorkflowResultAssets",  
-    "bedrock:GetAutomatedReasoningPolicyNextScenario",  
-    "bedrock:GetAutomatedReasoningPolicyTestCase",  
-    "bedrock:GetAutomatedReasoningPolicyTestResult",
-    "bedrock:InvokeAutomatedReasoningPolicy",  
-    "bedrock:ListAutomatedReasoningPolicies",  
-    "bedrock:ListAutomatedReasoningPolicyBuildWorkflows",  
-    "bedrock:ListAutomatedReasoningPolicyTestCases",  
-    "bedrock:ListAutomatedReasoningPolicyTestResults",
-    "bedrock:StartAutomatedReasoningPolicyBuildWorkflow",  
-    "bedrock:StartAutomatedReasoningPolicyTestWorkflow",
-    "bedrock:UpdateAutomatedReasoningPolicy",  
-    "bedrock:UpdateAutomatedReasoningPolicyAnnotations",  
-    "bedrock:UpdateAutomatedReasoningPolicyTestCase",
-    "bedrock:UpdateGuardrail"
-  ],  
-  "Resource": [
-  "arn:aws:bedrock:\${aws:region}:\${aws:accountId}:automated-reasoning-policy/*",
-  "arn:aws:bedrock:\${aws:region}:\${aws:accountId}:guardrail/*"
-]
-} 
- 
- 
- Key service limits: Be aware of the service limits when implementing Automated Reasoning checks. 
- With Automated Reasoning checks, you pay based on the amount of text processed. For more information, see Amazon Bedrock pricing. For more information, see Amazon Bedrock pricing. 
- 
-Use case and policy dataset overview 
-The full policy document used in this example can be accessed from the Automated Reasoning GitHub repository.&nbsp; To validate the results from Automated Reasoning checks, being familiar with the policy is helpful. Moreover, refining the policy that is created by Automated Reasoning is key in achieving a soundness of over 99%. 
-Let’s review the main details of the sample medical policy that we are using in this post. As we start validating responses, it is helpful to verify it against the source document. 
- 
- Risk assessment and stratification:&nbsp;Healthcare facilities must implement a standardized risk scoring system based on demographic, clinical, utilization, laboratory, and social factors, with patients classified into Low (0-3 points), Intermediate (4-7 points), or High Risk (8+ points) categories. 
- Mandatory interventions:&nbsp;Each risk level requires specific interventions, with higher risk levels incorporating lower-level interventions plus additional measures, while certain conditions trigger automatic High Risk classification regardless of score. 
- Quality metrics and compliance:&nbsp;Facilities must achieve specific completion rates including 95%+ risk assessment within 24 hours of admission and 100% completion before discharge, with High Risk patients requiring documented discharge plans. 
- Clinical oversight:&nbsp;While the scoring system is standardized, attending physicians maintain override authority with proper documentation and approval from the discharge planning coordinator. 
- 
-Create and test an Automated Reasoning checks’ policy&nbsp;using the Amazon Bedrock console 
-The first step is to encode your knowledge—in this case, the sample medical policy—into an Automated Reasoning policy. Complete the following steps to create an Automated Reasoning policy: 
- 
- On the Amazon Bedrock console, choose Automated Reasoning under Build in the navigation pane. 
- Choose Create policy.  
- 
- 
- Provide a policy name and policy description.  
- 
- 
- Add source content from which Automated Reasoning will generate your policy. You can either upload document (pdf, txt) or enter text as the ingest method.   
- Include a description of the intent of the Automated Reasoning policy you’re creating. The intent is optional but provides valuable information to the Large Language Models that are translating the natural language based document into a set of rules that can be used for mathematical verification. For the sample policy, you can use the following intent: This logical policy validates claims about the clinical practice guideline providing evidence-based recommendations for healthcare facilities to systematically assess and mitigate hospital readmission risk through a standardized risk scoring system, risk-stratified interventions, and quality assurance measures, with the goal of reducing 30-day readmissions by 15-23% across participating healthcare systems.
-
-Following is an example patient profile and the corresponding classification.
-
-&lt;Patient Profile&gt;Age: 82 years
-
-Length of stay: 10 days
-
-Has heart failure
-
-One admission within last 30 days
-
-Lives alone without caregiver
-
-&lt;Classification&gt; High Risk  
- Once the policy has been created, we can inspect the definitions to see which rules, variables and types have been created from the natural language document to represent the knowledge into logic. 
- 
- 
- You may see differences in the number of rules, variables, and types generated compared to what is shown in this example. This is due to the non-deterministic processing of the supplied document. To address this, the recommended guidance is to perform a human-in-the-loop review of the generated information in the policy before using it with other systems. 
-Exploring the Automated Reasoning checks’ definition 
-A Variable in automated reasoning for policy documents is a named container that holds a specific type of information (like Integer, Real Number, or Boolean) and represents a distinct concept or measurement from the policy. Variables act as building blocks for rules and can be used to track, measure, and evaluate policy requirements. From the image below, we can see examples like admissionsWithin30Days&nbsp;(an Integer variable tracking previous hospital admissions), ageRiskPoints&nbsp;(an Integer variable storing age-based risk scores), and conductingMonthlyHighRiskReview (a Boolean variable indicating whether monthly reviews are being performed). Each variable has a clear description of its purpose and the specific policy concept it represents, making it possible to use these variables within rules to enforce policy requirements and measure compliance. Issues also highlight that some variables are unused. It is particularly important to verify which concepts these variables represent and to identify if rules are missing. 
- 
-In the Definitions, we see ‘Rules’, ‘Variables’ and ‘Types’. A rule is an unambiguous logical statement that Automated Reasoning extracts from your source document. Consider this simple rule that has been created:&nbsp;followupAppointmentsScheduledRate is at least 90.0&nbsp; – This rule has been created from the Section III A Process Measures, which states that healthcare facilities should monitor various process indications, requiring that follow up appointments scheduled prior to discharge should be 90% or higher. 
-Let’s look at a more complex rule: 
- 
- comorbidityRiskPoints is equal to(ite&nbsp;hasDiabetesMellitus&nbsp;1 0) + (ite hasHeartFailure 2 0) + (ite&nbsp;hasCOPD&nbsp;1 0) + (ite hasChronicKidneyDisease 1 0) 
- 
- 
- Where “ite” is “If then else” 
- 
-This rule calculates a patient’s risk points based on their existing medical conditions (comorbidities) as specified in the policy document. When evaluating a patient, the system checks for four specific conditions: diabetes mellitus of any type (worth 1 point), heart failure of any classification (worth 2 points), chronic obstructive pulmonary disease (worth 1 point), and chronic kidney disease stages 3-5 (worth 1 point). The rule adds these points together by using boolean logic – meaning it multiplies each condition (represented as true=1 or false=0) by its assigned point value, then sums all values to generate a total comorbidity risk score. For instance, if a patient has both heart failure and diabetes, they would receive 3 total points (2 points for heart failure plus 1 point for diabetes). This comorbidity score then becomes part of the larger risk assessment framework used to determine the patient’s overall readmission risk category. 
- 
-The Definitions also include custom variable types.&nbsp;Custom variable types, also known as enumerations (ENUMs), are specialized data structures that define a fixed set of allowable values for specific policy concepts.&nbsp;These custom types maintain consistency and accuracy in data collection and rule enforcement by limiting values to predefined options that align with the policy requirements. In the sample policy, we can see that four custom variable types have been identified: 
- 
- AdmissionType: This defines the possible types of hospital admissions (MEDICAL, SURGICAL, MIXED_MEDICAL_SURGICAL, PSYCHIATRIC) that determine whether a patient is eligible for the readmission risk assessment protocol. 
- HealthcareFacilityType: This specifies the types of healthcare facilities (ACUTE_CARE_HOSPITAL_25PLUS, CRITICAL_ACCESS_HOSPITAL) where the readmission risk assessment protocol may be implemented. 
- LivingSituation: This categorizes a patient’s living arrangement (LIVES_ALONE_NO_CAREGIVER, LIVES_ALONE_WITH_CAREGIVER) which is a critical factor in determining social support and risk levels. 
- RiskCategory: This defines the three possible risk stratification levels (LOW_RISK, INTERMEDIATE_RISK, HIGH_RISK) that can be assigned to a patient based on their total risk score. 
- 
- 
-An important step in improving soundness (accuracy of Automated Reasoning checks when it says VALID), is the policy refinement step of making sure that the rules, variable, and types that are captured best represent the source of truth. In order to do this, we will head over to the test suite and explore how to add tests, generate tests and use the results from the tests to apply annotations that will update the rules. 
-Testing the Automated Reasoning policy and policy refinement 
-The test suite in Automated Reasoning provides test capabilities for two purposes: First, we want to run different scenarios and test the various rules and variables in the Automated Reasoning policy and refine them so that they accurately represent the ground truth. This policy refinement step is important to improving the soundness of Automated Reasoning checks. Second, we want metrics to understand how well the Automated Reasoning checks performs for the defined policy and the use case. To do so, we can open the Tests tab on Automated Reasoning console. 
- 
-Test samples can be added manually by using the Add button. To scale up the testing, we can generate tests from the policy rules. This testing approach helps verify both the semantic correctness of your policy (making sure rules accurately represent intended policy constraints) and the natural language translation capabilities (confirming the system can correctly interpret the language your users will use when interacting with your application). In the image below, we can see a test sample generated and before adding it to the test suite, the SME should indicate if this test sample is possible (thumbs up) or not possible (thumbs up). The test sample can then be saved to the test suite. 
- 
- 
-Once the test sample is created, it possible to run this test sample alone, or all the test samples in the test suite by choosing on Validate all tests. Upon executing, we see that this test passed successfully. 
- 
-You can manually create tests by providing an input (optional) and output. These are translated into logical representations before validation occurs. 
-How translation works: 
-Translation converts your natural language tests into logical representations that can be mathematically verified against your policy rules: 
- 
- Automated Reasoning Checks uses multiple LLMs to translate your input/output into logical findings 
- Each translation receives a confidence vote indicating translation quality 
- You can set a confidence threshold to control which findings are validated and returned 
- 
-Confidence threshold behavior: 
-The confidence threshold controls which translations are considered reliable enough for validation, balancing strictness with coverage: 
- 
- Higher threshold: Greater certainty in translation accuracy but also higher chance of no findings being validated. 
- Lower threshold: &nbsp;Greater chance of getting validated findings returned, but potentially less certain translations 
- Threshold = 0: All findings are validated and returned regardless of confidence 
- 
-Ambiguous results: 
-When no finding meets your confidence threshold, Automated Reasoning Checks returns “Translation Ambiguous,” indicating uncertainty in the content’s logical interpretation.The test case we will create and validate is: 
- 
- Input:
-Patient A
-Age: 82
-Length of stay: 16 days
-Diabetes Mellitus: Yes
-Heart Failure: Yes
-Chronic Kidney Disease: Yes
-Hemoglobin: 9.2 g/dL
-eGFR: 28 ml/min/1.73m^2
-Sodium: 146 mEq/L
-Living Situation: Lives alone without caregiver
-Has established PCP: No
-Insurance Status: Medicaid
-Admissions within 30 days: 1
-
-Output:
-Final&nbsp;Classification:&nbsp;INTERMEDIATE RISK 
- 
- 
-We see that this test passed upon running it, the result of ‘INVALID’ matches our expected results. Additionally Automated Reasoning checks also shows that 12 rules were contradicting the premises and claims, which lead to the output of the test sample being ‘INVALID’ 
- 
-Let’s examine some of the visible contradicting rules: 
- 
- Age risk: Patient is 82 years old 
-   
-   Rule triggers: “if patientAge is at least 80, then ageRiskPoints is equal to 3” 
-    
- Length of stay risk: Patient stayed 16 days 
-   
-   Rule triggers: “if lengthOfStay is greater than 14, then lengthOfStayRiskPoints is equal to 3” 
-    
- Comorbidity risk: Patient has multiple conditions 
-   
-   Rule calculates: “comorbidityRiskPoints = (hasDiabetesMellitus × 1) + (hasHeartFailure × 2) + (hasCOPD × 1) + (hasChronicKidneyDisease × 1)” 
-    
- Utilization risk: Patient has 1 admission within 30 days 
-   
-   Rule triggers: “if admissionsWithin30Days is at least 1, then utilizationRiskPoints is at least 3” 
-    
- Laboratory risk: Patient’s eGFR is 28 
-   
-   Rule triggers: “if eGFR is less than 30.0, then laboratoryRiskPoints is at least 2” 
-    
- 
-These rules are likely producing conflicting risk scores, making it impossible for the system to determine a valid final risk category. These contradictions show us which rules where used to determine that the input text of the test is INVALID. 
- 
-Let’s add another test to the test suite, as shown in the screenshot below: 
- 
- Input:
-Patient&nbsp;profile
-Age: 83
-Length of stay: 16 days
-Diabetes Mellitus: Yes
-Heart Failure: Yes
-Chronic Kidney Disease: Yes
-Hemoglobin: 9.2 g/dL
-eGFR: 28 ml/min/1.73m^2
-Sodium: 146 mEq/L
-Living Situation: Lives alone without caregiver
-Has established PCP: No
-Insurance Status: Medicaid
-Admissions within 30 days: 1
-Admissions within 90 days:&nbsp;2
-
-Output:
-Final&nbsp;Classification:&nbsp;HIGH RISK 
- 
- 
- 
-When this test is executed, we see that each of the patient details are extracted as premises, to validate the claim that the risk of readmission if high. We see that 8 rules have been applied to verify this claim. The key rules and their validations include: 
- 
- Age risk: Validates that patient age ≥ 80 contributes 3 risk points 
- Length of stay risk: Confirms that stay &gt;14 days adds 3 risk points 
- Comorbidity risk: Calculated based on presence of&nbsp;Diabetes Mellitus, Heart Failure, Chronic Kidney Disease 
- Utilization risk: Evaluates admissions history 
- Laboratory risk: Evaluates risk based on&nbsp;Hemoglobin level of 9.2 and eGFR of 28 
- 
-Each premise was evaluated as true, with multiple risk factors present (advanced age, extended stay, multiple comorbidities, concerning lab values, living alone without caregiver, and lack of PCP), supporting the overall Valid classification of this HIGH RISK assessment. 
- 
-Moreover, the Automated Reasoning engine performed an extensive validation of this test sample using 93 different assignments to increase the soundness that the HIGH RISK classification is correct.&nbsp;Various related rules from the Automated Reasoning policy are used to validate the samples against 93 different scenarios and variable combinations. In this manner, Automated Reasoning checks confirms that there is no possible situation under which this patient’s HIGH RISK classification could be invalid. This thorough verification process affirms the reliability of the risk assessment for this elderly patient with multiple chronic conditions and complex care needs.In the event of a test sample failure, the 93 assignments would serve as an important diagnostic tool, pinpointing specific variables and their interactions that conflict with the expected outcome, thereby enabling subject matter experts (SMEs) to analyze the relevant rules and their relationships to determine if adjustments are needed in either the clinical logic or risk assessment criteria. In the next section, we will look at policy refinement and how SMEs can apply annotations to improve and correct the rules, variables, and custom types of the Automated Reasoning policy. 
-Policy refinement through annotations 
-Annotations provide a powerful improvement mechanism for Automated Reasoning policies when tests fail to produce expected results. Through annotations, SMEs can systematically refine policies by: 
- 
- Correcting problematic rules by modifying their logic or conditions 
- Adding missing variables essential to the policy definition 
- Updating variable descriptions for greater precision and clarity 
- Resolving translation issues where original policy language was ambiguous 
- Deleting redundant or conflicting elements from the policy 
- 
-This iterative process of testing, annotating, and updating creates increasingly robust policies that accurately encode domain expertise. As shown in the figure below, annotations can be applied to modify various policy elements, after which the refined policy can be exported as a JSON file for deployment. 
- 
-In the following figure, we can see how annotations are being applied, and rules are deleted in the policy. Similarly, additions and updates can be made to rules, variables, or the custom types. 
- 
- 
-When the subject matter expert has validated the Automated Reasoning policy through testing, applying annotations, and validating the rules, it is possible to export the policy as a JSON file. 
- 
-Using Automated Reasoning checks at inference 
-To use the Automated Reasoning checks with the created policy, we can now navigate to Amazon Bedrock&nbsp;Guardrails,&nbsp;and create a new guardrail by entering the name, description, and the messaging that will be displayed when the guardrail intervenes and blocks a prompt or a output from the AI system. 
- 
-Now, we can attach Automated Reasoning check by using the toggle to Enable Automated Reasoning policy. We can set a confidence threshold, which determines how strictly the policy should be enforced. This threshold ranges from 0.00 to 1.00, with 1.00 being the default and most stringent setting. Each guardrail can accommodate up to two separate automated reasoning policies for enhanced validation flexibility. In the following figure, we are attaching the draft version of the medical policy related to patient hospital readmission risk assessment. 
- 
-Now we can create the guardrail. Once you’ve established the guardrail and linked your automated reasoning policies, verify your setup by reviewing the guardrail details page to confirm all policies are properly attached. 
- 
-Clean up 
-When you’re finished with your implementation, clean up your resources by deleting the guardrail and automated reasoning policies you created. Before deleting a guardrail, be sure to disassociate it from all resources or applications that use it. 
-Conclusion 
-In this first part of our blog, we explored how Automated Reasoning checks in Amazon Bedrock Guardrails help maintain the reliability and accuracy of generative AI applications through mathematical verification. You can use increased document processing capacity, advanced validation mechanisms, and comprehensive test management features to validate AI outputs against business rules and domain knowledge. This approach addresses key challenges facing enterprises deploying generative AI systems, particularly in regulated industries where factual accuracy and policy compliance are essential. Our hospital readmission risk assessment demonstration shows how this technology supports the validation of complex decision-making processes, helping transform generative AI into systems suitable for critical business environments. You can use these capabilities through both the AWS Management Console and APIs to establish quality control processes for your AI applications. 
-To learn more, and build secure and safe AI applications, see the technical documentation and the GitHub code samples, or access to the Amazon Bedrock console. 
- 
-About the authors 
-Adewale Akinfaderin&nbsp;is a Sr. Data Scientist–Generative AI, Amazon Bedrock, where he contributes to cutting edge innovations in foundational models and generative AI applications at AWS. His expertise is in reproducible and end-to-end AI/ML methods, practical implementations, and helping global customers formulate and develop scalable solutions to interdisciplinary problems. He has two graduate degrees in physics and a doctorate in engineering. 
-Bharathi Srinivasan is a Generative AI Data Scientist at the AWS Worldwide Specialist Organization. She works on developing solutions for Responsible AI, focusing on algorithmic fairness, veracity of large language models, and explainability. Bharathi guides internal teams and AWS customers on their responsible AI journey. She has presented her work at various learning conferences. 
-Nafi Diallo &nbsp;is a Senior Automated Reasoning Architect at Amazon Web Services, where she advances innovations in AI safety and Automated Reasoning systems for generative AI applications. Her expertise is in formal verification methods, AI guardrails implementation, and helping global customers build trustworthy and compliant AI solutions at scale. She holds a PhD in Computer Science with research in automated program repair and formal verification, and an MS in Financial Mathematics from WPI.
-• Custom Intelligence: Building AI that matches your business DNA
-  In 2024, we launched the Custom Model Program within the AWS Generative AI Innovation Center to provide comprehensive support throughout every stage of model customization and optimization. Over the past two years, this program has delivered exceptional results by partnering with global enterprises and startups across diverse industries—including legal, financial services, healthcare and life sciences, software development, telecommunications, and manufacturing. These partnerships have produced tailored AI solutions that capture each organization’s unique data expertise, brand voice, and specialized business requirements. They operate more efficiently than off-the-shelf alternatives, delivering increased alignment and relevance with significant cost savings on inference operations. 
- 
-As organizations mature past proof-of-concept projects and basic chatbots, we’re seeing increased adoption of advanced personalization and optimization strategies beyond prompt engineering and retrieval augmented generation (RAG). Our approach encompasses creating specialized models for specific tasks and brand alignment, distilling larger models into smaller, faster, more cost-effective versions, implementing deeper adaptations through mid-training modifications, and optimizing hardware and accelerators to increase throughput while reducing costs. 
-Strategic upfront investment pays dividends throughout a model’s production lifecycle, as demonstrated by Cosine AI’s results. Cosine AI is the developer of an AI developer platform and software engineering agent designed to integrate seamlessly into their users’ workflows. They worked with the Innovation Center to fine-tune Nova Pro, an Amazon Nova foundation model, using Amazon SageMaker AI for their AI engineering assistant, Genie, achieving remarkable results including a 5x increase in A/B testing capability, a 10x faster developer iterations, and a 4x overall project speed improvement. The return on investment becomes even more compelling as companies transition toward agentic systems and workflows, where latency task specificity, performance, and depth are critical and compound across complex processes. 
-In this post, we’ll share key learnings and actionable strategies for leaders looking to use customization for maximum ROI while avoiding common implementation pitfalls. 
-Five tips for maximizing value from training and tuning generative AI models 
-The Innovation Center recommends the following top tips to maximize value from training and tuning AI models: 
-1. Don’t start from a technical approach; work backwards from business goals 
-This may seem obvious, but after working with over a thousand customers, we’ve found that working backwards from business goals is a critical factor in why projects supported by the Innovation Center achieve a 65% production success rate, with some launching within 45 days. We apply this same strategy to every customization project by first identifying and prioritizing tangible business outcomes that a technical solution will drive. Success must be measurable and deliver real business value, helping avoid flashy experiments that end up sitting on a shelf instead of producing results. In the Custom Model Program, many customers initially approach us seeking specific technical solutions—such as jumping directly into model pre-training or continued pre-training—without having defined downstream use cases, data strategies, or evaluation plans. By starting with clear business objectives first, we make sure that technical decisions align with strategic goals and create meaningful impact for the organization. 
-2. Pick the right customization approach 
-Start with a baseline customization approach and exhaust simpler approaches before diving into deep model customization. The first question we ask customers seeking custom model development is “What have you already tried?” We recommend establishing this baseline with prompt engineering and RAG before exploring more complex techniques. While there’s a spectrum of model optimization approaches that can achieve higher performance, sometimes the simplest solution is the most effective. Once you establish this baseline, identify remaining gaps and opportunities to determine whether advancing to the next level makes strategic sense. 
- 
-Customization options range from lightweight approaches like supervised fine-tuning to ground-up model development. We typically advise starting with lighter-weight solutions that require smaller amounts of data and compute, then progressing to more complex techniques only when specific use cases or remaining gaps justify the investment: 
- 
- Supervised fine-tuning sharpens the model’s focus for specific use cases, for example delivering consistent customer service responses or adapting to your organization’s preferred phrasing, structure and reasoning patterns. Volkswagen, one of the world’s largest automobile manufacturers, achieved an “improvement in AI-powered brand consistency checks, increasing accuracy in identifying on-brand images from 55% to 70%,” notes Dr. Philip Trempler, Technical Lead AI &amp; Cloud Engineering at Volkswagen Group Services. 
- Model efficiency and deployment tuning supports organizations like Robin AI, a leader in AI-powered legal contract technology, to create tailored models that speed up human verification. Organizations can also use techniques like quantization, pruning, and system optimizations to improve model performance and reduce infrastructure costs. 
- Reinforcement learning uses reward functions or preference data to align models to preferred behavior. This approach is often combined with supervised fine-tuning so organizations like Cosine AI can refine their models’ decision making to match organizational preferences. 
- Continued pre-training allow organizations like Athena RC, a leading research center in Greece, to build Greek-first foundation models that expand language capabilities beyond English. By continually pre-training large language models on extensive Greek data, Athena RC strengthens the models’ core understanding of the Greek language, culture, and usage – not just their domain knowledge. Their Meltemi-7B and Llama-Krikri-8B models demonstrate how continued pre-training and instruction tuning can create open, high-quality Greek models for applications across research, education, industry, and society. 
- Domain-specific foundation model development enables organizations like TGS, a leading energy data, insights, and technology provider, to build custom AI models from scratch, ideal for those with highly specialized requirements and substantial volume of proprietary data. TGS helps energy companies make smarter exploration and development decisions by solving some of the industry’s toughest challenges in understanding what lies beneath the Earth’s surface. TGS has enhanced its Seismic Foundation Models (SFMs) to more reliably detect underground geological structures—such as faults and reservoirs—that indicate potential oil and gas deposits. The benefit is clear: operators can reduce uncertainty, lower exploration costs, and make faster investment decisions. 
- 
-Data quality and accessibility will be a major consideration in determining feasibility of each customization technique. Clean, high-quality data is essential both for model improvement and measuring progress. While some Innovation Center customers achieve performance gains with relatively smaller volumes of fine-tuning training pairs on instruction-tuned foundation models, approaches like continued pre-training typically require large volumes of training tokens. This reinforces the importance of starting simple—as you test lighter-weight model tuning, you can collect and process larger data volumes in parallel for future phases. 
-3. Define measures for what good looks like 
-Success needs to be measurable, regardless of which technical approach you choose. It’s critical to establish clear methods for measuring both overall business outcomes and the technical solution’s performance. At the model or application level, teams typically optimize across some combination of relevance, latency, and cost. However, the metrics for your production application won’t be general leaderboard metrics—they must be unique to what matters for your business. 
-Customers developing content generation systems prioritize metrics like relevance, clarity, style, and tone. Consider this example from Volkswagen Group: “We fine-tuned Nova Pro in SageMaker AI using our marketing experts’ knowledge. This improved the model’s ability to identify on-brand images, achieving stronger alignment with Volkswagen’s brand guidelines,” according to Volkswagen’s Dr. Trempler. “We are building on these results to enable Volkswagen Group’s vision to scale high-quality, brand-compliant content creation across our diverse automotive markets worldwide using generative AI.” Developing an automated evaluation process is critical for supporting iterative solution improvements. 
-For qualitative use cases, it’s essential to align automated evaluations with human experts, particularly in specialized domains. A common solution involves using LLM as judge to review another model or system responses. For instance, when fine-tuning a generation model for a RAG application, you might use an LLM judge to compare the fine-tuned model response to your existing baseline. However, LLM judges come with intrinsic biases and may not align with your internal team’s human preferences or domain expertise. Robin AI partnered with the Innovation Center to develop Legal LLM-as-Judge, an AI model for legal contract review. Emulating expert methodology and creating “a panel of trained judges” using fine-tuning techniques, they obtained smaller and faster models that maintain accuracy while reviewing documents ranging from NDAs to merger agreements. The solution achieved an 80% faster contract review process, enabling lawyers to focus on strategic work while AI handles detailed analysis. 
-4. Consider hardware-level optimizations for training and inference 
-If you’re using a managed service like Amazon Bedrock, you can take advantage of built-in optimizations out of the box. However, if you have a more bespoke solution or are operating at a lower level of the technology stack, there are several areas to consider for optimization and efficiency gains. For instance, TGS’s SFMs process massive 3D seismic images (essentially giant CAT scans of the Earth) that can cover tens of thousands of square kilometers. Each dataset is measured in petabytes, far beyond what traditional manual or even semi-automated interpretation methods can handle. By rebuilding their AI models on AWS’s high-performance GPU training infrastructure, TGS achieved near-linear scaling, meaning that adding more computing power results in almost proportional speed increases while maintaining &gt;90% GPU efficiency. As a result, TGS can now deliver actionable subsurface insights, such as identifying drilling targets or de-risking exploration zones, to customers in days instead of weeks. 
-Over the life of a model, resource requirements are generally driven by inference requests, and any efficiency gains you can achieve will pay dividends during the production phase. One approach to reduce inference demands is model distillation to reduce the model size itself, but in some cases, there are additional gains to be had by digging deeper into the infrastructure. A recent example is Synthesia, the creator of a leading video generation platform where users can create professional videos without the need for mics, cameras, or actors. Synthesia is continually looking for ways to elevate their user experience, including by decreasing generation times for content. They worked with the Innovation Center to optimize the Variational Autoencoder decoder of their already efficient video generation pipeline. Strategic optimization of the model’s causal convolution layers unlocked powerful compiler performance gains, while asynchronous video chunk writing eliminated GPU idle time – together delivering a dramatic reduction in end-to-end latency and a 29% increase in decoding throughput. 
-5. One size doesn’t fit all 
-The one size doesn’t fit all principle applies to both model size and family. Some models excel out of the box for specific tasks like code generation, tool usage, document processing, or summarization. With the rapid pace of innovation, the best foundation model for a given use case today likely won’t be the best tomorrow. Model size corresponds to the number of parameters and often determines its ability to complete a broad set of general tasks and capabilities. However, larger models require more compute resources at inference time and can be expensive to run at production scale. Many applications don’t need a model that excels at everything but rather one that performs exceptionally well at a more limited set of tasks or domain-specific capabilities. 
-Even within a single application, optimization may require using multiple model providers depending on the specific task, complexity level, and latency requirements. In agentic applications, you might use a lightweight model for specialized agent tasks while requiring a more powerful generalist model to orchestrate and supervise those agents. Architecting your solution to be modular and resilient to changing model providers or versions helps you adapt quickly and capitalize on improvements. Services like Amazon Bedrock facilitate this approach by providing a unified API experience across a broad range of model families, including custom versions of many models. 
-How the Innovation Center can help 
-The Custom Model Program by the Innovation Center provides end-to-end expert support from model selection to customization, delivering performance improvements, and reducing time-to-market and value realization. Our process works backwards from customer business needs, strategy and goals, and starts with a use case and generative AI capability review by an experienced generative AI strategist. Specialist hands-on-keyboard applied scientists and engineers embed with customer teams to train and tune models for customers and integrate into applications without data ever needing to leave customer VPCs. This end-to-end support has helped organizations across industries successfully transform their AI vision into real business outcomes. 
- 
-Want to learn more? Contact your account manager to learn more about the Innovation Center or come see us at re:Invent at the AWS Village in the Expo. 
- 
-About the authors 
-Sri Elaprolu serves as Director of the AWS Generative AI Innovation Center, where he leverages nearly three decades of technology leadership experience to drive artificial intelligence and machine learning innovation. In this role, he leads a global team of machine learning scientists and engineers who develop and deploy advanced generative and agentic AI solutions for enterprise and government organizations facing complex business challenges. Throughout his nearly 13-year tenure at AWS, Sri has held progressively senior positions, including leadership of ML science teams that partnered with high-profile organizations such as the NFL, Cerner, and NASA. These collaborations enabled AWS customers to harness AI and ML technologies for transformative business and operational outcomes. Prior to joining AWS, he spent 14 years at Northrop Grumman, where he successfully managed product development and software engineering teams. Sri holds a Master’s degree in Engineering Science and an MBA with a concentration in general management, providing him with both the technical depth and business acumen essential for his current leadership role. 
-Hannah Marlowe leads the Model Customization and Optimization program for the AWS Generative AI Innovation Center. Her global team of strategists, specialized scientists, and engineers embeds directly with AWS customers, developing custom model solutions optimized for relevance, latency, and cost to drive business outcomes and capture ROI. Previous roles at Amazon include Senior Practice Manager for Advanced Computing and Principal Lead for Computer Vision and Remote Sensing. Dr. Marlowe completed her PhD in Physics at the University of Iowa in modeling and simulation of astronomical X-ray sources and instrumentation development for satellite-based payloads. 
- Rohit Thekkanal serves as ML Engineering Manager for Model Customization at the AWS Generative AI Innovation Center, where he leads the development of scalable generative AI applications focused on model optimization. With nearly a decade at Amazon, he has contributed to machine learning initiatives that significantly impact Amazon’s retail catalog. Rohit holds an MBA from The University of Chicago Booth School of Business and a Master’s degree from Carnegie Mellon University. 
-Alexandra Fedorova leads Growth for the Model Customization and Optimization program for the AWS Generative AI Innovation Center. Previous roles at Amazon include Global GenAI Startups Practice Leader with the AWS Generative AI Innovation Center, and Global Leader, Startups Strategic Initiatives and Growth. Alexandra holds an MBA degree from Southern Methodist University, and BS in Economics and Petroleum Engineering from Gubkin Russian State University of Oil and Gas.
 
 ⸻
