@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>State of Democracy Tracker – Admin Log</title>
+<style>
+body{font-family:sans-serif;background:#f4f4f4;padding:20px;max-width:600px;margin:auto}
+form{background:#fff;padding:20px;border-radius:8px;box-shadow:0 0 8px rgba(0,0,0,.1)}
+input,select,textarea{width:100%;padding:10px;margin:10px 0 20px;border-radius:5px;border:1px solid #ccc}
+button{background:#06c;color:#fff;padding:10px 15px;border:0;border-radius:5px;cursor:pointer}
+button:hover{background:#04a}
+</style>
+</head>
+<body>
+<h1>🗳️ State of Democracy Tracker – Admin Entry</h1>
+<form id="democracyForm">
+<label>Date:<input type="date" name="date" required></label>
+<label>Branch:
+<select name="branch" required>
+<option value="">Select...</option>
+<option>Executive</option>
+<option>Legislative</option>
+<option>Judicial</option>
+<option>State/Local</option>
+</select>
+</label>
+<label>Action / Event Title:<input type="text" name="action" required></label>
+<label>Source / Publisher:<input type="text" name="source" required></label>
+<label>Link to Source:<input type="url" name="url"></label>
+<label>Description / Notes:<textarea name="notes" rows="4" required></textarea></label>
+<button type="submit">Submit Entry</button>
+</form>
+<script>
+const endpoint="YOUR_WEBHOOK_OR_ENDPOINT_HERE";
+document.getElementById("democracyForm").addEventListener("submit",async e=>{
+e.preventDefault();
+const data=Object.fromEntries(new FormData(e.target).entries());
+try{
+const res=await fetch(endpoint,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(data)});
+if(res.ok){alert("Entry submitted successfully.");e.target.reset();}else{alert("Submission failed.");}
+}catch(err){alert("Network error.");}
+});
+</script>
+</body>
+</html>
