@@ -1,17 +1,17 @@
-✅ Morning News Briefing – November 06, 2025 10:47
+✅ Morning News Briefing – November 07, 2025 10:45
 
-📅 Date: 2025-11-06 10:47
+📅 Date: 2025-11-07 10:45
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  1.4°C
-  Temperature: 1.4&deg;C Pressure / Tendency: 101.4 kPa rising Humidity: 88 % Dewpoint: -0.3&deg:C Wind: WNW 13 km/h Air Quality Health Index: n/a . Pembroke 5:00 AM EST Thursday 6 November 2025 Temperature: . 1.2°C Pressure: 101
-• Thursday: Chance of flurries. High plus 3. POP 30%
-  30 percent chance of flurries early this morning . A mix of sun and cloud . Wind up to 15 km/h. Wind chill minus 6 this morning. UV index 1 or low. High plus 3.50°C. Wind chiller minus 6°C . High minus 3°C in the Arctic Circle, with a low of 5°C for the rest of the
-• Thursday night: Chance of flurries. Low minus 5. POP 60%
-  Increasing cloudiness near midnight then 60 percent chance of flurries overnight . Clear. Clear. Wind up to 15 km/h. Wind chill chill minus 7 overnight. Low minus 5.50°F. Wind chiller minus 7°F overnight. Forecast issued 5:00 AM EST Thursday 6 November 2025 . Forecast: Snowfall expected to continue into mid-November .
+• Current Conditions:  -1.7°C
+  Temperature: -1.7&deg;C Pressure / Tendency: 101.4 kPa falling Humidity: 93 % Wind Chill: -4 . Dewpoint: -2.7°C Wind: ESE 5 km/h Air Quality Health Index: n/a . Pembroke 5:00 AM EST Friday 7 November 2025 Temperature: 1.7 °
+• Friday: Periods of rain or snow. High plus 5.
+  60 percent chance of flurries early this morning . Periods of rain beginning early this afternoon . High plus 5 . Wind chill minus 6 this morning. UV index 1 or low, with low UV index of low or very low for the rest of the day . Forecast issued 5:00 AM EST Friday 7 November 2025. For more information, visit http://www.mailonline
+• Friday night: Periods of drizzle or rain. Temperature rising to 8 this evening then falling. POP 40%
+  Cloudy. 40 percent chance of drizzle this evening . 40 percent . chance of showers overnight . Wind southwest 20 km/h gusting to 40 becoming northwest 20 near midnight . Temperature rising to 8 this evening then falling. Chance of rain in the evening then down to 8 in the morning . Forecast issued 5:00 AM EST Friday 7 November 2025. For confidential support call the
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• The federal government is still shut down. Here's what that means across the country
-  NPR reporters are digging into the ways the government shutdown is playing out in their region . The federal government remains shut down, in what is now the longest shutdown in U.S. history . Reporters from the NPR Network are looking at the effects of the shutdown in their regions . The shutdown is the longest in U.,S. government history, according to CNN's Tyrone Turner .
-• How would the government shutdown affect Thanksgiving travel? Here's what to know
-  Holiday travel can already be stressful . Here's how a prolonged government shutdown might make things even harder for travelers . The government shutdown could make it even more difficult for travelers to travel in the U.S. It's unclear whether you should travel at all at the end of the year . The shutdown could be even more stressful for travelers who want to avoid it all over the country . The
-• ICE is sending a chill through the construction industry
-  More than a quarter of construction workers are foreign-born . Industry officials say Trump's immigration crackdown is making it worse . Construction industry has long struggled to find enough workers, now officials say it's getting worse . Trump's crackdown is hurting the construction industry, officials say, and it's even hurting the industry's need to hire more foreign workers . The construction industry has been hit hard by
-• The government shutdown is delaying an assistance program families use to heat homes
-  The Low-Income Home Energy Assistance Program helps about 6 million U.S. households pay energy bills, buy fuel, or fix broken heaters . The shutdown has stalled funds for the LIHEAP program, which helps 6 million households pay bills, fuel, and repair broken heating systems . The government shutdown has stymied the program's ability to continue to work through the shutdown
-• The DOJ has been firing judges with immigrant defense backgrounds
-  NPR's data analysis shows that the DOJ has tended to fire judges with immigrant defense backgrounds in its recent rounds of dismissals . NPR also found that judges with immigration defense backgrounds have tended to be fired in the recent dismissals of judges . The DOJ has fired judges with immigrants defense backgrounds more often in recent rounds than in previous rounds of dismissalals, according to the data analysis . The federal
+• Support for Israel among U.S. conservatives is starting to crack. Here's why
+  For a decade, political support for Israel has come from conservative Christians . But now isolationism and antisemitism are changing the tone . Anti-Semitism and isolationism have changed the tone in the U.S. for the past decade . Israel has been a major ally of Israel in the Middle East for more than a decade but has suffered from anti-Semitism, anti-Islamophobia
+• What's happening with furniture prices? A tale of $399 couches and tariffs
+  Competition from overseas rivals or second-hand goods has kept the price of furniture relatively low . New tariffs may boost U.S. makers — and raise prices . Competition has kept prices relatively low, but new tariffs may raise prices for furniture makers in the U.K. New tariffs could also raise the cost of U.N. furniture makers' waives price of goods in U.
+• The shutdown continues, but politics persists. That gives this quiz a lot of fodder
+  CNN asked a bunch of questions about politics and bears . Here are some of the answers to the questions posed about bears in the U.S. Here are a few of them about politics, bears, bears and politics . CNN.com will feature iReporters from around the world in a weekly Travel Snapshots gallery on CNN iReport.com/Travel.com . Please submit your
+• Want less screen-obsessed kids? Set better tech boundaries for yourself
+  For kids to have healthy relationships with technology and smartphones, parents need to model good habits . Here's how to do it, and how to monitor screen time for kids . Parents need to be consistent with good habits for kids, says CNN.com's John Sutter.com.com/Heroes for Kids: Have a healthy relationship with technology? Share your story with CNN iReport
+• If we're being truthful, people are saying 'honestly' all the time
+  The popularity of the word honestly online and in conversation has soared in recent years . TBH, we'd like to know what's going on. TBH: TBH. We'd like an explanation for the rise in the popularity of honestly online, in conversation, and in the news. We want to know more about the rise of the term honestly in the world. We do not
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Malware-pwned laptop gifts cybercriminals Nikkei's Slack
-  Stolen creds let miscreants waltz into 17K employees' chats, spilling info on staff and partners . Japanese media behemoth Nikkei admits to data breach after snooping on 17,000 employees and business partners . The personal details of more than 17K people and partners were exposed in a Slack chat room . Stolen info was stolen from the company's
-• Boffins: cloud computing's on-demand biz model is failing us
-  Science loses when lab workers grapple with costs and availability, claim researchers . Cloud vendors’ commercial models poorly serve scientists, forcing them to struggle for value amid tightening budgets, say researchers . Research: Science loses if lab workers struggle with costs, availability, availability and costs .… Scientists struggle with value amid tight budgets, according to research.……… Scientists lose when lab staff grapple with
-• UK space sector 'lacks strategic direction,' Lords warn
-  Parliamentary report calls for sovereign launch capability and reduced dependence on US services . 2021 National Space Strategy has "failed to turn its ambitions into reality," report says . UK Engagement with Space Committee has published a scathing report, "The Space Economy: Act Now or Lose Out," declaring that the 2021 national space strategy has failed to turn "its ambitions into reality" House of Lords UK Eng
-• China uses Mars orbiter to snap interstellar comet 3I/ATLAS
-  China has matched the European Space Agency’s feat of taking a snapshot of interstellar comet 3I/ATLAS from a Mars orbiter . Middle Kingdom also postpones astronaut return mission after something hit its spaceship . China has matching the European space agency's feat of capturing the interstellar comet from a Martian orbiter.………...…… China has also postponed its astronaut return
-• Qualcomm bets on inferencing in the cloud, which Arm says can’t run it all it forever
-  Qualcomm and Arm have offered differing predictions regarding the market for inferencing silicon . The two companies are close partners in the field . Arm and Qualcomm have been working together for years to develop silicon chips for the next-generation mobile platforms . Arm has been working with Qualcomm to develop a new processor chip that could be used in the next generation of mobile phones, but Qualcomm says it will be
+• UK tax collector falls short on digital efficiency, watchdog says
+  Treasury found £1.6 billion for extra tech investment expecting 15 percent efficiency saving . So far HMRC has underwhelmed . HMRC is yet to reach levels of efficiency its investment in digital services has led auditors to expect, according to a new report . Treasury found that HMRC had wasted £2.2 billion of the money on digital services in the last three years .
+• ISP help desk manager fell for ‘Internet Cleaning Day’ prank - then swore he got the joke
+  On Call is The Register’s Friday reader-contributed column that celebrates the fine art of tech support . Lost packets would be cleaned out of routers, dead gopher servers would be pulled out of holes . On Call: On Call, The Register's Friday readers share their views on tech support and tech tech support in the next week's edition of this week's On Call .
+• Foxconn hires humanoid robots to make servers at Nvidia's Texas factory
+  Taiwanese contract manufacturer Foxconn confirmed it will use humanoid robots to make Nvidia servers in America . We're months away from AI building AI, but it's still months away . Foxconn will use robots to build servers for Nvidia in America, which will be made by robots in the U.S. Foxconn has confirmed it is using humanoid robots for its servers . It will also use robots
+• Rideshare giant moves 200 Macs out of the cloud, saves $2.4 million
+  Singaporean super-app company Grab has dumped 200 cloudy Mac Minis and replaced them with physical machines . Grab expects the move will save $2.4 million over three years . Grab tried to virtualize macOS, but Apple doesn’t make that easy . The move is expected to save Grab $2 million over the next three years, the company hopes to save $3 million
+• Microsoft will force its 'superintelligence' to be a 'humanist' and play nice with people
+  Mustafa Suleyman is willing to sacrifice performance for the future of our species . Microsoft has joined the ranks of tech giants chasing superintelligent artificial intelligence . But the company's AI chief's vision is markedly different from that of other industry leaders . Microsoft's new AI boss is willing not to sacrifice human performance for future of the species, says Microsoft's AI boss . Microsoft’
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• Stillbirths and the race-specific gap in neonatal death among extremely preterm births
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Addressing the Recurrent and Protracted Cholera Outbreaks in Africa: Challenges and the Way Forward
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• WHO benchmarks for equitable hip-fracture care and osteoporosis treatment in older people
+• A qualitative study on operational challenges of Iranian affiliated mobile health clinics in Iraq during Arbaeen
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• A network analysis of housing quality indicators and depression in women
+• Association between prenatal exposure to antihypertensive medication and neurodevelopmental and educational outcomes in children
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• DietAI24 as a framework for comprehensive nutrition estimation using multimodal large language models
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Are reallocating time to moderate-to-vigorous physical activity associated with preschoolers’ body composition?
+• The relationship between premenstrual syndrome and circadian rhythm, depressive mood, and anxiety
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,367 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• The first new subsea habitat in 40 years is about to launch
+  Vanguard feels and smells like a new RV. It has long, gray banquettes that convert into bunks, a microwave cleverly hidden under a counter, a functional steel sink with a French press and crockery above. A weird little toilet hides behind a curtain.
+
+
+
+But some clues hint that you can’t just fire up Vanguard’s engine and roll off the lot. The least subtle is its door, a massive disc of steel complete with a wheel that spins to lock.
+
+
+
+COURTESY MARK HARRIS
+
+
+
+
+Once it is sealed and moved to its permanent home beneath the waves of the Florida Keys National Marine Sanctuary early next year, Vanguard will be the world’s first new subsea habitat in nearly four decades. Teams of four scientists will live and work on the seabed for a week at a time, entering and leaving the habitat as scuba divers. Their missions could include reef restoration, species surveys, underwater archaeology, or even astronaut training.&nbsp;
+
+
+
+One of Vanguard’s modules, unappetizingly named the “wet porch,” has a permanent opening in the floor (a.k.a. a “moon pool”) that doesn’t flood because Vanguard’s air pressure is matched to the water around it.&nbsp;
+
+
+
+It is this pressurization that makes the habitat so useful. Scuba divers working at its maximum operational depth of 50 meters would typically need to make a lengthy stop on their way back to the surface to avoid decompression sickness. This painful and potentially fatal condition, better known as the bends, develops if divers surface too quickly. A traditional 50-meter dive gives scuba divers only a handful of minutes on the seafloor, and they can make only a couple of such dives a day. With Vanguard’s atmosphere at the same pressure as the water, its aquanauts need to decompress only once, at the end of their stay. They can potentially dive for many hours every day.
+
+
+
+That could unlock all kinds of new science and exploration. “More time in the ocean opens a world of possibility, accelerating discoveries, inspiration, solutions,” said Kristen Tertoole, Deep’s chief operating officer, at Vanguard’s unveiling in Miami in October. “The ocean is Earth’s life support system. It regulates our climate, sustains life, and holds mysteries we’ve only begun to explore, but it remains 95% undiscovered.”
+
+
+
+COURTESY DEEP
+
+
+
+
+Subsea habitats are not a new invention. Jacques Cousteau (naturally) built the first in 1962, although it was only about the size of an elevator. Larger habitats followed in the 1970s and ’80s, maxing out at around the size of Vanguard.
+
+
+
+But the technology has come a long way since then. Vanguard uses a tethered connection to a buoy above, known as the “surface expression,” that pipes fresh air and water down to the habitat. It also hosts a diesel generator to power a Starlink internet connection and a tank to hold wastewater. Norman Smith, Deep’s chief technology officer, says the company modeled the most severe hurricanes that Florida expects over the next 20 years and designed the tether to withstand them. Even if the worst happens and the link is broken, Deep says, Vanguard has enough air, water, and energy storage to support its crew for at least 72 hours.
+
+
+
+That number came from DNV, an independent classification agency that inspects and certifies all types of marine vessels so that they can get commercial insurance. Vanguard will be the first subsea habitat to get a DNV classification. “That means you have to deal with the rules and all the challenging, frustrating things that come along with it, but it means that on a foundational level, it’s going to be safe,” says Patrick Lahey, founder of Triton Submarines, a manufacturer of classed submersibles.
+
+
+
+JASON KOERNER/GETTY IMAGES FOR DEEP
+
+
+
+
+Although Deep hopes Vanguard itself will enable decades of useful science, its prime function for the company is to prove out technologies for its planned successor, an advanced modular habitat called Sentinel. Sentinel modules will be six meters wide, twice the diameter of Vanguard, complete with sweeping staircases and single-occupant cabins. A small deployment might have a crew of eight, about the same as the International Space Station. A big Sentinel system could house 50, up to 225 meters deep. Deep claims that Sentinel will be launched at some point in 2027.
+
+
+
+Ultimately, according to its mission statement, Deep seeks to “make humans aquatic,” an indication that permanent communities are on its long-term road map.&nbsp;
+
+
+
+Deep has not publicly disclosed the identity of its principal funder, but business records in the UK indicate that as of January 31, 2025 a Canadian man, Robert MacGregor, owned at least 75% of its holding company. According to a Reuters investigation, MacGregor was once linked with Craig Steven Wright, a computer scientist who claimed to be Satoshi Nakamoto, as bitcoin’s elusive creator is pseudonymously known. However, Wright’s claims to be Nakamoto later collapsed.&nbsp;
+
+
+
+MacGregor has kept a very low public profile in recent years. When contacted for comment, Deep spokesperson Mike Bohan refused to comment on the link with Wright, only to say it was inaccurate, but said: “Robert MacGregor started his career as an IP lawyer in the dot-com era, moving into blockchain technology and has diverse interests including philanthropy, real estate, and now Deep.”
+
+
+
+In any case, MacGregor could find keeping that low profile more difficult if Vanguard is successful in reinvigorating ocean science and exploration as the company hopes. The habitat is due to be deployed early next year, following final operational tests at Triton’s facility in Florida. It will welcome its first scientists shortly after.&nbsp;
+
+
+
+“The ocean is not just our resource; it is our responsibility,” says Tertoole. “Deep is more than a single habitat. We are building a full-stack capability for human presence in the ocean.”
+
+
+
+JASON KOERNER/GETTY IMAGES FOR DEEP
+• Cloning isn’t just for celebrity pets like Tom Brady’s dog
+  This week, we heard that Tom Brady had his dog cloned. The former quarterback revealed that his Junie is actually a clone of Lua, a pit bull mix that died in 2023.
+
+
+
+Brady’s announcement follows those of celebrities like Paris Hilton and Barbra Streisand, who also famously cloned their pet dogs. But some believe there are better ways to make use of cloning technologies.
+
+
+
+
+
+While the pampered pooches of the rich and famous may dominate this week’s headlines, cloning technologies are also being used to diversify the genetic pools of inbred species and potentially bring other animals back from the brink of extinction.
+
+
+
+Cloning itself isn’t new. The first mammal cloned from an adult cell, Dolly the sheep, was born in the 1990s. The technology has been used in livestock breeding over the decades since.
+
+
+
+Say you’ve got a particularly large bull, or a cow that has an especially high milk yield. Those animals are valuable. You could selectively breed for those kinds of characteristics. Or you could clone the original animals—essentially creating genetic twins.
+
+
+
+Scientists can take some of the animals’ cells, freeze them, and store them in a biobank. That opens the option to clone them in the future. It’s possible to thaw those cells, remove the DNA-containing nuclei of the cells, and insert them into donor egg cells.
+
+
+
+Those donor egg cells, which come from another animal of the same species, have their own nuclei removed. So it’s a case of swapping out the DNA. The resulting cell is stimulated and grown in the lab until it starts to look like an embryo. Then it is transferred to the uterus of a surrogate animal—which eventually gives birth to a clone.
+
+
+
+There are a handful of companies offering to clone pets. Viagen, which claims to have “cloned more animals than anyone else on Earth,” will clone a dog or cat for $50,000. That’s the company that cloned Streisand’s pet dog Samantha, twice.
+
+
+
+This week, Colossal Biosciences—the “de-extinction” company that claims to have resurrected the dire wolf and created a “woolly mouse” as a precursor to reviving the woolly mammoth—announced that it had acquired Viagen, but that Viagen will “continue to operate under its current leadership.”
+
+
+
+Pet cloning is controversial, for a few reasons. The companies themselves point out that, while the cloned animal will be a genetic twin of the original animal, it won’t be identical. One issue is mitochondrial DNA—a tiny fraction of DNA that sits outside the nucleus and is inherited from the mother. The cloned animal may inherit some of this from the surrogate.
+
+
+
+Mitochondrial DNA is unlikely to have much of an impact on the animal itself. More important are the many, many factors thought to shape an individual’s personality and temperament. “It’s the old nature-versus-nurture question,” says Samantha Wisely, a conservation geneticist at the University of Florida. After all, human identical twins are never carbon copies of each other. Anyone who clones a pet expecting a like-for-like reincarnation is likely to be disappointed.
+
+
+
+
+
+And some animal welfare groups are opposed to the practice of pet cloning. People for the Ethical Treatment of Animals (PETA) described it as “a horror show,” and the UK’s Royal Society for the Prevention of Cruelty to Animals (RSPCA) says that “there is no justification for cloning animals for such trivial purposes.” 
+
+
+
+But there are other uses for cloning technology that are arguably less trivial. Wisely has long been interested in diversifying the gene pool of the critically endangered black-footed ferret, for example.
+
+
+
+Today, there are around 10,000 black-footed ferrets that have been captively bred from only seven individuals, says Wisely. That level of inbreeding isn’t good for any species—it tends to leave organisms at risk of poor health. They are less able to reproduce or adapt to changes in their environment.
+
+
+
+Wisely and her colleagues had access to frozen tissue samples taken from two other ferrets. Along with colleagues at not-for-profit Revive and Restore, the team created clones of those two individuals. The first clone, Elizabeth Ann, was born in 2020. Since then, other clones have been born, and the team has started breeding the cloned animals with the descendants of the other seven ferrets, says Wisely.
+
+
+
+The same approach has been used to clone the endangered Przewalski’s horse, using decades-old tissue samples stored by the San Diego Zoo. It’s too soon to predict the impact of these efforts. Researchers are still evaluating the cloned ferrets and their offspring to see if they behave like typical animals and could survive in the wild.
+
+
+
+Even this practice is not without its critics. Some have pointed out that cloning alone will not save any species. After all, it doesn’t address the habitat loss or human-wildlife conflict that is responsible for the endangerment of these animals in the first place. And there will always be detractors who accuse people who clone animals of “playing God.” 
+
+
+
+For all her involvement in cloning endangered ferrets, Wisely tells me she would not consider cloning her own pets. She currently has three rescue dogs, a rescue cat, and “geriatric chickens.” “I love them all dearly,” she says. “But there are a lot of rescue animals out there that need homes.”
+
+
+
+This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, sign up here.
+• The Download: how doctors fight conspiracy theories, and your AI footprint
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 
+
+
+
+How conspiracy theories infiltrated the doctor’s office
+
+
+
+As anyone who has googled their symptoms and convinced themselves that they’ve got a brain tumor will attest, the internet makes it very easy to self-(mis)diagnose your health problems. And although social media and other digital forums can be a lifeline for some people looking for a diagnosis or community, when that information is wrong, it can put their well-being and even lives in danger.We spoke to a number of health-care professionals who told us how this modern impulse to “do your own research” is changing their profession. Read the full story.—Rhiannon Williams
+
+
+
+This story is part of MIT Technology Review’s series “The New Conspiracy Age,” on how the present boom in conspiracy theories is reshaping science and technology.
+
+
+
+
+
+
+
+Stop worrying about your AI footprint. Look at the big picture instead.
+
+
+
+—Casey Crownhart
+
+
+
+As a climate technology reporter, I’m often asked by people whether they should be using AI, given how awful it is for the environment. Generally, I tell them not to worry—let a chatbot plan your vacation, suggest recipe ideas, or write you a poem if you want.That response might surprise some. I promise I’m not living under a rock, and I have seen all the concerning projections about how much electricity AI is using. But I feel strongly about not putting the onus on individuals. Here’s why.
+
+
+
+This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
+
+
+
+
+
+
+
+A new ion-based quantum computer makes error correction simpler
+
+
+
+A company called Quantinuum has just unveiled Helios, its third-generation quantum computer, which includes expanded computing power and error correction capability.Like all other existing quantum computers, Helios is not powerful enough to execute the industry’s dream money-making algorithms, such as those that would be useful for materials discovery or financial modeling.But Quantinuum’s machines, which use individual ions as qubits, could be easier to scale up than quantum computers that use superconducting circuits as qubits, such as Google’s and IBM’s. Read the full story.
+
+
+
+—Sophia Chen
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 A new California law could change how all Americans browse online It gives web users the chance to opt out of having their personal information sold or shared. (The Markup)
+
+
+
+2 The FDA has fast-tracked a pill to treat pancreatic cancerThe experimental drug appears promising, but experts worry corners may be cut. (WP $)+ Demand for AstraZeneca’s cancer and diabetes drugs is pushing profits up. (Bloomberg $)+ A new cancer treatment kills cells using localized heat. (Wired $)3 AI pioneers claim it is already superior to humans in many tasksBut not all tasks are created equal. (FT $)+ Are we all wandering into an AGI trap? (Vox)+ How AGI became the most consequential conspiracy theory of our time. (MIT Technology Review)
+
+
+
+4 IBM is planning on cutting thousands of jobsIt’s shifting its focus to software and AI consulting, apparently. (Bloomberg $)+ It’s keen to grow the number of its customers seeking AI advice. (NYT $)
+
+
+
+5 Big Tech’s data centers aren’t the job-generators we were promisedThe jobs they do create are largely in security and cleaning. (Rest of World)+ We did the math on AI’s energy footprint. Here’s the story you haven’t heard. (MIT Technology Review)
+
+
+
+6 Microsoft let AI shopping agents loose in a fake marketplace They were easily manipulated into buying goods, it found. (TechCrunch)+ When AIs bargain, a less advanced agent could cost you. (MIT Technology Review)
+
+
+
+7 Sony has compiled a dataset to test the fairness of computer vision modelsAnd it’s confident it’s been compiled in a fair and ethical way. (The Register)+ These new tools could make AI vision systems less biased. (MIT Technology Review)
+
+
+
+8 The social network is no moreWe’re living in an age of anti-social media. (The Atlantic $)+ Scam ads are rife across platforms, but these former Meta workers have a plan. (Wired $)+ The ultimate online flex? Having no followers. (New Yorker $)
+
+
+
+9 Vibe coding is Collins dictionary’s word of 2025 Beating stiff competition from “clanker.” (The Guardian)+ What is vibe coding, exactly? (MIT Technology Review)10 These people found romance with their chatbot companionsThe AI may not be real, but the humans’ feelings certainly are. (NYT $)+ It’s surprisingly easy to stumble into a relationship with an AI chatbot. (MIT Technology Review)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“The opportunistic side of me is realizing that your average accountant won’t be doing this.”
+
+
+
+—Sal Abdulla, founder of accounting-software startup NixSheets, tells the Wall Street Journal he’s using AI tools to gain an edge on his competitors.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+Ethically sourced “spare” human bodies could revolutionize medicineMany challenges in medicine stem, in large part, from a common root cause: a severe shortage of ethically-sourced human bodies.There might be a way to get out of this moral and scientific deadlock. Recent advances in biotechnology now provide a pathway to producing living human bodies without the neural components that allow us to think, be aware, or feel pain.Many will find this possibility disturbing, but if researchers and policymakers can find a way to pull these technologies together, we may one day be able to create “spare” bodies, both human and nonhuman. Read the full story.—Carsten T. Charlesworth, Henry T. Greely &amp; Hiromitsu Nakauchi
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
+
+
+
++ Make sure to look up so you don’t miss November’s supermoon.+ If you keep finding yourself mindlessly scrolling (and who doesn’t?), maybe this whopping six-pound phone case could solve your addiction.+ Life lessons from a 101-year old who has no plans to retire.+ Are you a fan of movement snacking?
+• Stop worrying about your AI footprint. Look at the big picture instead.
+  Picture it: I’m minding my business at a party, parked by the snack table (of course). A friend of a friend wanders up, and we strike up a conversation. It quickly turns to work, and upon learning that I’m a climate technology reporter, my new acquaintance says something like: “Should I be using AI? I’ve heard it’s awful for the environment.”&nbsp;
+
+
+
+
+
+This actually happens pretty often now. Generally, I tell people not to worry—let a chatbot plan your vacation, suggest recipe ideas, or write you a poem if you want.&nbsp;
+
+
+
+That response might surprise some people, but I promise I’m not living under a rock, and I have seen all the concerning projections about how much electricity AI is using. Data centers could consume up to 945 terawatt-hours annually by 2030. (That’s roughly as much as Japan.)&nbsp;
+
+
+
+But I feel strongly about not putting the onus on individuals, partly because AI concerns remind me so much of another question: “What should I do to reduce my carbon footprint?”&nbsp;
+
+
+
+That one gets under my skin because of the context: BP helped popularize the concept of a carbon footprint in a marketing campaign in the early 2000s. That framing effectively shifts the burden of worrying about the environment from fossil-fuel companies to individuals.&nbsp;
+
+
+
+The reality is, no one person can address climate change alone: Our entire society is built around burning fossil fuels. To address climate change, we need political action and public support for researching and scaling up climate technology. We need companies to innovate and take decisive action to reduce greenhouse-gas emissions. Focusing too much on individuals is a distraction from the real solutions on the table.&nbsp;
+
+
+
+
+
+I see something similar today with AI. People are asking climate reporters at barbecues whether they should feel guilty about using chatbots too frequently when we need to focus on the bigger picture.&nbsp;
+
+
+
+Big tech companies are playing into this narrative by providing energy-use estimates for their products at the user level. A couple of recent reports put the electricity used to query a chatbot at about 0.3 watt-hours, the same as powering a microwave for about a second. That’s so small as to be virtually insignificant.
+
+
+
+But stopping with the energy use of a single query obscures the full truth, which is that this industry is growing quickly, building energy-hungry infrastructure at a nearly incomprehensible scale to satisfy the AI appetites of society as a whole. Meta is currently building a data center in Louisiana with five gigawatts of computational power—about the same demand as the entire state of Maine at the summer peak.&nbsp; (To learn more, read our Power Hungry series online.)
+
+
+
+
+
+Increasingly, there’s no getting away from AI, and it’s not as simple as choosing to use or not use the technology. Your favorite search engine likely gives you an AI summary at the top of your search results. Your email provider’s suggested replies? Probably AI. Same for chatting with customer service while you’re shopping online.&nbsp;
+
+
+
+Just as with climate change, we need to look at this as a system rather than a series of individual choices.&nbsp;
+
+
+
+Massive tech companies using AI in their products should be disclosing their total energy and water use and going into detail about how they complete their calculations. Estimating the burden per query is a start, but we also deserve to see how these impacts add up for billions of users, and how that’s changing over time as companies (hopefully) make their products more efficient. Lawmakers should be mandating these disclosures, and we should be asking for them, too.&nbsp;
+
+
+
+That’s not to say there’s absolutely no individual action that you can take. Just as you could meaningfully reduce your individual greenhouse-gas emissions by taking fewer flights and eating less meat, there are some reasonable things that you can do to reduce your AI footprint. Generating videos tends to be especially energy-intensive, as does using reasoning models to engage with long prompts and produce long answers. Asking a chatbot to help plan your day, suggest fun activities to do with your family, or summarize a ridiculously long email has relatively minor impact.&nbsp;
+
+
+
+Ultimately, as long as you aren’t relentlessly churning out AI slop, you shouldn’t be too worried about your individual AI footprint. But we should all be keeping our eye on what this industry will mean for our grid, our society, and our planet.&nbsp;
+
+
+
+This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
 • A new ion-based quantum computer makes error correction simpler
   The US- and UK-based company Quantinuum today unveiled Helios, its third-generation quantum computer, which includes expanded computing power and error correction capability.&nbsp;
 
@@ -125,7 +486,7 @@ Besides increasing the number of qubits on its chip, another notable achievement
 
 
 
-Quantinuum has used its computers to investigate the basic physics of magnetism and superconductivity. Earlier this year, it reported simulating a magnet on H2, Quantinuum’s predecessor, with the claim that it “rivals the best classical approaches in expanding our understanding of magnetism.” Along with announcing the introduction of Helios, the company has used the machine to simulate the behavior of electrons in a high-temperature superconductor.&nbsp;
+Quantinuum has used its computers to investigate the basic physics of magnetism and superconductivity. Earlier this year, it reported simulating a magnet on H2, Helios’s predecessor, with the claim that it “rivals the best classical approaches in expanding our understanding of magnetism.” Along with announcing the introduction of Helios, the company has used the machine to simulate the behavior of electrons in a high-temperature superconductor. 
 
 
 
@@ -134,514 +495,6 @@ Quantinuum has used its computers to investigate the basic physics of magnetism 
 
 
 Quantinuum plans to build another version of Helios in its facility in Minnesota. It has already begun to build a prototype for a fourth-generation computer, Sol, which it plans to deliver in 2027, with 192 physical qubits. Then, in 2029, the company hopes to release Apollo, which it says will have thousands of physical qubits and should be “fully fault tolerant,” or able to implement error correction at a large scale.
-• The Download: the solar geoengineering race, and future gazing with the The Simpsons
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
-
-
-
-Why the for-profit race into solar geoengineering is bad for science and public trust
-
-
-
-—David Keith is the professor of geophysical sciences at the University of Chicago and Daniele Visioni is an assistant professor of earth and atmospheric sciences at Cornell University
-
-
-
-Last week, an American-Israeli company that claims it’s developed proprietary technology to cool the planet announced it had raised $60 million, by far the largest known venture capital round to date for a solar geoengineering startup.The company, Stardust, says the funding will enable it to develop a system that could be deployed by the start of the next decade, according to Heatmap, which broke the story.As scientists who have worked on the science of solar geoengineering for decades, we have grown increasingly concerned about emerging efforts to start and fund private companies to deploy technologies that could alter the climate of the planet. We also strongly dispute some of the technical claims that certain companies have made about their offerings. Read the full story.
-
-
-
-This story is part of Heat Exchange, MIT Technology Review’s guest opinion series offering expert commentary on legal, political and regulatory issues related to climate change and clean energy. You can read the rest of the series here.
-
-
-
-
-
-
-
-Can “The Simpsons” really predict the future?
-
-
-
-According to internet listicles, the animated sitcom The Simpsons has predicted the future anywhere from 17 to 55 times.The show foresaw Donald Trump becoming US President a full 17 years before the real estate mogul was inaugurated as the 45th leader of the United States. Earlier, in 1993, an episode of the show featured the “Osaka flu,” which some felt was eerily prescient of the coronavirus pandemic. And—somehow!—Simpsons writers just knew that the US Olympic curling team would beat Sweden eight whole years before they did it.Al Jean has worked on The Simpsons on and off since 1989; he is the cartoon’s longest-serving showrunner. Here, he reflects on the conspiracy theories that have sprung from these apparent prophecies. Read the full story.
-
-
-
-—Amelia Tait
-
-
-
-This story is part of MIT Technology Review’s series “The New Conspiracy Age,” about how the present boom in conspiracy theories is reshaping science and technology.
-
-
-
-
-
-
-
-MIT Technology Review Narrated: Therapists are secretly using ChatGPT. Clients are triggered.
-
-
-
-Declan would never have found out his therapist was using ChatGPT had it not been for a technical mishap where his therapist began inadvertently sharing his screen.
-
-
-
-For the rest of the session, Declan was privy to a real-time stream of ChatGPT analysis rippling across his therapist’s screen, who was taking what Declan was saying, putting it into ChatGPT, and then parroting its answers.
-
-
-
-But Declan is not alone. In fact, a growing number of people are reporting receiving AI-generated communiqués from their therapists. Clients’ trust and privacy are being abandoned in the process.
-
-
-
-This is our latest story to be turned into a MIT Technology Review Narrated podcast, which we’re publishing each week on Spotify and Apple Podcasts. Just navigate to MIT Technology Review Narrated on either platform, and follow us to get all our new content as it’s released.
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 Amazon is suing Perplexity over its Comet AI agentIt alleges Perplexity is committing computer fraud by not disclosing when Comet is shopping on a human’s behalf. (Bloomberg $)+ In turn, Perplexity has accused Amazon of bullying. (CNBC)
-
-
-
-2 Trump has nominated the billionaire entrepreneur Jared Isaacman to lead NASAFive months after he withdrew Isaacman’s nomination for the same job. (WP $)+ It was around the same time Elon Musk left the US government. (WSJ $)3 Homeland Security has released an app for police forces to scan people’s faces Mobile Fortify uses facial recognition to identify whether someone’s been given a deportation order. (404 Media)+ Another effort to track ICE raids was just taken offline. (MIT Technology Review)
-
-
-
-4 Scientific journals are being swamped with AI-written lettersResearchers are sifting through their inbox trying to work out what to believe. (NYT $)+ ArXiv is no longer accepting certain papers for fear they’ve been written by AI. (404 Media)
-
-
-
-5 The AI boom has proved a major windfall for equipment makers Makers of small turbines and fuel cells, rejoice. (WSJ $)
-
-
-
-6 Chronic kidney disease may be the first chronic illness linked to climate changeExperts have linked a surge in the disease to hotter temperatures. (Undark)+ The quest to find out how our bodies react to extreme temperatures. (MIT Technology Review)
-
-
-
-7 Brazil is proposing a fund to protect tropical forestsIt would pay countries not to fell their trees. (NYT $)
-
-
-
-8 New York has voted for a citywide digital mapIt’ll officially represent the five boroughs for the first time. (Fast Company $)
-
-
-
-9 The internet could be at risk of catastrophic collapseMeet the people preparing for that exact eventuality. (New Scientist $)10 A Chinese space craft may have been hit by space junkThree astronauts have been forced to remain on the Tiangong space station while the damage is investigated. (Ars Technica)
-
-
-
-
-
-
-
-Quote of the day
-
-
-
-“I am not sure how I earned the trust of so many, but I will do everything I can to live up to those expectations.”
-
-
-
-—Jared Isaacman, Donald Trump’s renomination to lead NASA, doesn’t appear entirely sure in his own abilities to lead the agency, Ars Technica reports.
-
-
-
-
-
-
-
-One more thing
-
-
-
-
-
-
-
-Is the digital dollar dead?In 2020, digital currencies were one of the hottest topics in town. China was well on its way to launching its own central bank digital currency, or CBDC, and many other countries launched CBDC research projects, including the US.How things change. Years later, the digital dollar—even though it doesn’t exist—has become political red meat, as some politicians label it a dystopian tool for surveillance. And late last year, the Boston Fed quietly stopped working on its CBDC project. So is the dream of the digital dollar dead? Read the full story.—Mike Orcutt
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+ The world’s oldest air has been unleashed, after six million years under ice.+ How to stop sweating the small stuff and try to be happy in this mad world.+ Happy Bonfire Night to our British readers! + The spirit of Halloween is still with us: the scariest music ever recorded.
-• From vibe coding to context engineering: 2025 in software development
-  This year, we’ve seen a real-time experiment playing out across the technology industry, one in which AI’s software engineering capabilities have been put to the test against human technologists. And although 2025 may have started with AI looking strong, the transition from vibe coding to what’s being termed context engineering shows that while the work of human developers is evolving, they nevertheless remain absolutely critical.
-
-
-
-This is captured in the latest volume of the “Thoughtworks Technology Radar,” a report on the technologies used by our teams on projects with clients. In it, we see the emergence of techniques and tooling designed to help teams better tackle the problem of managing context when working with LLMs and AI agents.&nbsp;
-
-
-
-Taken together, there’s a clear signal of the direction of travel in software engineering and even AI more broadly. After years of the industry assuming progress in AI is all about scale and speed, we’re starting to see that what matters is the ability to handle context effectively.
-
-
-
-
-
-
-
-Vibes, antipatterns, and new innovations 
-
-
-
-In February 2025, Andrej Karpathy coined the term vibe coding. It took the industry by storm. It certainly sparked debate at Thoughtworks; many of us were skeptical. On an April episode of our technology podcast, we talked about our concerns and were cautious about how vibe coding might evolve.
-
-
-
-Unsurprisingly given the implied imprecision of vibe-based coding, antipatterns have been proliferating. We’ve once again noted, for instance, complacency with AI generated code on the latest volume of the Technology Radar, but it’s also worth pointing out that early ventures into vibe coding also exposed a degree of complacency about what AI models can actually handle — users demanded more and prompts grew larger, but model reliability started to falter.
-
-
-
-Experimenting with generative AI 
-
-
-
-This is one of the drivers behind increasing interest in engineering context. We’re well aware of its importance, working with coding assistants like Claude Code and Augment Code. Providing necessary context—or knowledge priming—is crucial. It ensures outputs are more consistent and reliable, which will ultimately lead to better software that needs less work — reducing rewrites and potentially driving productivity.
-
-
-
-When effectively prepared, we’ve seen good results when using generative AI to understand legacy codebases. Indeed, done effectively with the appropriate context, it can even help when we don’t have full access to source code.&nbsp;
-
-
-
-It’s important to remember that context isn’t just about more data and more detail. This is one of the lessons we’ve taken from using generative AI for forward engineering. It might sound counterintuitive, but in this scenario, we’ve found AI to be more effective when it’s further abstracted from the underlying system — or, in other words, further removed from the specifics of the legacy code. This is because the solution space becomes much wider, allowing us to better leverage the generative and creative capabilities of the AI models we use.
-
-
-
-Context is critical in the agentic era
-
-
-
-The backdrop of changes that have happened over recent months is the growth of agents and agentic systems — both as products organizations want to develop and as technology they want to leverage. This has forced the industry to properly reckon with context and move away from a purely vibes-based approach.
-
-
-
-Indeed, far from simply getting on with tasks they’ve been programmed to do, agents require significant human intervention to ensure they are equipped to respond to complex and dynamic contexts.&nbsp;
-
-
-
-There are a number of context-related technologies aimed at tackling this challenge, including agents.md, Context7, and Mem0. But it’s also a question of approach. For instance, we’ve found success with anchoring coding agents to a reference application — essentially providing agents with a contextual ground truth. We’re also experimenting with using teams of coding agents; while this might sound like it increases complexity, it actually removes some of the burden of having to give a single agent all the dense layers of context it needs to do its job successfully.
-
-
-
-Toward consensus
-
-
-
-Hopefully the space will mature as practices and standards embed. It would be remiss to not mention the significance of the Model Context Protocol, which has emerged as the go-to protocol for connecting LLMs or agentic AI to sources of context. Relatedly, the agent2agent (A2A) protocol leads the way with standardizing how agents interact with one another.&nbsp;
-
-
-
-It remains to be seen whether these standards win out. But in any case, it’s important to consider the day-to-day practices that allow us, as software engineers and technologists, to collaborate effectively even when dealing with highly complex and dynamic systems. Sure, AI needs context, but so do we. Techniques like curated shared instructions for software teams may not sound like the hottest innovation on the planet, but they can be remarkably powerful for helping teams work together.
-
-
-
-There’s perhaps also a conversation to be had about what these changes mean for agile software development. Spec-driven development is one idea that appears to have some traction, but there are still questions about how we remain adaptable and flexible while also building robust contextual foundations and ground truths for AI systems.
-
-
-
-Software engineers can solve the context challenge
-
-
-
-Clearly, 2025 has been a huge year in the evolution of software engineering as a practice. There’s a lot the industry needs to monitor closely, but it’s also an exciting time. And while fears about AI job automation may remain, the fact the conversation has moved from questions of speed and scale to context puts software engineers right at the heart of things.&nbsp;
-
-
-
-Once again, it will be down to them to experiment, collaborate, and learn — the future depends on it.
-
-
-
-This content was produced by Thoughtworks. It was not written by MIT Technology Review’s editorial staff.
-• Why the for-profit race into solar geoengineering is bad for science and public trust
-  Last week, an American-Israeli company that claims it’s developed proprietary technology to cool the planet announced it had raised $60 million, by far the largest known venture capital round to date for a solar geoengineering startup.
-
-
-
-The company, Stardust, says the funding will enable it to develop a system that could be deployed by the start of the next decade, according to Heatmap, which broke the story.
-
-
-
-
-
-
-
-Heat Exchange
-
-
-
-MIT Technology Review’s guest opinion series, offering expert commentary on legal, political and regulatory issues related to climate change and clean energy. You can read the rest of the pieces here.
-
-
-
-
-
-
-
-As scientists who have worked on the science of solar geoengineering for decades, we have grown increasingly concerned about the emerging efforts to start and fund private companies to build and deploy technologies that could alter the climate of the planet. We also strongly dispute some of the technical claims that certain companies have made about their offerings.&nbsp;
-
-
-
-Given the potential power of such tools, the public concerns about them, and the importance of using them responsibly, we argue that they should be studied, evaluated, and developed mainly through publicly coordinated and transparently funded science and engineering efforts.&nbsp; In addition, any decisions about whether or how they should be used should be made through multilateral government discussions, informed by the best available research on the promise and risks of such interventions—not the profit motives of companies or their investors.
-
-
-
-The basic idea behind solar geoengineering, or what we now prefer to call sunlight reflection methods (SRM), is that humans might reduce climate change by making the Earth a bit more reflective, partially counteracting the warming caused by the accumulation of greenhouse gases.&nbsp;
-
-
-
-There is strong evidence, based on years of climate modeling and analyses by researchers worldwide, that SRM—while not perfect—could significantly and rapidly reduce climate changes and avoid important climate risks. In particular, it could ease the impacts in hot countries that are struggling to adapt.&nbsp;&nbsp;
-
-
-
-The goals of doing research into SRM can be diverse: identifying risks as well as finding better methods. But research won’t be useful unless it’s trusted, and trust depends on transparency. That means researchers must be eager to examine pros and cons, committed to following the evidence where it leads, and driven by a sense that research should serve public interests, not be locked up as intellectual property.
-
-
-
-In recent years, a handful of for-profit startup companies have emerged that are striving to develop SRM technologies or already trying to market SRM services. That includes Make Sunsets, which sells “cooling credits” for releasing sulfur dioxide in the stratosphere. A new company, Sunscreen, which hasn’t yet been announced, intends to use aerosols in the lower atmosphere to achieve cooling over small areas, purportedly to help farmers or cities deal with extreme heat.&nbsp;&nbsp;
-
-
-
-
-
-Our strong impression is that people in these companies are driven by the same concerns about climate change that move us in our research. We agree that more research, and more innovation, is needed. However, we do not think startups—which by definition must eventually make money to stay in business—can play a productive role in advancing research on SRM.
-
-
-
-Many people already distrust the idea of engineering the atmosphere—at whichever scale—to address climate change, fearing negative side effects, inequitable impacts on different parts of the world, or the prospect that a world expecting such solutions will feel less pressure to address the root causes of climate change.
-
-
-
-Adding business interests, profit motives, and rich investors into this situation just creates more cause for concern, complicating the ability of responsible scientists and engineers to carry out the work needed to advance our understanding.
-
-
-
-The only way these startups will make money is if someone pays for their services, so there’s a reasonable fear that financial pressures could drive companies to lobby governments or other parties to use such tools. A decision that should be based on objective analysis of risks and benefits would instead be strongly influenced by financial interests and political connections.
-
-
-
-The need to raise money or bring in revenue often drives companies to hype the potential or safety of their tools. Indeed, that’s what private companies need to do to attract investors, but it’s not how you build public trust—particularly when the science doesn’t support the claims.
-
-
-
-Notably, Stardust says on its website that it has developed novel particles that can be injected into the atmosphere to reflect away more sunlight, asserting that they’re “chemically inert in the stratosphere, and safe for humans and ecosystems.” According to the company, “The particles naturally return to Earth’s surface over time and recycle safely back into the biosphere.”
-
-
-
-But it’s nonsense for the company to claim they can make particles that are inert in the stratosphere. Even diamonds, which are extraordinarily nonreactive, would alter stratospheric chemistry. First of all, much of that chemistry depends on highly reactive radicals that react with any solid surface, and second, any particle may become coated by background sulfuric acid in the stratosphere. That could accelerate the loss of the protective ozone layer by spreading that existing sulfuric acid over a larger surface area.
-
-
-
-(Stardust didn&#8217;t provide a response to an inquiry about the concerns raised in this piece.)
-
-
-
-In materials presented to potential investors, which we’ve obtained a copy of, Stardust further claims its particles “improve” on sulfuric acid, which is the most studied material for SRM. But the point of using sulfate for such studies was never that it was perfect, but that its broader climatic and environmental impacts are well understood. That’s because sulfate is widespread on Earth, and there’s an immense body of scientific knowledge about the fate and risks of sulfur that reaches the stratosphere through volcanic eruptions or other means.
-
-
-
-If there’s one great lesson of 20th-century environmental science, it’s how crucial it is to understand the ultimate fate of any new material introduced into the environment.&nbsp;
-
-
-
-
-
-Chlorofluorocarbons and the pesticide DDT both offered safety advantages over competing technologies, but they both broke down into products that accumulated in the environment in unexpected places, causing enormous and unanticipated harms.&nbsp;
-
-
-
-The environmental and climate impacts of sulfate aerosols have been studied in many thousands of scientific papers over a century, and this deep well of knowledge greatly reduces the chance of unknown unknowns.&nbsp;
-
-
-
-Grandiose claims notwithstanding—and especially considering that Stardust hasn’t disclosed anything about its particles or research process—it would be very difficult to make a pragmatic, risk-informed decision to start SRM efforts with these particles instead of sulfate.
-
-
-
-We don’t want to claim that every single answer lies in academia. We’d be fools to not be excited by profit-driven innovation in solar power, EVs, batteries, or other sustainable technologies. But the math for sunlight reflection is just different. Why?&nbsp;&nbsp;&nbsp;
-
-
-
-Because the role of private industry was essential in improving the efficiency, driving down the costs, and increasing the market share of renewables and other forms of cleantech. When cost matters and we can easily evaluate the benefits of the product, then competitive, for-profit capitalism can work wonders.&nbsp;&nbsp;
-
-
-
-But SRM is already technically feasible and inexpensive, with deployment costs that are negligible compared with the climate damage it averts.
-
-
-
-The essential questions of whether or how to use it come down to far thornier societal issues: How can we best balance the risks and benefits? How can we ensure that it’s used in an equitable way? How do we make legitimate decisions about SRM on a planet with such sharp political divisions?
-
-
-
-Trust will be the most important single ingredient in making these decisions. And trust is the one product for-profit innovation does not naturally manufacture.&nbsp;
-
-
-
-Ultimately, we’re just two researchers. We can’t make investors in these startups do anything differently. Our request is that they think carefully, and beyond the logic of short-term profit. If they believe geoengineering is worth exploring, could it be that their support will make it harder, not easier, to do that?&nbsp;&nbsp;
-
-
-
-David Keith is the professor of geophysical sciences at the University of Chicago and founding faculty director of the school’s Climate Systems Engineering Initiative. Daniele Visioni is an assistant professor of earth and atmospheric sciences at Cornell University and head of data for Reflective, a nonprofit that develops tools and provides funding to support solar geoengineering research.
-• The Download: the AGI myth, and US/China AI competition
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
-
-
-
-How AGI became the most consequential conspiracy theory of our time
-
-
-
-—Will Douglas Heaven, senior AI editor 
-
-
-
-Are you feeling it?I hear it’s close: two years, five years—maybe next year! And I hear it’s going to solve our biggest problems in ways we cannot yet imagine. I also hear it will bring on the apocalypse and kill us all…We’re of course talking about artificial general intelligence, or AGI—that hypothetical near-future technology that (I hear) will be able to do pretty much whatever a human brain can do.Every age has its believers, people with an unshakeable faith that something huge is about to happen—a before and an after that they are privileged (or doomed) to live through. For us, that’s the promised advent of AGI. And here’s what I think: AGI is a lot like a conspiracy theory, and it may be the most consequential one of our time. Read the full story.
-
-
-
-This story is part of MIT Technology Review’s series “The New Conspiracy Age,” on how the present boom in conspiracy theories is reshaping science and technology.
-
-
-
-
-
-
-
-The State of AI: Is China about to win the race?&nbsp;
-
-
-
-Viewed from abroad, it seems only a matter of time before China emerges as the AI superpower of the 21st century. 
-
-
-
-In the West, our initial instinct is to focus on America’s significant lead in semiconductor expertise, its cutting-edge AI research, and its vast investments in data centers.Today, however, China has the means, motive, and opportunity to win. When it comes to mobilizing the whole-of-society resources needed to develop and deploy AI to maximum effect, it may be rash to bet against it. Read the full story.
-
-
-
-—John Thornhill &amp; Caiwei Chen
-
-
-
-This is the first edition of The State of AI, a collaboration between the Financial Times &amp; MIT Technology Review examining the ways in which AI is reshaping global power. Every Monday for the next six weeks, writers from both publications will debate one aspect of the generative AI revolution reshaping global power. Sign up to receive future editions every Monday.
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 China is prepared to cut its data centers a sweet dealIf they agree to use native chips over American rivals’, that is. (FT $)+ What happened when a data center moved into a small American town. (WSJ $)+ Microsoft and OpenAI want more power—they just don’t know how much more. (TechCrunch)+ The data center boom in the desert. (MIT Technology Review)
-
-
-
-2 Norway’s oil fund has rejected Elon Musk’s $1 trillion pay packageThe Tesla shareholder is concerned about the size of the reward. (WSJ $)+ It says it will vote against the deal on Thursday. (FT $)3 OpenAI has signed a massive compute deal with AmazonIt’s the latest in a long string of blockbuster deals for the AI company. (Wired $)4 Cybersecurity workers moonlighted as criminal hackersThey’re accused of sharing their profits with the creators of the ransomware they deployed. (Bloomberg $)+ The hackers demanded tens of millions in extortion payments. (The Register)
-
-
-
-5 Tech’s elites are funding plans to safeguard MAGAEntrepreneur Chris Buskirk is using donor money to equip it to outlive Trump. (WP $)6 These startups supply the labor to train multitasking humanoid robotsTeams of humans are doing the dirty work, including filming themselves folding towels hundreds of times a day. (LA Times $)+ This new system can teach a robot a simple household task within 20 minutes. (MIT Technology Review)
-
-
-
-7 LLMs can&#8217;t accurately describe their internal processesAnthropic is on a mission to measure their so-called introspective awareness. (Ars Technica)
-
-
-
-8 Why are people using AI to hack their hobbies?Talk about the death of fun. (NY Mag $)+ While we’re at it, don’t use chatbots to answer friends’ dilemmas either. (Wired $)+ Or to write research papers. (404 Media)
-
-
-
-9 Coca-Cola is doubling down on AI in its adsUndeterred by criticism last year, it’s back with more for the 2025 holidays. (WSJ $)+ Nothing says festive joy like AI slop. (The Verge)
-
-
-
-10 Facebook Dating is a…hit?But you should still be on the lookout for scammers. (NYT $)+ It’s not just for boomers—younger people are using it too. (TechCrunch)+ For better or worse, AI is seeping into all the biggest dating platforms. (Economist $)
-
-
-
-
-
-
-
-Quote of the day
-
-
-
-“That was the kick of it, that the AI actually did find compatibility. It was the human part that didn’t work out.”
-
-
-
-—Emma Inge, a project manager looking for love in San Francisco, describes the trouble with using an AI matchmaker to the New York Times: it can’t stop you getting ghosted.
-
-
-
-
-
-
-
-One more thing
-
-
-
-
-
-
-
-Inside the most dangerous asteroid hunt everIf you were told that the odds of something were 3.1%, it might not seem like much. But for the people charged with protecting our planet, it was huge.On February 18, astronomers determined that a 130- to 300-foot-long asteroid had a 3.1% chance of crashing into Earth in 2032. Never had an asteroid of such dangerous dimensions stood such a high chance of striking the planet. Then, just days later on February 24, experts declared that the danger had passed. Earth would be spared.How did they do it? What was it like to track the rising danger of this asteroid, and to ultimately determine that it’d miss us?This is the inside story of how a sprawling network of astronomers found, followed, mapped, planned for, and finally dismissed the most dangerous asteroid ever found—all under the tightest of timelines and, for just a moment, with the highest of stakes. Read the full story.
-
-
-
-—Robin George Andrews
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+ People in the Middle Ages chose to depict the devil in very interesting ways, I’ll say that much.+ We may be inching closer to understanding why the animal kingdom has developed such elaborate markings.+ The music in the new game Pokémon Legends: Z-A sure is interesting.+ Slow cooker dinners are beckoning.
 
 🔒 Cybersecurity & Privacy
 • Cloudflare Scrubs Aisuru Botnet from Top Domains List
@@ -701,6 +554,143 @@ Image: https://www.bbc.co.uk/programmes/w3ct89y8
 No updates.
 
 🏢 Corporate AI
+• When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost
+  As a world leader in connected LED lighting products, systems, and services, Signify (formerly Philips Lighting) serves not only everyday consumers but also a large number of professional users who have stringent requirements for technical specifications and engineering compatibility. Faced with thousands of product models, complex component parameters, and technical documentation spanning multiple versions, delivering accurate, professional answers efficiently has become a core challenge for Signify’s knowledge management system.
+
+
+
+To address this challenge, Signify (opens in new tab) collaborated with Microsoft Research Asia on a proof-of-concept (PoC) using PIKE-RAG technology, integrating it into their upgraded knowledge management system built on Microsoft Azure. The result: a 12% improvement in answer accuracy.
+
+
+
+Challenges of applying RAG in lighting
+
+
+
+In an era where AI is rapidly transforming how enterprises manage information, Signify recognized the strategic importance of precise and efficient knowledge systems. It adopted large AI models and retrieval-augmented generation (RAG) techniques to better support its wide range of customer inquiries.
+
+
+
+Yet applying RAG to lighting scenarios involving professional users presented unique challenges. Product data spanned multimodal documents, unstructured tables, and complex product parameters, demanding continuous customization that slowed development and limited scalability. Despite improvements through keyword tuning, system optimization, and refined prompts, Signify sought more advanced approaches to further raise accuracy and reliability.
+
+
+
+Seeking to unlock greater value from its knowledge management system, Signify began exploring more suitable technical solutions that are better aligned with their professional use cases. Upon learning that PIKE-RAG had been successfully applied in domains like healthcare and law, significantly improving information accuracy, Signify worked with Microsoft Research Asia on a PoC of PIKE-RAG on Microsoft Azure.
+
+
+
+How PIKE-RAG addressed Signify’s pain points
+
+
+
+Compared to traditional RAG, PIKE-RAG efficiently retrieves textual information and also understands multimodal content like charts and tables. Its built-in domain adaptation module quickly learns reasoning patterns aligned with specific domains to generate responses that are consistent with engineering contexts. These differentiated advantages stem from PIKE-RAG’s unique approach to understanding and processing professional knowledge. In Signify’s use case, this manifests in three key areas:
+
+
+
+Multimodal document parsing and learning of industry-specific reasoning patterns
+
+
+
+Signify’s product documentation includes diverse formats, such as nonstandard tables (e.g., comparison charts of voltage ranges under different currents) and circuit diagrams (e.g., driver power limits). Traditional systems often fail to process this information effectively—either ignoring it or extracting disorganized text fragments.
+
+
+
+PIKE-RAG integrates Microsoft Research Asia’s Document Intelligence technology with Microsoft Azure OpenAI models to accurately identify table structures and parse key parameters in circuit diagrams. For example, when a customer service agent queries, “What is the output voltage of a specific driver model at 0.15A current,” the system automatically locates the curve chart in the document and infers a range of 40–54V based on the current interval—an area where traditional systems frequently err, due to their inability to “read” diagrams.
+
+
+
+End-to-end knowledge loop, eliminating reliance on erroneous data sources
+
+
+
+Enterprise knowledge systems often integrate data from multiple sources, which can lead to discrepancies, especially when database updates are not fully synchronized. PIKE-RAG captures diverse information sources and establishes citation relationships, supporting complex reasoning tasks that rely on multi-source data.
+
+
+
+In other words, PIKE-RAG can directly use original documents as data sources, efficiently parsing and understanding product manuals and PDF charts. By extracting key information from these text- and graphic-rich documents, PIKE-RAG enables more efficient and trustworthy knowledge retrieval.
+
+
+
+Dynamic task decomposition and multi-hop reasoning for precise answers to complex questions
+
+
+
+Traditional RAG systems typically follow a “one question, one answer” model and struggle with multi-step reasoning. In Signify’s lighting domain, customer inquiries often involve multi-level associations. PIKE-RAG dynamically decomposes user questions into executable subtasks and solves them through multi-hop reasoning. For example, when asked, “List all bases compatible with the G8 series lamps,” if no document directly provides the answer, PIKE-RAG’s reasoning proceeds as follows:
+
+
+
+Step 1: The system identifies implicit knowledge. One document notes that the G7 and G8 series have identical dimensions and that all bases compatible with the G7 series are also compatible with the G8 series.&nbsp;
+
+
+
+Step 2: Based on this, the system retrieves the base list for the G7 series.&nbsp;
+
+
+
+Step 3: Since the list uses abbreviations, the system searches for a table that maps abbreviations to full names and generates a complete list of G8-compatible bases.&nbsp;
+
+
+
+Through this automated multi-hop reasoning, the system delivers accurate and complete answers.
+
+
+
+Figure 1: PIKE-RAG orchestrates and integrates heterogeneous information in multi-source and multimodal environments. 
+
+
+
+Testing showed that the PIKE-RAG-powered knowledge management platform provided a significant advantage. It achieved a 12% improvement in performance compared with the original system.
+
+
+
+These results were achieved without any question-specific customization, only algorithmic optimization, demonstrating precise knowledge matching and generation. As the system continues to learn and integrate Signify’s proprietary knowledge, accuracy is expected to improve further.
+
+
+
+“In the PoC for our product specification insight tool, PIKE-RAG helped us significantly improve the original system’s performance. This will enhance overall customer satisfaction. We’re currently evaluating PIKE-RAG’s application path from multiple angles, including technical implementation, cost control, and future adaptability, and we look forward to deepening our collaboration with Microsoft Research Asia to drive further innovation,” said Haitao Liu, head of Signify Research China.
+
+
+
+“It’s also worth noting that the researchers at Microsoft Research Asia demonstrated strong industry knowledge and rigorous scientific methodology. They proactively studied and analyzed the issues, tracing and clarifying the root causes of our issues to make PIKE-RAG better suited to Signify’s real-world needs.”
+
+
+
+Beyond lighting: Generalization across industries
+
+
+
+In Signify’s successful test, PIKE-RAG demonstrated strong generalization capabilities in complex industrial scenarios, enabling rapid cross-domain adaptation. Its three core strengths are:
+
+
+
+
+Support for self-evolution and continuous learning: PIKE-RAG continuously analyzes error cases in interaction logs and uses evolutionary algorithms to automatically optimize knowledge extraction strategies, such as trying different table parsing methods or adjusting multimodal content weights. Validated strategies are then solidified for future Q&amp;A, allowing the system to adapt to new knowledge types without manual intervention.&nbsp;
+
+
+
+Modular architecture driven by capability needs: PIKE-RAG flexibly combines modules for document parsing, knowledge extraction, storage, retrieval, organization, knowledge-centered reasoning, and task decomposition. It dynamically adjusts focus areas based on scenario needs (e.g., fact retrieval, multi-hop reasoning, innovative generation) and flexibly builds RAG methods that adapt to real-world applications, efficiently handling various complex tasks.&nbsp;
+
+
+
+Strong adaptation to domain-specific reasoning patterns: With dynamic updates through the Domain Tips feature, enterprises can add domain-specific logic (e.g., “the maximum output voltage of an LED driver should be the maximum of the operating range, not the spec sheet’s max output”) in real time, enabling the system to process information according to professional engineering standards and follow industry conventions.&nbsp;
+
+
+
+
+Figure 2: Overview of the PIKE-RAG framework
+
+
+
+PIKE-RAG’s generalization capabilities have been validated not only in Signify’s knowledge management platform but also in pilot applications across industries like manufacturing, mining, and pharmaceuticals—significantly improving Q&amp;A system accuracy.
+
+
+
+“A leader in lighting, Signify presents a complex industrial knowledge system with a highly challenging real-world scenario for PIKE-RAG. Through this collaboration, we validated that PIKE-RAG’s general approach can greatly improve the accuracy of professional knowledge Q&amp;A and accelerate scenario customization. Our researchers also gained valuable experience in handling domain-specific data,” explained Jiang Bian, partner research manager at Microsoft Research Asia.
+
+
+
+“Our goal isn’t to build a universal chatbot but to create a professional assistant that aligns with domain-specific logic and performs rigorous knowledge reasoning. That’s the true driving force behind intelligent transformation in industrial knowledge management.”
+Opens in a new tabThe post When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost appeared first on Microsoft Research.
 • Magentic Marketplace: an open-source simulation environment for studying agentic markets
   Autonomous AI agents are here, and they&#8217;re poised to reshape the economy. By automating discovery, negotiation, and transactions, agents can overcome inefficiencies like information asymmetries and platform lock-in, enabling faster, more transparent, and more competitive markets.
 
@@ -792,7 +782,7 @@ While this experimental setup provides a useful starting point, it is not intend
 		
 
 		
-		PODCAST SERIES
+		Spotlight: Event Series
 	
 	
 	
@@ -804,14 +794,14 @@ While this experimental setup provides a useful starting point, it is not intend
 			
 			
 
-									The AI Revolution in Medicine, Revisited
+									Microsoft Research Forum
 				
-								Join Microsoft’s Peter Lee on a journey to discover how AI is impacting healthcare and what it means for the future of medicine.
+								Join us for a continuous exchange of ideas about research in the era of general AI. Watch the first four episodes on demand.
 				
 								
 					
 						
-							Listen now						
+							Watch on-demand						
 					
 				
 							
@@ -1063,6 +1053,404 @@ Summary
 
 RedCodeAgent&nbsp;combines adaptive memory, specialized tools, and simulated execution environments to uncover real-world risks that static benchmarks&nbsp;may&nbsp;miss.&nbsp;It&nbsp;consistently outperforms leading jailbreak methods, achieving higher attack success rates and lower rejection rates, while remaining efficient and adaptable across diverse agents and programming languages.
 Opens in a new tabThe post RedCodeAgent: Automatic red-teaming agent against diverse code agents appeared first on Microsoft Research.
+• Transform your MCP architecture: Unite MCP servers through AgentCore Gateway
+  As AI agents are adopted at scale, developer teams can create dozens to hundreds of specialized Model Context Protocol (MCP) servers, tailored for specific agent use case and domain, organization functions or teams. Organizations also need to integrate their own existing MCP servers or open source MCP servers for their AI workflows. There is a need for a way to efficiently combine these existing MCP servers–whether custom-built, publicly available, or open source–into a unified interface that AI agents can readily consume and teams can seamlessly share across the organization. 
+Earlier this year, we introduced Amazon Bedrock AgentCore Gateway, a fully managed service that serves as a centralized MCP tool server, providing a unified interface where agents can discover, access, and invoke tools. Today, we’re extending support for existing MCP servers as a new target type in AgentCore Gateway. With this capability, you can group multiple task-specific MCP servers aligned to agent goals behind a single, manageable MCP gateway interface. This reduces the operational complexity of maintaining separate gateways, while providing the same centralized tool and authentication management that existed for REST APIs and AWS Lambda functions. 
+Without a centralized approach, customers face significant challenges: discovering and sharing tools across organizations becomes fragmented, managing authentication across multiple MCP servers grows increasingly complex, and maintaining separate gateway instances for each server quickly becomes unmanageable. Amazon Bedrock AgentCore Gateway helps solves these challenges by treating existing MCP servers as native targets, giving customers a single point of control for routing, authentication, and tool management—making it as simple to integrate MCP servers as it is to add other targets to the gateway. 
+Breaking down MCP silos: Why enterprise teams need a unified Gateway 
+Let’s explore this through a real-world example of an e-commerce ordering system, where different teams maintain specialized MCP servers for their specific domains. Consider an enterprise e-commerce system where different teams have developed specialized MCP servers: 
+ 
+ The Shopping Cart team maintains an MCP server with cart management tools 
+ The Product Catalog team runs their MCP server for product browsing and search 
+ The Promotions team operates an MCP server handling promotional logic 
+ 
+Previously, an ordering agent would need to interact with each of these MCP servers separately, managing multiple connections and authentication contexts. With the new MCP server target support in AgentCore Gateway, these specialized servers can now be unified under a single gateway while maintaining their team-specific ownership and access controls. The power of this approach lies in its organizational flexibility. Teams can group their MCP servers based on multiple logical criteria: 
+ 
+ Business unit alignment: Organize the MCP servers by business unit 
+ Product feature boundaries: Each product team owns their MCP server with domain-specific tools allowing them to maintain clear ownership while providing a unified interface for their agents 
+ Security and access control: Different MCP servers require different authentication mechanisms. The gateway handles the authentication complexity, making it simple for authorized agents to access the tools they need 
+ 
+The following diagram illustrates how an ordering agent interacts with multiple MCP servers through AgentCore Gateway. The agent connects to the gateway and discovers the available tools. Each team maintains control over their domain-specific tools while contributing to a cohesive agent experience. The gateway handles tool naming collisions, authentication, and provides unified semantic search across the tools. 
+ 
+The AgentCore Gateway serves as an integration hub in modern agentic architectures, offering a unified interface for connecting diverse agent implementations with a wide array of tool providers. The architecture, as illustrated in the diagram, demonstrates how the gateway bridges the gap between agent and tool implementation approaches, now enhanced with the ability to directly integrate MCP server targets. 
+AgentCore Gateway integration architecture 
+In AgentCore Gateway, a target defines the APIs, Lambda functions, or other MCP servers that a gateway will provide as tools to an agent. Targets can be Lambda functions, OpenAPI specifications, Smithy models, MCP servers, or other tool definitions. 
+The target integration side of the architecture showcases the gateway’s versatility in tool integration. With the new MCP server target support, the gateway can directly incorporate tools from public MCP servers, treating them as first-class citizens alongside other target types. This capability extends to federation scenarios where one AgentCore Gateway instance can serve as a target for another, for hierarchical tool organization across organizational boundaries. The gateway can seamlessly integrate with AgentCore Runtime instances that expose agents as tools, private MCP servers maintained by customers, traditional AWS Lambda functions, and both Smithy and AWS service APIs. 
+Beyond target diversity, the gateway’s authentication architecture provides additional operational benefits. The gateway decouples its inbound authentication from target systems, letting agents access tools that use multiple identity providers through a single interface. This centralized approach simplifies development, deployment, and maintenance of AI agents. Now, the same approach can be used for MCP server targets, where the gateway manages the complexity of interfacing with the server using the configured identity provider for the target. 
+With this authentication foundation you get sophisticated tool management capabilities through a unified architecture. When an agent requests tool discovery, the gateway provides a consistent view across the integrated targets, with tools from MCP servers appearing alongside Lambda functions and traditional APIs. The semantic search capability operates uniformly across the tool types, so agents can discover relevant tools regardless of their implementation. During tool invocation, the gateway handles the necessary protocol translations, authentication flows, and data transformations, presenting a clean, consistent interface to agents while managing the complexity of different target systems behind the scenes. 
+The addition of MCP server target support represents a significant evolution in the gateway’s capabilities. Organizations can now directly integrate MCP-native tools while maintaining their investments in traditional APIs and Lambda functions. This flexibility allows for gradual migration strategies where teams can adopt MCP-native implementations at their own pace while facilitating continuous operation of existing integrations. The gateway’s synchronization mechanisms make sure that tool definitions remain current across the different target types, while its authentication and authorization systems provide consistent security controls regardless of the underlying tool implementation. 
+The gateway combines MCP servers, traditional APIs, and serverless functions into a coherent tool environment. This capability, along with enterprise-grade security and performance, makes it a beneficial infrastructure for agentic computing. 
+ 
+Solution Walkthrough 
+In this post, we’ll guide you through the steps to set up an MCP server target in AgentCore Gateway, which is as simple as adding a new MCP server type target to a new or existing MCP Gateway. Adding an MCP server to an AgentCore Gateway will allow you to centralize your tool management, security authentication, and operational best practices with managing MCP servers at scale. 
+ 
+Get started with adding MCP Server into AgentCore Gateway 
+To get started, you will create an AgentCore Gateway and add your MCP Server as a target. 
+Prerequisites 
+Verify you have the following prerequisites: 
+ 
+ AWS account with Amazon Bedrock AgentCore access. For more information review Permissions for AgentCore Runtime documentation. 
+ Python 3.12 or later 
+ Basic understanding of OAuth 2.0 
+ 
+You can create gateways and add targets through multiple interfaces: 
+ 
+ AWS SDK for Python (Boto3) 
+ AWS Management Console 
+ AWS Command Line Interface (AWS CLI) 
+ AgentCore starter toolkit for fast and straightforward setup 
+ 
+The following practical examples and code snippets demonstrate how to set up and use Amazon Bedrock AgentCore Gateway. For an interactive walkthrough, you can use these Jupyter Notebook samples on GitHub. 
+Create a gateway 
+To create a gateway, you can use the AgentCore starter toolkit to create a default authorization configuration with Amazon Cognito for JWT-based inbound authorization. You can also use another OAuth 2.0-compliant authentication provider instead of Cognito. 
+ 
+ import time
+import boto3
+
+gateway_client = boto3.client("bedrock-agentcore-control")
+
+# Create an authorization configuration, that specifies what client is authorized to access this Gateway
+auth_config = {
+    "customJWTAuthorizer": {
+        "allowedClients": ['&lt;cognito_client_id&gt;'], # Client MUST match with the ClientId configured in Cognito.
+        "discoveryUrl": '&lt;cognito_oauth_discovery_url&gt;',
+    }
+}
+
+# Call the create_gateway API
+# This operation is asynchronous so may take time for Gateway creation
+# This Gateway will leverage a CUSTOM_JWT authorizer, the Cognito User Pool we reference in auth_config
+def deploy_gateway(poll_interval=5):
+    create_response = gateway_client.create_gateway(
+        name="DemoGateway",
+        roleArn="&lt;IAM Role&gt;", # The IAM Role must have permissions to create/list/get/delete Gateway
+        protocolType="MCP",
+        authorizerType="CUSTOM_JWT",
+        authorizerConfiguration=auth_config,
+        description="AgentCore Gateway with MCP Server Target",
+    )
+    gatewayID = create_response["gatewayId"]
+    gatewayURL = create_response["gatewayUrl"]
+    
+    # Wait for deployment
+    while True:
+        status_response = gateway_client.get_gateway(gatewayIdentifier=gatewayID)
+        status = status_response["status"]
+        if status == "READY":
+            print("✅ AgentCore Gateway is READY!")
+            break
+        elif status in ["FAILED"]:
+            print(f"❌ Deployment failed: {status}")
+            return None
+        print(f"Status: {status} - waiting...")
+        time.sleep(poll_interval)
+
+if __name__ == "__main__":
+    deploy_gateway()
+
+# Values with &lt; &gt; needs to be replaced with real values 
+ 
+&nbsp;Create a sample MCP Server 
+As an example, let’s create a sample MCP server with three simple tools that return static responses. The server uses FastMCP with stateless_http=True which is required for AgentCore Runtime compatibility. 
+ 
+ from mcp.server.fastmcp import FastMCP
+
+mcp = FastMCP(host="0.0.0.0", stateless_http=True)
+
+@mcp.tool()
+def getOrder() -&gt; int:
+    """Get an order"""
+    return 123
+
+@mcp.tool()
+def updateOrder(orderId: int) -&gt; int:
+    """Update existing order"""
+    return 456
+
+@mcp.tool()
+def cancelOrder(orderId: int) -&gt; int:
+    """cancel existing order"""
+    return 789
+
+if __name__ == "__main__":
+    mcp.run(transport="streamable-http") 
+ 
+Configure AgentCore Runtime deployment 
+Next, we will use the starter toolkit to configure the AgentCore Runtime deployment. The toolkit can create the Amazon ECR repository on launch and generate a Dockerfile for deployment on AgentCore Runtime. You can use your own existing MCP server, we’re using the following only as an example. In a real-world environment, the inbound authorization for your MCP server will likely differ from the gateway configuration. Refer to this GitHub code example to create an Amazon Cognito user pool for Runtime authorization. 
+ 
+ from bedrock_agentcore_starter_toolkit import Runtime
+from boto3.session import Session
+
+boto_session = Session()
+region = boto_session.region_name
+print(f"Using AWS region: {region}")
+
+required_files = ['mcp_server.py', 'requirements.txt']
+for file in required_files:
+&nbsp;&nbsp; &nbsp;if not os.path.exists(file):
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;raise FileNotFoundError(f"Required file {file} not found")
+print("All required files found ✓")
+
+agentcore_runtime = Runtime()
+
+auth_config = {
+&nbsp;&nbsp; &nbsp;"customJWTAuthorizer": {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"allowedClients": [
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'&lt;runtime_cognito_client_id&gt;'&nbsp;# Client MUST match with the ClientId configured in Cognito, and can be separate from the Gateway Cognito provider.
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;],
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"discoveryUrl": '&lt;cognito_oauth_discovery_url&gt;',
+&nbsp;&nbsp; &nbsp;}
+}
+
+print("Configuring AgentCore Runtime...")
+response = agentcore_runtime.configure(
+&nbsp;&nbsp; &nbsp;entrypoint="mcp_server.py",
+&nbsp;&nbsp; &nbsp;auto_create_execution_role=True,
+&nbsp;&nbsp; &nbsp;auto_create_ecr=True,
+&nbsp;&nbsp; &nbsp;requirements_file="requirements.txt",
+&nbsp;&nbsp; &nbsp;region=region,
+&nbsp;&nbsp; &nbsp;authorizer_configuration=auth_config,
+&nbsp;&nbsp; &nbsp;protocol="MCP",
+&nbsp;&nbsp; &nbsp;agent_name="mcp_server_agentcore"
+)
+print("Configuration completed ✓")
+
+# Values with &lt; &gt; needs to be replaced with real values 
+ 
+Launch MCP server to AgentCore Runtime 
+Now that we have the Dockerfile, let’s launch the MCP server to AgentCore Runtime: 
+ 
+  
+  print("Launching MCP server to AgentCore Runtime...")
+print("This may take several minutes...")
+launch_result = agentcore_runtime.launch()
+agent_arn = launch_result.agent_arn
+agent_id = launch_result.agent_id
+print("Launch completed ✓")
+
+encoded_arn = agent_arn.replace(':', '%3A').replace('/', '%2F')
+mcp_url = f"https://bedrock-agentcore.{region}.amazonaws.com/runtimes/{encoded_arn}/invocations?qualifier=DEFAULT"
+
+print(f"Agent ARN: {launch_result.agent_arn}")
+print(f"Agent ID: {launch_result.agent_id}") 
+  
+ 
+Create MCP server as target for AgentCore Gateway 
+Create an AgentCore Identity Resource Credential Provider for the AgentCore Gateway to use as outbound auth to the MCP server agent in AgentCore Runtime: 
+ 
+ identity_client = boto3.client('bedrock-agentcore-control', region_name=region)
+
+cognito_provider = identity_client.create_oauth2_credential_provider(
+&nbsp;&nbsp; &nbsp;name="gateway-mcp-server-identity",
+&nbsp;&nbsp; &nbsp;credentialProviderVendor="CustomOauth2",
+&nbsp;&nbsp; &nbsp;oauth2ProviderConfigInput={
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;'customOauth2ProviderConfig': {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'oauthDiscovery': {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'discoveryUrl': '&lt;cognito_oauth_discovery_url&gt;',
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;},
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'clientId': '&lt;runtime_cognito_client_id&gt;', # Client MUST match with the ClientId configured in Cognito for the Runtime authorizer
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'clientSecret': '&lt;cognito_client_secret&gt;'
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
+&nbsp;&nbsp; &nbsp;}
+)
+cognito_provider_arn = cognito_provider['credentialProviderArn']
+print(cognito_provider_arn)
+
+# Values with &lt; &gt; needs to be replaced with real values 
+ 
+Create a gateway target pointing to the MCP server: 
+ 
+  
+  gateway_client = boto3.client("bedrock-agentcore-control", region_name=region)
+create_gateway_target_response = gateway_client.create_gateway_target(
+    name="mcp-server-target",
+    gatewayIdentifier=gatewayID,
+    targetConfiguration={"mcp": {"mcpServer": {"endpoint": mcp_url}}},
+    credentialProviderConfigurations=[
+        {
+            "credentialProviderType": "OAUTH",
+            "credentialProvider": {
+                "oauthCredentialProvider": {
+                    "providerArn": cognito_provider_arn,
+                    "scopes": ["&lt;cognito_oauth_scopes&gt;"],
+                }
+            },
+        },
+    ],
+)  # Asynchronously create gateway target
+gatewayTargetID = create_gateway_target_response["targetId"]
+
+# Values with &lt; &gt; needs to be replaced with real values 
+  
+ 
+After creating a gateway target, implement a polling mechanism to check for the gateway target status using the get_gateway_target API call: 
+ 
+ import time
+
+def poll_for_status(interval=5):
+    # Poll for READY status
+    while True:
+        gateway_target_response = gateway_client.get_gateway_target(gatewayIdentifier=gatewayID, targetId=gatewayTargetID)
+        status = gateway_target_response["status"]
+        if status == 'READY':
+            break
+        elif status in ['FAILED', 'UPDATE_UNSUCCESSFUL', 'SYNCHRONIZE_UNSUCCESSFUL']:
+            raise Exception(f"Gateway target failed with status: {status}")
+        time.sleep(interval)
+
+poll_for_status() 
+ 
+Test Gateway with Strands Agents framework 
+Let’s test the Gateway with the Strands Agents integration to list the tools from MCP server. You can also use other MCP-compatible agents built with different agentic frameworks. 
+ 
+ from strands import Agent
+from mcp.client.streamable_http import streamablehttp_client
+from strands.tools.mcp.mcp_client import MCPClient
+
+def create_streamable_http_transport():
+    return streamablehttp_client(gatewayURL,headers={"Authorization": f"Bearer {token}"})
+
+client = MCPClient(create_streamable_http_transport)
+
+with client:
+    # Call the listTools 
+    tools = client.list_tools_sync()
+    # Create an Agent with the model and tools
+    agent = Agent(model=yourmodel,tools=tools) ## you can replace with any model you like
+    # Invoke the agent with the sample prompt. This will only invoke MCP listTools and retrieve the list of tools the LLM has access to. The below does not actually call any tool.
+    agent("Hi , can you list all tools available to you")
+    # Invoke the agent with sample prompt, invoke the tool and display the response
+    agent("Get the Order id") 
+ 
+Refreshing tool definitions of your MCP servers in AgentCore Gateway 
+The SynchronizeGatewayTargets API is a new asynchronous operation that enables on-demand synchronization of tools from MCP server targets. MCP servers host tools which agents can discover and invoke. With time, these tools might need to be updated, or new tools may be introduced in an existing MCP server target. You can connect with external MCP servers through the SynchronizeGatewayTargets API that performs protocol handshakes and indexes available tools. This API provides customers with explicit control over when to refresh their tool definitions, particularly useful after making changes to their MCP server’s tool configurations. 
+When a target is configured with OAuth authentication, the API first interacts with the AgentCore Identity service to retrieve the necessary credentials from the specified credential provider. These credentials are validated for freshness and availability before communication with the MCP server begins. If the credential retrieval fails or returns expired tokens, the synchronization operation fails immediately with appropriate error details, transitioning the target to a FAILED state. For targets configured without authentication, the API proceeds directly to tool synchronization. 
+The tool processing workflow begins with an initialize call to the MCP server to establish a session. Following successful initialization, the API makes paginated calls to the MCP server’s tools/list capability, processing tools in batches of 100 to optimize performance and resource utilization. Each batch of tools undergoes normalization where the API adds target-specific prefixes to help prevent naming collisions with tools from other targets. During processing, tool definitions are normalized to facilitate consistency across different target types, while preserving the essential metadata from the original MCP server definitions. 
+ 
+The synchronization flow begins when: 
+ 
+ An Ops Admin initiates the SynchronizeGatewayTargets API, triggering AgentCore Gateway to refresh the configured MCP target. 
+ The gateway obtains an OAuth token from AgentCore Identity for secure access to the MCP target. 
+ The gateway then initializes a secure session with the MCP server to retrieve version capabilities. 
+ Finally, the gateway makes paginated calls to the MCP server tools/list endpoint to retrieve the tool definitions, making sure the gateway maintains a current and accurate list of tools. 
+ 
+The SynchronizeGatewayTargets API addresses a critical challenge in managing MCP targets within AgentCore Gateway: maintaining an accurate representation of available tools while optimizing system performance and resource utilization. Here’s why this explicit synchronization approach is valuable: 
+Schema consistency management: Without explicit synchronization, AgentCore Gateway would need to either make real-time calls to MCP servers during ListTools operations (impacting latency and reliability) or risk serving stale tool definitions. The SynchronizeGatewayTargets API provides a controlled mechanism where customers can refresh their tool schemas at strategic times, such as after deploying new tools or updating existing ones in their MCP server. This approach makes sure that tool definitions in the gateway accurately reflect the target MCP server’s capabilities without compromising performance. 
+ 
+ Performance impact trade-offs: The API implements optimistic locking during synchronization to help prevent concurrent modifications that could lead to inconsistent states. While this means multiple synchronization requests might need to retry if there’s contention, this trade-off is acceptable because: 
+   
+   Tool schema changes are typically infrequent operational events rather than regular runtime occurrences 
+   The performance cost of synchronization is incurred only when explicitly requested, not during regular tool invocations 
+   The cached tool definitions facilitate consistent high performance for ListTools operations between synchronizations 
+    
+ 
+Invoke the synchronize gateway API 
+Use the following example to invoke the synchronize gateway operation: 
+ 
+  
+  import requests
+import json
+
+def search_tools(gateway_url, access_token, query):
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {access_token}"
+    }
+
+    payload = {
+        "jsonrpc": "2.0",
+        "id": "search-tools-request",
+        "method": "tools/call",
+        "params": {
+            "name": "x_amz_bedrock_agentcore_search",
+            "arguments": {
+                "query": query
+            }
+        }
+    }
+
+    response = requests.post(gateway_url, headers=headers, json=payload, timeout=5)
+    response.raise_for_status()
+    return response.json()
+
+# Example usage
+token_response = utils.get_token(user_pool_id, client_id, client_secret, scopeString, REGION)
+access_token = token_response['access_token']
+results = search_tools(gatewayURL, access_token, "order operations")
+print(json.dumps(results, indent=2)) 
+  
+ 
+Implicit synchronization of tools schema 
+During CreateGatewayTarget and UpdateGatewayTarget operations, AgentCore Gateway performs an implicit synchronization that differs from the explicit SynchronizeGatewayTargets API. This implicit synchronization makes sure that MCP targets are created or updated with valid, current tool definitions, aligning with the assurance from AgentCore Gateway that targets in READY state are immediately usable. While this might make create/update operations take longer than with other target types, it helps prevent the complexity and potential issues of having targets without validated tool definitions. 
+ 
+The implicit synchronization flow begins when: 
+ 
+ An Ops Admin creates or updates the MCP target using CreateGatewayTarget or UpdateGatewayTarget operations. 
+ AgentCore Gateway configures the new or updated MCP target. 
+ The gateway asynchronously triggers the synchronization process to update the tool definitions. 
+ The gateway obtains an OAuth token from AgentCore Identity for secure access. 
+ The gateway then initializes a secure session with the MCP server to retrieve version capabilities. 
+ Finally, the gateway makes paginated calls to the MCP server’s tools/list endpoint to retrieve the tool definitions, making sure the gateway maintains a current and accurate list of tools. 
+ 
+ListTools behavior for MCP targets 
+The ListTools operation in AgentCore Gateway provides access to tool definitions previously synchronized from MCP targets, following a cache-first approach that prioritizes performance and reliability. Unlike traditional OpenAPI or Lambda targets where tool definitions are statically defined, MCP target tools are discovered and cached through synchronization operations.&nbsp;When a client calls ListTools, the gateway retrieves tool definitions from its persistent storage rather than making real-time calls to the MCP server. These definitions were previously populated either through implicit synchronization during target creation/update or through explicit SynchronizeGatewayTargets API calls. The operation returns a paginated list of normalized tool definitions. 
+ 
+InvokeTool (tools/call) Behavior for MCP Targets 
+The InvokeTool operation for MCP targets handles the actual execution of tools discovered through ListTools, managing real-time communication with the target MCP server. Unlike the cache-based ListTools operation, tools/call requires active communication with the MCP server, introducing specific authentication, session management, and error handling requirements.&nbsp;When a tools/call request arrives, AgentCore Gateway first validates the tool exists in its synchronized definitions. For MCP targets, AgentCore Gateway performs an initial initialize call to establish a session with the MCP server. If the target is configured with OAuth credentials, AgentCore Gateway retrieves fresh credentials from AgentCore Identity before making the initialize call. This makes sure that even if ListTools returned cached tools with expired credentials, the actual invocation uses valid authentication. 
+ 
+The inbound authorization flow begins when: 
+ 
+ The MCP client initializes a request with MCP protocol version to AgentCore Gateway. 
+ The client then sends the tools/call request to the gateway. 
+ The gateway obtains an OAuth token from AgentCore Identity for secure access. 
+ The gateway initializes a secure session with the MCP server to invoke and handle the actual execution of the tool. 
+ 
+Search tool behavior for MCP targets 
+The search capability in AgentCore Gateway enables semantic discovery of tools across the different target types, including MCP targets. For MCP targets, the search functionality operates on normalized tool definitions that were captured and indexed during synchronization operations, providing efficient semantic search without real-time MCP server communication. 
+When tool definitions are synchronized from an MCP target, AgentCore Gateway automatically generates embeddings for each tool’s name, description, and parameter descriptions. These embeddings are stored alongside the normalized tool definitions, enabling semantic search that understands the intent and context of search queries. Unlike traditional keyword matching, this allows agents to discover relevant tools even when exact terminology doesn’t match. 
+ 
+Search for MCP server tools through the gateway 
+Use the following example to search for tools through the gateway. 
+ 
+ import requests
+import json
+
+def search_tools(gateway_url, access_token, query):
+&nbsp;&nbsp; &nbsp;headers = {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"Content-Type": "application/json",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"Authorization": f"Bearer {access_token}"
+&nbsp;&nbsp; &nbsp;}
+
+&nbsp;&nbsp; &nbsp;payload = {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"jsonrpc": "2.0",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"id": "search-tools-request",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"method": "tools/call",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"params": {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"name": "x_amz_bedrock_agentcore_search",
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"arguments": {
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"query": query
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;}
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
+&nbsp;&nbsp; &nbsp;}
+
+&nbsp;&nbsp; &nbsp;response = requests.post(gateway_url, headers=headers, json=payload, timeout=5)
+    response.raise_for_status()
+&nbsp;&nbsp; &nbsp;return response.json()
+
+# Example usage
+token_response = utils.get_token(user_pool_id, client_id, client_secret, scopeString, REGION)
+access_token = token_response['access_token']
+results = search_tools(gatewayURL, access_token, "math operations")
+print(json.dumps(results, indent=2)) 
+ 
+Conclusion 
+Today’s announcement of MCP server support as a target type in Amazon Bedrock AgentCore Gateway is an advancement in enterprise AI agent development. This new capability addresses critical challenges in scaling MCP server implementations while maintaining security and operational efficiency. By integrating existing MCP servers alongside REST APIs and Lambda functions, AgentCore Gateway provides a more unified, secure, and manageable solution for tool integration at scale. Organizations can now manage their tools through a single, centralized interface while benefiting from unified authentication, simplified tool discovery and reduced maintenance overhead. 
+For more detailed information and advanced configurations, refer to the&nbsp;code samples on GitHub, the&nbsp;Amazon Bedrock AgentCore Gateway Developer Guide&nbsp;and&nbsp;Amazon AgentCore Gateway pricing. 
+ 
+About the authors 
+ Frank Dallezotte&nbsp;is a Senior Solutions Architect at AWS and is passionate about working with independent software vendors to design and build scalable applications on AWS. He has experience creating software, implementing build pipelines, and deploying these solutions in the cloud. 
+Ganesh Thiyagarajan&nbsp;is a Senior Solutions Architect at Amazon Web Services (AWS) with over 20 years of experience in software architecture, IT consulting, and solution delivery. He helps ISVs transform and modernize their applications on AWS. He is also part of the AI/ML Technical field community, helping customers build and scale Gen AI solutions. 
+Dhawal Patel is a Principal Generative AI Tech lead at Amazon Web Services (AWS). He has worked with organizations ranging from large enterprises to mid-sized startups on problems related to Agentic AI, Deep learning, distributed computing.
 • How Amazon Search increased ML training twofold using AWS Batch for Amazon SageMaker Training jobs
   In this post, we show you how Amazon Search optimized GPU instance utilization by leveraging AWS Batch for SageMaker Training jobs. This managed solution enabled us to orchestrate machine learning (ML) training workloads on GPU-accelerated instance families like P5, P4, and others. We will also provide a step-by-step walkthrough of the use case implementation. 
 Machine learning at Amazon Search 
@@ -1300,188 +1688,5 @@ About the authors
    
   James Park 
   James is a Solutions Architect at Amazon Web Services. He works with Amazon.com to design, build, and deploy technology solutions on AWS, and has a particular interest in AI and machine learning. In his spare time he enjoys seeking out new cultures, new experiences, and staying up to date with the latest technology trends.
-• Iterate faster with Amazon Bedrock AgentCore Runtime direct code deployment
-  Amazon Bedrock AgentCore is an agentic platform for building, deploying, and operating effective agents securely at scale. Amazon Bedrock AgentCore Runtime is a fully managed service of Bedrock AgentCore, which provides low latency serverless environments to deploy agents and tools. It provides session isolation, supports multiple agent frameworks including popular open-source frameworks, and handles multimodal workloads and long-running agents. 
-AgentCore&nbsp;Runtime supports&nbsp;container based deployments&nbsp;where the container definition is provided&nbsp;in a&nbsp;Dockerfile, and the agent is&nbsp;built&nbsp;as&nbsp;a container&nbsp;image. Customers who have container build and deploy pipelines&nbsp;benefit&nbsp;from this method, where&nbsp;agent deployment&nbsp;can be integrated into&nbsp;existing&nbsp;pipelines.&nbsp; 
-Today, AgentCore&nbsp;Runtime&nbsp;has&nbsp;launched&nbsp;a second method&nbsp;to&nbsp;deploy agents – direct code deployment&nbsp;(for Python). Agent code and its dependencies can be packaged as a zip archive,&nbsp;alleviating&nbsp;the need for Docker definition and ECR dependencies. This makes it&nbsp;straightforward&nbsp;for developers to prototype and&nbsp;iterate&nbsp;faster.&nbsp;This method&nbsp;is a good fit&nbsp;for customers who&nbsp;prefer&nbsp;not to worry about&nbsp;Docker&nbsp;expertise&nbsp;and container infrastructure&nbsp;when deploying&nbsp;agents. 
-In this post, we’ll demonstrate how to use direct code deployment (for Python). 
-Introducing AgentCore Runtime direct code deployment 
-With the container deployment method, developers create a Dockerfile, build ARM-compatible containers, manage ECR repositories, and upload containers for code changes. This works well&nbsp;where&nbsp;container DevOps pipelines have&nbsp;already&nbsp;been&nbsp;established&nbsp;to automate deployments.&nbsp; 
-However,&nbsp;customers looking for fully managed deployments can&nbsp;benefit&nbsp;from&nbsp;direct code&nbsp;deployment,&nbsp;which&nbsp;can significantly improve developer time and productivity. Direct code deployment provides a secure and scalable path forward for rapid prototyping agent capabilities to deploying production workloads at scale. 
-We’ll discuss the strengths of each deployment option to help you choose the right approach for your use case.&nbsp; 
- 
-With direct code deployment, developers create a zip archive of code and dependencies, upload to Amazon S3, and configure the bucket in the agent configuration. When using the AgentCore starter toolkit, the toolkit handles dependency detection, packaging, and upload which provides a much-simplified developer experience. Direct code deployment is also supported using the API. 
-Let’s compare the deployment steps at a high level between the two methods: 
-Container-based deployment 
-The container-based deployment method involves the following steps: 
- 
-  
-  Create a Dockerfile 
-  Build ARM-compatible container 
-  Create ECR repository 
-  Upload to ECR 
-  Deploy to AgentCore Runtime 
-  
- 
-Direct code deployment 
-The direct code deployment method involves the following steps: 
- 
- Package your code and dependencies into a zip archive 
- Upload it to S3 
- Configure the bucket in agent configuration 
- Deploy to AgentCore Runtime 
- 
-How to use direct code deployment 
-Let’s illustrate how direct code deployment works with an agent created with Strands Agents SDK and using the AgentCore starter-toolkit to deploy the agent. 
-Prerequisites 
-Before you begin, make sure you have the following: 
- 
- Any of the versions of Python 3.10 to 3.13 
- Your preferred package manager installed. For example, we use uv package manager. 
- AWS account for creating and deploying agents 
- Amazon Bedrock model access to Anthropic Claude Sonnet 4.0 
- 
-Step 1: Initialize your project 
-Set up a new Python project using the uv package manager, then navigate into the project directory: 
- 
- uv init &lt;project&gt; --python 3.13
-cd &lt;project&gt; 
- 
-Step 2: Add the dependencies for the project 
-Install the required Bedrock AgentCore libraries and development tools for your project. In this example, dependencies are added using .toml file, alternatively they can be specified in requirements.txt file: 
- 
- uv add bedrock-agentcore strands-agents strands-agents-tools
-uv add --dev bedrock-agentcore-starter-toolkit
-source .venv/bin/activate 
- 
-Step 3: Create an agent.py file 
-Create the main agent implementation file that defines your AI agent’s behavior: 
- 
- from bedrock_agentcore import BedrockAgentCoreApp 
-from strands import Agent, tool 
-from strands_tools import calculator  
-from strands.models import BedrockModel 
-import logging 
-
-app = BedrockAgentCoreApp(debug=True) 
-
-# Logging setup 
-logging.basicConfig(level=logging.INFO) 
-logger = logging.getLogger(__name__) 
-
-# Create a custom tool  
-@tool 
-def weather(): 
-     """ Get weather """  
-     return "sunny" 
-
-model_id = "us.anthropic.claude-sonnet-4-20250514-v1:0" 
-model = BedrockModel( 
-     model_id=model_id, 
-) 
-
-agent = Agent( 
-     model=model, 
-     tools=[calculator, weather], 
-     system_prompt="You're a helpful assistant. You can do simple math calculation, and tell the weather." 
-) 
-
-@app.entrypoint 
-def invoke(payload): 
-     """Your AI agent function""" 
-     user_input = payload.get("prompt", "Hello! How can I help you today?") 
-     logger.info("\n User input: %s", user_input) 
-     response = agent(user_input) 
-     logger.info("\n Agent result: %s ", response.message) 
-     return response.message['content'][0]['text'] 
-
-if __name__ == "__main__": 
-     app.run()  
- 
-Step 4: Deploy to AgentCore Runtime 
-Configure and deploy your agent to the AgentCore Runtime environment: 
- 
- agentcore configure --entrypoint agent.py --name &lt;agent-name&gt; 
- 
-This will launch an interactive session where you configure the S3 bucket to upload the zip deployment package to and choose a deployment configuration type (as shown in the following configuration). To opt for direct code deployment, choose option 1 – Code Zip. 
-Deployment Configuration 
-Select deployment type: 
- 
- Code Zip (recommended) – Simple, serverless, no Docker required 
- Container – For custom runtimes or complex dependencies 
- 
- 
- agentcore launch 
- 
-This command creates a zip deployment package, uploads it to the specified S3 bucket, and launches the agent in the AgentCore Runtime environment, making it ready to receive and process requests. 
-To test the solution, let’s prompt the agent to see how the weather is: 
- 
- agentcore invoke '{"prompt":"How is the weather today?"}' 
- 
-The first deployment takes approximately 30 seconds to complete, but subsequent updates to the agent benefit from the streamlined direct code deployment process and should take less than half the time, supporting faster iteration cycles during development. 
-When to choose direct code instead of container-based deployment 
-Let’s look at some of the dimensions and see how the direct code and container-based deployment options are different. This will help you choose the option that’s right for you: 
- 
- Deployment process: Direct code deploys agents as zip files with no Docker, ECR, or CodeBuild required. Container-based deployment uses Docker and ECR with full Dockerfile control. 
- Deployment time: Although there is not much difference during first deployment of an agent, subsequent updates to the agent are significantly faster with direct code deployment (from an average of 30 seconds for containers to about 10 seconds for direct code deployment). 
- Artifact storage: Direct code stores ZIP packages in&nbsp;an S3 bucket. Container-based deployment stores Docker images&nbsp;in&nbsp;Amazon ECR. Direct code deployment incurs&nbsp;storage costs&nbsp;at&nbsp;standard S3&nbsp;storage&nbsp;rates&nbsp;(starting February 27th&nbsp;&nbsp;2026)&nbsp;as&nbsp;artifacts are stored in the service account. Container-based deployment incurs Amazon ECR charges in your account. 
- Customization: Direct code deployment supports custom dependencies through ZIP-based packaging, while container based depends on a Dockerfile. 
- Package size: Direct code deployment limits the package size to 250MB whereas container-based packages can be up to 2GB in size. 
- Language Support: Direct code currently supports Python 3.10, 3.11, 3.12, and 3.13. Container-based deployment supports many languages and runtimes. 
- 
-Our general guidance is: 
-Container-based deployment is the right choice when your package exceeds 250MB, you have existing container CI/CD pipelines, or you need highly specialized dependencies and custom packaging requirements. Choose containers if you require multi-language support, custom system dependencies or direct control over artifact storage and versioning in your account. 
-Direct code deployment is the right choice when your package is under 250MB, you use Python 3.10-3.13 with common frameworks like LangGraph, Strands, or CrewAI, and you need rapid prototyping with fast iteration cycles. Choose direct code if your build process is straightforward without complex dependencies, and you want to remove the Docker/ECR/CodeBuild setup. 
-A hybrid approach works well for many teams, use direct code for rapid prototyping and experimentation where fast iteration and simple setup accelerate development, then graduate to containers for production when package size, multi-language requirements, or specialized build processes demand it. 
-Conclusion 
-Amazon Bedrock AgentCore direct code deployment makes iterative agent development cycles even faster, while still benefiting from enterprise security and scale of deployments. Developers can now rapidly prototype and iterate by deploying their code directly, without having to create a container. To get started with Amazon Bedrock AgentCore direct code deployment, visit the AWS documentation. 
- 
-About the authors 
-Chaitra Mathur is as a GenAI Specialist Solutions Architect at AWS. She works with customers across industries in building scalable generative AI platforms and operationalizing them. Throughout her career, she has shared her expertise at numerous conferences and has authored several blogs in the Machine Learning and Generative AI domains. 
-Qingwei Li is a Machine Learning Specialist at Amazon Web Services. He received his Ph.D. in Operations Research after he broke his advisor’s research grant account and failed to deliver the Nobel Prize he promised. Currently he helps customers in the financial service and insurance industry build machine learning solutions on AWS. In his spare time, he likes reading and teaching. 
-Kosti Vasilakakis is a Principal PM at AWS on the Agentic AI team, where he has led the design and development of several Bedrock AgentCore services from the ground up, including Runtime, Browser, Code Interpreter, and Identity. He previously worked on Amazon SageMaker since its early days, launching AI/ML capabilities now used by thousands of companies worldwide. Earlier in his career, Kosti was a data scientist. Outside of work, he builds personal productivity automations, plays tennis, and enjoys life with his wife and kids.
-• How Switchboard, MD automates real-time call transcription in clinical contact centers with Amazon Nova Sonic
-  In high-volume healthcare contact centers, every patient conversation carries both clinical and operational significance, making accurate real-time transcription necessary for automated workflows. Accurate, instant transcription enables intelligent automation without sacrificing clarity or care, so that teams can automate electronic medical record (EMR) record matching, streamline workflows, and eliminate manual data entry. By removing routine process steps, staff can stay fully focused on patient conversations, improving both the experience and the outcome. As healthcare systems seek to balance efficiency with empathy, real-time transcription has become a capability for delivering responsive, high-quality care at scale. 
-Switchboard, MD is a physician-led AI and data science company with a mission to prioritize the human connection in medicine. Its service improves patient engagement and outcomes, while reducing inefficiency and burnout. By designing and deploying clinically relevant solutions, Switchboard, MD helps providers and operators collaborate more effectively to deliver great experiences for both patients and staff. One of its key solutions is streamlining the contact center using AI voice automation, real-time medical record matching, and suggested next steps, which has led to significant reductions in queue times and call abandonment rates. 
-With more than 20,000 calls handled each month, Switchboard, MD supports healthcare providers in delivering timely, personalized communication at scale. Its AI platform is already helping reduce call queue times, improve patient engagement, and streamline contact center operations for clinics and health systems. Customers using Switchboard have seen outcomes such as: 
- 
- 75% reduction in queue times 
- 59% reduction in call abandonment rate 
- 
-Despite these early successes, Switchboard faced a critical challenge: their existing transcription approach couldn’t scale economically while maintaining the accuracy required for clinical workflows. Cost and word error rate (WER) weren’t just operational metrics—they were critical enablers for scaling automation and expanding Switchboard’s impact across more patient interactions. 
-In this post, we examine the specific challenges Switchboard, MD faced with scaling transcription accuracy and cost-effectiveness in clinical environments, their evaluation process for selecting the right transcription solution, and the technical architecture they implemented using Amazon Connect and Amazon Kinesis Video Streams. This post details the impressive results achieved and demonstrates how they were able to use this foundation to automate EMR matching and give healthcare staff more time to focus on patient care. Finally, we’ll look at the broader implications for healthcare AI automation and how other organizations can implement similar solutions using Amazon Bedrock. 
-Choosing an accurate, scalable, and cost-effective transcription model for contact center automation 
-Switchboard, MD needed a transcription solution that delivered high accuracy at a sustainable cost. In clinical settings, transcription accuracy is critical because errors can compromise EMR record matching, affect recommended treatment plans, and disrupt automated workflows. At the same time, scaling support for thousands of calls each week meant that inference costs couldn’t be ignored. 
-Switchboard initially explored multiple paths, including evaluating open source models such as Open AI’s Whisper model hosted locally. But these options presented tradeoffs—either in performance, cost, or integration complexity. 
-After testing, the team determined that Amazon Nova Sonic provided the right combination of transcription quality and efficiency needed to support their healthcare use case. The model performed reliably across live caller audio, even in noisy or variable conditions.&nbsp;It delivered: 
- 
- 80–90% lower transcription costs 
- A word error rate of 4% on Switchboard’s proprietary evaluation dataset 
- Low-latency output that aligned with their need for real-time processing 
- 
- 
-Equally important, Nova Sonic integrated smoothly into Switchboard’s existing architecture, minimizing engineering lift and accelerating deployment. With this foundation, the team reduced manual transcription steps and scaled accurate, real-time automation across thousands of patient interactions. 
-
- “Our vision is to restore the human connection in medicine by removing administrative barriers that get in the way of meaningful interaction. Nova Sonic gave us the speed and accuracy we needed to transcribe calls in real time—so our customers can focus on what truly matters: the patient conversation.&nbsp;By reducing our transcription costs by 80–90%, it’s also made real-time automation sustainable at scale.” – Dr. Blake Anderson, Founder, CEO, and CTO, Switchboard, MD
- 
-Architecture and implementation 
-Switchboard’s architecture uses Amazon Connect to capture live audio from both patients and representatives. Switchboard processes audio streams through Amazon Kinesis Video Streams , which handles the real-time media conversion before routing the data to containerized&nbsp;AWS Lambda&nbsp;functions. Switchboard’s Lambda functions establish bidirectional streaming connections with Amazon Nova Sonic using BedrockRuntimeClient’s InvokeModelWithBidirectionalStream&nbsp;API.&nbsp; This novel architecture creates separate transcription streams for each conversation participant, which Switchboard recombines to create the complete transcription record. The entire processing pipeline runs in a serverless environment, providing scalable operation designed to handle thousands of concurrent calls while using Nova Sonic’s real-time speech-to-text capabilities for immediate transcription processing. 
-Nova Sonic integration: Real-time speech processing 
-Harnessing Amazon Nova Sonic’s advanced audio streaming and processing, Switchboard developed and built the capability of separating and recombining speakers’ streams and transcripts. This makes Amazon Nova Sonic particularly effective for Switchboard’s healthcare applications, where accurate transcription and speaker identification are crucial. 
-Amazon Nova Sonic offers configurable settings that can be optimized for different healthcare use cases, with the flexibility to prioritize either transcription or speech generation based on specific needs. A key cost-optimization feature is the ability to adjust speech output tokens – organizations can set lower token values when primarily focused on transcription, resulting in significant cost savings while maintaining high accuracy. This versatility and cost flexibility makes Amazon Nova Sonic a valuable tool for healthcare organizations like Switchboard looking to implement voice-enabled solutions. 
-Why serverless: Strategic advantages for healthcare innovation 
-Switchboard’s choice of a serverless architecture using Amazon Connect, Amazon Kinesis Video Streams, and containerized Lambda functions represents a strategic decision that maximizes operational efficiency while minimizing infrastructure overhead. The serverless approach eliminates the need to provision, manage, and monitor underlying infrastructure, so that Switchboard’s engineering team can focus on developing clinical automation features rather than server management. This architecture provides built-in fault tolerance and high availability for critical healthcare communications without requiring extensive configuration from Switchboard’s team. 
-Switchboard’s event-driven architecture, shown in the following figure, enables the system to scale from handling dozens to thousands of concurrent calls, with AWS automatically managing capacity provisioning behind the scenes. The pay-as-you-go billing model helps Switchboard pay only for compute resources used during call processing, optimizing costs while eliminating the risk of over-provisioning servers that would sit idle during low-volume periods. 
- 
-Conclusion 
-Switchboard, MD’s implementation of Amazon Nova Sonic demonstrates how the right transcription technology can transform healthcare operations. By achieving 80–90% cost reductions while maintaining clinical-grade accuracy, they’ve created a sustainable foundation for scaling AI-powered patient interactions across the healthcare industry. 
-By building on Amazon Bedrock, Switchboard now has the flexibility to expand automation across more use cases and provider networks. Their success exemplifies how healthcare innovators can combine accuracy, speed, and efficiency to transform how care teams connect with patients—one conversation at a time. 
-Get started with Amazon Nova on the Amazon Bedrock console. Learn more about Amazon Nova models at the Amazon Nova product page. 
- 
-About the authors 
- Tanner Jones is a Technical Account Manager in AWS Enterprise Support, where he helps customers navigate and optimize their production applications on AWS. He specializes in helping customers develop applications that incorporate AI agents, with a particular focus on building safe multi-agent systems. 
-Anuj Jauhari&nbsp;is a Sr. Product Marketing Manager at AWS, where he helps customers innovate and drive business impact with generative AI solutions built on Amazon Nova models. 
-Jonathan Woods is a Solutions Architect at AWS based in Nashville currently working with SMB customers. He has a passion for communicating AWS technology to businesses in a relevant way making it easy for customers to innovate. Outside of work, he tries keeping up with his three kids.   
-Nauman Zulfiqar&nbsp;is a senior account manager based in New York working with SMB clients. He loves building and maintaining strong customer relationships, understanding their business challenges and serving as the customer’s primary business advocate within AWS.
 
 ⸻
