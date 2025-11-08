@@ -1,17 +1,17 @@
-✅ Morning News Briefing – November 07, 2025 10:45
+✅ Morning News Briefing – November 08, 2025 10:41
 
-📅 Date: 2025-11-07 10:45
+📅 Date: 2025-11-08 10:41
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• Current Conditions:  -1.7°C
-  Temperature: -1.7&deg;C Pressure / Tendency: 101.4 kPa falling Humidity: 93 % Wind Chill: -4 . Dewpoint: -2.7°C Wind: ESE 5 km/h Air Quality Health Index: n/a . Pembroke 5:00 AM EST Friday 7 November 2025 Temperature: 1.7 °
-• Friday: Periods of rain or snow. High plus 5.
-  60 percent chance of flurries early this morning . Periods of rain beginning early this afternoon . High plus 5 . Wind chill minus 6 this morning. UV index 1 or low, with low UV index of low or very low for the rest of the day . Forecast issued 5:00 AM EST Friday 7 November 2025. For more information, visit http://www.mailonline
-• Friday night: Periods of drizzle or rain. Temperature rising to 8 this evening then falling. POP 40%
-  Cloudy. 40 percent chance of drizzle this evening . 40 percent . chance of showers overnight . Wind southwest 20 km/h gusting to 40 becoming northwest 20 near midnight . Temperature rising to 8 this evening then falling. Chance of rain in the evening then down to 8 in the morning . Forecast issued 5:00 AM EST Friday 7 November 2025. For confidential support call the
+• SPECIAL WEATHER STATEMENT, Pembroke
+  Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions . People in or around this area are urged to take necessary precautions . Weather conditions are expected to worsen in the coming years . People should be prepared for the worst of the worst weather conditions in the area . The weather is expected to deteriorate rapidly in the years of the next century .
+• Current Conditions:  0.4°C
+  Temperature: 0.4&deg;C Pressure / Tendency: 100.3 kPa rising Humidity: 87 % Dewpoint: -1.5&deg:C Wind: WNW 15 km/h gust 29 km-h . Air Quality Health Index: n/a . Pembroke 5:00 AM EST Saturday 8 November 2025 . Pemberbroke
+• Saturday: Chance of flurries. High plus 2. POP 40%
+  40 percent chance of flurries early this morning . Mainly cloudy . High plus 2. UV index 1 or low . Wind northwest 20 km/h becoming light this morning this morning. High minus 2.40 per cent chance of snowfall this morning, with 40 per cent of it possible to see snowfall in the evening hours of Saturday morning . Forecast issued 5:00
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Support for Israel among U.S. conservatives is starting to crack. Here's why
-  For a decade, political support for Israel has come from conservative Christians . But now isolationism and antisemitism are changing the tone . Anti-Semitism and isolationism have changed the tone in the U.S. for the past decade . Israel has been a major ally of Israel in the Middle East for more than a decade but has suffered from anti-Semitism, anti-Islamophobia
-• What's happening with furniture prices? A tale of $399 couches and tariffs
-  Competition from overseas rivals or second-hand goods has kept the price of furniture relatively low . New tariffs may boost U.S. makers — and raise prices . Competition has kept prices relatively low, but new tariffs may raise prices for furniture makers in the U.K. New tariffs could also raise the cost of U.N. furniture makers' waives price of goods in U.
-• The shutdown continues, but politics persists. That gives this quiz a lot of fodder
-  CNN asked a bunch of questions about politics and bears . Here are some of the answers to the questions posed about bears in the U.S. Here are a few of them about politics, bears, bears and politics . CNN.com will feature iReporters from around the world in a weekly Travel Snapshots gallery on CNN iReport.com/Travel.com . Please submit your
-• Want less screen-obsessed kids? Set better tech boundaries for yourself
-  For kids to have healthy relationships with technology and smartphones, parents need to model good habits . Here's how to do it, and how to monitor screen time for kids . Parents need to be consistent with good habits for kids, says CNN.com's John Sutter.com.com/Heroes for Kids: Have a healthy relationship with technology? Share your story with CNN iReport
-• If we're being truthful, people are saying 'honestly' all the time
-  The popularity of the word honestly online and in conversation has soared in recent years . TBH, we'd like to know what's going on. TBH: TBH. We'd like an explanation for the rise in the popularity of honestly online, in conversation, and in the news. We want to know more about the rise of the term honestly in the world. We do not
+• Immigration agents have new technology to identify and track people
+  Department of Homeland Security is adopting powerful new tools to monitor noncitizens . Privacy advocates are worried they erode privacy rights for immigrants and Americans alike . Homeland Security has been criticized by privacy advocates for using the tools to spy on noncitizens in the U.S. Privacy advocates say they are concerned they will erode Americans' privacy rights if they use the new tools for monitoring noncitizens'
+• What to know about the 5 hostages whose remains are still in Gaza
+  Lior Rudaeff, 61, was killed in the Oct. 7, 2023 attack . His remains were returned to Hamas in the most recent release . He was identified as a man who was 61 when he was killed by Hamas forces in October 2023 . The man was identified by Hamas as Lior Ruaff, who was a member of Israel's Kofi Annan
+• UPS and FedEx grounding MD-11 planes following deadly Kentucky crash
+  UPS and FedEx will ground their fleets of McDonnell Douglas MD-11 planes "out of an abundance of caution" following a deadly crash at the UPS global aviation hub in Kentucky . The planes were involved in a fatal crash that left one person dead at the scene of the crash . FedEx and UPS are grounding their McDonnell Douglas planes out of "an abundance of experity of
+• Supreme Court temporarily blocks full SNAP benefits even as they'd started to go out
+  The Trump administration is appealing an order to fully fund November food aid for millions of people . The high court decision allows a lower court time to consider a more lasting pause . The administration wants to keep food aid funds in place for November . The decision allows the lower court to consider more of a longer-term pause in food aid funding for the nation's poorest . The government is appealing the
+• James Watson, who co-discovered the structure of DNA, has died at age 97
+  James Watson, who co-discovered the structure of DNA, has died at age 97 . Watson was a scientific superstar until he made racist remarks that made him an outcast . He was a scientist who was made a social outcast by his racist remarks . Watson died at the age of 97 on Monday, October 4 . Watson co-founded the first company that developed the first DNA
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• UK tax collector falls short on digital efficiency, watchdog says
-  Treasury found £1.6 billion for extra tech investment expecting 15 percent efficiency saving . So far HMRC has underwhelmed . HMRC is yet to reach levels of efficiency its investment in digital services has led auditors to expect, according to a new report . Treasury found that HMRC had wasted £2.2 billion of the money on digital services in the last three years .
-• ISP help desk manager fell for ‘Internet Cleaning Day’ prank - then swore he got the joke
-  On Call is The Register’s Friday reader-contributed column that celebrates the fine art of tech support . Lost packets would be cleaned out of routers, dead gopher servers would be pulled out of holes . On Call: On Call, The Register's Friday readers share their views on tech support and tech tech support in the next week's edition of this week's On Call .
-• Foxconn hires humanoid robots to make servers at Nvidia's Texas factory
-  Taiwanese contract manufacturer Foxconn confirmed it will use humanoid robots to make Nvidia servers in America . We're months away from AI building AI, but it's still months away . Foxconn will use robots to build servers for Nvidia in America, which will be made by robots in the U.S. Foxconn has confirmed it is using humanoid robots for its servers . It will also use robots
-• Rideshare giant moves 200 Macs out of the cloud, saves $2.4 million
-  Singaporean super-app company Grab has dumped 200 cloudy Mac Minis and replaced them with physical machines . Grab expects the move will save $2.4 million over three years . Grab tried to virtualize macOS, but Apple doesn’t make that easy . The move is expected to save Grab $2 million over the next three years, the company hopes to save $3 million
-• Microsoft will force its 'superintelligence' to be a 'humanist' and play nice with people
-  Mustafa Suleyman is willing to sacrifice performance for the future of our species . Microsoft has joined the ranks of tech giants chasing superintelligent artificial intelligence . But the company's AI chief's vision is markedly different from that of other industry leaders . Microsoft's new AI boss is willing not to sacrifice human performance for future of the species, says Microsoft's AI boss . Microsoft’
+• Microsoft's lack of quality control is out of control
+  At one point, Microsoft's QC was legendary. Now, it's the wrong kind of legend . The robustness of Windows NT in decades past might qualify as "legendary" But anybody who has had to use the company's wares in recent years might quibble with the word "quality" Microsoft's quality control was legendary, but now it's a different kind of quality
+• Meta can't afford its $600B love letter to Trump
+  The Zuck better hope his finance bros have deep pockets and a whole lotta patience to pull this off . Meta on Friday floated plans to invest $600 billion in US infrastructure and jobs by 2028 as part of a massive datacenter expansion . The company says it will invest in the U.S. infrastructure and the jobs of those who do it will be created by 20
+• ChatGPT, Claude, and Grok make very squishy jury members
+  Law students at the University of North Carolina at Chapel Hill School of Law last month held a mock trial to see how AI models administer justice . All three acquitted a teen in the mock trial based on a case where a judge ruled guilty . The trial was based on the case of a teen who was found guilty of a crime in a case that was ruled guilty by a judge in court .
+• Previously unknown Landfall spyware used in 0-day attacks on Samsung phones
+  A previously unknown Android spyware family called LANDFALL exploited a zero-day in Samsung Galaxy devices for nearly a year, installing surveillance code capable of recording calls, tracking locations, and harvesting photos and logs . Samsung finally patched the flaw in April, and the spyware was discovered months before it was fixed . The flaw was fixed by Samsung, but the company says it was a
+• AI benchmarks are a bad joke – and LLM makers are the ones laughing
+  AI companies tout their models' performance on benchmark tests as a sign of technological and intellectual superiority . But those results, widely used in marketing, may not be meaningful . AI companies regularly tout performance as signs of technological superiority, but those results are often not meaningful . Study finds many tests don't measure the right things AI companies say, such as performance of their AI models in tests
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• From resolution to reality: advancing point-of-care diagnostics for kidney disease in low-resource settings
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• Prevalence, bacterial etiology, and antimicrobial susceptibility patterns of urinary tract infections among pregnant women in rural West Amhara, Ethiopia
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• The contribution of mycetoma grains to suboptimal disease management
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• A simulation study of the impact of population-wide lifestyle modifications on life expectancy in the Chinese population
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Stillbirths and the race-specific gap in neonatal death among extremely preterm births
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Addressing the Recurrent and Protracted Cholera Outbreaks in Africa: Challenges and the Way Forward
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• A qualitative study on operational challenges of Iranian affiliated mobile health clinics in Iraq during Arbaeen
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Association between prenatal exposure to antihypertensive medication and neurodevelopmental and educational outcomes in children
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• The relationship between premenstrual syndrome and circadian rhythm, depressive mood, and anxiety
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,152 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• The Download: a new home under the sea, and cloning pets
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+The first new subsea habitat in 40 years is about to launch
+
+
+
+Vanguard feels and smells like a new RV. It has long, gray banquettes that convert into bunks, a microwave cleverly hidden under a counter, a functional steel sink with a French press and crockery above. A weird little toilet hides behind a curtain.
+
+
+
+But you can’t just fire up Vanguard’s engine and roll off the lot. Once it is sealed and moved to its permanent home beneath the waves of the Florida Keys National Marine Sanctuary early next year, Vanguard will be the world’s first new subsea habitat in nearly four decades.Teams of four scientists will live and work on the seabed for a week at a time, entering and leaving the habitat as scuba divers. Read our story about some of their potential missions.
+
+
+
+—Mark Harris
+
+
+
+
+
+
+
+Cloning isn’t just for celebrity pets like Tom Brady’s dog
+
+
+
+This week, we heard that Tom Brady had his dog cloned. The former quarterback revealed that his Junie is actually a clone of Lua, a pit bull mix that died in 2023.
+
+
+
+Brady’s announcement follows those of celebrities like Paris Hilton and Barbra Streisand, who also famously cloned their pet dogs. But some believe there are better ways to make use of cloning technologies, such as diversifying the genetic pools of inbred species, or potentially bringing other animals back from the brink of extinction. Read the full story.
+
+
+
+—Jessica Hamzelou
+
+
+
+This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, sign up here.
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 OpenAI is facing a wave of new lawsuits The cases concern wrongful death complaints, and claims ChatGPT caused mental breakdowns. (NYT $)+ One family claims ChatGPT “goaded” their son into taking his own life. (CNN)+ The looming crackdown on AI companionship. (MIT Technology Review)
+
+
+
+2 Tesla shareholders approved Elon Musk’s $1 trillion pay packageMore than 75% of voters backed it. (WSJ $)+ Musk had hinted he’d leave Tesla if the deal wasn’t greenlit. (Axios)+ Tesla has to hit its ambitious targets before he can get his hands on the cash. (Wired $)3 The EU is poised to water down the AI actAfter pressure from Big Tech and the US government. (FT $)+ While the legislation was passed last year, many provisions haven’t kicked in yet. (Reuters)
+
+
+
+4 Meta is earning a colossal amount of money from scam adsThey accounted for 10% of its revenue last year. (Reuters)+ Meta claims it “aggressively” addresses scam ads on its platform. (CNBC)
+
+
+
+5 The Chan Zuckerberg Initiative is pivoting to AIIt’s shifting its philanthropic focus from social justice programs to curing disease. (WP $)+ To achieve its goals, the charity will need extra computing power. (NYT $)
+
+
+
+6 Unesco has adopted global standards on neurotechnologyExperts were increasingly concerned that a lack of guardrails could give rise to unethical practices. (The Guardian)+ Meet the other companies developing brain-computer interfaces. (MIT Technology Review)
+
+
+
+7 Benchmarks hugely oversell AI performanceA new study questions their reliability and the validity of their results. (NBC News)+ How to build a better AI benchmark. (MIT Technology Review)
+
+
+
+8 Kim Kardashian blames ChatGPT for failing her law examsIt’s almost like she shouldn’t have been consulting it for legal expertise in the first place. (Hollywood Reporter)+ AI and social media is worsening brain rot. (NYT $)+ How AI is introducing errors into courtrooms. (MIT Technology Review)
+
+
+
+9 Hyundai is using robot dogs to inspect its EV production lineAnd they may soon be joined by a bipedal master. (IEEE Spectrum)
+
+
+
+10 Grand Theft Auto VI has been delayed yet againThe highly anticipated video game has big, big shoes to fill. (Bloomberg $)+ It’ll land a full 13 years after its previous incarnation—or will it? (BBC)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“This is what oligarchy looks like.”
+
+
+
+—Senator Bernie Sanders reacts to Tesla shareholders’ decision to award Elon Musk a $1 trillion pay package in a post on X.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+Finding forgotten Indigenous landscapes with electromagnetic technology
+
+
+
+The fertile river valleys of the American Midwest hide tens of thousands of Indigenous earthworks, according to experts: geometric structures consisting of walls, mounds, ditches, and berms, some dating back nearly 3,000 years.Archaeologists now believe that the earthworks functioned as religious gathering places, tombs for culturally important clans, and annual calendars, perhaps all at the same time. They can take the form of giant circles and squares, cloverleafs and octagons, complex S-curves and simple mounds.Until recently, it seemed as if much of the continent’s pre-European archaeological heritage had been carelessly wiped out, uprooted, and lost for good. But traces remain: electromagnetic remnants in the soil that can be detected using specialty surveying equipment. And archaeologists and tribal historians are working together to uncover them. Read the full story.
+
+
+
+—Geoff Manaugh
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
+
+
+
++ If you’re a wildlife fan, take a look at this compilation of the best places to catch a glimpse of unusual animals.+ El Salvador’s annual fireball festival is a completely unhinged celebration of all things volcanic.+ The most influential Bostonians of 2025 have been announced.+ Get me in a potato bed, stat.
 • The first new subsea habitat in 40 years is about to launch
   Vanguard feels and smells like a new RV. It has long, gray banquettes that convert into bunks, a microwave cleverly hidden under a counter, a functional steel sink with a French press and crockery above. A weird little toilet hides behind a curtain.
 
@@ -429,72 +575,6 @@ Ultimately, as long as you aren’t relentlessly churning out AI slop, you shoul
 
 
 This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
-• A new ion-based quantum computer makes error correction simpler
-  The US- and UK-based company Quantinuum today unveiled Helios, its third-generation quantum computer, which includes expanded computing power and error correction capability.&nbsp;
-
-
-
-Like all other existing quantum computers, Helios is not powerful enough to execute the industry’s dream money-making algorithms, such as those that would be useful for materials discovery or financial modeling. But Quantinuum’s machines, which use individual ions as qubits, could be easier to scale up than quantum computers that use superconducting circuits as qubits, such as Google’s and IBM’s.
-
-
-
-“Helios is an important proof point in our road map about how we’ll scale to larger physical systems,” says Jennifer Strabley, vice president at Quantinuum, which formed in 2021 from the merger of Honeywell Quantum Solutions and Cambridge Quantum. Honeywell remains Quantinuum’s majority owner.
-
-
-
-Located at Quantinuum’s facility in Colorado, Helios comprises a myriad of components, including mirrors, lasers, and optical fiber. Its core is a thumbnail-size chip containing the barium ions that serve as the qubits, which perform the actual computing. Helios computes with 98 barium ions at a time; its predecessor, H2, used 56 ytterbium qubits. The barium ions are an upgrade, as they have proven easier to control than ytterbium.&nbsp; These components all sit within a chamber that is cooled to about 15 Kelvin (-432.67 ℉), on top of an optical table. Users can access the computer by logging in remotely over the cloud.
-
-
-
-Helios encodes information in the ions’ quantum states, which can represent not only 0s and 1s, like the bits in classical computing, but probabilistic combinations of both, known as superpositions. A hallmark of quantum computing, these superposition states are akin to the state of a coin flipping in the air—neither heads nor tails, but some probability of both.&nbsp;
-
-
-
-Quantum computing exploits the unique mathematics of quantum-mechanical objects like ions to perform computations. Proponents of the technology believe this should enable commercially useful applications, such as highly accurate chemistry simulations for the development of batteries or better optimization algorithms for logistics and finance.&nbsp;
-
-
-
-In the last decade, researchers at companies and academic institutions worldwide have incrementally developed the technology with billions of dollars of private and public funding. Still, quantum computing is in an awkward teenage phase. It’s unclear when it will bring profitable applications. Of late, developers have focused on scaling up the machines.&nbsp;
-
-
-
-A key challenge to making a more powerful quantum computer is implementing error correction. Like all computers, quantum computers occasionally make mistakes. Classical computers correct these errors by storing information redundantly. Owing to quirks of quantum mechanics, quantum computers can’t do this and require special correction techniques.&nbsp;
-
-
-
-Quantum error correction involves storing a single unit of information in multiple qubits rather than in a single qubit. The exact methods vary depending on the specific hardware of the quantum computer, with some machines requiring more qubits per unit of information than others. The industry refers to an error-corrected unit of quantum information as a “logical qubit.” Helios needs two ions, or “physical qubits,” to create one logical qubit.
-
-
-
-This is fewer physical qubits than needed in recent quantum computers made of superconducting circuits. In 2024, Google used 105 physical qubits to create a logical qubit. This year, IBM used 12 physical qubits per single logical qubit, and Amazon Web Services used nine physical qubits to produce a single logical qubit. All three companies use variations of superconducting circuits as qubits.
-
-
-
-Helios is noteworthy for its qubits’ precision, says Rajibul Islam, a physicist at the University of Waterloo in Canada, who is not affiliated with Quantinuum. The computer’s qubit error rates are low to begin with, which means it doesn’t need to devote as much of its hardware to error correction. Quantinuum had pairs of qubits interact in an operation known as entanglement and found that they behaved as expected 99.921% of the time. “To the best of my knowledge, no other platform is at this level,” says Islam.
-
-
-
-This advantage comes from a design property of ions. Unlike superconducting circuits, which are affixed to the surface of a quantum computing chip, ions on Quantinuum’s Helios chip can be shuffled around. Because the ions can move, they can interact with every other ion in the computer, a capacity known as “all-to-all connectivity.” This connectivity allows for error correction approaches that use fewer physical qubits. In contrast, superconducting qubits can only interact with their direct neighbors, so a computation between two non-adjacent qubits requires several intermediate steps involving the qubits in between. “It’s becoming increasingly more apparent how important all-to-all-connectivity is for these high-performing systems,” says Strabley.
-
-
-
-Still, it’s not clear what type of qubit will win in the long run. Each type has design benefits that could ultimately make it easier to scale. Ions (which are used by the US-based startup IonQ as well as Quantinuum) offer an advantage because they produce relatively few errors, says Islam: “Even with fewer physical qubits, you can do more.” However, it’s easier to manufacture superconducting qubits. And qubits made of neutral atoms, such as the quantum computers built by the Boston-based startup QuEra, are “easier to trap” than ions, he says.&nbsp;
-
-
-
-Besides increasing the number of qubits on its chip, another notable achievement for Quantinuum is that it demonstrated error correction “on the fly,” says David Hayes, the company’s director of computational theory and design, That’s a new capability for its machines. Nvidia GPUs were used to identify errors in the qubits in parallel. Hayes thinks that GPUs are more effective for error correction than chips known as FPGAs, also used in the industry.
-
-
-
-Quantinuum has used its computers to investigate the basic physics of magnetism and superconductivity. Earlier this year, it reported simulating a magnet on H2, Helios’s predecessor, with the claim that it “rivals the best classical approaches in expanding our understanding of magnetism.” Along with announcing the introduction of Helios, the company has used the machine to simulate the behavior of electrons in a high-temperature superconductor. 
-
-
-
-“These aren’t contrived problems,” says Hayes. “These are problems that the Department of Energy, for example, is very interested in.”
-
-
-
-Quantinuum plans to build another version of Helios in its facility in Minnesota. It has already begun to build a prototype for a fourth-generation computer, Sol, which it plans to deliver in 2027, with 192 physical qubits. Then, in 2029, the company hopes to release Apollo, which it says will have thousands of physical qubits and should be “fully fault tolerant,” or able to implement error correction at a large scale.
 
 🔒 Cybersecurity & Privacy
 • Cloudflare Scrubs Aisuru Botnet from Top Domains List
@@ -521,34 +601,6 @@ According to Cloudflare&#8217;s website, the majority of DNS queries to the top 
 Experts tracking Aisuru say the botnet relies on well more than a hundred control servers, and that for the moment at least most of those domains are registered in the .su top-level domain (TLD). Dot-su is the TLD assigned to the former Soviet Union (.su&#8217;s Wikipedia page says the TLD was created just 15 months before the fall of the Berlin wall).
 A Cloudflare blog post from October 27 found that .su had the highest &#8220;DNS magnitude&#8221; of any TLD, referring to a metric estimating the popularity of a TLD based on the number of unique networks querying Cloudflare&#8217;s 1.1.1.1 resolver. The report concluded that the top .su hostnames were associated with a popular online world-building game, and that more than half of the queries for that TLD came from the United States, Brazil and Germany [it&#8217;s worth noting that servers for the world-building game Minecraft were some of Aisuru&#8217;s most frequent targets].
 A simple and crude way to detect Aisuru bot activity on a network may be to set an alert on any systems attempting to contact domains ending in .su. This TLD is frequently abused for cybercrime and by cybercrime forums and services, and blocking access to it entirely is unlikely to raise any legitimate complaints.
-• Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody
-  A Ukrainian man indicted in 2012 for conspiring with a prolific hacking group to steal tens of millions of dollars from U.S. businesses was arrested in Italy and is now in custody in the United States, KrebsOnSecurity has learned.
-Sources close to the investigation say Yuriy Igorevich Rybtsov, a 41-year-old from the Russia-controlled city of Donetsk, Ukraine, was previously referenced in U.S. federal charging documents only by his online handle &#8220;MrICQ.&#8221; According to a 13-year-old indictment (PDF) filed by prosecutors in Nebraska, MrICQ was a developer for a cybercrime group known as &#8220;Jabber Zeus.&#8221;
-Image: lockedup dot wtf.
-The Jabber Zeus name is derived from the malware they used &#8212; a custom version of the ZeuS banking trojan &#8212; that stole banking login credentials and would send the group a Jabber instant message each time a new victim entered a one-time passcode at a financial institution website. The gang targeted mostly small to mid-sized businesses, and they were an early pioneer of so-called &#8220;man-in-the-browser&#8221; attacks, malware that can silently intercept any data that victims submit in a web-based form.
-Once inside a victim company&#8217;s accounts, the Jabber Zeus crew would modify the firm&#8217;s payroll to add dozens of &#8220;money mules,&#8221; people recruited through elaborate work-at-home schemes to handle bank transfers. The mules in turn would forward any stolen payroll deposits — minus their commissions — via wire transfers to other mules in Ukraine and the United Kingdom.
-The 2012 indictment targeting the Jabber Zeus crew named MrICQ as &#8220;John Doe #3,&#8221; and said this person handled incoming notifications of newly compromised victims. The Department of Justice (DOJ) said MrICQ also helped the group launder the proceeds of their heists through electronic currency exchange services.
-Two sources familiar with the Jabber Zeus investigation said Rybtsov was arrested in Italy, although the exact date and circumstances of his arrest remain unclear. A summary of recent decisions (PDF) published by the Italian Supreme Court states that in April 2025, Rybtsov lost a final appeal to avoid extradition to the United States.
-According to the mugshot website lockedup[.]wtf, Rybtsov arrived in Nebraska on October 9, and was being held under an arrest warrant from the U.S. Federal Bureau of Investigation (FBI).
-The data breach tracking service Constella Intelligence found breached records from the business profiling site bvdinfo[.]com showing that a 41-year-old Yuriy Igorevich Rybtsov worked in a building at 59 Barnaulska St. in Donetsk. Further searching on this address in Constella finds the same apartment building was shared by a business registered to Vyacheslav “Tank” Penchukov, the leader of the Jabber Zeus crew in Ukraine.
-Vyacheslav “Tank” Penchukov, seen here performing as &#8220;DJ Slava Rich&#8221; in Ukraine, in an undated photo from social media.
-Penchukov was arrested in 2022 while traveling to meet his wife in Switzerland. Last year, a federal court in Nebraska sentenced Penchukov to 18 years in prison and ordered him to pay more than $73 million in restitution.
-Lawrence Baldwin is founder of myNetWatchman, a threat intelligence company based in Georgia that began tracking and disrupting the Jabber Zeus gang in 2009. myNetWatchman had secretly gained access to the Jabber chat server used by the Ukrainian hackers, allowing Baldwin to eavesdrop on the daily conversations between MrICQ and other Jabber Zeus members.
-Baldwin shared those real-time chat records with multiple state and federal law enforcement agencies, and with this reporter. Between 2010 and 2013, I spent several hours each day alerting small businesses across the country that their payroll accounts were about to be drained by these cybercriminals.
-Those notifications, and Baldwin&#8217;s tireless efforts, saved countless would-be victims a great deal of money. In most cases, however, we were already too late. Nevertheless, the pilfered Jabber Zeus group chats provided the basis for dozens of stories published here about small businesses fighting their banks in court over six- and seven-figure financial losses.
-Baldwin said the Jabber Zeus crew was far ahead of its peers in several respects. For starters, their intercepted chats showed they worked to create a highly customized botnet directly with the author of the original Zeus Trojan &#8212; Evgeniy Mikhailovich Bogachev, a Russian man who has long been on the FBI&#8217;s &#8220;Most Wanted&#8221; list. The feds have a standing $3 million reward for information leading to Bogachev&#8217;s arrest.
-Evgeniy M. Bogachev, in undated photos.
-The core innovation of Jabber Zeus was an alert that MrICQ would receive each time a new victim entered a one-time password code into a phishing page mimicking their financial institution. The gang&#8217;s internal name for this component was &#8220;Leprechaun,&#8221; (the video below from myNetWatchman shows it in action). Jabber Zeus would actually re-write the HTML code as displayed in the victim&#8217;s browser, allowing them to intercept any passcodes sent by the victim&#8217;s bank for multi-factor authentication.
-&#8220;These guys had compromised such a large number of victims that they were getting buried in a tsunami of stolen banking credentials,&#8221; Baldwin told KrebsOnSecurity. &#8220;But the whole point of Leprechaun was to isolate the highest-value credentials &#8212; the commercial bank accounts with two-factor authentication turned on. They knew these were far juicier targets because they clearly had a lot more money to protect.&#8221;
-
-Baldwin said the Jabber Zeus trojan also included a custom &#8220;backconnect&#8221; component that allowed the hackers to relay their bank account takeovers through the victim&#8217;s own infected PC.
-&#8220;The Jabber Zeus crew were literally connecting to the victim&#8217;s bank account from the victim&#8217;s IP address, or from the remote control function and by fully emulating the device,&#8221; he said. &#8220;That trojan was like a hot knife through butter of what everyone thought was state-of-the-art secure online banking at the time.&#8221;
-Although the Jabber Zeus crew was in direct contact with the Zeus author, the chats intercepted by myNetWatchman show Bogachev frequently ignored the group&#8217;s pleas for help. The government says the real leader of the Jabber Zeus crew was Maksim Yakubets, a 38-year Ukrainian man with Russian citizenship who went by the hacker handle &#8220;Aqua.&#8221;
-Alleged Evil Corp leader Maksim &#8220;Aqua&#8221; Yakubets. Image: FBI
-The Jabber chats intercepted by Baldwin show that Aqua interacted almost daily with MrICQ, Tank and other members of the hacking team, often facilitating the group&#8217;s money mule and cashout activities remotely from Russia.
-The government says Yakubets/Aqua would later emerge as the leader of an elite cybercrime ring of at least 17 hackers that referred to themselves internally as &#8220;Evil Corp.&#8221; Members of Evil Corp developed and used the Dridex (a.k.a. Bugat) trojan, which helped them siphon more than $100 million from hundreds of victim companies in the United States and Europe.
-This 2019 story about the government&#8217;s $5 million bounty for information leading to Yakubets&#8217;s arrest includes excerpts of conversations between Aqua, Tank, Bogachev and other Jabber Zeus crew members discussing stories I&#8217;d written about their victims. Both Baldwin and I were interviewed at length for a new weekly six-part podcast by the BBC that delves deep into the history of Evil Corp. Episode One focuses on the evolution of Zeus, while the second episode centers on an investigation into the group by former FBI agent Jim Craig.
-Image: https://www.bbc.co.uk/programmes/w3ct89y8
 
 🎓 University AI
 No updates.
@@ -782,7 +834,7 @@ While this experimental setup provides a useful starting point, it is not intend
 		
 
 		
-		Spotlight: Event Series
+		Spotlight: Microsoft research newsletter
 	
 	
 	
@@ -794,14 +846,14 @@ While this experimental setup provides a useful starting point, it is not intend
 			
 			
 
-									Microsoft Research Forum
+									Microsoft Research Newsletter
 				
-								Join us for a continuous exchange of ideas about research in the era of general AI. Watch the first four episodes on demand.
+								Stay connected to the research community at Microsoft.
 				
 								
 					
 						
-							Watch on-demand						
+							Subscribe today						
 					
 				
 							
@@ -1053,640 +1105,460 @@ Summary
 
 RedCodeAgent&nbsp;combines adaptive memory, specialized tools, and simulated execution environments to uncover real-world risks that static benchmarks&nbsp;may&nbsp;miss.&nbsp;It&nbsp;consistently outperforms leading jailbreak methods, achieving higher attack success rates and lower rejection rates, while remaining efficient and adaptable across diverse agents and programming languages.
 Opens in a new tabThe post RedCodeAgent: Automatic red-teaming agent against diverse code agents appeared first on Microsoft Research.
-• Transform your MCP architecture: Unite MCP servers through AgentCore Gateway
-  As AI agents are adopted at scale, developer teams can create dozens to hundreds of specialized Model Context Protocol (MCP) servers, tailored for specific agent use case and domain, organization functions or teams. Organizations also need to integrate their own existing MCP servers or open source MCP servers for their AI workflows. There is a need for a way to efficiently combine these existing MCP servers–whether custom-built, publicly available, or open source–into a unified interface that AI agents can readily consume and teams can seamlessly share across the organization. 
-Earlier this year, we introduced Amazon Bedrock AgentCore Gateway, a fully managed service that serves as a centralized MCP tool server, providing a unified interface where agents can discover, access, and invoke tools. Today, we’re extending support for existing MCP servers as a new target type in AgentCore Gateway. With this capability, you can group multiple task-specific MCP servers aligned to agent goals behind a single, manageable MCP gateway interface. This reduces the operational complexity of maintaining separate gateways, while providing the same centralized tool and authentication management that existed for REST APIs and AWS Lambda functions. 
-Without a centralized approach, customers face significant challenges: discovering and sharing tools across organizations becomes fragmented, managing authentication across multiple MCP servers grows increasingly complex, and maintaining separate gateway instances for each server quickly becomes unmanageable. Amazon Bedrock AgentCore Gateway helps solves these challenges by treating existing MCP servers as native targets, giving customers a single point of control for routing, authentication, and tool management—making it as simple to integrate MCP servers as it is to add other targets to the gateway. 
-Breaking down MCP silos: Why enterprise teams need a unified Gateway 
-Let’s explore this through a real-world example of an e-commerce ordering system, where different teams maintain specialized MCP servers for their specific domains. Consider an enterprise e-commerce system where different teams have developed specialized MCP servers: 
+• Connect Amazon Bedrock agents to cross-account knowledge bases
+  Organizations need seamless access to their structured data repositories to power intelligent AI agents. However, when these resources span multiple AWS accounts integration challenges can arise. This post explores a practical solution for connecting Amazon Bedrock agents to knowledge bases in Amazon Redshift clusters residing in different AWS accounts. 
+The challenge 
+Organizations that build AI agents using Amazon Bedrock can maintain their structured data in Amazon Redshift clusters. When these data repositories exist in separate AWS accounts from their AI agents, they face a significant limitation: Amazon Bedrock Knowledge Bases doesn’t natively support cross-account Redshift integration. 
+This creates a challenge for enterprises with multi-account architectures who want to: 
  
- The Shopping Cart team maintains an MCP server with cart management tools 
- The Product Catalog team runs their MCP server for product browsing and search 
- The Promotions team operates an MCP server handling promotional logic 
+ Leverage existing structured data in Redshift for their AI agents. 
+ Maintain separation of concerns across different AWS accounts. 
+ Avoid duplicating data across accounts. 
+ Ensure proper security and access controls. 
  
-Previously, an ordering agent would need to interact with each of these MCP servers separately, managing multiple connections and authentication contexts. With the new MCP server target support in AgentCore Gateway, these specialized servers can now be unified under a single gateway while maintaining their team-specific ownership and access controls. The power of this approach lies in its organizational flexibility. Teams can group their MCP servers based on multiple logical criteria: 
+Solution overview 
+Our solution enables cross-account knowledge base integration through a secure, serverless architecture that maintains secure access controls while allowing AI agents to query structured data. The approach uses AWS Lambda as an intermediary to facilitate secure cross-account data access. 
  
- Business unit alignment: Organize the MCP servers by business unit 
- Product feature boundaries: Each product team owns their MCP server with domain-specific tools allowing them to maintain clear ownership while providing a unified interface for their agents 
- Security and access control: Different MCP servers require different authentication mechanisms. The gateway handles the authentication complexity, making it simple for authorized agents to access the tools they need 
+The action flow as shown above: 
  
-The following diagram illustrates how an ordering agent interacts with multiple MCP servers through AgentCore Gateway. The agent connects to the gateway and discovers the available tools. Each team maintains control over their domain-specific tools while contributing to a cohesive agent experience. The gateway handles tool naming collisions, authentication, and provides unified semantic search across the tools. 
+ Users enter their natural language question in Amazon Bedrock Agents which is configured in the agent account. 
+ Amazon Bedrock Agents invokes a&nbsp;Lambda function through action groups which provides access to the Amazon Bedrock knowledge base configured in the agent-kb account above. 
+ Action group Lambda function running in agent account assumes an IAM role created in agent-kb account above to connect to the knowledge base in the agent-kb account. 
+ Amazon Bedrock Knowledge Base in the agent-kb account uses an IAM role created in the same account to access Amazon Redshift data warehouse and query data in the data warehouse. 
  
-The AgentCore Gateway serves as an integration hub in modern agentic architectures, offering a unified interface for connecting diverse agent implementations with a wide array of tool providers. The architecture, as illustrated in the diagram, demonstrates how the gateway bridges the gap between agent and tool implementation approaches, now enhanced with the ability to directly integrate MCP server targets. 
-AgentCore Gateway integration architecture 
-In AgentCore Gateway, a target defines the APIs, Lambda functions, or other MCP servers that a gateway will provide as tools to an agent. Targets can be Lambda functions, OpenAPI specifications, Smithy models, MCP servers, or other tool definitions. 
-The target integration side of the architecture showcases the gateway’s versatility in tool integration. With the new MCP server target support, the gateway can directly incorporate tools from public MCP servers, treating them as first-class citizens alongside other target types. This capability extends to federation scenarios where one AgentCore Gateway instance can serve as a target for another, for hierarchical tool organization across organizational boundaries. The gateway can seamlessly integrate with AgentCore Runtime instances that expose agents as tools, private MCP servers maintained by customers, traditional AWS Lambda functions, and both Smithy and AWS service APIs. 
-Beyond target diversity, the gateway’s authentication architecture provides additional operational benefits. The gateway decouples its inbound authentication from target systems, letting agents access tools that use multiple identity providers through a single interface. This centralized approach simplifies development, deployment, and maintenance of AI agents. Now, the same approach can be used for MCP server targets, where the gateway manages the complexity of interfacing with the server using the configured identity provider for the target. 
-With this authentication foundation you get sophisticated tool management capabilities through a unified architecture. When an agent requests tool discovery, the gateway provides a consistent view across the integrated targets, with tools from MCP servers appearing alongside Lambda functions and traditional APIs. The semantic search capability operates uniformly across the tool types, so agents can discover relevant tools regardless of their implementation. During tool invocation, the gateway handles the necessary protocol translations, authentication flows, and data transformations, presenting a clean, consistent interface to agents while managing the complexity of different target systems behind the scenes. 
-The addition of MCP server target support represents a significant evolution in the gateway’s capabilities. Organizations can now directly integrate MCP-native tools while maintaining their investments in traditional APIs and Lambda functions. This flexibility allows for gradual migration strategies where teams can adopt MCP-native implementations at their own pace while facilitating continuous operation of existing integrations. The gateway’s synchronization mechanisms make sure that tool definitions remain current across the different target types, while its authentication and authorization systems provide consistent security controls regardless of the underlying tool implementation. 
-The gateway combines MCP servers, traditional APIs, and serverless functions into a coherent tool environment. This capability, along with enterprise-grade security and performance, makes it a beneficial infrastructure for agentic computing. 
+The solution follows these key components: 
  
-Solution Walkthrough 
-In this post, we’ll guide you through the steps to set up an MCP server target in AgentCore Gateway, which is as simple as adding a new MCP server type target to a new or existing MCP Gateway. Adding an MCP server to an AgentCore Gateway will allow you to centralize your tool management, security authentication, and operational best practices with managing MCP servers at scale. 
+ Amazon Bedrock agent in the agent account that handles user interactions. 
+ Amazon Redshift serverless workgroup in VPC and private subnet in the agent-kb account containing structured data. 
+ Amazon Bedrock Knowledge base using the Amazon Redshift serverless workgroup as structured data source. 
+ Lambda function in the agent account. 
+ Action group configuration to connect the agent in the agent account to the Lambda function. 
+ IAM roles and policies that enable secure cross-account access. 
  
-Get started with adding MCP Server into AgentCore Gateway 
-To get started, you will create an AgentCore Gateway and add your MCP Server as a target. 
 Prerequisites 
-Verify you have the following prerequisites: 
+This solution requires you to have the following: 
  
- AWS account with Amazon Bedrock AgentCore access. For more information review Permissions for AgentCore Runtime documentation. 
- Python 3.12 or later 
- Basic understanding of OAuth 2.0 
+ Two AWS accounts. Create an AWS account if you do not have one. Specific permissions required for both account which will be set up in subsequent steps. 
+ Install the AWS CLI (2.24.22 – current version) 
+ Set up authentication using IAM user credentials for the AWS CLI for each account 
+ Make sure you have jq installed, jq is lightweight command-line JSON processor. For example, in Mac you can use the command brew install jq (jq-1.7.1-apple – current version) to install it. 
+ Navigate to the Amazon Bedrock console and make sure you enable access to the meta.llama3-1-70b-instruct-v1:0 model for the agent-kb account and access for us.amazon.nova-pro-v1:0 model in the agent account in the us-west-2, US West (Oregon) AWS Region. 
  
-You can create gateways and add targets through multiple interfaces: 
- 
- AWS SDK for Python (Boto3) 
- AWS Management Console 
- AWS Command Line Interface (AWS CLI) 
- AgentCore starter toolkit for fast and straightforward setup 
- 
-The following practical examples and code snippets demonstrate how to set up and use Amazon Bedrock AgentCore Gateway. For an interactive walkthrough, you can use these Jupyter Notebook samples on GitHub. 
-Create a gateway 
-To create a gateway, you can use the AgentCore starter toolkit to create a default authorization configuration with Amazon Cognito for JWT-based inbound authorization. You can also use another OAuth 2.0-compliant authentication provider instead of Cognito. 
- 
- import time
-import boto3
-
-gateway_client = boto3.client("bedrock-agentcore-control")
-
-# Create an authorization configuration, that specifies what client is authorized to access this Gateway
-auth_config = {
-    "customJWTAuthorizer": {
-        "allowedClients": ['&lt;cognito_client_id&gt;'], # Client MUST match with the ClientId configured in Cognito.
-        "discoveryUrl": '&lt;cognito_oauth_discovery_url&gt;',
-    }
-}
-
-# Call the create_gateway API
-# This operation is asynchronous so may take time for Gateway creation
-# This Gateway will leverage a CUSTOM_JWT authorizer, the Cognito User Pool we reference in auth_config
-def deploy_gateway(poll_interval=5):
-    create_response = gateway_client.create_gateway(
-        name="DemoGateway",
-        roleArn="&lt;IAM Role&gt;", # The IAM Role must have permissions to create/list/get/delete Gateway
-        protocolType="MCP",
-        authorizerType="CUSTOM_JWT",
-        authorizerConfiguration=auth_config,
-        description="AgentCore Gateway with MCP Server Target",
-    )
-    gatewayID = create_response["gatewayId"]
-    gatewayURL = create_response["gatewayUrl"]
-    
-    # Wait for deployment
-    while True:
-        status_response = gateway_client.get_gateway(gatewayIdentifier=gatewayID)
-        status = status_response["status"]
-        if status == "READY":
-            print("✅ AgentCore Gateway is READY!")
-            break
-        elif status in ["FAILED"]:
-            print(f"❌ Deployment failed: {status}")
-            return None
-        print(f"Status: {status} - waiting...")
-        time.sleep(poll_interval)
-
-if __name__ == "__main__":
-    deploy_gateway()
-
-# Values with &lt; &gt; needs to be replaced with real values 
- 
-&nbsp;Create a sample MCP Server 
-As an example, let’s create a sample MCP server with three simple tools that return static responses. The server uses FastMCP with stateless_http=True which is required for AgentCore Runtime compatibility. 
- 
- from mcp.server.fastmcp import FastMCP
-
-mcp = FastMCP(host="0.0.0.0", stateless_http=True)
-
-@mcp.tool()
-def getOrder() -&gt; int:
-    """Get an order"""
-    return 123
-
-@mcp.tool()
-def updateOrder(orderId: int) -&gt; int:
-    """Update existing order"""
-    return 456
-
-@mcp.tool()
-def cancelOrder(orderId: int) -&gt; int:
-    """cancel existing order"""
-    return 789
-
-if __name__ == "__main__":
-    mcp.run(transport="streamable-http") 
- 
-Configure AgentCore Runtime deployment 
-Next, we will use the starter toolkit to configure the AgentCore Runtime deployment. The toolkit can create the Amazon ECR repository on launch and generate a Dockerfile for deployment on AgentCore Runtime. You can use your own existing MCP server, we’re using the following only as an example. In a real-world environment, the inbound authorization for your MCP server will likely differ from the gateway configuration. Refer to this GitHub code example to create an Amazon Cognito user pool for Runtime authorization. 
- 
- from bedrock_agentcore_starter_toolkit import Runtime
-from boto3.session import Session
-
-boto_session = Session()
-region = boto_session.region_name
-print(f"Using AWS region: {region}")
-
-required_files = ['mcp_server.py', 'requirements.txt']
-for file in required_files:
-&nbsp;&nbsp; &nbsp;if not os.path.exists(file):
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;raise FileNotFoundError(f"Required file {file} not found")
-print("All required files found ✓")
-
-agentcore_runtime = Runtime()
-
-auth_config = {
-&nbsp;&nbsp; &nbsp;"customJWTAuthorizer": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"allowedClients": [
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'&lt;runtime_cognito_client_id&gt;'&nbsp;# Client MUST match with the ClientId configured in Cognito, and can be separate from the Gateway Cognito provider.
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;],
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"discoveryUrl": '&lt;cognito_oauth_discovery_url&gt;',
-&nbsp;&nbsp; &nbsp;}
-}
-
-print("Configuring AgentCore Runtime...")
-response = agentcore_runtime.configure(
-&nbsp;&nbsp; &nbsp;entrypoint="mcp_server.py",
-&nbsp;&nbsp; &nbsp;auto_create_execution_role=True,
-&nbsp;&nbsp; &nbsp;auto_create_ecr=True,
-&nbsp;&nbsp; &nbsp;requirements_file="requirements.txt",
-&nbsp;&nbsp; &nbsp;region=region,
-&nbsp;&nbsp; &nbsp;authorizer_configuration=auth_config,
-&nbsp;&nbsp; &nbsp;protocol="MCP",
-&nbsp;&nbsp; &nbsp;agent_name="mcp_server_agentcore"
-)
-print("Configuration completed ✓")
-
-# Values with &lt; &gt; needs to be replaced with real values 
- 
-Launch MCP server to AgentCore Runtime 
-Now that we have the Dockerfile, let’s launch the MCP server to AgentCore Runtime: 
+Assumption 
+Let’s call the AWS account profile, agent profile that has the Amazon Bedrock agent. Similarly, the AWS account profile be called agent-kb that has the Amazon Bedrock knowledge base with Amazon Redshift Serverless and the structured data source. We will use the us-west-2 US West (Oregon) AWS Region but feel free to choose another AWS Region as necessary (the prerequisites will be applicable to the AWS Region you choose to deploy this solution in). We will use the meta.llama3-1-70b-instruct-v1:0 model for the agent-kb. This is an available on-demand model in us-west-2. You are free to choose other models with cross-Region inference but that would mean changing the roles and polices accordingly and enable model access in all Regions they are available in. Based on our model choice for this solution the AWS Region must be us-west-2. For the agent we will be using an Amazon Bedrock agent optimized model like us.amazon.nova-pro-v1:0. 
+Implementation walkthrough 
+The following is a step-by-step implementation guide. Make sure to perform all steps in the same AWS Region in both accounts. 
+These steps are to deploy and test an end-to-end solution from scratch and if you are already running some of these components, you may skip over those steps. 
  
   
-  print("Launching MCP server to AgentCore Runtime...")
-print("This may take several minutes...")
-launch_result = agentcore_runtime.launch()
-agent_arn = launch_result.agent_arn
-agent_id = launch_result.agent_id
-print("Launch completed ✓")
-
-encoded_arn = agent_arn.replace(':', '%3A').replace('/', '%2F')
-mcp_url = f"https://bedrock-agentcore.{region}.amazonaws.com/runtimes/{encoded_arn}/invocations?qualifier=DEFAULT"
-
-print(f"Agent ARN: {launch_result.agent_arn}")
-print(f"Agent ID: {launch_result.agent_id}") 
-  
- 
-Create MCP server as target for AgentCore Gateway 
-Create an AgentCore Identity Resource Credential Provider for the AgentCore Gateway to use as outbound auth to the MCP server agent in AgentCore Runtime: 
- 
- identity_client = boto3.client('bedrock-agentcore-control', region_name=region)
-
-cognito_provider = identity_client.create_oauth2_credential_provider(
-&nbsp;&nbsp; &nbsp;name="gateway-mcp-server-identity",
-&nbsp;&nbsp; &nbsp;credentialProviderVendor="CustomOauth2",
-&nbsp;&nbsp; &nbsp;oauth2ProviderConfigInput={
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;'customOauth2ProviderConfig': {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'oauthDiscovery': {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'discoveryUrl': '&lt;cognito_oauth_discovery_url&gt;',
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;},
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'clientId': '&lt;runtime_cognito_client_id&gt;', # Client MUST match with the ClientId configured in Cognito for the Runtime authorizer
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'clientSecret': '&lt;cognito_client_secret&gt;'
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp;}
-)
-cognito_provider_arn = cognito_provider['credentialProviderArn']
-print(cognito_provider_arn)
-
-# Values with &lt; &gt; needs to be replaced with real values 
- 
-Create a gateway target pointing to the MCP server: 
- 
-  
-  gateway_client = boto3.client("bedrock-agentcore-control", region_name=region)
-create_gateway_target_response = gateway_client.create_gateway_target(
-    name="mcp-server-target",
-    gatewayIdentifier=gatewayID,
-    targetConfiguration={"mcp": {"mcpServer": {"endpoint": mcp_url}}},
-    credentialProviderConfigurations=[
-        {
-            "credentialProviderType": "OAUTH",
-            "credentialProvider": {
-                "oauthCredentialProvider": {
-                    "providerArn": cognito_provider_arn,
-                    "scopes": ["&lt;cognito_oauth_scopes&gt;"],
-                }
-            },
-        },
-    ],
-)  # Asynchronously create gateway target
-gatewayTargetID = create_gateway_target_response["targetId"]
-
-# Values with &lt; &gt; needs to be replaced with real values 
-  
- 
-After creating a gateway target, implement a polling mechanism to check for the gateway target status using the get_gateway_target API call: 
- 
- import time
-
-def poll_for_status(interval=5):
-    # Poll for READY status
-    while True:
-        gateway_target_response = gateway_client.get_gateway_target(gatewayIdentifier=gatewayID, targetId=gatewayTargetID)
-        status = gateway_target_response["status"]
-        if status == 'READY':
-            break
-        elif status in ['FAILED', 'UPDATE_UNSUCCESSFUL', 'SYNCHRONIZE_UNSUCCESSFUL']:
-            raise Exception(f"Gateway target failed with status: {status}")
-        time.sleep(interval)
-
-poll_for_status() 
- 
-Test Gateway with Strands Agents framework 
-Let’s test the Gateway with the Strands Agents integration to list the tools from MCP server. You can also use other MCP-compatible agents built with different agentic frameworks. 
- 
- from strands import Agent
-from mcp.client.streamable_http import streamablehttp_client
-from strands.tools.mcp.mcp_client import MCPClient
-
-def create_streamable_http_transport():
-    return streamablehttp_client(gatewayURL,headers={"Authorization": f"Bearer {token}"})
-
-client = MCPClient(create_streamable_http_transport)
-
-with client:
-    # Call the listTools 
-    tools = client.list_tools_sync()
-    # Create an Agent with the model and tools
-    agent = Agent(model=yourmodel,tools=tools) ## you can replace with any model you like
-    # Invoke the agent with the sample prompt. This will only invoke MCP listTools and retrieve the list of tools the LLM has access to. The below does not actually call any tool.
-    agent("Hi , can you list all tools available to you")
-    # Invoke the agent with sample prompt, invoke the tool and display the response
-    agent("Get the Order id") 
- 
-Refreshing tool definitions of your MCP servers in AgentCore Gateway 
-The SynchronizeGatewayTargets API is a new asynchronous operation that enables on-demand synchronization of tools from MCP server targets. MCP servers host tools which agents can discover and invoke. With time, these tools might need to be updated, or new tools may be introduced in an existing MCP server target. You can connect with external MCP servers through the SynchronizeGatewayTargets API that performs protocol handshakes and indexes available tools. This API provides customers with explicit control over when to refresh their tool definitions, particularly useful after making changes to their MCP server’s tool configurations. 
-When a target is configured with OAuth authentication, the API first interacts with the AgentCore Identity service to retrieve the necessary credentials from the specified credential provider. These credentials are validated for freshness and availability before communication with the MCP server begins. If the credential retrieval fails or returns expired tokens, the synchronization operation fails immediately with appropriate error details, transitioning the target to a FAILED state. For targets configured without authentication, the API proceeds directly to tool synchronization. 
-The tool processing workflow begins with an initialize call to the MCP server to establish a session. Following successful initialization, the API makes paginated calls to the MCP server’s tools/list capability, processing tools in batches of 100 to optimize performance and resource utilization. Each batch of tools undergoes normalization where the API adds target-specific prefixes to help prevent naming collisions with tools from other targets. During processing, tool definitions are normalized to facilitate consistency across different target types, while preserving the essential metadata from the original MCP server definitions. 
- 
-The synchronization flow begins when: 
- 
- An Ops Admin initiates the SynchronizeGatewayTargets API, triggering AgentCore Gateway to refresh the configured MCP target. 
- The gateway obtains an OAuth token from AgentCore Identity for secure access to the MCP target. 
- The gateway then initializes a secure session with the MCP server to retrieve version capabilities. 
- Finally, the gateway makes paginated calls to the MCP server tools/list endpoint to retrieve the tool definitions, making sure the gateway maintains a current and accurate list of tools. 
- 
-The SynchronizeGatewayTargets API addresses a critical challenge in managing MCP targets within AgentCore Gateway: maintaining an accurate representation of available tools while optimizing system performance and resource utilization. Here’s why this explicit synchronization approach is valuable: 
-Schema consistency management: Without explicit synchronization, AgentCore Gateway would need to either make real-time calls to MCP servers during ListTools operations (impacting latency and reliability) or risk serving stale tool definitions. The SynchronizeGatewayTargets API provides a controlled mechanism where customers can refresh their tool schemas at strategic times, such as after deploying new tools or updating existing ones in their MCP server. This approach makes sure that tool definitions in the gateway accurately reflect the target MCP server’s capabilities without compromising performance. 
- 
- Performance impact trade-offs: The API implements optimistic locking during synchronization to help prevent concurrent modifications that could lead to inconsistent states. While this means multiple synchronization requests might need to retry if there’s contention, this trade-off is acceptable because: 
    
-   Tool schema changes are typically infrequent operational events rather than regular runtime occurrences 
-   The performance cost of synchronization is incurred only when explicitly requested, not during regular tool invocations 
-   The cached tool definitions facilitate consistent high performance for ListTools operations between synchronizations 
+   Make a note of the AWS account numbers in the agent and agent-kb account. In the implementation steps we will refer them as follows: 
+     
+      
+       
+       Profile 
+       AWS account 
+       Description 
+       
+       
+       agent 
+       111122223333 
+       Account for the Bedrock Agent 
+       
+       
+       agent-kb 
+       999999999999 
+       Account for the Bedrock Knowledge base 
+       
+      
+     Note: These steps use example profile names and account numbers, please replace with actuals before running. 
+   Create the Amazon Redshift Serverless workgroup in the agent-kb account: 
+     
+     Log on to the agent-kb account 
+     Follow the workshop link to create the Amazon Redshift Serverless workgroup in private subnet 
+     Make a note of the namespace, workgroup, and other details and follow the rest of the hands-on workshop instructions. 
+      
+   Set up your data warehouse in the agent-kb account. 
+   Create your AI knowledge base in the agent-kb account. Make a note of the knowledge base ID. 
+   Train your AI Assistant in the agent-kb account. 
+   Test natural language queries in the agent-kb account. You can find the code in aws-samples git repository: sample-for-amazon-bedrock-agent-connect-cross-account-kb. 
+   Create necessary roles and policies in both the accounts. Run the script create_bedrock_agent_kb_roles_policies.sh with the following input parameters. 
+     
+      
+       
+       Input parameter 
+       Value 
+       Description 
+       
+       
+       –agent-kb-profile 
+       agent-kb 
+       The agent knowledgebase profile that you set up with the AWS CLI with aws_access_key_id, aws_secret_access_key as mentioned in the prerequisites. 
+       
+       
+       –lambda-role 
+       lambda_bedrock_kb_query_role 
+       This is the IAM role the agent account Bedrock agent action group lambda will assume to connect to the Redshift cross account 
+       
+       
+       –kb-access-role 
+       bedrock_kb_access_role 
+       This is the IAM role the agent-kb account which the lambda_bedrock_kb_query_role in agent account assumes to connect to the Redshift cross account 
+       
+       
+       –kb-access-policy 
+       bedrock_kb_access_policy 
+       IAM policy attached to the IAM role bedrock_kb_access_role 
+       
+       
+       –lambda-policy 
+       lambda_bedrock_kb_query_policy 
+       IAM policy attached to the IAM role lambda_bedrock_kb_query_role 
+       
+       
+       –knowledge-base-id 
+       XXXXXXXXXX 
+       Replace with the actual knowledge base ID created in Step 4 
+       
+       
+       –agent-account 
+       111122223333 
+       Replace with the 12-digit AWS account number where the Bedrock agent is running. (agent account) 
+       
+       
+       –agent-kb-account 
+       999999999999 
+       Replace with the 12-digit AWS account number where the Bedrock knowledge base is running. (agent-kb acccount) 
+       
+      
+      
+   Download the script (create_bedrock_agent_kb_roles_policies.sh) from the aws-samples GitHub repository. 
+   Open Terminal in Mac or similar bash shell for other platforms. 
+   Locate and change the directory to the downloaded location, provide executable permissions: 
+     
+     cd /my/location
+chmod +x create_bedrock_agent_kb_roles_policies.sh 
+      
+   If you are still not clear on the script usage or inputs, then you can run the script with the –help option and the script will display the usage: ./create_bedrock_agent_kb_roles_policies.sh –help 
+   Run the script with the right input parameters as described in the previous table. 
+     
+     ./create_bedrock_agent_kb_roles_policies.sh --agent-profile agent \ 
+  --agent-kb-profile agent-kb \ 
+  --lambda-role lambda_bedrock_kb_query_role \ 
+  --kb-access-role bedrock_kb_access_role \ 
+  --kb-access-policy bedrock_kb_access_policy \ 
+  --lambda-policy lambda_bedrock_kb_query_policy \ 
+  --knowledge-base-id XXXXXXXXXX \ 
+  --agent-account 111122223333 \ 
+  --agent-kb-account 999999999999 
+      
+   The script on successful execution shows the summary of the IAM, roles and policies created in both accounts.  
+   Log on to both the agent and agent-kb account to verify the IAM roles and policies are created. 
+     
+      
+       
+        
+         
+         For the agent account: Make a note of the ARN of the lambda_bedrock_kb_query_role as that will be the value of CloudFormation stack parameter AgentLambdaExecutionRoleArn in the next step.  
+         For the agent-kb account: Make a note of the ARN of the bedrock_kb_access_role as that will be the value of CloudFormation stack parameter TargetRoleArn in the next step.  
+          
+        
+      
+   Run the AWS CloudFormation script to create a Bedrock agent: 
+     
+      
+       
+        
+         
+          
+           
+           Download the CloudFormation script: cloudformation_bedrock_agent_kb_query_cross_account.yaml from the aws-samples GitHub repository. 
+           Log on to the agent account and navigate to the CloudFormation console, and verify you are in the us-west-2 (Oregon) Region, choose Create stack and choose With new resources (standard).  
+           In the Specify template section choose Upload a template file and then Choose file and select the file from (1). Then, choose Next. 
+           Enter the following stack details and choose Next. 
+             
+              
+               
+               Parameter 
+               Value 
+               Description 
+               
+               
+               Stack name 
+               bedrock-agent-connect-kb-cross-account-agent 
+               You can choose any name 
+               
+               
+               AgentFoundationModelId 
+               us.amazon.nova-pro-v1:0 
+               Do not change 
+               
+               
+               AgentLambdaExecutionRoleArn 
+               arn:aws:iam:: 111122223333:role/lambda_bedrock_kb_query_role 
+               Replace with you agent account number 
+               
+               
+               BedrockAgentDescription 
+               Agent to query inventory data from Redshift Serverless database 
+               Keep this as default 
+               
+               
+               BedrockAgentInstructions 
+               You are an assistant that helps users query inventory data from our Redshift Serverless database using the action group. 
+               Do not change 
+               
+               
+               BedrockAgentName 
+               bedrock_kb_query_cross_account 
+               Keep this as default 
+               
+               
+               KBFoundationModelId 
+               meta.llama3-1-70b-instruct-v1:0 
+               Do not change 
+               
+               
+               KnowledgeBaseId 
+               XXXXXXXXXX 
+               Knowledge base id from Step 4 
+               
+               
+               TargetRoleArn 
+               arn:aws:iam::999999999999:role/bedrock_kb_access_role 
+               Replace with you agent-kb account number 
+               
+              
+              
+           Complete the acknowledgement and choose Next. 
+           Scroll down through the page and choose Submit. 
+           You will see the CloudFormation stack is getting created as shown by the status CREATE_IN_PROGRESS. 
+           It will take a few minutes, and you will see the status change to CREATE_COMPLETE indicating creation of all resources. Choose the Outputs tab to make a note of the resources that were created. In summary, the CloudFormation script does the following in the agent account. 
+             
+              
+               
+                
+                 
+                 Creates a Bedrock agent 
+                 Creates an action group 
+                 Also creates a Lambda function which is invoked by the Bedrock action group 
+                 Defines the OpenAPI schema 
+                 Creates necessary roles and permissions for the Bedrock agent 
+                 Finally, it prepares the Bedrock agent so that it is ready to test. 
+                  
+                
+              
+            
+          
+        
+      
+   Check for model access in Oregon (us-west-2) 
+     
+      
+       
+        
+         
+          
+           
+           Verify Nova Pro (us.amazon.nova-pro-v1:0) model access in the agent account. Navigate to the Amazon Bedrock console and choose Model access under Configure and learn. Search for Model name : Nova Pro to verify access. If not, then enable model access.  
+           Verify access to the meta.llama3-1-70b-instruct-v1:0 model in the agent-kb account. This should already be enabled as we set up the knowledge base earlier. 
+            
+          
+        
+      
+   Run the agent. Log on to agent account. Navigate to Amazon Bedrock console and choose Agents under Build. 
+   Choose the name of the agent and choose Test. You can test the following questions as mentioned the workshop’s Stage 4: Test Natural Language Queries page. For example: 
+     
+      
+       
+        
+         
+          
+           
+           Who are the top 5 customers in Saudi Arabia? 
+           Who are the top parts supplier in the United States by volume? 
+           What is the total revenue by region for the year 1998? 
+           Which products have the highest profit margins? 
+           Show me orders with the highest priority from the last quarter of 1997. 
+            
+          
+        
+      
+   Choose Show trace to investigate the agent traces. 
     
  
-Invoke the synchronize gateway API 
-Use the following example to invoke the synchronize gateway operation: 
+Some recommended best practices: 
  
   
-  import requests
-import json
-
-def search_tools(gateway_url, access_token, query):
-    headers = {
-        "Content-Type": "application/json",
-        "Authorization": f"Bearer {access_token}"
-    }
-
-    payload = {
-        "jsonrpc": "2.0",
-        "id": "search-tools-request",
-        "method": "tools/call",
-        "params": {
-            "name": "x_amz_bedrock_agentcore_search",
-            "arguments": {
-                "query": query
-            }
-        }
-    }
-
-    response = requests.post(gateway_url, headers=headers, json=payload, timeout=5)
-    response.raise_for_status()
-    return response.json()
-
-# Example usage
-token_response = utils.get_token(user_pool_id, client_id, client_secret, scopeString, REGION)
-access_token = token_response['access_token']
-results = search_tools(gatewayURL, access_token, "order operations")
-print(json.dumps(results, indent=2)) 
+   
+    
+     
+     Phrase your question to be more specific 
+     Use terminology that matches your table descriptions 
+     Try questions similar to your curated examples 
+     Verify your question relates to data that exists in the TPCH dataset 
+     Use Amazon Bedrock Guardrails to add configurable safeguards to questions and responses. 
+      
+    
+ 
+Clean up resources 
+It is recommended that you clean up any resources you do not need anymore to avoid any unnecessary charges: 
+ 
   
+   
+    
+     
+     Navigate to the CloudFormation console for the agent and agent-kb account, search for the stack and and choose Delete. 
+     S3 buckets need to be deleted separately.  
+     For deleting the roles and policies created in both accounts, download the script delete-bedrock-agent-kb-roles-policies.sh from the aws-samples GitHub repository. 
+       
+       Open Terminal in Mac or similar bash shell on other platforms. 
+       Locate and change the directory to the downloaded location, provide executable permissions: 
+       
+       
+       cd /my/location
+			chmod +x delete-bedrock-agent-kb-roles-policies.sh 
+        
+     If you are still not clear on the script usage or inputs, then you can run the script with the –help option then the script will display the usage: ./ delete-bedrock-agent-kb-roles-policies.sh –help 
+     Run the script: delete-bedrock-agent-kb-roles-policies.sh with the same values for the same input parameters as in Step7 when running the create_bedrock_agent_kb_roles_policies.sh script. Note: Enter the correct account numbers for agent-account and agent-kb-account before running. 
+       
+       ./delete-bedrock-agent-kb-roles-policies.sh --agent-profile agent \ 
+  	--agent-kb-profile agent-kb \ 
+	  --lambda-role lambda_bedrock_kb_query_role \ 
+	  --kb-access-role bedrock_kb_access_role \ 
+	  --kb-access-policy bedrock_kb_access_policy \ 
+	  --lambda-policy lambda_bedrock_kb_query_policy \ 
+	  --agent-account 111122223333 \ 
+	  --agent-kb-account 999999999999 
+       The script will ask for a confirmation, say yes and press enter.  
+      
+    
  
-Implicit synchronization of tools schema 
-During CreateGatewayTarget and UpdateGatewayTarget operations, AgentCore Gateway performs an implicit synchronization that differs from the explicit SynchronizeGatewayTargets API. This implicit synchronization makes sure that MCP targets are created or updated with valid, current tool definitions, aligning with the assurance from AgentCore Gateway that targets in READY state are immediately usable. While this might make create/update operations take longer than with other target types, it helps prevent the complexity and potential issues of having targets without validated tool definitions. 
+Summary 
+This solution demonstrates how the Amazon Bedrock agent in the agent account can query the Amazon Bedrock knowledge base in the agent-kb account. 
+Conclusion 
+This solution uses Amazon Bedrock Knowledge Bases for structured data to create a more integrated approach to cross-account data access. The knowledge base in agent-kb account connects directly to Amazon Redshift Serverless in a private VPC. The Amazon Bedrock agent in the agent account invokes an AWS Lambda function as part of its action group to make a cross-account connection to retrieve response from the structured knowledge base. 
+This architecture offers several advantages: 
  
-The implicit synchronization flow begins when: 
+  
+   
+    
+     
+     Uses Amazon Bedrock Knowledge Bases capabilities for structured data 
+     Provides a more seamless integration between the agent and the data source 
+     Maintains proper security boundaries between accounts 
+     Reduces the complexity of direct database access codes 
+      
+    
  
- An Ops Admin creates or updates the MCP target using CreateGatewayTarget or UpdateGatewayTarget operations. 
- AgentCore Gateway configures the new or updated MCP target. 
- The gateway asynchronously triggers the synchronization process to update the tool definitions. 
- The gateway obtains an OAuth token from AgentCore Identity for secure access. 
- The gateway then initializes a secure session with the MCP server to retrieve version capabilities. 
- Finally, the gateway makes paginated calls to the MCP server’s tools/list endpoint to retrieve the tool definitions, making sure the gateway maintains a current and accurate list of tools. 
+As Amazon Bedrock continues to evolve, you can take advantage of future enhancements to knowledge base functionality while maintaining your multi-account architecture. 
  
-ListTools behavior for MCP targets 
-The ListTools operation in AgentCore Gateway provides access to tool definitions previously synchronized from MCP targets, following a cache-first approach that prioritizes performance and reliability. Unlike traditional OpenAPI or Lambda targets where tool definitions are statically defined, MCP target tools are discovered and cached through synchronization operations.&nbsp;When a client calls ListTools, the gateway retrieves tool definitions from its persistent storage rather than making real-time calls to the MCP server. These definitions were previously populated either through implicit synchronization during target creation/update or through explicit SynchronizeGatewayTargets API calls. The operation returns a paginated list of normalized tool definitions. 
  
-InvokeTool (tools/call) Behavior for MCP Targets 
-The InvokeTool operation for MCP targets handles the actual execution of tools discovered through ListTools, managing real-time communication with the target MCP server. Unlike the cache-based ListTools operation, tools/call requires active communication with the MCP server, introducing specific authentication, session management, and error handling requirements.&nbsp;When a tools/call request arrives, AgentCore Gateway first validates the tool exists in its synchronized definitions. For MCP targets, AgentCore Gateway performs an initial initialize call to establish a session with the MCP server. If the target is configured with OAuth credentials, AgentCore Gateway retrieves fresh credentials from AgentCore Identity before making the initialize call. This makes sure that even if ListTools returned cached tools with expired credentials, the actual invocation uses valid authentication. 
+About the Authors 
+Kunal Ghosh is an expert in AWS technologies. He passionate about building efficient and effective solutions on AWS, especially involving generative AI, analytics, data science, and machine learning. Besides family time, he likes reading, swimming, biking, and watching movies, and he is a foodie. 
+Arghya Banerjee is a Sr. Solutions Architect at AWS in the San Francisco Bay Area, focused on helping customers adopt and use the AWS Cloud. He is focused on big data, data lakes, streaming and batch analytics services, and generative AI technologies. 
+Indranil Banerjee is a Sr. Solutions Architect at AWS in the San Francisco Bay Area, focused on helping customers in the hi-tech and semi-conductor sectors solve complex business problems using the AWS Cloud. His special interests are in the areas of legacy modernization and migration, building analytics platforms and helping customers adopt cutting edge technologies such as generative AI. 
+Vinayak Datar is Sr. Solutions Manager based in Bay Area, helping enterprise customers accelerate their AWS Cloud journey. He’s focusing on helping customers to convert ideas from concepts to working prototypes to production using AWS generative AI services.
+• Democratizing AI: How Thomson Reuters Open Arena supports no-code AI for every professional with Amazon Bedrock
+  This post is cowritten by Laura Skylaki, Vaibhav Goswami, Ramdev Wudali and Sahar El Khoury from Thomson Reuters. 
+Thomson Reuters (TR) is a leading AI and technology company dedicated to delivering trusted content and workflow automation solutions. With over 150 years of expertise, TR provides essential solutions across legal, tax, accounting, risk, trade, and media sectors in a fast-evolving world. 
+TR recognized early that AI adoption would fundamentally transform professional work. According to TR’s 2025 Future of Professionals Report, 80% of professionals anticipate AI significantly impacting their work within five years, with projected productivity gains of up to 12 hours per week by 2029. To unlock this immense potential, TR needed a solution to democratize AI creation across its organization. 
+In this blog post, we explore how TR addressed key business use cases with Open Arena, a highly scalable and flexible no-code AI solution powered by Amazon Bedrock and other AWS services such as Amazon OpenSearch Service, Amazon Simple Storage Service (Amazon S3), Amazon DynamoDB, and AWS Lambda. We’ll explain how TR used AWS services to build this solution, including how the architecture was designed, the use cases it solves, and the business profiles that use it. The system demonstrates TR’s successful approach of using existing TR services for rapid launches while supporting thousands of users, showcasing how organizations can democratize AI access and support business profiles (for example, AI explorers and SMEs) to create applications without coding expertise. 
+Introducing Open Arena: No-code AI for all 
+TR introduced Open Arena to non-technical professionals to create their own customized AI solutions. With Open Arena users can use cutting-edge AI powered by Amazon Bedrock in a no-code environment, exemplifying TR’s commitment to democratizing AI access. 
+Today, Open Arena supports: 
  
-The inbound authorization flow begins when: 
+ High adoption: ~70% employee adoption, with&nbsp;19,000 monthly active users. 
+ Custom solutions: Thousands of customized AI solutions created&nbsp;without coding, used for internal workflows or integrated into TR products for customers. 
+ Self-served functionality: 100% self-served functionality, so that users, irrespective of technical background, can develop, evaluate, and deploy generative AI solutions. 
  
- The MCP client initializes a request with MCP protocol version to AgentCore Gateway. 
- The client then sends the tools/call request to the gateway. 
- The gateway obtains an OAuth token from AgentCore Identity for secure access. 
- The gateway initializes a secure session with the MCP server to invoke and handle the actual execution of the tool. 
- 
-Search tool behavior for MCP targets 
-The search capability in AgentCore Gateway enables semantic discovery of tools across the different target types, including MCP targets. For MCP targets, the search functionality operates on normalized tool definitions that were captured and indexed during synchronization operations, providing efficient semantic search without real-time MCP server communication. 
-When tool definitions are synchronized from an MCP target, AgentCore Gateway automatically generates embeddings for each tool’s name, description, and parameter descriptions. These embeddings are stored alongside the normalized tool definitions, enabling semantic search that understands the intent and context of search queries. Unlike traditional keyword matching, this allows agents to discover relevant tools even when exact terminology doesn’t match. 
- 
-Search for MCP server tools through the gateway 
-Use the following example to search for tools through the gateway. 
- 
- import requests
-import json
+The Open Arena journey: From prototype to enterprise solution 
+Conceived as a rapid prototype, Open Arena was developed in under six weeks at the onset of the generative AI boom in early 2023 by TR Labs – TR’s dedicated applied research division focused on the research, development, and application of AI and emerging trends in technologies. The goal was to support internal team exploration of large language models (LLMs) and discover unique use cases by merging LLM capabilities with TR company data. 
+Open Arena’s introduction significantly increased AI awareness, fostered developer-SME collaboration for groundbreaking concepts, and accelerated AI capability development for TR products. The rapid success and demand for new features quickly highlighted Open Arena’s potential for AI democratization, so TR developed an enterprise version of Open Arena. Built on the&nbsp;TR AI Platform, Open Arena enterprise version offers secure, scalable, and standardized services covering the entire AI development lifecycle, significantly accelerating time to production. 
+The Open Arena enterprise version uses existing system capabilities for enhanced data access controls, standardized service access, and compliance with TR’s governance and ethical standards. This version introduced self-served capabilities so that every user, irrespective of their technical ability, can create, evaluate, and deploy customized AI solutions in a no-code environment. 
 
-def search_tools(gateway_url, access_token, query):
-&nbsp;&nbsp; &nbsp;headers = {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"Content-Type": "application/json",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"Authorization": f"Bearer {access_token}"
-&nbsp;&nbsp; &nbsp;}
+ “The foundation of the AI Platform has always been about empowerment; in the early days it was about empowering Data Scientists but with the rise of Gen AI, the platform adapted and evolved on empowering users of any background to leverage and create AI Solutions.” 
+ – Maria Apazoglou, Head of AI Engineering, CoCounsel
+ 
+As of July 2025, the TR Enterprise AI Platform consists of 15 services spanning the entire AI development lifecycle and user personas. Open Arena remains one of its most popular, serving 19,000 users each month, with increasing monthly usage. 
+Addressing key enterprise AI challenges across user types 
+Using the TR Enterprise AI Platform, Open Arena helped thousands of professionals transition into using generative AI. AI-powered innovation is now readily in the hands of everyone, not just AI scientists. 
+Open Arena successfully addresses four critical enterprise AI challenges: 
+ 
+ Enablement:&nbsp;Delivers AI solution building with consistent LLM and service provider experience and support for various user personas, including non-technical. 
+ Security and quality:&nbsp;Streamlines AI solution quality tracking using evaluation and monitoring services, whilst complying with data governance and ethics policies. 
+ Speed and reusability:&nbsp;Automates workflows and uses existing AI solutions and prompts. 
+ Resources and cost management:&nbsp;Tracks and displays generative AI solution resource consumption, supporting transparency and efficiency. 
+ 
+The solution currently supports several AI experiences, including tech support, content creation, coding assistance, data extraction and analysis, proof reading, project management, content summarization, personal development, translation, and problem solving, catering to different user needs across the organization. 
+ 
+ 
+Figure 1. Examples of Open Arena use cases. 
+AI explorers use Open Arena to speed up day-to-day tasks, such as summarizing documents, engaging in LLM chat, building custom workflows, and comparing AI models. AI creators and Subject Matter Experts (SMEs) use Open Arena to build custom AI workflows and experiences and to evaluate solutions without requiring coding knowledge. Meanwhile, developers can develop and deploy new AI solutions at speed, training models, creating new AI skills, and deploying AI capabilities. 
+Why Thomson Reuters selected AWS for Open Arena 
+TR strategically chose AWS as a primary cloud provider for Open Arena based on several critical factors: 
+ 
+ Comprehensive AI/ML capabilities:&nbsp;Amazon Bedrock offers easy access to a choice of high-performing foundation models from leading AI companies like AI21 Labs, Anthropic, Cohere, DeepSeek, Luma AI, Meta, Mistral AI, OpenAI, Qwen, Stability AI, TwelveLabs, Writer, and Amazon. It supports simple chat and complex RAG workflows, and integrates seamlessly with TR’s existing Enterprise AI Platform. 
+ Enterprise-grade security and governance:&nbsp;Advanced security controls, model access using RBAC, data handling with enhanced security features, single sign-on (SSO) enabled, and clear operational and user data separation across AWS accounts. 
+ Scalable infrastructure:&nbsp;Serverless architecture for automatic scaling, pay-per-use pricing for cost optimization, and global availability with low latency. 
+ Existing relationship and expertise:&nbsp;Strong, established relationship between TR and AWS, existing Enterprise AI Platform on AWS, and deep AWS expertise within TR’s technical teams. 
+ 
 
-&nbsp;&nbsp; &nbsp;payload = {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"jsonrpc": "2.0",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"id": "search-tools-request",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"method": "tools/call",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"params": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"name": "x_amz_bedrock_agentcore_search",
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"arguments": {
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"query": query
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp;&nbsp; &nbsp;}
+ “Our long-standing partnership with AWS and their robust, flexible and innovative services made them the natural choice to power Open Arena and accelerate our AI initiatives.”  
+ – Maria Apazoglou, Head of AI Engineering, CoCounsel
+ 
+Open Arena architecture: Scalability, extensibility, and security 
+Designed for a broad enterprise audience, Open Arena prioritizes scalability, extensibility and security while maintaining simplicity for non-technical users to create and deploy AI solutions. The following diagram illustrates the architecture of Open Arena. 
+ 
+Figure 2. Architecture design of Open Arena. 
+The architecture design facilitates enterprise-grade performance with clear separation between capability and usage, aligning with TR’s enterprise cost and usage tracking requirements. 
+The following are key components of the solution architecture: 
+ 
+ No-code interface:&nbsp;Intuitive UI, visual workflow builder, pre-built templates, drag-and-drop functionality. 
+ Enterprise integration:&nbsp;Seamless integration with TR’s Enterprise AI Platform, SSO enabled, data handling with enhanced security, clear data separation. 
+ Solution management:&nbsp;Searchable repository, public/private sharing, version control, usage analytics. 
+ 
+TR developed Open Arena using AWS services such as Amazon Bedrock, Amazon OpenSearch, Amazon DynamoDB, Amazon API Gateway, AWS Lambda, and AWS Step Functions. It uses Amazon Bedrock for foundational model interactions, supporting simple chat and complex Retrieval-Augmented Generation (RAG) tasks. Open Arena uses Amazon Bedrock Flows as the custom workflow builder where users can drag-and-drop components like prompts, agents, knowledge bases and Lambda functions to create sophisticated AI workflows without coding. The system also integrates with AWS OpenSearch for knowledge bases and external APIs for advanced agent capabilities. 
+For data separation, orchestration is managed using the Enterprise AI Platform AWS account, capturing operational data. Flow instances and user-specific data reside in the user’s dedicated AWS account, stored in a database. Each user’s data and workflow executions are isolated within their respective AWS accounts, which is required for complying with Thomson Reuters data sovereignty and enterprise security policies with strict regional controls. The system integrates with Thomson Reuters SSO solution to automatically identify users and grant secure, private access to foundational models. 
+The orchestration layer, centrally hosted within the Enterprise AI Platform AWS account, manages AI workflow activities, including scheduling, deployment, resource provisioning, and governance across user environments. 
+The system features fully automated provisioning of&nbsp; Amazon Bedrock Flows directly within each user’s AWS account, avoiding manual setup and accelerating time to value. Using AWS Lambda for serverless compute and DynamoDB for scalable, low-latency storage, the system dynamically allocates resources based on real-time demand. This architecture makes sure prompt flows and supporting infrastructure are deployed and scaled to match workload fluctuations, optimizing performance, cost, and user experience. 
 
-&nbsp;&nbsp; &nbsp;response = requests.post(gateway_url, headers=headers, json=payload, timeout=5)
-    response.raise_for_status()
-&nbsp;&nbsp; &nbsp;return response.json()
+ “Our decision to adopt a cross-account architecture was driven by a commitment to enterprise security and operational excellence. By isolating orchestration from execution, we make sure that each user’s data remains private and secure within their own AWS account, while still delivering a seamless, centrally-managed experience. This design empowers organizations to innovate rapidly without compromising compliance or control.” 
+ – Thomson Reuters’ architecture team
+ 
+Evolution of Open Arena: From classic to Amazon Bedrock Flows-powered chain builder 
+Open Arena has evolved to cater to varying levels of user sophistication: 
+ 
+ Open Arena v1 (Classic):&nbsp;Features a form-based interface for simple prompt customization and basic AI workflow deployment within a single AWS account. Its simplicity appeals to novice users for straightforward use cases, though with limited advanced capabilities. 
+ Open Arena v2 (Chain Builder):&nbsp;Introduces a robust, visual workflow builder interface, enabling users to design complex, multi-step AI workflows using drag-and-drop components. With support for advanced node types, parallel execution, and seamless cross-account deployment, Chain Builder dramatically expands the system’s capabilities and accessibility for non-technical users. 
+ 
+Thomson Reuters uses Amazon Bedrock Flows as a core feature of Chain Builder. Users can define, customize, and deploy AI-driven workflows using Amazon Bedrock models. Bedrock Flows supports advanced workflows combining multiple prompt nodes, incorporating AWS Lambda functions, and supporting sophisticated RAG pipelines. Operating seamlessly across user AWS accounts, Bedrock Flows facilitates secure, scalable execution of personalized AI solutions, serving as the fundamental engine for the Chain Builder workflows and driving TR’s ability to deliver robust, enterprise-grade automation and innovation. 
+What’s next? 
+TR continues to expand Open Arena’s capabilities through the strategic partnership with AWS, focusing on: 
+ 
+ Driving further adoption of Open Arena’s DIY capabilities. 
+ Enhancing flexibility for workflow creation in Chain Builder with custom components, such as inline scripts. 
+ Developing new templates to represent common tasks and workflows. 
+ Enhancing collaboration features within Open Arena. 
+ Extending multimodal capabilities and model integration. 
+ Expanding into new use cases across the enterprise. 
+ 
 
-# Example usage
-token_response = utils.get_token(user_pool_id, client_id, client_secret, scopeString, REGION)
-access_token = token_response['access_token']
-results = search_tools(gatewayURL, access_token, "math operations")
-print(json.dumps(results, indent=2)) 
+ “From innovating new product ideas to reimagining daily tasks for Thomson Reuters employees, we continue to push the boundaries of what’s possible with Open Arena.” 
+ – Maria Apazoglou, Head of AI Engineering, CoCounsel
  
 Conclusion 
-Today’s announcement of MCP server support as a target type in Amazon Bedrock AgentCore Gateway is an advancement in enterprise AI agent development. This new capability addresses critical challenges in scaling MCP server implementations while maintaining security and operational efficiency. By integrating existing MCP servers alongside REST APIs and Lambda functions, AgentCore Gateway provides a more unified, secure, and manageable solution for tool integration at scale. Organizations can now manage their tools through a single, centralized interface while benefiting from unified authentication, simplified tool discovery and reduced maintenance overhead. 
-For more detailed information and advanced configurations, refer to the&nbsp;code samples on GitHub, the&nbsp;Amazon Bedrock AgentCore Gateway Developer Guide&nbsp;and&nbsp;Amazon AgentCore Gateway pricing. 
+In this blog post, we explored how Thomson Reuters’ Open Arena demonstrates the successful democratization of AI across an enterprise by using AWS services, particularly Amazon Bedrock and Bedrock Flows. With 19,000 monthly active users and 70% employee adoption, the system proves that no-code AI solutions can deliver enterprise-scale impact while maintaining security and governance standards. 
+By combining the robust infrastructure of AWS with innovative architecture design, TR has created a blueprint for AI democratization that empowers professionals across technical skill levels to harness generative AI for their daily work. 
+As Open Arena continues to evolve, it exemplifies how strategic cloud partnerships can accelerate AI adoption and transform how organizations approach innovation with generative AI. 
  
 About the authors 
- Frank Dallezotte&nbsp;is a Senior Solutions Architect at AWS and is passionate about working with independent software vendors to design and build scalable applications on AWS. He has experience creating software, implementing build pipelines, and deploying these solutions in the cloud. 
-Ganesh Thiyagarajan&nbsp;is a Senior Solutions Architect at Amazon Web Services (AWS) with over 20 years of experience in software architecture, IT consulting, and solution delivery. He helps ISVs transform and modernize their applications on AWS. He is also part of the AI/ML Technical field community, helping customers build and scale Gen AI solutions. 
-Dhawal Patel is a Principal Generative AI Tech lead at Amazon Web Services (AWS). He has worked with organizations ranging from large enterprises to mid-sized startups on problems related to Agentic AI, Deep learning, distributed computing.
-• How Amazon Search increased ML training twofold using AWS Batch for Amazon SageMaker Training jobs
-  In this post, we show you how Amazon Search optimized GPU instance utilization by leveraging AWS Batch for SageMaker Training jobs. This managed solution enabled us to orchestrate machine learning (ML) training workloads on GPU-accelerated instance families like P5, P4, and others. We will also provide a step-by-step walkthrough of the use case implementation. 
-Machine learning at Amazon Search 
-At Amazon Search, we use hundreds of GPU-accelerated instances to train and evaluate ML models that help our customers discover products they love. Scientists typically train more than one model at a time to find the optimal set of features, model architecture, and hyperparameter settings that optimize the model’s performance. We previously leveraged a first-in-first-out (FIFO) queue to coordinate model training and evaluation jobs. However, we needed to employ a more nuanced criteria to prioritize which jobs should run in what order. Production models needed to run with high priority, exploratory research as medium priority, and hyperparameter sweeps and batch inference as low priority. We also needed a system that could handle interruptions. Should a job fail, or a given instance type become saturated, we needed the job to run on other available compatible instance types while respecting the overall prioritization criteria. Finally, we wanted a managed solution so we could focus more on model development instead of managing infrastructure. 
-After evaluating multiple options, we chose AWS Batch for Amazon SageMaker Training jobs because it best met our requirements. This solution seamlessly integrated AWS Batch with Amazon SageMaker and allowed us to run jobs per our prioritization criteria. This allows applied scientists to submit multiple concurrent jobs without manual resource management. By leveraging AWS Batch features such as advanced prioritization through fair-share scheduling, we increased peak utilization of GPU-accelerated instances from 40% to over 80%. 
-Amazon Search: AWS Batch for SageMaker Training Job implementation 
-We leveraged three AWS technologies to set up our job queue. We used Service Environments to configure the SageMaker AI parameters that AWS Batch uses to submit and manage SageMaker Training jobs. We used Share Identifiers to prioritize our workloads. Finally, we used Amazon CloudWatch to monitor and the provision of alerting capability for&nbsp;critical events or deviations from expected behavior. Let’s dive deep into these constructs. 
-Service environments. We set up service environments to represent the total GPU capacity available for each instance family, such as P5s and P4s. Each service environment was configured with fixed limits based on our team’s reserved capacity in AWS Batch. Note that for teams using SageMaker Training Plans, these limits can be set to the number of reserved instances, making capacity planning more straightforward. By defining these boundaries, we established how the total GPU instance capacity within a service environment was distributed across different production jobs. Each production experiment was allocated a portion of this capacity through Share Identifiers. 
-Figure 1 provides a real-world example of how we used AWS Batch’s fair-share scheduling to divide 100 GPU instance between ShareIDs. We allocated 60 instances to ProdExp1, and 40 to ProdExp2. When ProdExp2 used only 25 GPU instances, the remaining 15 could be borrowed by ProdExp1, allowing it to scale up to 75 GPU instances. When ProdExp2 later needed its full 40 GPU instances, the scheduler preempted jobs from ProdExp1 to restore balance. This example used the P4 instance family, but the same approach could apply to any SageMaker-supported EC2 instance family. This ensured that production workloads have guaranteed access to their assigned capacity, while exploratory or ad-hoc experiments could still make use of any idle GPU instances. This design safeguarded critical workloads and improved overall instance utilization by ensuring that no reserved capacity went unused. 
-
- 
- Figure 1: AWS Batch fair-share scheduling
- 
-Share Identifiers. We used Share Identifiers to allocate fractions of a service environment’s capacity to production experiments. Share Identifiers are string tags applied at job submission time. AWS Batch used these tags to track usage and enforce fair-share scheduling. For initiatives that required dedicated capacity, we defined preset Share Identifiers with quotas in AWS Batch. This reserved capacity for production tracks. These quotas acted as fairness targets rather than hard limits. Idle capacity could still be borrowed, but under contention, AWS Batch enforced fairness by preempting resources from overused identifiers and reassigned them to underused ones. 
-Within each Share Identifier, job priorities ranging from 0 to 99 determined execution order, but priority-based preemption only triggered when the ShareIdentifier reached its allocated capacity limit.&nbsp;Figure 2 illustrates how we setup and used our share identifiers. ProdExp1 had 60 p4d instances and ran jobs at various priorities. Job A had a priority of 80, Job B was set to 50, Job C was set to at 30, and Job D had a priority 10. When all 60 instances were occupied and a new high-priority job (priority 90) requiring 15 instances was submitted, the system preempted the lowest priority running job (Job D) to make room, while maintaining the total of 60 instances for that Share Identifier. 
-
- 
- Figure 2: Priority scheduling within a Share ID
- 
-Amazon CloudWatch. We used Amazon CloudWatch to instrument our SageMaker training jobs. SageMaker automatically publishes metrics on job progress and resource utilization, while AWS Batch provides detailed information on job scheduling and execution. With AWS Batch, we queried the status of each job through the AWS Batch APIs. This made it possible to track jobs as they transitioned through states such as SUBMITTED, PENDING, RUNNABLE, STARTING, RUNNING, SUCCEEDED, and FAILED. We published these metrics and job states to CloudWatch and configured dashboards and alarms to alert anytime we encountered extended wait times, unexpected failures, or underutilized resources. This built-in integration provided both real-time visibility and historical trend analysis, which helped our team maintain operational efficiency across GPU clusters without building custom monitoring systems. 
-Operational impact on team performance 
-By adopting AWS Batch for SageMaker Training jobs, we enabled experiments to run without concerns about resource availability or contention. Researchers could submit jobs without waiting for manual scheduling, which increased the number of experiments that could be run in parallel. This led to shorter queue times, higher GPU utilization, and faster turnaround of training results, directly improving both research throughput and delivery timelines. 
-How to set up AWS Batch for SageMaker Training jobs 
-To set up a similar environment, you can follow this tutorial, which shows you how to orchestrate multiple GPU large language model (LLM) fine-tuning jobs using multiple GPU-powered instances. The solution is also available on GitHub. 
-Prerequisites 
-To orchestrate multiple SageMaker Training jobs with AWS Batch, first you need to complete the following prerequisites: 
-Clone the GitHub repository with the assets for this deployment. This repository consists of notebooks that reference assets: 
- 
- git clone https://github.com/aws/amazon-sagemaker-examples/
-cd  build_and_train_models/sm-training-queues-pytorch/ 
- 
-Create AWS Batch resources 
-To create the necessary resources to manage SageMaker Training job queues with AWS Batch, we provide utility functions in the example to automate the creation of the Service Environment, Scheduling Policy, and Job Queue. 
-The service environment represents the Amazon SageMaker AI capacity limits available to schedule, expressed by maximum number of instances. The scheduling policy indicates how resource computes are allocated in a job queue between users or workloads. The job queue is the scheduler interface that researchers interact with to submit jobs and interrogate job status. AWS Batch provides two different queues we can operate with: 
- 
- FIFO queues – Queues in which no scheduling policies are required 
- Fair-share queues – Queues in which a scheduling policy Amazon Resource Name (ARN) is required to orchestrate the submitted jobs 
- 
-We recommend creating dedicated service environments for each job queue in a 1:1 ratio. FIFO queues provide basic message delivery, while fair-share scheduling (FSS) queues provide more sophisticated scheduling, balancing utilization within a Share Identifier, share weights, and job priority. For customers who don’t need multiple shares but would like the ability to assign a priority on job submission, we recommend creating an FSS queue and using a single share within it for all submissions.To create the resources, execute the following commands: 
- 
- cd&nbsp;smtj_batch_utils
-python create_resources.py 
- 
-You can navigate the AWS Batch Dashboard, shown in the following screenshot, to explore the created resources. 
- 
-This automation script created two queues: 
- 
- ml-c5-xlarge-queue – A FIFO queue with priority 2 used for CPU workloads 
- ml-g6-12xlarge-queue – A fair-share queue with priority 1 used for GPU workloads 
- 
-The associated scheduling policy for the queue ml-g6-12xlarge-queue is with share attributes such as High priority (HIGHPRI), Medium priority (MIDPRI) and Low priority (LOWPRI) along with the queue weights. Users can submit jobs and assign them to one of three shares:&nbsp;HIGHPRI,&nbsp;MIDPRI, or&nbsp;LOWPRI and assign weights such as 1 for high priority and 3 for medium and 5 for low priority. Below is the screenshot showing the scheduling policy details: 
- 
-For instructions on how to set up the service environment and a job queue, refer to the Getting started section in Introducing AWS Batch support for SageMaker Training Jobs blog. 
-Run LLM fine-tuning jobs on SageMaker AI 
-We run the notebook notebook.ipynb to start submitting SageMaker Training jobs with AWS Batch. The notebook contains the code to prepare the data used for the workload, upload on Amazon Simple Storage Service (Amazon S3), and define the hyperparameters required by the job to be executed. 
-To run the fine-tuning workload using SageMaker Training jobs, this example uses the ModelTrainer class. The ModelTrainer class is a newer and more intuitive approach to model training that significantly enhances user experience. It supports distributed training, build your own container (BYOC), and recipes. 
-For additional information about ModelTrainer, you can refer to Accelerate your ML lifecycle using the new and improved Amazon SageMaker Python SDK – Part 1: ModelTrainer. 
-To set up the fine-tuning workload, complete the following steps: 
- 
- Select the instance type, the container image for the training job, and define the checkpoint path where the model will be stored: 
-   
-   import&nbsp;sagemaker
-
-instance_type&nbsp;=&nbsp;"ml.g6.12xlarge"
-instance_count&nbsp;=&nbsp;1
-
-image_uri = sagemaker.image_uris.retrieve(
-&nbsp;&nbsp; &nbsp;framework="pytorch",
-&nbsp;&nbsp; &nbsp;region=sagemaker_session.boto_session.region_name,
-&nbsp;&nbsp; &nbsp;version="2.6",
-&nbsp;&nbsp; &nbsp;instance_type=instance_type,
-&nbsp;&nbsp; &nbsp;image_scope="training"
-) 
-    
- Create the ModelTrainer function to encapsulate the training setup. The ModelTrainer class simplifies the experience by encapsulating code and training setup. In this example: 
-   
-   SourceCode – The source code configuration. This is used to configure the source code for running the training job by using your local python scripts. 
-   Compute – The compute configuration. This is used to specify the compute resources for the training job. 
-   
-   
-   from sagemaker.modules.configs import Compute, OutputDataConfig, SourceCode, StoppingCondition
-from sagemaker.modules.distributed import Torchrun
-from sagemaker.modules.train import ModelTrainer
-
-role = sagemaker.get_execution_role()
-
-# Define the script to be run
-source_code = SourceCode(
-&nbsp;&nbsp; &nbsp;source_dir="./scripts",
-&nbsp;&nbsp; &nbsp;requirements="requirements.txt",
-&nbsp;&nbsp; &nbsp;entry_script="train.py",
-)
-
-# Define the compute
-compute_configs = Compute(
-&nbsp;&nbsp; &nbsp;instance_type=instance_type,
-&nbsp;&nbsp; &nbsp;instance_count=instance_count,
-&nbsp;&nbsp; &nbsp;keep_alive_period_in_seconds=0
-)
-
-# define Training Job Name
-job_name = f"train-deepseek-distill-llama-8b-sft-batch"
-
-# define OutputDataConfig path
-output_path = f"s3://{bucket_name}/{job_name}"
-
-# Define the ModelTrainer
-model_trainer = ModelTrainer(
-&nbsp;&nbsp; &nbsp;training_image=image_uri,
-&nbsp;&nbsp; &nbsp;source_code=source_code,
-&nbsp;&nbsp; &nbsp;base_job_name=job_name,
-&nbsp;&nbsp; &nbsp;compute=compute_configs,
-&nbsp;&nbsp; &nbsp;distributed=Torchrun(),
-&nbsp;&nbsp; &nbsp;stopping_condition=StoppingCondition(max_runtime_in_seconds=7200),
-&nbsp;&nbsp; &nbsp;hyperparameters={
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;"config": "/opt/ml/input/data/config/args.yaml"
-&nbsp;&nbsp; &nbsp;},
-&nbsp;&nbsp; &nbsp;output_data_config=OutputDataConfig(s3_output_path=output_path),
-&nbsp;&nbsp; &nbsp;role=role,
-) 
-    
- Set up the input channels for ModelTrainer by creating InputData objects from the provided S3 bucket paths for the training and validation datasets: 
-   
-   from&nbsp;sagemaker.modules.configs&nbsp;import&nbsp;InputData
-
-train_input&nbsp;=&nbsp;InputData(
-&nbsp;&nbsp; &nbsp;channel_name="train",
-&nbsp;&nbsp; &nbsp;data_source=train_dataset_s3_path,
-)
-val_input&nbsp;=&nbsp;InputData(
-&nbsp;&nbsp; &nbsp;channel_name="val",
-&nbsp;&nbsp; &nbsp;data_source=val_dataset_s3_path,
-)
-config_input&nbsp;=&nbsp;InputData(
-&nbsp;&nbsp; &nbsp;channel_name="config",
-&nbsp;&nbsp; &nbsp;data_source=train_config_s3_path,
-)
-
-TRAINING_INPUTS&nbsp;=&nbsp;[train_input, val_input, config_input] 
-    
- 
-Queue SageMaker Training jobs 
-This section and the following are intended to be used interactively so that you can explore how to use the Amazon SageMaker Python SDK to submit jobs to your Batch queues. Follow these steps: 
- 
- Select the queue to use: 
-   
-   from sagemaker.aws_batch.queue import TrainingQueue
-SMTJ_BATCH_QUEUE = "ml-g6-12xlarge-queue"
-
-queue = TrainingQueue(SMTJ_BATCH_QUEUE)
- 
-    
- In the next cell, submit two training jobs in the queue: 
-   
-   LOW PRIORITY 
-   MEDIUM PRIORITY 
-    
- Use the API submit to submit all the jobs: 
-   
-   job_name_1&nbsp;=&nbsp;job_name&nbsp;+&nbsp;"-low-pri"
-queued_job_1&nbsp;=&nbsp;queue.submit(
-&nbsp;&nbsp; &nbsp;model_trainer, TRAINING_INPUTS, job_name_1, priority=5, share_identifier="LOWPRI"
-)
-job_name_2&nbsp;=&nbsp;job_name&nbsp;+&nbsp;"-mid-pri"
-queued_job_2&nbsp;=&nbsp;queue.submit(
-&nbsp;&nbsp; &nbsp;model_trainer, TRAINING_INPUTS, job_name_2, priority=3, share_identifier="MIDPRI"
-) 
-    
- 
-Display the status of running and in queue jobs 
-We can use the job queue list and job queue snapshot APIs to programmatically view a snapshot of the jobs that the queue will run next. For fair-share queues, this ordering is dynamic and occasionally needs to be refreshed because new jobs are submitted to the queue or as share usage changes over time. 
- 
- from utils.queue_utils import print_queue_state
-print_queue_state(queue) 
- 
-The following screenshot shows the jobs submitted with low priority and medium priority in the Runnable State and in the queue. 
- 
-You can also refer to the AWS Batch Dashboard, shown in the following screenshot, to analyze the status of the jobs. 
- 
-As shown in the following screenshot, the first job executed with the SageMaker Training job is the MEDIUM PRIORITY&nbsp;one, by respecting the scheduling policy rules defined previously. 
- 
-You can explore the running training job in the SageMaker AI console, as shown in the following screenshot. 
- 
-Submit an additional job 
-You can now submit an additional SageMaker Training job with HIGH PRIORITY to the queue: 
- 
- job_name_3&nbsp;=&nbsp;job_name&nbsp;+&nbsp;"-high-pri"
-queued_job_3&nbsp;=&nbsp;queue.submit(
-&nbsp;&nbsp; &nbsp;model_trainer, TRAINING_INPUTS, job_name_3, priority=1, share_identifier="HIGHPRI"
-) 
- 
-You can explore the status from the dashboard, as shown in the following screenshot. 
- 
-The HIGH PRIORITY job, despite being submitted later in the queue, will be executed before the other runnable jobs by respecting the scheduling policy rules, as shown in the following screenshot. 
- 
-As the scheduling policy in the screenshot shows, the&nbsp;LOWPRI&nbsp;share has a higher weight factor (5) than the&nbsp;MIDPRI&nbsp;share (3). Since a lower weight signifies higher priority, a&nbsp;LOWPRI&nbsp;job will be executed after a&nbsp;MIDPRI&nbsp;job, even if they are submitted at the same time. 
- 
-Clean up 
-To clean up your resources to avoid incurring future charges, follow these steps: 
- 
- Verify that your training job isn’t running anymore. To do so, on your SageMaker console, choose Training and check Training jobs. 
- Delete AWS Batch resources by using the command python create_resources.py --clean from the GitHub example or by manually deleting them from the AWS Management Console. 
- 
-Conclusion 
-In this post, we demonstrated how Amazon Search used AWS Batch for SageMaker Training Jobs to optimize GPU resource utilization and training job management. The solution transformed their training infrastructure by implementing sophisticated queue management and fair share scheduling, increasing peak GPU utilization from 40% to over 80%.We recommend that organizations facing similar ML training infrastructure challenges explore AWS Batch integration with SageMaker, which provides built-in queue management capabilities and priority-based scheduling. The solution eliminates manual resource coordination while providing workloads with appropriate prioritization through configurable scheduling policies. 
-To begin implementing AWS Batch with SageMaker Training jobs, you can access our sample code and implementation guide in the amazon-sagemaker-examples repository on GitHub. The example demonstrates how to set up AWS Identity and Access Management (IAM) permissions, create AWS Batch resources, and orchestrate multiple GPU-powered training jobs using ModelTrainer class. 
- 
-The authors would like to thank Charles Thompson and Kanwaljit Khurmi for their collaboration. 
-About the authors 
- 
-  
-  
-   
-   
-  Mona Mona 
-  Mona is a generative AI Specialist Solutions Architect at Amazon focusing. She is a published author of two books – Natural Language Processing with AWS AI Services and Google Cloud Certified Professional Machine Learning Study Guide. 
-  
-  
-  
-   
-   
-  Mayank Jha 
-  Mayank is a Senior Machine Learning Engineer at Amazon Search working on the model training optimization. He is passionate about finding practical applications for complex problems at hand and aims to develop solutions that have a deep impact on how businesses and people thrive. 
-  
-  
-  
-   
-   
-  Bruno Pistone 
-  Bruno is a Senior generative AI and ML Specialist Solutions Architect for AWS based in Milan. He works with large customers helping them to deeply understand their technical needs and design AI and Machine Learning solutions that make the best use of the AWS Cloud and the Amazon Machine Learning stack. He enjoys spending time with his friends and exploring new places, as well as travelling to new destinations. 
-  
-  
-  
-   
-   
-  James Park 
-  James is a Solutions Architect at Amazon Web Services. He works with Amazon.com to design, build, and deploy technology solutions on AWS, and has a particular interest in AI and machine learning. In his spare time he enjoys seeking out new cultures, new experiences, and staying up to date with the latest technology trends.
+Laura Skylaki, PhD, leads the Enterprise AI Platform at Thomson Reuters, driving the development of GenAI services that accelerate the creation, testing and deployment of AI solutions, enhancing product value. A recognized expert with a doctorate in stem cell bioinformatics, her extensive experience in AI research and practical application spans legal, tax, and biotech domains. Her machine learning work is published in leading academic journals, and she is a frequent speaker on AI and machine learning 
+Vaibhav Goswami is a Lead Software Engineer on the AI Platform team at Thomson Reuters, where he leads the development of the Generative AI Platform that empowers users to build and deploy generative AI solutions at scale. With expertise in building production-grade AI systems, he focuses on creating tools and infrastructure that democratize access to cutting-edge AI capabilities across the enterprise. 
+Ramdev Wudali is a Distinguished Engineer, helping architect and build the AI/ML Platform to enable the Enterprise user, data scientists and researchers to develop Generative AI and machine learning solutions by democratizing access to tools and LLMs. In his spare time, he loves to fold paper to create origami tessellations, and wearing irreverent T-shirts 
+As the director of AI Platform Adoption and Training, Sahar El Khoury guides users to seamlessly onboard and successfully use the platform services, drawing on her experience in AI and data analysis across robotics (PhD), financial markets, and media. 
+Vu San Ha Huynh is a Solutions Architect at AWS with a PhD in Computer Science. He helps large Enterprise customers drive innovation across different domains with a focus on AI/ML and Generative AI solutions. 
+Paul Wright is a Senior Technical Account Manager, with over 20 years experience in the IT industry and over 7 years of dedicated cloud focus. Paul has helped some of the largest enterprise customers grow their business and improve their operational excellence. In his spare time Paul is a huge football and NFL fan. 
+Mike Bezak is a Senior Technical Account Manager in AWS Enterprise Support. He has over 20 years of experience in information technology, primarily disaster recovery and systems administration. Mike’s current focus is helping customers streamline and optimize their AWS Cloud journey. Outside of AWS, Mike enjoys spending time with family &amp; friends.
 
 ⸻
