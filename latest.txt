@@ -1,17 +1,17 @@
-✅ Morning News Briefing – November 08, 2025 10:41
+✅ Morning News Briefing – November 09, 2025 10:42
 
-📅 Date: 2025-11-08 10:41
+📅 Date: 2025-11-09 10:42
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
 • SPECIAL WEATHER STATEMENT, Pembroke
-  Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions . People in or around this area are urged to take necessary precautions . Weather conditions are expected to worsen in the coming years . People should be prepared for the worst of the worst weather conditions in the area . The weather is expected to deteriorate rapidly in the years of the next century .
-• Current Conditions:  0.4°C
-  Temperature: 0.4&deg;C Pressure / Tendency: 100.3 kPa rising Humidity: 87 % Dewpoint: -1.5&deg:C Wind: WNW 15 km/h gust 29 km-h . Air Quality Health Index: n/a . Pembroke 5:00 AM EST Saturday 8 November 2025 . Pemberbroke
-• Saturday: Chance of flurries. High plus 2. POP 40%
-  40 percent chance of flurries early this morning . Mainly cloudy . High plus 2. UV index 1 or low . Wind northwest 20 km/h becoming light this morning this morning. High minus 2.40 per cent chance of snowfall this morning, with 40 per cent of it possible to see snowfall in the evening hours of Saturday morning . Forecast issued 5:00
+  Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions . People in or around this area are urged to take necessary precautions . Weather conditions are expected to worsen in the coming years of this year's winter storms . The weather is expected to be more unsettled than normal weather conditions in the U.S. This year's National Weather Service is
+• Current Conditions:  -6.0°C
+  Temperature: -6.0&deg;C Pressure / Tendency: 101.8 kPa rising Humidity: 82 % Wind Chill: -9 . Dewpoint: -8.6.6&deg:C Wind: NNE 6 km/h Air Quality Health Index: n/a . Pembroke 5:00 AM EST Sunday 9 November 2025 Temperature:
+• Sunday: Chance of flurries. High minus 1. POP 30%
+  A mix of sun and cloud with 30 percent chance of flurries this morning . Snow beginning early this afternoon with 2 to 4 cm. Amount of snow expected to fall . Wind chill near minus 9 . UV index 2 or low. High minus 1. Wind chill at minus 9.5 degrees in comparison to minus minus minus 0.6 degrees in the morning of November 9, 2025
 
 🌍 International News
 No updates.
@@ -20,31 +20,31 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Immigration agents have new technology to identify and track people
-  Department of Homeland Security is adopting powerful new tools to monitor noncitizens . Privacy advocates are worried they erode privacy rights for immigrants and Americans alike . Homeland Security has been criticized by privacy advocates for using the tools to spy on noncitizens in the U.S. Privacy advocates say they are concerned they will erode Americans' privacy rights if they use the new tools for monitoring noncitizens'
-• What to know about the 5 hostages whose remains are still in Gaza
-  Lior Rudaeff, 61, was killed in the Oct. 7, 2023 attack . His remains were returned to Hamas in the most recent release . He was identified as a man who was 61 when he was killed by Hamas forces in October 2023 . The man was identified by Hamas as Lior Ruaff, who was a member of Israel's Kofi Annan
-• UPS and FedEx grounding MD-11 planes following deadly Kentucky crash
-  UPS and FedEx will ground their fleets of McDonnell Douglas MD-11 planes "out of an abundance of caution" following a deadly crash at the UPS global aviation hub in Kentucky . The planes were involved in a fatal crash that left one person dead at the scene of the crash . FedEx and UPS are grounding their McDonnell Douglas planes out of "an abundance of experity of
-• Supreme Court temporarily blocks full SNAP benefits even as they'd started to go out
-  The Trump administration is appealing an order to fully fund November food aid for millions of people . The high court decision allows a lower court time to consider a more lasting pause . The administration wants to keep food aid funds in place for November . The decision allows the lower court to consider more of a longer-term pause in food aid funding for the nation's poorest . The government is appealing the
-• James Watson, who co-discovered the structure of DNA, has died at age 97
-  James Watson, who co-discovered the structure of DNA, has died at age 97 . Watson was a scientific superstar until he made racist remarks that made him an outcast . He was a scientist who was made a social outcast by his racist remarks . Watson died at the age of 97 on Monday, October 4 . Watson co-founded the first company that developed the first DNA
+• Many would-be buyers are frozen out of the housing market
+  Only about one in five homes sold in the last year went to a first-time buyer . The average person buying their first home was 40 years old — a record high . A new report from the National Association of Realtors shows how challenging it's become for young people to get a foothold in today's costly housing market . The report also shows that the average age of the average
+• Nearly a million people evacuate as Super Typhoon Fung-wong threatens the Philippines
+  Super Typhoon Fung-wong, the biggest storm to threaten the Philippines this year, started battering the country's northeastern coast ahead of landfall on Sunday . Super Typhoon is the biggest typhoon to hit the country this year and is expected to make landfall in the Philippines on Sunday afternoon . Typhoon was the largest storm to strike the Philippines since Typhoon Haiyan hit the Philippines in 2011 .
+• Judge says Education Dept. partisan out-of-office emails violated First Amendment
+  A federal judge says the Trump administration "overplayed its hand" by inserting partisan language into workers' out-of-office autoreplies . The judge says that the administration overplayed its hands by inserting the partisan language on the autoreppies . A judge ruled that the language was in violation of a federal law that prohibits the use of such language in the autopop
+• Trump says boat crews are narco-terrorists. The truth is more nuanced, AP finds
+  In interviews in villages on Venezuela's northeastern coast, residents and relatives said the dead men had been running drugs but were not narco-terrorists . Residents and relatives say they were running drugs, but not drug-runners . The boats departed from Venezuela's northeast coast, from where some of the boats departed, from which some of them departed, are believed to be from the northeastern coast
+• 4 dead, 11 injured after a car chased by police plows into a crowd outside Tampa bar
+  A deadly crash in Tampa's Ybor City neighborhood early Saturday morning has left four people dead and 11 injured . Four people were killed and 11 others were injured in the crash . The crash happened in the early hours of Saturday morning and left 11 people injured . It is the first time four people have been killed in a Tampa-area crash in more than 30 years . The cause of the
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
+• Here's one way to cut support ticket volume… send them to another company entirely
+  CEO of Obsidian says video game house has sent one of its customer queries to his own team . Obsidian claims that "off-the-shelf AI support software" is why the gaming firm gave a user the wrong email address . The CEO of the company behind note-taking app Obsidian said the gaming house of the same name has sent a customer query to its own team
+• Who's watching the watchers? This Mozilla fellow, and her Surveillance Watch map
+  Digital rights activist Esra'a Al Shafei found FinFisher spyware on her device more than a decade ago . Now she's made it her mission to surveil the companies providing surveillanceware, their customers, and their funders . Esra’a’s mission is to find out if the spy tech ‘global trade’ is a ‘
 • Microsoft's lack of quality control is out of control
   At one point, Microsoft's QC was legendary. Now, it's the wrong kind of legend . The robustness of Windows NT in decades past might qualify as "legendary" But anybody who has had to use the company's wares in recent years might quibble with the word "quality" Microsoft's quality control was legendary, but now it's a different kind of quality
 • Meta can't afford its $600B love letter to Trump
   The Zuck better hope his finance bros have deep pockets and a whole lotta patience to pull this off . Meta on Friday floated plans to invest $600 billion in US infrastructure and jobs by 2028 as part of a massive datacenter expansion . The company says it will invest in the U.S. infrastructure and the jobs of those who do it will be created by 20
 • ChatGPT, Claude, and Grok make very squishy jury members
   Law students at the University of North Carolina at Chapel Hill School of Law last month held a mock trial to see how AI models administer justice . All three acquitted a teen in the mock trial based on a case where a judge ruled guilty . The trial was based on the case of a teen who was found guilty of a crime in a case that was ruled guilty by a judge in court .
-• Previously unknown Landfall spyware used in 0-day attacks on Samsung phones
-  A previously unknown Android spyware family called LANDFALL exploited a zero-day in Samsung Galaxy devices for nearly a year, installing surveillance code capable of recording calls, tracking locations, and harvesting photos and logs . Samsung finally patched the flaw in April, and the spyware was discovered months before it was fixed . The flaw was fixed by Samsung, but the company says it was a
-• AI benchmarks are a bad joke – and LLM makers are the ones laughing
-  AI companies tout their models' performance on benchmark tests as a sign of technological and intellectual superiority . But those results, widely used in marketing, may not be meaningful . AI companies regularly tout performance as signs of technological superiority, but those results are often not meaningful . Study finds many tests don't measure the right things AI companies say, such as performance of their AI models in tests
 
 🏥 Public Health
 No updates.
@@ -54,11 +54,11 @@ No updates.
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Prevalence, bacterial etiology, and antimicrobial susceptibility patterns of urinary tract infections among pregnant women in rural West Amhara, Ethiopia
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
+• In-hospital mortality prognostication for cancer patients with febrile neutropenia
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • The contribution of mycetoma grains to suboptimal disease management
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• A simulation study of the impact of population-wide lifestyle modifications on life expectancy in the Chinese population
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Stillbirths and the race-specific gap in neonatal death among extremely preterm births
+• Trace element imbalances in selenium and mercury in relation to mammographic density and breast cancer progression: a case‒control study
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -834,7 +834,7 @@ While this experimental setup provides a useful starting point, it is not intend
 		
 
 		
-		Spotlight: Microsoft research newsletter
+		Spotlight: Event Series
 	
 	
 	
@@ -846,14 +846,14 @@ While this experimental setup provides a useful starting point, it is not intend
 			
 			
 
-									Microsoft Research Newsletter
+									Microsoft Research Forum
 				
-								Stay connected to the research community at Microsoft.
+								Join us for a continuous exchange of ideas about research in the era of general AI. Watch the first four episodes on demand.
 				
 								
 					
 						
-							Subscribe today						
+							Watch on-demand						
 					
 				
 							
