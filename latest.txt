@@ -1,17 +1,17 @@
-✅ Morning News Briefing – November 09, 2025 10:42
+✅ Morning News Briefing – November 10, 2025 10:47
 
-📅 Date: 2025-11-09 10:42
+📅 Date: 2025-11-10 10:47
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
 
 🧾 Weather
-• SPECIAL WEATHER STATEMENT, Pembroke
-  Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions . People in or around this area are urged to take necessary precautions . Weather conditions are expected to worsen in the coming years of this year's winter storms . The weather is expected to be more unsettled than normal weather conditions in the U.S. This year's National Weather Service is
-• Current Conditions:  -6.0°C
-  Temperature: -6.0&deg;C Pressure / Tendency: 101.8 kPa rising Humidity: 82 % Wind Chill: -9 . Dewpoint: -8.6.6&deg:C Wind: NNE 6 km/h Air Quality Health Index: n/a . Pembroke 5:00 AM EST Sunday 9 November 2025 Temperature:
-• Sunday: Chance of flurries. High minus 1. POP 30%
-  A mix of sun and cloud with 30 percent chance of flurries this morning . Snow beginning early this afternoon with 2 to 4 cm. Amount of snow expected to fall . Wind chill near minus 9 . UV index 2 or low. High minus 1. Wind chill at minus 9.5 degrees in comparison to minus minus minus 0.6 degrees in the morning of November 9, 2025
+• No watches or warnings in effect, Pembroke
+  No watches or warnings in effect. No warnings or watches or watches in effect . Watch or warnings are no longer in effect in the U.S. No watches, warnings are in effect for the rest of the day . No watches and warnings are still in effect, but no watches are in place for the day's events . The weather is not expected to be affected by the weather .
+• Current Conditions:  -5.7°C
+  Temperature: -5.7&deg;C Pressure / Tendency: 101.4 kPa falling Humidity: 88 % Wind Chill: -11 . Dewpoint: -7.4&deg:C Wind: NW 14 km/h Air Quality Health Index: n/a . Pembroke 5:00 AM EST Monday 10 November 2025 Temperature: 5.7
+• Monday: Chance of flurries. High minus 2. POP 40%
+  Cloudy with 40 percent chance of flurries this morning . Amount of 2 cm. Amount 2 cm . Wind chill minus 14 this morning and minus 9 this afternoon . UV index 1 or low. High minus 2.50°F tomorrow morning, with wind chill at minus 9°°F and low UV index at minus 2°F . Forecast issued 5:00 AM EST
 
 🌍 International News
 No updates.
@@ -20,36 +20,38 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Many would-be buyers are frozen out of the housing market
-  Only about one in five homes sold in the last year went to a first-time buyer . The average person buying their first home was 40 years old — a record high . A new report from the National Association of Realtors shows how challenging it's become for young people to get a foothold in today's costly housing market . The report also shows that the average age of the average
-• Nearly a million people evacuate as Super Typhoon Fung-wong threatens the Philippines
-  Super Typhoon Fung-wong, the biggest storm to threaten the Philippines this year, started battering the country's northeastern coast ahead of landfall on Sunday . Super Typhoon is the biggest typhoon to hit the country this year and is expected to make landfall in the Philippines on Sunday afternoon . Typhoon was the largest storm to strike the Philippines since Typhoon Haiyan hit the Philippines in 2011 .
-• Judge says Education Dept. partisan out-of-office emails violated First Amendment
-  A federal judge says the Trump administration "overplayed its hand" by inserting partisan language into workers' out-of-office autoreplies . The judge says that the administration overplayed its hands by inserting the partisan language on the autoreppies . A judge ruled that the language was in violation of a federal law that prohibits the use of such language in the autopop
-• Trump says boat crews are narco-terrorists. The truth is more nuanced, AP finds
-  In interviews in villages on Venezuela's northeastern coast, residents and relatives said the dead men had been running drugs but were not narco-terrorists . Residents and relatives say they were running drugs, but not drug-runners . The boats departed from Venezuela's northeast coast, from where some of the boats departed, from which some of them departed, are believed to be from the northeastern coast
-• 4 dead, 11 injured after a car chased by police plows into a crowd outside Tampa bar
-  A deadly crash in Tampa's Ybor City neighborhood early Saturday morning has left four people dead and 11 injured . Four people were killed and 11 others were injured in the crash . The crash happened in the early hours of Saturday morning and left 11 people injured . It is the first time four people have been killed in a Tampa-area crash in more than 30 years . The cause of the
+• Countries are gathering for climate negotiations. Here's where the U.S. stands
+  Under President Trump, the U.S. has taken steps to roll back climate policies . Here are six significant changes to the policies under the new administration . President Trump has been criticized for his climate policies in the past, including climate policies, climate policy . The changes have been made in the wake of the White House's failure to act as a result of climate change in the United States
+• Alaska's public schools can serve as emergency shelters. The buildings are in crisis
+  Alaska's public schools are being used as emergency shelters, though many of the buildings are crumbling . Many of the schools are crumbling, but many are still being used to shelter people in the state of Alaska . Alaska's schools have been used as shelters, but some are crumbling and many are now in need of sheltering in some areas of the state's poorest areas, including Alaska's largest
+• People want to avoid ultra-processed foods. But experts struggle to define them
+  The evidence that ultra-processed foods are bad for us is piling up . But efforts to reduce their role in our diets face a big hurdle: experts can't agree on what they are and which to target . The evidence is mounting up that ultraprocessed food is bad for our health, but experts are divided on what is needed to be done to reduce its role in diets .
+• Typhoon Fung-wong leaves 4 dead and 1.4 million displaced in the Philippines
+  Typhoon Fung-wong blew out of the Philippines after setting off floods and landslides, knocking out power to entire provinces, killing at least four people . More than 1.4 million people have been displaced by the typhoon, displacing more than a million more . Typhoon set off floods, landslides and set off landslides that set off power out of entire provinces and killed
+• Senators take first step toward reopening the government after historic shutdown
+  The Senate voted late Sunday evening on a compromise that could reopen the government following the longest shutdown in history . The Senate votes late Sunday night to approve the compromise . It is the longest-ever government shutdown in the country's history, the longest in the history of the shutdown . The shutdown is now the longest ever in history, with the longest since it began in 1983 . The government is
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Here's one way to cut support ticket volume… send them to another company entirely
-  CEO of Obsidian says video game house has sent one of its customer queries to his own team . Obsidian claims that "off-the-shelf AI support software" is why the gaming firm gave a user the wrong email address . The CEO of the company behind note-taking app Obsidian said the gaming house of the same name has sent a customer query to its own team
-• Who's watching the watchers? This Mozilla fellow, and her Surveillance Watch map
-  Digital rights activist Esra'a Al Shafei found FinFisher spyware on her device more than a decade ago . Now she's made it her mission to surveil the companies providing surveillanceware, their customers, and their funders . Esra’a’s mission is to find out if the spy tech ‘global trade’ is a ‘
-• Microsoft's lack of quality control is out of control
-  At one point, Microsoft's QC was legendary. Now, it's the wrong kind of legend . The robustness of Windows NT in decades past might qualify as "legendary" But anybody who has had to use the company's wares in recent years might quibble with the word "quality" Microsoft's quality control was legendary, but now it's a different kind of quality
-• Meta can't afford its $600B love letter to Trump
-  The Zuck better hope his finance bros have deep pockets and a whole lotta patience to pull this off . Meta on Friday floated plans to invest $600 billion in US infrastructure and jobs by 2028 as part of a massive datacenter expansion . The company says it will invest in the U.S. infrastructure and the jobs of those who do it will be created by 20
-• ChatGPT, Claude, and Grok make very squishy jury members
-  Law students at the University of North Carolina at Chapel Hill School of Law last month held a mock trial to see how AI models administer justice . All three acquitted a teen in the mock trial based on a case where a judge ruled guilty . The trial was based on the case of a teen who was found guilty of a crime in a case that was ruled guilty by a judge in court .
+• Allianz UK joins growing list of Clop’s Oracle E-Business Suite victims
+  Insurance giant’s UK arm says cybercriminals misattributed the real victim . Allianz UK confirms it was one of the many companies that fell victim to the Clop gang's Oracle E-Business Suite (EBS) attack after crims reported that they had attacked a subsidiary . The insurance giant's UK arm said it was a subsidiary of a subsidiary in the attack
+• Three most important factors in enterprise IT: control, control, control
+  We're all out of it. How to get it back is an open secret . Affordability, flexibility, efficiency, efficiency are still selling IT to this day . We’re all out. How we’ve all out? How to do it? We need to find a way to get back control of our computers. We need it back. We're out of
+• UK military looking for tactical comms, systems suppliers in deal worth up to £9.6B
+  The UK government is launching a competition for military grade communications hardware and software in a tender worth up to £9.6 billion ($12.5 billion) including tax . Major battle field technology refresh will be open to the rest of the public sector . The tender is expected to cost up to $12 billion including tax and is likely to be worth $10 billion . The competition will be
+• Cisco creating new security model using 30 years of data describing cyber-dramas and saves
+  Cisco is working on a new AI model that will more than double the number of parameters used to train its current flagship Foundation-Sec-8B . Doubles parameters to over 17 billion, to detect threats and recommend actions . The new model could be used to detect and recommend threats and to recommend actions by the end of the year . It will be the first AI model to be developed
+• Techie ran up $40,000 bill trying to download a driver
+  In the dialup age, small mistakes could cost big money . Who, Me? It's The Register’s Monday reader-contributed column in which you admit to the error of your ways.……… And what do you think? Share your thoughts with us on Twitter @mailonline.co.uk . Do you know something? Share it with iReport.com
 
 🏥 Public Health
 No updates.
 
 🔬 Science
+• Maximizing researcher–policymaker engagement in global public health
+  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • From resolution to reality: advancing point-of-care diagnostics for kidney disease in low-resource settings
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • Prevalence, bacterial etiology, and antimicrobial susceptibility patterns of urinary tract infections among pregnant women in rural West Amhara, Ethiopia
@@ -57,8 +59,6 @@ No updates.
 • In-hospital mortality prognostication for cancer patients with febrile neutropenia
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 • The contribution of mycetoma grains to suboptimal disease management
-  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Trace element imbalances in selenium and mercury in relation to mammographic density and breast cancer progression: a case‒control study
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -68,6 +68,140 @@ No updates.
 No updates.
 
 🤖 AI & Emerging Tech
+• The State of AI: Energy is king, and the US is falling behind
+  Welcome to&nbsp;The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday for the next six weeks, writers from both publications will debate one aspect of the generative AI revolution reshaping global power.
+
+
+
+This week, Casey Crownhart, senior reporter for energy at MIT Technology Review and Pilita Clark, FT&#8217;s columnist, consider how China&#8217;s rapid renewables buildout could help it leapfrog on AI progress.
+
+
+
+Casey Crownhart writes:
+
+
+
+In the age of AI, the biggest barrier to progress isn’t money but energy. That should be particularly worrying here in the US, where massive data centers are waiting to come online, and it doesn’t look as if the country will build the steady power supply or infrastructure needed to serve them all.
+
+
+
+It wasn’t always like this. For about a decade before 2020, data centers were able to offset increased demand with efficiency improvements. Now, though, electricity demand is ticking up in the US, with billions of queries to popular AI models each day—and efficiency gains aren’t keeping pace. With too little new power capacity coming online, the strain is starting to show: Electricity bills are ballooning for people who live in places where data centers place a growing load on the grid.
+
+
+
+If we want AI to have the chance to deliver on big promises without driving electricity prices sky-high for the rest of us, the US needs to learn some lessons from the rest of the world on energy abundance. Just look at China.
+
+
+
+China installed 429 GW of new power generation capacity in 2024, more than six times the net capacity added in the US during that time.
+
+
+
+China still generates much of its electricity with coal, but that makes up a declining share of the mix. Rather, the country is focused on installing solar, wind, nuclear, and gas at record rates.
+
+
+
+The US, meanwhile, is focused on reviving its ailing coal industry. Coal-fired power plants are polluting and, crucially, expensive to run. Aging plants in the US are also less reliable than they used to be, generating electricity just 42% of the time, compared with a 61% capacity factor in 2014.
+
+
+
+It’s not a great situation. And unless the US changes something, we risk becoming consumers as opposed to innovators in both energy and AI tech. Already, China earns more from exporting renewables than the US does from oil and gas exports.&nbsp;
+
+
+
+Building and permitting new renewable power plants would certainly help, since they’re currently the cheapest and fastest to bring online. But wind and solar are politically unpopular with the current administration. Natural gas is an obvious candidate, though there are concerns about delays with key equipment.
+
+
+
+One quick fix would be for data centers to be more flexible. If they agreed not to suck electricity from the grid during times of stress, new AI infrastructure might be able to come online without any new energy infrastructure.
+
+
+
+One study from Duke University found that if data centers agree to curtail their consumption just 0.25% of the time (roughly 22 hours over the course of the year), the grid could provide power for about 76 GW of new demand. That’s like adding about 5% of the entire grid’s capacity without needing to build anything new.
+
+
+
+But flexibility wouldn’t be enough to truly meet the swell in AI electricity demand. What do you think, Pilita? What would get the US out of these energy constraints? Is there anything else we should be thinking about when it comes to AI and its energy use?&nbsp;
+
+
+
+Pilita Clark responds:
+
+
+
+I agree. Data centers that can cut their power use at times of grid stress should be the norm, not the exception. Likewise, we need more deals like those giving cheaper electricity to data centers that let power utilities access their backup generators. Both reduce the need to build more power plants, which makes sense regardless of how much electricity AI ends up using.
+
+
+
+This is a critical point for countries across the world, because we still don’t know exactly how much power AI is going to consume.&nbsp;
+
+
+
+Forecasts for what data centers will need in as little as five years’ time vary wildly, from less than twice today’s rates to four times as much.
+
+
+
+This is partly because there’s a lack of public data about AI systems’ energy needs. It’s also because we don’t know how much more efficient these systems will become. The US chip designer Nvidia said last year that its specialized chips had become 45,000 times more energy efficient over the previous eight years.&nbsp;
+
+
+
+Moreover, we have been very wrong about tech energy needs before. At the height of the dot-com boom in 1999, it was erroneously claimed that the internet would need half the US’s electricity within a decade—necessitating a lot more coal power.
+
+
+
+Still, some countries are clearly feeling the pressure already. In Ireland, data centers chew up so much power that new connections have been restricted around Dublin to avoid straining the grid.
+
+
+
+Some regulators are eyeing new rules forcing tech companies to provide enough power generation to match their demand. I hope such efforts grow. I also hope AI itself helps boost power abundance and, crucially, accelerates the global energy transition needed to combat climate change. OpenAI’s Sam Altman said in 2023 that “once we have a really powerful super intelligence, addressing climate change will not be particularly difficult.”&nbsp;
+
+
+
+The evidence so far is not promising, especially in the US, where renewable projects are being axed. Still, the US may end up being an outlier in a world where ever cheaper renewables made up more than 90% of new power capacity added globally last year.&nbsp;
+
+
+
+Europe is aiming to power one of its biggest data centers predominantly with renewables and batteries. But the country leading the green energy expansion is clearly China.
+
+
+
+The 20th century was dominated by countries rich in the fossil fuels whose reign the US now wants to prolong. China, in contrast, may become the world’s first green electrostate. If it does this in a way that helps it win an AI race the US has so far controlled, it will mark a striking chapter in economic, technological, and geopolitical history.
+
+
+
+Casey Crownhart replies:
+
+
+
+I share your skepticism of tech executives’ claims that AI will be a groundbreaking help in the race to address climate change. To be fair, AI is progressing rapidly. But we don’t have time to wait for technologies standing on big claims with nothing to back them up.&nbsp;
+
+
+
+When it comes to the grid, for example, experts say there’s potential for AI to help with planning and even operating, but these efforts are still experimental.&nbsp;&nbsp;
+
+
+
+Meanwhile, much of the world is making measurable progress on transitioning to newer, greener forms of energy. How that will affect the AI boom remains to be seen. What is clear is that AI is changing our grid and our world, and we need to be clear-eyed about the consequences.&nbsp;
+
+
+
+Further reading&nbsp;
+
+
+
+MIT Technology Review reporters did the math on the energy needs of an AI query.
+
+
+
+There are still a few reasons to be optimistic about AI’s energy demands.&nbsp;&nbsp;
+
+
+
+The FT’s visual data team take a look inside the relentless race for AI capacity.
+
+
+
+And global FT reporters ask whether data centers can ever truly be green.
 • The Download: a new home under the sea, and cloning pets
   This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
 
@@ -511,72 +645,31 @@ A place for comfort, fun and distraction to brighten up your day. (Got any ideas
 
 
 + Make sure to look up so you don’t miss November’s supermoon.+ If you keep finding yourself mindlessly scrolling (and who doesn’t?), maybe this whopping six-pound phone case could solve your addiction.+ Life lessons from a 101-year old who has no plans to retire.+ Are you a fan of movement snacking?
-• Stop worrying about your AI footprint. Look at the big picture instead.
-  Picture it: I’m minding my business at a party, parked by the snack table (of course). A friend of a friend wanders up, and we strike up a conversation. It quickly turns to work, and upon learning that I’m a climate technology reporter, my new acquaintance says something like: “Should I be using AI? I’ve heard it’s awful for the environment.”&nbsp;
-
-
-
-
-
-This actually happens pretty often now. Generally, I tell people not to worry—let a chatbot plan your vacation, suggest recipe ideas, or write you a poem if you want.&nbsp;
-
-
-
-That response might surprise some people, but I promise I’m not living under a rock, and I have seen all the concerning projections about how much electricity AI is using. Data centers could consume up to 945 terawatt-hours annually by 2030. (That’s roughly as much as Japan.)&nbsp;
-
-
-
-But I feel strongly about not putting the onus on individuals, partly because AI concerns remind me so much of another question: “What should I do to reduce my carbon footprint?”&nbsp;
-
-
-
-That one gets under my skin because of the context: BP helped popularize the concept of a carbon footprint in a marketing campaign in the early 2000s. That framing effectively shifts the burden of worrying about the environment from fossil-fuel companies to individuals.&nbsp;
-
-
-
-The reality is, no one person can address climate change alone: Our entire society is built around burning fossil fuels. To address climate change, we need political action and public support for researching and scaling up climate technology. We need companies to innovate and take decisive action to reduce greenhouse-gas emissions. Focusing too much on individuals is a distraction from the real solutions on the table.&nbsp;
-
-
-
-
-
-I see something similar today with AI. People are asking climate reporters at barbecues whether they should feel guilty about using chatbots too frequently when we need to focus on the bigger picture.&nbsp;
-
-
-
-Big tech companies are playing into this narrative by providing energy-use estimates for their products at the user level. A couple of recent reports put the electricity used to query a chatbot at about 0.3 watt-hours, the same as powering a microwave for about a second. That’s so small as to be virtually insignificant.
-
-
-
-But stopping with the energy use of a single query obscures the full truth, which is that this industry is growing quickly, building energy-hungry infrastructure at a nearly incomprehensible scale to satisfy the AI appetites of society as a whole. Meta is currently building a data center in Louisiana with five gigawatts of computational power—about the same demand as the entire state of Maine at the summer peak.&nbsp; (To learn more, read our Power Hungry series online.)
-
-
-
-
-
-Increasingly, there’s no getting away from AI, and it’s not as simple as choosing to use or not use the technology. Your favorite search engine likely gives you an AI summary at the top of your search results. Your email provider’s suggested replies? Probably AI. Same for chatting with customer service while you’re shopping online.&nbsp;
-
-
-
-Just as with climate change, we need to look at this as a system rather than a series of individual choices.&nbsp;
-
-
-
-Massive tech companies using AI in their products should be disclosing their total energy and water use and going into detail about how they complete their calculations. Estimating the burden per query is a start, but we also deserve to see how these impacts add up for billions of users, and how that’s changing over time as companies (hopefully) make their products more efficient. Lawmakers should be mandating these disclosures, and we should be asking for them, too.&nbsp;
-
-
-
-That’s not to say there’s absolutely no individual action that you can take. Just as you could meaningfully reduce your individual greenhouse-gas emissions by taking fewer flights and eating less meat, there are some reasonable things that you can do to reduce your AI footprint. Generating videos tends to be especially energy-intensive, as does using reasoning models to engage with long prompts and produce long answers. Asking a chatbot to help plan your day, suggest fun activities to do with your family, or summarize a ridiculously long email has relatively minor impact.&nbsp;
-
-
-
-Ultimately, as long as you aren’t relentlessly churning out AI slop, you shouldn’t be too worried about your individual AI footprint. But we should all be keeping our eye on what this industry will mean for our grid, our society, and our planet.&nbsp;
-
-
-
-This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
 
 🔒 Cybersecurity & Privacy
+• Drilling Down on Uncle Sam’s Proposed TP-Link Ban
+  The U.S. government is reportedly preparing to ban the sale of wireless routers and other networking gear from TP-Link Systems, a tech company that currently enjoys an estimated 50% market share among home users and small businesses. Experts say while the proposed ban may have more to do with TP-Link&#8217;s ties to China than any specific technical threats, much of the rest of the industry serving this market also sources hardware from China and ships products that are insecure fresh out of the box.
+A TP-Link WiFi 6 AX1800 Smart WiFi Router (Archer AX20).
+The Washington Post recently reported that more than a half-dozen federal departments and agencies were backing a proposed ban on future sales of TP-Link devices in the United States. The story said U.S. Department of Commerce officials concluded TP-Link Systems products pose a risk because the U.S.-based company’s products handle sensitive American data and because the officials believe it remains subject to jurisdiction or influence by the Chinese government.
+TP-Link Systems denies that, saying that it fully split from the Chinese TP-Link Technologies over the past three years, and that its critics have vastly overstated the company&#8217;s market share (TP-Link puts it at around 30 percent). TP-Link says it has headquarters in California, with a branch in Singapore, and that it manufactures in Vietnam. The company says it researches, designs, develops and manufactures everything except its chipsets in-house.
+TP-Link Systems told The Post it has sole ownership of some engineering, design and manufacturing capabilities in China that were once part of China-based TP-Link Technologies, and that it operates them without Chinese government supervision.
+&#8220;TP-Link vigorously disputes any allegation that its products present national security risks to the United States,&#8221; Ricca Silverio, a spokeswoman for TP-Link Systems, said in a statement. &#8220;TP-Link is a U.S. company committed to supplying high-quality and secure products to the U.S. market and beyond.&#8221;
+Cost is a big reason TP-Link devices are so prevalent in the consumer and small business market: As this February 2025 story from Wired observed regarding the proposed ban, TP-Link has long had a reputation for flooding the market with devices that are considerably cheaper than comparable models from other vendors. That price point (and consistently excellent performance ratings) has made TP-Link a favorite among Internet service providers (ISPs) that provide routers to their customers.
+In August 2024, the chairman and the ranking member of the House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party called for an investigation into TP-Link devices, which they said were found on U.S. military bases and for sale at exchanges that sell them to members of the military and their families.
+“TP-Link’s unusual degree of vulnerabilities and required compliance with PRC law are in and of themselves disconcerting,&#8221; the House lawmakers warned in a letter (PDF) to the director of the Commerce Department. &#8220;When combined with the PRC government’s common use of SOHO [small office/home office] routers like TP-Link to perpetrate extensive cyberattacks in the United States, it becomes significantly alarming.”
+The letter cited a May 2023 blog post by Check Point Research about a Chinese state-sponsored hacking group dubbed &#8220;Camaro Dragon&#8221; that used a malicious firmware implant for some TP-Link routers to carry out a sequence of targeted cyberattacks against European foreign affairs entities. Check Point said while it only found the malicious firmware on TP-Link devices, &#8220;the firmware-agnostic nature of the implanted components indicates that a wide range of devices and vendors may be at risk.&#8221;
+In a report published in October 2024, Microsoft said it was tracking a network of compromised TP-Link small office and home office routers that has been abused by multiple distinct Chinese state-sponsored hacking groups since 2021. Microsoft found the hacker groups were leveraging the compromised TP-Link systems to conduct &#8220;password spraying&#8221; attacks against Microsoft accounts. Password spraying involves rapidly attempting to access a large number of accounts (usernames/email addresses) with a relatively small number of commonly used passwords.
+TP-Link rightly points out that most of its competitors likewise source components from China. The company also correctly notes that advanced persistent threat (APT) groups from China and other nations have leveraged vulnerabilities in products from their competitors, such as Cisco and Netgear.
+But that may be cold comfort for TP-Link customers who are now wondering if it&#8217;s smart to continue using these products, or whether it makes sense to buy more costly networking gear that might only be marginally less vulnerable to compromise.
+Almost without exception, the hardware and software that ships with most consumer-grade routers includes a number of default settings that need to be changed before the devices can be safely connected to the Internet. For example, bring a new router online without changing the default username and password and chances are it will only take a few minutes before it is probed and possibly compromised by some type of Internet-of-Things botnet. Also, it is incredibly common for the firmware in a brand new router to be dangerously out of date by the time it is purchased and unboxed.
+Until quite recently, the idea that router manufacturers should make it easier for their customers to use these products safely was something of anathema to this industry. Consumers were largely left to figure that out on their own, with predictably disastrous results.
+But over the past few years, many manufacturers of popular consumer routers have begun forcing users to perform basic hygiene &#8212; such as changing the default password and updating the internal firmware &#8212; before the devices can be used as a router. For example, most brands of &#8220;mesh&#8221; wireless routers &#8212; like Amazon&#8217;s Eero, Netgear&#8217;s Orbi series, or Asus&#8217;s ZenWifi &#8212; require online registration that automates these critical steps going forward (or at least through their stated support lifecycle).
+For better or worse, less expensive, traditional consumer routers like those from Belkin and Linksys also now automate this setup by heavily steering customers toward installing a mobile app to complete the installation (this often comes as a shock to people more accustomed to manually configuring a router). Still, these products tend to put the onus on users to check for and install available updates periodically. Also, they&#8217;re often powered by underwhelming or else bloated firmware, and a dearth of configurable options.
+Of course, not everyone wants to fiddle with mobile apps or is comfortable with registering their router so that it can be managed or monitored remotely in the cloud. For those hands-on folks &#8212; and for power users seeking more advanced router features like VPNs, ad blockers and network monitoring &#8212; the best advice is to check if your router&#8217;s stock firmware can be replaced with open-source alternatives, such as OpenWrt or DD-WRT.
+These open-source firmware options are compatible with a wide range of devices, and they generally offer more features and configurability. Open-source firmware can even help extend the life of routers years after the vendor stops supporting the underlying hardware, but it still requires users to manually check for and install any available updates.
+Happily, TP-Link users spooked by the proposed ban may have an alternative to outright junking these devices, as many TP-Link routers also support open-source firmware options like OpenWRT. While this approach may not eliminate any potential hardware-specific security flaws, it could serve as an effective hedge against more common vendor-specific vulnerabilities, such as undocumented user accounts, hard-coded credentials, and weaknesses that allow attackers to bypass authentication.
+Regardless of the brand, if your router is more than four or five years old it may be worth upgrading for performance reasons alone &#8212; particularly if your home or office is primarily accessing the Internet through WiFi.
+NB: The Post&#8217;s story notes that a substantial portion of TP-Link routers and those of its competitors are purchased or leased through ISPs. In these cases, the devices are typically managed and updated remotely by your ISP, and equipped with custom profiles responsible for authenticating your device to the ISP&#8217;s network. If this describes your setup, please do not attempt to modify or replace these devices without first consulting with your Internet provider.
 • Cloudflare Scrubs Aisuru Botnet from Top Domains List
   For the past week, domains associated with the massive Aisuru botnet have repeatedly usurped Amazon, Apple, Google and Microsoft in Cloudflare&#8217;s public ranking of the most frequently requested websites. Cloudflare responded by redacting Aisuru domain names from their top websites list. The chief executive at Cloudflare says Aisuru&#8217;s overlords are using the botnet to boost their malicious domain rankings, while simultaneously attacking the company&#8217;s domain name system (DNS) service.
 The #1 and #3 positions in this chart are Aisuru botnet controllers with their full domain names redacted. Source: radar.cloudflare.com.
@@ -834,7 +927,7 @@ While this experimental setup provides a useful starting point, it is not intend
 		
 
 		
-		Spotlight: Event Series
+		PODCAST SERIES
 	
 	
 	
@@ -846,14 +939,14 @@ While this experimental setup provides a useful starting point, it is not intend
 			
 			
 
-									Microsoft Research Forum
+									AI Testing and Evaluation: Learnings from Science and Industry
 				
-								Join us for a continuous exchange of ideas about research in the era of general AI. Watch the first four episodes on demand.
+								Discover how Microsoft is learning from other domains to advance evaluation and testing as a pillar of AI governance.
 				
 								
 					
 						
-							Watch on-demand						
+							Listen now						
 					
 				
 							
@@ -1014,97 +1107,6 @@ Magentic Marketplace is available as an open-source environment for exploring ag
 
 The documentation (opens in new tab) provides instructions for reproducing the experiments described above and guidance for extending the environment to new marketplace configurations.
 Opens in a new tabThe post Magentic Marketplace: an open-source simulation environment for studying agentic markets appeared first on Microsoft Research.
-• RedCodeAgent: Automatic red-teaming agent against diverse code agents
-  Introduction
-
-
-
-Code agents are AI systems that can generate high-quality code and work smoothly with code interpreters. These capabilities help streamline complex software development workflows,&nbsp;which has led to their widespread adoption.
-
-
-
-However, this progress also introduces critical safety and security risks. Existing static safety benchmarks and red-teaming methods—in which&nbsp;security researchers&nbsp;simulate real-world attacks to&nbsp;identify&nbsp;security vulnerabilities—often fall short when evaluating code agents.&nbsp;They&nbsp;may&nbsp;fail to&nbsp;detect&nbsp;emerging real-world risks, such as the combined effects of multiple jailbreak tools.&nbsp;In&nbsp;the context of code, effective red-teaming requires more than simply checking whether the target code agent rejects unsafe requests. Instead, the agent must generate and execute correct code that performs the intended risky functionality, making it essential to evaluate execution behaviors beyond static code analysis.&nbsp;
-
-
-
-To address these challenges, researchers from the University of Chicago, University of Illinois Urbana–Champaign, VirtueAI, the UK AI Safety Institute, University of Oxford, UC Berkeley, and Microsoft Research recently proposed RedCodeAgent, the first fully automated and adaptive red-teaming agent designed specifically to evaluate the safety of large language model&nbsp;(LLM)-based code agents.
-
-
-
-Comprehensive experimental results demonstrate the effectiveness and efficiency of&nbsp;RedCodeAgent across (1) diverse Common Weakness Enumeration (CWE) vulnerabilities and malware types, (2) multiple programming languages—including Python, C, C++, and Java—and (3) a wide range of code agents, such as OpenCodeInterpreter, ReAct, MetaGPT, and commercial agents like Cursor and&nbsp;Codeium.&nbsp;RedCodeAgent also uncovers common vulnerabilities across agents&nbsp;such as generating and executing unsafe code, exposes variations in red-teaming difficulty across goals, identifies frequently triggered attack tools, and detects previously unknown vulnerabilities that all other baseline methods overlook.&nbsp;
-
-
-
-Framework for&nbsp;automatic&nbsp;red-teaming&nbsp;against&nbsp;code&nbsp;agents
-
-
-
-Figure 1: Illustration of&nbsp;RedCodeAgent&nbsp;on automatic red-teaming against a target code agent&nbsp;
-
-
-
-As shown in Figure 1,&nbsp;RedCodeAgent&nbsp;is equipped with a&nbsp;memory module&nbsp;that accumulates successful attack experiences, enabling the system to&nbsp;continuously learn and adapt its attack strategies. After learning from the previous experiences,&nbsp;RedCodeAgent&nbsp;further&nbsp;leverages&nbsp;a&nbsp;tailored toolbox&nbsp;that combines representative red-teaming tools with a specialized&nbsp;code substitution module, enabling realistic and diverse code-specific attack simulations through function calling. Based on the target agent’s responses across multiple interactive trials, RedCodeAgent optimizes&nbsp;its strategies, systematically&nbsp;probing for&nbsp;weaknesses and vulnerabilities&nbsp;in real time.&nbsp;
-
-
-
-In the evaluation phase,&nbsp;RedCodeAgent&nbsp;integrates simulated sandbox environments to enable code execution and assess the impact of the resulting behaviors. This sandbox-based evaluation ensures a more robust assessment of harmful behaviors and addresses the potential biases of&nbsp;previous&nbsp;static methods that rely solely on “LLM-as-a-judge” evaluations.
-
-
-
-A case study is shown in Figure 2. Initially,&nbsp;RedCodeAgent&nbsp;discovers that the request was rejected, then RedCodeAgent calls the Greedy Coordinate&nbsp;Gradient&nbsp;(GCG)&nbsp;algorithm&nbsp;to bypass the safety guardrail. After the second request was rejected by the code agent,&nbsp;RedCodeAgent&nbsp;invoked both Code Substitution and GCG to optimize the prompt. Ultimately,&nbsp;RedCodeAgent&nbsp;successfully combined the suggestion from Code Substitution (i.e., using&nbsp;pathlib) with the adversarial suffix generated by GCG, making the target code agent delete the specified file.
-
-
-
-Figure2. A case study of&nbsp;RedCodeAgent&nbsp;calling different tools to successfully attack the target code agent
-
-
-
-Insights from&nbsp;RedCodeAgent&nbsp;
-
-
-
-Experiments on diverse benchmarks show that&nbsp;RedCodeAgent&nbsp;achieves both a higher attack success rate (ASR) and a lower rejection rate, revealing several key findings outlined below.
-
-
-
-Using&nbsp;traditional&nbsp;jailbreak&nbsp;methods&nbsp;alone&nbsp;does&nbsp;not&nbsp;necessarily&nbsp;improve&nbsp;ASR on code agents
-
-
-
-The optimized prompts generated by GCG,&nbsp;AmpleGCG,&nbsp;Advprompter, and&nbsp;AutoDAN&nbsp;do not always achieve a higher ASR compared with static prompts with no jailbreak, as shown in Figure 3.&nbsp;This is&nbsp;likely&nbsp;due to the difference between code-specific tasks and general malicious request tasks in LLM safety. In the context of code, it is not enough for the target code agent to simply avoid rejecting the request; the target code agent must also generate and execute code that performs the intended function.&nbsp;Previous&nbsp;jailbreak methods do not guarantee this outcome. However,&nbsp;RedCodeAgent&nbsp;ensures that the input prompt has a clear functional objective (e.g., deleting specific sensitive files). RedCodeAgent&nbsp;can dynamically adjust based on evaluation feedback, continually optimizing to achieve the specified objectives.
-
-
-
-Figure 3：RedCodeAgent&nbsp;achieves the highest ASR compared with other methods
-
-
-
-RedCodeAgent&nbsp;exhibits&nbsp;adaptive&nbsp;tool&nbsp;utilization&nbsp;
-
-
-
-RedCodeAgent&nbsp;can dynamically adjust its tool usage based on task difficulty. Figure 4 shows that the tool calling combination is different&nbsp;for&nbsp;different tasks.&nbsp;For simpler tasks, where the baseline static test cases already achieve a high ASR,&nbsp;RedCodeAgent&nbsp;spends little time invoking&nbsp;additional&nbsp;tools,&nbsp;demonstrating&nbsp;its efficiency. For more challenging tasks, where the baseline static test cases in&nbsp;RedCode-Exec achieve a lower ASR,we observe that RedCodeAgent spends more time using advanced tools like&nbsp;GCG and&nbsp;Advprompter&nbsp;to&nbsp;optimize&nbsp;the prompt for a successful attack. As a result, the average time spent on invoking different tools varies across tasks, indicating that RedCodeAgent adapts its strategy depending on the specific task.&nbsp;
-
-
-
-Figure 4: Average time cost for&nbsp;RedCodeAgent&nbsp;to invoke different tools or query the target code agent in successful cases for each risk scenario&nbsp;
-
-
-
-RedCodeAgent&nbsp;discovers&nbsp;new&nbsp;vulnerabilities
-
-
-
-In scenarios where other methods&nbsp;fail to&nbsp;find successful attack strategies,&nbsp;RedCodeAgent&nbsp;is able to discover new, feasible jailbreak approaches. Quantitatively, we find that&nbsp;RedCodeAgent&nbsp;is capable of discovering&nbsp;82 (out of 27*30=810 cases in&nbsp;RedCode-Exec benchmark) unique vulnerabilities on the&nbsp;OpenCodeInterpreter&nbsp;code agent and 78 on the ReAct code agent. These are cases where all baseline methods&nbsp;fail to&nbsp;identify the vulnerability, but RedCodeAgent succeeds.
-
-
-
-Summary
-
-
-
-RedCodeAgent&nbsp;combines adaptive memory, specialized tools, and simulated execution environments to uncover real-world risks that static benchmarks&nbsp;may&nbsp;miss.&nbsp;It&nbsp;consistently outperforms leading jailbreak methods, achieving higher attack success rates and lower rejection rates, while remaining efficient and adaptable across diverse agents and programming languages.
-Opens in a new tabThe post RedCodeAgent: Automatic red-teaming agent against diverse code agents appeared first on Microsoft Research.
 • Connect Amazon Bedrock agents to cross-account knowledge bases
   Organizations need seamless access to their structured data repositories to power intelligent AI agents. However, when these resources span multiple AWS accounts integration challenges can arise. This post explores a practical solution for connecting Amazon Bedrock agents to knowledge bases in Amazon Redshift clusters residing in different AWS accounts. 
 The challenge 
@@ -1560,5 +1562,156 @@ As the director of AI Platform Adoption and Training, Sahar El Khoury guides use
 Vu San Ha Huynh is a Solutions Architect at AWS with a PhD in Computer Science. He helps large Enterprise customers drive innovation across different domains with a focus on AI/ML and Generative AI solutions. 
 Paul Wright is a Senior Technical Account Manager, with over 20 years experience in the IT industry and over 7 years of dedicated cloud focus. Paul has helped some of the largest enterprise customers grow their business and improve their operational excellence. In his spare time Paul is a huge football and NFL fan. 
 Mike Bezak is a Senior Technical Account Manager in AWS Enterprise Support. He has over 20 years of experience in information technology, primarily disaster recovery and systems administration. Mike’s current focus is helping customers streamline and optimize their AWS Cloud journey. Outside of AWS, Mike enjoys spending time with family &amp; friends.
+• Introducing structured output for Custom Model Import in Amazon Bedrock
+  With Amazon Bedrock Custom Model Import, you can deploy and scale fine-tuned or proprietary foundation models in a fully managed, serverless environment. You can bring your own models into Amazon Bedrock, scale them securely without managing infrastructure, and integrate them with other Amazon Bedrock capabilities. 
+Today, we are excited to announce the addition of structured output to Custom Model Import. Structured output constrains a model’s generation process in real time so that every token it produces conforms to a schema you define. Rather than relying on prompt-engineering tricks or brittle post-processing scripts, you can now generate structured outputs directly at inference time. 
+For certain production applications, the predictability of model outputs is more important than their creative flexibility. A customer service chatbot might benefit from varied, natural-sounding responses, but an order processing system needs exact, structured data that conforms to predefined schemas. Structured output bridges this gap by maintaining the intelligence of foundation models while verifying their outputs meet strict formatting requirements. 
+This represents a shift from free-form text generation to outputs that are consistent, machine-readable, and designed for seamless integration with enterprise systems. While free-form text excels for human consumption, production applications require more precision. Businesses can’t afford the ambiguity of natural language variations when their systems depend on structured outputs to reliably interface with APIs, databases, and automated workflows. 
+In this post, you will learn how to implement structured output for Custom Model Import in Amazon Bedrock. We will cover what structured output is, how to enable it in your API calls, and how to apply it to real-world scenarios that require structured, predictable outputs. 
+Understanding structured output 
+Structured output, also known as constrained decoding, is a method that directs LLM outputs to conform to a predefined schema, such as valid JSON. Rather than allowing the model to freely select tokens based on probability distributions, it introduces constraints during generation that limit choices to only those that maintain structural validity. If a particular token would violate the schema by producing invalid JSON, inserting stray characters, or using an unexpected field name the structured output rejects it and requires the model to select another allowed option. This real-time validation helps keep the final output consistent, machine readable, and immediately usable by downstream applications without the need for additional post-processing. 
+Without structured output, developers often attempt to enforce structure through prompt instructions like “Respond only in JSON.” While this approach sometimes works, it remains unreliable due to the inherently probabilistic nature of LLMs. These models generate text by sampling from probability distributions, introducing natural variability that makes responses feel human but creates significant challenges for automated systems. 
+Consider a customer support application that classifies tickets: if responses vary between “This seems like a billing issue,” “I’d classify this as: Billing,” and “Category = BILLING,” downstream code cannot reliably interpret the results. What production systems require instead is predictable, structured output. For example: 
+ 
+ {
+  "category": "billing",
+  "priority": "high",
+  "sentiment": "negative"
+}
+ 
+ 
+With a response like this, your application can automatically route tickets, trigger workflows, or update databases without human intervention. By providing predictable, schema-aligned responses, structured output transforms LLMs from conversational tools into reliable system components that can be integrated with databases, APIs, and business logic. This capability opens new possibilities for automation while maintaining the intelligent reasoning that underpin the value of these models. 
+Beyond improving reliability and simplifying post-processing, structured output offers additional benefits that strengthens performance, security and safety in production environments. 
+ 
+ Lower token usage and faster responses: By constraining generation to a defined schema, structured output removes unnecessary verbose, free-form text, resulting in reduced token count. Because token generation is sequential, shorter outputs directly translate to faster responses and lower latency, improving overall performance and cost efficiency. 
+ Enhanced security against prompt injection: Structured output narrows the model’s expression space and helps prevent it from producing arbitrary or unsafe content. Bad actors cannot inject instructions, code or unexpected text outside the defined structure. Each field must match its expected type and format, making sure outputs remain within safe boundaries. 
+ Safety and policy controls: Structured output enables you to design schemas that inherently help prevent harmful, toxic, or policy-violating content. By limiting fields to approved values, enforcing patterns, and restricting free-form text, schemas make sure outputs align with regulatory requirements. 
+ 
+In the next section, we will explore how structured output works with Custom Model Import in Amazon Bedrock and walks through an example of enabling it in your API calls. 
+Using structured output with Custom Model Import in Amazon Bedrock 
+Let’s start by assuming you have already imported a Hugging Face model into Amazon Bedrock using the Custom Model Import feature. 
+Prerequisites 
+Before proceeding, make sure you have: 
+ 
+ An active AWS account with access to Amazon Bedrock 
+ A custom model created in Amazon Bedrock using the Custom Model Import feature 
+ Appropriate AWS Identity and Access Management (IAM) permissions to invoke models through the Amazon Bedrock Runtime 
+ 
+With these prerequisites in place, let’s explore how to implement structured output with your imported model. 
+To start using structured output with a Custom Model Import in Amazon Bedrock, begin by configuring your environment. In Python, this involves creating a Bedrock Runtime client and initializing a tokenizer from your imported Hugging Face model. 
+The Bedrock Runtime client provides access to your imported model using the Bedrock InvokeModel API. The tokenizer applies the correct chat template that aligns with the imported model, which defines how user, system, and assistant messages are combined into a single prompt, how the role markers (for example, &lt;|user|&gt;, &lt;|assistant|&gt;) are inserted, and where the model’s response should begin. 
+By calling tokenizer.apply_chat_template(messages, tokenize=False) you can generate a prompt that matches the exact input format your model expects, which is essential for consistent and reliable inference, especially when structured encoding is enabled. 
+ 
+ import boto3
+from transformers import AutoTokenizer
+from botocore.config import Config
+
+# HF model identifier imported into Bedrock
+hf_model_id = "&lt;&lt;huggingface_model_id&gt;&gt;" # Example: "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B
+model_arn = "arn:aws:bedrock:&lt;&lt;aws-region&gt;&gt;:&lt;&lt;account-id&gt;&gt;:imported-model/your-model-id"
+region      = "&lt;&lt;aws-region&gt;&gt;"
+
+# Initialize tokenizer aligned with your imported model 
+tokenizer = AutoTokenizer.from_pretrained(hf_model_id)
+
+# Initialize Bedrock client
+bedrock_runtime = boto3.client(
+    service_name="bedrock-runtime",
+    region_name=region) 
+ 
+Implementing structured output 
+When you invoke a custom model on Amazon Bedrock, you have the option to enable structured output by adding a response_format block to the request payload. This block accepts a JSON schema that defines the structured of the model’s response. During inference, the model enforces this schema in real-time, making sure that each generated token conforms to the defined structure. Below is a walkthrough demonstrating how to implement structured output using a simple address extraction task. 
+Step 1: Define the data structure 
+You can define your expected output using a Pydantic model, which serves as a typed contract for the data you want to extract. 
+ 
+ from pydantic import BaseModel, Field
+
+class Address(BaseModel):
+    street_number: str = Field(description="Street number")
+    street_name: str = Field(description="Street name including type (Ave, St, Rd, etc.)")
+    city: str = Field(description="City name")
+    state: str = Field(description="Two-letter state abbreviation")
+    zip_code: str = Field(description="5-digit ZIP code") 
+ 
+Step 2: Generate the JSON schema 
+Pydantic can automatically convert your data model into a JSON schema: 
+ 
+ schema = Address.model_json_schema()
+address_schema = {
+    "name": "Address",
+    "schema": schema
+} 
+ 
+This schema defines each field’s type, description, and requirement, creating a blueprint that the model will follow during generation. 
+Step 3: Prepare your input messages 
+Format your input using the chat format expected by your model: 
+ 
+ messages = [{
+    "role": "user",
+    "content": "Extract the address: 456 Tech Boulevard, San Francisco, CA 94105"
+}] 
+ 
+Step 4: Apply the chat template 
+Use your model’s tokenizer to generate the formatted prompt: 
+ 
+ prompt = tokenizer.apply_chat_template(
+    messages,
+    tokenize=False,
+    add_generation_prompt=True
+) 
+ 
+Step 5: Build the request payload 
+Create your request body, including the response_format that references your schema: 
+ 
+ request_body = {
+    'prompt': prompt,
+    'temperature': 0.1,
+    'max_gen_len': 1000,
+    'top_p': 0.9,
+    'response_format': {
+        "type": "json_schema",
+        "json_schema": address_schema
+    }
+} 
+ 
+Step 6: Invoke the model 
+Send the request using the InvokeModel API: 
+ 
+ response = bedrock_runtime.invoke_model(
+    modelId=model_arn,
+    body=json.dumps(request_body),
+    accept="application/json",
+    contentType="application/json"
+) 
+ 
+Step 7: Parse the response 
+Extract the generated text from the response: 
+ 
+ result = json.loads(response['body'].read().decode('utf-8'))
+raw_output = result['choices'][0]['text']
+print(raw_output) 
+ 
+Because the schema defines required fields, the model’s response will contain them: 
+ 
+ {
+"street_number": "456",
+"street_name": "Tech Boulevard",
+"city": "San Francisco",
+"state": "CA",
+"zip_code": "94105"
+} 
+ 
+The output is clean, valid JSON that can be consumed directly by your application with no extra parsing, filtering, or cleanup required. 
+Conclusion 
+Structured output with Custom Model Import in Amazon Bedrock provides an effective way to generate structures, schema-aligned outputs from your models. By shifting validation into the model inference itself, structured output reduce the need for complex post-processing workflows and error handling code. 
+Structured output generates outputs that are predictable and straightforward to integrate into your systems and supports a variety of use cases, for example, building financial applications that require precise data extraction, healthcare systems that need structured clinical documentation, or customer service systems that demand consistent ticket classification. 
+Start experimenting with structured output with your Custom Model Import today and transform how your AI applications deliver consistent, production-ready results. 
+ 
+About the authors 
+Manoj Selvakumar is a Generative AI Specialist Solutions Architect at AWS, where he helps organizations design, prototype, and scale AI-powered solutions in the cloud. With expertise in deep learning, scalable cloud-native systems, and multi-agent orchestration, he focuses on turning emerging innovations into production-ready architectures that drive measurable business value. He is passionate about making complex AI concepts practical and enabling customers to innovate responsibly at scale—from early experimentation to enterprise deployment. Before joining AWS, Manoj worked in consulting, delivering data science and AI solutions for enterprise clients, building end-to-end machine learning systems supported by strong MLOps practices for training, deployment, and monitoring in production. 
+Yanyan Zhang&nbsp;is a Senior Generative AI Data Scientist at Amazon Web Services, where she has been working on cutting-edge AI/ML technologies as a Generative AI Specialist, helping customers use generative AI to achieve their desired outcomes. Yanyan graduated from Texas A&amp;M University with a PhD in Electrical Engineering. Outside of work, she loves traveling, working out, and exploring new things. 
+Lokeshwaran Ravi is a Senior Deep Learning Compiler Engineer at AWS, specializing in ML optimization, model acceleration, and AI security. He focuses on enhancing efficiency, reducing costs, and building secure ecosystems to democratize AI technologies, making cutting-edge ML accessible and impactful across industries. 
+Revendra Kumar is a Senior Software Development Engineer at Amazon Web Services. In his current role, he focuses on model hosting and inference MLOps on Amazon Bedrock. Prior to this, he worked as an engineer on hosting Quantum computers on the cloud and developing infrastructure solutions for on-premises cloud environments. Outside of his professional pursuits, Revendra enjoys staying active by playing tennis and hiking. 
+Muzart Tuman is a software engineer utilizing his experience in fields like deep learning, machine learning optimization, and AI-driven applications to help solve real-world problems in a scalable, efficient, and accessible manner. His goal is to create impactful tools that not only advance technical capabilities but also inspire meaningful change across industries and communities.
 
 ⸻
