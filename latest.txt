@@ -1,6 +1,6 @@
-✅ Morning News Briefing – November 10, 2025 10:47
+✅ Morning News Briefing – November 11, 2025 10:48
 
-📅 Date: 2025-11-10 10:47
+📅 Date: 2025-11-11 10:48
 🏷️ Tags: #briefing #ai #publichealth #digitalgov
 
 ⸻
@@ -8,10 +8,10 @@
 🧾 Weather
 • No watches or warnings in effect, Pembroke
   No watches or warnings in effect. No warnings or watches or watches in effect . Watch or warnings are no longer in effect in the U.S. No watches, warnings are in effect for the rest of the day . No watches and warnings are still in effect, but no watches are in place for the day's events . The weather is not expected to be affected by the weather .
-• Current Conditions:  -5.7°C
-  Temperature: -5.7&deg;C Pressure / Tendency: 101.4 kPa falling Humidity: 88 % Wind Chill: -11 . Dewpoint: -7.4&deg:C Wind: NW 14 km/h Air Quality Health Index: n/a . Pembroke 5:00 AM EST Monday 10 November 2025 Temperature: 5.7
-• Monday: Chance of flurries. High minus 2. POP 40%
-  Cloudy with 40 percent chance of flurries this morning . Amount of 2 cm. Amount 2 cm . Wind chill minus 14 this morning and minus 9 this afternoon . UV index 1 or low. High minus 2.50°F tomorrow morning, with wind chill at minus 9°°F and low UV index at minus 2°F . Forecast issued 5:00 AM EST
+• Current Conditions: Light Snow, -4.6°C
+  Temperature: -4.6&deg;C Pressure: 100.3 kPa Visibility: 10 km Humidity: 89 % Wind Chill: -10%. Dewpoint: -6.2&deg:C Wind: WNW 15 km/h Air Quality Health Index: n/a . Air Quality: "N/A" Air Quality health index: "Health Index
+• Tuesday: Flurries. High plus 1.
+  Flurries ending this morning then cloudy then cloudy with 40 percent chance of flurries . Wind northwest 30 km/h gusting to 50 becoming light early this morning . Wind chill minus 13 this morning. UV index 1 or low. High plus 1.50°C this morning, with wind chill at minus 13°°°F . Forecast issued 5:00 AM EST
 
 🌍 International News
 No updates.
@@ -20,45 +20,45 @@ No updates.
 No updates.
 
 🇺🇸 U.S. Top Stories
-• Countries are gathering for climate negotiations. Here's where the U.S. stands
-  Under President Trump, the U.S. has taken steps to roll back climate policies . Here are six significant changes to the policies under the new administration . President Trump has been criticized for his climate policies in the past, including climate policies, climate policy . The changes have been made in the wake of the White House's failure to act as a result of climate change in the United States
-• Alaska's public schools can serve as emergency shelters. The buildings are in crisis
-  Alaska's public schools are being used as emergency shelters, though many of the buildings are crumbling . Many of the schools are crumbling, but many are still being used to shelter people in the state of Alaska . Alaska's schools have been used as shelters, but some are crumbling and many are now in need of sheltering in some areas of the state's poorest areas, including Alaska's largest
-• People want to avoid ultra-processed foods. But experts struggle to define them
-  The evidence that ultra-processed foods are bad for us is piling up . But efforts to reduce their role in our diets face a big hurdle: experts can't agree on what they are and which to target . The evidence is mounting up that ultraprocessed food is bad for our health, but experts are divided on what is needed to be done to reduce its role in diets .
-• Typhoon Fung-wong leaves 4 dead and 1.4 million displaced in the Philippines
-  Typhoon Fung-wong blew out of the Philippines after setting off floods and landslides, knocking out power to entire provinces, killing at least four people . More than 1.4 million people have been displaced by the typhoon, displacing more than a million more . Typhoon set off floods, landslides and set off landslides that set off power out of entire provinces and killed
-• Senators take first step toward reopening the government after historic shutdown
-  The Senate voted late Sunday evening on a compromise that could reopen the government following the longest shutdown in history . The Senate votes late Sunday night to approve the compromise . It is the longest-ever government shutdown in the country's history, the longest in the history of the shutdown . The shutdown is now the longest ever in history, with the longest since it began in 1983 . The government is
+• Trump floats tariff 'dividends' even while plan shows major flaws
+  President Trump says the government will distribute checks to Americans from tariff revenue . Here's what that could mean for the rest of the country . President Trump said the government would distribute checks from tariffs from the proceeds of the proceeds from the sales of U.S. sales of the U.K. Here's how the checks will be distributed to Americans . Trump says tariffs will be paid back to
+• 'No turning back': More and more Ukrainian women join the army to fight Russia
+  An increasing number of women are joining the Ukrainian military, with thousands serving in front line roles . Russia's war on Ukraine nears its fourth year — with no peace in sight . Thousands of women serve in front-line roles in Ukraine's conflict with Russia . Russia has been fighting Ukraine for more than two years . Ukraine's government has been blamed for the collapse of Ukraine's pro-
+• Sen. Fetterman slams Democrats for shutting down government
+  Sen. John Fetterman (D-Pa.) has a reputation for going against his party . He spoke to NPR Monday ahead of his new book release, "Unfettered" He has been doing so by voting to reopen the government and voted to do so in favor of his own party in the Senate . He also spoke ahead of the release of his book, 'Unfet
+• Climate negotiations have started. Here's how far countries need to go
+  Nations have begun climate negotiations at the COP30 summit in Brazil . Studies show the world is not on track to avoid the most damaging impacts of climate change . Nations are meeting in Brazil for the first time this year to discuss the world's response to the climate change crisis . Nations have already agreed a deal to tackle climate change in the form of carbon dioxide emissions in the past decade, but
+• Is hormone therapy for menopause right for you? 6 things to know
+  The science around hormone therapy to treat menopause has changed a lot since the FDA issued warning labels 20 years ago . Now the labels are being removed, here are 6 things to consider: Hormone therapy is being removed from the market . The science behind hormone therapy has changed since the warning labels were issued . Here are six things you should consider: Menopause and menop
 
 🧠 Artificial Intelligence
 No updates.
 
 💻 Digital Strategy
-• Allianz UK joins growing list of Clop’s Oracle E-Business Suite victims
-  Insurance giant’s UK arm says cybercriminals misattributed the real victim . Allianz UK confirms it was one of the many companies that fell victim to the Clop gang's Oracle E-Business Suite (EBS) attack after crims reported that they had attacked a subsidiary . The insurance giant's UK arm said it was a subsidiary of a subsidiary in the attack
-• Three most important factors in enterprise IT: control, control, control
-  We're all out of it. How to get it back is an open secret . Affordability, flexibility, efficiency, efficiency are still selling IT to this day . We’re all out. How we’ve all out? How to do it? We need to find a way to get back control of our computers. We need it back. We're out of
-• UK military looking for tactical comms, systems suppliers in deal worth up to £9.6B
-  The UK government is launching a competition for military grade communications hardware and software in a tender worth up to £9.6 billion ($12.5 billion) including tax . Major battle field technology refresh will be open to the rest of the public sector . The tender is expected to cost up to $12 billion including tax and is likely to be worth $10 billion . The competition will be
-• Cisco creating new security model using 30 years of data describing cyber-dramas and saves
-  Cisco is working on a new AI model that will more than double the number of parameters used to train its current flagship Foundation-Sec-8B . Doubles parameters to over 17 billion, to detect threats and recommend actions . The new model could be used to detect and recommend threats and to recommend actions by the end of the year . It will be the first AI model to be developed
-• Techie ran up $40,000 bill trying to download a driver
-  In the dialup age, small mistakes could cost big money . Who, Me? It's The Register’s Monday reader-contributed column in which you admit to the error of your ways.……… And what do you think? Share your thoughts with us on Twitter @mailonline.co.uk . Do you know something? Share it with iReport.com
+• UK's Ajax fighting vehicle arrives – years late and still sending crew to hospital
+  The British Army just received its first new armored fighting vehicle (AFV) for nearly three decades . It is years late, hit by rising costs, is still reportedly injuring its crew, and there are questions about whether it remains relevant in the age of drone warfare . The AFV is still being injured by the terrain, and it is still reported to be in danger of injuring crew .
+• AI isn't throttling HPC. It is HPC
+  In recent discussions with industry vendor sales/marketing types, I've been hearing that HPC demand is falling off while AI system demand is continuing to increase . I've also seen articles implying that AI is somehow displacing HPC . Huh? Huh?…… Huh? I've seen articles imply that AI . is somehow displaced by HPC. Huh? ... Huh?... ...
+• Intel CTO and AI boss quits to join OpenAI after just six months in the job
+  Sachin Katti was one of new Intel CEO Lip Bu Tan's first appointments . He was promoted to chief technology and AI officer in April . He will leave the x86 giant to join OpenAI after just six months in the job . Katti will join the AI firm OpenAI in the next round of the open AI race . He is one of the founders of OpenAI,
+• Superintelligence probably not happening, but AI will still reshape society, expert panel says
+  Experts share the view that machine learning models will have a significant effect on society . Ask 339 people, get 339 answers from around the world to find out what they think about AI . Experts say they are skeptical of corporate AI hype to varying degrees, but they share a view that it will have an impact on society in the long run of coming years . For more information, visit CNN Tech
+• LLM side-channel attack could allow snoops to guess what you're talking about
+  Microsoft researchers say models from some providers, including Anthropic, AWS, DeepSeek, and Google, haven't been fixed . Side-channel attacks can guess the subjects being discussed with LLMs using a side-channel attack, the researchers say . They told The Register that some models of some providers have not been fixed, putting both personal users and enterprise communications at risk.……
 
 🏥 Public Health
 No updates.
 
 🔬 Science
-• Maximizing researcher–policymaker engagement in global public health
+• Optimized loading effects on pressure steam sterilization of loaned surgical instruments using product family categorization
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• From resolution to reality: advancing point-of-care diagnostics for kidney disease in low-resource settings
+• Author Correction: Global burden of chikungunya virus infections and the potential benefit of vaccination campaigns
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• Prevalence, bacterial etiology, and antimicrobial susceptibility patterns of urinary tract infections among pregnant women in rural West Amhara, Ethiopia
+• Greater benefits of immediate nirmatrelvir-ritonavir initiation for post-COVID outcomes: a population-based retrospective cohort study
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• In-hospital mortality prognostication for cancer patients with febrile neutropenia
+• Validating the Balanced Inventory of Desirable Reporting in a low literacy adolescent population in Burkina Faso
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
-• The contribution of mycetoma grains to suboptimal disease management
+• Genome sequencing for prevention of health-care-associated bacterial infections
   CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots . Visit www.dailyimpact.com for a gallery next week for snapshots of places to go next week in the gallery . Submit photos of your favorite destinations
 
 🧾 Government & Policy
@@ -69,11 +69,15 @@ No updates.
 
 🤖 AI & Emerging Tech
 • The State of AI: Energy is king, and the US is falling behind
-  Welcome to&nbsp;The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday for the next six weeks, writers from both publications will debate one aspect of the generative AI revolution reshaping global power.
+  Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publications debate one aspect of the generative AI revolution and how it is reshaping global power.
 
 
 
 This week, Casey Crownhart, senior reporter for energy at MIT Technology Review and Pilita Clark, FT&#8217;s columnist, consider how China&#8217;s rapid renewables buildout could help it leapfrog on AI progress.
+
+
+
+
 
 
 
@@ -114,6 +118,8 @@ Building and permitting new renewable power plants would certainly help, since t
 
 
 One quick fix would be for data centers to be more flexible. If they agreed not to suck electricity from the grid during times of stress, new AI infrastructure might be able to come online without any new energy infrastructure.
+
+
 
 
 
@@ -202,6 +208,246 @@ The FT’s visual data team take a look inside the relentless race for AI capaci
 
 
 And global FT reporters ask whether data centers can ever truly be green.
+• Reimagining cybersecurity in the era of AI and quantum
+  AI and quantum technologies are dramatically reconfiguring how cybersecurity functions, redefining the speed and scale with which digital defenders and their adversaries can operate.
+
+
+
+
+
+
+
+The weaponization of AI tools for cyberattacks is already proving a worthy opponent to current defenses. From reconnaissance to ransomware, cybercriminals can automate attacks faster than ever before with AI. This includes using generative AI to create social engineering attacks at scale, churning out tens of thousands of tailored phishing emails in seconds, or accessing widely available voice cloning software capable of bypassing security defenses for as little as a few dollars. And now, agentic AI raises the stakes by introducing autonomous systems that can reason, act, and adapt like human adversaries.
+
+
+
+But AI isn’t the only force shaping the threat landscape. Quantum computing has the potential to seriously undermine current encryption standards if developed unchecked. Quantum algorithms can solve the mathematical problems underlying most modern cryptography, particularly public-key systems like RSA and Elliptic Curve, widely used for secure online communication, digital signatures, and cryptocurrency.
+
+
+
+“We know quantum is coming. Once it does, it will force a change in how we secure data across everything, including governments, telecoms, and financial systems,” says Peter Bailey, senior vice president and general manager of Cisco’s security business.
+
+
+
+“Most organizations are understandably focused on the immediacy of AI threats,&#8221; says Bailey. “Quantum might sound like science fiction, but those scenarios are coming faster than many realize. It’s critical to start investing now in defenses that can withstand both AI and quantum attacks.”
+
+
+
+Critical to this defense is a zero trust approach to cybersecurity, which assumes no user or device can be inherently trusted. By enforcing continuous verification, zero trust enables constant monitoring and ensures that any attempts to exploit vulnerabilities are quickly detected and addressed in real time. This approach is technology-agnostic and creates a resilient framework even in the face of an ever-changing threat landscape.
+
+
+
+Putting up AI defenses&nbsp;
+
+
+
+AI is lowering the barrier to entry for cyberattacks, enabling hackers even with limited skills or resources to infiltrate, manipulate, and exploit the slightest digital vulnerability.
+
+
+
+Nearly three-quarters (74%) of cybersecurity professionals say AI-enabled threats are already having a significant impact on their organization, and 90% anticipate such threats in the next one to two years.&nbsp;
+
+
+
+“AI-powered adversaries have advanced techniques and operate at machine speed,” says Bailey. “The only way to keep pace is to use AI to automate response and defend at machine speed.”
+
+
+
+To do this, Bailey says, organizations must modernize systems, platforms, and security operations to automate threat detection and response—processes that have previously relied on human rule-writing and reaction times. These systems must adapt dynamically as environments evolve and criminal tactics change.
+
+
+
+At the same time, companies must strengthen the security of their AI models and data to reduce exposure to manipulation from AI-enabled malware. Such risks could include, for instance, prompt injections, where a malicious user crafts a prompt to manipulate an AI model into performing unintended actions, bypassing its original instructions and safeguards.
+
+
+
+Agentic AI further ups the ante, with hackers able to use AI agents to automate attacks and make tactical decisions without constant human oversight. “Agentic AI has the potential to collapse the cost of the kill chain,” says Bailey. “That means everyday cybercriminals could start executing campaigns that today only well-funded espionage operations can afford.”
+
+
+
+Organizations, in turn, are exploring how AI agents can help them stay ahead. Nearly 40% of companies expect agentic AI to augment or assist teams over the next 12 months, especially in cybersecurity, according to Cisco’s 2025 AI Readiness Index. Use cases include AI agents trained on telemetry, which can identify anomalies or signals from machine data too disparate and unstructured to be deciphered by humans.&nbsp;
+
+
+
+Calculating the quantum threat
+
+
+
+As many cybersecurity teams focus on the very real AI-driven threat, quantum is waiting on the sidelines. Almost three-quarters (73%) of US organizations surveyed by KPMG say they believe it is only a matter of time before cybercriminals are using quantum to decrypt and disrupt today’s cybersecurity protocols. And yet, the majority (81%) also admit they could do more to ensure that their data remains secure.
+
+
+
+Companies are right to be concerned. Threat actors are already carrying out harvest now, decrypt later attacks, stockpiling sensitive encrypted data to crack once quantum technology matures. Examples include state-sponsored actors intercepting government communications and cybercriminal networks storing encrypted internet traffic or financial records.&nbsp;
+
+
+
+Large technology companies are among the first to roll out quantum defenses. For example, Apple is using cryptography protocol PQ3 to defend against harvest now, decrypt later attacks on its iMessage platform. Google is testing post-quantum cryptography (PQC)—which is resistant to attacks from both quantum and classical computers—in its Chrome browser. And Cisco “has made significant investments in quantum-proofing our software and infrastructure,” says Bailey. “You’ll see more enterprises and governments taking similar steps over the next 18 to 24 months,” he adds.&nbsp;
+
+
+
+As regulations like the US Quantum Computing Cybersecurity Preparedness Act lay out requirements for mitigating against quantum threats, including standardized PQC algorithms by the National Institute of Standards and Technology, a wider range of organizations will start preparing their own quantum defenses.&nbsp;
+
+
+
+For organizations beginning that journey, Bailey outlines two key actions. First, establish visibility. “Understand what data you have and where it lives,” he says. “Take inventory, assess sensitivity, and review your encryption keys, rotating out any that are weak or outdated.”
+
+
+
+Second, plan for migration. “Next, assess what it will take to support post-quantum algorithms across your infrastructure. That means addressing not just the technology, but also the process and people implications,” Bailey says.
+
+
+
+Adopting proactive defense&nbsp;
+
+
+
+Ultimately, the foundation for building resilience against both AI and quantum is a zero trust approach, says Bailey. By embedding zero trust access controls across users, devices, business applications, networks, and clouds, this approach grants only the minimum access required to complete a task and enables continuous monitoring. It can also minimize the attack surface by confining a potential threat to an isolated zone, preventing it from accessing other critical systems.
+
+
+
+Into this zero trust architecture, organizations can integrate specific measures to defend against AI and quantum risks. For instance, quantum-immune cryptography and AI-powered analytics and security tools can be used to identify complex attack patterns and automate real-time responses.&nbsp;
+
+
+
+“Zero trust slows down attacks and builds resilience,” Bailey says. “It ensures that even if a breach occurs, the crown jewels stay protected and operations can recover quickly.”
+
+
+
+Ultimately, companies should not wait for threats to emerge and evolve. They must get ahead now. “This isn’t a what-if scenario; it’s a when,” says Bailey. “Organizations that invest early will be the ones setting the pace, not scrambling to catch up.”
+
+
+
+This content was produced by Insights, the custom content arm of MIT Technology Review. It was not written by MIT Technology Review’s editorial staff. It was researched, designed, and written by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used were limited to secondary production processes that passed thorough human review.
+• The Download: busting weather myths, and AI heart attack prediction
+  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
+
+
+
+Why it’s so hard to bust the weather control conspiracy theory
+
+
+
+It was October 2024, and Hurricane Helene had just devastated the US Southeast. Representative Marjorie Taylor Greene of Georgia found an abstract target on which to pin the blame: “Yes they can control the weather,” she posted on X. “It’s ridiculous for anyone to lie and say it can’t be done.”She was repeating what’s by now a pretty familiar and popular conspiracy theory: that shadowy forces are out there, wielding technology to control the weather and wreak havoc on their enemies. This preposterous claim has grown louder and more common in recent years, especially after extreme weather strikes.But here’s the thing: While Greene and other believers are not correct, this conspiracy theory—like so many others—holds a kernel of much more modest truth. Read the full story.
+
+
+
+—Dave Levitan
+
+
+
+This story is part of MIT Technology Review’s series “The New Conspiracy Age,” on how the present boom in conspiracy theories is reshaping science and technology. Check out the rest of the series here.
+
+
+
+
+
+
+
+AI could predict who will have a heart attack&nbsp;
+
+
+
+For all the modern marvels of cardiology, we struggle to predict who will have a heart attack. Many people never get screened at all. Now, startups are applying AI algorithms to screen millions of CT scans for early signs of heart disease.This technology could be a breakthrough for public health, applying an old tool to uncover patients whose high risk for a heart attack is hiding in plain sight. But it remains unproven at scale, while raising thorny questions about implementation and even how we define disease. Read the full story.
+
+
+
+—Vishal Khetpal
+
+
+
+This story is from the latest print issue of MIT Technology Review magazine, which is full of fascinating stories about the body. If you haven’t already, subscribe now to receive future issues once they land.
+
+
+
+
+
+
+
+The must-reads
+
+
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+
+
+1 Spending on AI may be to blame for all those tech layoffsAI isn’t necessarily replacing jobs, but spending on it is gobbling up budgets. (Fast Company $)+ Junior roles are likely to be the first on the chopping block. (FT $)+ Are the crazy sums that businesses are sinking into AI sustainable? (WP $)+ People are worried that AI will take everyone’s jobs. We’ve been here before. (MIT Technology Review)
+
+
+
+2 Anti-vaccine activists gathered in Austin over the weekendThey celebrated RFK Jr’s rise and outlined their goals—including eliminating school vaccine mandates. (WP $)+ We’re on the verge of stopping the next pandemic. But will we? (Vox)+ How conspiracy theories infiltrated the doctor’s office. (MIT Technology Review)
+
+
+
+3 People who’ve experienced AI-induced delusions are forming a movementThey’re pushing for legal action against chatbot makers. (Bloomberg $)+ The looming crackdown on AI companionship. (MIT Technology Review)
+
+
+
+4 AI-generated clips of women being strangled are flooding social mediaMany of them appear to have been created using OpenAI’s Sora 2. (404 Media)5 Tech leaders are obsessed with bioengineering babiesThey’re not allowed to, but they’re not letting a little thing like ethics get in the way. (WSJ $)+ The race to make the perfect baby is creating an ethical mess. (MIT Technology Review)6 Apple has removed two popular gay dating apps in China The country ordered it to take down Blued and Finka from its app. (Wired $)
+
+
+
+7 The UK government is worried China could turn off its buses remotelyIt fears hundreds of Chinese-made electric buses on British roads could be at risk. (FT $)
+
+
+
+8 How AI is changing the world’s newsrooms It’s brilliant at analyzing large data sets—but shouldn’t be used to write stories. (NYT $)
+
+
+
+9 How to contain an invasive speciesExperts argue that too much red tape is getting in the way. (Undark)+ The weeds are winning. (MIT Technology Review)10 The world’s largest electric ship is charging up Once it’s ready to go, it’ll serve as a ferry in 90 minute bursts. (IEEE Spectrum)
+
+
+
+
+
+
+
+Quote of the day
+
+
+
+“We would move heaven and Earth, pun intended, to try to get to the Moon sooner.”&nbsp;
+
+
+
+—Dave Limp, CEO of Blue Origin, says the company is raring to work with NASA to get humans back on the Moon, Ars Technica reports.
+
+
+
+
+
+
+
+One more thing
+
+
+
+
+
+
+
+Design thinking was supposed to fix the world. Where did it go wrong?In the 1990s, a six-step methodology for innovation called design thinking started to grow in popularity. Key to its spread was its replicable aesthetic, represented by the Post-it note: a humble square that anyone can use in infinite ways.But in recent years, for a number of reasons, the shine of design thinking has been wearing off. Critics have argued that its short-term focus on novel and naive ideas results in unrealistic and ungrounded recommendations.Today, some groups are working to reform both design thinking’s principles and its methodologies. These new efforts seek a set of design tools capable of equitably serving diverse communities and solving diverse problems well into the future. It’s a much more daunting—and crucial—task than design thinking’s original remit. Read the full story.
+
+
+
+—Rebecca Ackermann
+
+
+
+
+
+
+
+We can still have nice things
+
+
+
+A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
+
+
+
++ These tree-dwelling toads give birth to live young—who knew?!+ Now’s the time to practice your baking skills ahead of Thanksgiving.+ Younguk Yi’s glitching paintings are a lot of fun.+ Place your bets! This fun game follows three balls in a race to the bottom, but who will win?
 • The Download: a new home under the sea, and cloning pets
   This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.
 
@@ -425,226 +671,6 @@ In any case, MacGregor could find keeping that low profile more difficult if Van
 
 
 JASON KOERNER/GETTY IMAGES FOR DEEP
-• Cloning isn’t just for celebrity pets like Tom Brady’s dog
-  This week, we heard that Tom Brady had his dog cloned. The former quarterback revealed that his Junie is actually a clone of Lua, a pit bull mix that died in 2023.
-
-
-
-Brady’s announcement follows those of celebrities like Paris Hilton and Barbra Streisand, who also famously cloned their pet dogs. But some believe there are better ways to make use of cloning technologies.
-
-
-
-
-
-While the pampered pooches of the rich and famous may dominate this week’s headlines, cloning technologies are also being used to diversify the genetic pools of inbred species and potentially bring other animals back from the brink of extinction.
-
-
-
-Cloning itself isn’t new. The first mammal cloned from an adult cell, Dolly the sheep, was born in the 1990s. The technology has been used in livestock breeding over the decades since.
-
-
-
-Say you’ve got a particularly large bull, or a cow that has an especially high milk yield. Those animals are valuable. You could selectively breed for those kinds of characteristics. Or you could clone the original animals—essentially creating genetic twins.
-
-
-
-Scientists can take some of the animals’ cells, freeze them, and store them in a biobank. That opens the option to clone them in the future. It’s possible to thaw those cells, remove the DNA-containing nuclei of the cells, and insert them into donor egg cells.
-
-
-
-Those donor egg cells, which come from another animal of the same species, have their own nuclei removed. So it’s a case of swapping out the DNA. The resulting cell is stimulated and grown in the lab until it starts to look like an embryo. Then it is transferred to the uterus of a surrogate animal—which eventually gives birth to a clone.
-
-
-
-There are a handful of companies offering to clone pets. Viagen, which claims to have “cloned more animals than anyone else on Earth,” will clone a dog or cat for $50,000. That’s the company that cloned Streisand’s pet dog Samantha, twice.
-
-
-
-This week, Colossal Biosciences—the “de-extinction” company that claims to have resurrected the dire wolf and created a “woolly mouse” as a precursor to reviving the woolly mammoth—announced that it had acquired Viagen, but that Viagen will “continue to operate under its current leadership.”
-
-
-
-Pet cloning is controversial, for a few reasons. The companies themselves point out that, while the cloned animal will be a genetic twin of the original animal, it won’t be identical. One issue is mitochondrial DNA—a tiny fraction of DNA that sits outside the nucleus and is inherited from the mother. The cloned animal may inherit some of this from the surrogate.
-
-
-
-Mitochondrial DNA is unlikely to have much of an impact on the animal itself. More important are the many, many factors thought to shape an individual’s personality and temperament. “It’s the old nature-versus-nurture question,” says Samantha Wisely, a conservation geneticist at the University of Florida. After all, human identical twins are never carbon copies of each other. Anyone who clones a pet expecting a like-for-like reincarnation is likely to be disappointed.
-
-
-
-
-
-And some animal welfare groups are opposed to the practice of pet cloning. People for the Ethical Treatment of Animals (PETA) described it as “a horror show,” and the UK’s Royal Society for the Prevention of Cruelty to Animals (RSPCA) says that “there is no justification for cloning animals for such trivial purposes.” 
-
-
-
-But there are other uses for cloning technology that are arguably less trivial. Wisely has long been interested in diversifying the gene pool of the critically endangered black-footed ferret, for example.
-
-
-
-Today, there are around 10,000 black-footed ferrets that have been captively bred from only seven individuals, says Wisely. That level of inbreeding isn’t good for any species—it tends to leave organisms at risk of poor health. They are less able to reproduce or adapt to changes in their environment.
-
-
-
-Wisely and her colleagues had access to frozen tissue samples taken from two other ferrets. Along with colleagues at not-for-profit Revive and Restore, the team created clones of those two individuals. The first clone, Elizabeth Ann, was born in 2020. Since then, other clones have been born, and the team has started breeding the cloned animals with the descendants of the other seven ferrets, says Wisely.
-
-
-
-The same approach has been used to clone the endangered Przewalski’s horse, using decades-old tissue samples stored by the San Diego Zoo. It’s too soon to predict the impact of these efforts. Researchers are still evaluating the cloned ferrets and their offspring to see if they behave like typical animals and could survive in the wild.
-
-
-
-Even this practice is not without its critics. Some have pointed out that cloning alone will not save any species. After all, it doesn’t address the habitat loss or human-wildlife conflict that is responsible for the endangerment of these animals in the first place. And there will always be detractors who accuse people who clone animals of “playing God.” 
-
-
-
-For all her involvement in cloning endangered ferrets, Wisely tells me she would not consider cloning her own pets. She currently has three rescue dogs, a rescue cat, and “geriatric chickens.” “I love them all dearly,” she says. “But there are a lot of rescue animals out there that need homes.”
-
-
-
-This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, sign up here.
-• The Download: how doctors fight conspiracy theories, and your AI footprint
-  This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 
-
-
-
-How conspiracy theories infiltrated the doctor’s office
-
-
-
-As anyone who has googled their symptoms and convinced themselves that they’ve got a brain tumor will attest, the internet makes it very easy to self-(mis)diagnose your health problems. And although social media and other digital forums can be a lifeline for some people looking for a diagnosis or community, when that information is wrong, it can put their well-being and even lives in danger.We spoke to a number of health-care professionals who told us how this modern impulse to “do your own research” is changing their profession. Read the full story.—Rhiannon Williams
-
-
-
-This story is part of MIT Technology Review’s series “The New Conspiracy Age,” on how the present boom in conspiracy theories is reshaping science and technology.
-
-
-
-
-
-
-
-Stop worrying about your AI footprint. Look at the big picture instead.
-
-
-
-—Casey Crownhart
-
-
-
-As a climate technology reporter, I’m often asked by people whether they should be using AI, given how awful it is for the environment. Generally, I tell them not to worry—let a chatbot plan your vacation, suggest recipe ideas, or write you a poem if you want.That response might surprise some. I promise I’m not living under a rock, and I have seen all the concerning projections about how much electricity AI is using. But I feel strongly about not putting the onus on individuals. Here’s why.
-
-
-
-This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here.
-
-
-
-
-
-
-
-A new ion-based quantum computer makes error correction simpler
-
-
-
-A company called Quantinuum has just unveiled Helios, its third-generation quantum computer, which includes expanded computing power and error correction capability.Like all other existing quantum computers, Helios is not powerful enough to execute the industry’s dream money-making algorithms, such as those that would be useful for materials discovery or financial modeling.But Quantinuum’s machines, which use individual ions as qubits, could be easier to scale up than quantum computers that use superconducting circuits as qubits, such as Google’s and IBM’s. Read the full story.
-
-
-
-—Sophia Chen
-
-
-
-
-
-
-
-The must-reads
-
-
-
-I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
-
-
-
-1 A new California law could change how all Americans browse online It gives web users the chance to opt out of having their personal information sold or shared. (The Markup)
-
-
-
-2 The FDA has fast-tracked a pill to treat pancreatic cancerThe experimental drug appears promising, but experts worry corners may be cut. (WP $)+ Demand for AstraZeneca’s cancer and diabetes drugs is pushing profits up. (Bloomberg $)+ A new cancer treatment kills cells using localized heat. (Wired $)3 AI pioneers claim it is already superior to humans in many tasksBut not all tasks are created equal. (FT $)+ Are we all wandering into an AGI trap? (Vox)+ How AGI became the most consequential conspiracy theory of our time. (MIT Technology Review)
-
-
-
-4 IBM is planning on cutting thousands of jobsIt’s shifting its focus to software and AI consulting, apparently. (Bloomberg $)+ It’s keen to grow the number of its customers seeking AI advice. (NYT $)
-
-
-
-5 Big Tech’s data centers aren’t the job-generators we were promisedThe jobs they do create are largely in security and cleaning. (Rest of World)+ We did the math on AI’s energy footprint. Here’s the story you haven’t heard. (MIT Technology Review)
-
-
-
-6 Microsoft let AI shopping agents loose in a fake marketplace They were easily manipulated into buying goods, it found. (TechCrunch)+ When AIs bargain, a less advanced agent could cost you. (MIT Technology Review)
-
-
-
-7 Sony has compiled a dataset to test the fairness of computer vision modelsAnd it’s confident it’s been compiled in a fair and ethical way. (The Register)+ These new tools could make AI vision systems less biased. (MIT Technology Review)
-
-
-
-8 The social network is no moreWe’re living in an age of anti-social media. (The Atlantic $)+ Scam ads are rife across platforms, but these former Meta workers have a plan. (Wired $)+ The ultimate online flex? Having no followers. (New Yorker $)
-
-
-
-9 Vibe coding is Collins dictionary’s word of 2025 Beating stiff competition from “clanker.” (The Guardian)+ What is vibe coding, exactly? (MIT Technology Review)10 These people found romance with their chatbot companionsThe AI may not be real, but the humans’ feelings certainly are. (NYT $)+ It’s surprisingly easy to stumble into a relationship with an AI chatbot. (MIT Technology Review)
-
-
-
-
-
-
-
-Quote of the day
-
-
-
-“The opportunistic side of me is realizing that your average accountant won’t be doing this.”
-
-
-
-—Sal Abdulla, founder of accounting-software startup NixSheets, tells the Wall Street Journal he’s using AI tools to gain an edge on his competitors.
-
-
-
-
-
-
-
-One more thing
-
-
-
-
-
-
-
-Ethically sourced “spare” human bodies could revolutionize medicineMany challenges in medicine stem, in large part, from a common root cause: a severe shortage of ethically-sourced human bodies.There might be a way to get out of this moral and scientific deadlock. Recent advances in biotechnology now provide a pathway to producing living human bodies without the neural components that allow us to think, be aware, or feel pain.Many will find this possibility disturbing, but if researchers and policymakers can find a way to pull these technologies together, we may one day be able to create “spare” bodies, both human and nonhuman. Read the full story.—Carsten T. Charlesworth, Henry T. Greely &amp; Hiromitsu Nakauchi
-
-
-
-
-
-
-
-We can still have nice things
-
-
-
-A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet &#8217;em at me.)
-
-
-
-+ Make sure to look up so you don’t miss November’s supermoon.+ If you keep finding yourself mindlessly scrolling (and who doesn’t?), maybe this whopping six-pound phone case could solve your addiction.+ Life lessons from a 101-year old who has no plans to retire.+ Are you a fan of movement snacking?
 
 🔒 Cybersecurity & Privacy
 • Drilling Down on Uncle Sam’s Proposed TP-Link Ban
@@ -670,30 +696,6 @@ These open-source firmware options are compatible with a wide range of devices, 
 Happily, TP-Link users spooked by the proposed ban may have an alternative to outright junking these devices, as many TP-Link routers also support open-source firmware options like OpenWRT. While this approach may not eliminate any potential hardware-specific security flaws, it could serve as an effective hedge against more common vendor-specific vulnerabilities, such as undocumented user accounts, hard-coded credentials, and weaknesses that allow attackers to bypass authentication.
 Regardless of the brand, if your router is more than four or five years old it may be worth upgrading for performance reasons alone &#8212; particularly if your home or office is primarily accessing the Internet through WiFi.
 NB: The Post&#8217;s story notes that a substantial portion of TP-Link routers and those of its competitors are purchased or leased through ISPs. In these cases, the devices are typically managed and updated remotely by your ISP, and equipped with custom profiles responsible for authenticating your device to the ISP&#8217;s network. If this describes your setup, please do not attempt to modify or replace these devices without first consulting with your Internet provider.
-• Cloudflare Scrubs Aisuru Botnet from Top Domains List
-  For the past week, domains associated with the massive Aisuru botnet have repeatedly usurped Amazon, Apple, Google and Microsoft in Cloudflare&#8217;s public ranking of the most frequently requested websites. Cloudflare responded by redacting Aisuru domain names from their top websites list. The chief executive at Cloudflare says Aisuru&#8217;s overlords are using the botnet to boost their malicious domain rankings, while simultaneously attacking the company&#8217;s domain name system (DNS) service.
-The #1 and #3 positions in this chart are Aisuru botnet controllers with their full domain names redacted. Source: radar.cloudflare.com.
-Aisuru is a rapidly growing botnet comprising hundreds of thousands of hacked Internet of Things (IoT) devices, such as poorly secured Internet routers and security cameras. The botnet has increased in size and firepower significantly since its debut in 2024, demonstrating the ability to launch record distributed denial-of-service (DDoS) attacks nearing 30 terabits of data per second.
-Until recently, Aisuru&#8217;s malicious code instructed all infected systems to use DNS servers from Google &#8212; specifically, the servers at 8.8.8.8. But in early October, Aisuru switched to invoking Cloudflare&#8217;s main DNS server &#8212; 1.1.1.1 &#8212; and over the past week domains used by Aisuru to control infected systems started populating Cloudflare&#8217;s top domain rankings.
-As screenshots of Aisuru domains claiming two of the Top 10 positions ping-ponged across social media, many feared this was yet another sign that an already untamable botnet was running completely amok. One Aisuru botnet domain that sat prominently for days at #1 on the list was someone&#8217;s street address in Massachusetts followed by &#8220;.com&#8221;. Other Aisuru domains mimicked those belonging to major cloud providers.
-Cloudflare tried to address these security, brand confusion and privacy concerns by partially redacting the malicious domains, and adding a warning at the top of its rankings:
-&#8220;Note that the top 100 domains and trending domains lists include domains with organic activity as well as domains with emerging malicious behavior.&#8221;
-
-Cloudflare CEO Matthew Prince told KrebsOnSecurity the company&#8217;s domain ranking system is fairly simplistic, and that it merely measures the volume of DNS queries to 1.1.1.1.
-&#8220;The attacker is just generating a ton of requests, maybe to influence the ranking but also to attack our DNS service,&#8221; Prince said, adding that Cloudflare has heard reports of other large public DNS services seeing similar uptick in attacks. &#8220;We’re fixing the ranking to make it smarter. And, in the meantime, redacting any sites we classify as malware.&#8221;
-Renee Burton, vice president of threat intel at the DNS security firm Infoblox, said many people erroneously assumed that the skewed Cloudflare domain rankings meant there were more bot-infected devices than there were regular devices querying sites like Google and Apple and Microsoft.
-&#8220;Cloudflare&#8217;s documentation is clear &#8212; they know that when it comes to ranking domains you have to make choices on how to normalize things,&#8221; Burton wrote on LinkedIn. &#8220;There are many aspects that are simply out of your control. Why is it hard? Because reasons. TTL values, caching, prefetching, architecture, load balancing. Things that have shared control between the domain owner and everything in between.&#8221;
-Alex Greenland is CEO of the anti-phishing and security firm Epi. Greenland said he understands the technical reason why Aisuru botnet domains are showing up in Cloudflare&#8217;s rankings (those rankings are based on DNS query volume, not actual web visits). But he said they&#8217;re still not meant to be there.
-&#8220;It&#8217;s a failure on Cloudflare&#8217;s part, and reveals a compromise of the trust and integrity of their rankings,&#8221; he said.
-Greenland said Cloudflare planned for its Domain Rankings to list the most popular domains as used by human users, and it was never meant to be a raw calculation of query frequency or traffic volume going through their 1.1.1.1 DNS resolver.
-&#8220;They spelled out how their popularity algorithm is designed to reflect real human use and exclude automated traffic (they said they&#8217;re good at this),&#8221; Greenland wrote on LinkedIn. &#8220;So something has evidently gone wrong internally. We should have two rankings: one representing trust and real human use, and another derived from raw DNS volume.&#8221;
-Why might it be a good idea to wholly separate malicious domains from the list? Greenland notes that Cloudflare Domain Rankings see widespread use for trust and safety determination, by browsers, DNS resolvers, safe browsing APIs and things like TRANCO.
-&#8220;TRANCO is a respected open source list of the top million domains, and Cloudflare Radar is one of their five data providers,&#8221; he continued. &#8220;So there can be serious knock-on effects when a malicious domain features in Cloudflare&#8217;s top 10/100/1000/million. To many people and systems, the top 10 and 100 are naively considered safe and trusted, even though algorithmically-defined top-N lists will always be somewhat crude.&#8221;
-Over this past week, Cloudflare started redacting portions of the malicious Aisuru domains from its Top Domains list, leaving only their domain suffix visible. Sometime in the past 24 hours, Cloudflare appears to have begun hiding the malicious Aisuru domains entirely from the web version of that list. However, downloading a spreadsheet of the current Top 200 domains from Cloudflare Radar shows an Aisuru domain still at the very top.
-According to Cloudflare&#8217;s website, the majority of DNS queries to the top Aisuru domains &#8212; nearly 52 percent &#8212; originated from the United States. This tracks with my reporting from early October, which found Aisuru was drawing most of its firepower from IoT devices hosted on U.S. Internet providers like AT&amp;T, Comcast and Verizon.
-Experts tracking Aisuru say the botnet relies on well more than a hundred control servers, and that for the moment at least most of those domains are registered in the .su top-level domain (TLD). Dot-su is the TLD assigned to the former Soviet Union (.su&#8217;s Wikipedia page says the TLD was created just 15 months before the fall of the Berlin wall).
-A Cloudflare blog post from October 27 found that .su had the highest &#8220;DNS magnitude&#8221; of any TLD, referring to a metric estimating the popularity of a TLD based on the number of unique networks querying Cloudflare&#8217;s 1.1.1.1 resolver. The report concluded that the top .su hostnames were associated with a popular online world-building game, and that more than half of the queries for that TLD came from the United States, Brazil and Germany [it&#8217;s worth noting that servers for the world-building game Minecraft were some of Aisuru&#8217;s most frequent targets].
-A simple and crude way to detect Aisuru bot activity on a network may be to set an alert on any systems attempting to contact domains ending in .su. This TLD is frequently abused for cybercrime and by cybercrime forums and services, and blocking access to it entirely is unlikely to raise any legitimate complaints.
 
 🎓 University AI
 No updates.
@@ -836,631 +838,316 @@ PIKE-RAG’s generalization capabilities have been validated not only in Signify
 
 “Our goal isn’t to build a universal chatbot but to create a professional assistant that aligns with domain-specific logic and performs rigorous knowledge reasoning. That’s the true driving force behind intelligent transformation in industrial knowledge management.”
 Opens in a new tabThe post When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost appeared first on Microsoft Research.
-• Magentic Marketplace: an open-source simulation environment for studying agentic markets
-  Autonomous AI agents are here, and they&#8217;re poised to reshape the economy. By automating discovery, negotiation, and transactions, agents can overcome inefficiencies like information asymmetries and platform lock-in, enabling faster, more transparent, and more competitive markets.
-
-
-
-We are already seeing early signs of this transformation in digital marketplaces. Customer-facing assistants like OpenAI’s Operator and Anthropic’s Computer Use can navigate websites and complete purchases. On the business side, Shopify Sidekick, Salesforce Einstein, and Meta’s Business AI help merchants with operations and customer engagement. These examples hint at a future where agents become active market participants, but the structure of these markets remains uncertain.
-
-
-
-Several scenarios are possible. We might see one-sided markets where only customers or businesses deploy agents; closed platforms (known as walled gardens) where companies tightly control agent interactions; or even open two-sided marketplaces where customer and business agents transact freely across ecosystems. Each path carries different trade-offs for security, openness, convenience, and competition, which will shape how value flows in the digital economy. For a deeper exploration of these dynamics, see our paper, The Agentic Economy.
-
-
-
-To help navigate this uncertainty, we built Magentic Marketplace (opens in new tab)— an open-source simulation environment for exploring the numerous possibilities of agentic markets and their societal implications at scale. It provides a foundation for studying these markets and guiding them toward outcomes that benefit everyone.
-
-
-
-This matters because most AI agent research focuses on isolated scenarios—a single agent completing a task or two agents negotiating a simple transaction. But real markets involve a large number of agents simultaneously searching, communicating, and transacting, creating complex dynamics that can’t be understood by studying agents in isolation. Capturing this complexity is essential because real-world deployments raise critical questions about consumer welfare, market efficiency, fairness, manipulation resistance, and bias—questions that can’t be safely answered in production environments.
-
-
-
-To explore these dynamics in depth, the Magentic Marketplace platform enables controlled experimentation across diverse agentic marketplace scenarios. Its current focus is on two-sided markets, but the environment is modular and extensible, supporting future exploration of mixed human–agent systems, one-sided markets, and complex communication protocols.
-
-
-
-Figure 1. With Magentic Marketplace, researchers can model how agents representing customers and businesses interact—shedding light on the dynamics that could shape future digital markets.
-
-
-
-What is Magentic Marketplace?
-
-
-
-Magentic Marketplace’s environment manages market-wide capabilities like maintaining catalogs of available goods and services, implementing discovery algorithms, facilitating agent-to-agent communication, and handling simulated payments through a centralized transaction layer at its core, which ensures transaction integrity across all marketplace interactions. Additionally, the platform enables systematic, reproducible research. As demonstrated in the following video, it supports a wide range of agent implementations and evolving marketplace features, allowing researchers to integrate diverse agent architectures and adapt the environment as new capabilities emerge.
-
-
-
-
-
-
-
-
-
-We built Magentic Marketplace around three core architectural choices:
-
-
-
-HTTP/REST client-server architecture: Agents operate as independent clients while the Marketplace Environment serves as a central server. This mirrors real-world platforms and supports clear separation of customer and business agent roles.
-
-
-
-Minimal&nbsp;three-endpoint&nbsp;market&nbsp;protocol:&nbsp;Just&nbsp;three endpoints—register, protocol discovery, and action execution—lets&nbsp;agents dynamically discover available actions.&nbsp;New capabilities&nbsp;can&nbsp;be added without disrupting existing experiments.
-
-
-
-Rich action protocol: Specific message types support the complete transaction lifecycle: search, negotiation, proposals, and payments. The protocol is designed for extensibility. New actions like refunds, reviews, or ratings can be added seamlessly, allowing researchers to evolve marketplace capabilities and study emerging agent behaviors while remaining compatible.
-
-
-
-Figure 2. Magentic Marketplace includes two agent types: Assistant Agents (customers) and Service Agents (businesses). Both interact with a central Market Environment via REST APIs for registration, service discovery, communication, and transaction execution. Action Routers manage message flow and protocol requests, enabling autonomous negotiation and commerce in a two-sided marketplace.
-
-
-
-Additionally, a visualization module lets users observe marketplace dynamics and review individual conversation threads between customer and business agents.
-
-
-
-Setting up the experiments
-
-
-
-To ensure reproducibility, we instantiated the marketplace with fully synthetic data, available in our open-source repository (opens in new tab). The experiments modeled transactions such as ordering food and engaging with home improvement services, where agents represented customers and businesses engaging in marketplace transactions. This setup enabled precise measurement of behavior and systematic comparison against theoretical upper bounds.
-
-
-
-Each experiment was run using 100 customers and 300 businesses and included both proprietary models (GPT-4o, GPT-4.1, GPT-5, and Gemini-2.5-Flash) and open-source models (OSS-20b, Qwen3-14b, and Qwen3-4b-Instruct-2507).
-
-
-
-Our scenarios focused on simple all-or-nothing requests: Each customer had a list of desired items and amenities that needed to be present for a transaction to be satisfying. For those transactions, utility was computed as the sum of the customer’s internal item valuations minus actual prices paid. Consumer welfare, defined as the sum of utilities across all completed transactions, served as our key metric for comparing agent performance.
-
-
-
-While this experimental setup provides a useful starting point, it is not intended to be definitive. We encourage researchers to extend the framework with richer, more nuanced measures and request types that better capture real consumer welfare, fairness, and other societal considerations.
-
-
-
-	
-		
-
-		
-		PODCAST SERIES
-	
-	
-	
-						
-				
-					
-				
-			
-			
-			
-
-									AI Testing and Evaluation: Learnings from Science and Industry
-				
-								Discover how Microsoft is learning from other domains to advance evaluation and testing as a pillar of AI governance.
-				
-								
-					
-						
-							Listen now						
-					
-				
-							
-	
-Opens in a new tab	
-	
-
-
-What did we find?
-
-
-
-Agents can improve consumer welfare—but only with good discovery
-
-
-
-We explored whether two-sided agentic markets—where AI agents interact with each other and with service providers—can improve consumer welfare by reducing information gaps. Unlike traditional markets, which do not provide agentic support and place the full burden of overcoming information asymmetries on customers, agentic markets shift much of that effort to agents. This change matters because as agents gain better tools for discovery and communication, they relieve customers of the heavy cognitive load of filling any information gaps. This lowers the cost of making informed decisions and improves customer outcomes.
-
-
-
-We compared several marketplace setups. Under realistic conditions (Agentic: Lexical search), agents faced real-world challenges like building queries, navigating paginated lists, identifying the right businesses to send inquiries to, and negotiating transactions.
-
-
-
-Despite these complexities, advanced proprietary models and some medium-sized open-source models like GPTOSS-20b outperformed simple baselines like randomly choosing or simply choosing the cheapest option. Notably, GPT-5 achieved near-optimal performance, demonstrating its ability to effectively gather and utilize decision-relevant information in realistic marketplace conditions.
-
-
-
-Figure 3. Table comparing experimental setups for welfare outcomes in the restaurant industry. Each row shows a different way agents or baselines make decisions, from random picks to fully coordinated agentic strategies. Cell colors indicate how much information is available: green, at the top left, represents complete information, red, at the top right, represents limited information, and yellow at the bottom represents decisions that depend on agent communication.
-
-
-
-Performance increased considerably under the Agentic: Perfect search condition, where agents started with the top three matches without needing to search and navigate among the choices. In this setting, Sonnet-4.0, Sonnet-4.5, GPT-5, and GPT-4.1 nearly reached the theoretical optimum and beat baselines with full amenity details but without agent-to-agent coordination.
-
-
-
-Open-source models were mixed: GPTOSS-20b performed strongly under both Perfect search and Lexical search conditions, even exceeding GPT-4o&#8217;s performance with Perfect search. This suggests that relatively compact models can exhibit robust information-gathering and decision-making capabilities in complex multi-agent environments. Qwen3-4b-2507 faltered when discovery involved irrelevant options (Lexical search), while Qwen3-14b lagged in both cases due to fundamental limitations in reasoning.
-
-
-
-Figure 4. Chart showing consumer welfare outcomes in the restaurant industry under different marketplace setups. Blue bars show Agentic: Lexical search, where agents navigate realistic discovery challenges; yellow bars show Agentic: Perfect search, where agents started with ideal matches. Proprietary models approached optimum consumer welfare under perfect search, while open-source models and baselines lagged behind.
-
-
-
-Paradox of Choice
-
-
-
-One promise of agents is their ability to consider far more options than people can. However, our experiments revealed a surprising limitation: providing agents with more options does not necessarily lead to more thorough exploration. We designed experiments that varied the search results limit from 3 to 100. Except for Gemini-2.5-Flash and GPT-5, the models contacted only a small fraction of available businesses regardless of the search limit. This suggests that most models do not conduct exhaustive comparisons and instead easily accept the initial &#8220;good enough&#8221; options.
-
-
-
-Figure 5. More options didn’t lead to broader exploration. Most models still contacted only a few businesses, except Gemini-2.5-Flash and GPT-5.
-
-
-
-Additionally, across all models, consumer welfare declined as the number of search results increased. Despite contacting over a hundred businesses, Gemini-2.5-Flash&#8217;s performance declined from 1,700 to 1,350, and GPT-5 declined even more, from a near-optimal 2,000 to 1,400.
-
-
-
-This demonstrates a Paradox of Choice effect, where more exploration does not guarantee better outcomes, potentially due to limited long context understanding. Claude Sonnet 4 showed the steepest performance decline, from 1,800 to 600 in consumer welfare. With all the options presented, it struggled to navigate larger sets of options and frequently contacted businesses that did not provide the goods or services that the customer was looking for.
-
-
-
-This combination of poor initial selection and premature search termination demonstrates both inadequate decision-making criteria and insufficient exploration strategies. Some models showed modest performance decline (i.e., GPT-4.1: from 1,850 to 1,700; GPT-4o: from 1,550 to 1,450), finding good options within their limited exploration.
-
-
-
-Figure 6. Mean consumer welfare decreased as consideration set size grew, revealing a Paradox of Choice effect, where expanding options reduced overall welfare.
-
-
-
-Agents are vulnerable to manipulation
-
-
-
-We tested six manipulation strategies, ranging from subtle psychological tactics to aggressive prompt injection attacks:
-
-
-
-
-Authority: Fake credentials like “Michelin Guide featured” and “James Beard Award nominated” paired with fabricated certifications.
-
-
-
-Social proof: Claims like “Join 50,000+ satisfied customers” or “#1-rated Mexican restaurant” combined with fake reviews.
-
-
-
-Loss aversion: Fear-based warnings about “food poisoning” risks and “contamination issues” at competing restaurants.
-
-
-
-Prompt injection (basic): Attempts to override agent instructions.
-
-
-
-Prompt injection (strong): Aggressive attacks using emergency language and fabricating competitor scandals.
-
-
-
-
-Results revealed significant variation in manipulation resistance across models. Sonnet-4 was resistant to all attacks, and none of the manipulative strategies affected any of the customers’ choices. Gemini-2.5-Flash was generally resistant, except for strong prompt injections, where mean payments to unmanipulated agents were affected as a result. GPT-4o, GPTOSS-20b and Qwen3-4b were very vulnerable to prompt injection: all payments were redirected to the manipulative agent under these conditions. Specifically for GPTOSS-20 and Qwen3-4b-2507, even traditional psychological manipulation tactics (authority appeals and social proof) increased payments to malicious agents, demonstrating their vulnerability to basic persuasion techniques. These findings highlight a critical security concern for agentic marketplaces.
-
-
-
-Figure 7. Charts showing the variation in mean payments received by service agents with and without manipulation tactics. The results reveal substantial differences in manipulation resistance across models, with GPT-4.1 showing significantly higher vulnerability compared to Gemini-2.5-Flash.
-
-
-
-Systemic biases create unfair advantages
-
-
-
-Our analysis revealed two distinct types of systematic biases showed by agents when selecting businesses from search results. Models showed systematic preferences based on where businesses appeared in search results. While proprietary models showed no strong positional preferences, open-source models exhibited clear patterns. Specifically, Qwen2.5-14b-2507 showed a pronounced bias toward selecting the last business presented, regardless of its actual merits.
-
-
-
-Proposal&nbsp;bias&nbsp;is&nbsp;more pervasive across all models tested. This &#8220;first-offer acceptance&#8221; pattern suggests that models prioritized&nbsp;immediate selection over comprehensive exploration, potentially missing better alternatives that&nbsp;could have&nbsp;emerged&nbsp;by waiting for better options. This behavior&nbsp;continued&nbsp;across both proprietary and open-source models,&nbsp;indicating&nbsp;a fundamental challenge in agent decision-making architectures.
-
-
-
-These biases can create unfair market dynamics, drive unintended behaviors, and push businesses to complete on response speed rather than product or service quality.
-
-
-
-Figure 8. All models showed strong preference for the first proposal received, accepting it without waiting for additional proposals or conducting systematic comparisons.
-
-
-
-What this means
-
-
-
-Even state-of-the-art models can show notable vulnerabilities and biases in marketplace environments. In our implementation, agents struggled with too many options, were susceptible to manipulation tactics, and showed systemic biases that created unfair advantages.
-
-
-
-These outcomes are shaped not only by agent capabilities but also by marketplace design and implementation. Our current study focused on static markets, but real-world environments are dynamic, with agents and users learning over time. Oversight is critical for high-stakes transactions. Agents should assist, not replace, human decision-making.
-
-
-
-We plan to explore dynamic markets and human-in-the-loop designs to improve efficiency and trust. A simulation environment like Magentic Marketplace is crucial for understanding the interplay between market components and agents before deploying them at scale.
-
-
-
-Full details of our experimental setup and results are available in our paper (opens in new tab).
-
-
-
-Getting started
-
-
-
-Magentic Marketplace is available as an open-source environment for exploring agentic market dynamics. Code, datasets, and experiment templates are available on GitHub (opens in new tab) and Azure AI Foundry Labs (opens in new tab).
-
-
-
-The documentation (opens in new tab) provides instructions for reproducing the experiments described above and guidance for extending the environment to new marketplace configurations.
-Opens in a new tabThe post Magentic Marketplace: an open-source simulation environment for studying agentic markets appeared first on Microsoft Research.
-• Connect Amazon Bedrock agents to cross-account knowledge bases
-  Organizations need seamless access to their structured data repositories to power intelligent AI agents. However, when these resources span multiple AWS accounts integration challenges can arise. This post explores a practical solution for connecting Amazon Bedrock agents to knowledge bases in Amazon Redshift clusters residing in different AWS accounts. 
-The challenge 
-Organizations that build AI agents using Amazon Bedrock can maintain their structured data in Amazon Redshift clusters. When these data repositories exist in separate AWS accounts from their AI agents, they face a significant limitation: Amazon Bedrock Knowledge Bases doesn’t natively support cross-account Redshift integration. 
-This creates a challenge for enterprises with multi-account architectures who want to: 
+• Fine-tune VLMs for multipage document-to-JSON with SageMaker AI and SWIFT
+  Extracting structured data from documents like invoices, receipts, and forms is a persistent business challenge. Variations in format, layout, language, and vendor make standardization difficult, and manual data entry is slow, error-prone, and unscalable. Traditional optical character recognition (OCR) and rule-based systems often fall short in handling this complexity. For instance, a regional bank might need to process thousands of disparate documents—loan applications, tax returns, pay stubs, and IDs—where manual methods create bottlenecks and increase the risk of error. Intelligent document processing (IDP) aims to solve these challenges by using AI to classify documents, extract or derive relevant information, and validate the extracted data to use it in business processes. One of its core goals is to convert unstructured or semi-structured documents into usable, structured formats such as JSON, which then contain specific fields, tables, or other structured target information. The target structure needs to be consistent, so that it can be used as part of workflows or other downstream business systems or for reporting and insights generation. The following figure shows the workflow, which involves ingesting unstructured documents (for example, invoices from multiple vendors with varying layouts) and extracting relevant information. Despite differences in keywords, column names, or formats across documents, the system normalizes and outputs the extracted data into a consistent, structured JSON format. 
  
- Leverage existing structured data in Redshift for their AI agents. 
- Maintain separation of concerns across different AWS accounts. 
- Avoid duplicating data across accounts. 
- Ensure proper security and access controls. 
+Vision language models (VLMs) mark a revolutionary advancement in IDP. VLMs integrate large language models (LLMs) with specialized image encoders, creating truly multi-modal AI capabilities of both textual reasoning and visual interpretation. Unlike traditional document processing tools, VLMs process documents more holistically—simultaneously analyzing text content, document layout, spatial relationships, and visual elements in a manner that more closely resembles human comprehension. This approach enables VLMs to extract meaning from documents with unprecedented accuracy and contextual understanding. For readers interested in exploring the foundations of this technology, Sebastian Raschka’s post—Understanding Multimodal LLMs—offers an excellent primer on multimodal LLMs and their capabilities. 
+This post has four main sections that reflect the primary contributions of our work and include: 
  
-Solution overview 
-Our solution enables cross-account knowledge base integration through a secure, serverless architecture that maintains secure access controls while allowing AI agents to query structured data. The approach uses AWS Lambda as an intermediary to facilitate secure cross-account data access. 
+ An overview of the various IDP approaches available, including the option (our recommended solution) for fine-tuning as a scalable approach. 
+ Sample code for fine-tuning VLMs for document-to-JSON conversion using Amazon SageMaker AI and the SWIFT framework, a lightweight toolkit for fine-tuning various large models. 
+ Developing an evaluation framework to assess performance processing structured data. 
+ A discussion of the possible deployment options, including an explicit example for deploying the fine-tuned adapter. 
  
-The action flow as shown above: 
- 
- Users enter their natural language question in Amazon Bedrock Agents which is configured in the agent account. 
- Amazon Bedrock Agents invokes a&nbsp;Lambda function through action groups which provides access to the Amazon Bedrock knowledge base configured in the agent-kb account above. 
- Action group Lambda function running in agent account assumes an IAM role created in agent-kb account above to connect to the knowledge base in the agent-kb account. 
- Amazon Bedrock Knowledge Base in the agent-kb account uses an IAM role created in the same account to access Amazon Redshift data warehouse and query data in the data warehouse. 
- 
-The solution follows these key components: 
- 
- Amazon Bedrock agent in the agent account that handles user interactions. 
- Amazon Redshift serverless workgroup in VPC and private subnet in the agent-kb account containing structured data. 
- Amazon Bedrock Knowledge base using the Amazon Redshift serverless workgroup as structured data source. 
- Lambda function in the agent account. 
- Action group configuration to connect the agent in the agent account to the Lambda function. 
- IAM roles and policies that enable secure cross-account access. 
- 
+SageMaker AI is a fully managed service to build, train and deploy models at scale. In this post, we use SageMaker AI to fine-tune the VLMs and deploy them for both batch and real-time inference. 
 Prerequisites 
-This solution requires you to have the following: 
+Before you begin, make sure you have the following set up so that you can successfully follow the steps outlined in this post and the accompanying GitHub repository: 
  
- Two AWS accounts. Create an AWS account if you do not have one. Specific permissions required for both account which will be set up in subsequent steps. 
- Install the AWS CLI (2.24.22 – current version) 
- Set up authentication using IAM user credentials for the AWS CLI for each account 
- Make sure you have jq installed, jq is lightweight command-line JSON processor. For example, in Mac you can use the command brew install jq (jq-1.7.1-apple – current version) to install it. 
- Navigate to the Amazon Bedrock console and make sure you enable access to the meta.llama3-1-70b-instruct-v1:0 model for the agent-kb account and access for us.amazon.nova-pro-v1:0 model in the agent account in the us-west-2, US West (Oregon) AWS Region. 
- 
-Assumption 
-Let’s call the AWS account profile, agent profile that has the Amazon Bedrock agent. Similarly, the AWS account profile be called agent-kb that has the Amazon Bedrock knowledge base with Amazon Redshift Serverless and the structured data source. We will use the us-west-2 US West (Oregon) AWS Region but feel free to choose another AWS Region as necessary (the prerequisites will be applicable to the AWS Region you choose to deploy this solution in). We will use the meta.llama3-1-70b-instruct-v1:0 model for the agent-kb. This is an available on-demand model in us-west-2. You are free to choose other models with cross-Region inference but that would mean changing the roles and polices accordingly and enable model access in all Regions they are available in. Based on our model choice for this solution the AWS Region must be us-west-2. For the agent we will be using an Amazon Bedrock agent optimized model like us.amazon.nova-pro-v1:0. 
-Implementation walkthrough 
-The following is a step-by-step implementation guide. Make sure to perform all steps in the same AWS Region in both accounts. 
-These steps are to deploy and test an end-to-end solution from scratch and if you are already running some of these components, you may skip over those steps. 
- 
-  
+ AWS account: You need an active AWS account with permissions to create and manage resources in SageMaker AI, Amazon Simple Storage Service (Amazon S3), and Amazon Elastic Container Registry (Amazon ECR). 
+ IAM permissions: Your IAM user or role must have sufficient permissions. For production setups, follow the principle of least privilege as described in security best practices in IAM. For a sandbox setup we suggest the following roles: 
    
-   Make a note of the AWS account numbers in the agent and agent-kb account. In the implementation steps we will refer them as follows: 
-     
-      
-       
-       Profile 
-       AWS account 
-       Description 
-       
-       
-       agent 
-       111122223333 
-       Account for the Bedrock Agent 
-       
-       
-       agent-kb 
-       999999999999 
-       Account for the Bedrock Knowledge base 
-       
-      
-     Note: These steps use example profile names and account numbers, please replace with actuals before running. 
-   Create the Amazon Redshift Serverless workgroup in the agent-kb account: 
-     
-     Log on to the agent-kb account 
-     Follow the workshop link to create the Amazon Redshift Serverless workgroup in private subnet 
-     Make a note of the namespace, workgroup, and other details and follow the rest of the hands-on workshop instructions. 
-      
-   Set up your data warehouse in the agent-kb account. 
-   Create your AI knowledge base in the agent-kb account. Make a note of the knowledge base ID. 
-   Train your AI Assistant in the agent-kb account. 
-   Test natural language queries in the agent-kb account. You can find the code in aws-samples git repository: sample-for-amazon-bedrock-agent-connect-cross-account-kb. 
-   Create necessary roles and policies in both the accounts. Run the script create_bedrock_agent_kb_roles_policies.sh with the following input parameters. 
-     
-      
-       
-       Input parameter 
-       Value 
-       Description 
-       
-       
-       –agent-kb-profile 
-       agent-kb 
-       The agent knowledgebase profile that you set up with the AWS CLI with aws_access_key_id, aws_secret_access_key as mentioned in the prerequisites. 
-       
-       
-       –lambda-role 
-       lambda_bedrock_kb_query_role 
-       This is the IAM role the agent account Bedrock agent action group lambda will assume to connect to the Redshift cross account 
-       
-       
-       –kb-access-role 
-       bedrock_kb_access_role 
-       This is the IAM role the agent-kb account which the lambda_bedrock_kb_query_role in agent account assumes to connect to the Redshift cross account 
-       
-       
-       –kb-access-policy 
-       bedrock_kb_access_policy 
-       IAM policy attached to the IAM role bedrock_kb_access_role 
-       
-       
-       –lambda-policy 
-       lambda_bedrock_kb_query_policy 
-       IAM policy attached to the IAM role lambda_bedrock_kb_query_role 
-       
-       
-       –knowledge-base-id 
-       XXXXXXXXXX 
-       Replace with the actual knowledge base ID created in Step 4 
-       
-       
-       –agent-account 
-       111122223333 
-       Replace with the 12-digit AWS account number where the Bedrock agent is running. (agent account) 
-       
-       
-       –agent-kb-account 
-       999999999999 
-       Replace with the 12-digit AWS account number where the Bedrock knowledge base is running. (agent-kb acccount) 
-       
-      
-      
-   Download the script (create_bedrock_agent_kb_roles_policies.sh) from the aws-samples GitHub repository. 
-   Open Terminal in Mac or similar bash shell for other platforms. 
-   Locate and change the directory to the downloaded location, provide executable permissions: 
-     
-     cd /my/location
-chmod +x create_bedrock_agent_kb_roles_policies.sh 
-      
-   If you are still not clear on the script usage or inputs, then you can run the script with the –help option and the script will display the usage: ./create_bedrock_agent_kb_roles_policies.sh –help 
-   Run the script with the right input parameters as described in the previous table. 
-     
-     ./create_bedrock_agent_kb_roles_policies.sh --agent-profile agent \ 
-  --agent-kb-profile agent-kb \ 
-  --lambda-role lambda_bedrock_kb_query_role \ 
-  --kb-access-role bedrock_kb_access_role \ 
-  --kb-access-policy bedrock_kb_access_policy \ 
-  --lambda-policy lambda_bedrock_kb_query_policy \ 
-  --knowledge-base-id XXXXXXXXXX \ 
-  --agent-account 111122223333 \ 
-  --agent-kb-account 999999999999 
-      
-   The script on successful execution shows the summary of the IAM, roles and policies created in both accounts.  
-   Log on to both the agent and agent-kb account to verify the IAM roles and policies are created. 
-     
-      
-       
-        
-         
-         For the agent account: Make a note of the ARN of the lambda_bedrock_kb_query_role as that will be the value of CloudFormation stack parameter AgentLambdaExecutionRoleArn in the next step.  
-         For the agent-kb account: Make a note of the ARN of the bedrock_kb_access_role as that will be the value of CloudFormation stack parameter TargetRoleArn in the next step.  
-          
-        
-      
-   Run the AWS CloudFormation script to create a Bedrock agent: 
-     
-      
-       
-        
-         
-          
-           
-           Download the CloudFormation script: cloudformation_bedrock_agent_kb_query_cross_account.yaml from the aws-samples GitHub repository. 
-           Log on to the agent account and navigate to the CloudFormation console, and verify you are in the us-west-2 (Oregon) Region, choose Create stack and choose With new resources (standard).  
-           In the Specify template section choose Upload a template file and then Choose file and select the file from (1). Then, choose Next. 
-           Enter the following stack details and choose Next. 
-             
-              
-               
-               Parameter 
-               Value 
-               Description 
-               
-               
-               Stack name 
-               bedrock-agent-connect-kb-cross-account-agent 
-               You can choose any name 
-               
-               
-               AgentFoundationModelId 
-               us.amazon.nova-pro-v1:0 
-               Do not change 
-               
-               
-               AgentLambdaExecutionRoleArn 
-               arn:aws:iam:: 111122223333:role/lambda_bedrock_kb_query_role 
-               Replace with you agent account number 
-               
-               
-               BedrockAgentDescription 
-               Agent to query inventory data from Redshift Serverless database 
-               Keep this as default 
-               
-               
-               BedrockAgentInstructions 
-               You are an assistant that helps users query inventory data from our Redshift Serverless database using the action group. 
-               Do not change 
-               
-               
-               BedrockAgentName 
-               bedrock_kb_query_cross_account 
-               Keep this as default 
-               
-               
-               KBFoundationModelId 
-               meta.llama3-1-70b-instruct-v1:0 
-               Do not change 
-               
-               
-               KnowledgeBaseId 
-               XXXXXXXXXX 
-               Knowledge base id from Step 4 
-               
-               
-               TargetRoleArn 
-               arn:aws:iam::999999999999:role/bedrock_kb_access_role 
-               Replace with you agent-kb account number 
-               
-              
-              
-           Complete the acknowledgement and choose Next. 
-           Scroll down through the page and choose Submit. 
-           You will see the CloudFormation stack is getting created as shown by the status CREATE_IN_PROGRESS. 
-           It will take a few minutes, and you will see the status change to CREATE_COMPLETE indicating creation of all resources. Choose the Outputs tab to make a note of the resources that were created. In summary, the CloudFormation script does the following in the agent account. 
-             
-              
-               
-                
-                 
-                 Creates a Bedrock agent 
-                 Creates an action group 
-                 Also creates a Lambda function which is invoked by the Bedrock action group 
-                 Defines the OpenAPI schema 
-                 Creates necessary roles and permissions for the Bedrock agent 
-                 Finally, it prepares the Bedrock agent so that it is ready to test. 
-                  
-                
-              
-            
-          
-        
-      
-   Check for model access in Oregon (us-west-2) 
-     
-      
-       
-        
-         
-          
-           
-           Verify Nova Pro (us.amazon.nova-pro-v1:0) model access in the agent account. Navigate to the Amazon Bedrock console and choose Model access under Configure and learn. Search for Model name : Nova Pro to verify access. If not, then enable model access.  
-           Verify access to the meta.llama3-1-70b-instruct-v1:0 model in the agent-kb account. This should already be enabled as we set up the knowledge base earlier. 
-            
-          
-        
-      
-   Run the agent. Log on to agent account. Navigate to Amazon Bedrock console and choose Agents under Build. 
-   Choose the name of the agent and choose Test. You can test the following questions as mentioned the workshop’s Stage 4: Test Natural Language Queries page. For example: 
-     
-      
-       
-        
-         
-          
-           
-           Who are the top 5 customers in Saudi Arabia? 
-           Who are the top parts supplier in the United States by volume? 
-           What is the total revenue by region for the year 1998? 
-           Which products have the highest profit margins? 
-           Show me orders with the highest priority from the last quarter of 1997. 
-            
-          
-        
-      
-   Choose Show trace to investigate the agent traces. 
+   Full access to Amazon SageMaker AI (for example, AmazonSageMakerFullAccess). 
+   Read/write access to S3 buckets for storing datasets and model artifacts. 
+   Permissions to push and pull Docker images from Amazon ECR (for example, AmazonEC2ContainerRegistryPowerUser). 
+   If using specific SageMaker instance types, make sure your service quotas are sufficient. 
     
- 
-Some recommended best practices: 
- 
-  
+ GitHub repository: Clone or download the project code from our GitHub repository. This repository contains the notebooks, scripts, and Docker artifacts referenced in this post. 
    
     
      
-     Phrase your question to be more specific 
-     Use terminology that matches your table descriptions 
-     Try questions similar to your curated examples 
-     Verify your question relates to data that exists in the TPCH dataset 
-     Use Amazon Bedrock Guardrails to add configurable safeguards to questions and responses. 
+     git clone https://github.com/aws-samples/sample-for-multi-modal-document-to-json-with-sagemaker-ai.git 
       
     
- 
-Clean up resources 
-It is recommended that you clean up any resources you do not need anymore to avoid any unnecessary charges: 
- 
-  
+ Local environment set up: 
    
+   Python: Python 3.10 or higher is recommended. 
+   AWS CLI: Make sure the AWS Command Line Interface (AWS CLI) is installed and configured with credentials that have the necessary permissions. 
+   Docker: Docker must be installed and running on your local machine if you plan to build the custom Docker container for deployment. 
+   Jupyter Notebook and Lab: To run the provided notebooks. 
+   Install the required Python packages by running pip install -r requirements.txt from the cloned repository’s root directory. 
     
-     
-     Navigate to the CloudFormation console for the agent and agent-kb account, search for the stack and and choose Delete. 
-     S3 buckets need to be deleted separately.  
-     For deleting the roles and policies created in both accounts, download the script delete-bedrock-agent-kb-roles-policies.sh from the aws-samples GitHub repository. 
-       
-       Open Terminal in Mac or similar bash shell on other platforms. 
-       Locate and change the directory to the downloaded location, provide executable permissions: 
-       
-       
-       cd /my/location
-			chmod +x delete-bedrock-agent-kb-roles-policies.sh 
-        
-     If you are still not clear on the script usage or inputs, then you can run the script with the –help option then the script will display the usage: ./ delete-bedrock-agent-kb-roles-policies.sh –help 
-     Run the script: delete-bedrock-agent-kb-roles-policies.sh with the same values for the same input parameters as in Step7 when running the create_bedrock_agent_kb_roles_policies.sh script. Note: Enter the correct account numbers for agent-account and agent-kb-account before running. 
-       
-       ./delete-bedrock-agent-kb-roles-policies.sh --agent-profile agent \ 
-  	--agent-kb-profile agent-kb \ 
-	  --lambda-role lambda_bedrock_kb_query_role \ 
-	  --kb-access-role bedrock_kb_access_role \ 
-	  --kb-access-policy bedrock_kb_access_policy \ 
-	  --lambda-policy lambda_bedrock_kb_query_policy \ 
-	  --agent-account 111122223333 \ 
-	  --agent-kb-account 999999999999 
-       The script will ask for a confirmation, say yes and press enter.  
-      
-    
- 
-Summary 
-This solution demonstrates how the Amazon Bedrock agent in the agent account can query the Amazon Bedrock knowledge base in the agent-kb account. 
-Conclusion 
-This solution uses Amazon Bedrock Knowledge Bases for structured data to create a more integrated approach to cross-account data access. The knowledge base in agent-kb account connects directly to Amazon Redshift Serverless in a private VPC. The Amazon Bedrock agent in the agent account invokes an AWS Lambda function as part of its action group to make a cross-account connection to retrieve response from the structured knowledge base. 
-This architecture offers several advantages: 
- 
-  
+ Familiarity (recommended): 
    
-    
-     
-     Uses Amazon Bedrock Knowledge Bases capabilities for structured data 
-     Provides a more seamless integration between the agent and the data source 
-     Maintains proper security boundaries between accounts 
-     Reduces the complexity of direct database access codes 
-      
+   Basic understanding of Python programming. 
+   Familiarity with AWS services, particularly SageMaker AI. 
+   Conceptual knowledge of LLMs, VLMs, and the container technology will be beneficial. 
     
  
-As Amazon Bedrock continues to evolve, you can take advantage of future enhancements to knowledge base functionality while maintaining your multi-account architecture. 
+Overview of document processing and generative AI approaches 
+There are varying degrees of autonomy in intelligent document processing. On one end of the spectrum are fully manual processes: Humans manually reading documents and entering the information into a form using a computer system. Most systems today are semi-autonomous document processing solutions. For example, a human taking a picture of a receipt and uploading it to a computer system that automatically extracts part of the information. The goal is to get to fully autonomous intelligent document processing systems. This means reducing the error rate and assessing the use case specific risk of errors.&nbsp;AI is significantly transforming document processing by enabling greater levels of automation. A variety of approaches exist, ranging in complexity and accuracy—from specialized models for OCR, to generative AI. 
+Specialized OCR models that don’t rely on generative AI are designed as pre-trained, task-specific ML models that excel at extracting structured information such as tables, forms, and key-value pairs from common document types like invoices, receipts, and IDs. Amazon Textract is one example of this type of service. This service offers high accuracy out of the box and requires minimal setup, making it well-suited for workloads where basic text extraction is required, and documents don’t vary significantly in structure or contain images. 
+However, as you increase the complexity and variability of documents, in addition to adding multimodality, using generative AI can help improve document processing pipelines. 
+While powerful, applying general-purpose VLMs or LLMs to document processing isn’t straightforward. Effective prompt engineering is important to guide the model. Processing large volumes of documents (scaling) requires efficient batching and infrastructure. Because LLMs are stateless, providing historical context or specific schema requirements for every document can be cumbersome. 
+Approaches to intelligent document processing that use LLMs or VLMs fall into four categories: 
  
+ Zero-shot prompting: the foundation model (FM) receives the result of previous OCR or a PDF and the instructions to perform the document processing task. 
+ Few-shot prompting: the FM receives the result of previous OCR or a PDF, the instructions to perform the document processing task, and some examples. 
+ Retrieval-augmented few-shot prompting: similar to the preceding strategy, but the examples sent to the model are selected dynamically using Retrieval Augmented Generation (RAG). 
+ Fine-tuning VLMs 
+ 
+In the following, you can see the relationship between increasing effort and complexity and task accuracy, demonstrating how different techniques—from basic prompt engineering to advanced fine-tuning—impact the performance of large and small base models compared to a specialized solution (inspired by the blog post Comparing LLM fine-tuning methods) 
+ 
+As you move across the horizontal axis, the strategies grow in complexity, and as you move up the vertical axis, you improve overall accuracy. In general, large base models provide better performance than small base models in the strategies that require prompt engineering, however as we explain in the results of this post, fine-tuning small base models can deliver similar results as fine-tuning large base models for a specific task. 
+Zero-shot prompting 
+Zero-shot prompting is a technique to use language models where the model is given a task without prior examples or fine-tuning. Instead, it relies solely on the prompt’s wording and its pre-trained knowledge to generate a response.&nbsp;In document processing, this approach involves giving the model either an image of a PDF document, the OCR-extracted text from the PDF, or a structured markdown representation of the document and providing instructions to perform the document processing task, in addition to the desired output format. 
+Amazon Bedrock Data Automation&nbsp;uses zero-shot prompting with generative AI to perform IDP. You can use Bedrock Data Automation to automate the transformation of multi-modal data—including documents containing text and complex structures, such as tables, charts and images—into structured formats. You can benefit from customization capabilities through the creation of blueprints that specify output requirements using natural language or a schema editor. Bedrock Data Automation can also extract bounding boxes for the identified entities and route documents appropriately to the correct blueprint. These features can be configured and used through a single API, making it significantly more powerful than a basic zero-shot prompting approach. 
+While out-of-the-box VLMs can handle general OCR tasks effectively, they often struggle with the unique structure and nuances of custom documents—such as invoices from diverse vendors. Although crafting a prompt for a single document might be straightforward, the variability across hundreds of vendor formats makes prompt iteration a labor-intensive and time-consuming process. 
+Few-shot prompting 
+Moving to a more complex approach, you have few-shot prompting, a technique used with LLMs where a small number of examples are provided within the prompt to guide the model in completing a specific task. Unlike zero-shot prompting, which relies solely on natural language instructions, few-shot prompting improves accuracy and consistency by demonstrating the desired input-output behavior through examples. 
+One alternative is to use the Amazon Bedrock Converse API to perform few shot prompting. Converse API&nbsp;provides a consistent way to access LLMs using Amazon Bedrock. It supports turn-based messages between the user and the generative AI model, and allows including documents as part of the content. Another option is using Amazon SageMaker Jumpstart, which you can use to deploy models from providers like HuggingFace. 
+However, most likely your business needs to process different types of documents (for example, invoices, contracts and hand written notes) and even within one document type there are many variations, for example, there is not one standardized invoice layout and instead each vendor has their own layout that you cannot control. Finding a single or a few examples that cover all the different documents you want to process is challenging. 
+Retrieval-augmented few-shot prompting 
+One way to address the challenge of finding the right examples is to dynamically retrieve previously processed documents as examples and add them to the prompt at runtime (RAG). 
+You can store a few annotated samples in a vector store and retrieve them based on the document that needs to be processed. Amazon Bedrock Knowledge Bases helps you implement the entire RAG workflow from ingestion to retrieval and prompt augmentation without having to build custom integrations to data sources and manage data flows. 
+This turns the intelligent document processing problem into a search problem, which comes with its own challenges on how to improve the accuracy of the search. In addition to how to scale for multiple types of documents, the few-shot approach is costly because every document processed requires a longer prompt with examples. This results in an increased number of input tokens. 
+ 
+As shown in the preceding figure, the prompt context will vary based on the strategy selected (zero-shot, few-shot or few-shot with RAG), which will overall change the results obtained. 
+Fine-tuning VLMs 
+At the end of the spectrum, you have the option to fine-tune a custom model to perform document processing.&nbsp;This is our recommended approach and what we focus on in this post. Fine-tuning is a method where a pre-trained LLM is further trained on a specific dataset to specialize it for a particular task or domain. In the context of document processing, fine-tuning involves using labeled examples—such as annotated invoices, contracts, or insurance forms—to teach the model exactly how to extract or interpret relevant information. Usually, the labor-intensive part of fine-tuning is acquiring a suitable, high-quality dataset. In the case of document processing, your company probably already has a historic dataset in its existing document processing system. You can export this data from your document processing system (for example from your enterprise resource planning (ERP) system) and use it as the dataset for fine-tuning. This fine-tuning approach is what we focus on in this post as a scalable, high accuracy, and cost-effective approach for intelligent document processing. 
+The preceding approaches represent a spectrum of strategies to improve LLM performance along two axes: LLM optimization (shaping model behavior through prompt engineering or fine-tuning) and context optimization (enhancing what the model knows at inference through techniques such as few-shot learning or RAG). These methods can be combined—for example, using RAG with few-shot prompts or incorporating retrieved data into fine-tuning—to maximize accuracy. 
+Fine-tuning VLMs for document-to-JSON conversion 
+Our approach—the recommended solution for cost-effective document-to-JSON conversion—uses a VLM and fine-tunes it using a dataset of historical documents paired with their corresponding ground-truth JSON that we consider as annotations. This allows the model to learn the specific patterns, fields, and output structure relevant to your historic data, effectively teaching it to read your documents and extract information according to your desired schema. 
+The following figure shows a high-level architecture of the document-to-JSON conversion process for fine-tuning VLMs by using historic data. This allows the VLM to learn from high data variations and helps ensure that the structured output matches the target system structure and format.&nbsp; 
+ 
+Fine-tuning offers several advantages over relying solely on OCR or general VLMs: 
+ 
+ Schema adherence: The model learns to output JSON matching a specific target structure, which is vital for integration with downstream systems like ERPs. 
+ Implicit field location: Fine-tuned VLMs often learn to locate and extract fields without explicit bounding box annotations in the training data, simplifying data preparation significantly. 
+ Improved text extraction quality: The model becomes more accurate at extracting text even from visually complex or noisy document layouts. 
+ Contextual understanding: The model can better understand the relationships between different pieces of information on the document. 
+ Reduced prompt engineering: Post fine-tuning, the model requires less complex or shorter prompts because the desired extraction behavior is built into its weights. 
+ 
+For our fine-tuning process, we selected the Swift framework. Swift provides a comprehensive, lightweight toolkit for fine-tuning various large language models, including VLMs like Qwen-VL and Llama-Vision. 
+Data preparation 
+To fine-tune the VLMs, you will use the Fatura2 dataset, a multi-layout invoice image dataset comprising 10,000 invoices with 50 distinct layouts. 
+The Swift framework expects training data in a specific JSONL (JSON Lines) format. Each line in the file is a JSON object representing a single training example. For multimodal tasks, this JSON object typically includes: 
+ 
+ messages: A list of conversational turns (for example, system, user, assistant). The user turn contains placeholders for images (for example, &lt;image&gt;) and the text prompt that guides the model. The assistant turn contains the target output, which in this case is the ground-truth JSON string. 
+ images: A list of relative paths—within the dataset directory structure—to the document page images (JPG files) relevant to this training example. 
+ 
+As with standard ML practice, the dataset is split into training, development (validation), and test sets to effectively train the model, tune hyperparameters, and evaluate its final performance on unseen data. Each document (which could be single-page or multi-page) paired with its corresponding ground-truth JSON annotation constitutes a single row or example in our dataset. In our use case, one training sample is the invoice image (or multiple images of document pages) and the corresponding detailed JSON extraction. This one-to-one mapping is essential for supervised fine-tuning. 
+The conversion process, detailed in the dataset creation notebook from the associated GitHub repo, involves several key steps: 
+ 
+ Image handling: If the source document is a PDF, each page is rendered into a high-quality PNG image. 
+ Annotation processing (fill missing values):&nbsp;We apply light pre-processing to the raw JSON annotation. Fine-tuning multiple models on an open source dataset, we observed that the performance increases when all keys are present in every JSON sample. To maintain this consistency, the target JSONs in the dataset are made to include the same set of top-level keys (derived from the entire dataset). If a key is missing for a particular document, it’s added with a null value. 
+ Key ordering: The keys within the processed JSON annotation are sorted alphabetically. This consistent ordering helps the model learn a stable output structure. 
+ Prompt construction: A user prompt is constructed. This prompt includes &lt;image&gt; tags (one for each page of the document) and explicitly lists the JSON keys the model is expected to extract. Including the JSON keys in the prompts improves the fine-tuned model’s performance. 
+ Swift formatting: These components (prompt, image paths, target JSON) are assembled into the Swift JSONL format. Swift datasets support multimodal inputs, including images, videos and audios. 
+ 
+The following is an example structure of a single training instance in Swift’s JSONL format, demonstrating how multimodal inputs are organized. This includes conversational messages, paths to images, and objects containing bounding box (bbox) coordinates for visual references within the text. For more information about how to create a custom dataset for Swift, see the Swift documentation. 
+ 
+  {
+  "messages": [
+    {"role": "system", "content": "Task definition"},
+    {"role": "user", "content": "&lt;image&gt;&lt;image&gt;... + optional text prompt"},
+    {"role": "assistant", "content": "JSON or text output with extracted data with &lt;bbox&gt; references."}
+  ],
+  "images": ["path/to/image1.png", "path/to/image2.png"]
+  "objects": {"ref": [], "bbox": [[90.9, 160.8, 135, 212.8], [360.9, 480.8, 495,   532.8]]} #Optional
+ }
+ 
+ 
+Fine-tuning frameworks and resources 
+In our evaluation of fine-tuning frameworks for use with SageMaker AI, we considered several prominent options highlighted in the community and relevant to our needs. These included Hugging Face Transformers, Hugging Face Autotrain, Llama Factory, Unsloth, Torchtune, and ModelScope SWIFT (referred to simply as SWIFT in this post, aligning with the SWIFT 2024 paper by Zhao and others.). 
+After experimenting with these, we decided to use SWIFT because of its lightweight nature, comprehensive support for various Parameter-Efficient Fine-Tuning (PEFT) methods like LoRA and DoRA, and its design tailored for efficient training of a wide array of models, including the VLMS used in this post (for example, Qwen-VL 2.5). Its scripting approach integrates seamlessly with SageMaker AI training jobs, allowing for scalable and reproducible fine-tuning runs in the cloud. 
+There are several strategies for adapting pre-trained models: full fine-tuning, where all model parameters are updated, PEFT, which offers a more efficient alternative by updating only a small new number of parameters (adapters), and quantization, a technique that reduces model size and speeds up inference using lower-precision formats (see Sebastian Rashka’s post on fine-tuning to learn more about each technique). 
+Our project uses LoRA and DoRA, as configured in the fine-tuning notebook. 
+The following is an example of configuring and running a fine-tuning job (LoRA) as a SageMaker AI training job using SWIFT and remote function. When executing this function, the fine-tuning will be executed remotely as a SageMaker AI training job. 
+ 
+ from sagemaker.remote_function import remote 
+import json 
+import os
+@remote (instance_type="ml.g6e.12xlarge", volume_size=200, use_spot_instances=True)
+def fine_tune_document (training_data_s3, train_data_path="train.jsonl" , validation_data_path="validation.jsonl"):
+    from swift.llm.sft import lim_sft, get_sft_main 
+    from swift.llm import sft_main
+    
+    ## copy the training data from input source to local directory
+        ...
+    train_data_local_path = ...
+    validation_data_local_path = ...
+    # set and run the fine-tuning using ms-swift framework
+    os.environ["SIZE_FACTOR"] = json.dumps(8)# can be increase but requires more GPU memory
+    os.environ["MAX_PIXELS"]= json.dumps (602112) # can be increase but requires more GPU memory os. environ ["CUDA_VISIBLE_DEVICES"]="0,1,2,3" # GPU devices to be used os. environ ["NPROC_PER_NODE"]="4" # we have 4 GPUs on on instance
+    os.environ["USE_H_TRANSFER"] = json.dumps (1)
+    argv = ['—model_type', 'qwen2_5_vl',
+    '-model_id_or_path', 'Qwen/Qwen2.5-VL-3B-Instruct'
+    '--train_type', 'lora'
+    '--use_dora', 'true'
+    '-output_dir', checkpoint_dir,
+    '—max_length', '4096'
+    '-dataset', train_data_local_path,
+    '--val_dataset', validation_data_local_path,
+	...
+    ]
+    
+    sft_main (argv)
+## potentially evaluate inference on test dataset return "done" 
+ 
+Fine-tuning VLMs typically requires GPU instances because of their computational demands. For models like Qwen2.5-VL 3B, an instance such as an Amazon SageMaker AI ml.g5.2xlarge or ml.g6.8xlarge can be suitable. Training time is a function of dataset size, model size, batch size, number of epochs, and other hyperparameters. For instance, as noted in our project readme.md, fine-tuning Qwen2.5 VL 3B on 300 Fatura2 samples took approximately 2,829 seconds (roughly 47 minutes) on an ml.g6.8xlarge instance using Spot pricing. This demonstrates how smaller models, when fine-tuned effectively, can deliver exceptional performance cost-efficiently. Larger models like Llama-3.2-11B-Vision would generally require more substantial GPU resources (for example, ml.g5.12xlarge or larger) and longer training times. 
+Evaluation and visualization of structured outputs (JSON) 
+A key aspect of any automation or machine learning project is evaluation. Without evaluating your solution, you don’t know how well it performs at solving your business problem. We wrote an evaluation notebook that you can use as a framework.&nbsp;Evaluating the performance of document-to-JSON models involves comparing the model-generated JSON outputs for unseen input documents (test dataset) against the ground-truth JSON annotations. 
+Key metrics employed in our project include: 
+ 
+ Exact match (EM) – accuracy: This metric measures whether the extracted value for a specific field is an exact character-by-character match to the ground-truth value. It’s a strict metric, often reported as a percentage. 
+ Character error rate (CER) – edit distance: calculates the minimum number of single-character edits (insertions, deletions, or substitutions) required to change the model’s predicted string into the ground-truth string, typically normalized by the length of the ground-truth string. A lower CER indicates better performance. 
+ Recall-Oriented Understudy for Gisting Evaluation (ROGUE): This is a suite of metrics that compare n-grams (sequences of words) and the longest common subsequence between the predicted output and the reference. While traditionally used for text summarization, ROUGE scores can also provide insights into the overall textual similarity of the generated JSON string compared to the ground truth. 
+ 
+Visualizations are helpful for understanding model performance nuances. The following edit distance heatmap image provides a granular view, showing how closely the predictions match the ground truth (green means the model’s output exactly matches the ground truth, and shades of yellow, orange, and red depict increasing deviations). Each model has its own bar chart, allowing quick comparison across models.&nbsp;The X-axis is the number of sample documents. In this case, we ran inference on 250 unseen samples from the Fatura2 dataset. The Y-axis shows the JSON keys that we asked the model to extract; which will be different for you depending on what structure your downstream system requires. 
+In the image, you can see the performance of three different models on the Fatura2 dataset. From left to right: Qwen2.5 VL 3B fine-tuned on 300 samples from the Fatura2 dataset, in the middle Qwen2.5 VL 3B without fine-tuning (labeled vanilla), and Llama 3.2 11B vision fine-tuned on 1,000 samples. 
+The grey color shows the samples for which the Fatura2 dataset doesn’t contain any ground truth, which is why those are the same across the three models. 
+For a detailed, step-by-step walk-through of how the evaluation metrics are calculated, the specific Python code used, and how the visualizations are generated, see the comprehensive evaluation notebook in our project. 
+ 
+The image shows that Qwen2.5 vanilla is only decent at extracting the Title and Seller Name from the document. For the other keys it makes more than six character edit mistakes. However, out of the box Qwen2.5 is good at adhering to the JSON schema with only a few predictions where the key is missing (dark blue color) and no predictions of JSON that couldn’t be parsed (for example, missing quotation marks, missing parentheses, or a missing comma). Examining the two fine-tuned models, you can see improvement in performance with most samples, exactly matching the ground truth on all keys. There are only slight differences between fine-tuned Qwen2.5 and fine-tuned Llama 3.2, for example fine-tuned Qwen2.5 slightly outperforms fine-tuned Llama 3.2 on Total, Title, Conditions, and Buyer; whereas fine-tuned Llama 3.2 slightly outperforms fine-tuned Qwen2.5 on Seller Address, Discount, Tax, and Discount. 
+The goal is to input a document into your fine-tuned model and receive a clean, structured JSON object that accurately maps the extracted information to predefined fields. JSON-constrained decoding enforces adherence to a specified JSON schema during inference and is useful to make sure the output is valid JSON. For the Fatura2 dataset, this approach was not necessary—our fine-tuned Qwen 2.5 model consistently produced valid JSON outputs without additional constraints. However, incorporating constrained decoding remains a valuable safeguard, particularly for production environments where output reliability is critical. 
+Notebook 07 visualizes the input document and the extracted JSON data side-by-side. 
+Deploying the fine-tuned model 
+After you fine-tune a model and evaluate it on your dataset, you will want to deploy it to run inference to process your documents. Depending on your use case, a different deployment option might be more suitable. 
+Option a: vLLM container extended for SageMaker 
+To deploy our fine-tuned model for real-time inference, we use SageMaker endpoints. SageMaker endpoints provide fully managed hosting for real-time inference for FMs, deep learning, and other ML models and allows managed autoscaling and cost optimal deployment techniques. The process, detailed in our deploy model notebook, involves building a custom Docker container. This container packages the vLLM serving engine, highly optimized for LLM and VLM inference, along with the Swift framework components needed to load our specific model and adapter. vLLM provides an OpenAI-compatible API server by default, suitable for handling document and image inputs with VLMs. Our custom docker-artifacts and Dockerfile adapts this vLLM base for SageMaker deployment. Key steps include: 
+ 
+ Setting up the necessary environment and dependencies. 
+ Configuring an entry point that initializes the vLLM server. 
+ Making sure the server can load the base VLM and dynamically apply our fine-tuned LoRA adapter. The Amazon S3 path to the adapter (model.tar.gz) is passed using the ADAPTER_URI environment variable when creating the SageMaker model. 
+ The container, after being built and pushed to Amazon ECR, is then deployed to a SageMaker endpoint, which listens for invocation requests and routes them to the vLLM engine inside the container. 
+ 
+The following image shows a SageMaker vLLM deployment architecture, where a custom Docker container from Amazon ECR is deployed to a SageMaker endpoint. The container uses vLLM’s OpenAI-compatible API and Swift to serve a base VLM with a fine-tuned LoRA adapter dynamically loaded from Amazon S3. 
+ 
+Option b (optional): Inference components on SageMaker 
+For more complex inference workflows that might involve sophisticated pre-processing of input documents, post-processing of the extracted JSON, or even chaining multiple models (for example, a classification model followed by an extraction model), Amazon SageMaker inference components offer enhanced flexibility. You can use them to build a pipeline of multiple containers or models within a single endpoint, each handling a specific part of the inference logic. 
+Option c: Custom model inference in Amazon Bedrock 
+You can now import your custom models in Amazon Bedrock and then use Amazon Bedrock features to make inference calls to the model. Qwen 2.5 architecture is supported (see Supported Architectures). For more information, see Amazon Bedrock Custom Model Import now generally available. 
+Clean up 
+To avoid ongoing charges, it’s important to remove the AWS resources created for this project when you’re finished. 
+ 
+ SageMaker endpoints and models: 
+   
+   In the AWS Management Console for SageMaker AI, go to Inference and then Endpoints. Select and delete endpoints created for this project. 
+   Then, go to Inference and then Models and delete the associated models. 
+    
+ Amazon S3 data: 
+   
+   Navigate to the Amazon S3 console. 
+   Delete the S3 buckets or specific folders or prefixes used for datasets, model artifacts (for example, model.tar.gz from training jobs), and inference results. Note: Make sure you don’t delete data needed by other projects. 
+    
+ Amazon ECR images and repositories: 
+   
+   In the Amazon ECR console, delete Docker images and the repository created for the custom vLLM container if you deployed one. 
+    
+ CloudWatch logs (optional): 
+   
+   Logs from SageMaker activities are stored in Amazon CloudWatch. You can delete relevant log groups (for example, /aws/sagemaker/TrainingJobsand /aws/sagemaker/Endpoints) if desired, though many have automatic retention policies. 
+    
+ 
+Important: Always verify resources before deletion. If you experimented with Amazon Bedrock custom model imports, make sure those are also cleaned up. Use AWS Cost Explorer to monitor for unexpected charges. 
+Conclusion and future outlook 
+In this post, we demonstrated that fine-tuning VLMs provides a powerful and flexible approach to automate and significantly enhance document understanding capabilities. We have also demonstrated that using focused fine-tuning allows smaller, multi-modal models to compete effectively with much larger counterparts (98% accuracy with Qwen2.5 VL 3B). The project also highlights that fine-tuning VLMs for document-to-JSON processing can be done cost-effectively by using Spot instances and PEFT methods (approximately $1 USD to fine-tune a 3 billion parameter model on around 200 documents). 
+The fine-tuning task was conducted using Amazon SageMaker training jobs and the Swift framework, which proved to be a versatile and effective toolkit for orchestrating this fine-tuning process. 
+The potential for enhancing and expanding this work is vast. Some exciting future directions include deploying structured document models on CPU-based, serverless compute like AWS Lambda or Amazon SageMaker Serverless Inference using tools like llama.cpp or vLLM. Using quantized models can enable low-latency, cost-efficient inference for sporadic workloads. Another future direction includes improving evaluation of structured outputs by going beyond field-level metrics. This includes validating complex nested structures and tables using methods like tree edit distance for tables (TEDS). 
+The complete code repository, including the notebooks, utility scripts, and Docker artifacts, is&nbsp;available on GitHub to help you get started unlocking insights from your documents. For a similar approach, using Amazon Nova, please refer to this AWS blog for optimizing document AI and structured outputs by fine-tuning Amazon Nova Models and on-demand inference. 
  
 About the Authors 
-Kunal Ghosh is an expert in AWS technologies. He passionate about building efficient and effective solutions on AWS, especially involving generative AI, analytics, data science, and machine learning. Besides family time, he likes reading, swimming, biking, and watching movies, and he is a foodie. 
-Arghya Banerjee is a Sr. Solutions Architect at AWS in the San Francisco Bay Area, focused on helping customers adopt and use the AWS Cloud. He is focused on big data, data lakes, streaming and batch analytics services, and generative AI technologies. 
-Indranil Banerjee is a Sr. Solutions Architect at AWS in the San Francisco Bay Area, focused on helping customers in the hi-tech and semi-conductor sectors solve complex business problems using the AWS Cloud. His special interests are in the areas of legacy modernization and migration, building analytics platforms and helping customers adopt cutting edge technologies such as generative AI. 
-Vinayak Datar is Sr. Solutions Manager based in Bay Area, helping enterprise customers accelerate their AWS Cloud journey. He’s focusing on helping customers to convert ideas from concepts to working prototypes to production using AWS generative AI services.
+Arlind Nocaj is a GTM Specialist Solutions Architect for AI/ML and Generative AI for Europe central based in AWS Zurich Office, who guides enterprise customers through their digital transformation journeys. With a PhD in network analytics and visualization (Graph Drawing) and over a decade of experience as a research scientist and software engineer, he brings a unique blend of academic rigor and practical expertise to his role. His primary focus lies in using the full potential of data, algorithms, and cloud technologies to drive innovation and efficiency. His areas of expertise include Machine Learning, Generative AI and in particular Agentic systems with Multi-modal LLMs for document processing and structured insights. 
+Malte Reimann is a Solutions Architect based in Zurich, working with customers across Switzerland and Austria on their cloud initiatives. His focus lies in practical machine learning applications—from prompt optimization to fine-tuning vision language models for document processing. The most recent example, working in a small team to provide deployment options for Apertus on AWS. An active member of the ML community, Malte balances his technical work with a disciplined approach to fitness, preferring early morning gym sessions when it’s empty. During summer weekends, he explores the Swiss Alps on foot and enjoying time in nature. His approach to both technology and life is straightforward: consistent improvement through deliberate practice, whether that’s optimizing a customer’s cloud deployment or preparing for the next hike in the clouds. 
+ Nick McCarthy is a Senior Generative AI Specialist Solutions Architect on the Amazon Bedrock team, focused on model customization. He has worked with AWS clients across a wide range of industries — including healthcare, finance, sports, telecommunications, and energy — helping them accelerate business outcomes through the use of AI and machine learning. Outside of work, Nick loves traveling, exploring new cuisines, and reading about science and technology. He holds a Bachelor’s degree in Physics and a Master’s degree in Machine Learning. 
+Irene Marban Alvarez is a Generative AI Specialist Solutions Architect at Amazon Web Services (AWS), working with customers in the United Kingdom and Ireland. With a background in Biomedical Engineering and Masters in Artificial Intelligence, her work focuses on helping organizations leverage the latest AI technologies to accelerate their business. In her spare time, she loves reading and cooking for her friends.
+• How Clario automates clinical research analysis using generative AI on AWS
+  Clinical outcome assessment (COA) interviews are important instruments in clinical trials for evaluating the efficacy and safety of treatments. In studies of psychosis, anxiety, and mood disorders, these assessments often determine the success or failure of the trial, highlighting the importance of data quality and reliability. The traditional approach to evaluating the quality of these outcomes is complex and involves time-consuming, logistically challenging reviews of audio-video recordings in near real time. Interview evaluation variability, poor assessment technique, and other factors can introduce noise, leading to unreliable results and potentially to study failure. 
+About Clario 
+Clario&nbsp;is a leading provider of endpoint data solutions for systematic collection, management, and analysis of specific, pre-defined outcomes (endpoints) to evaluate a treatment’s safety and effectiveness in the clinical trials industry. Clario generates high-quality clinical evidence for life sciences companies seeking to bring new therapies to patients. Since its founding over 50 years ago, Clario has deployed endpoint data solutions over 30,000 times, supporting over 710 novel drug regulatory approvals across more than 100 countries. 
+In this post, we demonstrate how Clario has used Amazon Bedrock and other AWS services to build an AI-powered solution that automates and improves the analysis of COA interviews. We discuss how Clario: 
+ 
+ implemented speaker diarization, multi-lingual transcription, and large language models (LLMs) 
+ used vector databases and semantic search to evaluate interview quality 
+ incorporated automation into complex assessment reviews while maintaining regulatory compliance 
+ 
+Business challenge 
+Clario sought to transform their COA review methodology to enhance operational effectiveness while also increasing data quality. The company required a system that could address the critical challenges of standardized review of multi-lingual data at a global scale, while reducing natural variation between different expert reviewers, and maintaining uniform assessment quality across the complex COA interview process. The solution also needed to efficiently manage large volumes of audio recordings while meeting strict regulatory and privacy requirements. Clario sought capabilities that could automatically analyze speech and dialogue in near real time during COA interviews to potentially enable: 
+ 
+ Reduced subjectivity and variability – Delivering more consistent and reliable behavioral health assessments, minimizing site and rater bias. 
+ Enhanced data quality and credibility – Improving the robustness of trial outcomes with objective, standardized, and repeatable interview evaluations. 
+ Streamlined operations – Automated complex assessment review and scoring could save time and resources for geographically dispersed sites and sponsor-level clinical teams. 
+ Accelerated decision-making – Gaining clearer insights earlier could support faster, evidence-based go or no-go decisions for the trial sponsors. 
+ 
+Solution 
+To address this challenge, Clario chose AWS for its comprehensive artificial intelligence and machine learning (AI/ML) capabilities, proven ability to deploy HIPAA-compliant services at a global scale. Clario used the power of generative AI and Amazon Bedrock, a fully managed service that provides access to a diverse range of high-performing foundation models, to offer several key advantages: 
+ 
+ No infrastructure management&nbsp;– Alleviate the operational overhead of managing AI model infrastructure and updates 
+ Multiple model access&nbsp;– Compare and select from leading foundation models to optimize performance for their specific COA analysis needs 
+ Built-in compliance features&nbsp;– Native support for data governance, audit trails, and regulatory requirements essential for clinical research 
+ Rapid prototyping and deployment&nbsp;– Accelerated time-to-market through serverless architecture and pre-built integrations 
+ Seamless AWS system integration&nbsp;– Native compatibility with existing AWS services for data storage, processing, and analytics 
+ Enterprise security and privacy controls&nbsp;– Advanced encryption, access controls, and data residency options to help meet stringent industry standards 
+ Continuous model improvements&nbsp;– Automatic access to model updates and new capabilities, reducing migration complexity 
+ 
+This comprehensive approach enabled Clario to focus on their core competency—clinical research excellence—while using cutting-edge AI capabilities through a trusted, compliance-aligned system. 
+The solution integrates advanced AI capabilities, including speaker diarization, multi-lingual transcription, semantic search, and agentic AI, to automatically review the quality of complex COA interviews in a manner similar to expert human central reviewers. The workflow orchestrates multiple steps where audio data is first analyzed to identify the unique speakers in the interview based on their voice, followed by speech-to-text conversion, and speaker role attribution to determine which speech corresponds to the interviewer and the study participant. 
+This information is segmented into semantically meaningful chunks based on speaker turns and natural conversation boundaries, with each segment maintaining crucial metadata. Examples of metadata include timestamps, speaker role, and positional context. These chunks are then vectorized and stored in an Amazon OpenSearch vector database, enabling the system to overcome the context window limitations of foundation models when processing lengthy interviews. The solution implements a sophisticated retrieval strategy where: 
+ 
+ Overlapping windows makes sure that contextual information is not lost at segment boundaries 
+ Targeted semantic searches identify specific dialogue segments relevant to each assessment criterion 
+ A hierarchical approach preserves both local conversational flow and global interview context through interview-level summaries and speaker roles 
+ Rolling context windows can be dynamically assembled when evaluating criteria that span multiple segments 
+ 
+This architecture allows the system to efficiently handle multiple queries against the same interview data while maintaining contextual relationships throughout the conversation. The system uses this semantic retrieval capability to analyze the content of the dialogue between the interviewer and the participant, evaluating it against a structured interview guide and central review checklist. The output of the workflow includes a quality rating for the interview, along with structured feedback for each checklist item, specifying where the interview diverges from the established standards. The overall system provides near real-time insights into the quality and reliability of the COA interview, supporting faster evidence-based go or no-go decisions for sponsors of clinical trials. 
+Solution architecture 
+The following architecture diagram illustrates the solution implementation: 
+ 
+The workflow consists of the following steps: 
+ 
+ The COA interview recordings (audio and video files) from the interviews are collected on premises (1) using a recording application. The files are uploaded using&nbsp;AWS Direct Connect&nbsp;with encryption in transit to Amazon Simple Storage Service (Amazon S3)(2). The uploaded documents are then automatically stored with server-side object-level encryption. 
+ After the files are uploaded, Clario’s AI Orchestration Engine (3) extracts the audio and identifies speech segments of unique speakers using a custom speaker diarization model on Amazon SageMaker (4). 
+ The Orchestration Engine also invokes the Amazon Bedrock API for automated audio transcription. Clario uses the Whisper model from the Amazon Bedrock Marketplace (5) to generate near real-time transcriptions of the COA interview recordings. The transcriptions are then annotated with speaker information and timecodes, and then vectorized using an embedding model (Amazon Titan Text Embeddings v2 model) and stored into Amazon OpenSearch (7) for semantic retrieval. 
+ After the information has been vectorized and stored, Clario’s AI Orchestration Engine executes a graph-based agent system running on Amazon Elastic Kubernetes Service (Amazon EKS)(3) for automated COA interview review. The agent implements a multi-step workflow that: (1) retrieves the assessment’s structured interview guide from configuration, (2) loads the corresponding central review checklist criteria, and (3) systematically queries Amazon OpenSearch (7) to extract relevant interview segments. Using the pre-configured graph structure for the task at hand, the agent traverses predefined decision nodes to compare interview responses against standardized assessment criteria, identify gaps or inconsistencies, and generate structured findings with supporting evidence citations. 
+ The agent uses advanced large language models (LLMs), such as Anthropic Claude 3.7 Sonnet from Amazon Bedrock (6), to classify the speech segment as interviewer or participant, and to determine if each interview turn meets the interview quality criteria. 
+ Clario’s AI Orchestration Engine then compiles the overall review of the interview and persists the information in Amazon Relational Database Service (Amazon RDS)(8). 
+ Results of the AI-powered automated review can be retrieved by a client application (9) by invoking a Rest API using Amazon API Gateway endpoints (10). 
+ 
+Benefits and results 
+The initial implementation of this AI-powered solution is showing promise in improving Clario’s clinical trial processes: 
+ 
+ Operational efficiency 
+   
+   Potential to decrease manual review effort by over 90%. 
+    
+ Quality improvements 
+   
+   Up to 100% data coverage through automated review versus human-only review of a smaller subset of recordings to spot check quality. 
+   Highly targeted interventions might be enabled with rapid turnaround, focusing only on those raters and sites that require remediation. 
+    
+ Business impact 
+   
+   Potential to shorten turn-around time by decreasing central review time from weeks to hours. 
+   Enhanced data reliability for regulatory submissions. 
+   Reduced risk of study failure and uninterpretable results. 
+   Improved scalability of clinical trial operations. 
+    
+ 
+Lessons learned and best practices 
+Throughout the development and deployment of this solution, Clario has gained valuable insights and lessons learned that can benefit other organizations looking to implement similar AI-powered systems: 
+ 
+ Importance of responsible AI development and use – During initial testing, Clario discovered that LLMs would occasionally generate plausible sounding but inaccurate summaries. This critical finding reinforced the importance of responsible AI practices in healthcare applications. This led Clario to implement a validation system where AI outputs are cross-checked against source documents for factual accuracy before human review. 
+ Continuous model evaluation – Clario adopted a rigorous model evaluation process to maintain the highest standards of quality and reliability in their AI-powered COA interview analysis solution. Clario regularly assessed the performance and accuracy of their AI models through multiple approaches, including comparative studies on custom datasets, across multiple models and configurations. 
+ Scalable and more secure architecture – The serverless, cloud-based architecture of the solution–using services like Amazon Bedrock, Amazon S3, and AWS Lambda–helped Clario to scale their solution effectively while prioritizing data security and compliance. 
+ 
+Next steps and conclusion 
+Clario’s innovative solution has the potential to transform the way COAs are reviewed and rated, significantly improving the reliability of clinical trial data and reducing the time and effort required for manual review. As Clario continues to refine and expand the capabilities of this AI-powered system, Clario is exploring additional use cases in neuroscience studies that rely on clinical interviews for evaluating the safety and efficacy of treatments. 
+By using generative AI and the robust features of Amazon Bedrock, Clario has set a new standard for clinical trial data analysis. This empowers their customers to make more informed decisions and accelerate the development of life-changing therapies. 
+ 
+About the authors 
+Alex Boudreau is the Director of AI at Clario. He leads the company’s innovative Generative AI department and oversees the development of the company’s advanced multi-modal GenAI Platform, which encompasses cutting-edge cloud engineering, AI engineering, and foundational AI research. Alex previously pioneered Deep Learning speech analysis systems for automotive applications, led cloud-based enterprise fraud detection solutions, advanced conversational AI technologies, and groundbreaking projects in medical image analysis. His expertise in leading high-impact initiatives positions him uniquely to drive forward the boundaries of AI technology in the business world. 
+Cuong Lai is the Technical Team Lead for the Generative AI team at Clario, where he helps to drive the development and scaling of the company’s generative AI platform. With over eight years of software engineering experience, he specializes in web development, API design, and architecting cloud-native solutions. Cuong has extensive experience leveraging AWS services to build secure, reliable, and high-performance systems that support large-scale AI workloads. He is passionate about advancing generative AI technologies and delivering innovative, production-ready AI solutions. 
+Praveen Haranahalli is a Senior Solutions Architect at Amazon Web Services (AWS), where he architects secure, scalable cloud solutions and provides strategic guidance to diverse enterprise customers. With nearly two decades of IT experience, Praveen has delivered transformative implementations across multiple industries. As a trusted technical advisor, he partners with customers to implement robust DevSecOps pipelines, establish comprehensive security guardrails, and develop innovative AI/ML solutions. He is passionate about solving complex business challenges through cutting-edge cloud architectures and empowering organizations to achieve successful digital transformations powered by artificial intelligence and machine learning.
 • Democratizing AI: How Thomson Reuters Open Arena supports no-code AI for every professional with Amazon Bedrock
   This post is cowritten by Laura Skylaki, Vaibhav Goswami, Ramdev Wudali and Sahar El Khoury from Thomson Reuters. 
 Thomson Reuters (TR) is a leading AI and technology company dedicated to delivering trusted content and workflow automation solutions. With over 150 years of expertise, TR provides essential solutions across legal, tax, accounting, risk, trade, and media sectors in a fast-evolving world. 
