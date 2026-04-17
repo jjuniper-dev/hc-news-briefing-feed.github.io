@@ -6,6 +6,15 @@
   <title>RSS Feed Health Dashboard</title>
   <style>
     body { font-family: sans-serif; margin: 2rem; }
+    h1 {
+      display: inline-block;
+      padding: 0.35rem 0.8rem;
+      border-radius: 0.6rem;
+      color: #fff;
+      background: linear-gradient(120deg, #0a84ff, #5e5ce6, #30d158);
+      background-size: 220% 220%;
+      animation: gradient-shift 5s ease infinite;
+    }
     table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
     th, td { border: 1px solid #ccc; padding: 0.5rem; text-align: left; }
     th { background: #f0f0f0; }
@@ -15,6 +24,34 @@
     #uptime-list { margin-top: 1rem; list-style: none; padding: 0; }
     #uptime-list li { margin-bottom: 0.5rem; }
     #latest-briefing { white-space: pre-wrap; border: 1px solid #ccc; padding: 1rem; background: #f9f9f9; margin-top: 1rem; }
+    #latest-briefing.loading {
+      color: transparent;
+      background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 37%, #f0f0f0 63%);
+      background-size: 400% 100%;
+      animation: shimmer 1.3s linear infinite;
+      min-height: 8rem;
+      user-select: none;
+    }
+    tr.data-row {
+      opacity: 0;
+      transform: translateY(10px);
+      animation: row-in 420ms ease forwards;
+    }
+    @keyframes shimmer {
+      0% { background-position: 100% 0; }
+      100% { background-position: -100% 0; }
+    }
+    @keyframes gradient-shift {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+    @keyframes row-in {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
   </style>
 </head>
 <body>
@@ -37,15 +74,21 @@
     document.addEventListener('DOMContentLoaded', async () => {
       const baseURL = 'https://jjuniper-dev.github.io/hc-news-briefing-feed.github.io/';
 
+      const latestBriefingEl = document.getElementById('latest-briefing');
+      latestBriefingEl.classList.add('loading');
+
       // Load health.json and populate health table
       try {
         const res = await fetch(baseURL + 'health.json');
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const data = await res.json();
         const tbody = document.querySelector('#health-table tbody');
+        let rowIndex = 0;
         for (const [date, feeds] of Object.entries(data).slice(-5).reverse()) {
           for (const [name, status] of Object.entries(feeds)) {
             const tr = document.createElement('tr');
+            tr.className = 'data-row';
+            tr.style.animationDelay = `${Math.min(rowIndex * 45, 500)}ms`;
             const cls = status.startsWith('ERROR') ? 'bad'
                       : status === 'ZERO'      ? 'warn'
                       : 'good';
@@ -55,6 +98,7 @@
               <td class="${cls}" title="${status}">${status}</td>
             `;
             tbody.appendChild(tr);
+            rowIndex++;
           }
         }
       } catch (err) {
@@ -103,10 +147,12 @@
         const res3 = await fetch(baseURL + 'latest.txt');
         if (!res3.ok) throw new Error(`HTTP ${res3.status}`);
         const text = await res3.text();
-        document.getElementById('latest-briefing').textContent = text.trim();
+        latestBriefingEl.classList.remove('loading');
+        latestBriefingEl.textContent = text.trim();
       } catch (err) {
         console.error('Failed to load latest briefing:', err);
-        const pre = document.getElementById('latest-briefing');
+        const pre = latestBriefingEl;
+        pre.classList.remove('loading');
         pre.classList.add('bad');
         pre.textContent = `Error loading latest briefing: ${err.message}`;
       }
