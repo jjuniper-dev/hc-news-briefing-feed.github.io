@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Model Viability Matrix</title>
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+</head>
+<body style="margin:0;">
+  <div id="root"></div>
+
+  <script type="text/babel">
+    const { useState } = React;
+
+    const JOB = "Architecture Fitness Agent";
+    const JOB_REQS = [
+      "Multi-MCP tool orchestration (3 servers)",
+      "Vision / diagram analysis",
+      "Structured JSON output",
+      "PBMM / ITSG-33 governance reasoning",
+      "Data sovereignty (GC context)",
+    ];
+
+    // Cost basis: 50 assessments/month, ~10K input + 2K output tokens each
+    const INPUT_M = 0.5;
+    const OUTPUT_M = 0.1;
+
+    const TIER_COLORS = {
+      "Proprietary API": "#0078D4",
+      "Open Source — Self-hosted": "#107C10",
+      "Open Source — API": "#835B00",
+    };
+
+    const models = [
+      {
+        name: "Claude Sonnet 4.6",
+        vendor: "Anthropic",
+        tier: "Proprietary API",
+        sourceUrl: "https://platform.claude.com",
+        license: "Commercial",
+        mcp: "✓ Full (tool_reference)",
+        vision: "✓ Native",
+        structuredOutput: "✓ GA",
+        reasoning: "✓ Strong",
+        sovereignty: "⚠ API · no CA data residency",
+        inputPer1M: 3.0,
+        outputPer1M: 15.0,
+        role: "Primary orchestrator",
+        verdict: "MINIMUM VIABLE",
+        verdictColor: "#107C10",
+        notes:
+          "Only model with native tool_reference support required for MCP tool search across 276+ Azure tools. Best-in-class instruction following and structured output reliability. No Canadian data residency option — data processed on Anthropic’s AWS infrastructure.",
+        hardware: null,
+        gcNote: "⚠ Data leaves CA sovereign boundary",
+      },
+      {
+        name: "Claude Opus 4.6",
+        vendor: "Anthropic",
+        tier: "Proprietary API",
+        sourceUrl: "https://platform.claude.com",
+        license: "Commercial",
+        mcp: "✓ Full (tool_reference)",
+        vision: "✓ Native",
+        structuredOutput: "✓ GA",
+        reasoning: "✓ Best-in-class",
+        sovereignty: "⚠ API · no CA data residency",
+        inputPer1M: 5.0,
+        outputPer1M: 25.0,
+        role: "Deep ARB reviews",
+        verdict: "BEST QUALITY",
+        verdictColor: "#0078D4",
+        notes:
+          "Strongest reasoning for complex PBMM / ARB submissions. 1M context. Overkill for routine assessments — use for high-stakes governance reviews only.",
+        hardware: null,
+        gcNote: "⚠ Data leaves CA sovereign boundary",
+      },
+      {
+        name: "Claude Haiku 4.5",
+        vendor: "Anthropic",
+        tier: "Proprietary API",
+        sourceUrl: "https://platform.claude.com",
+        license: "Commercial",
+        mcp: "✗ No tool_reference",
+        vision: "✓ Native",
+        structuredOutput: "✓ GA",
+        reasoning: "◑ Limited",
+        sovereignty: "⚠ API · no CA data residency",
+        inputPer1M: 1.0,
+        outputPer1M: 5.0,
+        role: "Sub-agents only",
+        verdict: "NOT VIABLE (orchestrator)",
+        verdictColor: "#C50F1F",
+        notes:
+          "Cannot act as orchestrator — Haiku models do not support tool_reference blocks required for MCP tool search. Use only for simple sub-agent tasks (NIST control lookups, ADO item creation) where the parent orchestrator is Sonnet or higher.",
+        hardware: null,
+        gcNote: "⚠ Data leaves CA sovereign boundary",
+      },
+      {
+        name: "GPT-5.4",
+        vendor: "OpenAI",
+        tier: "Proprietary API",
+        sourceUrl: "https://openai.com/api/pricing",
+        license: "Commercial",
+        mcp: "✓ Via OpenAI MCP client",
+        vision: "✓ Native",
+        structuredOutput: "✓ Strong",
+        reasoning: "✓ Strong",
+        sovereignty: "◑ Azure CA East (+10%)",
+        inputPer1M: 2.5,
+        outputPer1M: 15.0,
+        role: "Primary orchestrator (alt)",
+        verdict: "VIABLE",
+        verdictColor: "#107C10",
+        notes:
+          "OpenAI adopted MCP in March 2025 — tool use and function calling are strong. Can deploy via Azure Canada East with data residency (+10% regional surcharge). Best Canadian sovereignty option among proprietary models. 1M context, strong vision. Slightly cheaper on input than Sonnet 4.6.",
+        hardware: null,
+        gcNote: "✓ Azure Canada East deployment available (+10% surcharge)",
+        azureNote: true,
+      },
+      {
+        name: "GPT-5.4-mini",
+        vendor: "OpenAI",
+        tier: "Proprietary API",
+        sourceUrl: "https://openai.com/api/pricing",
+        license: "Commercial",
+        mcp: "✓ Via OpenAI MCP client",
+        vision: "✓ Native",
+        structuredOutput: "✓ Good",
+        reasoning: "◑ Lighter",
+        sovereignty: "◑ Azure CA East (+10%)",
+        inputPer1M: 0.4,
+        outputPer1M: 1.6,
+        role: "Sub-agents / high volume",
+        verdict: "VIABLE (sub-agents)",
+        verdictColor: "#835B00",
+        notes:
+          "Strong value for sub-agent tasks. Azure Canada East deployment available. Lighter reasoning than full GPT-5.4 — adequate for NIST control lookups and ADO item creation but may struggle with complex multi-hop MCP orchestration.",
+        hardware: null,
+        gcNote: "✓ Azure Canada East deployment available (+10% surcharge)",
+        azureNote: true,
+      },
+      {
+        name: "Gemini 3.1 Pro",
+        vendor: "Google",
+        tier: "Proprietary API",
+        sourceUrl: "https://ai.google.dev/pricing",
+        license: "Commercial",
+        mcp: "✓ 69.2% MCP Atlas (leading)",
+        vision: "✓ Native",
+        structuredOutput: "✓ Strong",
+        reasoning: "✓ Strong (thinking levels)",
+        sovereignty: "⚠ Google Cloud · no CA residency",
+        inputPer1M: 2.0,
+        outputPer1M: 12.0,
+        role: "Primary orchestrator (alt)",
+        verdict: "VIABLE",
+        verdictColor: "#107C10",
+        notes:
+          "Best MCP Atlas score of any model tested (69.2%). Cheapest flagship at $2/$12. 1M+ context, thinking levels (Low/Medium/High) for cost control. No Canadian data residency — processed on Google infrastructure. Thinking tokens billed as output tokens.",
+        hardware: null,
+        gcNote: "⚠ Google Cloud — no Canadian sovereign option",
+      },
+      {
+        name: "Gemini 3.1 Flash",
+        vendor: "Google",
+        tier: "Proprietary API",
+        sourceUrl: "https://ai.google.dev/pricing",
+        license: "Commercial",
+        mcp: "✓ Function calling",
+        vision: "✓ Native",
+        structuredOutput: "✓ Good",
+        reasoning: "◑ Lighter",
+        sovereignty: "⚠ Google Cloud · no CA residency",
+        inputPer1M: 0.1,
+        outputPer1M: 0.6,
+        role: "Sub-agents / high volume",
+        verdict: "VIABLE (sub-agents)",
+        verdictColor: "#835B00",
+        notes:
+          "Extremely cheap for sub-agent work — 30x cheaper input than Sonnet 4.6. Good for high-volume NIST control lookups. Not appropriate for complex multi-MCP orchestration. No Canadian data residency.",
+        hardware: null,
+        gcNote: "⚠ Google Cloud — no Canadian sovereign option",
+      },
+      {
+        name: "Llama 4 Maverick",
+        vendor: "Meta",
+        tier: "Open Source — API",
+        sourceUrl: "https://openrouter.ai/meta-llama/llama-4-maverick",
+        license: "Llama 4 Community License",
+        mcp: "◑ Tool calling, MCP unproven",
+        vision: "✓ Native (early fusion)",
+        structuredOutput: "◑ Reasonable",
+        reasoning: "◑ No thinking mode",
+        sovereignty: "✓ If self-hosted",
+        inputPer1M: 0.15,
+        outputPer1M: 0.6,
+        role: "Cost-efficient alt / sub-agents",
+        verdict: "ASSESS",
+        verdictColor: "#835B00",
+        notes:
+          "Natively multimodal (early fusion), strong vision. 400B total / 17B active MoE. MCP client ecosystem less mature than Qwen or Claude — tool use works but multi-MCP orchestration across 3 servers is unproven. No thinking mode limits complex governance reasoning. Best used as a cheap sub-agent or evaluated for lower-stakes tasks.",
+        hardware: null,
+        gcNote: "⚠ API via third-party providers; self-host for sovereignty",
+      },
+      {
+        name: "Llama 4 Maverick (self-hosted)",
+        vendor: "Meta",
+        tier: "Open Source — Self-hosted",
+        sourceUrl: "https://llama.meta.com",
+        license: "Llama 4 Community License",
+        mcp: "◑ Via llama.cpp / vLLM",
+        vision: "✓ Native",
+        structuredOutput: "◑ Reasonable",
+        reasoning: "◑ No thinking mode",
+        sovereignty: "✓ Fully local",
+        inputPer1M: 0,
+        outputPer1M: 0,
+        role: "Local alt to Qwen",
+        verdict: "ASSESS",
+        verdictColor: "#835B00",
+        notes:
+          "Self-host for full sovereignty. Requires multi-GPU setup (400B total params, 17B active) or use quantized versions. MCP via llama.cpp (recently merged). Less community momentum for GC/governance-domain tool use than Qwen3.5. Hardware requirements heavier than Qwen3.5-27B.",
+        hardware: "Multi-GPU or high-RAM system required · heavier than Qwen3.5-27B",
+        hardwareCostPerMonth: 80,
+        gcNote: "✓ Fully local — sovereign",
+      },
+      {
+        name: "Qwen3.5-27B",
+        vendor: "Alibaba / Qwen Team",
+        tier: "Open Source — Self-hosted",
+        sourceUrl: "https://github.com/QwenLM/Qwen3",
+        license: "Apache 2.0",
+        mcp: "✓ Native (llama.cpp + Qwen-Agent)",
+        vision: "✓ Native (early fusion)",
+        structuredOutput: "✓ Reliable at 27B",
+        reasoning: "✓ Thinking mode",
+        sovereignty: "✓ Fully local",
+        inputPer1M: 0,
+        outputPer1M: 0,
+        role: "Primary orchestrator (local)",
+        verdict: "BEST LOCAL",
+        verdictColor: "#107C10",
+        notes:
+          "Best open model for RTX 3090. MCP support via llama.cpp (native, recently merged) and Qwen-Agent framework. Thinking mode for complex PBMM reasoning. Apache 2.0 — no licensing restrictions. Zero marginal cost at any volume. Data never leaves your machine.",
+        hardware: "RTX 3090 ~$800 CAD used · ~$55/mo amortized",
+        hardwareCostPerMonth: 55,
+        gcNote: "✓ Fully local — sovereign",
+      },
+      {
+        name: "Qwen3.5-35B-A3B",
+        vendor: "Alibaba / Qwen Team",
+        tier: "Open Source — Self-hosted",
+        sourceUrl: "https://github.com/QwenLM/Qwen3",
+        license: "Apache 2.0",
+        mcp: "✓ Via llama.cpp + Qwen-Agent",
+        vision: "✓ Native",
+        structuredOutput: "◑ Occasional errors",
+        reasoning: "◑ No thinking mode",
+        sovereignty: "✓ Fully local",
+        inputPer1M: 0,
+        outputPer1M: 0,
+        role: "Fast sub-agents (local)",
+        verdict: "VIABLE (sub-agents)",
+        verdictColor: "#835B00",
+        notes:
+          "MoE — 3B active params, ~4x faster than 27B at same VRAM. No thinking mode means weaker complex reasoning. Ideal as fast local sub-agents for NIST control lookups and ADO item creation. Can run alongside 27B on same RTX 3090.",
+        hardware: "RTX 3090 · shared with Qwen3.5-27B",
+        hardwareCostPerMonth: 0,
+        gcNote: "✓ Fully local — sovereign",
+      },
+      {
+        name: "DeepSeek-V3.2",
+        vendor: "DeepSeek AI",
+        tier: "Open Source — Self-hosted",
+        sourceUrl: "https://github.com/deepseek-ai",
+        license: "DeepSeek License",
+        mcp: "✓ Tool use capable",
+        vision: "◑ Limited",
+        structuredOutput: "✓ Strong",
+        reasoning: "✓ Frontier-class",
+        sovereignty: "✓ If self-hosted",
+        inputPer1M: 0,
+        outputPer1M: 0,
+        role: "EXCLUDED",
+        verdict: "EXCLUDED — CCP provenance",
+        verdictColor: "#605e5c",
+        notes:
+          "CCP provenance — same exclusion rationale as DeerFlow (previously flagged). Not appropriate for any HC/PHAC workload regardless of self-hosting arrangement. Hard no.",
+        hardware: null,
+        gcNote: "✗ CCP provenance — excluded",
+      },
+    ];
+
+    function CostCell({ model }) {
+      if (model.verdict.includes("EXCLUDED")) {
+        return <span style={{ color: "#605e5c", fontSize: 11, fontFamily: "monospace" }}>—</span>;
+      }
+      const base = model.inputPer1M > 0 ? INPUT_M * model.inputPer1M + OUTPUT_M * model.outputPer1M : 0;
+      const hw = model.hardwareCostPerMonth || 0;
+      const total = base + hw;
+
+      return (
+        <div>
+          <div style={{ color: "#e1f0ff", fontFamily: "monospace", fontSize: 12, fontWeight: 700 }}>
+            {total > 0 ? `$${total.toFixed(2)}/mo` : "$0/mo"}
+          </div>
+          {base > 0 && (
+            <div style={{ color: "#4a7fa5", fontSize: 10, fontFamily: "monospace" }}>
+              ${model.inputPer1M.toFixed(2)}/${model.outputPer1M.toFixed(2)} per M tokens
+            </div>
+          )}
+          {base > 0 && (
+            <div style={{ color: "#4a7fa5", fontSize: 10, fontFamily: "monospace" }}>
+              ${(base / 50).toFixed(4)}/assessment
+            </div>
+          )}
+          {hw > 0 && model.inputPer1M === 0 && (
+            <div style={{ color: "#2a5a7a", fontSize: 10, fontFamily: "monospace" }}>+$0 tokens · $0/assessment</div>
+          )}
+          {hw > 0 && <div style={{ color: "#2a5a7a", fontSize: 10, fontFamily: "monospace" }}>+${hw}/mo hardware</div>}
+          {model.inputPer1M === 0 && !hw && (
+            <div style={{ color: "#2a5a7a", fontSize: 10, fontFamily: "monospace" }}>shared hardware</div>
+          )}
+        </div>
+      );
+    }
+
+    function Cap({ v }) {
+      const c = v.startsWith("✓")
+        ? "#6dbf67"
+        : v.startsWith("✗")
+        ? "#ef9a9a"
+        : v.startsWith("◑")
+        ? "#ffcc80"
+        : v.startsWith("⚠")
+        ? "#ffcc80"
+        : "#b0cce0";
+      return <span style={{ color: c, fontSize: 11, lineHeight: 1.4 }}>{v}</span>;
+    }
+
+    function VendorBadge({ vendor }) {
+      const colors = {
+        Anthropic: "#D84315",
+        OpenAI: "#10A37F",
+        Google: "#4285F4",
+        Meta: "#1877F2",
+        "Alibaba / Qwen Team": "#FF6A00",
+        "DeepSeek AI": "#605e5c",
+      };
+      return (
+        <span
+          style={{
+            background: (colors[vendor] || "#0d2040") + "22",
+            color: colors[vendor] || "#4a7fa5",
+            border: `1px solid ${colors[vendor] || "#0d2040"}44`,
+            borderRadius: 3,
+            padding: "1px 6px",
+            fontSize: 9,
+            fontFamily: "monospace",
+            fontWeight: 700,
+            whiteSpace: "nowrap",
+          }}
+        >
+          {vendor}
+        </span>
+      );
+    }
+
+    function ModelComparisonTable() {
+      const [expanded, setExpanded] = useState(null);
+      const [filterTier, setFilterTier] = useState("All");
+      const [filterVendor, setFilterVendor] = useState("All");
+
+      const vendors = ["All", "Anthropic", "OpenAI", "Google", "Meta", "Alibaba / Qwen Team", "DeepSeek AI"];
+      const tiers = ["All", "Proprietary API", "Open Source — Self-hosted", "Open Source — API"];
+
+      const filtered = models.filter(
+        (m) => (filterTier === "All" || m.tier === filterTier) && (filterVendor === "All" || m.vendor === filterVendor)
+      );
+
+      const cols = [
+        "Model / Vendor",
+        "Tier",
+        "License",
+        "MCP Tool Use",
+        "Vision",
+        "Struct. Output",
+        "Sovereignty",
+        "Role",
+        "Cost (50 assessments/mo)",
+        "Verdict",
+      ];
+
+      return (
+        <div
+          style={{
+            minHeight: "100vh",
+            background: "#060d1a",
+            color: "#e1f0ff",
+            fontFamily: "'IBM Plex Sans', sans-serif",
+            padding: 20,
+          }}
+        >
+          <style>{`@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap'); * { box-sizing: border-box; margin: 0; padding: 0; } tr { transition: background 0.1s; } tr:hover td { background: rgba(255,255,255,0.015) !important; } ::-webkit-scrollbar { height: 4px; width: 4px; } ::-webkit-scrollbar-thumb { background: #0d2040; border-radius: 2px; }`}</style>
+
+          <div style={{ marginBottom: 20 }}>
+            <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 4 }}>
+              <span style={{ color: "#50e6ff", fontSize: 18 }}>◎</span>
+              <h1 style={{ fontSize: 17, fontWeight: 600 }}>Model Viability Matrix — {JOB}</h1>
+            </div>
+            <div style={{ color: "#2a5a7a", fontSize: 10, fontFamily: "monospace", marginBottom: 14 }}>
+              Cost basis: 50 assessments/month · ~10K input + 2K output tokens each · Prices verified April 2026
+            </div>
+            <div style={{ display: "flex", flexWrap: "wrap", gap: 5, marginBottom: 12 }}>
+              {JOB_REQS.map((r) => (
+                <span
+                  key={r}
+                  style={{
+                    background: "#0a1628",
+                    border: "1px solid #0d2040",
+                    borderRadius: 4,
+                    padding: "2px 8px",
+                    fontSize: 10,
+                    color: "#4a7fa5",
+                    fontFamily: "monospace",
+                  }}
+                >
+                  {r}
+                </span>
+              ))}
+            </div>
+            <div style={{ display: "flex", gap: 16, flexWrap: "wrap" }}>
+              <div style={{ display: "flex", gap: 5, alignItems: "center" }}>
+                <span style={{ color: "#2a5a7a", fontSize: 10, fontFamily: "monospace" }}>TIER:</span>
+                {tiers.map((t) => (
+                  <button
+                    key={t}
+                    onClick={() => setFilterTier(t)}
+                    style={{
+                      background: filterTier === t ? "#0078D4" : "#0a1628",
+                      border: `1px solid ${filterTier === t ? "#0078D4" : "#0d2040"}`,
+                      borderRadius: 3,
+                      color: filterTier === t ? "#fff" : "#4a7fa5",
+                      fontSize: 10,
+                      padding: "3px 8px",
+                      cursor: "pointer",
+                      fontFamily: "monospace",
+                    }}
+                  >
+                    {t}
+                  </button>
+                ))}
+              </div>
+              <div style={{ display: "flex", gap: 5, alignItems: "center" }}>
+                <span style={{ color: "#2a5a7a", fontSize: 10, fontFamily: "monospace" }}>VENDOR:</span>
+                {vendors.map((v) => (
+                  <button
+                    key={v}
+                    onClick={() => setFilterVendor(v)}
+                    style={{
+                      background: filterVendor === v ? "#0078D4" : "#0a1628",
+                      border: `1px solid ${filterVendor === v ? "#0078D4" : "#0d2040"}`,
+                      borderRadius: 3,
+                      color: filterVendor === v ? "#fff" : "#4a7fa5",
+                      fontSize: 10,
+                      padding: "3px 8px",
+                      cursor: "pointer",
+                      fontFamily: "monospace",
+                      whiteSpace: "nowrap",
+                    }}
+                  >
+                    {v}
+                  </button>
+                ))}
+              </div>
+            </div>
+          </div>
+
+          <div style={{ overflowX: "auto", borderRadius: 8, border: "1px solid #0d2040" }}>
+            <table style={{ width: "100%", borderCollapse: "collapse", fontSize: 11 }}>
+              <thead>
+                <tr style={{ background: "#080f1e" }}>
+                  {cols.map((h) => (
+                    <th
+                      key={h}
+                      style={{
+                        textAlign: "left",
+                        padding: "8px 10px",
+                        borderBottom: "1px solid #0d2040",
+                        color: "#2a5a7a",
+                        fontSize: 9,
+                        fontFamily: "monospace",
+                        letterSpacing: "0.07em",
+                        textTransform: "uppercase",
+                        whiteSpace: "nowrap",
+                      }}
+                    >
+                      {h}
+                    </th>
+                  ))}
+                </tr>
+              </thead>
+              <tbody>
+                {filtered.map((m) => {
+                  const isExcluded = m.verdict.includes("EXCLUDED");
+                  const key = m.name + m.vendor;
+                  const isExpanded = expanded === key;
+                  return (
+                    <React.Fragment key={key}>
+                      <tr
+                        onClick={() => setExpanded(isExpanded ? null : key)}
+                        style={{ cursor: "pointer", borderBottom: "1px solid #080e18", opacity: isExcluded ? 0.45 : 1 }}
+                      >
+                        <td style={{ padding: "9px 10px", minWidth: 160 }}>
+                          <div style={{ fontWeight: 600, color: "#e1f0ff", fontSize: 12, marginBottom: 3 }}>{m.name}</div>
+                          <VendorBadge vendor={m.vendor} />
+                        </td>
+                        <td style={{ padding: "9px 10px", minWidth: 130 }}>
+                          <div style={{ color: TIER_COLORS[m.tier] || "#4a7fa5", fontSize: 10, fontFamily: "monospace" }}>
+                            {m.tier.replace("Open Source — ", "OSS · ").replace("Proprietary API", "Proprietary")}
+                          </div>
+                        </td>
+                        <td style={{ padding: "9px 10px", whiteSpace: "nowrap" }}>
+                          <span
+                            style={{
+                              color:
+                                m.license === "Apache 2.0"
+                                  ? "#6dbf67"
+                                  : m.license === "Commercial"
+                                  ? "#ffcc80"
+                                  : "#b0bec5",
+                              fontSize: 10,
+                              fontFamily: "monospace",
+                            }}
+                          >
+                            {m.license}
+                          </span>
+                        </td>
+                        <td style={{ padding: "9px 10px", minWidth: 150 }}><Cap v={m.mcp} /></td>
+                        <td style={{ padding: "9px 10px" }}><Cap v={m.vision} /></td>
+                        <td style={{ padding: "9px 10px" }}><Cap v={m.structuredOutput} /></td>
+                        <td style={{ padding: "9px 10px", minWidth: 160 }}>
+                          <Cap v={m.sovereignty} />
+                          {m.azureNote && (
+                            <div style={{ color: "#6dbf67", fontSize: 9, fontFamily: "monospace", marginTop: 2 }}>
+                              Azure CA East avail.
+                            </div>
+                          )}
+                        </td>
+                        <td style={{ padding: "9px 10px", minWidth: 130 }}>
+                          <span style={{ color: "#4a7fa5", fontSize: 10 }}>{m.role}</span>
+                        </td>
+                        <td style={{ padding: "9px 10px", minWidth: 150 }}><CostCell model={m} /></td>
+                        <td style={{ padding: "9px 10px", minWidth: 160 }}>
+                          <span
+                            style={{
+                              background: m.verdictColor + "18",
+                              color: m.verdictColor,
+                              border: `1px solid ${m.verdictColor}44`,
+                              borderRadius: 3,
+                              padding: "2px 7px",
+                              fontSize: 9,
+                              fontFamily: "monospace",
+                              fontWeight: 700,
+                              display: "inline-block",
+                            }}
+                          >
+                            {m.verdict}
+                          </span>
+                        </td>
+                      </tr>
+
+                      {isExpanded && (
+                        <tr>
+                          <td colSpan={10} style={{ padding: "0 10px 12px 20px", background: "#070c18", borderBottom: "1px solid #0d2040" }}>
+                            <div
+                              style={{
+                                background: "#0a1628",
+                                border: "1px solid #0d2040",
+                                borderRadius: 6,
+                                padding: "10px 14px",
+                                marginTop: 2,
+                                display: "grid",
+                                gridTemplateColumns: "1fr auto",
+                                gap: 12,
+                              }}
+                            >
+                              <div>
+                                <div style={{ color: "#b0cce0", fontSize: 11, lineHeight: 1.65, marginBottom: 4 }}>{m.notes}</div>
+                                {m.hardware && (
+                                  <div style={{ color: "#4a7fa5", fontSize: 10, fontFamily: "monospace" }}>
+                                    Hardware: {m.hardware}
+                                  </div>
+                                )}
+                              </div>
+                              <div style={{ textAlign: "right", minWidth: 200 }}>
+                                <div
+                                  style={{
+                                    background: m.gcNote.startsWith("✓")
+                                      ? "#107C1018"
+                                      : m.gcNote.startsWith("⚠")
+                                      ? "#835B0018"
+                                      : "#C50F1F18",
+                                    border: `1px solid ${
+                                      m.gcNote.startsWith("✓")
+                                        ? "#107C1044"
+                                        : m.gcNote.startsWith("⚠")
+                                        ? "#835B0044"
+                                        : "#C50F1F44"
+                                    }`,
+                                    borderRadius: 4,
+                                    padding: "6px 10px",
+                                    fontSize: 10,
+                                    fontFamily: "monospace",
+                                    color: m.gcNote.startsWith("✓")
+                                      ? "#6dbf67"
+                                      : m.gcNote.startsWith("⚠")
+                                      ? "#ffcc80"
+                                      : "#ef9a9a",
+                                  }}
+                                >
+                                  {m.gcNote}
+                                </div>
+                                {m.sourceUrl && (
+                                  <div style={{ color: "#1a3352", fontSize: 9, fontFamily: "monospace", marginTop: 4 }}>
+                                    {m.sourceUrl}
+                                  </div>
+                                )}
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                      )}
+                    </React.Fragment>
+                  );
+                })}
+              </tbody>
+            </table>
+          </div>
+
+          <div style={{ display: "grid", gridTemplateColumns: "repeat(4, 1fr)", gap: 12, marginTop: 20 }}>
+            {[
+              {
+                label: "Min Viable · Best Governance",
+                model: "Claude Sonnet 4.6",
+                detail: "$3.00/mo · tool_reference",
+                color: "#D84315",
+                note: "Only model with MCP tool search",
+              },
+              {
+                label: "Min Viable · Azure CA East",
+                model: "GPT-5.4",
+                detail: "$3.25/mo · +10% CA surcharge",
+                color: "#10A37F",
+                note: "Only cloud option with CA data residency",
+              },
+              {
+                label: "Best Value · Cloud Flagship",
+                model: "Gemini 3.1 Pro",
+                detail: "$2.20/mo · #1 MCP Atlas score",
+                color: "#4285F4",
+                note: "69.2% MCP Atlas — but no CA residency",
+              },
+              {
+                label: "Min Viable · Local / Sovereign",
+                model: "Qwen3.5-27B",
+                detail: "$0 tokens · $55/mo hardware",
+                color: "#FF6A00",
+                note: "RTX 3090 · full data sovereignty",
+              },
+            ].map((s) => (
+              <div key={s.model} style={{ background: "#0a1628", border: `1px solid ${s.color}44`, borderRadius: 8, padding: "12px 14px" }}>
+                <div style={{ color: s.color, fontSize: 9, fontFamily: "monospace", letterSpacing: "0.08em", textTransform: "uppercase", marginBottom: 6 }}>
+                  {s.label}
+                </div>
+                <div style={{ color: "#e1f0ff", fontWeight: 600, fontSize: 13, marginBottom: 3 }}>{s.model}</div>
+                <div style={{ color: "#4a7fa5", fontSize: 10, fontFamily: "monospace", marginBottom: 4 }}>{s.detail}</div>
+                <div style={{ color: "#2a5a7a", fontSize: 9, fontFamily: "monospace", lineHeight: 1.5 }}>{s.note}</div>
+              </div>
+            ))}
+          </div>
+
+          <div style={{ marginTop: 14, color: "#0d2040", fontSize: 9, fontFamily: "monospace", textAlign: "center" }}>
+            Click any row to expand · Sources: Anthropic, OpenAI, Google, Meta, OpenRouter · Prices verified April 2026 · 50 assessments/month basis
+          </div>
+        </div>
+      );
+    }
+
+    ReactDOM.createRoot(document.getElementById('root')).render(<ModelComparisonTable />);
+  </script>
+</body>
+</html>
