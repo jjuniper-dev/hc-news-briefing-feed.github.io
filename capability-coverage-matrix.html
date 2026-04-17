@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HC/PHAC — Capability Coverage Matrix</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+
+:root {
+  --bg:         #07101e;
+  --bg2:        #0d1a2e;
+  --bg3:        #111f35;
+  --path:       #1e4db7;
+  --path-lt:    #2563eb;
+  --path-bg:    rgba(30,77,183,0.12);
+  --path-dim:   rgba(30,77,183,0.06);
+  --hail:       #0f7a3e;
+  --hail-lt:    #16a34a;
+  --hail-bg:    rgba(15,122,62,0.12);
+  --hail-dim:   rgba(15,122,62,0.06);
+  --gap-full:   #7f1d1d;
+  --gap-lt:    #ef4444;
+  --gap-bg:     rgba(127,29,29,0.15);
+  --gap-dim:    rgba(127,29,29,0.06);
+  --warn:       #92400e;
+  --warn-lt:    #f59e0b;
+  --warn-bg:    rgba(146,64,14,0.15);
+  --full-green: #065f46;
+  --full-lt:    #10b981;
+  --full-bg:    rgba(6,95,70,0.2);
+  --text:       #cbd5e1;
+  --text-dim:   #475569;
+  --text-hi:    #f1f5f9;
+  --border:     rgba(255,255,255,0.07);
+  --mono:       'IBM Plex Mono', monospace;
+  --sans:       'IBM Plex Sans', sans-serif;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  font-family: var(--sans);
+  color: var(--text);
+  padding: 28px 32px;
+  min-width: 1300px;
+}
+
+.hdr {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.hdr h1 {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--text-hi);
+  letter-spacing: 0.02em;
+}
+.hdr .sub {
+  font-size: 11px;
+  font-family: var(--mono);
+  color: var(--text-dim);
+  margin-top: 4px;
+  letter-spacing: 0.05em;
+}
+
+.layer-pills { display: flex; gap: 8px; align-items: center; }
+.pill {
+  display: flex; align-items: center; gap: 6px;
+  padding: 6px 12px; border-radius: 4px;
+  font-size: 11px; font-family: var(--mono); font-weight: 600; letter-spacing: 0.05em;
+}
+.pill-path  { background: var(--path-bg);  border: 1px solid var(--path);   color: #93b4f5; }
+.pill-hail  { background: var(--hail-bg);  border: 1px solid var(--hail);   color: #6ee7b7; }
+.pill-gap   { background: var(--gap-bg);   border: 1px solid var(--gap-lt); color: #fca5a5; }
+.pill-warn  { background: var(--warn-bg);  border: 1px solid var(--warn-lt);color: #fcd34d; }
+.pill .dot  { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+.pill-path .dot { background: var(--path-lt); }
+.pill-hail .dot { background: var(--hail-lt); }
+.pill-gap .dot  { background: var(--gap-lt);  }
+.pill-warn .dot { background: var(--warn-lt); }
+
+.summary-bar {
+  display: grid; grid-template-columns: repeat(4,1fr); gap: 8px; margin-bottom: 16px;
+}
+.sum-card {
+  border-radius: 5px; padding: 10px 14px; display: flex; align-items: center; gap: 10px;
+}
+.sum-card-path { background: var(--path-bg); border: 1px solid rgba(30,77,183,0.4); }
+.sum-card-hail { background: var(--hail-bg); border: 1px solid rgba(15,122,62,0.4); }
+.sum-card-gap  { background: var(--gap-bg);  border: 1px solid rgba(239,68,68,0.4); }
+.sum-card-adr  { background: var(--warn-bg); border: 1px solid rgba(245,158,11,0.4); }
+.sum-num { font-size: 28px; font-family: var(--mono); font-weight: 700; line-height: 1; }
+.sum-card-path .sum-num { color: #93b4f5; }
+.sum-card-hail .sum-num { color: #6ee7b7; }
+.sum-card-gap  .sum-num { color: #fca5a5; }
+.sum-card-adr  .sum-num { color: #fde68a; }
+.sum-label { font-size: 10px; font-family: var(--mono); color: var(--text-dim); line-height: 1.4; }
+.sum-label strong { display: block; font-size: 11px; margin-bottom: 1px; }
+.sum-card-path .sum-label strong { color: #93b4f5; }
+.sum-card-hail .sum-label strong { color: #6ee7b7; }
+.sum-card-gap  .sum-label strong { color: #fca5a5; }
+.sum-card-adr  .sum-label strong { color: #fde68a; }
+
+.col-headers {
+  display: grid; grid-template-columns: 220px 1fr 1fr 260px; gap: 3px; margin-bottom: 3px;
+}
+.col-hdr {
+  padding: 8px 12px; font-size: 10px; font-family: var(--mono); font-weight: 700;
+  letter-spacing: 0.1em; text-transform: uppercase; border-radius: 4px 4px 0 0; text-align: center;
+}
+.col-hdr-cap  { background: var(--bg3); color: var(--text-dim); text-align: left; }
+.col-hdr-path { background: rgba(30,77,183,0.2); color: #93b4f5; border-top: 2px solid var(--path); }
+.col-hdr-hail { background: rgba(15,122,62,0.2); color: #6ee7b7; border-top: 2px solid var(--hail); }
+.col-hdr-gap  { background: rgba(127,29,29,0.2); color: #fca5a5; border-top: 2px solid var(--gap-lt); }
+
+.domain-group { margin-bottom: 3px; }
+.domain-label {
+  background: var(--bg3); border-left: 3px solid var(--text-dim);
+  padding: 5px 12px; font-size: 9px; font-family: var(--mono); font-weight: 700;
+  letter-spacing: 0.12em; text-transform: uppercase; color: #64748b;
+  display: grid; grid-template-columns: 220px 1fr 1fr 260px; gap: 3px;
+}
+.domain-label .dlabel-env { text-align: center; font-size: 9px; color: #374151; }
+
+.cap-row {
+  display: grid; grid-template-columns: 220px 1fr 1fr 260px; gap: 3px; margin-bottom: 2px;
+}
+.cap-row:hover .cell { filter: brightness(1.15); }
+
+.cell {
+  padding: 8px 10px; border-radius: 3px; min-height: 52px;
+  display: flex; flex-direction: column; justify-content: center;
+}
+.cell-cap  { background: var(--bg2); border: 1px solid var(--border); border-left: 3px solid transparent; }
+.cell-path { background: var(--path-dim); border: 1px solid rgba(30,77,183,0.2); }
+.cell-hail { background: var(--hail-dim); border: 1px solid rgba(15,122,62,0.2); }
+.cell-gap  { background: var(--gap-dim);  border: 1px solid rgba(127,29,29,0.15); }
+
+.cap-name { font-size: 11px; font-weight: 600; color: var(--text-hi); line-height: 1.3; }
+.cap-sub  { font-size: 9px; color: var(--text-dim); font-family: var(--mono); margin-top: 2px; line-height: 1.3; }
+
+.cov {
+  display: inline-flex; align-items: center; gap: 4px;
+  font-size: 9px; font-family: var(--mono); font-weight: 700;
+  padding: 2px 6px; border-radius: 2px; margin-bottom: 4px;
+  letter-spacing: 0.05em; width: fit-content;
+}
+.cov-full     { background: var(--full-bg); border: 1px solid var(--full-lt); color: var(--full-lt); }
+.cov-partial  { background: var(--warn-bg); border: 1px solid var(--warn-lt); color: var(--warn-lt); }
+.cov-designed { background: rgba(96,165,250,0.1); border: 1px solid #3b82f6; color: #93c5fd; }
+.cov-none     { background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.1); color: #374151; }
+.cov-gap      { background: var(--gap-bg); border: 1px solid var(--gap-lt); color: #fca5a5; }
+.cov-adr      { background: rgba(251,191,36,0.1); border: 1px solid #f59e0b; color: #fde68a; }
+.cov-p1       { background: rgba(239,68,68,0.15); border: 1px solid #ef4444; color: #f87171; }
+
+.cell-component { font-size: 10px; font-weight: 600; color: #94a3b8; line-height: 1.3; }
+.cell-note      { font-size: 9px; color: var(--text-dim); font-family: var(--mono); margin-top: 2px; line-height: 1.4; }
+.cell-gap-note  { font-size: 10px; color: #94a3b8; line-height: 1.4; }
+.cell-gap-severity { font-size: 9px; font-family: var(--mono); color: var(--text-dim); margin-top: 3px; }
+
+.dom-identity .cell-cap { border-left-color: #6366f1; }
+.dom-gov      .cell-cap { border-left-color: #3b82f6; }
+.dom-data     .cell-cap { border-left-color: #f97316; }
+.dom-ai       .cell-cap { border-left-color: #0ea5e9; }
+.dom-app      .cell-cap { border-left-color: #8b5cf6; }
+.dom-finops   .cell-cap { border-left-color: #ec4899; }
+.dom-sdlc     .cell-cap { border-left-color: #fbbf24; }
+
+.dom-identity { border-left-color: #6366f1; }
+.dom-gov      { border-left-color: #3b82f6; }
+.dom-data     { border-left-color: #f97316; }
+.dom-ai       { border-left-color: #0ea5e9; }
+.dom-app      { border-left-color: #8b5cf6; }
+.dom-finops   { border-left-color: #ec4899; }
+.dom-sdlc     { border-left-color: #fbbf24; }
+
+.legend {
+  display: flex; gap: 16px; justify-content: center; margin-top: 16px; flex-wrap: wrap;
+}
+.legend-item {
+  display: flex; align-items: center; gap: 6px;
+  font-size: 10px; font-family: var(--mono); color: var(--text-dim);
+}
+</style>
+</head>
+<body>
+
+<div class="hdr">
+  <div>
+    <h1>HC/PHAC Enterprise AI Platform — Capability Coverage Matrix</h1>
+    <div class="sub">PATH Footprint · HAIL Footprint · Stack Gaps — April 2026 · EA Working Reference</div>
+  </div>
+  <div class="layer-pills">
+    <div class="pill pill-path"><div class="dot"></div>PATH · Governance Control Plane</div>
+    <div class="pill pill-hail"><div class="dot"></div>HAIL · Production Runtime</div>
+    <div class="pill pill-gap"><div class="dot"></div>Stack Gap</div>
+    <div class="pill pill-warn"><div class="dot"></div>ADR / Unresolved</div>
+  </div>
+</div>
+
+<div class="summary-bar">
+  <div class="sum-card sum-card-path">
+    <div class="sum-num">9</div>
+    <div class="sum-label"><strong>PATH Owned</strong>Capabilities fully or partially covered by PATH governance layer</div>
+  </div>
+  <div class="sum-card sum-card-hail">
+    <div class="sum-num">14</div>
+    <div class="sum-label"><strong>HAIL Covered</strong>Capabilities operational or in-progress in HAIL runtime</div>
+  </div>
+  <div class="sum-card sum-card-gap">
+    <div class="sum-num">12</div>
+    <div class="sum-label"><strong>Stack Gaps</strong>Capabilities with no current coverage in either environment</div>
+  </div>
+  <div class="sum-card sum-card-adr">
+    <div class="sum-num">3</div>
+    <div class="sum-label"><strong>ADR / Unresolved</strong>Active architecture decisions blocking implementation</div>
+  </div>
+</div>
+
+<div class="col-headers">
+  <div class="col-hdr col-hdr-cap">Capability / Function</div>
+  <div class="col-hdr col-hdr-path">PATH — Governance Control Plane (HC-Led)</div>
+  <div class="col-hdr col-hdr-hail">HAIL — Production Runtime (PHAC-Led)</div>
+  <div class="col-hdr col-hdr-gap">Stack Gap / Open Item</div>
+</div>
+
+<!-- IDENTITY & ACCESS -->
+<div class="domain-group">
+  <div class="domain-label dom-identity">
+    <div>IDENTITY &amp; ACCESS MANAGEMENT</div>
+    <div class="dlabel-env">PATH component</div>
+    <div class="dlabel-env">HAIL component</div>
+    <div class="dlabel-env">gap / action</div>
+  </div>
+
+  <div class="cap-row dom-identity">
+    <div class="cell cell-cap"><div class="cap-name">Entra ID / RBAC</div><div class="cap-sub">Authentication, role assignment, least privilege</div></div>
+    <div class="cell cell-path"><div class="cov cov-full">● FULL</div><div class="cell-component">Microsoft Entra ID</div><div class="cell-note">Policy &amp; conditional access defined at PATH level</div></div>
+    <div class="cell cell-hail"><div class="cov cov-full">● FULL</div><div class="cell-component">Microsoft Entra ID</div><div class="cell-note">Operational — workspace roles + item-level permissions</div></div>
+    <div class="cell cell-gap"><div class="cov cov-full">● COVERED</div><div class="cell-gap-note">Entra ID spans both environments. No gap.</div></div>
+  </div>
+
+  <div class="cap-row dom-identity">
+    <div class="cell cell-cap"><div class="cap-name">Managed Identities</div><div class="cap-sub">Service-to-service auth, no stored credentials</div></div>
+    <div class="cell cell-path"><div class="cov cov-designed">◆ DESIGNED</div><div class="cell-component">Entra ID — System-assigned MI</div><div class="cell-note">Defined as implementation requirement</div></div>
+    <div class="cell cell-hail"><div class="cov cov-partial">◑ PARTIAL</div><div class="cell-component">Entra ID — MI per service</div><div class="cell-note">Not yet enforced for Foundry→OneLake path</div></div>
+    <div class="cell cell-gap"><div class="cov cov-gap">✕ GAP</div><div class="cell-gap-note">Foundry→OneLake MI not confirmed. SAS token risk.</div><div class="cell-gap-severity">Action: Enforce MI on all Foundry→Fabric connections</div></div>
+  </div>
+</div>
+
+<!-- GOVERNANCE & COMPLIANCE -->
+<div class="domain-group">
+  <div class="domain-label dom-gov">
+    <div>GOVERNANCE &amp; COMPLIANCE</div>
+    <div class="dlabel-env"></div><div class="dlabel-env"></div><div class="dlabel-env"></div>
+  </div>
+
+  <div class="cap-row dom-gov">
+    <div class="cell cell-cap"><div class="cap-name">Data Classification &amp; DLP</div><div class="cap-sub">Sensitivity labels, data loss prevention</div></div>
+    <div class="cell cell-path"><div class="cov cov-full">● FULL</div><div class="cell-component">Microsoft Purview</div><div class="cell-note">Policy defined, labels authored in PATH</div></div>
+    <div class="cell cell-hail"><div class="cov cov-full">● FULL</div><div class="cell-component">Purview + Fabric integration</div><div class="cell-note">Labels enforced on OneLake; DLP policies active</div></div>
+    <div class="cell cell-gap"><div class="cov cov-full">● COVERED</div><div class="cell-gap-note">Purview spans both. No gap on classification.</div></div>
+  </div>
+
+  <div class="cap-row dom-gov">
+    <div class="cell cell-cap"><div class="cap-name">Data Lineage &amp; Catalog</div><div class="cap-sub">Auto-lineage, dataset discovery, endorsement</div></div>
+    <div class="cell cell-path"><div class="cov cov-full">● FULL</div><div class="cell-component">Microsoft Purview</div><div class="cell-note">Catalog governance and policy owner</div></div>
+    <div class="cell cell-hail"><div class="cov cov-full">● FULL</div><div class="cell-component">Fabric + Purview auto-lineage</div><div class="cell-note">OneLake auto-lineage from pipelines and notebooks</div></div>
+    <div class="cell cell-gap"><div class="cov cov-full">● COVERED</div><div class="cell-gap-note">No gap. Databricks Unity Catalog lineage not yet wired if Databricks added.</div></div>
+  </div>
+
+  <div class="cap-row dom-gov">
+    <div class="cell cell-cap"><div class="cap-name">AIA / TRA / PIA Compliance Gates</div><div class="cap-sub">TBS AI Directive, Privacy Act, GC ATO gates</div></div>
+    <div class="cell cell-path"><div class="cov cov-designed">◆ DESIGNED</div><div class="cell-component">GitLab CI/CD Stages 1–3</div><div class="cell-note">Pipeline stages defined; structured questionnaire artifacts scoped</div></div>
+    <div class="cell cell-hail"><div class="cov cov-none">— N/A</div><div class="cell-component">PATH owns this layer</div></div>
+    <div class="cell cell-gap"><div class="cov cov-gap">✕ GAP</div><div class="cell-gap-note">Designed but not operational. Questionnaire artifacts not built. Power Automate routing not wired.</div><div class="cell-gap-severity">Priority: P1 — blocks Stage 6 ARB sign-off</div></div>
+  </div>
+
+  <div class="cap-row dom-gov">
+    <div class="cell cell-cap"><div class="cap-name">Pattern Library</div><div class="cap-sub">Reusable governance templates, reference architectures</div></div>
+    <div class="cell cell-path"><div class="cov cov-designed">◆ DESIGNED</div><div class="cell-component">PATH Pattern Library (conceptual)</div><div class="cell-note">GREP pattern identified; not yet formalized</div></div>
+    <div class="cell cell-hail"><div class="cov cov-none">— N/A</div></div>
+    <div class="cell cell-gap"><div class="cov cov-gap">✕ GAP</div><div class="cell-gap-note">No operational pattern library. GREP not a named PATH pattern. PMRA reference arch not finalized.</div><div class="cell-gap-severity">Action: Formalize before PMRA ARB</div></div>
+  </div>
+
+  <div class="cap-row dom-gov">
+    <div class="cell cell-cap"><div class="cap-name">Protected B ATO (Fabric)</div><div class="cap-sub">GC Cloud Guardrails, Canada Central data residency</div></div>
+    <div class="cell cell-path"><div class="cov cov-none">— N/A</div></div>
+    <div class="cell cell-hail"><div class="cov cov-gap">✕ NOT CONFIRMED</div><div class="cell-component">Microsoft Fabric</div><div class="cell-note">ATO pending — not validated for Protected B in GC Cloud</div></div>
+    <div class="cell cell-gap"><div class="cov cov-p1">⚠ P1 BLOCKER</div><div class="cell-gap-note">Fabric Protected B GC Cloud Guardrails validation outstanding. Blocks all production workloads.</div><div class="cell-gap-severity">Owner: Security + Cloud Team · Sprint 1</div></div>
+  </div>
+</div>
+
+<!-- DATA PLATFORM -->
+<div class="domain-group">
+  <div class="domain-label dom-data">
+    <div>DATA PLATFORM</div>
+    <div class="dlabel-env"></div><div class="dlabel-env"></div><div class="dlabel-env"></div>
+  </div>
+
+  <div class="cap-row dom-data">
+    <div class="cell cell-cap"><div class="cap-name">Structured Ingestion (APIs)</div><div class="cap-sub">CDC, Weather, NASA, PHAC datasets</div></div>
+    <div class="cell cell-path"><div class="cov cov-none">— N/A</div></div>
+    <div class="cell cell-hail"><div class="cov cov-full">● FULL</div><div class="cell-component">Data Factory (Pipelines + Dataflow Gen2)</div><div class="cell-note">200+ connectors; schedule &amp; event-based</div></div>
+    <div class="cell cell-gap"><div class="cov cov-full">● COVERED</div><div class="cell-gap-note">No gap. Data Factory handles structured ingestion natively.</div></div>
+  </div>
+
+  <div class="cap-row dom-data">
+    <div class="cell cell-cap"><div class="cap-name">Unstructured Ingestion (RSS/News)</div><div class="cap-sub">Defense News, Economist, AI feeds</div></div>
+    <div class="cell cell-path"><div class="cov cov-none">— N/A</div></div>
+    <div class="cell cell-hail"><div class="cov cov-full">● FULL</div><div class="cell-component">Data Factory + Spark Notebooks</div><div class="cell-note">Custom RSS parsers; Python NLP pre-processing</div></div>
+    <div class="cell cell-gap"><div class="cov cov-full">● COVERED</div><div class="cell-gap-note">No gap. Notebook-based pipeline supports custom parsers.</div></div>
+  </div>
+
+  <div class="cap-row dom-data">
+    <div class="cell cell-cap"><div class="cap-name">Real-Time Streaming</div><div class="cap-sub">CDC syndromic, weather alerts, environmental feeds</div></div>
+    <div class="cell cell-path"><div class="cov cov-none">— N/A</div></div>
+    <div class="cell cell-hail"><div class="cov cov-partial">◑ PARTIAL</div><div class="cell-component">Eventstream + Eventhouse (KQL)</div><div class="cell-note">Components exist; streaming path not implemented. Min F4 required.</div></div>
+    <div class="cell cell-gap"><div class="cov cov-gap">✕ GAP</div><div class="cell-gap-note">Surveillance use case depends on near-real-time ingestion. Not yet wired to CDC/Weather feeds.</div><div class="cell-gap-severity">Priority: P2 · Sprint 2–3</div></div>
+  </div>
+
+  <div class="cap-row dom-data">
+    <div class="cell cell-cap"><div class="cap-name">Lakehouse / Medallion Architecture</div><div class="cap-sub">Bronze → Silver → Gold, Delta Parquet, OneLake</div></div>
+    <div class="cell cell-path"><div class="cov cov-none">— N/A</div></div>
+    <div class="cell cell-hail"><div class="cov cov-full">● FULL</div><div class="cell-component">Fabric Lakehouse + OneLake</div><div class="cell-note">Delta Parquet; PySpark transformation; all engines share OneLake</div></div>
+    <div class="cell cell-gap"><div class="cov cov-full">● COVERED</div><div class="cell-gap-note">No gap. Core data platform foundation in place.</div></div>
+  </div>
+
+  <div class="cap-row dom-data">
+    <div class="cell cell-cap"><div class="cap-name">Knowledge Graph</div><div class="cap-sub">Entity storage, relationships, ontology layer</div></div>
+    <div class="cell cell-path"><div class="cov cov-none">— N/A</div></div>
+    <div class="cell cell-hail"><div class="cov cov-partial">◑ PARTIAL</div><div class="cell-component">Azure AI Search (near-term)</div><div class="cell-note">Fabric IQ (Preview) — not GA; do not block on it</div></div>
+    <div class="cell cell-gap"><div class="cov cov-gap">✕ GAP</div><div class="cell-gap-note">AI Processing Stage 5 has no platform binding. AI Search covers near-term RAG only. Ontology layer deferred to Fabric IQ GA.</div><div class="cell-gap-severity">Priority: P2 · Sprint 3</div></div>
+  </div>
+
+  <div class="cap-row dom-data">
+    <div class="cell cell-cap"><div class="cap-name">Synapse → Fabric Migration</div><div class="cap-sub">Deprecate Synapse as net-new platform</div></div>
+    <div class="cell cell-path"><div class="cov cov-none">— N/A</div></div>
+    <div class="cell cell-hail"><div class="cov cov-partial">◑ COEXISTING</div><div class="cell-component">Synapse Analytics (legacy) + Fabric</div><div class="cell-note">Both present; dual investment risk</div></div>
+    <div class="cell cell-gap"><div class="cov cov-gap">✕ GAP</div><div class="cell-gap-note">No migration plan in place. Declare Fabric as strategic platform; Synapse = migration source only.</div><div class="cell-gap-severity">Priority: P2 · Months 4–12</div></div>
+  </div>
+</div>
+
+<!-- AI RUNTIME -->
+<div class="domain-group">
+  <div class="domain-label dom-ai">
+    <div>AI RUNTIME &amp; ORCHESTRATION</div>
+    <div class="dlabel-env"></div><div class="dlabel-env"></div><div class="dlabel-env"></div>
+  </div>
+
+  <div class="cap-row dom-ai">
+    <div class="cell cell-cap"><div class="cap-name">AI Orchestration / Agent Management</div><div class="cap-sub">Multi-agent workflows, deployment lifecycle, Prompt Flow</div></div>
+    <div class="cell cell-path"><div class="cov cov-none">— N/A</div></div>
+    <div class="cell cell-hail"><div class="cov cov-partial">◑ PARTIAL</div><div class="cell-component">Azure AI Foundry</div><div class="cell-note">Foundry present; isolation model (ADR) unresolved</div></div>
+    <div class="cell cell-gap"><div class="cov cov-adr">⚠ ADR OPEN</div><div class="cell-gap-note">Per-client Foundry isolation vs. shared hub + project isolation. Hub-level storage co-tenancy needs Protected B validation.</div><div class="cell-gap-severity">P1 · Must be ARB-decided before pipeline automation</div></div>
+  </div>
+
+  <div class="cap-row dom-ai">
+    <div class="cell cell-cap"><div class="cap-name">API Governance Gateway</div><div class="cap-sub">Rate limiting, token validation, audit logging, policy enforcement</div></div>
+    <div class="cell cell-path"><div class="cov cov-none">— N/A</div></div>
+    <div class="cell cell-hail"><div class="cov cov-partial">◑ PARTIAL</div><div class="cell-component">Azure APIM</div><div class="cell-note">APIM selected; subscription isolation model depends on ADR</div></div>
+    <div class="cell cell-gap"><div class="cov cov-adr">⚠ ADR OPEN</div><div class="cell-gap-note">Isolation model not decided. APIM telemetry not wired to PATH FinOps or Purview audit log.</div><div class="cell-gap-severity">P1 · ADR blocks full APIM implementation</div></div>
+  </div>
+
+  <div class="cap-row dom-ai">
+    <div class="cell cell-cap"><div class="cap-name">Prompt / Output Safety</div><div class="cap-sub">Prompt injection filtering, output moderation, jailbreak detection</div></div>
+    <div class="cell cell-path"><div class="cov cov-none">— N/A</div></div>
+    <div class="cell cell-hail"><div class="cov cov-partial">◑ PARTIAL</div><div class="cell-component">Azure AI Content Safety</div><div class="cell-note">Component selected; not yet operational in HAIL</div></div>
+    <div class="cell cell-gap"><div class="cov cov-gap">✕ GAP</div><div class="cell-gap-note">Without Content Safety operational, prompt safety and output moderation are ungoverned. No Protected B boundary enforcement at AI layer.</div><div class="cell-gap-severity">Priority: P1 · Sprint 2</div></div>
+  </div>
+
+  <div class="cap-row dom-ai">
+    <div class="cell cell-cap"><div class="cap-name">Model Registry &amp; Lifecycle</div><div class="cap-sub">Experiment tracking, versioning, AIA metadata, model cards</div></div>
+    <div class="cell cell-path"><div class="cov cov-none">— N/A</div></div>
+    <div class="cell cell-hail"><div class="cov cov-partial">◑ PARTIAL</div><div class="cell-component">Fabric Data Science (MLflow)</div><div class="cell-note">MLflow present; AIA metadata fields not mapped to model cards</div></div>
+    <div class="cell cell-gap"><div class="cov cov-gap">✕ GAP</div><div class="cell-gap-note">NIST Identify function and AIA both require model registry with AIA metadata fields. Absent from current MLflow model card schema.</div><div class="cell-gap-severity">Priority: P2 · Sprint 3</div></div>
+  </div>
+
+  <div class="cap-row dom-ai">
+    <div class="cell cell-cap"><div class="cap-name">Model Drift Monitoring</div><div class="cap-sub">PSI-based drift detection, surveillance model degradation alerts</div></div>
+    <div class="cell cell-path"><div class="cov cov-none">— N/A</div></div>
+    <div class="cell cell-hail"><div class="cov cov-gap">✕ NOT BUILT</div><div class="cell-component">Fabric Data Science + Activator</div><div class="cell-note">Components available; PSI monitoring not implemented</div></div>
+    <div class="cell cell-gap"><div class="cov cov-gap">✕ GAP</div><div class="cell-gap-note">Surveillance models degrade silently under outbreak conditions. PSI not wired to Activator. NIST Detect function unmet.</div><div class="cell-gap-severity">Priority: P3 · Month 6+</div></div>
+  </div>
+
+  <div class="cap-row dom-ai">
+    <div class="cell cell-cap"><div class="cap-name">GPU / Self-Hosted Model Inference</div><div class="cap-sub">AML managed endpoints, open-source model hosting, FinOps break-even</div></div>
+    <div class="cell cell-path"><div class="cov cov-none">— N/A</div></div>
+    <div class="cell cell-hail"><div class="cov cov-gap">✕ NOT IN ARCH</div><div class="cell-component">Azure ML (AML) GPU endpoints</div><div class="cell-note">Canada Central NC/ND VMs available; not scoped or ATO-assessed</div></div>
+    <div class="cell cell-gap"><div class="cov cov-gap">✕ GAP</div><div class="cell-gap-note">Not in architecture. High-volume workloads may reach break-even vs. Azure OpenAI token pricing. Requires ATO assessment; GPU must be inside HAIL landing zone.</div><div class="cell-gap-severity">Action: Cloud team FinOps modelling before scoping</div></div>
+  </div>
+
+  <div class="cap-row dom-ai">
+    <div class="cell cell-cap"><div class="cap-name">Decision Assurance (GREP Pattern)</div><div class="cap-sub">Dual-agent screening, disagreement-driven escalation, HITL governance</div></div>
+    <div class="cell cell-path"><div class="cov cov-gap">✕ NOT YET PATTERN</div><div class="cell-component">PATH Pattern Library</div><div class="cell-note">Not yet formalized as a named, parameterizable PATH pattern</div></div>
+    <div class="cell cell-hail"><div class="cov cov-partial">◑ BUILDING</div><div class="cell-component">AI Foundry + Fabric MLflow</div><div class="cell-note">GREP building under HAIL for citations; not generalized</div></div>
+    <div class="cell cell-gap"><div class="cov cov-gap">✕ GAP</div><div class="cell-gap-note">Workload-scoped only. Without PATH formalization, each program rebuilds its own disagreement logic — uncertainty definition drifts across programs.</div><div class="cell-gap-severity">Action: Abstract to PATH pattern library before PMRA ARB</div></div>
+  </div>
+
+  <div class="cap-row dom-ai">
+    <div class="cell cell-cap"><div class="cap-name">Human Feedback Loop</div><div class="cap-sub">Decision-augmented prompt refinement, gold-label capture, MLflow lineage</div></div>
+    <div class="cell cell-path"><div class="cov cov-none">— N/A</div></div>
+    <div class="cell cell-hail"><div class="cov cov-gap">✕ NOT MAPPED</div><div class="cell-component">Fabric Data Science (MLflow)</div><div class="cell-note">GREP diagram shows RLHF-Lite; not mapped to MLflow or OneLake gold-label store</div></div>
+    <div class="cell cell-gap"><div class="cov cov-gap">✕ GAP</div><div class="cell-gap-note">Human review decisions not flowing to OneLake. Prompt augmentation not versioned in MLflow. Rename from "RLHF-Lite" before ARB — implies model weight training under TBS review.</div><div class="cell-gap-severity">Priority: P2 after GREP pattern formalized</div></div>
+  </div>
+</div>
+
+<!-- APPLICATION & EXPERIENCE -->
+<div class="domain-group">
+  <div class="domain-label dom-app">
+    <div>APPLICATION &amp; EXPERIENCE</div>
+    <div class="dlabel-env"></div><div class="dlabel-env"></div><div class="dlabel-env"></div>
+  </div>
+
+  <div class="cap-row dom-app">
+    <div class="cell cell-cap"><div class="cap-name">Intake Portal &amp; Case Management</div><div class="cap-sub">Guided submission, status tracking, workflow routing</div></div>
+    <div class="cell cell-path"><div class="cov cov-none">— N/A</div></div>
+    <div class="cell cell-hail"><div class="cov cov-partial">◑ PARTIAL</div><div class="cell-component">Power Pages + Dataverse</div><div class="cell-note">Components available; intake pattern not deployed for any program</div></div>
+    <div class="cell cell-gap"><div class="cov cov-gap">✕ GAP</div><div class="cell-gap-note">Reusable intake pattern designed but no program deployment exists. PMRA first candidate. Pre-submission completeness gate not built.</div><div class="cell-gap-severity">Priority: P3 · Month 6–9</div></div>
+  </div>
+
+  <div class="cap-row dom-app">
+    <div class="cell cell-cap"><div class="cap-name">Workflow Automation</div><div class="cap-sub">SDLC approval routing, SLA escalation, operational automation</div></div>
+    <div class="cell cell-path"><div class="cov cov-designed">◆ DESIGNED</div><div class="cell-component">Power Automate</div><div class="cell-note">SDLC gate approval routing designed; not yet operational</div></div>
+    <div class="cell cell-hail"><div class="cov cov-full">● FULL</div><div class="cell-component">Power Automate</div><div class="cell-note">Operational automation available in HAIL</div></div>
+    <div class="cell cell-gap"><div class="cov cov-partial">◑ PARTIAL</div><div class="cell-gap-note">Operational automation covered. PATH SDLC routing not yet wired — AIA/TRA/PIA approval workflows not built.</div><div class="cell-gap-severity">Action: Wire Power Automate to GitLab pipeline gates</div></div>
+  </div>
+
+  <div class="cap-row dom-app">
+    <div class="cell cell-cap"><div class="cap-name">Analytics &amp; Reporting</div><div class="cap-sub">Power BI, Direct Lake, operational dashboards</div></div>
+    <div class="cell cell-path"><div class="cov cov-none">— N/A</div></div>
+    <div class="cell cell-hail"><div class="cov cov-full">● FULL</div><div class="cell-component">Power BI (Direct Lake mode)</div><div class="cell-note">Zero-copy query on OneLake; F64+ for free user access</div></div>
+    <div class="cell cell-gap"><div class="cov cov-full">● COVERED</div><div class="cell-gap-note">No gap on BI layer. License check: F64+ required for Free-tier Power BI user access.</div></div>
+  </div>
+</div>
+
+<!-- FINOPS & OPERATIONS -->
+<div class="domain-group">
+  <div class="domain-label dom-finops">
+    <div>FINOPS &amp; OPERATIONS</div>
+    <div class="dlabel-env"></div><div class="dlabel-env"></div><div class="dlabel-env"></div>
+  </div>
+
+  <div class="cap-row dom-finops">
+    <div class="cell cell-cap"><div class="cap-name">FinOps Dashboard &amp; Cost Attribution</div><div class="cap-sub">Token/compute cost per program, chargeback, budget controls</div></div>
+    <div class="cell cell-path"><div class="cov cov-designed">◆ DESIGNED</div><div class="cell-component">PATH FinOps &amp; Audit layer</div><div class="cell-note">Framework designed; not operational</div></div>
+    <div class="cell cell-hail"><div class="cov cov-gap">✕ NOT BUILT</div><div class="cell-component">Azure Monitor (partial telemetry only)</div><div class="cell-note">No per-program cost attribution in HAIL</div></div>
+    <div class="cell cell-gap"><div class="cov cov-p1">⚠ P1 GAP</div><div class="cell-gap-note">FinOps model absent = scaling ceiling risk. No chargeback, no per-program consumption visibility, no GPU cost modelling. APIM telemetry not wired to PATH dashboard.</div><div class="cell-gap-severity">Action: Wire APIM telemetry → PATH FinOps before adding workloads</div></div>
+  </div>
+
+  <div class="cap-row dom-finops">
+    <div class="cell cell-cap"><div class="cap-name">AI Call Audit Trail</div><div class="cap-sub">Full audit log for all AI inference calls, compliance traceability</div></div>
+    <div class="cell cell-path"><div class="cov cov-none">— N/A</div></div>
+    <div class="cell cell-hail"><div class="cov cov-partial">◑ PARTIAL</div><div class="cell-component">APIM + Azure Monitor</div><div class="cell-note">APIM can capture telemetry; not wired to Purview audit log</div></div>
+    <div class="cell cell-gap"><div class="cov cov-gap">✕ GAP</div><div class="cell-gap-note">APIM telemetry must feed PATH FinOps AND Purview audit log. GREP arbitration events are compliance-relevant, not just operational metrics.</div><div class="cell-gap-severity">Action: Wire APIM → Monitor → Purview Audit</div></div>
+  </div>
+
+  <div class="cap-row dom-finops">
+    <div class="cell cell-cap"><div class="cap-name">Threat Detection &amp; Observability</div><div class="cap-sub">Security monitoring, anomaly detection, full audit trail</div></div>
+    <div class="cell cell-path"><div class="cov cov-none">— N/A</div></div>
+    <div class="cell cell-hail"><div class="cov cov-full">● FULL</div><div class="cell-component">Microsoft Defender + Azure Monitor + Log Analytics</div><div class="cell-note">Fabric emits metrics to Monitor; Defender for threat detection</div></div>
+    <div class="cell cell-gap"><div class="cov cov-full">● COVERED</div><div class="cell-gap-note">No gap. Security observability stack in place in HAIL.</div></div>
+  </div>
+</div>
+
+<!-- SDLC & DEVOPS -->
+<div class="domain-group">
+  <div class="domain-label dom-sdlc">
+    <div>SDLC &amp; DEVOPS</div>
+    <div class="dlabel-env"></div><div class="dlabel-env"></div><div class="dlabel-env"></div>
+  </div>
+
+  <div class="cap-row dom-sdlc">
+    <div class="cell cell-cap"><div class="cap-name">CI/CD Pipeline (GitLab)</div><div class="cap-sub">Pipeline orchestration, stage definitions, promotion triggers</div></div>
+    <div class="cell cell-path"><div class="cov cov-designed">◆ DESIGNED</div><div class="cell-component">GitLab CI/CD</div><div class="cell-note">6-stage pipeline designed; not yet operational</div></div>
+    <div class="cell cell-hail"><div class="cov cov-none">— N/A</div><div class="cell-component">PATH owns SDLC layer</div></div>
+    <div class="cell cell-gap"><div class="cov cov-gap">✕ GAP</div><div class="cell-gap-note">Pipeline designed but not operational. Manual review is the current state — bottleneck at scale.</div><div class="cell-gap-severity">Priority: P1 · Sprint 1–2</div></div>
+  </div>
+
+  <div class="cap-row dom-sdlc">
+    <div class="cell cell-cap"><div class="cap-name">Security Scan (SAST + Container)</div><div class="cap-sub">Static analysis, container image scan, dependency audit</div></div>
+    <div class="cell cell-path"><div class="cov cov-designed">◆ DESIGNED</div><div class="cell-component">GitLab CI/CD Stage 4</div><div class="cell-note">Stage defined; tooling not yet configured</div></div>
+    <div class="cell cell-hail"><div class="cov cov-none">— N/A</div></div>
+    <div class="cell cell-gap"><div class="cov cov-gap">✕ GAP</div><div class="cell-gap-note">SAST tooling not configured in GitLab. Container scan for HAIL deployments not automated.</div><div class="cell-gap-severity">Priority: P1 · Sprint 1–2</div></div>
+  </div>
+
+  <div class="cap-row dom-sdlc">
+    <div class="cell cell-cap"><div class="cap-name">Canada Central Data Residency Check</div><div class="cap-sub">Automated validation all resources in approved GC region</div></div>
+    <div class="cell cell-path"><div class="cov cov-gap">✕ NOT IN ANY GATE</div><div class="cell-component">Should be Stage 6 sub-check</div><div class="cell-note">Not yet added to ARB sign-off stage</div></div>
+    <div class="cell cell-hail"><div class="cov cov-none">— N/A</div></div>
+    <div class="cell cell-gap"><div class="cov cov-gap">✕ GAP</div><div class="cell-gap-note">No automated residency validation gate. Foundry deployments, Fabric capacities, and storage accounts must be confirmed Canada Central before Stage 6 clears. Enforceable via Azure Policy.</div><div class="cell-gap-severity">Action: Add as Stage 6 sub-check + Azure Policy enforcement</div></div>
+  </div>
+</div>
+
+<div class="legend">
+  <div class="legend-item"><div class="cov cov-full" style="margin:0">● FULL</div> Operational, fully covered</div>
+  <div class="legend-item"><div class="cov cov-partial" style="margin:0">◑ PARTIAL</div> Component present, incomplete</div>
+  <div class="legend-item"><div class="cov cov-designed" style="margin:0">◆ DESIGNED</div> Designed, not yet operational</div>
+  <div class="legend-item"><div class="cov cov-none" style="margin:0">— N/A</div> Not this environment's responsibility</div>
+  <div class="legend-item"><div class="cov cov-gap" style="margin:0">✕ GAP</div> Not covered — action required</div>
+  <div class="legend-item"><div class="cov cov-adr" style="margin:0">⚠ ADR</div> Active unresolved decision</div>
+  <div class="legend-item"><div class="cov cov-p1" style="margin:0">⚠ P1</div> Priority 1 blocker</div>
+</div>
+
+</body>
+</html>
