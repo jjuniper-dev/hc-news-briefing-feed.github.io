@@ -31,7 +31,7 @@
     --white:      #ffffff;
   }
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-  body { font-family: 'Calibri', 'Arial', sans-serif; background: #D4D8D9; color: var(--txt); font-size: 13px; line-height: 1.4; padding: 24px; display: flex; justify-content: center; }
+  body { font-family: 'Calibri', 'Arial', sans-serif; background: #D4D8D9; color: var(--txt); font-size: 13px; line-height: 1.4; padding: 24px; display: flex; justify-content: center; overflow-x: auto; }
   .canvas { width: 1200px; background: var(--bg); box-shadow: 0 6px 32px rgba(0,0,0,0.15); }
   .hdr { background: var(--teal-900); padding: 20px 28px 15px; display: flex; justify-content: space-between; align-items: flex-end; }
   .hdr h1 { font-size: 21px; font-weight: 700; color: #fff; line-height: 1.2; }
@@ -170,6 +170,11 @@
   .footer { background: #E4E7E7; border-top: 1px solid #D0D4D5; padding: 7px 24px; display: flex; justify-content: space-between; align-items: center; }
   .ft-note { font-size: 10px; color: var(--txt3); font-style: italic; }
   .ft-class { font-size: 10px; font-weight: 700; color: var(--txt2); text-transform: uppercase; letter-spacing: .06em; }
+  @media (max-width: 1260px) {
+    body { justify-content: flex-start; }
+    .canvas { min-width: 1200px; }
+  }
+
 </style>
 </head>
 <body>
