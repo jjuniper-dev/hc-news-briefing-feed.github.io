@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EA/TPO Latest Updates Workspace</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f7f8fb;
+      --card: #ffffff;
+      --text: #1f2937;
+      --muted: #4b5563;
+      --accent: #1d4ed8;
+      --accent-2: #2563eb;
+      --border: #d1d5db;
+      --danger: #b91c1c;
+      --ok: #166534;
+    }
+
+    body {
+      font-family: Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1.2rem;
+      display: grid;
+      gap: 1rem;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 1.6rem;
+    }
+
+    .sub {
+      margin: 0.4rem 0 0;
+      color: var(--muted);
+    }
+
+    .nav-link {
+      display: inline-block;
+      margin-bottom: 0.8rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1rem;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+    }
+
+    label {
+      display: block;
+      margin-bottom: 0.4rem;
+      font-weight: 600;
+    }
+
+    input, textarea, select {
+      width: 100%;
+      box-sizing: border-box;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.65rem;
+      font: inherit;
+      background: #fff;
+      color: var(--text);
+    }
+
+    textarea {
+      min-height: 160px;
+      resize: vertical;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 1rem;
+    }
+
+    .actions {
+      display: flex;
+      gap: 0.7rem;
+      flex-wrap: wrap;
+      margin-top: 0.75rem;
+    }
+
+    button {
+      border: 0;
+      border-radius: 8px;
+      padding: 0.6rem 0.9rem;
+      font-weight: 600;
+      cursor: pointer;
+      background: var(--accent);
+      color: #fff;
+    }
+
+    button.secondary {
+      background: #374151;
+    }
+
+    button.ghost {
+      background: #fff;
+      color: #111827;
+      border: 1px solid var(--border);
+    }
+
+    .status {
+      margin-top: 0.6rem;
+      color: var(--muted);
+      min-height: 1.25rem;
+    }
+
+    .status.error { color: var(--danger); }
+    .status.ok { color: var(--ok); }
+
+    .history-list {
+      display: grid;
+      gap: 0.6rem;
+      margin-top: 0.8rem;
+    }
+
+    .history-item {
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: #f9fafb;
+      padding: 0.7rem;
+    }
+
+    .history-item time {
+      display: block;
+      color: var(--muted);
+      font-size: 0.86rem;
+      margin-bottom: 0.35rem;
+    }
+
+    pre {
+      white-space: pre-wrap;
+      margin: 0;
+      max-height: 240px;
+      overflow: auto;
+      font: 0.92rem/1.35 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    }
+
+    .small {
+      color: var(--muted);
+      font-size: 0.9rem;
+      margin: 0.5rem 0 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <section>
+      <a class="nav-link" href="index.html">← Back to dashboard</a>
+      <h1>EA/TPO Latest Updates Workspace</h1>
+      <p class="sub">Paste new text, keep rolling context in your browser, and ask AI to summarize implications using that context.</p>
+    </section>
+
+    <section class="card">
+      <label for="api-key">OpenAI API key (stored in this browser only)</label>
+      <input id="api-key" type="password" placeholder="sk-..." autocomplete="off">
+      <p class="small">Your key is saved in localStorage so you do not have to re-enter it. Use a dedicated key for browser use.</p>
+      <div class="actions">
+        <button id="save-key" class="secondary" type="button">Save Key</button>
+        <button id="clear-key" class="ghost" type="button">Clear Key</button>
+      </div>
+    </section>
+
+    <section class="grid">
+      <div class="card">
+        <label for="seed-context">Baseline context (editable)</label>
+        <textarea id="seed-context"></textarea>
+      </div>
+      <div class="card">
+        <label for="new-input">Latest text to ingest</label>
+        <textarea id="new-input" placeholder="Paste latest highlight reel, notes, or briefing text here..."></textarea>
+      </div>
+    </section>
+
+    <section class="card">
+      <label for="analysis-question">Analysis request</label>
+      <textarea id="analysis-question" placeholder="Example: What changed from the prior context? What decisions should go to ARB first?"></textarea>
+
+      <div class="actions">
+        <button id="save-context" type="button">Save as Context Entry</button>
+        <button id="run-analysis" type="button">Run AI Analysis</button>
+        <button id="clear-history" class="ghost" type="button">Clear Saved Context</button>
+      </div>
+      <p id="status" class="status"></p>
+    </section>
+
+    <section class="card">
+      <label for="ai-output">AI Output</label>
+      <textarea id="ai-output" readonly placeholder="AI response will appear here..."></textarea>
+    </section>
+
+    <section class="card">
+      <h2 style="margin-top:0;">Saved context history</h2>
+      <p class="small">Newest first. Stored locally in your browser only.</p>
+      <div id="history" class="history-list"></div>
+    </section>
+  </div>
+
+  <script>
+    const STORAGE = {
+      apiKey: 'ea_updates_openai_api_key',
+      seed: 'ea_updates_seed_context',
+      history: 'ea_updates_history'
+    };
+
+    const DEFAULT_SEED = `HC/PHAC EA — Highlight Reel
+Chad’s Clusters through PATH/HAIL Convergence
+April 2026 — EA/TPO working reference
+
+1. Chad's clusters established as the authoritative taxonomy
+- Canonical nine-cluster HC/PHAC capability organization from ARB deck (2026-03-31).
+- Cleaned IT plan mapping confirmed 30 verified proposals and reduced duplicate/system-ID noise.
+- Strategic direction: shift from fragmented program-centric delivery toward enterprise platforms/composable architecture.
+
+2. AI capability mapping across clusters
+- Working AI taxonomy: Perception, Prediction, Reasoning.
+- Data substrate dependencies surfaced: Fabric Lakehouse, CNDSS Modernization, Scientific Research Database.
+- Data readiness became an explicit precondition for AI workloads.
+
+3. PATH/HAIL disambiguation
+- PATH interpreted as Protected B governance + execution pattern commitment.
+- HAIL interpreted as real runtime lab environment.
+- Standing position: layered model (PATH control plane + HAIL execution), not competing platforms.
+
+4. DM-level 10-slide pitch
+- Joint HC/PHAC enterprise AI platform narrative focused on avoiding duplicated solutions and governance gaps.
+- PMRA framed as first reference architecture workload (not canonical by default).
+- Directive on Automated Decision-Making added as explicit compliance constraint.
+
+5. ARB package gap analysis
+- PATH/HAIL convergence architecture identified as unresolved highest-priority gap.
+- Convergence framing note (options + recommendation) identified as key ARB input.
+- Well-Architected assessment scoped to Operational Excellence + Reliability to formalize key platform gaps.
+
+6. GoC AI Platform Intelligence (April 14)
+- Primary structural risk: PATH and HAIL advancing without ARB-resolved convergence architecture.
+- Escalated as P1 architecture decision.
+- Shadow AI framing: risk is GC-sanctioned but ungoverned pathways filling Protected B capability gaps.
+
+Open item: convergence decision remains the gating architecture decision for downstream work.`;
+
+    const byId = (id) => document.getElementById(id);
+    const statusEl = byId('status');
+
+    function setStatus(message, type = '') {
+      statusEl.textContent = message;
+      statusEl.className = `status ${type}`.trim();
+    }
+
+    function getHistory() {
+      try {
+        const parsed = JSON.parse(localStorage.getItem(STORAGE.history) || '[]');
+        return Array.isArray(parsed) ? parsed : [];
+      } catch {
+        return [];
+      }
+    }
+
+    function setHistory(entries) {
+      localStorage.setItem(STORAGE.history, JSON.stringify(entries));
+    }
+
+    function renderHistory() {
+      const wrap = byId('history');
+      const entries = getHistory();
+      if (!entries.length) {
+        wrap.innerHTML = '<p class="small">No saved entries yet.</p>';
+        return;
+      }
+      wrap.innerHTML = entries.map((entry) => `
+        <article class="history-item">
+          <time>${new Date(entry.timestamp).toLocaleString()}</time>
+          <pre>${escapeHtml(entry.text)}</pre>
+        </article>
+      `).join('');
+    }
+
+    function escapeHtml(value) {
+      return value
+        .replaceAll('&', '&amp;')
+        .replaceAll('<', '&lt;')
+        .replaceAll('>', '&gt;')
+        .replaceAll('"', '&quot;')
+        .replaceAll("'", '&#39;');
+    }
+
+    function saveKey() {
+      const key = byId('api-key').value.trim();
+      if (!key) {
+        setStatus('Please enter an API key first.', 'error');
+        return;
+      }
+      localStorage.setItem(STORAGE.apiKey, key);
+      setStatus('API key saved in local browser storage.', 'ok');
+    }
+
+    async function runAiAnalysis() {
+      const key = byId('api-key').value.trim() || localStorage.getItem(STORAGE.apiKey) || '';
+      if (!key) {
+        setStatus('Missing API key. Enter and save an OpenAI API key first.', 'error');
+        return;
+      }
+
+      const seed = byId('seed-context').value.trim();
+      const latest = byId('new-input').value.trim();
+      const question = byId('analysis-question').value.trim();
+
+      if (!latest) {
+        setStatus('Paste the latest text to ingest before running analysis.', 'error');
+        return;
+      }
+
+      const history = getHistory();
+      const historyText = history
+        .slice(0, 12)
+        .map((h, idx) => `Context ${idx + 1} (${new Date(h.timestamp).toISOString()}):\n${h.text}`)
+        .join('\n\n');
+
+      const prompt = [
+        'You are supporting EA/TPO working analysis for HC/PHAC AI platform architecture decisions.',
+        'Use the provided baseline context and saved historical context, then analyze the latest pasted input.',
+        'Clearly separate: (1) factual carry-over from prior context, (2) newly introduced claims, (3) potential contradictions or unresolved items, and (4) recommended next actions for ARB or DM/ADM briefing.',
+        'Keep the answer concise but structured with headings and bullets.'
+      ].join(' ');
+
+      const inputText = [
+        'BASELINE CONTEXT:',
+        seed || '(none)',
+        '',
+        'SAVED CONTEXT HISTORY:',
+        historyText || '(none)',
+        '',
+        'LATEST INPUT TO INGEST:',
+        latest,
+        '',
+        'REQUEST:',
+        question || 'Produce a concise update memo with explicit changes from prior context.'
+      ].join('\n');
+
+      setStatus('Running AI analysis...', '');
+      byId('ai-output').value = '';
+
+      try {
+        const response = await fetch('https://api.openai.com/v1/responses', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${key}`
+          },
+          body: JSON.stringify({
+            model: 'gpt-4.1-mini',
+            input: [
+              { role: 'system', content: [{ type: 'input_text', text: prompt }] },
+              { role: 'user', content: [{ type: 'input_text', text: inputText }] }
+            ]
+          })
+        });
+
+        if (!response.ok) {
+          const errText = await response.text();
+          throw new Error(`HTTP ${response.status}: ${errText}`);
+        }
+
+        const data = await response.json();
+        const out = data.output_text || extractOutputText(data) || 'No output text returned.';
+        byId('ai-output').value = out.trim();
+        setStatus('AI analysis completed.', 'ok');
+      } catch (err) {
+        setStatus(`AI analysis failed: ${err.message}`, 'error');
+      }
+    }
+
+    function extractOutputText(data) {
+      if (!data || !Array.isArray(data.output)) return '';
+      const chunks = [];
+      data.output.forEach((item) => {
+        if (!item || !Array.isArray(item.content)) return;
+        item.content.forEach((c) => {
+          if (c && typeof c.text === 'string') chunks.push(c.text);
+        });
+      });
+      return chunks.join('\n').trim();
+    }
+
+    function saveContextEntry() {
+      const text = byId('new-input').value.trim();
+      if (!text) {
+        setStatus('Paste text before saving context.', 'error');
+        return;
+      }
+      const next = [{ timestamp: new Date().toISOString(), text }, ...getHistory()].slice(0, 50);
+      setHistory(next);
+      renderHistory();
+      setStatus('Context entry saved.', 'ok');
+    }
+
+    function clearHistory() {
+      localStorage.removeItem(STORAGE.history);
+      renderHistory();
+      setStatus('Saved context cleared.', 'ok');
+    }
+
+    function init() {
+      byId('api-key').value = localStorage.getItem(STORAGE.apiKey) || '';
+      byId('seed-context').value = localStorage.getItem(STORAGE.seed) || DEFAULT_SEED;
+      byId('seed-context').addEventListener('input', (e) => {
+        localStorage.setItem(STORAGE.seed, e.target.value);
+      });
+
+      byId('save-key').addEventListener('click', saveKey);
+      byId('clear-key').addEventListener('click', () => {
+        localStorage.removeItem(STORAGE.apiKey);
+        byId('api-key').value = '';
+        setStatus('Stored API key removed.', 'ok');
+      });
+      byId('save-context').addEventListener('click', saveContextEntry);
+      byId('clear-history').addEventListener('click', clearHistory);
+      byId('run-analysis').addEventListener('click', runAiAnalysis);
+
+      renderHistory();
+    }
+
+    init();
+  </script>
+</body>
+</html>
