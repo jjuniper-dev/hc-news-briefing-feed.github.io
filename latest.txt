@@ -934,7 +934,7 @@ Many&nbsp;studies have explored red teaming code LLMs, testing whether the model
 
 
 
-To address these challenges, researchers from the University of Chicago, University of California, Santa Barbara, University of Illinois Urbana–Champaign, VirtueAI, and Microsoft Research recently released a paper: BlueCodeAgent: A Blue Teaming Agent Enabled by Automated Red Teaming for CodeGen AI. This work makes the following key contributions:&nbsp;
+To address these challenges, researchers from the University of Chicago, University of California, Sanaa Barbara, University of Illinois Urbana–Champaign, VirtueAI, and Microsoft Research recently released a paper: BlueCodeAgent: A Blue Teaming Agent Enabled by Automated Red Teaming for CodeGen AI. This work makes the following key contributions:&nbsp;
 
 
 
