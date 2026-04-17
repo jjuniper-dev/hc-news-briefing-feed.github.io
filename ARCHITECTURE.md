@@ -24,3 +24,26 @@ This repository powers a small static site that publishes a daily news briefing 
 6. **Deployment** – GitHub Pages (see `pages-build-deployment.yml`) publishes the repository contents, turning the static assets into a publicly accessible website.
 
 Together these components deliver a lightweight news dashboard with automated data collection. The design can be expanded with additional services, databases or a CMS as project requirements grow.
+
+## Optional PPTX Post-Processing (PowerPoint MCP)
+
+For workflows that export briefings to PowerPoint, use a **two-path architecture**:
+
+1. **Primary path (authoritative)** – existing PPTX producer builds the initial deck.
+2. **Enhancement path (optional)** – `pptx_mcp_adapter.py` can refine that deck through a Windows PowerPoint MCP runtime.
+
+```
+Deck spec/content model
+        ↓
+Existing PPTX producer (source of truth)
+        ↓
+Generated .pptx
+        ↓
+PowerPoint MCP adapter (optional)
+        ↓
+Desktop PowerPoint runtime on Windows
+        ↓
+Refined .pptx
+```
+
+This boundary keeps baseline generation deterministic and portable while allowing runtime polish (template layouts, notes, animations, equation conversion, and screenshot QA) only when Windows + desktop PowerPoint are available.
