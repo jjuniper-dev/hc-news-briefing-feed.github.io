@@ -1,162 +1,842 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>RSS Feed Health Dashboard</title>
-  <style>
-    body { font-family: sans-serif; margin: 2rem; }
-    h1 {
-      display: inline-block;
-      padding: 0.35rem 0.8rem;
-      border-radius: 0.6rem;
-      color: #fff;
-      background: linear-gradient(120deg, #0a84ff, #5e5ce6, #30d158);
-      background-size: 220% 220%;
-      animation: gradient-shift 5s ease infinite;
-    }
-    table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
-    th, td { border: 1px solid #ccc; padding: 0.5rem; text-align: left; }
-    th { background: #f0f0f0; }
-    .good { color: green; }
-    .warn { color: orange; }
-    .bad  { color: red; }
-    #uptime-list { margin-top: 1rem; list-style: none; padding: 0; }
-    #uptime-list li { margin-bottom: 0.5rem; }
-    #latest-briefing { white-space: pre-wrap; border: 1px solid #ccc; padding: 1rem; background: #f9f9f9; margin-top: 1rem; }
-    #latest-briefing.loading {
-      color: transparent;
-      background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 37%, #f0f0f0 63%);
-      background-size: 400% 100%;
-      animation: shimmer 1.3s linear infinite;
-      min-height: 8rem;
-      user-select: none;
-    }
-    tr.data-row {
-      opacity: 0;
-      transform: translateY(10px);
-      animation: row-in 420ms ease forwards;
-    }
-    @keyframes shimmer {
-      0% { background-position: 100% 0; }
-      100% { background-position: -100% 0; }
-    }
-    @keyframes gradient-shift {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-    @keyframes row-in {
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HC/PHAC Knowledge Graph Explorer</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+
+:root {
+  --bg:         #07101e;
+  --bg2:        #0d1a2e;
+  --bg3:        #111f35;
+  --bg4:        #182840;
+  --border:     rgba(255,255,255,0.08);
+  --border-lt:  rgba(255,255,255,0.14);
+  --accent:     #2563eb;
+  --accent-lt:  #3b82f6;
+  --neo4j:      #018bff;
+  --neo4j-bg:   rgba(1,139,255,0.1);
+  --green:      #10b981;
+  --orange:     #f59e0b;
+  --text:       #e2e8f0;
+  --text-dim:   #64748b;
+  --text-mid:   #94a3b8;
+  --mono:       'IBM Plex Mono', monospace;
+  --sans:       'IBM Plex Sans', sans-serif;
+  --sidebar-w:  260px;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  height: 100%;
+  background: var(--bg);
+  font-family: var(--sans);
+  color: var(--text);
+  overflow: hidden;
+}
+
+.shell { display: flex; height: 100vh; }
+
+.sidebar {
+  width: var(--sidebar-w);
+  flex-shrink: 0;
+  background: var(--bg2);
+  border-right: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.logo-bar { padding: 18px 16px 14px; border-bottom: 1px solid var(--border); flex-shrink: 0; }
+.logo-lockup { display: flex; align-items: center; gap: 10px; margin-bottom: 6px; }
+.logo-icon {
+  width: 32px; height: 32px;
+  background: linear-gradient(135deg, #018bff 0%, #8b5cf6 100%);
+  border-radius: 8px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 16px;
+  flex-shrink: 0;
+}
+.logo-name { font-size: 13px; font-weight: 700; color: var(--text); line-height: 1.2; }
+.logo-sub {
+  font-size: 9px;
+  font-family: var(--mono);
+  color: var(--text-dim);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.instance-cfg { padding: 10px 14px; border-bottom: 1px solid var(--border); flex-shrink: 0; }
+.cfg-label {
+  font-size: 9px;
+  font-family: var(--mono);
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 5px;
+}
+.cfg-input {
+  width: 100%;
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  padding: 6px 9px;
+  font-size: 11px;
+  font-family: var(--mono);
+  color: var(--text);
+  outline: none;
+  margin-bottom: 5px;
+}
+.cfg-input:focus { border-color: var(--accent-lt); }
+.cfg-input::placeholder { color: var(--text-dim); }
+.cfg-row { display: flex; gap: 5px; }
+.cfg-row .cfg-input { margin-bottom: 0; }
+.connect-btn {
+  width: 100%;
+  background: var(--accent);
+  border: none;
+  border-radius: 5px;
+  padding: 7px;
+  font-size: 11px;
+  font-family: var(--mono);
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  margin-top: 6px;
+  transition: opacity 0.15s;
+  letter-spacing: 0.03em;
+}
+.connect-btn:hover { opacity: 0.85; }
+.connect-btn:disabled { opacity: 0.6; cursor: wait; }
+
+.conn-status {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 10px;
+  font-family: var(--mono);
+  color: var(--text-dim);
+  margin-top: 6px;
+}
+.conn-dot {
+  width: 7px; height: 7px;
+  border-radius: 50%;
+  background: var(--text-dim);
+  flex-shrink: 0;
+}
+.conn-dot.live {
+  background: var(--green);
+  box-shadow: 0 0 5px var(--green);
+  animation: blink 2s infinite;
+}
+.conn-dot.err { background: #ef4444; box-shadow: 0 0 5px #ef4444; }
+@keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
+
+.graph-section { flex: 1; overflow-y: auto; padding: 10px; }
+.graph-section::-webkit-scrollbar { width: 3px; }
+.graph-section::-webkit-scrollbar-thumb { background: var(--border-lt); border-radius: 2px; }
+
+.section-hdr {
+  font-size: 9px;
+  font-family: var(--mono);
+  font-weight: 700;
+  color: var(--text-dim);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 8px 6px 6px;
+}
+
+.graph-card {
+  border-radius: 7px;
+  padding: 10px 11px;
+  margin-bottom: 4px;
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: all 0.15s;
+  position: relative;
+}
+.graph-card:hover { background: var(--bg3); border-color: var(--border); }
+.graph-card.active { background: var(--neo4j-bg); border-color: rgba(1,139,255,0.35); }
+.graph-card.active::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 50%;
+  transform: translateY(-50%);
+  width: 3px; height: 60%;
+  background: var(--neo4j);
+  border-radius: 0 2px 2px 0;
+}
+
+.gc-top { display: flex; align-items: flex-start; gap: 8px; margin-bottom: 5px; }
+.gc-icon {
+  width: 26px; height: 26px;
+  border-radius: 5px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 13px;
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+.gc-body { flex: 1; min-width: 0; }
+.gc-name {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.2;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.gc-db { font-size: 9px; font-family: var(--mono); color: var(--text-dim); margin-top: 1px; }
+.graph-card.active .gc-db { color: var(--neo4j); }
+
+.gc-tags { display: flex; gap: 4px; flex-wrap: wrap; }
+.gc-tag {
+  font-size: 9px;
+  font-family: var(--mono);
+  padding: 1px 5px;
+  border-radius: 3px;
+  background: var(--bg4);
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+}
+.graph-card.active .gc-tag { background: rgba(1,139,255,0.08); border-color: rgba(1,139,255,0.2); color: #7ec8fd; }
+
+.add-graph-btn {
+  width: 100%;
+  background: transparent;
+  border: 1px dashed var(--border-lt);
+  border-radius: 7px;
+  padding: 8px;
+  font-size: 11px;
+  font-family: var(--mono);
+  color: var(--text-dim);
+  cursor: pointer;
+  text-align: center;
+  margin-top: 4px;
+  transition: all 0.15s;
+}
+.add-graph-btn:hover { border-color: var(--accent-lt); color: var(--accent-lt); background: rgba(59,130,246,0.05); }
+
+.sidebar-footer { border-top: 1px solid var(--border); padding: 10px 14px; flex-shrink: 0; }
+.footer-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 10px;
+  font-family: var(--mono);
+  color: var(--text-dim);
+  margin-bottom: 4px;
+}
+.footer-row:last-child { margin-bottom: 0; }
+.footer-val { color: var(--text-mid); }
+.footer-links {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.footer-link {
+  display: inline-block;
+  color: var(--text-mid);
+  text-decoration: none;
+  font-size: 10px;
+  font-family: var(--mono);
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  padding: 5px 7px;
+  transition: all 0.15s;
+}
+.footer-link:hover { color: var(--text); border-color: var(--border-lt); background: var(--bg3); }
+
+.content { flex: 1; display: flex; flex-direction: column; min-width: 0; }
+
+.top-bar {
+  height: 44px;
+  background: var(--bg2);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  padding: 0 16px;
+  gap: 12px;
+  flex-shrink: 0;
+}
+.current-graph { display: flex; align-items: center; gap: 8px; }
+.cg-icon {
+  width: 22px; height: 22px;
+  border-radius: 4px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 11px;
+  flex-shrink: 0;
+}
+.cg-name { font-size: 13px; font-weight: 600; color: var(--text); }
+.cg-db-badge {
+  font-size: 10px;
+  font-family: var(--mono);
+  background: var(--neo4j-bg);
+  border: 1px solid rgba(1,139,255,0.3);
+  color: var(--neo4j);
+  padding: 2px 8px;
+  border-radius: 3px;
+}
+.bar-sep { flex: 1; }
+.bar-actions { display: flex; gap: 6px; align-items: center; }
+.bar-btn {
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  padding: 4px 10px;
+  font-size: 11px;
+  font-family: var(--mono);
+  color: var(--text-mid);
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.bar-btn:hover { border-color: var(--border-lt); color: var(--text); }
+.bar-btn.neo4j { background: var(--neo4j-bg); border-color: rgba(1,139,255,0.35); color: var(--neo4j); }
+
+.iframe-wrapper { flex: 1; position: relative; background: var(--bg); }
+.neo4j-frame { width: 100%; height: 100%; border: none; display: block; }
+
+.placeholder {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  background: var(--bg);
+}
+.placeholder.hidden { display: none; }
+
+.ph-graphic { position: relative; width: 120px; height: 120px; }
+.ph-node {
+  position: absolute;
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 18px;
+  font-weight: 700;
+  box-shadow: 0 0 20px currentColor;
+  animation: float 3s ease-in-out infinite;
+}
+.ph-n1 { width: 52px; height: 52px; left: 34px; top: 34px; background: rgba(1,139,255,0.15); border: 2px solid #018bff; color: #018bff; animation-delay: 0s; }
+.ph-n2 { width: 36px; height: 36px; left: 0; top: 0; background: rgba(139,92,246,0.15); border: 2px solid #8b5cf6; color: #8b5cf6; animation-delay: 0.4s; }
+.ph-n3 { width: 32px; height: 32px; right: 0; top: 8px; background: rgba(16,185,129,0.15); border: 2px solid #10b981; color: #10b981; animation-delay: 0.8s; }
+.ph-n4 { width: 30px; height: 30px; left: 8px; bottom: 0; background: rgba(245,158,11,0.15); border: 2px solid #f59e0b; color: #f59e0b; animation-delay: 1.2s; }
+@keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }
+
+.ph-title { font-size: 18px; font-weight: 700; color: var(--text); text-align: center; }
+.ph-sub {
+  font-size: 12px;
+  font-family: var(--mono);
+  color: var(--text-dim);
+  text-align: center;
+  line-height: 1.8;
+  max-width: 360px;
+}
+.ph-cta {
+  background: var(--accent);
+  border: none;
+  border-radius: 7px;
+  padding: 10px 24px;
+  font-size: 13px;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  font-family: var(--sans);
+  transition: opacity 0.15s;
+}
+.ph-cta:hover { opacity: 0.85; }
+
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.7);
+  backdrop-filter: blur(4px);
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s;
+}
+.modal-overlay.open { opacity: 1; pointer-events: all; }
+.modal {
+  background: var(--bg2);
+  border: 1px solid var(--border-lt);
+  border-radius: 12px;
+  padding: 24px;
+  width: 380px;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+}
+.modal-title {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 18px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.modal-field { margin-bottom: 12px; }
+.modal-label {
+  font-size: 10px;
+  font-family: var(--mono);
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 5px;
+}
+.modal-input {
+  width: 100%;
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 8px 11px;
+  font-size: 12px;
+  font-family: var(--mono);
+  color: var(--text);
+  outline: none;
+}
+.modal-input:focus { border-color: var(--accent-lt); }
+.modal-input::placeholder { color: var(--text-dim); }
+.emoji-picker { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 4px; }
+.emoji-opt {
+  width: 32px; height: 32px;
+  border-radius: 6px;
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.1s;
+}
+.emoji-opt:hover, .emoji-opt.selected { border-color: var(--accent-lt); background: rgba(59,130,246,0.1); }
+.color-picker-row { display: flex; gap: 6px; margin-top: 4px; }
+.color-opt {
+  width: 22px; height: 22px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 2px solid transparent;
+  transition: border-color 0.1s;
+  flex-shrink: 0;
+}
+.color-opt:hover, .color-opt.selected { border-color: #fff; }
+.modal-actions { display: flex; gap: 8px; margin-top: 18px; }
+.modal-btn {
+  flex: 1;
+  padding: 9px;
+  border-radius: 7px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  font-family: var(--sans);
+  border: none;
+  transition: opacity 0.15s;
+}
+.modal-btn-cancel { background: var(--bg3); border: 1px solid var(--border); color: var(--text-mid); }
+.modal-btn-add { background: var(--neo4j); color: #fff; }
+.modal-btn:hover { opacity: 0.85; }
+</style>
 </head>
 <body>
-  <h1>RSS Feed Health Dashboard</h1>
-  <p>Showing status for the last five days (hover for details).</p>
-  <table id="health-table">
-    <thead>
-      <tr><th>Date</th><th>Feed</th><th>Status</th></tr>
-    </thead>
-    <tbody></tbody>
-  </table>
+<div class="shell">
+  <div class="sidebar">
+    <div class="logo-bar">
+      <div class="logo-lockup">
+        <div class="logo-icon">🕸</div>
+        <div>
+          <div class="logo-name">Knowledge Graph Explorer</div>
+          <div class="logo-sub">HC/PHAC · EA Platform</div>
+        </div>
+      </div>
+    </div>
 
-  <h2>Canadian Feed Uptime (past 7 days)</h2>
-  <ul id="uptime-list"></ul>
+    <div class="instance-cfg">
+      <div class="cfg-label">Neo4j Instance</div>
+      <input class="cfg-input" id="instanceUrl" type="text" placeholder="http://localhost:7474" value="http://localhost:7474">
+      <div class="cfg-row">
+        <input class="cfg-input" id="instanceUser" type="text" placeholder="User" value="neo4j" style="flex:1">
+        <input class="cfg-input" id="instancePass" type="password" placeholder="Pass" style="flex:1">
+      </div>
+      <button class="connect-btn" id="connectBtn" onclick="connect()">Connect</button>
+      <div class="conn-status">
+        <div class="conn-dot" id="connDot"></div>
+        <span id="connLabel">Not connected</span>
+      </div>
+    </div>
 
-  <h2>Latest News Briefing</h2>
-  <pre id="latest-briefing">Loading latest briefing...</pre>
+    <div class="graph-section">
+      <div class="section-hdr">Knowledge Graphs</div>
+      <div id="graphList"></div>
+      <button class="add-graph-btn" onclick="openAddModal()">+ Add Graph / Database</button>
+    </div>
 
-  <script>
-    document.addEventListener('DOMContentLoaded', async () => {
-      const baseURL = 'https://jjuniper-dev.github.io/hc-news-briefing-feed.github.io/';
+    <div class="sidebar-footer">
+      <div class="footer-row"><span>Graphs</span><span class="footer-val" id="footerGraphCount">0</span></div>
+      <div class="footer-row"><span>Active DB</span><span class="footer-val" id="footerActiveDb">—</span></div>
+      <div class="footer-row"><span>Instance</span><span class="footer-val" id="footerInstance">localhost:7474</span></div>
+      <div class="footer-links">
+        <a class="footer-link" href="index.html">Knowledge Graph Explorer</a>
+        <a class="footer-link" href="architecture-fitness-agent.html">Architecture Fitness Agent</a>
+        <a class="footer-link" href="submit.html">Admin Log Entry</a>
+      </div>
+    </div>
+  </div>
 
-      const latestBriefingEl = document.getElementById('latest-briefing');
-      latestBriefingEl.classList.add('loading');
+  <div class="content">
+    <div class="top-bar">
+      <div class="current-graph" id="topBarGraph">
+        <div class="cg-icon" id="topBarIcon" style="background:rgba(1,139,255,0.1);">🕸</div>
+        <div class="cg-name" id="topBarName">No graph selected</div>
+      </div>
+      <span class="cg-db-badge" id="topBarDb" style="display:none"></span>
+      <div class="bar-sep"></div>
+      <div class="bar-actions">
+        <button class="bar-btn" onclick="reloadFrame()" title="Reload">↺ Reload</button>
+        <button class="bar-btn" onclick="openInTab()" title="Open in new tab">↗ Full Screen</button>
+        <button class="bar-btn neo4j" onclick="openNeo4jDirect()">Neo4j Browser ↗</button>
+      </div>
+    </div>
 
-      // Load health.json and populate health table
-      try {
-        const res = await fetch(baseURL + 'health.json');
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const data = await res.json();
-        const tbody = document.querySelector('#health-table tbody');
-        let rowIndex = 0;
-        for (const [date, feeds] of Object.entries(data).slice(-5).reverse()) {
-          for (const [name, status] of Object.entries(feeds)) {
-            const tr = document.createElement('tr');
-            tr.className = 'data-row';
-            tr.style.animationDelay = `${Math.min(rowIndex * 45, 500)}ms`;
-            const cls = status.startsWith('ERROR') ? 'bad'
-                      : status === 'ZERO'      ? 'warn'
-                      : 'good';
-            tr.innerHTML = `
-              <td>${date}</td>
-              <td>${name}</td>
-              <td class="${cls}" title="${status}">${status}</td>
-            `;
-            tbody.appendChild(tr);
-            rowIndex++;
-          }
-        }
-      } catch (err) {
-        console.error('Failed to load health.json:', err);
-        const tbody = document.querySelector('#health-table tbody');
-        const tr = document.createElement('tr');
-        tr.innerHTML = `<td colspan="3" class="bad">Error loading data: ${err.message}</td>`;
-        tbody.appendChild(tr);
-      }
+    <div class="iframe-wrapper">
+      <div class="placeholder" id="placeholder">
+        <div class="ph-graphic">
+          <div class="ph-node ph-n1">N</div>
+          <div class="ph-node ph-n2">P</div>
+          <div class="ph-node ph-n3">H</div>
+          <div class="ph-node ph-n4">A</div>
+        </div>
+        <div class="ph-title">Knowledge Graph Explorer</div>
+        <div class="ph-sub">
+          Enter your Neo4j instance URL above and click Connect.<br>
+          Then select a graph from the sidebar to load it.
+        </div>
+        <button class="ph-cta" onclick="connect()">Connect to Neo4j</button>
+      </div>
 
-      // Load uptime.json and compute uptime percentages
-      try {
-        const res2 = await fetch(baseURL + 'uptime.json');
-        if (!res2.ok) throw new Error(`HTTP ${res2.status}`);
-        const records = await res2.json();
-        const total = records.length;
-        const success = {};
-        // Initialize counters
-        if (total > 0) {
-          Object.keys(records[0]).filter(k => k !== 'timestamp').forEach(feed => success[feed] = 0);
-        }
-        records.forEach(r => {
-          Object.entries(r).forEach(([feed, ok]) => {
-            if (feed === 'timestamp') return;
-            if (ok) success[feed]++;
-          });
-        });
-        const ul = document.getElementById('uptime-list');
-        Object.entries(success).forEach(([feed, count]) => {
-          const pct = total ? Math.round(count / total * 100) : 0;
-          const li = document.createElement('li');
-          li.textContent = `${feed}: ${pct}% (${count}/${total} pings OK)`;
-          ul.appendChild(li);
-        });
-      } catch (err) {
-        console.error('Failed to load uptime.json:', err);
-        const ul = document.getElementById('uptime-list');
-        const li = document.createElement('li');
-        li.className = 'bad';
-        li.textContent = `Error loading uptime data: ${err.message}`;
-        ul.appendChild(li);
-      }
+      <iframe id="neo4jFrame" class="neo4j-frame" style="display:none" allow="fullscreen" title="Neo4j Browser"></iframe>
+    </div>
+  </div>
+</div>
 
-      // Load latest briefing text
-      try {
-        const res3 = await fetch(baseURL + 'latest.txt');
-        if (!res3.ok) throw new Error(`HTTP ${res3.status}`);
-        const text = await res3.text();
-        latestBriefingEl.classList.remove('loading');
-        latestBriefingEl.textContent = text.trim();
-      } catch (err) {
-        console.error('Failed to load latest briefing:', err);
-        const pre = latestBriefingEl;
-        pre.classList.remove('loading');
-        pre.classList.add('bad');
-        pre.textContent = `Error loading latest briefing: ${err.message}`;
-      }
+<div class="modal-overlay" id="modalOverlay" onclick="closeModalIfBg(event)">
+  <div class="modal">
+    <div class="modal-title">🕸 Add Knowledge Graph</div>
+
+    <div class="modal-field">
+      <div class="modal-label">Display Name</div>
+      <input class="modal-input" id="newName" type="text" placeholder="e.g. PMRA Regulatory Graph">
+    </div>
+
+    <div class="modal-field">
+      <div class="modal-label">Neo4j Database Name</div>
+      <input class="modal-input" id="newDb" type="text" placeholder="e.g. pmra (default: neo4j)">
+    </div>
+
+    <div class="modal-field">
+      <div class="modal-label">Description</div>
+      <input class="modal-input" id="newDesc" type="text" placeholder="Short description of this graph">
+    </div>
+
+    <div class="modal-field">
+      <div class="modal-label">Tags (comma separated)</div>
+      <input class="modal-input" id="newTags" type="text" placeholder="e.g. regulatory, Protected B, PMRA">
+    </div>
+
+    <div class="modal-field">
+      <div class="modal-label">Icon</div>
+      <div class="emoji-picker" id="emojiPicker">
+        <div class="emoji-opt selected" data-emoji="🕸" onclick="pickEmoji(this)">🕸</div>
+        <div class="emoji-opt" data-emoji="🧬" onclick="pickEmoji(this)">🧬</div>
+        <div class="emoji-opt" data-emoji="🏥" onclick="pickEmoji(this)">🏥</div>
+        <div class="emoji-opt" data-emoji="💊" onclick="pickEmoji(this)">💊</div>
+        <div class="emoji-opt" data-emoji="📊" onclick="pickEmoji(this)">📊</div>
+        <div class="emoji-opt" data-emoji="🔬" onclick="pickEmoji(this)">🔬</div>
+        <div class="emoji-opt" data-emoji="🌿" onclick="pickEmoji(this)">🌿</div>
+        <div class="emoji-opt" data-emoji="🛡" onclick="pickEmoji(this)">🛡</div>
+        <div class="emoji-opt" data-emoji="📡" onclick="pickEmoji(this)">📡</div>
+        <div class="emoji-opt" data-emoji="🔗" onclick="pickEmoji(this)">🔗</div>
+      </div>
+    </div>
+
+    <div class="modal-field">
+      <div class="modal-label">Accent Color</div>
+      <div class="color-picker-row" id="colorPicker">
+        <div class="color-opt selected" data-color="#018bff" style="background:#018bff" onclick="pickColor(this)"></div>
+        <div class="color-opt" data-color="#8b5cf6" style="background:#8b5cf6" onclick="pickColor(this)"></div>
+        <div class="color-opt" data-color="#10b981" style="background:#10b981" onclick="pickColor(this)"></div>
+        <div class="color-opt" data-color="#f59e0b" style="background:#f59e0b" onclick="pickColor(this)"></div>
+        <div class="color-opt" data-color="#ef4444" style="background:#ef4444" onclick="pickColor(this)"></div>
+        <div class="color-opt" data-color="#ec4899" style="background:#ec4899" onclick="pickColor(this)"></div>
+        <div class="color-opt" data-color="#14b8a6" style="background:#14b8a6" onclick="pickColor(this)"></div>
+      </div>
+    </div>
+
+    <div class="modal-actions">
+      <button class="modal-btn modal-btn-cancel" onclick="closeModal()">Cancel</button>
+      <button class="modal-btn modal-btn-add" onclick="addGraph()">Add Graph</button>
+    </div>
+  </div>
+</div>
+
+<script>
+let graphs = [];
+let activeIdx = null;
+let instanceUrl = 'http://localhost:7474';
+let connected = false;
+let selectedEmoji = '🕸';
+let selectedColor = '#018bff';
+
+const defaultGraphs = [
+  {
+    name: 'HC/PHAC Platform Ontology',
+    db: 'platform',
+    desc: 'Enterprise AI platform capability graph — PATH/HAIL architecture entities and relationships',
+    tags: ['architecture', 'EA', 'platform'],
+    icon: '🕸',
+    color: '#018bff'
+  },
+  {
+    name: 'PMRA Regulatory Knowledge',
+    db: 'pmra',
+    desc: 'Regulatory submissions, decisions, compounds, and post-market surveillance links',
+    tags: ['regulatory', 'Protected B', 'PMRA'],
+    icon: '💊',
+    color: '#8b5cf6'
+  },
+  {
+    name: 'Surveillance Signal Graph',
+    db: 'surveillance',
+    desc: 'CDC/WHO signal entities, disease taxonomy, geographic nodes, outbreak correlations',
+    tags: ['surveillance', 'public health', 'PHAC'],
+    icon: '🧬',
+    color: '#10b981'
+  },
+  {
+    name: 'Capability Cluster Map',
+    db: 'capabilities',
+    desc: "Cluster taxonomy — IT proposals, dependencies, and capability domain relationships",
+    tags: ['EA', 'clusters', 'investment'],
+    icon: '📊',
+    color: '#f59e0b'
+  }
+];
+
+function init() {
+  graphs = [...defaultGraphs];
+  renderGraphs();
+}
+
+async function connect() {
+  instanceUrl = document.getElementById('instanceUrl').value.trim() || 'http://localhost:7474';
+  const connectBtn = document.getElementById('connectBtn');
+  const connDot = document.getElementById('connDot');
+  const connLabel = document.getElementById('connLabel');
+  connectBtn.disabled = true;
+  connLabel.textContent = 'Connecting...';
+  connDot.className = 'conn-dot';
+
+  try {
+    await fetch(`${instanceUrl}/browser/`, { mode: 'no-cors' });
+    connected = true;
+    connDot.className = 'conn-dot live';
+    connLabel.textContent = instanceUrl.replace('http://', '').replace('https://', '');
+    document.getElementById('footerInstance').textContent = connLabel.textContent;
+
+    if (activeIdx === null && graphs.length > 0) {
+      loadGraph(0);
+    } else if (activeIdx !== null) {
+      buildFrameUrl(graphs[activeIdx]);
+    }
+  } catch (err) {
+    connected = false;
+    connDot.className = 'conn-dot err';
+    connLabel.textContent = 'Connection failed';
+    console.error('Failed to connect to Neo4j instance', err);
+  } finally {
+    connectBtn.disabled = false;
+  }
+}
+
+function renderGraphs() {
+  const list = document.getElementById('graphList');
+  document.getElementById('footerGraphCount').textContent = String(graphs.length);
+  list.textContent = '';
+
+  graphs.forEach((g, i) => {
+    const card = document.createElement('div');
+    card.className = `graph-card ${i === activeIdx ? 'active' : ''}`;
+    card.addEventListener('click', () => loadGraph(i));
+
+    const top = document.createElement('div');
+    top.className = 'gc-top';
+
+    const icon = document.createElement('div');
+    icon.className = 'gc-icon';
+    icon.style.background = hexBg(g.color);
+    icon.textContent = g.icon;
+
+    const body = document.createElement('div');
+    body.className = 'gc-body';
+
+    const name = document.createElement('div');
+    name.className = 'gc-name';
+    name.textContent = g.name;
+
+    const db = document.createElement('div');
+    db.className = 'gc-db';
+    db.textContent = `db: ${g.db}`;
+
+    body.append(name, db);
+    top.append(icon, body);
+
+    const tags = document.createElement('div');
+    tags.className = 'gc-tags';
+    g.tags.forEach(t => {
+      const tag = document.createElement('span');
+      tag.className = 'gc-tag';
+      tag.textContent = t;
+      tags.appendChild(tag);
     });
-  </script>
+
+    card.append(top, tags);
+    list.appendChild(card);
+  });
+}
+
+function hexBg(hex) {
+  return hex + '18';
+}
+
+function loadGraph(idx) {
+  activeIdx = idx;
+  const g = graphs[idx];
+  renderGraphs();
+
+  document.getElementById('topBarIcon').textContent = g.icon;
+  document.getElementById('topBarIcon').style.background = hexBg(g.color);
+  document.getElementById('topBarName').textContent = g.name;
+
+  const dbBadge = document.getElementById('topBarDb');
+  dbBadge.textContent = `db: ${g.db}`;
+  dbBadge.style.display = 'inline-flex';
+
+  document.getElementById('footerActiveDb').textContent = g.db;
+
+  if (!connected) {
+    document.getElementById('placeholder').classList.remove('hidden');
+    document.getElementById('neo4jFrame').style.display = 'none';
+    return;
+  }
+
+  buildFrameUrl(g);
+}
+
+function buildFrameUrl(g) {
+  const base = instanceUrl.replace(/\/$/, '');
+  const boltUrl = base.replace(/:\d+$/, ':7687').replace('http://', 'bolt://').replace('https://', 'bolt+s://');
+
+  const params = new URLSearchParams({
+    connectURL: boltUrl,
+    db: g.db
+  });
+
+  const frameUrl = `${base}/browser/?${params.toString()}`;
+  const frame = document.getElementById('neo4jFrame');
+  frame.src = frameUrl;
+  frame.style.display = 'block';
+  document.getElementById('placeholder').classList.add('hidden');
+}
+
+function reloadFrame() {
+  if (activeIdx === null) return;
+  const frame = document.getElementById('neo4jFrame');
+  frame.src = frame.src;
+}
+
+function openInTab() {
+  if (activeIdx === null) return;
+  const frame = document.getElementById('neo4jFrame');
+  if (frame.src) window.open(frame.src, '_blank', 'noopener,noreferrer');
+}
+
+function openNeo4jDirect() {
+  const base = (document.getElementById('instanceUrl').value.trim() || instanceUrl || 'http://localhost:7474').replace(/\/$/, '');
+  window.open(base + '/browser/', '_blank', 'noopener,noreferrer');
+}
+
+function openAddModal() {
+  document.getElementById('modalOverlay').classList.add('open');
+  document.getElementById('newName').focus();
+}
+
+function closeModal() {
+  document.getElementById('modalOverlay').classList.remove('open');
+  document.getElementById('newName').value = '';
+  document.getElementById('newDb').value = '';
+  document.getElementById('newDesc').value = '';
+  document.getElementById('newTags').value = '';
+  selectedEmoji = '🕸';
+  selectedColor = '#018bff';
+  document.querySelectorAll('.emoji-opt').forEach(e => e.classList.remove('selected'));
+  document.querySelector('.emoji-opt').classList.add('selected');
+  document.querySelectorAll('.color-opt').forEach(e => e.classList.remove('selected'));
+  document.querySelector('.color-opt').classList.add('selected');
+}
+
+function closeModalIfBg(e) {
+  if (e.target === document.getElementById('modalOverlay')) closeModal();
+}
+
+function pickEmoji(el) {
+  document.querySelectorAll('.emoji-opt').forEach(e => e.classList.remove('selected'));
+  el.classList.add('selected');
+  selectedEmoji = el.dataset.emoji;
+}
+
+function pickColor(el) {
+  document.querySelectorAll('.color-opt').forEach(e => e.classList.remove('selected'));
+  el.classList.add('selected');
+  selectedColor = el.dataset.color;
+}
+
+function addGraph() {
+  const name = document.getElementById('newName').value.trim();
+  const db = document.getElementById('newDb').value.trim() || 'neo4j';
+  const desc = document.getElementById('newDesc').value.trim();
+  const tags = document.getElementById('newTags').value.split(',').map(t => t.trim()).filter(Boolean);
+
+  if (!name) {
+    document.getElementById('newName').focus();
+    return;
+  }
+
+  graphs.push({ name, db, desc, tags, icon: selectedEmoji, color: selectedColor });
+  renderGraphs();
+  closeModal();
+
+  if (connected) loadGraph(graphs.length - 1);
+}
+
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') closeModal();
+  if (e.key === 'ArrowDown' && document.activeElement === document.body) {
+    if (activeIdx === null) loadGraph(0);
+    else if (activeIdx < graphs.length - 1) loadGraph(activeIdx + 1);
+  }
+  if (e.key === 'ArrowUp' && document.activeElement === document.body) {
+    if (activeIdx !== null && activeIdx > 0) loadGraph(activeIdx - 1);
+  }
+});
+
+init();
+</script>
 </body>
 </html>
