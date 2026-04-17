@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Website Backlog – AI Agent UX Concept</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f7f9fc;
+      --surface: #ffffff;
+      --text: #1b1f2a;
+      --muted: #59627a;
+      --accent: #4154ff;
+      --accent-soft: #eef0ff;
+      --border: #dbe1ee;
+      --success: #2b8a3e;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      color: var(--text);
+      background: radial-gradient(circle at top right, #edf2ff 0, var(--bg) 40%);
+      line-height: 1.5;
+    }
+
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 2rem 1rem 4rem;
+    }
+
+    .header {
+      background: linear-gradient(120deg, #1f2a60, #3445b4 60%, #4154ff);
+      color: #fff;
+      border-radius: 1rem;
+      padding: 1.5rem;
+      box-shadow: 0 16px 35px rgba(31, 42, 96, 0.22);
+    }
+
+    .kicker {
+      margin: 0;
+      font-size: 0.85rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      opacity: 0.86;
+    }
+
+    h1 {
+      margin: 0.45rem 0 0.35rem;
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+    }
+
+    .subtitle {
+      margin: 0;
+      max-width: 72ch;
+      opacity: 0.95;
+    }
+
+    .top-links {
+      margin-top: 1rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.65rem;
+    }
+
+    .top-links a {
+      text-decoration: none;
+      color: #fff;
+      border: 1px solid rgba(255, 255, 255, 0.35);
+      border-radius: 999px;
+      padding: 0.45rem 0.8rem;
+      font-size: 0.9rem;
+    }
+
+    section {
+      margin-top: 1.5rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 0.9rem;
+      padding: 1.1rem 1.1rem 1rem;
+      box-shadow: 0 8px 25px rgba(17, 30, 72, 0.06);
+    }
+
+    h2 {
+      margin: 0;
+      font-size: 1.2rem;
+    }
+
+    .lead {
+      margin: 0.55rem 0 0;
+      color: var(--muted);
+    }
+
+    ol,
+    ul {
+      margin: 0.8rem 0 0;
+      padding-left: 1.2rem;
+    }
+
+    li + li {
+      margin-top: 0.5rem;
+    }
+
+    .grid {
+      display: grid;
+      gap: 1rem;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      margin-top: 1rem;
+    }
+
+    .card {
+      background: var(--accent-soft);
+      border: 1px solid #d8ddff;
+      border-radius: 0.75rem;
+      padding: 0.9rem;
+    }
+
+    .card h3 {
+      margin: 0;
+      font-size: 1rem;
+    }
+
+    .card p {
+      margin: 0.45rem 0 0;
+      color: #2f3b5f;
+      font-size: 0.95rem;
+    }
+
+    .next {
+      border-left: 4px solid var(--success);
+      background: #f5fff8;
+    }
+
+    footer {
+      margin-top: 1.2rem;
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+  </style>
+</head>
+<body>
+  <main class="container">
+    <header class="header">
+      <p class="kicker">Website backlog concept</p>
+      <h1>Designing for Human + AI Agent UX</h1>
+      <p class="subtitle">
+        Working concept for a future platform direction: interfaces that are equally legible to people and autonomous AI agents.
+      </p>
+      <nav class="top-links" aria-label="Page links">
+        <a href="index.html">← Back to dashboard</a>
+        <a href="#takeaway">Core takeaway</a>
+        <a href="#platform">Platform implications</a>
+        <a href="#patterns">Design patterns</a>
+      </nav>
+    </header>
+
+    <section id="takeaway">
+      <h2>Core Takeaway</h2>
+      <p class="lead">
+        AI agents create a dual-audience interface problem: every product surface must support <strong>human understanding</strong> and <strong>machine interpretation</strong> at the same time.
+      </p>
+    </section>
+
+    <section id="summary">
+      <h2>Source Synthesis (Concise)</h2>
+      <ol>
+        <li><strong>AI operators are action-oriented agents.</strong> They navigate and complete workflows instead of only answering prompts.</li>
+        <li><strong>AI becomes a first-class user type.</strong> Poor structure can cause incorrect agent behavior.</li>
+        <li><strong>Semantic clarity is now UX-critical.</strong> Tags, predictable flows, and structured affordances matter as much as visual design.</li>
+        <li><strong>Design must be multidisciplinary.</strong> Product/design, engineering, and AI/ML teams need tighter collaboration.</li>
+        <li><strong>Hybrid interaction is the destination.</strong> Agents act while humans supervise, approve, and override when needed.</li>
+      </ol>
+    </section>
+
+    <section id="platform">
+      <h2>Implications for the Platform</h2>
+      <div class="grid">
+        <article class="card">
+          <h3>1) Dual-layer UI architecture</h3>
+          <p>Human layer: visual hierarchy, dashboards, graphics, multimedia. Machine layer: semantic markup, stable components, explicit interaction states.</p>
+        </article>
+        <article class="card">
+          <h3>2) Agent cognition should be visible</h3>
+          <p>Expose what the agent is doing now, what it intends next, confidence/uncertainty, and where user confirmation is required.</p>
+        </article>
+        <article class="card">
+          <h3>3) Multimedia becomes structured data</h3>
+          <p>Treat graphics/media as machine-readable assets with metadata, accessible descriptions, and consistent schemas.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="patterns">
+      <h2>Practical Design Patterns</h2>
+      <div class="grid">
+        <article class="card">
+          <h3>A. Agent-aware components</h3>
+          <ul>
+            <li>Buttons and links with explicit semantic roles.</li>
+            <li>Forms with clear validation and status transitions.</li>
+            <li>Cards carrying machine-readable metadata.</li>
+            <li>Predictable navigation hierarchy.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <h3>B. Agent-readable dashboards</h3>
+          <ul>
+            <li>Widget data type and schema.</li>
+            <li>Update frequency and freshness.</li>
+            <li>Permitted interactions.</li>
+            <li>Expected agent actions.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <h3>C. Transparency side panel</h3>
+          <ul>
+            <li>Current task and reasoning steps.</li>
+            <li>Planned next action.</li>
+            <li>Awaiting-user-confirmation states.</li>
+            <li>Error and recovery paths.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <h3>D. Human–AI co-navigation</h3>
+          <ul>
+            <li>Agent suggestions + human override.</li>
+            <li>Human-initiated and agent-initiated flows.</li>
+            <li>Shared context memory across sessions.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <section class="next" id="next">
+      <h2>Next-step backlog candidates</h2>
+      <ul>
+        <li>Draft wireframes: dashboard, transparency rail, multimedia inspector.</li>
+        <li>Define semantic component spec for widgets and cards.</li>
+        <li>Create a small prototype that logs agent actions and user overrides.</li>
+        <li>Map architecture to C4-style context and container diagrams.</li>
+      </ul>
+    </section>
+
+    <footer>
+      Added as a planning artifact in the website backlog to guide future UX and platform decisions.
+    </footer>
+  </main>
+</body>
+</html>
