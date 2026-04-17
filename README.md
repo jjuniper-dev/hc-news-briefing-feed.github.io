@@ -14,3 +14,9 @@ The intended operating model is:
 - MCP enhancement is a best-effort refinement pass
 - fallback is always the original generated deck when capabilities are missing
 - a separate MCP client bridge is required for execution (Copilot can assist development/orchestration but is not an MCP runtime client by itself)
+
+The adapter includes:
+
+- `DeckEnhancementRequest.from_dict(...)` for a neutral JSON contract
+- `build_tool_plan(...)` for deterministic translation into MCP tool calls
+- staged job output and graceful fallback when required runtime capabilities are missing

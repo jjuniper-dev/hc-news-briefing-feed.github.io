@@ -55,3 +55,41 @@ This boundary keeps baseline generation deterministic and portable while allowin
 - LLM assistants such as GitHub Copilot can help **author** and **orchestrate** integration code.
 - They do **not** replace an MCP client runtime that invokes MCP tools.
 - A bridge layer (extension, local app, or service) is required between the LLM surface and the PowerPoint MCP server.
+
+### Integration contract and translation layer
+
+The adapter accepts a neutral deck payload (`DeckEnhancementRequest.from_dict`) and translates it to MCP tool calls (`build_tool_plan`).
+
+Example payload shape:
+
+```json
+{
+  "deck_path": "/path/to/generated.pptx",
+  "enhancements": {
+    "template_name": "DTB_OptionA",
+    "apply_layouts": true,
+    "add_animations": true,
+    "convert_latex": true,
+    "speaker_notes": true,
+    "run_visual_qa": true
+  },
+  "slides": [
+    {
+      "slide_number": 1,
+      "operations": [
+        {"type": "notes", "content": "Speaker notes here"},
+        {"type": "animate", "target": "bullet_list_1", "effect": "appear", "by_paragraph": true}
+      ]
+    }
+  ]
+}
+```
+
+Current tool mapping:
+
+- open/save deck → `manage_presentation`
+- template discovery/layout analysis → `list_templates`, `analyze_template`
+- notes → `add_speaker_notes`
+- animation → `add_animation`
+- equation conversion mode → `populate_placeholder`
+- visual QA snapshots → `slide_snapshot`

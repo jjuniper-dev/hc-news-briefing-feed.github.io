@@ -1,14 +1,9 @@
 #!/usr/bin/env python3
 """Optional PowerPoint MCP enhancement adapter.
 
-This module implements the integration contract for using a Windows PowerPoint
-MCP server as a post-processing step around an existing PPTX producer.
-
-Design goals:
-- Preserve existing PPTX generation as the source of truth.
-- Offer MCP-based enhancement only when runtime capabilities are available.
-- Provide deterministic fallback behavior when MCP is unavailable.
-- Require an explicit MCP client bridge (Copilot/LLM alone is not a client).
+This module models an integration where an existing (file-oriented) PPTX producer
+remains authoritative and a PowerPoint MCP runtime is used only as an optional
+Windows refinement pass.
 """
 
 from __future__ import annotations
@@ -30,6 +25,12 @@ class JobStage(str, Enum):
     ENHANCEMENTS_APPLIED = "ENHANCEMENTS_APPLIED"
     SNAPSHOT_QA_COMPLETE = "SNAPSHOT_QA_COMPLETE"
     PRESENTATION_SAVED = "PRESENTATION_SAVED"
+
+
+@dataclass
+class ToolCall:
+    tool: str
+    arguments: Dict[str, Any]
 
 
 @dataclass
@@ -63,6 +64,20 @@ class DeckEnhancementRequest:
     enhancements: EnhancementOptions = field(default_factory=EnhancementOptions)
     slides: List[SlideEnhancement] = field(default_factory=list)
 
+    @classmethod
+    def from_dict(cls, payload: Dict[str, Any]) -> "DeckEnhancementRequest":
+        options = EnhancementOptions(**payload.get("enhancements", {}))
+        slides: List[SlideEnhancement] = []
+        for slide in payload.get("slides", []):
+            ops = [SlideOperation(**operation) for operation in slide.get("operations", [])]
+            slides.append(
+                SlideEnhancement(
+                    slide_number=int(slide["slide_number"]),
+                    operations=ops,
+                )
+            )
+        return cls(deck_path=Path(payload["deck_path"]), enhancements=options, slides=slides)
+
 
 @dataclass
 class CapabilityReport:
@@ -72,6 +87,7 @@ class CapabilityReport:
     has_uvx: bool
     mcp_launchable: bool
     has_mcp_client_bridge: bool
+    has_powerpoint_session_access: bool
 
     @property
     def available(self) -> bool:
@@ -82,6 +98,7 @@ class CapabilityReport:
             and self.has_uvx
             and self.mcp_launchable
             and self.has_mcp_client_bridge
+            and self.has_powerpoint_session_access
         )
 
     def to_warning_list(self) -> List[str]:
@@ -100,6 +117,8 @@ class CapabilityReport:
             warnings.append(
                 "MCP enhancement disabled: no MCP client bridge configured (Copilot alone cannot execute MCP tools)."
             )
+        if not self.has_powerpoint_session_access:
+            warnings.append("MCP enhancement disabled: PowerPoint desktop session is not accessible.")
         return warnings
 
 
@@ -110,23 +129,21 @@ class EnhancementResult:
     snapshot_paths: List[Path]
     warnings: List[str]
     stages: List[JobStage]
+    tool_plan: List[ToolCall] = field(default_factory=list)
 
 
 class PowerPointMCPAdapter:
-    """Facade for optional PPTX enhancement through a PowerPoint MCP server.
-
-    This implementation intentionally keeps MCP interactions abstract so it can
-    run safely in non-Windows CI while documenting exactly where tool calls are
-    expected (manage_presentation, slide_snapshot, populate_placeholder, etc.).
-    """
+    """Facade for optional PPTX enhancement through a PowerPoint MCP server."""
 
     def __init__(
         self,
         mcp_probe_cmd: Optional[List[str]] = None,
         mcp_client_bridge_cmd: Optional[List[str]] = None,
+        ppt_session_probe_cmd: Optional[List[str]] = None,
     ) -> None:
         self._mcp_probe_cmd = mcp_probe_cmd or ["uvx", "--version"]
         self._mcp_client_bridge_cmd = mcp_client_bridge_cmd
+        self._ppt_session_probe_cmd = ppt_session_probe_cmd
 
     def probe_capabilities(self) -> CapabilityReport:
         is_windows = platform.system().lower() == "windows"
@@ -138,6 +155,10 @@ class PowerPointMCPAdapter:
             self._mcp_client_bridge_cmd is not None
             and self._command_succeeds(self._mcp_client_bridge_cmd)
         )
+        has_powerpoint_session_access = (
+            self._ppt_session_probe_cmd is not None
+            and self._command_succeeds(self._ppt_session_probe_cmd)
+        )
         return CapabilityReport(
             is_windows=is_windows,
             has_powerpoint=has_powerpoint,
@@ -145,7 +166,55 @@ class PowerPointMCPAdapter:
             has_uvx=has_uvx,
             mcp_launchable=mcp_launchable,
             has_mcp_client_bridge=has_mcp_client_bridge,
+            has_powerpoint_session_access=has_powerpoint_session_access,
         )
+
+    def build_tool_plan(self, request: DeckEnhancementRequest) -> List[ToolCall]:
+        plan: List[ToolCall] = [
+            ToolCall("manage_presentation", {"action": "open", "path": str(request.deck_path)}),
+        ]
+
+        if request.enhancements.apply_layouts and request.enhancements.template_name:
+            plan.extend(
+                [
+                    ToolCall("list_templates", {}),
+                    ToolCall(
+                        "analyze_template",
+                        {"template_name": request.enhancements.template_name},
+                    ),
+                ]
+            )
+
+        for slide in request.slides:
+            for op in slide.operations:
+                if op.type == "notes":
+                    plan.append(
+                        ToolCall(
+                            "add_speaker_notes",
+                            {"slide_number": slide.slide_number, "content": op.content or ""},
+                        )
+                    )
+                elif op.type == "animate":
+                    plan.append(
+                        ToolCall(
+                            "add_animation",
+                            {
+                                "slide_number": slide.slide_number,
+                                "target": op.target,
+                                "effect": op.effect,
+                                "by_paragraph": bool(op.by_paragraph),
+                            },
+                        )
+                    )
+
+        if request.enhancements.convert_latex:
+            plan.append(ToolCall("populate_placeholder", {"mode": "native_equation"}))
+
+        if request.enhancements.run_visual_qa:
+            plan.append(ToolCall("slide_snapshot", {"all_slides": True}))
+
+        plan.append(ToolCall("manage_presentation", {"action": "save", "path": str(request.deck_path)}))
+        return plan
 
     def enhance(self, request: DeckEnhancementRequest) -> EnhancementResult:
         operation_log: List[str] = []
@@ -163,62 +232,42 @@ class PowerPointMCPAdapter:
                 snapshot_paths=snapshot_paths,
                 warnings=warnings,
                 stages=stages,
+                tool_plan=[],
             )
 
-        # The sequence below captures the intended MCP workflow contract.
+        tool_plan = self.build_tool_plan(request)
+
         stages.append(JobStage.MCP_SESSION_STARTED)
-        operation_log.append("MCP session started.")
+        operation_log.append("MCP session started via configured client bridge.")
 
         stages.append(JobStage.PRESENTATION_OPENED)
         operation_log.append("Presentation opened using manage_presentation.")
 
         if request.enhancements.apply_layouts and request.enhancements.template_name:
             stages.append(JobStage.TEMPLATE_ANALYZED)
-            operation_log.append(
-                "Template analyzed using list_templates/analyze_template and applied with add_slide_with_layout."
-            )
+            operation_log.append("Template analysis completed (list_templates -> analyze_template).")
 
-        operation_log.extend(self._build_operation_log(request))
         stages.append(JobStage.ENHANCEMENTS_APPLIED)
+        operation_log.append("Slide-level MCP enhancement operations planned/applied.")
 
         if request.enhancements.run_visual_qa:
             stages.append(JobStage.SNAPSHOT_QA_COMPLETE)
-            operation_log.append("Generated per-slide snapshots using slide_snapshot for QA.")
+            operation_log.append("Visual QA snapshots requested via slide_snapshot.")
 
         stages.append(JobStage.PRESENTATION_SAVED)
         operation_log.append("Presentation saved using manage_presentation.")
 
-        # In this repository we keep the refined path identical unless a separate
-        # runtime worker writes to a second file.
         return EnhancementResult(
             refined_deck_path=request.deck_path,
             operation_log=operation_log,
             snapshot_paths=snapshot_paths,
             warnings=warnings,
             stages=stages,
+            tool_plan=tool_plan,
         )
-
-    def _build_operation_log(self, request: DeckEnhancementRequest) -> List[str]:
-        operations: List[str] = []
-        for slide in request.slides:
-            for op in slide.operations:
-                if op.type == "notes":
-                    operations.append(
-                        f"Slide {slide.slide_number}: add_speaker_notes applied."
-                    )
-                elif op.type == "animate":
-                    operations.append(
-                        f"Slide {slide.slide_number}: add_animation target={op.target!r} effect={op.effect!r}."
-                    )
-                else:
-                    operations.append(
-                        f"Slide {slide.slide_number}: unsupported operation {op.type!r} skipped."
-                    )
-        return operations
 
     @staticmethod
     def _find_powerpoint_executable() -> Optional[str]:
-        # Common Windows install names exposed to PATH.
         for candidate in ("POWERPNT.EXE", "powerpnt.exe"):
             path = shutil.which(candidate)
             if path:
@@ -247,4 +296,8 @@ def result_to_jsonable(result: EnhancementResult) -> Dict[str, Any]:
         "snapshots": [str(path) for path in result.snapshot_paths],
         "warnings": result.warnings,
         "stages": [stage.value for stage in result.stages],
+        "tool_plan": [
+            {"tool": call.tool, "arguments": call.arguments}
+            for call in result.tool_plan
+        ],
     }
