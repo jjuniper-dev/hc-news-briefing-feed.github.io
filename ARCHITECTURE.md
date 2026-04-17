@@ -39,6 +39,8 @@ Existing PPTX producer (source of truth)
         ↓
 Generated .pptx
         ↓
+MCP client bridge (required)
+        ↓
 PowerPoint MCP adapter (optional)
         ↓
 Desktop PowerPoint runtime on Windows
@@ -47,3 +49,9 @@ Refined .pptx
 ```
 
 This boundary keeps baseline generation deterministic and portable while allowing runtime polish (template layouts, notes, animations, equation conversion, and screenshot QA) only when Windows + desktop PowerPoint are available.
+
+### MCP client responsibility boundary
+
+- LLM assistants such as GitHub Copilot can help **author** and **orchestrate** integration code.
+- They do **not** replace an MCP client runtime that invokes MCP tools.
+- A bridge layer (extension, local app, or service) is required between the LLM surface and the PowerPoint MCP server.

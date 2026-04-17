@@ -8,6 +8,7 @@ Design goals:
 - Preserve existing PPTX generation as the source of truth.
 - Offer MCP-based enhancement only when runtime capabilities are available.
 - Provide deterministic fallback behavior when MCP is unavailable.
+- Require an explicit MCP client bridge (Copilot/LLM alone is not a client).
 """
 
 from __future__ import annotations
@@ -70,6 +71,7 @@ class CapabilityReport:
     has_python310_plus: bool
     has_uvx: bool
     mcp_launchable: bool
+    has_mcp_client_bridge: bool
 
     @property
     def available(self) -> bool:
@@ -79,6 +81,7 @@ class CapabilityReport:
             and self.has_python310_plus
             and self.has_uvx
             and self.mcp_launchable
+            and self.has_mcp_client_bridge
         )
 
     def to_warning_list(self) -> List[str]:
@@ -93,6 +96,10 @@ class CapabilityReport:
             warnings.append("MCP enhancement disabled: uvx was not found on PATH.")
         if not self.mcp_launchable:
             warnings.append("MCP enhancement disabled: MCP server probe command failed.")
+        if not self.has_mcp_client_bridge:
+            warnings.append(
+                "MCP enhancement disabled: no MCP client bridge configured (Copilot alone cannot execute MCP tools)."
+            )
         return warnings
 
 
@@ -113,8 +120,13 @@ class PowerPointMCPAdapter:
     expected (manage_presentation, slide_snapshot, populate_placeholder, etc.).
     """
 
-    def __init__(self, mcp_probe_cmd: Optional[List[str]] = None) -> None:
+    def __init__(
+        self,
+        mcp_probe_cmd: Optional[List[str]] = None,
+        mcp_client_bridge_cmd: Optional[List[str]] = None,
+    ) -> None:
         self._mcp_probe_cmd = mcp_probe_cmd or ["uvx", "--version"]
+        self._mcp_client_bridge_cmd = mcp_client_bridge_cmd
 
     def probe_capabilities(self) -> CapabilityReport:
         is_windows = platform.system().lower() == "windows"
@@ -122,12 +134,17 @@ class PowerPointMCPAdapter:
         has_python310_plus = platform.python_version_tuple() >= ("3", "10", "0")
         has_uvx = shutil.which("uvx") is not None
         mcp_launchable = self._command_succeeds(self._mcp_probe_cmd)
+        has_mcp_client_bridge = (
+            self._mcp_client_bridge_cmd is not None
+            and self._command_succeeds(self._mcp_client_bridge_cmd)
+        )
         return CapabilityReport(
             is_windows=is_windows,
             has_powerpoint=has_powerpoint,
             has_python310_plus=has_python310_plus,
             has_uvx=has_uvx,
             mcp_launchable=mcp_launchable,
+            has_mcp_client_bridge=has_mcp_client_bridge,
         )
 
     def enhance(self, request: DeckEnhancementRequest) -> EnhancementResult:

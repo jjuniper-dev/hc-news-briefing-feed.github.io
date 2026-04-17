@@ -13,3 +13,4 @@ The intended operating model is:
 - baseline PPTX generation remains the source of truth
 - MCP enhancement is a best-effort refinement pass
 - fallback is always the original generated deck when capabilities are missing
+- a separate MCP client bridge is required for execution (Copilot can assist development/orchestration but is not an MCP runtime client by itself)
