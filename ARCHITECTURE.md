@@ -24,3 +24,72 @@ This repository powers a small static site that publishes a daily news briefing 
 6. **Deployment** – GitHub Pages (see `pages-build-deployment.yml`) publishes the repository contents, turning the static assets into a publicly accessible website.
 
 Together these components deliver a lightweight news dashboard with automated data collection. The design can be expanded with additional services, databases or a CMS as project requirements grow.
+
+## Optional PPTX Post-Processing (PowerPoint MCP)
+
+For workflows that export briefings to PowerPoint, use a **two-path architecture**:
+
+1. **Primary path (authoritative)** – existing PPTX producer builds the initial deck.
+2. **Enhancement path (optional)** – `pptx_mcp_adapter.py` can refine that deck through a Windows PowerPoint MCP runtime.
+
+```
+Deck spec/content model
+        ↓
+Existing PPTX producer (source of truth)
+        ↓
+Generated .pptx
+        ↓
+MCP client bridge (required)
+        ↓
+PowerPoint MCP adapter (optional)
+        ↓
+Desktop PowerPoint runtime on Windows
+        ↓
+Refined .pptx
+```
+
+This boundary keeps baseline generation deterministic and portable while allowing runtime polish (template layouts, notes, animations, equation conversion, and screenshot QA) only when Windows + desktop PowerPoint are available.
+
+### MCP client responsibility boundary
+
+- LLM assistants such as GitHub Copilot can help **author** and **orchestrate** integration code.
+- They do **not** replace an MCP client runtime that invokes MCP tools.
+- A bridge layer (extension, local app, or service) is required between the LLM surface and the PowerPoint MCP server.
+
+### Integration contract and translation layer
+
+The adapter accepts a neutral deck payload (`DeckEnhancementRequest.from_dict`) and translates it to MCP tool calls (`build_tool_plan`).
+
+Example payload shape:
+
+```json
+{
+  "deck_path": "/path/to/generated.pptx",
+  "enhancements": {
+    "template_name": "DTB_OptionA",
+    "apply_layouts": true,
+    "add_animations": true,
+    "convert_latex": true,
+    "speaker_notes": true,
+    "run_visual_qa": true
+  },
+  "slides": [
+    {
+      "slide_number": 1,
+      "operations": [
+        {"type": "notes", "content": "Speaker notes here"},
+        {"type": "animate", "target": "bullet_list_1", "effect": "appear", "by_paragraph": true}
+      ]
+    }
+  ]
+}
+```
+
+Current tool mapping:
+
+- open/save deck → `manage_presentation`
+- template discovery/layout analysis → `list_templates`, `analyze_template`
+- notes → `add_speaker_notes`
+- animation → `add_animation`
+- equation conversion mode → `populate_placeholder`
+- visual QA snapshots → `slide_snapshot`
