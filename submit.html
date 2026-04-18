@@ -4,76 +4,154 @@
   <meta charset="UTF-8">
   <title>State of Democracy Tracker – Admin Log</title>
   <style>
-    body {
-      font-family: sans-serif;
-      background-color: #f4f4f4;
-      padding: 20px;
-      max-width: 600px;
-      margin: auto;
+    :root {
+      --bg: #0b1220;
+      --panel: #121b2f;
+      --panel-2: #16213a;
+      --line: #2a3555;
+      --text: #d7e1ff;
+      --muted: #9eb0da;
+      --accent: #5aa0ff;
+      --good: #34d399;
+      --danger: #f87171;
     }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Inter, "Segoe UI", system-ui, sans-serif;
+      background: radial-gradient(circle at 25% -10%, #1a2b52, var(--bg) 50%);
+      color: var(--text);
+    }
+
+    .wrap {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 1.5rem;
+    }
+
+    .top-nav {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.9rem;
+    }
+
+    .top-nav a {
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 0.86rem;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 0.28rem 0.65rem;
+      background: var(--panel-2);
+    }
+
+    .top-nav a.active {
+      color: var(--text);
+      border-color: #31579c;
+      background: #122446;
+    }
+
     h1 {
-      color: #333;
+      margin: 0 0 0.9rem;
+      font-size: 1.5rem;
     }
     form {
-      background: white;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+      background: color-mix(in srgb, var(--panel), #000 8%);
+      border: 1px solid var(--line);
+      padding: 1rem;
+      border-radius: 12px;
     }
+
+    label {
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+
     input, select, textarea {
       width: 100%;
-      padding: 10px;
-      margin-top: 10px;
-      margin-bottom: 20px;
+      padding: 0.6rem;
+      margin-top: 0.5rem;
+      margin-bottom: 1rem;
       border-radius: 5px;
-      border: 1px solid #ccc;
+      border: 1px solid var(--line);
+      background: var(--panel-2);
+      color: var(--text);
     }
     button {
-      background-color: #0066cc;
-      color: white;
-      padding: 10px 15px;
+      background-color: var(--accent);
+      color: #fff;
+      padding: 0.6rem 0.9rem;
       border: none;
       border-radius: 5px;
       cursor: pointer;
     }
     button:hover {
-      background-color: #004d99;
+      filter: brightness(1.08);
+    }
+
+    #status {
+      margin-top: 0.9rem;
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+
+    #status.success { color: var(--good); }
+    #status.error { color: var(--danger); }
+
+    .hint {
+      margin-top: 0.5rem;
+      color: var(--muted);
+      font-size: 0.84rem;
     }
   </style>
 </head>
 <body>
-  <h1>🗳️ State of Democracy Tracker – Admin Entry</h1>
-  <form id="democracyForm">
-    <label for="date">Date:</label>
-    <input type="date" id="date" name="date" required>
+  <main class="wrap">
+    <nav class="top-nav" aria-label="Site navigation">
+      <a href="./index.html">News Dashboard</a>
+      <a href="./path-architecture.html">PATH Architecture</a>
+      <a class="active" href="./submit.html">Admin Submission</a>
+    </nav>
 
-    <label for="branch">Branch:</label>
-    <select id="branch" name="branch" required>
-      <option value="">Select...</option>
-      <option value="Executive">Executive</option>
-      <option value="Legislative">Legislative</option>
-      <option value="Judicial">Judicial</option>
-      <option value="State">State/Local</option>
-    </select>
+    <h1>🗳️ State of Democracy Tracker – Admin Entry</h1>
+    <form id="democracyForm">
+      <label for="date">Date:</label>
+      <input type="date" id="date" name="date" required>
 
-    <label for="action">Action / Event Title:</label>
-    <input type="text" id="action" name="action" required>
+      <label for="branch">Branch:</label>
+      <select id="branch" name="branch" required>
+        <option value="">Select...</option>
+        <option value="Executive">Executive</option>
+        <option value="Legislative">Legislative</option>
+        <option value="Judicial">Judicial</option>
+        <option value="State">State/Local</option>
+      </select>
 
-    <label for="source">Source / Publisher:</label>
-    <input type="text" id="source" name="source" required>
+      <label for="action">Action / Event Title:</label>
+      <input type="text" id="action" name="action" required>
 
-    <label for="url">Link to Source:</label>
-    <input type="url" id="url" name="url">
+      <label for="source">Source / Publisher:</label>
+      <input type="text" id="source" name="source" required>
 
-    <label for="notes">Description / Notes:</label>
-    <textarea id="notes" name="notes" rows="4" required></textarea>
+      <label for="url">Link to Source:</label>
+      <input type="url" id="url" name="url">
 
-    <button type="submit">Submit Entry</button>
-  </form>
+      <label for="notes">Description / Notes:</label>
+      <textarea id="notes" name="notes" rows="4" required></textarea>
+
+      <button type="submit">Download Entry JSON</button>
+      <p class="hint">This page currently exports the entry locally for manual upload to your pipeline.</p>
+      <div id="status" aria-live="polite"></div>
+    </form>
+  </main>
 
   <script>
     document.getElementById("democracyForm").addEventListener("submit", function(event) {
       event.preventDefault();
+      const status = document.getElementById("status");
       const data = {
         date: this.date.value,
         branch: this.branch.value,
@@ -82,18 +160,25 @@
         url: this.url.value,
         notes: this.notes.value
       };
-      fetch("YOUR_WEBHOOK_OR_ENDPOINT_HERE", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(data)
-      }).then(res => {
-        if (res.ok) {
-          alert("Entry submitted successfully.");
-          this.reset();
-        } else {
-          alert("Submission failed.");
-        }
-      });
+
+      try {
+        const filename = `democracy-entry-${data.date || "undated"}.json`;
+        const blob = new Blob([JSON.stringify(data, null, 2)], { type: "application/json" });
+        const url = URL.createObjectURL(blob);
+        const link = document.createElement("a");
+        link.href = url;
+        link.download = filename;
+        document.body.appendChild(link);
+        link.click();
+        link.remove();
+        URL.revokeObjectURL(url);
+
+        status.className = "success";
+        status.textContent = `Saved ${filename}.`;
+      } catch (err) {
+        status.className = "error";
+        status.textContent = `Export failed: ${err.message}`;
+      }
     });
   </script>
 </body>

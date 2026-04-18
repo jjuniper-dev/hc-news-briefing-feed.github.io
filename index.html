@@ -99,14 +99,20 @@
     }
 
     .nav-list li {
+      margin: 0;
+    }
+
+    .nav-list a {
+      display: block;
       padding: 0.5rem 0.65rem;
       border-radius: 9px;
       color: var(--muted);
       border: 1px solid transparent;
       font-size: 0.92rem;
+      text-decoration: none;
     }
 
-    .nav-list li.active {
+    .nav-list a.active {
       color: var(--text);
       background: #16284d;
       border-color: #27467f;
@@ -292,11 +298,9 @@
       </div>
 
       <ul class="nav-list" aria-label="Primary navigation">
-        <li class="active">Conversation Timeline</li>
-        <li>Knowledge Graph</li>
-        <li>Workflow Manager</li>
-        <li>Data Insights</li>
-        <li>System Health</li>
+        <li><a class="active" href="./index.html">News Dashboard</a></li>
+        <li><a href="./path-architecture.html">PATH Architecture</a></li>
+        <li><a href="./submit.html">Admin Submission</a></li>
       </ul>
       <div class="badge">Privacy: On-device logs</div>
     </aside>
@@ -349,7 +353,7 @@
 
   <script>
     document.addEventListener('DOMContentLoaded', async () => {
-      const baseURL = 'https://jjuniper-dev.github.io/hc-news-briefing-feed.github.io/';
+      const baseURL = './';
       const modeEl = document.getElementById('agent-mode');
       const versionStamp = document.getElementById('version-stamp');
       const workflowSummary = document.getElementById('workflow-summary');
