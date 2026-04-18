@@ -1,5 +1,3 @@
-# .github/workflows/news_pipeline.yml
-
 name: News Briefing Pipeline
 
 on:
@@ -16,21 +14,22 @@ jobs:
 
     steps:
       - name: Check out repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           persist-credentials: true
 
       - name: Set up Python 3.x
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
       - name: Install Python dependencies
         run: |
-          pip install pyyaml requests openai
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: List repository contents
-        run: ls -R .
+        run: find . -maxdepth 2 -type f
 
       - name: Run RSS feed tests
         run: python test_feeds.py
@@ -41,6 +40,7 @@ jobs:
           author_name: 'github-actions'
           author_email: 'github-actions@github.com'
           message: 'chore: update health.json'
+          add: 'health.json'
 
       - name: Generate latest briefing
         env:
@@ -53,3 +53,4 @@ jobs:
           author_name: 'github-actions'
           author_email: 'github-actions@github.com'
           message: 'chore: update latest.txt'
+          add: 'latest.txt'
