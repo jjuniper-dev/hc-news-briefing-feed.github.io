@@ -14,6 +14,7 @@
       --muted: #95a3c8;
       --accent: #2f81ff;
       --accent-2: #7c3aed;
+      --link: #8ab4ff;
       --success: #22c55e;
       --warn: #f59e0b;
       --danger: #ef4444;
@@ -223,6 +224,40 @@
       font-size: 0.88rem;
     }
 
+    .intel-link-card {
+      margin: 0.8rem 0 0.9rem;
+      border: 1px solid #325ca7;
+      background: #122548;
+      border-radius: 12px;
+      padding: 0.75rem;
+    }
+
+    .intel-link-card h3 {
+      margin: 0;
+      font-size: 0.84rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #b9ccff;
+    }
+
+    .intel-link-card p {
+      margin: 0.35rem 0 0.65rem;
+      font-size: 0.85rem;
+      color: #c9d8ff;
+      line-height: 1.35;
+    }
+
+    .intel-link-card a {
+      color: var(--link);
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    .intel-link-card a:hover,
+    .intel-link-card a:focus-visible {
+      text-decoration: underline;
+    }
+
     .status-footer {
       margin-top: 1rem;
       padding-top: 0.8rem;
@@ -337,7 +372,12 @@
 
     <aside class="intel">
       <h2 class="section-title">Contextual Intelligence</h2>
-      <p class="section-subtitle">Latest generated briefing with transparent model output.</p>
+      <p class="section-subtitle">Latest generated briefing with PATH governance context and model output.</p>
+      <div class="intel-link-card">
+        <h3>HC/PHAC AI Architecture Intelligence</h3>
+        <p>Review the PATH control-plane architecture overview, governance model, and enterprise operating assumptions.</p>
+        <a href="./intelligence.html">Open Intelligence Page →</a>
+      </div>
       <pre id="latest-briefing">Loading latest briefing...</pre>
 
       <div class="status-footer">
@@ -349,7 +389,9 @@
 
   <script>
     document.addEventListener('DOMContentLoaded', async () => {
-      const baseURL = 'https://jjuniper-dev.github.io/hc-news-briefing-feed.github.io/';
+      const baseURL = window.location.href.startsWith('http')
+        ? new URL('./', window.location.href).href
+        : './';
       const modeEl = document.getElementById('agent-mode');
       const versionStamp = document.getElementById('version-stamp');
       const workflowSummary = document.getElementById('workflow-summary');
