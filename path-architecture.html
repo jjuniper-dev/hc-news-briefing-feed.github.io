@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PATH Architecture Briefing</title>
+  <style>
+    :root {
+      --bg: #0b1220;
+      --panel: #121b2f;
+      --panel-2: #16213a;
+      --line: #2a3555;
+      --text: #d7e1ff;
+      --muted: #9eb0da;
+      --accent: #5aa0ff;
+      --success: #34d399;
+      --warn: #fbbf24;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Inter, "Segoe UI", system-ui, sans-serif;
+      background: radial-gradient(circle at 25% -10%, #1a2b52, var(--bg) 50%);
+      color: var(--text);
+      line-height: 1.5;
+    }
+
+    .wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1.5rem;
+      display: grid;
+      gap: 1rem;
+    }
+
+    .hero,
+    section {
+      background: color-mix(in srgb, var(--panel), #000 8%);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 1.1rem 1.2rem;
+    }
+
+    .eyebrow {
+      font-size: 0.78rem;
+      letter-spacing: 0.11em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin: 0;
+    }
+
+    h1 {
+      margin: 0.3rem 0 0.4rem;
+      font-size: 1.7rem;
+    }
+
+    .subtitle {
+      color: var(--muted);
+      margin: 0;
+    }
+
+    h2 {
+      font-size: 1.1rem;
+      margin: 0 0 0.7rem;
+    }
+
+    h3 {
+      font-size: 0.95rem;
+      margin: 1rem 0 0.4rem;
+      color: #bfd1ff;
+    }
+
+    p, li {
+      font-size: 0.92rem;
+      margin: 0.2rem 0;
+    }
+
+    ul, ol { margin: 0.2rem 0 0.6rem 1.2rem; }
+
+    .grid-2 {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+      gap: 0.8rem;
+    }
+
+    .callout {
+      border: 1px solid #31579c;
+      background: #122446;
+      border-radius: 10px;
+      padding: 0.7rem;
+      margin-top: 0.7rem;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      overflow: hidden;
+      margin: 0.5rem 0;
+      background: var(--panel-2);
+    }
+
+    th,
+    td {
+      text-align: left;
+      padding: 0.5rem 0.6rem;
+      border-bottom: 1px solid #243155;
+      font-size: 0.88rem;
+      vertical-align: top;
+    }
+
+    th { color: var(--muted); font-weight: 600; }
+    tr:last-child td { border-bottom: 0; }
+
+    .pill {
+      display: inline-block;
+      border-radius: 999px;
+      font-size: 0.76rem;
+      padding: 0.2rem 0.55rem;
+      border: 1px solid transparent;
+      margin-right: 0.3rem;
+    }
+
+    .pill.success { color: var(--success); border-color: #1d7f63; background: #0f2f29; }
+    .pill.warn { color: var(--warn); border-color: #896320; background: #34290f; }
+
+    .footer-note {
+      color: var(--muted);
+      font-size: 0.84rem;
+      margin-top: 0.5rem;
+    }
+
+    a { color: var(--accent); }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <header class="hero">
+      <p class="eyebrow">Health Canada / PHAC Enterprise AI</p>
+      <h1>PATH Agent Briefing</h1>
+      <p class="subtitle">Protected AI Technology Hub (PATH) is the target-state enterprise AI control plane for governed execution, policy enforcement, and defensible scale.</p>
+      <div class="callout">
+        <strong>Critical distinction:</strong> PATH is not a data platform, lab, or toolset. It is the operating system for AI across the enterprise.
+      </div>
+    </header>
+
+    <section>
+      <h2>1) Core Definition + Why PATH Exists</h2>
+      <div class="grid-2">
+        <article>
+          <h3>What PATH provides</h3>
+          <ul>
+            <li>Governed AI execution</li>
+            <li>Standardized deployment patterns</li>
+            <li>End-to-end auditability</li>
+            <li>Secure, policy-enforced model/data access</li>
+          </ul>
+        </article>
+        <article>
+          <h3>Observed current-state blockers</h3>
+          <ul>
+            <li>Fragmented AI patterns and incomplete delivery paths</li>
+            <li>No standard ingress/networking path</li>
+            <li>Heavy cross-team dependency for each deployment</li>
+            <li>No unified runtime and governance model</li>
+          </ul>
+        </article>
+      </div>
+      <div class="callout">
+        <strong>Conclusion:</strong> The organization is scaling data capabilities, but not AI execution control and governance at enterprise scale.
+      </div>
+    </section>
+
+    <section>
+      <h2>2) Core Architectural Principle</h2>
+      <p><strong>Platforms consume governance; they do not define it.</strong></p>
+      <table>
+        <thead>
+          <tr><th>Layer</th><th>Role</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Data Platform</td><td>Data capability</td></tr>
+          <tr><td>AI Models</td><td>Compute capability</td></tr>
+          <tr><td>PATH</td><td>Governance + execution control</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <h2>3) Canonical PATH Architecture: Three Planes + Reuse</h2>
+      <h3>A. Control Plane (PATH Core)</h3>
+      <ul>
+        <li><strong>Identity &amp; access:</strong> Microsoft Entra ID, RBAC, PIM, project-level isolation.</li>
+        <li><strong>AI Gateway (critical):</strong> Azure API Management as the mandatory gateway for model access, metering, rate limiting, request validation, and policy controls.</li>
+        <li><strong>Governance:</strong> Azure Policy, TBS AIA/PIA gates, classification enforcement (Unclassified to Protected B), prompt policy controls.</li>
+        <li><strong>Observability:</strong> Azure Monitor + Log Analytics capture prompt/response/user/model/tokens/time for every request.</li>
+        <li><strong>Data governance integration:</strong> Purview classification, lineage, and access inheritance.</li>
+        <li><strong>FinOps:</strong> Token tracking, project budget controls, and enterprise cost visibility.</li>
+      </ul>
+
+      <h3>B. Runtime Plane (Execution Layer)</h3>
+      <ul>
+        <li>Project/program-isolated Azure subscriptions.</li>
+        <li>Foundry workspace per project with Azure AI Search, Functions/Logic Apps, ADLS Gen2, private networking, and App Insights.</li>
+        <li><strong>Non-negotiable rule:</strong> no direct model access; all requests route through PATH gateway.</li>
+      </ul>
+
+      <h3>C. Data Integration Layer</h3>
+      <ul>
+        <li>Connects enterprise data platform (Fabric/Databricks) and internal/external data sources.</li>
+        <li>Uses governed RAG pipelines, data APIs, and controlled ingestion.</li>
+        <li>Enforced by Purview + Entra ID to preserve trusted data lineage.</li>
+      </ul>
+
+      <h3>D. Reuse Layer (Acceleration)</h3>
+      <ul>
+        <li>Shared model catalog, prompt registry, RAG templates, and pre-approved pipelines.</li>
+        <li>Integration with Power Platform and M365 Copilot APIs for delivery speed and consistency.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>4) Operating Model and Governance</h2>
+      <h3>Onboarding target: under 5 days</h3>
+      <ol>
+        <li>Intake request</li>
+        <li>Subscription provisioning</li>
+        <li>Automated policy + networking baseline</li>
+        <li>Foundry workspace creation</li>
+        <li>Gateway entitlement and route provisioning</li>
+        <li>Budget + monitoring activation</li>
+      </ol>
+
+      <h3>Production gates (CI/CD)</h3>
+      <ul>
+        <li>Security review</li>
+        <li>Privacy review</li>
+        <li>Data science validation</li>
+        <li>EA approval</li>
+        <li>Responsible AI committee sign-off</li>
+      </ul>
+      <p><strong>Lifecycle:</strong> Build → Test → Govern → Deploy → Audit → Improve.</p>
+    </section>
+
+    <section>
+      <h2>5) Enterprise Positioning: Data Platform, HAIL, and PATH</h2>
+      <table>
+        <thead>
+          <tr><th>Component</th><th>Responsibility / Role</th><th>Current Status</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Enterprise Data Platform</td><td>Owns and scales data capabilities</td><td><span class="pill success">Active</span></td></tr>
+          <tr><td>HAIL</td><td>PHAC runtime and workload delivery</td><td><span class="pill success">Operational</span></td></tr>
+          <tr><td>PATH</td><td>HC control plane and enterprise governance</td><td><span class="pill warn">Target-state (evolving)</span></td></tr>
+        </tbody>
+      </table>
+      <div class="callout">
+        <strong>Architectural truth:</strong> PATH + HAIL together form the enterprise AI platform. The major risk is missing convergence architecture, which would produce duplicated platforms and inconsistent governance.
+      </div>
+    </section>
+
+    <section>
+      <h2>6) Strategic Role + Final Position</h2>
+      <ul>
+        <li><strong>Roadmap alignment:</strong> Productivity (Copilot + PATH), surveillance (HAIL + PATH), and reusable services for efficiency.</li>
+        <li><strong>Governance shift:</strong> from project-by-project compliance to inherited platform controls.</li>
+        <li><strong>Maturity reality:</strong> branding and architecture are defined; infrastructure is partially implemented; AIOps is emerging; full operations are still in progress.</li>
+      </ul>
+      <div class="callout">
+        <strong>Executive insight:</strong> PATH turns AI from experimentation into an enterprise capability. It is not an enhancement; it is a prerequisite for defensible enterprise AI.
+      </div>
+      <p class="footer-note">Agent guidance: route all AI interactions through the control plane, enforce identity + policy inheritance, and ensure data is classified and traceable end to end.</p>
+    </section>
+
+    <section>
+      <h2>Source Briefing (Provided Markdown)</h2>
+      <p>This page content was authored from the structured PATH briefing provided for onboarding and EA alignment.</p>
+      <p><a href="./index.html">Return to AI News Control Surface</a></p>
+    </section>
+  </main>
+</body>
+</html>
