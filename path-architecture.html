@@ -43,6 +43,29 @@
       padding: 1.1rem 1.2rem;
     }
 
+    .top-nav {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.7rem;
+    }
+
+    .top-nav a {
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 0.86rem;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 0.28rem 0.65rem;
+      background: var(--panel-2);
+    }
+
+    .top-nav a.active {
+      color: var(--text);
+      border-color: #31579c;
+      background: #122446;
+    }
+
     .eyebrow {
       font-size: 0.78rem;
       letter-spacing: 0.11em;
@@ -139,6 +162,11 @@
 <body>
   <main class="wrap">
     <header class="hero">
+      <nav class="top-nav" aria-label="Site navigation">
+        <a href="./index.html">News Dashboard</a>
+        <a class="active" href="./path-architecture.html">PATH Architecture</a>
+        <a href="./submit.html">Admin Submission</a>
+      </nav>
       <p class="eyebrow">Health Canada / PHAC Enterprise AI</p>
       <h1>PATH Agent Briefing</h1>
       <p class="subtitle">Protected AI Technology Hub (PATH) is the target-state enterprise AI control plane for governed execution, policy enforcement, and defensible scale.</p>
