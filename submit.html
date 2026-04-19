@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>State of Democracy Tracker – Admin Log</title>
+  <title>Admin Entry</title>
   <style>
     body {
       font-family: sans-serif;
@@ -82,8 +82,8 @@
       <li><a href="./submit.html" class="active">Admin Entry</a></li>
     </ul>
   </nav>
-  <h1>🗳️ State of Democracy Tracker – Admin Entry</h1>
-  <form id="democracyForm">
+  <h1>🗂️ Admin Entry</h1>
+  <form id="adminEntryForm">
     <label for="date">Date:</label>
     <input type="date" id="date" name="date" required>
 
@@ -112,7 +112,7 @@
   </form>
 
   <script>
-    document.getElementById("democracyForm").addEventListener("submit", function(event) {
+    document.getElementById("adminEntryForm").addEventListener("submit", function(event) {
       event.preventDefault();
       const data = {
         date: this.date.value,
@@ -131,7 +131,7 @@
           alert("Entry submitted successfully.");
           this.reset();
         } else {
-          alert("Submission failed.");
+          alert("Entry submission failed.");
         }
       });
     });
