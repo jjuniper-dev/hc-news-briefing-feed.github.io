@@ -35,6 +35,33 @@
       gap: 1rem;
     }
 
+    .top-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 1rem 1.5rem 0;
+    }
+
+    .top-nav a {
+      border: 1px solid #2f4d83;
+      color: #b8c9f2;
+      text-decoration: none;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-size: 0.8rem;
+      padding: 0.5rem 0.8rem;
+      border-radius: 8px;
+      background: #121d35;
+    }
+
+    .top-nav a.active {
+      color: #d7e1ff;
+      border-color: #5d83ce;
+      background: #1a2c50;
+    }
+
     .hero,
     section {
       background: color-mix(in srgb, var(--panel), #000 8%);
@@ -137,6 +164,13 @@
   </style>
 </head>
 <body>
+  <nav class="top-nav" aria-label="Site navigation">
+    <a href="./index.html">Overview</a>
+    <a class="active" href="./intelligence.html">PATH</a>
+    <a href="#enterprise-positioning">HAIL</a>
+    <a href="#control-plane">Control Plane</a>
+    <a href="./artifacts.html">Tools (PPTX)</a>
+  </nav>
   <main class="wrap">
     <header class="hero">
       <p class="eyebrow">Health Canada / PHAC Enterprise AI</p>
@@ -189,7 +223,7 @@
       </table>
     </section>
 
-    <section>
+    <section id="control-plane">
       <h2>3) Canonical PATH Architecture: Three Planes + Reuse</h2>
       <h3>A. Control Plane (PATH Core)</h3>
       <ul>
@@ -245,7 +279,7 @@
       <p><strong>Lifecycle:</strong> Build → Test → Govern → Deploy → Audit → Improve.</p>
     </section>
 
-    <section>
+    <section id="enterprise-positioning">
       <h2>5) Enterprise Positioning: Data Platform, HAIL, and PATH</h2>
       <table>
         <thead>
