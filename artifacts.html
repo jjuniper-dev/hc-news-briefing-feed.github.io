@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Artifacts Index</title>
+  <style>
+    :root {
+      --bg: #0b1220;
+      --panel: #111a2e;
+      --panel-2: #16213a;
+      --line: #2a3555;
+      --text: #d7e1ff;
+      --muted: #95a3c8;
+      --accent: #76adff;
+      --chip: #1f2d4f;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Inter, "Segoe UI", system-ui, sans-serif;
+      background: radial-gradient(circle at 20% -10%, #1c2d53, var(--bg) 48%);
+      color: var(--text);
+    }
+
+    .wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1.3rem;
+    }
+
+    .panel {
+      background: color-mix(in srgb, var(--panel), #000 8%);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 1rem;
+      margin-bottom: 1rem;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 1.5rem;
+    }
+
+    .muted {
+      color: var(--muted);
+      margin: 0.35rem 0 0;
+      font-size: 0.92rem;
+    }
+
+    .search-row {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 0.75rem;
+      align-items: center;
+      margin-top: 0.8rem;
+    }
+
+    input[type="search"] {
+      width: 100%;
+      padding: 0.7rem 0.8rem;
+      border-radius: 10px;
+      border: 1px solid #385489;
+      background: #0f1b34;
+      color: var(--text);
+      font-size: 0.95rem;
+    }
+
+    .meta {
+      color: var(--muted);
+      font-size: 0.85rem;
+      white-space: nowrap;
+    }
+
+    .results {
+      display: grid;
+      gap: 0.75rem;
+    }
+
+    .card {
+      border: 1px solid var(--line);
+      background: var(--panel-2);
+      border-radius: 12px;
+      padding: 0.8rem;
+    }
+
+    .card-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 0.8rem;
+      flex-wrap: wrap;
+      align-items: baseline;
+    }
+
+    .card-title {
+      margin: 0;
+      font-size: 1rem;
+    }
+
+    .path {
+      color: var(--accent);
+      font-size: 0.85rem;
+      text-decoration: none;
+      word-break: break-word;
+    }
+
+    .path:hover { text-decoration: underline; }
+
+    .chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      margin-top: 0.55rem;
+    }
+
+    .chip {
+      padding: 0.18rem 0.5rem;
+      border-radius: 999px;
+      background: var(--chip);
+      border: 1px solid #324b7a;
+      color: #bfd0ff;
+      font-size: 0.75rem;
+    }
+
+    .score {
+      font-size: 0.78rem;
+      color: var(--muted);
+    }
+
+    a.home {
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 0.9rem;
+    }
+
+    a.home:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <section class="panel">
+      <h1>Artifacts Index</h1>
+      <p class="muted">All repository artifacts are indexed with tags and semantic keywords so they are searchable from this page.</p>
+      <div class="search-row">
+        <input id="search" type="search" placeholder="Search by artifact, concept, tag, domain, or file path..." aria-label="Search artifacts semantically">
+        <span id="count" class="meta">Loading index...</span>
+      </div>
+      <p class="muted">Try: <code>governance</code>, <code>feeds monitoring</code>, <code>pptx prototype</code>, <code>github actions</code>.</p>
+      <a class="home" href="./index.html">← Back to dashboard</a>
+    </section>
+
+    <section class="results" id="results" aria-live="polite"></section>
+  </main>
+
+  <script>
+    const semanticMap = {
+      governance: ['policy', 'control-plane', 'path', 'compliance', 'auditability'],
+      architecture: ['design', 'reference', 'planes', 'topology', 'diagram'],
+      pipeline: ['workflow', 'automation', 'github-actions', 'scheduled', 'ci'],
+      briefing: ['summary', 'latest', 'news', 'text', 'output'],
+      artifacts: ['artifact', 'backlog', 'prototype', 'deliverable', 'asset'],
+      feeds: ['rss', 'sources', 'monitoring', 'uptime', 'health'],
+      demo: ['prototype', 'mcp', 'pptx', 'workflow', 'replit'],
+      setup: ['bootstrap', 'requirements', 'dependencies', 'install']
+    };
+
+    const normalize = (value) => value.toLowerCase().replace(/[^a-z0-9._-\s]+/g, ' ').trim();
+
+    const expandTerms = (terms) => {
+      const expanded = new Set(terms);
+      terms.forEach((term) => {
+        Object.entries(semanticMap).forEach(([head, aliases]) => {
+          if (term === head || aliases.includes(term)) {
+            expanded.add(head);
+            aliases.forEach(alias => expanded.add(alias));
+          }
+        });
+      });
+      return [...expanded];
+    };
+
+    const buildCorpus = (artifact) => normalize([
+      artifact.id,
+      artifact.title,
+      artifact.path,
+      artifact.type,
+      artifact.summary,
+      ...(artifact.tags || []),
+      ...(artifact.keywords || [])
+    ].join(' '));
+
+    const scoreArtifact = (artifact, queryTerms) => {
+      if (!queryTerms.length) return 1;
+
+      const corpus = buildCorpus(artifact);
+      let score = 0;
+
+      queryTerms.forEach((term) => {
+        if (artifact.path.toLowerCase() === term) score += 10;
+        if (artifact.path.toLowerCase().includes(term)) score += 6;
+        if ((artifact.title || '').toLowerCase().includes(term)) score += 5;
+        if ((artifact.tags || []).some(tag => tag.toLowerCase() === term)) score += 5;
+        if ((artifact.tags || []).some(tag => tag.toLowerCase().includes(term))) score += 3;
+        if (corpus.includes(term)) score += 2;
+      });
+
+      return score;
+    };
+
+    const render = (artifacts, query = '') => {
+      const resultsEl = document.getElementById('results');
+      const countEl = document.getElementById('count');
+      const terms = expandTerms(normalize(query).split(/\s+/).filter(Boolean));
+
+      const ranked = artifacts
+        .map(a => ({ artifact: a, score: scoreArtifact(a, terms) }))
+        .filter(entry => entry.score > 0)
+        .sort((a, b) => b.score - a.score || a.artifact.path.localeCompare(b.artifact.path));
+
+      countEl.textContent = `${ranked.length} / ${artifacts.length} indexed artifacts`;
+
+      if (!ranked.length) {
+        resultsEl.innerHTML = '<article class="card"><p class="muted">No artifacts matched this semantic query. Try broader concepts or a file path.</p></article>';
+        return;
+      }
+
+      resultsEl.innerHTML = ranked.map(({ artifact, score }) => `
+        <article class="card">
+          <div class="card-head">
+            <h2 class="card-title">${artifact.id} · ${artifact.title}</h2>
+            <span class="score">Semantic score: ${score}</span>
+          </div>
+          <a class="path" href="./${artifact.path}">${artifact.path}</a>
+          <p class="muted">${artifact.type} — ${artifact.summary}</p>
+          <div class="chips">
+            ${(artifact.tags || []).map(tag => `<span class="chip">#${tag}</span>`).join('')}
+          </div>
+        </article>
+      `).join('');
+    };
+
+    (async () => {
+      const searchEl = document.getElementById('search');
+      try {
+        const res = await fetch('./artifacts-index.json');
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const artifacts = await res.json();
+        render(artifacts);
+
+        searchEl.addEventListener('input', (event) => {
+          render(artifacts, event.target.value);
+        });
+      } catch (error) {
+        document.getElementById('count').textContent = 'Index unavailable';
+        document.getElementById('results').innerHTML = `<article class="card"><p class="muted">Failed to load artifacts index: ${error.message}</p></article>`;
+      }
+    })();
+  </script>
+</body>
+</html>
