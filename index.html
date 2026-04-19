@@ -107,6 +107,18 @@
       font-size: 0.92rem;
     }
 
+    .nav-list a {
+      color: inherit;
+      text-decoration: none;
+      display: block;
+    }
+
+    .nav-list a:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+      border-radius: 6px;
+    }
+
     .nav-list li.active {
       color: var(--text);
       background: #16284d;
@@ -327,11 +339,10 @@
       </div>
 
       <ul class="nav-list" aria-label="Primary navigation">
-        <li class="active">Conversation Timeline</li>
-        <li>Knowledge Graph</li>
-        <li>Workflow Manager</li>
-        <li>Data Insights</li>
-        <li>System Health</li>
+        <li class="active"><a href="./index.html" aria-current="page">Conversation Timeline</a></li>
+        <li><a href="./intelligence.html">Intelligence</a></li>
+        <li><a href="./path-architecture.html">Artifacts</a></li>
+        <li><a href="./submit.html">Submit Entry</a></li>
       </ul>
       <div class="badge">Privacy: On-device logs</div>
     </aside>
