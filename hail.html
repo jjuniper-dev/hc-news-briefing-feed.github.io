@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hail Monitoring</title>
+  <style>
+    :root {
+      --bg: #0b1220;
+      --panel: #111a2e;
+      --line: #2a3555;
+      --text: #d7e1ff;
+      --muted: #95a3c8;
+      --accent: #8ab4ff;
+      --ok: #22c55e;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      padding: 1rem;
+      color: var(--text);
+      font-family: Inter, Segoe UI Variable, Segoe UI, system-ui, sans-serif;
+      background: radial-gradient(circle at 20% -10%, #182447, var(--bg) 45%);
+    }
+
+    main {
+      width: min(700px, 100%);
+      background: color-mix(in srgb, var(--panel), #000 10%);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 1.25rem;
+    }
+
+    h1 {
+      margin: 0 0 0.35rem;
+      font-size: 1.3rem;
+    }
+
+    p {
+      margin: 0.4rem 0;
+      color: var(--muted);
+      line-height: 1.45;
+    }
+
+    .status {
+      margin-top: 1rem;
+      padding: 0.8rem;
+      border-radius: 10px;
+      border: 1px solid #24553a;
+      background: #0f2319;
+      color: #b9efcf;
+      font-weight: 600;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Hail Monitoring</h1>
+    <p>This page was added to provide a stable destination for hail status checks.</p>
+    <p class="status">Operational status: No hail alerts are currently published by this site.</p>
+    <p>Need broader context? Return to the <a href="./index.html">News Ops Dashboard</a>.</p>
+  </main>
+</body>
+</html>
