@@ -39,9 +39,49 @@
     button:hover {
       background-color: #004d99;
     }
+
+    .top-nav {
+      margin-bottom: 1rem;
+    }
+    .top-nav-list {
+      list-style: none;
+      margin: 0;
+      padding: 10px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      border-radius: 10px;
+      border: 1px solid #d8dce6;
+      background: #ffffff;
+    }
+    .top-nav-list a {
+      text-decoration: none;
+      color: #2c467c;
+      border: 1px solid #b5c6ee;
+      background: #edf2ff;
+      border-radius: 999px;
+      padding: 6px 12px;
+      font-size: 0.84rem;
+      font-weight: 600;
+      display: inline-block;
+    }
+    .top-nav-list a.active {
+      color: #ffffff;
+      border-color: #1f59b8;
+      background: #2e68c7;
+    }
   </style>
 </head>
 <body>
+  <nav class="top-nav" aria-label="Primary">
+    <ul class="top-nav-list">
+      <li><a href="./index.html">News Dashboard</a></li>
+      <li><a href="./intelligence.html">PATH Intelligence</a></li>
+      <li><a href="./path-architecture.html">PATH Architecture</a></li>
+      <li><a href="./artifacts.html">Artifacts Index</a></li>
+      <li><a href="./submit.html" class="active">Admin Entry</a></li>
+    </ul>
+  </nav>
   <h1>🗳️ State of Democracy Tracker – Admin Entry</h1>
   <form id="democracyForm">
     <label for="date">Date:</label>
