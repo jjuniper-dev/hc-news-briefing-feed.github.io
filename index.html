@@ -287,6 +287,7 @@
       animation: row-in 380ms ease forwards;
     }
 
+
     @media (max-width: 1100px) {
       .app-shell {
         grid-template-columns: 1fr;
@@ -294,6 +295,54 @@
       .grid { grid-template-columns: 1fr; }
     }
 
+    @media (max-width: 768px) {
+      .app-shell {
+        gap: 0.75rem;
+        padding: 0.65rem;
+      }
+
+      .rail,
+      .canvas,
+      .intel {
+        padding: 0.85rem;
+        border-radius: 12px;
+      }
+
+      .rail {
+        order: 1;
+      }
+
+      .canvas {
+        order: 2;
+      }
+
+      .intel {
+        order: 3;
+      }
+
+      .nav-list {
+        grid-auto-flow: column;
+        grid-auto-columns: max-content;
+        overflow-x: auto;
+        overscroll-behavior-x: contain;
+        padding-bottom: 0.2rem;
+        margin-right: -0.2rem;
+      }
+
+      .nav-list li {
+        white-space: nowrap;
+      }
+
+      .timeline-table {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+      }
+
+      #latest-briefing {
+        max-height: 240px;
+      }
+    }
     @keyframes shimmer {
       0% { background-position: 100% 0; }
       100% { background-position: -100% 0; }
