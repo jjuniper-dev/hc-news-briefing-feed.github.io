@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ART-001",
+    "path": "index.html",
+    "title": "AI News Control Surface",
+    "type": "Web UI",
+    "tags": ["dashboard", "frontend", "health", "briefing", "operations"],
+    "summary": "Primary dashboard with health timeline, uptime panel, and latest generated briefing.",
+    "keywords": ["conversation timeline", "workflow manager", "data insights", "system health"]
+  },
+  {
+    "id": "ART-002",
+    "path": "intelligence.html",
+    "title": "PATH Intelligence Overview",
+    "type": "Web UI",
+    "tags": ["architecture", "path", "governance", "enterprise-ai", "control-plane"],
+    "summary": "Architecture briefing page for PATH governance, runtime, and integration model.",
+    "keywords": ["health canada", "phac", "policy", "ai gateway", "operating model"]
+  },
+  {
+    "id": "ART-003",
+    "path": "path-architecture.html",
+    "title": "PATH Architecture Document",
+    "type": "Web Document",
+    "tags": ["architecture", "path", "reference", "enterprise-ai"],
+    "summary": "Detailed PATH architecture reference page for control and runtime layers.",
+    "keywords": ["reference", "planes", "governance", "target state"]
+  },
+  {
+    "id": "ART-004",
+    "path": "submit.html",
+    "title": "Admin Entry Form",
+    "type": "Web UI",
+    "tags": ["admin", "form", "ingestion", "tracking"],
+    "summary": "Submission form for logging democracy tracker events and metadata.",
+    "keywords": ["entry", "webhook", "event log", "source"]
+  },
+  {
+    "id": "ART-005",
+    "path": "ARCHITECTURE.md",
+    "title": "System Architecture Overview",
+    "type": "Documentation",
+    "tags": ["docs", "architecture", "pipeline", "deployment"],
+    "summary": "Explains feed ingestion, briefing generation, storage, and GitHub Pages deployment.",
+    "keywords": ["data flow", "automation", "github actions", "site publish"]
+  },
+  {
+    "id": "ART-006",
+    "path": "README.md",
+    "title": "Repository Overview",
+    "type": "Documentation",
+    "tags": ["docs", "overview", "onboarding"],
+    "summary": "Project introduction and links to architecture and backlog.",
+    "keywords": ["setup", "dashboard", "news", "github pages"]
+  },
+  {
+    "id": "ART-007",
+    "path": "backlog.md",
+    "title": "Project Backlog",
+    "type": "Documentation",
+    "tags": ["planning", "backlog", "roadmap", "artifacts"],
+    "summary": "Search-indexed backlog with planned artifact-generation and MCP prototype initiatives.",
+    "keywords": ["BL-001", "BL-002", "pptx", "prototype", "mcp"]
+  },
+  {
+    "id": "ART-008",
+    "path": "generate_latest.py",
+    "title": "Latest Briefing Generator",
+    "type": "Python Script",
+    "tags": ["python", "generation", "briefing", "automation"],
+    "summary": "Creates the latest text briefing from configured feeds and processing logic.",
+    "keywords": ["rss", "summarization", "output", "latest.txt"]
+  },
+  {
+    "id": "ART-009",
+    "path": "generate_weather.py",
+    "title": "Weather Data Generator",
+    "type": "Python Script",
+    "tags": ["python", "weather", "data", "automation"],
+    "summary": "Generates weather-related content used by the briefing pipeline.",
+    "keywords": ["forecast", "feed enrichment", "scheduled"]
+  },
+  {
+    "id": "ART-010",
+    "path": "test_feeds.py",
+    "title": "Feed Health Tests",
+    "type": "Python Test",
+    "tags": ["testing", "feeds", "health", "python"],
+    "summary": "Validates reachability and health status for configured news feeds.",
+    "keywords": ["monitoring", "uptime", "checks", "validation"]
+  },
+  {
+    "id": "ART-011",
+    "path": "feeds.yaml",
+    "title": "Feed Configuration",
+    "type": "Config",
+    "tags": ["config", "feeds", "rss", "sources"],
+    "summary": "Canonical list of source feeds used by ingestion and health checks.",
+    "keywords": ["publishers", "urls", "categories"]
+  },
+  {
+    "id": "ART-012",
+    "path": "requirements.txt",
+    "title": "Python Dependencies",
+    "type": "Dependency Manifest",
+    "tags": ["python", "dependencies", "setup"],
+    "summary": "Package requirements for running pipeline scripts and tests.",
+    "keywords": ["pip", "libraries", "runtime"]
+  },
+  {
+    "id": "ART-013",
+    "path": "news_pipeline.yml",
+    "title": "News Pipeline Workflow",
+    "type": "GitHub Action",
+    "tags": ["ci", "github-actions", "pipeline", "automation"],
+    "summary": "Automated workflow that refreshes briefing artifacts and publishes outputs.",
+    "keywords": ["cron", "scheduled", "build", "deploy"]
+  },
+  {
+    "id": "ART-014",
+    "path": "fetch-ai-geomatics.yml",
+    "title": "AI Geomatics Fetch Workflow",
+    "type": "GitHub Action",
+    "tags": ["ci", "github-actions", "fetch", "geomatics"],
+    "summary": "Workflow for collecting AI geomatics content and refreshing related artifacts.",
+    "keywords": ["collector", "automation", "feeds"]
+  },
+  {
+    "id": "ART-015",
+    "path": "ping_canadian_feeds.yml",
+    "title": "Canadian Feed Ping Workflow",
+    "type": "GitHub Action",
+    "tags": ["ci", "github-actions", "monitoring", "feeds"],
+    "summary": "Workflow that pings Canadian sources and logs availability status.",
+    "keywords": ["health checks", "uptime", "canada", "alerts"]
+  },
+  {
+    "id": "ART-016",
+    "path": "latest.txt",
+    "title": "Generated Latest Briefing",
+    "type": "Data Output",
+    "tags": ["output", "briefing", "text", "generated"],
+    "summary": "Current generated plain-text briefing shown in the dashboard.",
+    "keywords": ["daily summary", "news brief", "artifact"]
+  },
+  {
+    "id": "ART-017",
+    "path": "health.json",
+    "title": "Feed Health Timeline",
+    "type": "Data Output",
+    "tags": ["output", "health", "json", "monitoring"],
+    "summary": "Historical feed health statuses consumed by timeline visualizations.",
+    "keywords": ["status", "errors", "events"]
+  },
+  {
+    "id": "ART-018",
+    "path": "cache.json",
+    "title": "Pipeline Cache",
+    "type": "Data Output",
+    "tags": ["output", "cache", "json", "pipeline"],
+    "summary": "Cached intermediary data used to accelerate refresh workflows.",
+    "keywords": ["state", "intermediate", "performance"]
+  },
+  {
+    "id": "ART-019",
+    "path": "ai_zone_arch.png",
+    "title": "AI Zone Architecture Diagram",
+    "type": "Image",
+    "tags": ["diagram", "architecture", "image", "reference"],
+    "summary": "Visual architecture artifact supporting PATH and AI operating model discussions.",
+    "keywords": ["visual", "topology", "zones"]
+  },
+  {
+    "id": "ART-020",
+    "path": "setup.sh",
+    "title": "Environment Setup Script",
+    "type": "Shell Script",
+    "tags": ["setup", "shell", "bootstrap", "developer-experience"],
+    "summary": "Bootstrap script for preparing local dependencies and runtime setup.",
+    "keywords": ["install", "environment", "script"]
+  }
+]
