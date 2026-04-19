@@ -1,603 +1,303 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI News Control Surface</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>github.blog</title>
   <style>
     :root {
-      --bg: #0b1220;
-      --panel: #111a2e;
-      --panel-2: #16213a;
-      --line: #2a3555;
-      --text: #d7e1ff;
-      --muted: #95a3c8;
-      --accent: #2f81ff;
-      --accent-2: #7c3aed;
-      --link: #8ab4ff;
-      --success: #22c55e;
-      --warn: #f59e0b;
-      --danger: #ef4444;
-      --thinking: #60a5fa;
-      --radius: 14px;
+      --bg: #020811;
+      --panel: #020b17;
+      --ink: #f2f5f8;
+      --muted: #8d95a5;
+      --line: #1b2433;
+      --chip: #2a3342;
+      --chip-green: #0f6a3a;
+      --max: 880px;
     }
 
     * { box-sizing: border-box; }
+
     body {
       margin: 0;
-      font-family: Inter, Segoe UI Variable, Segoe UI, system-ui, sans-serif;
-      color: var(--text);
-      background: radial-gradient(circle at 20% -10%, #182447, #0b1220 45%);
-      min-height: 100vh;
+      font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--ink);
+      background: var(--bg);
     }
 
-    .app-shell {
-      display: grid;
-      grid-template-columns: 250px 1fr 320px;
-      min-height: 100vh;
+    a { color: inherit; text-decoration: none; }
+
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: color-mix(in srgb, var(--panel), #000 20%);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .topbar-inner {
+      max-width: var(--max);
+      margin: 0 auto;
+      min-height: 82px;
+      padding: 1rem 1.25rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
       gap: 1rem;
-      padding: 1rem;
-    }
-
-    .rail,
-    .canvas,
-    .intel {
-      background: color-mix(in srgb, var(--panel), #000 10%);
-      border: 1px solid var(--line);
-      border-radius: var(--radius);
-      padding: 1rem;
     }
 
     .brand {
-      font-size: 0.78rem;
-      text-transform: uppercase;
-      letter-spacing: 0.12em;
-      color: var(--muted);
+      display: flex;
+      align-items: center;
+      gap: 0.7rem;
+      font-size: clamp(1.7rem, 3.8vw, 2.3rem);
+      font-weight: 650;
+      letter-spacing: 0.01em;
+    }
+
+    .brand-icon {
+      width: 40px;
+      height: 40px;
+      border-radius: 999px;
+      border: 1px solid #303a4a;
+      display: grid;
+      place-content: center;
+      font-size: 1.4rem;
+      background: #0b111b;
+    }
+
+    .brand-slash { color: #63708a; font-weight: 500; }
+
+    .actions {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      color: #f8fbff;
+      font-size: 2rem;
+      line-height: 1;
+    }
+
+    .hero {
+      border-top: 1px solid #182130;
+      border-bottom: 1px solid #182130;
+      background:
+        linear-gradient(transparent 23px, rgba(255, 255, 255, 0.04) 24px),
+        linear-gradient(90deg, transparent 23px, rgba(255, 255, 255, 0.04) 24px),
+        radial-gradient(circle at center, #06101f 0%, #020811 70%);
+      background-size: 24px 24px, 24px 24px, cover;
+    }
+
+    .hero-inner {
+      max-width: var(--max);
+      margin: 0 auto;
+      min-height: 220px;
+      display: grid;
+      place-content: center;
+      text-align: center;
+      padding: 2rem 1.5rem;
     }
 
     h1 {
-      margin: 0.3rem 0 0.8rem;
-      font-size: 1.25rem;
-      font-weight: 650;
-    }
-
-    .agent-state {
-      display: flex;
-      gap: 0.7rem;
-      align-items: center;
-      padding: 0.8rem;
-      background: var(--panel-2);
-      border: 1px solid var(--line);
-      border-radius: 12px;
-      margin: 0.5rem 0 1rem;
-    }
-
-    .orb {
-      width: 12px;
-      height: 12px;
-      border-radius: 50%;
-      background: var(--thinking);
-      box-shadow: 0 0 0 0 rgba(96, 165, 250, 0.7);
-      animation: pulse 1.8s ease-in-out infinite;
-    }
-
-    .state-label {
-      font-size: 0.9rem;
-    }
-
-    .state-copy {
-      color: var(--muted);
-      font-size: 0.8rem;
-      margin-top: 0.2rem;
-    }
-
-    .nav-list {
-      margin: 1rem 0;
-      padding: 0;
-      list-style: none;
-      display: grid;
-      gap: 0.45rem;
-    }
-
-    .nav-list li {
-      padding: 0.5rem 0.65rem;
-      border-radius: 9px;
-      color: var(--muted);
-      border: 1px solid transparent;
-      font-size: 0.92rem;
-    }
-
-    .nav-list li.active {
-      color: var(--text);
-      background: #16284d;
-      border-color: #27467f;
-    }
-
-    .section-title {
       margin: 0;
-      font-size: 1rem;
+      font-size: clamp(2rem, 9vw, 4rem);
+      letter-spacing: -0.02em;
     }
 
-    .section-subtitle {
-      color: var(--muted);
-      font-size: 0.88rem;
-      margin: 0.2rem 0 0.9rem;
+    .container {
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 0.2rem 1.25rem 3rem;
     }
 
-    .timeline-table {
-      width: 100%;
-      border-collapse: collapse;
-      overflow: hidden;
-      border-radius: 11px;
-      border: 1px solid var(--line);
-      background: var(--panel-2);
-    }
-
-    .timeline-table th,
-    .timeline-table td {
-      text-align: left;
-      font-size: 0.86rem;
-      padding: 0.6rem 0.65rem;
-      border-bottom: 1px solid #243155;
-    }
-
-    .timeline-table th {
-      color: var(--muted);
-      font-weight: 550;
-    }
-
-    .timeline-table tr:last-child td { border-bottom: 0; }
-
-    .good { color: var(--success); }
-    .warn { color: var(--warn); }
-    .bad { color: var(--danger); }
-
-    .grid {
-      margin-top: 1rem;
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 0.9rem;
-    }
-
-    .card {
-      border: 1px solid var(--line);
-      background: var(--panel-2);
-      border-radius: 12px;
-      padding: 0.75rem;
-    }
-
-    .card h3 {
-      margin: 0;
-      font-size: 0.86rem;
-      color: var(--muted);
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-    }
-
-    .metric {
-      font-size: 1.1rem;
-      margin: 0.4rem 0 0;
-      font-family: "JetBrains Mono", "IBM Plex Mono", ui-monospace, monospace;
-    }
-
-    .spark {
-      display: grid;
-      grid-template-columns: repeat(7, 1fr);
-      gap: 0.25rem;
-      align-items: end;
-      height: 44px;
-      margin-top: 0.6rem;
-    }
-
-    .spark span {
+    .post {
       display: block;
-      border-radius: 5px 5px 2px 2px;
-      background: linear-gradient(180deg, #6ea7ff, #335db3);
+      padding: 2rem 0;
+      border-bottom: 1px solid var(--line);
     }
 
-    #latest-briefing {
-      white-space: pre-wrap;
-      margin: 0;
-      font-size: 0.88rem;
-      line-height: 1.4;
-      max-height: 300px;
-      overflow: auto;
-      color: #cdd8fa;
-    }
-
-    #latest-briefing.loading {
-      color: transparent;
-      background: linear-gradient(90deg, #1f2f50 25%, #243c67 38%, #1f2f50 63%);
-      background-size: 400% 100%;
-      animation: shimmer 1.2s linear infinite;
-      min-height: 8rem;
-      user-select: none;
-      border-radius: 8px;
-    }
-
-    #uptime-list {
-      margin: 0;
-      padding-left: 1rem;
-      display: grid;
-      gap: 0.3rem;
-      color: var(--muted);
-      font-size: 0.88rem;
-    }
-
-    .intel-link-card {
-      margin: 0.8rem 0 0.9rem;
-      border: 1px solid #325ca7;
-      background: #122548;
-      border-radius: 12px;
-      padding: 0.75rem;
-    }
-
-    .intel-link-card h3 {
-      margin: 0;
-      font-size: 0.84rem;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      color: #b9ccff;
-    }
-
-    .intel-link-card p {
-      margin: 0.35rem 0 0.65rem;
-      font-size: 0.85rem;
-      color: #c9d8ff;
-      line-height: 1.35;
-    }
-
-    .intel-link-card a {
-      color: var(--link);
-      font-weight: 600;
-      text-decoration: none;
-    }
-
-    .intel-link-card a:hover,
-    .intel-link-card a:focus-visible {
-      text-decoration: underline;
-    }
-
-    .status-footer {
-      margin-top: 1rem;
-      padding-top: 0.8rem;
-      border-top: 1px solid var(--line);
-      color: var(--muted);
-      font-size: 0.8rem;
+    .meta {
       display: flex;
-      justify-content: space-between;
-      gap: 1rem;
-      flex-wrap: wrap;
-    }
-
-    .badge {
-      border: 1px solid var(--line);
-      border-radius: 999px;
-      padding: 0.25rem 0.55rem;
-      font-size: 0.76rem;
-      color: var(--muted);
-      display: inline-flex;
-      gap: 0.3rem;
       align-items: center;
-    }
-
-    tr.data-row {
-      opacity: 0;
-      transform: translateY(8px);
-      animation: row-in 380ms ease forwards;
-    }
-
-    .top-nav {
-      margin-bottom: 0.2rem;
-      grid-column: 1 / -1;
-    }
-
-    .top-nav-list {
-      list-style: none;
-      margin: 0;
-      padding: 0.65rem;
-      display: flex;
       flex-wrap: wrap;
-      gap: 0.55rem;
-      border-radius: 12px;
-      border: 1px solid var(--line);
-      background: color-mix(in srgb, var(--panel), #000 8%);
-    }
-
-    .top-nav-list a {
-      display: inline-block;
-      text-decoration: none;
+      gap: 0.8rem;
       color: var(--muted);
-      border: 1px solid #324870;
-      background: #13213f;
-      border-radius: 999px;
+      font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      font-size: 0.93rem;
+    }
+
+    .chip {
+      background: var(--chip);
+      color: #b8c0ce;
+      border-radius: 0.45rem;
       padding: 0.35rem 0.7rem;
-      font-size: 0.84rem;
-      font-weight: 600;
+      font-size: 0.88rem;
+      border: 1px solid #333e50;
     }
 
-    .top-nav-list a.active {
-      color: var(--text);
-      border-color: #4f79c6;
-      background: #1e386b;
+    .chip.release {
+      background: var(--chip-green);
+      border-color: #1f834f;
+      color: #d7ffe9;
     }
 
-
-    @media (max-width: 1100px) {
-      .app-shell {
-        grid-template-columns: 1fr;
-      }
-      .grid { grid-template-columns: 1fr; }
+    .title {
+      margin: 1rem 0;
+      font-size: clamp(2rem, 8vw, 3.8rem);
+      line-height: 1.06;
+      letter-spacing: -0.03em;
     }
 
-    @media (max-width: 768px) {
-      .app-shell {
-        gap: 0.75rem;
-        padding: 0.65rem;
-      }
-
-      .rail,
-      .canvas,
-      .intel {
-        padding: 0.85rem;
-        border-radius: 12px;
-      }
-
-      .rail {
-        order: 1;
-      }
-
-      .canvas {
-        order: 2;
-      }
-
-      .intel {
-        order: 3;
-      }
-
-      .nav-list {
-        grid-auto-flow: column;
-        grid-auto-columns: max-content;
-        overflow-x: auto;
-        overscroll-behavior-x: contain;
-        padding-bottom: 0.2rem;
-        margin-right: -0.2rem;
-      }
-
-      .nav-list li {
-        white-space: nowrap;
-      }
-
-      .timeline-table {
-        display: block;
-        overflow-x: auto;
-        white-space: nowrap;
-      }
-
-      #latest-briefing {
-        max-height: 240px;
-      }
-    }
-    @keyframes shimmer {
-      0% { background-position: 100% 0; }
-      100% { background-position: -100% 0; }
+    .title.list {
+      font-size: clamp(1.65rem, 5.7vw, 3rem);
+      margin: 0.9rem 0 0.8rem;
     }
 
-    @keyframes pulse {
-      0% { box-shadow: 0 0 0 0 rgba(96, 165, 250, 0.75); }
-      70% { box-shadow: 0 0 0 12px rgba(96, 165, 250, 0); }
-      100% { box-shadow: 0 0 0 0 rgba(96, 165, 250, 0); }
+    .category {
+      color: var(--muted);
+      text-transform: uppercase;
+      font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+      font-size: 0.92rem;
+      letter-spacing: 0.06em;
     }
 
-    @keyframes row-in {
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
+    .media {
+      width: 100%;
+      border-radius: 14px;
+      border: 1px solid #203047;
+      margin-top: 1.4rem;
+      background: #081223;
+    }
+
+    .back-link {
+      margin: 1.2rem 0;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.6rem;
+      color: #b8c0cf;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+    }
+
+    [hidden] { display: none !important; }
+
+    .footer {
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 1rem 1.25rem 2.2rem;
+      color: #8994a7;
+      font-size: 0.92rem;
+      border-top: 1px solid var(--line);
     }
   </style>
 </head>
 <body>
-  <div class="app-shell">
-  <nav class="top-nav" aria-label="Primary">
-    <ul class="top-nav-list">
-      <li><a href="./index.html" class="active">News Dashboard</a></li>
-      <li><a href="./intelligence.html">PATH Intelligence</a></li>
-      <li><a href="./path-architecture.html">PATH Architecture</a></li>
-      <li><a href="./artifacts.html">Artifacts Index</a></li>
-      <li><a href="./submit.html">Admin Entry</a></li>
-    </ul>
-  </nav>
-    <aside class="rail">
-      <div class="brand">AI Control Surface</div>
-      <h1>News Ops Dashboard</h1>
-      <div class="agent-state" aria-live="polite">
-        <span class="orb" aria-hidden="true"></span>
-        <div>
-          <div class="state-label" id="agent-mode">Listening</div>
-          <div class="state-copy">State-aware assistant telemetry is active.</div>
-        </div>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="#">
+        <span class="brand-icon" aria-hidden="true">🐙</span>
+        <span class="brand-slash">/</span>
+        <span>Blog</span>
+      </a>
+      <div class="actions" aria-hidden="true">
+        <span>⌕</span>
+        <span>☰</span>
       </div>
+    </div>
+  </header>
 
-      <ul class="nav-list" aria-label="Primary navigation">
-        <li class="active">Conversation Timeline</li>
-        <li>Knowledge Graph</li>
-        <li>Workflow Manager</li>
-        <li>Data Insights</li>
-        <li>System Health</li>
-        <li><a href="./artifacts.html" style="color:inherit;text-decoration:none;">Artifacts Index</a></li>
-      </ul>
-      <div class="badge">Privacy: On-device logs</div>
-    </aside>
+  <section class="hero" id="list-hero">
+    <div class="hero-inner">
+      <h1>Related Posts</h1>
+    </div>
+  </section>
 
-    <main class="canvas">
-      <h2 class="section-title">Conversation Timeline</h2>
-      <p class="section-subtitle">Recent feed status snapshots grouped by day.</p>
+  <main class="container" id="list-view" aria-live="polite"></main>
 
-      <table id="health-table" class="timeline-table">
-        <thead>
-          <tr><th>Date</th><th>Feed</th><th>Status</th></tr>
-        </thead>
-        <tbody></tbody>
-      </table>
+  <main class="container" id="detail-view" hidden>
+    <a class="back-link" href="#">← Back to changelog</a>
+    <article id="post-detail"></article>
+  </main>
 
-      <div class="grid">
-        <section class="card">
-          <h3>Task & Workflow Manager</h3>
-          <p class="metric" id="workflow-summary">Monitoring pipeline tasks...</p>
-          <div class="spark" aria-hidden="true">
-            <span style="height:44%"></span>
-            <span style="height:72%"></span>
-            <span style="height:58%"></span>
-            <span style="height:66%"></span>
-            <span style="height:79%"></span>
-            <span style="height:61%"></span>
-            <span style="height:83%"></span>
-          </div>
-        </section>
-
-        <section class="card">
-          <h3>Data Insights Panel</h3>
-          <p class="metric">Canadian Feed Uptime</p>
-          <ul id="uptime-list"></ul>
-        </section>
-      </div>
-    </main>
-
-    <aside class="intel">
-      <h2 class="section-title">Contextual Intelligence</h2>
-      <p class="section-subtitle">Latest generated briefing with PATH governance context and model output.</p>
-      <div class="intel-link-card">
-        <h3>HC/PHAC AI Architecture Intelligence</h3>
-        <p>Review the PATH control-plane architecture overview, governance model, and enterprise operating assumptions.</p>
-        <a href="./intelligence.html">Open Intelligence Page →</a>
-      </div>
-      <div class="intel-link-card">
-        <h3>Architecture End-State Switchboard</h3>
-        <p>Compare accepted conceptual target-state diagrams and switch to the stakeholder-approved Protected B configuration.</p>
-        <a href="./architecture-switchboard.html">Open Architecture Switchboard →</a>
-      </div>
-      <div class="intel-link-card">
-        <h3>Repository Artifacts</h3>
-        <p>Browse the indexed artifact catalog with semantic search and tag filters.</p>
-        <a href="./artifacts.html">Open Artifacts Page →</a>
-      </div>
-      <pre id="latest-briefing">Loading latest briefing...</pre>
-
-      <div class="status-footer">
-        <span class="badge">Model status: nominal</span>
-        <span class="badge" id="version-stamp">Build: --</span>
-      </div>
-    </aside>
-  </div>
+  <footer class="footer">
+    This static blog is GitHub Pages friendly and designed for automated agent updates via <code>posts.json</code>.
+  </footer>
 
   <script>
-    document.addEventListener('DOMContentLoaded', async () => {
-      const baseURL = window.location.href.startsWith('http')
-        ? new URL('./', window.location.href).href
-        : './';
-      const modeEl = document.getElementById('agent-mode');
-      const versionStamp = document.getElementById('version-stamp');
-      const workflowSummary = document.getElementById('workflow-summary');
-      const latestBriefingEl = document.getElementById('latest-briefing');
-      latestBriefingEl.classList.add('loading');
+    const listView = document.getElementById('list-view');
+    const detailView = document.getElementById('detail-view');
+    const listHero = document.getElementById('list-hero');
+    const postDetail = document.getElementById('post-detail');
 
-      const modes = ['Listening', 'Thinking', 'Generating', 'Idle'];
-      let modeIndex = 0;
-      setInterval(() => {
-        modeIndex = (modeIndex + 1) % modes.length;
-        modeEl.textContent = modes[modeIndex];
-      }, 3000);
+    const fmtDate = (isoDate) => {
+      const d = new Date(isoDate + 'T00:00:00Z');
+      return d.toLocaleDateString('en-US', { month: 'short', day: '2-digit' }).replace(',', '.').toUpperCase().replace(' ', '. ');
+    };
 
-      versionStamp.textContent = `Build: ${new Date().toISOString().slice(0, 10)}`;
+    const fmtFullDate = (isoDate) => {
+      const d = new Date(isoDate + 'T00:00:00Z');
+      return d.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }).toUpperCase();
+    };
 
-      // Load health.json and populate health table
-      try {
-        const res = await fetch(baseURL + 'health.json');
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const data = await res.json();
-        const tbody = document.querySelector('#health-table tbody');
-        let rowIndex = 0;
-        let totalRows = 0;
-        let errorRows = 0;
+    const chipClass = (type) => type.toLowerCase() === 'release' ? 'chip release' : 'chip';
 
-        for (const [date, feeds] of Object.entries(data).slice(-5).reverse()) {
-          for (const [name, status] of Object.entries(feeds)) {
-            totalRows++;
-            if (status.startsWith('ERROR')) errorRows++;
-            const tr = document.createElement('tr');
-            tr.className = 'data-row';
-            tr.style.animationDelay = `${Math.min(rowIndex * 40, 480)}ms`;
-            const cls = status.startsWith('ERROR') ? 'bad'
-                      : status === 'ZERO'      ? 'warn'
-                      : 'good';
-            tr.innerHTML = `
-              <td>${date}</td>
-              <td>${name}</td>
-              <td class="${cls}" title="${status}">${status}</td>
-            `;
-            tbody.appendChild(tr);
-            rowIndex++;
-          }
-        }
+    const renderList = (posts) => {
+      listView.innerHTML = posts.map((post) => `
+        <a class="post" href="#post/${post.slug}">
+          <div class="meta">
+            <span>${fmtDate(post.date)}</span>
+            <span class="${chipClass(post.type)}">${post.type}</span>
+          </div>
+          <h2 class="title list">${post.title}</h2>
+          <div class="category">${post.category}</div>
+        </a>
+      `).join('');
+    };
 
-        workflowSummary.textContent = `${Math.max(totalRows - errorRows, 0)} healthy checks across ${totalRows} timeline events.`;
-      } catch (err) {
-        console.error('Failed to load health.json:', err);
-        const tbody = document.querySelector('#health-table tbody');
-        const tr = document.createElement('tr');
-        tr.innerHTML = `<td colspan="3" class="bad">Error loading data: ${err.message}</td>`;
-        tbody.appendChild(tr);
-        workflowSummary.textContent = 'Workflow manager degraded: health timeline unavailable.';
+    const renderDetail = (post) => {
+      postDetail.innerHTML = `
+        <div class="meta">
+          <span class="${chipClass(post.type)}">${post.type}</span>
+          <span>${fmtFullDate(post.date)} • ${post.readTime} MINUTE READ</span>
+        </div>
+        <h1 class="title">${post.title}</h1>
+        ${post.image ? `<img class="media" src="${post.image}" alt="${post.imageAlt || post.title}">` : ''}
+      `;
+    };
+
+    const route = (posts) => {
+      const slug = location.hash.startsWith('#post/') ? location.hash.slice(6) : null;
+      if (!slug) {
+        listView.hidden = false;
+        detailView.hidden = true;
+        listHero.hidden = false;
+        return;
       }
 
-      // Load uptime.json and compute uptime percentages
-      try {
-        const res2 = await fetch(baseURL + 'uptime.json');
-        if (!res2.ok) throw new Error(`HTTP ${res2.status}`);
-        const records = await res2.json();
-        const total = records.length;
-        const success = {};
-        if (total > 0) {
-          Object.keys(records[0]).filter(k => k !== 'timestamp').forEach(feed => success[feed] = 0);
-        }
-        records.forEach(record => {
-          Object.entries(record).forEach(([feed, ok]) => {
-            if (feed === 'timestamp') return;
-            if (ok) success[feed]++;
-          });
-        });
-
-        const ul = document.getElementById('uptime-list');
-        Object.entries(success).forEach(([feed, count]) => {
-          const pct = total ? Math.round((count / total) * 100) : 0;
-          const li = document.createElement('li');
-          li.innerHTML = `<span class="${pct >= 95 ? 'good' : pct >= 85 ? 'warn' : 'bad'}">${feed}</span>: ${pct}% (${count}/${total})`;
-          ul.appendChild(li);
-        });
-      } catch (err) {
-        console.error('Failed to load uptime.json:', err);
-        const ul = document.getElementById('uptime-list');
-        const li = document.createElement('li');
-        li.className = 'bad';
-        li.textContent = `Error loading uptime data: ${err.message}`;
-        ul.appendChild(li);
+      const post = posts.find((item) => item.slug === slug);
+      if (!post) {
+        location.hash = '#';
+        return;
       }
 
-      // Load latest briefing text
-      try {
-        const res3 = await fetch(baseURL + 'latest.txt');
-        if (!res3.ok) throw new Error(`HTTP ${res3.status}`);
-        const text = await res3.text();
-        latestBriefingEl.classList.remove('loading');
-        latestBriefingEl.textContent = text.trim();
-      } catch (err) {
-        console.error('Failed to load latest briefing:', err);
-        latestBriefingEl.classList.remove('loading');
-        latestBriefingEl.classList.add('bad');
-        latestBriefingEl.textContent = `Error loading latest briefing: ${err.message}`;
-      }
-    });
+      renderDetail(post);
+      listView.hidden = true;
+      detailView.hidden = false;
+      listHero.hidden = true;
+    };
+
+    fetch('posts.json')
+      .then((response) => response.json())
+      .then((posts) => {
+        renderList(posts);
+        route(posts);
+        addEventListener('hashchange', () => route(posts));
+      })
+      .catch(() => {
+        listView.innerHTML = '<p>Unable to load posts. Check posts.json.</p>';
+      });
   </script>
 </body>
 </html>
