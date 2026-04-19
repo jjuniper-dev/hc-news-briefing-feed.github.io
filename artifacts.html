@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Artifacts | AI News Control Surface</title>
+  <style>
+    :root {
+      --bg: #070d1a;
+      --panel: #121a2a;
+      --line: #27324b;
+      --text: #e7ecff;
+      --muted: #a3b2d4;
+      --accent: #60a5fa;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Inter, "Segoe UI", system-ui, sans-serif;
+      background: radial-gradient(circle at 30% -10%, #1c2f5f, var(--bg) 50%);
+      color: var(--text);
+    }
+
+    main {
+      max-width: 920px;
+      margin: 0 auto;
+      padding: 1.5rem;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 1.8rem;
+    }
+
+    .subtitle {
+      color: var(--muted);
+      margin: 0.6rem 0 1.4rem;
+    }
+
+    .artifact-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      gap: 0.85rem;
+    }
+
+    .artifact-list a {
+      display: block;
+      padding: 0.95rem 1rem;
+      border-radius: 12px;
+      border: 1px solid var(--line);
+      background: color-mix(in srgb, var(--panel), #000 8%);
+      color: var(--text);
+      text-decoration: none;
+      transition: transform 160ms ease, border-color 160ms ease;
+    }
+
+    .artifact-list a:hover,
+    .artifact-list a:focus-visible {
+      transform: translateY(-1px);
+      border-color: var(--accent);
+      outline: none;
+    }
+
+    .footer-links {
+      margin-top: 1.2rem;
+      display: flex;
+      gap: 0.9rem;
+      flex-wrap: wrap;
+    }
+
+    .footer-links a {
+      color: var(--accent);
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Artifacts</h1>
+    <p class="subtitle">Browse supporting briefing and architecture artifacts from the control surface.</p>
+
+    <ul class="artifact-list">
+      <li><a href="./path-architecture.html">PATH Architecture Briefing</a></li>
+      <li><a href="./intelligence.html">Intelligence Briefing</a></li>
+    </ul>
+
+    <nav class="footer-links" aria-label="Quick links">
+      <a href="./index.html">Return to Dashboard</a>
+      <a href="./submit.html">Submit New Entry</a>
+    </nav>
+  </main>
+</body>
+</html>
