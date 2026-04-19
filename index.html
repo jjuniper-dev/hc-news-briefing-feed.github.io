@@ -287,6 +287,41 @@
       animation: row-in 380ms ease forwards;
     }
 
+    .top-nav {
+      margin-bottom: 0.2rem;
+      grid-column: 1 / -1;
+    }
+
+    .top-nav-list {
+      list-style: none;
+      margin: 0;
+      padding: 0.65rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.55rem;
+      border-radius: 12px;
+      border: 1px solid var(--line);
+      background: color-mix(in srgb, var(--panel), #000 8%);
+    }
+
+    .top-nav-list a {
+      display: inline-block;
+      text-decoration: none;
+      color: var(--muted);
+      border: 1px solid #324870;
+      background: #13213f;
+      border-radius: 999px;
+      padding: 0.35rem 0.7rem;
+      font-size: 0.84rem;
+      font-weight: 600;
+    }
+
+    .top-nav-list a.active {
+      color: var(--text);
+      border-color: #4f79c6;
+      background: #1e386b;
+    }
+
 
     @media (max-width: 1100px) {
       .app-shell {
@@ -364,6 +399,15 @@
 </head>
 <body>
   <div class="app-shell">
+  <nav class="top-nav" aria-label="Primary">
+    <ul class="top-nav-list">
+      <li><a href="./index.html" class="active">News Dashboard</a></li>
+      <li><a href="./intelligence.html">PATH Intelligence</a></li>
+      <li><a href="./path-architecture.html">PATH Architecture</a></li>
+      <li><a href="./artifacts.html">Artifacts Index</a></li>
+      <li><a href="./submit.html">Admin Entry</a></li>
+    </ul>
+  </nav>
     <aside class="rail">
       <div class="brand">AI Control Surface</div>
       <h1>News Ops Dashboard</h1>
