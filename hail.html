@@ -3,74 +3,242 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hail Monitoring</title>
+  <title>HAIL / GREP-ExP Agent Briefing</title>
   <style>
     :root {
       --bg: #0b1220;
-      --panel: #111a2e;
+      --panel: #121b2f;
+      --panel-2: #16213a;
       --line: #2a3555;
       --text: #d7e1ff;
-      --muted: #95a3c8;
-      --accent: #8ab4ff;
-      --ok: #22c55e;
+      --muted: #9eb0da;
+      --accent: #5aa0ff;
+      --success: #34d399;
+      --warn: #fbbf24;
+      --danger: #f87171;
     }
 
     * { box-sizing: border-box; }
 
     body {
       margin: 0;
-      min-height: 100vh;
-      display: grid;
-      place-items: center;
-      padding: 1rem;
+      font-family: Inter, "Segoe UI", system-ui, sans-serif;
+      background: radial-gradient(circle at 25% -10%, #1a2b52, var(--bg) 50%);
       color: var(--text);
-      font-family: Inter, Segoe UI Variable, Segoe UI, system-ui, sans-serif;
-      background: radial-gradient(circle at 20% -10%, #182447, var(--bg) 45%);
+      line-height: 1.5;
     }
 
-    main {
-      width: min(700px, 100%);
-      background: color-mix(in srgb, var(--panel), #000 10%);
+    .wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1.5rem;
+      display: grid;
+      gap: 1rem;
+    }
+
+    .hero,
+    section {
+      background: color-mix(in srgb, var(--panel), #000 8%);
       border: 1px solid var(--line);
       border-radius: 14px;
-      padding: 1.25rem;
+      padding: 1.1rem 1.2rem;
+    }
+
+    .eyebrow {
+      font-size: 0.78rem;
+      letter-spacing: 0.11em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin: 0;
     }
 
     h1 {
-      margin: 0 0 0.35rem;
-      font-size: 1.3rem;
+      margin: 0.3rem 0 0.4rem;
+      font-size: 1.7rem;
     }
 
-    p {
-      margin: 0.4rem 0;
+    .subtitle {
       color: var(--muted);
-      line-height: 1.45;
+      margin: 0;
     }
 
-    .status {
-      margin-top: 1rem;
-      padding: 0.8rem;
+    h2 {
+      font-size: 1.1rem;
+      margin: 0 0 0.7rem;
+    }
+
+    h3 {
+      font-size: 0.95rem;
+      margin: 1rem 0 0.4rem;
+      color: #bfd1ff;
+    }
+
+    p, li {
+      font-size: 0.92rem;
+      margin: 0.2rem 0;
+    }
+
+    ul, ol {
+      margin: 0.2rem 0 0.6rem 1.2rem;
+    }
+
+    .grid-2 {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+      gap: 0.8rem;
+    }
+
+    .callout {
+      border: 1px solid #31579c;
+      background: #122446;
       border-radius: 10px;
-      border: 1px solid #24553a;
-      background: #0f2319;
-      color: #b9efcf;
-      font-weight: 600;
+      padding: 0.7rem;
+      margin-top: 0.7rem;
     }
 
-    a {
-      color: var(--accent);
-      text-decoration: none;
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      overflow: hidden;
+      margin: 0.5rem 0;
+      background: var(--panel-2);
     }
 
-    a:hover { text-decoration: underline; }
+    th,
+    td {
+      text-align: left;
+      padding: 0.5rem 0.6rem;
+      border-bottom: 1px solid #243155;
+      font-size: 0.88rem;
+      vertical-align: top;
+    }
+
+    th { color: var(--muted); font-weight: 600; }
+    tr:last-child td { border-bottom: 0; }
+
+    .pill {
+      display: inline-block;
+      border-radius: 999px;
+      font-size: 0.76rem;
+      padding: 0.2rem 0.55rem;
+      border: 1px solid transparent;
+      margin-right: 0.3rem;
+    }
+
+    .pill.success { color: var(--success); border-color: #1d7f63; background: #0f2f29; }
+    .pill.warn { color: var(--warn); border-color: #896320; background: #34290f; }
+    .pill.danger { color: var(--danger); border-color: #8f2b2b; background: #341313; }
+
+    .footer-note {
+      color: var(--muted);
+      font-size: 0.84rem;
+      margin-top: 0.5rem;
+    }
+
+    a { color: var(--accent); }
   </style>
 </head>
 <body>
-  <main>
-    <h1>Hail Monitoring</h1>
-    <p>This page was added to provide a stable destination for hail status checks.</p>
-    <p class="status">Operational status: No hail alerts are currently published by this site.</p>
-    <p>Need broader context? Return to the <a href="./index.html">News Ops Dashboard</a>.</p>
+  <main class="wrap">
+    <header class="hero">
+      <p class="eyebrow">EA/TPO — HC/PHAC DTB</p>
+      <h1>HAIL / GREP-ExP Agent Briefing</h1>
+      <p class="subtitle">Date: April 17, 2026. Prepared for enterprise architecture and technical program governance context.</p>
+      <div class="callout">
+        <strong>Situation:</strong> Three source documents were reviewed: HAIL Briefing Dashboard (March 2026), HAIL Management WG Meeting Notes, and WHO GREP-ExP presentation (July 2025).
+      </div>
+    </header>
+
+    <section>
+      <h2>1) HAIL Platform Status</h2>
+      <div class="grid-2">
+        <article>
+          <h3>Current health and delivery status</h3>
+          <ul>
+            <li>Scope: <span class="pill success">Green</span></li>
+            <li>Time: <span class="pill success">Green</span></li>
+            <li>FY25-26 closeout complete.</li>
+            <li>GREP-ExP onboarded and migrated from SSC.</li>
+            <li>Major bugs resolved; LabsCan $475K envelope fully consumed on target.</li>
+          </ul>
+        </article>
+        <article>
+          <h3>Critical FY26-27 gate</h3>
+          <ul>
+            <li>HAIL cannot move to production without an ATO.</li>
+            <li>ATO path requires ED/DG/CDO engagement with the CIO.</li>
+            <li>No ATO conversation has been initiated in the cited materials.</li>
+            <li>HC-PATH remains pre-prototype and is not a production landing zone.</li>
+          </ul>
+        </article>
+      </div>
+      <div class="callout">
+        <strong>Required enablers flagged:</strong> 230 MS hours, cloud credits, AI-Ops team capacity, and governance documentation (currently on hold due to DTB WFA conditions).
+      </div>
+    </section>
+
+    <section>
+      <h2>2) GREP-ExP: Canonical Definition</h2>
+      <p><strong>Full name:</strong> Global Repository of Epidemiological Parameters – Extraction of Parameters.</p>
+      <p>
+        GREP-ExP is an LLM-powered systematic literature review pipeline jointly owned by EPSGH/SPIB
+        (Waddell, Corrin, Pussegoda) and DAS/SDSE (Bing Hu et al.). It automates screening and
+        extraction of epidemiological parameters for the WHO GREP project.
+      </p>
+      <h3>Architecture pattern</h3>
+      <ul>
+        <li>Screening Agent + Critical Agent + Ensemble Agent + human-in-the-loop feedback.</li>
+        <li>Uncertainty is managed using inter-agent disagreement, not self-confidence scores.</li>
+        <li>Published/accepted in <em>Cochrane Evidence Synthesis and Methods</em> (2025).</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>3) Key Dependencies and Risks</h2>
+      <table>
+        <thead>
+          <tr><th>Item</th><th>Risk</th><th>Owner</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>ATO not initiated</td><td>Blocks production path for all of HAIL.</td><td>CDO / CIO</td></tr>
+          <tr><td>DTB WFA</td><td>Governance docs on hold; cloud team partially redeployed.</td><td>DTB</td></tr>
+          <tr><td>HC-PATH pre-prototype</td><td>No production-ready GC landing zone.</td><td>DTB / HC-CDO</td></tr>
+          <tr><td>FY26-27 budget undefined</td><td>AI-Ops team, ATO costs, and MS hours unconfirmed.</td><td>DSAID / CDO</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <h2>4) Enterprise Architecture Relevance</h2>
+      <ul>
+        <li><strong>AI Autonomy Spectrum:</strong> GREP-ExP is a clear PHAC example of agentic AI in operation (multi-agent + HITL + peer-reviewed).</li>
+        <li><strong>AI Capabilities Mapping:</strong> aligns at L3/L4 operational tier and with RAISE guideline direction.</li>
+        <li><strong>ARB governance trigger:</strong> HAIL production transition requires an ARB submission, or at minimum an ADR.</li>
+        <li><strong>PATH/HAIL boundary:</strong> formal architectural resolution is needed before coherent portfolio governance can occur.</li>
+      </ul>
+      <div class="callout">
+        <strong>Governance concern:</strong> the ATO requirement has not yet surfaced in the EA queue based on currently available thread context.
+      </div>
+    </section>
+
+    <section>
+      <h2>5) Recommended Next Actions</h2>
+      <ol>
+        <li>Flag the ATO gap to Chad so it enters EA governance before FY26-27 planning locks.</li>
+        <li>Add GREP-ExP as the L3/L4 operational example in the AI Capabilities Mapping update.</li>
+        <li>Draft an ADR for HAIL-to-production architecture (ownership, operating model, GC trust boundary).</li>
+        <li>Confirm GREP-ExP full name with SDSE team (current status: resolved).</li>
+      </ol>
+      <p class="footer-note">Source documents: HAIL Briefing Dashboard (March 2026), HAIL Management WG Meeting Notes, WHO GREP-ExP presentation (July 2025).</p>
+    </section>
+
+    <section>
+      <h2>Source Briefing (Provided Thread Content)</h2>
+      <p>This page content was authored from the structured HAIL / GREP-ExP briefing shared in the implementation request.</p>
+      <p><a href="./index.html">Return to AI News Control Surface</a></p>
+    </section>
   </main>
 </body>
 </html>
