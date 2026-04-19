@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Architecture Switchboard | PATH/HAIL</title>
+  <style>
+    :root {
+      --bg: #0b1220;
+      --panel: #121b2f;
+      --panel-2: #16213a;
+      --line: #2a3555;
+      --text: #d7e1ff;
+      --muted: #9eb0da;
+      --accent: #5aa0ff;
+      --ok: #34d399;
+      --warn: #fbbf24;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Inter, "Segoe UI", system-ui, sans-serif;
+      background: radial-gradient(circle at 15% -10%, #1a2b52, var(--bg) 52%);
+      color: var(--text);
+      line-height: 1.5;
+    }
+
+    .wrap {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 1.5rem;
+      display: grid;
+      gap: 1rem;
+    }
+
+    .hero,
+    .panel {
+      background: color-mix(in srgb, var(--panel), #000 8%);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 1rem 1.2rem;
+    }
+
+    .eyebrow {
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      font-size: 0.75rem;
+      color: var(--muted);
+      margin: 0;
+    }
+
+    h1 {
+      margin: 0.35rem 0 0.5rem;
+      font-size: 1.6rem;
+    }
+
+    .subtitle {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.94rem;
+    }
+
+    .layout {
+      display: grid;
+      gap: 1rem;
+      grid-template-columns: minmax(220px, 300px) minmax(0, 1fr);
+    }
+
+    .concept-list {
+      display: grid;
+      gap: 0.7rem;
+      margin-top: 0.8rem;
+    }
+
+    .concept-btn {
+      width: 100%;
+      text-align: left;
+      padding: 0.8rem;
+      border-radius: 10px;
+      border: 1px solid var(--line);
+      background: var(--panel-2);
+      color: var(--text);
+      cursor: pointer;
+    }
+
+    .concept-btn strong {
+      display: block;
+      margin-bottom: 0.2rem;
+    }
+
+    .concept-btn small {
+      color: var(--muted);
+      display: block;
+    }
+
+    .concept-btn.active {
+      border-color: var(--accent);
+      outline: 2px solid color-mix(in srgb, var(--accent), transparent 60%);
+      outline-offset: 1px;
+      background: color-mix(in srgb, var(--accent), var(--panel-2) 80%);
+    }
+
+    .status-chip {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.15rem 0.55rem;
+      border-radius: 999px;
+      border: 1px solid transparent;
+      font-size: 0.72rem;
+      font-weight: 650;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      margin-top: 0.35rem;
+    }
+
+    .status-chip.recommended {
+      background: color-mix(in srgb, var(--ok), transparent 78%);
+      border-color: color-mix(in srgb, var(--ok), transparent 52%);
+      color: color-mix(in srgb, var(--ok), #ffffff 18%);
+    }
+
+    .status-chip.experimental {
+      background: color-mix(in srgb, var(--warn), transparent 80%);
+      border-color: color-mix(in srgb, var(--warn), transparent 52%);
+      color: color-mix(in srgb, var(--warn), #ffffff 25%);
+    }
+
+    .concept-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      align-items: start;
+      margin-bottom: 0.75rem;
+    }
+
+    .concept-head h2 {
+      margin: 0;
+      font-size: 1.25rem;
+    }
+
+    .concept-head p {
+      margin: 0.25rem 0 0;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .meta-grid {
+      display: grid;
+      gap: 0.7rem;
+      grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+      margin-bottom: 0.9rem;
+    }
+
+    .meta {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 0.65rem;
+      background: color-mix(in srgb, var(--panel-2), #000 12%);
+    }
+
+    .meta .label {
+      display: block;
+      color: var(--muted);
+      font-size: 0.74rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-bottom: 0.2rem;
+    }
+
+    .diagram {
+      width: 100%;
+      min-height: 420px;
+      border: 1px dashed var(--line);
+      border-radius: 12px;
+      background: linear-gradient(180deg, rgba(13, 24, 49, 0.68), rgba(9, 18, 36, 0.9));
+      overflow: auto;
+      position: relative;
+    }
+
+    pre {
+      margin: 0;
+      padding: 1rem;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      color: #cfe1ff;
+      font-size: 0.76rem;
+      line-height: 1.4;
+      min-width: 760px;
+      white-space: pre;
+    }
+
+    .helper {
+      margin-top: 0.75rem;
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+
+    .top-nav {
+      display: flex;
+      gap: 0.7rem;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .top-nav a {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    @media (max-width: 900px) {
+      .layout {
+        grid-template-columns: 1fr;
+      }
+
+      .diagram {
+        min-height: 360px;
+      }
+
+      pre {
+        min-width: 620px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="hero">
+      <div class="top-nav">
+        <p class="eyebrow">Health Canada / PHAC — Architecture Decision Workspace</p>
+        <a href="./index.html">← Back to dashboard</a>
+      </div>
+      <h1>End-State Configuration Switchboard</h1>
+      <p class="subtitle">Switch between conceptual end-state diagrams accepted by stakeholders. The default view is the recommended Protected B architecture generated from the PATH/HAIL enterprise AI brief.</p>
+    </section>
+
+    <div class="layout">
+      <section class="panel">
+        <h2 style="margin:0; font-size:1.04rem;">Concept Views</h2>
+        <div class="concept-list" id="concept-list"></div>
+      </section>
+
+      <section class="panel">
+        <div class="concept-head">
+          <div>
+            <p class="eyebrow" style="margin-bottom: 0.2rem;">Selected concept</p>
+            <h2 id="concept-title"></h2>
+            <p id="concept-summary"></p>
+          </div>
+          <span id="concept-status" class="status-chip"></span>
+        </div>
+
+        <div class="meta-grid" id="meta-grid"></div>
+
+        <div class="diagram">
+          <pre id="diagram-ascii" aria-label="Architecture diagram"></pre>
+        </div>
+
+        <p class="helper" id="concept-notes"></p>
+      </section>
+    </div>
+  </div>
+
+  <script>
+    const concepts = [
+      {
+        id: 'protected-b-recommended',
+        name: 'Protected B (Recommended)',
+        status: 'recommended',
+        summary: 'Enterprise baseline with sovereign controls, layered governance, and PATH-aligned release gates.',
+        meta: {
+          residency: 'Canada sovereign tenancy',
+          classification: 'Protected B',
+          controls: 'PATH/HAIL + GC guardrails',
+          delivery: 'Phased with policy checkpoints'
+        },
+        notes: 'Recommended option for production onboarding and external audit readiness.',
+        diagram: String.raw`                                 ┌──────────────────────────┐
+                                 │ Strategic Oversight      │
+                                 │ HC/PHAC Governance Board │
+                                 └─────────────┬────────────┘
+                                               │
+                             ┌─────────────────▼─────────────────┐
+                             │ PATH/HAIL Control Plane           │
+                             │ policy · risk · approvals         │
+                             └───────┬───────────────┬───────────┘
+                                     │               │
+               ┌─────────────────────▼───┐   ┌──────▼────────────────────┐
+               │ Sovereign Data Fabric   │   │ Model Runtime & Tooling   │
+               │ PB data zones + KMS     │   │ vetted models + adapters  │
+               └──────────────┬──────────┘   └──────────┬────────────────┘
+                              │                         │
+                    ┌─────────▼─────────┐     ┌─────────▼──────────┐
+                    │ Mission Workflows  │     │ Safety & Assurance │
+                    │ briefing + ops     │     │ evals + telemetry  │
+                    └─────────┬─────────┘     └─────────┬──────────┘
+                              │                         │
+                              └──────────────┬──────────┘
+                                             ▼
+                               ┌────────────────────────┐
+                               │ Protected B Outcomes   │
+                               │ trusted policy actions │
+                               └────────────────────────┘`
+      },
+      {
+        id: 'hybrid-transitional',
+        name: 'Hybrid Transitional',
+        status: 'experimental',
+        summary: 'Interim split-control architecture used during migration from legacy workflows.',
+        meta: {
+          residency: 'Mixed sovereign + controlled external',
+          classification: 'Protected A/B transition',
+          controls: 'Parallel legacy and PATH controls',
+          delivery: 'Migration bridge (time-limited)'
+        },
+        notes: 'Useful for staged migration; not the recommended long-term endpoint.',
+        diagram: String.raw`                   ┌─────────────────────────┐
+                   │ Legacy Ops Platform      │
+                   └──────────────┬───────────┘
+                                  │
+           ┌──────────────────────▼──────────────────────┐
+           │ Transitional Integration Layer              │
+           │ policy translation · connector hardening    │
+           └───────────────┬───────────────────────┬─────┘
+                           │                       │
+                 ┌─────────▼────────┐    ┌────────▼───────────┐
+                 │ Legacy Data Zone  │    │ Sovereign PB Zone  │
+                 └─────────┬────────┘    └────────┬───────────┘
+                           │                      │
+                           └────────────┬─────────┘
+                                        ▼
+                            ┌────────────────────────┐
+                            │ PATH Decision Console  │
+                            │ dual-policy approvals  │
+                            └────────────────────────┘`
+      },
+      {
+        id: 'federated-domains',
+        name: 'Federated Domain Pods',
+        status: 'experimental',
+        summary: 'Autonomous domain pods synchronized by central governance contracts and shared safety telemetry.',
+        meta: {
+          residency: 'Per-domain sovereign enclaves',
+          classification: 'Protected B (domain scoped)',
+          controls: 'Contract-based federation',
+          delivery: 'Parallel domain acceleration'
+        },
+        notes: 'Good for high-autonomy teams; requires stronger inter-domain standards.',
+        diagram: String.raw`      ┌───────────────────────────────────────────────────┐
+      │ Central PATH Contract Registry & Assurance Hub  │
+      └──────────────┬───────────────────────┬──────────┘
+                     │                       │
+          ┌──────────▼─────────┐   ┌────────▼──────────┐
+          │ Surveillance Pod    │   │ Regulatory Pod    │
+          │ data+models+agents  │   │ data+models+agents│
+          └──────────┬─────────┘   └────────┬──────────┘
+                     │                       │
+                     └──────────┬────────────┘
+                                ▼
+                     ┌───────────────────────┐
+                     │ Shared Safety Telemetry│
+                     │ and Incident Response  │
+                     └───────────────────────┘`
+      }
+    ];
+
+    const listEl = document.getElementById('concept-list');
+    const titleEl = document.getElementById('concept-title');
+    const summaryEl = document.getElementById('concept-summary');
+    const statusEl = document.getElementById('concept-status');
+    const metaGridEl = document.getElementById('meta-grid');
+    const diagramEl = document.getElementById('diagram-ascii');
+    const notesEl = document.getElementById('concept-notes');
+
+    function renderConcept(concept) {
+      titleEl.textContent = concept.name;
+      summaryEl.textContent = concept.summary;
+      statusEl.textContent = concept.status;
+      statusEl.className = `status-chip ${concept.status}`;
+
+      metaGridEl.innerHTML = '';
+      Object.entries(concept.meta).forEach(([label, value]) => {
+        const node = document.createElement('div');
+        node.className = 'meta';
+        node.innerHTML = `<span class="label">${label}</span><strong>${value}</strong>`;
+        metaGridEl.appendChild(node);
+      });
+
+      diagramEl.textContent = concept.diagram;
+      notesEl.textContent = concept.notes;
+
+      document.querySelectorAll('.concept-btn').forEach((btn) => {
+        btn.classList.toggle('active', btn.dataset.id === concept.id);
+      });
+    }
+
+    concepts.forEach((concept) => {
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'concept-btn';
+      btn.dataset.id = concept.id;
+      btn.innerHTML = `<strong>${concept.name}</strong><small>${concept.summary}</small>`;
+      btn.addEventListener('click', () => renderConcept(concept));
+      listEl.appendChild(btn);
+    });
+
+    renderConcept(concepts[0]);
+  </script>
+</body>
+</html>
