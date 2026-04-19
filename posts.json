@@ -1,0 +1,36 @@
+[
+  {
+    "slug": "new-sort-control-notifications",
+    "date": "2026-04-09",
+    "type": "Improvement",
+    "title": "New sort by control added to Notifications",
+    "category": "Collaboration Tools",
+    "readTime": 2,
+    "image": "ai_zone_arch.png",
+    "imageAlt": "Example release image"
+  },
+  {
+    "slug": "member-role-labels-pull-request-list",
+    "date": "2026-04-09",
+    "type": "Improvement",
+    "title": "Repository member role labels now in pull request list view",
+    "category": "Collaboration Tools",
+    "readTime": 3
+  },
+  {
+    "slug": "codespaces-enterprise-data-residency",
+    "date": "2026-04-01",
+    "type": "Improvement",
+    "title": "Codespaces is now generally available for GitHub Enterprise with data residency",
+    "category": "Collaboration Tools",
+    "readTime": 3
+  },
+  {
+    "slug": "copilot-jira-public-preview",
+    "date": "2026-03-25",
+    "type": "Release",
+    "title": "GitHub Copilot for Jira — Public preview enhancements",
+    "category": "Collaboration Tools",
+    "readTime": 4
+  }
+]
