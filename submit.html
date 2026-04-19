@@ -3,74 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Admin Entry</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      background-color: #f4f4f4;
-      padding: 20px;
-      max-width: 600px;
-      margin: auto;
-    }
-    h1 {
-      color: #333;
-    }
-    form {
-      background: white;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
-    }
-    input, select, textarea {
-      width: 100%;
-      padding: 10px;
-      margin-top: 10px;
-      margin-bottom: 20px;
-      border-radius: 5px;
-      border: 1px solid #ccc;
-    }
-    button {
-      background-color: #0066cc;
-      color: white;
-      padding: 10px 15px;
-      border: none;
-      border-radius: 5px;
-      cursor: pointer;
-    }
-    button:hover {
-      background-color: #004d99;
-    }
-
-    .top-nav {
-      margin-bottom: 1rem;
-    }
-    .top-nav-list {
-      list-style: none;
-      margin: 0;
-      padding: 10px;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      border-radius: 10px;
-      border: 1px solid #d8dce6;
-      background: #ffffff;
-    }
-    .top-nav-list a {
-      text-decoration: none;
-      color: #2c467c;
-      border: 1px solid #b5c6ee;
-      background: #edf2ff;
-      border-radius: 999px;
-      padding: 6px 12px;
-      font-size: 0.84rem;
-      font-weight: 600;
-      display: inline-block;
-    }
-    .top-nav-list a.active {
-      color: #ffffff;
-      border-color: #1f59b8;
-      background: #2e68c7;
-    }
-  </style>
+  <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
   <nav class="top-nav" aria-label="Primary">
@@ -82,6 +15,7 @@
       <li><a href="./submit.html" class="active">Admin Entry</a></li>
     </ul>
   </nav>
+  <main class="submit-wrap">
   <h1>🗂️ Admin Entry</h1>
   <form id="adminEntryForm">
     <label for="date">Date:</label>
@@ -110,6 +44,7 @@
 
     <button type="submit">Submit Entry</button>
   </form>
+  </main>
 
   <script>
     document.getElementById("adminEntryForm").addEventListener("submit", function(event) {
