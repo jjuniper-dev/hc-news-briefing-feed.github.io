@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Architecture Switchboard | PATH/HAIL</title>
+  <style>
+    :root {
+      --bg: #0b1220;
+      --panel: #121b2f;
+      --panel-2: #16213a;
+      --line: #2a3555;
+      --text: #d7e1ff;
+      --muted: #9eb0da;
+      --accent: #5aa0ff;
+      --ok: #34d399;
+      --warn: #fbbf24;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Inter, "Segoe UI", system-ui, sans-serif;
+      background: radial-gradient(circle at 15% -10%, #1a2b52, var(--bg) 52%);
+      color: var(--text);
+      line-height: 1.5;
+    }
+
+    .wrap {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 1.5rem;
+      display: grid;
+      gap: 1rem;
+    }
+
+    .hero,
+    .panel {
+      background: color-mix(in srgb, var(--panel), #000 8%);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 1rem 1.2rem;
+    }
+
+    .eyebrow {
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      font-size: 0.75rem;
+      color: var(--muted);
+      margin: 0;
+    }
+
+    h1 {
+      margin: 0.35rem 0 0.5rem;
+      font-size: 1.6rem;
+    }
+
+    .subtitle {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.94rem;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: 280px 1fr;
+      gap: 1rem;
+    }
+
+    .switch-list {
+      display: grid;
+      gap: 0.5rem;
+    }
+
+    .switch-btn {
+      width: 100%;
+      text-align: left;
+      color: var(--text);
+      background: #122446;
+      border: 1px solid #244578;
+      border-radius: 10px;
+      padding: 0.7rem;
+      cursor: pointer;
+      transition: border-color 0.15s ease, transform 0.15s ease;
+    }
+
+    .switch-btn:hover { transform: translateY(-1px); }
+
+    .switch-btn.active {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent), transparent 35%);
+    }
+
+    .switch-title {
+      display: block;
+      font-weight: 600;
+      margin-bottom: 0.2rem;
+      font-size: 0.92rem;
+    }
+
+    .switch-meta {
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+
+    .diagram {
+      margin-top: 0.8rem;
+      border-radius: 12px;
+      border: 1px solid var(--line);
+      background: var(--panel-2);
+      padding: 0.8rem;
+      overflow: auto;
+    }
+
+    pre {
+      margin: 0;
+      font-family: "JetBrains Mono", "IBM Plex Mono", ui-monospace, monospace;
+      font-size: 0.76rem;
+      line-height: 1.35;
+      color: #d5e4ff;
+    }
+
+    .kpis {
+      margin-top: 0.8rem;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+      gap: 0.6rem;
+    }
+
+    .kpi {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: #111f3a;
+      padding: 0.6rem;
+    }
+
+    .kpi-label {
+      display: block;
+      color: var(--muted);
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    .kpi-value {
+      font-size: 0.98rem;
+      margin-top: 0.18rem;
+      font-weight: 600;
+    }
+
+    .ok { color: var(--ok); }
+    .warn { color: var(--warn); }
+
+    .notes {
+      margin-top: 0.75rem;
+      padding-left: 1rem;
+      color: #c4d7ff;
+      font-size: 0.9rem;
+    }
+
+    @media (max-width: 930px) {
+      .layout { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <header class="hero">
+      <p class="eyebrow">Health Canada / PHAC — Architecture Decision Workspace</p>
+      <h1>End-State Configuration Switchboard</h1>
+      <p class="subtitle">Switch between conceptual end-state diagrams accepted by stakeholders. The default view is the recommended Protected B architecture generated from the PATH/HAIL enterprise AI brief.</p>
+    </header>
+
+    <section class="panel layout">
+      <aside>
+        <h2 style="margin:0 0 0.7rem; font-size:1rem;">Concept Views</h2>
+        <div class="switch-list" id="switchList"></div>
+      </aside>
+
+      <article>
+        <p class="eyebrow" id="activeBadge">Selected concept</p>
+        <h2 id="activeTitle" style="margin:0.2rem 0 0.2rem; font-size:1.15rem;"></h2>
+        <p id="activeSummary" class="subtitle"></p>
+
+        <div class="kpis" id="kpiGrid"></div>
+
+        <div class="diagram">
+          <pre id="diagramText"></pre>
+        </div>
+
+        <ul id="notes" class="notes"></ul>
+      </article>
+    </section>
+  </main>
+
+  <script>
+    const concepts = [
+      {
+        id: 'state-a',
+        name: 'State A — Foundry + APIM (Recommended)',
+        meta: 'Confidence 0.85 • Protected B • Canada East/DR',
+        summary: 'Single GC tenant, CanadaPubSecALZ baseline, Foundry projects per branch, and APIM AI Gateway for runtime policy enforcement.',
+        kpis: [
+          ['Compliance fit', 'CCCS Medium + ITSG-33', 'ok'],
+          ['Isolation pattern', 'Branch-scoped Foundry Projects', 'ok'],
+          ['Runtime control', 'APIM gateway required for inference', 'ok'],
+          ['Residency', 'Canada East primary / Canada Central DR', 'ok']
+        ],
+        diagram: `Tenant Root (GC SSC Entra ID)
+└── Management Group: HC/PHAC
+    ├── Platform MG
+    │   ├── Connectivity Sub (Hub VNet, Firewall, Bastion, ExpressRoute)
+    │   ├── Identity Sub (PIM, Managed Identity, Key Vault)
+    │   └── Management Sub (Monitor, Defender, Log Analytics)
+    └── Landing Zones MG
+        ├── AI Platform MG [Canada PBMM policy initiative]
+        │   ├── PATH Subscription (Prod)
+        │   │   └── Foundry Resource
+        │   │       ├── Project: FNIHB
+        │   │       ├── Project: HPFB
+        │   │       ├── Project: PHAC Surveillance
+        │   │       └── APIM AI Gateway (token/content policies)
+        │   ├── HAIL Subscription (Prod)
+        │   └── AI Dev/Test Subscription
+        └── Branch Workload Subscriptions (App + AI Search + Cosmos + KV)
+
+Network: Hub/Spoke + Private Endpoints only
+Data path: Branch App → APIM AI Gateway → Foundry Project → Model Deployments
+Guardrails: llm-token-limit + content safety + diagnostic logging + policy evidence`,
+        notes: [
+          'APIM is the non-negotiable inference choke point: no direct model API keys in branch apps.',
+          'Projects enable branch-level metrics, RBAC segmentation, and workload isolation while sharing enterprise PTU capacity.',
+          'Protected B posture is enforced with private endpoints, CMK encryption, and centralized audit retention.'
+        ]
+      },
+      {
+        id: 'state-b',
+        name: 'State B — Centralized Runtime, Shared Branch Tenancy',
+        meta: 'Simpler operations • lower isolation confidence',
+        summary: 'All branches use a shared runtime space and shared data indexes. Operationally lighter, but weaker data and blast-radius isolation.',
+        kpis: [
+          ['Compliance fit', 'Partial, compensating controls needed', 'warn'],
+          ['Isolation pattern', 'Logical tags only', 'warn'],
+          ['Runtime control', 'Central APIM only', 'ok'],
+          ['Residency', 'Canada-only possible', 'ok']
+        ],
+        diagram: `GC Tenant
+└── Single AI Runtime Subscription
+    ├── APIM AI Gateway
+    ├── Foundry Workspace (shared by all branches)
+    ├── Shared AI Search index
+    ├── Shared Cosmos DB
+    └── Shared Key Vault
+
+Branch A / B / C applications call same endpoint and rely on app-level tags
+for policy separation.
+
+Tradeoff: easier to run, but weaker separation for Protected B branch mandates.`,
+        notes: [
+          'Potentially acceptable only for low-risk use cases with strict human review.',
+          'Strong governance processes are needed to compensate for reduced technical isolation.'
+        ]
+      },
+      {
+        id: 'state-c',
+        name: 'State C — Full Subscription Per Branch',
+        meta: 'Maximum isolation • highest operational overhead',
+        summary: 'Each branch owns a full copy of AI control and runtime services. Strongest blast-radius control but highest cost and governance burden.',
+        kpis: [
+          ['Compliance fit', 'Strong technical isolation', 'ok'],
+          ['Isolation pattern', 'Dedicated branch subscriptions', 'ok'],
+          ['Runtime control', 'Per-branch APIM instances', 'warn'],
+          ['Residency', 'Canada East/Central repeat pattern', 'ok']
+        ],
+        diagram: `HC/PHAC MG
+├── Branch A Subscription (Foundry + APIM + AI Search + Cosmos + KV)
+├── Branch B Subscription (Foundry + APIM + AI Search + Cosmos + KV)
+└── Branch C Subscription (Foundry + APIM + AI Search + Cosmos + KV)
+
+Every branch is fully separated end-to-end with independent policy assignment,
+monitoring workspace links, and DR runbooks.
+
+Tradeoff: duplicates platform operations and reduces enterprise model reuse.`,
+        notes: [
+          'Best where branch risk profiles are materially different and legal isolation is strict.',
+          'Requires disciplined platform automation to avoid configuration drift.'
+        ]
+      }
+    ];
+
+    const switchList = document.getElementById('switchList');
+    const activeBadge = document.getElementById('activeBadge');
+    const activeTitle = document.getElementById('activeTitle');
+    const activeSummary = document.getElementById('activeSummary');
+    const kpiGrid = document.getElementById('kpiGrid');
+    const diagramText = document.getElementById('diagramText');
+    const notes = document.getElementById('notes');
+
+    function renderButtons(activeId) {
+      switchList.innerHTML = '';
+      concepts.forEach(concept => {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = `switch-btn ${concept.id === activeId ? 'active' : ''}`;
+        btn.innerHTML = `<span class="switch-title">${concept.name}</span><span class="switch-meta">${concept.meta}</span>`;
+        btn.addEventListener('click', () => renderConcept(concept.id));
+        switchList.appendChild(btn);
+      });
+    }
+
+    function renderConcept(id) {
+      const concept = concepts.find(c => c.id === id) || concepts[0];
+      renderButtons(concept.id);
+
+      activeBadge.textContent = concept.meta;
+      activeTitle.textContent = concept.name;
+      activeSummary.textContent = concept.summary;
+      diagramText.textContent = concept.diagram;
+
+      kpiGrid.innerHTML = '';
+      concept.kpis.forEach(([label, value, tone]) => {
+        const card = document.createElement('div');
+        card.className = 'kpi';
+        card.innerHTML = `<span class="kpi-label">${label}</span><div class="kpi-value ${tone}">${value}</div>`;
+        kpiGrid.appendChild(card);
+      });
+
+      notes.innerHTML = '';
+      concept.notes.forEach(item => {
+        const li = document.createElement('li');
+        li.textContent = item;
+        notes.appendChild(li);
+      });
+    }
+
+    renderConcept('state-a');
+  </script>
+</body>
+</html>
