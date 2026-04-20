@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Assessment | Product Fit & Procurement Risk</title>
+  <style>
+    :root {
+      --bg: #f6f8fb;
+      --card: #ffffff;
+      --ink: #1d2735;
+      --muted: #55637a;
+      --ok: #17653a;
+      --warn: #8a5a00;
+      --risk: #8a1520;
+      --border: #d7dfeb;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Inter", "Segoe UI", Roboto, Arial, sans-serif;
+      color: var(--ink);
+      background: var(--bg);
+      line-height: 1.5;
+    }
+
+    .site-header {
+      background: linear-gradient(120deg, #11376f 0%, #205da9 100%);
+      color: #fff;
+      padding: 1rem 1rem 1.3rem;
+    }
+
+    .wrap {
+      max-width: 980px;
+      margin: 0 auto;
+    }
+
+    .topbar {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+
+    .brand {
+      font-weight: 700;
+      margin: 0;
+      font-size: 1.05rem;
+    }
+
+    .site-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .site-nav a {
+      color: #fff;
+      text-decoration: none;
+      border: 1px solid rgba(255, 255, 255, 0.35);
+      border-radius: 999px;
+      padding: 0.28rem 0.68rem;
+      font-size: 0.92rem;
+      display: inline-block;
+    }
+
+    .site-nav a[aria-current="page"] {
+      background: rgba(255, 255, 255, 0.2);
+      border-color: rgba(255, 255, 255, 0.6);
+      font-weight: 600;
+    }
+
+    h1, h2, h3 { line-height: 1.2; }
+
+    .page-title {
+      margin: 1rem 0 0.35rem;
+      font-size: 1.8rem;
+    }
+
+    .lede {
+      margin: 0;
+      max-width: 80ch;
+      color: #e7eefb;
+    }
+
+    main {
+      padding: 1.25rem;
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 1.1rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 8px 22px rgba(16, 44, 84, 0.06);
+    }
+
+    .pill-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .pill {
+      border: 1px solid var(--border);
+      padding: 0.35rem 0.7rem;
+      border-radius: 999px;
+      background: #f1f5fd;
+      color: #20314c;
+      font-size: 0.92rem;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+      gap: 0.8rem;
+    }
+
+    .status {
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+    }
+
+    .ok { color: var(--ok); }
+    .warn { color: var(--warn); }
+    .risk { color: var(--risk); }
+
+    .tiny {
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+
+    code {
+      background: #eef3ff;
+      border: 1px solid #d6e0ff;
+      border-radius: 6px;
+      padding: 0.08rem 0.35rem;
+    }
+
+    @media (max-width: 640px) {
+      .page-title { font-size: 1.45rem; }
+      .site-nav a { font-size: 0.86rem; }
+      .card { padding: 0.92rem; }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <div class="topbar">
+        <p class="brand">HC News Briefing</p>
+        <ul class="site-nav" aria-label="Site navigation">
+          <li><a href="./index.html">Dashboard</a></li>
+          <li><a href="./assessment.html" aria-current="page">Assessment</a></li>
+        </ul>
+      </div>
+
+      <h1 class="page-title">Assessment</h1>
+      <p class="lede">
+        This page is the starting point for a <strong>fit-checking tool</strong> and a
+        <strong>procurement issues flagger</strong> focused on product and service reviews.
+        It is designed to surface nuanced sovereignty, control, and operational risk.
+      </p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="card">
+      <h2>What this system evaluates</h2>
+      <ul class="pill-list">
+        <li class="pill">Strategic fit</li>
+        <li class="pill">Data sovereignty</li>
+        <li class="pill">Infrastructure control</li>
+        <li class="pill">Funding dependency</li>
+        <li class="pill">Procurement red flags</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>Case example: Cohere North</h2>
+      <p class="tiny">
+        The example below demonstrates exactly the type of mixed-signal profile this assessment system should flag.
+      </p>
+      <div class="grid">
+        <article>
+          <h3>Signals in favor</h3>
+          <p class="status ok">✓ Domestic strategic alignment</p>
+          <ul>
+            <li>Cohere is Canadian-founded and headquartered in Toronto.</li>
+            <li>SAP announced (February 10, 2026) integration of Cohere North into SAP’s Canadian Sovereign Cloud.</li>
+            <li>The federal government committed $240M to Cohere’s $725M Cambridge, Ontario data centre effort.</li>
+          </ul>
+        </article>
+        <article>
+          <h3>Flags requiring review</h3>
+          <p class="status risk">⚠ Sovereignty and control ambiguity</p>
+          <ul>
+            <li>The Cambridge facility is operated by CoreWeave, a U.S. provider.</li>
+            <li>Cohere has accepted U.S. venture capital, introducing potential foreign influence vectors.</li>
+            <li>Control, access, and continuity terms must be validated in procurement documents.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Initial scoring model (v0)</h2>
+      <p>
+        Each assessment can generate a concise profile such as:
+        <code>Fit: High | Sovereignty: Mixed | Procurement Risk: Medium-High</code>
+      </p>
+      <ul>
+        <li><strong>Fit score:</strong> Alignment to use-case, mission, and capability maturity.</li>
+        <li><strong>Sovereignty score:</strong> Jurisdiction, operational control, and data residency reality.</li>
+        <li><strong>Procurement risk score:</strong> Contractual lock-in, third-party dependencies, and governance gaps.</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>Next step for your code and delivery documents</h2>
+      <p>
+        Your existing code and delivery documents can feed this page as structured records
+        (e.g., JSON, markdown, or pipeline output) so each case is traceable from evidence to flag.
+      </p>
+      <p class="tiny">
+        Recommended schema keys: <code>entity</code>, <code>claims</code>, <code>evidence</code>,
+        <code>control-model</code>, <code>funding</code>, <code>hosting-operator</code>,
+        <code>risk-flags</code>, and <code>procurement-actions</code>.
+      </p>
+    </section>
+  </main>
+</body>
+</html>

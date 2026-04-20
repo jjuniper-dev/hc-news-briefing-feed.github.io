@@ -5,29 +5,158 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>RSS Feed Health Dashboard</title>
   <style>
-    body { font-family: sans-serif; margin: 2rem; }
-    table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
-    th, td { border: 1px solid #ccc; padding: 0.5rem; text-align: left; }
-    th { background: #f0f0f0; }
+    :root {
+      --bg: #f4f7fb;
+      --panel: #ffffff;
+      --border: #d7dfeb;
+      --ink: #1b2431;
+      --muted: #5a6a82;
+      --brand: #1f5cad;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Inter", "Segoe UI", Roboto, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--ink);
+      line-height: 1.45;
+    }
+
+    .site-header {
+      background: linear-gradient(120deg, #11376f 0%, #205da9 100%);
+      color: #fff;
+      padding: 1rem 1rem 1.3rem;
+    }
+
+    .wrap {
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+
+    .topbar {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+
+    .brand {
+      font-weight: 700;
+      margin: 0;
+      font-size: 1.05rem;
+    }
+
+    .site-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .site-nav a {
+      color: #fff;
+      text-decoration: none;
+      border: 1px solid rgba(255, 255, 255, 0.35);
+      border-radius: 999px;
+      padding: 0.28rem 0.68rem;
+      font-size: 0.92rem;
+      display: inline-block;
+    }
+
+    .site-nav a[aria-current="page"] {
+      background: rgba(255, 255, 255, 0.2);
+      border-color: rgba(255, 255, 255, 0.6);
+      font-weight: 600;
+    }
+
+    .page-title {
+      margin: 1rem 0 0.35rem;
+      font-size: 1.8rem;
+    }
+
+    .lede {
+      margin: 0;
+      color: #e7eefb;
+    }
+
+    main {
+      padding: 1rem;
+    }
+
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1rem;
+      box-shadow: 0 8px 22px rgba(16, 44, 84, 0.06);
+      margin-bottom: 1rem;
+    }
+
+    .muted { color: var(--muted); }
+
+    .table-wrap {
+      overflow-x: auto;
+      margin-top: 0.75rem;
+    }
+
+    table { width: 100%; border-collapse: collapse; min-width: 580px; }
+    th, td { border: 1px solid #cfd8e8; padding: 0.5rem; text-align: left; }
+    th { background: #f0f4fa; }
     .good { color: green; }
-    .warn { color: orange; }
-    .bad  { color: red; }
-    #uptime-list { margin-top: 1rem; list-style: none; padding: 0; }
-    #uptime-list li { margin-bottom: 0.5rem; }
+    .warn { color: #b66b00; }
+    .bad  { color: #a41818; }
+
+    #uptime-list { margin-top: 0.55rem; list-style: none; padding: 0; }
+    #uptime-list li { margin-bottom: 0.45rem; }
+
+    @media (max-width: 640px) {
+      .page-title { font-size: 1.45rem; }
+      th, td { font-size: 0.93rem; }
+      .site-nav a { font-size: 0.86rem; }
+    }
   </style>
 </head>
 <body>
-  <h1>RSS Feed Health Dashboard</h1>
-  <p>Showing status for the last five days (hover for details).</p>
-  <table id="health-table">
-    <thead>
-      <tr><th>Date</th><th>Feed</th><th>Status</th></tr>
-    </thead>
-    <tbody></tbody>
-  </table>
+  <header class="site-header">
+    <div class="wrap">
+      <div class="topbar">
+        <p class="brand">HC News Briefing</p>
+        <ul class="site-nav" aria-label="Site navigation">
+          <li><a href="./index.html" aria-current="page">Dashboard</a></li>
+          <li><a href="./assessment.html">Assessment</a></li>
+        </ul>
+      </div>
+      <h1 class="page-title">RSS Feed Health Dashboard</h1>
+      <p class="lede">Showing status for the last five days (hover for details).</p>
+    </div>
+  </header>
 
-  <h2>Canadian Feed Uptime (past 7 days)</h2>
-  <ul id="uptime-list"></ul>
+  <main>
+    <div class="wrap">
+      <section class="panel">
+        <h2>Feed health by date</h2>
+        <div class="table-wrap">
+          <table id="health-table">
+            <thead>
+              <tr><th>Date</th><th>Feed</th><th>Status</th></tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>Canadian Feed Uptime (past 7 days)</h2>
+        <p class="muted">Calculated from ping records in <code>uptime.json</code>.</p>
+        <ul id="uptime-list"></ul>
+      </section>
+    </div>
+  </main>
 
   <script>
     document.addEventListener('DOMContentLoaded', async () => {
