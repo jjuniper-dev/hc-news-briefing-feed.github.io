@@ -14,12 +14,21 @@
     .bad  { color: red; }
     #uptime-list { margin-top: 1rem; list-style: none; padding: 0; }
     #uptime-list li { margin-bottom: 0.5rem; }
+    .site-nav { margin-bottom: 1rem; }
+    .site-nav a { margin-right: 0.75rem; color: #0f766e; font-weight: 600; text-decoration: none; }
+    .site-nav a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
   <h1>RSS Feed Health Dashboard</h1>
   <p>Showing status for the last five days (hover for details).</p>
-  <p><a href="pptx-builder.html">Open HC PPTX Builder workflow</a></p>
+  <nav class="site-nav" aria-label="Site navigation">
+    <a href="index.html">Dashboard</a>
+    <a href="pptx-builder.html">PPTX Builder</a>
+    <a href="reviews/hc-pptx-workflow-assessment.md">Assessment</a>
+    <a href="reviews/hc-pptx-workflow-refactor.md">Refactor</a>
+    <a href="reviews/hc-pptx-compliance-checklist.md">Checklist</a>
+  </nav>
   <table id="health-table">
     <thead>
       <tr><th>Date</th><th>Feed</th><th>Status</th></tr>
