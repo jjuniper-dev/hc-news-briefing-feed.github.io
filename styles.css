@@ -1,0 +1,135 @@
+:root {
+  color-scheme: light;
+  --bg: #f6f8fb;
+  --panel: #ffffff;
+  --text: #162033;
+  --muted: #4f5d75;
+  --border: #d8deea;
+  --accent: #1f6feb;
+  --good: #1a7f37;
+  --warn: #9a6700;
+  --bad: #cf222e;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: var(--text);
+  background: var(--bg);
+  line-height: 1.5;
+}
+
+header,
+main,
+footer {
+  width: min(1100px, 94vw);
+  margin-inline: auto;
+}
+
+header {
+  padding: 1.25rem 0 0.5rem;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.2;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+.top-nav {
+  margin-top: 0.9rem;
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: var(--accent);
+  border: 1px solid var(--border);
+  background: var(--panel);
+  padding: 0.42rem 0.78rem;
+  border-radius: 999px;
+  font-size: 0.95rem;
+}
+
+.nav-link[aria-current="page"] {
+  color: #fff;
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+main {
+  padding: 1rem 0 2rem;
+}
+
+.card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+  background: #fff;
+}
+
+th,
+td {
+  border: 1px solid var(--border);
+  padding: 0.6rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  background: #ecf2ff;
+}
+
+ul {
+  margin: 0.8rem 0 0;
+  padding-left: 1rem;
+}
+
+.good { color: var(--good); }
+.warn { color: var(--warn); }
+.bad  { color: var(--bad); }
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 0.75rem;
+  margin-top: 0.8rem;
+}
+
+footer {
+  font-size: 0.9rem;
+  color: var(--muted);
+  padding: 0 0 1.5rem;
+}
+
+
+.briefing-pre {
+  white-space: pre-wrap;
+  word-break: break-word;
+  margin-top: 0.8rem;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.8rem;
+  max-height: 65vh;
+  overflow: auto;
+}

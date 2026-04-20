@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Latest Briefing | RSS Feed Status Site</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>RSS Feed Status Site</h1>
+    <p>Most recently generated daily briefing.</p>
+    <nav class="top-nav" aria-label="Primary">
+      <a class="nav-link" href="index.html">Overview</a>
+      <a class="nav-link" href="health.html">Health History</a>
+      <a class="nav-link" href="uptime.html">Uptime Metrics</a>
+      <a class="nav-link" href="latest.html" aria-current="page">Latest Briefing</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="card">
+      <h2>Latest Briefing</h2>
+      <p>Content loaded from <code>latest.txt</code>.</p>
+      <pre id="briefing" class="briefing-pre">Loading latest.txt...</pre>
+    </section>
+  </main>
+
+  <footer>
+    <p>Source: <code>latest.txt</code>.</p>
+  </footer>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      const pre = document.getElementById('briefing');
+      try {
+        const res = await fetch('./latest.txt');
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        pre.textContent = await res.text();
+      } catch (err) {
+        pre.className = 'bad';
+        pre.textContent = `Error loading latest briefing: ${err.message}`;
+      }
+    });
+  </script>
+</body>
+</html>
