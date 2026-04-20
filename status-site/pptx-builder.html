@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Status Site • PPTX Builder</title>
+  <style>
+    :root {
+      --bg: #0b1020;
+      --panel: #121933;
+      --panel-2: #192241;
+      --text: #eef2ff;
+      --muted: #b8c1e8;
+      --accent: #67e8f9;
+      --accent-2: #22c55e;
+      --warn: #f97316;
+      --border: #2a3768;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: Inter, system-ui, -apple-system, Segoe UI, sans-serif;
+      line-height: 1.5;
+    }
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: rgba(11,16,32,0.95);
+      backdrop-filter: blur(4px);
+      border-bottom: 1px solid var(--border);
+      padding: 0.8rem 1rem;
+    }
+    .nav { display: flex; gap: 1rem; flex-wrap: wrap; }
+    .nav a {
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 0.95rem;
+    }
+    .nav a.active, .nav a:hover { color: var(--accent); }
+    main { max-width: 1100px; margin: 1.2rem auto; padding: 0 1rem 2rem; }
+    .hero, .panel {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1rem 1.1rem;
+      margin-bottom: 1rem;
+    }
+    h1, h2, h3 { margin: 0.2rem 0 0.7rem; }
+    .muted { color: var(--muted); }
+    .pill {
+      display: inline-block;
+      padding: 0.2rem 0.6rem;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      color: var(--accent);
+      font-size: 0.8rem;
+      margin-bottom: 0.5rem;
+    }
+    .grid { display: grid; gap: 0.8rem; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); }
+    .card {
+      background: var(--panel-2);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 0.8rem;
+    }
+    .gate { border-left: 4px solid var(--accent-2); }
+    .checklist label { display: block; margin-bottom: 0.45rem; }
+    code {
+      display: inline-block;
+      background: #0e1530;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 0.25rem 0.4rem;
+      margin-top: 0.3rem;
+      color: #dbeafe;
+    }
+    .warning {
+      border-left: 4px solid var(--warn);
+      color: #fed7aa;
+      background: #3a1f14;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <nav class="nav" aria-label="Primary">
+      <a href="/status-site/index.html">Dashboard</a>
+      <a href="/status-site/decisions.html">Decisions</a>
+      <a href="/status-site/scenarios.html">Scenarios</a>
+      <a href="/status-site/intelligence.html">Intelligence</a>
+      <a href="/status-site/artifacts.html">Artifacts</a>
+      <a href="/status-site/architecture.html">Architecture</a>
+      <a href="/status-site/control-plane.html">Control Plane</a>
+      <a href="/status-site/pptx-builder.html" class="active">PPTX</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <span class="pill">HC PPTX BUILDER • v2</span>
+      <h1>Integrated Excel ↔ PowerPoint Workflow</h1>
+      <p class="muted">This page replaces the old PPTX workflow with a gated, compliance-first flow aligned to HC standards.</p>
+      <p class="muted">Artifacts: <a href="/hc-news-briefing-feed.github.io/reviews/hc-pptx-workflow-assessment.md">Assessment</a> · <a href="/hc-news-briefing-feed.github.io/reviews/hc-pptx-workflow-refactor.md">Refactor</a> · <a href="/hc-news-briefing-feed.github.io/reviews/hc-pptx-compliance-checklist.md">Checklist</a></p>
+    </section>
+
+    <section class="panel">
+      <h2>Mandatory Gates</h2>
+      <div class="grid">
+        <div class="card gate"><h3>Gate A · Intake</h3><p class="muted">Audience, objective, decision, timeframe, workbook tabs/ranges, deadline.</p></div>
+        <div class="card gate"><h3>Gate B · Insight Contract</h3><p class="muted">KPI values + trends + outliers + source ranges + limitations.</p></div>
+        <div class="card gate"><h3>Gate C · Story Contract</h3><p class="muted">Decision title, evidence, chart type, and required action per slide.</p></div>
+        <div class="card gate"><h3>Gate D · Build Contract</h3><p class="muted">HC template, one claim per slide, source and as-of footer.</p></div>
+        <div class="card gate"><h3>Gate E · QA Contract</h3><p class="muted">Content QA + visual QA + accessibility QA with remediation loop.</p></div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Prompt Pack</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Excel Extraction</h3>
+          <p class="muted">Generate traceable KPI outputs.</p>
+          <code>Return KPI table with value, delta, source_cell_range, confidence_note.</code>
+        </div>
+        <div class="card">
+          <h3>Story Build</h3>
+          <p class="muted">Force decision orientation on each slide.</p>
+          <code>For each slide: title, takeaway, evidence, chart, action.</code>
+        </div>
+        <div class="card">
+          <h3>QA Sweep</h3>
+          <p class="muted">Return violations only, with severity and fix.</p>
+          <code>List issues by slide with severity, remediation, and recheck.</code>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel checklist">
+      <h2>Fast Compliance Checklist</h2>
+      <label><input type="checkbox"> Every number maps to source range.</label>
+      <label><input type="checkbox"> Units and as-of dates are explicit.</label>
+      <label><input type="checkbox"> HC template, spacing, and palette are compliant.</label>
+      <label><input type="checkbox"> Font/contrast accessibility checks pass.</label>
+      <label><input type="checkbox"> Visual QA passes (no overlap/truncation).</label>
+      <label><input type="checkbox"> Final compliance summary attached.</label>
+    </section>
+
+    <section class="panel warning">
+      <strong>Release rule:</strong> do not publish deck outputs until all gates are complete and QA issues are closed.
+    </section>
+  </main>
+</body>
+</html>
