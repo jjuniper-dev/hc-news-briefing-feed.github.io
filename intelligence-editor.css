@@ -1,0 +1,141 @@
+:root {
+  color-scheme: light;
+  --bg: #f8fafc;
+  --panel: #fff;
+  --text: #0f172a;
+  --border: #cbd5e1;
+  --brand: #2563eb;
+  --brand-soft: #dbeafe;
+  --ok: #166534;
+  --error: #b91c1c;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: Inter, system-ui, -apple-system, Segoe UI, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+.layout {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+.layout__header a {
+  color: var(--brand);
+  text-decoration: none;
+}
+
+.editor-card,
+.review-card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+.toolbar {
+  display: flex;
+  gap: .5rem;
+  margin-bottom: .75rem;
+  align-items: center;
+}
+
+.toolbar button,
+#btn-import-content {
+  background: var(--brand);
+  color: #fff;
+  border: 0;
+  padding: .5rem .75rem;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.editor-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr 1fr;
+}
+
+@media (max-width: 900px) {
+  .editor-grid { grid-template-columns: 1fr; }
+}
+
+.markdown-input,
+.panel {
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: #fff;
+}
+
+.markdown-input {
+  min-height: 360px;
+  padding: .75rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+.panel {
+  padding: .75rem;
+  min-height: 160px;
+}
+
+.upload-panel {
+  border: 1px dashed var(--border);
+  background: #f8fafc;
+  border-radius: 8px;
+  padding: .75rem;
+  width: 100%;
+  max-width: 520px;
+}
+
+.upload-label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: .25rem;
+}
+
+.upload-help {
+  color: #475569;
+  font-size: .9rem;
+  margin: .25rem 0 .5rem;
+}
+
+.upload-drop-zone {
+  border: 1px dashed var(--border);
+  border-radius: 8px;
+  background: #fff;
+  color: #334155;
+  padding: .9rem;
+  text-align: center;
+}
+
+.upload-drop-zone.is-dragover {
+  border-color: var(--brand);
+  background: var(--brand-soft);
+}
+
+.upload-status {
+  margin-top: .5rem;
+  color: #334155;
+  font-size: .9rem;
+}
+
+.toast {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 9999;
+  background: #0f172a;
+  color: #fff;
+  padding: .65rem .8rem;
+  border-radius: 8px;
+  box-shadow: 0 8px 20px rgba(0,0,0,.2);
+}
+
+.toast-success { background: var(--ok); }
+.toast-error { background: var(--error); }
