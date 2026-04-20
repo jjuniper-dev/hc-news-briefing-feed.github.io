@@ -225,37 +225,86 @@ Sections:
    - Highlighted callout box
 8. Sources & Caveats
 
-## 7. Testing Requirements
 
-### 7.1 Unit tests
+## 7. Sprint Plan
+
+### Sprint 1 — Data Foundations
+
+Scope:
+- Add `schemas/assessment.schema.json`.
+- Add Cohere seed content under `content/assessments/cohere/v0.1/` (`assessment.json`, `assessment.md`, `meta.json`).
+- Add basic validation test coverage for schema compliance.
+
+Exit criteria:
+- Cohere v0.1 content validates at build/test time.
+- Repository contains canonical machine-readable + narrative assessment artifacts.
+
+### Sprint 2 — Build Pipeline and API Artifacts
+
+Scope:
+- Implement `src/lib/loadAssessments.ts` to discover assessment content recursively.
+- Validate loaded payloads against schema.
+- Emit `/data/assessments/index.json` and `/data/assessments/<vendor>/<version>.json`.
+- Implement `latest` resolution rules from `meta.json`.
+
+Exit criteria:
+- Build produces index and versioned JSON artifacts.
+- Latest-version mapping is deterministic and test-covered.
+
+### Sprint 3 — UI Delivery
+
+Scope:
+- Implement `/assessments/` index route with vendor cards, composite score, and R/A/G badge.
+- Implement `/assessments/<vendor>/<version>/` detail route with all four rubric layers, recommendation, and sources.
+- Ensure accessibility constraints (WCAG AA tables + non-colour status labels).
+
+Exit criteria:
+- Cohere assessment page renders complete structured content.
+- Index route links correctly to latest version and specific detail pages.
+
+### Sprint 4 — Hardening and Release Readiness
+
+Scope:
+- Complete unit, integration, and visual regression tests.
+- Add `/docs/assessments.md` authoring and maintenance documentation.
+- Verify static export compatibility (GitHub Pages / Vercel) and finalize rollout checklist.
+
+Exit criteria:
+- Test suite passes for new module.
+- Contributor docs are sufficient to add a new vendor without code changes.
+- Feature is ready for PR-based content-only expansion.
+
+## 8. Testing Requirements
+
+### 8.1 Unit tests
 
 - JSON schema validation
 - Loader correctness
 - R/A/G logic
 
-### 7.2 Integration tests
+### 8.2 Integration tests
 
 - Page renders with full Cohere dataset
 - Index lists correct latest version
 
-### 7.3 Visual regression
+### 8.3 Visual regression
 
 - Tables render correctly across breakpoints
 
-## 8. Deployment Considerations
+## 9. Deployment Considerations
 
 - No new infra required.
 - Compatible with GitHub Pages / Vercel static export.
 - New assessments added via PRs.
 
-## 9. Future Extensions
+## 10. Future Extensions
 
 - Add comparison view across vendors.
 - Add timeline view for version changes.
 - Add rubric visualisation (radar chart).
 - Add search/filter across assessments.
 
-## 10. Deliverables
+## 11. Deliverables
 
 1. `assessment.schema.json`
 2. Cohere v0.1 assessment JSON + MD
