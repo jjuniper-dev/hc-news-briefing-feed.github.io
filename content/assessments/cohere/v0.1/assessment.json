@@ -1,0 +1,38 @@
+{
+  "vendor": "Cohere",
+  "version": "0.1",
+  "review_date": "2026-04-01",
+  "item_type": "Product",
+  "capability_type": "Embedded",
+  "tier": "Tier 3 - Productivity",
+  "gates": {
+    "G1": "Pass",
+    "G2": "Fail",
+    "G3": "Fail",
+    "G4": "N/A",
+    "G5": "N/A",
+    "G6": "Pass",
+    "G7": "Pass",
+    "G8": "Pass",
+    "G9": "Pass",
+    "G10": "N/A"
+  },
+  "scores": {
+    "governance": 2.75,
+    "architecture": 2.75,
+    "capability": 3.25,
+    "procurement": 3.0,
+    "composite": 58.5
+  },
+  "positioning": {
+    "openness": "Mixed — Command proprietary, Aya open-weight",
+    "sovereignty": "Nuanced — Canadian entity + weights, US-operated hosting",
+    "runtime": "Partial — CANChat today, PATH target-state"
+  },
+  "recommendation": "Approve for unclassified workloads via CANChat. Do not approve for Protected B or direct-API consumption. Require documented deployment pattern, HC/PHAC-owned SA&A path, and PATH runtime integration plan.",
+  "metadata": {
+    "reviewer": "EA/TPO",
+    "status": "Draft",
+    "latest": true
+  }
+}
