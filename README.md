@@ -8,4 +8,4 @@ Daily news briefing feed.
 - Compliance checklist: `reviews/hc-pptx-compliance-checklist.md`
 
 
-Web page: `pptx-builder.html`
+Web page: `status-site/pptx-builder.html`
