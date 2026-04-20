@@ -19,6 +19,7 @@
 <body>
   <h1>RSS Feed Health Dashboard</h1>
   <p>Showing status for the last five days (hover for details).</p>
+  <p id="status-source"></p>
   <table id="health-table">
     <thead>
       <tr><th>Date</th><th>Feed</th><th>Status</th></tr>
@@ -31,7 +32,11 @@
 
   <script>
     document.addEventListener('DOMContentLoaded', async () => {
-      const baseURL = 'https://jjuniper-dev.github.io/hc-news-briefing-feed.github.io/';
+      const defaultBaseURL = 'https://jjuniper-dev.github.io/status-site/';
+      const params = new URLSearchParams(window.location.search);
+      const sourceParam = params.get('source');
+      const baseURL = sourceParam ? sourceParam.replace(/\/?$/, '/') : defaultBaseURL;
+      document.getElementById('status-source').innerHTML = `Status source: <a href="${baseURL}" target="_blank" rel="noopener noreferrer">${baseURL}</a>`;
 
       // Load health.json and populate health table
       try {
