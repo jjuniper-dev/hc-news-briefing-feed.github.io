@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Health History | RSS Feed Status Site</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>RSS Feed Status Site</h1>
+    <p>Feed status checks over time.</p>
+    <nav class="top-nav" aria-label="Primary">
+      <a class="nav-link" href="index.html">Overview</a>
+      <a class="nav-link" href="health.html" aria-current="page">Health History</a>
+      <a class="nav-link" href="uptime.html">Uptime Metrics</a>
+      <a class="nav-link" href="latest.html">Latest Briefing</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="card">
+      <h2>Health History (last 5 days)</h2>
+      <p>Hover over status cells for full error details when available.</p>
+      <table id="health-table">
+        <thead>
+          <tr><th>Date</th><th>Feed</th><th>Status</th></tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+  </main>
+
+  <footer>
+    <p>Source: <code>health.json</code>.</p>
+  </footer>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      const tbody = document.querySelector('#health-table tbody');
+      try {
+        const res = await fetch('./health.json');
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+        for (const [date, feeds] of Object.entries(data).slice(-5).reverse()) {
+          for (const [name, status] of Object.entries(feeds)) {
+            const tr = document.createElement('tr');
+            const cls = status.startsWith('ERROR') ? 'bad' : status === 'ZERO' ? 'warn' : 'good';
+            tr.innerHTML = `
+              <td>${date}</td>
+              <td>${name}</td>
+              <td class="${cls}" title="${status}">${status}</td>
+            `;
+            tbody.appendChild(tr);
+          }
+        }
+      } catch (err) {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `<td colspan="3" class="bad">Error loading data: ${err.message}</td>`;
+        tbody.appendChild(tr);
+      }
+    });
+  </script>
+</body>
+</html>

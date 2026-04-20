@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Uptime Metrics | RSS Feed Status Site</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>RSS Feed Status Site</h1>
+    <p>Ping reliability for Canadian feeds over the last seven days.</p>
+    <nav class="top-nav" aria-label="Primary">
+      <a class="nav-link" href="index.html">Overview</a>
+      <a class="nav-link" href="health.html">Health History</a>
+      <a class="nav-link" href="uptime.html" aria-current="page">Uptime Metrics</a>
+      <a class="nav-link" href="latest.html">Latest Briefing</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="card">
+      <h2>Uptime Metrics (past 7 days)</h2>
+      <ul id="uptime-list"></ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>Source: <code>uptime.json</code>.</p>
+  </footer>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      const ul = document.getElementById('uptime-list');
+      try {
+        const res = await fetch('./uptime.json');
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const records = await res.json();
+        const total = records.length;
+        const success = {};
+
+        if (total > 0) {
+          Object.keys(records[0]).filter((k) => k !== 'timestamp').forEach((feed) => {
+            success[feed] = 0;
+          });
+        }
+
+        records.forEach((record) => {
+          Object.entries(record).forEach(([feed, ok]) => {
+            if (feed !== 'timestamp' && ok) success[feed] += 1;
+          });
+        });
+
+        Object.entries(success).forEach(([feed, count]) => {
+          const pct = total ? Math.round((count / total) * 100) : 0;
+          const li = document.createElement('li');
+          li.textContent = `${feed}: ${pct}% (${count}/${total} pings OK)`;
+          ul.appendChild(li);
+        });
+
+        if (Object.keys(success).length === 0) {
+          const li = document.createElement('li');
+          li.className = 'warn';
+          li.textContent = 'No uptime records were found.';
+          ul.appendChild(li);
+        }
+      } catch (err) {
+        const li = document.createElement('li');
+        li.className = 'bad';
+        li.textContent = `Error loading uptime data: ${err.message}`;
+        ul.appendChild(li);
+      }
+    });
+  </script>
+</body>
+</html>
