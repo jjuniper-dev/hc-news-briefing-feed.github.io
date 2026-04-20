@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HC PPTX Builder</title>
+  <style>
+    :root {
+      --bg: #f7f9fc;
+      --panel: #ffffff;
+      --text: #1f2937;
+      --muted: #4b5563;
+      --border: #d1d5db;
+      --primary: #0f766e;
+      --primary-soft: #ccfbf1;
+      --warn: #7c2d12;
+      --warn-soft: #ffedd5;
+    }
+    body {
+      margin: 0;
+      font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+    }
+    header {
+      background: var(--panel);
+      border-bottom: 1px solid var(--border);
+      padding: 1rem 1.5rem;
+    }
+    .nav a {
+      color: var(--primary);
+      text-decoration: none;
+      margin-right: 1rem;
+      font-weight: 600;
+    }
+    main {
+      max-width: 1000px;
+      margin: 1.5rem auto;
+      padding: 0 1rem 2rem;
+    }
+    .hero, .panel {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1rem 1.25rem;
+      margin-bottom: 1rem;
+    }
+    h1, h2, h3 { margin: 0.25rem 0 0.75rem; }
+    .muted { color: var(--muted); }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 0.75rem;
+    }
+    .card {
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 0.75rem;
+      background: #fff;
+    }
+    .gate {
+      background: var(--primary-soft);
+      border-left: 4px solid var(--primary);
+      padding: 0.75rem;
+      border-radius: 8px;
+      margin-bottom: 0.6rem;
+    }
+    .checklist label {
+      display: block;
+      margin-bottom: 0.45rem;
+    }
+    .warning {
+      background: var(--warn-soft);
+      color: var(--warn);
+      border-left: 4px solid #ea580c;
+      padding: 0.75rem;
+      border-radius: 8px;
+    }
+    code {
+      background: #eef2ff;
+      padding: 0.1rem 0.3rem;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <nav class="nav" aria-label="Site navigation">
+      <a href="index.html">Dashboard</a>
+      <a href="pptx-builder.html">PPTX Builder</a>
+      <a href="reviews/hc-pptx-workflow-assessment.md">Assessment</a>
+      <a href="reviews/hc-pptx-workflow-refactor.md">Refactor</a>
+      <a href="reviews/hc-pptx-compliance-checklist.md">Checklist</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>HC Standards PPTX Builder</h1>
+      <p class="muted">Integrated workflow for Excel + PowerPoint shared context with required compliance gates.</p>
+      <p>
+        Source docs:
+        <a href="reviews/hc-pptx-workflow-assessment.md">Workflow Assessment</a> ·
+        <a href="reviews/hc-pptx-workflow-refactor.md">Refactor Playbook</a> ·
+        <a href="reviews/hc-pptx-compliance-checklist.md">Compliance Checklist</a>
+      </p>
+    </section>
+
+    <section class="panel">
+      <h2>End-to-End Gates</h2>
+      <div class="gate"><strong>Gate A — Brief Intake</strong><br>Capture audience, objective, decision, timeframe, source tabs/ranges, and deadline.</div>
+      <div class="gate"><strong>Gate B — Insight Contract</strong><br>Require KPI values, trend direction, outlier note, source ranges, and known limitations.</div>
+      <div class="gate"><strong>Gate C — Story Contract</strong><br>Each slide needs a decision-oriented title, evidence, chart type, and action.</div>
+      <div class="gate"><strong>Gate D — Build Contract</strong><br>Use HC master template, one core claim per slide, and source/date footers.</div>
+      <div class="gate"><strong>Gate E — QA Contract</strong><br>Run content QA + visual QA + accessibility QA before sign-off.</div>
+    </section>
+
+    <section class="panel">
+      <h2>Prompt Pack</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Excel Analysis</h3>
+          <p class="muted">Ask for structured insight output with traceability.</p>
+          <code>Return KPI table with values, deltas, and source_cell_range per KPI.</code>
+        </div>
+        <div class="card">
+          <h3>Story Synthesis</h3>
+          <p class="muted">Turn metrics into decision-first slide blueprint.</p>
+          <code>For each slide: title, takeaway, evidence, chart, action.</code>
+        </div>
+        <div class="card">
+          <h3>Compliance QA</h3>
+          <p class="muted">Report only violations, with severity and fix recommendation.</p>
+          <code>Return violations by slide with recheck status.</code>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel checklist">
+      <h2>Quick Sign-Off Checklist</h2>
+      <label><input type="checkbox"> Every numeric claim maps to a source range.</label>
+      <label><input type="checkbox"> As-of date and units are visible for all KPIs.</label>
+      <label><input type="checkbox"> HC template and typography standards are enforced.</label>
+      <label><input type="checkbox"> Contrast/font-size accessibility checks pass.</label>
+      <label><input type="checkbox"> Visual QA confirms no overlap/cutoff/alignment issues.</label>
+      <label><input type="checkbox"> Final compliance summary is attached.</label>
+    </section>
+
+    <section class="panel warning">
+      <strong>Do not ship</strong> until all required gates and checklist controls are complete.
+    </section>
+  </main>
+</body>
+</html>
