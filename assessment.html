@@ -10,7 +10,6 @@
       --card: #ffffff;
       --ink: #1d2735;
       --muted: #55637a;
-      --accent: #1e5bb8;
       --ok: #17653a;
       --warn: #8a5a00;
       --risk: #8a1520;
@@ -27,10 +26,10 @@
       line-height: 1.5;
     }
 
-    header {
+    .site-header {
       background: linear-gradient(120deg, #11376f 0%, #205da9 100%);
       color: #fff;
-      padding: 2.5rem 1.25rem;
+      padding: 1rem 1rem 1.3rem;
     }
 
     .wrap {
@@ -38,12 +37,56 @@
       margin: 0 auto;
     }
 
+    .topbar {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+
+    .brand {
+      font-weight: 700;
+      margin: 0;
+      font-size: 1.05rem;
+    }
+
+    .site-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .site-nav a {
+      color: #fff;
+      text-decoration: none;
+      border: 1px solid rgba(255, 255, 255, 0.35);
+      border-radius: 999px;
+      padding: 0.28rem 0.68rem;
+      font-size: 0.92rem;
+      display: inline-block;
+    }
+
+    .site-nav a[aria-current="page"] {
+      background: rgba(255, 255, 255, 0.2);
+      border-color: rgba(255, 255, 255, 0.6);
+      font-weight: 600;
+    }
+
     h1, h2, h3 { line-height: 1.2; }
 
+    .page-title {
+      margin: 1rem 0 0.35rem;
+      font-size: 1.8rem;
+    }
+
     .lede {
-      font-size: 1.1rem;
-      opacity: 0.95;
+      margin: 0;
       max-width: 80ch;
+      color: #e7eefb;
     }
 
     main {
@@ -104,25 +147,30 @@
       padding: 0.08rem 0.35rem;
     }
 
-    .top-link {
-      display: inline-block;
-      margin-top: 0.8rem;
-      color: #fff;
-      text-decoration: underline;
-      text-underline-offset: 3px;
+    @media (max-width: 640px) {
+      .page-title { font-size: 1.45rem; }
+      .site-nav a { font-size: 0.86rem; }
+      .card { padding: 0.92rem; }
     }
   </style>
 </head>
 <body>
-  <header>
+  <header class="site-header">
     <div class="wrap">
-      <h1>Assessment</h1>
+      <div class="topbar">
+        <p class="brand">HC News Briefing</p>
+        <ul class="site-nav" aria-label="Site navigation">
+          <li><a href="./index.html">Dashboard</a></li>
+          <li><a href="./assessment.html" aria-current="page">Assessment</a></li>
+        </ul>
+      </div>
+
+      <h1 class="page-title">Assessment</h1>
       <p class="lede">
         This page is the starting point for a <strong>fit-checking tool</strong> and a
         <strong>procurement issues flagger</strong> focused on product and service reviews.
         It is designed to surface nuanced sovereignty, control, and operational risk.
       </p>
-      <a class="top-link" href="./index.html">Back to dashboard</a>
     </div>
   </header>
 
