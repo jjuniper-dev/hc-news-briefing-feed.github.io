@@ -14,9 +14,47 @@
       <a href="index.html">← Back to dashboard</a>
     </header>
 
+    <section class="editor-card" aria-label="Intelligence workflow">
+      <h2>Intelligence workflow</h2>
+      <p class="muted">CLAUDE.md was not found in this repository, so this editor includes the required operational workflow directly.</p>
+      <div class="workflow-grid">
+        <div class="panel">
+          <h3>1) Classify update type</h3>
+          <label for="update-type">Update type</label>
+          <select id="update-type" class="workflow-input">
+            <option value="operational-signal">Operational signal</option>
+            <option value="capability-gap">Capability gap</option>
+            <option value="capability-update">Capability update</option>
+            <option value="risk-watch">Risk / watch item</option>
+          </select>
+        </div>
+        <div class="panel">
+          <h3>2) Versioning and log</h3>
+          <label for="brief-date">Brief date</label>
+          <input id="brief-date" class="workflow-input" type="date" />
+          <label for="brief-version">Version</label>
+          <input id="brief-version" class="workflow-input" type="text" value="v0.1" />
+          <label for="change-log">Change log</label>
+          <textarea id="change-log" class="workflow-input" rows="3" placeholder="- Initial draft created"></textarea>
+        </div>
+      </div>
+      <h3>3) Required 7-step flow</h3>
+      <ol class="workflow-list">
+        <li>Draft in editor (markdown).</li>
+        <li>Analyze with local LLM review.</li>
+        <li>Publish to <code>intelligence-draft</code> branch.</li>
+        <li>Update date, version, and change log.</li>
+        <li>Check quality standards (clarity, evidence, traceability).</li>
+        <li>Apply tone guidelines (briefing-ready, neutral, decision-oriented).</li>
+        <li>Compare with similar examples before finalizing.</li>
+      </ol>
+      <p class="muted">Examples in repo: <code>content/assessments/cohere/v0.1/assessment.md</code> and <code>reviews/hc-pptx-workflow-assessment.md</code>.</p>
+    </section>
+
     <section class="editor-card" aria-label="Intelligence editor">
       <div id="intelligence-toolbar" class="toolbar">
         <button type="button" id="btn-preview" title="Refresh preview">🔄 Preview</button>
+        <button type="button" id="btn-load-canchat-template" title="Load CANChat briefing template">🧩 Load CANChat Template</button>
       </div>
 
       <div class="editor-grid">
