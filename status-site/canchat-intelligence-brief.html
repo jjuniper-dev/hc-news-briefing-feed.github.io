@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CANChat — Intelligence Brief</title>
+  <style>
+    :root {
+      --bg: #f7f9fc;
+      --panel: #ffffff;
+      --text: #1f2937;
+      --muted: #4b5563;
+      --border: #d1d5db;
+      --primary: #0f766e;
+      --danger: #b91c1c;
+      --danger-soft: #fee2e2;
+    }
+    body {
+      margin: 0;
+      font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.55;
+    }
+    header {
+      background: var(--panel);
+      border-bottom: 1px solid var(--border);
+      padding: 1rem 1.5rem;
+    }
+    .nav a {
+      color: var(--primary);
+      text-decoration: none;
+      margin-right: 1rem;
+      font-weight: 600;
+    }
+    main {
+      max-width: 1100px;
+      margin: 1.5rem auto;
+      padding: 0 1rem 2rem;
+    }
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1rem 1.25rem;
+      margin-bottom: 1rem;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 0.75rem;
+    }
+    th, td {
+      border: 1px solid var(--border);
+      padding: 0.55rem;
+      text-align: left;
+      vertical-align: top;
+    }
+    th { background: #f3f4f6; }
+    h1, h2, h3 { margin: 0.25rem 0 0.75rem; }
+    .meta { color: var(--muted); }
+    .warning {
+      border-left: 4px solid var(--danger);
+      background: var(--danger-soft);
+    }
+    blockquote {
+      margin: 0.75rem 0;
+      padding: 0.5rem 0.9rem;
+      border-left: 4px solid var(--primary);
+      background: #f0fdfa;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <nav class="nav" aria-label="Site navigation">
+      <a href="../index.html">Dashboard</a>
+      <a href="../status-site/pptx-builder.html">PPTX Builder</a>
+      <a href="../status-site/canchat-intelligence-brief.html">CANChat Brief</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="panel">
+      <h1>CANChat — Intelligence Brief</h1>
+      <p class="meta"><strong>Date:</strong> 2026-04-21<br>
+      <strong>Source Type:</strong> Public SSC + EA Interpretation<br>
+      <strong>Classification:</strong> Unclassified / Internal EA Use</p>
+    </section>
+
+    <section class="panel">
+      <h2>🧠 Executive Signal</h2>
+      <p>CANChat is not an AI platform in the enterprise architecture sense. It is a multi-model workforce interface delivered by SSC.</p>
+      <p>The Government of Canada–owned model ("GC LLM") is accessible within CANChat, but not exposed as a department-consumable API endpoint based on current public evidence.</p>
+    </section>
+
+    <section class="panel">
+      <h2>🧩 Core Clarification (Critical)</h2>
+      <table>
+        <thead>
+          <tr><th>Concept</th><th>What it is</th><th>What it is not</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>CANChat</td><td>SSC-delivered chatbot service (UI layer)</td><td>Not a reusable AI runtime platform</td></tr>
+          <tr><td>GC LLM</td><td>GC-tuned model (Llama-based) inside CANChat</td><td>Not an exposed API or standalone service</td></tr>
+          <tr><td>Model Access</td><td>Interactive (user-facing)</td><td>Not programmatic (no confirmed endpoint)</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="panel">
+      <h2>📡 Current Capability (Observed)</h2>
+      <ul>
+        <li>Multi-model access (Cohere, OpenAI, Gemini, GC LLM, etc.)</li>
+        <li>Delivered via browser-based chatbot interface</li>
+        <li>Identity integrated via GC credentials (Entra ID via SSC)</li>
+        <li>Designed for employee productivity use cases</li>
+      </ul>
+      <h3>❗ Key Limitation</h3>
+      <p>There is no confirmed public pattern for API access, service-to-service integration, or embedding GC LLM into applications.</p>
+    </section>
+
+    <section class="panel">
+      <h2>🏗️ SSC Direction (Public Signal)</h2>
+      <blockquote>CANChat will transition into an enterprise service in 2026–27, and SSC plans to establish a Protected B enterprise-level generative AI capability with “common enterprise AI tools.”</blockquote>
+    </section>
+
+    <section class="panel">
+      <h2>🔍 EA Interpretation</h2>
+      <h3>What this means</h3>
+      <ul>
+        <li>SSC is moving from tool (chat interface) toward platform (enterprise AI capability).</li>
+        <li>The future state likely includes Protected B support, broader enterprise integration, and standardized AI service patterns.</li>
+      </ul>
+      <h3>What this does NOT mean (yet)</h3>
+      <ul>
+        <li>GC LLM is available via API.</li>
+        <li>Departments can directly integrate models into applications.</li>
+        <li>CANChat can replace PATH or equivalent runtime control plane.</li>
+      </ul>
+    </section>
+
+    <section class="panel warning">
+      <h2>⚠️ Strategic Risk (HC/PHAC)</h2>
+      <p>If misinterpreted, CANChat may be seen as “the AI platform”, leading to shadow architecture decisions, overreliance on UI-layer tools, and lack of governed runtime (PATH gap persists).</p>
+    </section>
+
+    <section class="panel">
+      <h2>🧭 Positioning in HC/PHAC Architecture</h2>
+      <table>
+        <thead>
+          <tr><th>Layer</th><th>Role</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>CANChat</td><td>Workforce productivity interface</td></tr>
+          <tr><td>GC LLM</td><td>Model option (inside CANChat)</td></tr>
+          <tr><td>PATH (target)</td><td>Enterprise AI control plane</td></tr>
+          <tr><td>HAIL (current PHAC)</td><td>Operational runtime environment</td></tr>
+        </tbody>
+      </table>
+      <p><strong>Conclusion:</strong> CANChat complements PATH — it does not replace it.</p>
+    </section>
+
+    <section class="panel">
+      <h2>🧠 Key Insight (Use This in Briefings)</h2>
+      <blockquote>The GC does not currently lack models. It lacks a governed, enterprise runtime and integration pattern.</blockquote>
+    </section>
+
+    <section class="panel">
+      <h2>📊 Recommended EA Position</h2>
+      <ul>
+        <li>Treat CANChat as an approved productivity tool and multi-model access point, not an integration platform.</li>
+        <li>Continue to advance PATH as control plane, define API-first AI patterns, and align with SSC as enterprise capability evolves.</li>
+      </ul>
+    </section>
+
+    <section class="panel">
+      <h2>🔮 Watch Items</h2>
+      <ul>
+        <li>SSC announcement of Protected B AI service, API/integration endpoints, and enterprise onboarding model.</li>
+        <li>Signals of GC LLM externalization, model brokerage layer, and shared AI service fabric.</li>
+      </ul>
+    </section>
+
+    <section class="panel">
+      <h2>🧾 Bottom Line</h2>
+      <p>CANChat is where users interact with AI today. It is not yet how systems integrate AI.</p>
+      <p>The shift to enterprise AI capability is coming — but the platform layer is not here yet.</p>
+    </section>
+  </main>
+</body>
+</html>
