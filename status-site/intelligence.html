@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Intelligence Briefing Feed</title>
+  <style>
+    :root {
+      --bg: #f8fafc;
+      --panel: #fff;
+      --text: #111827;
+      --muted: #4b5563;
+      --border: #d1d5db;
+      --brand: #0f766e;
+      --alert: #7f1d1d;
+      --alert-bg: #fee2e2;
+    }
+    body {
+      margin: 0;
+      font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.55;
+    }
+    header {
+      background: var(--panel);
+      border-bottom: 1px solid var(--border);
+      padding: 1rem 1.5rem;
+    }
+    .nav a {
+      color: var(--brand);
+      text-decoration: none;
+      margin-right: 1rem;
+      font-weight: 600;
+    }
+    main {
+      max-width: 1000px;
+      margin: 1.25rem auto;
+      padding: 0 1rem 2rem;
+    }
+    .post {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1rem 1.2rem;
+      margin-bottom: 1rem;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: .75rem;
+    }
+    th, td {
+      border: 1px solid var(--border);
+      padding: .5rem;
+      text-align: left;
+      vertical-align: top;
+    }
+    th { background: #f1f5f9; }
+    .muted { color: var(--muted); }
+    .alert {
+      border-left: 4px solid var(--alert);
+      background: var(--alert-bg);
+      padding: .75rem;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <nav class="nav" aria-label="Site navigation">
+      <a href="../index.html">Dashboard</a>
+      <a href="../intelligence-editor.html">Intelligence Editor</a>
+      <a href="../status-site/intelligence.html">Intelligence Posts</a>
+      <a href="../status-site/pptx-builder.html">PPTX Builder</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="post">
+      <h1>Intelligence Briefing Feed</h1>
+      <p class="muted">Published intelligence notes are tracked as dated items below. New updates should be appended as additional feed items.</p>
+      <table>
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Item</th>
+            <th>Type</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>2026-04-22</td>
+            <td><a href="#item-path-hail-convergence">PATH/HAIL Convergence — Framing Correction</a></td>
+            <td>Operational signal / governance gap</td>
+          </tr>
+          <tr>
+            <td>2026-04-21</td>
+            <td><a href="#item-canchat-positioning">CANChat positioning and platform-gap clarification</a></td>
+            <td>Capability interpretation / strategic alignment</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <article class="post" id="item-path-hail-convergence">
+      <h2>PATH/HAIL Convergence — Framing Correction</h2>
+      <p class="muted"><strong>Date:</strong> 2026-04-22 · <strong>Type:</strong> Operational signal / governance gap</p>
+
+      <h2>Executive Signal</h2>
+      <p>The current “customer one, customer two” language creates a false production signal for PATH and obscures the actual enterprise architecture issue.</p>
+
+      <h2>What is going wrong</h2>
+      <ul>
+        <li><strong>Language risk:</strong> “Customer” implies PATH is already an operational service with near-term production onboarding.</li>
+        <li><strong>Architecture risk:</strong> That framing hides the unresolved PATH/HAIL convergence model and shifts attention away from runtime governance.</li>
+      </ul>
+
+      <h2>Core unresolved question</h2>
+      <p>When workloads move from PATH execution patterns into production runtime, what governs the transition, which environment hosts it, who owns operations, and how are governance controls shared or de-duplicated across PATH and HAIL?</p>
+
+      <h2>Risk if framing is not corrected</h2>
+      <div class="alert">
+        PMRA can become a de facto production workload under an informal model before convergence architecture and operating governance are formally defined.
+      </div>
+
+      <h2>Required leadership framing (ARB + director level)</h2>
+      <p>PATH and HAIL are not competing services. They are components of one enterprise AI platform that is not yet formally unified. Until convergence architecture and operating model governance are established, no workload should be treated as production regardless of pattern. PMRA should be treated as a design input, not a production customer.</p>
+
+      <h2>Bottom line</h2>
+      <p>Reframe the discussion from “customer onboarding” to “convergence and operating model governance” before additional workloads attach implicit production expectations.</p>
+    </article>
+
+    <article class="post" id="item-canchat-positioning">
+      <h2>CANChat positioning and platform-gap clarification</h2>
+      <p class="muted"><strong>Date:</strong> 2026-04-21 · <strong>Type:</strong> Capability interpretation / strategic alignment</p>
+      <p>CANChat should be treated as a workforce productivity interface, not as an enterprise runtime platform or integration control plane. The key architecture gap remains governed runtime and API-first integration patterns.</p>
+    </article>
+  </main>
+</body>
+</html>
