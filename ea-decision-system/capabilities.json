@@ -1,0 +1,9 @@
+{
+  "capabilities": [
+    {"id": "ea-decision-support", "name": "EA Decision Support", "domain": "architecture"},
+    {"id": "vendor-evaluation", "name": "Vendor Evaluation", "domain": "procurement"},
+    {"id": "data-management", "name": "Data Management", "domain": "data"},
+    {"id": "ai-capability", "name": "AI Capability Enablement", "domain": "ai"},
+    {"id": "workflow-management", "name": "Workflow Management", "domain": "operations"}
+  ]
+}
