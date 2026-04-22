@@ -28,6 +28,7 @@ body {
   color: var(--brand);
   text-decoration: none;
 }
+.muted { color: #475569; }
 
 .editor-card,
 .review-card {
@@ -61,8 +62,29 @@ body {
   grid-template-columns: 1fr 1fr;
 }
 
+.workflow-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr 1fr;
+}
+
+.workflow-input {
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: .45rem .5rem;
+  margin: .25rem 0 .6rem;
+  font: inherit;
+}
+
+.workflow-list {
+  margin-top: .25rem;
+  padding-left: 1.1rem;
+}
+
 @media (max-width: 900px) {
   .editor-grid { grid-template-columns: 1fr; }
+  .workflow-grid { grid-template-columns: 1fr; }
 }
 
 .markdown-input,
