@@ -1,0 +1,7 @@
+{
+  "standards": [
+    {"id": "approved-tech", "type": "technology", "rule": "Prefer approved enterprise tools"},
+    {"id": "data-classification", "type": "data", "rule": "Respect classification and sensitivity levels"},
+    {"id": "security-compliance", "type": "security", "rule": "Align with security and privacy controls"}
+  ]
+}
