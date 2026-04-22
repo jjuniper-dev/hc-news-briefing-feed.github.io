@@ -8,7 +8,6 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
-INDEX = ROOT / "index.html"
 REQUIRED_FILES = [
     ROOT / "index.html",
     ROOT / "intelligence-editor.html",
@@ -37,21 +36,33 @@ for file_path in REQUIRED_FILES:
     if not file_path.exists():
         errors.append(f"Missing required page: {file_path.relative_to(ROOT)}")
 
-if INDEX.exists():
+for file_path in REQUIRED_FILES:
+    if not file_path.exists():
+        continue
+
     parser = LinkParser()
-    parser.feed(INDEX.read_text(encoding="utf-8"))
+    parser.feed(file_path.read_text(encoding="utf-8"))
 
     for href in parser.links:
         if not href or href.startswith("#"):
             continue
 
         parsed = urlparse(href)
-        if parsed.scheme in {"http", "https"}:
+        if parsed.scheme in {"http", "https", "mailto", "tel"}:
             continue
 
-        candidate = (ROOT / parsed.path).resolve()
+        normalized_path = parsed.path.lstrip("/")
+        target_path = (ROOT / normalized_path).resolve() if normalized_path else file_path.resolve()
+
+        if parsed.path.startswith("/"):
+            candidate = target_path
+        else:
+            candidate = (file_path.parent / parsed.path).resolve()
+
         if not candidate.exists():
-            errors.append(f"Broken internal link in index.html: {href}")
+            errors.append(
+                f"Broken internal link in {file_path.relative_to(ROOT)}: {href}"
+            )
 
 custom_404 = ROOT / "404.html"
 if not custom_404.exists():
