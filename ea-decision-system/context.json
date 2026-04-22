@@ -1,0 +1,58 @@
+{
+  "$schema": "./schemas/context.schema.json",
+  "system_name": "EA Decision System",
+  "version": "0.1.0",
+  "purpose": "Lightweight enterprise architecture decision support for intake, assessment, comparison, and recommendation.",
+  "principles": [
+    "Consolidate before expanding",
+    "Prefer reuse over net-new build",
+    "Evidence before recommendation",
+    "Simple but defensible",
+    "Manifest-driven where possible"
+  ],
+  "modules": [
+    {
+      "id": "dashboard",
+      "name": "Dashboard",
+      "role": "Control plane and landing surface",
+      "primary_outputs": ["status view", "navigation", "decision entry points"]
+    },
+    {
+      "id": "compare",
+      "name": "Compare",
+      "role": "Option and vendor comparison workspace",
+      "primary_outputs": ["side-by-side comparison", "scoring summary", "recommendation draft"]
+    },
+    {
+      "id": "intelligence",
+      "name": "Intelligence",
+      "role": "Evidence and knowledge base",
+      "primary_outputs": ["source notes", "briefings", "architecture context"]
+    },
+    {
+      "id": "kanban",
+      "name": "Kanban",
+      "role": "Work tracking and follow-up actions",
+      "primary_outputs": ["tasks", "next steps", "implementation follow-through"]
+    }
+  ],
+  "core_objects": [
+    "capability",
+    "pattern",
+    "standard",
+    "assessment",
+    "decision",
+    "evidence"
+  ],
+  "decision_statuses": [
+    "draft",
+    "under_review",
+    "needs_evidence",
+    "recommended",
+    "recommended_with_conditions",
+    "deferred",
+    "rejected",
+    "approved",
+    "implemented"
+  ]
+}
