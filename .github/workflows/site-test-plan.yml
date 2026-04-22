@@ -1,0 +1,57 @@
+name: Site Test Plan
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  content-integrity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Lint Markdown
+        uses: DavidAnson/markdownlint-cli2-action@v20
+        with:
+          globs: |
+            **/*.md
+      - name: Check links in docs and pages
+        uses: lycheeverse/lychee-action@v2
+        with:
+          fail: true
+          args: >-
+            --no-progress
+            --retry-wait-time 2
+            --max-retries 2
+            --accept 200,206,301,302,403,429
+            README.md docs/**/*.md reviews/**/*.md index.html
+
+  static-quality:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Functional smoke checks
+        run: python scripts/test_functional.py
+      - name: Accessibility baseline checks
+        run: python scripts/test_accessibility.py
+      - name: Performance budget checks
+        run: python scripts/test_performance_budget.py
+
+  security-headers:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Validate deployed headers (GitHub Pages)
+        env:
+          SITE_URL: ${{ format('https://{0}.github.io/{1}/', github.repository_owner, github.event.repository.name) }}
+        run: python scripts/check_security_headers.py
