@@ -1,0 +1,8 @@
+{
+  "patterns": [
+    {"id": "reuse-existing", "description": "Reuse existing enterprise capability before building new"},
+    {"id": "buy-over-build", "description": "Prefer vendor solutions where capability exists"},
+    {"id": "modular-design", "description": "Use modular, composable architecture"},
+    {"id": "data-driven-ui", "description": "UI rendered from data/manifest, not static HTML"}
+  ]
+}
