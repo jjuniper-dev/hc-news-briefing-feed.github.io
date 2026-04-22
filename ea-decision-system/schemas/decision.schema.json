@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Decision",
+  "type": "object",
+  "required": ["decision_id", "assessment", "outcome", "rationale"],
+  "properties": {
+    "decision_id": {"type": "string"},
+    "assessment": {"type": "string"},
+    "outcome": {
+      "type": "string",
+      "enum": ["recommend", "conditional", "defer", "reject", "approve"]
+    },
+    "rationale": {"type": "string"},
+    "evidence": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "status": {"type": "string"}
+  }
+}
