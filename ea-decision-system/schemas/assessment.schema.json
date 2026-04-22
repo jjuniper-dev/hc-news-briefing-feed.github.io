@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Assessment",
+  "type": "object",
+  "required": ["name", "options", "scores", "recommendation"],
+  "properties": {
+    "name": {"type": "string"},
+    "context": {"type": "string"},
+    "options": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "scores": {
+      "type": "object",
+      "additionalProperties": {"type": "number"}
+    },
+    "risks": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "recommendation": {"type": "string"}
+  }
+}
