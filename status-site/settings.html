@@ -112,6 +112,9 @@
     }
 
     async function decryptPayload(passphrase, payload) {
+      if (!payload || !payload.salt || !payload.iv || !payload.ciphertext) {
+        throw new Error('Saved payload is missing encryption fields.');
+      }
       const salt = base64ToBytes(payload.salt);
       const iv = base64ToBytes(payload.iv);
       const ciphertext = base64ToBytes(payload.ciphertext);
