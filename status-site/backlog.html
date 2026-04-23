@@ -44,9 +44,25 @@
       padding: 1rem 1.2rem;
       margin-bottom: 1rem;
     }
-    .badge {
-      display: inline-block;
-      background: var(--brand-soft);
+    .backlog-list {
+      list-style: none;
+      padding: 0;
+      margin: 0.75rem 0 0;
+      display: grid;
+      gap: 0.75rem;
+    }
+    .backlog-list li {
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 0.75rem;
+      background: #fff;
+    }
+    .backlog-list h2 {
+      font-size: 1.05rem;
+      margin: 0 0 0.35rem;
+    }
+    .backlog-list p {
+      margin: 0;
       border: 1px solid #99f6e4;
       color: #115e59;
       font-size: 0.8rem;
@@ -72,8 +88,21 @@
   <main>
     <article class="item">
       <span class="badge">Backlog · Proposed</span>
-      <h1>Add a universal static-site test harness via GitHub Actions</h1>
-      <p class="muted">
+      <ul class="backlog-list">
+        <li>
+          <h2>Unify Status-Site navigation links</h2>
+          <p class="muted">Standardize header links across Dashboard, Intelligence Posts, PPTX Builder, and Backlog pages so navigation order and labels are consistent everywhere.</p>
+        </li>
+        <li>
+          <h2>Add published/updated timestamps to status pages</h2>
+          <p class="muted">Show a visible “last updated” timestamp for each Status-Site page so readers can quickly confirm freshness without checking git history.</p>
+        </li>
+        <li>
+          <h2>Create reusable style tokens for Status-Site pages</h2>
+          <p class="muted">Move repeated page styles into a shared stylesheet to reduce duplication and keep typography, spacing, and colors aligned across the Status-Site app.</p>
+        </li>
+          <h2>Add a universal static-site test harness via GitHub Actions</h2>
+          <p class="muted">Implement a GitHub Actions CI workflow for linting, link checking, Python validation scripts, and optional Lighthouse checks with preview deployments for pull requests.</p>
         Implement a GitHub-native CI workflow for this repo that runs build/lint checks (HTML/CSS/JS/YAML/JSON), broken-link validation, Python validation scripts, and optional Lighthouse plus preview deploys on pull requests.
       </p>
     </article>
