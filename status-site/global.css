@@ -192,6 +192,22 @@ button:disabled {
   flex-wrap: wrap;
 }
 
+a.button-link {
+  display: inline-block;
+  border: 1px solid var(--brand);
+  background: var(--brand);
+  color: #fff;
+  padding: 0.5rem 0.8rem;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+a.button-link.secondary {
+  background: transparent;
+  color: var(--brand);
+}
+
 iframe.excalidraw-frame {
   width: 100%;
   min-height: 68vh;
