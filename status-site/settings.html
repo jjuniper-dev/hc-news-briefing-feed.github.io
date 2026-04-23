@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Encrypted Settings</title>
+  <meta name="description" content="Store local settings securely using client-side encryption.">
+  <meta property="og:title" content="Encrypted Settings">
+  <meta property="og:description" content="Store local settings securely using client-side encryption.">
+  <meta property="og:image" content="../assets/site-thumbnail.svg">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="stylesheet" href="global.css">
+  <script defer src="nav.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <nav class="site-nav" aria-label="Site navigation" data-shared-nav data-current="settings">
+      <a href="/index.html">Dashboard</a>
+      <a href="/intelligence-editor.html">Intelligence Editor</a>
+      <a href="/status-site/intelligence.html">Intelligence Posts</a>
+      <a href="/status-site/pptx-builder.html">PPTX Builder</a>
+      <a href="/status-site/diagram-lab.html">Diagram Lab</a>
+      <a href="/status-site/settings.html">Settings</a>
+      <a href="/status-site/backlog.html">Backlog</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Settings UI (Encrypted)</h1>
+      <p class="muted">Configuration is encrypted on this device with your passphrase before writing to <code>localStorage</code>.</p>
+    </section>
+
+    <section class="panel">
+      <div class="form-row">
+        <label for="passphrase">Passphrase</label>
+        <input id="passphrase" type="password" autocomplete="new-password" placeholder="Enter a passphrase used for encryption">
+      </div>
+      <div class="form-row">
+        <label for="settings-json">Settings JSON</label>
+        <textarea id="settings-json" rows="10" spellcheck="false">{
+  "theme": "teal",
+  "refreshMinutes": 15,
+  "feeds": ["weather", "security", "infrastructure"]
+}</textarea>
+      </div>
+      <div class="actions">
+        <button id="save-btn" type="button">Encrypt & Save</button>
+        <button id="load-btn" type="button" class="secondary">Load & Decrypt</button>
+      </div>
+      <p id="status" class="muted" aria-live="polite"></p>
+    </section>
+  </main>
+
+  <script>
+    const STORAGE_KEY = 'hc.status.encrypted.settings.v1';
+    const encoder = new TextEncoder();
+    const decoder = new TextDecoder();
+
+    async function deriveKey(passphrase, salt) {
+      const keyMaterial = await crypto.subtle.importKey(
+        'raw',
+        encoder.encode(passphrase),
+        'PBKDF2',
+        false,
+        ['deriveKey']
+      );
+
+      return crypto.subtle.deriveKey(
+        {
+          name: 'PBKDF2',
+          salt,
+          iterations: 150000,
+          hash: 'SHA-256'
+        },
+        keyMaterial,
+        { name: 'AES-GCM', length: 256 },
+        false,
+        ['encrypt', 'decrypt']
+      );
+    }
+
+    function bytesToBase64(bytes) {
+      return btoa(String.fromCharCode(...new Uint8Array(bytes)));
+    }
+
+    function base64ToBytes(base64) {
+      const binary = atob(base64);
+      const bytes = new Uint8Array(binary.length);
+      for (let i = 0; i < binary.length; i += 1) {
+        bytes[i] = binary.charCodeAt(i);
+      }
+      return bytes;
+    }
+
+    async function encryptPayload(passphrase, plaintext) {
+      const salt = crypto.getRandomValues(new Uint8Array(16));
+      const iv = crypto.getRandomValues(new Uint8Array(12));
+      const key = await deriveKey(passphrase, salt);
+      const ciphertext = await crypto.subtle.encrypt(
+        { name: 'AES-GCM', iv },
+        key,
+        encoder.encode(plaintext)
+      );
+
+      return {
+        salt: bytesToBase64(salt),
+        iv: bytesToBase64(iv),
+        ciphertext: bytesToBase64(ciphertext)
+      };
+    }
+
+    async function decryptPayload(passphrase, payload) {
+      const salt = base64ToBytes(payload.salt);
+      const iv = base64ToBytes(payload.iv);
+      const ciphertext = base64ToBytes(payload.ciphertext);
+      const key = await deriveKey(passphrase, salt);
+      const plaintext = await crypto.subtle.decrypt({ name: 'AES-GCM', iv }, key, ciphertext);
+      return decoder.decode(plaintext);
+    }
+
+    function setStatus(msg, isError = false) {
+      const status = document.getElementById('status');
+      status.textContent = msg;
+      status.style.color = isError ? '#b91c1c' : 'var(--muted)';
+    }
+
+    document.getElementById('save-btn').addEventListener('click', async () => {
+      const passphrase = document.getElementById('passphrase').value;
+      const jsonText = document.getElementById('settings-json').value;
+
+      if (!passphrase) {
+        setStatus('Passphrase is required before saving.', true);
+        return;
+      }
+
+      try {
+        JSON.parse(jsonText);
+        const encrypted = await encryptPayload(passphrase, jsonText);
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(encrypted));
+        setStatus('Settings encrypted and saved locally.');
+      } catch (error) {
+        setStatus(`Unable to save settings: ${error.message}`, true);
+      }
+    });
+
+    document.getElementById('load-btn').addEventListener('click', async () => {
+      const passphrase = document.getElementById('passphrase').value;
+      const saved = localStorage.getItem(STORAGE_KEY);
+
+      if (!saved) {
+        setStatus('No encrypted settings found in local storage.', true);
+        return;
+      }
+
+      if (!passphrase) {
+        setStatus('Enter passphrase to decrypt saved settings.', true);
+        return;
+      }
+
+      try {
+        const payload = JSON.parse(saved);
+        const plaintext = await decryptPayload(passphrase, payload);
+        JSON.parse(plaintext);
+        document.getElementById('settings-json').value = plaintext;
+        setStatus('Settings loaded and decrypted successfully.');
+      } catch (error) {
+        setStatus(`Unable to decrypt settings: ${error.message}`, true);
+      }
+    });
+  </script>
+</body>
+</html>
