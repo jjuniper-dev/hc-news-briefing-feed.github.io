@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">HC News Briefing Feed</title>
+  <desc id="desc">Static site thumbnail for health dashboard, intelligence posts, and backlog pages.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="70" y="90" width="1060" height="450" rx="22" fill="#ffffff" fill-opacity="0.1" stroke="#ccfbf1" stroke-opacity="0.5"/>
+  <text x="110" y="220" fill="#ecfeff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="700">
+    HC News Briefing Feed
+  </text>
+  <text x="110" y="300" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34">
+    Dashboard • Intelligence • Backlog
+  </text>
+  <text x="110" y="380" fill="#ccfbf1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28">
+    Continuous quality checks with GitHub Actions
+  </text>
+</svg>
