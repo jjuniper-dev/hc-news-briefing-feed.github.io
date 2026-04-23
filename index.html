@@ -10,52 +10,58 @@
   <meta property="og:image" content="assets/site-thumbnail.svg">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
+  <link rel="stylesheet" href="status-site/global.css">
+  <script defer src="status-site/nav.js"></script>
   <style>
-    body { font-family: sans-serif; margin: 2rem; }
     table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
     th, td { border: 1px solid #ccc; padding: 0.5rem; text-align: left; }
     th { background: #f0f0f0; }
     .good { color: green; }
-    .warn { color: orange; }
-    .bad  { color: red; }
+    .warn { color: #b45309; }
+    .bad  { color: #b91c1c; }
     #uptime-list { margin-top: 1rem; list-style: none; padding: 0; }
     #uptime-list li { margin-bottom: 0.5rem; }
-    .site-nav { margin-bottom: 1rem; }
-    .site-nav a { margin-right: 0.75rem; color: #0f766e; font-weight: 600; text-decoration: none; }
-    .site-nav a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
-  <h1>RSS Feed Health Dashboard</h1>
-  <p><a href="intelligence-editor.html">Open Intelligence Editor</a></p>
-  <p><a href="status-site/intelligence.html">Open Intelligence Posts</a></p>
-  <p><a href="status-site/backlog.html">Open Status-Site Backlog</a></p>
-  <p>Showing status for the last five days (hover for details).</p>
-  <p><a href="status-site/pptx-builder.html">Open HC PPTX Builder workflow</a></p>
-  <nav class="site-nav" aria-label="Site navigation">
-    <a href="index.html">Dashboard</a>
-    <a href="status-site/intelligence.html">Intelligence Posts</a>
-    <a href="status-site/pptx-builder.html">PPTX Builder</a>
-    <a href="status-site/backlog.html">Backlog</a>
-    <a href="reviews/hc-pptx-workflow-assessment.md">Assessment</a>
-    <a href="reviews/hc-pptx-workflow-refactor.md">Refactor</a>
-    <a href="reviews/hc-pptx-compliance-checklist.md">Checklist</a>
-  </nav>
-  <table id="health-table">
-    <thead>
-      <tr><th>Date</th><th>Feed</th><th>Status</th></tr>
-    </thead>
-    <tbody></tbody>
-  </table>
+  <header class="site-header">
+    <nav class="site-nav" aria-label="Site navigation" data-shared-nav data-current="dashboard">
+      <a href="/index.html">Dashboard</a>
+      <a href="/intelligence-editor.html">Intelligence Editor</a>
+      <a href="/status-site/intelligence.html">Intelligence Posts</a>
+      <a href="/status-site/pptx-builder.html">PPTX Builder</a>
+      <a href="/status-site/diagram-lab.html">Diagram Lab</a>
+      <a href="/status-site/settings.html">Settings</a>
+      <a href="/status-site/backlog.html">Backlog</a>
+    </nav>
+  </header>
 
-  <h2>Canadian Feed Uptime (past 7 days)</h2>
-  <ul id="uptime-list"></ul>
+  <main>
+    <section class="hero">
+      <h1>RSS Feed Health Dashboard</h1>
+      <p class="muted">Showing status for the last five days (hover for details).</p>
+    </section>
+
+    <section class="panel">
+      <h2>Feed Status (last 5 days)</h2>
+      <table id="health-table">
+        <thead>
+          <tr><th>Date</th><th>Feed</th><th>Status</th></tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+
+    <section class="panel">
+      <h2>Canadian Feed Uptime (past 7 days)</h2>
+      <ul id="uptime-list"></ul>
+    </section>
+  </main>
 
   <script>
     document.addEventListener('DOMContentLoaded', async () => {
       const baseURL = 'https://jjuniper-dev.github.io/hc-news-briefing-feed.github.io/';
 
-      // Load health.json and populate health table
       try {
         const res = await fetch(baseURL + 'health.json');
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -65,50 +71,42 @@
           for (const [name, status] of Object.entries(feeds)) {
             const tr = document.createElement('tr');
             const cls = status.startsWith('ERROR') ? 'bad'
-                      : status === 'ZERO'      ? 'warn'
+                      : status === 'ZERO' ? 'warn'
                       : 'good';
-            tr.innerHTML = `
-              <td>${date}</td>
-              <td>${name}</td>
-              <td class="${cls}" title="${status}">${status}</td>
-            `;
+            tr.innerHTML = `<td>${date}</td><td>${name}</td><td class="${cls}" title="${status}">${status}</td>`;
             tbody.appendChild(tr);
           }
         }
       } catch (err) {
-        console.error('Failed to load health.json:', err);
         const tbody = document.querySelector('#health-table tbody');
         const tr = document.createElement('tr');
         tr.innerHTML = `<td colspan="3" class="bad">Error loading data: ${err.message}</td>`;
         tbody.appendChild(tr);
       }
 
-      // Load uptime.json and compute uptime percentages
       try {
         const res2 = await fetch(baseURL + 'uptime.json');
         if (!res2.ok) throw new Error(`HTTP ${res2.status}`);
         const records = await res2.json();
         const total = records.length;
         const success = {};
-        // Initialize counters
         if (total > 0) {
-          Object.keys(records[0]).filter(k => k !== 'timestamp').forEach(feed => success[feed] = 0);
+          Object.keys(records[0]).filter((k) => k !== 'timestamp').forEach((feed) => success[feed] = 0);
         }
-        records.forEach(r => {
+        records.forEach((r) => {
           Object.entries(r).forEach(([feed, ok]) => {
-            if (feed === 'timestamp') return;
-            if (ok) success[feed]++;
+            if (feed !== 'timestamp' && ok) success[feed]++;
           });
         });
+
         const ul = document.getElementById('uptime-list');
         Object.entries(success).forEach(([feed, count]) => {
-          const pct = total ? Math.round(count / total * 100) : 0;
+          const pct = total ? Math.round((count / total) * 100) : 0;
           const li = document.createElement('li');
           li.textContent = `${feed}: ${pct}% (${count}/${total} pings OK)`;
           ul.appendChild(li);
         });
       } catch (err) {
-        console.error('Failed to load uptime.json:', err);
         const ul = document.getElementById('uptime-list');
         const li = document.createElement('li');
         li.className = 'bad';

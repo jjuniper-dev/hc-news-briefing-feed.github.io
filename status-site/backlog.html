@@ -10,97 +10,19 @@
   <meta property="og:image" content="../assets/site-thumbnail.svg">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
-  <style>
-    :root {
-      --bg: #f8fafc;
-      --panel: #fff;
-      --text: #111827;
-      --muted: #4b5563;
-      --border: #d1d5db;
-      --brand: #0f766e;
-      --brand-soft: #ccfbf1;
-    }
-    body {
-      margin: 0;
-      font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      line-height: 1.55;
-    }
-    header {
-      background: var(--panel);
-      border-bottom: 1px solid var(--border);
-      padding: 1rem 1.5rem;
-    }
-    .nav a {
-      color: var(--brand);
-      text-decoration: none;
-      margin-right: 1rem;
-      font-weight: 600;
-    }
-    .nav a:hover,
-    .nav a:focus-visible {
-      text-decoration: underline;
-      text-underline-offset: 2px;
-    }
-    main {
-      max-width: 1000px;
-      margin: 1.25rem auto;
-      padding: 0 1rem 2rem;
-    }
-    .item {
-      background: var(--panel);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 1rem 1.2rem;
-      margin-bottom: 1rem;
-    }
-    .backlog-list {
-      list-style: none;
-      padding: 0;
-      margin: 0.75rem 0 0;
-      display: grid;
-      gap: 0.75rem;
-    }
-    .backlog-list li {
-      border: 1px solid var(--border);
-      border-radius: 10px;
-      padding: 0.75rem;
-      background: #fff;
-    }
-    .backlog-list h2 {
-      font-size: 1.05rem;
-      margin: 0 0 0.35rem;
-    }
-    .backlog-list p {
-      margin: 0;
-      color: var(--muted);
-      font-size: 0.95rem;
-    }
-    .badge {
-      display: inline-block;
-      border: 1px solid #99f6e4;
-      color: #115e59;
-      font-size: 0.8rem;
-      font-weight: 700;
-      border-radius: 999px;
-      padding: 0.2rem 0.6rem;
-      margin-bottom: 0.5rem;
-      background: #f0fdfa;
-    }
-    .muted {
-      color: var(--muted);
-    }
-  </style>
+  <link rel="stylesheet" href="global.css">
+  <script defer src="nav.js"></script>
 </head>
 <body>
-  <header>
-    <nav class="nav" aria-label="Site navigation">
-      <a href="../index.html">Dashboard</a>
-      <a href="../intelligence-editor.html">Intelligence Editor</a>
-      <a href="../status-site/intelligence.html">Intelligence Posts</a>
-      <a href="../status-site/pptx-builder.html">PPTX Builder</a>
-      <a href="backlog.html" aria-current="page">Backlog</a>
+  <header class="site-header">
+    <nav class="site-nav" aria-label="Site navigation" data-shared-nav data-current="backlog">
+      <a href="/index.html">Dashboard</a>
+      <a href="/intelligence-editor.html">Intelligence Editor</a>
+      <a href="/status-site/intelligence.html">Intelligence Posts</a>
+      <a href="/status-site/pptx-builder.html">PPTX Builder</a>
+      <a href="/status-site/diagram-lab.html">Diagram Lab</a>
+      <a href="/status-site/settings.html">Settings</a>
+      <a href="/status-site/backlog.html">Backlog</a>
     </nav>
   </header>
 
@@ -121,8 +43,12 @@
           <p class="muted">Move repeated page styles into a shared stylesheet to reduce duplication and keep typography, spacing, and colors aligned across the Status-Site app.</p>
         </li>
         <li>
-          <h2>Add a universal static-site test harness via GitHub Actions</h2>
-          <p class="muted">Implement a GitHub Actions CI workflow for linting, link checking, Python validation scripts, and optional Lighthouse checks with preview deployments for pull requests.</p>
+          <h2>Add Excalidraw Diagram Lab prototype page</h2>
+          <p class="muted">Add an embedded Excalidraw workspace for rapid architecture sketching and include nav routing for quick access.</p>
+        </li>
+        <li>
+          <h2>Add encrypted Settings UI prototype</h2>
+          <p class="muted">Create a client-side settings page that stores and loads encrypted JSON payloads from localStorage using Web Crypto APIs.</p>
         </li>
       </ul>
     </article>

@@ -10,69 +10,19 @@
   <meta property="og:image" content="../assets/site-thumbnail.svg">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
-  <style>
-    :root {
-      --bg: #f8fafc;
-      --panel: #fff;
-      --text: #111827;
-      --muted: #4b5563;
-      --border: #d1d5db;
-      --brand: #0f766e;
-      --alert: #7f1d1d;
-      --alert-bg: #fee2e2;
-    }
-    body {
-      margin: 0;
-      font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      line-height: 1.55;
-    }
-    header {
-      background: var(--panel);
-      border-bottom: 1px solid var(--border);
-      padding: 1rem 1.5rem;
-    }
-    .nav a {
-      color: var(--brand);
-      text-decoration: none;
-      margin-right: 1rem;
-      font-weight: 600;
-    }
-    .nav a:hover,
-    .nav a:focus-visible {
-      text-decoration: underline;
-      text-underline-offset: 2px;
-    }
-    main {
-      max-width: 1000px;
-      margin: 1.25rem auto;
-      padding: 0 1rem 2rem;
-    }
-    .post {
-      background: var(--panel);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 1rem 1.2rem;
-      margin-bottom: 1rem;
-    }
-    .muted { color: var(--muted); }
-    .alert {
-      border-left: 4px solid var(--alert);
-      background: var(--alert-bg);
-      padding: .75rem;
-      border-radius: 8px;
-    }
-  </style>
+  <link rel="stylesheet" href="global.css">
+  <script defer src="nav.js"></script>
 </head>
 <body>
-  <header>
-    <nav class="nav" aria-label="Site navigation">
-      <a href="../index.html">Dashboard</a>
-      <a href="../intelligence-editor.html">Intelligence Editor</a>
-      <a href="intelligence.html" aria-current="page">Intelligence Posts</a>
-      <a href="../status-site/pptx-builder.html">PPTX Builder</a>
-      <a href="../status-site/backlog.html">Backlog</a>
+  <header class="site-header">
+    <nav class="site-nav" aria-label="Site navigation" data-shared-nav data-current="posts">
+      <a href="/index.html">Dashboard</a>
+      <a href="/intelligence-editor.html">Intelligence Editor</a>
+      <a href="/status-site/intelligence.html">Intelligence Posts</a>
+      <a href="/status-site/pptx-builder.html">PPTX Builder</a>
+      <a href="/status-site/diagram-lab.html">Diagram Lab</a>
+      <a href="/status-site/settings.html">Settings</a>
+      <a href="/status-site/backlog.html">Backlog</a>
     </nav>
   </header>
 
