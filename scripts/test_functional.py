@@ -13,6 +13,7 @@ REQUIRED_FILES = [
     ROOT / "intelligence-editor.html",
     ROOT / "status-site" / "intelligence.html",
     ROOT / "status-site" / "pptx-builder.html",
+    ROOT / "status-site" / "backlog.html",
 ]
 
 
