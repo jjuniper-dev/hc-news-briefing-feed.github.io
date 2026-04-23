@@ -27,13 +27,11 @@ jobs:
 
       - name: Install Python dependencies
         run: |
-          pip install pyyaml requests openai
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-      - name: List repository contents
-        run: ls -R .
-
-      - name: Run RSS feed tests
-        run: python test_feeds.py
+      - name: Run Phase 1 checks
+        run: python scripts/run_phase1_checks.py
 
       - name: Commit updated health.json
         uses: EndBug/add-and-commit@v9

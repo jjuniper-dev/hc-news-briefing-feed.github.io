@@ -70,8 +70,11 @@ GROUPED_FEEDS = {
     ]
 }
 
-# Initialize summarizer once
-summarizer = pipeline("summarization")
+# Initialize summarizer once; gracefully degrade if model/task is unavailable
+try:
+    summarizer = pipeline("summarization")
+except Exception:
+    summarizer = None
 
 # Helper to strip HTML
 TAG_RE = re.compile(r'<[^>]+>')
@@ -86,6 +89,8 @@ def ai_summary(text):
     # Longer summary: up to 250 tokens, min 80
     max_len = min(len(words), 250)
     max_len = max(max_len, 80)
+    if summarizer is None:
+        return text
     try:
         result = summarizer(text, max_length=max_len, min_length=80, do_sample=False)
         return result[0]['summary_text'].strip()
