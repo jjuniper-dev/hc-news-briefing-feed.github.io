@@ -32,6 +32,11 @@
       margin-right: 1rem;
       font-weight: 600;
     }
+    .nav a:hover,
+    .nav a:focus-visible {
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
     main {
       max-width: 1000px;
       margin: 1.25rem auto;
@@ -63,6 +68,11 @@
     }
     .backlog-list p {
       margin: 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+    .badge {
+      display: inline-block;
       border: 1px solid #99f6e4;
       color: #115e59;
       font-size: 0.8rem;
@@ -70,8 +80,11 @@
       border-radius: 999px;
       padding: 0.2rem 0.6rem;
       margin-bottom: 0.5rem;
+      background: #f0fdfa;
     }
-    .muted { color: var(--muted); }
+    .muted {
+      color: var(--muted);
+    }
   </style>
 </head>
 <body>
@@ -81,7 +94,7 @@
       <a href="../intelligence-editor.html">Intelligence Editor</a>
       <a href="../status-site/intelligence.html">Intelligence Posts</a>
       <a href="../status-site/pptx-builder.html">PPTX Builder</a>
-      <a href="../status-site/backlog.html">Backlog</a>
+      <a href="backlog.html" aria-current="page">Backlog</a>
     </nav>
   </header>
 
@@ -101,10 +114,11 @@
           <h2>Create reusable style tokens for Status-Site pages</h2>
           <p class="muted">Move repeated page styles into a shared stylesheet to reduce duplication and keep typography, spacing, and colors aligned across the Status-Site app.</p>
         </li>
+        <li>
           <h2>Add a universal static-site test harness via GitHub Actions</h2>
           <p class="muted">Implement a GitHub Actions CI workflow for linting, link checking, Python validation scripts, and optional Lighthouse checks with preview deployments for pull requests.</p>
-        Implement a GitHub-native CI workflow for this repo that runs build/lint checks (HTML/CSS/JS/YAML/JSON), broken-link validation, Python validation scripts, and optional Lighthouse plus preview deploys on pull requests.
-      </p>
+        </li>
+      </ul>
     </article>
   </main>
 </body>
