@@ -42,6 +42,44 @@ CANChat is where users interact with AI today.
 It is not yet how systems integrate AI.
 `;
 
+  const GLMV_UI_TEMPLATE = `# GLM-V — UI Usability Brief
+Date: 2026-04-24
+Update Type: capability-update
+Version: v0.1
+Change Log:
+- Initial GLM-V UI assessment draft
+
+## Executive Signal
+GLM-V can add value to UI-heavy workflows when visual reasoning and screenshot-aware analysis are required, but teams should treat it as a targeted capability rather than a default model.
+
+## UI Use Cases to Validate
+- Screenshot understanding for bug triage and UX review
+- Layout comprehension for form flows and dashboard navigation
+- Visual + text grounding for interface documentation support
+
+## Evaluation Checklist
+### 1) Task Fit
+- Does GLM-V correctly identify key UI elements?
+- Can it summarize user flows from a single screen and from multi-step screenshots?
+
+### 2) Quality
+- Accuracy on labels, table headers, status chips, and chart legends
+- Hallucination rate when elements are ambiguous or partially visible
+
+### 3) Operational Readiness
+- Latency acceptable for analyst workflows
+- Privacy/security handling for screenshots with sensitive data
+- Traceability of findings for briefing use
+
+## Risks / Constraints
+- Screenshot quality and cropping strongly affect output quality
+- Small text and dense dashboards can reduce extraction fidelity
+- Human review is required before publishing UI conclusions
+
+## Bottom Line
+Use GLM-V as a specialist model for visual UI analysis, with explicit guardrails and a human-in-the-loop review step.
+`;
+
   class MarkdownProcessor {
     constructor(previewSelector) {
       this.preview = document.querySelector(previewSelector);
@@ -115,6 +153,7 @@ It is not yet how systems integrate AI.
     const editorElement = document.querySelector('#intelligence-markdown-editor');
     const previewButton = document.querySelector('#btn-preview');
     const loadTemplateButton = document.querySelector('#btn-load-canchat-template');
+    const loadGlmvTemplateButton = document.querySelector('#btn-load-glmv-template');
     const updateTypeSelect = document.querySelector('#update-type');
     const briefDateInput = document.querySelector('#brief-date');
     const versionInput = document.querySelector('#brief-version');
@@ -162,6 +201,11 @@ It is not yet how systems integrate AI.
 
     loadTemplateButton?.addEventListener('click', () => {
       editorElement.value = CANCHAT_TEMPLATE;
+      syncHeaderFields();
+      markdownProcessor.process(editorElement.value);
+    });
+    loadGlmvTemplateButton?.addEventListener('click', () => {
+      editorElement.value = GLMV_UI_TEMPLATE;
       syncHeaderFields();
       markdownProcessor.process(editorElement.value);
     });
