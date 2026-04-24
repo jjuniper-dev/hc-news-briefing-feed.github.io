@@ -1,0 +1,10 @@
+{
+  "title": "Target Architecture",
+  "columns": [
+    ["Mission Users", "Field Teams", "Partner Inputs"],
+    ["Secure Gateway 2", "Microsoft Entra ID", "Access Policies"],
+    ["Unified Portal", "Copilot UI", "Workflow Hub"],
+    ["AI Orchestration", "Model Services", "Outcomes"]
+  ],
+  "overlays": ["Security / ATO", "FinOps"]
+}

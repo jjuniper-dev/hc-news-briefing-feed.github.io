@@ -1,0 +1,10 @@
+{
+  "title": "Enterprise AI Infrastructure",
+  "columns": [
+    ["Enterprise Users", "Ops Teams", "External Signals"],
+    ["Secure Gateway 2", "Microsoft Entra ID", "Network Access"],
+    ["API Gateway", "App Services", "Monitoring"],
+    ["AI Platform", "Compute Cluster", "Business Outcomes"]
+  ],
+  "overlays": ["Security / ATO", "FinOps"]
+}

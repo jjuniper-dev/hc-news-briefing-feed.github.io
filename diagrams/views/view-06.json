@@ -1,0 +1,10 @@
+{
+  "title": "Use Case Pattern",
+  "columns": [
+    ["Case Intake", "Investigator", "Documents"],
+    ["Secure Gateway 2", "Microsoft Entra ID", "Role Mapping"],
+    ["Case App", "Knowledge Search", "Review Queue"],
+    ["Entity Extraction", "Risk Scoring", "Action Plan"]
+  ],
+  "overlays": ["Privacy"]
+}

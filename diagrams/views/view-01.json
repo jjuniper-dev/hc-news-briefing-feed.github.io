@@ -1,0 +1,10 @@
+{
+  "title": "Baseline",
+  "columns": [
+    ["Program Staff", "Analysts", "Partner Data"],
+    ["Secure Gateway 2", "Microsoft Entra ID", "API Proxy"],
+    ["Case Portal", "Workflow App", "Search UI"],
+    ["Rules Engine", "AI Assist", "Decisions"]
+  ],
+  "overlays": ["Security / ATO"]
+}

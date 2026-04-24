@@ -1,0 +1,10 @@
+{
+  "title": "AI Execution Flow",
+  "columns": [
+    ["User Prompt", "Context Data", "Task Input"],
+    ["Secure Gateway 2", "Microsoft Entra ID", "Token Exchange"],
+    ["Prompt Service", "Tool Calls", "Session State"],
+    ["Model Runtime", "Guardrails", "AI Output"]
+  ],
+  "overlays": ["Security / ATO", "FinOps"]
+}

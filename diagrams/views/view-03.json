@@ -1,0 +1,10 @@
+{
+  "title": "Identity & Access",
+  "columns": [
+    ["Users", "Service Accounts", "External Apps"],
+    ["Secure Gateway 2", "Microsoft Entra ID", "Conditional Access", "MFA"],
+    ["App Access", "Session Control", "Audit Trail"],
+    ["Policy Decisions", "Risk Signals", "Access Outcomes"]
+  ],
+  "overlays": ["Security / ATO", "Privacy"]
+}
