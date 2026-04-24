@@ -1,0 +1,10 @@
+{
+  "title": "Data Governance",
+  "columns": [
+    ["Source Systems", "Partner Feeds", "Manual Uploads"],
+    ["Secure Gateway 2", "Microsoft Entra ID", "Data Access"],
+    ["Catalog", "Lineage", "Quality Checks"],
+    ["Policy Engine", "Retention", "Governed Use"]
+  ],
+  "overlays": ["Purview", "Privacy"]
+}

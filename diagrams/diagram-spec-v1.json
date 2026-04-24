@@ -1,0 +1,31 @@
+{
+  "version": "v1",
+  "canvas": {
+    "ratio": "16:9",
+    "background": "#F4F6F7",
+    "margin": 0.45
+  },
+  "palette": {
+    "structure": "#2F6F73",
+    "components": "#6FAFB3",
+    "accent": "#A6CE39",
+    "background": "#F4F6F7",
+    "text": "#1F2A30"
+  },
+  "layout": {
+    "columns": 4,
+    "max_items_per_column": 4,
+    "flow": "left-to-right",
+    "bottom_layer": {
+      "title": "Enterprise Data Platform",
+      "items": ["Data Pipelines", "Data Products", "Analytics"]
+    }
+  },
+  "rules": {
+    "no_gradients": true,
+    "no_shadows": true,
+    "no_decorative_elements": true,
+    "short_labels_only": true,
+    "allow_overlays": true
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Governance Model",
+  "columns": [
+    ["Business Owners", "Data Stewards", "AI Owners"],
+    ["Secure Gateway 2", "Microsoft Entra ID", "Control Plane"],
+    ["Policy Board", "Control Catalog", "Compliance Ops"],
+    ["Approval Flow", "Control Evidence", "Governed Outcomes"]
+  ],
+  "overlays": ["Purview", "Security / ATO", "Privacy", "FinOps"]
+}
