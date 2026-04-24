@@ -28,6 +28,42 @@
 
   <main>
     <article class="post">
+      <h1>GREP-ExP on HAIL — Operational Signal and FY26-27 Risk</h1>
+      <p class="muted"><strong>Date:</strong> 2026-04-22 · <strong>Type:</strong> Program intelligence / governance gate</p>
+
+      <h2>What GREP-ExP is</h2>
+      <p>GREP-ExP (Global Repository of Epidemiological Parameters – Extraction of Parameters) is a WHO-focused, LLM-enabled literature review pipeline running as an SDAID/SDSE pilot on HAIL.</p>
+
+      <h2>How it works (focused)</h2>
+      <ul>
+        <li>Search + dedup from major biomedical sources (API driven).</li>
+        <li>Agentic screening with disagreement logic: screening agent, critical agent, ensemble vote, then human review for hard cases only.</li>
+        <li>Output is structured epidemiological parameter extraction for downstream use.</li>
+      </ul>
+
+      <h2>Why this matters</h2>
+      <p>This is a practical L3/L4-style agentic AI example: multi-agent orchestration, human-in-the-loop controls, and operational deployment on HAIL.</p>
+
+      <h2>Current platform signal (Mar 2026 closeout)</h2>
+      <ul>
+        <li>Delivery status and spending are on target; migration to HAIL completed.</li>
+        <li>Primary risk is governance, not model quality: <strong>ATO has not been initiated</strong>.</li>
+      </ul>
+
+      <h2>Critical FY26-27 gate</h2>
+      <div class="alert">
+        Without ATO initiation and enterprise governance decisions, HAIL workloads cannot be treated as production-ready.
+      </div>
+
+      <h2>Immediate EA actions</h2>
+      <ol>
+        <li>Escalate ATO gap into EA governance queue before FY26-27 planning lock.</li>
+        <li>Add GREP-ExP as a concrete L3/L4 example in AI capability mapping.</li>
+        <li>Draft ADR for HAIL-to-production ownership, operations model, and trust boundary.</li>
+      </ol>
+    </article>
+
+    <article class="post">
       <h1>PATH/HAIL Convergence — Framing Correction</h1>
       <p class="muted"><strong>Date:</strong> 2026-04-21 · <strong>Type:</strong> Operational signal / governance gap</p>
 
