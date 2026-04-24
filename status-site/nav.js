@@ -30,7 +30,13 @@
     }
 
     const path = window.location.pathname;
-    const target = mount.querySelector(`a[href$="${path}"]`);
+    const target = Array.from(mount.querySelectorAll('a[href]')).find((link) => {
+      try {
+        return new URL(link.getAttribute('href'), window.location.origin).pathname === path;
+      } catch (_) {
+        return false;
+      }
+    });
     if (target) target.setAttribute('aria-current', 'page');
   }
 
