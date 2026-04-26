@@ -164,24 +164,26 @@ This document expands the major categories from the DataCamp article on 100+ age
 
 ## Installation snippets
 
+> Canonical skill repository target for this project: `jjuniper-dev/skills`
+
 ### A) Generic Codex-style skill install from GitHub path
 ```bash
 python /opt/codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
-  --repo mattpocock/skills \
+  --repo jjuniper-dev/skills \
   --path <skill-folder>
 ```
 
 ### B) Install multiple in one go
 ```bash
 python /opt/codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
-  --repo mattpocock/skills \
+  --repo jjuniper-dev/skills \
   --path repo-ranger debug-pro unit-test-gen
 ```
 
 ### C) URL-based install
 ```bash
 python /opt/codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
-  --url https://github.com/mattpocock/skills/tree/main/<skill-folder>
+  --url https://github.com/jjuniper-dev/skills/tree/main/<skill-folder>
 ```
 
 ---
@@ -232,3 +234,4 @@ python /opt/codex/skills/.system/skill-installer/scripts/install-skill-from-gith
 ## Notes
 - Treat this as a practical taxonomy and implementation blueprint.
 - Enable high-risk skills (security/infra/finance) with explicit human approval gates.
+- Yes — publish and maintain these skills in `https://github.com/jjuniper-dev/skills` so installation paths and governance stay consistent.
